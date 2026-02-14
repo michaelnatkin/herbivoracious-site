@@ -1,0 +1,77 @@
+{
+  "comment_count": 8,
+  "comments": [
+    {
+      "id": "3694",
+      "author": "Lauren",
+      "author_url": "http://parsnipsaplenty.wordpress.com/",
+      "date": "2008-03-25 04:23:19",
+      "content": "Hello, dinner!  Can't wait to try this out.  I'm going to go soak the lentils now.",
+      "parent": "0",
+      "gravatar_hash": "e223331f5ea5e407c7727e8d87195cc1"
+    },
+    {
+      "id": "3695",
+      "author": "Christine",
+      "author_url": "http://www.blendersgalore.com",
+      "date": "2008-03-28 04:46:44",
+      "content": "Hello, thanks for the wonderful email and checking out my blog!  We are having fun with it and it is wonderful that so many people like to participate.  Urad dal patties will make a wonderful meal for me and a new recipe to try out.  If I can't find an Indian grocery do you know of a site that I can purchase these things from?  Thanks!",
+      "parent": "0",
+      "gravatar_hash": "cf3c9c16546cc108ff99c6117f8f2b2b"
+    },
+    {
+      "id": "3696",
+      "author": "Michael Natkin",
+      "author_url": "",
+      "date": "2008-03-28 07:41:31",
+      "content": "Sure! I've added an Amazon link in the first paragraph of the article if you can't find an Indian grocery.",
+      "parent": "0",
+      "gravatar_hash": "a52f8f9146768ce0dc36a285e4c4d38d"
+    },
+    {
+      "id": "3697",
+      "author": "Sarah",
+      "author_url": "",
+      "date": "2008-07-26 17:31:43",
+      "content": "This is literally one of the worst recipes I have ever tried to make. The seasoning is fine, but the consistency of the mix makes it nearly impossible to fry. Uncooked, the bean paste is very sticky and gummy. When it hits the oil, it loses all cohesion, disintegrating into gross, half-fried mushy piles when I attempted to flip it. Don't cook this; it's not worth the effort.",
+      "parent": "0",
+      "gravatar_hash": ""
+    },
+    {
+      "id": "3698",
+      "author": "Michael Natkin",
+      "author_url": "https://herbivoracious.com",
+      "date": "2008-07-26 18:16:30",
+      "content": "Hi Sarah - I'm sorry to hear that the recipe didn't work out for you. Thanks for letting me know. You can see from the picture above how it has always cooked up, reliably, for me. I'm not completely sure what went wrong for you. Maybe the batter was too wet? The right texture for the uncooked batter is quite thick and dry but fluffy. Did you definitely use the right kind of dal?",
+      "parent": "0",
+      "gravatar_hash": "a52f8f9146768ce0dc36a285e4c4d38d"
+    },
+    {
+      "id": "19226",
+      "author": "Hughbert",
+      "author_url": "",
+      "date": "2012-02-15 02:34:26",
+      "content": "I had the same problem as Sarah.  The dal is quite moist after soaking for so long, and adding 11 tablespoons of water turns it into a runny liquid.  We added plain flour to thicken the mix, which sort of worked.",
+      "parent": "0",
+      "gravatar_hash": "2c33d982a4ac7bf599fb5826a16457cf"
+    },
+    {
+      "id": "19232",
+      "author": "Michael Natkin",
+      "author_url": "https://herbivoracious.com",
+      "date": "2012-02-15 07:20:51",
+      "content": "Hey Hughbert - did you drain the dal well at step 2? I've made this recipe and ones like it a few times and never had a problem. I'll add a note to the grinding step to potentially use less water if it seems too runny, since we don't really know why some folks are getting different results.",
+      "parent": "19226",
+      "gravatar_hash": "a52f8f9146768ce0dc36a285e4c4d38d"
+    },
+    {
+      "id": "1264351",
+      "author": "Laine",
+      "author_url": "",
+      "date": "2015-03-01 10:35:40",
+      "content": "That recipe is so good I made it two days in a row! I didn't us as much water as you called for; I rather watched the consistency. I probably used at least half as much. I'll be following you!",
+      "parent": "0",
+      "gravatar_hash": "f704e8f5d642ae7a2778c87b0bf92224"
+    }
+  ]
+}

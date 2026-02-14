@@ -1,0 +1,59 @@
+{
+  "comment_count": 6,
+  "comments": [
+    {
+      "id": "30373",
+      "author": "Marina@Picnic at Marina",
+      "author_url": "http://www.picnicatmarina.com",
+      "date": "2012-06-25 06:15:41",
+      "content": "That meal definitely tastes great, with all garlic-lemon-parsley-tarragon flavor! I wouldn't even use ricotta, just the gremolata and garlic. Beautiful presentation on a lovely Italian (?) plate. Have you made orecchiette? I'd like to try to make it from scratch (well, no other options available for me here), but haven't find a recipe yet. I watch a video how to form it, but no recipe of flour/water proportion. I heard it's different from a regular pasta, is it? Have a great week, Michael!",
+      "parent": "0",
+      "gravatar_hash": "8e1565ea2a6e22a58f9d461f2938c35d"
+    },
+    {
+      "id": "30380",
+      "author": "Michael Natkin",
+      "author_url": "https://herbivoracious.com",
+      "date": "2012-06-25 06:32:38",
+      "content": "Hey Marina - nope, I haven't made fresh orecchiette from scratch. Here's a promising looking recipe from Smitten Kitchen: http://smittenkitchen.com/2006/12/little-ears-big-chew/ though.",
+      "parent": "0",
+      "gravatar_hash": "a52f8f9146768ce0dc36a285e4c4d38d"
+    },
+    {
+      "id": "30596",
+      "author": "Marina@Picnic at Marina",
+      "author_url": "http://www.picnicatmarina.com",
+      "date": "2012-06-25 20:58:15",
+      "content": "Thanks Michael!",
+      "parent": "30380",
+      "gravatar_hash": "8e1565ea2a6e22a58f9d461f2938c35d"
+    },
+    {
+      "id": "32647",
+      "author": "Vegan",
+      "author_url": "http://www.sevenpoint2.com/",
+      "date": "2012-07-01 21:28:13",
+      "content": "Such a perfect, fresh combination! garlic scapes, ricotta, and gremolata, together at last. This dish was really enjoyable!",
+      "parent": "0",
+      "gravatar_hash": "bda7603876252c69c15f63b58a0bf6f0"
+    },
+    {
+      "id": "36175",
+      "author": "Maureen",
+      "author_url": "http://oolongrouge.wordpress.com/",
+      "date": "2012-07-10 07:38:55",
+      "content": "I got all excited, thinking that orechiette sure looked like whole grain.....but you don't mention it in your recipe.  Are you holding out on us, Michael?  I'd love to find some!",
+      "parent": "0",
+      "gravatar_hash": "cf04f23408ff49d51b8a5d39a457a25b"
+    },
+    {
+      "id": "36178",
+      "author": "Michael Natkin",
+      "author_url": "https://herbivoracious.com",
+      "date": "2012-07-10 08:15:20",
+      "content": "Nope, regular white flour orecchiette. I've frankly never found a whole-grain pasta that I think is good. Every few years someone will tell me they have found a brand that is \"just like\" the real thing, and I try it and the texture is all wrong.",
+      "parent": "36175",
+      "gravatar_hash": "a52f8f9146768ce0dc36a285e4c4d38d"
+    }
+  ]
+}

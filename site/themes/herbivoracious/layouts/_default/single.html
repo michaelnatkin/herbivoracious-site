@@ -1,0 +1,77 @@
+{{ define "main" }}
+<div class="site-content">
+  <main class="main-content">
+    <article>
+      {{ $img := "" }}
+      {{ with .Params.cover }}{{ with .image }}{{ $img = . }}{{ end }}{{ end }}
+
+      {{/* Extract caption and strip duplicate leading image from content */}}
+      {{ $content := .Content }}
+      {{ $caption := "" }}
+      {{ if $img }}
+        {{/* Match leading image (optionally in <p> and/or <a>) followed by <em>caption</em> */}}
+        {{ $withCaption := findRE `^\s*(?:<p>\s*)?(?:<a[^>]*>)?\s*<img[^>]*/?>\s*(?:</a>)?\s*<em>[^<]+</em>\s*(?:</p>)?` $content 1 }}
+        {{ if $withCaption }}
+          {{ $block := index $withCaption 0 }}
+          {{ $emTags := findRE `<em>[^<]+</em>` $block 1 }}
+          {{ if $emTags }}
+            {{ $caption = index $emTags 0 | replaceRE `</?em>` "" }}
+          {{ end }}
+          {{ $content = replace $content $block "" 1 }}
+        {{ else }}
+          {{/* Strip leading image without caption (optionally in <p> and/or <a>) */}}
+          {{ $justImg := findRE `^\s*(?:<p>\s*)?(?:<a[^>]*>)?\s*<img[^>]*/?>\s*(?:</a>)?\s*(?:</p>)?` $content 1 }}
+          {{ if $justImg }}
+            {{ $content = replace $content (index $justImg 0) "" 1 }}
+          {{ end }}
+        {{ end }}
+      {{ end }}
+
+      {{ if $img }}
+      <div class="single-cover">
+        <img src="{{ $img }}" alt="{{ .Title }}">
+        {{ if $caption }}
+        <figcaption class="single-cover__caption">{{ $caption }}</figcaption>
+        {{ end }}
+      </div>
+      {{ end }}
+
+      <div class="single-header">
+        <h1>{{ .Title }}</h1>
+        <div class="single-meta">
+          {{ .Date.Format "January 2, 2006" }}
+        </div>
+        {{ with .Params.categories }}
+        <div class="single-categories">
+          {{ range . }}
+          <a href="{{ "/categories/" | relURL }}{{ . | urlize }}/">{{ . }}</a>
+          {{ end }}
+        </div>
+        {{ end }}
+      </div>
+      <div class="single-content">
+        {{/* Wrap recipe title pattern: <strong>Title</strong><em>info</em> → classed spans */}}
+        {{ $content = $content | replaceRE `<p>\s*<strong>([^<]+)\s*</strong>\s*<em>` `<p><span class="recipe-title">$1</span><em class="recipe-meta">` }}
+        {{ $content | safeHTML }}
+      </div>
+
+      {{ partial "comments-section.html" . }}
+
+      <nav class="post-nav">
+        {{ with .PrevInSection }}
+        <div>
+          &larr; <a href="{{ .Permalink }}">{{ .Title | truncate 50 }}</a>
+        </div>
+        {{ else }}<div></div>{{ end }}
+        {{ with .NextInSection }}
+        <div>
+          <a href="{{ .Permalink }}">{{ .Title | truncate 50 }}</a> &rarr;
+        </div>
+        {{ else }}<div></div>{{ end }}
+      </nav>
+    </article>
+  </main>
+
+  {{ partial "sidebar.html" . }}
+</div>
+{{ end }}

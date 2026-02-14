@@ -1,0 +1,41 @@
+{
+  "comment_count": 4,
+  "comments": [
+    {
+      "id": "3465",
+      "author": "Erin",
+      "author_url": "http://www.erincooks.com",
+      "date": "2008-06-12 04:40:58",
+      "content": "Yum! Pappardelle is such an elegant pasta!  This sounds perfect for a nice summer meal.",
+      "parent": "0",
+      "gravatar_hash": "367d310cde47f7554fb209a858b98e54"
+    },
+    {
+      "id": "3466",
+      "author": "John",
+      "author_url": "http://www.mormonfoodie.blogspot.com",
+      "date": "2008-06-12 15:44:48",
+      "content": "I'm not a huge fan of cauliflower, but this looks really good. I love the idea of garnishing with thin strips of romano cheese.",
+      "parent": "0",
+      "gravatar_hash": "0750826129ee44caebb3eba7010ade18"
+    },
+    {
+      "id": "3467",
+      "author": "[eatingclub] vancouver || js",
+      "author_url": "http://eatingclubvancouver.blogspot.com",
+      "date": "2008-07-01 23:19:17",
+      "content": "Simple but perfect. My kind of pasta dish. Just gorgeous.",
+      "parent": "0",
+      "gravatar_hash": "42b70c6dff6ac61c95301855b02bb636"
+    },
+    {
+      "id": "3468",
+      "author": "gretchenz",
+      "author_url": "http://migrainemeals.com",
+      "date": "2008-07-06 17:39:35",
+      "content": "Sounds delish \u2013 a perfect, simple post-farmers market meal. I'm on a low-tyramine diet due to migraines, so your ricotta suggestion is ideal.",
+      "parent": "0",
+      "gravatar_hash": "16baa9f0af91b75b3717934711bb4c2d"
+    }
+  ]
+}

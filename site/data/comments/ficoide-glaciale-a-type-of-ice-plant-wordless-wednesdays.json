@@ -1,0 +1,41 @@
+{
+  "comment_count": 4,
+  "comments": [
+    {
+      "id": "134",
+      "author": "Katherine Martinelli",
+      "author_url": "http://www.katherinemartinelli.com",
+      "date": "2011-09-23 14:28:49",
+      "content": "Very cool - I've never seen this before! Do you cook with it?",
+      "parent": "0",
+      "gravatar_hash": "77cbf18926e13167a62ef95f9dc0f7cf"
+    },
+    {
+      "id": "135",
+      "author": "Michael Natkin",
+      "author_url": "",
+      "date": "2011-09-26 08:41:32",
+      "content": "I like it in salads, preferably simple ones that feature this ingredient since it is so unusual. I don&#39;t think I would actually cook it since the refreshing flavor and texture is what is most interesting about it.\n\n\nThanks,\nMichael",
+      "parent": "0",
+      "gravatar_hash": "a52f8f9146768ce0dc36a285e4c4d38d"
+    },
+    {
+      "id": "1109447",
+      "author": "richard sirjacobs",
+      "author_url": "",
+      "date": "2014-10-13 05:05:59",
+      "content": "bonjour,\n\ni do'nt find anywhere in belgium and in france seed of ficoide glaciale.\nIs it possible that you send me some seed of this plant or the adress of the producer.\nExcuse my english, i read it easier tha to write it.\nThank you very much.\n\nrichard sirjacobs\nwastinelle 6\nB 7830 SILLY",
+      "parent": "135",
+      "gravatar_hash": "06cde113b8efe74bad9830ebb02d9fe7"
+    },
+    {
+      "id": "1109466",
+      "author": "Michael Natkin",
+      "author_url": "https://herbivoracious.com",
+      "date": "2014-10-13 05:38:38",
+      "content": "Hi Richard - I've never seen it before or since that one day I happened to find it in Portland, Oregon! Wish I could find it again, it was tasty.",
+      "parent": "1109447",
+      "gravatar_hash": "a52f8f9146768ce0dc36a285e4c4d38d"
+    }
+  ]
+}

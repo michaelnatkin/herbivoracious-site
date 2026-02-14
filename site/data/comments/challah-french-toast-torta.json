@@ -1,0 +1,23 @@
+{
+  "comment_count": 2,
+  "comments": [
+    {
+      "id": "1315384",
+      "author": "Sobachatina",
+      "author_url": "",
+      "date": "2023-01-29 07:23:54",
+      "content": "That looks delicious. I'll have to give it a try.",
+      "parent": "0",
+      "gravatar_hash": "ed9825d0e4d0f40998296bceab3656c2"
+    },
+    {
+      "id": "1315506",
+      "author": "David",
+      "author_url": "",
+      "date": "2023-11-16 16:29:08",
+      "content": "Looks amazing! Also amazing to find a 2023 post here! Do it again some time :). Your cookbook is still my go-to.",
+      "parent": "0",
+      "gravatar_hash": "83b7d18b4374eaebb332653ef032d16f"
+    }
+  ]
+}

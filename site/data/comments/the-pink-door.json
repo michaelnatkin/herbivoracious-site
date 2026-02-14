@@ -1,0 +1,23 @@
+{
+  "comment_count": 2,
+  "comments": [
+    {
+      "id": "3449",
+      "author": "Andrew Moulton",
+      "author_url": "http://www.vancouvertoseattle.com",
+      "date": "2008-07-01 12:01:04",
+      "content": "The service at the Pink Door is indeed top notch, constantly checking up on you to make sure all is in proper order. A favourite spot to hit while Im in Seattle.",
+      "parent": "0",
+      "gravatar_hash": "1c14c51ac0a7352a4d2bb65e1d471c9f"
+    },
+    {
+      "id": "185147",
+      "author": "Chris Caldwell",
+      "author_url": "http://worldcupoffood.wordpress.com/",
+      "date": "2013-08-06 15:47:21",
+      "content": "The Pink Door is one of the few places my now-wife (from Aberdeen) showed ME while we were dating.  Nice call!",
+      "parent": "0",
+      "gravatar_hash": "165927420185588d6a35f27a88b624a4"
+    }
+  ]
+}

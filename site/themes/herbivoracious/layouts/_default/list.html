@@ -1,0 +1,60 @@
+{{ define "main" }}
+<div class="site-content">
+  <main class="main-content">
+    {{ if .IsHome }}
+      {{ $paginator := .Paginate (where .Site.RegularPages "Section" "posts") }}
+      {{ range $paginator.Pages }}
+      <article class="post-card">
+        {{ $img := "" }}
+        {{ with .Params.cover }}{{ with .image }}{{ $img = . }}{{ end }}{{ end }}
+        {{ if $img }}
+        <a href="{{ .Permalink }}" class="post-card__image">
+          <img src="{{ $img }}" alt="{{ .Title }}" loading="lazy">
+        </a>
+        {{ end }}
+        <div class="post-card__meta">
+          <time>{{ .Date.Format "January 2, 2006" }}</time>
+          {{ with .Params.categories }}{{ range first 1 . }}<span class="post-card__category">{{ . }}</span>{{ end }}{{ end }}
+        </div>
+        <h2 class="post-card__title"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+        <p class="post-card__excerpt">
+          {{ $paras := findRE "<p[^>]*>.+?</p>" .Content 3 }}{{ $excerpt := "" }}{{ range $paras }}{{ $excerpt = printf "%s %s" $excerpt (. | plainify | htmlUnescape) }}{{ end }}{{ $excerpt | truncate 220 }}
+        </p>
+        <a href="{{ .Permalink }}" class="post-card__link">Read More</a>
+      </article>
+      {{ end }}
+
+      {{ template "_internal/pagination.html" . }}
+
+    {{ else }}
+      <div class="taxonomy-header">
+        <h1>{{ .Title }}</h1>
+      </div>
+      {{ $paginator := .Paginate .Pages }}
+      {{ range $paginator.Pages }}
+      <article class="post-card">
+        {{ $img := "" }}
+        {{ with .Params.cover }}{{ with .image }}{{ $img = . }}{{ end }}{{ end }}
+        {{ if $img }}
+        <a href="{{ .Permalink }}" class="post-card__image">
+          <img src="{{ $img }}" alt="{{ .Title }}" loading="lazy">
+        </a>
+        {{ end }}
+        <div class="post-card__meta">
+          <time>{{ .Date.Format "January 2, 2006" }}</time>
+          {{ with .Params.categories }}{{ range first 1 . }}<span class="post-card__category">{{ . }}</span>{{ end }}{{ end }}
+        </div>
+        <h2 class="post-card__title"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+        <p class="post-card__excerpt">
+          {{ $paras := findRE "<p[^>]*>.+?</p>" .Content 3 }}{{ $excerpt := "" }}{{ range $paras }}{{ $excerpt = printf "%s %s" $excerpt (. | plainify | htmlUnescape) }}{{ end }}{{ $excerpt | truncate 220 }}
+        </p>
+        <a href="{{ .Permalink }}" class="post-card__link">Read More</a>
+      </article>
+      {{ end }}
+      {{ template "_internal/pagination.html" . }}
+    {{ end }}
+  </main>
+
+  {{ partial "sidebar.html" . }}
+</div>
+{{ end }}

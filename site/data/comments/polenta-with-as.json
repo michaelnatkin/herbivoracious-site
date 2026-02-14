@@ -1,0 +1,41 @@
+{
+  "comment_count": 4,
+  "comments": [
+    {
+      "id": "3469",
+      "author": "peabody",
+      "author_url": "http://www.culinaryconcoctionsbypeabody.com",
+      "date": "2008-06-11 16:31:45",
+      "content": "This looks wonderful. I like the use of the olives.",
+      "parent": "0",
+      "gravatar_hash": "7d1a4d9e68f0081549e1bd9411dbdc3d"
+    },
+    {
+      "id": "3470",
+      "author": "Brianna",
+      "author_url": "http://briannalee.wordpress.com",
+      "date": "2008-08-24 11:00:06",
+      "content": "I will be making this tonight, I can't wait! Thank you for the recipe.",
+      "parent": "0",
+      "gravatar_hash": "27152ca1b1a3452cb68c50ccda6022e6"
+    },
+    {
+      "id": "3471",
+      "author": "Jillian",
+      "author_url": "",
+      "date": "2010-12-25 10:36:22",
+      "content": "This is my absolute favorite polenta recipe!  My entire family gobbled it up and I'm making it today for Christmas dinner!",
+      "parent": "0",
+      "gravatar_hash": "d5332d3782fda01dcfd333b5777dcc71"
+    },
+    {
+      "id": "3472",
+      "author": "Jillian",
+      "author_url": "",
+      "date": "2010-12-26 13:43:28",
+      "content": "Michael, I have to tell you, that I did indeed make it for our Christmas dinner.  My mother, who is a huge fan of polenta, said it was the absolute best she had ever had and went back for not just seconds, but thirds...and then fourths!  We are all in love with this recipe!  So, thank you, for sharing!",
+      "parent": "0",
+      "gravatar_hash": "d5332d3782fda01dcfd333b5777dcc71"
+    }
+  ]
+}

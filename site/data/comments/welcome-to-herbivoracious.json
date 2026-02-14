@@ -1,0 +1,23 @@
+{
+  "comment_count": 2,
+  "comments": [
+    {
+      "id": "1314947",
+      "author": "Kate",
+      "author_url": "",
+      "date": "2021-12-21 13:55:18",
+      "content": "Michael !\nI adored your World's Best Vegetarian Chili which I used to find online - what has happened to herbivoracious.com ? The format that I find is honestly not good and a lot of the links dont work - I guess if I dont hear back from you I'll know that it is defunct.....Best wishes",
+      "parent": "0",
+      "gravatar_hash": "faffa7f3e0b14defab63ec0d808e008d"
+    },
+    {
+      "id": "1315206",
+      "author": "Michael Natkin",
+      "author_url": "https://herbivoracious.com",
+      "date": "2022-06-04 07:00:49",
+      "content": "Fixed now!",
+      "parent": "1314947",
+      "gravatar_hash": "a52f8f9146768ce0dc36a285e4c4d38d"
+    }
+  ]
+}

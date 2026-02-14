@@ -1,0 +1,41 @@
+{
+  "comment_count": 4,
+  "comments": [
+    {
+      "id": "3820",
+      "author": "k",
+      "author_url": "",
+      "date": "2007-12-15 23:27:00",
+      "content": "I am so happy for you. I cant wait to try it.\n\nsavvy savorer",
+      "parent": "0",
+      "gravatar_hash": ""
+    },
+    {
+      "id": "3821",
+      "author": "",
+      "author_url": "",
+      "date": "2008-02-26 15:06:32",
+      "content": "Are you going to post the recipe? this looks delic!",
+      "parent": "0",
+      "gravatar_hash": ""
+    },
+    {
+      "id": "18943",
+      "author": "Cyd",
+      "author_url": "",
+      "date": "2012-02-09 12:29:36",
+      "content": "I will pre-order your book immediately if this recipe is included - could you please let me know??\n\nMany thanks,\n\nCyd",
+      "parent": "0",
+      "gravatar_hash": "17342137175e6becafdce412ea09dded"
+    },
+    {
+      "id": "18946",
+      "author": "Michael Natkin",
+      "author_url": "https://herbivoracious.com",
+      "date": "2012-02-09 13:26:42",
+      "content": "Hi Cyd - nope, that particular recipe isn't in there. But I've got 150 other goodies for you!\n\nThanks,\nMichael",
+      "parent": "18943",
+      "gravatar_hash": "a52f8f9146768ce0dc36a285e4c4d38d"
+    }
+  ]
+}

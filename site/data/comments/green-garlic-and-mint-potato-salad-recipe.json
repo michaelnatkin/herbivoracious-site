@@ -1,0 +1,77 @@
+{
+  "comment_count": 8,
+  "comments": [
+    {
+      "id": "26593",
+      "author": "Patrick B.",
+      "author_url": "",
+      "date": "2012-06-11 06:57:16",
+      "content": "Is green garlic the same as garlic scapes?",
+      "parent": "0",
+      "gravatar_hash": "fb24a1c28fdf757f54e5aa8025082ae1"
+    },
+    {
+      "id": "26594",
+      "author": "Michael Natkin",
+      "author_url": "https://herbivoracious.com",
+      "date": "2012-06-11 07:06:42",
+      "content": "No, garlic scapes are solid stem that I believe grows up out of the middle of the scallion-y looking part. The flavor is similar but the texture is different. They would also be good in this potato salad, you'd just want to saute them a bit longer to soften.",
+      "parent": "26593",
+      "gravatar_hash": "a52f8f9146768ce0dc36a285e4c4d38d"
+    },
+    {
+      "id": "26599",
+      "author": "Nicole",
+      "author_url": "http://treasuretromp.com",
+      "date": "2012-06-11 07:36:30",
+      "content": "looks yummy! Thanks for posting",
+      "parent": "0",
+      "gravatar_hash": "71ff9d0205b49b7b4db23ef28cd00e56"
+    },
+    {
+      "id": "26932",
+      "author": "Marcus",
+      "author_url": "http://www.greenvegetarianrecipes.com",
+      "date": "2012-06-13 06:58:02",
+      "content": "Looks really good! Will definitely try this, thanks!",
+      "parent": "0",
+      "gravatar_hash": "edd1a44bcf80063e9461f259ddb778a0"
+    },
+    {
+      "id": "27123",
+      "author": "Hannah",
+      "author_url": "http://www.bluekaleroad.com",
+      "date": "2012-06-14 08:35:48",
+      "content": "What a tempting potato salad!  I'll be on the look out for green garlic at the farmer's market this weekend.  I love the refreshing mint you added, too.  \n\nI enjoyed hearing you speak at BlogHer Food!  That was a terrific panel and I appreciate all you shared.",
+      "parent": "0",
+      "gravatar_hash": "d0f4f85f5ae47d7807f69af298769edf"
+    },
+    {
+      "id": "27126",
+      "author": "Michael Natkin",
+      "author_url": "https://herbivoracious.com",
+      "date": "2012-06-14 09:00:05",
+      "content": "Thanks, Hannah! I'm glad you enjoyed the BlogHer photography panel as well, I had great fun doing with Alice and Aran.",
+      "parent": "27123",
+      "gravatar_hash": "a52f8f9146768ce0dc36a285e4c4d38d"
+    },
+    {
+      "id": "32137",
+      "author": "Vegan",
+      "author_url": "http://www.sevenpoint2.com/",
+      "date": "2012-06-30 19:10:46",
+      "content": "Would really love to try this! Do you have any Vegenaise recipe?",
+      "parent": "0",
+      "gravatar_hash": "bda7603876252c69c15f63b58a0bf6f0"
+    },
+    {
+      "id": "32428",
+      "author": "Michael Natkin",
+      "author_url": "https://herbivoracious.com",
+      "date": "2012-07-01 12:32:42",
+      "content": "I haven't made vegan mayonnaise myself, but I've seen it done on videos - it is pretty simple. You just need something other than egg to act as the emulsifier to keep the oil and water (lemon juice, whatever) together.",
+      "parent": "32137",
+      "gravatar_hash": "a52f8f9146768ce0dc36a285e4c4d38d"
+    }
+  ]
+}

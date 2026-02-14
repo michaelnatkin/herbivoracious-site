@@ -1,0 +1,59 @@
+{
+  "comment_count": 6,
+  "comments": [
+    {
+      "id": "123710",
+      "author": "Nezumi",
+      "author_url": "",
+      "date": "2013-03-04 07:42:02",
+      "content": "Fascinating recipe! Thank you for sharing.\nAs any good Montrealer, I use to eat smoked meat sandwiches. I would try this with smoked meat spices.\nDo you think something else than beets would work too?",
+      "parent": "0",
+      "gravatar_hash": "68542912b461ecc43a335ff88c650dc6"
+    },
+    {
+      "id": "123723",
+      "author": "Michael Natkin",
+      "author_url": "https://herbivoracious.com",
+      "date": "2013-03-04 08:49:12",
+      "content": "You could certainly experiment with other vegetables; I think beets have an earthiness that works well here. Turnips might be nice too. If you experiment, let me know! Also, I think smoking the beets afterwards would be a nice touch.",
+      "parent": "123710",
+      "gravatar_hash": "a52f8f9146768ce0dc36a285e4c4d38d"
+    },
+    {
+      "id": "125489",
+      "author": "Vegan Woman",
+      "author_url": "http://veganwoman.blogspot.com",
+      "date": "2013-03-09 17:28:17",
+      "content": "Oh my!  I must try this.  How creative!  Thank you for sharing.",
+      "parent": "0",
+      "gravatar_hash": "3f8fcf0f3d5861668562074fd5cd5ffe"
+    },
+    {
+      "id": "1314600",
+      "author": "Alex",
+      "author_url": "",
+      "date": "2019-07-01 11:46:47",
+      "content": "I am late to the game :)\nDo we peel the beets? (if so :at what stage?) \nDo we slice them before the sous vide step or at the point of dehydrating them? Thank you!",
+      "parent": "0",
+      "gravatar_hash": "2262f5bf14ff7ffe1a7b2e31bd8b3ea7"
+    },
+    {
+      "id": "1314601",
+      "author": "Michael Natkin",
+      "author_url": "https://herbivoracious.com",
+      "date": "2019-07-01 18:38:22",
+      "content": "Sorry for the poor recipe writing! Yes, peel and slice before sous vide.",
+      "parent": "1314600",
+      "gravatar_hash": "a52f8f9146768ce0dc36a285e4c4d38d"
+    },
+    {
+      "id": "1314602",
+      "author": "Choubix",
+      "author_url": "",
+      "date": "2019-07-05 06:49:42",
+      "content": "Thanks for getting back to me! (after all these years posting this recipe :))",
+      "parent": "1314601",
+      "gravatar_hash": "2262f5bf14ff7ffe1a7b2e31bd8b3ea7"
+    }
+  ]
+}

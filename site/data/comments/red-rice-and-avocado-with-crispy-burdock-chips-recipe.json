@@ -1,0 +1,41 @@
+{
+  "comment_count": 4,
+  "comments": [
+    {
+      "id": "58820",
+      "author": "val",
+      "author_url": "http://dinkydoover.blogspot.com/",
+      "date": "2012-10-03 10:03:15",
+      "content": "Your recipes are immediately recognizable--really creative and original combinations. Thanks for the genius tip about dehydrating in the microwave! I only use mine to melt butter and have no space for a dehydrator, so that is good to know.",
+      "parent": "0",
+      "gravatar_hash": "a617f5bba5ca5cc86f2ab5e7f2a9252e"
+    },
+    {
+      "id": "58829",
+      "author": "Michael Natkin",
+      "author_url": "https://herbivoracious.com",
+      "date": "2012-10-03 10:11:23",
+      "content": "Thanks! And by the way, if you have any trouble getting the chips to release, you can grease the plate with the tiniest drop of oil (or spray oil) first. I'm going to add that to the post.",
+      "parent": "58820",
+      "gravatar_hash": "a52f8f9146768ce0dc36a285e4c4d38d"
+    },
+    {
+      "id": "58849",
+      "author": "Hannah",
+      "author_url": "http://www.bluekaleroad.com",
+      "date": "2012-10-03 10:37:08",
+      "content": "Terrific recipe! The flavors in your dressing sound amazing. I discovered burdock root last year and really like it. I'm glad to learn of other ways to enjoy it. Lotus root is another one I found I like, too.\n\nIt was great seeing you at the food event Sat night - love your sabich sandwich!!",
+      "parent": "0",
+      "gravatar_hash": "d0f4f85f5ae47d7807f69af298769edf"
+    },
+    {
+      "id": "59283",
+      "author": "Vegetarian",
+      "author_url": "http://vegetariansrhere.blogspot.com/",
+      "date": "2012-10-04 01:40:27",
+      "content": "Proved once more that delicious food does not require Killing helpless animals!",
+      "parent": "0",
+      "gravatar_hash": "a933bf65333633afdb3cc74c02d6f044"
+    }
+  ]
+}

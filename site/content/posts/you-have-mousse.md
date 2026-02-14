@@ -1,0 +1,9 @@
+---
+title: "You Have Mousse In Your Freezer (I Think)"
+date: 2007-10-17T20:25:22
+slug: "you-have-mousse"
+categories: ["Desserts", "Experiments"]
+aliases: ["/you-have-mousse/", "/2007/10/you-have-mousse.html"]
+---
+
+<p>What if I were to tell you that you have chocolate mousse in your freezer this very instant? Am I psychic? Did I break in to your house and anti-burgle a delicious dessert as a complimentary gift for visiting my blog?</p>  <p>Nope, I'm talking about ice cream. I was recently struck by the idea that the ingredients in a good chocolate ice cream and a good chocolate mousse are pretty close. They both start with dark chocolate, heavy cream, egg yolks, and sugar. Some mousse recipes add beaten egg whites as well. So I've been experimenting with barely melting leftover ice cream and putting it in a nitrous-fill whip cream dispenser. It definitely works, you just dispense right into serving glasses, and chill for a little while. It comes out ultra-light and fluffy. You can add egg whites in there too, just give a good shake before dispensing and they will aerate beautifully.</p>  <p>Tonight I tried a version using espresso gelato and egg whites and folding it into cooled melted chocolate beaten with the yolks. Unfortunately I rushed the cooling of the chocolate and it turned grainy, so no picture! Clearly there are lots of other flavor possibilities both with the ice cream base and whatever you choose to add to it.</p>  <p>I haven't tried whipping with a blender or by hand instead of with a whip cream dispenser, but I imagine it would work fine.</p>  <p>However I don't want to claim this method is ready for prime time. The biggest issue I've had so far is that the resulting mousse tends to be a bit too sweet. So this is more of an invitation than a recipe. Anyone else up for giving this a shot and reporting back successes or failures?</p>

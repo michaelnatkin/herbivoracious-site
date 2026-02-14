@@ -1,0 +1,7 @@
+---
+title: "Costas Opa - Greek, Fremont, Seattle - Capsule Restaurant Review"
+date: 2009-04-09T13:42:24
+slug: "costas-opa-greek-fremont-seattle-capsule-restaurant-review"
+---
+
+<p>I hadn't been to Costas Opa in about five years, having sworn off it after a particularly greasy lunch. I figured with my recent <a target="_blank" href="/2009/04/fremont-neighborhood-lunch-roundup-with-special-emphasis-on-best-vegetarian-options-seattle-wa/">review of Fremont lunch places</a>, I better sneak in there and see if was any better than I remembered. Not... so... much. I ordered the vegetarian lunch combo as it would give me the opportunity to taste the most dishes. This included a cup of lentil soup, spanakopita, moussaka, fried potatoes, dolmades and souvlaki vegetables (which turned out to be zucchini). Seriously, if I had closed my eyes I couldn't tell you which dish I was eating. They were all taste-free mush except the potatoes, which were undercooked. I did learn something though. If you hold grape leaves hot long enough, they actually will lose their pleasing bite and almost melt into the soggy rice inside. The only slight saving grace was the garlicky tzatziki. By slathering that on everything, I was able to eat enough calories to stagger back out into the light.</p><p><a href="http://www.urbanspoon.com/r/1/4190/restaurant/Fremont/Costas-Opa-Greek-Restaurant-Seattle"><img  alt="Costas Opa Greek Restaurant on Urbanspoon" src="http://www.urbanspoon.com/b/link/4190/biglink.gif" style="border: medium none ; width: 200px; height: 146px;"></a></p>

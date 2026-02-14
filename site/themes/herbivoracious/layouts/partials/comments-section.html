@@ -1,0 +1,16 @@
+{{- $slug := .File.ContentBaseName -}}
+{{- $comments := index site.Data.comments $slug -}}
+{{- if $comments -}}
+<section class="comments-section">
+  <h2 class="comments-heading">{{ $comments.comment_count }} Comment{{ if ne (int $comments.comment_count) 1 }}s{{ end }}</h2>
+
+  {{- /* Build top-level and threaded comments */ -}}
+  {{- range $comments.comments -}}
+    {{- if eq .parent "0" -}}
+      {{ partial "comment.html" (dict "comment" . "allComments" $comments.comments "level" 0) }}
+    {{- end -}}
+  {{- end -}}
+
+  <p class="comments-closed">Comments are closed.</p>
+</section>
+{{- end -}}

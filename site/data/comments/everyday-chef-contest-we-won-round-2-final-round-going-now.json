@@ -1,0 +1,23 @@
+{
+  "comment_count": 2,
+  "comments": [
+    {
+      "id": "830",
+      "author": "Carolyn Jung",
+      "author_url": "http://www.foodgal.com",
+      "date": "2010-10-07 15:00:27",
+      "content": "Woo hoooo!! You, go, Michael. Here's hoping you bring home the top prize. ;)",
+      "parent": "0",
+      "gravatar_hash": "a9b8ca76dd8ef8419ce48533a28f4900"
+    },
+    {
+      "id": "831",
+      "author": "Alessandra",
+      "author_url": "http://alessandrazecchini.blogspot.com/",
+      "date": "2010-10-11 20:46:37",
+      "content": "Voted for you, good luck now!\n\nCheers\n\nAlessandra",
+      "parent": "0",
+      "gravatar_hash": "1d5879742202cb4c70bf1581416c7dfd"
+    }
+  ]
+}

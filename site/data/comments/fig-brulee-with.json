@@ -1,0 +1,59 @@
+{
+  "comment_count": 6,
+  "comments": [
+    {
+      "id": "4154",
+      "author": "jen",
+      "author_url": "",
+      "date": "2007-08-01 09:01:33",
+      "content": "Not fair showing that photograph of fig brulee while I'm at work!",
+      "parent": "0",
+      "gravatar_hash": "b6a7410d826a9e5fa1f9a77c394d0fda"
+    },
+    {
+      "id": "4155",
+      "author": "catherine ross",
+      "author_url": "http://www.albioncooks.blogspot.com",
+      "date": "2007-08-12 10:35:59",
+      "content": "OK...that looks good!  Welcome to the vegetarian food bloggersphere!",
+      "parent": "0",
+      "gravatar_hash": "def3564975605186d3a028bea097029a"
+    },
+    {
+      "id": "4156",
+      "author": "Dayna",
+      "author_url": "http://www.veganvisitor.com",
+      "date": "2007-09-01 22:24:12",
+      "content": "That looks beautiful & so delicious.\nQuick and easy (minus the blowtorch)but I now have an excuse to get the case of figs at the grocers. Thanks.",
+      "parent": "0",
+      "gravatar_hash": "15dabc6095644f56618ab700c46810c6"
+    },
+    {
+      "id": "4157",
+      "author": "Esi",
+      "author_url": "http://dishingupdelights.blogspot.com",
+      "date": "2008-08-28 16:58:31",
+      "content": "Oooh, this is kind of making me wish for a blowtorch...and more figs :)",
+      "parent": "0",
+      "gravatar_hash": "e3631b0ebe769a5973afec255e3b0bc2"
+    },
+    {
+      "id": "176763",
+      "author": "Ashley",
+      "author_url": "",
+      "date": "2013-07-22 08:14:24",
+      "content": "Can you make this without Sugar?",
+      "parent": "0",
+      "gravatar_hash": "9daba74676e889c07d1e04af658ececa"
+    },
+    {
+      "id": "176770",
+      "author": "Michael Natkin",
+      "author_url": "https://herbivoracious.com",
+      "date": "2013-07-22 08:22:22",
+      "content": "I don't think so, no... the whole idea of brulee is to caramelize the sugar. You can certainly just serve ripe figs with good balsamic though, nothing wrong with that!",
+      "parent": "176763",
+      "gravatar_hash": "a52f8f9146768ce0dc36a285e4c4d38d"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "comment_count": 5,
+  "comments": [
+    {
+      "id": "23399",
+      "author": "Marina",
+      "author_url": "http://www.picnicatmarina.com",
+      "date": "2012-04-30 06:55:09",
+      "content": "Congratulations on the book again! Have a fantastic tour and come back to create more delicious recipes - we love it! I just wonder: why the book signing didn't start in Seattle?! Looking forward to read how your tour is going... Have fun along the way too! Cheers to you!",
+      "parent": "0",
+      "gravatar_hash": "8e1565ea2a6e22a58f9d461f2938c35d"
+    },
+    {
+      "id": "120724",
+      "author": "Cathy devos",
+      "author_url": "http://www.catherinedevos.com",
+      "date": "2013-02-23 20:13:27",
+      "content": "What about sharpening serrated knives?",
+      "parent": "0",
+      "gravatar_hash": "728f3ef21a738f46a01bcb2c6faa2dc9"
+    },
+    {
+      "id": "121045",
+      "author": "Michael Natkin",
+      "author_url": "https://herbivoracious.com",
+      "date": "2013-02-24 20:48:32",
+      "content": "You can touch them up on this device: https://herbivoracious.com/2012/10/the-best-way-to-sharpen-your-knives-at-home.html - but if they are badly dull, you have to take them to a professional.",
+      "parent": "120724",
+      "gravatar_hash": "a52f8f9146768ce0dc36a285e4c4d38d"
+    },
+    {
+      "id": "133702",
+      "author": "Sandy",
+      "author_url": "http://www.bestknifesharpeners.net",
+      "date": "2013-04-05 23:06:58",
+      "content": "Hey Michael,\n\nThat's a great video on how to sharpen knives using steel.\n\nI know with experience that it requires a lot of practice to ensure that you get the angle right. That's when you will actually get your knives sharpened.\n\nElse, as you suggested - it's a good bet to go with the electric knife sharpener",
+      "parent": "0",
+      "gravatar_hash": "9ff6979fca08204f5c6a3c2f5c384851"
+    },
+    {
+      "id": "200293",
+      "author": "Robert",
+      "author_url": "",
+      "date": "2013-10-10 15:24:00",
+      "content": "This makes no sense, I have been told two distinct ways of how to hone a knife; going against the blade and going with the blade of the knife. In his paper description would you not then want to bend that overlapping potion back by dragging the blade of the knife away and against the honing steel and not pushing it with it?",
+      "parent": "0",
+      "gravatar_hash": "d775235b357333227366e5ea43055175"
+    }
+  ]
+}

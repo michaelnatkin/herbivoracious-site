@@ -1,0 +1,23 @@
+{
+  "comment_count": 2,
+  "comments": [
+    {
+      "id": "165598",
+      "author": "Gloria",
+      "author_url": "http://www.gloriagypsy.com",
+      "date": "2013-06-26 12:00:34",
+      "content": "I use an app (firefox and my phone) called feedly. I am able to transfer all of my google reader feeds over to it and still keep up on the sites I enjoy.",
+      "parent": "0",
+      "gravatar_hash": "bcb45f14500ce7100c26e4e03b71de16"
+    },
+    {
+      "id": "165647",
+      "author": "Michael Natkin",
+      "author_url": "https://herbivoracious.com",
+      "date": "2013-06-26 15:53:33",
+      "content": "Yes, feedly is absolutely another good option if you prefer to stick with RSS instead of email. Thanks for pointing that out!",
+      "parent": "165598",
+      "gravatar_hash": "a52f8f9146768ce0dc36a285e4c4d38d"
+    }
+  ]
+}

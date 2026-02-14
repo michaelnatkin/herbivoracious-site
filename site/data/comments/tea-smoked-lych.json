@@ -1,0 +1,32 @@
+{
+  "comment_count": 3,
+  "comments": [
+    {
+      "id": "3381",
+      "author": "Syrie",
+      "author_url": "http://allthingsnice.typepad.com",
+      "date": "2008-08-07 21:59:38",
+      "content": "What a stunning combination!",
+      "parent": "0",
+      "gravatar_hash": "c2b01c195c46c9a43b7ef81f99363886"
+    },
+    {
+      "id": "3382",
+      "author": "Quetta",
+      "author_url": "http://www.asologourmet.com",
+      "date": "2008-08-10 22:15:12",
+      "content": "These look delicious.  I can't wait to try them next lychee season!",
+      "parent": "0",
+      "gravatar_hash": ""
+    },
+    {
+      "id": "3383",
+      "author": "Thip",
+      "author_url": "http://thai4real.blogspot.com",
+      "date": "2008-08-18 22:04:52",
+      "content": "All three look and sound amazing! This one is my favorite though. :)",
+      "parent": "0",
+      "gravatar_hash": "5930d270af12891f20e8a1548c049362"
+    }
+  ]
+}

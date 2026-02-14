@@ -1,0 +1,32 @@
+{
+  "comment_count": 3,
+  "comments": [
+    {
+      "id": "3815",
+      "author": "christina",
+      "author_url": "http://www.ramblemagazine.com",
+      "date": "2007-12-26 10:11:01",
+      "content": "Oh, I absolutely love banana muffins (and banana nut bread). I don't think I'd ever seen any of them before I got to the States, but wow -- have had a lot of them since then. I agree, though, that most muffin recipes are too sweet. Will try your recipe as soon as possible.",
+      "parent": "0",
+      "gravatar_hash": "a5bd98a3792fdf7ab1ee5cf869b13ac5"
+    },
+    {
+      "id": "90396",
+      "author": "Vegan",
+      "author_url": "http://www.sevenpoint2.com/blog/",
+      "date": "2012-11-30 19:24:41",
+      "content": "What an informative post and i cant wait to try it. Will the muffins be so tender if i add buttermilk?",
+      "parent": "0",
+      "gravatar_hash": "bda7603876252c69c15f63b58a0bf6f0"
+    },
+    {
+      "id": "90434",
+      "author": "Michael Natkin",
+      "author_url": "https://herbivoracious.com",
+      "date": "2012-11-30 20:10:58",
+      "content": "If you want to add buttermilk, try this recipe: https://herbivoracious.com/2012/03/banana-buttermilk-and-brown-sugar-muffins-triple-b-muffins-recipe.html (you can always bring over the crumb top from the first one.)",
+      "parent": "90396",
+      "gravatar_hash": "a52f8f9146768ce0dc36a285e4c4d38d"
+    }
+  ]
+}

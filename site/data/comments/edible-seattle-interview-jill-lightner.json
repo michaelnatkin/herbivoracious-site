@@ -1,0 +1,23 @@
+{
+  "comment_count": 2,
+  "comments": [
+    {
+      "id": "1314305",
+      "author": "Annette",
+      "author_url": "",
+      "date": "2017-05-12 03:53:57",
+      "content": "I am currently reading her book; Mason Bee Revolution, and would love to email her. Can you provide any contact information?",
+      "parent": "0",
+      "gravatar_hash": "28d274c6a7605a3ec35c680b2344bc24"
+    },
+    {
+      "id": "1314306",
+      "author": "Michael Natkin",
+      "author_url": "https://herbivoracious.com",
+      "date": "2017-05-12 05:41:38",
+      "content": "Sorry to say I don't have a current email for Jill.",
+      "parent": "1314305",
+      "gravatar_hash": "a52f8f9146768ce0dc36a285e4c4d38d"
+    }
+  ]
+}

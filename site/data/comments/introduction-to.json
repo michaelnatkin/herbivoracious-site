@@ -1,0 +1,23 @@
+{
+  "comment_count": 2,
+  "comments": [
+    {
+      "id": "20924",
+      "author": "Stephanie",
+      "author_url": "",
+      "date": "2012-03-06 19:13:34",
+      "content": "Glad to see someone else fess up that a high school sweetheart was a major motivation to becoming a vegetarian :)  It's stuck for 28 years though!",
+      "parent": "0",
+      "gravatar_hash": "18112fefe795ff5109254e3866db1b66"
+    },
+    {
+      "id": "20931",
+      "author": "Michael Natkin",
+      "author_url": "https://herbivoracious.com",
+      "date": "2012-03-06 19:58:44",
+      "content": "It must have been something in the air! (Stephanie and I went to the same high school :)",
+      "parent": "20924",
+      "gravatar_hash": "a52f8f9146768ce0dc36a285e4c4d38d"
+    }
+  ]
+}

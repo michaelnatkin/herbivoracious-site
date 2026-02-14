@@ -1,0 +1,50 @@
+{
+  "comment_count": 5,
+  "comments": [
+    {
+      "id": "3906",
+      "author": "Nicole",
+      "author_url": "http://www.farmtophilly.com",
+      "date": "2007-10-26 11:19:38",
+      "content": "That looks absolutely delicious.  Now I really want some feta.",
+      "parent": "0",
+      "gravatar_hash": "595f346e998852609fdf768b6bec31ef"
+    },
+    {
+      "id": "3907",
+      "author": "Steamy Kitchen",
+      "author_url": "http://www.steamykitchen.com",
+      "date": "2007-10-27 03:28:26",
+      "content": "Great combo of spices and flavors! Love the presentation too.",
+      "parent": "0",
+      "gravatar_hash": "6804a36eb4d9fae2fbe3cb08fc057bca"
+    },
+    {
+      "id": "3908",
+      "author": "radish",
+      "author_url": "http://www.sassyradish.com",
+      "date": "2007-10-29 14:05:32",
+      "content": "Yum, looks awesome and tasty! I think I might make something with phyllo tonight - i have a package resting in the freezer. I should really start making my own, but I hear it's rather a finicky dough!",
+      "parent": "0",
+      "gravatar_hash": "04341568a39187cf5897aaea878fb272"
+    },
+    {
+      "id": "3909",
+      "author": "Michael Natkin",
+      "author_url": "",
+      "date": "2007-10-29 14:46:13",
+      "content": "Sarina's grandparents still remember their parents making their own phyllo, stretched out over the dining room table, the couch and wherever else it would fit. I asked Noni recently and she said that it didn't really taste a lot different but that it was a bit thicker. All the Sfardic ladies use bought phyllo now. But I like idea of trying to make it once just to have the experience.",
+      "parent": "0",
+      "gravatar_hash": "a52f8f9146768ce0dc36a285e4c4d38d"
+    },
+    {
+      "id": "3910",
+      "author": "ss",
+      "author_url": "",
+      "date": "2009-03-03 15:12:39",
+      "content": "This post inspired me to handwave together something similar. I minced kalamatas and added them to the chard/feta mixture instead of making the salad, and my approximation of ras el hanout was probably laughable, but it came out really well. I finished it with a drizzle of zatar in olive oil, but the extra flavor wasn't really necessary. And my husband used the leftover sheets for a tiny batch of baklava. So thanks for this excellent use of chard... Where spinach would have gotten all soggy, the chard kept its crunch.",
+      "parent": "0",
+      "gravatar_hash": "8e89f9ebb4cc5109e66916a21ebcb7d2"
+    }
+  ]
+}

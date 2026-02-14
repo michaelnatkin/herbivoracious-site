@@ -1,0 +1,23 @@
+{
+  "comment_count": 2,
+  "comments": [
+    {
+      "id": "177022",
+      "author": "Coco",
+      "author_url": "",
+      "date": "2013-07-22 16:34:06",
+      "content": "Michael! The link for the book isn't working properly! I'm gonna take a stab that it's available on Amazon?",
+      "parent": "0",
+      "gravatar_hash": "2175710065efe9968b6f549f4c977778"
+    },
+    {
+      "id": "177075",
+      "author": "Michael Natkin",
+      "author_url": "https://herbivoracious.com",
+      "date": "2013-07-22 19:55:23",
+      "content": "Thanks, Coco! I've fixed the link now.",
+      "parent": "177022",
+      "gravatar_hash": "a52f8f9146768ce0dc36a285e4c4d38d"
+    }
+  ]
+}

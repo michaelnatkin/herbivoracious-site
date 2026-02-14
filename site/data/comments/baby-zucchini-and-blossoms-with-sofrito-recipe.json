@@ -1,0 +1,50 @@
+{
+  "comment_count": 5,
+  "comments": [
+    {
+      "id": "177939",
+      "author": "John",
+      "author_url": "",
+      "date": "2013-07-24 07:24:50",
+      "content": "Sounds great! A hint to those new to Zucchini blossoms: make REALLY certain that there are no bees, etc., inside the blossom when you pick it, or at least when you put it into your food. You don't want to find them when you bite into a blossom. (Ask my wife how we know this...)",
+      "parent": "0",
+      "gravatar_hash": "80f61b8a19222d2053c8acdaa18456c8"
+    },
+    {
+      "id": "177964",
+      "author": "Michael Natkin",
+      "author_url": "https://herbivoracious.com",
+      "date": "2013-07-24 08:16:24",
+      "content": "Oh, that does *not* sound fun.",
+      "parent": "0",
+      "gravatar_hash": "a52f8f9146768ce0dc36a285e4c4d38d"
+    },
+    {
+      "id": "178502",
+      "author": "Kevin Smith",
+      "author_url": "http://www.westchestercountyjobs.com",
+      "date": "2013-07-25 06:58:40",
+      "content": "This looks splendidly good.",
+      "parent": "0",
+      "gravatar_hash": "89fd5718c9acdf8fd83b4eb0284d6c61"
+    },
+    {
+      "id": "180149",
+      "author": "Madeleine",
+      "author_url": "http://www.veggiesaurus.org",
+      "date": "2013-07-28 05:14:27",
+      "content": "This sounds and looks delicious. I love learning about edible flowers, too!",
+      "parent": "0",
+      "gravatar_hash": "c42e91c949cf42a0d703b082df1a892c"
+    },
+    {
+      "id": "181087",
+      "author": "John",
+      "author_url": "http://fatburningproductreview.org",
+      "date": "2013-07-30 06:22:44",
+      "content": "This recipe sounds fantastic, will have to try it,\nHeard that Italians consider zucchini bigger than 4-5\" animal food. The should be eaten when small and tasty.",
+      "parent": "0",
+      "gravatar_hash": "99991c476417361203fcdeed720fd6cc"
+    }
+  ]
+}

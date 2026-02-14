@@ -1,0 +1,37 @@
+{{- $comment := .comment -}}
+{{- $allComments := .allComments -}}
+{{- $level := .level -}}
+{{- $maxLevel := 4 -}}
+{{- $displayLevel := $level -}}
+{{- if gt $level $maxLevel }}{{ $displayLevel = $maxLevel }}{{ end -}}
+
+<div class="comment comment-level-{{ $displayLevel }}" id="comment-{{ $comment.id }}">
+  <div class="comment-header">
+    {{- if $comment.gravatar_hash -}}
+    <img class="comment-avatar" src="https://www.gravatar.com/avatar/{{ $comment.gravatar_hash }}?s=40&d=mp" alt="" width="40" height="40" loading="lazy">
+    {{- else -}}
+    <img class="comment-avatar" src="https://www.gravatar.com/avatar/?s=40&d=mp" alt="" width="40" height="40" loading="lazy">
+    {{- end -}}
+    <div class="comment-meta">
+      <span class="comment-author">
+        {{- if $comment.author_url -}}
+          <a href="{{ $comment.author_url }}" rel="nofollow noopener" target="_blank">{{ $comment.author }}</a>
+        {{- else -}}
+          {{ $comment.author }}
+        {{- end -}}
+      </span>
+      <time class="comment-date">{{ $comment.date }}</time>
+    </div>
+  </div>
+  <div class="comment-body">
+    {{ $comment.content | safeHTML }}
+  </div>
+</div>
+
+{{- /* Render child comments */ -}}
+{{- $parentID := $comment.id -}}
+{{- range $allComments -}}
+  {{- if eq .parent $parentID -}}
+    {{ partial "comment.html" (dict "comment" . "allComments" $allComments "level" (add $level 1)) }}
+  {{- end -}}
+{{- end -}}

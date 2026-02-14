@@ -1,0 +1,23 @@
+{
+  "comment_count": 2,
+  "comments": [
+    {
+      "id": "4009",
+      "author": "Sara, Ms. Adventures in Italy",
+      "author_url": "http://www.msadventuresinitaly.com/blog",
+      "date": "2007-10-06 09:11:14",
+      "content": "The market there is definitely lovely..so much produce! Have a great time.",
+      "parent": "0",
+      "gravatar_hash": "6bfdd6ac0d5c6586eb15733d685d438f"
+    },
+    {
+      "id": "4010",
+      "author": "ACC",
+      "author_url": "",
+      "date": "2008-06-12 12:03:44",
+      "content": "I bought a fabulous herbal blend at the Campo dei Fiori food market in Rome last November called Mauro. It is a highly fragrant herbal blend combined with hot peppers and instructions are \"no cook.\" Does anyone know the herbs included in this wonderful herbal concoction?  All you need to do is sprinkle a small amount on pasta, pizza, antipasta -- wonderful. Thank you for responding if you can.",
+      "parent": "0",
+      "gravatar_hash": "a9597721bdda07a1526a627485f3822c"
+    }
+  ]
+}

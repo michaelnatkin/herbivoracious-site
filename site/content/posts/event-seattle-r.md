@@ -1,0 +1,9 @@
+---
+title: "Event: Seattle Restaurant Review 360"
+date: 2008-03-26T22:25:58
+slug: "event-seattle-r"
+categories: ["Miscellany"]
+aliases: ["/event-seattle-r/", "/2008/03/event-seattle-r.html"]
+---
+
+<p>Late breaking news: <a href="/2008/04/review-360-roun/">here's the roundup</a>!</p>  <p><a href="http://tofuhunter.blogspot.com/">Tofu Hunter</a> and I were chatting about the idea of both reviewing the same restaurant.&nbsp; It occurred to me that we could take it a step further and invite all of the food bloggers in our fair city (and visitors too) to participate. Everyone would bring their own perspective, and we'd get to see if we all agreed or saw things very differently. If we get a good response, we could make this a regular event. </p>  <p>For our first restaurant, I'm choosing <a href="http://www.txoribar.com/">Txori,</a> the tapas-style Belltown spot of Chef Joseba Jimenez de Jimenez, who is best known for Harvest Vine. I figure it would work out well because it is centrally located, and a meal doesn't have to be a big commitment. You can stop in, have a couple tapas and a drink and be out in 30 minutes if you want.<br /> </p>  <p>Interested? I hope you'll join me. Here's the logistics:</p>  <ol><li>Add a comment below with your name, and your blog URL so I know you plan to participate.</li>  <li>Visit the restaurant in the next two weeks, and write a post about it. Schedule the post to go live on Wednesday, 4/9. Have your post link back to this post. If you don't have a blog, feel free to add your review in comments here.</li>  <li>Feel free to make the review as short or long as you want, no pressure!</li>  <li>On Thursday, 4/10 I'll write a roundup article linking back to everyone's reviews along with the best quotes.</li>  <li>Have some fun with it! Add any twist that makes you happy.</li></ol>

@@ -1,0 +1,50 @@
+{
+  "comment_count": 5,
+  "comments": [
+    {
+      "id": "11827",
+      "author": "Soma Sengupta",
+      "author_url": "",
+      "date": "2011-12-14 09:48:37",
+      "content": "This looks great!  Thanks!",
+      "parent": "0",
+      "gravatar_hash": "598d7c1ea861966b5edc2a89aa87a70d"
+    },
+    {
+      "id": "11920",
+      "author": "Sylvie @ Gourmande in the Kitchen",
+      "author_url": "http://gourmandeinthekitchen.com",
+      "date": "2011-12-14 16:42:47",
+      "content": "I just love the idea of incorporating rosemary candied pecans in the panini!",
+      "parent": "0",
+      "gravatar_hash": "ec5897f88591ae7e432bf7d247201db9"
+    },
+    {
+      "id": "12148",
+      "author": "Regan @ The Professional Palate",
+      "author_url": "http://www.theprofessionalpalate.com",
+      "date": "2011-12-15 07:46:55",
+      "content": "I love the original recipe, of course... but you guys make it better and better with every new addition. Love it!! And thanks for including the linkback. \n\nYum, yum.",
+      "parent": "0",
+      "gravatar_hash": "314309f57790b92d8309c056ee37630f"
+    },
+    {
+      "id": "18438",
+      "author": "Curious",
+      "author_url": "",
+      "date": "2012-02-02 21:08:39",
+      "content": "What would you recommend to coat the pecan rather than egg whites?",
+      "parent": "0",
+      "gravatar_hash": "d10ca8d11301c2f4993ac2279ce4b930"
+    },
+    {
+      "id": "18440",
+      "author": "Kathy - Panini Happy",
+      "author_url": "http://www.paninihappy.com",
+      "date": "2012-02-02 21:24:45",
+      "content": "The egg whites allow the seasonings to adhere to the pecans while also baking up into a crisp coating. I'm not readily aware of other ingredients that can achieve the same effect. I've made spiced nuts with butter before - it doesn't create that same crunchy coating, but it may be an alternative.",
+      "parent": "18438",
+      "gravatar_hash": "3173541fef2db6b40f403784d5c76724"
+    }
+  ]
+}

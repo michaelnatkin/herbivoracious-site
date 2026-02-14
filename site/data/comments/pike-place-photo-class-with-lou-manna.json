@@ -1,0 +1,32 @@
+{
+  "comment_count": 3,
+  "comments": [
+    {
+      "id": "1985",
+      "author": "Alessandra",
+      "author_url": "http://alessandrazecchini.blogspot.com/",
+      "date": "2009-09-22 01:52:35",
+      "content": "Good tips!",
+      "parent": "0",
+      "gravatar_hash": "1d5879742202cb4c70bf1581416c7dfd"
+    },
+    {
+      "id": "1986",
+      "author": "The Spiritual Vegan",
+      "author_url": "http://www.thespiritualvegan.wordpress.com",
+      "date": "2009-09-23 05:29:54",
+      "content": "Wow, great photography! I'll keep in mind that about the light. I can really see that good photography would be very powerful for our blog.\n\nThe Spiritual Vegan - vegan recipes\nwww.thespiritualvegan.wordpress.com",
+      "parent": "0",
+      "gravatar_hash": "df3cc8aa2f6b8536df4ab9fa4506672d"
+    },
+    {
+      "id": "1987",
+      "author": "Hillary",
+      "author_url": "http://www.chewonthatblog.com",
+      "date": "2009-09-23 15:21:44",
+      "content": "Nice post - here are some more <a href=\"http://www.chewonthatblog.com/2008/08/13/seattles-pike-place-market/\" rel=\"nofollow\">snapshots of Pike Place market</a>! :)",
+      "parent": "0",
+      "gravatar_hash": "30a98e176497d2665d6ebe4e25a89382"
+    }
+  ]
+}

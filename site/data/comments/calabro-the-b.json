@@ -1,0 +1,50 @@
+{
+  "comment_count": 5,
+  "comments": [
+    {
+      "id": "92702",
+      "author": "Nicky",
+      "author_url": "http://www.nickyrobertscoaching.com",
+      "date": "2012-12-04 05:13:13",
+      "content": "Hi there,\nI am trying to find where to buy Calabro Ricotta cheese online as I haven't found a place to get it locally. Any suggestions? \nI love your website by the way. Love the content and design. Beautiful!",
+      "parent": "0",
+      "gravatar_hash": "4942e89977de2352e03fe9c8dee63745"
+    },
+    {
+      "id": "93553",
+      "author": "Michael Natkin",
+      "author_url": "https://herbivoracious.com",
+      "date": "2012-12-05 09:36:21",
+      "content": "Hey Nicky - I'm not sure that is a real feasible item to buy online because it is very perishable. If you can't find a delicious ricotta locally, you could also try making it yourself - it is quite easy: http://www.seriouseats.com/2010/02/how-to-make-fresh-ricotta-fast-easy-homemade-cheese-the-food-lab.html",
+      "parent": "92702",
+      "gravatar_hash": "a52f8f9146768ce0dc36a285e4c4d38d"
+    },
+    {
+      "id": "94120",
+      "author": "Nicky",
+      "author_url": "http://www.nickyrobertscoaching.com",
+      "date": "2012-12-06 06:03:29",
+      "content": "Thanks Michael! I'll try making it myself and see how that goes :)",
+      "parent": "93553",
+      "gravatar_hash": "4942e89977de2352e03fe9c8dee63745"
+    },
+    {
+      "id": "1313961",
+      "author": "Sara",
+      "author_url": "",
+      "date": "2015-06-07 10:24:15",
+      "content": "I had this when I lived in Manhattan. I'm now near zip 11365. Where can I buy it now? It was the best ricotta I ever ate!  Thanks. Sara",
+      "parent": "0",
+      "gravatar_hash": "e07f338e620fd6a886a8f265de1abd42"
+    },
+    {
+      "id": "1314157",
+      "author": "Annette",
+      "author_url": "",
+      "date": "2016-05-14 17:36:41",
+      "content": "I just discovered this ricotta and it's definitely the best!  I found it at Whole Foods. But its 20 miles away from me so not so easy to get there quickly. Next time I will buy more than one!",
+      "parent": "0",
+      "gravatar_hash": "e9a649011db4c60b8dd76726a0647b43"
+    }
+  ]
+}

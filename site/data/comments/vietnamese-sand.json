@@ -1,0 +1,32 @@
+{
+  "comment_count": 3,
+  "comments": [
+    {
+      "id": "4172",
+      "author": "Jill",
+      "author_url": "",
+      "date": "2007-09-17 01:41:37",
+      "content": "I happened upon your blog because it was attached to \"edamame\" entry at wikipedia.  What a happy accident as I am going to visit Seattle for the first time in just a week, and I am a vegetarian.  Thanks for the restauraunt suggestions, especially the vietnamnese subs.",
+      "parent": "0",
+      "gravatar_hash": ""
+    },
+    {
+      "id": "4173",
+      "author": "Michael Natkin",
+      "author_url": "",
+      "date": "2007-10-11 23:08:05",
+      "content": "Update: my last sandwich from Seattle Deli tasted a bit like fish sauce, so now I'd recommend Saigon Deli more.",
+      "parent": "0",
+      "gravatar_hash": "a52f8f9146768ce0dc36a285e4c4d38d"
+    },
+    {
+      "id": "19005",
+      "author": "goody-goody",
+      "author_url": "",
+      "date": "2012-02-10 09:52:51",
+      "content": "I love these sandwiches! I had a really good one in San Francisco on my last visit at Urban Picnic. http://www.urbanpicnicsf.com/ I think it had tempeh in it.",
+      "parent": "0",
+      "gravatar_hash": "1a417822b4f6759cdbc82a19592a136b"
+    }
+  ]
+}

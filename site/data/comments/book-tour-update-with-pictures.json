@@ -1,0 +1,113 @@
+{
+  "comment_count": 12,
+  "comments": [
+    {
+      "id": "23622",
+      "author": "Pat Machin",
+      "author_url": "http://ayorkshirecook.com/",
+      "date": "2012-05-06 05:10:43",
+      "content": "Looks as if you are having fun!  Any idea when it will be released on this side of the Atlantic?",
+      "parent": "0",
+      "gravatar_hash": "05317225bb48fe72158483da32d90b57"
+    },
+    {
+      "id": "23633",
+      "author": "Nilam",
+      "author_url": "http://khavanu.blogspot.com",
+      "date": "2012-05-06 14:57:23",
+      "content": "what a delight to follow along with you! Excellent write-up and pics! Can't wait to pick up my copy!",
+      "parent": "0",
+      "gravatar_hash": "39a80437f59150fc64ae46179001398a"
+    },
+    {
+      "id": "23638",
+      "author": "Michael Natkin",
+      "author_url": "https://herbivoracious.com",
+      "date": "2012-05-06 17:25:23",
+      "content": "To the best of my knowledge it should be in bookstores in the UK now. If you don't find it, you'll be doing me a favor if you ask - it will be good for booksellers to know there is demand. Thanks, Michael.",
+      "parent": "23622",
+      "gravatar_hash": "a52f8f9146768ce0dc36a285e4c4d38d"
+    },
+    {
+      "id": "23642",
+      "author": "Pat Machin",
+      "author_url": "http://ayorkshirecook.com/",
+      "date": "2012-05-06 22:21:45",
+      "content": "Amazon.co.uk say release date is 13 September.  Have put it on my wish list :-)",
+      "parent": "23638",
+      "gravatar_hash": "05317225bb48fe72158483da32d90b57"
+    },
+    {
+      "id": "23648",
+      "author": "Michael Natkin",
+      "author_url": "https://herbivoracious.com",
+      "date": "2012-05-07 04:38:51",
+      "content": "I'll look into this, I can't imagine why it should be so much later! Seems like a mistake.",
+      "parent": "23642",
+      "gravatar_hash": "a52f8f9146768ce0dc36a285e4c4d38d"
+    },
+    {
+      "id": "23649",
+      "author": "Linda",
+      "author_url": "http://plantbasedplanet.blogspot.com/",
+      "date": "2012-05-07 04:46:34",
+      "content": "We enjoyed meeting you in Austin and hope to see more of you in the future! Here are the pictures I took at Natural Epicurean, you are welcome to snag copies of the ones you want! Thanks for the very tasty food!\n\nhttp://plantbasedplanet.blogspot.com/",
+      "parent": "0",
+      "gravatar_hash": "399db7fb834aed32fbcffdcb8b717aba"
+    },
+    {
+      "id": "23650",
+      "author": "Michael Natkin",
+      "author_url": "https://herbivoracious.com",
+      "date": "2012-05-07 05:00:15",
+      "content": "Those are great, thank you for sharing! You guys at NE are a really cool group.",
+      "parent": "23649",
+      "gravatar_hash": "a52f8f9146768ce0dc36a285e4c4d38d"
+    },
+    {
+      "id": "23651",
+      "author": "Pat Machin",
+      "author_url": "http://ayorkshirecook.com/",
+      "date": "2012-05-07 05:00:42",
+      "content": "I'll check most days and let you know when it appears.",
+      "parent": "23648",
+      "gravatar_hash": "05317225bb48fe72158483da32d90b57"
+    },
+    {
+      "id": "23661",
+      "author": "Jackie @ The Beeroness",
+      "author_url": "http://thebeeroness.com",
+      "date": "2012-05-07 11:53:02",
+      "content": "I had a great time at the Culver City event! So great to meet you and now all I can think about it saut\u00e9ing grapes.",
+      "parent": "0",
+      "gravatar_hash": "e51d777f1bd395f4a1c723a587b0cba7"
+    },
+    {
+      "id": "23684",
+      "author": "Michael Natkin",
+      "author_url": "https://herbivoracious.com",
+      "date": "2012-05-08 04:34:59",
+      "content": "Thanks, Jackie! I was just checking out your blog, your photos are gorgeous,  and the flavor pairings sound great.",
+      "parent": "23661",
+      "gravatar_hash": "a52f8f9146768ce0dc36a285e4c4d38d"
+    },
+    {
+      "id": "23782",
+      "author": "indigo",
+      "author_url": "",
+      "date": "2012-05-10 17:36:02",
+      "content": "omg I'm on the blog! Great to see you at the beginning of your tour! I've been reading the book -- so fabulous, as I knew it would be of course :)",
+      "parent": "0",
+      "gravatar_hash": "93002035ce03990e0ca081c6ceeff398"
+    },
+    {
+      "id": "24557",
+      "author": "Mike Lyons",
+      "author_url": "http://dietiscorrect.wordpress.com",
+      "date": "2012-05-24 04:16:19",
+      "content": "Thanks for stopping over in Austin, Michael. Enjoyed the demonstration at The Natural Epicurean.",
+      "parent": "0",
+      "gravatar_hash": "4375a8da697e51664388fee59a59b2fd"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{{ define "main" }}
+<div class="site-content">
+  <main class="main-content">
+    <div class="taxonomy-header">
+      <h1>{{ .Title }}</h1>
+    </div>
+    <ul class="topics-list topics-list--page">
+      {{ range .Data.Terms.Alphabetical }}
+      <li>
+        <a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
+        <span class="count">({{ .Count }})</span>
+      </li>
+      {{ end }}
+    </ul>
+  </main>
+  {{ partial "sidebar.html" . }}
+</div>
+{{ end }}

@@ -1,0 +1,23 @@
+{
+  "comment_count": 2,
+  "comments": [
+    {
+      "id": "4072",
+      "author": "Snacky Pants",
+      "author_url": "",
+      "date": "2007-08-25 00:14:56",
+      "content": "thats the way, uhu uhu, I like it :)",
+      "parent": "0",
+      "gravatar_hash": ""
+    },
+    {
+      "id": "4073",
+      "author": "Tofu Mom",
+      "author_url": "http://tofu-n-sproutz.blogspot.com/",
+      "date": "2007-08-25 22:38:54",
+      "content": "Cool. The name is great. Describes your blog very well I'd say!",
+      "parent": "0",
+      "gravatar_hash": "1a0b4a32e20aa0dec8b1491f2bea1ad6"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+---
+title: "Shanghai Garden - Seattle, International District - Capsule Restaurant Review"
+date: 2008-11-30T22:38:44
+slug: "shanghai-garden-seattle-international-district-capsule-restaurant-review"
+---
+
+<p>Shanghai Garden is one of my favorite places. My 3.5 year old daughter and I make it a regular date after swim class, and the waitresses treat her like a rock star. Last night we went with a big group of our extended family. This is probably not the place for the absolutely most adventurous eaters of Chinese food in Seattle, looking for organ meats and tendons and so forth. (Check out <a href="http://gastrolust.com">gastrolust.com</a> for tips on that). But for those of who like solid favorites, consistently well prepared, it is a winner.</p><p>My favorite vegetarian dishes: crispy bean curd in either black bean sauce or Szechwan sauce (kinda sweet) - the tofu is crispy on the outside and creamy on the inside. Mu-shu vegetable - best ever, plus the waitresses dextrously wrap them for you with chopsticks. Dry-fried string beans, hold the meat. Handshaven noodles, either "barleygreen" or regular (a house specialty). Pea vines if you want to spend the big bucks. Avoid at all costs the vegetarian potstickers, they are mushy and gross. </p><p><a href="http://www.urbanspoon.com/r/1/3913/restaurant/International-District/Shanghai-Garden-Seattle"><img  alt="Shanghai Garden on Urbanspoon" src="http://www.urbanspoon.com/b/link/3913/biglink.gif" style="border: medium none ; width: 200px; height: 146px;"></a></p>

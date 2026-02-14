@@ -1,0 +1,50 @@
+{
+  "comment_count": 5,
+  "comments": [
+    {
+      "id": "27979",
+      "author": "Lorii Abela",
+      "author_url": "http://manifestingyourtruelove.com/",
+      "date": "2012-06-18 06:12:08",
+      "content": "Great recipe!.. Thanks for sharing.",
+      "parent": "0",
+      "gravatar_hash": "afd0a7264cdf9587bd752f074c9991b7"
+    },
+    {
+      "id": "28050",
+      "author": "Marina@ Picnic at Marina",
+      "author_url": "http://www.picnicatmarina.com",
+      "date": "2012-06-18 12:57:53",
+      "content": "Yes, Michael, I agree, microplane is an universal tool in the kitchen, no hat needed! :) What is with me and cinnamon? I see it in a recipe and just skip it. Although I used it in one of your recipes, Mujadara. Was very good, and I am sure this one is delicious as well.",
+      "parent": "0",
+      "gravatar_hash": "8e1565ea2a6e22a58f9d461f2938c35d"
+    },
+    {
+      "id": "28052",
+      "author": "Betty Ann @Mango_Queen",
+      "author_url": "http://www.asianinamericamag.com",
+      "date": "2012-06-18 13:02:42",
+      "content": "We love rice and have it at all meals. This is a great new way to do it. I must try it soon. Thanks for sharing, Michael!",
+      "parent": "0",
+      "gravatar_hash": "2f47cf20944759bec2f5c79ae8ee733f"
+    },
+    {
+      "id": "28512",
+      "author": "Marnely Rodriguez",
+      "author_url": "http://cookingwithbooks.blogspot.com/",
+      "date": "2012-06-19 18:58:30",
+      "content": "Coincidentally, I made a soup at work today with these same spices: cumin, cinnamon, cayenne! Roasted veggies in a vegetable broth, everyone loved it! Should've made some pilaf to go with it!",
+      "parent": "0",
+      "gravatar_hash": "ac5086244fdd7cc0bf860db069b29c71"
+    },
+    {
+      "id": "28538",
+      "author": "Michael Natkin",
+      "author_url": "https://herbivoracious.com",
+      "date": "2012-06-19 20:35:19",
+      "content": "Any chayote squash :)?",
+      "parent": "28512",
+      "gravatar_hash": "a52f8f9146768ce0dc36a285e4c4d38d"
+    }
+  ]
+}

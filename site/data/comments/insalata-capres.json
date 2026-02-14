@@ -1,0 +1,32 @@
+{
+  "comment_count": 3,
+  "comments": [
+    {
+      "id": "3351",
+      "author": "Joanna",
+      "author_url": "http://scalloped-edge.blogspot.com",
+      "date": "2008-08-21 10:47:03",
+      "content": "Mmmm... best salad ever.  My problem this year has been that I keep eating all the tomatoes I've been buying before I have a chance to buy mozzarella.  I'll have to change that ASAP so I can make this!  (I usually add a little drizzle of balsamic too.)",
+      "parent": "0",
+      "gravatar_hash": "162fb33db8c91df1cb51af7780965c65"
+    },
+    {
+      "id": "3352",
+      "author": "Tom Aarons",
+      "author_url": "http://tamarindtrees.net",
+      "date": "2008-08-22 03:36:51",
+      "content": "This is almost like the essence of summer evening or something. Yum!",
+      "parent": "0",
+      "gravatar_hash": "74ed0ad8c8842f271321b0467b70d6d4"
+    },
+    {
+      "id": "3353",
+      "author": "Ben",
+      "author_url": "http://bengarland.com",
+      "date": "2008-08-22 07:42:25",
+      "content": "I was going to say this would be excellent with Purple Cherokees but you beat me to it!",
+      "parent": "0",
+      "gravatar_hash": "fb15d82b23600461360e08daae89808d"
+    }
+  ]
+}

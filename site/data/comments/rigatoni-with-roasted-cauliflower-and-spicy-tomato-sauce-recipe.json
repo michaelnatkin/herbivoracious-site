@@ -1,0 +1,86 @@
+{
+  "comment_count": 9,
+  "comments": [
+    {
+      "id": "48492",
+      "author": "Marina@Picnic at Marina",
+      "author_url": "http://www.picnicatmarina.com",
+      "date": "2012-09-03 13:30:53",
+      "content": "Hi Michael, that pasta attachment is so cool, I am looking into buying one in addition to my pasta roller attachment, that is heavily used in my kitchen.  I wish Kitchen Aid send me something to test too! :) \nAnyway, your rigatoni looks fantastic all spiced up in smoked paprika. Michael, forgive me my culinary illiteracy but what vodka does in sauces? I understand adding wine or  liqueur to enhance the flavor. But vodka? Alcohol evaporates during heating, and what is left from vodka after?",
+      "parent": "0",
+      "gravatar_hash": "8e1565ea2a6e22a58f9d461f2938c35d"
+    },
+    {
+      "id": "48499",
+      "author": "Michael Natkin",
+      "author_url": "https://herbivoracious.com",
+      "date": "2012-09-03 14:01:40",
+      "content": "Good question! The theory (and I haven't done a side-by-side to test) is that alcohol can extract some flavor compounds from the other ingredients that aren't easily dissolved in either fat or water, before evaporating itself. It would be well worth doing a controlled experiment to see if this has any validity.",
+      "parent": "48492",
+      "gravatar_hash": "a52f8f9146768ce0dc36a285e4c4d38d"
+    },
+    {
+      "id": "48500",
+      "author": "Marina@Picnic at Marina",
+      "author_url": "http://www.picnicatmarina.com",
+      "date": "2012-09-03 14:04:39",
+      "content": "Thanks Michael! I didn't do side-by-side test either in cooking, but I tasted tomato sauce with vodka and a regular one, same brand, and I didn't taste a difference. I am intrigued now... :)",
+      "parent": "48499",
+      "gravatar_hash": "8e1565ea2a6e22a58f9d461f2938c35d"
+    },
+    {
+      "id": "48527",
+      "author": "Stephanie, The Recipe Renovator",
+      "author_url": "http://gravatar.com/reciperenovator",
+      "date": "2012-09-03 15:59:57",
+      "content": "Hey, I will definitely be renovating this recipe... love the inspiration. It's my understanding that alcohol does not completely cook off, so people allergic to alcohol, or people who are sensitive to it (i.e. alcoholics) should avoid cooking with it at all. I definitely can taste the flavor of the vodka in vodka sauce. Plus, I love saying Wodka. And, Mockba.",
+      "parent": "0",
+      "gravatar_hash": "ae4ce01b589df3c3c03cde012ebee3d0"
+    },
+    {
+      "id": "48924",
+      "author": "Vegetarian",
+      "author_url": "http://www.sevenpoint2.com/",
+      "date": "2012-09-06 05:10:30",
+      "content": "I love rigatoni and I learned making it from an Italian friend of mine. We add prawns into the dish but I like your idea better of using veggies as substitute.",
+      "parent": "0",
+      "gravatar_hash": "bda7603876252c69c15f63b58a0bf6f0"
+    },
+    {
+      "id": "134892",
+      "author": "Monica",
+      "author_url": "",
+      "date": "2013-04-08 23:16:03",
+      "content": "Had to comment on this one! I've made this every other week since I discovered your website a few months back. We love it at my house, I like that I can make it quickly and its so tasty, the taste of the roasted cauliflower and the salty green olives.... YUM. Thanks for the great recipe, its given me the courage to try some of your other recipes that I would have never thought to try!",
+      "parent": "0",
+      "gravatar_hash": "20a3eaff680421411245c8519158a62f"
+    },
+    {
+      "id": "135032",
+      "author": "Michael Natkin",
+      "author_url": "https://herbivoracious.com",
+      "date": "2013-04-09 05:37:53",
+      "content": "That is so nice to hear, Monica!",
+      "parent": "134892",
+      "gravatar_hash": "a52f8f9146768ce0dc36a285e4c4d38d"
+    },
+    {
+      "id": "178810",
+      "author": "Jackie",
+      "author_url": "",
+      "date": "2013-07-25 18:03:49",
+      "content": "Your book and website are becoming my \"go to\" when I'm planning our next meal...as when I'm in the market wondering what I should make, or setting up my weekend cooking projects.  I've loved the chevre w/sauteed grapes, adored the red lentil/kabocha squash soup with harissa oil and the Ethiopian ful medames, received raves about the corn &amp; tomato confit risotto and roasted cauliflower with spicy tomato sauce/rigatoni...I am so excited to explore all of the recipes in the book because everything so far has been a smash!  And did I say, EASY?  Thanks!",
+      "parent": "0",
+      "gravatar_hash": "60c4c9b51d65231ecd74bf201da4a564"
+    },
+    {
+      "id": "178930",
+      "author": "Michael Natkin",
+      "author_url": "https://herbivoracious.com",
+      "date": "2013-07-25 20:55:15",
+      "content": "That's great to hear, Jackie! It makes me happy to know you've tried and enjoyed so many of the recipes.",
+      "parent": "178810",
+      "gravatar_hash": "a52f8f9146768ce0dc36a285e4c4d38d"
+    }
+  ]
+}

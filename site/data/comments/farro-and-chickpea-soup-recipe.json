@@ -1,0 +1,95 @@
+{
+  "comment_count": 10,
+  "comments": [
+    {
+      "id": "11500",
+      "author": "Sharon | Chinese Soup Pot",
+      "author_url": "http://www.chinesesuppot.com",
+      "date": "2011-12-13 11:55:07",
+      "content": "This soup looks hearty and satisfying.  I've never had farro before but it looks very healthy.",
+      "parent": "0",
+      "gravatar_hash": "6c0f12bf05e1550ef5d312dd37a96ead"
+    },
+    {
+      "id": "11608",
+      "author": "amee",
+      "author_url": "http://www.rabbitfoodrocks.blogspot.com",
+      "date": "2011-12-13 19:10:02",
+      "content": "I still think it's pretty.  :)  i love any soup w beans n greens.  :)  i like the new look of the site by the way.",
+      "parent": "0",
+      "gravatar_hash": "22476a0ce17918636d3355926c514729"
+    },
+    {
+      "id": "11791",
+      "author": "Sabrina",
+      "author_url": "",
+      "date": "2011-12-14 06:51:21",
+      "content": "Hi Michael,\n\nWhat does farro taste like and is it available at most super markets?",
+      "parent": "0",
+      "gravatar_hash": "3036a8c884687362e4c794156ff5ee84"
+    },
+    {
+      "id": "11817",
+      "author": "Michael @ Herbivoracious",
+      "author_url": "https://herbivoracious.com",
+      "date": "2011-12-14 09:26:42",
+      "content": "Hey Sabrina - farro has somewhat of a nutty, wheaty flavor. It is an ancient grain closely related to wheat. Stores like Whole Foods will have it but probably not an average grocery. You can also order it online; there is a link in the article.",
+      "parent": "11791",
+      "gravatar_hash": "18b93ab19ab9e4835b8e854e043deb0c"
+    },
+    {
+      "id": "72737",
+      "author": "Kate Ellington",
+      "author_url": "",
+      "date": "2012-11-02 05:48:46",
+      "content": "How much is your one bunch of mustard greens? I bought some for the first time yesterday, but they aren't attached to anything and I have no idea if the \"bunch\" I bought (rubber-banded together) is anywhere near the size of yours. Can you give me a weight or cup size?",
+      "parent": "0",
+      "gravatar_hash": "d274d83dbf4461a42d2d5925525a403f"
+    },
+    {
+      "id": "72788",
+      "author": "Michael Natkin",
+      "author_url": "https://herbivoracious.com",
+      "date": "2012-11-02 07:55:20",
+      "content": "Hi Kate - \n\nThat's a fair request, but I don't have a bunch in my house right now to weigh for you. The good news is, this isn't the kind of recipe that requires great precision to be delicious, so I think if you just use the rubber-banded bunch you bought, you should be just fine. Let me know how you like it!",
+      "parent": "72737",
+      "gravatar_hash": "a52f8f9146768ce0dc36a285e4c4d38d"
+    },
+    {
+      "id": "73014",
+      "author": "Kate Ellington",
+      "author_url": "",
+      "date": "2012-11-02 16:11:03",
+      "content": "Michael,\n\nThanks for the reply. I ended up using half the bunch but probably could have used more. And I messed up a few times along the way but, you're right, it was delicious regardless. Oh, and I added sauteed sliced button mushrooms because I have a thing for mushrooms in soup. Anyway, thanks for such a fabulous recipe! It's going on the regular winter soup rounds. :)",
+      "parent": "0",
+      "gravatar_hash": "d274d83dbf4461a42d2d5925525a403f"
+    },
+    {
+      "id": "73017",
+      "author": "Michael Natkin",
+      "author_url": "https://herbivoracious.com",
+      "date": "2012-11-02 16:18:35",
+      "content": "Good deal!",
+      "parent": "73014",
+      "gravatar_hash": "a52f8f9146768ce0dc36a285e4c4d38d"
+    },
+    {
+      "id": "96606",
+      "author": "Liz",
+      "author_url": "",
+      "date": "2012-12-09 13:11:16",
+      "content": "I'm not a farro fan, but I like this recipe.  You cook the farro for longer than I've read elsewhere (15-30 mins. is what I've read, you did 50 mins.).  Any reason?  Also, I didn't have mustard greens, so used Lacinto kale; and cannelini for chick peas. Going for the Italian feel.  Also added a little cabbage, shallots.  Perfect December dinner soup. Thanks for posting.",
+      "parent": "0",
+      "gravatar_hash": "efa7580918a854b1d9a262ea78ebb8cb"
+    },
+    {
+      "id": "96823",
+      "author": "Michael Natkin",
+      "author_url": "https://herbivoracious.com",
+      "date": "2012-12-09 20:47:27",
+      "content": "Well, two things about the cooking time for farro: (1) it can vary a lot depending on whether it is whole grain or semi-pearled, and (2) I like it as tender as I can get it. I'm just not a big fan of really chewy grains. My personal take I guess. Your choices for the greens and beans sounds great!",
+      "parent": "96606",
+      "gravatar_hash": "a52f8f9146768ce0dc36a285e4c4d38d"
+    }
+  ]
+}

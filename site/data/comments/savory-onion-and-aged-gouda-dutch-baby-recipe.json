@@ -1,0 +1,50 @@
+{
+  "comment_count": 5,
+  "comments": [
+    {
+      "id": "1913",
+      "author": "So Many Recipes",
+      "author_url": "http://www.somanyrecipes.com",
+      "date": "2009-10-08 07:50:22",
+      "content": "This looks fabulous. I love the apple salad idea as an accompaniment. Great recipe!",
+      "parent": "0",
+      "gravatar_hash": "cfbf4cd9adc7ecd776c50505357b7b32"
+    },
+    {
+      "id": "1914",
+      "author": "Xiaolu @ 6 Bittersweets",
+      "author_url": "http://www.6bittersweets.com",
+      "date": "2009-10-08 21:55:17",
+      "content": "This looks fantastic as most of your photos do, Michael! I've been reading your blog a long time and recently started actively blogging myself. I wanted to let you know that I just posted an award for you on my site. Please drop by if you have the time.",
+      "parent": "0",
+      "gravatar_hash": "c90f8e5d3f0ef8fd93e1605d8c6a2f61"
+    },
+    {
+      "id": "17675",
+      "author": "Alana",
+      "author_url": "",
+      "date": "2012-01-21 15:39:07",
+      "content": "Michael, I've been making this and bringing it to parties as a little appetizer, cut into small pieces. I am still collecting the marriage proposals.",
+      "parent": "0",
+      "gravatar_hash": "688f27e683e418bf82073fba81b0f095"
+    },
+    {
+      "id": "17680",
+      "author": "Michael Natkin",
+      "author_url": "https://herbivoracious.com",
+      "date": "2012-01-21 20:07:41",
+      "content": "Well I think any proposal issued as a direct response to a savory Dutch Baby is well worth entertaining. Clearly they are gentlemen (or women) of substance and distinction.",
+      "parent": "17675",
+      "gravatar_hash": "a52f8f9146768ce0dc36a285e4c4d38d"
+    },
+    {
+      "id": "48841",
+      "author": "Lisa",
+      "author_url": "",
+      "date": "2012-09-05 12:18:03",
+      "content": "I got thee to a GOOD cheesemonger, didn't see Walla Walla onions so I used shallots for savory flavor and I had a strong desire to pop in this recipe Lump crab.  It looks great as its finishing.  Thanks for a great recipe!",
+      "parent": "0",
+      "gravatar_hash": "a71cdcfa3ba47ac748c9c61ff5085c61"
+    }
+  ]
+}

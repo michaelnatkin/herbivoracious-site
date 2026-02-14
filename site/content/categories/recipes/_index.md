@@ -1,0 +1,4 @@
+---
+title: "Recipes"
+aliases: ["/recipes/"]
+---

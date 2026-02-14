@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
+  <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+  <meta name="author" content="{{ .Site.Params.author }}">
+  <link rel="canonical" href="{{ .Permalink }}">
+  <link rel="alternate" type="application/rss+xml" href="{{ "index.xml" | absURL }}" title="{{ .Site.Title }}">
+  {{- with .Params.cover }}{{ with .image }}
+  <meta property="og:image" content="{{ . | absURL }}">
+  {{- end }}{{ end }}
+  <meta property="og:title" content="{{ .Title }}">
+  <meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+  <link rel="icon" href="/favicon.ico">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=DM+Sans:ital,wght@0,400;0,500;0,600;1,400&family=Lora:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <div class="site-logo">
+        <a href="/"><img src="/images/logo.png" alt="herbivoracious" class="logo-img"></a>
+      </div>
+      <nav class="site-nav">
+        <a href="/categories/recipes/">recipes</a>
+        <a href="/get-the-herbivoracious-cookbook/">cookbook</a>
+        <a href="/categories/">topics</a>
+        <a href="/archives/">archives</a>
+        <a href="/about/">about</a>
+        <a href="/search/">search</a>
+      </nav>
+    </div>
+  </header>
+
+  {{ block "main" . }}{{ end }}
+
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <p class="footer-tagline">
+        Herbivoracious is your source for the best <a href="/categories/recipes/">veggie recipes</a>,
+        including many <a href="/categories/vegan-or-modifiable/">vegan</a> and
+        <a href="/categories/gluten-free-or-modifiable/">gluten-free recipes</a>
+        and easy vegetarian recipes for even the busiest families.
+      </p>
+      <p class="footer-copy">
+        &copy; Michael Natkin / Herbivoracious.com 2007&ndash;2013. All rights reserved.
+      </p>
+    </div>
+  </footer>
+</body>
+</html>

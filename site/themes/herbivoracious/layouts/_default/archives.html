@@ -1,0 +1,24 @@
+{{ define "main" }}
+<div class="site-content">
+  <main class="main-content">
+    <div class="taxonomy-header">
+      <h1>Archives</h1>
+    </div>
+    {{ $pages := where .Site.RegularPages "Section" "posts" }}
+    {{ range $pages.GroupByDate "2006" }}
+    <div class="archive-year">
+      <h2>{{ .Key }}</h2>
+      <ul class="archive-posts">
+        {{ range .Pages }}
+        <li>
+          <span class="date">{{ .Date.Format "Jan 2" }}</span>
+          <a href="{{ .Permalink }}">{{ .Title }}</a>
+        </li>
+        {{ end }}
+      </ul>
+    </div>
+    {{ end }}
+  </main>
+  {{ partial "sidebar.html" . }}
+</div>
+{{ end }}

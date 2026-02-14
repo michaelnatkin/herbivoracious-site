@@ -1,0 +1,41 @@
+{
+  "comment_count": 4,
+  "comments": [
+    {
+      "id": "3371",
+      "author": "[eatingclub] vancouver || js",
+      "author_url": "http://www.eatingclubvancouver.com",
+      "date": "2008-08-12 21:16:47",
+      "content": "I stand (okay, I'm actually sitting right now) in awe of your creativity. This is a fabulous way to showcase lychees. And here I thought that lychees were quite boring.",
+      "parent": "0",
+      "gravatar_hash": "42b70c6dff6ac61c95301855b02bb636"
+    },
+    {
+      "id": "3372",
+      "author": "Maggie",
+      "author_url": "http://doghillkitchen.blogspot.com",
+      "date": "2008-08-16 19:42:16",
+      "content": "This is my favorite of the three lychee amuses.  The presentation is really beautiful.",
+      "parent": "0",
+      "gravatar_hash": "0e135e68740f32d56b94538034bcd94d"
+    },
+    {
+      "id": "41721",
+      "author": "Ivan Van Laningham",
+      "author_url": "",
+      "date": "2012-07-27 14:09:05",
+      "content": "I'm surprised that your wife can eat lychees, since they (and their relatives, rambutan, longan, and so on) are not fruit but the soft flesh that surrounds inedible (and somewhat toxic) tree nuts.  It's not a risk I would be willing to take if I were cooking for her.",
+      "parent": "0",
+      "gravatar_hash": "d0535fb13342f855875e7d57e8239b15"
+    },
+    {
+      "id": "41725",
+      "author": "Michael Natkin",
+      "author_url": "https://herbivoracious.com",
+      "date": "2012-07-27 14:16:03",
+      "content": "That's an interesting point. She doesn't particularly like lychee, so I don't think it is an issue going forward, but she has tasted them and had no reaction. I see what you mean though, if whatever she's allergic to is present in the nut (pit), maybe it could leach out into the fruit. Thanks for bringing that up!",
+      "parent": "41721",
+      "gravatar_hash": "a52f8f9146768ce0dc36a285e4c4d38d"
+    }
+  ]
+}

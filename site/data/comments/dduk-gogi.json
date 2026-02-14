@@ -1,0 +1,464 @@
+{
+  "comment_count": 51,
+  "comments": [
+    {
+      "id": "18682",
+      "author": "Desi Cabrera",
+      "author_url": "http://www.miratelinc.com/blog",
+      "date": "2012-02-06 07:21:44",
+      "content": "Fantastic recipe!  I will need to give this a try.  As a participant of the Meatless Monday\u2019s initiative at my office, we\u2019re always sharing a vegetarian recipe. Today\u2019s is a Moroccan Vegetable Tagine. Drop by and take a look when you get a chance. Bon Appetit! http://www.miratelinc.com/blog/meatless-monday-with-moroccan-vegetable-tagine/",
+      "parent": "0",
+      "gravatar_hash": "2ad7b6bf40852cdb8386670ed57ddc84"
+    },
+    {
+      "id": "18686",
+      "author": "raquel@eRecipe.com",
+      "author_url": "http://www.erecipe.com",
+      "date": "2012-02-06 08:21:26",
+      "content": "It looks very delicious... I am very into eating Korean foods..... this recipe is on my list tonight! =)",
+      "parent": "0",
+      "gravatar_hash": "ebda16af4525821c706064fe9226303e"
+    },
+    {
+      "id": "18687",
+      "author": "esther",
+      "author_url": "http://www.ambitiousdeliciousness.com",
+      "date": "2012-02-06 08:32:37",
+      "content": "Loooooove this dish!! It was one of my favorite snacks while growing up in Korea. =) \n\nMy mom uses anchovies and kelp together instead of plain water for a more flavorful dish. Thank you for posting!!",
+      "parent": "0",
+      "gravatar_hash": "f893dedb020516080d40854e3e601d48"
+    },
+    {
+      "id": "18688",
+      "author": "Michael Natkin",
+      "author_url": "https://herbivoracious.com",
+      "date": "2012-02-06 08:55:47",
+      "content": "No anchovies for me, but kelp or kombu would make a ton of sense.",
+      "parent": "18687",
+      "gravatar_hash": "a52f8f9146768ce0dc36a285e4c4d38d"
+    },
+    {
+      "id": "18690",
+      "author": "Jenny",
+      "author_url": "http://vegetarianhatesvegetables.blogspot",
+      "date": "2012-02-06 09:16:29",
+      "content": "At first glance, I thought those were water chestnuts.  They sound fantastic!  I love coming to your site and being able to find vegetarian recipes from around the world.",
+      "parent": "0",
+      "gravatar_hash": "efd63fa22c1a4cd1b5e1e7c8fc2b99bb"
+    },
+    {
+      "id": "18700",
+      "author": "Emer from EverydayVegetarianRecipes",
+      "author_url": "http://www.everyday-vegetarian-recipes.com/",
+      "date": "2012-02-06 11:53:51",
+      "content": "This really looks and sounds wonderful. Time to go grocery shopping for me. I'm definitely going to give it a go. I'm ashamed to say I've cooked very little Korean food in spite of travelling there in the past. Great food in Korea - even if a little challenging as a vegetarian at times.",
+      "parent": "0",
+      "gravatar_hash": "a03b38103ebcd1cd685aa8ff9df8fa89"
+    },
+    {
+      "id": "18720",
+      "author": "jkim",
+      "author_url": "",
+      "date": "2012-02-06 18:39:41",
+      "content": "it's cool you do veg korean with normally non veg dishes.  i'm the only person i know who does that and they look really good too though in my fam we put garlic in most everything including this dish.  potato and sweet potato chunks are also good in this.  i like your kimchichigae recipe!  up until now i thought the only people who put miso (dwanjiang) in their kimcheechigae were women on my mom's side of the family.  soy bean sprouts insted of tofu is very nice it that dish.  it was my favourite part growing up.",
+      "parent": "0",
+      "gravatar_hash": "a0432b0e09bdfc683a3896cdda26bfe9"
+    },
+    {
+      "id": "18733",
+      "author": "Ellie P.",
+      "author_url": "",
+      "date": "2012-02-06 22:23:31",
+      "content": "Perfect timing! Just this weekend I was enviously eyeing my omnivorous companion's pork and rice cake soup at a Korean restaurant where we had lunch. I look forward to making this soon--it looks amazing.",
+      "parent": "0",
+      "gravatar_hash": "3c065140be110f115eb5cd60bd291071"
+    },
+    {
+      "id": "18780",
+      "author": "Hanna",
+      "author_url": "",
+      "date": "2012-02-07 19:31:17",
+      "content": "This is a great snack in the cold weather outside. One of my favorite combinations is a serving of tteokbokki and fried sweet potato. Starch on starch, indeed!",
+      "parent": "0",
+      "gravatar_hash": "96ee9402ee836674eab5d50b60397c09"
+    },
+    {
+      "id": "18786",
+      "author": "Michael Natkin",
+      "author_url": "https://herbivoracious.com",
+      "date": "2012-02-07 19:51:02",
+      "content": "I've just grown to love Korean food. Every new dish I try is my new favorite thing. For years, the only Korean food I ate was bibimbap b/c I could reliably get it vegetarian, but now that I'm feeling comfortable cooking this cuisine at home, it has opened a world of possibilities.",
+      "parent": "18700",
+      "gravatar_hash": "a52f8f9146768ce0dc36a285e4c4d38d"
+    },
+    {
+      "id": "18787",
+      "author": "Michael Natkin",
+      "author_url": "https://herbivoracious.com",
+      "date": "2012-02-07 19:52:09",
+      "content": "Looks like you and jkim above both vote for the sweet potato... I'll have to give that a try next time.",
+      "parent": "18780",
+      "gravatar_hash": "a52f8f9146768ce0dc36a285e4c4d38d"
+    },
+    {
+      "id": "18789",
+      "author": "The Cozy Herbivore",
+      "author_url": "http://thecozyherbivore.blogspot.com",
+      "date": "2012-02-07 19:54:27",
+      "content": "I'm really getting into Korean food lately-- like many people, kimchi was my gateway drug. This looks beautiful, can't wait to give it a try!",
+      "parent": "0",
+      "gravatar_hash": "1d5985d7cc6f6858b98242094ff0124d"
+    },
+    {
+      "id": "18791",
+      "author": "Hanna",
+      "author_url": "",
+      "date": "2012-02-07 20:19:18",
+      "content": "I should clarify. In Korea, it's common to find street stands that serve tteokbokki and various fried things (sweet potato slices included). I'll order a serving of both and dip a fried item into the tteokbokki sauce before taking a bite. Great contrast of flavors and textures.",
+      "parent": "18787",
+      "gravatar_hash": "96ee9402ee836674eab5d50b60397c09"
+    },
+    {
+      "id": "18792",
+      "author": "Michael Natkin",
+      "author_url": "https://herbivoracious.com",
+      "date": "2012-02-07 20:22:43",
+      "content": "The inventiveness of street food never ceases to amaze me!",
+      "parent": "18791",
+      "gravatar_hash": "a52f8f9146768ce0dc36a285e4c4d38d"
+    },
+    {
+      "id": "18797",
+      "author": "myfudo",
+      "author_url": "http://www.myfudo.com",
+      "date": "2012-02-07 22:00:55",
+      "content": "I am bookmarking the page...There are times when I crave for korean dishes. Looks so delicious!",
+      "parent": "0",
+      "gravatar_hash": "4c6195789a00889b602d8512720a84f1"
+    },
+    {
+      "id": "18866",
+      "author": "Donna",
+      "author_url": "",
+      "date": "2012-02-08 14:52:02",
+      "content": "Michael, can you or anyone recommend a gluten-free kochujang? All i've found at my local asian grocery has had wheat in it :(",
+      "parent": "0",
+      "gravatar_hash": "8e924de97d0920c1377b347686d24bd6"
+    },
+    {
+      "id": "18869",
+      "author": "Michael Natkin",
+      "author_url": "https://herbivoracious.com",
+      "date": "2012-02-08 15:24:46",
+      "content": "Unfortunately no... I'm not gluten-free so I haven't had occasion to look. Anyone else? Well, ok, I did some googling and came up with this substitute: http://gfvegheads.wordpress.com/2010/07/06/gluten-free-victory-spicy-korean-bean-paste/ that sounds reasonable.",
+      "parent": "18866",
+      "gravatar_hash": "a52f8f9146768ce0dc36a285e4c4d38d"
+    },
+    {
+      "id": "18870",
+      "author": "Donna",
+      "author_url": "",
+      "date": "2012-02-08 15:27:42",
+      "content": "thank you so much for the link!! :D",
+      "parent": "18869",
+      "gravatar_hash": "8e924de97d0920c1377b347686d24bd6"
+    },
+    {
+      "id": "18955",
+      "author": "janvier25",
+      "author_url": "",
+      "date": "2012-02-09 18:04:46",
+      "content": "Wow, what timing: I came to the site to look for a shiitake mushroom recipe and you have one that also uses the brown tteok, eggplants and miso I bought this week for which I had no particular plan - thanks!",
+      "parent": "0",
+      "gravatar_hash": "e6337c537d1e04e7f1a7a181148983ba"
+    },
+    {
+      "id": "18967",
+      "author": "Michael Natkin",
+      "author_url": "https://herbivoracious.com",
+      "date": "2012-02-09 20:55:41",
+      "content": "Clearly it was meant to be! Let me know how it turns out.",
+      "parent": "18955",
+      "gravatar_hash": "a52f8f9146768ce0dc36a285e4c4d38d"
+    },
+    {
+      "id": "19004",
+      "author": "goody-goody",
+      "author_url": "",
+      "date": "2012-02-10 09:36:22",
+      "content": "This was dinner last night. Really, really, really good! Thanks!",
+      "parent": "0",
+      "gravatar_hash": "1a417822b4f6759cdbc82a19592a136b"
+    },
+    {
+      "id": "19007",
+      "author": "Michael Natkin",
+      "author_url": "https://herbivoracious.com",
+      "date": "2012-02-10 10:33:09",
+      "content": "Awesome! Always exciting to hear when folks take on some of the recipes that might be a little more unusual in terms of ingredients.",
+      "parent": "19004",
+      "gravatar_hash": "a52f8f9146768ce0dc36a285e4c4d38d"
+    },
+    {
+      "id": "19094",
+      "author": "Lannie",
+      "author_url": "http://www.the5to9cook.com",
+      "date": "2012-02-11 23:15:45",
+      "content": "YUM my mom used to make something very similar, with more Chinese ingredients.  This sounds so comforting :)",
+      "parent": "0",
+      "gravatar_hash": "b780eaff17b5e2cb98ffb37a425799aa"
+    },
+    {
+      "id": "19096",
+      "author": "Michael Natkin",
+      "author_url": "https://herbivoracious.com",
+      "date": "2012-02-11 23:28:08",
+      "content": "Tell me more, what goes in the Chinese version?",
+      "parent": "19094",
+      "gravatar_hash": "a52f8f9146768ce0dc36a285e4c4d38d"
+    },
+    {
+      "id": "19145",
+      "author": "Adam from Scholars Wine Bar",
+      "author_url": "http://www.scholarswinebar.com.au/",
+      "date": "2012-02-13 03:30:47",
+      "content": "Thanks for including which ingredients have gluten in them. \n\nMy girlfriend isn't vegan by any means but she needs to avoid gluten whenever possible and this looks absolute scrumptious - take it from a carnivore ;)",
+      "parent": "0",
+      "gravatar_hash": "5cd0571dd4853fc574205fafa215fefd"
+    },
+    {
+      "id": "19191",
+      "author": "janvier25",
+      "author_url": "",
+      "date": "2012-02-13 21:42:53",
+      "content": "Sadly, it didn't turn out well, but it wasn't the fault of the recipe - I couldn't eat it until 3 hours after it was ready, so the noodles were gummy. I also threw in cabbage and cooked kabocha. Didn't have kochujang, so used miso and habanero, which worked fine. I'd double all the seasonings next time (except the habanero, that was perfect).\n\nIf you use fresh noodles as I did, you need to have everything go in at once, by the way, since they take less than 5 minutes to cook.",
+      "parent": "18967",
+      "gravatar_hash": "e6337c537d1e04e7f1a7a181148983ba"
+    },
+    {
+      "id": "19192",
+      "author": "Michael Natkin",
+      "author_url": "https://herbivoracious.com",
+      "date": "2012-02-13 21:51:08",
+      "content": "Oooh, yeah, I can't imagine this would be good three hours later! Better luck next time.",
+      "parent": "19191",
+      "gravatar_hash": "a52f8f9146768ce0dc36a285e4c4d38d"
+    },
+    {
+      "id": "19453",
+      "author": "sarah",
+      "author_url": "http://wwwvegetarianlifestylecom.blogspot.com/",
+      "date": "2012-02-18 14:24:07",
+      "content": "Great Recipes!!!!! I am starting up a blog that mainly focus on positive factors of vegetarianism.\nhttp://wwwvegetarianlifestylecom.blogspot.com/  , I am trying to network with people that have an interest on vegetarianism, you are welcome to my blog =) And im also trying your great recipes.",
+      "parent": "0",
+      "gravatar_hash": "0a72302ce0339ed16645ab0ec002c766"
+    },
+    {
+      "id": "19583",
+      "author": "MK",
+      "author_url": "",
+      "date": "2012-02-20 17:12:13",
+      "content": "Do the rice cakes need to be thawed before using in this recipe?",
+      "parent": "0",
+      "gravatar_hash": "92e667bae79c6952255fa46170d8e736"
+    },
+    {
+      "id": "19586",
+      "author": "Michael Natkin",
+      "author_url": "https://herbivoracious.com",
+      "date": "2012-02-20 17:37:10",
+      "content": "I didn't find it to be necessary, but I have seen some folks who thaw them in warm water for a few minutes.",
+      "parent": "19583",
+      "gravatar_hash": "a52f8f9146768ce0dc36a285e4c4d38d"
+    },
+    {
+      "id": "20087",
+      "author": "John",
+      "author_url": "",
+      "date": "2012-02-27 05:26:21",
+      "content": "Excellent. I used generic supermarket mushrooms because in RI, supermarkets don't have fresh Shiitakes, and half a regular eggplant, plus about 1/3lb of Kabocha squash left over from one of Michael's other recent recipes, and multiplied everything 1.5x.  Everyone loved the stew, but also said \"you could go with half as many rice-cakes and twice as much veggie.\" I also recommend serving this in a shallow bowl, because the rice-cakes tend to sink, and that means that in a deep bowl, you eat veggies for a while, and then LOTS of rice for a while, which isn't ideal. The only other thing I'd do to simplify is go ahead and add all the items in step 1 to the water when you first put it on the stove -- no need to wait for it to boil, and it's easier to add stuff to a cool pot than a steaming one. And if you do a 1.5x recipe, you're gonna either need a HUGE skillet or do what I did and use a 3qt saucepan.",
+      "parent": "0",
+      "gravatar_hash": "80f61b8a19222d2053c8acdaa18456c8"
+    },
+    {
+      "id": "20115",
+      "author": "Michael Natkin",
+      "author_url": "https://herbivoracious.com",
+      "date": "2012-02-27 15:32:58",
+      "content": "Very cool. So did you have any trouble finding the rice cakes? Did you use the ovals or cylinders? The squash sounds like a nice variation. Several folks recommended roasted sweet potatoes so that is headed in a somewhat similar flavor direction.",
+      "parent": "20087",
+      "gravatar_hash": "a52f8f9146768ce0dc36a285e4c4d38d"
+    },
+    {
+      "id": "20231",
+      "author": "John",
+      "author_url": "",
+      "date": "2012-02-28 05:24:31",
+      "content": "The little Asian store (really a Korean store with a lesser collection from several other nations) between work and home has the rice cakes in the refrigerator section...both cylinders and ovals. I went with the ovals. My main problem was finding kochujang, which I expected would be refrigerated, but wasn't.\n\nBTW, one more hint: it's probably worth separating the individual cakes from one another before putting them in the stew -- I found it pretty difficult once they were in there. Dunno if that'd work with the frozen ones, though.",
+      "parent": "20115",
+      "gravatar_hash": "80f61b8a19222d2053c8acdaa18456c8"
+    },
+    {
+      "id": "22721",
+      "author": "Sharon",
+      "author_url": "",
+      "date": "2012-04-12 09:42:46",
+      "content": "Hi-  My bag of rice cakes says it needs to be soaked overnight before use? Looks to be a similar product as what you have pictured. Do you think that it is necessary or will I have a gummy mess?",
+      "parent": "0",
+      "gravatar_hash": "c8f1db34de3e55ae5ffd1a495422f617"
+    },
+    {
+      "id": "22723",
+      "author": "Michael Natkin",
+      "author_url": "https://herbivoracious.com",
+      "date": "2012-04-12 10:46:25",
+      "content": "I'm skeptical. Why don't you try doing a small amount with just a short soak and see how they turn out, and if that doesn't work well, try following their directions. Let me know, it would be interesting to know if that is a legitimate requirement for some brands.",
+      "parent": "22721",
+      "gravatar_hash": "a52f8f9146768ce0dc36a285e4c4d38d"
+    },
+    {
+      "id": "23523",
+      "author": "Alexandra",
+      "author_url": "http://veggiewithacause.blogspot.com/",
+      "date": "2012-05-03 09:23:41",
+      "content": "I am seriously obsessed with this stew. I added kim chi to mine (http://veggiewithacause.blogspot.com/2012/02/spicy-kimchi-stew.html), and turned it into a pumped up kim chi stew. The flavors you have combined are just so spot on, mouth watering, and craveable!",
+      "parent": "0",
+      "gravatar_hash": "aa9e4353765edeaf4de36baff9cc572e"
+    },
+    {
+      "id": "23539",
+      "author": "Michael Natkin",
+      "author_url": "https://herbivoracious.com",
+      "date": "2012-05-03 19:33:22",
+      "content": "Your version sounds great!",
+      "parent": "23523",
+      "gravatar_hash": "a52f8f9146768ce0dc36a285e4c4d38d"
+    },
+    {
+      "id": "43400",
+      "author": "Marcia",
+      "author_url": "",
+      "date": "2012-08-02 16:01:30",
+      "content": "This was delicious!  We've been to Korea several times...the recipe was reminiscent of Seoul street-food tteokbokki...but MUCH better.  Thank you for including so many Korean recipes in your collection!",
+      "parent": "0",
+      "gravatar_hash": "d5d220879a9eae7ab730953d5ed3b2ff"
+    },
+    {
+      "id": "50844",
+      "author": "esther",
+      "author_url": "http://www.ambitiousdeliciousness.com",
+      "date": "2012-09-14 10:39:02",
+      "content": "One of my favorites! Your version looks awesome! :) I've never had it with eggplant before though. \n\nFor umami, I use kelp and dry anchovies in my broth - it makes a huge difference in flavor. That's how the streetcart ladies in Korea make it!",
+      "parent": "0",
+      "gravatar_hash": "f893dedb020516080d40854e3e601d48"
+    },
+    {
+      "id": "51843",
+      "author": "Michael Natkin",
+      "author_url": "https://herbivoracious.com",
+      "date": "2012-09-16 09:52:34",
+      "content": "I don't eat fish, so no anchovies for me, but I could use the kelp and I could put some dried shiitakes in the broth to pump up the umami.",
+      "parent": "50844",
+      "gravatar_hash": "a52f8f9146768ce0dc36a285e4c4d38d"
+    },
+    {
+      "id": "590956",
+      "author": "no gluten",
+      "author_url": "",
+      "date": "2014-01-17 13:34:41",
+      "content": "You mention the need to pay attention to gluten found in kochujang and soy sauce for those who are intolerant.  But every single commercially available brand of tteokbokki I've ever come across lists wheat as the first ingredient.  They're more like \"rice cakes\" rather than actual rice cakes.  And with so many sources of potential gluten, it's almost outright deceptive to call this recipe gluten free.",
+      "parent": "0",
+      "gravatar_hash": "c9173ce837c8cb0ef57079e98b314f22"
+    },
+    {
+      "id": "591025",
+      "author": "Michael Natkin",
+      "author_url": "https://herbivoracious.com",
+      "date": "2014-01-17 13:44:27",
+      "content": "Interesting. I didn't know that tteok ever had anything but rice in them, but apparently some do have wheat. Here's an example of brand that is just rice, water & salt: http://farm3.static.flickr.com/2242/1861037176_79b67d384c.jpg . Anyhow, I'll update the recipe to mention that you should look at the tteok too.",
+      "parent": "590956",
+      "gravatar_hash": "a52f8f9146768ce0dc36a285e4c4d38d"
+    },
+    {
+      "id": "887468",
+      "author": "Chris Kimm",
+      "author_url": "",
+      "date": "2014-04-19 10:39:54",
+      "content": "Continuing the Gluten Free theme. I love kochujang and the dishes it enables but it never dawned on me that it might not be gluten free (my fiancee eats gluten free). Buying in an Asian grocery recently, where their options all had a clear set of ingredients in English, I was surprised to see that wheat flour was a prominent ingredient. Is there a brand that uses a gluten free flour in their formulation (rice flour, perhaps?) that I could look for? If not, Michael might have made the same assumption I did and perhaps this dish should not be flagged gluten free? \nWould love to find a gluten free kochujang option if anyone knows of one!",
+      "parent": "0",
+      "gravatar_hash": "83b679a30acc6cdbdf469c7086a75dc9"
+    },
+    {
+      "id": "887497",
+      "author": "Michael Natkin",
+      "author_url": "https://herbivoracious.com",
+      "date": "2014-04-19 11:23:26",
+      "content": "Here's some info for you: http://criticalmas.com/2013/11/commercial-gluten-free-gochujang-now-available/",
+      "parent": "887468",
+      "gravatar_hash": "a52f8f9146768ce0dc36a285e4c4d38d"
+    },
+    {
+      "id": "1252271",
+      "author": "Sloop Daddy",
+      "author_url": "",
+      "date": "2015-02-09 12:40:56",
+      "content": "I made this using the oval rice cakes as pictured. They were frozen when I added them. I only cooked them for maybe five minutes and they were very gummy. Not the sauce just the rice cakes. Should I have cooked them longer? What should the texture of the cakes be like when done?\n\nThey were the most delicious red hot gummy bears I ever had tho.",
+      "parent": "0",
+      "gravatar_hash": "c5574f87c501ab85fe9a6dd2608394be"
+    },
+    {
+      "id": "1252307",
+      "author": "Michael Natkin",
+      "author_url": "https://herbivoracious.com",
+      "date": "2015-02-09 13:38:56",
+      "content": "They should be a little chewy but not like gummy bears, sounds like they needed a little more time. You can also boil them separately from the sauce and then just add them to the sauce.",
+      "parent": "1252271",
+      "gravatar_hash": "a52f8f9146768ce0dc36a285e4c4d38d"
+    },
+    {
+      "id": "1314066",
+      "author": "Sam",
+      "author_url": "",
+      "date": "2015-11-05 12:40:01",
+      "content": "Do you know what I can use instead of the Kochujang Paste, because I didn't  found a gluten free one.",
+      "parent": "0",
+      "gravatar_hash": "5d22409380fc4bdc743adfcca922e50f"
+    },
+    {
+      "id": "1314067",
+      "author": "Michael Natkin",
+      "author_url": "https://herbivoracious.com",
+      "date": "2015-11-05 13:39:54",
+      "content": "Try a 50/50 blend of chili paste and miso.",
+      "parent": "1314066",
+      "gravatar_hash": "a52f8f9146768ce0dc36a285e4c4d38d"
+    },
+    {
+      "id": "1314070",
+      "author": "Sam",
+      "author_url": "",
+      "date": "2015-11-09 21:28:47",
+      "content": "Ok. I will try it. Thank you! ^^",
+      "parent": "0",
+      "gravatar_hash": "5d22409380fc4bdc743adfcca922e50f"
+    },
+    {
+      "id": "1314072",
+      "author": "JZ",
+      "author_url": "",
+      "date": "2015-11-16 21:14:44",
+      "content": "Deeelish!! This has become a regular recipe at our house. I've tried several variations and they are all delicious and comforting. \n\nI've been trying to pin this to my Pintrest, and have been having quite a hard time of it. :( Anyone else have this problem?",
+      "parent": "0",
+      "gravatar_hash": "2e33536d5c51f206c8eb4333a6c2b310"
+    },
+    {
+      "id": "1314200",
+      "author": "KP",
+      "author_url": "",
+      "date": "2016-08-08 17:42:11",
+      "content": "Delicious recipe!  I love tteokbokki but this was my first time making it at home; I added instant noodles, sliced cabbage and onions.  Otherwise I followed your recipe exactly and it was wonderful.  Thank you for posting such a delicious vegan version.  I am a Korean American adoptee and am always on the hunt for vegan Korean recipes.  I've learned to adapt many but this one was perfect. Thank you!",
+      "parent": "0",
+      "gravatar_hash": "c828ebd9c0010eca5cbd6acef912767e"
+    }
+  ]
+}

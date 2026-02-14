@@ -1,0 +1,41 @@
+{
+  "comment_count": 4,
+  "comments": [
+    {
+      "id": "511671",
+      "author": "Kshira",
+      "author_url": "",
+      "date": "2014-01-08 09:15:24",
+      "content": "Have you tried using rock salt? My mother uses it in traditional raitas and salads. It does have a pungent smell but adds some good flavor to the raita!\nAnd thanks for the recipe. The radish is an interesting touch!",
+      "parent": "0",
+      "gravatar_hash": "a5240b3b166c5bbfcc4cca0be81bfd4a"
+    },
+    {
+      "id": "511685",
+      "author": "Michael Natkin",
+      "author_url": "https://herbivoracious.com",
+      "date": "2014-01-08 09:17:37",
+      "content": "Interesting! When you say rock salt, do you mean one of the black salts with sulfur in them?",
+      "parent": "511671",
+      "gravatar_hash": "a52f8f9146768ce0dc36a285e4c4d38d"
+    },
+    {
+      "id": "512143",
+      "author": "Kshira",
+      "author_url": "",
+      "date": "2014-01-08 10:18:03",
+      "content": "Yes,  you are right. It's the black salt with sulfur(hence the pungent smell)",
+      "parent": "511685",
+      "gravatar_hash": "a5240b3b166c5bbfcc4cca0be81bfd4a"
+    },
+    {
+      "id": "512189",
+      "author": "Michael Natkin",
+      "author_url": "https://herbivoracious.com",
+      "date": "2014-01-08 10:23:40",
+      "content": "Oh, I love that stuff. I'd put it on everything, but my family objects!",
+      "parent": "512143",
+      "gravatar_hash": "a52f8f9146768ce0dc36a285e4c4d38d"
+    }
+  ]
+}

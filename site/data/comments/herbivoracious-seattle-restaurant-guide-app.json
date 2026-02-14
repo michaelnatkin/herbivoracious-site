@@ -1,0 +1,104 @@
+{
+  "comment_count": 11,
+  "comments": [
+    {
+      "id": "44500",
+      "author": "Marina@Picnic at Marina",
+      "author_url": "http://www.picnicatmarina.com",
+      "date": "2012-08-08 17:56:05",
+      "content": "Michael, will it be available for other phones? Like once with Android system?",
+      "parent": "0",
+      "gravatar_hash": "8e1565ea2a6e22a58f9d461f2938c35d"
+    },
+    {
+      "id": "44769",
+      "author": "Michael Natkin",
+      "author_url": "https://herbivoracious.com",
+      "date": "2012-08-10 08:39:20",
+      "content": "Hey Marina - we expect it to be on Android at some point; I'll definitely let you all know when that happens.",
+      "parent": "44500",
+      "gravatar_hash": "a52f8f9146768ce0dc36a285e4c4d38d"
+    },
+    {
+      "id": "44799",
+      "author": "Karin",
+      "author_url": "",
+      "date": "2012-08-10 11:32:23",
+      "content": "Michael, Is there a webpage with the restaurant info someplace? I have an Android phone, so can't get the app.",
+      "parent": "0",
+      "gravatar_hash": "48fc24c044df64450c8dfad9008046d5"
+    },
+    {
+      "id": "44806",
+      "author": "Marina@Picnic at Marina",
+      "author_url": "http://www.picnicatmarina.com",
+      "date": "2012-08-10 12:17:31",
+      "content": "Thanks Michael! Good luck with your project! :)",
+      "parent": "44769",
+      "gravatar_hash": "8e1565ea2a6e22a58f9d461f2938c35d"
+    },
+    {
+      "id": "44813",
+      "author": "Michael Natkin",
+      "author_url": "https://herbivoracious.com",
+      "date": "2012-08-10 13:21:37",
+      "content": "Hi Karin - no, unfortunately no web version as of now.",
+      "parent": "44799",
+      "gravatar_hash": "a52f8f9146768ce0dc36a285e4c4d38d"
+    },
+    {
+      "id": "47283",
+      "author": "Jamie Wagener",
+      "author_url": "http://Www.theserendipityoflife.com",
+      "date": "2012-08-27 10:19:09",
+      "content": "Hey Michael!\n\nSo glad to have found your site last week-moving to Seattle on Monday to study naturopathic medicine at Bastyr so just downloaded your restaurant app - cant wait to use it and check out some good veg restaurants up there!!\n\nThank you :-)\n\nJamie",
+      "parent": "0",
+      "gravatar_hash": "98bc90fe1b1d8979da5c53485442b16b"
+    },
+    {
+      "id": "47299",
+      "author": "Michael Natkin",
+      "author_url": "https://herbivoracious.com",
+      "date": "2012-08-27 13:18:06",
+      "content": "Welcome to town!",
+      "parent": "47283",
+      "gravatar_hash": "a52f8f9146768ce0dc36a285e4c4d38d"
+    },
+    {
+      "id": "47555",
+      "author": "Sara McMurray",
+      "author_url": "http://www.missmenagerie.com",
+      "date": "2012-08-29 17:02:17",
+      "content": "Hi Michael! I just picked up your cookbook from the Seattle Library (just before their furlough--whew!) and am completely bewitched. I've changed our dinner plans tonight, and am heading into the kitchen to sweet-talk some beets into a tartare. (I consider myself an ambassador of beets, too!) I'm looking forward to the Android app! Woohoo!",
+      "parent": "0",
+      "gravatar_hash": "3a78f9651ee7626d519fb8c45ef6d305"
+    },
+    {
+      "id": "47562",
+      "author": "Michael Natkin",
+      "author_url": "https://herbivoracious.com",
+      "date": "2012-08-29 19:03:31",
+      "content": "Awesome! Bewitched, I can't ask for anything better than that!",
+      "parent": "47555",
+      "gravatar_hash": "a52f8f9146768ce0dc36a285e4c4d38d"
+    },
+    {
+      "id": "1300724",
+      "author": "Liza Pascal",
+      "author_url": "http://lizaplusayan.com",
+      "date": "2015-04-27 16:37:34",
+      "content": "Is the app still available?",
+      "parent": "0",
+      "gravatar_hash": "12b6eb5b0475485c04428b5be0923d90"
+    },
+    {
+      "id": "1301103",
+      "author": "Michael Natkin",
+      "author_url": "https://herbivoracious.com",
+      "date": "2015-04-28 05:43:36",
+      "content": "I'm actually not sure... probably long gone.",
+      "parent": "1300724",
+      "gravatar_hash": "a52f8f9146768ce0dc36a285e4c4d38d"
+    }
+  ]
+}

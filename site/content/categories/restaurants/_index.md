@@ -1,0 +1,4 @@
+---
+title: "Restaurants"
+aliases: ["/restaurants/"]
+---

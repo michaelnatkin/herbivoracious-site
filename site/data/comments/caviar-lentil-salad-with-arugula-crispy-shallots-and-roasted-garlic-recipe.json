@@ -1,0 +1,86 @@
+{
+  "comment_count": 9,
+  "comments": [
+    {
+      "id": "48963",
+      "author": "Eileen",
+      "author_url": "http://hampiesandwiches.blogspot.com",
+      "date": "2012-09-06 11:10:46",
+      "content": "Lentil salad is so great!  I wonder why more people don't eat it in the US?  I am all about lentil vinaigrette, and am super excited to add this salad to my repertoire too. :)",
+      "parent": "0",
+      "gravatar_hash": "cd24e89d6c89fdf442e1f717b0827eee"
+    },
+    {
+      "id": "49013",
+      "author": "Kris",
+      "author_url": "",
+      "date": "2012-09-06 17:54:44",
+      "content": "Your salad looks lovely! Question for you: are these the kind of lentils one would use to make Indian dal makhani?",
+      "parent": "0",
+      "gravatar_hash": "157d86ffc3201a66d16cfb159ec8477f"
+    },
+    {
+      "id": "49018",
+      "author": "Michael Natkin",
+      "author_url": "https://herbivoracious.com",
+      "date": "2012-09-06 18:47:20",
+      "content": "Kris - great question. Nope. Dal Makhani is made with urad dal or black gram I believe; those are both rather different than these black lentils, which don't break down when you cook them.",
+      "parent": "49013",
+      "gravatar_hash": "a52f8f9146768ce0dc36a285e4c4d38d"
+    },
+    {
+      "id": "49020",
+      "author": "Kris",
+      "author_url": "",
+      "date": "2012-09-06 19:13:50",
+      "content": "Thanks Michael!",
+      "parent": "49018",
+      "gravatar_hash": "157d86ffc3201a66d16cfb159ec8477f"
+    },
+    {
+      "id": "54707",
+      "author": "Lotte",
+      "author_url": "http://www.abitastudio.com",
+      "date": "2012-09-24 19:25:32",
+      "content": "What a beautiful presentation this salad made on the plate, and it is so good.  I did not have shallots but I pulled a couple of onions from my garden and harvested a bowl of yellow volunteer cherry tomatoes.  I was also short on oil and only had olive oil so I cooked thinly sliced onion in batches and followed your guidelines for how to cook and crisp the onion.  wow! Best onions I have ever made.  I had to use white balsamic vinegar but that was actually really good.  I can definitely serve this for guests as a middle course with perhaps a soup as appetizer and a nice dessert.  What are your thoughts on substitutions?",
+      "parent": "0",
+      "gravatar_hash": "c96142386811a26264cd0b7b3603e874"
+    },
+    {
+      "id": "54719",
+      "author": "Michael Natkin",
+      "author_url": "https://herbivoracious.com",
+      "date": "2012-09-24 19:51:12",
+      "content": "I think your substitutions sound perfect! You figured out what to do with what you have on hand, which is always what I would want folks to do.",
+      "parent": "54707",
+      "gravatar_hash": "a52f8f9146768ce0dc36a285e4c4d38d"
+    },
+    {
+      "id": "80242",
+      "author": "share2like",
+      "author_url": "http://share2like.blogspot.com/",
+      "date": "2012-11-14 22:06:55",
+      "content": "Thanks look delicious!",
+      "parent": "0",
+      "gravatar_hash": "fc9bbb4650641c72d0712c3f7549ba75"
+    },
+    {
+      "id": "899762",
+      "author": "Fresh local",
+      "author_url": "",
+      "date": "2014-05-05 07:51:57",
+      "content": "What is the difference between this caviar lentils and th begula lentils? From your I gradient list they seem to be the same thing, but on chefshop.com there are both items, just a bit confusing! Does the \"caviar lentil\" specifically from the Palouse? \n\nMuch thanks.",
+      "parent": "0",
+      "gravatar_hash": "6fb64cfde384cba196dc7f3868f79073"
+    },
+    {
+      "id": "899773",
+      "author": "Michael Natkin",
+      "author_url": "https://herbivoracious.com",
+      "date": "2014-05-05 08:06:19",
+      "content": "I think it is just branding, they are the same or very similar.",
+      "parent": "899762",
+      "gravatar_hash": "a52f8f9146768ce0dc36a285e4c4d38d"
+    }
+  ]
+}

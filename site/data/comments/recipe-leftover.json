@@ -1,0 +1,41 @@
+{
+  "comment_count": 4,
+  "comments": [
+    {
+      "id": "105457",
+      "author": "Fran",
+      "author_url": "",
+      "date": "2013-01-09 06:54:40",
+      "content": "What a great idea. I made Mujadara for the first time this week (new vegetarian) and loved it! However, after eating it for three days in a row, it needs a little something extra. I'm having this soup tomorrow. Thank you!",
+      "parent": "0",
+      "gravatar_hash": "6a3abdeed0779b8615052133e1827874"
+    },
+    {
+      "id": "109742",
+      "author": "Kristen",
+      "author_url": "",
+      "date": "2013-01-23 15:42:49",
+      "content": "So, about how much water do you use in the recipe?",
+      "parent": "0",
+      "gravatar_hash": "236cbf38b45bf6d50329824cf802bc69"
+    },
+    {
+      "id": "109747",
+      "author": "Michael Natkin",
+      "author_url": "https://herbivoracious.com",
+      "date": "2013-01-23 15:50:40",
+      "content": "Oh, gosh, I'm turning red looking at this... poor recipe is over 5 years only and just a couple months after I started the site. I don't know how much water I used, if you want to try to replicate this one you'll just have to do it by eye and taste. I think I write recipes a lot better these days! :)",
+      "parent": "109742",
+      "gravatar_hash": "a52f8f9146768ce0dc36a285e4c4d38d"
+    },
+    {
+      "id": "1314146",
+      "author": "Nathan Arnold",
+      "author_url": "http://shorepound.net",
+      "date": "2016-04-23 10:40:22",
+      "content": "I'm going to order Mujaddara from my local Lebanese joint, just so I can make soup from the leftovers. I'm thinking about adding something spicy. ?",
+      "parent": "0",
+      "gravatar_hash": "4c58e6437c551cde0c8cba10882557e3"
+    }
+  ]
+}

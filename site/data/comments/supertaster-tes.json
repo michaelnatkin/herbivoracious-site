@@ -1,0 +1,50 @@
+{
+  "comment_count": 5,
+  "comments": [
+    {
+      "id": "3781",
+      "author": "opus",
+      "author_url": "http://www.allnewyear.com",
+      "date": "2008-01-22 10:09:13",
+      "content": "Wait... I passed the super-taster test... does that mean I'm pregnant?",
+      "parent": "0",
+      "gravatar_hash": ""
+    },
+    {
+      "id": "3782",
+      "author": "Marissa",
+      "author_url": "http://sybariticinseattle.typepad.com/siren223",
+      "date": "2008-01-25 13:59:27",
+      "content": "very cool! I believe I am one, but I have only answered questions online about it...so I must try this!",
+      "parent": "0",
+      "gravatar_hash": "854e183101d0af80461e76c6889e7879"
+    },
+    {
+      "id": "22889",
+      "author": "das Aardvark",
+      "author_url": "",
+      "date": "2012-04-16 04:30:19",
+      "content": "At $4.95 for two strips. a twenty-four carat Liberal rip-off.",
+      "parent": "0",
+      "gravatar_hash": "3c943f82c7b411dae26845c75fad43c1"
+    },
+    {
+      "id": "22904",
+      "author": "Michael Natkin",
+      "author_url": "https://herbivoracious.com",
+      "date": "2012-04-16 16:36:52",
+      "content": "Haha, I can agree with the ripoff comment but really not sure how you get the liberal part in there!",
+      "parent": "22889",
+      "gravatar_hash": "a52f8f9146768ce0dc36a285e4c4d38d"
+    },
+    {
+      "id": "22907",
+      "author": "das Aardvark",
+      "author_url": "",
+      "date": "2012-04-16 17:16:13",
+      "content": "Cause they take lessons fron Obama, Pelosi, Reid, and company and jack(ass) up the price of everything they can.",
+      "parent": "22904",
+      "gravatar_hash": "3c943f82c7b411dae26845c75fad43c1"
+    }
+  ]
+}

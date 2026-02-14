@@ -1,0 +1,68 @@
+baseURL = "https://herbivoracious.com/"
+languageCode = "en-us"
+title = "Herbivoracious"
+theme = "herbivoracious"
+[pagination]
+  pagerSize = 6
+
+[params]
+  env = "production"
+  description = "Vegetarian cooking with enthusiasm"
+  author = "Michael Natkin"
+  showReadingTime = true
+  showShareButtons = false
+  showBreadCrumbs = true
+  showPostNavLinks = true
+  showCodeCopyButtons = false
+  defaultTheme = "light"
+  disableThemeToggle = false
+  ShowAllPagesInArchive = true
+
+  [params.homeInfoParams]
+    Title = "Herbivoracious"
+    Content = "Vegetarian cooking with enthusiasm"
+
+  [[params.socialIcons]]
+    name = "rss"
+    url = "/index.xml"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+  section = ["HTML", "RSS"]
+  taxonomy = ["HTML", "RSS"]
+  term = ["HTML", "RSS"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[permalinks]
+  [permalinks.page]
+    posts = "/:year/:month/:slug/"
+
+[menu]
+  [[menu.main]]
+    identifier = "categories"
+    name = "Categories"
+    url = "/categories/"
+    weight = 10
+  [[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
+    weight = 20
+  [[menu.main]]
+    identifier = "archives"
+    name = "Archives"
+    url = "/archives/"
+    weight = 30
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 40

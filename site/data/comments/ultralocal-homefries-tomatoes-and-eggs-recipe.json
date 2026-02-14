@@ -1,0 +1,95 @@
+{
+  "comment_count": 10,
+  "comments": [
+    {
+      "id": "2046",
+      "author": "JMom",
+      "author_url": "http://kitchen.amoores.com",
+      "date": "2009-08-31 10:00:22",
+      "content": "This is one of my favorite meal, for breakfast, dinner or just when I'm hungry for something good :)",
+      "parent": "0",
+      "gravatar_hash": "60006c4849bbb477b14eb84bbd4c1340"
+    },
+    {
+      "id": "2047",
+      "author": "zoe",
+      "author_url": "http://thezoeblog.blogspot.com",
+      "date": "2009-08-31 11:52:56",
+      "content": "Just perfect!",
+      "parent": "0",
+      "gravatar_hash": "da95b6426c43d00947a19567a7b28d12"
+    },
+    {
+      "id": "2048",
+      "author": "John - Mormon Foodie",
+      "author_url": "http://mormonfoodie.blogspot.com",
+      "date": "2009-08-31 21:07:54",
+      "content": "Nice! I've tried cooking tomatoes with eggs (which is delicious), but never as a topping for homefries.",
+      "parent": "0",
+      "gravatar_hash": "0750826129ee44caebb3eba7010ade18"
+    },
+    {
+      "id": "2049",
+      "author": "Alessandra",
+      "author_url": "http://alessandrazecchini.blogspot.com/",
+      "date": "2009-09-01 00:41:08",
+      "content": "For breakfast I could not...only caffelatte for me...and maybe a biscuit...\n\nDinner, on the other hand...:-)",
+      "parent": "0",
+      "gravatar_hash": "1d5879742202cb4c70bf1581416c7dfd"
+    },
+    {
+      "id": "2050",
+      "author": "Michael Natkin",
+      "author_url": "",
+      "date": "2009-09-01 08:46:31",
+      "content": "Haha! Yeah, I've come to realize this is a very America-centric view of\nbreakfast!",
+      "parent": "0",
+      "gravatar_hash": "a52f8f9146768ce0dc36a285e4c4d38d"
+    },
+    {
+      "id": "2051",
+      "author": "Heidi / Savory Tv",
+      "author_url": "http://www.savory.tv",
+      "date": "2009-09-01 22:16:59",
+      "content": "Breakfast for dinner rocks!  Your home fries sound great.  The only issue I have w/making them is that sometimes they become too sticky (but sometimes not), so I'm currently trying to diagnose and treat that problem.",
+      "parent": "0",
+      "gravatar_hash": "fd51c52f966705863d77d8559c508a32"
+    },
+    {
+      "id": "2052",
+      "author": "Michael Natkin",
+      "author_url": "",
+      "date": "2009-09-02 07:59:55",
+      "content": "I think the most likely causes of sticky homefries are cooking in a thick\nlayer (so that they steam and activate the surface starches), or using\ninsufficient oil.",
+      "parent": "0",
+      "gravatar_hash": "a52f8f9146768ce0dc36a285e4c4d38d"
+    },
+    {
+      "id": "2053",
+      "author": "Ashley",
+      "author_url": "http://www.edibleperspective.com",
+      "date": "2010-02-09 22:47:17",
+      "content": "Did you really have to post a link to this?  CRUEL!!! ;)",
+      "parent": "0",
+      "gravatar_hash": "df64951b7b68e96994ffe9d2ca074e45"
+    },
+    {
+      "id": "169007",
+      "author": "Payal",
+      "author_url": "http://keepthepeas.blogspot.com/",
+      "date": "2013-07-03 00:49:55",
+      "content": "Delicious looking blog! Two hours later, I've managed to take my eyes off the food to write a comment! I'm making these home-fries to go with your Huevos Ahogados recipe... I can't wait.",
+      "parent": "0",
+      "gravatar_hash": "ddc8735a4f4f4dd112b658bd82b844fa"
+    },
+    {
+      "id": "169071",
+      "author": "Michael Natkin",
+      "author_url": "https://herbivoracious.com",
+      "date": "2013-07-03 05:44:58",
+      "content": "Thanks, and glad to have you aboard!",
+      "parent": "169007",
+      "gravatar_hash": "a52f8f9146768ce0dc36a285e4c4d38d"
+    }
+  ]
+}
