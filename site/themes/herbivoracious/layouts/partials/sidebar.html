@@ -52,7 +52,7 @@
         {{ $img := "" }}
         {{ with $p.Params.cover }}{{ with .image }}{{ $img = . }}{{ end }}{{ end }}
         {{ if $img }}
-        <a href="{{ $p.Permalink }}"><img src="{{ $img | relURL }}" alt="{{ $p.Title }}" loading="lazy"></a>
+        <a href="{{ $p.Permalink }}"><img src="{{ strings.TrimPrefix "/" $img | relURL }}" alt="{{ $p.Title }}" loading="lazy"></a>
         {{ end }}
         <a href="{{ $p.Permalink }}">{{ $p.Title }}</a>
       </div>

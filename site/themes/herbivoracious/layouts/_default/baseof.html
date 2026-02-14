@@ -9,7 +9,7 @@
   <link rel="canonical" href="{{ .Permalink }}">
   <link rel="alternate" type="application/rss+xml" href="{{ "index.xml" | absURL }}" title="{{ .Site.Title }}">
   {{- with .Params.cover }}{{ with .image }}
-  <meta property="og:image" content="{{ . | absURL }}">
+  <meta property="og:image" content="{{ strings.TrimPrefix "/" . | absURL }}">
   {{- end }}{{ end }}
   <meta property="og:title" content="{{ .Title }}">
   <meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">

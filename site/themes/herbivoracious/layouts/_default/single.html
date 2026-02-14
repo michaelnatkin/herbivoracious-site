@@ -29,7 +29,7 @@
 
       {{ if $img }}
       <div class="single-cover">
-        <img src="{{ $img | relURL }}" alt="{{ .Title }}">
+        <img src="{{ strings.TrimPrefix "/" $img | relURL }}" alt="{{ .Title }}">
         {{ if $caption }}
         <figcaption class="single-cover__caption">{{ $caption }}</figcaption>
         {{ end }}
