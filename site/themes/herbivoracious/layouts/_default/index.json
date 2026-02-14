@@ -6,7 +6,7 @@
     "date": {{ .Date.Format "January 2, 2006" | jsonify }},
     "categories": {{ with .Params.categories }}{{ . | jsonify }}{{ else }}[]{{ end }},
     "summary": {{ .Plain | truncate 200 | jsonify }},
-    "cover": {{ with .Params.cover }}{{ with .image }}{{ . | jsonify }}{{ else }}""{{ end }}{{ else }}""{{ end }}
+    "cover": {{ with .Params.cover }}{{ with .image }}{{ strings.TrimPrefix "/" . | relURL | jsonify }}{{ else }}""{{ end }}{{ else }}""{{ end }}
   }
 {{- end -}}
 ]
