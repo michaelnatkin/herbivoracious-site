@@ -3,7 +3,7 @@
   <main class="main-content">
     <div class="search-page">
       <h1>Search</h1>
-      <form class="search-form" id="search-form" action="/search/" method="get">
+      <form class="search-form" id="search-form" action="{{ "search/" | relURL }}" method="get">
         <input type="text" id="search-input" name="q" placeholder="Search recipes, ingredients, techniques&hellip;" aria-label="Search" autofocus>
         <button type="submit">Search</button>
       </form>
@@ -27,7 +27,8 @@
   const form = document.getElementById('search-form');
 
   // Load search index
-  fetch('/index.json')
+  const baseURL = {{ "" | relURL | jsonify }};
+  fetch(baseURL + 'index.json')
     .then(r => r.json())
     .then(data => {
       searchIndex = data;
@@ -55,7 +56,7 @@
     e.preventDefault();
     const q = input.value.trim();
     if (q) {
-      history.replaceState(null, '', '/search/?q=' + encodeURIComponent(q));
+      history.replaceState(null, '', baseURL + 'search/?q=' + encodeURIComponent(q));
       doSearch(q);
     }
   });
@@ -67,7 +68,7 @@
     debounce = setTimeout(function() {
       const q = input.value.trim();
       if (q.length >= 2) {
-        history.replaceState(null, '', '/search/?q=' + encodeURIComponent(q));
+        history.replaceState(null, '', baseURL + 'search/?q=' + encodeURIComponent(q));
         doSearch(q);
       } else {
         results.innerHTML = '';

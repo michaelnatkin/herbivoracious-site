@@ -9,7 +9,7 @@
         {{ with .Params.cover }}{{ with .image }}{{ $img = . }}{{ end }}{{ end }}
         {{ if $img }}
         <a href="{{ .Permalink }}" class="post-card__image">
-          <img src="{{ $img }}" alt="{{ .Title }}" loading="lazy">
+          <img src="{{ $img | relURL }}" alt="{{ .Title }}" loading="lazy">
         </a>
         {{ end }}
         <div class="post-card__meta">
@@ -37,7 +37,7 @@
         {{ with .Params.cover }}{{ with .image }}{{ $img = . }}{{ end }}{{ end }}
         {{ if $img }}
         <a href="{{ .Permalink }}" class="post-card__image">
-          <img src="{{ $img }}" alt="{{ .Title }}" loading="lazy">
+          <img src="{{ $img | relURL }}" alt="{{ .Title }}" loading="lazy">
         </a>
         {{ end }}
         <div class="post-card__meta">
