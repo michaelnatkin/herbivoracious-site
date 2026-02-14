@@ -1,5 +1,4 @@
 baseURL = "https://herbivoracious.com/"
-relativeURLs = true
 languageCode = "en-us"
 title = "Herbivoracious"
 theme = "herbivoracious"
