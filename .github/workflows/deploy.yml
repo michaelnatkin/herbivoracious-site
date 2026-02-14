@@ -28,7 +28,7 @@ jobs:
 
       - name: Build
         working-directory: ./site
-        run: hugo --minify --baseURL "https://michaelnatkin.github.io/herbivoracious-site/"
+        run: hugo --minify
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
