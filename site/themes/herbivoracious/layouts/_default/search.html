@@ -27,7 +27,7 @@
   const form = document.getElementById('search-form');
 
   // Load search index
-  const baseURL = {{ "" | relURL | jsonify }};
+  const baseURL = '{{ "" | relURL }}';
   fetch(baseURL + 'index.json')
     .then(r => r.json())
     .then(data => {
