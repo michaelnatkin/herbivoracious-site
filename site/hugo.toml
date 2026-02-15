@@ -7,7 +7,7 @@ theme = "herbivoracious"
 
 [params]
   env = "production"
-  description = "Vegetarian cooking with enthusiasm"
+  description = "Vegetarian cooking for the food obsessed."
   author = "Michael Natkin"
   showReadingTime = true
   showShareButtons = false
@@ -20,7 +20,7 @@ theme = "herbivoracious"
 
   [params.homeInfoParams]
     Title = "Herbivoracious"
-    Content = "Vegetarian cooking with enthusiasm"
+    Content = "Vegetarian cooking for the food obsessed."
 
   [[params.socialIcons]]
     name = "rss"
