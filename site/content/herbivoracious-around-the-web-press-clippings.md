@@ -6,7 +6,6 @@ slug: "herbivoracious-around-the-web-press-clippings"
 
 Michael and Herbivoracious have been featured in newspapers, on television and on numerous websites. If I haven't linked to your article, my apologies, and drop me a note at <a href="mailto:michael@herbivoracious.com" target="_blank">michael  herbivoracious.com</a>.
 <ul class="NormalBullets">
-	<li>The New York Time's Diner's Journal has listed Herbivoracious recipes <a href="http://dinersjournal.blogs.nytimes.com/?s=herbivoracious" target="_blank">multiple times</a> on What We're Reading</li>
 	<li>Julia Moskin from the New York Times asked me some questions about <a href="http://www.nytimes.com/2012/07/18/dining/coping-with-summers-bounty-of-vegetables.html">vegetable anxiety</a> and published my recipe for <a href="http://www.nytimes.com/recipes/12612/Burrata-With-Shredded-Sugar-Snap-Pea-and-Crispy-Shiitake-Salad.html">Burrata with Sugar Snap Pea Slaw and Crispy Shiitakes</a></li>
 	<li>Jeff Gordinier from the New York Times interviewed me for a piece on a cool "new" ingredient - <a href="http://www.nytimes.com/2012/07/18/dining/sunflower-shoots-are-a-salads-secret-weapon.html" target="_blank">sunflower shoots</a></li>
 	<li>National Public Radio calls Herbivoracious one of <a href="http://www.npr.org/templates/story/story.php?storyId=152694515&amp;live=1" target="_blank">2012's Best Summer Cookbooks</a></li>

@@ -8,11 +8,27 @@
   <meta name="author" content="{{ .Site.Params.author }}">
   <link rel="canonical" href="{{ .Permalink }}">
   <link rel="alternate" type="application/rss+xml" href="{{ "index.xml" | absURL }}" title="{{ .Site.Title }}">
-  {{- with .Params.cover }}{{ with .image }}
-  <meta property="og:image" content="{{ strings.TrimPrefix "/" . | absURL }}">
-  {{- end }}{{ end }}
-  <meta property="og:title" content="{{ .Title }}">
+  <meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }}{{ end }}">
   <meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+  <meta property="og:url" content="{{ .Permalink }}">
+  <meta property="og:site_name" content="{{ .Site.Title }}">
+  <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
+  {{- $ogImage := "" }}
+  {{- with .Params.cover }}{{ with .image }}{{ $ogImage = (strings.TrimPrefix "/" . | absURL) }}{{ end }}{{ end }}
+  {{- if not $ogImage }}{{ $ogImage = ("images/2013/08/Mission-Chinese-Style-Tofu-with-Radish-and-Shiso-626x415.jpg" | absURL) }}{{ end }}
+  <meta property="og:image" content="{{ $ogImage }}">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }}{{ end }}">
+  <meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+  <meta name="twitter:image" content="{{ $ogImage }}">
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-CWXB776C7R"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-CWXB776C7R');
+  </script>
   <link rel="icon" href="{{ "favicon.ico" | relURL }}">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
