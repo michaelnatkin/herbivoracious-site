@@ -66,3 +66,20 @@ theme = "herbivoracious"
     name = "About"
     url = "/about/"
     weight = 40
+
+[related]
+  includeNewer = true
+  threshold = 60
+  toLower = true
+
+  [[related.indices]]
+    name = "tags"
+    weight = 100
+
+  [[related.indices]]
+    name = "categories"
+    weight = 80
+
+  [[related.indices]]
+    name = "date"
+    weight = 10

@@ -55,6 +55,27 @@
         {{ $content | safeHTML }}
       </div>
 
+      {{ $related := first 3 (.Site.RegularPages.Related .) }}
+      {{ if $related }}
+      <section class="related-posts">
+        <h3>You Might Also Like</h3>
+        <div class="related-posts__grid">
+          {{ range $related }}
+          <a href="{{ .Permalink }}" class="related-post">
+            {{ $img := "" }}
+            {{ with .Params.cover }}{{ with .image }}{{ $img = . }}{{ end }}{{ end }}
+            {{ if $img }}
+            <img src="{{ strings.TrimPrefix "/" $img | relURL }}" alt="{{ .Title }}" loading="lazy">
+            {{ else }}
+            <div class="related-post__placeholder"></div>
+            {{ end }}
+            <span class="related-post__title">{{ .Title }}</span>
+          </a>
+          {{ end }}
+        </div>
+      </section>
+      {{ end }}
+
       {{ partial "comments-section.html" . }}
 
       <nav class="post-nav">
