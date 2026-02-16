@@ -39,7 +39,7 @@ The cabbage needs to sit for a couple of hours to soften. You can toss it togeth
 	<li>2 tablespoons olive oil</li>
 	<li>3/4 teaspoon salt</li>
 	<li>4 large eggs, beaten</li>
-	<li>1/2 cup homemade breadcrumbs (page 000)</li>
+	<li>1/2 cup homemade breadcrumbs</li>
 	<li>½ teaspoon cumin powder</li>
 	<li>¼ teaspoon Aleppo pepper or cayenne</li>
 	<li>pinch cinnamon</li>
