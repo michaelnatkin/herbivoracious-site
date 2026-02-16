@@ -1,0 +1,51 @@
+{{ define "main" }}
+<div class="site-content">
+  <main class="main-content">
+    <article class="shop-page">
+      <nav class="shop-breadcrumb">
+        <a href="/shop/">Shop</a> <span class="shop-breadcrumb__sep">→</span> {{ .Title }}
+      </nav>
+
+      {{ with .Params.image }}
+      <div class="shop-banner">
+        <img src="{{ . }}" alt="{{ $.Title }}" loading="lazy">
+      </div>
+      {{ end }}
+
+      <header class="shop-category-header">
+        <h1>{{ .Title }}</h1>
+        {{ with .Params.description }}<p class="shop-section__desc">{{ . }}</p>{{ end }}
+      </header>
+
+      {{ $slug := .Params.category_slug }}
+      {{ $data := site.Data.products }}
+      {{ range $data.categories }}
+      {{ if eq .slug $slug }}
+      <ul class="shop-list shop-grid">
+        {{ range .products }}
+        <li class="shop-item">
+          <a href="{{ .url }}" class="shop-item__link" target="_blank" rel="noopener noreferrer nofollow">{{ .name }}</a>
+          {{ with .review_url }}
+          <a href="{{ . }}" class="shop-item__review">read review →</a>
+          {{ end }}
+          {{ with .featured_in }}
+          <span class="shop-item__featured">
+            Featured in:
+            {{ range $i, $url := . }}{{ if $i }}, {{ end }}<a href="{{ $url }}">{{ $url | replaceRE `^/\d{4}/\d{2}/` "" | replaceRE `/$` "" | replaceRE `-` " " | title }}</a>{{ end }}
+          </span>
+          {{ end }}
+        </li>
+        {{ end }}
+      </ul>
+      {{ end }}
+      {{ end }}
+
+      <div class="shop-back">
+        <a href="/shop/">← Back to all categories</a>
+      </div>
+    </article>
+  </main>
+
+  {{ partial "sidebar.html" . }}
+</div>
+{{ end }}

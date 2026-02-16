@@ -1252,42 +1252,99 @@ a.as-seen-in:hover { text-decoration: none; }
   color: var(--text-light);
 }
 
-.shop-nav {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 8px;
-  margin-bottom: 48px;
-  padding-bottom: 32px;
+/* Shop index — category card grid */
+.shop-category-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 24px;
+}
+
+.shop-category-card {
+  display: block;
+  background: var(--white);
+  border: 1px solid var(--border-light);
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+  transition: transform 0.3s var(--ease), box-shadow 0.3s var(--ease);
+  color: var(--text);
+}
+
+.shop-category-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 24px rgba(42, 32, 23, 0.1);
+  text-decoration: none;
+  color: var(--text);
+}
+
+.shop-category-card__image {
+  overflow: hidden;
+  background: var(--cream-mid);
+}
+
+.shop-category-card__image img {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  display: block;
+  transition: transform 0.5s var(--ease);
+}
+
+.shop-category-card:hover .shop-category-card__image img {
+  transform: scale(1.04);
+}
+
+.shop-category-card__body {
+  padding: 20px;
+}
+
+.shop-category-card__title {
+  font-family: var(--font-display);
+  font-size: 20px;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  margin-bottom: 6px;
+  color: var(--text);
+}
+
+.shop-category-card__desc {
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--text-secondary);
+  margin-bottom: 8px;
+}
+
+.shop-category-card__count {
+  font-family: var(--font-ui);
+  font-size: 12px;
+  font-weight: 500;
+  color: var(--text-light);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+}
+
+/* Shop breadcrumb */
+.shop-breadcrumb {
+  font-family: var(--font-ui);
+  font-size: 13px;
+  font-weight: 500;
+  color: var(--text-light);
+  margin-bottom: 24px;
+  letter-spacing: 0.02em;
+}
+
+.shop-breadcrumb a { color: var(--accent); }
+.shop-breadcrumb__sep { margin: 0 8px; color: var(--border); }
+
+/* Shop category header */
+.shop-category-header {
+  margin-bottom: 32px;
+  padding-bottom: 20px;
   border-bottom: 1px solid var(--border-light);
 }
 
-.shop-nav a {
-  display: inline-block;
-  font-size: 11.5px;
-  color: var(--accent);
-  font-family: var(--font-ui);
-  font-weight: 500;
-  letter-spacing: 0.06em;
-  text-transform: uppercase;
-  padding: 5px 14px;
-  background: var(--accent-light);
-  border-radius: 100px;
-  transition: all 0.3s var(--ease);
-}
-
-.shop-nav a:hover {
-  background: var(--accent);
-  color: var(--white);
-  text-decoration: none;
-}
-
-.shop-section {
-  margin-bottom: 56px;
-}
-
-.shop-section h2 {
+.shop-category-header h1 {
   font-family: var(--font-display);
-  font-size: 28px;
+  font-size: 34px;
   font-weight: 600;
   letter-spacing: -0.02em;
   color: var(--text);
@@ -1297,13 +1354,13 @@ a.as-seen-in:hover { text-decoration: none; }
 .shop-section__desc {
   font-size: 16px;
   color: var(--text-secondary);
-  margin-bottom: 20px;
+  margin-bottom: 0;
 }
 
 .shop-banner {
   overflow: hidden;
   border-radius: var(--radius-lg);
-  margin-bottom: 20px;
+  margin-bottom: 24px;
   background: var(--cream-mid);
 }
 
@@ -1312,6 +1369,13 @@ a.as-seen-in:hover { text-decoration: none; }
   aspect-ratio: 3 / 1;
   object-fit: cover;
   display: block;
+}
+
+/* Two-column product grid */
+.shop-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 0 40px;
 }
 
 .shop-list {
@@ -1372,6 +1436,20 @@ a.as-seen-in:hover { text-decoration: none; }
   text-decoration-color: var(--accent);
 }
 
+/* Back link */
+.shop-back {
+  margin-top: 40px;
+  padding-top: 24px;
+  border-top: 1px solid var(--border-light);
+}
+
+.shop-back a {
+  font-family: var(--font-ui);
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--accent);
+}
+
 /* ---- Responsive ---- */
 @media (max-width: 900px) {
   .site-content {
@@ -1428,7 +1506,9 @@ a.as-seen-in:hover { text-decoration: none; }
   .pagination { flex-wrap: wrap; }
   .footer-inner { padding: 0 24px; }
   .shop-banner img { aspect-ratio: 2 / 1; }
-  .shop-section h2 { font-size: 24px; }
+  .shop-category-grid { grid-template-columns: 1fr; }
+  .shop-grid { grid-template-columns: 1fr; }
+  .shop-category-header h1 { font-size: 28px; }
 }
 
 @media (max-width: 480px) {

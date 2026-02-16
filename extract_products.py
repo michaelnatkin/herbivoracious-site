@@ -16,66 +16,65 @@ AMAZON_LINKS_FILE = os.path.join(os.path.dirname(__file__), "amazon_links.md")
 # ASIN regex: 10-char alphanumeric Amazon product ID
 ASIN_RE = re.compile(r'/(?:dp|gp/product)/([A-Z0-9]{10})')
 
-# Category assignments by keyword matching on product name/anchor text
-CATEGORY_RULES = [
-    # Kitchen Tools - equipment, appliances, cookware
-    ("Kitchen Tools", re.compile(
-        r'(?i)knife|knives|skillet|dutch oven|pan\b|blender|grater|ricer|'
-        r'peeler|thermometer|sharpener|sharpening|spatula|mat\b|stone\b|'
-        r'tart pan|cookie cutter|crepe pan|baking mat|whip|dispenser|'
-        r'paella pan|mandoline|scale|parchment|pastry blender|grapefruit spoon|'
-        r'cheese making|spherification'
-    )),
-    # Books
-    ("Books", re.compile(
-        r'(?i)\bbook\b|cookbook|herbivoracious.*natkin|mastering the art|'
-        r'flavor revolution|best food writing|ideas in food|curious cook|'
-        r'aromas of aleppo|alice waters|simple food'
-    )),
-    # Spices & Seasonings
-    ("Spices & Seasonings", re.compile(
-        r'(?i)spice|seasoning|paprika|pimenton|cumin|chili powder|chile powder|'
-        r'ras el hanout|za.atar|berbere|chaat masala|garam masala|curry powder|'
-        r'sumac|asafoetida|hing\b|fennel pollen|nutmeg|saffron|amchoor|'
-        r'black salt|kala namak|long pepper|sichuan pepper|szechwan pepper|'
-        r'mustard seed|oregano.*mexican|harissa.*seasoning|five.spice'
-    )),
-    # Condiments & Sauces
-    ("Condiments & Sauces", re.compile(
-        r'(?i)gochujang|kochujang|ssamjang|miso\b|harissa|hot sauce|tapatio|'
-        r'soy sauce|kecap manis|nama shoyu|tamarind|sriracha|chili oil|'
-        r'mustard\b|chutney|relish|jam\b|pickle|amba|preserved lemon|'
-        r'cornichon|achiote paste|pectin|transglutaminase|activa'
-    )),
-    # Oils & Vinegars
-    ("Oils & Vinegars", re.compile(
-        r'(?i)vinegar|oil\b|balsamic|balsamico|sherry vinegar|champagne vinegar|'
-        r'sesame oil|olive oil|rosewater|rose water'
-    )),
-    # Grains & Legumes
-    ("Grains & Legumes", re.compile(
-        r'(?i)flour\b|rice\b(?!.*vinegar)|lentil|chickpea|chana dal|bean|'
-        r'farro\b|polenta|cornmeal|masa\b|buckwheat|teff\b|noodle|pasta|'
-        r'soba\b|orecchiette|stringozzi|fregola|couscous|vermicelli|'
-        r'dangmyeon|poha\b|flatbread|bread crumb|panko|xanthan'
-    )),
-    # Sweeteners
-    ("Sweeteners", re.compile(
-        r'(?i)maple syrup|sugar|jaggery|sorghum syrup|honey\b|molasses|'
-        r'malt powder|malted milk|isomalt|chocolate\b|espresso.*instant|'
-        r'buttermilk.*powder|demerara'
-    )),
-    # Dried Vegetables
-    ("Dried Vegetables", re.compile(
-        r'(?i)dried.*mushroom|morel|shiitake.*dried|kombu|seaweed|nori|'
-        r'dried.*pepper|dried.*chile|dried.*chili|guajillo|pasilla|ancho.*dried|'
-        r'chipotle.*dried|morita|new mexico.*chile|'
-        r'dried.*kaffir|dried.*fenugreek|dried.*mint|preserved vegetable|'
-        r'zha cai|jackfruit|yuba|tofu skin|beancurd'
-    )),
-    # Specialty Ingredients (catch-all for everything else)
-    ("Specialty Ingredients", re.compile(r'.*')),
-]
+# Products to remove by ASIN (non-food, novelty, duplicates to merge)
+ASIN_BLOCKLIST = set()
+
+# Junk name patterns — products with these names get filtered out
+JUNK_NAME_PATTERNS = re.compile(
+    r'(?i)'
+    r'^Product [A-Z0-9]+$|'           # "Product B0076NOGWW"
+    r'^great item$|'
+    r'^from a can$|'
+    r'^this version$|'
+    r'^simple and inexpensive$|'
+    r'^expensive paraphenalia$|'
+    r'^more expensive .* model$|'
+    r'^better ideas$|'
+    r'^basic \$\d+ model$|'
+    r'^get one right now$|'
+    r'^here on Amazon$|'
+    r'^or you can find it on Amazon$|'
+    r'^you can jump right over to Amazon|'
+    r'^from ChefShop on Amazon$|'
+    r'^from the area of Puy$|'
+    r'^just soft-boiled$|'
+    r'^smaller quantities$|'
+    r'^this enormous roll$|'
+    r'^this one from Beaufor$|'
+    r'^dessert recipe$|'
+    r'^flat-stanleyish$|'
+    r'^clean dishtowel$|'
+    r'^lovely, if pricey|'
+    r'^a set like this|'
+    r'^Karen and Andrew$|'
+    r'^7 piece nylon and wooden|'
+    r'^8 piece Unison non-stick|'
+    r'^airlock$|'
+    r'^novelty beer cozy$'
+)
+
+# Non-food/non-cooking items to remove
+NON_FOOD_NAMES = re.compile(
+    r'(?i)'
+    r'Nikon D7000|'
+    r'Terex AL-5L LED Light Tower|'
+    r'True Blood|'
+    r'I Like You.*Hospitality|'
+    r'Roasting in Hell.s Kitchen|'      # Not a cookbook, it's a memoir
+    r'Top Chef'
+)
+
+# Names that are too short/generic to be useful (brand-only, single words)
+GENERIC_SHORT_NAMES = {
+    "shun", "plenty", "silpat", "bourdain", "ina garten",
+    "jaques pepin", "daniel boulud", "bill buford",
+    "edward espe brown", "food & wine", "food &amp; wine",
+    "frantoia", "corningware",
+}
+
+# Duplicate product mappings: keep the best ASIN, remove the rest
+# Maps "remove this ASIN" -> "keep this ASIN instead"
+# (We'll handle name-based dedup in merge_products)
 
 
 def extract_asin(url):
@@ -84,12 +83,18 @@ def extract_asin(url):
     return m.group(1) if m else None
 
 
-def categorize_product(name):
-    """Assign a category based on product name."""
-    for cat_name, pattern in CATEGORY_RULES:
-        if pattern.search(name):
-            return cat_name
-    return "Specialty Ingredients"
+def is_junk_product(name):
+    """Check if a product name is junk/generic and should be filtered."""
+    if JUNK_NAME_PATTERNS.search(name):
+        return True
+    if NON_FOOD_NAMES.search(name):
+        return True
+    if name.lower().strip() in GENERIC_SHORT_NAMES:
+        return True
+    # Brand-only names under 8 chars (e.g., "Shun", "OXO")
+    if len(name.strip()) < 6 and not re.search(r'\d', name):
+        return True
+    return False
 
 
 def slug_to_url(slug):
@@ -121,6 +126,8 @@ def parse_amazon_links_md():
                 continue
             asin = extract_asin(url)
             if not asin:
+                continue
+            if asin in ASIN_BLOCKLIST:
                 continue
             # Normalize URL to clean dp format
             clean_url = f"https://www.amazon.com/dp/{asin}?tag=herb-hugo-20"
@@ -171,6 +178,8 @@ def scan_posts_for_old_links():
             asin = extract_asin(url)
             if not asin:
                 continue
+            if asin in ASIN_BLOCKLIST:
+                continue
             clean_url = f"https://www.amazon.com/dp/{asin}?tag=herb-hugo-20"
             # Skip products with generic/useless anchor text
             if not anchor_text or anchor_text.lower() in GENERIC_ANCHORS or len(anchor_text) < 4:
@@ -212,6 +221,8 @@ def scan_review_pages():
             asin = extract_asin(url)
             if not asin:
                 continue
+            if asin in ASIN_BLOCKLIST:
+                continue
             clean_url = f"https://www.amazon.com/dp/{asin}?tag=herb-hugo-20"
             if asin not in products:
                 products[asin] = {
@@ -247,6 +258,8 @@ def scan_review_pages():
             anchor_text = re.sub(r'<[^>]+>', '', match.group(2)).strip()
             asin = extract_asin(url)
             if not asin:
+                continue
+            if asin in ASIN_BLOCKLIST:
                 continue
             clean_url = f"https://www.amazon.com/dp/{asin}?tag=herb-hugo-20"
             if asin not in products:
@@ -292,14 +305,31 @@ def merge_products(*product_dicts):
     return merged
 
 
-def build_categories(products):
-    """Organize products into categories."""
-    cat_products = defaultdict(list)
+def filter_junk(products):
+    """Remove junk products after merge."""
+    filtered = {}
+    removed = []
     for asin, product in products.items():
-        category = categorize_product(product["name"])
+        if is_junk_product(product["name"]):
+            removed.append(product["name"])
+        else:
+            filtered[asin] = product
+    if removed:
+        print(f"  Removed {len(removed)} junk products:")
+        for name in sorted(removed):
+            print(f"    - {name}")
+    return filtered
+
+
+def build_flat_products(products):
+    """Build a flat list of products (no categories) for products.json.
+    Categorization is handled separately by categorize_products.py."""
+    product_list = []
+    for asin, product in products.items():
         entry = {
             "name": product["name"],
             "url": product["url"],
+            "asin": asin,
         }
         if product.get("review_url"):
             entry["review_url"] = product["review_url"]
@@ -307,73 +337,10 @@ def build_categories(products):
         featured = [u for u in product.get("featured_in", []) if u != product.get("review_url")]
         if featured:
             entry["featured_in"] = featured[:3]
-        cat_products[category].append(entry)
+        product_list.append(entry)
 
-    # Sort products within each category alphabetically
-    for cat in cat_products:
-        cat_products[cat].sort(key=lambda p: p["name"].lower())
-
-    category_meta = {
-        "Kitchen Tools": {
-            "description": "Essential equipment for the serious home cook",
-            "image": "/images/shop/kitchen-tools.jpg",
-        },
-        "Specialty Ingredients": {
-            "description": "Unique ingredients that elevate everyday cooking",
-            "image": "/images/shop/specialty-ingredients.jpg",
-        },
-        "Spices & Seasonings": {
-            "description": "The global spice rack for adventurous cooks",
-            "image": "/images/shop/spices-seasonings.jpg",
-        },
-        "Grains & Legumes": {
-            "description": "Wholesome staples from around the world",
-            "image": "/images/shop/grains-legumes.jpg",
-        },
-        "Condiments & Sauces": {
-            "description": "Bold flavors to keep on hand",
-            "image": "/images/shop/condiments-sauces.jpg",
-        },
-        "Oils & Vinegars": {
-            "description": "Quality fats and acids that make dishes sing",
-            "image": "/images/shop/oils-vinegars.jpg",
-        },
-        "Sweeteners": {
-            "description": "Beyond white sugar — natural and specialty sweeteners",
-            "image": "/images/shop/sweeteners.jpg",
-        },
-        "Dried Vegetables": {
-            "description": "Mushrooms, chiles, seaweed, and other pantry powerhouses",
-            "image": "/images/shop/dried-vegetables.jpg",
-        },
-        "Books": {
-            "description": "Cookbooks and food writing worth reading",
-            "image": "/images/shop/books.jpg",
-        },
-    }
-
-    # Ordered category list
-    category_order = [
-        "Kitchen Tools", "Specialty Ingredients", "Spices & Seasonings",
-        "Grains & Legumes", "Condiments & Sauces", "Oils & Vinegars",
-        "Sweeteners", "Dried Vegetables", "Books",
-    ]
-
-    categories = []
-    for name in category_order:
-        if name not in cat_products:
-            continue
-        slug = name.lower().replace(" & ", "-").replace(" ", "-")
-        meta = category_meta.get(name, {})
-        categories.append({
-            "name": name,
-            "slug": slug,
-            "description": meta.get("description", ""),
-            "image": meta.get("image", ""),
-            "products": cat_products[name],
-        })
-
-    return categories
+    product_list.sort(key=lambda p: p["name"].lower())
+    return product_list
 
 
 def main():
@@ -391,18 +358,20 @@ def main():
 
     print("Merging and deduplicating...")
     all_products = merge_products(md_products, old_products, review_products)
-    print(f"  Total unique products: {len(all_products)}")
+    print(f"  Total unique products (pre-filter): {len(all_products)}")
 
-    print("Categorizing products...")
-    categories = build_categories(all_products)
-    for cat in categories:
-        print(f"  {cat['name']}: {len(cat['products'])} products")
+    print("Filtering junk products...")
+    all_products = filter_junk(all_products)
+    print(f"  Total clean products: {len(all_products)}")
+
+    # Write flat product list — categorize_products.py will add categories
+    product_list = build_flat_products(all_products)
 
     os.makedirs(os.path.dirname(OUTPUT_FILE), exist_ok=True)
-    output = {"categories": categories}
+    output = {"products": product_list}
     with open(OUTPUT_FILE, "w") as f:
         json.dump(output, f, indent=2)
-    print(f"\nWrote {OUTPUT_FILE}")
+    print(f"\nWrote {len(product_list)} products to {OUTPUT_FILE}")
 
 
 if __name__ == "__main__":

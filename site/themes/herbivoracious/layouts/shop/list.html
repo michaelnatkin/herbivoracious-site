@@ -1,0 +1,35 @@
+{{ define "main" }}
+<div class="site-content">
+  <main class="main-content">
+    <article class="shop-page">
+      <header class="single-header">
+        <h1>{{ .Title }}</h1>
+      </header>
+
+      <div class="shop-intro">
+        <p>Over the years of writing Herbivoracious, I've come to rely on certain kitchen tools and specialty ingredients that make vegetarian cooking truly shine. Here are the products I actually use and recommend — many of them are linked from specific recipes throughout the site.</p>
+        <p class="shop-disclosure"><em>Disclosure: These are affiliate links. If you purchase through them, I earn a small commission at no extra cost to you. I only recommend products I genuinely use and love.</em></p>
+      </div>
+
+      <div class="shop-category-grid">
+        {{ range .Pages }}
+        <a href="{{ .RelPermalink }}" class="shop-category-card">
+          {{ with .Params.image }}
+          <div class="shop-category-card__image">
+            <img src="{{ . }}" alt="{{ $.Title }}" loading="lazy">
+          </div>
+          {{ end }}
+          <div class="shop-category-card__body">
+            <h2 class="shop-category-card__title">{{ .Title }}</h2>
+            {{ with .Params.description }}<p class="shop-category-card__desc">{{ . }}</p>{{ end }}
+            <span class="shop-category-card__count">{{ .Params.product_count }} products</span>
+          </div>
+        </a>
+        {{ end }}
+      </div>
+    </article>
+  </main>
+
+  {{ partial "sidebar.html" . }}
+</div>
+{{ end }}
