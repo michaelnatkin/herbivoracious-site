@@ -29,7 +29,7 @@ cover:
 <li>1 cup shallot rings, sliced about 1/8" thick</li>
 <li>1/4 cup vegetable oil, divided</li>
 <li>1 pound extra-firm tofu, cut into approximately 2" x 2" x 1/3" squares</li>
-<li>1/4 cup sweet soy sauce (kecap manis)</li>
+<li>1/4 cup sweet soy sauce (<a href="https://www.amazon.com/dp/B00886AVOI?tag=herb-hugo-20">kecap manis</a>)</li>
 <li>2-3 grapefruits</li>
 <li>juice of 2 limes (reserve zest from one)</li>
 <li>2-4 tablespoons sugar (palm sugar if you have it)</li>

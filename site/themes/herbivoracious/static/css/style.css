@@ -10,7 +10,7 @@
   --text: #2a2017;
   --text-secondary: #635849;
   --text-light: #968a7c;
-  --accent: #1a7a6d;
+  --accent: #00a6c7;
   --accent-hover: #14635a;
   --accent-light: rgba(26, 122, 109, 0.07);
   --accent-warm: #c4704b;
@@ -546,6 +546,18 @@ a.as-seen-in:hover { text-decoration: none; }
 }
 
 .single-content li { margin-bottom: 0.4em; }
+
+.single-content a {
+  text-decoration: underline;
+  text-decoration-color: rgba(0, 166, 199, 0.35);
+  text-underline-offset: 2px;
+  text-decoration-thickness: 1.5px;
+  transition: text-decoration-color 0.2s var(--ease);
+}
+
+.single-content a:hover {
+  text-decoration-color: var(--accent);
+}
 
 .single-content h2, .single-content h3, .single-content h4 {
   font-family: var(--font-display);

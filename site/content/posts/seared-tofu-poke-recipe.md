@@ -34,7 +34,7 @@ cover:
 <li>2 tablespoons vegetable oil</li>
 <li>8 ounces firm tofu cut into 2” x 1” x ½” rectangles, thoroughly patted dry</li>
 <li>1 tablespoon Asian toasted sesame oil</li>
-<li>1 tablespoon sweet soy sauce (kecap manis)</li>
+<li>1 tablespoon sweet soy sauce (<a href="https://www.amazon.com/dp/B00886AVOI?tag=herb-hugo-20">kecap manis</a>)</li>
 <li>1 tablespoon shoyu</li>
 <li>1 teaspoon grated fresh ginger</li>
 <li>1 teaspoon sriracha hot sauce or wasabi (optional)</li>

@@ -13,7 +13,7 @@ cover:
 
 
 <p>Have you ever noticed how mushrooms that are cut thickly and browned are a completely different experience to eat than when sliced thin and sauteed as normal? Instead of cooking all of the water out of them, the surface simply gets seared and the interior retains a chewy texture. Delicious.</p>
-<p>Here these thick, chewy mushrooms are paired with French green lentils, seasoned with olive oil, sherry vinegar and smoked paprika for a Spanish accent. You can use lentils de puy, or black Beluga lentils. Just don't use standard big green or brown lentils as they will turn to mush.</p>
+<p>Here these thick, chewy mushrooms are paired with French green lentils, seasoned with olive oil, sherry vinegar and <a href="https://www.amazon.com/dp/B00I5PVVKA?tag=herb-hugo-20">smoked paprika</a> for a Spanish accent. You can use lentils de puy, or black Beluga lentils. Just don't use standard big green or brown lentils as they will turn to mush.</p>
 <p>The lentils and mushrooms are garnished with a little salad of cherry tomatoes and basil. Especially with earthy, brown plates of food, I love to finish with something bright and fresh to add a little visual interest and lighten the flavors.</p>
 <p>With a good baguette this would make a nice light and healthy meal, or a smaller portion can be the first course of something more elaborate.</p>
 

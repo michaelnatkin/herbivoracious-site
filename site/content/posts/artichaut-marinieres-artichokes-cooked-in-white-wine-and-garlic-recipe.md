@@ -39,7 +39,7 @@ Of course you don't have to use purple artichokes, though they are gorgeous. Bab
 <ol>
 	<li>Preheat a large serving bowl. Fill another bowl with cold water and squeeze in the juice of 1 lemon.</li>
 	<li>Cut off the upper third of each baby artichoke. Trim off any ugly part of the stem but leave as much as possible. Pull off tough outer leaves, erring on the side of removing more, not less. If any of the baby artichokes are much bigger than the rest, cut them in half. Put each artichoke in the lemon water (acidulated water) as you finish trimming it, to avoid unsightly browning.</li>
-	<li>Melt the butter in a 5 quart Dutch oven over medium heat. Add the onion, garlic, and salt and cook for 3 minutes, until the onion has softened.</li>
+	<li>Melt the butter in a <a href="https://www.amazon.com/dp/B00004S9HE?tag=herb-hugo-20">5 quart Dutch oven</a> over medium heat. Add the onion, garlic, and salt and cook for 3 minutes, until the onion has softened.</li>
 	<li>Add the white wine, 2 tablespoons of parsley, thyme and the drained artichokes. Mix the artichokes in. Cover and bring to a bare simmer. Reduce heat to low to just maintain the simmer and cook until the artichokes are completely tender when poked with a knife. If there isn't enough broth left, add a bit more wine and simmer for a couple of minutes to cook off most of the alcohol. Taste and add more salt if needed.</li>
 	<li>Pour all of the contents of the pot into the serving bowl. Garnish with the remaining parsley and several grinds of pepper. Arrange the toasted bread around the outside of the bowl and serve immediately.</li>
 </ol>

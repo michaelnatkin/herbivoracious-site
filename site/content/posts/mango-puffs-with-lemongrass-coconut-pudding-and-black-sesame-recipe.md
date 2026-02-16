@@ -14,7 +14,7 @@ cover:
 
 <p>These little two-bite desserts are a riff on a classic fruit tart, using an easy homemade coconut-milk pudding instead of pastry cream. They are small enough to pass at a cocktail party and the tropical flavors are pleasantly refreshing.</p>
 <p>[[Box: You can find puff pastry in the freezer at many grocery stores. I prefer the flavor of brands that use all butter instead of vegetable shortening. Another option is to make your own. There are simplified methods for “rough puff” that you can easily find on the web. It makes an enjoyable project and you’ll learn a lot about pastry in the process. ]]</p>
-<p>Black sesame paste is available at better Asian grocery stores, especially those that specialize in Japanese ingredients. It is similar to tahini, but thicker and sweetened and totally addictive. If you can’t find it, you can omit it from this recipe and still have a delicious dessert.</p>
+<p><a href="https://www.amazon.com/Japanese-Sesame-additives-2-2lbs-Product/dp/B089KTTLFJ?tag=herb-hugo-20">Black sesame paste</a> is available at better Asian grocery stores, especially those that specialize in Japanese ingredients. It is similar to tahini, but thicker and sweetened and totally addictive. If you can’t find it, you can omit it from this recipe and still have a delicious dessert.</p>
 
 
 <a href="/images/cookbook/mango-puffs-with-lemongrass-coconut-pudding-and-black-sesame-2.jpg"><img src="/images/cookbook/mango-puffs-with-lemongrass-coconut-pudding-and-black-sesame-2.jpg" alt="Mango Puffs with Lemongrass Coconut Pudding and Black Sesame" /></a>

@@ -28,7 +28,7 @@ cover:
 </p>
 <ul>
 <li>2 tablespoons apple cider vinegar</li>
-<li>2 tablespoons maple syrup (preferably grade “B”)</li>
+<li>2 tablespoons maple syrup (preferably <a href="https://www.amazon.com/dp/B0083QJU72?tag=herb-hugo-20">grade</a> “B”)</li>
 <li>½ teaspoon Kosher salt</li>
 <li>several grinds black pepper</li>
 <li>1 Bosc pear, peeled, cored, and finely diced or thinly sliced</li>

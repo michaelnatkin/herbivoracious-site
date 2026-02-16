@@ -34,7 +34,7 @@ For the quick harissa oil:
 	<li>1⁄2 teaspoon ground cumin</li>
 	<li>1⁄2 teaspoon caraway seeds</li>
 	<li>1⁄2 teaspoon coriander seeds</li>
-	<li>2 teaspoons ground sumac</li>
+	<li>2 teaspoons <a href="https://www.amazon.com/dp/B07R4LL17V?tag=herb-hugo-20">ground sumac</a></li>
 	<li>1 garlic clove, minced</li>
 </ul>
 <div>

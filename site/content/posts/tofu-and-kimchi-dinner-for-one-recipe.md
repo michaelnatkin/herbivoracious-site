@@ -39,7 +39,7 @@ Serves 1</em>
 	<li>2 green onions (scallions), thinly sliced (white and light green parts only)</li>
 	<li>toasted sesame seeds</li>
 	<li>1/4 cup vegetarian kimchi</li>
-	<li>1 tablespoon ssamjang or 1 teaspon kochujang, or 1 teaspoon sriracha</li>
+	<li>1 tablespoon <a href="https://www.amazon.com/dp/B07BFQPCM6?tag=herb-hugo-20">ssamjang</a> or 1 teaspon kochujang, or 1 teaspoon sriracha</li>
 </ul>
 <ol>
 	<li>Heat a large cast iron skillet over a very high flame. Add the oil, and 5 seconds later, the tofu and a great big pinch of salt. Fry, tossing occasionally until golden brown. Add the onion and grated ginger and fry for 30 more seconds.</li>

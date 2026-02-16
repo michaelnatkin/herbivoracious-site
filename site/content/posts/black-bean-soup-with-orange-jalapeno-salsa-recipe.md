@@ -14,7 +14,7 @@ cover:
 
 <p>I developed this black bean soup so that it will satisfy those who prefer mild dishes (including kids) as well as those of us who prefer a bolder spice. The main soup is very straightforward, and on the side, we have a bright and intense orange and jalapeno salsa. You can also pass grated cheddar cheese for those who would prefer to think of it as vegetarian chile.</p>
 <p>I find that home-cooked beans are far better than canned. They just seem to have more flavor and a better texture. On the other hand, canned beans sure are convenient if you haven't thought ahead to soak and boil a batch. Just be sure and rinse them well. Alternatively, get a pressure cooker and you can decide to make beans in the late afternoon and still have them beautifully cooked for dinner that night.</p>
-<p>There are several ways to puree the soup. Always remove it from the heat first. If you have an immersion blender, put it in the pot well below the surface and whiz a little bit at a time. Alternatively, use a potato/bean masher in the pot.</p>
+<p>There are several ways to puree the soup. Always remove it from the heat first. If you have an <a href="https://www.amazon.com/dp/B09X27HV7X?tag=herb-hugo-20">immersion blender</a>, put it in the pot well below the surface and whiz a little bit at a time. Alternatively, use a potato/bean masher in the pot.</p>
 
 
 <a href="/images/cookbook/black-bean-soup-with-orange-jalapeno-salsa-2.jpg"><img src="/images/cookbook/black-bean-soup-with-orange-jalapeno-salsa-2.jpg" alt="Black Bean Soup With Orange-Jalapeno Salsa" /></a>

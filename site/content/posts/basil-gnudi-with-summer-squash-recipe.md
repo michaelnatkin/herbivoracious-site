@@ -14,7 +14,7 @@ cover:
 
 <p>Gnudi are like gnocchi made with ricotta instead of potato, or like a ricotta ravioli filling without the pasta. At their best, they are light and pillowy. They pair well with a delicate sauce that allows your handiwork with the dumplings to shine through. This simple sauté of summer squash and cherry tomatoes flavored with white wine and garlic fits the bill.</p>
 <p>I’ve flavored the gnudi heavily with fresh basil. Combined with the sweet dairy flavor of the ricotta and the tomatoes, it is reminiscent of a Caprese salad, and makes a beautiful light entrée.</p>
-<p>If your ricotta seems watery, it is best to drain it with cheesecloth and a colander for a few hours. You don’t need to do this if it is already fairly firm. Calabro is by far the best widely available brand of ricotta in the US and is well worth seeking out.</p>
+<p>If your ricotta seems watery, it is best to drain it with cheesecloth and a colander for a few hours. You don’t need to do this if it is already fairly firm. <a href="https://www.amazon.com/dp/B07D7H4626?tag=herb-hugo-20">Calabro</a> is by far the best widely available brand of ricotta in the US and is well worth seeking out.</p>
 <p>The trick to this recipe is getting the right amount of flour into the dough; you want enough to hold the dumplings together, but not so much that they get heavy, and that can vary depending on the ricotta and eggs. You may want to cook a test dumpling before shaping the rest of them.</p>
 
 

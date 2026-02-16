@@ -34,7 +34,7 @@ cover:
 <li>2 cloves garlic, minced</li>
 <li>1/3 cup minced shallot</li>
 <li>¼ cup palm sugar (break up first) or dark brown sugar</li>
-<li>3 tablespoons tamarind concentrate or 5 tablespoons sieved tamarind pulp</li>
+<li>3 tablespoons <a href="https://www.amazon.com/dp/B00I9P242U?tag=herb-hugo-20">tamarind concentrate</a> or 5 tablespoons sieved tamarind pulp</li>
 <li>1 tablespoon soy sauce</li>
 <li>½ cup shelled, unsalted peanuts</li>
 <li>1 handful cilantro leaves and tender stems, washed and dried</li>

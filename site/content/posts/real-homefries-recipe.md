@@ -29,7 +29,7 @@ cover:
 <li>fresh ground black pepper</li>
 </ul>
 <ol>
-<li>Heat your biggest skillet, preferably cast-iron, over a medium-high flame. You want a really big pan to maximize surface area. Add the oil and onion, and the chile if using, and saute for 30 seconds.</li>
+<li>Heat your biggest <a href="https://www.amazon.com/Lodge-Seasoned-Cast-Iron-Skillet/dp/B00006JSUB?tag=herb-hugo-20">skillet</a>, preferably cast-iron, over a medium-high flame. You want a really big pan to maximize surface area. Add the oil and onion, and the chile if using, and saute for 30 seconds.</li>
 <li>Add the potato and  salt, and stir to coat with the oil. Distribute into a single layer, or as close as possible. Every 3 minutes or so, flip them with a spatula, trying as much as possible to get uncooked surfaces onto the skillet, and of course maintaining the single layer.</li>
 <li>Fry until deep golden brown. Taste and salt as needed. Serve immediately, while hot and crispy, topped with a few flakes of sea salt and fresh ground black pepper.</li>
 </ol>

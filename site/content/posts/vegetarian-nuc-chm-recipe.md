@@ -17,7 +17,7 @@ aliases: ["/vegetarian-nuc-chm-recipe/", "/2012/06/vegetarian-nuc-chm-recipe.htm
 <ul>
 <li>¾ cup water</li>
 <li>2 tablespoons sugar</li>
-<li>1 small piece dried kombu seaweed</li>
+<li>1 small piece dried <a href="https://www.amazon.com/dp/B0BWHB7TZL?tag=herb-hugo-20">kombu seaweed</a></li>
 <li>1-2 thinly sliced Thai bird or serrano chiles, or 2 teaspoons chile paste</li>
 <li>1 tablespoon soy sauce (omit or check ingredients carefully if you need gluten-free)</li>
 <li>6 tablespoons lime juice</li>

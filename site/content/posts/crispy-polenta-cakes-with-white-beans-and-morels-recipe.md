@@ -26,7 +26,7 @@ cover:
 <ul>
 <li>6 cups cooked and chilled polenta (or 2 cups dry coarse cornmeal)</li>
 <li>Kosher salt</li>
-<li>16 dried morel mushrooms</li>
+<li>16 <a href="https://www.amazon.com/dp/B07RQTWWKZ?tag=herb-hugo-20">dried morel mushrooms</a></li>
 <li>¼ teaspoon minced dried rosemary</li>
 <li>extra virgin olive oil</li>
 <li>1 ½ cups cooked white beans, such as cannellini (one fifteen ounce canned, drained and rinsed)</li>

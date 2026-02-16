@@ -41,6 +41,6 @@ Makes about 30 largeish cookies</em>
 	<li>Add the oatmeal and briefly mix.</li>
 	<li>Add the chocolate chips and briefly mix.</li>
 	<li>Chill the dough for about 1/2 hour. You can do this right in the mixer bowl.</li>
-	<li>Using a small ice-cream scoop or a very heaping tablespoon, drop balls on a silpat or ungreased baking sheet. Bake for about 14 minutes, until nicely browned.</li>
+	<li>Using a small ice-cream scoop or a very heaping tablespoon, drop balls on a <a href="https://www.amazon.com/Silpat-Premium-Non-Stick-Silicone-Baking/dp/B00008T960?tag=herb-hugo-20">silpat</a> or ungreased baking sheet. Bake for about 14 minutes, until nicely browned.</li>
 </ol>
 &nbsp;

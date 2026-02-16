@@ -23,7 +23,7 @@ cover:
 <ul>
 <li>1 head Treviso radicchio, regular radicchio, or romaine lettuce</li>
 <li>1 tablespoon extra-virgin olive oil</li>
-<li>aged balsamic vinegar</li>
+<li><a href="https://www.amazon.com/dp/B004UB692I?tag=herb-hugo-20">aged balsamic vinegar</a></li>
 <li>about 12 thin slices of Parmesan cheese, cut with a vegetable peeler</li>
 <li>handful of toasted walnuts</li>
 <li>flaky sea salt</li>

@@ -39,7 +39,7 @@ Yields 8 piroshki
 	<li>300 grams all-purpose flour</li>
 	<li>200 grams dark rye flour</li>
 	<li>75 grams vegetable oil</li>
-	<li>15 grams salt</li>
+	<li>15 grams <a href="https://www.amazon.com/dp/B00017028M?tag=herb-hugo-20">salt</a></li>
 </ul>
 <ol>
 	<li><span style="line-height: 13px;">Switch to the dough hook, turn on medium-low speed, and slowly add all of the remaining ingredients to the sponge.</span></li>

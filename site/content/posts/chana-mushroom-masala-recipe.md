@@ -32,7 +32,7 @@ cover:
 </p>
 <ul>
 <li>Spice mixture:
-2 teaspoons black mustard seeds (plus one more for tempering, below)</li>
+2 teaspoons <a href="https://www.amazon.com/dp/B000MZC7C2?tag=herb-hugo-20">black mustard seeds</a> (plus one more for tempering, below)</li>
 <li>1 teaspoon fennel seeds</li>
 <li>1 teaspoon cumin seeds</li>
 <li>1 teaspoon coriander seeds</li>

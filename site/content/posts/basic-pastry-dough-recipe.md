@@ -13,7 +13,7 @@ cover:
 
 
 <p>Let’s have a word with you people who are afraid of making pastry crusts. I've been there. We can get you through this and have you making tender, flaky crusts. It really isn't difficult, you just have to focus on a few details:</p>
-<p>Our whole goal here is to get well distributed pockets of butter that will separate layers of the dough, while minimizing gluten development. I really like to use a pastry blender, a simple hand tool with several blades that cut the butter in to the flour. My hands are too warm, and dirtying a whole food processor makes more work than necessary.</p>
+<p>Our whole goal here is to get well distributed pockets of butter that will separate layers of the dough, while minimizing gluten development. I really like to use a <a href="https://www.amazon.com/dp/B01CX1RIMQ?tag=herb-hugo-20">pastry blender</a>, a simple hand tool with several blades that cut the butter in to the flour. My hands are too warm, and dirtying a whole food processor makes more work than necessary.</p>
 <p>If you don’t have a pastry blender, you can cut the butter into the flour using two butter knives, or work it in with your fingers, or pulse them together in the food processor, being sure to stop when you reach the “oatmeal” stage. The food processor can also mix the water in for you.</p>
 
 <div class="recipe-card">

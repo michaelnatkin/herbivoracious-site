@@ -37,7 +37,7 @@ cover:
 <li>3/4 teaspoon Kosher salt</li>
 <li>juice of 1 lime</li>
 <li>For the bocoles:</li>
-<li>2 ½ cups masa harina</li>
+<li>2 ½ cups <a href="https://www.amazon.com/dp/B01BY8MCBQ?tag=herb-hugo-20">masa harina</a></li>
 <li>1 ½ cups + 2 tablespoons warm water</li>
 <li>Kosher salt</li>
 <li>2 cups refried black beans (Ducal brand is good or make your own)</li>

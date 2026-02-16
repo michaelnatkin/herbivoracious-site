@@ -10,7 +10,7 @@ cover:
 ---
 
 <a style="display: inline;" href="/images/old/6a00e008d618bb8834012875ea2fd8970c-800wi.jpg" rel="lightbox"><img class="asset asset-image at-xid-6a00e008d618bb8834012875ea2fd8970c " src="/images/old/6a00e008d618bb8834012875ea2fd8970c-500wi.jpg" alt="Aji_Amarillo_Hot_Sauce" /></a>
-<em>Aji Amarillo hot sauce</em>
+<em><a href="https://www.amazon.com/dp/B092L7JRRC?tag=herb-hugo-20">Aji Amarillo</a> hot sauce</em>
 
 I was unfamiliar with <strong>Aji Amarillo</strong> chile peppers, but when I saw these beautiful specimens from Terra Dolce at our co-cop, I was entranced and knew immediately they would be coming home with me. Searching the web, I learned that they are one of the most important ingredients in Peruvian cuisine. The fresh pepper is used to make <em>huancaina</em>, a cheese sauce that is popular on many dishes including the classic <em>papa a la huancaina</em> with cold potatoes and eggs.
 

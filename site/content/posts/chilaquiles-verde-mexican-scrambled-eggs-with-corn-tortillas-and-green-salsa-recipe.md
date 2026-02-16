@@ -34,7 +34,7 @@ A lot of the love in chilaquiles is in the garnish, so I've listed a whole bunch
 	<li>1/4 teaspoon ground cumin</li>
 	<li>Sea salt</li>
 	<li>Black pepper</li>
-	<li>Optional garnishes: hot sauce (Tapatio!), minced cilantro and white onion, charred scallion, avocado, sour cream, cotija cheese, lime wedges</li>
+	<li>Optional garnishes: hot sauce (<a href="https://www.amazon.com/dp/B000R4G6JS?tag=herb-hugo-20">Tapatio</a>!), minced cilantro and white onion, charred scallion, avocado, sour cream, cotija cheese, lime wedges</li>
 </ul>
 <div>
 <ol>

@@ -10,7 +10,7 @@ cover:
 ---
 
 <a href="/images/2013/03/Saffron-Risotto-with-Watercress-Puree-and-Spring-Vegetables.jpg"><img class="alignnone size-large wp-image-3671" src="/images/2013/03/Saffron-Risotto-with-Watercress-Puree-and-Spring-Vegetables-626x415.jpg" alt="Saffron Risotto with Watercress Puree and Spring Vegetables" width="626" height="415" /></a>
-<em>Saffron Risotto with Watercress Puree and Spring Vegetables</em>
+<em><a href="https://www.amazon.com/dp/B079BQQVY7?tag=herb-hugo-20">Saffron</a> Risotto with Watercress Puree and Spring Vegetables</em>
 
 Risotto is one of my favorite ways to highlight Spring ingredients. This is a version of a recipe I'm serving to a big group for <a href="http://www.wagreenschools.org/" target="_blank">Washington Green Schools</a> this week. Depending on what ends up being fresh, I'll probably do the puree with nettles instead of watercress, and top it with fava beans and hedgehog mushrooms rather than English peas and asparagus.
 

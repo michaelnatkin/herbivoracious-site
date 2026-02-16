@@ -28,7 +28,7 @@ Vegetarian and gluten-free; could be vegan if you omit the cheese and crema</em>
 For the filling:
 <ul>
 	<li>1 large butternut squash, peeled seeded, and cut into 1/2" thick slabs</li>
-	<li>2 oz. achiote paste (see above)</li>
+	<li>2 oz. <a href="https://www.amazon.com/dp/B00169V7TW?tag=herb-hugo-20">achiote paste</a> (see above)</li>
 	<li>3 poblano peppers</li>
 	<li>cilantro</li>
 	<li>mexican crema or sour cream</li>

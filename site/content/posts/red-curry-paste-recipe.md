@@ -16,7 +16,7 @@ aliases: ["/red-curry-paste-recipe/", "/2012/08/red-curry-paste-recipe.html"]
 <br /><em>Vegan and gluten-free / Yields enough for 2 meals</em>
 </p>
 <ul>
-<li>6 dried New Mexico chile pods, stems removed</li>
+<li>6 <a href="https://www.amazon.com/dp/B00JQNCU3C?tag=herb-hugo-20">dried New Mexico chile pods</a>, stems removed</li>
 <li>1 teaspoon coriander seeds</li>
 <li>1/2 teaspoon cumin powder</li>
 <li>several grinds black pepper</li>

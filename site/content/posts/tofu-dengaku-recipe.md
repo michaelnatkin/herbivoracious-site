@@ -28,7 +28,7 @@ cover:
 <br /><em>Vegan / Yields 12 pieces / 15 minutes</em>
 </p>
 <ul>
-<li>2 tablespoons red miso</li>
+<li>2 tablespoons <a href="https://www.amazon.com/dp/B00FBSST9K?tag=herb-hugo-20">red miso</a></li>
 <li>1 tablespoon mirin</li>
 <li>1 tablespoon sake or dry sherry</li>
 <li>1 teaspoon sugar</li>

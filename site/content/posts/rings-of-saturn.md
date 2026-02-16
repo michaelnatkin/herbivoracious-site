@@ -18,7 +18,7 @@ Of course those names got me thinking. I really wanted to do a homemade donut, b
 
 I opted for a challah French toast base, buttermilk and marionberry sauces, and a scoop of dulce de leche ice cream. Challah makes phenomenal French toast. Probably a tie with brioche. The bites of cold ice cream, tender room temperature peach, and warm French toast were pretty incredible.
 
-The marionberry sauce was subtly spiked with rosewater, black pepper, and cardamom, which added a mysterious element. In retrospect the sauces would have looked more Saturnesque if I had brushed them in wide circles on the plate. Maybe a few crunchy space rocks would have worked too. Praline pecans?
+The marionberry sauce was subtly spiked with <a href="https://www.amazon.com/dp/B007RHW480?tag=herb-hugo-20">rosewater</a>, black pepper, and cardamom, which added a mysterious element. In retrospect the sauces would have looked more Saturnesque if I had brushed them in wide circles on the plate. Maybe a few crunchy space rocks would have worked too. Praline pecans?
 
 I didn't actually measure anything for this recipe, but I'll give you a rough guide in case you want to make something similar. If you can't find a Saturn peach, you could use half of a regular peach or nectarine, cut in half along the equator. You only need to peel the peach only if the skin is kind of tough. I've offered other suggested substitutions in the body of the recipe.
 

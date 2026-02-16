@@ -34,7 +34,7 @@ cover:
 <li>1 teaspoon sugar</li>
 <li>2 teaspoons maple syrup</li>
 <li>big pinch flaky sea salt</li>
-<li>4 teaspoons pomegranate molasses</li>
+<li>4 teaspoons <a href="https://www.amazon.com/dp/B004A6ET3O?tag=herb-hugo-20">pomegranate molasses</a></li>
 <li>1 orange</li>
 </ul>
 <ol>

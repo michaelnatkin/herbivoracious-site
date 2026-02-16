@@ -11,7 +11,7 @@ cover:
 ---
 <a href="/images/cookbook/buckwheat-buttermilk-pancakes.jpg"><img src="/images/cookbook/buckwheat-buttermilk-pancakes.jpg" alt="Buckwheat Buttermilk Pancakes" /></a>
 
-<p>Buckwheat pancakes have a place in the American imagination, but rarely at the breakfast table. When you do occasionally find them at restaurants, the percentage of buckwheat flour is so low that you can hardly taste it, which is a shame, because it adds a warm, toasty, nutty flavor.</p>
+<p>Buckwheat pancakes have a place in the American imagination, but rarely at the breakfast table. When you do occasionally find them at restaurants, the percentage of <a href="https://www.amazon.com/dp/B01EIQROUA?tag=herb-hugo-20">buckwheat flour</a> is so low that you can hardly taste it, which is a shame, because it adds a warm, toasty, nutty flavor.</p>
 <p>Buckwheat is widely enjoyed in other cuisines, such as Russian blini, Japanese soba noodles, and Eastern European kasha. The easiest place to find buckwheat flour is at your local natural foods store, often in the bulk section.</p>
 <p>You can easily substitute up to 50% buckwheat flour in any pancake recipe and it will be fine but possibly a little flat. I counteract that tendency with buttermilk, which adds a lot of leavening power. Pancake batter should be fairly thick so that it has time to rise instead of spread when poured on the griddle.</p>
 

@@ -12,7 +12,7 @@ cover:
 <a href="/images/cookbook/chickpea-and-green-olive-tagine.jpg"><img src="/images/cookbook/chickpea-and-green-olive-tagine.jpg" alt="Chickpea and Green Olive Tagine" /></a>
 
 
-<p>A tagine technically refers to a funnel-shaped clay pot traditionally used in Morocco, but it also can be used to describe any moist, spicy stew made with the spices typical of that region. This version uses ras el hanout (a mixture of up to 18 spices), pomegranate molasses, preserved lemon, and marinated olives to quickly build up big flavors.</p>
+<p>A tagine technically refers to a funnel-shaped clay pot traditionally used in Morocco, but it also can be used to describe any moist, spicy stew made with the spices typical of that region. This version uses <a href="https://www.amazon.com/dp/B072N6RHSV?tag=herb-hugo-20">ras el hanout</a> (a mixture of up to 18 spices), pomegranate molasses, preserved lemon, and marinated olives to quickly build up big flavors.</p>
 <p>For the green olives, look for a type that is already pitted and marinated in a spice mixture. If you happen to find one with Moroccan or Middle Eastern spices, that is ideal, but Sicilian or even French styles will do fine. Your best bet will be at the “olive bar” of an upscale grocer rather than in a jar.</p>
 <p>Serve this dish family style over a big platter of steaming couscous for the most dramatic impact. You can add an oven-roasted vegetable such as a cauliflower or winter squash for more variety and to serve a larger group.</p>
 

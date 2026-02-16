@@ -11,7 +11,7 @@ cover:
 ---
 
 <a style="display: inline;" href="/images/old/6a00e008d618bb883401348576c8f3970c-800wi.jpg" rel="lightbox"><img class="asset asset-image at-xid-6a00e008d618bb883401348576c8f3970c " title="Tomato Jam With Rosemary and Saffron" src="/images/old/6a00e008d618bb883401348576c8f3970c-500wi.jpg" alt="Grilled_Cheese_With_Tomato_Jam" /></a>
-<em>Tomato Jam With Rosemary and Saffron (on a Grilled Cheese Sandwich)
+<em>Tomato Jam With Rosemary and <a href="https://www.amazon.com/dp/B07J29JF27?tag=herb-hugo-20">Saffron</a> (on a Grilled Cheese Sandwich)
 </em>
 
 Tomato jam. Sounds kind of funny, right? But then when you think about it, a tomato is a fruit after all. Cook them down with sugar and seasonings and you get a piquant jam, though you might think of it more as a chutney.

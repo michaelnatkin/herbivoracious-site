@@ -16,7 +16,7 @@ Savory, crispy, flaky, cheesy. Boyikos are little cheese biscuits or crackers th
 
 As with any traditional food, there are variations in the name (e.g. boyos, boyos de rayo), and each family has their own special twist. Over at <a href="http://sephardicfood.wordpress.com/2009/01/07/receta-boyos-de-rayo/" target="_blank">Sephardic Food</a>, Janet rolls and cuts them like a biscuits and adds sesame seeds, while our <a href="/2008/04/review-nonis-ki/" target="_blank">Noni</a> forms them by hand and presses them with the tines of a fork, like a peanut butter cookie.
 
-You can make them with just about any hard grating type cheese. Pecorino romano is our tradition, but parmesan or even manchego work well too.
+You can make them with just about any hard grating type cheese. <a href="https://www.amazon.com/dp/B075JLYF9T?tag=herb-hugo-20">Pecorino romano</a> is our tradition, but parmesan or even manchego work well too.
 
 <div class="recipe-card">
 <strong>Boyikos</strong>

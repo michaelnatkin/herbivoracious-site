@@ -12,7 +12,7 @@ cover:
 <a href="/images/cookbook/middle-eastern-panzanella.jpg"><img src="/images/cookbook/middle-eastern-panzanella.jpg" alt="Middle Eastern Panzanella" /></a>
 
 
-<p>Panzanella is the classic Italian salad of slightly stale rustic bread, soaking up the juices of spectacular ripe summer tomatoes.  It makes a great basis for improvisation. Here we use crispy toasted pita bread, mint, cilantro and sumac to give it a Middle Eastern spin, similar to Lebanese fattoush.</p>
+<p>Panzanella is the classic Italian salad of slightly stale rustic bread, soaking up the juices of spectacular ripe summer tomatoes.  It makes a great basis for improvisation. Here we use crispy toasted pita bread, mint, cilantro and <a href="https://www.amazon.com/Sadaf-Ground-Sumac-4oz-Pack/dp/B00886NHDK?tag=herb-hugo-20">sumac</a> to give it a Middle Eastern spin, similar to Lebanese fattoush.</p>
 <p>Sumac is a lovely, deep purple spice with a tangy taste. It is used throughout the Middle East as a final garnish, on everything from hummus to kebabs, as much for color as flavor. If you can’t find it, the salad will still be delicious.</p>
 <p>Feel free to add other fresh herbs, black, olives, a handful of chickpeas, feta cheese, or a dollop of thick yogurt if that suits your mood.</p>
 

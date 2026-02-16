@@ -18,7 +18,7 @@ aliases: ["/banh-xeo-crispy-vietnamese-crepe-recipe/", "/2011/09/banh-xeo-crispy
 </p>
 <ul>
 <li>For the crepes:</li>
-<li>1 cup rice flour (not sweet rice flour, which is used for making desserts)</li>
+<li>1 cup <a href="https://www.amazon.com/dp/B0019GZ7YI?tag=herb-hugo-20">rice flour</a> (not sweet rice flour, which is used for making desserts)</li>
 <li>1 ½ cups coconut milk</li>
 <li>2 green onions, thinly sliced</li>
 <li>1 teaspoon turmeric</li>

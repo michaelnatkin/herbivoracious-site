@@ -13,7 +13,7 @@ cover:
 
 
 <p>I love baked dishes when I’m entertaining or busy with kids, because they mind their own business in the oven while I take care of other things. This polenta is filled with a mixture of sautéed mushrooms and kale in a creamy, Tarragon Béchamel, with just enough cheese to make it seem rich without blowing your whole week’s calorie budget. It makes a great change of pace from baked pastas.</p>
-<p>Quick-cooking polenta will work just fine in this recipe. I particularly like the de la Estancia brand from Argentina, which has a pronounced corn flavor. But you can use any polenta that you like.</p>
+<p><a href="https://www.amazon.com/dp/B000HRZX6C?tag=herb-hugo-20">Quick-cooking polenta</a> will work just fine in this recipe. I particularly like the de la Estancia brand from Argentina, which has a pronounced corn flavor. But you can use any polenta that you like.</p>
 <p>You can prepare this dish and then immediately bake it, or refrigerate it and then bake it the next day. Just allow more time in the oven if it has to come up to temperature. Be sure and read the recipe in advance, as it calls for the sauce and the polenta to be pre-cooked.</p>
 
 

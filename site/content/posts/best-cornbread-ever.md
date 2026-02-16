@@ -19,7 +19,7 @@ For bonus points, you can add a tablespoon of non-fat milk powder to the butter 
 
 I know you'll be shocked to hear I have opinions about cornbread recipes. I think there are two main axes of variation to be concerned with: the corn to wheat flour ratio and whether you prefer your cornbread plain or with lots of additions (like corn kernels, onions, jalapenos, cheddar, olives and so forth).
 
-I've seen ratios anywhere from 100% corn to only 25% corn. I like anything 50% and above. I want to mostly taste corn, but if you go too far in that direction, the results can be tasty but very crumbly. 50% provides a good balance of moistness without turning into cake. Use the freshest, best quality organic stoneground cornmeal you can find to maximize the flavor. A coarse grind is preferable.
+I've seen ratios anywhere from 100% corn to only 25% corn. I like anything 50% and above. I want to mostly taste corn, but if you go too far in that direction, the results can be tasty but very crumbly. 50% provides a good balance of moistness without turning into cake. Use the freshest, best quality <a href="https://www.amazon.com/dp/B0842TT35H?tag=herb-hugo-20">organic stoneground cornmeal</a> you can find to maximize the flavor. A coarse grind is preferable.
 
 As far as inclusions go, I don't have anything against them on principle. It is just that to me, the pure flavor and texture of cornbread with a big pat of sweet cream butter is so perfect, they seem an unnecessary distraction. But if that is what you like, feel free to fold them into the recipe below just before baking.
 

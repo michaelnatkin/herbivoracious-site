@@ -20,7 +20,7 @@ cover:
 <p><strong>Lemony Grilled Gai Lan (Chinese Broccoli)</strong>
 </p>
 <ul>
-<li>The Korean-French cuisine of chefs Seif Cherchi and Rachel Yang have made a huge impact on Seattle food culture. At Joule, they knocked my socks off with a dish of Chinese broccoli tossed with chermoula and grilled. My variation uses kochujang (a Korean chile paste), which blends beautifully with the flavor of fresh lemons.</li>
+<li>The Korean-French cuisine of chefs Seif Cherchi and Rachel Yang have made a huge impact on Seattle food culture. At Joule, they knocked my socks off with a dish of Chinese broccoli tossed with chermoula and grilled. My variation uses <a href="https://www.amazon.com/Gochujang-Cholesterol-Calories-Fermented-Marinades/dp/B013HB0CC4?tag=herb-hugo-20">kochujang</a> (a Korean chile paste), which blends beautifully with the flavor of fresh lemons.</li>
 <li>If you aren’t able to grill, you can also use a grill pan or your broiler to cook these greens. If possible, use the optional smoked salt to bring some of those smoky flavors in.</li>
 <li>Gai lan is widely available at Asian markets. It has a stem about the thickness of asparagus, which makes it perfect for grilling, tasty leaves that will crisp up on the grill, and small budding tops that resemble American broccoli. Be sure to get it scrupulously dry before tossing with the sauce to avoid unpleasant dilution. If you can’t find gai lan, broccolini makes a fine substitute.</li>
 <li>juice of 1 lemon</li>

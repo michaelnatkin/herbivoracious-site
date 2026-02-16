@@ -16,7 +16,7 @@ Having been a vegetarian for 30 years, I've eaten my share of veggie burgers. Th
 
 Until now.
 
-Ben Johnson and the rest of the ChefSteps crew were working on meat burgers and condiments for a future set of recipes, and of course they wanted to tackle a veggie burger too. We got to chatting about the work that work that my friend <a href="http://www.veggiechef.co.uk/" target="_blank">Eddie Shepherd</a> had done on binding mushrooms with an an enzyme known as transglutaminase, and realized that it might be ideal for creating a vegetable based burger that had the textural "snap" of a meat burger.
+Ben Johnson and the rest of the ChefSteps crew were working on meat burgers and condiments for a future set of recipes, and of course they wanted to tackle a veggie burger too. We got to chatting about the work that work that my friend <a href="http://www.veggiechef.co.uk/" target="_blank">Eddie Shepherd</a> had done on binding mushrooms with an an enzyme known as <a href="https://www.amazon.com/dp/B0F5Z55TH5?tag=herb-hugo-20">transglutaminase</a>, and realized that it might be ideal for creating a vegetable based burger that had the textural "snap" of a meat burger.
 
 Ben's results are way beyond what I could have hoped for. The mushrooms are roasted first to develop maximum flavor and drive off water, and they are 95% of the total product, so the taste is a big fat wallop of umami that compliments the condiments instead of hiding under them. Searing the patty in a  hot skillet creates a beautiful, crisp, rich crust that just needs a generous hit of salt to be mind-blowing.
 

@@ -40,7 +40,7 @@ Serves 4 as part of a larger meal</em>
 </ul>
 <ol>
 	<li>In a medium saucepan, cover the lentils with about 1 inch of water and bring to a boil. Reduce to a simmer. Stir occasionally to avoid scorching on the bottom, and add more water if it gets low. Start this going and move on to the next step.</li>
-	<li>Meanwhile, in a blender or mini food processor, puree the onion, garlic and ginger.</li>
+	<li>Meanwhile, in a <a href="https://www.amazon.com/Berbere-Spice-Authentic-Ethiopian-Hand-blended/dp/B08FBLK53S?tag=herb-hugo-20">blend</a>er or mini food processor, puree the onion, garlic and ginger.</li>
 	<li>Heat the butter or oil over a medium flame in a small skillet. Add the paprika, turmeric and cayene, and fry for 30 seconds. Add the onion mixture and fry for about 10 minutes, until rather dry and lightly browned.</li>
 	<li>Scrape the mixture from the skillet into the lentil and add about 1/2 teaspoon of salt. Continue to simmer until the lentils are fully pureed. The total time starting at step 1 will probably be about 40 minutes. Add water if too thick or cook a little longer if too thin. The ideal texture is thick enough to stand up a little on a spoon, but not thick like, say, hummus. A little thicker than applesauce. Taste and adjust the seasoning.</li>
 </ol>

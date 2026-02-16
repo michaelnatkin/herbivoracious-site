@@ -10,7 +10,7 @@ cover:
 ---
 
 <a href="/images/2011/12/Crispy-Yuba-Rolls.jpg"><img class="alignnone size-large wp-image-869" title="Crispy Yuba Rolls" src="/images/2011/12/Crispy-Yuba-Rolls-626x415.jpg" alt="Crispy Yuba Rolls" width="626" height="415" /></a>
-<em>Crispy Yuba (Tofu Skin) Rolls</em>
+<em>Crispy <a href="https://www.amazon.com/dp/B08J42X9B7?tag=herb-hugo-20">Yuba (Tofu Skin)</a> Rolls</em>
 
 Yuba is a thin skin of tofu that is a byproduct of making soymilk. It is pulled in sheets off the top of the pot of boiling soymilk, much like the skin that forms on a pot of simmering cow's milk. It can be made at home, but I've never tried. I buy mine from <a href="http://video.seattletimes.com/1257293738001/">Northwest Tofu</a>. You can also find it in dried form at a good Asian grocery, in which case it can be rehydrated and should work fine in this recipe (but I haven't tried it).
 

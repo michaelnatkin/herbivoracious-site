@@ -12,7 +12,7 @@ cover:
 <a href="/images/cookbook/kimchi-stew-kimchi-jigae-with-shiitake-and-daikon.jpg"><img src="/images/cookbook/kimchi-stew-kimchi-jigae-with-shiitake-and-daikon.jpg" alt="Kimchi Stew (Kimchi Jigae) with Shiitake and Daikon" /></a>
 
 
-<p>Kimchi jigae is classic Korean home cooking that is simple enough to make for a weeknight dinner. The body of the stew comes from chopped kimchi, spiked with chili paste (kochujang, also spelled gochujang) and miso. This version is made with daikon, shiitake mushroom caps and tofu, but you can adapt the stew to just about any ingredients you have on hand.</p>
+<p>Kimchi jigae is classic Korean home cooking that is simple enough to make for a weeknight dinner. The body of the stew comes from chopped kimchi, spiked with chili paste (kochujang, also spelled <a href="https://www.amazon.com/Gochujang-Cholesterol-Calories-Fermented-Marinades/dp/B013HB0CC4?tag=herb-hugo-20">gochujang</a>) and miso. This version is made with daikon, shiitake mushroom caps and tofu, but you can adapt the stew to just about any ingredients you have on hand.</p>
 <p>Daikon is delicious in salads and pickles, but don’t underestimate its value as a cooked vegetable as well. Heat brings out a sweet, tender side that is easy to like.</p>
 <p>Serve this stew with rice and more kimchi for a simple meal, or add a collection of Korean side-dishes (banchan) for a full feast. One easy banchan item is mung bean sprouts, blanched in boiling water and then seasoned with sesame oil and sea salt,</p>
 <p> Depending on your kimchi, this may already be quite a spicy stew, or you may wish to add additional chile heat.</p>

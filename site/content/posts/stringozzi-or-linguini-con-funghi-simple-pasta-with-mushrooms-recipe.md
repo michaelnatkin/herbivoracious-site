@@ -10,7 +10,7 @@ cover:
 ---
 
 <a style="display: inline;" href="/images/old/6a00e008d618bb88340120a80925c0970b-800wi.jpg" rel="lightbox"><img class="asset asset-image at-xid-6a00e008d618bb88340120a80925c0970b " src="/images/old/6a00e008d618bb88340120a80925c0970b-500wi.jpg" alt="Stringozzi_Con_Funghi" /></a>
-Stringozzi con funghi (pasta with mushrooms)
+<a href="https://www.amazon.com/dp/B07BWN5RLH?tag=herb-hugo-20">Stringozzi</a> con funghi (pasta with mushrooms)
 
 Living in Seattle, we get some of the best wild mushrooms in the country at our markets, often within hours of being foraged. The bounty of morels, chanterelles, porcini, maitake, and dozens of other varieties is astonishing. Sometimes I forget <strong>how delicious cultivated button mushrooms can be</strong>.
 

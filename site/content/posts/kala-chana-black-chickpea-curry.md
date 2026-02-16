@@ -45,7 +45,7 @@ Vegetarian, vegan, and gluten-free</em>
 	<li> 1 teaspoon ground coriander</li>
 	<li> 1 teaspoon ground cumin</li>
 	<li> 1/2 teaspoon turmeric</li>
-	<li> 1/4 teaspoon chili powder (or more/less to taste) (cayenne is an ok substitute)</li>
+	<li> 1/4 teaspoon chili <a href="https://www.amazon.com/dp/B07C8FHVTT?tag=herb-hugo-20">powder</a> (or more/less to taste) (cayenne is an ok substitute)</li>
 	<li> 1/2 teaspoon garam masala</li>
 	<li> 2-3 tablespoons finely chopped cilantro (optional)</li>
 </ul>

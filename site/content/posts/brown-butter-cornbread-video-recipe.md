@@ -10,4 +10,4 @@ aliases: ["/brown-butter-cornbread-video-recipe/", "/2012/03/brown-butter-cornbr
 
 The brown butter cornbread recipe <a title="Herbivoracious: A Flavor Revolution with 150 Vibrant and Original Vegetarian Recipes" href="/get-the-herbivoracious-cookbook/" target="_blank">in my book</a> is one I come back to over and over again, whenever a bowl of vegetarian chili or black bean soup is on the menu. The brown butter flavor somehow amplifies the taste of the corn. I use an easy trick that is popular in modernist kitchens for <strong>improving the flavor of brown butter</strong>, by adding more non-fat milk solids. Watch the video for the technique and an explanation of why it works.
 
-Oh, and by the way, a double batch of this recipe cooks up great in a 12" cast iron skillet, and I can pretty much guarantee you that it is impossible to make too much cornbread.
+Oh, and by the way, a double batch of this recipe cooks up great in a <a href="https://www.amazon.com/dp/B00006JSUB?tag=herb-hugo-20">12" cast iron skillet</a>, and I can pretty much guarantee you that it is impossible to make too much cornbread.

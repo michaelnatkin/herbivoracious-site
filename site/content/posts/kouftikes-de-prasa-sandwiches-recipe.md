@@ -16,7 +16,7 @@ cover:
 
 All over the Middle East and even in India, a kofta is a little meatball or patty. There are a few vegetarian versions too. These kouftikes de prasa as they are affectionately known on the Sephardic side of my family, are made of leeks, bound together with breadcrumbs and eggs.
 
-I like to up the ante by serving them in a pita sandwich with a spicy pickled cabbage flavored with preserved lemon and harissa. This transforms them from an appetizer into an entrée with street food flair.
+I like to up the ante by serving them in a pita sandwich with a spicy pickled cabbage flavored with preserved lemon and <a href="https://www.amazon.com/Mina-Harissa-Hot-Sauce-Moroccan-Paste/dp/B00634JM8I?tag=herb-hugo-20">harissa</a>. This transforms them from an appetizer into an entrée with street food flair.
 
 The cabbage needs to sit for a couple of hours to soften. You can toss it together the day before and let it marinate in the refrigerator overnight, or in a pinch, just use plain shredded lettuce instead, and serve hot sauce on the side.
 

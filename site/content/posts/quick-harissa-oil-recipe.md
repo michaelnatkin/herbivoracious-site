@@ -22,7 +22,7 @@ aliases: ["/quick-harissa-oil-recipe/", "/2012/08/quick-harissa-oil-recipe.html"
 <li>½ teaspoon ground cumin</li>
 <li>½ teaspoon caraway seeds</li>
 <li>½ teaspoon coriander seeds</li>
-<li>2 teaspoons sumac powder</li>
+<li>2 teaspoons <a href="https://www.amazon.com/Spice-Way-Pure-Sumac-Freshly/dp/B07R4LL17V?tag=herb-hugo-20">sumac powder</a></li>
 <li>1 clove garlic, minced</li>
 </ul>
 <ol>

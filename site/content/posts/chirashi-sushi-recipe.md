@@ -42,7 +42,7 @@ cover:
 <li>½ ripe avocado, thinly sliced</li>
 <li>pickled ginger</li>
 <li>wasabi paste</li>
-<li>2 teaspoons umeboshi plum paste (or 4 pickled umeboshi plums, pitted and mashed)</li>
+<li>2 teaspoons <a href="https://www.amazon.com/dp/B0013JLOHA?tag=herb-hugo-20">umeboshi plum paste</a> (or 4 pickled umeboshi plums, pitted and mashed)</li>
 </ul>
 <ol>
 <li>For the sushi rice: Cook the rice using a rice cooker or according to package directions. Whisk together the rice vinegar, sugar, and 4 teaspoons of salt.</li>

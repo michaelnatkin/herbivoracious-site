@@ -15,7 +15,7 @@ aliases: ["/five-minute-indian-style-cabbage-recipe/", "/2012/01/five-minute-ind
 </p>
 <ul>
 <li>1 tablespoon vegetable oil or ghee (clarified butter), or mustard oil, or more to taste</li>
-<li>1 tablespoon black mustard seeds</li>
+<li>1 tablespoon <a href="https://www.amazon.com/dp/B000MZC7C2?tag=herb-hugo-20">black mustard seeds</a></li>
 <li>1/2 teaspoon cumin powder</li>
 <li>1/2 teaspoon turmeric powder</li>
 <li>1/4 teaspoon cayenne pepper</li>

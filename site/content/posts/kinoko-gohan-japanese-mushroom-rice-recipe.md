@@ -29,7 +29,7 @@ Although the dish is primarily about fresh mushrooms, I also use a few dried shi
 	<li>1/4 cup sake</li>
 	<li>1/4 cup mirin</li>
 	<li>5 dried shiitake mushrooms</li>
-	<li>One piece of dried kombu, approximately 6" by 1 1/2 "</li>
+	<li>One piece of <a href="https://www.amazon.com/Dried-3-52oz-Kombu-Seaweed-Hokkaido/dp/B0BWHB7TZL?tag=herb-hugo-20">dried kombu</a>, approximately 6" by 1 1/2 "</li>
 	<li>8 ounces mixed fresh Asian mushrooms (such as king oyster, oyster, maitake, shimeiji, bunapi, shiitake), trimmed and cut if very large</li>
 	<li>2 cups Japanese-style rice (like Niko Niko or Kokuho Rose), pre-soaked for an hour if time permits</li>
 	<li>1 teaspoon toasted sesame oil</li>

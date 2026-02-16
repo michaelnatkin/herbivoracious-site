@@ -12,7 +12,7 @@ cover:
 <a href="/images/cookbook/triple-smoky-mac-and-cheese.jpg"><img src="/images/cookbook/triple-smoky-mac-and-cheese.jpg" alt="Triple-Smoky Mac and Cheese" /></a>
 
 
-<p>This grownup macaroni and cheese was inspired by an incredible oak-smoked cheddar that I found at Seattle’s historic Pike Place Market. We reinforce that flavor with smoked paprika and chipotle pepper. If you can't get the smoked cheddar, use a regular cheddar and smoked mozzarella instead.</p>
+<p>This grownup macaroni and cheese was inspired by an incredible oak-smoked cheddar that I found at Seattle’s historic Pike Place Market. We reinforce that flavor with <a href="https://www.amazon.com/dp/B00LX21KVW?tag=herb-hugo-20">smoked paprika</a> and chipotle pepper. If you can't get the smoked cheddar, use a regular cheddar and smoked mozzarella instead.</p>
 <p>You can also make this macaroni and cheese ahead, and refrigerate it, which makes it very convenient for dinner parties. Just wait to top with the breadcrumbs until the last minute, and allow additional baking time to come up to temperature.</p>
 
 

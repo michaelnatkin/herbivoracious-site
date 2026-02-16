@@ -30,7 +30,7 @@ cover:
 <li>2/3 cup dried kidney beans, rinsed and picked over</li>
 <li>2 whole chile negro (dried pasilla)</li>
 <li>2 teaspoons ancho chili powder</li>
-<li>2 teaspoons oregano (preferably Mexican oregano)</li>
+<li>2 teaspoons oregano (preferably <a href="https://www.amazon.com/dp/B00ATJUC2I?tag=herb-hugo-20">Mexican oregano</a>)</li>
 <li>1 teaspoon cumin powder</li>
 <li>¼ teaspoon cinnamon</li>
 <li>1 tablespoon cocoa powder</li>

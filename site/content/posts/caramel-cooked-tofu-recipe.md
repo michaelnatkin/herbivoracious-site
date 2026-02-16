@@ -27,7 +27,7 @@ cover:
 <li>¼ cup rice wine or dry sherry</li>
 <li>2 teaspoons rice vinegar</li>
 <li>¼ cup soy sauce (gluten-free if required)</li>
-<li>1 teaspoon Chinese toasted sesame oil</li>
+<li>1 teaspoon <a href="https://www.amazon.com/dp/B005WXMPMQ?tag=herb-hugo-20">Chinese toasted sesame oil</a></li>
 <li>2 cloves garlic, minced</li>
 <li>1 teaspoon minced fresh ginger</li>
 <li>½ cup sugar</li>

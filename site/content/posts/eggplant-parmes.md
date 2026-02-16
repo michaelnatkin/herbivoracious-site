@@ -17,7 +17,7 @@ This eggplant parmigiana is one of my favorite celebratory dishes for late summe
 
 At the market, look for eggplants that are very dense. When you pick one up, you should feel surprised at how heavy it is. I don't bother with salting and draining eggplants for most dishes, but for this one it makes a big difference. You don't want a bunch of liquid coming off of the eggplant when it is in the oven, making the breading soggy.
 
-Japanese panko breadcrumbs work fantastic for this dish, because they fry up so light and crispy. You can find them at Asian grocery stores, and I've also seen them at better mainstream markets lately.
+Japanese <a href="https://www.amazon.com/dp/B000WD3PZM?tag=herb-hugo-20">panko breadcrumbs</a> work fantastic for this dish, because they fry up so light and crispy. You can find them at Asian grocery stores, and I've also seen them at better mainstream markets lately.
 
 Accusations that I would eat this cold for breakfast the next day are completely unfounded. It is always gone long before then.
 

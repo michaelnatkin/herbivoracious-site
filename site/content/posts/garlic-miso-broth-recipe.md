@@ -34,7 +34,7 @@ cover:
 </ul>
 <ol>
 <li>Bring 4 cups of water to a simmer. Add the garlic and simmer for ten minutes.</li>
-<li>Whisk the miso, tamari and sesame oil with a few tablespoons of water until it forms a pourable paste. Turn off the heat on the garlic broth and whisk the miso paste into it.</li>
+<li>Whisk the miso, tamari and sesame oil with a few tablespoons of water until it forms a pourable paste. Turn off the heat on the garlic broth and whisk the <a href="https://www.amazon.com/dp/B004QYW7UW?tag=herb-hugo-20">miso paste</a> into it.</li>
 <li>Strain the soup to remove the garlic and any undissolved bits of miso. Return to the pot and reheat but do not boil. Taste and add more salt or soy sauce if needed.</li>
 <li>Ladle into serving bowls, add the tofu puffs if using, sprinkle on a few green onion slices and serve immediately.</li>
 </ol>

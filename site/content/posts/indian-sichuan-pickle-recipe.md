@@ -26,7 +26,7 @@ cover:
 <li>1 tablespoon black mustard seeds</li>
 <li>1 teaspoon cumin seeds</li>
 <li>1 teaspoon fennel seeds</li>
-<li>1 cup coarsely chopped Sichuan preserved vegetable (about 2 whole knobs)</li>
+<li>1 cup coarsely chopped <a href="https://www.amazon.com/dp/B079C5V5VX?tag=herb-hugo-20">Sichuan preserved vegetable</a> (about 2 whole knobs)</li>
 </ul>
 <ol>
 <li>Heat the vegetable oil in a small skillet over a medium high flame. Add the mustard seeds, cumin seeds and fennel seeds and cook for about 1 minute, until the mustard seeds start popping and everything is fragrant but not burning.</li>

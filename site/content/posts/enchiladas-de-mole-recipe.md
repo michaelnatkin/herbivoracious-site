@@ -35,7 +35,7 @@ This recipe will make a lot more mole than you need for 12 enchiladas, but you m
   <li>4 cloves garlic, minced</li>
   <li>1 teaspoon salt</li>
   <li>1 teaspoon sugar</li>
-  <li>2 dried pasilla peppers, stemmed, toasted in a dry skillet</li>
+  <li>2 <a href="https://www.amazon.com/dp/B08LCGX3W7?tag=herb-hugo-20">dried pasilla peppers</a>, stemmed, toasted in a dry skillet</li>
   <li>2 dried ancho peppers, stemmed, toasted in a dry skillet</li>
   <li>1 cup unhulled sesame seeds, toasted in a dry skillet</li>
   <li>1 slice bread</li>

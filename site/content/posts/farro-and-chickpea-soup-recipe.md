@@ -10,7 +10,7 @@ cover:
 ---
 
 <a style="display: inline;" href="/images/old/6a00e008d618bb88340162fc805e37970d-800wi.jpg" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb88340162fc805e37970d" title="Farro Chickpea Soup" src="/images/old/6a00e008d618bb88340162fc805e37970d-500wi.jpg" alt="Farro Chickpea Soup" />
-</a><em>Farro and Chickpea Soup</em>
+</a><em><a href="https://www.amazon.com/dp/B07XLQ13WY?tag=herb-hugo-20">Farro</a> and Chickpea Soup</em>
 
 Things this soup will not do: Win any beauty contests.
 

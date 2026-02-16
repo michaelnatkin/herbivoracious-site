@@ -29,7 +29,7 @@ Needless to say, this salad dressing is delightful on lettuce too!
 
 <em>For the dressing</em>
 <ul>
-	<li>2 tablespoons champagne vinegar</li>
+	<li>2 tablespoons <a href="https://www.amazon.com/dp/B000YM9S2A?tag=herb-hugo-20">champagne vinegar</a></li>
 	<li>3 teaspoons minced shallot</li>
 	<li>Leaves from 2 sprigs of fresh thyme</li>
 	<li>1 teaspoon Kosher salt</li>

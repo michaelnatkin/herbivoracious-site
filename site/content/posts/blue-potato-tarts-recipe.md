@@ -13,7 +13,7 @@ cover:
 
 
 <p>I love to make this tart using a variety of potato that is blue all the way through. The presentation really shows off this beautiful vegetable. You can of course use other varieties. It is nice if they are small enough to arrange whole slices on these rectangular pies.</p>
-<p>If you happen to have truffle salt, you can use it throughout this recipe to add an extra dimension of flavor; it will still be perfectly delicious if you use regular Kosher salt. (Of course if you happen to have an actual black truffle on hand, you can shave it into the cream and on top of the finished dish, and then call me for dinner.)</p>
+<p>If you happen to have <a href="https://www.amazon.com/dp/B0BG9BNZDW?tag=herb-hugo-20">truffle salt</a>, you can use it throughout this recipe to add an extra dimension of flavor; it will still be perfectly delicious if you use regular Kosher salt. (Of course if you happen to have an actual black truffle on hand, you can shave it into the cream and on top of the finished dish, and then call me for dinner.)</p>
 
 <div class="recipe-card">
 <p><strong>Blue Potato Tarts</strong>

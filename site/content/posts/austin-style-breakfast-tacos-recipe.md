@@ -31,7 +31,7 @@ The version below uses refried beans, potatoes, scrambled eggs, salsa, and mince
 	<li>10 tender scrambled eggs</li>
 	<li>Fresh salsa (a smoky one is nice)</li>
 	<li>1 bunch cilantro minced with 1/2 white onion</li>
-	<li>Hot sauce (Tapatio or whatever you like)</li>
+	<li>Hot sauce (<a href="https://www.amazon.com/dp/B000R4G6JS?tag=herb-hugo-20">Tapatio</a> or whatever you like)</li>
 </ul>
 <ol>
 	<li><span style="line-height: 13px;">Heat the tortillas either on a griddle, or by wrapping in a clean, slightly dampened towel and microwaving for about two minutes until soft.</span></li>

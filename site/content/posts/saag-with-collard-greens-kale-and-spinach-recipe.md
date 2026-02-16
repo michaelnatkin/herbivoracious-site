@@ -30,7 +30,7 @@ Serves 4 as part of a larger Indian dinner
 
 For the spice mixture:
 <ul>
-	<li>1/4 teaspoon ground asoefetida (hing)</li>
+	<li>1/4 teaspoon ground asoefetida <a href="https://www.amazon.com/dp/B006POH22Y?tag=herb-hugo-20">(hing)</a></li>
 	<li>1/4 teaspoon ground cinnamon</li>
 	<li>1/4 teaspoon ground nutmeg (preferably freshly grated, use a bit more if not)</li>
 	<li>1/2 teaspoon ground cumin</li>

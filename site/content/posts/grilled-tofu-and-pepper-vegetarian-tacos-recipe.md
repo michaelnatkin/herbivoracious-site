@@ -28,7 +28,7 @@ If you haven't cooked with achiote (annatto) before, the easiest way is to buy a
 <em>Vegetarian, vegan, and gluten-free
 Serves 4</em>
 <ul>
-	<li>1.5 ounces achiote "brick" paste (aka annatto)</li>
+	<li>1.5 ounces achiote "brick" <a href="https://www.amazon.com/dp/B00NU1O7T6?tag=herb-hugo-20">paste</a> (aka annatto)</li>
 	<li>1/2 cup canola oil</li>
 	<li>1 teaspoon ground cumin</li>
 	<li>2 teaspoons Tapatio or other hot sauce</li>

@@ -11,7 +11,7 @@ I've been writing Herbivoracious for just over three years now. What started as 
 
 I'm so grateful for my readers. You have encouraged, critiqued, and supported me, and helped the site grow by sharing it with your friends.
 
-Many times you have asked me, in comments and conversation, "when are you writing a cookbook?" The honest answer is that I had started one, over a decade ago, but I lacked the vision and commitment to make it happen. Now I'm ready, and when the good folks at <a href="http://www.harvardcommonpress.com" target="_blank">Harvard Common Press</a> reached out to me this summer, I knew the time was ripe to bring this project to fruition.
+Many times you have asked me, in comments and conversation, "when are you writing a <a href="https://www.amazon.com/dp/1558327452?tag=herb-hugo-20">cookbook</a>?" The honest answer is that I had started one, over a decade ago, but I lacked the vision and commitment to make it happen. Now I'm ready, and when the good folks at <a href="http://www.harvardcommonpress.com" target="_blank">Harvard Common Press</a> reached out to me this summer, I knew the time was ripe to bring this project to fruition.
 
 The book will come out in the <del>fall</del> spring of 2012. I've already started writing, testing and photographing the recipes, and I'll be working hard at that until next summer. At that point, we'll go in to editing and production mode, putting on all the final touches. Some of the recipes will be the very best and most popular ones I've published on the site, freshly edited and improved, and others will be brand new, never before seen.
 

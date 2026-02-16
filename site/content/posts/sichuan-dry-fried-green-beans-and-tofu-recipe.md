@@ -13,7 +13,7 @@ cover:
 
 
 <p>If you have ever ordered the dry-fried green beans at a good Chinese restaurant, you know how delicious they can be, but I bet you don’t know what is in them! For years, I wondered what all that yummy brown stuff was. I knew there was garlic and ginger, but I couldn’t imagine that there could be 1/2 cup of garlic in a plate of green beans.</p>
-<p>It turns out the answer is Sichuan preserved vegetable, which is a pickled mustard tuber that you find canned at a good Asian grocery. It is better to buy the large-chunk style and chop it yourself; if you buy pre-shredded, you’ll want to rinse off some of the salt. The taste is somewhat like kimchi, and I find it rather addictive. On  you’ll find another way to use this treasure, to make an Indian-Sichuan pickle.</p>
+<p>It turns out the answer is <a href="https://www.amazon.com/dp/B00OOVDBPW?tag=herb-hugo-20">Sichuan preserved vegetable</a>, which is a pickled mustard tuber that you find canned at a good Asian grocery. It is better to buy the large-chunk style and chop it yourself; if you buy pre-shredded, you’ll want to rinse off some of the salt. The taste is somewhat like kimchi, and I find it rather addictive. On  you’ll find another way to use this treasure, to make an Indian-Sichuan pickle.</p>
 <p>I’ve added tofu and a few mushrooms to the traditional green bean dish, which makes it into a one-dish supper for two, or a hearty part of a larger dinner for four.</p>
 <p>Don’t be scared off by the quantity of oil in this recipe, and please don’t stint on it when frying the green beans. Most of it is is drained off before the dish is completed.</p>
 

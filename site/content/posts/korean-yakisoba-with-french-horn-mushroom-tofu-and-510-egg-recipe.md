@@ -22,7 +22,7 @@ There are a lot of ways to make nice soft-boiled eggs. I use David Chang's very 
 
 As far as the other ingredients go: if I haven't convinced you to buy gochujang yet, I'm trying again. It is a mainstay of Korean cuisine, a hot paste made from spicy peppers, rice and fermented soybeans (NB: and often some wheat products, not gluten free). It keeps a long time in the fridge and I can pretty well guarantee you'll be addicted after one try.
 
-Hatcho miso is interesting stuff - almost black, chunky and fudgy, it has a somewhat smoky taste. If you can't find it, just use a red miso instead.
+<a href="https://www.amazon.com/KAKUKYU-Hatcho-Paste-1-pack-10-58oz/dp/B0DNQ4Y74Y?tag=herb-hugo-20">Hatcho miso</a> is interesting stuff - almost black, chunky and fudgy, it has a somewhat smoky taste. If you can't find it, just use a red miso instead.
 
 Garlic chives (aka nira) can be found at good Asian grocers and sometimes at farmer's markets. If you can't find them, use say 6-8 scallions instead.
 

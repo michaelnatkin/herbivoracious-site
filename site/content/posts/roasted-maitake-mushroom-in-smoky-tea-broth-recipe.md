@@ -13,7 +13,7 @@ cover:
 
 
 <p>Maitake mushrooms are very popular in Japan. In the US, they are known as Hen-of-the-woods (not to be confused with chicken-of-the-woods, which is completely different!). Maitakes are rather expensive and unique, so when I use them, I like to make them the focus of a dish.</p>
-<p>If you have never had lapsang souchong tea, you are in for a treat. It is intensely smoky, unlike any other tea I’ve had. That smokiness makes a perfect broth base to show off the earthiness of roasted maitakes.</p>
+<p>If you have never had <a href="https://www.amazon.com/dp/B002JP6H2O?tag=herb-hugo-20">lapsang souchong tea</a>, you are in for a treat. It is intensely smoky, unlike any other tea I’ve had. That smokiness makes a perfect broth base to show off the earthiness of roasted maitakes.</p>
 <p>You could cut the maitake up into bite sized pieces, but this dish is more dramatic when the mushroom is served in larger piece, and it also keeps the mushroom from getting soggy. Give the guests a knife to cut it at the last moment.</p>
 
 
