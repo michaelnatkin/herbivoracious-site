@@ -19,3 +19,33 @@ Maitakes, also known as hen-of-the-woods (not to be confused with chicken-of-the
 If you have never had lapsang souchong tea, you are in for a treat. It is intensely smoky, unlike any other tea I’ve had. That smokiness makes it a perfect broth base to show off the earthiness of roasted maitakes.
 
 You could cut the maitake up into bite-sized pieces, but this dish is more dramatic when the mushroom is served in larger pieces—which also keeps it from getting soggy. Give guests a knife so they can cut the maitake at the last moment.
+
+
+<div class="recipe-card">
+  <h2 class="recipe-card-title">Roasted Maitake Mushrooms In Smoky Tea Broth – Recipe</h2>
+  <div class="recipe-card-meta">
+    <span>Prep: 10 min</span> | <span>Cook: 20 min</span>
+  </div>
+  <h3>Ingredients</h3>
+  <ul>
+  <li>1/2 cup finely diced bok choy stems</li>
+  <li>1 tablespoon water</li>
+  <li>1 pound fresh maitake mushroom(s)</li>
+  <li>3 tablespoons vegetable oil</li>
+  <li>1/2 teaspoon kosher salt</li>
+  <li>2 teaspoons lapsang souchong tea</li>
+  <li>2 cups boiling water</li>
+  <li>1 tablespoon tamari</li>
+  <li>Toasted sesame oil</li>
+  <li>Flaky sea salt (such as Maldon)</li>
+  <li>2 teaspoons finely sliced scallion, white and light green parts only</li>
+</ul>
+  <h3>Instructions</h3>
+  <ol>
+  <li>Preheat the oven to 450°F using convection, or 475°F without convection. Warm four shallow soup bowls.</li>
+  <li>Place the bok choy in a small bowl with 1 tablespoon water and microwave on High for 1 minute. (Alternatively, you can steam the bok choy or blanch it in boiling water.) Reserve.</li>
+  <li>Divide the mushroom into 4 portions (leaving the pieces as large as possible) and place on a rimmed baking sheet. Toss with the vegetable oil, coating the mushroom as evenly as possible, and sprinkle with 1/2 teaspoon kosher salt. Roast until fragrant, starting to brown, and becoming tender, about 20 minutes.</li>
+  <li>While the mushroom is roasting, place the lapsang souchong tea in a small, heatproof bowl and cover with the boiling water; allow to steep 5 minutes. Strain. Add the tamari. Taste and season with a bit of salt if needed. The broth should be smoky and mildly salty, with a distinct note of soy.</li>
+  <li>When the mushrooms are ready, place one portion in each bowl. Place the bok choy dice around the maitake. Reheat the tea in the microwave and divide among the 4 bowls. Garnish each bowl with a drizzle of toasted sesame oil, a pinch of flaky sea salt, and the scallions. Serve piping hot.</li>
+</ol>
+</div>

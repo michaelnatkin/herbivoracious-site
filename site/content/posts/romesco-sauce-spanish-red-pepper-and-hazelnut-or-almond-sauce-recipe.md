@@ -20,3 +20,30 @@ Update, 2/13/2013 - we've got a <a href="http://www.chefsteps.com/activities/gig
 Almonds or hazelnuts are most commonly used. I went with all hazelnuts, and amped up the flavor using <a href="http://www.amazon.com/dp/B0000D9MRC/?tag=poeticlicen07-20">roasted hazelnut oil</a>. If you happen to have that available, it is aromatic and wonderful. Hazelnut oil makes incredible salad dressings too. And if not, the romesco will still be great with extra-virgin olive oil.
 
 I was in the mood to roast the peppers with a blowtorch. It is fast, and you get a very even blistering of the skin. The flesh doesn't get cooked as much, leaving a fresher flavor that I quite like. But you can just as well use a more traditional method - see this <a href="/2012/03/polenta-with-pepperonata-recip/">Polenta with Pepperonata</a> recipe for the technique.
+
+
+<div class="recipe-card">
+  <h2 class="recipe-card-title">Romesco Sauce – Spanish Red Pepper and Hazelnut (or Almond) Sauce – Vegetarian, Vegan, and Gluten free</h2>
+  <div class="recipe-card-meta">
+    <span>Prep: 15 min</span> | <span>Cook: 40 min</span> | <span>Total: 55 min</span>
+    <br>Yield: 1 cup
+  </div>
+  <h3>Ingredients</h3>
+  <ul>
+  <li>1 head garlic + a bit of extra-virgin olive oil</li>
+  <li>1 red bell pepper</li>
+  <li>40 grams skinned hazelnuts (about 1/3 cup)</li>
+  <li>2 canned tomatoes (from one can), preferably San Marzano</li>
+  <li>5 grams kosher salt (about 1 teaspoon)</li>
+  <li>8 grams sherry vinegar (about 1 1/2 teaspoons)</li>
+  <li>3.5 grams smoked paprika (about 1 1/2 teaspoons)</li>
+  <li>80 grams hazelnut oil if available, otherwise extra-virgin olive oil (about 6 tablespoons)</li>
+</ul>
+  <h3>Instructions</h3>
+  <ol>
+  <li>Preheat oven to 400 F. Trim top off head of garlic, place on foil, rub with a bit of extra-virgin olive oil. Wrap and roast at until tender and brown, about 40 mins.</li>
+  <li>Thoroughly blister red pepper with blowtorch; set in covered bowl for 5 mins. Rub off skin with a paper towel. Split and discard stem, seeds, and ribs. Roughly chop. (Alternatively, you can roast the red peppers under the broiler, or, very carefully, on a stove burner, and then proceed as directed.)</li>
+  <li>Toast hazelnuts in a skillet over medium heat until lightly browned and fragrant.</li>
+  <li>Put hazelnuts in a blender and process at medium speed until powdered. Squeeze garlic cloves out of skin and add to blender. Add bell pepper, tomatoes, salt, vinegar and smoked paprika and process to a paste. With blender running on low speed, drizzle in the the hazelnut oil. Taste and adjust seasoning.</li>
+</ol>
+</div>

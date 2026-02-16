@@ -20,3 +20,27 @@ The flavors, both of the beets and the resemblance to cured meats suggest the ri
 If you want to use the corned beef spices, make up just the spice mixture part of this <a href="http://www.simplyrecipes.com/recipes/home_cured_corned_beef/" target="_blank">recipe from Elise</a> and then measure out the amount you need.
 
 I've only ever made this recipe by cooking the beets sous vide and drying them in a <a href="http://www.amazon.com/dp/B004Z915M4/?tag=poeticlicen07-20" target="_blank">fancy-pants dehydrator</a>, and rehydrating them in a chamber vacuum. But I don't see any reason why it shouldn't work to cook them in a pot, dry them in a low oven, and rehydrate (more slowly) without a vacuum. You'll have to experiment a little, but it should be just fine. If you do, please report back! I've given my best-guess directions below.
+
+
+<div class="recipe-card">
+  <h2 class="recipe-card-title">Corned Beets – Recipe</h2>
+  <div class="recipe-card-meta">
+    <span>Prep: 20 min</span> | <span>Cook: 6 hrs</span> | <span>Total: 6 hrs 20 min</span>
+    <br>Yield: 350 grams (enough for at least 3 good-sized sandwiches)
+  </div>
+  <h3>Ingredients</h3>
+  <ul>
+  <li>500 grams water</li>
+  <li>10 to 20 grams kosher salt (see below)</li>
+  <li>18 grams sugar</li>
+  <li>15 to 22 grams spice mix (see below)</li>
+  <li>1000 grams peeled and thinly-sliced (about 2mm) beets (from about 1800 grams whole beets)</li>
+</ul>
+  <h3>Instructions</h3>
+  <ol>
+  <li>Whisk together the water, salt, sugar, and spice mixture. If using the ChefSteps House Rub 01, use the smaller amounts of salt and spice mix. If using Elise's corned beef spice mix, use the larger amounts. Taste and adjust seasoning - it should definitely be salty, but not unbearably, and it should have a definite spice kick.</li>
+  <li>If you have sous vide equipment available, seal the beets with the brine and cook at 85 C / 185 F until very tender, about 1 hour and 20 minutes. Otherwise, bring to a simmer in a pot and cook until tender, adding water as needed to keep the beets just covered.</li>
+  <li>If you have a dehydrator available, dehydrate at 145 F until very dry and leathery, about 4 hours. Otherwise, place in a single layer on a parchment-lined baking sheet in your oven at the lowest possible temperature. That will probably be about 170 F, so you'll have to keep a closer eye on them. I'd expect it will take about 2 hours. Use convection if available to maximize airflow.</li>
+  <li>If you have a chamber vacuum available, seal the beets with a minimal amount of water at maximum vacuum to quickly rehydrate. Otherwise, put them in a covered bowl in the refrigerator with just enough water to cover, and check them every half-hour or so until pleasantly chewy. Drain off excess water. The beets are now ready to use.</li>
+</ol>
+</div>

@@ -23,3 +23,34 @@ The version I made today is flavored with date sugar and <a href="http://www.ama
 But you should absolutely feel free to improvise; posset would be good with any flavor that can handle a little sour bite from the acid. I could see honey-flavored posset, or vanilla of course, or Grant was working on jasmine posset... it is so flexible and easy that you'll go back to it all the time.
 
 Oh, and speaking of fun things about ChefSteps - as much as I love doing food photography, it is really cool to be working with <a href="http://www.chefsteps.com/about" target="_blank">Ryan</a> and Kristina. I love the way Kristina got the light from the windows to just glance through the preserved lemon, like stained glass.
+
+
+<div class="recipe-card">
+  <h2 class="recipe-card-title">Saffron-Date Posset – A Dessert You Should Know – Recipe</h2>
+  <div class="recipe-card-meta">
+    <span>Prep: 15 min</span> | <span>Cook: 45 min</span> | <span>Total: 1 hr</span>
+    <br>Yield: 8 servings
+  </div>
+  <h3>Ingredients</h3>
+  <ul>
+  <li>1000 grams heavy cream (about 4 cups)</li>
+  <li>150 grams date sugar (about 3/4 cup)</li>
+  <li>0.2 grams saffron (a generous pinch)</li>
+  <li>7 grams citric acid (sour salt) (about 1 1/2 teaspoons)</li>
+  <li>100 grams sugar (about 1/2 cup)</li>
+  <li>Peel from one preserved lemon, julienned</li>
+  <li>Pistachio oil (as needed)</li>
+  <li>Honey (as needed, optional)</li>
+  <li>40 toasted pistachios</li>
+  <li>3 dates, pits removed, cut into small pieces</li>
+  <li>Lemon thyme leaves (as needed)</li>
+  <li>Maldon salt (as needed)</li>
+</ul>
+  <h3>Instructions</h3>
+  <ol>
+  <li>Combine the cream, date sugar and saffron in a small pot or vacuum bag. If using sous vide, place in an 85 C bath for 45 minutes. On the stovetop, infuse on low heat for 10 minutes, then raise heat to medium and cook until it reaches 85 C.</li>
+  <li>Remove from the heat and add the citric acid to the cream. Puree with an immersion blender to break up any lumps of date sugar. Strain through a fine mesh sieve. Divide equally among 8 ramekins. Cover with plastic wrap and refrigerate until chilled and set, at least 2 hours.</li>
+  <li>In your smallest pot, combine the 100 grams of plain sugar and 100 grams of water and bring to a simmer. Add the julienned preserved lemon peel and allow to simmer for a few minutes. Strain and then spread on parchment paper to cool.</li>
+  <li>To serve, drizzle some pistachio oil on the posset. Drizzle with honey if using. Top with 5 pistachios, several pieces of date, a few slivers of candied preserved lemon, a few lemon thyme leaves and a few grains of salt.</li>
+</ol>
+</div>

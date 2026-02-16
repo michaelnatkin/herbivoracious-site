@@ -19,3 +19,40 @@ My previous <a href="/2008/12/vegetarian-lasagna-recipe-with-spinach-and-ricotta
 The key to making this lasagna great is that both vegetables are thoroughly sauteed first to maximize flavor and minimize any sort of watery outbursts. See the picture at right - maybe I went a bit too far, but you really want to caramelize the surfaces.
 
 When I told my brother I was making this, he asked a very good question: "Are portobellos even relevant anymore?" I knew what he meant. They are one of the most often overused and abused cliches in the vegetarian repertoire, because they are thought to be a good stand-in for meat. I probably don't cook with them more than a couple of times per year, but I think that properly prepared they have a good flavor and texture. I like to lay the caps down flat and slice them on the bias, a trick I learned at <a href="http://">Cafe Flora</a> while making untold hundreds of Wellingtons and French Dips.
+
+
+<div class="recipe-card">
+  <h2 class="recipe-card-title">Summer Squash and Portobello Mushroom Vegetarian Lasagna</h2>
+  <div class="recipe-card-meta">
+    <span>Prep: 30 min</span> | <span>Cook: 1 hr</span>
+    <br>Yield: Serves at least 8
+  </div>
+  <h3>Ingredients</h3>
+  <ul>
+  <li>6 medium crookneck or other summer squash or zucchini, sliced lengthwise, 1/8" thick</li>
+  <li>6 large portobello mushroom caps, sliced 1/8" thick on a bias</li>
+  <li>extra virgin olive oil for sauteeing</li>
+  <li>1 lb. ricotta</li>
+  <li>2 eggs</li>
+  <li>1/2 teaspoon nutmeg</li>
+  <li>1 onion, diced</li>
+  <li>2 cloves garlic, minced</li>
+  <li>2 large (28 oz.) cans plain tomato sauce</li>
+  <li>zest from 1 lemon</li>
+  <li>1.5 pounds no-boil lasagna noodles (or regular lasagna noodles, par-boiled)</li>
+  <li>salt, pepper to taste</li>
+  <li>1 lb. grated mozzarella</li>
+  <li>4 oz. grated parmesan cheese</li>
+</ul>
+  <h3>Instructions</h3>
+  <ol>
+  <li>In a large skillet over high, fry the squash and portobello mushrooms in olive oil. Fry each in a single layer, using as many batches as needed. Flip and cook both sides until well browned. Remove to paper towels and season with salt.</li>
+  <li>Season the ricotta along with nutmeg, salt and pepper to taste, then beat in the eggs.</li>
+  <li>Saute the onion & garlic  in a good amount of olive oil, add the tomato sauce and lemon zest, simmer 5 minutes. Add salt to taste.</li>
+  <li>Oil an 11" x 13" pan (at least 2" deep). Build up layers of noodles, sauce, squash and mushrooms, ricotta mixture, and mozzarella. Be sure to get the noodles quite wet if they are the no-boil type and need plenty of moisture. You'll have about 4 layers total. I do sauce on every layer, but ricotta on some and mozzarella on others. Do what you feel.</li>
+  <li>Finish with a heavy layer of mozzarella and the parm, mixed together.</li>
+  <li>Bake at 375 F., covering with tin foil part of the time if needed to avoid overbrowning. It is done when internal temp is say 170 F. (check a few spots) or when you can easily pierce the noodles with a fork, and the sauce is bubbling around the sides. Don't overcook and let the noodles get soggy.</li>
+  <li>If the cheese isn't crispy and brown enough, finish judiciously with the broiler.</li>
+  <li>Allow to rest at least 15 minutes before serving so it has time to set up a bit.</li>
+</ol>
+</div>

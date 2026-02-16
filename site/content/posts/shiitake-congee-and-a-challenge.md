@@ -27,3 +27,35 @@ Cooking it sous vide was mostly an experiment, since you can readily cook congee
 <strong>One more intriguing tip:</strong> when I was testing this recipe, the yuba rolls came out nice and crispy. But Grant mentioned a method, which I haven't had time to try yet, that will make them even crispier. Instead of pan-frying, deep fry them, twice or even three times. Like you would for a French fry. First at a lower temperature to remove most of the moisture from the outer layers, then at a higher temperature to crisp up. Sounds amazing to me. If you try it, let me know.
 
 Now.. <a href="http://forum.chefsteps.com/discussion/206/culinary-challenge-2-vegetarian-main-course" target="_blank">come play</a>!
+
+
+<div class="recipe-card">
+  <h2 class="recipe-card-title">Shiitake Congee</h2>
+  <div class="recipe-card-meta">
+    <span>Prep: 30 min</span> | <span>Cook: 1 hr 30 min</span> | <span>Total: 2 hrs</span>
+    <br>Yield: 4 generous servings
+  </div>
+  <h3>Ingredients</h3>
+  <p><em>Note: vegetarian & kosher; vegan if you omit the egg</em></p>
+<ul>
+  <li>4 eggs</li>
+  <li>40 grams dried shiitake mushrooms, caps only</li>
+  <li>185 grams Asian rice</li>
+  <li>8 grams salt</li>
+  <li>194 grams storebought pre-fried tofu, finely diced</li>
+  <li>8 grams sesame oil</li>
+  <li>12 grams tamari</li>
+  <li>12 rectangles fresh soybean skin (yuba), about 2" x 6", double-thick</li>
+  <li>Canned pickled Chinese cabbage or Sichuan pickled vegetable</li>
+  <li>Salt and pepper to taste</li>
+</ul>
+  <h3>Instructions</h3>
+  <ol>
+  <li>Cook the eggs sous vide at 63 C for 45 minutes; alternatively make them soft-boiled in any way you prefer (not the same, but also good.)</li>
+  <li>Grind 20 grams of the shiitake caps in a spice grinder to a fine powder. Put the remaining shiitake caps in a bowl with very hot water to soak.</li>
+  <li>Combine the shiitake powder with the rice, salt, and 1 liter (1000 grams) of water and cook sous vide at 90 C for 1 1/2 hours or until completely broken down into a porridge consistency. Don't worry if the shiitake powder looks ugly in the bag, it will look fine when you stir later.</li>
+  <li>Finely dice the reserved shiitake caps, and toss them in a bowl with the diced fried tofu, sesame oil, and soy sauce. Taste and adjust seasoning.</li>
+  <li>Make twelve yuba wraps, filling each with 1 tablespoon of the tofu mixture. Don't seal the ends, just wrap up as tightly as you can. As close as possible to serving time, so they stay crisp, place a large skillet over medium-high heat, add a slick of vegetable oil, and pan-fry the yuba wraps until golden-brown on both sides. Season generously with salt and pepper.</li>
+  <li>To serve, open the bag of rice, empty into a bowl, and stir in boiling water from a kettle until it is at a pleasing consistency, somewhere on the soupy side of oatmeal. Divide among four hot bowls. Crack an egg and put in each bowl, followed by 3 of the yuba rolls and a couple of tablespoons of the pickled cabbage.</li>
+</ol>
+</div>

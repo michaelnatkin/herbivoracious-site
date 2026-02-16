@@ -19,3 +19,33 @@ This refreshing celery and fennel salad is a riff on one that I had at <a href="
 <strong>Totally optional</strong>: if you happen to have access to a chamber vacuum, compressing the celery and fennel gives it a great texture and translucent appearance. If not, you can definitely skip it. Or if you have time, cut the vegetables and then freeze them the day before you want to serve, then thaw them an hour ahead of time, pat dry with paper towels, and then refrigerate to firm back up. In the freezer, ice crystals will rupture the cell walls, producing an effect somewhat similar to compression.
 
 If you want to add one more component, a few pickled grapes would be really good I think. You could also replace or supplement the pumpernickel with toasted (or lightly candied) walnuts or pecans.
+
+
+<div class="recipe-card">
+  <h2 class="recipe-card-title">Celery and Fennel Salad – Recipe</h2>
+  <div class="recipe-card-meta">
+    <span>Prep: 15 min</span> | <span>Cook: 10 min</span>
+    <br>Yield: 4 modest servings
+  </div>
+  <h3>Ingredients</h3>
+  <ul>
+  <li>12 grams pumpernickel (about one 1/4" slice with the crusts removed), cut into 1/4" dice</li>
+  <li>Vegetable oil for frying pumpernickel</li>
+  <li>140 grams celery (about 4 stalks), strings removed, sliced about 1/8" thick</li>
+  <li>140 grams fennel (about 1/3 bulb), sliced about 1/8" thick, (parallel to the base)</li>
+  <li>15 grams extra-virgin olive oil (1 tablespoon)</li>
+  <li>Lemon juice, as needed</li>
+  <li>Maldon salt, as needed</li>
+  <li>Celery leaves, as needed</li>
+  <li>Fennel fronds, as needed</li>
+  <li>Small block of blue cheese, any type you like, frozen hard</li>
+</ul>
+  <h3>Instructions</h3>
+  <ol>
+  <li>Heat 1" of oil in a very small pot to about 260 F. Slowly fry the pumpernickel cubes until darkened and crispy, about 10 minutes. Remove with a slotted spoon to paper towels and reserve.</li>
+  <li>Option 1: If you have access to a chamber vacuum, combine the sliced celery and fennel in a bag with a couple pinches of Maldon salt and seal at maximum vacuum. When ready to serve, transfer from bag to a bowl.</li>
+  <li>Option 2: Combine the sliced celery, sliced fennel, olive oil, and a couple of pinches of Maldon salt in a bowl.</li>
+  <li>Toss with lemon juice to taste and add more salt as needed.</li>
+  <li>To serve, divide the salad onto 4 chilled plates. Distribute the croutons, and garnish with the celery and fennel leaves. Immediately before serving, remove the blue cheese from the freezer and shave a few paper thin slices over each salad, using a mandoline or a vegetable peeler.</li>
+</ol>
+</div>

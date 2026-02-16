@@ -39,3 +39,26 @@ One last thought: this dressing is delicious on a big salad with lots of ingredi
 If you enjoy this recipe, I've got 149 more in <a href="http://www.amazon.com/dp/1558327452/?tag=poeticlicen07-20" target="_blank">my cookbook</a>!
 
 &nbsp;
+
+
+<div class="recipe-card">
+  <h2 class="recipe-card-title">Lemon-Mustard Vinaigrette – The Simplest and Best Salad Dressing – Recipe</h2>
+  <div class="recipe-card-meta">
+    <span>Prep: 5 min</span>
+    <br>Yield: 6 tablespoons, enough (probably too much) for a great big salad bowl of greens
+  </div>
+  <h3>Ingredients</h3>
+  <p><em>Note: Vegetarian, vegan, and gluten-free</em></p>
+<ul>
+  <li>2 tablespoons freshly squeezed lemon juice</li>
+  <li>1/2 teaspoon prepared Dijon mustard (e.g. Grey Poupon)</li>
+  <li>1/4 teaspoon sea salt (preferably Maldon (aka the world's greatest salt)!)</li>
+  <li>4 tablespoons delicious extra-virgin olive oil</li>
+</ul>
+  <h3>Instructions</h3>
+  <ol>
+  <li>Option 1: combine all ingredients in a small jar with a tight fitting lid. Shake vigorously for 30 seconds until emulsified.</li>
+  <li>Option 2: Combine the lemon juice, mustard and salt in a bowl. Drizzle in the olive oil while whisking continuosly.</li>
+  <li>Taste and adjust the salt, and add more lemon juice or olive oil to achieve a pleasing balance of acidity.</li>
+</ol>
+</div>

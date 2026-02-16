@@ -18,3 +18,57 @@ I'm not going to kid you, gorditas are a bit of a project. You have to make and 
 I based my dough recipe on one from Rick Bayless' classic <a href="http://www.amazon.com/dp/0061373265/?tag=poeticlicen07-20">Authentic Mexican</a>, but I omitted the wheat flour he calls for. I don't know why, I just felt moved to leave it out so I did. Possibly the gluten from it would give you puffier gorditas, so I'll try that next time.
 
 You could of course use the roasted mushrooms here in something simpler, say tacos. We quarter them, keeping fairly large, toothsome bites, and oven roast to develop some flavor and get rid of excess water. Then the mushrooms are finished with a spiced tomato-paste mixture to create a bit of sauce.
+
+
+<div class="recipe-card">
+  <h2 class="recipe-card-title">Gorditas with Roasted Mushrooms – Recipe</h2>
+  <div class="recipe-card-meta">
+    <span>Prep: 1 hr</span> | <span>Cook: 45 min</span> | <span>Total: 1 hr 45 min</span>
+    <br>Yield: 14 gorditas, serves 6 as a main course (with a couple extra for the hungriest)
+  </div>
+  <h3>Ingredients</h3>
+  <h4>For the roasted mushrooms</h4>
+<ul>
+  <li>2 1/2 pounds white button mushrooms, quartered lengthwise</li>
+  <li>Vegetable oil</li>
+  <li>Kosher salt</li>
+  <li>1/2 white onion, small dice</li>
+  <li>3 cloves garlic</li>
+  <li>1 tablespoon tomato paste</li>
+  <li>Pinch of cumin</li>
+  <li>Pinch of chili powder (chili de arbol if available)</li>
+</ul>
+<h4>For the gorditas</h4>
+<ul>
+  <li>3 1/2 cups masa harina</li>
+  <li>2 cups hot tap water</li>
+  <li>1/4 cup vegetable oil + more for pan frying</li>
+  <li>1 teaspoon salt</li>
+  <li>2 teaspoons baking powder</li>
+</ul>
+<h4>To serve, some or all of</h4>
+<ul>
+  <li>Salsa of your choice</li>
+  <li>Crumbly Mexican cheese or feta</li>
+  <li>Stewed black beans</li>
+  <li>Pickled cabbage</li>
+  <li>Cilantro</li>
+</ul>
+  <h3>Instructions</h3>
+  <h4>For the mushrooms</h4>
+<ol>
+  <li>Preheat oven to 450. Toss the mushrooms with a few tablespoons of oil and a generous sprinkle of salt. Divide among two baking sheets and roast, tossing occasionally, until the liquid comes out and evaporates and the mushrooms brown a little, about 40 minutes.</li>
+  <li>Put 2 tablespoons of oil in a frying pan over medium heat. Add the onion, garlic and a pinch of salt. Cook, stirring frequently, until the onions are translucent, about 3 minutes. Add the mushrooms, tomato paste, cumin, and chili powder. Cook, stirring occasionally, until the mushrooms are nicely coated, about 3 more minutes. Taste and adjust seasoning.</li>
+</ol>
+<h4>For the gorditas</h4>
+<ol>
+  <li>Stir and lightly knead together the masa harina and water. Let stand to hydrate for fifteen minutes. Knead in the oil, salt, and baking powder. You should have a supple, somewhat moist dough. If not, add a few more tablespoons of water.</li>
+  <li>Divide the dough into 14 equal portions and roll them into balls. If you like to use a scale for portioning, they will be about 64 grams each. Flatten each ball into a circle, about 3 1/2" in diameter, and about 1/3" thick - you can use a tortilla press if you have one, or simply press between two thick plastic bags. Stack the uncooked gorditas between sheets of waxed paper.</li>
+  <li>For the first cooking, heat a dry skillet or griddle to a medium temperature and, working in batches, cook each gordita for a total of 4 minutes, 2 on each side. They should be leathery and somewhat dried out on the outside.</li>
+  <li>For the second cooking, heat enough oil in a large skillet to be more than 1/2 the thickness of a gordita. Aim for about 360 degrees - you don't want the oil smoking. Working in batches, fry the gorditas until golden brown, about 45 seconds on each side. Be very careful when flipping to avoid splashing hot oil on your hands! I find it safer to do with tongs than a spatula. Remove to paper towel-lined racks.</li>
+</ol>
+<h4>To serve</h4>
+<ol>
+  <li>Allow the gorditas to cool enough to handle. If you so desire, use a <a href="http://www.myshopping.com.au/PT--312_Kitchen_Paring_Knives_Knives__fs_9462_19335_e__">paring knife</a> to split in half or open up a pocket and stuff. Otherwise, just top with the mushrooms and your selections of the salsa, cheese, black beans, cabbage and cilantro.</li>
+</ol>
+</div>

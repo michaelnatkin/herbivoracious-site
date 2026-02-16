@@ -19,3 +19,55 @@ This is all completely valid, but you can make a basic version that is about <st
 You'll see in the recipe, we are making enchiladas using the more traditional stovetop method, not in a casserole. But if you prefer to roll them all up and bring them up to temperature in the oven, that is feasible. The main downside is that the tortillas can get soggy.
 
 This recipe will make a lot more mole than you need for 12 enchiladas, but you might as well make a whole batch. It will keep for a few days in the refrigerator, and it freezes well.
+
+
+<div class="recipe-card">
+  <h2 class="recipe-card-title">Enchiladas de Mole with Zucchini and Mushrooms – Recipe</h2>
+  <div class="recipe-card-meta">
+    <span>Prep: 30 min</span> | <span>Cook: 27 min</span> | <span>Total: 1 hr</span>
+    <br>Yield: 4 servings + leftover mole
+  </div>
+  <h3>Ingredients</h3>
+  <h4>For the mole</h4>
+<ul>
+  <li>2 tablespoons vegetable oil</li>
+  <li>1/2 white onion, diced</li>
+  <li>4 cloves garlic, minced</li>
+  <li>1 teaspoon salt</li>
+  <li>1 teaspoon sugar</li>
+  <li>2 dried pasilla peppers, stemmed, toasted in a dry skillet</li>
+  <li>2 dried ancho peppers, stemmed, toasted in a dry skillet</li>
+  <li>1 cup unhulled sesame seeds, toasted in a dry skillet</li>
+  <li>1 slice bread</li>
+  <li>1/3 cup cocoa nibs (or 1/4 cup cocoa powder)</li>
+  <li>1 tablespoon oregano, preferably Mexican oregano</li>
+  <li>1 teaspoon cumin</li>
+  <li>1 teaspoon allspice</li>
+  <li>1/2 teaspoon cinnamon</li>
+  <li>4 cups clear vegetable broth (or part bean-cooking liquid)</li>
+</ul>
+<h4>For the enchiladas</h4>
+<ul>
+  <li>Vegetable oil</li>
+  <li>5 cups diced white mushrooms (about 1/4")</li>
+  <li>5 cups diced zucchini (about 1/4")</li>
+  <li>Kosher salt</li>
+  <li>12 corn tortillas</li>
+</ul>
+<h4>To serve</h4>
+<ul>
+  <li>Rings of white onion</li>
+  <li>Cotija or other crumbly white cheese (feta works in a pinch) (omit or replace for vegan)</li>
+</ul>
+  <h3>Instructions</h3>
+  <h4>For the mole</h4>
+<ol>
+  <li>Heat the oil in a medium saucepan. Add the onion, garlic, salt, and sugar and cook until the onion has softened, about 2 minutes. Tear up and add the toasted pasilla and ancho peppers, the sesame seeds, and the bread. Add the cocoa nibs, cumin, allspice, cinnamon and vegetable broth and bring to a simmer. Cook for about 20 minutes. Puree, then return to pot and taste and adjust seasoning. Add broth as needed to produce a fairly thick but saucy consistency.</li>
+</ol>
+<h4>For the enchiladas</h4>
+<ol>
+  <li>In a large skillet, heat a couple tablespoons of oil over a medium high flame. Add the mushrooms and a big pinch of salt, and saute until tender, about 5 minutes. Reserve the mushrooms and repeat the process with the zucchini. Fold them together. Taste and adjust seasoning.</li>
+  <li>To make the enchiladas, have your plates hot, your mole hot, and your filling hot. Heat about 1/4" of oil in a small skillet over a medium-low flame. Add one tortilla to the oil to soften it, turning once with tongs. This should take about 20 seconds - you don't want to get it crisp. It will seem oily, but will turn out awesome. Place the tortilla on a plate and spread about 1 tablespoon of sauce on it. Spoon in a couple tablespoons of filling and roll it up. Repeat this process, putting 3 enchiladas on each plate.</li>
+  <li>Thin the mole a little with broth (or water), to a saucy consitency, and make sure it is piping hot. Ladle a generous amount over each plate, top with a few rings of white onion and a scattering of cotija, and serve immediately.</li>
+</ol>
+</div>

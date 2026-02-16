@@ -43,3 +43,31 @@ Cook time: <span class="cookTime">1 hour</span> </em>
 	<li>To serve, form a large mound, top with the remaining caramelized onions and chopped parsley, a grind of pepper and a few grains of sea salt. Pass a bowl of thick Greek yogurt to mix in as desired. It is really good at room temperature, and just gets better after a day in the refrigerator.</li>
 </ol>
 (Enjoy this post? Get more like it by <a href="http://feeds.feedburner.com/TheVegetarianFoodie">subscribing to our feed</a>).
+
+
+<div class="recipe-card">
+  <h2 class="recipe-card-title">Recipe: Mujadara (Rice, Lentils and Caramelized Onion Pilaf)</h2>
+  <div class="recipe-card-meta">
+    <span>Prep: 20 min</span> | <span>Cook: 1 hr</span> | <span>Total: 1 hr 20 min</span>
+  </div>
+  <h3>Ingredients</h3>
+  <ul>
+  <li>3 pounds white onions, sliced moderately thin</li>
+  <li>2 tablespoons butter</li>
+  <li>2 tablespoons vegetable oil</li>
+  <li>1/2 cup white wine or vermouth (optional)</li>
+  <li>1 1/2 cups brown or green lentils (not red lentils or french lentils!)</li>
+  <li>2 cups long grain white or brown rice (I prefer the brown for a bit more character)</li>
+  <li>1/4 teaspoon ground cinammon</li>
+  <li>1/4 teaspoon ground cumin</li>
+  <li>Salt and pepper</li>
+  <li>Flat leaf parsley for serving</li>
+</ul>
+  <h3>Instructions</h3>
+  <ol>
+  <li>Melt the butter along with the oil and 1 t. salt in your largest skillet, and add the onions. Set heat on medium-low and stir occasionally until very soft, about 45 minutes. Turn heat to medium high and keep cooking and stirring often until deeply browned and sweet, another 20 minutes or more. Deglaze pan with white wine or vermouth (or water) and stir into the onions to get more flavor. See “caramelized onions” in Joy of Cooking for a more thorough description of the process. If pressed for time you can do a higher heat version, yielding onions with a caramelized exterior and crunchy interior, which is also delicious.</li>
+  <li>Meanwhile, cook the rice and the lentils separately according to your usual method. The lentils need to be watched carefully. You don’t want them still crunchy , but you definitely want to retain their shape. We aren’t making lentil soup here. Some folks cook the rice and lentils together but I don’t think that gives you enough control over the texture.</li>
+  <li>When everything is cooked, fold the rice, lentils, spices, half of the onions, and more salt and pepper together in a large bowl. Taste and adjust seasonings.</li>
+  <li>To serve, form a large mound, top with the remaining caramelized onions and chopped parsley, a grind of pepper and a few grains of sea salt. Pass a bowl of thick Greek yogurt to mix in as desired. It is really good at room temperature, and just gets better after a day in the refrigerator.</li>
+</ol>
+</div>

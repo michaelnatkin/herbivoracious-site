@@ -1067,6 +1067,92 @@ a.as-seen-in:hover { text-decoration: none; }
   color: var(--text-secondary);
 }
 
+/* ---- Recipe Card ---- */
+.recipe-card {
+  margin-top: 3em;
+  padding: 32px;
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+}
+
+.recipe-card-title {
+  font-family: var(--font-display);
+  font-size: 26px;
+  font-weight: 600;
+  line-height: 1.25;
+  margin-bottom: 12px;
+  letter-spacing: -0.02em;
+  color: var(--text);
+}
+
+.recipe-card-meta {
+  font-family: var(--font-ui);
+  font-size: 14px;
+  color: var(--text-secondary);
+  margin-bottom: 20px;
+  padding-bottom: 16px;
+  border-bottom: 1px solid var(--border-light);
+  line-height: 1.7;
+}
+
+.recipe-card-summary {
+  font-size: 16px;
+  line-height: 1.7;
+  color: var(--text-secondary);
+  margin-bottom: 20px;
+  font-style: italic;
+}
+
+.recipe-card h3 {
+  font-family: var(--font-display);
+  font-size: 20px;
+  font-weight: 600;
+  margin-top: 24px;
+  margin-bottom: 10px;
+  color: var(--text);
+  letter-spacing: -0.01em;
+}
+
+.recipe-card h4 {
+  font-family: var(--font-ui);
+  font-size: 14px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--accent);
+  margin-top: 16px;
+  margin-bottom: 8px;
+}
+
+.recipe-card ul,
+.recipe-card ol {
+  margin: 0 0 8px 1.5em;
+  font-size: 16px;
+  line-height: 1.7;
+}
+
+.recipe-card li {
+  margin-bottom: 4px;
+}
+
+.recipe-card ol li {
+  margin-bottom: 12px;
+}
+
+.recipe-card-notes {
+  margin-top: 24px;
+  padding-top: 16px;
+  border-top: 1px solid var(--border-light);
+  font-size: 15px;
+  color: var(--text-secondary);
+  line-height: 1.7;
+}
+
+.recipe-card-notes h3 {
+  margin-top: 0;
+}
+
 /* ---- Responsive ---- */
 @media (max-width: 900px) {
   .site-content {
@@ -1113,6 +1199,9 @@ a.as-seen-in:hover { text-decoration: none; }
   .comment-level-2 { margin-left: 40px; }
   .comment-level-3 { margin-left: 60px; }
   .comment-level-4 { margin-left: 80px; }
+
+  .recipe-card { padding: 20px; }
+  .recipe-card-title { font-size: 22px; }
 
   .archives-grid { grid-template-columns: repeat(2, 1fr); }
   .cookbook-accolades { grid-template-columns: 1fr; }
