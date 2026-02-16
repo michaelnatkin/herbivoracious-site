@@ -7,6 +7,11 @@ slug: "get-the-herbivoracious-cookbook"
 <div class="cookbook-page">
 
 <div class="cookbook-accolades">
+  <blockquote class="jb-accolade">
+    <img src="/images/james-beard-medallion.png" alt="James Beard Award" class="jb-accolade__badge">
+    <b>James Beard Award Finalist</b>
+    <span>Vegetable Focused &amp; Vegetarian, 2013</span>
+  </blockquote>
   <blockquote>
     "<b>If we had to choose one book to cook from in 2012, this would be it.</b> The vegetarian blog of the same name has produced a recipe collection that's varied and draws on many cultures. His Shiitake Tacos With Asian Pear Slaw makes a fine Dinner in Minutes."
     <cite>Deb Lindsey, The Washington Post</cite>
@@ -14,9 +19,6 @@ slug: "get-the-herbivoracious-cookbook"
   <blockquote>
     "Michael Natkin has a talent for <strong>enticing and boldly flavored</strong> creations that are colorful, thoughtful and fresh!"
     <cite>Heidi Swanson, author, 101cookbooks.com and Super Natural Every Day</cite>
-  </blockquote>
-  <blockquote>
-    <b>James Beard Award Finalist</b>, 2013 in the Vegetable Focused and Vegetarian category
   </blockquote>
 </div>
 

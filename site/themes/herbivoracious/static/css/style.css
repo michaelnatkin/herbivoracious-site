@@ -880,6 +880,34 @@ a.as-seen-in:hover { text-decoration: none; }
   font-weight: 500;
 }
 
+/* James Beard accolade in cookbook grid */
+.jb-accolade {
+  border-left: none !important;
+  padding-left: 0 !important;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.jb-accolade__badge {
+  display: block;
+  width: 55%;
+  max-width: 120px;
+  height: auto;
+  margin: 0 auto 12px;
+}
+
+.jb-accolade b,
+.jb-accolade span {
+  display: block;
+}
+
+.jb-accolade span {
+  font-weight: 400;
+}
+
 .cookbook-intro {
   display: flex;
   gap: 28px;
