@@ -21,6 +21,8 @@ python3 audit.py
 
 **Never edit files in `site/public/` directly.** The Hugo dev server watches for changes and rebuilds automatically. Edit source files in `site/themes/herbivoracious/` or `site/content/` instead.
 
+**Never `git push` without explicit permission.** You may commit freely, but always ask before pushing to remote.
+
 ## Architecture
 
 ```
