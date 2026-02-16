@@ -27,6 +27,7 @@ And I really love when I look in the freezer and find a bag with a few leftover 
 
 I'm not going to try and replicate all of this info in a blog post, so l'll just share my version of a piquant red chili sauce. I like a large dose of it moistening the inside of tamales filled with cubes of tofu and zucchini, or with black beans. If you are interested, I highly recommend you pick up the book. Or if you want instant gratification, there is a pretty good <a href="http://www.cooking-mexican-recipes.com/tamales-recipe.html" target="_blank">visual tamale tutorial here</a>.
 
+<div class="recipe-card">
 <strong>Red Chili Sauce for Tamales</strong>
 <em>Vegetarian and vegan</em>
 <em>Enough for at least 20-30 tamales </em>
@@ -47,3 +48,4 @@ I'm not going to try and replicate all of this info in a blog post, so l'll just
 	<li>Place a medium skillet over medium high heat. Add the onion and garlic and cook, tossing a couple of times, until softened and slightly browned. Remove from heat, cool slightly peel the garlic, and add to the blender jar.</li>
 	<li>Add the vegetable base, the tomatoes, the oregano, the cocoa powder and salt. Cover the blender and process on high speed for 1 minute. The result should be a thick sauce. If it is too thick, add a bit more water. Taste and adjust seasoning, then use to make tamales.</li>
 </ol>
+</div>

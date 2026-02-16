@@ -20,6 +20,7 @@ A simple salad with a squeeze of lime makes the perfect complement. If you don�
 
 The coconut water inside the shell is a delicacy in it’s own right - you can also find <a href="http://www.hollandandbarrett.com/pages/categories.asp?cid=323" target="_blank">coconut water online</a>. Serve it in a glass on the side of the salad. If you happen to have a seltzer bottle or a whip-cream maker with seltzer cartridges, you can carbonate it for extra fun.
 
+<div class="recipe-card">
 <strong>Young Coconut Salad</strong>
 <em>Vegetarian, vegan, and gluten-free</em>
 <em>Serves 4</em>
@@ -36,3 +37,4 @@ The coconut water inside the shell is a delicacy in it’s own right - you can 
 	<li>Place a tight, fluffy handful of watercress in each coconut half. Top with a few pomegranate arils. Squeeze in a bit of lime juice and top with a few flakes of sea salt.</li>
 	<li>Serve immediately, with the coconut water in glasses on the side.</li>
 </ol>
+</div>

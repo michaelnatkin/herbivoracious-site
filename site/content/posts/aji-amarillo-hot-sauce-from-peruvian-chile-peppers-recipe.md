@@ -22,7 +22,8 @@ The hot sauce technique is <strong>dead simple</strong>: you briefly toast the p
 
 When working with chile peppers, whether fresh or dried, I highly recommend using <strong>disposable gloves</strong>. They can be found inexpensively at any drugstore, and then you don't have to worry about trying to get the spicy oils off of your hands. If you do accidentally get a hot spot on your hands, rubbing alcohol is pretty effective at removing it.
 
-<strong>Aji Amarillo Hot Sauce</strong> <strong>(can be made with other dried chiles)</strong>
+<strong>Aji Amarillo Hot Sauce</strong> <div class="recipe-card">
+<strong>(can be made with other dried chiles)</strong>
 <em>Vegetarian, vegan, and gluten-free
 Yields about 1/4 cup</em>
 <ul>
@@ -39,3 +40,4 @@ Yields about 1/4 cup</em>
 	<li>Add the remaining ingredients and puree thoroughly. If it won't puree, add more hot water, a tablespoon or so at a time. You'll have to stop frequently to scrape down the sides.</li>
 	<li>Taste (carefully!) and adjust the seasonings to your preference.</li>
 </ol>
+</div>

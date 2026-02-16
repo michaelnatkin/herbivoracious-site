@@ -26,6 +26,7 @@ King oyster mushrooms come in a variety of sizes; I only had small ones when I t
 
 Oh, and one random other note: if you would like to get your Herbivoracious fix on a Kindle, it is available there now as a <a href="http://amzn.to/SJrExV">very inexpensive subscription</a>!
 
+<div class="recipe-card">
 <strong>Vegan "Bacon" From King Oyster Mushrooms</strong>
 <em>Vegetarian, vegan, gluten free and kosher</em>
 <em>Yield: depends on size and quantity of mushrooms </em>
@@ -42,3 +43,4 @@ Oh, and one random other note: if you would like to get your Herbivoracious fix 
 	<li>Slice the king oyster mushrooms lengthwise on a mandoline to about 2mm thickness. Rub both sides of each slice of the mushrooms with the dry rub mix (you probably won't need all of it) and set aside for at least 15 minutes. Wipe off excess rub.</li>
 	<li>Line a plate with paper towels. Heat a large skillet, preferably cast-iron over medium-high heat. Add a thin layer of vegetable oil. When it shimmers, add strips of mushroom in a single, sparse layer (working in batches as needed) and cook until golden brown (about 1 minute), then flip and brown the other side. Transfer to the paper towels. It will crisp up as it cools (just 20 seconds or so).</li>
 </ol>
+</div>

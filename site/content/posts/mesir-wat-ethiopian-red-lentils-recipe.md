@@ -22,6 +22,7 @@ Today's dish is mesir wat - a simple and nourishing puree of red lentils with gi
 
 If you have access to an Ethiopian grocery (or restaurant), piles of fresh injera are easy to come by. Or you can make your own, but it is a bit of a project it seems. If you want to try this recipe but don't have injera, it would still be delicious served with rice, or thinned slightly into soup.
 
+<div class="recipe-card">
 <strong>Mesir Wat - Ethiopian Red Lentil Puree</strong>
 <em>Adapted from <a href="http://www.whats4eats.com/vegetables/mesir-wat-recipe">whats4eats</a></em>
 <em>Vegetarian, vegan if you use oil instead of butter, and gluten-free
@@ -43,3 +44,4 @@ Serves 4 as part of a larger meal</em>
 	<li>Heat the butter or oil over a medium flame in a small skillet. Add the paprika, turmeric and cayene, and fry for 30 seconds. Add the onion mixture and fry for about 10 minutes, until rather dry and lightly browned.</li>
 	<li>Scrape the mixture from the skillet into the lentil and add about 1/2 teaspoon of salt. Continue to simmer until the lentils are fully pureed. The total time starting at step 1 will probably be about 40 minutes. Add water if too thick or cook a little longer if too thin. The ideal texture is thick enough to stand up a little on a spoon, but not thick like, say, hummus. A little thicker than applesauce. Taste and adjust the seasoning.</li>
 </ol>
+</div>

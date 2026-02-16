@@ -19,6 +19,7 @@ So, can I make it up to you with the recipe?
 
 Follow <a href="http://twitter.com/michaelnatkin" target="_blank">@michaelnatkin</a> on twitter for more serious and delicious vegetarian recipes. Check out my other <a href="/categories/favorites/" target="_blank">most popular recipes</a>, or sign up for <a href="http://feeds.feedburner.com/TheVegetarianFoodie" target="_blank">our RSS feed</a> so you never miss a post.
 
+<div class="recipe-card">
 <strong>"Inside-Out Egg" with Mango and Coconut</strong>
 <em>Makes 4
 Vegetarian, vegan and gluten-free</em>
@@ -40,3 +41,4 @@ Vegetarian, vegan and gluten-free</em>
 	<li>Remove from the molds and serve.</li>
 </ol>
 <h1 style="margin: 0pt; padding: 1px 10px;"></h1>
+</div>

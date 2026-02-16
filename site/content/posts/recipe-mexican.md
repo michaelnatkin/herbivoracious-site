@@ -18,6 +18,7 @@ Chilaquiles are a classic Mexican dish in which corn tortillas are fried up cris
 
 We happened to have Trader Joe's "Handmade" Corn Tortillas on hand today, and I felt like making chilaquiles. But these thicker tortillas don't easily fry up crispy, they develop more of a tender texture that reminded me of the matzo brei. Absolutely delicious! Here's the recipe:
 
+<div class="recipe-card">
 <strong>Mexican Matzo Brei or Jewish Chilaquiles</strong>
 <em>For 1</em>
 <ul>
@@ -35,3 +36,4 @@ We happened to have Trader Joe's "Handmade" Corn Tortillas on hand today, and I 
 	<li>When the eggs are just about done, add the cheese and cook til melted</li>
 	<li>Serve with your favorite hot sauce. I've been enjoying Bullard's Louisana Habanero lately.</li>
 </ol>
+</div>

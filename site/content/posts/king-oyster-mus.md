@@ -21,6 +21,7 @@ This is definitely the time of year to make pesto, as super-fresh basil should b
 
 Note that to make the grilled polenta, you have to cook the cornmeal and then let it cool for a couple of hours or overnight, so plan accordingly.
 
+<div class="recipe-card">
 <strong>King Oyster Mushrooms With Pesto, Grilled Polenta, and White Beans</strong>
 <em>Serves 4
 Vegetarian &amp; gluten-free (*); not vegan</em>
@@ -85,3 +86,4 @@ Vegetarian &amp; gluten-free (*); not vegan</em>
 	<li>And finally add a generous dollop of pesto. Pass more at the table.</li>
 </ol>
 (*) Recipes marked as gluten-free are not guaranteed, and of course I can't be responsible for anyone's safety. The ingredients listed are gluten-free to the best of my knowledge, but if you are serving someone with a gluten allergy (or any other serious allergy), be sure to discuss with them the requirements for their safety.
+</div>

@@ -17,6 +17,7 @@ A few weeks ago, I visited <a href="http://glutenfreegirl.com/">Shauna and Dan<
 
 In fact, this is well worth making for any Middle Eastern meal. I used it the other night to complement a simple rice and chickpea pilaf, and I'd happily eat it with these <a href="/2010/07/chickpea-cakes-recipe/">chickpea cakes</a> or even a <a href="/2012/08/zucchini-chickpea-tagine-recipe/">tagine</a>. It uses <a href="http://www.amazon.com/dp/B0012S9NU2/?tag=poeticlicen07-20" target="_blank">preserved lemon</a> and <a href="http://www.amazon.com/dp/B0012WF8P2/?tag=poeticlicen07-20" target="_blank">harissa</a> but you should have them in your kitchen anyhow, they are a whole lot of delicious in small packages. I've linked products from Mustapha's Moroccan because I use them and like them a lot.
 
+<div class="recipe-card">
 <strong>Quickie Amba (Pickled Mango</strong> Condiment)
 <em>Vegetarian, vegan, gluten free and kosher </em>
 <em>Makes enough to serve at a meal for 6, easily</em>
@@ -32,3 +33,4 @@ In fact, this is well worth making for any Middle Eastern meal. I used it the ot
 </div>
 <div></div>
 &nbsp;
+</div>

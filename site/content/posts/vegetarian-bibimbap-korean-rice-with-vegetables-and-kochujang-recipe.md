@@ -20,6 +20,7 @@ Bibimbap is one of the few things that vegetarians can usually count on getting 
 
 By the way, I actually cooked my "poached" eggs <a href="http://blog.chefsteps.com/2012/12/why-sous-vide-is-the-best-bargain-in-cooking/" target="_blank">sous vide</a> at 63 degrees C for 45 minutes. You don't have to do it this way, but if you have an immersion circulator it is a great option. I find a lot of people aren't completely comfortable with the texture of the white at that temperature, so I generally crack them into boiling water for 10 seconds before removing with a slotted spoon to give a more traditional appearance.
 
+<div class="recipe-card">
 <strong>Vegetarian Bibimbap (Korean Mixed Rice)</strong>
 <em>Serves 4</em>
 <em>Kosher</em>
@@ -51,3 +52,4 @@ By the way, I actually cooked my "poached" eggs <a href="http://blog.chefsteps.c
 	<li><span style="line-height: 13px;">Cook the tofu as described in <a href="/2012/05/how-to-make-tofu-really-freaking-delicious-tofu-101/" target="_blank">How To Make Tofu Really Freaking Delicious</a>, then slice the slabs into batons.</span></li>
 	<li><span style="line-height: 13px;">To serve, put a mound of steaming hot rice in a warm bowl. Arrange servings of the mushrooms, zucchini, bean sprouts, pea shoots, fried tofu and pickled cucumbers around the perimeter of the rice. Put an egg in the middle, and garnish with the scallions. Serve immediately, piping hot, with plenty of kochujang for diners to mix in as they please.</span></li>
 </ol>
+</div>

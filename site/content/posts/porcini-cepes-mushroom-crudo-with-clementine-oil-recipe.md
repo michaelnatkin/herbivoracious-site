@@ -15,6 +15,7 @@ Whenever I get my hands on a rare or expensive ingredient, I look for ways to fe
 
 Crudo is the Italian answer to sashimi. Raw fish, or in our case, mushroom, is sliced thinly and simply garnished. For the porcini, I infused olive oil with clementine zest, and then added fried capers, roasted pistachios, and chervil for a bit of crunch and complementary flavor. Experiment with the thickness of the slices on your <a href="/mandoline-preferably-an-inexpensive-japanese-model/" target="_blank">mandoline</a> to find a texture you like; somewhere in the neighborhood of 1mm is about right.
 
+<div class="recipe-card">
 <strong>Porcini Crudo</strong>
 <em>Vegetarian, Vegan, Gluten Free and Kosher</em>
 <ul>
@@ -31,3 +32,4 @@ Crudo is the Italian answer to sashimi. Raw fish, or in our case, mushroom, is s
 	<li>In the same saucepan, combine the remaining 40 grams of olive oil with the clementine zest and cook over very low heat until you can taste the orange flavor infused in the oil, about 5 minutes. Strain and reserve.</li>
 	<li>Arrange the porcini slices just barely overlapping on your serving platter. Drizzle generously with the orange-infused oil - I should have used more than in the photo above. Drizzle on a smaller amount of the orange juice. Scatter the pistachios and fried capers over the porcini. Sprinkle on a good bit of the Maldon salt, place a few chervil leaves randomly, and serve.</li>
 </ol>
+</div>

@@ -25,6 +25,7 @@ With panna cotta you have the choice of serving it in ramekins or unmolding it. 
 
 Housekeeping: If you are a Facebook user, you may have noticed that pages you like aren't showing up in your newsfeed as often as they used to. If you want to be sure that the Herbivoracious fan page is showing up for you, go over to it, <a href="http://www.facebook.com/herbivoracious" target="_blank">like it if you haven't already</a>, and then <strong>click on the gear-shaped icon</strong> toward the top right and choose <strong>Add to My Interest Lists</strong>.
 
+<div class="recipe-card">
 <strong>Caramelized Banana and Buttermilk Panna Cotta
 </strong><em>Vegetarian, gluten-free and potentially kosher
 For vegan, try coconut milk instead of the dairy products (untested)
@@ -65,4 +66,5 @@ Makes 6-8 servings</em>
 <div></div>
 </div>
 <div></div>
+</div>
 </div>

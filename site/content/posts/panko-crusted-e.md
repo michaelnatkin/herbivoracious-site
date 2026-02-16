@@ -16,6 +16,7 @@ This was the third course for <a href="/2008/05/dinner-party-1/">my recent "unde
 
 <i><b>NOTE:</b> I no longer recommend jury-rigged stovetop smoking. I've since learned that creating smoke in a low-oxygen sealed environment like this creates unnecessarily high levels of carcinogens. See my <a href="/2013/01/smoked-tofu-buns-recipe/">Smoked Tofu Buns</a> recipe for a safer alternative if you don't have your own method of smoking.</i>
 
+<div class="recipe-card">
 <strong>Panko-Crusted Egg With Cherry Smoked Asparagus, Smoked Paprika, And Sherry Gastrique</strong>
 <em>Serves 4
 Vegetarian, not vegan or gluten-free</em>
@@ -40,3 +41,4 @@ Vegetarian, not vegan or gluten-free</em>
 	<li>To serve, put a circular dusting of the pimenton on the plate and top with the egg. Next to that, put down a teaspoon or so of the gastrique. Place 6 spears of the smoked asparagus on top of that in a pyramid.</li>
 	<li>Hit the asparagus with a bit of extra virgin olive oil and finishing salt.</li>
 </ol>
+</div>

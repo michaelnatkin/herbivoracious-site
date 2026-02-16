@@ -31,6 +31,7 @@ Yields about 500 grams, enough for 2+ batches of ice cream
 	<li>Cut the pumpkin flesh into 1/2" dice.</li>
 	<li>Combine the pumpkin, water, salt, and baking soda in your pressure cooker. Cook at 15 psi (low pressure), shaking occasionally, for 20 minutes. Allow a natural pressure release. Allow the chunks to cool to room temperature, then puree in a blender and pass through your finest sieve. Reserve.</li>
 </ol>
+<div class="recipe-card">
 <strong>Roasted Pumpkin Ice Cream
 </strong>Yields about 1 liter (1.1 quarts)
 <ul>
@@ -45,3 +46,4 @@ Yields about 500 grams, enough for 2+ batches of ice cream
 	<li>Cool the base, then refrigerate overnight.</li>
 	<li>Churn ice cream however you see fit - with a home ice cream maker, dry ice, liquid nitrogen, or PacoJet if you have one handy.</li>
 </ol>
+</div>

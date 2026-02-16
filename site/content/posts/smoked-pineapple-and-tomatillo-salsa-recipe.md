@@ -25,6 +25,7 @@ Fruit salsas always <strong>run a risk of being too sweet</strong>, but the smok
 
 p.s. I recently got a review copy of my friend Keren Brown's <a href="http://t.co/QsiIyZP" target="_blank">Food Lover's Guide to Seattle</a>. Whether you think you know the Seattle food scene, or are visiting the first time, she's unearthed treasures you don't know about. She covers not just restaurants, but farmer's markets, specialty shops and small producers and calls out places that are great for vegetarians, gluten-free eaters, and small kids. If you eat in Seattle, you should have her book.
 
+<div class="recipe-card">
 <strong>Smoked Pineapple and Tomatillo Salsa</strong>
 <em>Vegetarian, vegan, and gluten-free / Makes about 2 cups</em>
 <ul>
@@ -44,3 +45,4 @@ p.s. I recently got a review copy of my friend Keren Brown's <a href="http://t.c
 	<li>Heat a small skillet over medium-high heat. Put the tomatillos and green onions in (with no oil) and cook, turning occasionally, until they start to darken in spots, about 5 minutes.</li>
 	<li>Put the smoked pineapple, tomatillos, green onions, garlic, jalapeno, cilantro, salt, agave nectar, and a pinch of chile de arbol in a mini-food processor. Process until it forms a coarse puree. Taste and adjust seasoning. Serve at room temperature for best flavor. This salsa will keep for at least 3 days in the refrigerator.</li>
 </ol>
+</div>

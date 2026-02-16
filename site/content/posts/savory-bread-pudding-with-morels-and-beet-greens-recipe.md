@@ -25,6 +25,7 @@ If you can't get morels right now (and yes, I wrote this post a while ago), chan
 
 I chose the beet greens simply because I was serving a beet salad at the same meal, so they were available, but you could use any other leafy green that suits you. Just be sure to get the water out so they don't sog up your bread.
 
+<div class="recipe-card">
 <strong>Savory Bread Pudding with Morels and Beet Greens</strong>
 <em>Vegetarian</em>
 <em>Serves 4 as a big side dish or light main course</em>
@@ -53,3 +54,4 @@ I chose the beet greens simply because I was serving a beet salad at the same me
 	<li>Let stand about 20 minutes so the bread can absorb the custard, then bake until it reaches an internal temperature of about 180 degrees F, checked in several places. This should take 45 - 55 minutes. It will still seem a bit soft, but it shouldn't be liquid anywhere. Do not overcook, as the eggs will then turn rubbery and start leaching water and you'll be very sad.</li>
 	<li>Remove from the oven, let cool for at least 15 minutes, garnish with a sprinkle of flaky sea salt, fresh ground black pepper and minced chives and serve it forth.</li>
 </ol>
+</div>

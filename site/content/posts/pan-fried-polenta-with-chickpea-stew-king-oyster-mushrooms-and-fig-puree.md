@@ -23,6 +23,7 @@ King oyster mushrooms are my favorite backstop when I can't find wild mushrooms.
 
 For the record, the rest of the menu was: ice-cold apple consomme with a few drops of rosewater, beet salad with fennel &amp; apple slaw, a fried artichoke, candied hazelnuts, and an orange-olive oil dressing, a course of local cheeses from <a href="http://calfandkid.com/" target="_blank">Calf &amp; Kid</a> with quince jam, and roasted Italian plums (which City Fruit had frozen at their peak) with a slivovitz Sabayon.
 
+<div class="recipe-card">
 <strong>Pan-Fried Polenta with Chickpea Stew, King Oyster Mushrooms and Fig Puree</strong>
 Vegetarian, gluten free and kosher
 Serves 4
@@ -40,3 +41,4 @@ Serves 4
 	<li><span style="line-height: 13px;">Heat a large skillet over high heat. Add about 1/4 cup of extra virgin olive oil and pan fry the polenta until golden brown on both sides. Remove to a plate. With the skillet still on high, take the roasted mushrooms and sear them for a minute for extra flavor.</span></li>
 	<li><span style="line-height: 13px;">Drizzle 1/4 cup of the fig puree on the plate. Top with two slabs of the polenta, one-quarter of the chickpea-peperonata stew, three halves of king oyster mushrooom, a few flakes of the <a href="http://www.amazon.com/dp/B0006FS4TI/?tag=poeticlicen07-20" target="_blank">Maldon (aka the world's greatest salt)</a> , and a pinch of the minced parsley. Serve hot.</span></li>
 </ol>
+</div>

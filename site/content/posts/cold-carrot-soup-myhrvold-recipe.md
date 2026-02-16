@@ -31,6 +31,7 @@ For today's version, I've chosen to serve the soup cold as an amuse bouche, with
 
 (Update: I've since learned that my estimated version of this soup, from before I owned Modernist Cuisine, is missing some key things, like a bit of baking soda. But it was still delicious!)
 
+<div class="recipe-card">
 <strong>Cold Carrot Soup</strong>
 <em>Vegetarian, vegan, and gluten-free / serves at least 12 as an amuse bouche</em>
 
@@ -55,3 +56,4 @@ For today's version, I've chosen to serve the soup cold as an amuse bouche, with
 	<li>Thorougly chill the soup.</li>
 	<li>Whisk the soup, taste again and make any final adjustments to thickness and seasoning. To serve, place about 1 tablespoon of soup in each amuse bouche spoon. Using the photo as a guide, garnish with a drizzle of extra-virgin olive oil, 3 drops of pomegranate molasses, a sprinkle of dukkah, a few rings of the shallot, the cilantro, and a few grains of <a href="http://www.amazon.com/dp/B0006FS4TI/?tag=poeticlicen07-20" target="_blank">Maldon (aka the world's greatest salt)</a> . Serve immediately.</li>
 </ol>
+</div>

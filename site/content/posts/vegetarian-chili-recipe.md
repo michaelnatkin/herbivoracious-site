@@ -22,6 +22,7 @@ Let's talk about heat level for a minute. This sauce is flavored primarily with 
 
 I use a mixture of pinto, black and kidney beans in this recipe, and soak them overnight. You <em>can</em> get away without soaking them, or do a quick soak for a couple of hours starting with hot water. But honestly, it isn't the same. Overnight soaked beans just plain come out more tender and delicious, and much better than from a can.
 
+<div class="recipe-card">
 <strong>Vegetarian Chili From Scratch
 </strong><em>Yields around 10 cups, easily serving 5 (and doubles or triples beautifully)
 Vegetarian, </em><em>gluten-free, and </em><em>vegan (if you modify the garnishes)
@@ -61,3 +62,4 @@ For garnish:
 	<li>Now taste. If it needs more heat or a smoke, add the rest of the adobo sauce. If it needs a lot more heat, you can puree the chipotle peppers and add them. Add salt as needed. You shouldn't be tasting a lemon flavor, but there should be a subtle hint of acidity that wakes up the sauce. If the whole thing is too thick, you can dilute it with some of the reserved bean-cooking liquid.</li>
 	<li>Serve your vegetarian chili forth with the garnishes listed above.</li>
 </ol>
+</div>

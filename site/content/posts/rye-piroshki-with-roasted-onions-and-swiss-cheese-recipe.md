@@ -18,6 +18,7 @@ As far as I know, piroshki are generally made with white flour. I had made a rye
 
 I did this with quick skillet-roasted onions, which have a browned exterior but a crunch remaining. I'm sure it would also be delicious with slowly caramelized, fully melted into sweet deliciousness. You'll just need more of them.
 
+<div class="recipe-card">
 <strong>Rye Piroshki with Roasted Onions and Swiss Cheese</strong>
 Vegetarian
 Yields 8 piroshki
@@ -71,3 +72,4 @@ Yields 8 piroshki
 </div>
 </div>
 &nbsp;
+</div>

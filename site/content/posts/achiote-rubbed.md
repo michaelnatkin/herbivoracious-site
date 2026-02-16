@@ -20,6 +20,7 @@ The brand of achiote I used was Del Mayab "La Perla". If anyone has an opinion o
 
 Among the guests for Sarina's dinner was Geoff Bugbee, who is one of my brother's best friends. He also happens to be a <a href="http://www.geoffbugbee.com/">fantastic photojournalist</a>, specializing in humanitarian work. He took the upper picture in today's post for me, with his sweet little <a type="amzn">Canon G9</a>. A little more prosaic than his normal subjects, but I really appreciated it!
 
+<div class="recipe-card">
 <strong>Achiote-Rubbed Butternut Squash Tacos</strong>
 <em>Serves 8 as part of a feast
 Vegetarian and gluten-free; could be vegan if you omit the cheese and crema</em>
@@ -56,3 +57,4 @@ To serve:
 </ol>
 <a href="/images/2008/09/20/butternut_squash_taco.jpg" rel="lightbox"><img title="Grilled butternut squash taco" src="/images/2008-small/09/20/butternut_squash_taco.jpg" alt="The butternut squash tacos with queso panella, onions, cilantro and hot sauce" width="455" height="302" border="0" /></a>
 <span style="font-size: 0.8em;">The butternut squash tacos with queso panella, onions, cilantro and hot sauce</span>
+</div>

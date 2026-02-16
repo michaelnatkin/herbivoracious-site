@@ -26,6 +26,7 @@ Papaya seeds have such a surprising flavor, <strong>reminiscent of horseradish</
 
 See this <a href="/2008/01/fun-with-isomal/" target="_blank">isomalt primer</a>Â for background on how to work with this sugar-like ingredient. It is great in applications where you want less sweetness, no browning, and resistance to absorbing moisture.
 
+<div class="recipe-card">
 <strong itemprop="name">Fruit Salad
 </strong><em>Vegetarian, vegan and gluten-free / Serves 4</em>
 <meta itemprop="prepTime" content="PT15M">
@@ -73,4 +74,5 @@ See this <a href="/2008/01/fun-with-isomal/" target="_blank">isomalt primer</a>Â
 	<li>Make a small pile of the apple cider powder on each plate (about 3/4 teaspoon). Place one of the peeled grapes on the pile and the other next to it.</li>
 	<li>Sprinkle a few papaya seeds around the plate, and a few lemon thyme leaves. Scatter another few crystals of the salt and serve immediately.</li>
 </ol>
+</div>
 </div>

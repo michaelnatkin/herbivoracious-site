@@ -30,6 +30,7 @@ This version is maybe just a hair on the sweet side. If you like it a little les
 
 Finally, there is the matter of mix-ins and toppings. I'm in the less-is-more camp, because the texture of a good custard is so smooth that I don't want to fight with it. I hear of people mixing in chopped up peppermint candy or nuts, for example, and that doesn't appeal to me. Of course, you can make the rich version of the custard, scatter sugar on it, hit it with a blowtorch and you have creme brulee. Noni favors a dusting of cinnamon. For an ultimate treat, a drizzle of <a href="http://www.amazon.com/dp/B006L80IGQ/?tag=poeticlicen07-20" target="_blank">BLiS Bourbon-Barrel Maple Syrup</a> is incredible.
 
+<div class="recipe-card">
 <strong>Basic Baked Custard Recipe</strong>
 <em>Gluten-free</em>
 <em>Makes 8 servings</em>
@@ -52,4 +53,5 @@ Finally, there is the matter of mix-ins and toppings. I'm in the less-is-more ca
 	<li>Ladle the custard into the ramekins and put the baking dish in the oven. Pull the rack part way out and pour the boiling water around the ramekins until it comes about halfway up their sides.</li>
 	<li>Bake until just barely set, about 20 minutes. A toothpick should come out nearly clean, but there should still be a visible jiggle if you move the pan. Err on the side of undercooking them. Remove the ramekins carefully to a cooling rack. I usually do this using tongs, but you have to be careful not to drop one back in the pan of hot water and splash yourself!</li>
 </ol>
+</div>
 </div>

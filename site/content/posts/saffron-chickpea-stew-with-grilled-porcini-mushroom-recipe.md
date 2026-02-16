@@ -26,6 +26,7 @@ Serve with a green salad and grilled bread to mop up the sauce. (To make grilled
 
 Oh, and hey, a quick request. If you've <a href="">picked up my cookbook</a>, could you add your review on Amazon? It is great for visitors there to know what my blog readers think about the recipes.
 
+<div class="recipe-card">
 <strong>Saffron Chickpea Stew with Grilled Porcini Mushrooms</strong>
 <em>Vegetarian, vegan, gluten free and kosher</em>
 <em>Serves 4</em>
@@ -53,4 +54,5 @@ Oh, and hey, a quick request. If you've <a href="">picked up my cookbook</a>, co
 	<li>Set your serving bowls or plates aside to warm up. Heat a grill pan over high heat. Brush the cut side of the porcinis with a bit of olive oil and grill until nice grill marks develop. Rotate 90 degrees and create a crosshatch pattern.</li>
 	<li>When you are ready to serve, give the chickpea stew one last adjustment for taste and texture and divide among the serving bowls. Top with some freshly ground black pepper and a little drizzle of olive oil. Arrange the porcini on top of the chickpeas. Garnish with the green garlic and a few flakes of <a href="http://www.amazon.com/dp/B0006FS4TI/?tag=poeticlicen07-20" target="_blank">Maldon (aka the world's greatest salt)</a>  and serve immediately.</li>
 </ol>
+</div>
 </div>

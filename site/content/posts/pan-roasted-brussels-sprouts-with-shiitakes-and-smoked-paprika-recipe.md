@@ -23,6 +23,7 @@ I think you'll enjoy this version, which has just 7 ingredients, of which 5 are 
 
 Wait a second, you don't consider <a href="http://www.amazon.com/dp/B003QI7QDM/?tag=poeticlicen07-20" target="_blank">smoked paprika</a> and <a href="http://www.amazon.com/dp/B0019ZHXQE/?tag=poeticlicen07-20" target="_blank">Maldon (aka the world's greatest salt) salt</a> to be pantry staples? Ok, you need to change that. Those are two ingredients that will change your life as a cook. The <a href="http://www.amazon.com/dp/B000NO943C/?tag=poeticlicen07-20" target="_blank" rel="nofollow">smoked paprika</a> takes any dish and makes it taste like it was cooked over an open wood fire, and the Maldon adds a magnificent flaky saline crunch that is ideal for a finishing touch. It takes many dishes from good to great. Trust me, even if they seem a bit overpriced, a little goes a long way and your food will improve dramatically. If you use Amazon Prime, this <a href="http://www.amazon.com/dp/B001XVW3DC/?tag=poeticlicen07-20" target="_blank">2-pack of <a href="http://www.amazon.com/dp/B0006FS4TI/?tag=poeticlicen07-20" target="_blank">Maldon</a> </a> is a better deal.
 
+<div class="recipe-card">
 <strong>Pan Roasted Brussels Sprouts with Shiitakes and Smoked Paprika
 </strong><em>Vegetarian, vegan, gluten-free and kosher
 </em><em>Serves 2-3 as a side dish</em>
@@ -40,3 +41,4 @@ Wait a second, you don't consider <a href="http://www.amazon.com/dp/B003QI7QDM/?
 	<li>With the skillet still on medium high heat, add the brussels sprouts and toss to coat with oil, adding a bit more oil if needed. Cook, turning occasionally, until tender and many surface have dark brown spots. I like mine almost charred.</li>
 	<li>Add the <a href="http://www.amazon.com/dp/B000NO943C/?tag=poeticlicen07-20" target="_blank" rel="nofollow">smoked paprika</a>, 1/2 teaspoon of Kosher salt and the reserved shiitakes. Toss, then taste and adjust seasoning. Transfer to a serving platter, finish with black pepper and a few grains of flaky salt and serve.</li>
 </ol>
+</div>

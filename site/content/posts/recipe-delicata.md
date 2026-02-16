@@ -18,6 +18,7 @@ The recipe below calls for delicata squash, which is really nice to work with be
 
 Full disclosure: I made this by guesstimating amounts and without writing anything down as I went, and I did 16 portions, so the recipe below isn't precise. But it should be close enough that you can fine tune it to your own preference. You can do most of this recipe a day or two ahead and just heat and garnish when you are ready to serve them. Don't be put off because the recipe has 12 steps, it actually goes together pretty quick.
 
+<div class="recipe-card">
 <strong>Delicata Squash Stuffed with Orzo in a Sage Brown Butter Sauce</strong>
 <em>Serves 4 as an entree
 Preparation time: 45 minutes
@@ -48,3 +49,4 @@ Vegetarian, vegan if you use olive oil instead of the brown butter, gluten-free 
 Note: an even better way to do this ahead would be to make the orzo mixture without the pepitas, and wait to add them and fill the squash just before heating. That way the pepitas will retain their crunch.
 
 &nbsp;
+</div>

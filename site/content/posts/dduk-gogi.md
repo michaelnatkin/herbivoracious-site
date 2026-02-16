@@ -20,6 +20,7 @@ There is nothing set in stone about the choice of shiitakes and eggplant for thi
 
 The most important thing with this stew is judging when it is done. The tteok should certainly be tender and cooked through, but not cooked so long that they are leaching out tons of starch and making an overly gooey sauce. You can add a bit more water at the end to adjust the final thickness.
 
+<div class="recipe-card">
 <strong>Tteokbokki - Spicy Korean Rice Cake Stew</strong>
 <em>Vegetarian, vegan, and gluten-free</em>
 <em> Serves 4</em>
@@ -44,4 +45,5 @@ The most important thing with this stew is judging when it is done. The tteok sh
 	<li>Taste and adjust seasoning and sauce thickness. It should definitely be thick like a stew, not a soup, but not gummy and tight. Add a bit more water if needed.</li>
 	<li>To serve, transfer to a large serving bowl or individual dishes and garnish with the green onions, black pepper and a healthy drizzle of sesame oil.</li>
 </ol>
+</div>
 </div>

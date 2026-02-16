@@ -21,6 +21,7 @@ Growing up my mother would often prepare a big pan of jap chae (also spelled jap
 <a style="float: right;" href="/images/old/6a00e008d618bb88340133eca2bbb9970b-800wi.jpg" rel="lightbox"><img class="asset asset-image at-xid-6a00e008d618bb88340133eca2bbb9970b " style="margin: 0px 0px 5px 15px; width: 120px;" src="/images/old/6a00e008d618bb88340133eca2bbb9970b-120wi.jpg" alt="Stir frying japchae" /></a>My mother taught me the importance of making sure to stir-fry each ingredient individually.  One could easily be tempted to add all the vegetables at once and fry them together.  But by frying them individually, the flavor and color of each vegetable is preserved without any cross blending of the other ingredients.  As a result, the frying pan becomes more seasoned as layers of umami build on each other.  The final dish is a beautiful medley of noodles, colorful vegetables, and tofu. From an aesthetic point of view jap chae is one of the most beautiful dishes in Korean cuisine.  It is also one of my favorite Asian comfort foods.  From our family to yours, enjoy!<strong>
 </strong>
 
+<div class="recipe-card">
 <strong>Vegetarian Jap Chae</strong>
 
 <em>Vegetarian, vegan, and gluten-free if you use gluten-free soy sauce (San-J makes one)
@@ -50,3 +51,4 @@ Serves 4-6 as a side dish</em>
 	<li>Add 2 tablespoons of soy sauce, 1 tablespoon of sesame oil, and 2 tablespoons of sugar, and ½ teaspoon of ground pepper to the large noodle bowl and toss everything until well mixed.</li>
 	<li>Add 1 tablespoon of olive oil to the hot wok and add minced garlic.  Allow garlic to cook for a few seconds and add the entire bowl of mix noodles and vegetables to the wok/pan.  Stir-fry everything for 2-3 minutes and turn off heat.  Gently add tofu and transfer noodles to a large serving platter. Sprinkle toasted sesame seeds on top.  Serve warm or cold.  Enjoy!.</li>
 </ol>
+</div>

@@ -22,6 +22,7 @@ This is a case where a <a href="http://www.amazon.com/dp/B000OFREDC/?tag=poeticl
 
 I'm a little unsure whether to categorize this as a main course or a side dish. I think that I wouldn't typically have it for dinner by itself with just jasmine rice, but on the other hand it could stand on equal footing with another item like <a href="/2009/10/red-curry-delicata-squash-and-tofu-recipe/">Red Curry Delicata Squash and Tofu</a>, and I wouldn't automatically consider the latter to be the main course and the eggplant a side dish. I guess that concept just doesn't apply in the same way.
 
+<div class="recipe-card">
 <strong>Thai Basil Eggplant</strong>
 Vegetarian, vegan, gluten free and kosher
 Serves 2 as a main course, 4 as part of a larger spread
@@ -41,3 +42,4 @@ Serves 2 as a main course, 4 as part of a larger spread
 	<li>Put the oil in a wok or skillet over maximum heat. Add the ginger, garlic and lemongrass and give a quick stir. Immediately add the eggplant and 1/2 teaspoon of kosher salt. Stir-fry for a minute or so. Add 1/4 cup of water and cover. Cook, checking and stirring every 30 seconds or so, until the eggplant is just about completely tender. You may need to use a little more water.</li>
 	<li>Remove the lid and add the mushrooms, onion, chili and Thai basil. Stir fry for about 1 minute until the mushrooms are somewhat tender. Taste and adjust seasoning - it probably needs a bit more salt. Served immediately, garnished with the reserved basil leaves.</li>
 </ol>
+</div>

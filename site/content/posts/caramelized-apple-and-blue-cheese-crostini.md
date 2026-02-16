@@ -20,6 +20,7 @@ I prefer a creamy blue cheese that will get a little melty on the warm apples, s
 
 If you have any fancy finishing salts (which you can find at high-end food retailers), this is the perfect dish to use them on. A few grains will sit beautifully on top of the apples and add a bit of extra crunch and interest.
 
+<div class="recipe-card">
 <strong>Caramelized Apple and Blue Cheese Crostini</strong>
 <em>Makes 16 crostini</em>
 <em>20 minutes</em>
@@ -42,3 +43,4 @@ If you have any fancy finishing salts (which you can find at high-end food retai
 	<li>Melt the butter in a large skillet over medium heat. Cook the apples on in a single layer, working in batches if needed, until both sides are golden brown and somewhat tender, about 5 minutes. Season with a pinch of cayenne pepper and several grinds of black pepper.</li>
 	<li>To serve, arrange two slices of cooked apple on each crostini. Top with ½ teaspoon of the blue cheese, a speck of the crushed tarragon, two whole tarragon leaves, and a few grains of sea salt.</li>
 </ol>
+</div>

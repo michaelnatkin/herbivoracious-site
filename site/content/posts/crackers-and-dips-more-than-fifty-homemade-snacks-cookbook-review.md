@@ -35,6 +35,7 @@ You can, of course, forgo the peanut butter filling and enjoy these buttery crac
 	<li>2 tsp baking powder 2 tsp sugar 1 tsp fine sea salt 2 tsp barley malt syrup or dark corn syrup 1 tbsp vegetable oil</li>
 	<li>1/2 cup/120 ml water 1 egg beaten with 1 tbsp water 1 tsp kosher salt</li>
 </ul>
+<div class="recipe-card">
 <strong>For the peanut butter filling</strong>
 <ul>
 	<li>3/4 cup/190 g creamy peanut butter<em> </em></li>
@@ -55,3 +56,4 @@ a time.
 
 To make the filling: Place the peanut butter, butter, and confectioners’ sugar in a medium bowl or the food processor used to make the crackers. Beat with a handheld mixer or process until the mixture is fluffy. Chill the filling for 30 minutes.
 Spread the bottom side of half of the crackers with 11/2 tsp of the peanut butter filling. Top each of the peanut butter crackers with another cracker, salt-side up, to create a sand- wich. Store in an airtight con- tainer for up to 4 days.
+</div>

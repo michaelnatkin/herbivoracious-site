@@ -21,6 +21,7 @@ The garnishes for this dish are nori strips, sesame seeds, <a href="http://www.a
 
 You can do all of the prep up to a day in advance, and simply reheat the butter and blanched asparagus when you are ready to serve.
 
+<div class="recipe-card">
 <strong>Asparagus with Nori Butter</strong>
 <em>Serves 4 as a side dish
 Vegetarian and gluten-free</em>
@@ -47,3 +48,4 @@ Vegetarian and gluten-free</em>
 	<li>When you are ready to serve, have 4 hot plates waiting, and set an oven or toaster oven to 500 degrees. Melt the nori butter. Bring the miso sauce back to room temperature. Brush the asparagus with the nori butter. Reheat the asparagus (this should just take about 3 minutes).</li>
 	<li>To plate, arrange the asparagus in a neat row. Drizzle on more of the nori butter. Add neat lines of nori strips and sesame seeds. Make 6 dots of the miso sauce and top each one with a chive tip. Randomly place bits of blanched lemon zest. Sprinkle liberally with the <a href="http://www.amazon.com/dp/B0006FS4TI/?tag=poeticlicen07-20" target="_blank">Maldon (aka the world's greatest salt)</a>  and serve.</li>
 </ol>
+</div>

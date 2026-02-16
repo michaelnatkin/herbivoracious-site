@@ -15,6 +15,7 @@ I demo'ed this Brussels sprout and apple hash from <a href="http://www.amazon.c
 
 Many variations are possible. You could add <strong>toasted pecans, hazelnuts, or dried cherries</strong>; change the champagne vinegar to apple cider vinegar, sherry vinegar, or orange juice; or even replace the apple with a crisp pear.
 
+<div class="recipe-card">
 <strong>Brussels Sprout and Apple Hash - Recipe</strong>
 <em>Gluten-free </em>
 <em>Serves 3 to 4 </em>
@@ -36,3 +37,4 @@ Many variations are possible. You could add <strong>toasted pecans, hazelnuts, o
 	<li>Add the Brussels sprouts, a big pinch of salt, the sage, and rosemary, and cook, stirring occasionally, until sprouts are wilted and well browned, about 10 minutes.</li>
 	<li>Add the champagne vinegar and honey and toss to coast, scraping any delicious browned bits from the bottom of the pan. Taste and adjust the seasonings; it will likely need more salt, and you may also want to add more honey or vinegar to suit your taste. Serve hot.</li>
 </ol>
+</div>

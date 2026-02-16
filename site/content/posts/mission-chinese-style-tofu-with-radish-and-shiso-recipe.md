@@ -24,6 +24,7 @@ Today's dish is my off-the cuff attempt to make something similar. I included a 
 
 Oh, and you should absolutely check out Danny's book, <a href="http://www.amazon.com/gp/product/1936365154/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=1936365154&amp;linkCode=as2&amp;tag=poeticlicen07-20">Mission Street Food: Recipes and Ideas from an Improbable Restaurant</a> - it is both a super cookbook, and a very fun tale of how he went from early food-cartist to rather subversive restauranteur. If you want to cook some badass, atypical-for-America Chinese food or if you've ever had an ambition of running a restaurant, I'd call it a must-read.
 
+<div class="recipe-card">
 <strong>Mission Chinese Food-Style Tofu with Radish and Shiso</strong>
 <em>Serves 2 as a main course or 4 as part of a larger family-style meal</em>
 <em>Vegetarian, vegan, and gluten-free if you use gluten-free soy sauce</em>
@@ -49,3 +50,4 @@ Oh, and you should absolutely check out Danny's book, <a href="http://www.amazon
 	<li>Whisk the sauce one more time, reduce the heat of the pan to medium, and add the sauce all at once. It will sputter and boil so be careful. When it reaches a boil, you will see it start to thicken just a bit and turn glossy. Add the green onion and shiso and stir through.</li>
 	<li>Quickly, transfer to a serving bowl (or individual bowls), garnish with the green onion, and serve. Warn guests not to eat the chili pods!</li>
 </ol>
+</div>

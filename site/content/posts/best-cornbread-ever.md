@@ -23,6 +23,7 @@ I've seen ratios anywhere from 100% corn to only 25% corn. I like anything 50% a
 
 As far as inclusions go, I don't have anything against them on principle. It is just that to me, the pure flavor and texture of cornbread with a big pat of sweet cream butter is so perfect, they seem an unnecessary distraction. But if that is what you like, feel free to fold them into the recipe below just before baking.
 
+<div class="recipe-card">
 <strong>Best Cornbread Recipe Ever</strong>
 <em>Makes one 8x8" pan, enough for 4 for dinner if you aren't too greedy
 Can also be used to make 10 muffins, reduce baking time
@@ -49,3 +50,4 @@ Vegetarian; not vegan nor gluten-free</em>
 	<li>Serve forth while still hot, with lots of good sweet butter.</li>
 </ol>
 &nbsp;
+</div>

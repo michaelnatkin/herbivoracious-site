@@ -24,6 +24,7 @@ The <a title="Organic farro" href="http://chefshop.com/Farro-Emmer-Organic-P6425
 
 Needless to say, you can vary this soup by switching in a different bean for the chickpeas (cannellini would be very Italian), or a different green for the mustard greens. Any kind of kale would be very appropriate. I probably wouldn't use spinach, as the more delicate texture might not hold up to the farro.
 
+<div class="recipe-card">
 <strong>Farro and Chickpea Soup</strong>
 <em>Vegetarian, vegan, and kosher</em>
 <em>Serves 4</em>
@@ -49,3 +50,4 @@ Needless to say, you can vary this soup by switching in a different bean for the
 	<li>Remove the lid and add the chickpeas and lemon juice. Stir and simmer for a few minutes to allow the flavors to meld, then taste and adjust seasoning.</li>
 	<li>To serve, divide among bowls, garnish with more good olive oil, fresh ground black pepper, parsley and sea salt.</li>
 </ol>
+</div>

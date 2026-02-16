@@ -26,6 +26,7 @@ Since you don't need picture perfect tomatoes for this jam, you might ask at you
 
 This recipe will make about a cup of jam, which will keep in your fridge for a few days. I'm not a canner (yet), so I don't know whether it is suitable for processing and longer-term storage.
 
+<div class="recipe-card">
 <strong>Tomato Jam With Rosemary and Saffron</strong>
 <em>Vegetarian, vegan, and gluten-free
 Makes about a cup</em>
@@ -43,3 +44,4 @@ Makes about a cup</em>
 <ol>
 	<li>How about this for easy? Bring all ingredients to a simmer (the liquid will all come out of the tomatoes, you don't need to add any). Cook for about an hour, until thick and syrupy. Taste and adjust seasonings.</li>
 </ol>
+</div>

@@ -24,6 +24,7 @@ By the way, have you checked the expiration date on your baking powder and bakin
 
 Here's the Angel Hair recipe:
 
+<div class="recipe-card">
 <strong>Spicy Angel Hair Pasta</strong>
 <em>(For 1, but easy to multiply)
 Vegetarian, and vegan if you omit the parmesan
@@ -52,3 +53,4 @@ Vegetarian, and vegan if you omit the parmesan
 	<li>Add a good nub of butter, a handful of parm, a squeeze of lemon, salt and pepper to taste, and quickly toss a few times with tongs. Taste and adjust, quickly.</li>
 	<li>Serve piping hot in big bowls, garnished with a generous amount of more parm, a few more grains of sea salt, fresh ground pepper, and parsley</li>
 </ol>
+</div>

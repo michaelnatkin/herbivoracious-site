@@ -24,6 +24,7 @@ Now, at 32, as I've grown more comfortable with re-creating mom's dishes, this i
 
 This is a spicy and hearty bean dish served with flatbread or naan. You can pair it with rice for a complete protein meal. This dish is often accompanied by a yogurt-based soup called kadhi, which is a perfect complement to this dish. Black chickpeas have a tough skin and are a very dense bean, so soaking overnight is a must.
 
+<div class="recipe-card">
 <strong>Kala Chana (Black Chickpea Curry)
 </strong><em>Serves 2-3
 Vegetarian, vegan, and gluten-free</em>
@@ -61,3 +62,4 @@ Vegetarian, vegan, and gluten-free</em>
 	<li>Cook for 5 minutes, mixing well. Add garam masala and beans. Cover and simmer on low for 20 mins, stirring occasionally.</li>
 	<li>Turn off heat, garnish with cilantro, and serve over rice, or with flatbread, parathas, or naan.</li>
 </ol>
+</div>

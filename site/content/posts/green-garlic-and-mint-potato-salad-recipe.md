@@ -22,6 +22,7 @@ If you have time, make the dressing in advance and allow the flavors to meld bef
 
 This recipe makes enough to bring to a big potluck, but you can easily cut it in half for a smaller gathering.
 
+<div class="recipe-card">
 <strong><strong></strong>Green Garlic and Mint Potato Salad</strong>
 <em>Vegetarian, vegan option, gluten free and kosher</em>
 <em>Makes enough to bring to a potluck (easily halved)</em>
@@ -46,4 +47,5 @@ This recipe makes enough to bring to a big potluck, but you can easily cut it in
 	<li>Scrape the green garlic and olive oil into a small bowl. Add the remaining olive oil, minced garlic, vinegar, mayonnaise, black pepper, salt, rosemary, cayenne and black pepper. Stir well. Dip a piece of potato in and taste. Does it have enough salt? Is the garlic flavor present enough? Could it use a bit more cayenne? When you are satisfied, toss the dressing with the potatoes. This is easiest to do with your hands.</li>
 	<li>Just before serving, thinly slice the mint and mix it into the potatoes.</li>
 </ol>
+</div>
 </div>

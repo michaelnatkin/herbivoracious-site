@@ -21,6 +21,7 @@ Japanese panko breadcrumbs work fantastic for this dish, because they fry up so 
 
 Accusations that I would eat this cold for breakfast the next day are completely unfounded. It is always gone long before then.
 
+<div class="recipe-card">
 <strong>Eggplant Parmesan (or Eggplant Parmigiana)</strong>
 <em>Serves 6 as a main course</em>
 
@@ -48,3 +49,4 @@ two handfuls of fresh basil, roughly chopped, divided
 <a href="/images/2007/08/12/eggplant_baked_3.jpg" rel="lightbox"><img class="noresize" title="Eggplant_baked_3" src="/images/2007-small/08/12/eggplant_baked_3.jpg" alt="Eggplant_baked_3" width="455" height="302" border="0" /></a></li>
 </ol>
 <img class="noresize" style="width: 101px; height: 20px;" src="http://static.foodista.com/images/foodista_logo_101_20_flattened.png?foodista_widget_BBD6VZ5P" alt="Eggplant Parmesan on Foodista" />
+</div>

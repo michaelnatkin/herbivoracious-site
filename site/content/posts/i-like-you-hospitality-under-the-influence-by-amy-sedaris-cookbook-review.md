@@ -46,6 +46,7 @@ So should you buy this book, for yourself or as a gift? I'd say so if you can an
 </ol>
 Here is the recipe for the Greek koulourakia cookies, which are quite delicious. They are similar to the biscocos that my family makes, but a bit fluffier and with a hit of cardamom. Reminiscent of a <a href="/2007/08/foodbeam-sables/">sable cookie</a>. Very nice with a cup of coffee. I've added a few italicized notes to the recipe.
 
+<div class="recipe-card">
 <strong>Arty Sarayiote's Koulourakia (Greek Cookie Twists)</strong>
 From <a href="http://www.amazon.com/gp/product/0446696773?ie=UTF8&amp;tag=poeticlicen07-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0446696773">I Like You: Hospitality Under the Influence</a>, by Amy Sedaris
 <ul>
@@ -67,3 +68,4 @@ From <a href="http://www.amazon.com/gp/product/0446696773?ie=UTF8&amp;tag=poetic
 	<li>Place the koulourakia on a foil-lined cookie sheet, brush with egg whites, top with sesame seeds, and bake 25 minutes or until light brown. <em>
 </em></li>
 </ol>
+</div>

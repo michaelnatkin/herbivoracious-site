@@ -20,6 +20,7 @@ The results were delicious. The artichoke flavor ends up <strong>infusing into t
 Jen from <a href="http://wineandaspoon.com/" target="_blank">Wine and a Spoon</a> let me know that she tried it chardonnay and the broth turned out bitter. I tried that too, and agree that there is something unpleasant there, maybe over-reduced tannins. So I'd recommend the vermouth approach, or at least use a light, unoaked white wine.
 
 Of course you don't have to use purple artichokes, though they are gorgeous. Baby green 'chokes will work just fine, and you could even do this with full sized artichokes if you cut them into quarters or eighths, remove the fuzzy choke, and peel the stem. (Baby artichokes are generally small enough that they haven't developed a significant fuzzy choke that needs removing.)
+<div class="recipe-card">
 <div><strong>Artichaut Marinières - Artichokes Cooked in White Wine and Garlic</strong>
 <em>Vegetarian / 30 minutes</em></div>
 <ul>
@@ -42,3 +43,4 @@ Of course you don't have to use purple artichokes, though they are gorgeous. Bab
 	<li>Add the white wine, 2 tablespoons of parsley, thyme and the drained artichokes. Mix the artichokes in. Cover and bring to a bare simmer. Reduce heat to low to just maintain the simmer and cook until the artichokes are completely tender when poked with a knife. If there isn't enough broth left, add a bit more wine and simmer for a couple of minutes to cook off most of the alcohol. Taste and add more salt if needed.</li>
 	<li>Pour all of the contents of the pot into the serving bowl. Garnish with the remaining parsley and several grinds of pepper. Arrange the toasted bread around the outside of the bowl and serve immediately.</li>
 </ol>
+</div>

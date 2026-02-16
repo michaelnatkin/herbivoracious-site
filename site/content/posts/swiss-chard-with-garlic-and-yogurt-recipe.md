@@ -18,6 +18,7 @@ Today's dish of room-temperature chard flavored with garlic and dukkah (which I'
 
 Now about dukkah. It is a spice mixture that originated in Egypt. A word of caution: if you have a <a href="/2009/02/understanding-deadly-food-allergies-this-post-could-save-a-life/" target="_blank">nut allergy</a>, check the ingredients of any <a href="http://www.amazon.com/mn/search/?_encoding=UTF8&amp;tag=vegfoodie-20&amp;linkCode=ur2&amp;camp=1789&amp;creative=390957&amp;field-keywords=dukkah&amp;url=search-alias%3Daps" target="_blank">pre-packaged version</a>, as it generally contains ground hazelnuts or other nuts. I usually get mine from the World Spice Merchants store in Seattle, though they no longer seem to carry a nut free version. But in any case, don't feel like you have to have dukkah for today's recipe. If you don't, just make an equal-parts mixture of ground sesame seeds, coriander seeds, cumin and thyme, and season it to taste with black pepper and sea salt.
 
+<div class="recipe-card">
 <strong>Swiss Chard with Garlic and Yogurt
 </strong>Vegetarian and gluten-free; vegan if you omit the yogurt or use a soy yogurt
 Serves about 2 as a side dish (depending on size of your bunch of chard), easily multiplied
@@ -37,4 +38,5 @@ Serves about 2 as a side dish (depending on size of your bunch of chard), easily
 	<li>Put the chard in a bowl and toss with the garlic, a good glug of extra-virgin olive oil, at least a couple of teaspoons of dukkah and salt to taste. Taste and adjust seasoning - you may want more garlic, oil, dukkah or salt to get the flavors really popping.</li>
 	<li>When you are ready to serve, mound the chard on a plate, and sprinkle with a few more flakes of salt. Spoon the yogurt next to the chard and sprinkle it with the toasted sesame seeds.</li>
 </ol>
+</div>
 </div>

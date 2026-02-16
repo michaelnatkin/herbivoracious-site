@@ -18,6 +18,7 @@ So, then what's up with the "marrowfat peas" in the title of this recipe? Well, 
 
 Ful makes a terrific, rib-sticking breakfast, but if you are one of these crazy Americans that can only handle pancakes for breakfast, it is darn good for lunch or dinner too. Traditional accompaniments would be toasted pita and a fried egg if you like that sort of thing.
 
+<div class="recipe-card">
 <strong>Whole Bean Ful Medames - With Fava Beans or Marrowfat Peas
 </strong><em>Vegetarian, vegan, and gluten free
 Serves 4-6</em>
@@ -38,3 +39,4 @@ Serves 4-6</em>
 	<li>Toss the marrowfat peas or fava with the optional chickpeas, garlic, cumin, and 1 teaspoon of kosher salt and 2 tablespoons of olive oil. If you don't like raw garlic, you can briefly sizzle it in a little olive oil first. Taste and adjust seasoning.</li>
 	<li>Spoon the beans into serving bowls and ladle some, but not too much, of the hot broth over the top. If you like, you could mash some of the beans. Drizzle lots more olive oil over the top. Garnish with a generous squeeze of lemon juice, the oregano or parsley, and several grinds of black pepper. Serve hot.</li>
 </ol>
+</div>

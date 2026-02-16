@@ -23,6 +23,7 @@ Making these tacos is easy, but to get started you'll need to gather and make so
 </ul>
 If you haven't cooked with achiote (annatto) before, the easiest way is to buy a preground box. It comes as a slightly moist little brick. It isn't always easy to find the whole seeds. El Yucateco brand is nice because it doesn't have (or need) any synthetic food coloring added. It seems so silly that some brands add color, considering annatto already is a food coloring, the one typically used to give cheddar cheese that orange tint.
 
+<div class="recipe-card">
 <strong>Grilled Tofu and Pepper Vegetarian Tacos</strong>
 <em>Vegetarian, vegan, and gluten-free
 Serves 4</em>
@@ -47,3 +48,4 @@ Serves 4</em>
 	<li>Wrap the tortillas in a damp, clean dish towel and microwave for about 3 minutes until soft and warm.</li>
 	<li>To eat, lay down two tortillas. Top with a moderate scoop of the filling, a spoonfull of guacamole and the pineapple salsa. Pass more hot sauce for those who want it.</li>
 </ol>
+</div>

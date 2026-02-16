@@ -23,6 +23,7 @@ To form the dumplings I used this <a href="http://amzn.to/b6ZhkA" target="_blank
 
 You'll need either a Korean grocery or a well stocked general Asian grocery (such as Uwajimaya in the Seattle or Bay Area) to find kochujang and ssamjang. They are delicious and well worth searching out. Since I've picked them up, I use them in everything. I also used black vinegar instead of sherry vinegar in the sauce, so you might want to get that as well. It has a slight five-spice flavor that I love.
 
+<div class="recipe-card">
 <strong>Mandu - Korean-Style Potstickers with Ssamjang / Kochujang Sauce</strong>
 Makes about 40 dumplings (which in my family serves 4-5, but we are greedy)
 Vegetarian
@@ -60,3 +61,4 @@ Vegetarian
 &nbsp;
 
 &nbsp;
+</div>

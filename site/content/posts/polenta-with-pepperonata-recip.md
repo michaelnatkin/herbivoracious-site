@@ -20,6 +20,7 @@ The version of sofrito I have in today's recipe is what I call <strong>"cheater 
 
 I didn't include the polenta in the recipe below, because it is simpler just to link to my preferred methods. If you have a <a href="http:/" target="_blank" rel="nofollow">pressure cooker</a>, I love the basic method from <a href="http://www.hip-cooking.com/2010/08/polenta-five-ways.html" target="_blank">Hip Pressure Cooking</a>, adding plenty of grated Parmesan, milk and butter to finish it. It is quite a bit less work and comes out perfectly creamy, every bit as good as on the stovetop. If you prefer to make it on the stovetop, see this <a href="/2008/11/polenta-with-sauteed-chard-and-gorgonzola/" target="_blank">more traditional method</a>.
 
+<div class="recipe-card">
 <strong>Peperonata (delicious over polenta)
 </strong>Vegetarian, gluten free, kosher, and optionally vegan
 Serves 4
@@ -42,4 +43,5 @@ Serves 4
 	<li>Add the onion, vinegar, peppers <strong>and reserved liquid from the peppers</strong>. Set the heat to medium low, and scrape the pan to loosen all those delicious brown bits into the sauce. Cook until the red onions are fully softened, about 15 minutes. You can add a small amount of water if needed.</li>
 	<li>Just before serving stir in the black pepper and parsley. Taste and adjust seasoning. Serve over polenta, finishing with a bit more extra-virgin olive oil.</li>
 </ol>
+</div>
 </div>

@@ -20,6 +20,7 @@ Here's an easy way to use them, sautéed with potatoes. I kept the other flavors
 
 By the way, when you boil potatoes, you should <strong>always start them in cold water</strong>, as this will give the inside a chance to come up to temperature before the outside overcooks and falls apart.
 
+<div class="recipe-card">
 <strong>Potatoes with Crispy Curry Leaves
 </strong><em>Serves 4 as part of a larger Indian meal
 Vegetarian and gluten-free</em>
@@ -39,4 +40,5 @@ Vegetarian and gluten-free</em>
 	<li>Add the potatoes, cumin, a few grinds of black pepper, and 1/2 teaspoon of kosher salt (less if not Diamond Crystal), and toss well.</li>
 	<li>Taste and adjust seasoning, then finish with a few flakes of sea salt.</li>
 </ol>
+</div>
 </div>

@@ -27,6 +27,7 @@ If time permits, serve these noodles with a variety of <a href="/2011/06/three-e
 
 Did I mention, serve it cold?
 
+<div class="recipe-card">
 <strong>Jjolmyon or Bibim Naengmyeon </strong>
 <em>Vegetarian, Vegan, and Gluten Free</em>
 <em>Serves 4</em>
@@ -65,5 +66,6 @@ Did I mention, serve it cold?
 	<li>Boil the noodles according to package directions, or for 10 minutes if you can't read the package directions. Drain and transfer to the ice bath.</li>
 	<li>When you are ready to serve, divide the sauce among the chilled bowls. Drain the noodles and toss them with a bit of the sesame oil, and divide among the bowls. Top the noodles with portions of the asparagus tips, shaved asparagus, lotus root, carrot, cucumber and kaiware. Serve immediately.</li>
 </ol>
+</div>
 </div>
 </div>

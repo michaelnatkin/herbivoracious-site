@@ -20,6 +20,7 @@ Hint for leftovers, should there be any: fill a bowl with pinto beans and top wi
 
 Got still more zucchini blossoms? <a href="/2010/07/zucchini-stuffed-zucchini-blossoms-recipe/">Try this</a>.
 
+<div class="recipe-card">
 <strong>Baby Zucchini and Blossoms with</strong> Sofrito
 <em>Serves 4 as a side dish
 Vegetarian, vegan, gluten free and kosher</em>
@@ -41,3 +42,4 @@ Vegetarian, vegan, gluten free and kosher</em>
 	<li>Stir in the parsley, reserving a bit for garnish. Stir in the squash blossom petals, reserving a few petals for garnish.</li>
 	<li>To serve, transfer to a bowl and garnish with the reserved parsley and squash blossoms.</li>
 </ol>
+</div>

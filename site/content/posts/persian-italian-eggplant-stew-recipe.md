@@ -23,6 +23,7 @@ As for the walnuts, I figured that their main purpose was to thicken and enrich 
 
 You'll notice I don't salt and drain the eggplants. Some people feel this is essential to remove bitterness. To me, it just makes them wet so they don't brown well. I don't find them particularly bitter.
 
+<div class="recipe-card">
 <strong>Persian-Italian Eggplant Stew</strong>
 <em>Vegetarian, vegan (if you replace the honey with say agave nectar), and gluten-free
 Serves 4</em>
@@ -51,3 +52,4 @@ Serves 4</em>
 	<li>Taste and adjust seasoning, adding more salt, pepper, cayenne, or vinegar as needed to achieve a complex mixture of spices, sweet, and sour.</li>
 	<li>Garnish with parsley leaves and sumac and serve.</li>
 </ol>
+</div>

@@ -28,6 +28,7 @@ Garlic chives (aka nira) can be found at good Asian grocers and sometimes at far
 
 The French horn mushrooms are also known as king oyster mushrooms, but every time I mention them with that name, someone writes in to say "I thought this was a vegetarian blog!" Read closer, people ;).
 
+<div class="recipe-card">
 <strong>Korean Yakisoba with French Horn Mushroom, Tofu and 5:10 Egg</strong>
 <em>Vegetarian and kosher</em>
 <em>Serves 4</em>
@@ -80,6 +81,7 @@ The French horn mushrooms are also known as king oyster mushrooms, but every tim
 	<li>Add a bit more oil if necessary and stir-fry the asparagus until tender. Add the garlic chives and stir-fry for 30 seconds. Add the yakisoba noodles and stir-fry for about 1 minute or according to package directions. Add the tofu and the sauce to the pan and toss through. Taste and make any final adjustments to the seasoning. If it seems a bit dry ("tight" as chefs call it), add a little water.</li>
 	<li>Divide the noodles (with the tofu, asparagus and garlic chives) among the serving bowls. Top each bowl with a peeled egg, a dose of the radish kimchi, 3 of the shishito peppers and their share of the mushrooms. Quickly <a href="/2012/03/how-to-cut-mint-chiffonade-tiny-ribbons-video/">chiffonade</a> the shiso and scatter it on top. Cut halfway through the egg to allow the yolk to slowly run out, then serve immediately.</li>
 </ol>
+</div>
 </div>
 </div>
 </div>

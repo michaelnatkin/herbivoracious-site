@@ -33,6 +33,7 @@ I'd also be curious to see what happens if you actually puree some of the soaked
 
 Here's how I'm currently making it:
 
+<div class="recipe-card">
 <strong>Pretzel Ice Cream</strong>
 <em>Yields about 3 cups</em>
 <ul>
@@ -49,3 +50,4 @@ Here's how I'm currently making it:
 	<li>In a colander, strain the cream mixture, pressing down on the pretzels to extract as much liquid as possible. Then pass the cream again through a fine sieve to remove little bits of pretzel.</li>
 	<li>Process according to your ice cream maker's instructions. When it is done but not frozen hard, fold in flaky sea salt to taste.</li>
 </ol>
+</div>

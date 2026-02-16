@@ -18,6 +18,7 @@ This isn't a traditional fried rice with the egg scrambled in. Instead, I just t
 
 You can vary this recipe infinitely: Want it vegan? Skip the egg. More protein? Add some small cubes of tofu or tempeh. Spicy? Any kind of fresh or dried chili pepper, or curry spices, or a Chinese chili paste or sriracha or harissa will all work. Just pick one general culinary tradition and stick with it. Don't have kale? It could be spinach or cabbage or any leafy green - or other vegetables as long as you allow for the time they need to cook. Feeling healthy? Brown rice or red rice or black rice will work as well as rice.
 
+<div class="recipe-card">
 <strong>Kale Fried Rice for One
 </strong><i>Vegetarian, kosher, vegan if you omit the egg, and gluten free if you check your soy sauce
 Serves 1 (but easy to multiply)</i>
@@ -36,3 +37,4 @@ Serves 1 (but easy to multiply)</i>
 	<li><span style="line-height: 13px;">Preheat a medium cast iron skillet over high heat. Add the oil and garlic. A few seconds later, add the rice and break up large clumps. Allow to cook, stirring only occasionally, for about 3 minutes, until there are some nice browned bits. Add the kale, salt, and soy sauce and cook for about another 5 minutes until the kale is completely tender.</span></li>
 	<li>Transfer the rice to a bowl and turn off the heat. Put the egg in the skillet and use the residual heat to cook it. Slide on top of the rice, garnish with the green onion, season with salt and pepper, and enjoy.</li>
 </ol>
+</div>

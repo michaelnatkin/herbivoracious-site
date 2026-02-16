@@ -25,6 +25,7 @@ Getting the right amount of flour in the dough is the critical factor in making 
 
 The traditional tool for shaping the grooves in gnocchi is a fork, but I really love this <a href="http://amzn.to/fT7Hb5" target="_blank">cheapo little gnocchi board</a>. It is faster and produces neater, deeper grooves than I can make with a fork.
 
+<div class="recipe-card">
 <strong>Pan-Fried Gnocchi with Radicchio, Leeks and Ricotta Salata</strong>
 <em>Vegetarian / Serves 6</em>
 <ul>
@@ -52,3 +53,4 @@ The traditional tool for shaping the grooves in gnocchi is a fork, but I really 
 	<li>Return the leeks and radicchio to the pan and toss to combine and reheat. Taste and add a little more salt if needed, but be careful because the ricotta salata is quite salty.</li>
 	<li>Divide among the serving plates, garnish with the ricotta salata, and serve immediately.</li>
 </ol>
+</div>

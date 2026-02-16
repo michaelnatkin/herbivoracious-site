@@ -30,6 +30,7 @@ Hmm.... I guess that means I pretty well made the recipe my own, but with many p
 
 Note: if you want these to be really light and cakey, use cake flour instead of all-purpose flour. I did this sort of by accident one day and was shocked how much it changed the texture. I don't prefer it, I like them denser, but this is an option if you want more of a cake texture.
 
+<div class="recipe-card">
 <strong>Most Spectacular Chocolate and Coffee Brownies</strong>
 <em>Makes at least 10 large brownies or 18 more moderate ones.
 Vegetarian; not vegan or gluten-free</em>
@@ -56,3 +57,4 @@ Vegetarian; not vegan or gluten-free</em>
 	<li>Bake for 20 minutes. Give the pan a rap to force out bubbles. Bake for 5-10 minutes more, until a toothpick comes out clean. Don't overbake! Allow to cool slightly. Don't eat them all at once. Unless you want to.</li>
 </ol>
 Variation: In another bowl, melt 3/4 c. white chocolate and mix in 3/4 c. cream cheese. Swirl the mixture through the chocolate before sprinkling on the chips at step 7.
+</div>

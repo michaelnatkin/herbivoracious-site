@@ -25,6 +25,7 @@ Of course if you do have company for dinner, you can easily multiply this recipe
 
 Tasty vegetarian kimchi can be a little hard to find. You have to look closely at the ingredients to see if there is shrimp paste etc. in it. One brand I like is Dae Han Tofu Company, or if you are in Seattle, keep your eye out for the non-traditional but delicious Firefly Kitchens booth at the Farmer's Markets. Good stuff.
 
+<div class="recipe-card">
 <strong>Tofu and Kimchi Dinner for One</strong>
 <em>Vegetarian, vegan, and gluten-free
 Serves 1</em>
@@ -44,3 +45,4 @@ Serves 1</em>
 	<li>Heat a large cast iron skillet over a very high flame. Add the oil, and 5 seconds later, the tofu and a great big pinch of salt. Fry, tossing occasionally until golden brown. Add the onion and grated ginger and fry for 30 more seconds.</li>
 	<li>Mound the tofu into a bowl. Drizzle on a little sesame oil, and garnish heavily with the green onions and sesame seeds. Add a nice pile of kimchi and the hot sauce of your choice. I really love ssamjang because it is only moderately spicy, with a lot of flavor complexity, so you can use quite a bit of it.</li>
 </ol>
+</div>

@@ -23,6 +23,7 @@ If you don't want to make the pasta, you can still use this method of smoking th
 
 By the way, the easiest way to trim asparagus is just to grab a few spears at a time and snap them. They will naturally break at the spot where the tender and woody parts meet. Then use a knife to remove just another 1/8" to neaten up the appearance.
 
+<div class="recipe-card">
 <strong>Bucatini with Smoked Asparagus and Gorgonzola</strong>
 <em>Vegetarian / Serves 4 / 40 minutes</em>
 <ul>
@@ -48,3 +49,4 @@ By the way, the easiest way to trim asparagus is just to grab a few spears at a 
 	<li>Boil the pasta until just short of al dente. Return the skillet to medium=high heat and transfer the pasta along with some of the water clinging to it into it. Add the aged balsamic if using. Use tongs to toss the pasta with the asparagus and seasonings. Add a little more of the pasta water if the dish seems "tight". Taste and adjust seasoning.</li>
 	<li>Divide the pasta among the warmed serving bowls. Garnish with the reserved asparagus tips, the gorgonzola, a few leaves of parsley, and a hearty grind of pepper. Serve immediately.</li>
 </ol>
+</div>

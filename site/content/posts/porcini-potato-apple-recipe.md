@@ -16,6 +16,7 @@ When you have beautiful ingredients like the fresh porcini mushrooms (aka cèpe
 
 This would also be delicious with big chunks of <a href="/2008/10/lobster-mushroo/" target="_blank" rel="noopener">lobster mushroom</a>.
 
+<div class="recipe-card">
 <strong>Porcini, Potato, Apple</strong>
 <em>Vegetarian, vegan, gluten free and kosher</em>
 <em>Serves 4</em>
@@ -34,3 +35,4 @@ This would also be delicious with big chunks of <a href="/2008/10/lobster-mushro
  	<li>Measure the amount of mushroom juice you have, and add 1/4 that amount of sweet vermouth or red wine to it. Strain. Place in your smallest saucepan and simmer over medium heat until it is slightly reduced and the alcohol taste has burned off. Season to taste with salt. (If your total juice collection is less than a cup, don't reduce it - just reduce the wine using the microwave, and add it to whatever mushroom juice you do have.)</li>
  	<li>To serve, heat 4 bowls and make sure all ingredients are piping hot. Divide the broth among the bowls. Place 3 smashed potatoes in each bowl. Cut the mushrooms into 3 or 4 chunks each, leaving the head whole, and arrange over the potatoes. Drizzle with a bit of olive oil. Add a few slices of apple tucked in between the mushrooms pieces. Finish with a few leaves of parsley and a generous sprinkle of Maldon salt and serve immediately.</li>
 </ol>
+</div>

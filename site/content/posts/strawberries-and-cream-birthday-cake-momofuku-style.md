@@ -37,6 +37,7 @@ My cake using this method is stupid-simple. The filling is macerated strawberrie
 <ol>
 	<li>Cut off the strawberry stems. Cut the berries into 1/4" slices, parallel to the base (i.e. horizontally, not vertically). In a medium bowl, toss the strawberries with the sugar and reserve, at room temperature, tossing occasionally, until the berries have softened and given up lots of juice, about 30 minutes. Save the juice for the cake soak.</li>
 </ol>
+<div class="recipe-card">
 <div><strong>Whipped Cream Frosting</strong></div>
 <div>
 <ul>
@@ -50,6 +51,7 @@ My cake using this method is stupid-simple. The filling is macerated strawberrie
 <ol>
 	<li>Put the cream cheese, salt, sugar and vanilla extract in a stand mixer. Beat on medium speed until fluffy, about 1 minute. With the mixer still running, drizzle in the heavy cream. Continue beating until the mixture is homogenous and holds stiff peaks. Reserve in refrigerator until you are ready to frost your cake.</li>
 </ol>
+</div>
 </div>
 </div>
 </div>

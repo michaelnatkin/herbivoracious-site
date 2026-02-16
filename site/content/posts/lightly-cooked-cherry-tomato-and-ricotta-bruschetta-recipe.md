@@ -21,6 +21,7 @@ It is important to cut <strong>thick slices of bread</strong> for bruschetta bec
 
 Honestly I didn't write down a recipe for this bruschetta because I didn't particularly plan on sharing this on the blog, but then it was just so tasty I felt compelled! So here is an <strong>approximate recipe</strong>. Use your own cooking sense to adjust it, you can't go wrong.
 
+<div class="recipe-card">
 <strong>Lightly Cooked Cherry Tomato and Ricotta Bruschetta</strong>
 <em>Vegetarian</em>
 <em>Yields 4 large pieces</em>
@@ -40,3 +41,4 @@ Honestly I didn't write down a recipe for this bruschetta because I didn't parti
 	<li>Brush the bread with the remaining olive oil and grill or toast until well browned.</li>
 	<li>To finish the bruschetta, spread each slice of bread with 1/4 of the ricotta and 1/4 of the cherry tomato mixture, a drizzle of olive oil if you are so inclined, a bit of the basil, a few flakes of salt, and a few grinds of pepper. Cut each piece in half and serve immediately.</li>
 </ol>
+</div>

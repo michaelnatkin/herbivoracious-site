@@ -21,6 +21,7 @@ I'm hard pressed to choose a favorite set of spices to flavor this dish, so I've
 
 Oh, and a bit of news: the <a href="http://www.amazon.com/gp/product/1558327452/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=1558327452&amp;linkCode=as2&amp;tag=poeticlicen07-20" target="_blank">cookbook I'm working on</a> has had a schedule change. It will now be released by Harvard Common Press in spring 2012, rather than fall 2012 as we previously thought. I'm really excited to have it on shelves soon!
 
+<div class="recipe-card">
 <strong>Warm Grapes, Toasted Pita Bread and Ricotta Salata</strong>
 <em>Vegetarian / Serves 2 / 10 minutes</em>
 <ul>
@@ -47,3 +48,4 @@ Oh, and a bit of news: the <a href="http://www.amazon.com/gp/product/1558327452/
 	<li>Add a generous squeeze of lemon juice and spice mixture and toss. Add the cheese and toss again, then taste and adjust seasoning. Ricotta salata is quite salty, so you may not need any salt, or just a pinch.</li>
 	<li>Divide on serving plates, or leave in the large bowl. Finish with a drizzle of excellent olive oil. If you happen to have an <a href="http://chefshop.com/Blood-Orange-Olive-Oil-Organic-Italy--P5805.aspx?afid=10" target="_blank">orange-scented one like this beauty from ChefShop</a>, this is a perfect spot to use it. Serve warm.</li>
 </ol>
+</div>

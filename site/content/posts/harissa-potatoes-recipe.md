@@ -22,6 +22,7 @@ Harissa is a Moroccan spice paste that is quite hot; don't use the full 2 teaspo
 
 The <a href="http://www.amazon.com/dp/B0012WF8P2/?tag=poeticlicen07-20">harissa</a> and <a href="http://www.amazon.com/dp/B0012S9NU2/?tag=poeticlicen07-20">preserved lemons</a> that I keep around are usually from Mustaphas Moroccan. Delicious stuff, and they keep a long time so they are convenient to have on hand whenever dinner needs a little extra oomph. Other ideas for using them: <a href="/2012/09/quickie-amba-pickled-mango-condiment-recipe/">quick mango pickle (amba)</a>, <a href="/2008/04/recipe-sabich/">sabich</a>, <a href="/2012/08/zucchini-chickpea-tagine-recipe/">zucchini and chickpea tagine</a>. I also like to spread harissa on the barely adequate delivery pizza we get sometimes.
 
+<div class="recipe-card">
 <strong>Harissa Potatoes
 </strong><em>Vegetarian, vegan if you omit the feta, and gluten free
 Serves 2-3 as a side dish or part of a meze</em>
@@ -43,3 +44,4 @@ Serves 2-3 as a side dish or part of a meze</em>
 </ol>
 <h4>Relevant Sites</h4>
 <a href="http://www.tesco.com/direct/home-electrical/range-cookers/cat3376123.cat" target="_blank">Wide range of cookers</a>
+</div>

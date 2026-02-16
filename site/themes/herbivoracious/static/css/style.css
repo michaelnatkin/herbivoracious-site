@@ -1076,6 +1076,10 @@ a.as-seen-in:hover { text-decoration: none; }
   border-radius: var(--radius-lg);
 }
 
+.recipe-card > em {
+  display: block;
+}
+
 .recipe-card-title {
   font-family: var(--font-display);
   font-size: 26px;
@@ -1127,7 +1131,7 @@ a.as-seen-in:hover { text-decoration: none; }
 
 .recipe-card ul,
 .recipe-card ol {
-  margin: 0 0 8px 1.5em;
+  margin: 1em 0 8px 1.5em;
   font-size: 16px;
   line-height: 1.7;
 }

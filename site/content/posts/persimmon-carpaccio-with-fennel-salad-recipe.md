@@ -18,6 +18,7 @@ Hachiya persimmons, on the other hand, can only be eaten when they are incredibl
 
 Once you have the right kind of persimmons, and a <a href="http://www.amazon.com/dp/B0000VZ57C/?tag=poeticlicen07-20" target="_blank">simple mandoline</a>, you can toss this together in minutes. You'll impress your friends and family out of all proportion to how difficult it was to actually do!
 
+<div class="recipe-card">
 <strong>Persimmon Carpaccio with Fennel Salad</strong>
 <em>Vegetarian, vegan and gluten free </em>
 <em>Serves 4</em>
@@ -38,4 +39,5 @@ Once you have the right kind of persimmons, and a <a href="http://www.amazon.com
 	<li>Thinly slice the fennel, radish and red onion on the mandoline and put them in a small bowl. Dress with the olive oil, champagne vinegar and sea salt. Taste and adjust seasoning.</li>
 	<li>Arrange 7 persimmon slices in a circle on each plate. Top with 1/4 of the salad, keeping it centered and as tall as possible on top of the persimmons. Garnish with a few of the reserved fennel fronds and the pepitas and serve.</li>
 </ol>
+</div>
 </div>

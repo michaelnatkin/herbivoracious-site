@@ -22,6 +22,7 @@ The only ingredient in this recipe that is likely to be unfamiliar to a lot of f
 
 Pakora are always served with something for dipping, most often tamarind chutney, which you can <a href="http://showmethecurry.com/pickles-chutneys/tamarind-chutney-imli-chutney.html" target="_blank">make</a> or buy at an Indian grocery.
 
+<div class="recipe-card">
 <strong>Onion Pakora</strong>
 <em>Vegetarian, vegan, and gluten-free</em>
 <em>Serves 3-4
@@ -50,3 +51,4 @@ Serve with tamarind or mint chutney </em>
 </ol>
 </div>
 <div></div>
+</div>

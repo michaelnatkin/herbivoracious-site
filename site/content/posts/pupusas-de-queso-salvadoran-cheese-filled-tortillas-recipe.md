@@ -36,6 +36,7 @@ Makes about 14, serves 4-6</em>
 	<li>Moisten your hands lightly. Break off a piece of dough and form a ball about 1 3/4" or so in diameter. Use your thumb to press a deep well in the ball, making it almost into a bowl. Put about 1 1/2 tablespoons of cheese in the middle. Close the ball over the filling and squeeze to seal. Using either a tortilla press or your hands, flatten into a circle about 5" in diameter.</li>
 	<li>Cook each pupusa for about 3 minutes on each side until golden brown. Press down a little to be sure you have contact over the whole surface. When done, you can hold them in a 200 degree oven for a few minutes while you complete the batch.</li>
 </ol>
+<div class="recipe-card">
 <strong>Curtido (Cabbage slaw for Pupusas)</strong>
 <em>Vegetarian, vegan, and gluten-free</em><em>
 Makes: a lot</em>
@@ -55,3 +56,4 @@ Makes: a lot</em>
 	<li>Drain well, then combine all other ingredients.</li>
 	<li>Taste and adjust the seasoning. Allow to stand for at least an hour. Toss again just before serving.</li>
 </ol>
+</div>

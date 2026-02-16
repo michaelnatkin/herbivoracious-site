@@ -20,6 +20,7 @@ For the salsa, I've called for <a href="http://www.amazon.com/dp/B0043RMBVW/?tag
 
 If you choose to make this all in one day, it could be a bit of a project. You can <strong>simplify matters</strong> by making both sauces and the filling ahead, so you only have to concentrate on the sope shells the day your are serving it. All this really needs for accompaniment is <a href="/2009/11/ridiculously-good-guacamole-recipe/" target="_blank">guacamole</a>, some black beans or <a href="/2011/07/vegetarian-frijoles-charros-mexican-cowboy-beans-with-smoked-onion-recipe/" target="_blank">pinto beans</a>, and maybe a salad.
 
+<div class="recipe-card">
 <strong>Sopes with Plantain, Zucchini and Two Sauces
 </strong>Vegan if you substitute for sour cream. Kosher.
 Makes 16 sopes, serves 6-8
@@ -89,6 +90,7 @@ Makes 16 sopes, serves 6-8
 	<li>When you are ready to finish the dish, reheat the filling and the guajillo salsa and warm your serving plates. Heat a large skillet with 3/4" of vegetable oil over a medium-high to high flame. When it is hot enough to sizzle if a scrap of dough is added, fry the sopes, wall side down, for about 45 seconds to a minute, until they are golden brown in spots and crispy. Drain on paper towels.</li>
 	<li>Put some of the guajillo salsa on each plate, and then put two sopes on the salsa. Top each sope with a big scoop of the plantain filling and spoon on a good amount of the charred scallion sour cream. Garnish with cilantro and serve.</li>
 </ol>
+</div>
 </div>
 </div>
 </div>

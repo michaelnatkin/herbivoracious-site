@@ -21,6 +21,7 @@ Here's my riff, dressed up a bit with black olive, dehydrated corn, chive flower
 
 Hands down my favorite part of the garnish was the freeze-dried corn (which you can find at Whole Foods). It adds a nice crunch, but even better, the flavors of corn and watermelon just immediately take you to a summer picnic.
 
+<div class="recipe-card">
 <strong>Seared Watermelon with Flavors of Summer</strong>
 <em>Vegetarian, vegan, and gluten-free / Serves 4</em>
 <ul>
@@ -39,3 +40,4 @@ Hands down my favorite part of the garnish was the freeze-dried corn (which you 
 	<li>Remove the watermelon. Pour excess oil out of the pan. Return the pan to the heat and deglaze with the watermelon juice, reducing it a bit but not to a syrup; we are looking for a jus-like consistency. Drizzle the jus on serving plates and place a piece of watermelon atop the jus.</li>
 	<li>Garnish each piece with a small amount of the olive paste, a few kernels of dehydrated corn, a few of the chive flowers, rosemary flowers, and oregano tips, and a final sprinkle of <a href="http://www.amazon.com/dp/B0006FS4TI/?tag=poeticlicen07-20" target="_blank">Maldon (aka the world's greatest salt)</a> . Serve warm.</li>
 </ol>
+</div>

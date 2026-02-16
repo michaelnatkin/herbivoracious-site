@@ -30,6 +30,7 @@ Whatever else you have with a latke meal should be considered a <strong>mere for
 
 A note about Kosher salt: I always use Diamond Crystal brand. It is "fluffier" and therefore weighs less by volume than Mortons. The best option is always to measure by weight, but if you are going by volume and not using Diamond Crystal, reduce all amounts by around 40%.
 
+<div class="recipe-card">
 <strong>Crispy, Delicious Latkes for Hanukkah</strong>
 <em>Vegetarian and gluten-free
 Multiply as needed to use 450 grams / 1 pound potato per person as a main course or half that as an appetizer (unimaginable, but just in case)</em>
@@ -54,3 +55,4 @@ Multiply as needed to use 450 grams / 1 pound potato per person as a main course
 	<li>Try not to eat all of them yourself.</li>
 	<li>Serve with applesauce, sour cream and more salt on the side.</li>
 </ol>
+</div>

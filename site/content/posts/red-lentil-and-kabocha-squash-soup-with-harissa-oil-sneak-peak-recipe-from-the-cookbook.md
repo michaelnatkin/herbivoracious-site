@@ -19,6 +19,7 @@ This is a great soup to serve when there are kids at the table, because it is qu
 Harissa is the classic spice paste of North Africa, used in stews, as a rub, and as a condiment at the table. Oil infused with harissa is terrific for grilling vegetables, and I like it drizzled on soups. You can also use a small amount of this oil to spice up a vinaigrette for dressing salads or dipping bread. If you happen to have harissa paste, you can make harissa oil by simply pureeing the paste with olive oil and straining. If not, you can make a quick approximation using this recipe. It will keep in the refrigerator for a few days.
 
 Sumac is an intensely maroon powder with a mild tangy flavor. Look for it at a Middle Eastern market or online retailer.
+<div class="recipe-card">
 <div>
 
 <strong>Red Lentil and Kabocha Squash Soup with Harissa Oil</strong>
@@ -64,4 +65,5 @@ For the soup:
 	<li>Warm your soup bowls in a low (200°F) oven. Add the red lentils, salt, and water to the saucepan. Bring to a boil, lower the heat to maintain a simmer, and cook until the lentils have mostly fallen apart, about 30 minutes. Carefully puree, very thoroughly, with a blender or immersion blender. (See page 89 for safety tips on pureeing hot soups.) Taste and adjust the seasoning, and stir in the lemon juice, if using.</li>
 	<li>Divide the soup among the warmed bowls. Garnish with the cilantro leaves and a generous drizzle of the harissa oil, and serve immediately.</li>
 </ol>
+</div>
 </div>

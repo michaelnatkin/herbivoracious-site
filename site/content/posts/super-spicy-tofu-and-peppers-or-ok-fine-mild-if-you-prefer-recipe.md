@@ -22,6 +22,7 @@ Like any stir-fry, you'll want to be sure you have your sauce mixed and all of y
 
 In step 5 of the recipe, you'll see I say to cook the peppers until the colors brighten. For many vegetables, this is an excellent way to tell when they are at the crisp-tender point you are looking for in a stir-fry. It is easy to see if you look for it. (For the scientifically inclined, what is happening is that the air and water trapped between the translucent skin and the brightly colored flesh cooks out, allowing the flesh to shine through.)
 
+<div class="recipe-card">
 <strong>Super Spicy Tofu and Peppers (with Mild Variation)
 </strong><em>Vegetarian, vegan, gluten free and kosher
 </em><em>Serves 2 </em>
@@ -45,4 +46,5 @@ In step 5 of the recipe, you'll see I say to cook the peppers until the colors b
 	<li>Heat the oil in a large cast iron skillet or wok over high heat. Pat the tofu dry one more time and fry in a single layer, tossing occasionaly until golden brown, about 3 minutes. Remove the tofu to a plate and leave the skillet on.</li>
 	<li>Add the jalapeno, bell pepper and scallion and stir fry over high heat until the colors brighten, about 1 minute. Add the tofu back in, then add the sauce. Quickly stir and fry just long enough to reheat the tofu and cook the cornstarch, about 30 seconds. Transfer to a serving bowl or platter and serve immediately.</li>
 </ol>
+</div>
 </div>

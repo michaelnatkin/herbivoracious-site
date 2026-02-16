@@ -20,7 +20,8 @@ I highly recommend these basic <a href="http://www.amazon.com/dp/B003YKGROG/?tag
 
 To make the breadcrumbs, take a few slices of day-old artisan bread, such as pain au levain, and simply whiz them in the blender. You'll probably have to tamp them down a few times. Don't reduce them all the way to powder. The <a href="http://www.amazon.com/dp/B000LQETHI/?tag=poeticlicen07-20" target="_blank">Vita-Prep</a> makes extremely short work of this task! Please don't make this crostata using canned breadcrumbs, I'm pretty sure that would be terrible.
 
-<strong>Apple Crostata with Breadcrumb</strong> <strong>Streusel</strong>
+<strong>Apple Crostata with Breadcrumb</strong> <div class="recipe-card">
+<strong>Streusel</strong>
 <em>Serves 12</em>
 <em>Vegetarian and kosher </em>
 <ul>
@@ -40,3 +41,4 @@ To make the breadcrumbs, take a few slices of day-old artisan bread, such as pai
 	<li><span style="line-height: 13px;">When the dough is well chilled, arrange the apples in overlapping rows to cover the pastry. Sprinkle on 1/4 cup of white sugar. Bake until the apples are tender, about 20 minutes. Meanwhile, toss the breadcrumbs with the melted butter and 2 tablespoons of sugar. Remove the crostata from the oven and distribute the breadcrumbs over the top. Return to the oven and bake until the breadcrumbs are toasted, about 5 more minutes.</span></li>
 	<li><span style="line-height: 13px;">Allow to cool, cut into squares and serve.</span></li>
 </ol>
+</div>

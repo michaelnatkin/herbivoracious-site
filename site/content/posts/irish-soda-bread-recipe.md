@@ -18,6 +18,7 @@ As an aside, I've been enjoying keeping <strong>buttermilk</strong> as a staple 
 
 In the recipe below, I call for half pastry flour and half <strong>whole wheat flour</strong>. The pastry flour will give you a more tender bread, but all purpose is fine too. Or you could use half all purpose and half whole wheat pastry flour. Basically any four cups of wheat-based flour is going to be fine, depending on your pantry and desire.
 
+<div class="recipe-card">
 <strong>Irish Soda Bread</strong>
 <em>Makes 1 large loaf
 Vegetarian; not vegan or gluten-free
@@ -42,3 +43,4 @@ Adapted from Saveur magazine </em>
 	<li>Allow to cool for a few minutes, and serve with swaths of sweet cream butter.</li>
 </ol>
 <a href="http://www.foodista.com/recipe/H66MF3QF/irish-soda-bread"><img style="border: none; width: 101px; height: 20px;" src="http://static.foodista.com/images/foodista_logo_101_20_flattened.png?foodista_widget_8WKLP55N" alt="Irish Soda Bread on Foodista" /></a>
+</div>

@@ -20,6 +20,7 @@ Gremolata refers to a mixture of minced lemon zest, parsley and raw garlic that 
 
 The quality of ricotta varies widely; if you don't know of an excellent local source, the national brand you want is <a href="/2008/04/calabro-the-b/">Calabro</a>.
 
+<div class="recipe-card">
 <strong>Orecchiette with Garlic Scapes, Ricotta, and Gremolata
 </strong><em>Vegetarian and kosher</em>
 <em> Serves 4</em>
@@ -56,4 +57,5 @@ The quality of ricotta varies widely; if you don't know of an excellent local so
 	<li>When the pasta is just short of al dente, reserve 1 cup of the pasta water and drain. Add the pasta to the pan with the garlic scapes and stir to combine. Taste and adjust seasoning; it may need more salt. If the pasta seems a little dry (tight), add a bit of the reserved pasta water until it has a nice, moist shine.</li>
 	<li>Divide the pasta among the serving bowls. Top each bowl with several dollops of the ricotta, a few grinds of black pepper, and some of the gremolata. Serve immediately.</li>
 </ol>
+</div>
 </div>

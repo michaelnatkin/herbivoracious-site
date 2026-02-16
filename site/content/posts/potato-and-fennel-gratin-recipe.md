@@ -19,6 +19,7 @@ Homemade garlickly breadcrumbs make all of the difference. I save every stale bi
 
 Serve this up with a <a href="/2009/10/minestrone/" target="_blank">bowl of minestrone</a> or <a href="/2009/12/black-bean-soup-recipe/" target="_blank">black-bean soup</a>, and a simple salad with a <a href="/2009/05/lemon-mustard-vinaigrette-the-simplest-and-best-salad-dressing-recipe/" target="_blank">mustardy vinaigrette</a> for a dinner that will warm you to the core.
 
+<div class="recipe-card">
 <strong>Potato and Fennel Gratin</strong>
 Serves 4-6
 <ul>
@@ -44,3 +45,4 @@ Serves 4-6
 	<li>In a medium skillet, heat the olive oil over a medium flame. Saute the remaining two cloves of garlic for 1 minute. Add the breadcrumbs, reduce heat to medium low, and toast until golden brown, stirring frequently.</li>
 	<li>Layer the casserole with potatoes, in overlapping rows. Top that with a scattering of half of the fennel and pour in half of the cream sauce. Top with another layer of potatoes, fennel, and sauce. Cover the top with breadcrumbs. Bake until bubbling hot, about 20 minutes, and serve immediately.</li>
 </ol>
+</div>

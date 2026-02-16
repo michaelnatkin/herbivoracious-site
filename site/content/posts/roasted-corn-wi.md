@@ -21,6 +21,7 @@ Of course this technique of making compound butters can be applied to just about
 
 (Chili pepper can also be spelled chile pepper, and anchos are sometimes mistakenly called pasilla; if you don't have ancho peppers, you could also use (real) pasillas, New Mexicos, mulatos, or California chilis.)
 
+<div class="recipe-card">
 <strong>Ancho Chili Butter</strong>
 <em>Yields 8 tablespoons, enough for 6 ears of corn
 Vegetarian and gluten-free, not vegan</em>
@@ -38,3 +39,4 @@ Vegetarian and gluten-free, not vegan</em>
 	<li>Refrigerate in a ramekin, or wrap into a log shape in parchment paper.</li>
 </ol>
 &nbsp;
+</div>

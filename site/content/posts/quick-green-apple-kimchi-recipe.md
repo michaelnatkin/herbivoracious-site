@@ -18,6 +18,7 @@ You can take this same blueprint and make a quick, spicy pickle out of just abou
 
 In the photo, I've used the green apple kimchi on a lettuce wrap with <a href="/2012/05/how-to-make-tofu-really-freaking-delicious-tofu-101/" target="_blank">pan-fried tofu</a> and a sauce made from hatcho miso, soy sauce, rice vinegar, mirin, kochujang, sesame oil and ginger. Sorry, I didn't write down any proportions for that - it was a quick improvisation because when I went to grab my ssamjang out of the refrigerator it was way past expiration date.
 
+<div class="recipe-card">
 <strong>Quick Green Apple "Kimchi"</strong>
 <em>Vegetarian, Vegan, Gluten Free and Kosher
 Yields about 3 cups </em>
@@ -35,3 +36,4 @@ Yields about 3 cups </em>
 	<li><span style="line-height: 13px;">Reserve in refrigerator until ready to use. Use within a couple of hours or it can become too soggy.</span></li>
 </ol>
 &nbsp;
+</div>

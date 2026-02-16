@@ -42,6 +42,7 @@ Makes 12 buns
 	<li>To fry the tofu, pat it dry again and place a cast iron skillet over high heat. Add about 2 tablespoons of vegetable oil. Fry the tofu in a single layer, flipping once, until golden brown and crusty on both sides. Season with a bit of salt.</li>
 	<li>To serve, open the buns and place a slice of tofu on one side. Layer on 3 slices of the pickled cucumber and a few green onions. Slather a bit of kochujang or hoisin on the other half of the bun. Serve hot.</li>
 </ol>
+<div class="recipe-card">
 <div><strong>Pickled Cucumbers for Smoked Tofu Buns</strong></div>
 </div>
 <div>Vegetarian, vegan and kosher (gluten-free too, but the buns aren't!)</div>
@@ -65,3 +66,4 @@ Makes 12 buns
 </div>
 </div>
 <div></div>
+</div>

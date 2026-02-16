@@ -23,6 +23,7 @@ If you want even more flavor, in addition to the creme fraiche you can mix in a 
 
 You can serve this after cooling for 15 minutes, or at room temperature.
 
+<div class="recipe-card">
 <strong>Baked Eggs with Chanterelles and Chard</strong>
 <em>Gluten free</em>
 <em>Serves 4-6</em>
@@ -48,3 +49,4 @@ You can serve this after cooling for 15 minutes, or at room temperature.
 	<li>Whisk the milk slowly into the creme fraiche until completely smooth. Whisk in the eggs. Add the salt, the mushroom and chard mixture, several grinds of whole nutmeg and several grinds of black pepper. Mix thoroughly and pour in to the prepared dish.</li>
 	<li>Top with the grated parmesan. Bake for about 50 minutes, until well browned and a toothpick in the center comes out completely dry. Allow to cool at least 15 minutes, then slice and serve.</li>
 </ol>
+</div>

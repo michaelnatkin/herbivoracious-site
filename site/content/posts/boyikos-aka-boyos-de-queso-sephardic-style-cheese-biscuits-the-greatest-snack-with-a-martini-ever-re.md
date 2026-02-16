@@ -18,6 +18,7 @@ As with any traditional food, there are variations in the name (e.g. boyos, boyo
 
 You can make them with just about any hard grating type cheese. Pecorino romano is our tradition, but parmesan or even manchego work well too.
 
+<div class="recipe-card">
 <strong>Boyikos</strong>
 <em>Vegetarian; not vegan or gluten-free
 Makes about 4 dozen tiny biscuits</em>
@@ -38,3 +39,4 @@ Makes about 4 dozen tiny biscuits</em>
 	<li>Bake until golden brown, about 15 minutes. You don't want them to get real dark, but they should definitely be golden. Let cool for a couple of minutes and then remove to a wire rack. Cool the cookie sheet before making another batch.</li>
 </ol>
 &nbsp;
+</div>

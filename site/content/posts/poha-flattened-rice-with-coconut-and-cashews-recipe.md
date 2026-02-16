@@ -21,6 +21,7 @@ For today's dish, I've added the big flavors of coconut and cashews, together wi
 
 Oh, and before I forget, here's an easy opportunity for everyone to help with a great cause. I'm a big fan of Elizabeth Andoh's work. Her book "Kansha" is my go-to reference for basic Japanese flavors. She's written an <a href="http://www.scribd.com/doc/81496605/Excerpt-and-Recipes-From-Kibo-by-Elizabeth-Andoh">ebook called Kibo</a> to raise funds for Japan earthquake relief, one year after the disaster. Just $4 and about 50% vegetarian.
 
+<div class="recipe-card">
 <strong>Poha (Flattened Rice) with Coconut and Cashews</strong>
 <em>Vegetarian, vegan, gluten free and kosher</em>
 <em>Serves 2 as a main dish or 4 as a side dish or part of a thali</em>
@@ -47,4 +48,5 @@ Oh, and before I forget, here's an easy opportunity for everyone to help with a 
 	<li>Put the oil in a large skillet, either well-seasoned cast iron or non-stick, over medium-high heat. When the oil is shimmering, add the onion and ginger and fry until the onion begins to soften, about 3 minutes. Add the salt and mustard seeds. When the mustard seeds begin to change color, about 30 seconds, add the garam masala and turmeric. Stir in the drained poha and the coconut. Cook, stirring occasionally and gently for about 3 minutes. Squeeze in the lime juice. Taste and adjust seasoning.</li>
 	<li>Serve hot, garnished with cilantro, and offering lime pickle on the side.</li>
 </ol>
+</div>
 </div>

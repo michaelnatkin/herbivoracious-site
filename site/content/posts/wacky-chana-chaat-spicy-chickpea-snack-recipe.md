@@ -56,6 +56,7 @@ Oh, and in other news, after much "fun" getting the colors right, I finally have
 	<li>Toast the cumin seed and coriander seed in a dry skillet over medium-low heat until fragrant but not burned, about 2 minutes.</li>
 	<li>Combine all ingredients in a spice grinder or mortar and pestle and grind to a fine powder.</li>
 </ol>
+<div class="recipe-card">
 <div><strong>Mint Chutney</strong>
 <em>Vegetarian, vegan, and gluten free </em></div>
 </div>
@@ -79,3 +80,4 @@ Oh, and in other news, after much "fun" getting the colors right, I finally have
 </div>
 </div>
 &nbsp;
+</div>

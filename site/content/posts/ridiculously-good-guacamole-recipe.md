@@ -26,6 +26,7 @@ Guacamole tastes best freshly made, but you can hold it for a few hours in the r
 
 Here's the recipe:
 
+<div class="recipe-card">
 <strong>Ridiculously Good Guacamole in Five Minutes</strong>
 <em>Vegetarian, vegan and gluten-free
 Serves 4-6 greedy guac hounds
@@ -47,3 +48,4 @@ Serves 4-6 greedy guac hounds
 	<li>Taste and add salt and more lime juice if needed.</li>
 </ol>
 <div style="padding-left: 20px; padding-top: 10px;"><script type="text/javascript">// <!]></script><script type="text/javascript" src="http://www.assoc-amazon.com/s/ads.js"></script></div>
+</div>

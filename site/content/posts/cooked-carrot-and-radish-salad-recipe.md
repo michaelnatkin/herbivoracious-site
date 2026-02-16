@@ -26,6 +26,7 @@ The recipe is pretty flexible about amounts, and will make more dressing than yo
 
 Since <a href="/2010/04/what-i-learned-staging-at-canlis/" target="_blank">staging at Canlis</a> I've become attuned to the option of intentionally not emulsifying dressings, allowing the oil to separate to produce an attractive look on the plate. That is what I did here. If you want it to emulsify, add a small amount of mustard or xanthan gum, whiz the heck out of it just before serving, or use the traditional technique of adding the oil in a thin stream while whisking
 
+<div class="recipe-card">
 <strong>Cooked Carrot and Radish Salad</strong>
 <em>Vegetarian, Vegan, and Gluten-Free
 Serves 4</em>
@@ -47,3 +48,4 @@ Serves 4</em>
 	<li>When the water is boiling, cook the carrots until tender, checking them frequently with the point of a knife. When they are just tender, remove them immediately to the ice water.</li>
 	<li>When you are ready to serve, drain the carrots and pat them dry. Give the dressing a quick whisk and toss the carrots with some of it. Transfer to a serving platter, and arrange the radish slices amongst and over them. Drizzle more dressing over the top. Garnish with the dill and finishing salt.</li>
 </ol>
+</div>

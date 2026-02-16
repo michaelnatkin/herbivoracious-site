@@ -27,6 +27,7 @@ In restaurants, compression is done with a high powered vacuum chamber. When use
 
 I'm planning on doing an occasional post introducing these types of modern techniques, especially those that can be done easily in a home kitchen. Let me know if you find that interesting or would prefer more "regular" recipes!
 
+<div class="recipe-card">
 <strong>Compressed Cantaloupe &amp; Cucumber Salad with Shiso Infused Sake</strong>
 <em>Vegetarian, vegan, and gluten-free</em>
 <em>Serves 4</em>
@@ -47,3 +48,4 @@ I'm planning on doing an occasional post introducing these types of modern techn
 	<li>Trim the cucumber and cantaloupe into 3" long slabs. Work them in your hands or even with a rolling pin to extract most of the liquid. You should seem them grow somewhat translucent. Slice into 1/8" wide "noodles". You'll need about 1 1/2 cups total for four servings. Toss the noodles with the sesame oil and sesame seeds.</li>
 	<li>To serve, divide the "noodles" among four plates, forming a small mount. Top with a 1/4 teaspoon umeboshi plum paste. Sprinkle with a pinch of black sea salt and garnish with a few kaiware sprout tops. Pour 4 servings of the cold sake, place the glass on one whole shiso leaf, and serve immediately.</li>
 </ol>
+</div>

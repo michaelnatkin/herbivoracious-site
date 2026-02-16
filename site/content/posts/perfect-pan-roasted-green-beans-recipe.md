@@ -23,6 +23,7 @@ Interestingly, I know I'm not the only person who uses this method (not just for
 
 Once you've got your caramelized green beans, you can either stop right there and finish them with <a href="http://www.amazon.com/gp/product/B000FSE1N4?ie=UTF8&amp;camp=213733&amp;creative=393177&amp;creativeASIN=B000FSE1N4&amp;linkCode=shr&amp;tag=poeticlicen07-20" target="_blank">Maldon salt</a> and some good olive oil, or you can take them in any flavor direction you like. For example, glaze them with a bit of sherry vinegar and smoked paprika for a Spanish approach, or with lemon juice, garlic, olives and feta to head to Greece. (Stop a little early on the sear if you do this; otherwise when you add a bit of liquid they tend to overcook.) If you are making a stir-fry and don't have a jet-sized wok burner, the same trick works - microwave the beans to nearly tender, then finish in a hot wok.
 
+<div class="recipe-card">
 <strong>Perfect Roasted Green Beans</strong>
 <em>Vegetarian, vegan, gluten free and kosher</em>
 <em>Serves 4 as a side dish</em>
@@ -41,3 +42,4 @@ Once you've got your caramelized green beans, you can either stop right there an
 	<li>Leave the skillet on high heat. Add a couple of tablespoons of the vegetable oil to the skillet and immediately add the beans, using tongs so as to leave any water behind in the bowl. Add a big pinch of Kosher salt and toss the beans, then spread them out evenly in the pan. Cook, tossing only occasionally, until there are many browned spots on the beans, about 3 minutes</li>
 	<li>Transfer your beautifully caramelized green beans to a serving platter and finish with a drizzle of extra-virgin olive oil and a nice scattering of sea salt.</li>
 </ol>
+</div>

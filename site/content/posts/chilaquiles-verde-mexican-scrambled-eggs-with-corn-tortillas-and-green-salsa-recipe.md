@@ -22,6 +22,7 @@ I like to reserve some of the crisped tortillas before adding the eggs so that t
 
 A lot of the love in chilaquiles is in the garnish, so I've listed a whole bunch of options. Don't feel like you need to use them all, just pick the ones that appeal to you.
 
+<div class="recipe-card">
 <strong><strong></strong>Chilaquiles Verdes - Mexican Scrambled Eggs with Corn Tortillas and Green Salsa</strong>
 <em>Gluten Free</em>
 <em>Serves 2</em>
@@ -45,3 +46,4 @@ A lot of the love in chilaquiles is in the garnish, so I've listed a whole bunch
 </ol>
 </div>
 &nbsp;
+</div>

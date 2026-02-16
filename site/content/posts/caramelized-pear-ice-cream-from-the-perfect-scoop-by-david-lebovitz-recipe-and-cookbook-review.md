@@ -20,6 +20,7 @@ I've dog-eared many pages, but the Pear-Caramel ice cream has been haunting my i
 
 Now if only I had one of these: <a href="https://www.ckitchen.com/commercial-ice-machines.html">Commercial Ice Machines</a>.
 
+<div class="recipe-card">
 <strong>Pear-Caramel Ice Cream</strong>
 <em>Summarized from <a href="http://www.amazon.com/gp/product/1580088082?ie=UTF8&amp;tag=poeticlicen07-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=1580088082" target="_blank">The Perfect Scoop</a>, by David Lebovitz
 Makes about 1 quart
@@ -39,3 +40,4 @@ Vegetarian and gluten-free; not vegan</em>
 	<li>Cool to room temp, puree until smooth, press through a strainer.</li>
 	<li>Chill according to your ice-cream maker manufacturer's instructions. <em></em></li>
 </ol>
+</div>

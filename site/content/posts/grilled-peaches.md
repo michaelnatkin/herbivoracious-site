@@ -8,6 +8,7 @@ aliases: ["/grilled-peaches/", "/2007/07/grilled-peaches.html"]
 
 This sounds fancy but is actually a slam dunk to make, especially if you use a packaged spice mixture. The combination of sweet, pungent and spicy is pretty addictive. You could serve it as an appetizer or as part of a light dinner with a salad or a meze. It seems like it would enjoy a nice assertive piece of cheese. (Tip: if you have trouble skinning the peaches, these relatively new <a href="http://www.amazon.com/gp/product/B0007LXTHS?ie=UTF8&amp;tag=poeticlicen07-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B0007LXTHS">serrated peelers</a> are excellent on soft foods).
 
+<div class="recipe-card">
 <strong>Grilled Peaches with Ras Al Hanout and Ginger Beer Reduction<em></em></strong>
 <em>Serves 4</em>
 
@@ -27,3 +28,4 @@ Obviously there is lots of room for improvisation with this dish. Here are some 
 - use a different spice mixture (how about <a href="http://www.recipeland.com/recipe/4106/">Chat Masala</a>? Or <a href="http://www.amazon.com/gp/product/B000FNJO7W?ie=UTF8&amp;tag=poeticlicen07-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B000FNJO7W">Dukkah</a>?)
 - use a different sauce (make your own ginger sauce, or <a href="http://www.amazon.com/gp/product/B000LRKO9E?ie=UTF8&amp;tag=poeticlicen07-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B000LRKO9E">pomegranate molasses</a>, or a <a href="http://www.amazon.com/gp/product/B0008IUUSG?ie=UTF8&amp;tag=poeticlicen07-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B0008IUUSG">fine balsamic</a>, or something with honey)
 - use a different salt (<a href="http://www.amazon.com/dp/B0006FS4TI/?tag=poeticlicen07-20" target="_blank">Maldon (aka the world's greatest salt)</a> is always nice)
+</div>

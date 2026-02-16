@@ -24,6 +24,7 @@ If you are lucky, a bit of the cheese might run out and brown and stick to the e
 
 To get your creative juices flowing, here's a tasty quesadilla I made the other day, filled with green peppercorn pecorino, red onions, and (incredible) <a href="http://www.amazon.com/gp/product/B000069KQW?ie=UTF8&amp;tag=poeticlicen07-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B000069KQW">Stonewall Kitchen Roasted Garlic &amp; Onion Savory Jam</a>. I served it with a quick chevre &amp; cilantro sauce and some <a href="http://www.amazon.com/gp/product/B000NO943C?ie=UTF8&amp;tag=poeticlicen07-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B000NO943C">smoked paprika</a>. You should substitute ingredients wildly and make whatever sounds good to you!
 
+<div class="recipe-card">
 <strong>Crispy Quesadilla with Pecorino and Garlic &amp; Onion Jam</strong>
 <em>Makes 1 quesadilla - multiply as needed
 Vegetarian &amp; gluten-free; not vegan
@@ -50,3 +51,4 @@ Preparation time: under 10 minutes
 	<li>When the quesadilla is done on both side, remove it to a cutting board and carefully cut it into quarters with decisive presses of a sharp knive. Place on plate, sprinkle with a bit of salt, dust the plate with the <a href="http://www.amazon.com/dp/B000NO943C/?tag=poeticlicen07-20" target="_blank" rel="nofollow">smoked paprika</a>, add a dollop of the goat cheese sauce and munch intently.</li>
 </ol>
 &nbsp;
+</div>

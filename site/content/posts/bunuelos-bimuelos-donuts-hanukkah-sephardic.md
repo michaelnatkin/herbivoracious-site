@@ -22,6 +22,7 @@ If you enjoy making treats at home, you definitely want to own this book. Lara h
 In honor of Lara's book, I thought I would share this recipe for bunuelos (aka bimuelos), a rustic yeast-raised and fried donut that the Sephardic side of my family makes. For Hanukkah we have them with the traditional honey; any other time they are also terrific with powdered sugar. There is also a Passover version made with matzoh, but honestly that doesn't hold a candle to the flour-based doughnut.
 
 The dough for bunuelos should be quite wet. This isn't a doughnut that you roll out. You wet your hands, grab a piece of dough, form a rough ball and poke a hole with your thumb, then drop it straight in the oil. The result is unfussy, light and airy, and altogether insanely delicious. They are so simple to make that you could stir up the dough in just a few minutes before dinner, and fry them up afterwards to entertain and thrill the kids.
+<div class="recipe-card">
 <div><strong>Bunuelos (or Bimuelos) with Honey - Sephardic Hanukkah Donuts</strong>
 <em>Vegan if you use powdered sugar instead of honey</em>
 <em>Yields about 14 donuts </em></div>
@@ -41,3 +42,4 @@ The dough for bunuelos should be quite wet. This isn't a doughnut that you roll 
 	<li>Moisten your hands in the bowl of water and grab about 3 tablespoons of the dough. Quickly form it into a rough ball and poke a hole through the center. These are supposed to be rustic, don't spend any time trying to make them perfect. Drop carefully into the oil. Repeat for as many as will fit comfortably in your pot without crowding. Fry until golden brown on one side, then flip and brown the other side. Use a slotted spoon to remove to paper towels.</li>
 	<li>Drizzle with honey (or offer honey for dipping, or dust with powdered sugar) and serve immediately.</li>
 </ol>
+</div>

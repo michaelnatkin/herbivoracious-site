@@ -22,6 +22,7 @@ You might like to try adding some Dijon mustard to the dressing as well; it is f
 
 (*) I wouldn't actually keep it in your back pocket because it will stain your pants.
 
+<div class="recipe-card">
 <strong>Lentil and Cucumber Salad</strong>
 <em>Vegetarian, vegan, gluten free and kosher</em>
 <em>Makes a big potluck-sized bowl; cut in half for regular "family" use</em>
@@ -40,3 +41,4 @@ You might like to try adding some Dijon mustard to the dressing as well; it is f
 	<li>Meanwhile, sort through the lentils and discard any non-lenticular matter. Rinse in several changes of water. Put in a medium pot and cover with a couple inches of water. Bring to a boil, reduce to a simmer, and cook until tender but not mushy. Immediately drain and rinse in several changes of cold water to stop the cooking.</li>
 	<li>Combine the cooled lentils, cucumbers, onion, olive oil, lemon juice, 2 teaspoons of salt, dill and mint in a large bowl and toss. Taste and adjust seasoning. It may need more salt or lemon juice. Look for that moment when the flavors start to "sing" a little, not just sit there meekly on your palate. If you are serving more than an hour or so later, refrigerate and hold off on the herbs and final flavor adjustment until close to serving time. Garnish with the remaining herbs.</li>
 </ol>
+</div>

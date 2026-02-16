@@ -20,6 +20,7 @@ I particularly love the orange zest in the final garnish. It becomes fragrant fr
 
 If you get all of your ingredients ready in advance, you can boil the pasta at the same time you are pan-frying the cauliflower and everything will be ready at the same time.
 
+<div class="recipe-card">
 <strong>Sicilian Spaghetti with Pan-Roasted Cauliflower</strong>
 <em>Vegan option / Serves 3-4 / 30 minutes</em>
 <ul>
@@ -46,3 +47,4 @@ If you get all of your ingredients ready in advance, you can boil the pasta at t
 	<li>Add the pasta to the cauliflower, set heat to medium, and toss everything together; tongs work well for this. If it seems a little dry, add a ladle or two of the pasta water. Cook on high for about 1 more minute. Taste and adjust seasoning.</li>
 	<li>To serve, divide the pasta among four bowls. The cauliflower will not mix in well, so you will probably need to distribute it with tongs. Garnish with a drizzle of extra-virgin olive oil, the remaining orange zest, the pine nuts, fresh ground black pepper, parsley, and freshly grated Parmesan cheese.</li>
 </ol>
+</div>

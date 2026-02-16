@@ -26,6 +26,7 @@ The dish I chose to share with you, with Alice's permission of course, is her Ro
 
 So my verdict... go order <a href="http://www.amazon.com/dp/0062064053/?tag=poeticlicen07-20" target="_blank">Savory Sweet Life: 100 Simply Delicious Recipes for Every Family Occasion</a> right away!
 
+<div class="recipe-card">
 <strong>Roasted Carrots with Sage Brown Butter</strong>
 <em>Reprinted with Permission from <a href="http://www.amazon.com/dp/0062064053/?tag=poeticlicen07-20" target="_blank">Savory Sweet Life: 100 Simply Delicious Recipes for Every Family Occasion
 </a>Vegetarian, gluten free and kosher</em>
@@ -45,3 +46,4 @@ So my verdict... go order <a href="http://www.amazon.com/dp/0062064053/?tag=poe
 	<li>Toss the carrots in the sage brown butter and season them with salt and pepper to taste before serving.</li>
 </ol>
 Just for fun: Sprinkle a little bit of brown sugar on the carrots right before you roast them. The added sugar brings out the natural sweetness of the carrots, which complements the nuttiness of the brown butter.
+</div>

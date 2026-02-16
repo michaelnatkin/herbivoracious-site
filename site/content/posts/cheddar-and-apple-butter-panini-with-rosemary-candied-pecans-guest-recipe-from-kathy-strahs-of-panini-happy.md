@@ -21,6 +21,7 @@ I decided to incorporate rosemary into my latest cheddar-and-apples panini in tw
 
 I loved these panini. Each sweet and savory flavor and texture worked harmoniously. It takes a little extra time to make the pecans, but it’s well worth it – plus, you’ll have an amazing snack while you wait for the sandwiches to grill.
 
+<div class="recipe-card">
 <strong>Cheddar and Apple Butter Panini with Rosemary Candied Pecans</strong>
 <em>Vegetarian
 Prep Time: 15 minutes
@@ -57,3 +58,4 @@ Yield: 4 panini</em>
 	<li>Brush a little melted butter over the top of the sandwich and transfer it to the panini grill. Grill until the cheese is melted and the bread is toasted, 4 to 5 minutes. Slice the sandwich in half and serve it immediately.</li>
 </ol>
 *Alternatively, if you don’t have a panini maker, you can always cook these sandwiches in a skillet or on a griddle over medium heat, flipping them once the cheese has melted about half way.
+</div>

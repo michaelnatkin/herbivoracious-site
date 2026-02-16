@@ -18,6 +18,7 @@ We long ago determined that sunflower butter was our favorite replacement for pe
 
 Does sunflower butter work in "peanut butter" cookies? Absolutely. The taste is very close, and texture is spot on. This recipe tends toward the sandy end of the spectrum. If you prefer a moister, chewier peanut butter cookie, simply use half brown sugar and half white. Brown sugar is hygroscopic - it tends to retain moisture from the atmosphere.
 
+<div class="recipe-card">
 <strong>Sunflower Butter Cookies (Like Peanut Butter Cookies for the peanut-allergic)</strong>
 <em>Vegetarian and kosher</em>
 <em>Yields 15 big cookies </em>
@@ -35,3 +36,4 @@ Does sunflower butter work in "peanut butter" cookies? Absolutely. The taste is 
 	<li>Whisk together the flour, salt (rubbing a little to break up large crystals), and baking powder. Add slowly to the running mixer. Mix until well combined, about 1 more minute.</li>
 	<li>Chill the dough for at least 30 minutes. Preheat oven to 375. Line baking sheets with parchment or silpats. Dish dough out into approximately 2-tablespoon balls. Flatten, then use the tines of a fork to make the traditional criss-cross pattern. Bake about 12 minutes until lightly browned. Cool on a rack for at least 10 minutes, then enjoy.</li>
 </ol>
+</div>

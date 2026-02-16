@@ -20,6 +20,7 @@ The most traditional way of making kinoko gohan involves making a separate dashi
 
 Although the dish is primarily about fresh mushrooms, I also use a few dried shiitake to bump up the umami factor. If you've been around the site for awhile, you'll know I find a <strong>lot of use</strong> for these <a href="/2009/04/soba-in-shoyu-broth-with-asparagus-leeks-and-tofu-recipe/" target="_blank">little</a> <a href="/2010/09/shiitake-and-morel-ravioli-in-brodo-with-gremolata-recipe/" target="_blank">power-packs</a> of <a href="/2011/09/umami-packed-vegetarian-broth-recipe-also-vegan/">flavor</a>. I also like to add a bit of toasted sesame oil to round things out.
 
+<div class="recipe-card">
 <strong>Kinoko Gohan (Japanese Mushroom Rice)</strong>
 <em>Vegetarian, vegan, kosher and potentially gluten free</em>
 <em>Serves at least 4</em>
@@ -41,4 +42,5 @@ Although the dish is primarily about fresh mushrooms, I also use a few dried shi
 	<li>Rinse the rice thoroughly and add to the pot or rice cooker. Measure the mushroom liquid and add enough water to it to make 2 1/2 cups total. If using the rice cooker, add the liquid and cook on a normal cycle. If using a pot, add the liquid to the pot, bring to a boil, lower to a bare simmer, cover, and cook until the liquid is completely absorbed, about 20 minutes.</li>
 	<li>When the rice is done cooking, turn off the heat and, if possible, let stand 10 minutes. Fold in the mushrooms, toasted sesame oil, and salt to taste, then serve hot or warm.</li>
 </ol>
+</div>
 </div>

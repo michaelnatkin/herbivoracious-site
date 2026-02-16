@@ -20,6 +20,7 @@ I've only made this once so far, so I haven't tried doing it without cooking the
 
 With pureed soups, the difference between good and great is in achieving a <strong>velvety</strong> texture. Run your blender for a good long time so that it has maximum opportunity to reduce the particle size. Then use first a coarse sieve, than your finest sieve to strain out the remaining fibers. Or better yet, buy yourself this <a href="http://www.amazon.com/dp/B002JPJI7K/?tag=poeticlicen07-20">badass professional fine chinois</a> - I got one and love it.
 
+<div class="recipe-card">
 <strong>Cold Sorrel and Coconut Milk Soup</strong>
 Vegetarian, vegan, gluten free and kosher
 Serves 2 (easily multiplied), or more as an amuse-bouche sized serving
@@ -43,3 +44,4 @@ Serves 2 (easily multiplied), or more as an amuse-bouche sized serving
 </ol>
 </div>
 &nbsp;
+</div>

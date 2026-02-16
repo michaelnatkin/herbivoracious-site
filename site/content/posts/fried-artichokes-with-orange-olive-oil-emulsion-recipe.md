@@ -24,6 +24,7 @@ Don't even think about doing this with canned artichoke hearts, it will be terri
 
 <a href="/images/2012/12/Fried-Artichoke-Trimmed.jpg"><img class="alignnone  wp-image-3324" title="Fried Artichoke Trimmed" src="/images/2012/12/Fried-Artichoke-Trimmed-400x265.jpg" alt="" width="300" height="199" /></a><a href="/images/2012/12/Quartered.jpg"><img class="alignnone  wp-image-3325" title="Artichoke, Trimmed and Quartered" src="/images/2012/12/Quartered-400x265.jpg" alt="" width="300" /></a>
 
+<div class="recipe-card">
 <strong>Fried Artichokes with Orange-Olive Oil Emulsion</strong>
 <em>Vegetarian, vegan, gluten free and kosher</em>
 <em> Serves 4 as an appetizer</em>
@@ -52,3 +53,4 @@ Don't even think about doing this with canned artichoke hearts, it will be terri
 	<li>Line a plate with paper towels. If shallow frying, put about 1/8" oil in a skillet over medium-high flame. If deep frying, set up a deep fryer or medium saucepan with enough oil to fully cover the quartered artichokes and heat to 355 F. Fry the artichokes, turning occasionaly, until really well browned. Remove with tongs to the paper towels, season with Maldon salt, and allow to drain for a few seconds.</li>
 	<li>Serve very hot, either plated with the Orange-Olive Oil Emulsion or passing that on the side.</li>
 </ol>
+</div>

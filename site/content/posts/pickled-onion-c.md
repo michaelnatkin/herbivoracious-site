@@ -21,6 +21,7 @@ What do I do with these allegedly delicious alliums? The possibilities are numer
 
 I like to add a little bit of seasoning in with the onions depending on my mood. My most recent batch had a 1/2 t. of <a type="amzn">fennel pollen</a> in it which is amazing.
 
+<div class="recipe-card">
 <strong>Pickled Onions</strong>
 <em>Yields about 1 cup
 Vegetarian, vegan, and gluten-free</em>
@@ -38,3 +39,4 @@ Vegetarian, vegan, and gluten-free</em>
 	<li>Refrigerate. I don't know officially how long they are safe to keep but I use them for at least a few days.</li>
 </ol>
 &nbsp;
+</div>

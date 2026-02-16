@@ -18,7 +18,8 @@ I developed this recipe for Hinode, which brings in a lovely black rice from Tha
 
 <a href="/images/2012/11/Black-Rice-Fritter-Ingredients.jpg"><img class="alignleft  wp-image-3341" title="Black Rice Fritter Ingredients" src="/images/2012/11/Black-Rice-Fritter-Ingredients-400x265.jpg" alt="" width="320" height="212" /></a>The recipe calls for <a href="http://www.amazon.com/dp/B003QI7QDM/?tag=poeticlicen07-20" target="_blank">smoked paprika</a>, which is one of my favorite ways to incorporate complex, smoky flavors into meatless meals. If you don't have it, you can omit it, or substitute a few pinches of plain paprika and cayenne, but I really recommend picking up the smoked Spanish kind if at all possible.
 
-<br clear="both" /><strong>Hinode Black Rice Fritters with Chimichurri</strong>
+<br clear="both" /><div class="recipe-card">
+<strong>Hinode Black Rice Fritters with Chimichurri</strong>
 <em>Vegetarian and gluten free</em>
 <em> Yields 12 fritters, serving 4 as an entree</em>
 
@@ -55,3 +56,4 @@ I developed this recipe for Hinode, which brings in a lovely black rice from Tha
 	<li>Line a plate with paper towels. Place a large, heavy skillet over medium high heat. Add a tablespoon of vegetable oil and swirl it around the pan. Take about 1/4 cup of the fritter mixture, place it in the pan and press down to form a pancake, about 5" in diameter. Fry until golden brown one side, about 2 minutes, then flip and cook until the other side is golden brown. Remove to the paper towel-lined plate and add a few grains of flaky salt. Repeat for the remaining fritters, working in batches so as not to crowd the pan.</li>
 	<li>Serve hot with the chimichurri sauce on the side.</li>
 </ol>
+</div>

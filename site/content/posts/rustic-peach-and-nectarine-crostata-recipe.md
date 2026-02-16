@@ -27,6 +27,7 @@ Now let's have a word with you guys who are afraid of making pastry crusts. I've
 </ul>
 Our whole goal here is to get well distributed pockets of butter that will separate layers of the dough, while minimizing gluten development.
 
+<div class="recipe-card">
 <strong>Rustic Peach and Nectarine Crostata</strong>
 <em>Vegetarian; not vegan nor gluten-free
 Serves 4-6</em>
@@ -58,3 +59,4 @@ Serves 4-6</em>
  	<li>Bake for about 40-50 minutes, until the crust is nicely golden brown.</li>
  	<li>Slice and serve. Probably with vanilla ice cream.</li>
 </ol>
+</div>

@@ -18,6 +18,7 @@ If you have the ingredients on hand and use canned chickpeas, you can make this 
 
 The mushrooms add a little textural counterpoint without being a main focus of the dish. You can certainly omit them or use a different vegetable to suit your needs.
 
+<div class="recipe-card">
 <strong>Chana Masala with Mushrooms</strong>
 <em>Vegetarian, vegan if you use vegetable oil, and gluten-free
 Serves 2 as a main course with basmati rice or 4 as part of a larger Indian meal
@@ -51,3 +52,4 @@ Serves 2 as a main course with basmati rice or 4 as part of a larger Indian meal
 	<li>Cook uncovered over a medium-low flame for about 15 minutes, until the sauce begins to thicken. Taste and adjust seasoning. Does it need more salt? More lemon juice? A bit more cayenne?</li>
 	<li>Finish for the texture you want - you can see how I like it in the picture above. Then in a separate skillet, heat the last tablespoon of oil over a high flame and fry the mustard seeds until they pop, just a few seconds. This is called tempering, and it is a great way to add a final layer of flavor.  Toss the contents of that skillet over the chickpeas and serve, with the cilantro for garnish.</li>
 </ol>
+</div>

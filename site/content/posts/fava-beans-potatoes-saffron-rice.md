@@ -20,6 +20,7 @@ For this dinner I paired them with some crispy sauteed potatoes, feta cheese and
 
 I've noticed that a lot of Americans have in the back of their mind that they shouldn't serve potatoes and rice together because they are both "starches". It is common practice in much of the world though. Think of aloo gobi (potato and cauliflower curry) with rice for example. Personally I think they can be delicious together.
 
+<div class="recipe-card">
 <strong>Fava Beans, Potatoes and Saffron Rice</strong>
 <em>Vegetarian and gluten-free; vegan if you omit the feta cheese
 Serves 4 as a main course</em>
@@ -43,3 +44,4 @@ Serves 4 as a main course</em>
 	<li>In a large skillet, heat the olive oil over a medium-high flame, and fry the potatoes in a single layer, tossing occasionally until tender, crispy, and golden brown. Add salt as needed. Add the garlic and cumin powder and cook for one more minute.</li>
 	<li>To serve, fill each bowl with 1 cup of rice, and top with 1/4 of the beans and 1/4 of the potatoes. Drizzle with a bit more of the extra-virgin olive oil if you like. Top with the feta and herbs.</li>
 </ol>
+</div>

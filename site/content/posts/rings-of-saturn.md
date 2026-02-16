@@ -22,6 +22,7 @@ The marionberry sauce was subtly spiked with rosewater, black pepper, and cardam
 
 I didn't actually measure anything for this recipe, but I'll give you a rough guide in case you want to make something similar. If you can't find a Saturn peach, you could use half of a regular peach or nectarine, cut in half along the equator. You only need to peel the peach only if the skin is kind of tough. I've offered other suggested substitutions in the body of the recipe.
 
+<div class="recipe-card">
 <strong>Rings Of Saturn On Challah French Toast</strong>
 <em>Serves 4
 Vegetarian; not vegan or gluten-free</em>
@@ -71,3 +72,4 @@ This sauce calls for xanthan gum. If you don't have it, you can do without, the 
 	<li>Make two concentric rings each of the sauces, either with a squeeze botttle or spoon, or brush the plate.</li>
 	<li>Top the peach with a scoop of the ice cream and push it down into the cylinder where you removed the pit.</li>
 </ol>
+</div>

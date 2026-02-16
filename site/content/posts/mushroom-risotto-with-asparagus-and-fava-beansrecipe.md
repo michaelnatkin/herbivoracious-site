@@ -24,6 +24,7 @@ There are two schools of thought on the ideal texture for risotto. The classic V
 (By the way, if you are in need of a pressure cooker, I love this <a href="http://amzn.to/l29qzN" target="_blank">electric Cuisinart model</a>, and Amazon has it for an excellent price at the moment. Besides risotto, the way it cooks beans has changed my world.)
 
 Whichever way you make risotto, I highly recommend finishing with <em>mantecare. </em>This just means mixing in some butter and parmigiano at the end to add a final dose of creaminess - but as with everything else it sounds a lot more romantic in Italian.
+<div class="recipe-card">
 <div><strong>Mushroom Risotto with Asparagus and Fava Beans
 </strong><em>Gluten-free / Serves 4</em></div>
 <ul>
@@ -58,3 +59,4 @@ Whichever way you make risotto, I highly recommend finishing with <em>mantecare
 	<li>Same as above.</li>
 </ol>
 <span style="text-decoration: underline;"><em> </em></span>
+</div>

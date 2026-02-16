@@ -13,6 +13,7 @@ cover:
 
 I have to make this every year when fresh figs appear. If you have a blowtorch, it takes all of 30 seconds, looks really cool, and tastes great. Also delicious served over vanilla ice cream.
 
+<div class="recipe-card">
 <strong>Fig Brulee with Balsamic Vinegar</strong><span style="font-size: 0.8em;"><em>
 Serves 1 (multiply as needed)
 Vegetarian, Vegan, and Gluten free</em></span>
@@ -27,3 +28,4 @@ Variations:
 
 Serve on top of a scoop of vanilla ice cream
 Serve with a few thin slices of a blue cheese or a triple-cream soft cheese
+</div>

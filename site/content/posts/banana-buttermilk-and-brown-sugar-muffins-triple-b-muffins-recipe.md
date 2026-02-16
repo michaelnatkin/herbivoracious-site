@@ -18,6 +18,7 @@ Usually when I bake with bananas I either mash them or cube them and caramelize 
 
 I also tossed in a bit of fresh ginger for some extra complexity. You can certainly omit that or use 1/4 teaspoon of dried ginger if you prefer a more standard baking flavor.
 
+<div class="recipe-card">
 <strong>Banana, Buttermilk and Brown Sugar Muffins</strong>
 <em>Vegetarian and kosher</em>
 <em> Yields 12 muffins</em>
@@ -54,4 +55,5 @@ Drizzle ingredients:
 	<li>Spoon about 1/2 teaspoon of the drizzle over each muffin.</li>
 	<li>Bake until golden brown, about 25 minutes.</li>
 </ol>
+</div>
 </div>

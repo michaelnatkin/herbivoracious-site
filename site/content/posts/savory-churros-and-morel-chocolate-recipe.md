@@ -23,6 +23,7 @@ I still used some cocoa powder in the soup as well. The combination is pleasing.
 
 For the final dish, I plan to froth the soup, serve it in a demitasse and use a star-shaped tip for the churros. Here is the recipe for the soup, which would also make a fine first course without the churros. It is rich, so plan on only about 1/2 cup per person.
 
+<div class="recipe-card">
 <strong>Morel "Hot Chocolate" Soup</strong>
 <em>Serves 4 as a tiny appetizer, preferably with churros rolled in pimenton and cinnamon
 Vegetarian and gluten-free; not vegan</em>
@@ -41,3 +42,4 @@ Vegetarian and gluten-free; not vegan</em>
 	<li>Taste and adjust the salt.</li>
 	<li>To serve, reheat and then carefully froth with a handheld blender.</li>
 </ol>
+</div>

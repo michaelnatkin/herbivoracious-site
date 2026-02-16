@@ -24,6 +24,7 @@ The idea for this dressing was based on wanting to find a simple first course to
 
 Oh, and don't feel like you have to plate this salad all fancy like in the top photo. Your guests will enjoy it just as much if you do it family style.
 
+<div class="recipe-card">
 <strong>Tomato and Nectarine Salad with a Korean Dressing
 </strong><em>Vegetarian, vegan and gluten free</em>
 <em>Serves 4</em>
@@ -56,4 +57,5 @@ Oh, and don't feel like you have to plate this salad all fancy like in the top p
 	<li>Cut the nectarines into segments. If they are clingstones, you are going to lose some of the flesh, but you can gnaw on the pit for a cook's treat.</li>
 	<li>Plate the salad as you see in either of the two photographs. Give the dressing a whisk and drizzle it over the top, being careful not to overdress. Finish with a few scattered flakes of sea salt and serve.</li>
 </ol>
+</div>
 </div>

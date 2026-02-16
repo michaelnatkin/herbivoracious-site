@@ -24,6 +24,7 @@ The first part of cooking the soup itself is to make a sofrito - onions, tomatoe
 
 By the way, if you live near Seattle, I'm cooking a dinner on Oct. 30 at Cafe Flora to support City Fruit - a fantastic organization that gather fruit from trees around the city that would otherwise go to waste. Learn more and register <a href="http://cityfruit.org/ai1ec_event/michael-natkin-and-cafe-flora-serve-dinner-to-benefit-city-fruit/?instance_id=21153">here</a>. And thanks to Seattle Parks Foundation and City People's Garden Store who have donated scholarship seats to this event!
 
+<div class="recipe-card">
 <strong>Red Winter Minestrone with Winter Greens Pesto</strong>
 <em>Vegetarian, vegan, gluten free, kosher, and suitable for space use if pureed, gelled, and vacuum-packed
 Serves 4 moderately as dinner with salad and bread</em>
@@ -68,3 +69,4 @@ Serves 4 moderately as dinner with salad and bread</em>
 	<li>Add the remaining 2 tablespoons of olive oil, and the leeks, carrot, turnips and beets. Raise heat to medium-high again. Cook, stirring occasionally, for 5 minutes. Add the white wine and deglaze (scrape) the bottom of the pot with your spatula to dislodge any delicious browned bits. Cook for 2 minutes to boil off most of the alcohol. Add the green beans, white beans, and 3 cups of the bean cooking liquid and 2 cups of water (or, failing that, 5 cups of water). Bring to a boil, reduce to a simmer, and cook for a few more minutes. Taste and adjust seasoning. It will certainly need more salt, and you might also like a squeeze of lemon juice.</li>
 	<li>Divide among heated bowls and serve with a generous dollop of the winter greens pesto, which the diner can stir in.</li>
 </ol>
+</div>

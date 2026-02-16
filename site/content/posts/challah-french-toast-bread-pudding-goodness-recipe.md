@@ -21,6 +21,7 @@ Proportions in the recipe below are approximate, because it really depends on ho
 
 Oh, and because challah is typically braided, it is hard to remove all the crust without wasting too much. Just do the best you can, a little crust in the there won't bother anyone.
 
+<div class="recipe-card">
 <strong>Challah French Toast Bread Pudding
 </strong><em>Serves 4
 Vegetarian; not vegan or gluten-free</em>
@@ -42,3 +43,4 @@ Vegetarian; not vegan or gluten-free</em>
 	<li>Preheat the oven to 375 F. Give the bread mixture one more toss with a light touch, trying to "fluff" it up a bit. Bake until lightly golden brown and a toothpick inserted in several spots comes out dry (an internal temperature of about 190 F. is good). This will probably take about 45 minutes.</li>
 	<li>Optionally sprinkle with powdered sugar and serve. Maple syrup is good too.</li>
 </ol>
+</div>

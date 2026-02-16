@@ -24,6 +24,7 @@ If you don't have basmati, another long grain rice would still be good. I wouldn
 
 (* - Offer to eat hat valid only on January 1st, 2317. And if I live that long, offer to eat hat applies only to properly refrigerated <strong>edible tofu hat</strong>.)
 
+<div class="recipe-card">
 <strong>Ginger and Black Pepper Rice Pilaf
 </strong>Vegetarian, vegan (with substitution below), gluten free and kosher
 Serves 4 as a side dish
@@ -43,4 +44,5 @@ Serves 4 as a side dish
 	<li>Add the ginger, salt, cumin, cinnamon and cayenne and stir and cook for 30 seconds. Remove from heat. Mix in the black pepper.</li>
 	<li>Fold the seasoning mixture into the rice. Taste and adjust the seasoning. It might need more salt or more black pepper.</li>
 </ol>
+</div>
 </div>

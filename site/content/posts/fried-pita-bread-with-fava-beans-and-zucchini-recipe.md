@@ -20,6 +20,7 @@ If you don't have harissa on hand, let me commend <a href="http://chefshop.com/
 
 And from the way-back machine, here's a very different take on pan-fried pita, with <a href="/2011/04/warm-grapes-toasted-pita-bread-and-ricotta-salata-recipe/">warm grapes and ricotta salata</a>.
 
+<div class="recipe-card">
 <strong>Fried Pita Bread with Fava Beans and Zucchini</strong>
 <em>Vegetarian and vegan</em>
 <em> Serves 1 as a hearty one-pot meal, multiply as needed</em>
@@ -42,3 +43,4 @@ And from the way-back machine, here's a very different take on pan-fried pita, w
 	<li>Return the bread to the skillet and toss through. Transfer to serving bowl.</li>
 	<li>Garnish with plenty of additional good olive oil, the cherry tomatoes, parsley, and the zucchini blossoms if using.</li>
 </ol>
+</div>

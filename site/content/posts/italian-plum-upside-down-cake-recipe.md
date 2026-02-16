@@ -22,6 +22,7 @@ For the caramel that the plums bathe in, I used muscovado sugar, a richly flavor
 
 Gee, it looks like Martha Rose Shulman and I were on <a href="http://www.nytimes.com/2013/09/09/health/quick-breads-that-are-sweet-savory-and-whole-wheat.html?_r=0" target="_blank">a similar page</a>, including the olive oil! Her version looks terrific too, with some whole wheat in the cake, and pluots put on top instead of the bottom.
 
+<div class="recipe-card">
 <strong>Italian Plum Upside Down Cake</strong>
 <em>Vegetarian and kosher; serves 12 as a breakfast pastry</em>
 <ul>
@@ -49,3 +50,4 @@ Gee, it looks like Martha Rose Shulman and I were on <a href="http://www.nytimes
 	<li>Pour the butter and brown sugar mixture into the prepared cake pan and spread around as evenly as possible. Arrange the plums, cut side down, into concentric circles around the bottom of the pan. You can use more than I show in the picture. Distribute the batter over the plums. It is a fairly thick batter, so you'll need to gently spread it around with a spatula without disturbing the arrangement of the plums.</li>
 	<li>Place the cake pan on a baking sheet and bake until golden brown and a toothpick inserted in the center comes out clean, about 35 - 40 minutes. Transfer to a cooling rack. After about 30 minutes, you can transfer the cake to a serving platter. With a regular cake pan, work a knife around the sides, then place the platter over the top of the cake pan and quickly and confidently invert it and give the bottom a rap to unmold. If you are using a springform pan, you can just unmold it, then invert and remove the bottom to reveal the plums.</li>
 </ol>
+</div>

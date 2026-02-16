@@ -25,6 +25,7 @@ Be sure not to apply the garnish of tomato skin and nori until the very last sec
 
 If you haven't done it before, La Fuji Mama has a good introduction on how to <a href="http://www.lafujimama.com/2010/05/sushi-rice-the-secret-behind-delicious-sushi/" target="_blank">prepare sushi rice</a>.
 
+<div class="recipe-card">
 <strong>Tomato Sushi</strong>
 <em>Vegetarian, Vegan, and Gluten-Free</em>
 <em>Makes 3 pieces</em>
@@ -45,3 +46,4 @@ Special equipment: blowtorch (optional)
 	<li>Cut the tomato into segments about 1 1/4" wide. Scoop out and reserve the seed pockets (just seeds and gel, no white parts). Lay each tomato segment on your board, outside down, and carefully cut parallel to the board, leaving just a 1/8" thick piece of flesh. Trim the ends.</li>
 	<li>Form the sushi rice into three small, flattened balls. Dab each ball with a tiny amount of wasabi. Place one tomato segment over each ball of rice and brush lightly with oil. Blowtorch for about 5 seconds each, just long enough to darken a small area. Top each piece with about 1/4 teaspoon of the tomato seed gel, a few strips of nori, a few strips of tomato skin and a few grains of the black sea salt. Serve immediately (before the tomato skin and nori begin to soften).</li>
 </ol>
+</div>

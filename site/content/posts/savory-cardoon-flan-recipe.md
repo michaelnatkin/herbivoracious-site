@@ -24,6 +24,7 @@ Cardoons are often served in a gratin with béchamel, or battered and fried (whi
 
 I'll be back next week with one more dish made from my Oxbow box - a winter minestrone that got its wires crossed with borscht.
 
+<div class="recipe-card">
 <strong>Savory Cardoon Flan
 </strong><em>Vegetarian, gluten free and kosher
 Makes 4 individual servings</em>
@@ -46,3 +47,4 @@ Makes 4 individual servings</em>
 	<li>Bring a kettle of water to a boil. Beat the eggs in a medium bowl, then whisk continuously while adding the cream mixture. Place the ramekins in a casserole to hold the water bath. Divide the custard among the 4 prepared ramekins and place on a middle rack of the oven. Pour the boiling water into the casserole about half-way up the side of the ramekins.</li>
 	<li>Bake until just set; a toothpick inserted in the center should come out clean, about 25 minutes. Carefully remove the ramekins with tongs (you can take the water bath out later when it has cooled, I don't want you splashing boiling water on yourself.) Cool ramekins on a rack for about 15 minutes, then use a knife to release the custard and invert onto serving plates.</li>
 </ol>
+</div>

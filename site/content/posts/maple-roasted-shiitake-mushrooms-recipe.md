@@ -26,6 +26,7 @@ By the way, the main factor in whether eggs will peel cleanly is age. As eggs ge
 
 Thanks, Uncle Irv!
 
+<div class="recipe-card">
 <strong>Maple-Roasted Shiitake Mushrooms</strong>
 <em>Serves 4 as part of an entree - could also be used as a breakfast item or side dish</em>
 <em> Vegetarian, vegan, gluten-free and kosher</em>
@@ -38,3 +39,4 @@ Thanks, Uncle Irv!
 <ol>
 	<li>Preheat oven to 400 degrees. Toss the mushroom caps with the syrup, salt and paprika. Spread in a single layer on a baking sheet lined with a <a href="http://www.amazon.com/mn/search/?_encoding=UTF8&amp;keywords=silpat&amp;tag=poeticlicen07-20&amp;linkCode=ur2&amp;qid=1335724172&amp;camp=1789&amp;creative=390957&amp;rh=i%3Aaps%2Ck%3Asilpat" target="_blank">silicone mat</a> or parchment paper. Roast, turning a couple of times, until tender, glazed, and wrinkled. Taste and adjust seasoning. Serve hot.</li>
 </ol>
+</div>

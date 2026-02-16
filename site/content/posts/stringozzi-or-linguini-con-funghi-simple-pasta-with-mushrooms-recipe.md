@@ -22,6 +22,7 @@ This dish is super simple to make. The critical step is in the final minute of c
 
 If you don't want to open a bottle of white wine for this dish, dry vermouth works well. It has a different flavor, but one I find appealing. I keep a bottle on hand at all times. Gotta be able to <strong>make a martini</strong> anyhow, right?
 
+<div class="recipe-card">
 <strong>Stringozzi (or linguini) con funghi (Simple pasta with mushrooms)</strong>
 <em>Vegetarian; vegan if you omit the cheese and use olive oil instead of butter
 Serves 6 if made with stringozzi, 4 otherwise</em>
@@ -45,3 +46,4 @@ Serves 6 if made with stringozzi, 4 otherwise</em>
 	<li>Add the remaining tablespoon of butter to the mushrooms and stir. Add the pasta to the mushrooms and mix thoroughly, being sure to scrape the browned bits from the bottom of the pan in. Add the pasta water, a little at a time until the pasta is quite lightly sauced, but there is a little sheen. You probably won't need all of the pasta water.</li>
 	<li>Serve the pasta family style in a big bowl, or plate individually. Be sure and get all those delicious mushrooms onto the pasta. Finish with parmigiano-reggiano, fresh ground black pepper, and lots of flat-leaf parsley.</li>
 </ol>
+</div>

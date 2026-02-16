@@ -24,6 +24,7 @@ Joyce Goldstein's wonderful book <a type="amzn" href="http://www.amazon.com/dp/B
 
 The exact method is below, and if you are looking for something to serve it with, try it with these <a href="/2010/07/chickpea-cakes-recipe/" target="_blank">chickpea cakes</a> or with <a href="/2008/01/couscous-with-s/" target="_blank">acorn squash and a yogurt sauce</a>.
 
+<div class="recipe-card">
 <strong>Fluffy Couscous</strong>
 <em>Serves 6
 Vegetarian and Vegan
@@ -41,3 +42,4 @@ For a delicious and simple couscous salad recipe, make the the couscous as descr
 
 <a href="/images/2007/11/07/spicychickpeastew.jpg" rel="lightbox"><img title="Spicy Chickpea Stew Over Couscous" src="/images/2007-small/11/07/spicychickpeastew.jpg" alt="Spicy Chickpea Stew Over CouscousSpicy Chickpea Stew Over Couscous" width="455" height="302" border="0" /></a>
 <span style="font-size: 0.8em;">Spicy Chickpea Stew Over Couscous</span>
+</div>

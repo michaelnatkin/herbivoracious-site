@@ -25,6 +25,7 @@ This recipe will come out much better if you cook your own beans at home, whethe
 
 Try these beans as an alternative to refried beans with any Mexican meal. They would go great with any of these dishes: <a href="/2009/06/arroz-verde-mexican-rice-rethought-recipe/" target="_blank">Arroz Verde</a>, <a href="/2009/12/arroz-a-la-mexicana-mexican-tomato-rice-recipe/" target="_blank">Arroz a la Mexicana</a>, <a href="/2010/05/grilled-tofu-and-pepper-vegetarian-tacos-recipe/" target="_blank">Grilled Pepper and Tofu Tacos</a>, <a href="/2009/02/swiss-chard-enchiladas-in-a-tomatillo-sauce-recipe/" target="_blank">Swiss Chard, Onion and Monterey Jack Enchiladas</a>, <a href="/2008/09/achiote-rubbed/" target="_blank">Achiote-Rubbed Butternut Squash Tacos</a>, <a href="/2009/11/bocoles-masa-and-black-bean-cakes-with-spicy-yams-recipe/" target="_blank">Bocoles</a>, and <a href="/2010/02/nuevo-leon-style-tamales-adapted-to-be-vegetarian-recipe/" target="_self">Nuevo León Style Tamales</a>.
 
+<div class="recipe-card">
 <strong>Vegetarian Frijoles Charros - Mexican Cowboy Beans with Smoked Onion</strong>
 <em>Serves 4 / Vegetarian, vegan, and gluten-free</em>
 <ul>
@@ -44,3 +45,4 @@ Try these beans as an alternative to refried beans with any Mexican meal. They w
 	<li>Add the oil to the same skillet, over medium-high heat. When the oil is shimmering, add the crushed chiles, smoked onion, garlic and salt and cook, stirring occasionally until the onion is softened, about 3 minutes. Add the tomato paste and cook until it darkens, about 2 minutes.</li>
 	<li>Add the crushed tomato, the beans, and 1 cup of the bean liquid. Bring to a simmer and reduce heat to maintain. Cook for about 15 minutes, then taste and adjust seasoning. Add more of the bean liquid to find the desired brothy consistency. Serve hot.</li>
 </ol>
+</div>

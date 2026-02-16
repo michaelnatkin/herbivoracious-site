@@ -22,6 +22,7 @@ The dry-roasting method for preparing the tomatillo, jalapeno, garlic, and shall
 
 Jalapenos vary widely in their heat level, so be sure and taste before committing on how much to use.
 
+<div class="recipe-card">
 <strong>Avocado and Tomatillo Salsa</strong>
 <em>Vegetarian, vegan, and gluten-free</em>
 <ul>
@@ -43,3 +44,4 @@ Jalapenos vary widely in their heat level, so be sure and taste before committin
 </ol>
 </div>
 &nbsp;
+</div>

@@ -21,6 +21,7 @@ The lentils should be either lentils du Puy or black lentils. Both of these vari
 
 Don't be fooled by the picture - that isn't the ideal bread to serve this on! I was hampered by the lack of a proper bread knife in the kitchen I was using; it would only crush this baguette when I tried to cut it so I had to improvise by cutting horizontally.
 
+<div class="recipe-card">
 <strong>Crostini with Truffled Cheese, Lentils Du Puy and Apples
 </strong><em>Vegetarian / Makes 8 crostini</em>
 <ul>
@@ -41,3 +42,4 @@ Don't be fooled by the picture - that isn't the ideal bread to serve this on! I 
 	<li>Top each crostini with a spoonful of lentils. Don't pile them so high that it will be too hard to eat. Add a smaller spoonful of apples and a little pinch of the microgreens, and serve.</li>
 </ol>
 &nbsp;
+</div>

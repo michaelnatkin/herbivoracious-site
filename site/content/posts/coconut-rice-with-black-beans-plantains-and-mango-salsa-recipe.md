@@ -21,6 +21,7 @@ The coconut rice reheats really well, so you can easily make it the day before a
 
 Plantains, of course, are <strong>in the banana family</strong> but are less sweet and more starchy. They are popular in much of the Caribbean and West Africa, as well as Guatemala. In this recipe I simply pan fry them to produce a delicious, slightly caramelized surface and a tender, creamy interior.
 
+<div class="recipe-card">
 <strong>Coconut Rice with Black Beans, Plantains, and Mango Salsa</strong>
 <em>Vegetarian, vegan, and gluten-free</em>
 
@@ -56,3 +57,4 @@ Plantains, of course, are <strong>in the banana family</strong> but are less swe
 	<li><span style="text-decoration: underline;"><em>To complete the dish:</em></span> Warm your serving bowls or plates. Heat the oil in a large skillet over medium-high heat. When it is shimmering, add the plantains in a single layer. Fry, until brown on one side, about 3 minutes. Flip and cook on the other side until browned and tender, about two more minutes. Sprinkle with Kosher salt.</li>
 	<li>To serve, you may either divide the rice among four bowls and top with the plantains, beans, avocado, mango, cilantro and sauce, or serve all of the ingredients separately and let diners make their own. Pass the lime quarters to squeeze over the finished plate as desired.</li>
 </ol>
+</div>

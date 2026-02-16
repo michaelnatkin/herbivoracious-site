@@ -22,6 +22,7 @@ Speaking of the dressing, I made it with a nice extra-virgin olive oil, but it w
 
 To turn this salad into a light entree, you could add a dollop of <strong>Greek yogurt, a piece of ripe cheese, or a fried egg</strong>.
 
+<div class="recipe-card">
 <strong>"Caviar" Lentil Salad with Arugula, Crispy Shallots and Roasted Garlic</strong>
 <em>Vegetarian, vegan,and kosher</em>
 <em>Serves 4</em>
@@ -46,3 +47,4 @@ To turn this salad into a light entree, you could add a dollop of <strong>Greek 
 	<li><span style="line-height: 13px;">Whisk together 6 tablespoons of the olive oil with 2 tablespoons of sherry vinegar and 1/4 teaspoon salt. Mix two-thirds of the dressing into the lentils. Taste and adjust seasoning; they will probably need more salt.</span></li>
 	<li><span style="line-height: 13px;">To serve: toast the bread and spread each piece with a generous portion of the roasted garlic. Divide the (room temperature) lentils among 4 serving plates. Toss the arugula, cherry tomatoes and crispy shallots with the remaining dressing and pile atop the lentils. Put a piece of the bread on each plate, finish with a few flakes of sea salt and grinds of blacks pepper and serve immediately (before the arugula wilts).</span></li>
 </ol>
+</div>

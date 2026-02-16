@@ -18,6 +18,7 @@ When you think of wild mushrooms, you might be inclined towards European dishes:
 
 And in case you get carried away like I do, here are a few more of my favorite chanterelle recipes: <a href="/2008/10/farro-with-chanterelles-apples-apples-and-apples/" target="_blank" rel="noopener">Farro with Chanterelles and Apples</a>, <a href="/2009/09/potatoes-chanterelles-shallots-in-red-wine-sauce-recipe/" target="_blank" rel="noopener">Potatoes, Chanterelles, Shallots in Red Wine Sauce</a> and <a href="/2010/12/baked-eggs-with-chanterelles-and-chard-recipe/" target="_blank" rel="noopener">Baked Eggs with Chanterelles and Chard</a>.
 
+<div class="recipe-card">
 <strong>Chanterelle Tostadas</strong>
 <em>Makes 4 small tostadas, which would be a light main course - double this if you aren't serving much else; multiply by 1.5 if using larger tostada shells</em>
 <em>Vegetarian, vegan, gluten free and kosher</em>
@@ -41,3 +42,4 @@ And in case you get carried away like I do, here are a few more of my favorite c
  	<li>Arrange the sauteed mushrooms, tomatoes and radishes on top of the beans.</li>
  	<li>Garnish with the jalapeno, sweet onion, cilantro, and finishing salt. Serve hot.</li>
 </ol>
+</div>

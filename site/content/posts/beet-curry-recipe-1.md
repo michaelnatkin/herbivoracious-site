@@ -21,6 +21,7 @@ If your beets come with good looking greens, go ahead and wash them, chop them, 
 
 This is a dry style curry, meaning it doesn't end up with a sauce, though the beets are moist. Serve this up with basmati rice, <a href="/2009/09/cucumber-radish-and-cilantro-raita-recipe/" target="_blank">raita</a>, and <a href="/2009/09/quick-chana-mushroom-masala-chickpea-curry-recipe/" target="_blank">chana mushroom masala</a> for a real feast.
 
+<div class="recipe-card">
 <strong>Beet Curry</strong>
 <em>Vegetarian, vegan and gluten-free</em>
 <em>Serves 4 </em>
@@ -44,3 +45,4 @@ This is a dry style curry, meaning it doesn't end up with a sauce, though the be
 	<li>Add the beets, salt, tamarind paste, and 1 cup of water. Stir. If using the beet greens, rinse them, roughly chop them, and add them on top of the beets.</li>
 	<li>Bring to a boil, reduce to a simmer, and put on a cover. It doesn't have to fit perfectly. Simmer until the beets are very tender, about 20-30 minutes. Remove the lid and simmer off any remaining water (or add more during the cook if needed).  Stir in the garam masala. Taste and adjust seasoning. It may need more salt, tamarind, or cayenne to achieve the flavor that you like. Serve hot.</li>
 </ol>
+</div>

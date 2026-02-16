@@ -20,6 +20,7 @@ The burdock chips are made using the microwave as a dehydrator. You just shave t
 
 If you don't have a ring mold (or biscuit cutter), you could always just layer the ingredients in a bowl; it will still be just as good! Also, this miso salad dressing is delicious on cucumbers or just as a general purpose salad dressing.
 
+<div class="recipe-card">
 <strong>Red Rice and Avocado with Crispy Burdock Chips
 </strong><em>Serves 4
 </em><em>Vegetarian and vegan </em>
@@ -48,3 +49,4 @@ If you don't have a ring mold (or biscuit cutter), you could always just layer t
 	<li>Lay the burdock root out in a single layer on a plate. Microwave on high for 30 seconds at a time until shriveled and crispy, but not burned. It may help to reduce the power for the last couple of cycles. Allow to cool for a minute, then pull up the crisps and set aside.  (If you have any trouble getting the chips to release with this method, just grease the plate with a drop of oil or pan spray first.)</li>
 	<li>To assemble the dish, place a 3 1/2" ring mold (or biscuit cutter) on a plate. Put 1/2 cup of the rice in the mold and press down to form an even, solid layer. Dress with some of the miso dressing. Layer in one quarter of the avocado and more dressing. Add a thin layer of bell pepper and a bit more dressing. Top with a few leaves of the lettuce and 5 of the burdock chips. Sprinkle with a teaspoon of the gomashio. Carefully remove the ring mold and repeat with the remaining plates.</li>
 </ol>
+</div>

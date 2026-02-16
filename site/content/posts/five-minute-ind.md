@@ -15,6 +15,7 @@ cover:
 This cabbage side dish is great to have in your arsenal, because it comes together in 5 minutes flat, and makes a big and flavorful addition to an Indian meal. I break out some variation of it when I'm making a curry, rice and raita and feel the need for one more dish to round out the meal.
 
 Everything in the cabbage family (brassica) goes great with mustard, so mustard seeds are the primary flavoring. If you happen to have mustard oil, you can use that instead of the vegetable oil and reduce the seeds by half. Be sure and have all of chopping done and your spices measured in advance, because once the mustard seeds hit the oil, you have to move quickly.
+<div class="recipe-card">
 <strong>
 Five-Minute Indian-style Cabbage</strong>
 <em>Serves 4 as a side dish
@@ -36,3 +37,4 @@ Vegetarian, vegan, and gluten-free</em>
 	<li>Add the cabbage and salt, and stir-fry until crisp-tender or tender, your preference. Taste and adjust seasoning.</li>
 	<li>Garnish with cilantro and/or lemon juice.</li>
 </ol>
+</div>

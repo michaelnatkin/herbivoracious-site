@@ -27,6 +27,7 @@ Iceberg lettuce? <strong>I love iceberg lettuce. There, I said it.</strong> It i
 
 <strong><em>Be sure and read through this whole recipe first; in the ingredient list I'm calling for several sub-recipes and prepared components that take signficant time.</em></strong>
 
+<div class="recipe-card">
 <strong>Indian Tacos (with Navajo fry bread)</strong>
 <em>Vegetarian</em>
 <em>Serves 4</em>
@@ -71,3 +72,4 @@ Iceberg lettuce? <strong>I love iceberg lettuce. There, I said it.</strong> It i
 <ol>
  	<li>Put a fry bread on each plate, and top with generous portions of beans, the squash saute cheese, onion, tomatoes, lettuce, guacamole and hot sauce. Serve immediately.</li>
 </ol>
+</div>

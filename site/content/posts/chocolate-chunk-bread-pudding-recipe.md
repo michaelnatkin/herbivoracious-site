@@ -20,6 +20,7 @@ Speaking of ratios, I recently read Mark Ruhlman's <a href="http://www.amazon.co
 
 I chose to bake this in one large dish. To avoid overcooking the edges, I do it covered in a relatively slow oven. Individual ramekins would be a fine choice as well; you could even put them in a water bath the way you do for flan or creme brulee.
 
+<div class="recipe-card">
 <strong>Chocolate-chunk Bread Pudding</strong>
 <em>Serves 6-8
 Lacto-ovo vegetarian</em>
@@ -42,3 +43,4 @@ Lacto-ovo vegetarian</em>
 	<li>Cover the pan with tin foil and cook until it reaches an internal temperature in the center of 185 F. For me this took about one hour and fifteen minutes. You can also check for doneness with a fork, and as it gets close, by taking a bite. You want it to be well set, but not overcooked and rubbery.</li>
 	<li>Let rest ten minutes and serve it forth. A bit of whipped cream, a drizzle of heavy cream, or a scoop of vanilla ice cream are all very welcome. If you want to whisk a bit of good bourbon into that cream, don't let me stop you.</li>
 </ol>
+</div>

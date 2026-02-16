@@ -18,6 +18,7 @@ You can easily adapt this basic method, using different vegetables and/or differ
 
 For an easy dinner, just serve this with <a href="/2007/11/recipe-how-to-m/" target="_blank">fluffy couscous</a> and thick Greek yogurt (unless you are gluten free or vegan, respectively).
 
+<div class="recipe-card">
 <strong>Zucchini and Chickpea Tagine</strong>
 Vegetarian, Vegan, and Gluten-Free
 Serves 4
@@ -44,3 +45,4 @@ Serves 4
 </ol>
 <h4><span style="line-height: 13px;">Relevant Sites</span></h4>
 Need to get the word out about your business? Try <a href="http://www.uprinting.com/business-cards.html?utm_source=herbivoracious.com&amp;utm_medium=referral&amp;utm_campaign=hega_bcga_0912" target="_blank">high quality business cards at UPrinting</a>.
+</div>

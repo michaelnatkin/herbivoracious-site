@@ -20,6 +20,7 @@ Like all tacos, the ingredient choices can be flexible. There are just two key p
 
 The version below uses refried beans, potatoes, scrambled eggs, salsa, and minced cilantro &amp; onion. If you want to make a vegan version, try <a href="/2008/09/achiote-rubbed/" target="_blank">butternut squash</a> or <a href="/2010/05/grilled-tofu-and-pepper-vegetarian-tacos-recipe/" target="_blank">tofu</a>.
 
+<div class="recipe-card">
 <strong>Austin-Style Breakfast Tacos</strong>
 <em>Vegetarian, gluten free, and kosher</em>
 <em>Serves 4 generously (3 tacos each)</em>
@@ -36,3 +37,4 @@ The version below uses refried beans, potatoes, scrambled eggs, salsa, and mince
 	<li><span style="line-height: 13px;">Heat the tortillas either on a griddle, or by wrapping in a clean, slightly dampened towel and microwaving for about two minutes until soft.</span></li>
 	<li>For each taco, spread on a couple of tablespoons of refried beans, and top with 4 potato halves. Spoon in some of the scrambled eggs, then a bit of salsa and a sprinkle of cilantro and onions. Serve right away, while still hot, and pass the hot sauce at the table.</li>
 </ol>
+</div>

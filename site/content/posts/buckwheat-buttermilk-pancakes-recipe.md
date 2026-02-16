@@ -22,6 +22,7 @@ My three-year-old and I make these a lot, using a recipe adapted from Joy of Coo
 
 <em></em>
 
+<div class="recipe-card">
 <strong>Buckwheat Buttermilk Pancakes
 </strong><em>Serves 4 generously
 Vegetarian; not vegan or gluten-free</em>
@@ -44,3 +45,4 @@ Vegetarian; not vegan or gluten-free</em>
 	<li>Serve forth with plenty of soft butter and real maple syrup.</li>
 </ol>
 &nbsp;
+</div>

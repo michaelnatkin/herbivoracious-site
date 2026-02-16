@@ -20,6 +20,7 @@ If you want to go a different route, you could do this same recipe with <a href
 
 Baharat is one of those wonderful Middle Eastern spice blends with tremendous complexity. It is sweet, hot, floral and altogether moutwatering. I use one from <a href="http://www.worldspice.com/blends/baharat-turkish" target="_blank">World Spice Merchants</a>. You could also make your own, or feel free to experiment with dukkah or ras el hanout as alternatives.
 
+<div class="recipe-card">
 <strong>Kasha Pilaf with Dates, Pistachios and Baharat
 </strong><em>Vegetarian and gluten free
 Serves 4 as a side dish </em>
@@ -42,4 +43,5 @@ Serves 4 as a side dish </em>
 	<li>Stir in the baharat, black pepper, cayenne and dates. Taste and adjust seasoning.</li>
 	<li>Just before serving, lightly toast the pistachios in dry skillet over medium heat and mix them in. (Don't do this much in advance or they will absorb moisture and lose their crunch.)</li>
 </ol>
+</div>
 </div>

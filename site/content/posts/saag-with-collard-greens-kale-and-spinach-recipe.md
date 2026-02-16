@@ -22,6 +22,7 @@ Two things to keep in mind: (1) Be sure to triple-wash the greens in a bowl, not
 
 Try it and let me know if it doesn't beat the pants off typical restaurant <em>saag paneer</em>!
 
+<div class="recipe-card">
 <strong>Saag with Collard Greens, Kale and Spinach
 </strong><em>Vegetarian and gluten free
 Serves 4 as part of a larger Indian dinner
@@ -55,3 +56,4 @@ For the saag:
 	<li>Add the greens and 1/2 cup water. Toss with tongs, then cover. Reduce heat to medium low. Cook, tossing occasionally, until completely tender and wilted, about 45 minutes, adding a bit more water if needed.</li>
 	<li>Turn off the heat, remove the lid, and allow to cool slightly. Stir in the yogurt. Taste and adjust seasoning. Gently reheat, but don't bring all the way up toward a simmer or the yogurt may break.</li>
 </ol>
+</div>

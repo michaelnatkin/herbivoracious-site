@@ -22,6 +22,7 @@ I've since made it again, elaborating with some <strong>toasted pine nuts for cr
 
 The critical move in making creamy carbonara comes when you dump the pasta into the eggs. You must be ready with your tongs and really go at the mixing, otherwise the eggs will scramble. There is no need to be scared of this step, it is easy to do right as long as you have everything prepared.
 
+<div class="recipe-card">
 <strong>Spicy Mama Lil's Spaghetti alla Carbonara</strong>
 <em>Serves 2 as a hearty entree</em>
 <em>15 minutes active time</em>
@@ -43,3 +44,4 @@ The critical move in making creamy carbonara comes when you dump the pasta into 
 	<li>Pour the entire contents of the skillet into the egg mixture, and working quickly and aggressively with your tongs to prevent the eggs from scrambling, toss the pasta for about 1 minute. Taste and adjust seasoning.</li>
 	<li>Divide the pasta among the serving bowls, garnish with the toasted pine nuts and parsley and serve immediately.</li>
 </ol>
+</div>

@@ -20,6 +20,7 @@ I like to use <a href="http://www.amazon.com/dp/B000LKVH9W/?tag=poeticlicen07-20
 
 As always, I like to finish cooking the pasta with the sauce for the last minute or so. This helps the sauce really cling to the pasta instead of just hanging around in the same general neighborhood but never getting to know each other.
 
+<div class="recipe-card">
 <strong>Rigatoni with Roasted Cauliflower and Spicy Tomato Sauce
 </strong><em>Vegetarian</em>
 <em>Serves 4 </em>
@@ -48,3 +49,4 @@ As always, I like to finish cooking the pasta with the sauce for the last minute
 </ol>
 </div>
 &nbsp;
+</div>

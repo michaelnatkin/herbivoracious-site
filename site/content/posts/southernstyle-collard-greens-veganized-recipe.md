@@ -22,6 +22,7 @@ Specifically: fresh shiitake mushrooms and soy sauce. Now I know that sounds lik
 
 Serve this up with <a href="/2009/04/best-cornbread-ever/" target="_blank">cornbread</a> and <a href="http://www.seriouseats.com/recipes/2009/10/fried-green-tomatoes-with-smoky-mayo-recipe.html" target="_blank">fried green tomatoes</a>, maybe some red beans and rice, and you've got yourself a feast.
 
+<div class="recipe-card">
 <strong>Southern-Style Collard Greens, Veganized</strong>
 <em>Vegetarian, vegan, and gluten-free
 Serves at least 4 as a side dish</em>
@@ -41,3 +42,4 @@ Serves at least 4 as a side dish</em>
 	<li>Cook for, oh, at least 45 minutes, until completely tender, checking occasionally to see if they need a little more water.</li>
 	<li>When the greens are fully cooked, remove the lid and cook off the water. Taste and adjust the seasonings; they will probably want more salt or soy sauce, and maybe more of the <a href="http://www.amazon.com/dp/B000NO943C/?tag=poeticlicen07-20" target="_blank" rel="nofollow">smoked paprika</a>.</li>
 </ol>
+</div>

@@ -22,6 +22,7 @@ Dweck flavors her version with cumin, dried mint and <a href="http://chefshop.co
 
 You can easily vary the flavorings with other Middle Eastern herbs and spices, citrus zest, garlic and so on. If you feel compelled to make sun-dried tomato Thai Curry labneh, please, don't tell me!
 
+<div class="recipe-card">
 <strong>Syrian Style Labneh (Spiced Yogurt Cheese)</strong>
 
 <em>Vegetarian, not vegan</em>
@@ -40,3 +41,4 @@ You can easily vary the flavorings with other Middle Eastern herbs and spices, c
 	<li>Remove the yogurt from the cheesecloth into a clean bowl. It should be firm enough to form somewhat decent balls at this point. If not, drain it more. Mix in the cumin, spearmint, pepper and sea salt.</li>
 	<li>To serve, fill a shallow bowl with about 1/8" of olive oil. Grease your hands and form balls a bit smaller than a golf ball. Arrange in the dish, and garnish with roughly chopped parsley or cilantro.</li>
 </ol>
+</div>

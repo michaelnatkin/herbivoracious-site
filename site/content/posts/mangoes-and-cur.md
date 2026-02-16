@@ -30,6 +30,7 @@ The result was a big hit. We ate it with some tamarind-flavored rice and jarred 
 
 Here's an Amazon link for all of <a type="amzn">Alford and Duguid's books</a>. I can't recommend them highly enough.
 
+<div class="recipe-card">
 <strong>Bangla-Flavored Fried Zucchini</strong>
 <em>Adapted From <a href="http://www.amazon.com/gp/product/1579652522?ie=UTF8&amp;tag=poeticlicen07-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=1579652522">Mangoes &amp; Curry Leaves: Culinary Travels Through the Great Subcontinent</a>
 Serves 4
@@ -49,3 +50,4 @@ Vegetarian, vegan, and gluten-free</em>
 	<li>Quickly add the zucchini and toss to coat with the oil and spices. Lower heat a bit, and continue to turn occasionally until tender but not mushy, 3-5 minutes.</li>
 	<li>Remove from the skillet, season with salt to taste and serve.</li>
 </ol>
+</div>

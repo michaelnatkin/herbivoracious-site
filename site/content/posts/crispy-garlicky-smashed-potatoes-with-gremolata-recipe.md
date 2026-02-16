@@ -20,6 +20,7 @@ Tom Douglas serves something similar to this as a side at his Greek-inspired <a 
 
 Gremolata is a simple condiment of finely minced parsley, lemon zest and usually garlic. It is traditionally served with osso bucco. Clearly we don't need any extra garlic on these potatoes though! The heat from the potatoes causes the gremolata give off a heady, appetizing aroma that adds just the right high note.
 
+<div class="recipe-card">
 <strong>Crispy, Garlicky Smashed Potatoes with Gremolata</strong>
 <em>Vegetarian, vegan, and gluten-free</em>
 <em>Serves 6</em>
@@ -39,3 +40,4 @@ Gremolata is a simple condiment of finely minced parsley, lemon zest and usually
 	<li>Spoon the garlic and oil over the potatoes, distributing as evenly as possible. Sprinkle with Kosher salt. Return the tray to the oven, raise heat to 500, and cook until the skins are crispy in many spots. This will take at least 20 minutes.</li>
 	<li>Mince the parsley and lemon zest together to make the gremolata. Put the potatoes in a serving bowl, being sure to gather up all the crispy bits garlic. Sprinkle the gremolata over the top, add a generous amount of flaky sea salt and serve immediately.</li>
 </ol>
+</div>

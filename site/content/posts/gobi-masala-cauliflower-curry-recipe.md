@@ -23,6 +23,7 @@ One possibly less familiar spice you'll see in the ingredient list is <a href="h
 
 Serve this up with basmati rice, <a href="/2009/02/chana-dal-in-the-style-of-puri-jagannath-temple-recipe/" target="_blank">dal</a>, <a href="/2009/09/cucumber-radish-and-cilantro-raita-recipe/" target="_blank">raita</a>, and tamarind chutney and/or some Indian pickles for a satisfying feast.
 
+<div class="recipe-card">
 <strong>Gobi Masala (Cauliflower Curry)
 </strong><em>Vegetarian, vegan, and gluten-free</em> / s<em>erves 4 as part of an Indian meal</em>
 <ul>
@@ -49,3 +50,4 @@ Serve this up with basmati rice, <a href="/2009/02/chana-dal-in-the-style-of-pur
 	<li>Stir in the garam masala and taste. Add more salt or spices as needed. Put in serving bowl. (Optional: for extra flavor, fry more mustard seeds and cumin seeds in a little more oil, for about 20 seconds, and drizzle over the finished dish. This is called tempering, and you can play with which spices are used.) Garnish with the cilantro, and serve immediately.</li>
 </ol>
 <strong> </strong>
+</div>

@@ -20,6 +20,7 @@ I like to up the ante by serving them in a pita sandwich with a spicy pickled ca
 
 The cabbage needs to sit for a couple of hours to soften. You can toss it together the day before and let it marinate in the refrigerator overnight, or in a pinch, just use plain shredded lettuce instead, and serve hot sauce on the side.
 
+<div class="recipe-card">
 <strong>Kouftikes De Prasa Sandwiches
 </strong><em>Vegetarian and kosher
 </em><em>Serves 4 / 30 minutes active</em>
@@ -69,3 +70,4 @@ The cabbage needs to sit for a couple of hours to soften. You can toss it togeth
 /*]]>{/literal}*/</script>
 <a class="rafl-powered" href="http://www.rafflecopter.com" target="_blank" style="font:10px sans-serif;color:#999;width:100%;text-align:center;display:block;" id="rpow-5ff1623">a <i>Rafflecopter</i> giveaway</a>
 <noscript><a href="http://rafl.es/enable-js">You need javascript enabled to see this giveaway</a>.</noscript>
+</div>

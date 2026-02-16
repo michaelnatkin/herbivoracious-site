@@ -25,6 +25,7 @@ I <a href="http://www.cooks.com/rec/view/0,1718,156188-227207,00.html" target="_
 
 p.s. check out this <a href="http://lunchboxproject.blogspot.com/2009/05/grapefruit-crudo.html" target="_blank">cool illustration</a> that Lisa Orgler did of my Grapefruit Crudo recipe!
 
+<div class="recipe-card">
 <strong>
 Giant Dutch Baby with Sauteed Apples</strong>
 <em>Vegetarian; not vegan or gluten-free
@@ -49,3 +50,4 @@ Serves 3 to 5 (see above)</em>
 	<li>Meanwhile, in a saute pan, melt the remaining 2 tablespoons of butter over medium-high heat. Add the apples and saute for 5 minutes.  Add the brown sugar, cinnamon, and a pinch of salt, and saute until tender and glazed.</li>
 	<li>When the Dutch Baby is done,  carefully remove it from the oven. Pad off any excess butter on top with a paper towel. Top with the apples and a generous sprinkle of powdered sugar. Since you have it in a really hot skillet, you might want to serve it directly on to plates rather than bring that to the table. Offer lemon wedges on the side, they add a nice counterpoint to the sweetness.</li>
 </ol>
+</div>

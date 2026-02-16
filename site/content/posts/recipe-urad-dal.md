@@ -20,6 +20,7 @@ The recipe I followed comes from the wonderful (and freshly reprinted) <a type="
 
 I served these vada with red quinoa which you can barely see peeking out from under the roasted cauliflower and caramelized onions, a bit of creme fraiche (but yogurt would be good too), and a quick grilled half of a Meyer lemon. On balance, yeah, this plate has a lot of brown to golden-brown hues! But it was just a quickie dinner, whaddaya want, Picasso?
 
+<div class="recipe-card">
 <strong>Urad Dal Patties (Vada) with Black Pepper</strong>
 <em>Makes about 12 patties; 2 or 3 make a nice serving
 Vegetarian, vegan (if you don't garnish with dairy), and gluten-free</em>
@@ -40,3 +41,4 @@ Vegetarian, vegan (if you don't garnish with dairy), and gluten-free</em>
 	<li>Heat a frying pan with enough oil or ghee to fill about 1/2" deep to a temperature of about 340 F.</li>
 	<li>Carefully drop in portions of the dal mixture and lightly press with a spatula to form patties. About 1/4 c. will do fine.  Put as many as you can in your pan without crowding them to close. Fry until golden brown on one side (maybe 4 minutes), then flip and brown the other side. Remove from the pan, drain on a paper towel, and hit it with some finishing salt. Hold hot while you fry the rest and serve them forth. Like anything fried, they are at their best minutes after leaving the oil and deteriorate rapidly, so be ready to chow!</li>
 </ol>
+</div>

@@ -45,6 +45,7 @@ I've flavored the yogurt with slivovitz, a plum brandy from the Balkan region. T
 	<li>To serve, fold two warm crepes into quarters and overlap on a plate. Put 2 tablespoons of the yogurt on top of the crepes, and put 3 half plums on top of the yogurt. Drizzle with additional honey and serve.</li>
 </ol>
 <br>
+<div class="recipe-card">
 <strong>Julia Child's Crepe Recipe</strong>
 <em>Yields about 12 crepes</em>
 <br>
@@ -62,3 +63,4 @@ I've flavored the yogurt with slivovitz, a plum brandy from the Balkan region. T
 	<li>Put your skillet over medium-to-medium high heat with a tiny bit of butter. When it is preheated, pour in 1/4 cup of the batter while tilting and swirling the skillet in all directions for a few seconds to produce a generally circular, thin crepe. If you can't get it spread evenly, you need either  (1) work on your tilting and swirling (2) thin out the batter a bit or (3) lower the heat. Expect it to take a few crepes to really dial it in.</li>
 	<li>Cook until lightly browned on one side, about 1 minute or a bit more, then flip and cook for just about 30 seconds on the other side. I usually perform the flip by lifting the edge with a silicone spatula and then using my fingers to rapidly turn it over. I have asbestos fingers though, so only try it this way if you feel comfortable that you won't hurt yoursellf. Otherwise, try using two spatulas.</li>
 </ol>
+</div>

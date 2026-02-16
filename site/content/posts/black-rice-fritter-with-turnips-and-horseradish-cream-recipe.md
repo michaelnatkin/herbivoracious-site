@@ -26,7 +26,8 @@ The whole grain mustard I used is <a href="http://www.amazon.com/dp/B003O6BYW0/?
 
 By the way, did you know I started an <a href="https://www.youtube.com/user/HerbivoraciousBlog/featured">Herbivoracious YouTube channel</a>? There will be more videos there over time, so press the subscribe button towards the top of the page!
 
-<em></em><strong>Black Rice Fritters with Roasted Turnips and Horseradish Cream</strong>
+<em></em><div class="recipe-card">
+<strong>Black Rice Fritters with Roasted Turnips and Horseradish Cream</strong>
 <em>Vegetarian and Gluten Free</em>
 <em>Serves 4</em>
 
@@ -90,3 +91,4 @@ By the way, did you know I started an <a href="https://www.youtube.com/user/Herb
 </div>
 </div>
 &nbsp;
+</div>

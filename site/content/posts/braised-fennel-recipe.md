@@ -23,6 +23,7 @@ For the flavorful liquids, I chose dry vermouth for its complex aromatics, and o
 
 Have you ever had <a href="http://www.amazon.com/dp/B000V9ESIA/?tag=poeticlicen07-20" target="_blank">fennel pollen</a>? It is pretty amazing stuff. The aroma is like summer in Provence in a jar. As you can see, it is rather expensive but a pinch goes a long way. This dish is just fine without it, but if you are in the mood to gild the lily, I highly recommend it.
 
+<div class="recipe-card">
 <strong>Braised Fennel</strong>
 <em>Serves 4 as a side dish</em>
 <em>Vegetarian, vegan and gluten-free</em>
@@ -46,3 +47,4 @@ Have you ever had <a href="http://www.amazon.com/dp/B000V9ESIA/?tag=poeticlicen0
 	<li>Add the orange zest and juice, the vermouth, and 1/2 cup water and stir, scraping the bottom to incorporate the delicious caramelized brown bits (<em>fond</em>). Put the fennel back in the pot, cut side up, on top of the onions and carrots. Cover the pot and braise until the fennel is completely tender when probed with a knife. This could be anywhere from 10 to 20 minutes depending on the size of the bulbs. During the braise, adjust the heat so that there is a good steady amount of steam in the pot, but not so much that all the liquid is boiling off. Add a bit more liquid if needed.</li>
 	<li>To serve, transfer the fennel bulbs to a serving platter. Spoon the carrots, onions and sauce over the fennel. Garnish with a generous drizzle of good olive oil, more freshly ground pepper, some flaky salt, the fennel fronds, and the optional fennel pollen.</li>
 </ol>
+</div>

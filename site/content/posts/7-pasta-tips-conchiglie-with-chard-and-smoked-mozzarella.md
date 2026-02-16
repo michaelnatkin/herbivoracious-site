@@ -26,6 +26,7 @@ This is an easy way to eat because it requires <strong>no recipe</strong> and mi
 	<li>Try to get a range of sweet , salty , bitter , sour, herbacious , umami  and spicy  flavors, so that each bite is a varied experience. You might not hit all of those notes, but try to have some contrasts.</li>
 	<li>Toss the cooked pasta with the "sauce" for a minute over a moderate flame, to allow the flavors to marry. Reserve 1 cup of the boiled pasta water and add it as necessary during that mixing to loosen and achieve a good serving texture. The water is salted and slightly thick from starch, so it will allow you to moisten without diluting your flavors. If you've never tried this before, trust me - it is magic.</li>
 </ol>
+<div class="recipe-card">
 <strong>Conchiglie Pasta with Swiss Chard and Smoked Mozzarella</strong>
 <em>Serves 3-4 as a main course
 Vegetarian; not vegan or gluten-free but adaptable</em>
@@ -54,3 +55,4 @@ Vegetarian; not vegan or gluten-free but adaptable</em>
 	<li>To serve, divide among the bowls, top with the pumpkin seeds and a grind of fresh black pepper.</li>
 </ol>
 <a href="http://www.foodista.com/food/M3XVB7PT/swiss-chard"><img style="border: none; width: 101px; height: 20px;" src="http://static.foodista.com/images/foodista_logo_101_20_flattened.png?foodista_widget_635W3QTK" alt="Swiss Chard on Foodista" /></a>
+</div>

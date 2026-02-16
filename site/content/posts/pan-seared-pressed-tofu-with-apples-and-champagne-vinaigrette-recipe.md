@@ -22,6 +22,7 @@ This tofu has had so much of the moisture removed that it browns really quickly 
 
 Needless to say, this salad dressing is delightful on lettuce too!
 
+<div class="recipe-card">
 <strong>Pan-Seared Pressed Tofu with Apples and Champagne Vinaigrette</strong>
 <em>Vegetarian, vegan, and gluten-free</em>
 <em>Serves 2 as a light lunch or 4 as a side dish</em>
@@ -55,5 +56,6 @@ Needless to say, this salad dressing is delightful on lettuce too!
 	<li>Place a large skillet over high heat. Add the oil, and when it is shimmering, add the tofu in a single layer. Cook until well browned on one side, then flip and cook the other side. Remove to a medium bowl with a slotted spoon.</li>
 	<li>Pour the dressing over the tofu and toss. Add the apples and pomegranate seeds and toss again. Taste and adjust seasoning. Divide among serving bowls and finish with generous amounts of black pepper and flaky salt.</li>
 </ol>
+</div>
 </div>
 </div>

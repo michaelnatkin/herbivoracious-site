@@ -22,6 +22,7 @@ It is worth exploring the different varieties of feta. For example, at Seattle's
 
 A more typical Middle Eastern version of this marinade would actually use dried mint, and you can feel free to do that if you like. The flavor is quite different than fresh, but equally interesting.
 
+<div class="recipe-card">
 <strong>Quick Marinated Feta with Orange Zest, Mint and Aleppo Pepper
 </strong>Vegetarian and gluten free
 <ul>
@@ -38,3 +39,4 @@ A more typical Middle Eastern version of this marinade would actually use dried 
 	<li>Put the feta on a plate in one large piece and pour the marinade over it.</li>
 	<li>Serve at cool room temperature with the toasted pita.</li>
 </ol>
+</div>

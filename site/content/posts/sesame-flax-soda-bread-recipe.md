@@ -22,6 +22,7 @@ Speaking of bread for dinner, the two obvious options are to buy a nice artisan 
 
 The flax meal I use is from <a href="http://www.amazon.com/dp/B002831C4K/?tag=poeticlicen07-20" target="_blank">Bob's Red Mill</a>. Once you open the package, I recommend sealing the leftovers tightly in a plastic bag and freezing, as the oils go rancid quickly at room temperature.
 
+<div class="recipe-card">
 <strong>Sesame-Flax Soda Bread</strong>
 <em>Makes 1 large loaf
 Vegetarian; not vegan or gluten-free</em>
@@ -45,3 +46,4 @@ Vegetarian; not vegan or gluten-free</em>
 	<li>Bake for about 40 minutes until golden brown, and sounds hollow when rapped on the bottom. Better yet, use an instant read thermometer to look for an internal temperature of 180 degrees F / 83 C. That is a much more reliable way to gauge doneness. Check the bread about 20 minutes into cooking, and if it is browning too fast, cover it with a tinfoil tent until it is done.</li>
 	<li>Allow to cool for a few minutes, and serve with swaths of sweet cream butter.</li>
 </ol>
+</div>

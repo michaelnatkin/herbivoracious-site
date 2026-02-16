@@ -17,6 +17,7 @@ The idea for these came from a packaged Japanese snack that I find totally addic
 
 You can grind the spices in a mortar and pestle, with an electric <a href="http://www.myshopping.com.au/PT--296_Small_Kitchen_Appliances_Coffee_Grinders__fs_11753_e__">coffee grinder</a>, or with a ceramic hand mill like this <a href="http://www.amazon.com/dp/B001802PIQ/?tag=poeticlicen07-20">Hario model</a>. The Hario is great because it lets you adjust the grind very precisely.
 
+<div class="recipe-card">
 <strong>Sichuan Peppercorn Peanuts</strong>
 Vegetarian, vegan, gluten free and kosher
 Yields 220 grams  / a small bowl; multiply as needed
@@ -35,3 +36,4 @@ Yields 220 grams  / a small bowl; multiply as needed
 	<li><span style="line-height: 13px;">Cut strips of orange zest, being careful to avoid the pith, then use your knife to cut into threads similar to the chili threads. Add to the spices.</span></li>
 	<li><span style="line-height: 13px;">Line a paper plate with towels. Heat the oil in a large skillet over medium heat. Add the spice mixture and cook until fragrant, but don't allow to burn. Add the peanuts and cook, tossing frequently, for 2 more minutes. Remove to the paper towels, including all of the spices. Allow to drain for a few minutes, then transfer to a bowl, toss with the salt, adjust seasoning, and serve (or they will keep for a few days).</span></li>
 </ol>
+</div>

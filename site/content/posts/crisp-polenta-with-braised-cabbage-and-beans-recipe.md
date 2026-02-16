@@ -23,6 +23,7 @@ This dish feels like it would come from far Northern Italy, near the Austrian bo
 
 I apologize, the recipe is not particularly precise; I made it while improvising and without measuring precisely. It will work, but you'll need to taste and use your cooking common sense. You'll probably end up with extra braised cabbage. Not a bad thing.
 
+<div class="recipe-card">
 <strong>Crisp Polenta Cakes with Braised Cabbage</strong>
 <em>Vegetarian
 Serves 4</em>
@@ -48,3 +49,4 @@ Serves 4</em>
 	<li>While the cakes are cooking, remove the lid from cabbage and cook off any excess liquid. Transfer a nice mound of the cabbage to each of 4 heated plates or bowls. Without cleaning the skillet, add the beer, mustard and caraway and a big pinch of salt. Bring to a good simmer. Whisk in the butter, 1 cube at a time, emulsifying. Cook the sauce down until it will lightly coat a spoon. Taste and adjust the seasoning.  You may want more mustard.</li>
 	<li>To serve, drizzle the sauce over the cabbage, allowing it to coat the plate as well. Spoon a few of the heated beans into the cabbage and sauce. Top the cabbage with two piping hot, crispy polenta cakes, and garnish with fennel fronds or other herbs.</li>
 </ol>
+</div>
