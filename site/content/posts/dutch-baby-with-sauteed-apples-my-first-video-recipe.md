@@ -6,6 +6,8 @@ categories: ["Breakfast", "Cooking Videos"]
 aliases: ["/dutch-baby-with-sauteed-apples-my-first-video-recipe/", "/2012/03/dutch-baby-with-sauteed-apples-my-first-video-recipe.html"]
 ---
 
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/37008276" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div>
+
 This worked out kind of cool - today's post <strong>happens to be my 500th on Herbivoracious</strong>, dating back to July of 2007, my first post since leaving my day job, and it is my very first video recipe. For the extended e-book version of <a href="http://www.amazon.com/gp/product/1558327452/ref=as_li_ss_tl?ie=UTF8&amp;tag=vegfoodie-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=1558327452">my cookbook</a>, Harvard Common Press asked me to make a series of videos. I was thrilled, and stipulated that I only wanted to do it if we could have high quality videos, professionally shot and edited. I wasn't interested in making a bunch of shaky iPhone vids!
 
 Harvard Common was, of course, on board with doing a topnotch job, and I was lucky enough to convince the inestimable Tim Mar of <a href="http://chefshop.com/" target="_blank">ChefShop.com</a> to shoot and edit them. Before starting one of my favorite specialty food stores, Tim was a world class videographer and continues to do some video side projects. Tim had always been kind to me when I'd visit the store, even when I was <strong>utterly wet behind the ears</strong> as a blogger, so I knew he's be great to work with.

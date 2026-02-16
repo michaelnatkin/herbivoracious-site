@@ -6,6 +6,8 @@ categories: ["Cooking Videos", "Gluten-Free or modifiable", "Recipes"]
 aliases: ["/risotto-with-caramelized-fennel-video-recipe/", "/2012/04/risotto-with-caramelized-fennel-video-recipe.html"]
 ---
 
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/39953287" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div>
+
 In <a title="Herbivoracious: A Flavor Revolution with 150 Vibrant and Original Vegetarian Recipes" href="/get-the-herbivoracious-cookbook/" target="_blank">the Herbivoracious cookbook</a>, I've got a recipe for a risotto made with fresh corn and tomato confit (tomatoes that have been slowly roasted in the oven to concentrate their flavor). That recipe is perfect for late summer, but I was taping these videos in the fall, so I made a different version using the beautiful fennel I had available.
 
 More important than the specific ingredients, though, is the method for making risotto. It isn't at all difficult, but there are a few details which are probably easier to understand via video than the written word. Check it out and in no time you'll be making <strong>creamy, tender (but never mushy)</strong> risottos packed with flavor.

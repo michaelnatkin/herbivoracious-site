@@ -6,6 +6,8 @@ categories: ["Baking", "Desserts", "Kid Friendly", "Recipes"]
 aliases: ["/blueberry-buckle-video-recipe/", "/2012/04/blueberry-buckle-video-recipe.html"]
 ---
 
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/38762010" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div>
+
 I've written about buckles a couple of times in this space: the original <a href="/2009/07/raspberry-blueberry-buckle-recipe/" target="_blank">raspberry-blueberry buckle</a> that got me started making them, and a <a href="/2011/08/peach-sour-cream-buckle-recipe/" target="_blank">peach and sour cream</a> variation that I made on vacation in hot, hot eastern Washington last summer when I was apparently feeling poetic.
 
 The beauty of buckles and all of the other rustic American fruit desserts is that they are wildly flexible. They will accept whatever kind of fruit you have, you can change out the dairy, make them part whole wheat... it doesn't matter. As long as the fruit is good, the buckle is going to be tasty. If you are using a harder fruit, like apples, you'll just want to saute them first so you aren't relying on the baking time to cook them through.
