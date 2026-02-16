@@ -19,7 +19,9 @@ cd site && hugo
 python3 audit.py
 ```
 
-**Never edit files in `site/public/` directly.** The Hugo dev server watches for changes and rebuilds automatically. Edit source files in `site/themes/herbivoracious/` or `site/content/` instead.
+**Always keep the Hugo dev server running** (`cd site && hugo server -D`). Start it at the beginning of every session. It watches for changes and rebuilds automatically.
+
+**Never edit files in `site/public/` directly.** Edit source files in `site/themes/herbivoracious/` or `site/content/` instead.
 
 **Never `git push` without explicit permission.** You may commit freely, but always ask before pushing to remote.
 
