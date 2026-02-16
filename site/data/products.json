@@ -1,0 +1,2711 @@
+{
+  "categories": [
+    {
+      "name": "Kitchen Tools",
+      "slug": "kitchen-tools",
+      "description": "Essential equipment for the serious home cook",
+      "image": "/images/shop/kitchen-tools.jpg",
+      "products": [
+        {
+          "name": "Amazon Basics Digital Kitchen Scale, 11 lb",
+          "url": "https://www.amazon.com/dp/B06X9NQ8GX?tag=herb-hugo-20",
+          "featured_in": [
+            "/2010/03/an-honor-a-favor-and-a-freebie-win-a-digital-kitchen-scale/"
+          ]
+        },
+        {
+          "name": "Benriner mandoline",
+          "url": "https://www.amazon.com/dp/B0000VZ57C?tag=herb-hugo-20",
+          "featured_in": [
+            "/2009/05/goat-cheese-asparagus-and-beet-salad-with-herb-flowers-recipe/",
+            "/2011/12/persimmon-carpaccio-with-fennel-salad-recipe/"
+          ]
+        },
+        {
+          "name": "Calphalon 12-inch non-stick omelet pan",
+          "url": "https://www.amazon.com/dp/B0000936JK?tag=herb-hugo-20",
+          "featured_in": [
+            "/2012/08/crepes-with-roasted-french-plums-yogurt-and-honey/"
+          ]
+        },
+        {
+          "name": "Cape Crystal Sodium Alginate & Calcium Chloride Spherification Kit",
+          "url": "https://www.amazon.com/dp/B09Q1K817V?tag=herb-hugo-20",
+          "featured_in": [
+            "/2008/03/blini-with-aspa/"
+          ]
+        },
+        {
+          "name": "Chef Craft Serrated Grapefruit Spoon, 2-piece set",
+          "url": "https://www.amazon.com/dp/B00IH5X9BC?tag=herb-hugo-20",
+          "featured_in": [
+            "/2008/06/artichoke-spagh/"
+          ]
+        },
+        {
+          "name": "Chef'sChoice 130 Professional Electric Knife Sharpener",
+          "url": "https://www.amazon.com/dp/B000CSG9BE?tag=herb-hugo-20",
+          "featured_in": [
+            "/2012/04/how-to-use-a-sharpening-steel-on-your-knives-video/",
+            "/2012/10/the-best-way-to-sharpen-your-knives-at-home/",
+            "/2011/01/three-ways-to-increase-your-confidence-in-the-kitchen/"
+          ]
+        },
+        {
+          "name": "cream whipper",
+          "url": "https://www.amazon.com/dp/B000A3L60U?tag=herb-hugo-20",
+          "featured_in": [
+            "/2010/09/compressed-cucumber-shiso-sake-infusion/"
+          ]
+        },
+        {
+          "name": "Dashi Kombu Dried Kelp from Hokkaido Japan",
+          "url": "https://www.amazon.com/dp/B0BWHB7TZL?tag=herb-hugo-20",
+          "featured_in": [
+            "/2012/03/kinoko-gohan-japanese-mushroom-rice-recipe/",
+            "/2012/06/vegetarian-nuc-chm-recipe/"
+          ]
+        },
+        {
+          "name": "Emile Henry lasagna pan",
+          "url": "https://www.amazon.com/dp/B00022O6YM?tag=herb-hugo-20",
+          "featured_in": [
+            "/2008/12/vegetarian-lasagna-recipe-with-spinach-and-ricotta-filling/"
+          ]
+        },
+        {
+          "name": "Garcima 15-Inch Carbon Steel Paella Pan",
+          "url": "https://www.amazon.com/dp/B000QYKK3W?tag=herb-hugo-20",
+          "featured_in": [
+            "/2008/12/new-paella-pan-from-the-spanish-table/"
+          ]
+        },
+        {
+          "name": "Global 8-Inch Chef's Knife",
+          "url": "https://www.amazon.com/dp/B00005OL44?tag=herb-hugo-20",
+          "review_url": "/chefs-knife-kitchen-tools-hand-tools/",
+          "featured_in": [
+            "/2007/07/knives-for-the/",
+            "/2011/01/three-ways-to-increase-your-confidence-in-the-kitchen/"
+          ]
+        },
+        {
+          "name": "heavy-duty potato ricer",
+          "url": "https://www.amazon.com/dp/B00004SU1J?tag=herb-hugo-20",
+          "featured_in": [
+            "/2008/12/latkes-crispy-for-hannukah/"
+          ]
+        },
+        {
+          "name": "immersion blender (aka stick blender)",
+          "url": "https://www.amazon.com/dp/B00023JLJG?tag=herb-hugo-20",
+          "featured_in": [
+            "/2009/12/black-bean-soup-recipe/"
+          ]
+        },
+        {
+          "name": "iSi Cream Profi Whip Professional Cream Whipper",
+          "url": "https://www.amazon.com/dp/B0001MRZWI?tag=herb-hugo-20",
+          "featured_in": [
+            "/2007/10/you-have-mousse/"
+          ]
+        },
+        {
+          "name": "Kuhn Rikon peelers",
+          "url": "https://www.amazon.com/dp/B001AQI3IO?tag=herb-hugo-20",
+          "review_url": "/y-vegetable-peeler/"
+        },
+        {
+          "name": "Lodge 12 Inch Cast Iron Pre-Seasoned Skillet",
+          "url": "https://www.amazon.com/dp/B00006JSUB?tag=herb-hugo-20",
+          "featured_in": [
+            "/2012/03/brown-butter-cornbread-video-recipe/",
+            "/2012/04/real-homefries-recipe/",
+            "/2009/11/my-skillet/"
+          ]
+        },
+        {
+          "name": "Lodge 5-Quart Cast Iron Dutch Oven",
+          "url": "https://www.amazon.com/dp/B00004S9HE?tag=herb-hugo-20",
+          "featured_in": [
+            "/2011/05/artichaut-marinieres-artichokes-cooked-in-white-wine-and-garlic-recipe/"
+          ]
+        },
+        {
+          "name": "Lodge cast-iron grill pan",
+          "url": "https://www.amazon.com/dp/B00008GKDQ?tag=herb-hugo-20",
+          "featured_in": [
+            "/2010/04/grilled-pineapple-salsa-recipe/"
+          ]
+        },
+        {
+          "name": "mandoline",
+          "url": "https://www.amazon.com/dp/B0002IYI62?tag=herb-hugo-20",
+          "featured_in": [
+            "/2012/10/red-rice-and-avocado-with-crispy-burdock-chips-recipe/",
+            "/2012/09/quick-green-apple-kimchi-recipe/"
+          ]
+        },
+        {
+          "name": "Microplane Classic Zester Grater",
+          "url": "https://www.amazon.com/dp/B00004S7V8?tag=herb-hugo-20",
+          "featured_in": [
+            "/2007/11/four-thousand-d/"
+          ]
+        },
+        {
+          "name": "MIU France Stainless Steel Magnetic Knife Holder",
+          "url": "https://www.amazon.com/dp/B0006IVY7E?tag=herb-hugo-20",
+          "review_url": "/chefs-knife-kitchen-tools-hand-tools/"
+        },
+        {
+          "name": "Mozzarella and Ricotta Cheese Making Kit",
+          "url": "https://www.amazon.com/dp/B012PNLH42?tag=herb-hugo-20",
+          "featured_in": [
+            "/2007/07/making-mozare-1/"
+          ]
+        },
+        {
+          "name": "Nutmeg Grater with Whole Nutmegs",
+          "url": "https://www.amazon.com/dp/B005WUN500?tag=herb-hugo-20",
+          "featured_in": [
+            "/2010/01/brussels-sprout-gratin-with-heretical-technique-recipe/"
+          ]
+        },
+        {
+          "name": "nutribullet Immersion Blender",
+          "url": "https://www.amazon.com/dp/B09X27HV7X?tag=herb-hugo-20",
+          "featured_in": [
+            "/2011/01/black-bean-soup-with-orange-jalapeno-salsa-recipe/"
+          ]
+        },
+        {
+          "name": "Old Stone Oven Pizza Baking Stone",
+          "url": "https://www.amazon.com/dp/B0000E1FDA?tag=herb-hugo-20",
+          "featured_in": [
+            "/2011/06/double-crust-pizza-with-broccoli-raab-ricotta-and-caramelized-onions-recipe/"
+          ]
+        },
+        {
+          "name": "OXO peelers",
+          "url": "https://www.amazon.com/dp/B0000DAQ5E?tag=herb-hugo-20",
+          "review_url": "/y-vegetable-peeler/"
+        },
+        {
+          "name": "pastry blender",
+          "url": "https://www.amazon.com/dp/B000QJE48O?tag=herb-hugo-20",
+          "featured_in": [
+            "/2009/08/rustic-peach-and-nectarine-crostata-recipe/"
+          ]
+        },
+        {
+          "name": "PriorityChef Large 15oz Stainless Steel Potato Ricer",
+          "url": "https://www.amazon.com/dp/B00MUEHPGQ?tag=herb-hugo-20",
+          "featured_in": [
+            "/2011/05/aloo-tikki-indian-potato-fritters-recipe/"
+          ]
+        },
+        {
+          "name": "Quarter sheet pan",
+          "url": "https://www.amazon.com/dp/B000RYPHRK?tag=herb-hugo-20",
+          "featured_in": [
+            "/2012/11/strawberries-and-cream-birthday-cake-momofuku-style/"
+          ]
+        },
+        {
+          "name": "SENSARTE Nonstick Crepe Pan 10-Inch",
+          "url": "https://www.amazon.com/dp/B08RMXBJNQ?tag=herb-hugo-20",
+          "featured_in": [
+            "/2012/03/manouri-cheese-blintzes-recipe/"
+          ]
+        },
+        {
+          "name": "serrated peelers",
+          "url": "https://www.amazon.com/dp/B0007LXTHS?tag=herb-hugo-20",
+          "featured_in": [
+            "/2007/07/grilled-peaches/"
+          ]
+        },
+        {
+          "name": "Silpat Premium Non-Stick Silicone Baking Mat",
+          "url": "https://www.amazon.com/dp/B00008T960?tag=herb-hugo-20",
+          "featured_in": [
+            "/2008/06/recipe-chewy-oa/",
+            "/2012/06/apple-crostata-with-breadcrumb-streusel-recipe-for-pieday/",
+            "/2012/02/homemade-caraway-rye-crackers-recipe/"
+          ]
+        },
+        {
+          "name": "SMARTAKE Parchment Paper Baking Sheets, 200 pcs",
+          "url": "https://www.amazon.com/dp/B07H79KX8W?tag=herb-hugo-20",
+          "featured_in": [
+            "/2011/12/aromatic-tofu-en-papillote-recipe/"
+          ]
+        },
+        {
+          "name": "Spring Chef Dough Blender, Stainless Steel",
+          "url": "https://www.amazon.com/dp/B01CX1RIMQ?tag=herb-hugo-20",
+          "featured_in": [
+            "/2012/07/basic-pastry-dough-recipe/"
+          ]
+        },
+        {
+          "name": "This spatula, from LamsonSharp",
+          "url": "https://www.amazon.com/dp/B00004WGUM?tag=herb-hugo-20",
+          "featured_in": [
+            "/2012/08/the-joy-of-a-proper-spatula/"
+          ]
+        },
+        {
+          "name": "Victorinox Fibrox Pro Chef's Knife, 8-Inch",
+          "url": "https://www.amazon.com/dp/B000638D32?tag=herb-hugo-20",
+          "featured_in": [
+            "/2012/03/how-to-cut-mint-chiffonade-tiny-ribbons-video/"
+          ]
+        },
+        {
+          "name": "Vitamix 5200 Blender, Professional-Grade, 64 oz",
+          "url": "https://www.amazon.com/dp/B008H4SLV6?tag=herb-hugo-20",
+          "featured_in": [
+            "/2012/03/banana-buttermilk-and-brown-sugar-muffins-triple-b-muffins-recipe/"
+          ]
+        },
+        {
+          "name": "Wilton Excelle Elite Non-Stick Tart Pan with Removable Bottom, 9-Inch",
+          "url": "https://www.amazon.com/dp/B0000DIX7K?tag=herb-hugo-20",
+          "featured_in": [
+            "/2008/08/nectarine-and-b/"
+          ]
+        },
+        {
+          "name": "Wilton Excelle Elite Non-Stick Tart Pan, 11-Inch",
+          "url": "https://www.amazon.com/dp/B0000DIX7Y?tag=herb-hugo-20",
+          "featured_in": [
+            "/2009/08/heirloom-tomato-tart-recipe/"
+          ]
+        },
+        {
+          "name": "Zyliss Soft Skin Peeler",
+          "url": "https://www.amazon.com/dp/B0018IAH8I?tag=herb-hugo-20",
+          "featured_in": [
+            "/2008/12/persimmon-parsley-and-olive-salad/"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Specialty Ingredients",
+      "slug": "specialty-ingredients",
+      "description": "Unique ingredients that elevate everyday cooking",
+      "image": "/images/shop/specialty-ingredients.jpg",
+      "products": [
+        {
+          "name": "2-pack of Maldon",
+          "url": "https://www.amazon.com/dp/B001XVW3DC?tag=herb-hugo-20",
+          "featured_in": [
+            "/2012/01/pan-roasted-brussels-sprouts-with-shiitakes-and-smoked-paprika-recipe/"
+          ]
+        },
+        {
+          "name": "5.5 quart Le Creuset pot",
+          "url": "https://www.amazon.com/dp/B00004SBH4?tag=herb-hugo-20",
+          "featured_in": [
+            "/2009/10/minestrone/"
+          ]
+        },
+        {
+          "name": "6\" cake ring",
+          "url": "https://www.amazon.com/dp/B000GBK2MO?tag=herb-hugo-20",
+          "featured_in": [
+            "/2012/11/strawberries-and-cream-birthday-cake-momofuku-style/"
+          ]
+        },
+        {
+          "name": "7 piece nylon and wooden utensil",
+          "url": "https://www.amazon.com/dp/B000IV6LHW?tag=herb-hugo-20",
+          "featured_in": [
+            "/2012/05/cook-from-the-book-and-win-a-huge-calphalon-set-contest/"
+          ]
+        },
+        {
+          "name": "8 piece Unison non-stick cookware set",
+          "url": "https://www.amazon.com/dp/B0028SEOOU?tag=herb-hugo-20",
+          "featured_in": [
+            "/2012/05/cook-from-the-book-and-win-a-huge-calphalon-set-contest/"
+          ]
+        },
+        {
+          "name": "Agar Agar Powder",
+          "url": "https://www.amazon.com/dp/B007PJAOG4?tag=herb-hugo-20",
+          "featured_in": [
+            "/2008/09/goat-cheese-and/"
+          ]
+        },
+        {
+          "name": "airlock",
+          "url": "https://www.amazon.com/dp/B000E60G2W?tag=herb-hugo-20",
+          "featured_in": [
+            "/2013/05/making-your-own-kimchi-recipe/"
+          ]
+        },
+        {
+          "name": "ajvar",
+          "url": "https://www.amazon.com/dp/B000LRH9FQ?tag=herb-hugo-20",
+          "featured_in": [
+            "/2008/11/easy-eggplant-and-ricotta-rolls-with-ajvar-or-tomato-sauce/"
+          ]
+        },
+        {
+          "name": "Aleppo pepper",
+          "url": "https://www.amazon.com/dp/B00562WN1Q?tag=herb-hugo-20",
+          "featured_in": [
+            "/2012/08/zucchini-chickpea-tagine-recipe/"
+          ]
+        },
+        {
+          "name": "Aleppo pepper",
+          "url": "https://www.amazon.com/dp/B000X5IPWM?tag=herb-hugo-20",
+          "featured_in": [
+            "/2008/04/recipe-syrian-y/"
+          ]
+        },
+        {
+          "name": "Ancho Chile Pepper Powder Ground",
+          "url": "https://www.amazon.com/dp/B08PPD8B3W?tag=herb-hugo-20",
+          "featured_in": [
+            "/2007/07/mexican-panzane/"
+          ]
+        },
+        {
+          "name": "Artisan Spanish Piment\u00f3n de la Vera, Hot & Sweet 2-tin set",
+          "url": "https://www.amazon.com/dp/B000O9X8VU?tag=herb-hugo-20",
+          "featured_in": [
+            "/2012/01/absorption-cooked-peppery-red-wine-capellini-recipe/"
+          ]
+        },
+        {
+          "name": "Ateco Plain Edge Round Cutters, Graduated Sizes, 11 Pc Set",
+          "url": "https://www.amazon.com/dp/B00004S1CI?tag=herb-hugo-20",
+          "featured_in": [
+            "/2007/12/recipe-pie-doug/"
+          ]
+        },
+        {
+          "name": "Authentic Mexican",
+          "url": "https://www.amazon.com/dp/0061373265?tag=herb-hugo-20",
+          "featured_in": [
+            "/2013/04/gorditas-with-roasted-mushrooms-recipe/",
+            "/2009/09/burnt-sugar-flan-recipe/",
+            "/2010/02/nuevo-leon-style-tamales-adapted-to-be-vegetarian-recipe/"
+          ]
+        },
+        {
+          "name": "badass professional fine chinois",
+          "url": "https://www.amazon.com/dp/B002JPJI7K?tag=herb-hugo-20",
+          "featured_in": [
+            "/2012/07/cold-sorrel-and-coconut-milk-soup-recipe/"
+          ]
+        },
+        {
+          "name": "Barker's Hot Red Chili Pods From Hatch, New Mexico, 8 oz",
+          "url": "https://www.amazon.com/dp/B00JQNCU3C?tag=herb-hugo-20",
+          "featured_in": [
+            "/2009/10/red-curry-delicata-squash-and-tofu-recipe/",
+            "/2012/08/red-curry-paste-recipe/"
+          ]
+        },
+        {
+          "name": "basic $12 model",
+          "url": "https://www.amazon.com/dp/B00009WE45?tag=herb-hugo-20",
+          "review_url": "/2012/10/why-you-need-an-instant-read-kitchen-thermometer/"
+        },
+        {
+          "name": "Batchelors Bigga Dried Marrowfat Peas 250g",
+          "url": "https://www.amazon.com/dp/B002ONM3J2?tag=herb-hugo-20",
+          "featured_in": [
+            "/2013/07/whole-bean-ful-medames-with-fava-beans-or-marrowfat-peas-recipe/"
+          ]
+        },
+        {
+          "name": "BeaterBlade for 5-Quart KitchenAid Bowl Lift Mixers, White",
+          "url": "https://www.amazon.com/dp/B0015TMHSI?tag=herb-hugo-20",
+          "featured_in": [
+            "/2009/02/stop-scraping-your-stand-mixer-bowl/"
+          ]
+        },
+        {
+          "name": "BeaterBlade for Cuisinart, DeLonghi, &amp; Viking 7-Quart Mixers, White",
+          "url": "https://www.amazon.com/dp/B0015TYOT8?tag=herb-hugo-20",
+          "featured_in": [
+            "/2009/02/stop-scraping-your-stand-mixer-bowl/"
+          ]
+        },
+        {
+          "name": "BeaterBlade for KitchenAid 6-Quart Mixers, White",
+          "url": "https://www.amazon.com/dp/B0015TMI28?tag=herb-hugo-20",
+          "featured_in": [
+            "/2009/02/stop-scraping-your-stand-mixer-bowl/"
+          ]
+        },
+        {
+          "name": "BeaterBlade for KitchenAid Tilt-Head &amp; Bowl-Lift Mixers",
+          "url": "https://www.amazon.com/dp/B001F29N50?tag=herb-hugo-20",
+          "featured_in": [
+            "/2009/02/stop-scraping-your-stand-mixer-bowl/"
+          ]
+        },
+        {
+          "name": "Beecher's Handmade Flagship Cheese 1 lb",
+          "url": "https://www.amazon.com/dp/B0039OINH6?tag=herb-hugo-20",
+          "featured_in": [
+            "/2010/03/superfrico-grilled-cheese-sandwich-recipe/"
+          ]
+        },
+        {
+          "name": "better ideas",
+          "url": "https://www.amazon.com/dp/0743235274?tag=herb-hugo-20",
+          "featured_in": [
+            "/2009/02/what-to-do-with-an-insideout-egg/"
+          ]
+        },
+        {
+          "name": "Big Tree Farms salt",
+          "url": "https://www.amazon.com/dp/B000RRA9BG?tag=herb-hugo-20",
+          "featured_in": [
+            "/2010/10/figs-and-ricotta/"
+          ]
+        },
+        {
+          "name": "Bill Buford",
+          "url": "https://www.amazon.com/dp/1400034477?tag=herb-hugo-20",
+          "featured_in": [
+            "/2012/03/so-you-want-to-stage-intern-at-a-restaurant/"
+          ]
+        },
+        {
+          "name": "Bob's Red Mill",
+          "url": "https://www.amazon.com/dp/B002831C4K?tag=herb-hugo-20",
+          "featured_in": [
+            "/2012/12/sesame-flax-soda-bread-recipe/"
+          ]
+        },
+        {
+          "name": "Bourdain",
+          "url": "https://www.amazon.com/dp/0060899220?tag=herb-hugo-20",
+          "featured_in": [
+            "/2012/03/so-you-want-to-stage-intern-at-a-restaurant/"
+          ]
+        },
+        {
+          "name": "cake tester",
+          "url": "https://www.amazon.com/dp/B0018AHVSU?tag=herb-hugo-20",
+          "featured_in": [
+            "/2012/06/saffron-chickpea-stew-with-grilled-porcini-mushroom-recipe/"
+          ]
+        },
+        {
+          "name": "Calabro Whole Milk Ricotta, 32 oz",
+          "url": "https://www.amazon.com/dp/B07D7H4626?tag=herb-hugo-20",
+          "featured_in": [
+            "/2011/08/basil-gnudi-with-summer-squash-recipe/",
+            "/2008/04/calabro-the-b/"
+          ]
+        },
+        {
+          "name": "Cento San Marzano Tomatoes",
+          "url": "https://www.amazon.com/dp/B000WHOX4E?tag=herb-hugo-20",
+          "featured_in": [
+            "/2010/05/fresh-fettuccine-with-broccoli-raab-in-a-lemony-tomato-sauce-recipe/"
+          ]
+        },
+        {
+          "name": "Champion juicer",
+          "url": "https://www.amazon.com/dp/B000H6UYVC?tag=herb-hugo-20",
+          "featured_in": [
+            "/2009/01/applecelery-sorbet-a-refreshing-recipe-with-many-coauthors/"
+          ]
+        },
+        {
+          "name": "Champion Juicer",
+          "url": "https://www.amazon.com/dp/B000E48LHQ?tag=herb-hugo-20",
+          "featured_in": [
+            "/2012/06/corn-nut-butter-recipe-work-in-progress/"
+          ]
+        },
+        {
+          "name": "Chicago Metallic half-sheet pans",
+          "url": "https://www.amazon.com/dp/B003YKGROG?tag=herb-hugo-20",
+          "featured_in": [
+            "/2012/06/apple-crostata-with-breadcrumb-streusel-recipe-for-pieday/"
+          ]
+        },
+        {
+          "name": "chipotle pepper in adobo",
+          "url": "https://www.amazon.com/dp/B002N3XZ6I?tag=herb-hugo-20",
+          "featured_in": [
+            "/2009/04/vegetarian-chili-recipe/"
+          ]
+        },
+        {
+          "name": "clean dishtowel",
+          "url": "https://www.amazon.com/dp/B003BS4856?tag=herb-hugo-20",
+          "featured_in": [
+            "/2012/05/how-to-make-tofu-really-freaking-delicious-tofu-101/"
+          ]
+        },
+        {
+          "name": "coconut cream",
+          "url": "https://www.amazon.com/dp/B0000D16YH?tag=herb-hugo-20",
+          "featured_in": [
+            "/2009/03/how-to-make-an-inside-out-egg-recipe/"
+          ]
+        },
+        {
+          "name": "Cooking by Hand",
+          "url": "https://www.amazon.com/dp/0609608932?tag=herb-hugo-20",
+          "featured_in": [
+            "/2008/10/pumpkin-ravioli/",
+            "/2008/10/pumpkin-ravio-1/",
+            "/2009/08/zucchini-carpaccio-recipe/"
+          ]
+        },
+        {
+          "name": "CorningWare",
+          "url": "https://www.amazon.com/dp/B00005B8JM?tag=herb-hugo-20",
+          "featured_in": [
+            "/2009/09/burnt-sugar-flan-recipe/"
+          ]
+        },
+        {
+          "name": "Crackers &amp; Dips: More than 50 Handmade Snacks",
+          "url": "https://www.amazon.com/dp/1452109508?tag=herb-hugo-20",
+          "featured_in": [
+            "/2013/07/crackers-and-dips-more-than-fifty-homemade-snacks-cookbook-review/"
+          ]
+        },
+        {
+          "name": "Culinary Artistry",
+          "url": "https://www.amazon.com/dp/0471287857?tag=herb-hugo-20",
+          "featured_in": [
+            "/2008/09/the-flavor-bibl/"
+          ]
+        },
+        {
+          "name": "Daniel Boulud",
+          "url": "https://www.amazon.com/dp/0465007775?tag=herb-hugo-20",
+          "featured_in": [
+            "/2012/03/so-you-want-to-stage-intern-at-a-restaurant/"
+          ]
+        },
+        {
+          "name": "Dessert Express",
+          "url": "https://www.amazon.com/dp/1600850189?tag=herb-hugo-20",
+          "featured_in": [
+            "/2008/11/dessert-express-cookbook-review-with-pudding-cake-recipe/"
+          ]
+        },
+        {
+          "name": "dessert recipe",
+          "url": "https://www.amazon.com/dp/1558327983?tag=herb-hugo-20",
+          "featured_in": [
+            "/2009/03/how-to-make-an-inside-out-egg-recipe/"
+          ]
+        },
+        {
+          "name": "Diana Kennedy",
+          "url": "https://www.amazon.com/dp/0307383253?tag=herb-hugo-20",
+          "featured_in": [
+            "/2008/10/scrambled-eggs/"
+          ]
+        },
+        {
+          "name": "Diana Kennedy",
+          "url": "https://www.amazon.com/dp/0609603558?tag=herb-hugo-20",
+          "featured_in": [
+            "/2009/02/huevos-ahogados-drowned-eggs-recipe/"
+          ]
+        },
+        {
+          "name": "Doughnuts: Simple and Delicious Recipes to Make at Home",
+          "url": "https://www.amazon.com/dp/1570616418?tag=herb-hugo-20",
+          "featured_in": [
+            "/2010/11/bunuelos-bimuelos-donuts-hanukkah-sephardic/"
+          ]
+        },
+        {
+          "name": "Dried Mexican Oregano",
+          "url": "https://www.amazon.com/dp/B00TVAGZFE?tag=herb-hugo-20",
+          "featured_in": [
+            "/2010/09/enfrijoladas-de-espinaca-tortillas-with-spinach-in-black-bean-sauce-recipe/"
+          ]
+        },
+        {
+          "name": "dukkah",
+          "url": "https://www.amazon.com/dp/B001EO5T5M?tag=herb-hugo-20",
+          "featured_in": [
+            "/2009/03/grape-honey-yogurt-recipe/"
+          ]
+        },
+        {
+          "name": "Dukkah",
+          "url": "https://www.amazon.com/dp/B000FNJO7W?tag=herb-hugo-20",
+          "featured_in": [
+            "/2007/07/grilled-peaches/"
+          ]
+        },
+        {
+          "name": "dukkah",
+          "url": "https://www.amazon.com/dp/B0000D9NCD?tag=herb-hugo-20",
+          "featured_in": [
+            "/2008/04/recipe-syrian-y/"
+          ]
+        },
+        {
+          "name": "Edward Espe Brown",
+          "url": "https://www.amazon.com/dp/B0014BQR74?tag=herb-hugo-20",
+          "featured_in": [
+            "/2009/10/complete-tassajara-cookbook-tassajara-bread-book/"
+          ]
+        },
+        {
+          "name": "Essentials of Classic Italian Cooking",
+          "url": "https://www.amazon.com/dp/039458404X?tag=herb-hugo-20",
+          "featured_in": [
+            "/2009/10/minestrone/"
+          ]
+        },
+        {
+          "name": "expensive paraphenalia",
+          "url": "https://www.amazon.com/dp/B0027FXE7C?tag=herb-hugo-20",
+          "featured_in": [
+            "/2010/03/using-dry-ice-to-carry-scent-culinary-fog/"
+          ]
+        },
+        {
+          "name": "fancy-pants dehydrator",
+          "url": "https://www.amazon.com/dp/B004Z915M4?tag=herb-hugo-20",
+          "featured_in": [
+            "/2013/03/corned-beets-recipe/"
+          ]
+        },
+        {
+          "name": "Feeding the Hungry Ghost",
+          "url": "https://www.amazon.com/dp/1608681645?tag=herb-hugo-20",
+          "featured_in": [
+            "/2013/05/hungry-ghost-moroccan-carrot-salad-recipe/"
+          ]
+        },
+        {
+          "name": "Field Roast Spicy Mexican Chipotle Plant-Based Sausage, 12.95 oz",
+          "url": "https://www.amazon.com/dp/B002DQIZRE?tag=herb-hugo-20",
+          "featured_in": [
+            "/2008/03/recipe-veggie-c/"
+          ]
+        },
+        {
+          "name": "fig spread",
+          "url": "https://www.amazon.com/dp/B005GGUITQ?tag=herb-hugo-20",
+          "featured_in": [
+            "/2012/11/pan-fried-polenta-with-chickpea-stew-king-oyster-mushrooms-and-fig-puree/"
+          ]
+        },
+        {
+          "name": "flat-stanleyish",
+          "url": "https://www.amazon.com/dp/0060837764?tag=herb-hugo-20",
+          "featured_in": [
+            "/2009/01/buckwheat-buttermilk-pancakes-recipe/"
+          ]
+        },
+        {
+          "name": "Food &amp; Wine",
+          "url": "https://www.amazon.com/dp/B00005NINY?tag=herb-hugo-20",
+          "featured_in": [
+            "/2009/01/can-a-vegetarian-eat-at-pike-street-fish-fry-restaurant-review-seattle-wa/"
+          ]
+        },
+        {
+          "name": "Frantoia",
+          "url": "https://www.amazon.com/dp/B0006MKY1W?tag=herb-hugo-20",
+          "featured_in": [
+            "/2008/10/peeled-cherry-t/"
+          ]
+        },
+        {
+          "name": "freekeh",
+          "url": "https://www.amazon.com/dp/B003VI0IWI?tag=herb-hugo-20",
+          "featured_in": [
+            "/2011/10/pomegranate-glazed-freekeh-kofte-recipe/"
+          ]
+        },
+        {
+          "name": "freeze-dried raspberries",
+          "url": "https://www.amazon.com/dp/B000FGDM0O?tag=herb-hugo-20",
+          "featured_in": [
+            "/2008/08/blueberry-napol/"
+          ]
+        },
+        {
+          "name": "from a can",
+          "url": "https://www.amazon.com/dp/B000LQJDTC?tag=herb-hugo-20",
+          "featured_in": [
+            "/2009/04/fava-beans-potatoes-saffron-rice/"
+          ]
+        },
+        {
+          "name": "from ChefShop on Amazon",
+          "url": "https://www.amazon.com/dp/B0013TMTZQ?tag=herb-hugo-20",
+          "featured_in": [
+            "/2012/09/caviar-lentil-salad-with-arugula-crispy-shallots-and-roasted-garlic-recipe/"
+          ]
+        },
+        {
+          "name": "from the area of Puy",
+          "url": "https://www.amazon.com/dp/B00012186W?tag=herb-hugo-20",
+          "featured_in": [
+            "/2009/09/french-lentil-salad-recipe/"
+          ]
+        },
+        {
+          "name": "GelPro mats",
+          "url": "https://www.amazon.com/dp/B004P1I71O?tag=herb-hugo-20",
+          "review_url": "/gelpro-mat-your-tired-feet-will-thank-you/"
+        },
+        {
+          "name": "genmaicha tea",
+          "url": "https://www.amazon.com/dp/B000SSNFEW?tag=herb-hugo-20",
+          "featured_in": [
+            "/2008/08/tea-smoked-lych/"
+          ]
+        },
+        {
+          "name": "get one right now",
+          "url": "https://www.amazon.com/dp/B001VGS1M6?tag=herb-hugo-20",
+          "review_url": "/microplane-the-grater-that-changes-everything/",
+          "featured_in": [
+            "/2012/06/ginger-and-black-pepper-rice-pilafrecipe/"
+          ]
+        },
+        {
+          "name": "great item",
+          "url": "https://www.amazon.com/dp/B00004OCKT?tag=herb-hugo-20",
+          "featured_in": [
+            "/2012/06/apple-crostata-with-breadcrumb-streusel-recipe-for-pieday/"
+          ]
+        },
+        {
+          "name": "hand-cranked cavatelli maker",
+          "url": "https://www.amazon.com/dp/B002HWS7B8?tag=herb-hugo-20",
+          "featured_in": [
+            "/2013/02/cavatelli-with-slow-roasted-broccoli-and-harissa-recipe/"
+          ]
+        },
+        {
+          "name": "Happy in the Kitchen",
+          "url": "https://www.amazon.com/dp/1579652999?tag=herb-hugo-20",
+          "featured_in": [
+            "/2010/02/things-that-go-crunch-in-the-night-making-your-food-pop-part-4/",
+            "/2009/03/how-to-make-an-inside-out-egg-recipe/"
+          ]
+        },
+        {
+          "name": "Hario model",
+          "url": "https://www.amazon.com/dp/B001802PIQ?tag=herb-hugo-20",
+          "featured_in": [
+            "/2012/12/sichuan-peppercorn-peanuts-a-snack-that-wants-a-beer/"
+          ]
+        },
+        {
+          "name": "Hawaiian Red Salt",
+          "url": "https://www.amazon.com/dp/B000K7644E?tag=herb-hugo-20",
+          "featured_in": [
+            "/2010/05/cooked-carrot-and-radish-salad-recipe/"
+          ]
+        },
+        {
+          "name": "herbes de Provence",
+          "url": "https://www.amazon.com/dp/B002OH6CO0?tag=herb-hugo-20",
+          "featured_in": [
+            "/2009/03/braised-artichokes-in-a-tomatored-wine-sauce-recipe/"
+          ]
+        },
+        {
+          "name": "here on Amazon",
+          "url": "https://www.amazon.com/dp/B007WZGP14?tag=herb-hugo-20",
+          "featured_in": [
+            "/2012/10/caramelized-banana-and-buttermilk-panna-cotta-vegetarian-panna-cotta-recipe/",
+            "/2009/03/how-to-make-an-inside-out-egg-recipe/"
+          ]
+        },
+        {
+          "name": "Himalayan sulfur salt",
+          "url": "https://www.amazon.com/dp/B001O1Q0NA?tag=herb-hugo-20",
+          "featured_in": [
+            "/2012/12/sichuan-peppercorn-peanuts-a-snack-that-wants-a-beer/"
+          ]
+        },
+        {
+          "name": "I Like You: Hospitality Under the Influence",
+          "url": "https://www.amazon.com/dp/0446696773?tag=herb-hugo-20",
+          "featured_in": [
+            "/2008/11/i-like-you-hospitality-under-the-influence-by-amy-sedaris-cookbook-review/"
+          ]
+        },
+        {
+          "name": "Ina Garten",
+          "url": "https://www.amazon.com/dp/0609602195?tag=herb-hugo-20",
+          "featured_in": [
+            "/2009/06/strawberry-rhubarb-crisp-with-pumpkin-seed-topping-recipe/"
+          ]
+        },
+        {
+          "name": "Japanese Black Sesame Paste, No Additives",
+          "url": "https://www.amazon.com/dp/B089KTTLFJ?tag=herb-hugo-20",
+          "featured_in": [
+            "/2012/05/mango-puffs-with-lemongrass-coconut-pudding-and-black-sesame-recipe/"
+          ]
+        },
+        {
+          "name": "Jaques Pepin",
+          "url": "https://www.amazon.com/dp/0618444114?tag=herb-hugo-20",
+          "featured_in": [
+            "/2012/03/so-you-want-to-stage-intern-at-a-restaurant/"
+          ]
+        },
+        {
+          "name": "Joy of Cooking",
+          "url": "https://www.amazon.com/dp/0743246268?tag=herb-hugo-20",
+          "featured_in": [
+            "/2011/08/peach-sour-cream-buckle-recipe/",
+            "/2009/07/raspberry-blueberry-buckle-recipe/"
+          ]
+        },
+        {
+          "name": "Joyva Sesame Tahini, 15 oz",
+          "url": "https://www.amazon.com/dp/B000VK484I?tag=herb-hugo-20",
+          "featured_in": [
+            "/2009/06/quinoa-and-tahini-recipe/"
+          ]
+        },
+        {
+          "name": "just soft-boiled",
+          "url": "https://www.amazon.com/dp/B0007M2BN0?tag=herb-hugo-20",
+          "featured_in": [
+            "/2009/02/what-to-do-with-an-insideout-egg/"
+          ]
+        },
+        {
+          "name": "Karen and Andrew",
+          "url": "https://www.amazon.com/dp/0471152099?tag=herb-hugo-20",
+          "featured_in": [
+            "/2012/03/so-you-want-to-stage-intern-at-a-restaurant/"
+          ]
+        },
+        {
+          "name": "kevlar glove",
+          "url": "https://www.amazon.com/dp/B001QXZORE?tag=herb-hugo-20",
+          "featured_in": [
+            "/2009/05/goat-cheese-asparagus-and-beet-salad-with-herb-flowers-recipe/"
+          ]
+        },
+        {
+          "name": "kitchen shears",
+          "url": "https://www.amazon.com/dp/B0000CFLH7?tag=herb-hugo-20",
+          "featured_in": [
+            "/2012/05/bibim-naegnmyeon-joll-noodles-cold-and-spicy-korean-noodles-recipe/"
+          ]
+        },
+        {
+          "name": "Laura Chenel Chevre Goat Cheese Log, 8 oz",
+          "url": "https://www.amazon.com/dp/B002CXTOIM?tag=herb-hugo-20",
+          "featured_in": [
+            "/2009/05/chevre-with-sauteed-grapes-and-fresh-herbs-recipe/"
+          ]
+        },
+        {
+          "name": "Locatelli Pecorino Romano Wedge, 7 oz",
+          "url": "https://www.amazon.com/dp/B075JLYF9T?tag=herb-hugo-20",
+          "featured_in": [
+            "/boyikos-aka-boyos-de-queso-sephardic-style-cheese-biscuits/"
+          ]
+        },
+        {
+          "name": "Lord Krishna's Cuisine",
+          "url": "https://www.amazon.com/dp/0525245642?tag=herb-hugo-20",
+          "featured_in": [
+            "/2012/10/onion-pakora-recipe/"
+          ]
+        },
+        {
+          "name": "lovely, if pricey ones from Emily Henry",
+          "url": "https://www.amazon.com/dp/B00022O6HY?tag=herb-hugo-20",
+          "featured_in": [
+            "/2012/07/basic-baked-custard-recipe-an-easy-comforting-dessert-with-many-options/"
+          ]
+        },
+        {
+          "name": "Maldon (aka the world's greatest salt)",
+          "url": "https://www.amazon.com/dp/B0006FS4TI?tag=herb-hugo-20",
+          "featured_in": [
+            "/2012/10/onion-pakora-recipe/",
+            "/2008/03/recipe-beet-rec/",
+            "/2008/06/brownies/"
+          ]
+        },
+        {
+          "name": "Maldon (aka the world's greatest salt) sea salt",
+          "url": "https://www.amazon.com/dp/B0019ZHXQE?tag=herb-hugo-20",
+          "featured_in": [
+            "/2009/07/summer-salad-amuse-bouche-recipe/",
+            "/2010/01/when-it-all-goes-wrong-making-your-food-pop-part-3andahalf/",
+            "/2010/01/crunch-acid-salt-fat-1/"
+          ]
+        },
+        {
+          "name": "Maldon (aka the world's greatest salt)!",
+          "url": "https://www.amazon.com/dp/B0019N89VE?tag=herb-hugo-20",
+          "featured_in": [
+            "/2008/12/grapefruit-crudo-recipe/"
+          ]
+        },
+        {
+          "name": "Maldon salt",
+          "url": "https://www.amazon.com/dp/B000FSE1N4?tag=herb-hugo-20",
+          "featured_in": [
+            "/2013/09/perfect-pan-roasted-green-beans-recipe/"
+          ]
+        },
+        {
+          "name": "Maldon Salt, Sea Salt Flakes, 8.5 oz",
+          "url": "https://www.amazon.com/dp/B00017028M?tag=herb-hugo-20",
+          "featured_in": [
+            "/2013/06/chickpea-and-saffron-pilaf-with-crispy-onions-recipe/",
+            "/2011/04/grapefruit-and-avocado-crudo-recipe/",
+            "/2008/11/polenta-with-sauteed-chard-and-gorgonzola/"
+          ]
+        },
+        {
+          "name": "Mama Lil's Mild Goathorn Peppers 12 oz",
+          "url": "https://www.amazon.com/dp/B007BH3TPI?tag=herb-hugo-20",
+          "featured_in": [
+            "/2011/12/spicy-caponata-panini-recipe/"
+          ]
+        },
+        {
+          "name": "Mama Lil's spicy peppers",
+          "url": "https://www.amazon.com/dp/B006HWTYT8?tag=herb-hugo-20",
+          "featured_in": [
+            "/2011/11/spicy-mama-lils-spaghetti-carbonara-recipe/"
+          ]
+        },
+        {
+          "name": "Mangoes &amp; Curry Leaves: Culinary Travels Through the Great Subcontinent",
+          "url": "https://www.amazon.com/dp/1579652522?tag=herb-hugo-20",
+          "featured_in": [
+            "/2008/09/mangoes-and-cur/"
+          ]
+        },
+        {
+          "name": "Marieke Aged Gouda Cheese (16 oz)",
+          "url": "https://www.amazon.com/dp/B00HYMWPRS?tag=herb-hugo-20",
+          "featured_in": [
+            "/2012/08/pear-and-gouda-salad-recipe/"
+          ]
+        },
+        {
+          "name": "McCutcheon's Home Recipe Apple Butter",
+          "url": "https://www.amazon.com/dp/B001NH57LQ?tag=herb-hugo-20",
+          "featured_in": [
+            "/cheddar-and-apple-butter-panini-with-rosemary-candied-pecans/"
+          ]
+        },
+        {
+          "name": "Medaglia D'Oro Instant Espresso Coffee, 2 oz",
+          "url": "https://www.amazon.com/dp/B002BTI9B0?tag=herb-hugo-20",
+          "featured_in": [
+            "/2012/05/spectacular-chocolate-espresso-brownies-recipe/"
+          ]
+        },
+        {
+          "name": "Mexican Everyday",
+          "url": "https://www.amazon.com/dp/039306154X?tag=herb-hugo-20",
+          "featured_in": [
+            "/2009/02/swiss-chard-enchiladas-in-a-tomatillo-sauce-recipe/",
+            "/2007/07/two-great-mexic/"
+          ]
+        },
+        {
+          "name": "Mexican Oregano Dried Herb, 8 oz",
+          "url": "https://www.amazon.com/dp/B00ATJUC2I?tag=herb-hugo-20",
+          "featured_in": [
+            "/2011/11/chili-borracho-recipe/"
+          ]
+        },
+        {
+          "name": "Mission Street Food: Recipes and Ideas from an Improbable Restaurant",
+          "url": "https://www.amazon.com/dp/1936365154?tag=herb-hugo-20",
+          "featured_in": [
+            "/2013/08/mission-chinese-style-tofu-with-radish-and-shiso-recipe/"
+          ]
+        },
+        {
+          "name": "Modernist Cuisine",
+          "url": "https://www.amazon.com/dp/0982761007?tag=herb-hugo-20",
+          "featured_in": [
+            "/2011/09/umami-packed-vegetarian-broth-recipe-also-vegan/",
+            "/2013/10/roasted-pumpkin-ice-cream/"
+          ]
+        },
+        {
+          "name": "more expensive Thermapen model",
+          "url": "https://www.amazon.com/dp/B003P601S2?tag=herb-hugo-20",
+          "review_url": "/2012/10/why-you-need-an-instant-read-kitchen-thermometer/"
+        },
+        {
+          "name": "Morimoto: The New Art of Japanese Cooking",
+          "url": "https://www.amazon.com/dp/0756631238?tag=herb-hugo-20",
+          "featured_in": [
+            "/2008/08/lychee-tempura/"
+          ]
+        },
+        {
+          "name": "Muir Glen fire roasted tomatoes",
+          "url": "https://www.amazon.com/dp/B0043RMBVW?tag=herb-hugo-20",
+          "featured_in": [
+            "/2012/02/sopes-with-plantain-and-zucchini-and-two-sauces-recipe/"
+          ]
+        },
+        {
+          "name": "Muir Glen's Fire Roasted crushed tomatoes",
+          "url": "https://www.amazon.com/dp/B000LKVH9W?tag=herb-hugo-20",
+          "featured_in": [
+            "/2012/09/rigatoni-with-roasted-cauliflower-and-spicy-tomato-sauce-recipe/"
+          ]
+        },
+        {
+          "name": "My Mexico",
+          "url": "https://www.amazon.com/dp/0609602470?tag=herb-hugo-20",
+          "featured_in": [
+            "/2009/11/bocoles-masa-and-black-bean-cakes-with-spicy-yams-recipe/"
+          ]
+        },
+        {
+          "name": "Newlywed Kitchen: Delicious Meals for Couples Cooking Together",
+          "url": "https://www.amazon.com/dp/1570616329?tag=herb-hugo-20",
+          "featured_in": [
+            "/2010/05/the-newlywed-kitchen-book-review-with-a-recipe-for-zucchini-fritters/"
+          ]
+        },
+        {
+          "name": "Nikon D7000",
+          "url": "https://www.amazon.com/dp/B0042X9LC4?tag=herb-hugo-20",
+          "featured_in": [
+            "/2012/09/transparency-and-support/"
+          ]
+        },
+        {
+          "name": "novelty beer cozy",
+          "url": "https://www.amazon.com/dp/B0047YZYW4?tag=herb-hugo-20",
+          "featured_in": [
+            "/2012/09/transparency-and-support/"
+          ]
+        },
+        {
+          "name": "or you can find it on Amazon",
+          "url": "https://www.amazon.com/dp/B0000CNU5B?tag=herb-hugo-20",
+          "featured_in": [
+            "/2009/03/asparagus-and-tofu-with-guilin-chili-sauce/"
+          ]
+        },
+        {
+          "name": "oven-proof ramekins",
+          "url": "https://www.amazon.com/dp/B004ZQ7M24?tag=herb-hugo-20",
+          "featured_in": [
+            "/2012/07/basic-baked-custard-recipe-an-easy-comforting-dessert-with-many-options/"
+          ]
+        },
+        {
+          "name": "OXO Good Grips",
+          "url": "https://www.amazon.com/dp/B00004OCKR?tag=herb-hugo-20",
+          "featured_in": [
+            "/2010/04/chopped-salad-revisiting-a-classic-recipe/"
+          ]
+        },
+        {
+          "name": "Plenty",
+          "url": "https://www.amazon.com/dp/1452101248?tag=herb-hugo-20",
+          "featured_in": [
+            "/2012/11/fried-artichokes-with-orange-olive-oil-emulsion-recipe/"
+          ]
+        },
+        {
+          "name": "Polyscience smoking gun",
+          "url": "https://www.amazon.com/dp/B0082DNCHU?tag=herb-hugo-20",
+          "featured_in": [
+            "/2013/01/smoked-tofu-buns-recipe/"
+          ]
+        },
+        {
+          "name": "pressure cooker",
+          "url": "https://www.amazon.com/dp/B000MPA044?tag=herb-hugo-20",
+          "featured_in": [
+            "/2009/12/gateaux-de-crepes-recipe/",
+            "/2009/12/black-bean-soup-recipe/"
+          ]
+        },
+        {
+          "name": "Pride of India Amchur Dry Mango Powder",
+          "url": "https://www.amazon.com/dp/B00QWROIYY?tag=herb-hugo-20",
+          "featured_in": [
+            "/2010/01/the-value-of-acid-making-your-food-pop-part-2/"
+          ]
+        },
+        {
+          "name": "Product 0307952177",
+          "url": "https://www.amazon.com/dp/0307952177?tag=herb-hugo-20",
+          "review_url": "/2012/10/the-dirt-candy-cookbook-review/"
+        },
+        {
+          "name": "Product B0076NOGWW",
+          "url": "https://www.amazon.com/dp/B0076NOGWW?tag=herb-hugo-20",
+          "review_url": "/a-french-oven-you-can-live-in-my-favorite-pot-aka-dutch-oven/"
+        },
+        {
+          "name": "Rani Fenugreek Leaves Dried (Kasoori Methi)",
+          "url": "https://www.amazon.com/dp/B018PUTG24?tag=herb-hugo-20",
+          "featured_in": [
+            "/2011/05/indian-lentil-soup-with-fenugreek-or-methi-dal-guest-post-recipe/"
+          ]
+        },
+        {
+          "name": "Ras Al Hanout",
+          "url": "https://www.amazon.com/dp/B000OUX2QA?tag=herb-hugo-20",
+          "featured_in": [
+            "/2007/07/grilled-peaches/"
+          ]
+        },
+        {
+          "name": "Ratio: The Simple Codes Behind the Craft of Everyday Cooking",
+          "url": "https://www.amazon.com/dp/1416566112?tag=herb-hugo-20",
+          "featured_in": [
+            "/2009/11/chocolate-chunk-bread-pudding-recipe/"
+          ]
+        },
+        {
+          "name": "Raw Food / 100 Recipes To Get The Glow",
+          "url": "https://www.amazon.com/dp/0060793554?tag=herb-hugo-20",
+          "featured_in": [
+            "/2007/07/to-play-video-m/"
+          ]
+        },
+        {
+          "name": "Red Hawaaian Alaea",
+          "url": "https://www.amazon.com/dp/B000I3XOPM?tag=herb-hugo-20",
+          "featured_in": [
+            "/2007/07/grilled-peaches/"
+          ]
+        },
+        {
+          "name": "Roasting in Hell's Kitchen: Temper Tantrums, F Words, and the Pursuit of Perfection",
+          "url": "https://www.amazon.com/dp/0061191981?tag=herb-hugo-20",
+          "featured_in": [
+            "/2007/07/battle-of-the-n/"
+          ]
+        },
+        {
+          "name": "SACO Cultured Buttermilk Blend for Cooking and Baking",
+          "url": "https://www.amazon.com/dp/B0014D07BE?tag=herb-hugo-20",
+          "featured_in": [
+            "/2008/05/recipe-sesame-c-1/"
+          ]
+        },
+        {
+          "name": "Salted: A Manifesto on the World&#39;s Most Essential Mineral, with Recipes",
+          "url": "https://www.amazon.com/dp/1580082629?tag=herb-hugo-20",
+          "featured_in": [
+            "/2010/06/interview-with-mark-bitterman-leading-expert-on-culinary-salts/"
+          ]
+        },
+        {
+          "name": "Savory Sweet Life: 100 Simply Delicious Recipes for Every Family Occasion",
+          "url": "https://www.amazon.com/dp/0062064053?tag=herb-hugo-20",
+          "featured_in": [
+            "/2012/06/alices-savory-sweet-life-cookbook-with-a-recipe-for-roasted-carrots-with-sage-brown-butter/"
+          ]
+        },
+        {
+          "name": "Seitenbacher Vegetarian Vegetable Broth, 5 oz (Pack of 6)",
+          "url": "https://www.amazon.com/dp/B000FAPM2Q?tag=herb-hugo-20",
+          "featured_in": [
+            "/2009/12/arroz-a-la-mexicana-mexican-tomato-rice-recipe/"
+          ]
+        },
+        {
+          "name": "Shun",
+          "url": "https://www.amazon.com/dp/B0000Y7KNQ?tag=herb-hugo-20",
+          "featured_in": [
+            "/2011/01/three-ways-to-increase-your-confidence-in-the-kitchen/"
+          ]
+        },
+        {
+          "name": "silpat",
+          "url": "https://www.amazon.com/dp/B00005AXJ9?tag=herb-hugo-20",
+          "featured_in": [
+            "/2007/08/block-party-emp/"
+          ]
+        },
+        {
+          "name": "simple and inexpensive",
+          "url": "https://www.amazon.com/dp/B0002AKKX0?tag=herb-hugo-20",
+          "featured_in": [
+            "/2008/07/cherry-pumpkin/"
+          ]
+        },
+        {
+          "name": "smaller quantities",
+          "url": "https://www.amazon.com/dp/B002YFR66U?tag=herb-hugo-20",
+          "featured_in": [
+            "/2012/11/strawberries-and-cream-birthday-cake-momofuku-style/"
+          ]
+        },
+        {
+          "name": "Starfrit Salad Spinner",
+          "url": "https://www.amazon.com/dp/B000X9GN7W?tag=herb-hugo-20",
+          "featured_in": [
+            "/2009/05/lemon-mustard-vinaigrette-the-simplest-and-best-salad-dressing-recipe/"
+          ]
+        },
+        {
+          "name": "suribachi (Japanese ridged ceramic mortar and pestle)",
+          "url": "https://www.amazon.com/dp/B000UEYXL8?tag=herb-hugo-20",
+          "featured_in": [
+            "/2010/03/gomashio-japanese-sesame-seed-salt-condiment-recipe/"
+          ]
+        },
+        {
+          "name": "Tamales 101",
+          "url": "https://www.amazon.com/dp/1580084281?tag=herb-hugo-20",
+          "featured_in": [
+            "/2011/11/red-chili-sauce-for-tamales/"
+          ]
+        },
+        {
+          "name": "Tamicon brand",
+          "url": "https://www.amazon.com/dp/B000JSQDT0?tag=herb-hugo-20",
+          "featured_in": [
+            "/2009/10/fava-bean-ful-salad-with-tamarind-dressing-recipe/"
+          ]
+        },
+        {
+          "name": "tapioca maltodextrin",
+          "url": "https://www.amazon.com/dp/B00250U9BI?tag=herb-hugo-20",
+          "featured_in": [
+            "/2009/05/experimenting-with-tapioca-maltodextrin-recipe/"
+          ]
+        },
+        {
+          "name": "Taylors of Harrogate Lapsang Souchong Loose Leaf Tea",
+          "url": "https://www.amazon.com/dp/B002JP6H2O?tag=herb-hugo-20",
+          "featured_in": [
+            "/2011/03/roasted-maitake-mushroom-in-smoky-tea-broth-recipe/"
+          ]
+        },
+        {
+          "name": "Terex AL-5L LED Light Tower",
+          "url": "https://www.amazon.com/dp/B004QTPK0G?tag=herb-hugo-20",
+          "featured_in": [
+            "/2012/09/transparency-and-support/"
+          ]
+        },
+        {
+          "name": "The Adaptable Feast",
+          "url": "https://www.amazon.com/dp/1570615837?tag=herb-hugo-20",
+          "featured_in": [
+            "/2009/10/the-adaptable-feast-cookbook-review-and-a-chance-to-win-a-copy/"
+          ]
+        },
+        {
+          "name": "The Art of Fermentation",
+          "url": "https://www.amazon.com/dp/160358286X?tag=herb-hugo-20",
+          "featured_in": [
+            "/2013/05/making-your-own-kimchi-recipe/"
+          ]
+        },
+        {
+          "name": "The Flavor Bible",
+          "url": "https://www.amazon.com/dp/0316118400?tag=herb-hugo-20",
+          "featured_in": [
+            "/2008/09/the-flavor-bibl/"
+          ]
+        },
+        {
+          "name": "The Mushroom Hunters",
+          "url": "https://www.amazon.com/dp/0345536258?tag=herb-hugo-20",
+          "featured_in": [
+            "/2014/06/chanterelle-tostadas-recipes/"
+          ]
+        },
+        {
+          "name": "The Perfect Scoop",
+          "url": "https://www.amazon.com/dp/1580088082?tag=herb-hugo-20",
+          "featured_in": [
+            "/2009/01/caramelized-pear-ice-cream-from-the-perfect-scoop-by-david-lebovitz-recipe-and-cookbook-review/"
+          ]
+        },
+        {
+          "name": "Think Like a Chef",
+          "url": "https://www.amazon.com/dp/0307406954?tag=herb-hugo-20",
+          "featured_in": [
+            "/2009/08/roasted-tomato-and-corn-risotto-recipe/"
+          ]
+        },
+        {
+          "name": "this enormous roll",
+          "url": "https://www.amazon.com/dp/B001AEOAXS?tag=herb-hugo-20",
+          "featured_in": [
+            "/2012/11/strawberries-and-cream-birthday-cake-momofuku-style/"
+          ]
+        },
+        {
+          "name": "this one from Beaufor",
+          "url": "https://www.amazon.com/dp/B003O6BYW0?tag=herb-hugo-20",
+          "featured_in": [
+            "/2012/10/black-rice-fritter-with-turnips-and-horseradish-cream-recipe/"
+          ]
+        },
+        {
+          "name": "this version",
+          "url": "https://www.amazon.com/dp/B0006GT586?tag=herb-hugo-20",
+          "featured_in": [
+            "/2012/08/the-joy-of-a-proper-spatula/"
+          ]
+        },
+        {
+          "name": "Togarashi-",
+          "url": "https://www.amazon.com/dp/B0002YGSA0?tag=herb-hugo-20",
+          "featured_in": [
+            "/2008/08/lychee-tempura/"
+          ]
+        },
+        {
+          "name": "Top Chef",
+          "url": "https://www.amazon.com/dp/0811864308?tag=herb-hugo-20",
+          "featured_in": [
+            "/2008/12/ilans-top-chef-fideos-vegetarian-style-with-a-review-of-the-top-chef-cookbook/"
+          ]
+        },
+        {
+          "name": "True Blood",
+          "url": "https://www.amazon.com/dp/B001FB4W0W?tag=herb-hugo-20",
+          "featured_in": [
+            "/2008/12/potatoes-alioli/"
+          ]
+        },
+        {
+          "name": "TRUFF Black Truffle Salt, Fine and Coarse Sea Salt",
+          "url": "https://www.amazon.com/dp/B0BG9BNZDW?tag=herb-hugo-20",
+          "featured_in": [
+            "/2011/05/blue-potato-tarts-recipe/"
+          ]
+        },
+        {
+          "name": "Ultra-Tex 3",
+          "url": "https://www.amazon.com/dp/B00250U8XC?tag=herb-hugo-20",
+          "featured_in": [
+            "/2010/01/antigriddle-pudding-pop-bruleed-mango-black-sesame-tuile-recipe/"
+          ]
+        },
+        {
+          "name": "What to Drink with What You Eat",
+          "url": "https://www.amazon.com/dp/0821257188?tag=herb-hugo-20",
+          "featured_in": [
+            "/2008/09/the-flavor-bibl/"
+          ]
+        },
+        {
+          "name": "Whopper Cake",
+          "url": "https://www.amazon.com/dp/0689838441?tag=herb-hugo-20",
+          "featured_in": [
+            "/2009/06/whopper-cake-book-review/"
+          ]
+        },
+        {
+          "name": "Yakami Orchard 100% Pure Japanese Yuzu Juice, 12 oz",
+          "url": "https://www.amazon.com/dp/B002ACC8II?tag=herb-hugo-20",
+          "featured_in": [
+            "/2010/03/avocado-grapefruit-mango-yuzu-cilantro/"
+          ]
+        },
+        {
+          "name": "you can jump right over to Amazon and get it",
+          "url": "https://www.amazon.com/dp/B000LQETHI?tag=herb-hugo-20",
+          "featured_in": [
+            "/2012/03/dutch-baby-with-sauteed-apples-my-first-video-recipe/",
+            "/2012/06/apple-crostata-with-breadcrumb-streusel-recipe-for-pieday/",
+            "/2012/06/corn-nut-butter-recipe-work-in-progress/"
+          ]
+        },
+        {
+          "name": "Yuzu kosho",
+          "url": "https://www.amazon.com/dp/B002GE5A8A?tag=herb-hugo-20",
+          "featured_in": [
+            "/2012/10/red-rice-and-avocado-with-crispy-burdock-chips-recipe/"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Spices & Seasonings",
+      "slug": "spices-seasonings",
+      "description": "The global spice rack for adventurous cooks",
+      "image": "/images/shop/spices-seasonings.jpg",
+      "products": [
+        {
+          "name": "asafoetida, otherwise known as hing",
+          "url": "https://www.amazon.com/dp/B000MUX3D4?tag=herb-hugo-20",
+          "featured_in": [
+            "/2011/04/gobi-masala-cauliflower-curry-recipe/"
+          ]
+        },
+        {
+          "name": "Badia Sumac Spice, 4.75 oz",
+          "url": "https://www.amazon.com/dp/B07NVVT8DF?tag=herb-hugo-20",
+          "featured_in": [
+            "/2007/08/biscuits-big-jo/"
+          ]
+        },
+        {
+          "name": "Berbere 4.0 oz by Zamouri Spices",
+          "url": "https://www.amazon.com/dp/B000QNR2WA?tag=herb-hugo-20",
+          "featured_in": [
+            "/2010/08/ethiopian-ful-mudammas-recipe/",
+            "/2010/02/chard-with-berbere-a-simple-spicy-ethiopianstyle-side-dish-recipe/"
+          ]
+        },
+        {
+          "name": "black mustard seeds",
+          "url": "https://www.amazon.com/dp/B000JMAXMY?tag=herb-hugo-20",
+          "featured_in": [
+            "/2011/04/gobi-masala-cauliflower-curry-recipe/",
+            "/2008/10/five-minute-ind/"
+          ]
+        },
+        {
+          "name": "bourbon-smoked paprika",
+          "url": "https://www.amazon.com/dp/B0035R8O12?tag=herb-hugo-20",
+          "featured_in": [
+            "/2009/09/good-stuff-from-bourbon-barrel-foods/"
+          ]
+        },
+        {
+          "name": "Caballo de Oros Rey de la Vera Sweet Smoked Paprika (Pimenton Dulce)",
+          "url": "https://www.amazon.com/dp/B00I5PVVKA?tag=herb-hugo-20",
+          "featured_in": [
+            "/2011/10/spanish-lentil-and-mushroom-stew-recipe/"
+          ]
+        },
+        {
+          "name": "fennel pollen",
+          "url": "https://www.amazon.com/dp/B000V9ESIA?tag=herb-hugo-20",
+          "featured_in": [
+            "/2011/10/braised-fennel-recipe/"
+          ]
+        },
+        {
+          "name": "gochugaru, a Korean chili powder",
+          "url": "https://www.amazon.com/dp/B004W71CJU?tag=herb-hugo-20",
+          "featured_in": [
+            "/2012/08/tomato-and-nectarine-salad-with-a-korean-dressing-recipe/",
+            "/2012/09/quick-green-apple-kimchi-recipe/"
+          ]
+        },
+        {
+          "name": "Herbs Botanica Long Pepper Whole (Piper Longum)",
+          "url": "https://www.amazon.com/dp/B0BF5QY1Y2?tag=herb-hugo-20",
+          "featured_in": [
+            "/2011/09/loaded-otsu-noodles-recipe/"
+          ]
+        },
+        {
+          "name": "Korean chili powder (gochugaru)",
+          "url": "https://www.amazon.com/dp/B005OJUSZE?tag=herb-hugo-20",
+          "featured_in": [
+            "/2013/05/making-your-own-kimchi-recipe/"
+          ]
+        },
+        {
+          "name": "La Chinata Sweet Smoked Paprika Powder 70g",
+          "url": "https://www.amazon.com/dp/B00LX21KVW?tag=herb-hugo-20",
+          "featured_in": [
+            "/2011/12/triple-smoky-mac-and-cheese-recipe/"
+          ]
+        },
+        {
+          "name": "long pepper",
+          "url": "https://www.amazon.com/dp/B000PDXE46?tag=herb-hugo-20",
+          "featured_in": [
+            "/2009/05/experimenting-with-tapioca-maltodextrin-recipe/"
+          ]
+        },
+        {
+          "name": "New Mexico Chili Powder 1 LB by Amazing Chiles & Spices",
+          "url": "https://www.amazon.com/dp/B09RQHNJ19?tag=herb-hugo-20",
+          "featured_in": [
+            "/2011/01/spicy-corn-and-potato-stew-recipe/"
+          ]
+        },
+        {
+          "name": "Pollen Ranch Organic Fennel Pollen (1 oz)",
+          "url": "https://www.amazon.com/dp/B005P085DO?tag=herb-hugo-20",
+          "featured_in": [
+            "/2008/06/pickled-onion-c/"
+          ]
+        },
+        {
+          "name": "Pollen Ranch Organic Fennel Pollen, 0.5 oz",
+          "url": "https://www.amazon.com/dp/B00019TMK4?tag=herb-hugo-20",
+          "featured_in": [
+            "/2010/08/a-funny-little-cheese-course-recipe/",
+            "/2007/12/cheese-and-grap/",
+            "/2009/12/the-wrath-of-grapes-grape-expectations-you-ungrapeful-bastard/"
+          ]
+        },
+        {
+          "name": "Rani Asafetida (Hing) Ground 3.75oz",
+          "url": "https://www.amazon.com/dp/B006POH22Y?tag=herb-hugo-20",
+          "featured_in": [
+            "/2012/01/saag-with-collard-greens-kale-and-spinach-recipe/"
+          ]
+        },
+        {
+          "name": "Rani Black Mustard Seeds Whole Spice, 3.5 oz",
+          "url": "https://www.amazon.com/dp/B000MZC7C2?tag=herb-hugo-20",
+          "featured_in": [
+            "/2012/06/banana-raita-recipe/",
+            "/2011/07/chana-mushroom-masala-recipe/",
+            "/2012/01/five-minute-indian-style-cabbage-recipe/"
+          ]
+        },
+        {
+          "name": "ras el hanout",
+          "url": "https://www.amazon.com/dp/B000FVCVS8?tag=herb-hugo-20",
+          "featured_in": [
+            "/2012/08/zucchini-chickpea-tagine-recipe/"
+          ]
+        },
+        {
+          "name": "Sadaf Ground Sumac",
+          "url": "https://www.amazon.com/dp/B00886NHDK?tag=herb-hugo-20",
+          "featured_in": [
+            "/2011/03/middle-eastern-panzanella-recipe/"
+          ]
+        },
+        {
+          "name": "saffron",
+          "url": "https://www.amazon.com/dp/B007P4W0OI?tag=herb-hugo-20",
+          "featured_in": [
+            "/2013/02/saffron-date-posset-a-dessert-you-should-know-recipe/"
+          ]
+        },
+        {
+          "name": "Saffron Shores: Jewish Cooking of the Southern Mediterranean",
+          "url": "https://www.amazon.com/dp/B000B16SRW?tag=herb-hugo-20",
+          "featured_in": [
+            "/2007/11/recipe-how-to-m/"
+          ]
+        },
+        {
+          "name": "Shan Chaat Masala Seasoning Mix, 100g",
+          "url": "https://www.amazon.com/dp/B000MSS6CO?tag=herb-hugo-20",
+          "featured_in": [
+            "/2008/02/recipe-chana-ch/"
+          ]
+        },
+        {
+          "name": "smoked paprika",
+          "url": "https://www.amazon.com/dp/B000NO943C?tag=herb-hugo-20",
+          "featured_in": [
+            "/2009/03/challah-french-toast-bread-pudding-goodness-recipe/",
+            "/2009/07/quinoa-cakes-with-a-farmers-market-feast-recipe/",
+            "/2010/06/peppery-red-wine-capellini-cooked-by-the-absorption-method-recipe/"
+          ]
+        },
+        {
+          "name": "smoked paprika",
+          "url": "https://www.amazon.com/dp/B000NO5CRY?tag=herb-hugo-20",
+          "featured_in": [
+            "/2012/06/saffron-chickpea-stew-with-grilled-porcini-mushroom-recipe/"
+          ]
+        },
+        {
+          "name": "smoked paprika",
+          "url": "https://www.amazon.com/dp/B003QI7QDM?tag=herb-hugo-20",
+          "featured_in": [
+            "/2012/01/pan-roasted-brussels-sprouts-with-shiitakes-and-smoked-paprika-recipe/",
+            "/2012/11/black-rice-fritters-with-chimichurri-a-hanukkah-friendly-entree-recipe/",
+            "/2012/11/vegan-bacon-from-king-oyster-mushrooms-recipe/"
+          ]
+        },
+        {
+          "name": "Soeos Sichuan Peppercorn Powder",
+          "url": "https://www.amazon.com/dp/B07P96X6YB?tag=herb-hugo-20",
+          "featured_in": [
+            "/2008/08/iced-lychee-wit/"
+          ]
+        },
+        {
+          "name": "Spicy World Asafoetida (Hing) Ground Powder",
+          "url": "https://www.amazon.com/dp/B07C8FHVTT?tag=herb-hugo-20",
+          "featured_in": [
+            "/2012/01/kala-chana-black-chickpea-curry/"
+          ]
+        },
+        {
+          "name": "Spicy World Berbere Spice Blend, Authentic Ethiopian Seasoning",
+          "url": "https://www.amazon.com/dp/B08FBLK53S?tag=herb-hugo-20",
+          "featured_in": [
+            "/2010/02/mesir-wat-ethiopian-red-lentils-recipe/"
+          ]
+        },
+        {
+          "name": "Spicy World Black Salt (Kala Namak)",
+          "url": "https://www.amazon.com/dp/B07CTW5NJX?tag=herb-hugo-20",
+          "featured_in": [
+            "/2008/01/recipe-grapefru/"
+          ]
+        },
+        {
+          "name": "Szechwan peppercorn",
+          "url": "https://www.amazon.com/dp/B000EMAQ4E?tag=herb-hugo-20",
+          "featured_in": [
+            "/2012/06/super-spicy-tofu-and-peppers-or-ok-fine-mild-if-you-prefer-recipe/"
+          ]
+        },
+        {
+          "name": "The Man Who Ate Everything",
+          "url": "https://www.amazon.com/dp/0375702024?tag=herb-hugo-20",
+          "featured_in": [
+            "/2010/01/crunch-acid-salt-fat-1/"
+          ]
+        },
+        {
+          "name": "The Spice Hut Organic Ras El Hanout Seasoning, 2 oz",
+          "url": "https://www.amazon.com/dp/B0766D1B8S?tag=herb-hugo-20",
+          "featured_in": [
+            "/2012/09/shaved-artichoke-salad-with-blood-oranges-recipe/"
+          ]
+        },
+        {
+          "name": "The Spice Lab Cyprus Black Flake Sea Salt 4 oz",
+          "url": "https://www.amazon.com/dp/B00IQW7UFW?tag=herb-hugo-20",
+          "featured_in": [
+            "/2011/08/tomato-sushi-yes-thats-vegetarian-recipe/"
+          ]
+        },
+        {
+          "name": "The Spice Way Harissa Seasoning",
+          "url": "https://www.amazon.com/dp/B07NSP64G8?tag=herb-hugo-20",
+          "featured_in": [
+            "/2008/01/couscous-with-s/"
+          ]
+        },
+        {
+          "name": "The Spice Way Pure Ground Sumac Spice, 4 oz",
+          "url": "https://www.amazon.com/dp/B07R4LL17V?tag=herb-hugo-20",
+          "featured_in": [
+            "/2012/08/quick-harissa-oil-recipe/",
+            "/2012/02/red-lentil-and-kabocha-squash-soup-with-harissa-oil-sneak-peak-recipe-from-the-cookbook/"
+          ]
+        },
+        {
+          "name": "The Spice Way Ras El Hanout Moroccan Spice Blend",
+          "url": "https://www.amazon.com/dp/B072N6RHSV?tag=herb-hugo-20",
+          "featured_in": [
+            "/2012/01/chickpea-and-green-olive-tagine-recipe/"
+          ]
+        },
+        {
+          "name": "Za'atar Spice Blend",
+          "url": "https://www.amazon.com/dp/B01NBUZ1R8?tag=herb-hugo-20",
+          "featured_in": [
+            "/2008/07/garlic-scape-ri/"
+          ]
+        },
+        {
+          "name": "Zaffrus Certified Organic Saffron Threads 1 gram",
+          "url": "https://www.amazon.com/dp/B07J29JF27?tag=herb-hugo-20",
+          "featured_in": [
+            "/2010/07/tomato-jam-with-rosemary-and-saffron-recipe/"
+          ]
+        },
+        {
+          "name": "Zaran Saffron Superior Saffron Threads (Super Negin) 2g",
+          "url": "https://www.amazon.com/dp/B079BQQVY7?tag=herb-hugo-20",
+          "featured_in": [
+            "/2013/04/saffron-risotto-with-watercress-puree-and-spring-vegetables-recipe/"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Grains & Legumes",
+      "slug": "grains-legumes",
+      "description": "Wholesome staples from around the world",
+      "image": "/images/shop/grains-legumes.jpg",
+      "products": [
+        {
+          "name": "Anthony's Organic Buckwheat Flour, 3 lb",
+          "url": "https://www.amazon.com/dp/B01EIQROUA?tag=herb-hugo-20",
+          "featured_in": [
+            "/2012/04/buckwheat-buttermilk-pancakes-cookbook-recipe/"
+          ]
+        },
+        {
+          "name": "Bob's Red Mill Gluten Free Rice Flour, 1.5 lb",
+          "url": "https://www.amazon.com/dp/B0019GZ7YI?tag=herb-hugo-20",
+          "featured_in": [
+            "/2011/09/banh-xeo-crispy-vietnamese-crepe-recipe/"
+          ]
+        },
+        {
+          "name": "Bob's Red Mill Medium Grind Cornmeal, 24 oz",
+          "url": "https://www.amazon.com/dp/B0842TT35H?tag=herb-hugo-20",
+          "featured_in": [
+            "/2009/04/best-cornbread-ever/"
+          ]
+        },
+        {
+          "name": "Bob's Red Mill Organic Farro Grain",
+          "url": "https://www.amazon.com/dp/B07XLQ13WY?tag=herb-hugo-20",
+          "featured_in": [
+            "/2011/12/farro-and-chickpea-soup-recipe/"
+          ]
+        },
+        {
+          "name": "Bob's Red Mill Organic Whole Wheat Pastry Flour",
+          "url": "https://www.amazon.com/dp/B000YFD2CE?tag=herb-hugo-20",
+          "featured_in": [
+            "/2011/08/dhal-puri-roti-caribbean-lentil-stuffed-flatbread-recipe/",
+            "/2012/11/sesame-orange-sable-cookies-recipe/"
+          ]
+        },
+        {
+          "name": "Bob's Red Mill Teff Flour",
+          "url": "https://www.amazon.com/dp/B07XKDR6HN?tag=herb-hugo-20",
+          "featured_in": [
+            "/2007/11/eat-ethiopian-t/"
+          ]
+        },
+        {
+          "name": "Bob's Red Mill Xanthan Gum 8 oz",
+          "url": "https://www.amazon.com/dp/B0013JJZWG?tag=herb-hugo-20",
+          "featured_in": [
+            "/2011/08/watermelon-gazpacho-recipe/"
+          ]
+        },
+        {
+          "name": "De Cecco Orecchiette No. 91 Pasta (16 oz)",
+          "url": "https://www.amazon.com/dp/B00060O7H6?tag=herb-hugo-20",
+          "featured_in": [
+            "/2012/06/orecchiette-with-garlic-scapes-ricotta-and-gremolata-recipe/"
+          ]
+        },
+        {
+          "name": "De la Estancia Organic Polenta, 1 lb (Pack of 6)",
+          "url": "https://www.amazon.com/dp/B000HRZX6C?tag=herb-hugo-20",
+          "featured_in": [
+            "/2008/06/polenta-with-as/",
+            "/2011/10/stuffed-baked-polenta-recipe/",
+            "/2009/02/chimichurri-argentine-parsley-sauce-recipe/"
+          ]
+        },
+        {
+          "name": "Dried Beancurd Sticks, Non-GMO Soybean Curd Skin",
+          "url": "https://www.amazon.com/dp/B08J42X9B7?tag=herb-hugo-20",
+          "featured_in": [
+            "/2012/11/congee-with-crispy-yuba-recipe/",
+            "/2011/12/crispy-yuba-tofu-skin-rolls-recipe/"
+          ]
+        },
+        {
+          "name": "Home Baking: The Artful Mix of Flour and Traditions from Around the World",
+          "url": "https://www.amazon.com/dp/1579651747?tag=herb-hugo-20",
+          "featured_in": [
+            "/2008/09/mangoes-and-cur/"
+          ]
+        },
+        {
+          "name": "Judee's Gluten Free Xanthan Gum Powder",
+          "url": "https://www.amazon.com/dp/B00IZDIMCM?tag=herb-hugo-20",
+          "featured_in": [
+            "/2011/06/cheddar-battered-onion-rings-recipe/"
+          ]
+        },
+        {
+          "name": "Kikkoman Panko Japanese Style Bread Crumbs",
+          "url": "https://www.amazon.com/dp/B000WD3PZM?tag=herb-hugo-20",
+          "featured_in": [
+            "/2007/08/eggplant-parmes/"
+          ]
+        },
+        {
+          "name": "Maseca Instant Corn Masa Mix Flour",
+          "url": "https://www.amazon.com/dp/B0000IJYK4?tag=herb-hugo-20",
+          "featured_in": [
+            "/2011/11/indian-fry-bread-tacos-recipe/",
+            "/2007/12/jewish-christma/"
+          ]
+        },
+        {
+          "name": "Maseca Instant Corn Masa Mix Flour, 4.84 lb",
+          "url": "https://www.amazon.com/dp/B01BY8MCBQ?tag=herb-hugo-20",
+          "featured_in": [
+            "/2011/10/bocoles-with-spicy-sweet-potatoes-recipe/"
+          ]
+        },
+        {
+          "name": "Ottogi Korean Sweet Potato Glass Noodles 2.2 lbs",
+          "url": "https://www.amazon.com/dp/B01MCVZR8G?tag=herb-hugo-20",
+          "featured_in": [
+            "/2010/04/vegetarian-japchae-a-guest-recipe-by-alice-of-savory-sweet-life/"
+          ]
+        },
+        {
+          "name": "pasta roller attachment for my Kitchen-Aid mixer",
+          "url": "https://www.amazon.com/dp/B000TTCK64?tag=herb-hugo-20",
+          "featured_in": [
+            "/2010/12/pappardelle-with-eggplant-ragu-and-fresh-ricotta-recipe/"
+          ]
+        },
+        {
+          "name": "pasta-extruder attachment",
+          "url": "https://www.amazon.com/dp/B003GWZ9ZK?tag=herb-hugo-20",
+          "featured_in": [
+            "/2012/09/rigatoni-with-roasted-cauliflower-and-spicy-tomato-sauce-recipe/"
+          ]
+        },
+        {
+          "name": "Pereg Du Puy French Green Lentils",
+          "url": "https://www.amazon.com/dp/B08B3XFW1C?tag=herb-hugo-20",
+          "featured_in": [
+            "/2011/02/crostini-with-truffle-cheese-lentils-de-puy-and-apples-recipe/"
+          ]
+        },
+        {
+          "name": "rice cooker",
+          "url": "https://www.amazon.com/dp/B00007J5U7?tag=herb-hugo-20",
+          "featured_in": [
+            "/2011/10/scallion-curd-rice-recipe/",
+            "/2011/06/coconut-rice-with-black-beans-plantains-and-mango-salsa-recipe/"
+          ]
+        },
+        {
+          "name": "Rustichella D'Abruzzo Fregola Sarda",
+          "url": "https://www.amazon.com/dp/B000B38C6A?tag=herb-hugo-20",
+          "featured_in": [
+            "/2012/08/celery-soup-with-fregola-sarda-or-israeli-couscous-recipe/"
+          ]
+        },
+        {
+          "name": "Seductions of Rice",
+          "url": "https://www.amazon.com/dp/1579652344?tag=herb-hugo-20",
+          "featured_in": [
+            "/2008/09/mangoes-and-cur/"
+          ]
+        },
+        {
+          "name": "Stringozzi Pasta 17.6 oz (pack of 3)",
+          "url": "https://www.amazon.com/dp/B07BWN5RLH?tag=herb-hugo-20",
+          "featured_in": [
+            "/2010/01/stringozzi-or-linguini-con-funghi-simple-pasta-with-mushrooms-recipe/"
+          ]
+        },
+        {
+          "name": "Swad Chana Dal (Split Desi Chickpeas), 4 lb",
+          "url": "https://www.amazon.com/dp/B005ZEMHVG?tag=herb-hugo-20",
+          "featured_in": [
+            "/2009/02/chana-dal-in-the-style-of-puri-jagannath-temple-recipe/"
+          ]
+        },
+        {
+          "name": "Swad Poha Thick Flattened Rice, 2 lb",
+          "url": "https://www.amazon.com/dp/B004XTDSB2?tag=herb-hugo-20",
+          "featured_in": [
+            "/2012/03/poha-flattened-rice-with-coconut-and-cashews-recipe/"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Condiments & Sauces",
+      "slug": "condiments-sauces",
+      "description": "Bold flavors to keep on hand",
+      "image": "/images/shop/condiments-sauces.jpg",
+      "products": [
+        {
+          "name": "ABC Kecap Manis Indonesian Special Sweet Soy Sauce",
+          "url": "https://www.amazon.com/dp/B000249E5Q?tag=herb-hugo-20",
+          "featured_in": [
+            "/2009/10/vietnamese-vermicelli-bun-with-ginger-grapefruit-sauce-recipe/"
+          ]
+        },
+        {
+          "name": "ABC Sweet Soy Sauce (Kecap Manis)",
+          "url": "https://www.amazon.com/dp/B00886AVOI?tag=herb-hugo-20",
+          "featured_in": [
+            "/2011/07/rice-vermicelli-bun-with-ginger-grapefruit-sauce-recipe/",
+            "/2011/04/seared-tofu-poke-recipe/"
+          ]
+        },
+        {
+          "name": "Activa RM Transglutaminase",
+          "url": "https://www.amazon.com/dp/B0F5Z55TH5?tag=herb-hugo-20",
+          "featured_in": [
+            "/2013/07/greatest-veggie-burger/"
+          ]
+        },
+        {
+          "name": "chili oil",
+          "url": "https://www.amazon.com/dp/B001NI726S?tag=herb-hugo-20",
+          "featured_in": [
+            "/2013/03/sichuan-spicy-cauliflower-recipe/"
+          ]
+        },
+        {
+          "name": "CJ Haechandle Gochujang Korean Red Pepper Paste",
+          "url": "https://www.amazon.com/dp/B07BDRMFDZ?tag=herb-hugo-20",
+          "featured_in": [
+            "/2011/06/three-easy-banchan-korean-side-dishes-recipes/"
+          ]
+        },
+        {
+          "name": "dry harissa mix",
+          "url": "https://www.amazon.com/dp/B001E453JO?tag=herb-hugo-20",
+          "featured_in": [
+            "/2009/03/grape-honey-yogurt-recipe/"
+          ]
+        },
+        {
+          "name": "Eden Umeboshi Paste, Pickled Ume Plum Puree",
+          "url": "https://www.amazon.com/dp/B0013JLOHA?tag=herb-hugo-20",
+          "featured_in": [
+            "/2011/08/chirashi-sushi-recipe/"
+          ]
+        },
+        {
+          "name": "El Mexicano Achiote Paste, 3.5 oz",
+          "url": "https://www.amazon.com/dp/B00169V7TW?tag=herb-hugo-20",
+          "featured_in": [
+            "/2008/09/achiote-rubbed/"
+          ]
+        },
+        {
+          "name": "El Yucateco Achiote Paste, 3.5 oz",
+          "url": "https://www.amazon.com/dp/B00NU1O7T6?tag=herb-hugo-20",
+          "featured_in": [
+            "/2010/05/grilled-tofu-and-pepper-vegetarian-tacos-recipe/"
+          ]
+        },
+        {
+          "name": "Galil Pickled Mango Amba",
+          "url": "https://www.amazon.com/dp/B00P8FCMIU?tag=herb-hugo-20",
+          "featured_in": [
+            "/2008/04/recipe-sabich/"
+          ]
+        },
+        {
+          "name": "harissa",
+          "url": "https://www.amazon.com/dp/B0012WF8P2?tag=herb-hugo-20",
+          "featured_in": [
+            "/2012/10/harissa-potatoes-recipe/",
+            "/2012/09/quickie-amba-pickled-mango-condiment-recipe/"
+          ]
+        },
+        {
+          "name": "Hikari Organic Red Miso Paste 17.6 oz",
+          "url": "https://www.amazon.com/dp/B00FBSST9K?tag=herb-hugo-20",
+          "featured_in": [
+            "/2011/06/tofu-dengaku-recipe/"
+          ]
+        },
+        {
+          "name": "Indian lime pickle",
+          "url": "https://www.amazon.com/dp/B000JSSOCY?tag=herb-hugo-20",
+          "featured_in": [
+            "/2012/06/ginger-and-black-pepper-rice-pilafrecipe/"
+          ]
+        },
+        {
+          "name": "KAKUKYU Hatcho Miso Paste",
+          "url": "https://www.amazon.com/dp/B0DNQ4Y74Y?tag=herb-hugo-20",
+          "featured_in": [
+            "/2012/05/korean-yakisoba-with-french-horn-mushroom-tofu-and-510-egg-recipe/"
+          ]
+        },
+        {
+          "name": "LM Pectin",
+          "url": "https://www.amazon.com/dp/B0009XBJCG?tag=herb-hugo-20",
+          "featured_in": [
+            "/2009/08/cherry-tomato/"
+          ]
+        },
+        {
+          "name": "Maille Pickles Cornichons Original",
+          "url": "https://www.amazon.com/dp/B00112IYZ4?tag=herb-hugo-20",
+          "featured_in": [
+            "/2011/06/braised-belgian-endive-with-sauce-gribiche-recipe/"
+          ]
+        },
+        {
+          "name": "Maruman Organic Red Miso",
+          "url": "https://www.amazon.com/dp/B004QYW7UW?tag=herb-hugo-20",
+          "featured_in": [
+            "/2011/02/garlic-miso-broth-recipe/"
+          ]
+        },
+        {
+          "name": "Mina Harissa Hot Sauce Moroccan Red Pepper Paste",
+          "url": "https://www.amazon.com/dp/B00634JM8I?tag=herb-hugo-20",
+          "featured_in": [
+            "/2012/04/kouftikes-de-prasa-sandwiches-recipe/"
+          ]
+        },
+        {
+          "name": "Mina Preserved Lemons, Authentic Moroccan, 12.5 oz",
+          "url": "https://www.amazon.com/dp/B07PSJCLC6?tag=herb-hugo-20",
+          "featured_in": [
+            "/2008/01/recipe-white-be/"
+          ]
+        },
+        {
+          "name": "Mustapha's Moroccan Harissa",
+          "url": "https://www.amazon.com/dp/B0000D9N0R?tag=herb-hugo-20",
+          "featured_in": [
+            "/2013/08/fried-pita-bread-with-fava-beans-and-zucchini-recipe/"
+          ]
+        },
+        {
+          "name": "O'Food Gochujang Korean Red Chili Paste",
+          "url": "https://www.amazon.com/dp/B013HB0CC4?tag=herb-hugo-20",
+          "featured_in": [
+            "/2009/04/crispy-soba-buckwheat-noodle-pancake-with-scallions-and-kochujang-recipe/",
+            "/2012/02/dduk-gogi/",
+            "/2011/01/kimchi-fried-rice-kimchi-bokkeumbap-recipe/"
+          ]
+        },
+        {
+          "name": "O'Food Ssamjang Korean Seasoned Soybean Paste",
+          "url": "https://www.amazon.com/dp/B07BFQPCM6?tag=herb-hugo-20",
+          "featured_in": [
+            "/2011/07/king-oyster-mushroom-lettuce-wraps-with-ssamjang-recipe/",
+            "/2010/06/tofu-and-kimchi-dinner-for-one-recipe/"
+          ]
+        },
+        {
+          "name": "Ohsawa Organic Nama Shoyu Unpasteurized Soy Sauce, 10 oz",
+          "url": "https://www.amazon.com/dp/B001A4DV88?tag=herb-hugo-20",
+          "featured_in": [
+            "/2011/08/soba-noodles-in-shiitake-shoyu-broth-with-spring-vegetables-recipe/"
+          ]
+        },
+        {
+          "name": "Ohsawa Organic Unpasteurized Nama Shoyu",
+          "url": "https://www.amazon.com/dp/B0018PUIVW?tag=herb-hugo-20",
+          "featured_in": [
+            "/2009/04/soba-in-shoyu-broth-with-asparagus-leeks-and-tofu-recipe/"
+          ]
+        },
+        {
+          "name": "Pomona's Universal Pectin (1.1 oz)",
+          "url": "https://www.amazon.com/dp/B001HTIU96?tag=herb-hugo-20",
+          "featured_in": [
+            "/2011/01/no-churn-chocolate-ice-cream-experimental-recipe/"
+          ]
+        },
+        {
+          "name": "preserved lemon",
+          "url": "https://www.amazon.com/dp/B004AQMSV4?tag=herb-hugo-20",
+          "featured_in": [
+            "/2012/08/zucchini-chickpea-tagine-recipe/"
+          ]
+        },
+        {
+          "name": "preserved lemons",
+          "url": "https://www.amazon.com/dp/B0012S9NU2?tag=herb-hugo-20",
+          "featured_in": [
+            "/2012/10/harissa-potatoes-recipe/",
+            "/2012/09/quickie-amba-pickled-mango-condiment-recipe/"
+          ]
+        },
+        {
+          "name": "S&B La-Yu Chili Oil",
+          "url": "https://www.amazon.com/dp/B0002YGS96?tag=herb-hugo-20",
+          "featured_in": [
+            "/2011/04/tempeh-filled-potstickers-gyoza-recipe/"
+          ]
+        },
+        {
+          "name": "Sichuan Zha Cai Preserved Mustard Stems, 3-Pack",
+          "url": "https://www.amazon.com/dp/B00OOVDBPW?tag=herb-hugo-20",
+          "featured_in": [
+            "/2011/09/sichuan-dry-fried-green-beans-and-tofu-recipe/"
+          ]
+        },
+        {
+          "name": "soy sauce",
+          "url": "https://www.amazon.com/dp/B0079VJGL2?tag=herb-hugo-20",
+          "featured_in": [
+            "/2009/09/good-stuff-from-bourbon-barrel-foods/"
+          ]
+        },
+        {
+          "name": "Stonewall Kitchen Roasted Garlic Onion Jam",
+          "url": "https://www.amazon.com/dp/B000069KQW?tag=herb-hugo-20",
+          "featured_in": [
+            "/2009/04/kitchen-sink-pasta-recipe/",
+            "/2008/07/quesadilla/"
+          ]
+        },
+        {
+          "name": "Sunchang Gochujang Korean Hot Pepper Paste",
+          "url": "https://www.amazon.com/dp/B002WTE0MQ?tag=herb-hugo-20",
+          "featured_in": [
+            "/2008/05/recipe-soft-boi/"
+          ]
+        },
+        {
+          "name": "tamarind concentrate",
+          "url": "https://www.amazon.com/dp/B002OKNOA2?tag=herb-hugo-20",
+          "featured_in": [
+            "/2011/11/beet-curry-recipe-1/"
+          ]
+        },
+        {
+          "name": "Tamicon Tamarind Concentrate 14.11 Oz",
+          "url": "https://www.amazon.com/dp/B01MYXH0YH?tag=herb-hugo-20",
+          "featured_in": [
+            "/2010/01/tiny-eggplant-and-okra-in-tamarind-sauce-recipe/"
+          ]
+        },
+        {
+          "name": "Tamicon Tamarind Concentrate 7.05 oz",
+          "url": "https://www.amazon.com/dp/B00I9P242U?tag=herb-hugo-20",
+          "featured_in": [
+            "/2012/10/spicy-tamarind-glazed-potatoes-recipe/"
+          ]
+        },
+        {
+          "name": "Tapatio Salsa Picante Hot Sauce, 10 oz",
+          "url": "https://www.amazon.com/dp/B000R4G6JS?tag=herb-hugo-20",
+          "featured_in": [
+            "/2013/11/austin-style-breakfast-tacos-recipe/",
+            "/chilaquiles-verde-mexican-scrambled-eggs/"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Oils & Vinegars",
+      "slug": "oils-vinegars",
+      "description": "Quality fats and acids that make dishes sing",
+      "image": "/images/shop/oils-vinegars.jpg",
+      "products": [
+        {
+          "name": "&quot;O&quot; brand California Blood Orange flavored olive oil",
+          "url": "https://www.amazon.com/dp/B0000W2SZS?tag=herb-hugo-20",
+          "featured_in": [
+            "/2007/07/cucumber-zucchi/"
+          ]
+        },
+        {
+          "name": "Columela 30 Year Aged Sherry Vinegar",
+          "url": "https://www.amazon.com/dp/B004S4OCVW?tag=herb-hugo-20",
+          "featured_in": [
+            "/2008/02/recipe-citrus-s/"
+          ]
+        },
+        {
+          "name": "Columela Classic Sherry Vinegar, 12.7 Fl Oz",
+          "url": "https://www.amazon.com/dp/B0058DO1SG?tag=herb-hugo-20",
+          "featured_in": [
+            "/2011/07/hongos-en-escabeche-mushrooms-sauteed-with-vinegar-recipe/",
+            "/2007/11/recipe-roasted/"
+          ]
+        },
+        {
+          "name": "De Nigris Aged Balsamic Vinegar of Modena",
+          "url": "https://www.amazon.com/dp/B004UB692I?tag=herb-hugo-20",
+          "featured_in": [
+            "/2011/03/grilled-treviso-radicchio-recipe/"
+          ]
+        },
+        {
+          "name": "Eden Foods Ume Plum Vinegar, 10 fl oz",
+          "url": "https://www.amazon.com/dp/B0013JNMWA?tag=herb-hugo-20",
+          "featured_in": [
+            "/2008/11/beer-battered-maitake-mushroom-with-japanese-tartar-sauce-recipe/"
+          ]
+        },
+        {
+          "name": "fine aged balsamic vinegar",
+          "url": "https://www.amazon.com/dp/B0008IUUSG?tag=herb-hugo-20",
+          "featured_in": [
+            "/2007/08/fig-brulee-with/",
+            "/2007/07/grilled-peaches/"
+          ]
+        },
+        {
+          "name": "Giusti Traditional Aged Balsamic Vinegar of Modena DOP 12 Years",
+          "url": "https://www.amazon.com/dp/B00MULSARC?tag=herb-hugo-20",
+          "featured_in": [
+            "/2008/10/whats-in-my-pantry-part-1-liquids-by-the-stove/"
+          ]
+        },
+        {
+          "name": "Kadoya Pure Sesame Oil",
+          "url": "https://www.amazon.com/dp/B0001DMTSS?tag=herb-hugo-20",
+          "featured_in": [
+            "/2009/04/tempeh-and-japanese-eggplant-with-crispy-rice-recipe/"
+          ]
+        },
+        {
+          "name": "La Tourangelle Toasted Sesame Oil, 16.9 fl oz",
+          "url": "https://www.amazon.com/dp/B005WXMPMQ?tag=herb-hugo-20",
+          "featured_in": [
+            "/2010/11/better-sesame-corn-muffins-recipe/",
+            "/2011/11/caramel-cooked-tofu-recipe/"
+          ]
+        },
+        {
+          "name": "Napa Valley Naturals Champagne Vinegar (12.7 oz)",
+          "url": "https://www.amazon.com/dp/B000YM9S2A?tag=herb-hugo-20",
+          "featured_in": [
+            "/2012/01/pan-seared-pressed-tofu-with-apples-and-champagne-vinaigrette-recipe/"
+          ]
+        },
+        {
+          "name": "no-boil lasagna noodles",
+          "url": "https://www.amazon.com/dp/B003EXVM66?tag=herb-hugo-20",
+          "featured_in": [
+            "/2008/12/vegetarian-lasagna-recipe-with-spinach-and-ricotta-filling/"
+          ]
+        },
+        {
+          "name": "orange-infused olive oil (from ChefShop)",
+          "url": "https://www.amazon.com/dp/B000UA3H2S?tag=herb-hugo-20",
+          "featured_in": [
+            "/2010/02/roasted-cauliflower-and-white-bean-salad-recipe/"
+          ]
+        },
+        {
+          "name": "pistachio oil",
+          "url": "https://www.amazon.com/dp/B001PNYKLG?tag=herb-hugo-20",
+          "featured_in": [
+            "/2013/02/saffron-date-posset-a-dessert-you-should-know-recipe/"
+          ]
+        },
+        {
+          "name": "Real balsamic vinegar",
+          "url": "https://www.amazon.com/dp/B0030MV7IO?tag=herb-hugo-20",
+          "featured_in": [
+            "/2013/04/roasted-asparagus-with-pistachio-puree-recipe/"
+          ]
+        },
+        {
+          "name": "roasted hazelnut oil",
+          "url": "https://www.amazon.com/dp/B0000D9MRC?tag=herb-hugo-20",
+          "featured_in": [
+            "/2013/01/romesco-sauce-spanish-red-pepper-and-hazelnut-or-almond-sauce-recipe/",
+            "/2012/09/caviar-lentil-salad-with-arugula-crispy-shallots-and-roasted-garlic-recipe/"
+          ]
+        },
+        {
+          "name": "Sadaf Natural Rose Water",
+          "url": "https://www.amazon.com/dp/B007RHW480?tag=herb-hugo-20",
+          "featured_in": [
+            "/2008/09/rings-of-saturn/"
+          ]
+        },
+        {
+          "name": "tasty extra-virgin olive oil",
+          "url": "https://www.amazon.com/dp/B002LZKGWY?tag=herb-hugo-20",
+          "featured_in": [
+            "/2009/05/lemon-mustard-vinaigrette-the-simplest-and-best-salad-dressing-recipe/"
+          ]
+        },
+        {
+          "name": "toasted walnut oil",
+          "url": "https://www.amazon.com/dp/B0000D9MRD?tag=herb-hugo-20",
+          "featured_in": [
+            "/2012/09/caviar-lentil-salad-with-arugula-crispy-shallots-and-roasted-garlic-recipe/"
+          ]
+        },
+        {
+          "name": "truffle oil",
+          "url": "https://www.amazon.com/dp/B000Q9SEZS?tag=herb-hugo-20",
+          "featured_in": [
+            "/2012/09/caviar-lentil-salad-with-arugula-crispy-shallots-and-roasted-garlic-recipe/"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sweeteners",
+      "slug": "sweeteners",
+      "description": "Beyond white sugar \u2014 natural and specialty sweeteners",
+      "image": "/images/shop/sweeteners.jpg",
+      "products": [
+        {
+          "name": "BLiS bourbon-barrel maple syrup",
+          "url": "https://www.amazon.com/dp/B006L80IGQ?tag=herb-hugo-20",
+          "featured_in": [
+            "/2012/05/maple-roasted-shiitake-mushrooms-recipe/",
+            "/2012/07/basic-baked-custard-recipe-an-easy-comforting-dessert-with-many-options/"
+          ]
+        },
+        {
+          "name": "Carnation Original Malted Milk Powder",
+          "url": "https://www.amazon.com/dp/B01MCZGBCQ?tag=herb-hugo-20",
+          "featured_in": [
+            "/2009/07/malt-onion-rings/"
+          ]
+        },
+        {
+          "name": "Coombs Family Farms Organic Maple Syrup, Dark Robust, 32 oz",
+          "url": "https://www.amazon.com/dp/B0083QJU72?tag=herb-hugo-20",
+          "featured_in": [
+            "/2011/01/caramel-apple-french-toast-dessert-recipe/",
+            "/2012/11/cheese-course-with-maple-pickled-pears-recipe/"
+          ]
+        },
+        {
+          "name": "Coombs Family Farms Organic Maple Syrup, Grade A Amber",
+          "url": "https://www.amazon.com/dp/B00E1DFU52?tag=herb-hugo-20",
+          "featured_in": [
+            "/2012/03/maple-pudding-with-spiced-pecans-video-recipe/"
+          ]
+        },
+        {
+          "name": "CORTAS Pomegranate Molasses, 10 oz",
+          "url": "https://www.amazon.com/dp/B004A6ET3O?tag=herb-hugo-20",
+          "featured_in": [
+            "/2011/03/butternut-squash-soup-with-maple-pumpkin-seeds-recipe/"
+          ]
+        },
+        {
+          "name": "India Tree Demerara Sugar",
+          "url": "https://www.amazon.com/dp/B00VEJX49U?tag=herb-hugo-20",
+          "featured_in": [
+            "/2007/08/disaster-recove/"
+          ]
+        },
+        {
+          "name": "Muddy Pond Pure Sorghum Syrup",
+          "url": "https://www.amazon.com/dp/B00C33UUIO?tag=herb-hugo-20",
+          "featured_in": [
+            "/2009/10/jalapeno-sorghum-butter-recipe/"
+          ]
+        },
+        {
+          "name": "pomegranate molasses",
+          "url": "https://www.amazon.com/dp/B000LRKO9E?tag=herb-hugo-20",
+          "featured_in": [
+            "/2007/07/grilled-peaches/"
+          ]
+        },
+        {
+          "name": "Pure Indian Foods Organic Jaggery Sugar, 2-Pack (1kg total)",
+          "url": "https://www.amazon.com/dp/B07RL3HYHS?tag=herb-hugo-20",
+          "featured_in": [
+            "/2007/12/recipe-brussel/"
+          ]
+        },
+        {
+          "name": "Scratch Diastatic Malt Powder for Baking",
+          "url": "https://www.amazon.com/dp/B0CBW3D9T7?tag=herb-hugo-20",
+          "featured_in": [
+            "/2012/04/crunchy-crusted-yeast-raised-belgian-waffles-recipe/"
+          ]
+        },
+        {
+          "name": "Thai Pure Palm Sugar",
+          "url": "https://www.amazon.com/dp/B000PDRANM?tag=herb-hugo-20",
+          "featured_in": [
+            "/2010/02/thai-tofu-salad-recipe/",
+            "/2009/11/vietnamese-green-mango-salad-recipe/"
+          ]
+        },
+        {
+          "name": "Theo Chocolate Pure Organic Dark Chocolate Bar 70% Cacao 6 Pack - Vegan, Fair Trade",
+          "url": "https://www.amazon.com/dp/B07WCQNP33?tag=herb-hugo-20",
+          "featured_in": [
+            "/2011/10/was-your-chocolate-made-with-slave-labor/"
+          ]
+        },
+        {
+          "name": "Theo Pure Organic Dark Chocolate Bar, 70% Cacao, 12 Pack",
+          "url": "https://www.amazon.com/dp/B002HFWQR6?tag=herb-hugo-20",
+          "featured_in": [
+            "/2008/07/amazing-chocola/"
+          ]
+        },
+        {
+          "name": "WillPowder Isomalt Powder",
+          "url": "https://www.amazon.com/dp/B00DJPW678?tag=herb-hugo-20",
+          "featured_in": [
+            "/2008/01/fun-with-isomal/"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dried Vegetables",
+      "slug": "dried-vegetables",
+      "description": "Mushrooms, chiles, seaweed, and other pantry powerhouses",
+      "image": "/images/shop/dried-vegetables.jpg",
+      "products": [
+        {
+          "name": "AROY-D Jackfruit in Syrup",
+          "url": "https://www.amazon.com/dp/B00581KTE8?tag=herb-hugo-20",
+          "featured_in": [
+            "/2011/11/jack-of-all-cakes-a-guest-post-from-lemonpi/"
+          ]
+        },
+        {
+          "name": "Aroy-D Young Green Jackfruit in Brine",
+          "url": "https://www.amazon.com/dp/B005QBCT4S?tag=herb-hugo-20",
+          "featured_in": [
+            "/2011/09/larb-jackfruit-laotian-thai-salad-recipe/"
+          ]
+        },
+        {
+          "name": "Dried Aji Amarillo Pepper, 2 oz",
+          "url": "https://www.amazon.com/dp/B092L7JRRC?tag=herb-hugo-20",
+          "featured_in": [
+            "/2009/11/aji-amarillo-hot-sauce-from-peruvian-chile-peppers-recipe/"
+          ]
+        },
+        {
+          "name": "Dried Chipotle Morita Peppers",
+          "url": "https://www.amazon.com/dp/B00NF1P470?tag=herb-hugo-20",
+          "featured_in": [
+            "/2009/12/creamy-grits-with-crispy-leeks-leek-jus-and-cilantro-pesto-recipe/"
+          ]
+        },
+        {
+          "name": "Dried Kaffir Lime Leaves",
+          "url": "https://www.amazon.com/dp/B00TZ8BK5W?tag=herb-hugo-20",
+          "featured_in": [
+            "/2010/02/eggplant-kaffir-lime-coconut-milk-curry-recipe/",
+            "/2012/03/sauteed-corn-with-lemongrass-recipe/"
+          ]
+        },
+        {
+          "name": "Dried Kaffir Lime Leaves (Makrut)",
+          "url": "https://www.amazon.com/dp/B00PKRTNF6?tag=herb-hugo-20",
+          "featured_in": [
+            "/2008/01/recipe-kaffir-l/"
+          ]
+        },
+        {
+          "name": "Dried Kaffir Lime Leaves for Authentic Thai Flavor",
+          "url": "https://www.amazon.com/dp/B0CY8JH83F?tag=herb-hugo-20",
+          "featured_in": [
+            "/2007/08/lemongrass-corn/"
+          ]
+        },
+        {
+          "name": "Dried Pasilla Chile Peppers",
+          "url": "https://www.amazon.com/dp/B08LCGX3W7?tag=herb-hugo-20",
+          "featured_in": [
+            "/2013/03/enchiladas-de-mole-recipe/"
+          ]
+        },
+        {
+          "name": "Guajillo Chiles Peppers Dried Whole, 4 oz",
+          "url": "https://www.amazon.com/dp/B07VB5DVP1?tag=herb-hugo-20",
+          "featured_in": [
+            "/2011/01/pozole-rojo-de-frijol-recipe/"
+          ]
+        },
+        {
+          "name": "Melissa's Dried Morel Mushrooms",
+          "url": "https://www.amazon.com/dp/B0000TL5IW?tag=herb-hugo-20",
+          "featured_in": [
+            "/2010/09/shiitake-and-morel-ravioli-in-brodo-with-gremolata-recipe/"
+          ]
+        },
+        {
+          "name": "Mexican Chiles 3 Pack - Guajillo, Ancho and Pasilla Dried Whole Peppers",
+          "url": "https://www.amazon.com/dp/B08GYPQRSW?tag=herb-hugo-20",
+          "featured_in": [
+            "/2008/11/vegetarian-pozole-de-frijol-quick-and-hearty-soup-with-hominy-and-pinto-beans-recipe/"
+          ]
+        },
+        {
+          "name": "Mushroom House Dried Shiitake Premium Mushrooms",
+          "url": "https://www.amazon.com/dp/B007RAM3VK?tag=herb-hugo-20",
+          "featured_in": [
+            "/2007/10/recipe-leftover/"
+          ]
+        },
+        {
+          "name": "Sadaf Dried Mint Leaves (2 oz)",
+          "url": "https://www.amazon.com/dp/B00GUU6DX2?tag=herb-hugo-20",
+          "featured_in": [
+            "/2011/07/persian-baked-zucchini-recipe/"
+          ]
+        },
+        {
+          "name": "VIGOROUS MOUNTAINS Dried Morel Mushrooms",
+          "url": "https://www.amazon.com/dp/B07RQTWWKZ?tag=herb-hugo-20",
+          "featured_in": [
+            "/2011/12/crispy-polenta-cakes-with-white-beans-and-morels-recipe/"
+          ]
+        },
+        {
+          "name": "Yuquan Sichuan Zha Cai Preserved Vegetable",
+          "url": "https://www.amazon.com/dp/B079C5V5VX?tag=herb-hugo-20",
+          "featured_in": [
+            "/2012/06/indian-sichuan-pickle-recipe/"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Books",
+      "slug": "books",
+      "description": "Cookbooks and food writing worth reading",
+      "image": "/images/shop/books.jpg",
+      "products": [
+        {
+          "name": "Andrea Nguyen's book, Asian Tofu",
+          "url": "https://www.amazon.com/dp/1607740257?tag=herb-hugo-20",
+          "featured_in": [
+            "/2012/05/how-to-make-tofu-really-freaking-delicious-tofu-101/"
+          ]
+        },
+        {
+          "name": "Aromas of Aleppo: The Legendary Cuisine of Syrian Jews",
+          "url": "https://www.amazon.com/dp/0060888180?tag=herb-hugo-20",
+          "featured_in": [
+            "/2008/04/recipe-syrian-s/",
+            "/2008/04/recipe-atayef/"
+          ]
+        },
+        {
+          "name": "Best Food Writing 2007 by Holly Hughes",
+          "url": "https://www.amazon.com/dp/1600940390?tag=herb-hugo-20",
+          "featured_in": [
+            "/2008/03/book-review-bes/"
+          ]
+        },
+        {
+          "name": "Herbivoracious: A Flavor Revolution, Michael Natkin",
+          "url": "https://www.amazon.com/dp/1558327452?tag=herb-hugo-20",
+          "featured_in": [
+            "/2012/05/book-tour-update-with-pictures/",
+            "/2010/10/im-writing-a-cookbook-and-you-can-win-prizes/",
+            "/2013/04/maitake-mushrooms-in-smoky-tea-broth/"
+          ]
+        },
+        {
+          "name": "Ideas in Food: Great Recipes and Why They Work",
+          "url": "https://www.amazon.com/dp/0307717402?tag=herb-hugo-20",
+          "featured_in": [
+            "/2012/12/cryo-pickled-onions-recipe/",
+            "/2011/09/umami-packed-vegetarian-broth-recipe-also-vegan/",
+            "/2011/01/three-ways-to-increase-your-confidence-in-the-kitchen/"
+          ]
+        },
+        {
+          "name": "Jersualem cookbook",
+          "url": "https://www.amazon.com/dp/1607743949?tag=herb-hugo-20",
+          "featured_in": [
+            "/2012/11/fried-artichokes-with-orange-olive-oil-emulsion-recipe/"
+          ]
+        },
+        {
+          "name": "Lou's first book",
+          "url": "https://www.amazon.com/dp/1592008208?tag=herb-hugo-20",
+          "featured_in": [
+            "/2009/09/pike-place-photo-class-with-lou-manna/"
+          ]
+        },
+        {
+          "name": "Mastering the Art of French Cooking, Vol. 1 (50th Anniversary Edition)",
+          "url": "https://www.amazon.com/dp/0375413405?tag=herb-hugo-20",
+          "featured_in": [
+            "/2008/02/recipe-valentin/",
+            "/2009/12/gateaux-de-crepes-recipe/",
+            "/2012/07/king-oyster-mushroom-with-roasted-cherries-and-sage-no-that-isnt-meat-recipe-and-thought-process/"
+          ]
+        },
+        {
+          "name": "Momofuku cookbook",
+          "url": "https://www.amazon.com/dp/030745195X?tag=herb-hugo-20",
+          "featured_in": [
+            "/2013/01/smoked-tofu-buns-recipe/"
+          ]
+        },
+        {
+          "name": "Momofuku Milk Bar cookbook",
+          "url": "https://www.amazon.com/dp/0307720497?tag=herb-hugo-20",
+          "featured_in": [
+            "/2012/11/strawberries-and-cream-birthday-cake-momofuku-style/"
+          ]
+        },
+        {
+          "name": "The Art of Simple Food by Alice Waters",
+          "url": "https://www.amazon.com/dp/0307336794?tag=herb-hugo-20",
+          "featured_in": [
+            "/2008/06/gougeres-chee/",
+            "/2009/08/flatbread-with-padron-peppers-and-zucchini-blossoms-recipe/"
+          ]
+        },
+        {
+          "name": "The Complete Tassajara Cookbook",
+          "url": "https://www.amazon.com/dp/1590306724?tag=herb-hugo-20",
+          "featured_in": [
+            "/2009/10/complete-tassajara-cookbook-tassajara-bread-book/"
+          ]
+        },
+        {
+          "name": "The Curious Cook: More Kitchen Science and Lore by Harold McGee",
+          "url": "https://www.amazon.com/dp/0020098014?tag=herb-hugo-20",
+          "featured_in": [
+            "/2008/05/recipe-fresh-sp/"
+          ]
+        },
+        {
+          "name": "The Farm to Table Cookbook: The Art of Eating Locally",
+          "url": "https://www.amazon.com/dp/1570615292?tag=herb-hugo-20",
+          "featured_in": [
+            "/2008/07/cherry-pumpkin/"
+          ]
+        },
+        {
+          "name": "The Fat Duck Cookbook",
+          "url": "https://www.amazon.com/dp/160819020X?tag=herb-hugo-20",
+          "featured_in": [
+            "/2011/09/umami-packed-vegetarian-broth-recipe-also-vegan/"
+          ]
+        },
+        {
+          "name": "the Tartine cookbook",
+          "url": "https://www.amazon.com/dp/0811851508?tag=herb-hugo-20",
+          "featured_in": [
+            "/2010/10/pretzel-ice-cream-recipe/",
+            "/2009/02/chocolate-eclairs/"
+          ]
+        },
+        {
+          "name": "The Tassajara Bread Book",
+          "url": "https://www.amazon.com/dp/1590307046?tag=herb-hugo-20",
+          "featured_in": [
+            "/2009/10/complete-tassajara-cookbook-tassajara-bread-book/"
+          ]
+        }
+      ]
+    }
+  ]
+}
