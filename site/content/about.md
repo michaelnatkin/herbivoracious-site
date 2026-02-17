@@ -24,7 +24,7 @@ As of March 2012, I've left the world of software and am fully committed to food
   <ul style="margin-top: 10px;">
     <li><i>2013</i>: I'm now the CTO of <a href="/2012/11/im-going-to-work-at-chefsteps-and-maybe-you-should-too/" target="_blank" rel="noopener noreferrer">ChefSteps.com</a> - where I can both cook and code.</li>
     <li><i>2018</i>: I'm SVP of Engineering at <a href="https://glowforge.com" target="_blank" rel="noopener noreferrer">Glowforge</a>, maker of the world's coolest laser cutter.</li>
-    <li><i>2026</i>: I'm back at Adobe as a Principal Scientist working on video editing for web and mobile. The cooking is all for the family now</li>
+    <li><i>2026</i>: I'm back at Adobe as a Principal Scientist working on video editing for web and mobile. The cooking is all for the family now.</li>
   </ul>
 </div>
 
