@@ -55,6 +55,8 @@
         {{ $content | safeHTML }}
       </div>
 
+      {{ partial "cookbook-cta.html" . }}
+
       {{ $related := first 3 (.Site.RegularPages.Related .) }}
       {{ if $related }}
       <section class="related-posts">

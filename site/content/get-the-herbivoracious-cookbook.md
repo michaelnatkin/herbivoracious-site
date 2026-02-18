@@ -78,7 +78,7 @@ layout: cookbook
     <p>The book is hardcover, 368 pages, and includes 150 recipes and 80+ full color photos. When you plan a vegetarian meal, are you <strong>unsure what to do for an entree</strong>? I've included <strong>over 40 hearty main courses</strong>. You'll be able to build satisfying, healthful, attractive, and most of all, delicious meals around these dishes, with a large selection of appetizers, salads, soups and side dishes. Chapters on breakfast and some out-of-the-ordinary desserts round out the selection.</p>
     <p>More than half of the recipes are either <strong>vegan</strong> or easily made so with simple substitutions, and the same is true for <strong>gluten-free</strong>.</p>
     <div class="cb-cta">
-      <a href="https://www.amazon.com/gp/product/1558327452/" target="_blank" rel="noopener noreferrer">See Inside on Amazon.com</a>
+      <a href="https://www.amazon.com/gp/product/1558327452/?tag=herb-hugo-20" target="_blank" rel="noopener noreferrer">See Inside on Amazon.com</a>
     </div>
   </section>
 
@@ -111,7 +111,7 @@ layout: cookbook
   </section>
 
   <div class="cb-cta cb-cta--final">
-    <a href="https://www.amazon.com/gp/product/1558327452/" target="_blank" rel="noopener noreferrer">See Inside on Amazon.com</a>
+    <a href="https://www.amazon.com/gp/product/1558327452/?tag=herb-hugo-20" target="_blank" rel="noopener noreferrer">See Inside on Amazon.com</a>
   </div>
 
 </div>
