@@ -1,0 +1,13 @@
+{{ define "main" }}
+<div class="site-content">
+  <main class="main-content">
+    <article>
+      <div class="single-content">
+        {{ .Content | safeHTML }}
+      </div>
+    </article>
+  </main>
+
+  {{ partial "sidebar.html" . }}
+</div>
+{{ end }}
