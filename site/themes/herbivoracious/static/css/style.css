@@ -410,6 +410,32 @@ a.as-seen-in:hover { text-decoration: none; }
   pointer-events: none;
 }
 
+/* Shop Promo */
+.sidebar-shop-promo__body {
+  font-family: var(--font-body);
+  font-size: 15px;
+  line-height: 1.65;
+  color: var(--text-secondary);
+  font-style: italic;
+  margin-bottom: 14px;
+}
+
+.sidebar-shop-promo__link {
+  font-family: var(--font-ui);
+  font-size: 13.5px;
+  font-weight: 500;
+  color: var(--accent);
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  letter-spacing: 0.02em;
+}
+
+.sidebar-shop-promo__link:hover {
+  color: var(--accent-hover);
+  text-decoration: none;
+}
+
 /* Most Popular */
 .popular-post {
   display: flex;
