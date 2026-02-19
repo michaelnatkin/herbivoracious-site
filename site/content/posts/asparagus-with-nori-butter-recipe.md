@@ -27,11 +27,11 @@ You can do all of the prep up to a day in advance, and simply reheat the butter 
 Vegetarian and gluten-free</em>
 <ul>
 	<li>6 tablespoons unsalted butter</li>
-	<li>1 sheet of nori seaweed</li>
+	<li>1 sheet of <a href="https://www.amazon.com/dp/B00I01ZXYE?tag=herb-hugo-20">nori seaweed</a></li>
 	<li>24 stems of beautiful medium thick asparagus</li>
 	<li>1 lemon</li>
-	<li>1/3 cup white miso</li>
-	<li>2 tablespoons mirin</li>
+	<li>1/3 cup <a href="https://www.amazon.com/dp/B078HTGHH2?tag=herb-hugo-20">white miso</a></li>
+	<li>2 tablespoons <a href="https://www.amazon.com/dp/B000QSTJTE?tag=herb-hugo-20">mirin</a></li>
 	<li>Maldon (aka the world's greatest salt) or other flaky salt</li>
 	<li>toasted sesame seeds</li>
 	<li>24 chive tips</li>
