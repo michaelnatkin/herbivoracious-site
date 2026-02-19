@@ -1594,23 +1594,6 @@ a.as-seen-in:hover { text-decoration: none; }
   .shop-category-grid { grid-template-columns: 1fr; }
   .shop-grid { grid-template-columns: 1fr; }
   .shop-category-header h1 { font-size: 28px; }
-
-  /* Mobile Amazon link chips — tappable pill targets */
-  .single-content a[href*="amazon.com"] {
-    display: inline-block;
-    padding: 8px 14px;
-    background: rgba(196, 112, 75, 0.08);
-    border: 1px solid rgba(196, 112, 75, 0.2);
-    border-radius: 100px;
-    line-height: 1.4;
-    margin: 3px 2px;
-    word-break: break-word;
-  }
-  .single-content a[href*="amazon.com"]::after {
-    content: none;
-  }
-
-  .product-box { padding: 20px; }
 }
 
 @media (max-width: 480px) {
@@ -1989,76 +1972,6 @@ a.as-seen-in:hover { text-decoration: none; }
 .single-content a[href*="amazon.com"]::after {
   content: " 🛒";
   font-size: 0.8em;
-}
-
-/* ---- End-of-Post Product Box ---- */
-.product-box {
-  margin-top: 48px;
-  padding: 28px 32px;
-  background: var(--white);
-  border: 1px solid var(--border);
-  border-radius: var(--radius-lg);
-}
-
-.product-box__heading {
-  font-family: var(--font-ui);
-  font-size: 14px;
-  font-weight: 600;
-  text-transform: uppercase;
-  letter-spacing: 0.06em;
-  color: var(--text-light);
-  margin-bottom: 16px;
-}
-
-.product-box__heading::before {
-  content: "🛍 ";
-}
-
-.product-box__list {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-  display: flex;
-  flex-wrap: wrap;
-  gap: 10px;
-}
-
-.product-box__list li {
-  margin: 0;
-}
-
-.product-box__list a {
-  display: inline-block;
-  padding: 6px 14px;
-  background: rgba(196, 112, 75, 0.08);
-  border: 1px solid rgba(196, 112, 75, 0.2);
-  border-radius: 100px;
-  font-family: var(--font-ui);
-  font-size: 14px;
-  font-weight: 500;
-  color: var(--accent-warm);
-  text-decoration: none;
-  transition: all 0.3s var(--ease);
-}
-
-.product-box__list a:hover {
-  background: var(--accent-warm);
-  color: var(--white);
-  border-color: var(--accent-warm);
-  text-decoration: none;
-}
-
-.product-box__list a::after {
-  content: none;
-}
-
-.product-box__disclosure {
-  margin-top: 14px;
-  margin-bottom: 0;
-  font-family: var(--font-ui);
-  font-size: 12px;
-  color: var(--text-light);
-  font-style: italic;
 }
 
 /* ---- End-of-Post Cookbook CTA ---- */
