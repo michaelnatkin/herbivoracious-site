@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# Block query parameter spam URLs
+Clean-param: k
+
+Sitemap: https://herbivoracious.com/sitemap.xml
