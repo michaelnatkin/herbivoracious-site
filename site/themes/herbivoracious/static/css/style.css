@@ -1864,7 +1864,9 @@ a.as-seen-in:hover { text-decoration: none; }
   margin: 32px 0;
 }
 
-.cb-cta a {
+.cb-cta a,
+.single-content .cb-cta a,
+.single-content .cb-cta a[href*="amazon.com"] {
   display: inline-block;
   padding: 14px 32px;
   background: var(--accent);
@@ -1874,14 +1876,21 @@ a.as-seen-in:hover { text-decoration: none; }
   font-weight: 600;
   border-radius: var(--radius);
   letter-spacing: 0.01em;
+  text-decoration: none;
   transition: all 0.3s var(--ease);
 }
 
-.cb-cta a:hover {
+.cb-cta a:hover,
+.single-content .cb-cta a:hover,
+.single-content .cb-cta a[href*="amazon.com"]:hover {
   background: var(--accent-hover);
+  color: var(--white);
   text-decoration: none;
   transform: translateY(-1px);
   box-shadow: 0 6px 20px rgba(26, 122, 109, 0.25);
+}
+.cb-cta a[href*="amazon.com"]::after {
+  content: " \1F6D2";
 }
 
 .cb-cta--final {
