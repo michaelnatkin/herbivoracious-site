@@ -1,0 +1,30 @@
+{{/* product-box.html — Auto-extract Amazon product links from post content */}}
+{{ $content := .Content }}
+
+{{/* Extract all anchor tags linking to amazon.com */}}
+{{ $amazonLinks := findRE `<a\s+[^>]*href="[^"]*amazon\.com[^"]*"[^>]*>[^<]+</a>` $content }}
+
+{{ if $amazonLinks }}
+  {{/* Deduplicate by link text */}}
+  {{ $seen := slice }}
+  {{ $unique := slice }}
+  {{ range $amazonLinks }}
+    {{ $text := . | replaceRE `<a[^>]*>` "" | replaceRE `</a>` "" | replaceRE `\s+` " " }}
+    {{ if not (in $seen $text) }}
+      {{ $seen = $seen | append $text }}
+      {{ $unique = $unique | append . }}
+    {{ end }}
+  {{ end }}
+
+  {{ if $unique }}
+  <aside class="product-box">
+    <h3 class="product-box__heading">Specialty Ingredients &amp; Tools</h3>
+    <ul class="product-box__list">
+      {{ range $unique }}
+      <li>{{ . | safeHTML }}</li>
+      {{ end }}
+    </ul>
+    <p class="product-box__disclosure">Links above are affiliate links.</p>
+  </aside>
+  {{ end }}
+{{ end }}

@@ -55,6 +55,7 @@
         {{ $content | safeHTML }}
       </div>
 
+      {{ partial "product-box.html" . }}
       {{ partial "cookbook-cta.html" . }}
 
       {{ $related := first 3 (.Site.RegularPages.Related .) }}
