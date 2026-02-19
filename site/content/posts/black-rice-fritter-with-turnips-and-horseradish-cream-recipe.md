@@ -12,7 +12,7 @@ cover:
 <img class="alignnone size-large wp-image-2887" title="Black Rice Cakes with Roasted Turnips and Horseradish Cream" src="/images/2012/10/Black-Rice-Cakes-with-Roasted-Turnips-and-Horseradish-Cream-626x415.jpg" alt="Black Rice Cakes with Roasted Turnips and Horseradish Cream" width="626" height="415" />
 <em>Black Rice Fritters with Roasted Turnips and Horseradish Cream</em>
 
-Although black rice is an Asian ingredient, I think it reminded me in <strong>some oblique way of pumpernickel</strong>, which inspired me to deploy a favorite set of Eastern European flavors: caraway, horseradish, mustard. Those are a natural fit with the baby turnips I'd brought home from the farmer's market.
+Although <a href="https://www.amazon.com/dp/B01NAGDHZR?tag=herb-hugo-20">black rice</a> is an Asian ingredient, I think it reminded me in <strong>some oblique way of pumpernickel</strong>, which inspired me to deploy a favorite set of Eastern European flavors: caraway, horseradish, mustard. Those are a natural fit with the baby turnips I'd brought home from the farmer's market.
 
 I make lots of little pan fried cakes and <a href="/2012/04/kouftikes-de-prasa-sandwiches-recipe/" target="_blank">fritters</a>, out of grains, flours, or <a href="/2010/07/chickpea-cakes-recipe/" target="_blank">beans</a>, and flavored with anything from kimchi to coconut. I often say that in a vegetarian meal, the grain can be thought of as the <a href="/2010/06/how-to-plan-a-vegetarian-meal-by-answering-three-easy-questions/" target="_blank">gravitational center of the plate</a>. Fritters create a nice option for defining that center in a way other than the typical bed of rice or crust of bread.
 
@@ -22,7 +22,7 @@ Reduced cream sauces, where you simmer heavy cream until it thickens, aren't muc
 
 I cooked the turnips using a method that works with many root vegetables. They get a roast in the oven to cook through, then a sear in a hot pan to caramelize the surface and add a bit of a crust. This can also be done in the other order.
 
-The whole grain mustard I used is <a href="http://www.amazon.com/dp/B003O6BYW0/?tag=poeticlicen07-20" target="_blank">this one from Beaufor</a>. I haven't done any exhaustive comparison tests, but I think it has a nice, balanced heat and acidity and a lovely texture from the mustard seeds. (If there is another brand you think I should try, let me know.)
+The whole grain mustard I used is <a href="https://www.amazon.com/dp/B000SR5VOU?tag=herb-hugo-20" target="_blank">this one from Beaufor</a>. I haven't done any exhaustive comparison tests, but I think it has a nice, balanced heat and acidity and a lovely texture from the mustard seeds. (If there is another brand you think I should try, let me know.)
 
 By the way, did you know I started an <a href="https://www.youtube.com/user/HerbivoraciousBlog/featured">Herbivoracious YouTube channel</a>? There will be more videos there over time, so press the subscribe button towards the top of the page!
 
@@ -57,7 +57,7 @@ By the way, did you know I started an <a href="https://www.youtube.com/user/Herb
 <div>
 <ul>
 	<li>3 cups cooked black rice (made according to package directions - you'll probably need about 1 1/2 cups raw rice)</li>
-	<li>2 teaspoons caraway seeds, toasted in a dry skillet over medium heat until fragrant</li>
+	<li>2 teaspoons <a href="https://www.amazon.com/dp/B00MOZCJG2?tag=herb-hugo-20">caraway seeds</a>, toasted in a dry skillet over medium heat until fragrant</li>
 	<li>2 eggs, lightly beaten</li>
 	<li>Fresh lemon thyme, or fresh tarragon</li>
 	<li>1/2 teaspoon kosher salt</li>
@@ -75,7 +75,7 @@ By the way, did you know I started an <a href="https://www.youtube.com/user/Herb
 	<li>Vegetable oil</li>
 	<li>Whole grain mustard</li>
 	<li>Lemon-thyme leaves</li>
-	<li>Flaky sea salt (<a href="http://www.amazon.com/dp/B0006FS4TI/?tag=poeticlicen07-20" target="_blank">Maldon (aka the world's greatest salt)</a> if possible)</li>
+	<li>Flaky sea salt (<a href="https://www.amazon.com/dp/B00017028M?tag=herb-hugo-20" target="_blank">Maldon (aka the world's greatest salt)</a> if possible)</li>
 	<li>Freshly ground black pepper</li>
 </ul>
 <div>
