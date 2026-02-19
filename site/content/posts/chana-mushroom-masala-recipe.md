@@ -33,9 +33,9 @@ cover:
 <ul>
 <li>Spice mixture:
 2 teaspoons <a href="https://www.amazon.com/dp/B000MZC7C2?tag=herb-hugo-20">black mustard seeds</a> (plus one more for tempering, below)</li>
-<li>1 teaspoon fennel seeds</li>
+<li>1 teaspoon <a href="https://www.amazon.com/dp/B088QMPBC6?tag=herb-hugo-20">fennel seeds</a></li>
 <li>1 teaspoon cumin seeds</li>
-<li>1 teaspoon coriander seeds</li>
+<li>1 teaspoon <a href="https://www.amazon.com/dp/B0CP8ZKYY7?tag=herb-hugo-20">coriander seeds</a></li>
 <li>Tomato mixture:</li>
 <li>1 medium tomato, cored, small dice (canned is an option)</li>
 <li>2 cloves garlic, minced</li>
@@ -44,14 +44,14 @@ cover:
 <li>1 1/2 cups cooked chickpeas (15 oz. can, drained and rinsed, or better, home-cooked)</li>
 <li>2/3 cup white mushrooms, quartered or thickly sliced</li>
 <li>1 small, hot red chile pepper, thinly sliced</li>
-<li>1 tablespoon fresh grated turmeric, or 2 teaspoons dry</li>
+<li>1 tablespoon fresh grated <a href="https://www.amazon.com/dp/B000VK49YM?tag=herb-hugo-20">turmeric</a>, or 2 teaspoons dry</li>
 <li>1/4 teaspoon cinnamon</li>
 <li>1 pinch ground cloves</li>
 <li>1/4 teaspoon cayenne pepper</li>
 <li>2 tablespoons lemon juice</li>
 <li>1 teaspoon salt</li>
 <li>To complete the dish:</li>
-<li>2 tablespoons vegetable oil (or clarified butter / ghee if you have it)</li>
+<li>2 tablespoons vegetable oil (or clarified butter / <a href="https://www.amazon.com/dp/B00VXQGY28?tag=herb-hugo-20">ghee</a> if you have it)</li>
 <li>for tempering: 1 tablespoon oil, 1 teaspoon black mustard seeds</li>
 <li>for garnish: cilantro</li>
 </ul>

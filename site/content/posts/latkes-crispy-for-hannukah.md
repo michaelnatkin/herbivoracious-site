@@ -22,13 +22,13 @@ By the way, and I'm not the only one who thinks so, the closest thing in civilia
 
 We want the latkes to be <strong>as crispy as possible</strong>, and preferably served fresh from the frying pan. So the ideal way to do that is make them for, say, 4 people, or make them for a crowd but serve them standing up, spatulating direct to the diner's plate. If that isn't possible, the next best thing is to fry as many at a time as possible, keep them on a baking sheet, and quickly re-crisp at 400 degrees.
 
-The key to good latke making is to <strong>extract as much water from the potatoes as possible</strong>. First I like to pre-salt them and let them rest a bit. Then to get the water out, you can wrap the grated potatoes in cheesecloth or a clean towel, a couple handfuls at a time, and wring the heck out of them. Twist a wooden spoon handle up in the cloth to give you a bit more leverage.Get a little mad and get every drop out. Otherwise they will spit water at you from the frying pan and come out mushy. An even better way, if you have one, is to use a <a href="http://www.amazon.com/dp/B00004SU1J/?tag=poeticlicen07-20">heavy-duty potato ricer</a> to squeeze out the water.
+The key to good latke making is to <strong>extract as much water from the potatoes as possible</strong>. First I like to pre-salt them and let them rest a bit. Then to get the water out, you can wrap the grated potatoes in <a href="https://www.amazon.com/dp/B08FXSD575?tag=herb-hugo-20">cheesecloth</a> or a clean towel, a couple handfuls at a time, and wring the heck out of them. Twist a wooden spoon handle up in the cloth to give you a bit more leverage.Get a little mad and get every drop out. Otherwise they will spit water at you from the frying pan and come out mushy. An even better way, if you have one, is to use a <a href="https://www.amazon.com/dp/B00MUEHPGQ?tag=herb-hugo-20">heavy-duty potato ricer</a> to squeeze out the water.
 
 I generally use the grating disc on the food processor to cut the potatoes, but you can also use a box grater and do it by hand if you don't mind a little workout. The texture of the food processor grated ones is a little different and I think I prefer it. The grating must be done not long before frying or the potatoes will oxidize to an unappetizing black. If you must grate them early, try putting plastic wrap tightly down on the surface and refrigerating. You can also crush an unflavored vitamin C tablet and mix it in with the potatoes as an anti-oxidant.
 
 Whatever else you have with a latke meal should be considered a <strong>mere formality</strong>, since inevitably everyone will stuff themselves on the cakes. I've provided the recipe in terms of ratio to a pound of potato. For my family, you need about nearly 1 pound per person. Seriously.
 
-A note about Kosher salt: I always use Diamond Crystal brand. It is "fluffier" and therefore weighs less by volume than Mortons. The best option is always to measure by weight, but if you are going by volume and not using Diamond Crystal, reduce all amounts by around 40%.
+A note about Kosher salt: I always use <a href="https://www.amazon.com/dp/B0011BPMUK?tag=herb-hugo-20">Diamond Crystal</a> brand. It is "fluffier" and therefore weighs less by volume than Mortons. The best option is always to measure by weight, but if you are going by volume and not using Diamond Crystal, reduce all amounts by around 40%.
 
 <div class="recipe-card">
 <strong>Crispy, Delicious Latkes for Hanukkah</strong>
@@ -42,7 +42,7 @@ Multiply as needed to use 450 grams / 1 pound potato per person as a main course
 	<li>1 egg (60 grams), beaten</li>
 	<li>Freshly ground black pepper, to taste</li>
 	<li>Vegetable oil for frying (lots)</li>
-	<li>Maldon salt or fleur de sel</li>
+	<li><a href="https://www.amazon.com/dp/B00017028M?tag=herb-hugo-20">Maldon salt</a> or fleur de sel</li>
 </ul>
 <ol>
 	<li>In a food processor or on a box grater, grate the potato and onion and mix together. Mix in 5 grams (1 1/2 teaspoons) of kosher salt for every 450 grams of potato you started with, cover, and let sit for 15 minutes. If you want to keep the potatoes a nice white color, crush one 500 mg plain unflavored vitamin C tablet for every 4 pounds of potato and toss it in with the salt.</li>
