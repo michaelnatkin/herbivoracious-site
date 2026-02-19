@@ -14,9 +14,9 @@ cover:
 
 Every gardener loves to lament that they get overrun with zucchini and have to resort to baking too much zucchini bread or, worse, ringing the doorbell, dashing and leaving them on people's doorsteps. Well, let me tell you: you're doing it wrong.
 
-The way to avoid being overrun with zucchini is pick them when they are tiny and delicious. This recipe can easily use a dozen of them, along with most of the blossoms! Using up a dozen woody, pithy, flavorless giant zucchini is an unpleasant chore indeed. So get out there, grab a bunch of baby zukes and cook them up into this delicious side dish, flavored with with "cheater sofrito" that uses tomato paste to reduce the cooking time.
+The way to avoid being overrun with zucchini is pick them when they are tiny and delicious. This recipe can easily use a dozen of them, along with most of the blossoms! Using up a dozen woody, pithy, flavorless giant zucchini is an unpleasant chore indeed. So get out there, grab a bunch of baby zukes and cook them up into this delicious side dish, flavored with with "cheater sofrito" that uses <a href="https://www.amazon.com/dp/B00EHDWTB4?tag=herb-hugo-20">tomato paste</a> to reduce the cooking time.
 
-Hint for leftovers, should there be any: fill a bowl with pinto beans and top with the zucchini and sauce. Microwave. Top with smoked cheddar, a fried egg, and lots of cilantro and hot sauce. Yes.
+Hint for leftovers, should there be any: fill a bowl with pinto beans and top with the zucchini and sauce. Microwave. Top with smoked cheddar, a fried egg, and lots of cilantro and <a href="https://www.amazon.com/dp/B07FTTWDJS?tag=herb-hugo-20">hot sauce</a>. Yes.
 
 Got still more zucchini blossoms? <a href="/2010/07/zucchini-stuffed-zucchini-blossoms-recipe/">Try this</a>.
 
@@ -28,7 +28,7 @@ Vegetarian, vegan, gluten free and kosher</em>
 	<li><span style="line-height: 13px;">1/4 cup extra virgin olive oil</span></li>
 	<li><span style="line-height: 13px;">1/2 white onion, finely diced</span></li>
 	<li>2 cloves garlic, minced</li>
-	<li>1 big pinch chili flakes</li>
+	<li>1 big pinch <a href="https://www.amazon.com/dp/B000WS3AJ8?tag=herb-hugo-20">chili flakes</a></li>
 	<li>1/4 teaspoon kosher salt</li>
 	<li>1 tablespoon tomato paste</li>
 	<li>2 tablespoons red wine</li>

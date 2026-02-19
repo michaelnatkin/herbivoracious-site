@@ -15,9 +15,9 @@ cover:
 
 Baked egg dishes are ideal for brunches with friends, especially if you have munchkins that might not wait around patiently while you cook off 30 pancakes!
 
-I hope it is still chanterelle season in your neck of the woods, as this is a delicious way to serve them. If not, you can substitute another wild mushroom of your choice, or even cultivated mushrooms. If the latter, just be sure to cook off all of the liquid.
+I hope it is still <a href="https://www.amazon.com/dp/B0BK2VSP7N?tag=herb-hugo-20">chanterelle</a> season in your neck of the woods, as this is a delicious way to serve them. If not, you can substitute another wild mushroom of your choice, or even cultivated mushrooms. If the latter, just be sure to cook off all of the liquid.
 
-I learned about adding creme fraiche to eggs from the amazing quiche in the <a href="http://amzn.to/cRabZI" target="_blank">Tartine</a> cookbook. My version is crustless and closer to scrambled eggs than a custard. The creme fraiche adds a very mild tang and richness to the mix.
+I learned about adding <a href="https://www.amazon.com/dp/B007NK0P3C?tag=herb-hugo-20">creme fraiche</a> to eggs from the amazing quiche in the <a href="https://www.amazon.com/dp/0811851508?tag=herb-hugo-20">Tartine</a> cookbook. My version is crustless and closer to scrambled eggs than a custard. The creme fraiche adds a very mild tang and richness to the mix.
 
 If you want even more flavor, in addition to the creme fraiche you can mix in a cup of any meltable cheese that you see fit. Gruyere or Appenzeller would be nice.
 
@@ -38,12 +38,12 @@ You can serve this after cooling for 15 minutes, or at room temperature.
 	<li>1 cup creme fraiche</li>
 	<li>10 eggs, beaten</li>
 	<li>2 teaspoons salt</li>
-	<li>freshly ground nutmeg</li>
+	<li>freshly ground <a href="https://www.amazon.com/dp/B08ZJVNKWQ?tag=herb-hugo-20">nutmeg</a></li>
 	<li>freshly ground black pepper</li>
 	<li>1/2 cup freshly grated parmesan cheese</li>
 </ul>
 <ol>
-	<li>Preheat the oven to 350 degrees and butter a quiche dish or deep pie pan, about 10" in diameter and 2" deep.</li>
+	<li>Preheat the oven to 350 degrees and butter a <a href="https://www.amazon.com/dp/B09TDJCLJ2?tag=herb-hugo-20">quiche dish</a> or deep pie pan, about 10" in diameter and 2" deep.</li>
 	<li>In a large skillet, melt the butter over medium-high heat. Add the onion and saute for 2 minutes. Add the chanterelle mushrooms, garlic and salt and saute for about 10 minutes, until golden brown, somewhat tender, and all water has cooked off. Remove the mushrooms, leaving the skillet on the flame.</li>
 	<li>Add the chard to the skillet and cook, stirring occasionally, until fully wilted. You can cover it for part of the time to speed this along. When done, mix with the mushrooms.</li>
 	<li>Whisk the milk slowly into the creme fraiche until completely smooth. Whisk in the eggs. Add the salt, the mushroom and chard mixture, several grinds of whole nutmeg and several grinds of black pepper. Mix thoroughly and pour in to the prepared dish.</li>

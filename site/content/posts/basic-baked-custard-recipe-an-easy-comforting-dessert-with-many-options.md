@@ -14,7 +14,7 @@ cover:
 
 A simple custard, baked in ramekins, is one of those recipes that <strong>every cook should have in their arsenal</strong>. It isn't at all hard to make, but there are a few ways you can go wrong that leave you with grainy bowls of scrambled eggs instead of the silky-smooth result you are looking for. Follow the method below and you'll feel like a custard master in no time.
 
-Speaking of ramekins, I've got a few favorites. The blue ones you see in the picture are these <a href="http://www.amazon.com/dp/B00022O6HY/?tag=poeticlicen07-20" target="_blank">lovely, if pricey ones from Emily Henry</a>. But I also like traditional custard cups, and recently I've been using and loving <a href="http://www.amazon.com/dp/B001HIAD2Y/?tag=poeticlicen07-20" target="_blank">a set like this that has covers</a>. This makes them doubly useful as prep bowls that can also go in the refrigerator.
+Speaking of ramekins, I've got a few favorites. The blue ones you see in the picture are these <a href="https://www.amazon.com/dp/B01AO0XTWQ?tag=herb-hugo-20" target="_blank">lovely, if pricey ones from Emily Henry</a>. But I also like traditional custard cups, and recently I've been using and loving <a href="https://www.amazon.com/dp/B001HIAD2Y?tag=herb-hugo-20" target="_blank">a set like this that has covers</a>. This makes them doubly useful as prep bowls that can also go in the refrigerator.
 
 The key steps to smooth custard are:
 <ol>
@@ -24,18 +24,18 @@ The key steps to smooth custard are:
 </ol>
 The basic custard recipe below is quite lean, because it uses only whole milk and whole eggs. <strong>For a richer custard</strong>, replace up to 2/3rds of the milk with heavy cream. For an eggier and also richer taste, use 10 egg yolks instead of 8 whole eggs. The reason I often use whole milk and whole eggs is that I like this to be more of an "everyday", grandmotherly type dessert (in fact, <a href="/2008/04/review-nonis-ki/" target="_blank">my wife's Noni</a> is legendary for hers), and also I find that when I separate eggs I don't end up using the whites. But there is plenty to be said for the rich version!
 
-Now as to flavoring: I've used vanilla extract below, but you have <strong>my wholehearted endorsement</strong> if you want to scrape the seeds from a vanilla bean instead, and infuse the pod while the milk is heating as well. Or skip the vanilla, and flavor the base with espresso or  fresh ginger, or rosewater, or lemongrass or bay leaf or citrus zest or herbs or ... whatever strikes your fancy! If you choose a flavoring agent that isn't a liquid, you'll want to turn off the heat on the stovetop and let it steep for awhile, tasting occasionally until it is sufficiently strong.
+Now as to flavoring: I've used <a href="https://www.amazon.com/dp/B005MIWPGC?tag=herb-hugo-20">vanilla extract</a> below, but you have <strong>my wholehearted endorsement</strong> if you want to scrape the seeds from a <a href="https://www.amazon.com/dp/B00PMUNF5A?tag=herb-hugo-20">vanilla bean</a> instead, and infuse the pod while the milk is heating as well. Or skip the vanilla, and flavor the base with espresso or  fresh ginger, or rosewater, or lemongrass or bay leaf or citrus zest or herbs or ... whatever strikes your fancy! If you choose a flavoring agent that isn't a liquid, you'll want to turn off the heat on the stovetop and let it steep for awhile, tasting occasionally until it is sufficiently strong.
 
 This version is maybe just a hair on the sweet side. If you like it a little less-so, back off 2 or 3 tablespoons of sugar.
 
-Finally, there is the matter of mix-ins and toppings. I'm in the less-is-more camp, because the texture of a good custard is so smooth that I don't want to fight with it. I hear of people mixing in chopped up peppermint candy or nuts, for example, and that doesn't appeal to me. Of course, you can make the rich version of the custard, scatter sugar on it, hit it with a blowtorch and you have creme brulee. Noni favors a dusting of cinnamon. For an ultimate treat, a drizzle of <a href="http://www.amazon.com/dp/B006L80IGQ/?tag=poeticlicen07-20" target="_blank">BLiS Bourbon-Barrel Maple Syrup</a> is incredible.
+Finally, there is the matter of mix-ins and toppings. I'm in the less-is-more camp, because the texture of a good custard is so smooth that I don't want to fight with it. I hear of people mixing in chopped up peppermint candy or nuts, for example, and that doesn't appeal to me. Of course, you can make the rich version of the custard, scatter sugar on it, hit it with a <a href="https://www.amazon.com/dp/B07RKVHJH6?tag=herb-hugo-20">blowtorch</a> and you have creme brulee. Noni favors a dusting of cinnamon. For an ultimate treat, a drizzle of <a href="https://www.amazon.com/dp/B006L80IGQ?tag=herb-hugo-20" target="_blank">BLiS Bourbon-Barrel Maple Syrup</a> is incredible.
 
 <div class="recipe-card">
 <strong>Basic Baked Custard Recipe</strong>
 <em>Gluten-free</em>
 <em>Makes 8 servings</em>
 
-<em>Special equipment: 8 <a href="http://www.amazon.com/dp/B004ZQ7M24/?tag=poeticlicen07-20" target="_blank">oven-proof ramekins</a> / custard cups</em>
+<em>Special equipment: 8 <a href="https://www.amazon.com/dp/B0D2VTK6Q2?tag=herb-hugo-20" target="_blank">oven-proof ramekins</a> / custard cups</em>
 <ul>
 	<li>8 eggs</li>
 	<li>4 cups whole milk</li>
@@ -49,7 +49,7 @@ Finally, there is the matter of mix-ins and toppings. I'm in the less-is-more ca
 	<li>In a bowl that can hold 3 quarts, thoroughly whisk the eggs.</li>
 	<li>In a pot that can hold 3 quarts, whisk together the milk, sugar, vanilla and salt. Cook over medium heat, stirring frequently to avoid scorching, until the milk is approaching a simmer. Remove from the heat.</li>
 	<li>While whisking the eggs continuously, drizzle in the milk. Go slowly at first to avoid cooking the eggs, then once about half of the milk has been incorporated, you can go faster.</li>
-	<li>Strain the custard through a coarse strainer and then your finest strainer to catch any bits of egg.</li>
+	<li>Strain the custard through a coarse strainer and then your <a href="https://www.amazon.com/dp/B007TUQF9O?tag=herb-hugo-20">finest strainer</a> to catch any bits of egg.</li>
 	<li>Ladle the custard into the ramekins and put the baking dish in the oven. Pull the rack part way out and pour the boiling water around the ramekins until it comes about halfway up their sides.</li>
 	<li>Bake until just barely set, about 20 minutes. A toothpick should come out nearly clean, but there should still be a visible jiggle if you move the pan. Err on the side of undercooking them. Remove the ramekins carefully to a cooling rack. I usually do this using tongs, but you have to be careful not to drop one back in the pan of hot water and splash yourself!</li>
 </ol>

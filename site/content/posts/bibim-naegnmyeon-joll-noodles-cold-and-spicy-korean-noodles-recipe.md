@@ -13,7 +13,7 @@ cover:
 
 Cold. <strong>Not cool</strong>. Cold, cold, cold. <strong>Ice cold</strong>. That's what makes these noodles great.
 
-I first had <em>bibim naengmyeon </em>at a restaurant named Mandoo Bar in the New York's Koreatown, although they call it Joll Noodles. Perhaps there is a difference, but google has failed to set me straight, so if any of you can shed more light on the subject, I'm all ears. I see that some folks make them with buckwheat (soba) noodles, but the version I had used sweet potato starch noodles (like in <a href="/2010/04/vegetarian-japchae-a-guest-recipe-by-alice-of-savory-sweet-life/" target="_blank">Alice's japchae</a>) which are slippery and very chewy and altogether delightful. You might like to offer your diners <a href="http://www.amazon.com/dp/B0000CFLH7/?tag=poeticlicen07-20">kitchen shears</a> to cut the noodles in their bowls before eating.
+I first had <em>bibim naengmyeon </em>at a restaurant named Mandoo Bar in the New York's Koreatown, although they call it Joll Noodles. Perhaps there is a difference, but google has failed to set me straight, so if any of you can shed more light on the subject, I'm all ears. I see that some folks make them with buckwheat (soba) noodles, but the version I had used sweet potato starch noodles (like in <a href="/2010/04/vegetarian-japchae-a-guest-recipe-by-alice-of-savory-sweet-life/" target="_blank">Alice's japchae</a>) which are slippery and very chewy and altogether delightful. You might like to offer your diners <a href="https://www.amazon.com/dp/B0000CFLH7?tag=herb-hugo-20">kitchen shears</a> to cut the noodles in their bowls before eating.
 
 <em>Update</em>: Angie in the comments below, along with <a href="https://twitter.com/#!/KoreanFood">@KoreanFood</a> and <a href="https://twitter.com/#!/SavorySweetLife">@SavorySweetLife</a> got me straightened out. So the correct name for this dish is <em>jjolmyeon</em>. Jjol noodles started as a mistake at a noodle factory; they accidentally made some noodles that were too thick and chewy, but they became a hit item. And indeed, the dish I had in New York had <strong>very </strong>chewy noodles. If you can't find them, the naengmyon make a very good substitute.
 
@@ -34,9 +34,9 @@ Did I mention, serve it cold?
 
 <span style="text-decoration: underline;">For the sauce</span>
 <ul>
-	<li>1/4 cup kochujang (Korean chili / soybean paste)</li>
-	<li>1/2 cup mirin</li>
-	<li>4 teaspoons rice vinegar</li>
+	<li>1/4 cup <a href="https://www.amazon.com/dp/B013HB0CC4?tag=herb-hugo-20">kochujang</a> (Korean chili / soybean paste)</li>
+	<li>1/2 cup <a href="https://www.amazon.com/dp/B0BWGLQ4MT?tag=herb-hugo-20">mirin</a></li>
+	<li>4 teaspoons <a href="https://www.amazon.com/dp/B000VM2KY6?tag=herb-hugo-20">rice vinegar</a></li>
 	<li>1 teaspoon salt</li>
 	<li>1 inch piece grated fresh ginger</li>
 	<li>Up to 1/2 cup ice cold water</li>
@@ -51,8 +51,8 @@ Did I mention, serve it cold?
 <ul>
 	<li>1 bunch thick-stemmed asparagus</li>
 	<li>12 thin slices of peeled fresh lotus root (optional)</li>
-	<li>12 ounces Korean sweet potato starch noodles (first choice: jjolmyon, second choice: naengmyon)</li>
-	<li>Toasted Asian sesame oil</li>
+	<li>12 ounces <a href="https://www.amazon.com/dp/B092BS2HL6?tag=herb-hugo-20">Korean sweet potato starch noodles</a> (first choice: jjolmyon, second choice: naengmyon)</li>
+	<li><a href="https://www.amazon.com/dp/B002HMN6SC?tag=herb-hugo-20">Toasted Asian sesame oil</a></li>
 	<li>1 cup julienned carrot (preferably cut on a mandoline)</li>
 	<li>12 thin slices cucumber</li>
 	<li>Kaiware (radish) sprouts (optional), trimmed</li>
