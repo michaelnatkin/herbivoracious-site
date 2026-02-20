@@ -30,9 +30,9 @@ And from the way-back machine, here's a very different take on pan-fried pita, w
 	<li>Kosher salt</li>
 	<li>1 clove garlic, minced</li>
 	<li>1/2 cup zucchini, diced</li>
-	<li>1/4 cup sliced marinated green olives, preferably a Middle eastern style</li>
-	<li>1/2 cup cooked fava or garbanzo beans</li>
-	<li>2 teaspoons harissa (less if you aren't into heat)</li>
+	<li>1/4 cup <a href="https://www.amazon.com/dp/B07813GRYD?tag=herb-hugo-20">sliced marinated green olives</a>, preferably a Middle eastern style</li>
+	<li>1/2 cup cooked <a href="https://www.amazon.com/dp/B00B0422F6?tag=herb-hugo-20">fava or garbanzo beans</a></li>
+	<li>2 teaspoons <a href="https://www.amazon.com/dp/B00634JM8I?tag=herb-hugo-20">harissa</a> (less if you aren't into heat)</li>
 	<li>Handful of cherry tomatoes, halved</li>
 	<li>Minced parsley</li>
 	<li>Zucchini blossoms, chiffonade (optional)</li>

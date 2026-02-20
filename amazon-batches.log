@@ -190,3 +190,68 @@ http://localhost:1313/2007/07/flaky-biscuits/ — 2 new links added, 0 updated.
 http://localhost:1313/2009/08/flatbread-with-padron-peppers-and-zucchini-blossoms-recipe/ — 3 new links added, 1 existing link updated (tag + URL modernized to herb-hugo-20).
 2 posts modified, 0 skipped.
 --- Individual run finished at Thu Feb 19 2026 ---
+--- Batch run #5 finished at Thu Feb 19 17:15:31 PST 2026 ---
+Individual post run — fresh-porcini:
+
+| Post | New Links | Updated Links | Notes |
+|------|-----------|---------------|-------|
+| fresh-porcini | 1 | 0 | dried porcini mushrooms (B079FCR7XK, VIGOROUS MOUNTAINS, $16.99) |
+
+http://localhost:1313/2007/11/fresh-porcini/ — 1 new link added, 0 updated.
+1 post modified, 0 skipped.
+--- Individual run finished at Thu Feb 19 2026 ---
+Individual post run — gateaux-de-crepes-recipe:
+
+| Post | New Links | Updated Links | Notes |
+|------|-----------|---------------|-------|
+| gateaux-de-crepes-recipe | 2 | 2 | dark chocolate (B01ID73TR2), dulce de leche (B000SRJLSW); Mastering the Art of French Cooking tag updated (poeticlicen07-20 → herb-hugo-20); pressure cooker replaced out-of-stock B000MPA044 with Instant Pot Duo B00FLYWNYQ |
+
+http://localhost:1313/2009/12/gateaux-de-crepes-recipe/ — 2 new links added, 2 existing links updated (1 tag fix + 1 out-of-stock replacement).
+1 post modified, 0 skipped.
+Individual post run — fried-artichokes-with-orange-olive-oil-emulsion-recipe:
+
+| Post | New Links | Updated Links | Notes |
+|------|-----------|---------------|-------|
+| fried-artichokes-with-orange-olive-oil-emulsion-recipe | 1 | 3 tag fixes | sherry vinegar (B07FY1CYRY, $10.99); Jerusalem cookbook + Plenty + Maldon tags updated poeticlicen07-20 → herb-hugo-20 + URLs modernized to https |
+
+http://localhost:1313/2012/11/fried-artichokes-with-orange-olive-oil-emulsion-recipe/ — 1 new link added, 3 existing links updated (tags + URLs modernized to herb-hugo-20).
+1 post modified, 0 skipped.
+--- Individual run finished at Thu Feb 19 2026 ---
+Individual post run — fresh-fettucini-with-hedgehog-mushrooms-and-ricotta:
+
+| Post | New Links | Updated Links | Notes |
+|------|-----------|---------------|-------|
+| fresh-fettucini-with-hedgehog-mushrooms-and-ricotta | 1 | 1 | chanterelles (B0BK2VSP7N, Forest Food Shop Dried Chanterelles, $23.95); Maldon salt tag updated poeticlicen07-20 → herb-hugo-20 + upgraded to https |
+
+http://localhost:1313/2009/01/fresh-fettucini-with-hedgehog-mushrooms-and-ricotta/ — 1 new link added, 1 existing link updated (tag + URL modernized to herb-hugo-20).
+1 post modified, 0 skipped.
+--- Individual run finished at Thu Feb 19 2026 ---
+Individual post run — gelpro-mat-your-tired-feet-will-thank-you:
+
+| Post | New Links | Updated Links | Notes |
+|------|-----------|---------------|-------|
+| gelpro-mat-your-tired-feet-will-thank-you | 0 | 2 | Both links replaced out-of-stock B004P1I71O with NewLife by GelPro B016M6KL68 ($59.95); tag updated herbivoracious-shop-20 → herb-hugo-20 on both |
+
+http://localhost:1313/2013/01/gelpro-mat-your-tired-feet-will-thank-you/ — 0 new links added, 2 existing links updated (out-of-stock replacement + tag corrected to herb-hugo-20).
+1 post modified, 0 skipped.
+--- Individual run finished at Thu Feb 19 2026 ---
+Individual post run — fresh-fettucini-with-ricotta-spring-onions-and-duck-egg-recipe:
+
+| Post | New Links | Updated Links | Notes |
+|------|-----------|---------------|-------|
+| fresh-fettucini-with-ricotta-spring-onions-and-duck-egg-recipe | 3 | 0 | shaved black truffle (B000M8O0ME, Urbani Carpaccio, $25.99), truffle oil (B0BDJ79T97, La Tourangelle, $18.99), truffle salt (B0BG9BNZDW, TRUFF, $14.99) |
+
+http://localhost:1313/2009/05/fresh-fettucini-with-ricotta-spring-onions-and-duck-egg-recipe/ — 3 new links added, 0 updated.
+1 post modified, 0 skipped.
+--- Individual run finished at Thu Feb 19 2026 ---
+Individual post run — garlic-scape-ri and garnish:
+
+| Post | New Links | Updated Links | Notes |
+|------|-----------|---------------|-------|
+| garlic-scape-ri | 1 | 0 | baking stone (Unicook B06XGV3RS4, $29.99); za'atar, ricotta, Big Green Egg all skipped (already internally linked or no good Amazon match) |
+| garnish | 3 | 1 | microplane (B00151WA06, $17.95), garam masala (B00309S13Q, $8.99), ghee (B00VXQGY28, $11.19); smoked paprika tag updated poeticlicen07-20 → herb-hugo-20 |
+
+http://localhost:1313/2008/07/garlic-scape-ri/ — 1 new link added, 0 updated.
+http://localhost:1313/2011/05/garnish/ — 3 new links added, 1 existing link updated (tag corrected to herb-hugo-20).
+2 posts modified, 0 skipped.
+--- Individual run finished at Thu Feb 19 2026 ---

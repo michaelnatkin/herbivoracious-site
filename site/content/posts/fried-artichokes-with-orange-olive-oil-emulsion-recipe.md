@@ -14,7 +14,7 @@ cover:
 
 The first time I had fried artichokes was at a little place in our neighborhood called Supreme; they went out of business shortly after we moved in, or I'd probably have the artichoke equivalent of a beer belly by now. Since then, I never pass up a chance to eat fried artichokes (including the classic Carciofi alla Giudia of Rome) but hadn't made them at home.
 
-Last week when I was working on the <a href="/2012/11/pan-fried-polenta-with-chickpea-stew-king-oyster-mushrooms-and-fig-puree/" target="_blank">City Fruit dinner</a>, I was also reading Yotam Ottolenghi and Sami Tamimi's new <a href="http://www.amazon.com/dp/1607743949/?tag=poeticlicen07-20" target="_blank">Jersualem cookbook</a>. It isn't at all vegetarian, unlike Ottolenghi's previous offering (<a href="http://www.amazon.com/dp/1452101248/?tag=poeticlicen07-20" target="_blank">Plenty</a>), but is absolutely stunning and makes me wish to make another trip to Israel as soon as possible. In one of his recipes, he mentions simmering an unpeeled orange and then blitzing it in the blender and incorporating it into a sauce (for salmon, if I remember right).
+Last week when I was working on the <a href="/2012/11/pan-fried-polenta-with-chickpea-stew-king-oyster-mushrooms-and-fig-puree/" target="_blank">City Fruit dinner</a>, I was also reading Yotam Ottolenghi and Sami Tamimi's new <a href="https://www.amazon.com/dp/1607743949?tag=herb-hugo-20" target="_blank">Jersualem cookbook</a>. It isn't at all vegetarian, unlike Ottolenghi's previous offering (<a href="https://www.amazon.com/dp/1452101248?tag=herb-hugo-20" target="_blank">Plenty</a>), but is absolutely stunning and makes me wish to make another trip to Israel as soon as possible. In one of his recipes, he mentions simmering an unpeeled orange and then blitzing it in the blender and incorporating it into a sauce (for salmon, if I remember right).
 
 I decided to try using the boiled orange as the basis of an olive oil emulsion. I thought it might actually reach to a vegan mayo type consistency, and I'm sure it would if you added lecithin, but as-is it makes a delicious dressing that I plan to use in many future dishes. The instructions below make more than you will need for the artichokes, but it is about the smallest amount that is practical and I don't think you will have any problems coming up with uses for the extra.
 
@@ -32,7 +32,7 @@ Don't even think about doing this with canned artichoke hearts, it will be terri
 <span style="text-decoration: underline;">For the Orange-Olive Oil Emulsion</span>
 <ul>
 	<li>1/2 orange, skin on, cut into 4 slices</li>
-	<li>2 tablespoons sherry vinegar</li>
+	<li>2 tablespoons <a href="https://www.amazon.com/dp/B07FY1CYRY?tag=herb-hugo-20">sherry vinegar</a></li>
 	<li>1 tablespoon prepared Dijon mustard</li>
 	<li>1 teaspoon kosher salt</li>
 	<li>1 cup extra virgin olive oil</li>
@@ -46,7 +46,7 @@ Don't even think about doing this with canned artichoke hearts, it will be terri
 	<li>4 medium globe artichokes or 8 baby artichokes</li>
 	<li>1 lemon, halved</li>
 	<li>Oil for shallow or deep frying (see above)</li>
-	<li><a href="http://www.amazon.com/dp/B0006FS4TI/?tag=poeticlicen07-20" rel="nofollow" target="_blank">Maldon (aka the world’s greatest salt)</a></li>
+	<li><a href="https://www.amazon.com/dp/B0006FS4TI?tag=herb-hugo-20" rel="nofollow" target="_blank">Maldon (aka the world’s greatest salt)</a></li>
 </ul>
 <ol>
 	<li>To prepare the artichokes: As you are working, rub each cut surface with the open surface of the lemon to prevent browning. Remove the coarse outer leaves, cut off the top third to half of the leaves, trim the stem, peel the base and stem, cut vertically into quarters, and remove the choke and any pointy leaves.</li>

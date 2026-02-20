@@ -20,7 +20,7 @@ The thing I like about the combination of ingredients I landed on is that you ca
 
 <a style="float: left; padding-right: 10px;" href="/images/old/6a00e008d618bb88340147e3ab0655970b-800wi.jpg" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb88340147e3ab0655970b" style="width: 200px; margin: 0px 5px 5px 0px;" title="Fruit Salad Small" src="/images/old/6a00e008d618bb88340147e3ab0655970b-200wi.jpg" alt="Fruit Salad Small" /></a>Red globe grapes are a beautiful thing. They are enormous, and if you take the peel off, they are pale green, cool, and sweet, and offer a couple little <strong>tannic seeds</strong>.
 
-I was in the break room at work and saw packets of instant apple cider mix, which I always sneer at. After all, the stuff doesn't even contain apples, it is just sugar and malic acid. <strong>Wait a second... malic acid</strong>... didn't <a href="http://amzn.to/hxFfup" target="_blank">Heston Blumenthal</a> say that stuff was super mouthwatering? Let me taste it. Yes indeed, like slightly <strong>puckery apple candy</strong>. Terrible drink, delicious powder. I tried rolling the peeled grapes in the powder, and it was terrific, but the powder gets moist quickly, so that wouldn't work on the salad. Instead, I serve them on a small pile of the powder, inviting the diner to dip them like Lik-M-Aid. Fun.
+I was in the break room at work and saw packets of instant apple cider mix, which I always sneer at. After all, the stuff doesn't even contain apples, it is just sugar and <a href="https://www.amazon.com/dp/B00D4SBI3I?tag=herb-hugo-20">malic acid</a>. <strong>Wait a second... malic acid</strong>... didn't <a href="http://amzn.to/hxFfup" target="_blank">Heston Blumenthal</a> say that stuff was super mouthwatering? Let me taste it. Yes indeed, like slightly <strong>puckery apple candy</strong>. Terrible drink, delicious powder. I tried rolling the peeled grapes in the powder, and it was terrific, but the powder gets moist quickly, so that wouldn't work on the salad. Instead, I serve them on a small pile of the powder, inviting the diner to dip them like Lik-M-Aid. Fun.
 
 Papaya seeds have such a surprising flavor, <strong>reminiscent of horseradish</strong>. Search the web and you'll find lots of debate about their health benefits (or maybe even risks).
 
@@ -33,7 +33,7 @@ See this <a href="/2008/01/fun-with-isomal/" target="_blank">isomalt primer</a>Â
 
 <em>For the lime glass:</em>
 <ul itemprop="ingredients">
-	<li>30 grams isomalt</li>
+	<li>30 grams <a href="https://www.amazon.com/dp/B00PKR1ZZW?tag=herb-hugo-20">isomalt</a></li>
 	<li>zest of one lime</li>
 </ul>
 <ol itemprop="recipeInstructions">
@@ -42,7 +42,7 @@ See this <a href="/2008/01/fun-with-isomal/" target="_blank">isomalt primer</a>Â
 </ol>
 <em>For the black olive puree:</em>
 <ul>
-	<li>12 oil-cured black olives, pitted</li>
+	<li>12 <a href="https://www.amazon.com/dp/B07PP3WM2K?tag=herb-hugo-20">oil-cured black olives</a>, pitted</li>
 	<li>extra virgin olive oil</li>
 </ul>
 <ol itemprop="recipeInstructions">
@@ -65,7 +65,7 @@ See this <a href="/2008/01/fun-with-isomal/" target="_blank">isomalt primer</a>Â
 	<li>8 red globe grapes, chilled and peeled</li>
 	<li>1 tablespoon fresh papaya seeds, rinsed</li>
 	<li>lemon thyme leaves</li>
-	<li>cherry-smoked sea salt (or <a href="http://www.amazon.com/dp/B0006FS4TI/?tag=poeticlicen07-20" target="_blank">Maldon (aka the world's greatest salt)</a> )</li>
+	<li>cherry-smoked sea salt (or <a href="https://www.amazon.com/dp/B00017028M?tag=herb-hugo-20" target="_blank">Maldon (aka the world's greatest salt)</a> )</li>
 </ul>
 <ol>
 	<li>Set up four small, chilled plates. Make a line of the black olive puree on each plate. Cut the tomato into wedges along the seed pocket lines and scoop out four seed pockets with their gel, leaving behind all of the tomato flesh. Place one seed pocket in the middle of each line of black olive puree.</li>
