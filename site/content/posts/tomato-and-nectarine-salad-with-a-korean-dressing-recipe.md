@@ -20,7 +20,7 @@ Tomato season really has two halves. The first half is <strong>"don't waste my 
 
 <img class="alignright size-full wp-image-2633" title="Nectarine and Tomato Salad Homey with Korean Dressing Family Style" src="/images/2012/08/Nectarine-and-Tomato-Salad-Homey-Small.jpg" alt="Nectarine and Tomato Salad Homey with Korean Dressing Family Style" width="250" height="166" />
 
-The idea for this dressing was based on wanting to find a simple first course to serve before these <a href="/2012/05/bibim-naegnmyeon-joll-noodles-cold-and-spicy-korean-noodles-recipe/">icy cold Korean noodles (jjolmyeon)</a>. It uses fine <a href="http://www.amazon.com/dp/B004W71CJU/?tag=poeticlicen07-20" target="_blank">gochugaru, a Korean chili powder</a>. The one I have is fruity/sour and not particularly spicy. <strong>Taste yours first and dial it back</strong> if it is too hot. If you don't have gochugaru, you could try ancho chili powder as a substitute, or just use a pinch of cayenne and not worry about it. But I would recommend picking up gochugaru if you can, I've fallen in love with it and will be showing you other ways to use it soon.
+The idea for this dressing was based on wanting to find a simple first course to serve before these <a href="/2012/05/bibim-naegnmyeon-joll-noodles-cold-and-spicy-korean-noodles-recipe/">icy cold Korean noodles (jjolmyeon)</a>. It uses fine <a href="https://www.amazon.com/dp/B0BZ65ZD79?tag=herb-hugo-20" target="_blank">gochugaru, a Korean chili powder</a>. The one I have is fruity/sour and not particularly spicy. <strong>Taste yours first and dial it back</strong> if it is too hot. If you don't have gochugaru, you could try ancho chili powder as a substitute, or just use a pinch of cayenne and not worry about it. But I would recommend picking up gochugaru if you can, I've fallen in love with it and will be showing you other ways to use it soon.
 
 Oh, and don't feel like you have to plate this salad all fancy like in the top photo. Your guests will enjoy it just as much if you do it family style.
 
@@ -32,9 +32,9 @@ Oh, and don't feel like you have to plate this salad all fancy like in the top p
 <span style="text-decoration: underline;">For the dressing</span>
 <ul>
 	<li>1/4 cup grapeseed oil or other neutral vegetable oil</li>
-	<li>1 tablespoon toasted (Asian) sesame oil - not the pale colored raw stuff</li>
+	<li>1 tablespoon <a href="https://www.amazon.com/dp/B002HMN6SC?tag=herb-hugo-20">toasted (Asian) sesame oil</a> - not the pale colored raw stuff</li>
 	<li>1/2 teaspoon salt</li>
-	<li>1/4 to 1 teaspoon fine ground <a href="http://www.amazon.com/dp/B004W71CJU/?tag=poeticlicen07-20" target="_blank">gochugaru (Korean chili powder)</a></li>
+	<li>1/4 to 1 teaspoon fine ground <a href="https://www.amazon.com/dp/B0BZ65ZD79?tag=herb-hugo-20" target="_blank">gochugaru (Korean chili powder)</a></li>
 	<li>2 tablespoons sherry vinegar (in a pinch, rice vinegar)</li>
 </ul>
 <div>
@@ -50,7 +50,7 @@ Oh, and don't feel like you have to plate this salad all fancy like in the top p
 	<li>A handful of cherry tomatoes, halved (could skip these for the family-style plate)</li>
 	<li>Baby arugula (just a few leaves if plating fancy; a couple cups worth if doing family style)</li>
 	<li>A few paper thin slices of sweet onion (such as Walla Walla) (cut on a mandoline if possible)</li>
-	<li>Flaky sea salt (<a href="http://www.amazon.com/dp/B0006FS4TI/?tag=poeticlicen07-20" target="_blank">Maldon (aka the world's greatest salt)</a>, preferably)</li>
+	<li>Flaky sea salt (<a href="https://www.amazon.com/dp/B00017028M?tag=herb-hugo-20">Maldon (aka the world's greatest salt)</a>, preferably)</li>
 </ul>
 <ol>
 	<li>Core the tomatoes and cut them into wedges.</li>
