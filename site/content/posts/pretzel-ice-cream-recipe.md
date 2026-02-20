@@ -17,11 +17,11 @@ My wife ordered vanilla ice cream with pretzel pieces mixed in, and caramel sauc
 
 <strong>So I thought, why not go one better? </strong>Let's make the ice cream itself taste like pretzels. I remembered that Alex and Aki had made <a href="http://ideasinfood.typepad.com/ideas_in_food/2007/02/pumpernickel_ic.html" target="_blank">pumpernickel ice cream</a>, so I was pretty sure it would be possible.
 
-The results have been great! The pretzel flavor is very present and satisfying. We like to eat it as a simple sundae, with a few pretzel pieces and a dark caramel sauce. (I love the caramel sauce recipe in the <a href="http://www.amazon.com/gp/product/0811851508?ie=UTF8&amp;tag=poeticlicen07-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0811851508">the Tartine cookbook</a> but with the sugar cooked darker, almost to burned.)
+The results have been great! The pretzel flavor is very present and satisfying. We like to eat it as a simple sundae, with a few pretzel pieces and a dark caramel sauce. (I love the caramel sauce recipe in the <a href="https://www.amazon.com/dp/0811851508?tag=herb-hugo-20">the Tartine cookbook</a> but with the sugar cooked darker, almost to burned.)
 
 I decided to go with a <strong>Philadelphia-style ice cream</strong> that uses no eggs. My thought was that this would allow the pretzel flavor to shine through even more, and also it simplifies the process because I can infuse the pretzels in cold milk and then go directly to the ice-cream machine.
 
-On my first try, I used salted pretzels because that was all I had around. Worried that they would contribute too much salt, I rinsed them first. The salt level was ok, but too uniform. So for my more recent batch, I used <strong>unsalted pretzels</strong> and then added <a href="http://www.amazon.com/dp/B0006FS4TI/?tag=poeticlicen07-20" target="_blank">Maldon (aka the world's greatest salt)</a>  after the ice cream was made. This allows the flaky salt crystals to stay undissolved so you hit them more randomly, which is pleasing.
+On my first try, I used salted pretzels because that was all I had around. Worried that they would contribute too much salt, I rinsed them first. The salt level was ok, but too uniform. So for my more recent batch, I used <strong>unsalted pretzels</strong> and then added <a href="https://www.amazon.com/dp/B0006FS4TI?tag=herb-hugo-20">Maldon (aka the world's greatest salt)</a>  after the ice cream was made. This allows the flaky salt crystals to stay undissolved so you hit them more randomly, which is pleasing.
 
 I would not recommend adding vanilla to this mix, even though it might seem tempting. It has a tendency to overpower the pretzel.
 
@@ -48,6 +48,6 @@ Here's how I'm currently making it:
 	<li>In a microwavable bowl, stir together 1 cup of whole milk with the sugar. Microwave on high for 2 minutes or until the sugar is dissolved.</li>
 	<li>In a large container with a lid, combine the sugared milk, remaining cup of milk, cream, and pretzels. Refrigerate for at least two hours, shaking occasionally. Taste and confirm that the cream has absorbed enough pretzel flavor; if not, infuse longer.</li>
 	<li>In a colander, strain the cream mixture, pressing down on the pretzels to extract as much liquid as possible. Then pass the cream again through a fine sieve to remove little bits of pretzel.</li>
-	<li>Process according to your ice cream maker's instructions. When it is done but not frozen hard, fold in flaky sea salt to taste.</li>
+	<li>Process according to your <a href="https://www.amazon.com/dp/B00NQAP01C?tag=herb-hugo-20">ice cream maker</a>'s instructions. When it is done but not frozen hard, fold in flaky sea salt to taste.</li>
 </ol>
 </div>
