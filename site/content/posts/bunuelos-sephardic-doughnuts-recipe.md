@@ -20,18 +20,18 @@ cover:
 <br /><em>Vegan option / Yields about 14 doughnuts / 20 minutes active (plus a 1 hour rise)</em>
 </p>
 <ul>
-<li>1 package dry yeast (2 1/4 teaspoons)</li>
+<li>1 package <a href="https://www.amazon.com/dp/B09JN4JKL1?tag=herb-hugo-20">dry yeast</a> (2 1/4 teaspoons)</li>
 <li>2 cups warm water, divided</li>
 <li>1/2 teaspoon salt</li>
 <li>1 1/2 teaspoons sugar</li>
 <li>1 tablespoon vegetable oil</li>
 <li>3 1/4 cups all-purpose flour</li>
 <li>oil for deep frying</li>
-<li>honey (or powdered sugar, for vegan or if you prefer)</li>
+<li><a href="https://www.amazon.com/dp/B0874XJ5DT?tag=herb-hugo-20">honey</a> (or powdered sugar, for vegan or if you prefer)</li>
 </ul>
 <ol>
 <li>Stir the yeast into 1 cup of the warm water and allow to proof. If you don't see bubbles after a few minutes, buy new yeast. Mix in the remaining cup of water along with the salt, sugar and tablespoon of oil. Slowly stir in the flour, and keep stirring until you have a smooth, wet dough. Cover and allow to rise in a warm spot for at least 1 hour. (I've allowed it to go four hours, stirring down occasionally, and it only gets more delicious).</li>
-<li>Put 3 inches of oil in a pot suitable for deep frying and bring to 370 degrees F. Line a tray with paper towels. Get a bowl of water ready.</li>
+<li>Put 3 inches of oil in a pot suitable for deep frying and bring to 370 degrees F (use a <a href="https://www.amazon.com/dp/B00004XSC9?tag=herb-hugo-20">candy/deep fry thermometer</a>). Line a tray with paper towels. Get a bowl of water ready.</li>
 <li>Moisten your hands in the bowl of water and grab about 3 tablespoons of the dough. Quickly form it into a rough ball and poke a hole through the center. These are supposed to be rustic so don't spend any time trying to make them perfect. Drop carefully into the oil. Repeat for as many as will fit comfortably in your pot without crowding. Fry until golden brown on one side, then flip and brown the other side. Use a slotted spoon to remove to paper towels.</li>
 <li>Drizzle with honey (or offer honey for dipping, or dust with powdered sugar) and serve immediately.</li>
 </ol>

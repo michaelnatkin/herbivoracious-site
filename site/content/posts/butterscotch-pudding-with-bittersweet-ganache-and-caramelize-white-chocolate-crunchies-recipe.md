@@ -26,11 +26,11 @@ The crispies use cornflakes for a lowbrow riff on feuilletine (delicious, hard t
 <em>Vegetarian and kosher</em>
 <em> Serves 4</em>
 
-Special equipment needed: immersion blender (aka stick blender), <a href="http:/" target="_blank" rel="nofollow">pressure cooker</a> (for the white chocolate; alternatives suggested above), small canning jar
+Special equipment needed: <a href="https://www.amazon.com/dp/B0CPLVLFK2?tag=herb-hugo-20">immersion blender</a> (aka stick blender), <a href="http:/" target="_blank" rel="nofollow">pressure cooker</a> (for the white chocolate; alternatives suggested above), small canning jar
 
 <span style="text-decoration: underline;">For the ganache</span>
 <ul>
-	<li>75 grams top quality bittersweet chocolate (I use a 72% fairly traded, <a href="/2011/10/was-your-chocolate-made-with-slave-labor/" target="_blank">slavery free</a> chocolate from Valrhona) in small pieces</li>
+	<li>75 grams top quality <a href="https://www.amazon.com/dp/B00GR7F9GA?tag=herb-hugo-20">bittersweet chocolate</a> (I use a 72% fairly traded, <a href="/2011/10/was-your-chocolate-made-with-slave-labor/" target="_blank">slavery free</a> chocolate from Valrhona) in small pieces</li>
 	<li>150 grams heavy cream</li>
 </ul>
 <div>
@@ -64,8 +64,8 @@ Special equipment needed: immersion blender (aka stick blender), <a href="http:/
 	<li>110 grams white chocolate</li>
 	<li>15 grams unsalted butter</li>
 	<li>58 grams (1/4 cup) heavy cream (or more, as needed, see below)</li>
-	<li>1 tablespoon unsalted hazelnut butter</li>
-	<li>1/2 teaspoon <a href="http://www.amazon.com/dp/B0006FS4TI/?tag=poeticlicen07-20" target="_blank">Maldon (aka the world's greatest salt)</a>  (or less of another sea salt)</li>
+	<li>1 tablespoon unsalted <a href="https://www.amazon.com/dp/B0FHBXW8M8?tag=herb-hugo-20">hazelnut butter</a></li>
+	<li>1/2 teaspoon <a href="https://www.amazon.com/dp/B00017028M?tag=herb-hugo-20" target="_blank">Maldon (aka the world's greatest salt)</a>  (or less of another sea salt)</li>
 	<li>8 rosemary flowers (optional)</li>
 </ul>
 <div>
