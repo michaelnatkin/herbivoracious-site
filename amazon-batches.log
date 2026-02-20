@@ -774,3 +774,19 @@ Batch 46/55 complete. Summary:
 
 **9 of 10 posts modified**, ~16 new links added, 3 existing links updated. Not pushed per instructions.
 --- Batch run #5 finished at Thu Feb 19 22:00:07 PST 2026 ---
+Individual post run — thai-basil-eggplant-recipe, thai-style-sala, the-adaptable-feast-cookbook-review-and-a-chance-to-win-a-copy, the-best-book-review-ever-video:
+
+| Post | New Links | Updated Links | Notes |
+|------|-----------|---------------|-------|
+| thai-basil-eggplant-recipe | 1 | 1 | jasmine rice (B00NM3J4E0, Mahatma 5lb, $6.88); wok link tag updated poeticlicen07-20 → herb-hugo-20 + http → https |
+| thai-style-sala | 1 | 0 | rice vinegar (B000VM2KY6, Marukan 12oz, $2.97) |
+| the-adaptable-feast-cookbook-review-and-a-chance-to-win-a-copy | 1 | 1 | Madhur Jaffrey's World Vegetarian (0609809237, $15.13); The Adaptable Feast link tag updated poeticlicen07-20 → herb-hugo-20 + URL modernized to dp/ format |
+| the-best-book-review-ever-video | 0 | 0 | Skipped — single-sentence video embed post; no recipe ingredients or tools to link |
+
+http://localhost:1313/2012/07/thai-basil-eggplant-recipe/ — 1 new link added, 1 existing link updated (tag + URL modernized to herb-hugo-20).
+http://localhost:1313/2008/09/thai-style-sala/ — 1 new link added, 0 updated.
+http://localhost:1313/the-adaptable-feast-cookbook-review-and-a-chance-to-win-a-copy/ — 1 new link added, 1 existing link updated (tag + URL modernized to herb-hugo-20).
+http://localhost:1313/the-best-book-review-ever-video/ — skipped (video-only post, no link opportunities).
+3 posts modified, 1 skipped.
+--- Individual run finished at Thu Feb 19 2026 ---
+--- Batch run #6 finished at Thu Feb 19 22:12:43 PST 2026 ---
