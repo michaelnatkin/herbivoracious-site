@@ -41,7 +41,7 @@ cover:
 <li>3 cloves garlic, minced</li>
 <li>1 pound yellow summer squash or zucchini, bite-sized cubes (about 3 medium)</li>
 <li>kernels from 2 ears of corn</li>
-<li>2 teaspoons Mexican oregano (Italian oregano is different, but an ok substitute)</li>
+<li>2 teaspoons <a href="https://www.amazon.com/dp/B000B6J4RI?tag=herb-hugo-20">Mexican oregano</a> (Italian oregano is different, but an ok substitute)</li>
 <li>¾ teasoon Kosher salt</li>
 <li>For assembly:</li>
 <li>3 cups tender cooked pinto beans (homemade or canned)</li>
@@ -56,7 +56,7 @@ cover:
 <li>For the dough: whisk together the flour, salt, and baking powder. Add the milk and mix with a fork until you have a shaggy mass, adding a little more milk if needed. You want dough that is just barely unsticky enough to roll out. With floured hands, knead for just a few seconds to make a big ball. Oil, cover, and set aside until you are ready to fry.</li>
 <li>For the topping: Roast the poblano peppers on a grill, under the broiler, or carefully with tongs over an open flame, until blackened and blistered all over. Set aside in a covered bowl until cool. Wearing rubber gloves, remove the skin, stem and seeds, then cut into ¼” strips. (These are called rajas in Mexican cuisine).</li>
 <li>Heat the oil in a big skillet over a medium-high flame. Fry the the onion and garlic for 1 minute, then add the summer squash and salt. Cook, tossing occasionally, until browned; add the corn and cook 2 minutes; add the poblano strips and oregano and heat through. Taste and adjust seasoning.</li>
-<li>When ready to fry the breads (just before serving, they are best fresh), bring a skillet filled with 3/4" of oil to 365 degrees F. Divide the dough into 4 balls and roll each one out to about 9" in diameter. Fry one at a time until medium golden brown, flipping to cook both sides. Be careful when flipping - they are big enough that if you just flop over with a spatula it can cause a dangerous splash. I use a spatula and a spoon to control them. Remove to paper towels to drain.</li>
+<li>When ready to fry the breads (just before serving, they are best fresh), bring a skillet filled with 3/4" of oil to <a href="https://www.amazon.com/dp/B00004XSC9?tag=herb-hugo-20">365 degrees F</a>. Divide the dough into 4 balls and roll each one out to about 9" in diameter. Fry one at a time until medium golden brown, flipping to cook both sides. Be careful when flipping - they are big enough that if you just flop over with a spatula it can cause a dangerous splash. I use a spatula and a spoon to control them. Remove to paper towels to drain.</li>
 <li>Put a fry bread on each plate, and top with generous portions of beans, the squash saute cheese, onion, tomatoes, lettuce, guacamole and salsa. Serve immediately.</li>
 </ol>
 </div>

@@ -19,7 +19,7 @@ While most of us who came of age in the late 60's and early 70's raced away from
 - Toasted frozen waffles with ice cream between them
 - Mozzarella sticks dipped in Cool Whip
 - Crushed pretzels with cream cheese on toast</em></p>
-Your first impression of <a href="http://www.amazon.com/gp/product/0446696773?ie=UTF8&amp;tag=poeticlicen07-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0446696773">I Like You: Hospitality Under the Influence</a> might be that it is a joke cookbook. Nearly every page is festooned with hilarious photos of food and entertaining, as if Life Magazine from 1968 ran a special issue with the entire art department either <strong>drunk or made up of 7 year olds</strong>, or both.
+Your first impression of <a href="https://www.amazon.com/dp/0446696773?tag=herb-hugo-20">I Like You: Hospitality Under the Influence</a> might be that it is a joke cookbook. Nearly every page is festooned with hilarious photos of food and entertaining, as if Life Magazine from 1968 ran a special issue with the entire art department either <strong>drunk or made up of 7 year olds</strong>, or both.
 
 But there is more here than meets the eye. Virtually every one of the hundreds of recipes in the book are legitimate, edible, and often delicious. This is especially the case for Greek recipes, which is the Sedaris family heritage. Who wouldn't like Arty Sarayiote's Koulouraki (<strong>Greek Cookie Twists</strong>), or spaghetti with thick Greek yogurt, pine nuts and Kefalotiri cheese, not to mention cocktails like the <strong>Salty Dog</strong> (vodka and grapefruit juice with a salted rim).
 <p class="blockquote" style="margin-left: 40px;"><em>"I recently stabbed myself in the nose with a 3-in-1 tool and I didn't have an ice bag. I was forced to quickly create one by filling a dish towel with ice, cutting up a pair of pantyhose, and tying together the loose ends to secure the ice on my face, bandit style. The one plus of my makeshift ice bag was that because it was fastened to my face, I could walk around with it and finish my scraping."</em></p>
@@ -48,17 +48,17 @@ Here is the recipe for the Greek koulourakia cookies, which are quite delicious.
 
 <div class="recipe-card">
 <strong>Arty Sarayiote's Koulourakia (Greek Cookie Twists)</strong>
-From <a href="http://www.amazon.com/gp/product/0446696773?ie=UTF8&amp;tag=poeticlicen07-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0446696773">I Like You: Hospitality Under the Influence</a>, by Amy Sedaris
+From <a href="https://www.amazon.com/dp/0446696773?tag=herb-hugo-20">I Like You: Hospitality Under the Influence</a>, by Amy Sedaris
 <ul>
 	<li>1 lb. sweet butter</li>
 	<li>1 to 1.5 cups sugar</li>
 	<li>2 eggs, separated</li>
 	<li>2 teaspoons vanilla extract</li>
-	<li>1/4 teaspoon cardamom <em></em></li>
+	<li>1/4 teaspoon <a href="https://www.amazon.com/dp/B00AJRKO8M?tag=herb-hugo-20">cardamom</a> <em></em></li>
 	<li>6 to 7 cups flour <em></em></li>
 	<li>2 teaspoons baking powder</li>
 	<li>1/2 pint heavy cream</li>
-	<li>sesame seeds</li>
+	<li><a href="https://www.amazon.com/dp/B07VYPWBQ8?tag=herb-hugo-20">sesame seeds</a></li>
 </ul>
 <ol>
 	<li>Preheat oven to 350 F.</li>

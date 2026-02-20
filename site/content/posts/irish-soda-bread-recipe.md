@@ -16,7 +16,7 @@ cover:
 
 As an aside, I've been enjoying keeping <strong>buttermilk</strong> as a staple lately. In the past I never had it around, so if the urge came over me to make buttermilk pancakes, or <a href="/2007/07/flaky-biscuits/">biscuits</a>, or soda bread, I'd either use powdered buttermilk, or forge some kind of substitution with milk and vinegar, or yogurt and so on. Those can all be good, but buttermilk itself is more consistent in most recipes, and it lasts quite awhile in the fridge, so it is isn't a big deal to keep on hand.
 
-In the recipe below, I call for half pastry flour and half <strong>whole wheat flour</strong>. The pastry flour will give you a more tender bread, but all purpose is fine too. Or you could use half all purpose and half whole wheat pastry flour. Basically any four cups of wheat-based flour is going to be fine, depending on your pantry and desire.
+In the recipe below, I call for half pastry flour and half <strong>whole wheat flour</strong>. The pastry flour will give you a more tender bread, but all purpose is fine too. Or you could use half all purpose and half <a href="https://www.amazon.com/dp/B08BFD4M3Y?tag=herb-hugo-20">whole wheat pastry flour</a>. Basically any four cups of wheat-based flour is going to be fine, depending on your pantry and desire.
 
 <div class="recipe-card">
 <strong>Irish Soda Bread</strong>
@@ -36,10 +36,10 @@ Adapted from Saveur magazine </em>
 </ul>
 <ol>
 	<li>Preheat oven to 425 F. Sift together the flours, sugar, salt, and baking soda.</li>
-	<li>Cut the butter into the flour with two knives or a pastry cutter, as when making a pie crust. (Tip: if your butter is frozen, microwave it for ten seconds at a time until it is cuttable).</li>
+	<li>Cut the butter into the flour with two knives or a <a href="https://www.amazon.com/dp/B000QJE48O?tag=herb-hugo-20">pastry cutter</a>, as when making a pie crust. (Tip: if your butter is frozen, microwave it for ten seconds at a time until it is cuttable).</li>
 	<li>Add the remaining ingredients, mix well with a spoon, then knead right in the bowl for couple of minutes. It should be moist but firm enough to form a ball. If not, add a bit more flour.</li>
-	<li>Shape into a large ball, place on a greased (or silpat-covered) cookie sheet, and make an X in the top with a sharp knife.</li>
-	<li>Bake for about 40 minutes until golden brown, and sounds hollow when rapped on the bottom. Better yet, use an instant read thermometer to look for an internal temperature of 180 degrees. That is a much more reliable way to gauge doneness. If the bread browns too fast, cover it with a tinfoil tent until it is done.</li>
+	<li>Shape into a large ball, place on a greased (or <a href="https://www.amazon.com/dp/B00008T960?tag=herb-hugo-20">silpat</a>-covered) cookie sheet, and make an X in the top with a sharp knife.</li>
+	<li>Bake for about 40 minutes until golden brown, and sounds hollow when rapped on the bottom. Better yet, use an <a href="https://www.amazon.com/dp/B00S93EQUK?tag=herb-hugo-20">instant read thermometer</a> to look for an internal temperature of 180 degrees. That is a much more reliable way to gauge doneness. If the bread browns too fast, cover it with a tinfoil tent until it is done.</li>
 	<li>Allow to cool for a few minutes, and serve with swaths of sweet cream butter.</li>
 </ol>
 <a href="http://www.foodista.com/recipe/H66MF3QF/irish-soda-bread"><img style="border: none; width: 101px; height: 20px;" src="http://static.foodista.com/images/foodista_logo_101_20_flattened.png?foodista_widget_8WKLP55N" alt="Irish Soda Bread on Foodista" /></a>
