@@ -31,11 +31,11 @@ Gremolata is a simple condiment of finely minced parsley, lemon zest and usually
 	<li>Kosher salt</li>
 	<li>big handful flat-leaf parsley leaves</li>
 	<li>zest of 1/2 lemon</li>
-	<li>flaky sea salt</li>
+	<li><a href="https://www.amazon.com/dp/B0006FS4TI?tag=herb-hugo-20">flaky sea salt</a></li>
 </ul>
 <ol>
 	<li>Preheat oven to 450. Place potatoes in a pot with enough cold water to cover them and 2 tablespoons of salt. Put the pot over maximum heat, bring to a boil and allow to boil for 5 minutes. Drain.</li>
-	<li>Put the potatoes on a sheet pan and bake in the oven until fork tender. Remove the sheet from the oven and smash each potato fairly agressively, so that it flattens out some and develops big cracks, but doesn't totally mash. The bottom of a coffee mug works well for this.</li>
+	<li>Put the potatoes on a <a href="https://www.amazon.com/dp/B003YKGRPK?tag=herb-hugo-20">sheet pan</a> and bake in the oven until fork tender. Remove the sheet from the oven and smash each potato fairly agressively, so that it flattens out some and develops big cracks, but doesn't totally mash. The bottom of a coffee mug works well for this.</li>
 	<li>In a small frying pan, heat the olive oil over medium heat. Add the garlic and saute for 2 minutes.</li>
 	<li>Spoon the garlic and oil over the potatoes, distributing as evenly as possible. Sprinkle with Kosher salt. Return the tray to the oven, raise heat to 500, and cook until the skins are crispy in many spots. This will take at least 20 minutes.</li>
 	<li>Mince the parsley and lemon zest together to make the gremolata. Put the potatoes in a serving bowl, being sure to gather up all the crispy bits garlic. Sprinkle the gremolata over the top, add a generous amount of flaky sea salt and serve immediately.</li>
