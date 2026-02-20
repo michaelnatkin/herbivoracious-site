@@ -19,7 +19,7 @@ The flavors, both of the beets and the resemblance to cured meats suggest the ri
 
 If you want to use the corned beef spices, make up just the spice mixture part of this <a href="http://www.simplyrecipes.com/recipes/home_cured_corned_beef/" target="_blank">recipe from Elise</a> and then measure out the amount you need.
 
-I've only ever made this recipe by cooking the beets sous vide and drying them in a <a href="http://www.amazon.com/dp/B004Z915M4/?tag=poeticlicen07-20" target="_blank">fancy-pants dehydrator</a>, and rehydrating them in a chamber vacuum. But I don't see any reason why it shouldn't work to cook them in a pot, dry them in a low oven, and rehydrate (more slowly) without a vacuum. You'll have to experiment a little, but it should be just fine. If you do, please report back! I've given my best-guess directions below.
+I've only ever made this recipe by cooking the beets sous vide and drying them in a <a href="https://www.amazon.com/dp/B004Z915M4?tag=herb-hugo-20" target="_blank">fancy-pants dehydrator</a>, and rehydrating them in a chamber vacuum. But I don't see any reason why it shouldn't work to cook them in a pot, dry them in a low oven, and rehydrate (more slowly) without a vacuum. You'll have to experiment a little, but it should be just fine. If you do, please report back! I've given my best-guess directions below.
 
 
 <div class="recipe-card">

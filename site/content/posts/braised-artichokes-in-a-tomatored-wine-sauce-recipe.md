@@ -8,6 +8,7 @@ aliases: ["/braised-artichokes-in-a-tomatored-wine-sauce-recipe/", "/2009/03/bra
 cover:
   image: "/images/old/6a00e008d618bb883401127905a74928a4-500wi.jpg"
   hidden: true
+---
 
   
 Braised Artichokes in Tomato-Red Wine Sauce

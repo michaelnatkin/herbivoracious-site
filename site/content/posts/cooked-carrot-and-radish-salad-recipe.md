@@ -38,7 +38,7 @@ Serves 4</em>
 	<li>1 bunch of small, sweet carrots with tops attached</li>
 	<li>4-6 radishes, preferably of varying colors</li>
 	<li>a few tiny sprigs of dill</li>
-	<li>finishing salt (this <a href="http://www.amazon.com/dp/B000K7644E/?tag=poeticlicen07-20" target="_blank">Hawaiian Red Salt</a> would be amazing)</li>
+	<li>finishing salt (this <a href="https://www.amazon.com/dp/B000K7644E?tag=herb-hugo-20">Hawaiian Red Salt</a> would be amazing)</li>
 </ul>
 <ol>
 	<li>Bring a large pot of well salted water to a boil and set up an ice bath.</li>
