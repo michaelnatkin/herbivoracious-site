@@ -1226,7 +1226,11 @@ a.as-seen-in:hover { text-decoration: none; }
 /* Sidebar pagefind — compact version */
 #sidebar-search .pagefind-ui__search-input {
   font-size: 14px !important;
-  padding: 9px 14px !important;
+  padding: 9px 14px 9px 36px !important;
+}
+
+#sidebar-search .pagefind-ui__search-clear {
+  display: none !important;
 }
 
 #sidebar-search .pagefind-ui__result-link {
@@ -1240,6 +1244,7 @@ a.as-seen-in:hover { text-decoration: none; }
 #sidebar-search .pagefind-ui__result-image {
   display: none !important;
 }
+
 
 /* ---- Recipe Card ---- */
 .recipe-card {
