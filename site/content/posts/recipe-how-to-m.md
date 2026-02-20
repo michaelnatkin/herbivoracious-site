@@ -13,14 +13,13 @@ cover:
 <a href="/images/2007/11/07/fluffycouscous.jpg" rel="lightbox"><img class="photo" title="Fluffy Couscous - just steam it in a casserole instead of a pot" src="/images/2007/11/07/fluffycouscous.jpg" alt="Fluffy Couscous - just steam it in a casserole instead of a pot" width="455" height="302" border="0" /></a>
 <span style="font-size: 0.8em;">Fluffy Couscous - just steam it in a casserole instead of a pot</span>
 
-I make <a href="http://www.amazon.com/s/?_encoding=UTF8&amp;camp=1789&amp;creative=390957&amp;keywords=couscous&amp;linkCode=ur2&amp;qid=1349212899&amp;rh=i%3Aaps%2Ck%3Acouscous&amp;tag=vegfoodie-20" target="_blank">couscous</a> all the time, whenever I want a break from rice or pasta, or when I just need something that cooks super quick with minimal attention. I know there is a proper way that it is prepared in its native lands, involving multiple steamings in a basket over boiling water, followed by breaking up with your fingers and steaming some more. I'm sure this is fantastic but I've always contented myself with the quick "package directions" version where you simply add the couscous to boiling water, turn off the heat, cover, wait 5 minutes and fluff. It isn't bad but it isn't all that fluffy or delicious either.
+I make <a href="https://www.amazon.com/dp/B001HTINWA?tag=herb-hugo-20">couscous</a> all the time, whenever I want a break from rice or pasta, or when I just need something that cooks super quick with minimal attention. I know there is a proper way that it is prepared in its native lands, involving multiple steamings in a basket over boiling water, followed by breaking up with your fingers and steaming some more. I'm sure this is fantastic but I've always contented myself with the quick "package directions" version where you simply add the couscous to boiling water, turn off the heat, cover, wait 5 minutes and fluff. It isn't bad but it isn't all that fluffy or delicious either.
 
 <div style="float: left; margin-right: 15px; width: 36%;">
-<a class="embedly-card" href="http://www.amazon.com/dp/B000B16SRW/?tag=poeticlicen07-20">Saffron Shores: Jewish Cooking of the Southern Mediterranean</a>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+<a href="https://www.amazon.com/dp/B000B16SRW?tag=herb-hugo-20">Saffron Shores: Jewish Cooking of the Southern Mediterranean</a>
 </div>
 
-Joyce Goldstein's wonderful book <a type="amzn" href="http://www.amazon.com/dp/B000B16SRW/?tag=poeticlicen07-20" target="_blank">Saffron Shores</a> (about the foods of the Jewish diaspora in the southern Mediterranean) just showed me a much better way. Hardly any more work than the quickie version. The trick is that you pour the boiling water over the couscous in a low flat casserole so that the weight of the grains and water doesn't keep it from expanding. I was blown away at how much fluffier and tastier the results are. I'll never do it in the pot again.
+Joyce Goldstein's wonderful book <a href="https://www.amazon.com/dp/B000B16SRW?tag=herb-hugo-20">Saffron Shores</a> (about the foods of the Jewish diaspora in the southern Mediterranean) just showed me a much better way. Hardly any more work than the quickie version. The trick is that you pour the boiling water over the couscous in a low flat casserole so that the weight of the grains and water doesn't keep it from expanding. I was blown away at how much fluffier and tastier the results are. I'll never do it in the pot again.
 
 The exact method is below, and if you are looking for something to serve it with, try it with these <a href="/2010/07/chickpea-cakes-recipe/" target="_blank">chickpea cakes</a> or with <a href="/2008/01/couscous-with-s/" target="_blank">acorn squash and a yogurt sauce</a>.
 
@@ -31,7 +30,7 @@ Vegetarian and Vegan
 Prep time: <span class="prepTime">5 minutes</span>
 Cook time: <span class="cookTime">15 minutes</span> </em>
 <ul>
-	<li>3 cups <a href="http://www.amazon.com/s/?_encoding=UTF8&amp;camp=1789&amp;creative=390957&amp;keywords=couscous&amp;linkCode=ur2&amp;qid=1349212899&amp;rh=i%3Aaps%2Ck%3Acouscous&amp;tag=vegfoodie-20" target="_blank">couscous</a></li>
+	<li>3 cups <a href="https://www.amazon.com/dp/B001HTINWA?tag=herb-hugo-20">couscous</a></li>
 	<li>4 1/2 cups boiling water</li>
 	<li>1 teaspoon salt</li>
 	<li>1 tablespoon olive oil</li>
