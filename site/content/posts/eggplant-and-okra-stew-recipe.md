@@ -29,9 +29,9 @@ cover:
 <li>1 medium white onion, diced</li>
 <li>4 cloves garlic, thinly sliced</li>
 <li>2 tablespoons grated fresh ginger, divided</li>
-<li>1 tablespoon ground coriander</li>
+<li>1 tablespoon <a href="https://www.amazon.com/dp/B082ZSG1KK?tag=herb-hugo-20">ground coriander</a></li>
 <li>1 tablespoon ground cumin</li>
-<li>1 teaspoon chile flakes (more or less to taste)</li>
+<li>1 teaspoon <a href="https://www.amazon.com/dp/B07W2VL1QJ?tag=herb-hugo-20">chile flakes</a> (more or less to taste)</li>
 <li>1 summer squash, medium dice</li>
 <li>1 pound okra, ends removed, cut into 1” lengths</li>
 <li>1 28-ounce can peeled tomatoes including juice</li>
