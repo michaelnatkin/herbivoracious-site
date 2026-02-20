@@ -13,13 +13,13 @@ cover:
 <a style="display: inline;" href="/images/old/6a00e008d618bb8834013480a274c0970c-800wi.jpg" rel="lightbox"><img class="asset asset-image at-xid-6a00e008d618bb8834013480a274c0970c " title="Persian-Italian Eggplant Stew (Vegetarian, Vegan, and Gluten-Free)" src="/images/old/6a00e008d618bb8834013480a274c0970c-500wi.jpg" alt="Persian-Italian Eggplant Stew (Vegetarian, Vegan, and Gluten-Free)" /></a>
 <em>Persian-Italian Eggplant Stew</em>
 
-Yes, I said Persian-Italian. Bear with me here for a second. I was looking for some sort of moist eggplant dish to serve with Persian rice (a wonderful basmati pilaf with a crunchy crust; I'll tell you about that soon). I came across several recipes for a Persian dish named <em>Fesenjan-e Bademjan</em>, which is eggplant braised in a sauce of walnuts, pomegranate, and honey.
+Yes, I said Persian-Italian. Bear with me here for a second. I was looking for some sort of moist eggplant dish to serve with Persian rice (a wonderful basmati pilaf with a crunchy crust; I'll tell you about that soon). I came across several recipes for a Persian dish named <em>Fesenjan-e Bademjan</em>, which is eggplant braised in a sauce of walnuts, <a href="https://www.amazon.com/dp/B0CRL8HR8S?tag=herb-hugo-20">pomegranate molasses</a>, and honey.
 
-This sounded amazing, but I had two problems: I had no pomegranate molasses in the house, and I <a href="/2009/02/understanding-deadly-food-allergies-this-post-could-save-a-life/" target="_blank">can't serve walnuts</a>. I scanned my pantry for something that might replace the pomegranate, and hit upon <a href="http://amzn.to/9ab0Wl" target="_blank">mosto cotto (aka saba)</a>, which is the cooked grape must that would become balsamic vinegar if it was aged.
+This sounded amazing, but I had two problems: I had no pomegranate molasses in the house, and I <a href="/2009/02/understanding-deadly-food-allergies-this-post-could-save-a-life/" target="_blank">can't serve walnuts</a>. I scanned my pantry for something that might replace the pomegranate, and hit upon <a href="https://www.amazon.com/dp/B0F1Z5JM79?tag=herb-hugo-20" target="_blank">mosto cotto (aka saba)</a>, which is the cooked grape must that would become balsamic vinegar if it was aged.
 
 Mosto cotto is fruity, sweet and sour in a way very comparable to the pomegranate molasses. So I decided to roll with it and reimagine the dish as if it were cooked by a Persian traveling on a trade route through Italy in the 10th century. (I have an active imagination). The sweet / sour / spiced flavors seem almost medieval.
 
-As for the walnuts, I figured that their main purpose was to thicken and enrich the sauce. I substituted roasted, unsweetened sunflower seed butter. But if you have walnut butter or can toast and grind whole ones, I'm sure that would be great.
+As for the walnuts, I figured that their main purpose was to thicken and enrich the sauce. I substituted roasted, unsweetened <a href="https://www.amazon.com/dp/B008K4HTN4?tag=herb-hugo-20">sunflower seed butter</a>. But if you have walnut butter or can toast and grind whole ones, I'm sure that would be great.
 
 You'll notice I don't salt and drain the eggplants. Some people feel this is essential to remove bitterness. To me, it just makes them wet so they don't brown well. I don't find them particularly bitter.
 
@@ -43,7 +43,7 @@ Serves 4</em>
 	<li>2 cups water</li>
 	<li>salt</li>
 	<li>handful parsley leaves</li>
-	<li>2 teaspoons sumac powder</li>
+	<li>2 teaspoons <a href="https://www.amazon.com/dp/B07R4LL17V?tag=herb-hugo-20">sumac powder</a></li>
 </ul>
 <ol>
 	<li>Trim the eggplants and cut them in quarters, lengthwise. In a large skillet, heat the oil over a medium high-flame. Fry the eggplant on all sides until well seared and golden brown. Remove to paper towels and season with salt.</li>

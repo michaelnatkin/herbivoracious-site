@@ -21,7 +21,7 @@ Then there are the folks who aren't scared of microwaves, but think they only ar
 
 Interestingly, I know I'm not the only person who uses this method (not just for green beans - I often do it with carrots, broccoli, small potatoes, etc.), but I rarely if ever see it mentioned in cookbooks. My old friend Spike works this way a lot, I know, because we've exchanged several emails on the subject. Any other microwave &amp; then sear aficionados out there?
 
-Once you've got your caramelized green beans, you can either stop right there and finish them with <a href="http://www.amazon.com/gp/product/B000FSE1N4?ie=UTF8&amp;camp=213733&amp;creative=393177&amp;creativeASIN=B000FSE1N4&amp;linkCode=shr&amp;tag=poeticlicen07-20" target="_blank">Maldon salt</a> and some good olive oil, or you can take them in any flavor direction you like. For example, glaze them with a bit of sherry vinegar and smoked paprika for a Spanish approach, or with lemon juice, garlic, olives and feta to head to Greece. (Stop a little early on the sear if you do this; otherwise when you add a bit of liquid they tend to overcook.) If you are making a stir-fry and don't have a jet-sized wok burner, the same trick works - microwave the beans to nearly tender, then finish in a hot wok.
+Once you've got your caramelized green beans, you can either stop right there and finish them with <a href="https://www.amazon.com/dp/B00017028M?tag=herb-hugo-20">Maldon salt</a> and some good olive oil, or you can take them in any flavor direction you like. For example, glaze them with a bit of sherry vinegar and smoked paprika for a Spanish approach, or with lemon juice, garlic, olives and feta to head to Greece. (Stop a little early on the sear if you do this; otherwise when you add a bit of liquid they tend to overcook.) If you are making a stir-fry and don't have a jet-sized wok burner, the same trick works - microwave the beans to nearly tender, then finish in a hot wok.
 
 <div class="recipe-card">
 <strong>Perfect Roasted Green Beans</strong>
@@ -32,11 +32,11 @@ Once you've got your caramelized green beans, you can either stop right there an
 	<li><span style="line-height: 13px;">1 pound of green beans</span></li>
 	<li>Vegetable oil</li>
 	<li>Kosher salt</li>
-	<li>Sea salt, preferably <a href="http://www.amazon.com/gp/product/B000FSE1N4?ie=UTF8&amp;camp=213733&amp;creative=393177&amp;creativeASIN=B000FSE1N4&amp;linkCode=shr&amp;tag=poeticlicen07-20" target="_blank">Maldon</a></li>
+	<li>Sea salt, preferably <a href="https://www.amazon.com/dp/B00017028M?tag=herb-hugo-20">Maldon</a></li>
 	<li>Extra-virgin olive oil</li>
 </ul>
 <ol>
-	<li><span style="line-height: 13px;">Trim your green beans. I like to remove just the stem end, but if you want to do both ends that is ok too. By the way, try doing this task with kitchen shears. I find it to be much faster than with my knife. </span></li>
+	<li><span style="line-height: 13px;">Trim your green beans. I like to remove just the stem end, but if you want to do both ends that is ok too. By the way, try doing this task with <a href="https://www.amazon.com/dp/B07PZF3QS3?tag=herb-hugo-20">kitchen shears</a>. I find it to be much faster than with my knife. </span></li>
 	<li>Preheat your largest skillet, <a href="/2009/11/my-skillet/" target="_blank">preferably cast iron</a>, over high heat. (Don't do this with a non-stick pan, it isn't safe at these temperatures.)</li>
 	<li>Rinse the green beans and leave a bit of water clinging to them. Place them in a microwave-safe bowl with a lid and microwave on high power for 1 minute, then carefully toss with tongs and return to the microwave. Repeat the covering, microwaving and tossing 1 minute or less at a time until the beans have turned a brighter shade of green, but with still have a noticeable firmness about them. In my microwave the total time is only about 2 minutes.</li>
 	<li>Leave the skillet on high heat. Add a couple of tablespoons of the vegetable oil to the skillet and immediately add the beans, using tongs so as to leave any water behind in the bowl. Add a big pinch of Kosher salt and toss the beans, then spread them out evenly in the pan. Cook, tossing only occasionally, until there are many browned spots on the beans, about 3 minutes</li>
