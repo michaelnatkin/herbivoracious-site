@@ -38,9 +38,16 @@
 
   <!-- Shop Promo -->
   <div class="sidebar-section sidebar-shop-promo">
-    <h3>from my kitchen</h3>
-    <p class="sidebar-shop-promo__body">The tools, pantry staples &amp; ingredients I reach for every day — hand-picked over years of cooking.</p>
-    <a href="{{ "shop/" | relURL }}" class="sidebar-shop-promo__link">Browse recommendations →</a>
+    <a href="{{ "shop/" | relURL }}" class="shop-promo-card">
+      <img src="{{ "images/old/6a00e008d618bb88340128769f5c44970c-500wi.jpg" | relURL }}" alt="" class="shop-promo-card__img">
+      <div class="shop-promo-card__overlay"></div>
+      <div class="shop-promo-card__content">
+        <span class="shop-promo-card__kicker">From My Kitchen</span>
+        <h3 class="shop-promo-card__title">Shop My Pantry</h3>
+        <p class="shop-promo-card__desc">The tools &amp; ingredients I reach for every day</p>
+        <span class="shop-promo-card__cta">Browse recommendations <span class="shop-promo-card__arrow">→</span></span>
+      </div>
+    </a>
   </div>
 
   <!-- Most Popular -->

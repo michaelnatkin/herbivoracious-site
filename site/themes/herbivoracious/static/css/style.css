@@ -410,30 +410,113 @@ a.as-seen-in:hover { text-decoration: none; }
   pointer-events: none;
 }
 
-/* Shop Promo */
-.sidebar-shop-promo__body {
+/* Shop Promo — image card */
+.sidebar-shop-promo { border-bottom: none; padding-bottom: 0; }
+.sidebar-shop-promo > h3 { display: none; }
+
+.shop-promo-card {
+  display: block;
+  position: relative;
+  overflow: hidden;
+  border-radius: var(--radius-lg);
+  aspect-ratio: 4 / 5;
+  color: var(--white);
+  text-decoration: none;
+}
+
+.shop-promo-card:hover { text-decoration: none; color: var(--white); }
+
+.shop-promo-card__img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center 25%;
+  transition: transform 0.7s var(--ease);
+}
+
+.shop-promo-card:hover .shop-promo-card__img {
+  transform: scale(1.06);
+}
+
+.shop-promo-card__overlay {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    to top,
+    rgba(22, 14, 6, 0.82) 0%,
+    rgba(22, 14, 6, 0.5) 40%,
+    rgba(22, 14, 6, 0.0) 80%
+  );
+}
+
+.shop-promo-card__content {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  padding: 20px 22px 22px;
+  background: none;
+}
+
+.sidebar .shop-promo-card__kicker {
+  display: block;
+  font-family: var(--font-ui);
+  font-size: 10.5px;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: rgba(255, 255, 255, 0.7);
+  margin-bottom: 6px;
+}
+
+.sidebar .shop-promo-card__title {
+  font-family: var(--font-display);
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 1.1;
+  letter-spacing: -0.02em;
+  color: white;
+  margin: 0 0 6px;
+}
+
+.sidebar .shop-promo-card__desc {
   font-family: var(--font-body);
-  font-size: 15px;
-  line-height: 1.65;
-  color: var(--text-secondary);
+  font-size: 14px;
   font-style: italic;
+  line-height: 1.45;
+  color: rgba(255, 255, 255, 1);
   margin-bottom: 14px;
 }
 
-.sidebar-shop-promo__link {
+.shop-promo-card__cta {
+  display: inline-block;
   font-family: var(--font-ui);
-  font-size: 13.5px;
-  font-weight: 500;
-  color: var(--accent);
-  display: inline-flex;
-  align-items: center;
-  gap: 6px;
-  letter-spacing: 0.02em;
+  font-size: 12.5px;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  color: var(--white);
+  padding: 8px 18px;
+  border: 1.5px solid rgba(255, 255, 255, 0.4);
+  border-radius: 100px;
+  transition: all 0.3s var(--ease);
+  transform: translateY(160px);
 }
 
-.sidebar-shop-promo__link:hover {
-  color: var(--accent-hover);
-  text-decoration: none;
+.shop-promo-card:hover .shop-promo-card__cta {
+  background: var(--white);
+  color: var(--text);
+  border-color: var(--white);
+}
+
+.shop-promo-card__arrow {
+  display: inline-block;
+  transition: transform 0.3s var(--ease);
+}
+
+.shop-promo-card:hover .shop-promo-card__arrow {
+  transform: translateX(3px);
 }
 
 /* Most Popular */
