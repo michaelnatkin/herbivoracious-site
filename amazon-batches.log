@@ -952,3 +952,28 @@ http://localhost:1313/2008/03/winter-food-b-1/ — 2 links converted/added (old 
 http://localhost:1313/2007/12/winter-green-du/ — 2 new links added.
 2 posts modified, 1 skipped.
 --- Individual run finished at Fri Feb 20 2026 ---
+Done. Batch 54/55 complete:
+
+| Post | Result |
+|------|--------|
+| what-to-do-with-an-insideout-egg | 2 existing links updated (tag fix) |
+| when-it-all-goes-wrong-making-your-food-pop-part-3andahalf | 1 new link + 1 existing updated |
+| where-to-eat-in | Skipped — travel post, no products |
+| white-bean-and-kale-soup-recipe | 4 new links added |
+| whopper-cake-book-review | 1 existing updated + 2 new links |
+| why-im-a-vegetarian-dammit | Skipped — essay, no products |
+| why-you-need-an-instant-read-kitchen-thermometer | 5 existing updated, removed broken widgets |
+| win-a-signed-copy-of-the-herbivoracious-cookbook-giveaway | Skipped — giveaway post |
+| winter-food-b-1 | 2 existing converted to proper format |
+| winter-green-du | 2 new links added |
+
+**7 posts modified, 3 skipped.** Committed and synced. Not pushed (as requested).
+--- Batch run #13 finished at Fri Feb 20 03:39:25 PST 2026 ---
+--- Batch run (zabaglione + zucchini-carpaccio) finished at Thu Feb 20 2026 ---
+2 posts modified, 0 skipped.
+
+| Post | Localhost URL | New Links | Updated Links |
+|------|--------------|-----------|---------------|
+| zabaglione-with-roasted-plums-recipe | http://localhost:1313/2012/04/zabaglione-with-roasted-plums-recipe/ | 2 new (Marsala wine, double boiler) | 0 |
+| zucchini-carpaccio-recipe | http://localhost:1313/2009/08/zucchini-carpaccio-recipe/ | 3 new (mandoline, sherry vinegar, flaky sea salt) | 1 updated (Cooking by Hand — tag changed to herb-hugo-20) |
+--- End batch ---
