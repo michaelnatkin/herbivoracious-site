@@ -31,11 +31,11 @@ cover:
 <li>1 teaspoon Kosher salt</li>
 <li>finely chopped chives</li>
 <li>extra virgin olive oil</li>
-<li>flaky sea salt</li>
+<li><a href="https://www.amazon.com/dp/B00017028M?tag=herb-hugo-20">flaky sea salt</a></li>
 </ul>
 <ol>
 <li>Chill 4 small bowls.</li>
-<li>In a blender or with an immersion blender, puree the buttermilk, 32 of the tomato confit halves and the salt. Run the blender for at least a minute to make the puree as smooth as possible. Strain.</li>
+<li>In a blender or with an <a href="https://www.amazon.com/dp/B0CPLVLFK2?tag=herb-hugo-20">immersion blender</a>, puree the buttermilk, 32 of the tomato confit halves and the salt. Run the blender for at least a minute to make the puree as smooth as possible. Strain.</li>
 <li>Finely chop the remaining 4 tomato halves.</li>
 <li>Divide the soup among the bowls; garnish each one with some chopped confit, chives, a drizzle of olive oil, and a few flakes of salt. Serve immediately.</li>
 </ol>

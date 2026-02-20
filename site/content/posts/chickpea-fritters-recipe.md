@@ -30,12 +30,12 @@ cover:
 <li>1 egg, lightly beaten</li>
 <li>1/2 cup all-purpose flour</li>
 <li>1/4 cup homemade breadcrumbs</li>
-<li>1/4 cup toasted sesame seeds</li>
+<li>1/4 cup <a href="https://www.amazon.com/dp/B00NWC8K3C?tag=herb-hugo-20">toasted sesame seeds</a></li>
 <li>oil for shallow frying</li>
-<li>flaky sea salt</li>
+<li><a href="https://www.amazon.com/dp/B0006FS4TI?tag=herb-hugo-20">flaky sea salt</a></li>
 </ul>
 <ol>
-<li>Combine all ingredients except the oil and flaky sea salt in a food processor and buzz until you have a fairly uniform mixture, but stop before it is completely pureed. We want some texture left. You should be able to form it into a ball that holds its shape. It should be neither crumbly nor a batter. Add liquid or breadcrumbs as necessary to find the right moisture level.</li>
-<li>Heat a few tablespoons of oil in a large skillet, preferably cast-iron, over a medium-high flame. Take a golf-ball sized piece of dough, press it in your hands into a flattened 3-inch patty and place in the skillet. Repeat with as many as will fit comfortably. Fry on one side until golden brown, about 3 minutes, then flip and brown the other side. Remove to paper towels and finish with a little bit of sea salt.</li>
+<li>Combine all ingredients except the oil and flaky sea salt in a <a href="https://www.amazon.com/dp/B089TP3K77?tag=herb-hugo-20">food processor</a> and buzz until you have a fairly uniform mixture, but stop before it is completely pureed. We want some texture left. You should be able to form it into a ball that holds its shape. It should be neither crumbly nor a batter. Add liquid or breadcrumbs as necessary to find the right moisture level.</li>
+<li>Heat a few tablespoons of oil in a large skillet, preferably <a href="https://www.amazon.com/dp/B00006JSUB?tag=herb-hugo-20">cast-iron</a>, over a medium-high flame. Take a golf-ball sized piece of dough, press it in your hands into a flattened 3-inch patty and place in the skillet. Repeat with as many as will fit comfortably. Fry on one side until golden brown, about 3 minutes, then flip and brown the other side. Remove to paper towels and finish with a little bit of sea salt.</li>
 </ol>
 </div>

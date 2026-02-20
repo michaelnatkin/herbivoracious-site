@@ -16,7 +16,7 @@ cover:
 
 In South America, chimichurri is usually served with steak, but you can definitely <strong>make a home for it in a vegetarian kitchen as well</strong>. It has a strong, herbaceous bite that pairs well with the smokiness of grilled vegetables, cuts the richness of fried foods, or amps up the flavor of a mild dish.
 
-In the picture above, you can see I served the chimichurri with mild <a href="http://www.amazon.com/gp/product/B000HRZX6C?ie=UTF8&amp;tag=poeticlicen07-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B000HRZX6C" target="_blank">Argentinian polenta</a>, rich little tostones (twice-fried plantain) and avocado.
+In the picture above, you can see I served the chimichurri with mild <a href="https://www.amazon.com/dp/B0045VYH4A?tag=herb-hugo-20">Argentinian polenta</a>, rich little tostones (twice-fried plantain) and avocado.
 
 Generally speaking, the essential ingredients of a chimichurri recipe are parsley, olive oil, garlic, onion, salt and pepper and something acidic. I chose to embellish this version by including <strong>cilantro, red onion, a bit of sherry vinegar, and a few capers</strong>. Other common variations add chili flakes, paprika, or dried oregano. Once you establish the basic flavor profile, there is plenty of room to tweak it to match your taste and what you are serving it with. (I apologize in advance to any chimichurri purists who feel that such variations are heresy, and remind you that the recipe isn't 100% standardized even in its homelands!)
 <div class="easyrecipe">
@@ -49,7 +49,7 @@ Generally speaking, the essential ingredients of a chimichurri recipe are parsle
 	<li class="ingredient">1 cup well-rinsed cilantro leaves, lightly packed</li>
 	<li class="ingredient">1 teaspoon salt</li>
 	<li class="ingredient">1/4 teaspoon freshly ground black pepper</li>
-	<li class="ingredient">1 tablespoon sherry vinegar</li>
+	<li class="ingredient">1 tablespoon <a href="https://www.amazon.com/dp/B07FY1CYRY?tag=herb-hugo-20">sherry vinegar</a></li>
 	<li class="ingredient">1/4 cup red onion, minced (or add to food processor before herbs)</li>
 	<li class="ingredient">1 tablespoon capers, rinsed</li>
 </ul>
@@ -58,7 +58,7 @@ Generally speaking, the essential ingredients of a chimichurri recipe are parsle
 <div class="ERInstructionsHeader">Instructions</div>
 <div class="instructions">
 <ol>
-	<li class="instruction">In a small food processor, combine the olive oil and garlic and run until the garlic is well distributed. If you don't feel like mincing the onion by hand, you can add it in chunks now, but it won't look as nice. If you don't have a small food processor, you might need to make a double batch as a full size machine probably won't work well on this small quantity.</li>
+	<li class="instruction">In a <a href="https://www.amazon.com/dp/B0000645YM?tag=herb-hugo-20">small food processor</a>, combine the olive oil and garlic and run until the garlic is well distributed. If you don't feel like mincing the onion by hand, you can add it in chunks now, but it won't look as nice. If you don't have a small food processor, you might need to make a double batch as a full size machine probably won't work well on this small quantity.</li>
 	<li class="instruction">Add the parsley, cilantro, salt, pepper and vinegar and process until minced but with still a bit of texture left in the leaves.</li>
 	<li class="instruction">Remove from the food processor and mix in the onions and capers.</li>
 	<li class="instruction">Let rest at least 30 minutes, then taste and adjust salt, pepper and vinegar as needed.</li>
