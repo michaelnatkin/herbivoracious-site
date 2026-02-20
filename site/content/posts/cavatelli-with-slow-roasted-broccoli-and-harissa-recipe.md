@@ -15,9 +15,9 @@ Hopefully we are at a point now where it is no longer considered a faux pas to, 
 
 The truth is many vegetables can yield different pleasures depending on the time, temperature, and technique by which they are cooked. Broccoli that is steamed or boiled for a long time is horrible gray, sulfurous stuff. But broccoli that is slowly, slowly pan-roasted in a good amount of olive oil becomes meltingly tender and luscious. It makes a perfect condiment for the al dente chew of properly cooked cavatelli.
 
-I happened to get this wonderful <a href="http://www.amazon.com/dp/B002HWS7B8/?tag=poeticlicen07-20">hand-cranked cavatelli maker</a> as a birthday present. This was my inaugural run with it, and I have to say pretty darn successful. It makes this terrific click-click-click as the cavatelli come popping out of it. Very fast and easy. But you can make this recipe with store-bought cavatelli or any other small, fairly dense shaped pasta.
+I happened to get this wonderful <a href="https://www.amazon.com/dp/B009J9AE18?tag=herb-hugo-20">hand-cranked cavatelli maker</a> as a birthday present. This was my inaugural run with it, and I have to say pretty darn successful. It makes this terrific click-click-click as the cavatelli come popping out of it. Very fast and easy. But you can make this recipe with store-bought cavatelli or any other small, fairly dense shaped pasta.
 
-This dish would more typically be seasoned with a modest amount of chili flakes, and that was exactly where I was headed until I spotted the <a href="http://www.amazon.com/s/?_encoding=UTF8&amp;camp=1789&amp;creative=390957&amp;keywords=harissa&amp;linkCode=ur2&amp;qid=1361163514&amp;rh=i%3Aaps%2Ck%3Aharissa&amp;tag=poeticlicen07-20" target="_blank">jar of harissa</a> in my fridge. The thought of that more complex flavor was impossible to resist, and I'm glad I didn't try. Big handfuls of parsley and mint at the very last second add a nice fresh finish.
+This dish would more typically be seasoned with a modest amount of chili flakes, and that was exactly where I was headed until I spotted the <a href="https://www.amazon.com/dp/B0775335C6?tag=herb-hugo-20">jar of harissa</a> in my fridge. The thought of that more complex flavor was impossible to resist, and I'm glad I didn't try. Big handfuls of parsley and mint at the very last second add a nice fresh finish.
 
 One last bit of business before we get to the recipe: this is an exciting week at ChefSteps! We just launched our very first product: <a href="http://creations.chefsteps.com/chefsteps-house-rub-01/" target="_blank">House Rub 01</a> (the video is real meaty so don't go watch if that bothers you). The rub is terrific on tofu, potatoes, cauliflower... really just about anything where you want a heady mix of aromas. We grind them each individually to the perfect size to emphasize their individual characteristics and then blend them up just before shipping so they are super fresh.
 
@@ -39,7 +39,7 @@ One last bit of business before we get to the recipe: this is an exciting week a
   <li>1 pound cavatelli pasta</li>
   <li>1 packed handful parsley leaves</li>
   <li>1 packed handful fresh mint leaves</li>
-  <li>Maldon salt</li>
+  <li><a href="https://www.amazon.com/dp/B00017028M?tag=herb-hugo-20">Maldon salt</a></li>
   <li>Freshly ground pepper</li>
   <li>Freshly ground Parmigiano-Reggiano, optional</li>
 </ul>

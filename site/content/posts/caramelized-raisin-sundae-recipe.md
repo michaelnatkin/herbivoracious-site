@@ -34,18 +34,18 @@ cover:
 <li>1 cup raisins (Thompsons work well)</li>
 <li>¼ cup dark brown sugar</li>
 <li>½ teaspoon Kosher salt</li>
-<li>1 cup port wine (tawny port is a good choice, not cooking wine)</li>
+<li>1 cup port wine (<a href="https://www.amazon.com/dp/B078HH75QH?tag=herb-hugo-20">tawny port</a> is a good choice, not cooking wine)</li>
 <li>zest of ½ orange</li>
 <li>juice of 1 orange, divided in half</li>
 <li>1 apple</li>
 <li>¼ teaspoon cinnamon</li>
-<li>¼ teaspoon sumac (optional, for color)</li>
+<li>¼ teaspoon <a href="https://www.amazon.com/dp/B07R4LL17V?tag=herb-hugo-20">sumac</a> (optional, for color)</li>
 <li>8 scoops high-quality vanilla ice cream</li>
 </ul>
 <ol>
 <li>Melt 3 tablespoons of butter in a small saucepan over medium heat. Add the raisins, sugar, and salt and cook for five minutes, stirring occasionally. Don’t worry about the raisins getting very plump, they will shrink later. Do not let the raisins burn, but they should brown a bit.</li>
 <li>Add the port, orange zest, and juice of 1 half orange. Bring to a simmer and lower heat to maintain. Cook for about 10 minutes stirring occasionally, until the sauce is thick enough to coat a spoon, or when you drag your spatula across the bottom of the pan, it leaves a clear space for a couple of seconds. Remove from heat and cool until slightly warm (about 100 degrees). Taste and adjust seasoning.</li>
 <li>Just before serving, put the remaining orange juice in a bowl. Peel and core the apple, then cut into ¼” dice, tossing frequently with the juice to minimize browning. Add the cinnamon and optional sumac and toss to coat.</li>
-<li>To serve, put two scoops of vanilla ice cream in each bowl or sundae cup. Top with ¼ of the raisins and sauce, followed by a handful of the apples. Serve immediately.</li>
+<li>To serve, put two scoops of vanilla ice cream in each bowl or <a href="https://www.amazon.com/dp/B0D5DBF7LC?tag=herb-hugo-20">sundae cup</a>. Top with ¼ of the raisins and sauce, followed by a handful of the apples. Serve immediately.</li>
 </ol>
 </div>
