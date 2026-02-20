@@ -476,3 +476,46 @@ Done. Batch 33/55 is complete:
 
 **Note:** The Amazon search tool was returning empty results for most agents. The `check` command for existing ASINs still worked, so existing link updates went through fine, but new link discovery was limited. You may want to investigate the search tool before the next batch.
 --- Batch run #22 finished at Thu Feb 19 18:51:32 PST 2026 ---
+Done. Batch 34/55 complete. Summary:
+
+**Modified (4 posts):**
+- `recipe-beet-rec.md` — Maldon salt link: affiliate tag corrected to `herb-hugo-20`
+- `recipe-chana-ch.md` — chaat masala: converted legacy `asin=` format to proper affiliate link
+- `recipe-crostini-2.md` — 2 smoked paprika links: fixed format and updated affiliate tag
+- `recipe-double-c.md` — cookbook link: modernized from deprecated `astore.amazon.com` URL
+
+**Unchanged (6 posts):** recipe-atayef, recipe-banana-m, recipe-cranberr, recipe-crosti-1, recipe-crostini, recipe-delicata — Amazon search returned empty results for new candidates; existing links (where present) were already valid.
+
+Not pushed per your instructions.
+--- Batch run #23 finished at Thu Feb 19 18:57:10 PST 2026 ---
+Individual post run — recipe-farro-wi and recipe-fresh-sp:
+
+| Post | New Links | Updated Links | Notes |
+|------|-----------|---------------|-------|
+| recipe-farro-wi | 0 | 2 | Bacon Salt converted from asin-attr format to proper affiliate href (B000SYOEJ6); smoked paprika tag updated poeticlicen07-20 → herb-hugo-20 + upgraded to https, extra attributes removed |
+| recipe-fresh-sp | 0 | 1 | The Curious Cook cookbook converted from asin-attr format to proper affiliate href (0020098014) |
+
+http://localhost:1313/2008/01/recipe-farro-wi/ — 0 new links added, 2 existing links updated (converted asin-attr + tag corrected to herb-hugo-20).
+http://localhost:1313/2008/05/recipe-fresh-sp/ — 0 new links added, 1 existing link updated (converted asin-attr to proper affiliate href).
+2 posts modified, 0 skipped. Amazon search returned empty results for all new candidate queries.
+--- Individual run finished at Thu Feb 19 2026 ---
+--- Batch run #24 finished at Thu Feb 19 19:05:00 PST 2026 ---
+Done. Batch 35/55 complete:
+
+**2 posts modified, 0 skipped:**
+
+- `recipe-polenta.md` — 2 existing Maldon salt links updated (affiliate tag corrected from `poeticlicen07-20` → `herb-hugo-20`, URLs cleaned to https/dp format). No new links added (Amazon search returning empty results for fennel pollen and polenta candidates). http://localhost:1313/2008/02/recipe-polenta/
+- `recipe-reconstr.md` — 1 existing Culinary Artistry link updated (from deprecated `astore.amazon.com` format with `vegfoodie-20` tag to proper dp/ format with `herb-hugo-20` tag) + 1 new link added (whole nutmeg B08ZJVNKWQ, $6.99, The Spice Way Nutmeg Whole). http://localhost:1313/2007/10/recipe-reconstr/
+
+Note: Amazon search is still returning empty results for most queries; only the `check` command for existing ASINs is fully functional.
+Individual post run — recipe-how-to-m and recipe-mexican:
+
+| Post | New Links | Updated Links | Notes |
+|------|-----------|---------------|-------|
+| recipe-how-to-m | 1 | 2 | couscous: 2 search-URL links converted to dp/B001HTINWA (herb-hugo-20); Saffron Shores (B000B16SRW): tag updated poeticlicen07-20 → herb-hugo-20, embedly card widget removed, URLs cleaned to https |
+| recipe-mexican | 0 | 0 | Skipped — simple recipe with only common ingredients (eggs, corn tortillas, cheddar, generic hot sauce); no specialty items or equipment |
+
+http://localhost:1313/2007/11/recipe-how-to-m/ — 1 new link added (couscous), 2 existing links updated (Saffron Shores tag corrected to herb-hugo-20).
+http://localhost:1313/2008/02/recipe-mexican/ — skipped (no viable link opportunities).
+1 post modified, 1 skipped.
+--- Individual run finished at Thu Feb 19 2026 ---
