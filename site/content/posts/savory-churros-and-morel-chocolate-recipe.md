@@ -15,7 +15,7 @@ This is one of the dishes I'm working on for my next <a href="/2008/05/dinner-pa
 
 Churros and thick hot chocolate are popular throughout Spain and much of Latin America, often as a breakfast treat or street food. They can be made thick or thin, straight or knotted, and from a potato based dough or wheat flour, but they are always extruded and fried like a <strong>doughnut</strong>.
 
-Churro dough is similar in conception to a <strong>choux paste</strong> - you make a hot mixture of flour, butter and water, and then beat eggs into it. I used a recipe from Michelle Bernstein, which worked terrific. Since I had a savory application in mind, I rolled them in <a href="http://www.amazon.com/dp/B000NO943C/?tag=poeticlicen07-20" target="_blank" rel="nofollow">smoked paprika</a> (pimenton dulce), cinammon, and salt instead of cinnamon and sugar.
+Churro dough is similar in conception to a <strong>choux paste</strong> - you make a hot mixture of flour, butter and water, and then beat eggs into it. I used a recipe from Michelle Bernstein, which worked terrific. Since I had a savory application in mind, I rolled them in <a href="https://www.amazon.com/dp/B000NO943C?tag=herb-hugo-20">smoked paprika</a> (pimenton dulce), cinammon, and salt instead of cinnamon and sugar.
 
 I've had dried morels in my pantry for a bit, and my friend Dan has been challenging me to invent <strong>"s'morels"</strong> - s'mores somehow involving savory marshmallows and morel mushrooms. The snag on that has been a good vegetarian marshmallow recipe, but I still like the concept. Anyhow, that thought must have put me in the mindset to come up with this idea, where the morels make a soup for dipping the savory churros.
 
@@ -29,8 +29,8 @@ For the final dish, I plan to froth the soup, serve it in a demitasse and use a 
 Vegetarian and gluten-free; not vegan</em>
 <ul>
 	<li>1.5 cups heavy cream</li>
-	<li>0.6 oz. dried morel mushrooms</li>
-	<li>2 teaspoons high quality cocoa powder (not Hershey's please); I used Lake Champlain Chocolate</li>
+	<li>0.6 oz. <a href="https://www.amazon.com/dp/B0FN6CBX22?tag=herb-hugo-20">dried morel mushrooms</a></li>
+	<li>2 teaspoons <a href="https://www.amazon.com/dp/B07CJ83LRQ?tag=herb-hugo-20">high quality cocoa powder</a> (not Hershey's please); I used Lake Champlain Chocolate</li>
 	<li>1/2 cup half &amp; half</li>
 	<li>sea salt</li>
 </ul>

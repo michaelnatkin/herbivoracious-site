@@ -35,14 +35,14 @@ I chose the beet greens simply because I was serving a beet salad at the same me
 	<li>1/2 cup finely diced white onion</li>
 	<li>2 cloves garlic, minced</li>
 	<li>Kosher salt</li>
-	<li>1/2 pound morel mushrooms</li>
+	<li>1/2 pound <a href="https://www.amazon.com/dp/B0FN6CBX22?tag=herb-hugo-20">morel mushrooms</a></li>
 	<li>4 eggs, lightly beaten</li>
 	<li>2 cups whole milk</li>
 	<li>1 teaspoon minced fresh rosemary leaves (or 1/2 teaspoon dried)</li>
-	<li>Several gratings of whole nutmeg (or a big pinch of ground)</li>
-	<li>Pinch <a href="http://www.amazon.com/dp/B000NO943C/?tag=poeticlicen07-20" target="_blank" rel="nofollow">smoked paprika</a></li>
+	<li>Several gratings of <a href="https://www.amazon.com/dp/B0005YW28O?tag=herb-hugo-20">whole nutmeg</a> (or a big pinch of ground)</li>
+	<li>Pinch <a href="https://www.amazon.com/dp/B000NO943C?tag=herb-hugo-20">smoked paprika</a></li>
 	<li>7 ounces (about 3 big, thick slices) pain au levain or similar artisan bread</li>
-	<li>Flaky sea salt for finishing</li>
+	<li><a href="https://www.amazon.com/dp/B00017028M?tag=herb-hugo-20">Flaky sea salt</a> for finishing</li>
 	<li>Fresh ground black pepper</li>
 	<li>2 tablespoons minced fresh chives</li>
 </ul>
@@ -50,7 +50,7 @@ I chose the beet greens simply because I was serving a beet salad at the same me
 	<li>Preheat the oven to 375 and butter a deep 8" round casserole (or similar). Bring a medium pot of salted water to a boil. Boil the beet greens until tender, about 10 minutes. Drain, cool, and squeeze out as much water as possible.</li>
 	<li>Melt 2 tablespoons of the butter in a medium saute pan over medium heat. Saute the onions and garlic with a big pinch of salt until lightly browned, about 5 minutes and reserve.</li>
 	<li>Soak the morels in a large bowl of water (don't do this if substituting other mushrooms, just wipe them clean!) Drain and repeat if necessary because they still seem to be giving off dirt, not just bits of mushrooom. Drain well but it is ok that they will still be a bit wet. Cut in half (or smaller if the mushrooms are very large). Melt the remaining 3 tablespoons of butter in the same saute pan over medium-high heat. Add the mushrooms and a big pinch of salt. You'll see all the water come out, then eventually evaporate, and then finally the mushrooms will start browning. Stop when they have browned a fair amount, about 10 minutes total. Reserve. (Wipe that pan with a bit of bread and eat it! You've been working hard and need a snack.)</li>
-	<li>Whisk together the eggs, milk, rosemary, nutmeg, <a href="http://www.amazon.com/dp/B000NO943C/?tag=poeticlicen07-20" target="_blank" rel="nofollow">smoked paprika</a> and 1 teaspoon of Kosher salt. Tear the bread into bite sized pieces and put that in the casserole. Add the beet greens, sauteed onions, and sauteed mushrooms and toss. Pour the egg mixture over the bread and toss very gently, don't squeeze and squish.</li>
+	<li>Whisk together the eggs, milk, rosemary, nutmeg, <a href="https://www.amazon.com/dp/B000NO943C?tag=herb-hugo-20">smoked paprika</a> and 1 teaspoon of Kosher salt. Tear the bread into bite sized pieces and put that in the casserole. Add the beet greens, sauteed onions, and sauteed mushrooms and toss. Pour the egg mixture over the bread and toss very gently, don't squeeze and squish.</li>
 	<li>Let stand about 20 minutes so the bread can absorb the custard, then bake until it reaches an internal temperature of about 180 degrees F, checked in several places. This should take 45 - 55 minutes. It will still seem a bit soft, but it shouldn't be liquid anywhere. Do not overcook, as the eggs will then turn rubbery and start leaching water and you'll be very sad.</li>
 	<li>Remove from the oven, let cool for at least 15 minutes, garnish with a sprinkle of flaky sea salt, fresh ground black pepper and minced chives and serve it forth.</li>
 </ol>
