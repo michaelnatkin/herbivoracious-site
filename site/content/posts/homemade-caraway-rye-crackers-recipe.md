@@ -23,11 +23,11 @@ It took me 3 batches to get these coming out the way I saw them in my mind's eye
 <div><strong>Homemade Caraway Rye Crackers</strong>
 <em>Yields about 36 big crackers</em></div>
 <ul>
-	<li>1 cup (128 grams) rye flour</li>
+	<li>1 cup (128 grams) <a href="https://www.amazon.com/dp/B08HZJJ61J?tag=herb-hugo-20">rye flour</a></li>
 	<li>1 cup (128 grams) all-purpose flour</li>
 	<li>1/2 cup + 2 tablespoons (150 grams) warm water</li>
 	<li>2 tablespoons extra virgin olive oil (22 grams) + more for brushing</li>
-	<li>2 tablespoons caraway seeds (11 grams)</li>
+	<li>2 tablespoons <a href="https://www.amazon.com/dp/B00MOZCJG2?tag=herb-hugo-20">caraway seeds</a> (11 grams)</li>
 	<li>1 teaspoon kosher salt (5 grams)</li>
 	<li>Maldon (aka the world's greatest salt) salt for sprinkling</li>
 </ul>
@@ -35,7 +35,7 @@ It took me 3 batches to get these coming out the way I saw them in my mind's eye
 <ol>
 	<li>Combine rye flour, all-purpose flour, water, 2 tablespoons of olive oil, caraway seeds and kosher salt in a stand mixer outfitted with the paddle attachment. Mix on medium low-speed, scraping down occasionally, until a dough forms. Switch to the dough hook and knead on medium-low for about 8 minutes. (You can also mix and knead this dough by hand.)</li>
 	<li>Wrap the dough in plastic wrap and set aside at room temperature for about 30 minutes. Meanwhile, preheat the oven to 400 F, using convection if available.</li>
-	<li>Divide the dough into 3 parts and wrap 2 of them back up in plastic. Place the first piece of dough between the smooth side of two <a href="http://www.amazon.com/dp/B00008T960/?tag=poeticlicen07-20" target="_blank">silpats</a>. You could also use parchment paper cut to the size of your baking sheet. Roll out until very thin. It should cover about 80% of the surface area of the silpat. Remove the top silpat and transfer the bottom one to a sheet pan. Brush generously with additional olive oil and sprinkle on <a href="http://www.amazon.com/dp/B0006FS4TI/?tag=poeticlicen07-20" target="_blank">Maldon (aka the world's greatest salt)</a> sea salt to taste, breaking the crystals up between your fingers as you sprinkle.</li>
+	<li>Divide the dough into 3 parts and wrap 2 of them back up in plastic. Place the first piece of dough between the smooth side of two <a href="https://www.amazon.com/dp/B00008T960?tag=herb-hugo-20" target="_blank">silpats</a>. You could also use parchment paper cut to the size of your baking sheet. Roll out until very thin. It should cover about 80% of the surface area of the silpat. Remove the top silpat and transfer the bottom one to a sheet pan. Brush generously with additional olive oil and sprinkle on <a href="https://www.amazon.com/dp/B086XGH24W?tag=herb-hugo-20" target="_blank">Maldon (aka the world's greatest salt)</a> sea salt to taste, breaking the crystals up between your fingers as you sprinkle.</li>
 	<li>Bake until deep golden brown, about 8-10 minutes. Cool on a rack and then break up into random-sized crackers.</li>
 </ol>
 </div>

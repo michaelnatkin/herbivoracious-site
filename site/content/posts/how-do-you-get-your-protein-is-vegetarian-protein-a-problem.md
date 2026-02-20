@@ -40,7 +40,7 @@ Speaking of common misunderstandings, if you first thought about vegetarian prot
 
 Let's look at a typical day of meals for me and see how I'm doing. Keep in mind I'd never normally give this a moment's thought:
 <ul>
-	<li>Breakfast: 2 slices of bread (5 grams), 2 tablespoons sunflower butter (8 grams)</li>
+	<li>Breakfast: 2 slices of bread (5 grams), 2 tablespoons <a href="https://www.amazon.com/dp/B000VK84P2?tag=herb-hugo-20">sunflower butter</a> (8 grams)</li>
 	<li>Lunch: falafel sandwich with hummus (16 grams)</li>
 	<li>Snack: 1/4 cup mixed nuts (6 grams)</li>
 	<li>Dinner: 1 1/2 cups rice (6 grams), <a href="/2009/09/quick-chana-mushroom-masala-chickpea-curry-recipe/">Chana Mushroom Masala</a> (12 grams), <a href="/2009/09/cucumber-radish-and-cilantro-raita-recipe/">Cucumber and Radish Raita</a> (6 grams)</li>
@@ -49,7 +49,7 @@ So that gives me 59 grams, without even taking into account any extra bits of pr
 
 How about one more day, just to be sure that wasn't a fluke:
 <ul>
-	<li>Breakfast: 1 1/2 cups Flax Plus cereal (8 grams), 1 cup soymilk (9 grams)</li>
+	<li>Breakfast: 1 1/2 cups <a href="https://www.amazon.com/dp/B000VK7YAI?tag=herb-hugo-20">Flax Plus cereal</a> (8 grams), 1 cup soymilk (9 grams)</li>
 	<li>Lunch: 1 1/2 cups rice (6 grams), Thai green curry with 1/3 pound tofu (13 grams)</li>
 	<li>Snack: 1 muffin (2 grams)</li>
 	<li>Dinner: my <a href="/2009/06/smoky-macaroni-and-cheese-recipe/">Triple Smoky Mac &amp; Cheese</a> (at least 25 grams)</li>

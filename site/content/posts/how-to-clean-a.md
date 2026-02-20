@@ -17,7 +17,7 @@ In the meantime, I've developed a lot of theories over the years about how to cl
 	<li>load the dishwasher</li>
 	<li>wash pots and anything else not going in the dishwasher</li>
 	<li>wipe and dry the table and counters</li>
-	<li>heat up my cast iron skillets and oil them</li>
+	<li>heat up my <a href="https://www.amazon.com/dp/B00G2XGC88?tag=herb-hugo-20">cast iron skillets</a> and oil them</li>
 	<li>vacuum the floor</li>
 	<li>clean the sink</li>
 	<li>take a last look around for anything I missed</li>
