@@ -42,10 +42,10 @@ If I were to elaborate this dish further, my next step would probably be to smok
 	<li>Vegetable oil</li>
 	<li>Kosher salt</li>
 	<li>1/2 cup red wine (fruity, not too tannic)</li>
-	<li>1 tablespoon agave nectar</li>
-	<li>1 tablespoon butter, cut into pieces (for vegan, use Earth Balance or thicken with xanthan gum)</li>
+	<li>1 tablespoon <a href="https://www.amazon.com/dp/B0078DP4IK?tag=herb-hugo-20">agave nectar</a></li>
+	<li>1 tablespoon butter, cut into pieces (for vegan, use Earth Balance or thicken with <a href="https://www.amazon.com/dp/B07N8GTV8J?tag=herb-hugo-20">xanthan gum</a>)</li>
 	<li>Freshly ground black pepper</li>
-	<li>For garnish: <a href="http://www.amazon.com/dp/B0006FS4TI/?tag=poeticlicen07-20" target="_blank">Maldon (aka the world's greatest salt)</a> sea salt, herb flowers or leaves (I used tiny oregano leaves and pulled-apart chive blossoms</li>
+	<li>For garnish: <a href="https://www.amazon.com/dp/B00017028M?tag=herb-hugo-20" target="_blank">Maldon (aka the world's greatest salt)</a> sea salt, herb flowers or leaves (I used tiny oregano leaves and pulled-apart chive blossoms</li>
 </ul>
 <div>
 <ol>
@@ -53,7 +53,7 @@ If I were to elaborate this dish further, my next step would probably be to smok
 	<li>Place your largest oven-proof skillet over high heat. Add a generous amount of vegetable oil and sear the mushrooms, seasoning with a generous pinch of salt, and turning to brown as much of the surface area as possible.</li>
 	<li>When the mushrooms surfaces are nicely browned, move the skillet to the oven and roast until fully tender when poked with a skewer, at least 15 minutes (depending on size).</li>
 	<li>Remove the skillet from the oven, and remove the mushrooms from the pan. Pour off any excess oil. Put the pan back over medium heat. Add the wine and scrape (deglaze) the bottom of the pan to incorporate any delicious crispy bits. Whisk in the agave nectar, butter, pepper and cherries and cook until it will coat the back of a spoon. Taste and add salt as needed.</li>
-	<li>To serve, divide the sauce among 4 warmed plates. Cut the mushrooms into segments with random angles and stand up the pieces. Arrange the mushrooms and cherries in a line, standing up some of the mushrooms segments. Garnish with the herbs and a few flakes of <a href="http://www.amazon.com/dp/B0006FS4TI/?tag=poeticlicen07-20" target="_blank">Maldon (aka the world's greatest salt)</a> .</li>
+	<li>To serve, divide the sauce among 4 warmed plates. Cut the mushrooms into segments with random angles and stand up the pieces. Arrange the mushrooms and cherries in a line, standing up some of the mushrooms segments. Garnish with the herbs and a few flakes of <a href="https://www.amazon.com/dp/B00017028M?tag=herb-hugo-20" target="_blank">Maldon (aka the world's greatest salt)</a> .</li>
 </ol>
 </div>
 &nbsp;

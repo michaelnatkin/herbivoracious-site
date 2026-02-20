@@ -33,7 +33,7 @@ Honestly I didn't write down a recipe for this bruschetta because I didn't parti
 	<li>4 thick slices pain au levain or other artisan bread</li>
 	<li>3/4 cup fresh ricotta, room temperature</li>
 	<li>Fresh basil, thinly sliced (chiffonade)</li>
-	<li>Flaky sea salt</li>
+	<li><a href="https://www.amazon.com/dp/B0042ZO8CK?tag=herb-hugo-20">Flaky sea salt</a></li>
 	<li>Fresh ground black pepper</li>
 </ul>
 <ol>
