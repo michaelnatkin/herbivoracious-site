@@ -16,7 +16,7 @@ Meze is the Mediterranean tradition of a meal made of several small plates. My f
 
 Today's dish of room-temperature chard flavored with garlic and dukkah (which I'll explain in a moment) would be a great addition to your meze. It demonstrates a basic method for cooking greens so that they retain a bit of texture and color but are tender and enjoyable. You could use different greens (mustard greens, spinach, even dandelion greens if you enjoy their bitter punch) or different spices, and you could certainly add a squeeze of lemon if you'd like a splash of acidity.
 
-Now about dukkah. It is a spice mixture that originated in Egypt. A word of caution: if you have a <a href="/2009/02/understanding-deadly-food-allergies-this-post-could-save-a-life/" target="_blank">nut allergy</a>, check the ingredients of any <a href="http://www.amazon.com/mn/search/?_encoding=UTF8&amp;tag=vegfoodie-20&amp;linkCode=ur2&amp;camp=1789&amp;creative=390957&amp;field-keywords=dukkah&amp;url=search-alias%3Daps" target="_blank">pre-packaged version</a>, as it generally contains ground hazelnuts or other nuts. I usually get mine from the World Spice Merchants store in Seattle, though they no longer seem to carry a nut free version. But in any case, don't feel like you have to have dukkah for today's recipe. If you don't, just make an equal-parts mixture of ground sesame seeds, coriander seeds, cumin and thyme, and season it to taste with black pepper and sea salt.
+Now about dukkah. It is a spice mixture that originated in Egypt. A word of caution: if you have a <a href="/2009/02/understanding-deadly-food-allergies-this-post-could-save-a-life/" target="_blank">nut allergy</a>, check the ingredients of any <a href="https://www.amazon.com/dp/B005MSBD4C?tag=herb-hugo-20" target="_blank">pre-packaged version</a>, as it generally contains ground hazelnuts or other nuts. I usually get mine from the World Spice Merchants store in Seattle, though they no longer seem to carry a nut free version. But in any case, don't feel like you have to have dukkah for today's recipe. If you don't, just make an equal-parts mixture of ground sesame seeds, coriander seeds, cumin and thyme, and season it to taste with black pepper and sea salt.
 
 <div class="recipe-card">
 <strong>Swiss Chard with Garlic and Yogurt
@@ -27,9 +27,9 @@ Serves about 2 as a side dish (depending on size of your bunch of chard), easily
 	<li>1 clove minced garlic</li>
 	<li>Extra-virgin olive oil</li>
 	<li>Dukkah (see above) (check your brand if you need nut-free or gluten-free)</li>
-	<li>Maldon (aka the world's greatest salt) salt or other flaky sea salt</li>
+	<li><a href="https://www.amazon.com/dp/B00017028M?tag=herb-hugo-20">Maldon</a> (aka the world's greatest salt) salt or other flaky sea salt</li>
 	<li>1/2 cup thick Greek-style yogurt</li>
-	<li>1 tablespoon toasted sesame seeds</li>
+	<li>1 tablespoon <a href="https://www.amazon.com/dp/B0B197F3N9?tag=herb-hugo-20">toasted sesame seeds</a></li>
 </ul>
 <div>
 <ol>

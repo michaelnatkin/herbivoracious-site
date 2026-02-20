@@ -28,12 +28,12 @@ Does sunflower butter work in "peanut butter" cookies? Absolutely. The taste is 
 	<li>1 egg</li>
 	<li>1 cup <strong>unsweetened</strong> sunflower butter</li>
 	<li>1 cup (130 grams) flour</li>
-	<li>1 teaspoon Maldon salt (use only 1/2 teaspoon if substituting a different salt)</li>
+	<li>1 teaspoon <a href="https://www.amazon.com/dp/B00017028M?tag=herb-hugo-20">Maldon salt</a> (use only 1/2 teaspoon if substituting a different salt)</li>
 	<li>1 teaspoon baking powder</li>
 </ul>
 <ol>
 	<li>In a stand mixer with the paddle attachment, cream the butter and sugar at medium speed until fluffy, about 5 minutes. Lower the speed and add the egg, then gradually add the sunflower butter.</li>
 	<li>Whisk together the flour, salt (rubbing a little to break up large crystals), and baking powder. Add slowly to the running mixer. Mix until well combined, about 1 more minute.</li>
-	<li>Chill the dough for at least 30 minutes. Preheat oven to 375. Line baking sheets with parchment or silpats. Dish dough out into approximately 2-tablespoon balls. Flatten, then use the tines of a fork to make the traditional criss-cross pattern. Bake about 12 minutes until lightly browned. Cool on a rack for at least 10 minutes, then enjoy.</li>
+	<li>Chill the dough for at least 30 minutes. Preheat oven to 375. Line baking sheets with parchment or <a href="https://www.amazon.com/dp/B00008T960?tag=herb-hugo-20">silpats</a>. Dish dough out into approximately 2-tablespoon balls. Flatten, then use the tines of a fork to make the traditional criss-cross pattern. Bake about 12 minutes until lightly browned. Cool on a rack for at least 10 minutes, then enjoy.</li>
 </ol>
 </div>

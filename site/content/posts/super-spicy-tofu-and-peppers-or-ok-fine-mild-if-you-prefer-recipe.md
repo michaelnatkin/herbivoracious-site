@@ -28,10 +28,10 @@ In step 5 of the recipe, you'll see I say to cook the peppers until the colors b
 </em><em>Serves 2 </em>
 <ul>
 	<li>1/2 teaspoon cornstarch</li>
-	<li>1/4 cup tamari (gluten-free if needed) or other soy sauce</li>
+	<li>1/4 cup <a href="https://www.amazon.com/dp/B00NN05FXQ?tag=herb-hugo-20">tamari</a> (gluten-free if needed) or other soy sauce</li>
 	<li>2 teaspoons sugar</li>
 	<li>2 cloves garlic, minced</li>
-	<li>1 teaspoon toasted sesame oil</li>
+	<li>1 teaspoon <a href="https://www.amazon.com/dp/B005WXMPMQ?tag=herb-hugo-20">toasted sesame oil</a></li>
 	<li>1/2 pound extra-firm tofu cut into 1/2" cubes</li>
 	<li>4 jalapeno peppers</li>
 	<li>1/2 red bell pepper</li>

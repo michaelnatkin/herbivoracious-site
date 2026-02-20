@@ -748,3 +748,12 @@ http://localhost:1313/2011/12/spaghetti-aglio-e-olio-recipe/ — skipped (no lin
 http://localhost:1313/2010/04/spanish-lentils-and-mushrooms-recipe/ — 2 new links added, 5 existing links updated (tags corrected to herb-hugo-20).
 http://localhost:1313/2010/01/spare-the-fat-spoil-the-flavor-making-your-food-pop-part-3/ — 1 new link added, 0 updated.
 3 posts modified, 1 skipped.
+--- Batch run #3 finished at Thu Feb 19 21:03:08 PST 2026 ---
+{"level":"warn","message":"[BashTool] Pre-flight check is taking longer than expected. Run with ANTHROPIC_LOG=debug to check for failed or slow API requests."}
+Done. Batch 45/55 complete:
+
+- **8 of 10 posts modified** with new/updated Amazon affiliate links
+- **2 posts skipped** (strudel-from-fo, summer-finally — no specialty ingredients or tools)
+- Committed as `3657ff9`, bead closed, synced. Not pushed.
+--- Batch run #4 finished at Thu Feb 19 21:32:30 PST 2026 ---
+Batch 46/55: 9 of 10 posts modified (supertaster-tes.md skipped - no recipe)

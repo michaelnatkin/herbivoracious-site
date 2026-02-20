@@ -39,7 +39,7 @@ When I told my brother I was making this, he asked a very good question: "Are po
   <li>2 cloves garlic, minced</li>
   <li>2 large (28 oz.) cans plain tomato sauce</li>
   <li>zest from 1 lemon</li>
-  <li>1.5 pounds no-boil lasagna noodles (or regular lasagna noodles, par-boiled)</li>
+  <li>1.5 pounds <a href="https://www.amazon.com/dp/B000RUQPQQ?tag=herb-hugo-20">no-boil lasagna noodles</a> (or regular lasagna noodles, par-boiled)</li>
   <li>salt, pepper to taste</li>
   <li>1 lb. grated mozzarella</li>
   <li>4 oz. grated parmesan cheese</li>

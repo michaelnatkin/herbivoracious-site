@@ -16,7 +16,7 @@ aliases: ["/tarragon-bechamel-recipe/", "/2012/06/tarragon-bechamel-recipe.html"
 <li>3 tablespoons all-purpose flour</li>
 <li>2 cups whole or 2% milk</li>
 <li>generous ¼ teaspoon Kosher salt</li>
-<li>1 tablespoon minced fresh tarragon (in a pinch, you can use 1 generous teaspoon dried tarragon)</li>
+<li>1 tablespoon minced fresh tarragon (in a pinch, you can use 1 generous teaspoon <a href="https://www.amazon.com/dp/B08LCKFBMW?tag=herb-hugo-20">dried tarragon</a>)</li>
 </ul>
 <ol>
 <li>Melt the butter in a small saucepan over medium-low heat. Whisk in the flour and cook for about 2 minutes, keeping the heat low enough that it does not brown.</li>
