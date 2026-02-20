@@ -14,7 +14,7 @@ cover:
 
 <a href="/cooking-internship/">Cafe Flora</a> changes much of the menu seasonally, and every few months any of the employees can put up a dish for evaluation by the management team. I offered this dumpling entree and it just went on the menu a couple of nights ago. This is my first dish on a restaurant menu, so I have to say I'm pretty excited about it!
 
-The dumplings are made with wonton wrappers, and filled with a mixture of mustard greens, kale, and ricotta. They are served in a deeply flavored shiitake broth with sauteed slices of fresh shiitake, and garnished with parmesan, extra virgin olive oil, flaky sea salt, lemon zest, and green onions.
+The dumplings are made with <a href="https://www.amazon.com/dp/B0F54QT5K8?tag=herb-hugo-20">wonton wrappers</a>, and filled with a mixture of mustard greens, kale, and ricotta. They are served in a deeply flavored shiitake broth with sauteed slices of fresh shiitake, and garnished with parmesan, extra virgin olive oil, <a href="https://www.amazon.com/dp/B00017028M?tag=herb-hugo-20">flaky sea salt</a>, lemon zest, and green onions.
 
 I got the idea for this dish because I had some leftover shiitake broth from something completely different, and I was taken with the complex <a href="http://en.wikipedia.org/wiki/Umami">umami</a> flavor. It made me think of a classic Italian tortellini in brodo (broth). But then the specific shiitake flavor lended itself to a Chinese or Japanese interpretation.
 

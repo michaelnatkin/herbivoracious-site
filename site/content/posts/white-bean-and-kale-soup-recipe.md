@@ -30,13 +30,13 @@ cover:
 <li>1 teaspoon salt</li>
 <li>2 bay leaves</li>
 <li>1 teaspoon minced fresh rosemary leaves</li>
-<li>1 parmesan rind or 3/4 ounce dried porcini mushrooms or 2 tablespoons vegetarian broth powder (ok to use more than one)</li>
-<li>2 cups dry white beans such as cannellini, rinsed and picked over</li>
+<li>1 parmesan rind or 3/4 ounce <a href="https://www.amazon.com/dp/B079FCR7XK?tag=herb-hugo-20">dried porcini mushrooms</a> or 2 tablespoons <a href="https://www.amazon.com/dp/B0001M0YT4?tag=herb-hugo-20">vegetarian broth powder</a> (ok to use more than one)</li>
+<li>2 cups dry white beans such as <a href="https://www.amazon.com/dp/B08DW3MFXS?tag=herb-hugo-20">cannellini</a>, rinsed and picked over</li>
 <li>1 bunch dinosaur (lacinato) kale, stems stripped, cut in to ribbons and thoroughly washed</li>
 <li>juice of 1 lemon</li>
 </ul>
 <ol>
-<li>Pressure cooker method: In the pressure cooker base, but without pressure, heat the olive oil over a medium-high flame. Saute the onion, garlic, carrot and 1 teaspoon of salt until the onion is translucent, about 4 minutes.</li>
+<li>Pressure cooker method: In the <a href="https://www.amazon.com/dp/B00006ISG6?tag=herb-hugo-20">pressure cooker</a> base, but without pressure, heat the olive oil over a medium-high flame. Saute the onion, garlic, carrot and 1 teaspoon of salt until the onion is translucent, about 4 minutes.</li>
 <li>Add the bay leaves, rosemary, and your choice(s) of the parmesan rind, dried porcini, or broth powder.  Add the dry beans and 7 cups of water. Bring up to high pressure and cook for 40 minutes, then allow the pressure to release naturally.  Open the lid.</li>
 <li>Remove the bay leaves and parmesan rind (if using).</li>
 <li>Add the kale and lemon juice and simmer for 10 minutes, until the kale is thoroughly tender. Taste and adjust seasoning, then serve, garnished with a generous drizzle of extra-virgin olive oil.</li>

@@ -938,3 +938,17 @@ http://localhost:1313/2011/04/warm-grapes-toasted-pita-bread-and-ricotta-salata-
 http://localhost:1313/2011/03/watermelon-radish-and-watercress-salad-recipe/ — 2 new links, 0 updated
 4 posts modified, 0 skipped.
 --- Individual run finished at Fri Feb 20 2026 ---
+--- Batch run #12 finished at Fri Feb 20 02:33:03 PST 2026 ---
+Individual post run — win-a-signed-copy-of-the-herbivoracious-cookbook-giveaway, winter-food-b-1, winter-green-du:
+
+| Post | New Links | Updated Links | Notes |
+|------|-----------|---------------|-------|
+| win-a-signed-copy-of-the-herbivoracious-cookbook-giveaway | 0 | 0 | Skipped — giveaway/contest announcement with no recipe, ingredients, or tools |
+| winter-food-b-1 | 2 | 0 | Converted 2 old-style `type="amzn"` links to proper affiliate hrefs: The Nasty Bits (B002UM5BHS, $13.99), Kitchen Confidential (0060899220, $7.63); 3rd old link (DVD) had no good match and was de-linked |
+| winter-green-du | 2 | 0 | New: wonton wrappers (B0F54QT5K8, WILDWOOD Organic, $3.74), flaky sea salt (B00017028M, Maldon, $6.99) |
+
+http://localhost:1313/2012/07/win-a-signed-copy-of-the-herbivoracious-cookbook-giveaway/ — skipped (contest announcement, no link opportunities).
+http://localhost:1313/2008/03/winter-food-b-1/ — 2 links converted/added (old amzn format → proper affiliate links).
+http://localhost:1313/2007/12/winter-green-du/ — 2 new links added.
+2 posts modified, 1 skipped.
+--- Individual run finished at Fri Feb 20 2026 ---
