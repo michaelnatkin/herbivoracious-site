@@ -17,7 +17,7 @@ Romesco is typically thickened with bread, but I wanted a thinner consistency fo
 
 Update, 2/13/2013 - we've got a <a href="http://www.chefsteps.com/activities/gigandes-beans-with-romesco-in-saffron-broth" target="_blank">video for the whole recipe</a> up at ChefSteps now. Scroll down the page for a video of the subrecipes inlcuding this romesco.
 
-Almonds or hazelnuts are most commonly used. I went with all hazelnuts, and amped up the flavor using <a href="http://www.amazon.com/dp/B0000D9MRC/?tag=poeticlicen07-20">roasted hazelnut oil</a>. If you happen to have that available, it is aromatic and wonderful. Hazelnut oil makes incredible salad dressings too. And if not, the romesco will still be great with extra-virgin olive oil.
+Almonds or hazelnuts are most commonly used. I went with all hazelnuts, and amped up the flavor using <a href="https://www.amazon.com/dp/B0000D9MRC?tag=herb-hugo-20">roasted hazelnut oil</a>. If you happen to have that available, it is aromatic and wonderful. Hazelnut oil makes incredible salad dressings too. And if not, the romesco will still be great with extra-virgin olive oil.
 
 I was in the mood to roast the peppers with a blowtorch. It is fast, and you get a very even blistering of the skin. The flesh doesn't get cooked as much, leaving a fresher flavor that I quite like. But you can just as well use a more traditional method - see this <a href="/2012/03/polenta-with-pepperonata-recip/">Polenta with Pepperonata</a> recipe for the technique.
 
@@ -33,10 +33,10 @@ I was in the mood to roast the peppers with a blowtorch. It is fast, and you get
   <li>1 head garlic + a bit of extra-virgin olive oil</li>
   <li>1 red bell pepper</li>
   <li>40 grams skinned hazelnuts (about 1/3 cup)</li>
-  <li>2 canned tomatoes (from one can), preferably San Marzano</li>
+  <li>2 canned tomatoes (from one can), preferably <a href="https://www.amazon.com/dp/B007K5EUWC?tag=herb-hugo-20">San Marzano</a></li>
   <li>5 grams kosher salt (about 1 teaspoon)</li>
-  <li>8 grams sherry vinegar (about 1 1/2 teaspoons)</li>
-  <li>3.5 grams smoked paprika (about 1 1/2 teaspoons)</li>
+  <li>8 grams <a href="https://www.amazon.com/dp/B0058DO1SG?tag=herb-hugo-20">sherry vinegar</a> (about 1 1/2 teaspoons)</li>
+  <li>3.5 grams <a href="https://www.amazon.com/dp/B000NO943C?tag=herb-hugo-20">smoked paprika</a> (about 1 1/2 teaspoons)</li>
   <li>80 grams hazelnut oil if available, otherwise extra-virgin olive oil (about 6 tablespoons)</li>
 </ul>
   <h3>Instructions</h3>

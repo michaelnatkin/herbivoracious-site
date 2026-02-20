@@ -30,12 +30,12 @@ This recipe will make more that you need for one bunch of asparagus; it is proba
   <h3>Ingredients</h3>
   <h4>For the pistachio puree</h4>
 <ul>
-  <li>270 grams (2 cups) unsalted, roasted pistachio kernels</li>
+  <li>270 grams (2 cups) <a href="https://www.amazon.com/dp/B09TM34CD3?tag=herb-hugo-20">unsalted, roasted pistachio kernels</a></li>
   <li>46 grams lemon juice (1 whole lemon)</li>
   <li>5 grams (1 clove) garlic, thinly sliced</li>
   <li>5 grams (1 teaspoon) salt</li>
   <li>1.5 grams (3/4 teaspoon) ground cumin</li>
-  <li>1.5 grams (3/4 teaspoon) smoked paprika</li>
+  <li>1.5 grams (3/4 teaspoon) <a href="https://www.amazon.com/dp/B00ZK8YJ5O?tag=herb-hugo-20">smoked paprika</a></li>
   <li>150 grams (3/4 cup) extra virgin olive oil</li>
   <li>150 grams (2/3 cup) water</li>
 </ul>
@@ -44,9 +44,9 @@ This recipe will make more that you need for one bunch of asparagus; it is proba
   <li>700 grams (1 1/2 pounds) fat asparagus spears, trimmed</li>
   <li>Extra virgin olive oil</li>
   <li>Kosher salt</li>
-  <li><a href="http://www.amazon.com/dp/B0030MV7IO/?tag=poeticlicen07-20">Real balsamic vinegar</a> or balsamic reduction</li>
+  <li><a href="https://www.amazon.com/dp/B085WF23VH?tag=herb-hugo-20">Real balsamic vinegar</a> or balsamic reduction</li>
   <li>33 grams (1/4 cup) unsalted, roasted pistachio kernels, coarsely chopped</li>
-  <li>Maldon salt</li>
+  <li><a href="https://www.amazon.com/dp/B00017028M?tag=herb-hugo-20">Maldon salt</a></li>
   <li>Fresh tarragon leaves</li>
 </ul>
   <h3>Instructions</h3>

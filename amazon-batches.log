@@ -614,3 +614,49 @@ http://localhost:1313/2010/05/risotto-cake-with-crispy-ramps-recipe/ — 2 new l
 
 === Batch 38/55 ===
 ridiculously-good-guacamole-recipe.md: 1 new link (potato masher -> B00004OCL9)
+The background task failure doesn't matter — I already ran that same Amazon search successfully in the foreground and added the potato masher link. Everything is committed and the bead is closed. No action needed.
+--- Batch run #27 finished at Thu Feb 19 19:22:11 PST 2026 ---
+Individual post run — roasted-cippolini-onions-and-beets-recipe and roasted-corn-wi:
+
+| Post | New Links | Updated Links | Notes |
+|------|-----------|---------------|-------|
+| roasted-cippolini-onions-and-beets-recipe | 0 | 0 | Skipped — simple roasted vegetable recipe; cippolini onions are fresh produce, all other ingredients (olive oil, red wine vinegar, salt, sugar, pepper) are too generic |
+| roasted-corn-wi | 3 | 1 | dried ancho chilis (B07SLFM6W7, El Molcajete 4oz, $6.97) ×2 occurrences (body text placeholder converted + ingredient list); mini food processor (B0000645YM, Cuisinart Mini-Prep Plus, $39.95); mortar and pestle (B0CRHP5G3P, ChefSofi granite 1.5 cup, $23.99) |
+
+http://localhost:1313/2012/02/roasted-cippolini-onions-and-beets-recipe/ — skipped (no good link opportunities).
+http://localhost:1313/2008/07/roasted-corn-wi/ — 3 new links added, 1 existing placeholder converted (ancho chili body text).
+1 post modified, 1 skipped.
+--- Individual run finished at Thu Feb 19 2026 ---
+Individual post run — roasted-asparagus-with-pistachio-puree-recipe and roasted-cauliflower-and-white-bean-salad-recipe:
+
+| Post | New Links | Updated Links | Notes |
+|------|-----------|---------------|-------|
+| roasted-asparagus-with-pistachio-puree-recipe | 3 | 1 | unsalted roasted pistachio kernels (B09TM34CD3, 365 WFM, $13.99), smoked paprika (B00ZK8YJ5O, Simply Organic, $7.29), Maldon salt (B00017028M, $6.99); out-of-stock balsamic vinegar B0030MV7IO replaced with Due Vittorie Oro Gold B085WF23VH ($19.99) |
+| roasted-cauliflower-and-white-bean-salad-recipe | 1 | 1 | sherry vinegar (B0058DO1SG, Columela Classic, $12.80); orange-infused olive oil link URL/tag modernized from poeticlicen07-20 → herb-hugo-20 |
+
+http://localhost:1313/2013/04/roasted-asparagus-with-pistachio-puree-recipe/ — 3 new links added, 1 existing link updated (out-of-stock replaced, tag corrected to herb-hugo-20).
+http://localhost:1313/2010/02/roasted-cauliflower-and-white-bean-salad-recipe/ — 1 new link added, 1 existing link updated (tag + URL modernized to herb-hugo-20).
+2 posts modified, 0 skipped.
+--- Individual run finished at Thu Feb 19 2026 ---
+Individual post run — roasted-potato-and-asparagus-tacos and roasted-pumpkin-ice-cream:
+
+| Post | New Links | Updated Links | Notes |
+|------|-----------|---------------|-------|
+| roasted-potato-and-asparagus-tacos-with-kohlrabi-slaw-recipe | 3 | 0 | mandoline (B000YDO2LG, OXO Good Grips Handheld, $17.95); champagne vinegar (B07CQQ35PK, O Olive Champagne Vinegar, $10.49); squeeze bottle (B076PT3BD9, OXO Good Grips Chef's Squeeze Bottle, $14.95) |
+| roasted-pumpkin-ice-cream | 4 | 0 (1 existing valid) | pressure cooker (B00006ISG6, Presto 6-Qt, $98.99); home ice cream maker (B0006ONQOC, Cuisinart 2-Qt, $113.51); black sesame (B07TWRT98L, Yupik Raw Black Sesame Seeds, $13.99); miso (B005258AZU, Roland Foods White Miso Paste, $11.49) |
+
+http://localhost:1313/2009/07/roasted-potato-and-asparagus-tacos-with-kohlrabi-slaw-recipe/ — 3 new links added, 0 updated.
+http://localhost:1313/2013/10/roasted-pumpkin-ice-cream/ — 4 new links added, 0 updated (1 existing Modernist Cuisine link validated in-stock).
+2 posts modified, 0 skipped.
+--- Individual run finished at Thu Feb 19 2026 ---
+Individual post run — roasted-tomato-and-corn-risotto-recipe and romesco-sauce-spanish-red-pepper-and-hazelnut-or-almond-sauce-recipe:
+
+| Post | New Links | Updated Links | Notes |
+|------|-----------|---------------|-------|
+| roasted-tomato-and-corn-risotto-recipe | 1 | 1 | carnaroli rice (B07GQD9LCX, Colavita Carnaroli 2lb, $8.56); Think Like a Chef tag updated poeticlicen07-20 → herb-hugo-20 + upgraded to https |
+| romesco-sauce-spanish-red-pepper-and-hazelnut-or-almond-sauce-recipe | 3 | 1 | smoked paprika (B000NO943C, CHIQUILÍN 2.64oz, $7.29), sherry vinegar (B0058DO1SG, Columela Classic 12.7oz, $12.80), San Marzano tomatoes (B007K5EUWC, Cento Certified 28oz, $5.79); roasted hazelnut oil tag updated poeticlicen07-20 → herb-hugo-20 + upgraded to https |
+
+http://localhost:1313/2009/08/roasted-tomato-and-corn-risotto-recipe/ — 1 new link added, 1 existing link updated (tag corrected to herb-hugo-20).
+http://localhost:1313/2013/01/romesco-sauce-spanish-red-pepper-and-hazelnut-or-almond-sauce-recipe/ — 3 new links added, 1 existing link updated (tag corrected to herb-hugo-20).
+2 posts modified, 0 skipped.
+--- Individual run finished at Thu Feb 19 2026 ---
