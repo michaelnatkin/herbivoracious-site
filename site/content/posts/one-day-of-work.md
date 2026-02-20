@@ -16,7 +16,7 @@ Friday night, put in a <a href="/2007/10/my-first-week-w/">good day of work at C
 
 If a friend asks you for an easy and flavorful vegetarian dish, this would be a good one to recommend. You've got the heat of the chili flakes, the pungent garlic, crunch from the breadcrumbs, a little acid from the lemon, and a bit of saltiness. Just don't overcook the pasta.
 
-Then this morning, Mini-Me wanted pancakes, and we decided they should be corn pancakes, from the <a href="http://astore.amazon.com/vegfoodie-20/detail/0743246268/002-3348253-1799263">Joy of Cooking</a>. Picture above. Yep, I like mine a little burned. She ate almost of 5 of them, and she's only 2.5 years old.
+Then this morning, Mini-Me wanted pancakes, and we decided they should be corn pancakes, from the <a href="https://www.amazon.com/dp/0743246268?tag=herb-hugo-20">Joy of Cooking</a>. Picture above. Yep, I like mine a little burned. She ate almost of 5 of them, and she's only 2.5 years old.
 
 Sometimes it just doesn't need to be any more complicated than these simple, delicious things.
 
@@ -34,7 +34,7 @@ Vegetarian, and vegan if you omit the parmesan
 	<li>1 slice country bread</li>
 	<li>olive oil</li>
 	<li>2 large cloves of garlic, minced</li>
-	<li>1 tsp. chili flakes (or to taste)</li>
+	<li>1 tsp. <a href="https://www.amazon.com/dp/B00IYNQ1EY?tag=herb-hugo-20">chili flakes</a> (or to taste)</li>
 	<li>butter</li>
 	<li>lemon</li>
 	<li>parmesan (reggiano), grated</li>
