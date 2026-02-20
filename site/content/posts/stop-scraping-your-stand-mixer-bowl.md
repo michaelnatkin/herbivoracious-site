@@ -18,9 +18,9 @@ I used it to cream butter and sugar for a banana bread, and literally just turne
 
 To top it off, the BeaterBlade goes on the top rack of the dishwasher, so it is one less thing to wash by hand. I couldn't be happier with it. Just be sure and buy the right one for your machine:
 <ul>
-	<li><a href="http://www.amazon.com/gp/product/B0015TMHSI?ie=UTF8&amp;tag=poeticlicen07-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B0015TMHSI" target="_blank">BeaterBlade for 5-Quart KitchenAid Bowl Lift Mixers, White</a></li>
-	<li><a href="http://www.amazon.com/gp/product/B0015TMI28?ie=UTF8&amp;tag=poeticlicen07-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B0015TMI28" target="_blank">BeaterBlade for KitchenAid 6-Quart Mixers, White</a></li>
-	<li><a href="http://www.amazon.com/gp/product/B001F29N50?ie=UTF8&amp;tag=poeticlicen07-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B001F29N50" target="_blank">BeaterBlade for KitchenAid Tilt-Head &amp; Bowl-Lift Mixers</a></li>
-	<li><a href="http://www.amazon.com/gp/product/B0015TYOT8?ie=UTF8&amp;tag=poeticlicen07-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B0015TYOT8" target="_blank">BeaterBlade for Cuisinart, DeLonghi, &amp; Viking 7-Quart Mixers, White</a></li>
+	<li><a href="https://www.amazon.com/dp/B0015TMHSI?tag=herb-hugo-20" target="_blank">BeaterBlade for 5-Quart KitchenAid Bowl Lift Mixers, White</a></li>
+	<li><a href="https://www.amazon.com/dp/B0015TMI28?tag=herb-hugo-20" target="_blank">BeaterBlade for KitchenAid 6-Quart Mixers, White</a></li>
+	<li><a href="https://www.amazon.com/dp/B001F29N50?tag=herb-hugo-20" target="_blank">BeaterBlade for KitchenAid Tilt-Head &amp; Bowl-Lift Mixers</a></li>
+	<li><a href="https://www.amazon.com/dp/B0015TYOT8?tag=herb-hugo-20" target="_blank">BeaterBlade for Cuisinart, DeLonghi, &amp; Viking 7-Quart Mixers, White</a></li>
 </ul>
 <a style="display: inline;" href="/images/old/6a00e008d618bb8834011278dcb05d28a4-800wi.jpg" rel="lightbox"><img class="at-xid-6a00e008d618bb8834011278dcb05d28a4 "  src="/images/old/6a00e008d618bb8834011278dcb05d28a4-500wi.jpg" alt="Beater_Blade_Detail" /></a>

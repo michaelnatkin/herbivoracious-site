@@ -13,7 +13,7 @@ cover:
 
 No, this isn't a <strong>miniature cake</strong>. It is actually 6 inches in diameter, and, I don't know, 6 inches tall and serves 8 pretty handily.
 
-I'm a pretty lousy pastry cook. I typically don't have the patience or skills to create perfect geometric shapes, frost things just right and so-on. So when I got the <a href="http://www.amazon.com/dp/0307720497/?tag=poeticlicen07-20">Momofuku Milk Bar cookbook</a>, I sorta fell in love because Christina Tosi's approach to the decorative side of pastry is so fun and approachable. <strong>The way she makes her 3 layer cakes is genius</strong> (though it does require some gear). You bake a sheet cake, then use a cake ring to cut out two layers. The bottom layer is made by pressing all of the remaining scraps into the cake ring. Two mylar collars keep the outside perfectly smooth so you can see the filling.
+I'm a pretty lousy pastry cook. I typically don't have the patience or skills to create perfect geometric shapes, frost things just right and so-on. So when I got the <a href="https://www.amazon.com/dp/0307720497?tag=herb-hugo-20">Momofuku Milk Bar cookbook</a>, I sorta fell in love because Christina Tosi's approach to the decorative side of pastry is so fun and approachable. <strong>The way she makes her 3 layer cakes is genius</strong> (though it does require some gear). You bake a sheet cake, then use a cake ring to cut out two layers. The bottom layer is made by pressing all of the remaining scraps into the cake ring. Two mylar collars keep the outside perfectly smooth so you can see the filling.
 
 (Though I am tempted to take this online <a rel="nofollow" href="http://www.shareasale.com/r.cfm?B=417507&U=856803&M=29190&urllink=" target="_blank">cake decorating class</a>.)
 
@@ -21,10 +21,10 @@ I followed Tosi's recipe for the sheet cake, using the Birthday Cake recipe (pag
 
 Here are the tools you'll need:
 <ol>
-	<li><a href="http://www.amazon.com/dp/0307720497/?tag=poeticlicen07-20">Momofuku Milk Bar cookbook</a></li>
-	<li><a href="http://www.amazon.com/dp/B000RYPHRK/?tag=poeticlicen07-20" target="_blank">Quarter sheet pan</a> (I don't like non-stick, it scratches too easily)</li>
-	<li><a href="http://www.amazon.com/dp/B000GBK2MO/?tag=poeticlicen07-20">6" cake ring</a> (I like the Fat Daddio's brand, they are sturdy)</li>
-	<li>Acetate collars (I opted to buy <a href="http://www.amazon.com/dp/B001AEOAXS/?tag=poeticlicen07-20">this enormous roll</a> but you can also get <a href="http://www.amazon.com/dp/B002YFR66U/?tag=poeticlicen07-20" target="_blank">smaller quantities</a>)</li>
+	<li><a href="https://www.amazon.com/dp/0307720497?tag=herb-hugo-20">Momofuku Milk Bar cookbook</a></li>
+	<li><a href="https://www.amazon.com/dp/B000RYPHRK?tag=herb-hugo-20" target="_blank">Quarter sheet pan</a> (I don't like non-stick, it scratches too easily)</li>
+	<li><a href="https://www.amazon.com/dp/B000GBK2MO?tag=herb-hugo-20">6" cake ring</a> (I like the Fat Daddio's brand, they are sturdy)</li>
+	<li>Acetate collars (I opted to buy <a href="https://www.amazon.com/dp/B001AEOAXS?tag=herb-hugo-20">this enormous roll</a> but you can also get <a href="https://www.amazon.com/dp/B002YFR66U?tag=herb-hugo-20" target="_blank">smaller quantities</a>)</li>
 </ol>
 My cake using this method is stupid-simple. The filling is macerated strawberries, the soak (which is used to moisten the cake layers) is the juice from macerating the strawberries, and I make a whipped cream frosting that is stabilized with some cream cheese so it <strong>doesn't collapse under the weight of the cake</strong>. (Adapted from one I found at  <a href="http://allrecipes.com/recipe/sturdy-whipped-cream-frosting/" target="_blank">Allrecipes</a>).  Here are the details:
 
