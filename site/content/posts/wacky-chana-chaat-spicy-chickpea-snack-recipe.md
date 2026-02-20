@@ -16,7 +16,7 @@ Chaat is a whole family of amazing snack foods from India that are served by str
 
 Today's recipe is a variation of a traditional chana (chickpea) chaat. I'm <strong>calling it "wacky"</strong> because I used Trader Joe's thin-mini rice crackers to add a crunchy component. Most chaats have a crunch factor, from crispy noodles (sev) to puffed rice (bhel). I chose the rice crackers just because I had them lying around and  they have a nice neutral, salty crunch that I thought would work perfectly. If you use a different kind of rice cracker, just be sure it is a plain one, <strong>not glazed with  teriyaki or wrapped with nori</strong> - that wouldn't go well. You can do everything else ahead, but don't mix the chaat until the last minute, because you don't want the crackers to lose their snap.
 
-Chaat masala is a spice mix that is used in many different chaats; you can <a href="http://www.amazon.com/dp/B000JSM27M/?tag=poeticlicen07-20" target="_blank">buy it</a> or I show you how to make a <strong>simplified version</strong> of it below. You also might like to add a tamarind chutney for another layer of flavor. The general aesthetic of chaat is a real riot of flavors and textures.
+Chaat masala is a spice mix that is used in many different chaats; you can <a href="https://www.amazon.com/dp/B000JSM27M?tag=herb-hugo-20" target="_blank">buy it</a> or I show you how to make a <strong>simplified version</strong> of it below. You also might like to add a tamarind chutney for another layer of flavor. The general aesthetic of chaat is a real riot of flavors and textures.
 
 Oh, and in other news, after much "fun" getting the colors right, I finally have my Zazzle store open, so pop on over if you have just been hankering to get an <a href="http://www.zazzle.com/herbivoracious/gifts" target="_blank">Herbivoracious t-shirt, apron or trucker hat</a>.
 
@@ -46,7 +46,7 @@ Oh, and in other news, after much "fun" getting the colors right, I finally have
 <ul>
 	<li>1 teaspoon cumin seed</li>
 	<li>1 teaspoon coriander seed</li>
-	<li>1 teaspoon amchoor (dried mango powder) or 1/4 teaspoon citric acid (sour salt)</li>
+	<li>1 teaspoon <a href="https://www.amazon.com/dp/B00309S1AY?tag=herb-hugo-20">amchoor (dried mango powder)</a> or 1/4 teaspoon citric acid (sour salt)</li>
 	<li>1/4 teaspoon freshly ground black pepper</li>
 	<li>1/2 teaspoon cayenne pepper</li>
 	<li>1/2 teaspoon salt</li>
@@ -54,7 +54,7 @@ Oh, and in other news, after much "fun" getting the colors right, I finally have
 <div>
 <ol>
 	<li>Toast the cumin seed and coriander seed in a dry skillet over medium-low heat until fragrant but not burned, about 2 minutes.</li>
-	<li>Combine all ingredients in a spice grinder or mortar and pestle and grind to a fine powder.</li>
+	<li>Combine all ingredients in a <a href="https://www.amazon.com/dp/B07SYTRPSG?tag=herb-hugo-20">spice grinder</a> or <a href="https://www.amazon.com/dp/B0CRHP5G3P?tag=herb-hugo-20">mortar and pestle</a> and grind to a fine powder.</li>
 </ol>
 <div class="recipe-card">
 <div><strong>Mint Chutney</strong>
@@ -73,7 +73,7 @@ Oh, and in other news, after much "fun" getting the colors right, I finally have
 </ul>
 <div>
 <ol>
-	<li>Combine all ingredient in a mini food processor, or double recipe and make in a blender. Process on high speed until you have a smooth puree, adding a bit of water as needed. Taste and adjust seasoning - it may need more sugar, salt, or lime juice.</li>
+	<li>Combine all ingredient in a <a href="https://www.amazon.com/dp/B0000645YM?tag=herb-hugo-20">mini food processor</a>, or double recipe and make in a blender. Process on high speed until you have a smooth puree, adding a bit of water as needed. Taste and adjust seasoning - it may need more sugar, salt, or lime juice.</li>
 </ol>
 </div>
 </div>
