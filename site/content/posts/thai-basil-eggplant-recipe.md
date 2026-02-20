@@ -16,11 +16,11 @@ The Thai basil situation can be <strong>a bit confusing</strong>. The herb known
 
 Similarly, you want to make this dish with Asian eggplant, like the <strong>long Japanese eggplants</strong> that are about 1 1/2" in diameter. It won't be as good with an Italian type eggplant, the texture isn't quite right.
 
-This is a case where a <a href="http://www.amazon.com/dp/B000OFREDC/?tag=poeticlicen07-20">wok</a> actually works ok without a jet-powered wok burner, because we aren't really trying to brown the eggplant - so it is fine that there will be several layers and some will be steaming, not all frying at the same time on the hot surface. But you can do this in a large skillet as well.
+This is a case where a <a href="https://www.amazon.com/dp/B000OFREDC?tag=herb-hugo-20">wok</a> actually works ok without a jet-powered wok burner, because we aren't really trying to brown the eggplant - so it is fine that there will be several layers and some will be steaming, not all frying at the same time on the hot surface. But you can do this in a large skillet as well.
 
 <strong>To break down lemongrass</strong>, trim off all but the last 4 inches or so of the stem end, and trim the hard button off the end of the stem. Remove the outermost layer, or maybe two if it is very tough, from the 4 inch piece. Smash the remaining piece with something heavy, like a can of beans, until it is tenderized, then mince.
 
-I'm a little unsure whether to categorize this as a main course or a side dish. I think that I wouldn't typically have it for dinner by itself with just jasmine rice, but on the other hand it could stand on equal footing with another item like <a href="/2009/10/red-curry-delicata-squash-and-tofu-recipe/">Red Curry Delicata Squash and Tofu</a>, and I wouldn't automatically consider the latter to be the main course and the eggplant a side dish. I guess that concept just doesn't apply in the same way.
+I'm a little unsure whether to categorize this as a main course or a side dish. I think that I wouldn't typically have it for dinner by itself with just <a href="https://www.amazon.com/dp/B00NM3J4E0?tag=herb-hugo-20">jasmine rice</a>, but on the other hand it could stand on equal footing with another item like <a href="/2009/10/red-curry-delicata-squash-and-tofu-recipe/">Red Curry Delicata Squash and Tofu</a>, and I wouldn't automatically consider the latter to be the main course and the eggplant a side dish. I guess that concept just doesn't apply in the same way.
 
 <div class="recipe-card">
 <strong>Thai Basil Eggplant</strong>

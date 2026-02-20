@@ -15,7 +15,7 @@ cover:
 <p>This hearty salad was born out of desperation, when I arrived home at 5:30 and our annual block party potluck was due to start at 6:00. Two crazy kids meant that I would have to put something together fast, but I wasn’t about to settle for bland! Easy potluck recipes are a dime a dozen, but the challenge here was to deliver one with big flavors.</p>
 <p>I raided the pantry and refrigerator and made this chickpea-based salad with a Mediterranean approach. As you toss it, the crumbled feta dissolves a little bit and makes a creamy dressing.</p>
 <p>This recipe shows why it is such a good idea to keep your pantry stocked with things like cans of chickpeas, roasted peppers, and good olive oil. When you don't have time to do much cooking, you can still get something great on the table.</p>
-<p>You could easily add or substitute other herbs (tarragon, dill or mint would be nice), olives, blanched green beans, or artichoke hearts. My wife also makes a delicious variation with a few cups of prepared Israeli couscous added. (Israeli couscous is large pearls, not the tiny grains of traditional couscous).</p>
+<p>You could easily add or substitute other herbs (tarragon, dill or mint would be nice), olives, blanched green beans, or artichoke hearts. My wife also makes a delicious variation with a few cups of prepared <a href="https://www.amazon.com/dp/B078J37Y7K?tag=herb-hugo-20">Israeli couscous</a> added. (Israeli couscous is large pearls, not the tiny grains of traditional couscous).</p>
 
 
 <a href="/images/cookbook/ten-minute-chickpea-salad-with-feta-and-basil-2.jpg"><img src="/images/cookbook/ten-minute-chickpea-salad-with-feta-and-basil-2.jpg" alt="Ten-Minute Chickpea Salad with Feta and Basil" /></a>
@@ -28,7 +28,7 @@ cover:
 <li>2 small (15 ounce) cans cooked chickpeas</li>
 <li>1/2 red onion, finely diced</li>
 <li>1/2 English cucumber, finely diced</li>
-<li>1 jar roasted red or yellow peppers, roughly chopped</li>
+<li>1 jar <a href="https://www.amazon.com/dp/B000SRI2HI?tag=herb-hugo-20">roasted red or yellow peppers</a>, roughly chopped</li>
 <li>½ pound feta cheese, crumbled</li>
 <li>1 clove of garlic, crushed and minced</li>
 <li>handful of fresh basil leaves, torn</li>
