@@ -519,3 +519,25 @@ http://localhost:1313/2007/11/recipe-how-to-m/ — 1 new link added (couscous), 
 http://localhost:1313/2008/02/recipe-mexican/ — skipped (no viable link opportunities).
 1 post modified, 1 skipped.
 --- Individual run finished at Thu Feb 19 2026 ---
+--- Individual run finished at Thu Feb 19 2026 ---
+Individual post run — recipe-mujadara and recipe-otsu-noo:
+
+| Post | New Links | Updated Links | Notes |
+|------|-----------|---------------|-------|
+| recipe-mujadara | 0 | 0 | Skipped — Amazon search returning empty results; no existing links to validate |
+| recipe-otsu-noo | 4 | 1 | Maldon salt B0006FS4TI (out of stock, old tag poeticlicen07-20) replaced with B00017028M (in stock, herb-hugo-20); 4 new links added: toasted sesame paste/tahini (B0D82M5SWZ, $9.99), sweet soy sauce/kecap manis (B095JJC7FS, $7.62), soba/Japanese buckwheat noodles (B000VK109Y, $4.38), toasted sesame seeds (B00NWC8K3C, $8.69) |
+
+http://localhost:1313/2007/10/recipe-mujadara/ — 0 new links, 0 updated. Skipped — Amazon search unavailable for new candidates; no existing links.
+http://localhost:1313/2007/10/recipe-otsu-noo/ — 4 new links added, 1 existing link updated (Maldon salt replaced with in-stock ASIN, tag corrected to herb-hugo-20).
+1 post modified, 1 skipped (tool limitation).
+Individual post run — recipe-rice-bow and recipe-sesame-c-1:
+
+| Post | New Links | Updated Links | Notes |
+|------|-----------|---------------|-------|
+| recipe-rice-bow | 5 | 0 | mortar and pestle (B0084O4LIG, HIC Kitchen Marble, $13.46), rice cooker (B016Y8JSK4, BLACK+DECKER 6-Cup, $28.91), tempeh (B000YN1JY4, Lightlife Organic, $3.99), seitan (B075JLYFBC, Upton's Natural, $6.49), sweet chili sauce (B008PU36V2, Thai Kitchen, $11.38) |
+| recipe-sesame-c-1 | 4 | 0 | Joy of Cooking (1501169718, fully revised edition, $32.65) converted from type="amzn" placeholder; Saco buttermilk powder (B0DXM6LYRX, $9.99) converted from type="amzn" placeholder; sesame seeds (B08HQX3YJG, Spicy World Hulled 3lb, $14.99); coarse or medium cornmeal (B00U9W4R3K, Bob's Red Mill Coarse Grind 24oz, $8.61) |
+
+http://localhost:1313/2007/11/recipe-rice-bow/ — 5 new links added, 0 updated.
+http://localhost:1313/2008/05/recipe-sesame-c-1/ — 4 new links added, 0 updated (2 were converted from type="amzn" placeholder format).
+2 posts modified, 0 skipped.
+--- Individual run finished at Thu Feb 19 2026 ---
