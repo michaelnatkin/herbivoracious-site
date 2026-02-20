@@ -12,13 +12,13 @@ cover:
 <a href="/images/2008/04/11/labneh.jpg" rel="lightbox"><img title="Syrian Style Labneh (Spiced Yogurt Cheese)" src="/images/2008-small/04/11/labneh.jpg" alt="Syrian Style Labneh (Spiced Yogurt Cheese)" width="455" height="302" border="0" /></a>
 <span style="font-size: 0.8em;">Syrian Style Labneh (Spiced Yogurt Cheese)</span>
 
-This recipe is adapted from Poopa Dweck's  cookbook, <a type="amzn">Aromas of Aleppo, The Legendary Cuisine of Syrian Jews.</a> I wrote more about that book in <a href="/2008/04/recipe-syrian-y/">this post on Syrian Red Lentil Soup</a>.
+This recipe is adapted from Poopa Dweck's  cookbook, <a href="https://www.amazon.com/dp/0060888180?tag=herb-hugo-20">Aromas of Aleppo, The Legendary Cuisine of Syrian Jews.</a> I wrote more about that book in <a href="/2008/04/recipe-syrian-y/">this post on Syrian Red Lentil Soup</a>.
 
 Labneh, aka Lebneh, is eaten all over the Middle East. The term can cover a wide range of yogurt-based products from very thick liquid all the way through to a firmly pressed fresh cheese. It is made by draining the liquid from plain yogurt through cheesecloth, and then optionally adding flavorings, and it is quite easy to do at home.
 
 You'll get the best results if you start with a good yogurt, such as Fage or Greek Gods. I made this batch with full fat, but I think 2% will be fine too. If you try it with non-fat, let me know how it turns out.
 
-Dweck flavors her version with cumin, dried mint and <a href="http://chefshop.com/Itemdesc.asp?ic=4501&amp;eq=&amp;Tp=">Aleppo Pepper</a>. She doesn't specify, but I used spearmint and it worked really well. If you don't have the Aleppo Pepper, red chili flakes would be a decent substitute. Serve this with wedges of toasted pita bread and you've got a delicious snack.
+Dweck flavors her version with cumin, dried mint and <a href="https://www.amazon.com/dp/B071KH1X16?tag=herb-hugo-20">Aleppo Pepper</a>. She doesn't specify, but I used spearmint and it worked really well. If you don't have the Aleppo Pepper, red chili flakes would be a decent substitute. Serve this with wedges of toasted pita bread and you've got a delicious snack.
 
 You can easily vary the flavorings with other Middle Eastern herbs and spices, citrus zest, garlic and so on. If you feel compelled to make sun-dried tomato Thai Curry labneh, please, don't tell me!
 
@@ -33,7 +33,7 @@ You can easily vary the flavorings with other Middle Eastern herbs and spices, c
 	<li>1/2 t. Aleppo pepper or chili flakes</li>
 	<li>1.5 t. sea salt</li>
 	<li>olive oil</li>
-	<li>cheesecloth</li>
+	<li><a href="https://www.amazon.com/dp/B0DKC8JD52?tag=herb-hugo-20">cheesecloth</a></li>
 </ul>
 <ol>
 	<li>Put a large colander in a bowl. Line the colander with a double layer of cheesecloth. Pour in the yogurt, and tie the cheesecloth into a ball. For bonus points, tie cheesecloth around a wooden spoon or something you can hang over the colander rim so it is suspended. That will help it drain faster, using its own weight.</li>

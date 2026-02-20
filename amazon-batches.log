@@ -541,3 +541,44 @@ http://localhost:1313/2007/11/recipe-rice-bow/ — 5 new links added, 0 updated.
 http://localhost:1313/2008/05/recipe-sesame-c-1/ — 4 new links added, 0 updated (2 were converted from type="amzn" placeholder format).
 2 posts modified, 0 skipped.
 --- Individual run finished at Thu Feb 19 2026 ---
+--- Batch run #24 finished at Thu Feb 19 19:04:32 PST 2026 ---
+Individual post run — recipe-vietname:
+
+| Post | New Links | Updated Links | Notes |
+|------|-----------|---------------|-------|
+| recipe-vietname | 3 | 0 | daikon radish (B0019JRLC6, Eden Sun Dried Daikon, $10.95), sriracha (B07KSMML5P, Huy Fong 2×28oz, $14.99), chili-flavored sesame oil (B00514F08C, Eden Hot Pepper Sesame Oil, $10.46) |
+
+http://localhost:1313/2008/04/recipe-vietname/ — 3 new links added, 0 updated.
+1 post modified, 0 skipped.
+--- Individual run finished at Thu Feb 19 2026 ---
+Individual post run — recipe-warm-win:
+
+| Post | New Links | Updated Links | Notes |
+|------|-----------|---------------|-------|
+| recipe-warm-win | 1 | 1 | chili flakes (B07F1T63WG, McCormick Organic Crushed Red Pepper 7.75oz, $10.49); Maldon salt tag updated poeticlicen07-20 → herb-hugo-20, URL upgraded to https, target="_blank" removed |
+
+http://localhost:1313/2007/11/recipe-warm-win/ — 1 new link added, 1 existing link updated (tag + URL modernized to herb-hugo-20).
+1 post modified, 0 skipped.
+--- Individual run finished at Thu Feb 19 2026 ---
+Individual post run — recipe-syrian-s and recipe-syrian-y:
+
+| Post | New Links | Updated Links | Notes |
+|------|-----------|---------------|-------|
+| recipe-syrian-s | 3 | 0 | Aromas of Aleppo cookbook (0060888180, $48.00) converted from type="amzn" placeholder; Aleppo Pepper (B071KH1X16, The Spice Way, $6.99) replacing dead chefshop.com link; cheesecloth (B0DKC8JD52, Organic Grade 100, $4.99) |
+| recipe-syrian-y | 1 | 4 | Aromas of Aleppo cookbook (0060888180) converted from type="amzn" placeholder; Aleppo pepper (B000X5IPWM → B071KH1X16) — 2 occurrences updated (old affiliate tag + URL modernized); dukkah (B0000D9NCD → B005MSBD4C) — out-of-stock replaced with Egyptian Dukkah Spice Blend in 2 occurrences; all updated to herb-hugo-20 tag |
+
+http://localhost:1313/2008/04/recipe-syrian-s/ — 3 new links added, 0 updated.
+http://localhost:1313/2008/04/recipe-syrian-y/ — 1 new link added, 4 existing links updated (1 format fix, 2 Aleppo replacements, 1 out-of-stock dukkah replaced x 2 occurrences).
+2 posts modified, 0 skipped.
+--- Individual run finished at Thu Feb 19 2026 ---
+Individual post run — recipe-urad-dal and recipe-valentin:
+
+| Post | New Links | Updated Links | Notes |
+|------|-----------|---------------|-------|
+| recipe-urad-dal | 3 | 1 | urad dal (B00RENFSDU, Jiva Organics, $11.99), Lord Krishna's Cuisine cookbook (B0762JPC9N, $9.99), asafetida powder (B006POH22Y, Rani, $11.99); Maldon salt tag updated poeticlicen07-20 → herb-hugo-20 + upgraded to https |
+| recipe-valentin | 3 | 0 | Mastering the Art of French Cooking (0375413405, converted from amzn placeholder, $24.70), Scharffen-Berger bittersweet chocolate (B005XCYFDI, $12.50), crepe pan (B08RMXBJNQ, SENSARTE 10", $25.98) |
+
+http://localhost:1313/2008/03/recipe-urad-dal/ — 3 new links added, 1 existing link updated (tag corrected to herb-hugo-20).
+http://localhost:1313/2008/02/recipe-valentin/ — 3 new links added, 0 updated.
+2 posts modified, 0 skipped.
+--- Individual run finished at Thu Feb 19 2026 ---

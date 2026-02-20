@@ -12,11 +12,11 @@ cover:
 <a href="/images/2008/03/23/uraddalbada.jpg" rel="lightbox"><img title="Urad Dal Patties (Vada) with Black Pepper" src="/images/2008-small/03/23/uraddalbada.jpg" alt="Urad Dal Patties (Vada) with Black Pepper" width="455" height="302" border="0" /></a>
 <span style="font-size: 0.8em;">Urad Dal Patties (Vada) with Black Pepper</span>
 
-Vada (also spelled Bada) are a species of Indian fritter or cake made with various types of lentils (dals). This particular dish is made with urad dal, which is readily available at any Indian market. While you are there, stock up on chana dal, toor dal, moong dal and all the other delicious pulses that aren't used enough in Western cuisine. If you can't find them locally, you can also <a type="amzn">order them from Amazon</a>.
+Vada (also spelled Bada) are a species of Indian fritter or cake made with various types of lentils (dals). This particular dish is made with urad dal, which is readily available at any Indian market. While you are there, stock up on chana dal, toor dal, moong dal and all the other delicious pulses that aren't used enough in Western cuisine. If you can't find them locally, you can also <a href="https://www.amazon.com/dp/B00RENFSDU?tag=herb-hugo-20">order them from Amazon</a>.
 
 The basic technique for making vada is to soak the dal for a few hours, blend it into a coarse paste with spices, and then shallow fry. They can be made in various shapes, but here I just made simple patties.
 
-The recipe I followed comes from the wonderful (and freshly reprinted) <a type="amzn">Lord Krishna's Cuisine: The Art of Indian Vegetarian Cooking</a> by <a type="amzn">Yamuna Devi</a>, which is a wonderfully written, 800 page tome of the food favored by the Hare Krishna (<a href="http://www.iskcon.com/index.html">ISKCON</a>) community. Devi (born Joan Campanella) spent 8 years as the personal cook for <a href="http://en.wikipedia.org/wiki/Prabhupada">Srila Prabhupada</a>. The book includes traditional foods from all over India, but they are generally on the mild side. The version below has the spices amped up to suit my pathetically overstimulated palate.
+The recipe I followed comes from the wonderful (and freshly reprinted) <a href="https://www.amazon.com/dp/B0762JPC9N?tag=herb-hugo-20">Lord Krishna's Cuisine: The Art of Indian Vegetarian Cooking</a> by Yamuna Devi, which is a wonderfully written, 800 page tome of the food favored by the Hare Krishna (<a href="http://www.iskcon.com/index.html">ISKCON</a>) community. Devi (born Joan Campanella) spent 8 years as the personal cook for <a href="http://en.wikipedia.org/wiki/Prabhupada">Srila Prabhupada</a>. The book includes traditional foods from all over India, but they are generally on the mild side. The version below has the spices amped up to suit my pathetically overstimulated palate.
 
 I served these vada with red quinoa which you can barely see peeking out from under the roasted cauliflower and caramelized onions, a bit of creme fraiche (but yogurt would be good too), and a quick grilled half of a Meyer lemon. On balance, yeah, this plate has a lot of brown to golden-brown hues! But it was just a quickie dinner, whaddaya want, Picasso?
 
@@ -27,11 +27,11 @@ Vegetarian, vegan (if you don't garnish with dairy), and gluten-free</em>
 <ul>
 	<li>3/4 c. urad dal (without skins), available at any Indian grocery</li>
 	<li>2 tsp. coarse freshly ground black pepper</li>
-	<li>1/2 tsp. asafetida powder or 1 clove garlic, minced</li>
+	<li>1/2 tsp. <a href="https://www.amazon.com/dp/B006POH22Y?tag=herb-hugo-20">asafetida powder</a> or 1 clove garlic, minced</li>
 	<li>1 tsp. cayenne pepper</li>
 	<li>2 tsp. kosher salt</li>
 	<li>oil for frying (or ghee)</li>
-	<li>garnish: <a href="http://www.amazon.com/dp/B0006FS4TI/?tag=poeticlicen07-20" target="_blank">Maldon (aka the world's greatest salt)</a> or other finishing salt, creme fraiche or yogurt (optional)</li>
+	<li>garnish: <a href="https://www.amazon.com/dp/B0006FS4TI?tag=herb-hugo-20">Maldon (aka the world's greatest salt)</a> or other finishing salt, creme fraiche or yogurt (optional)</li>
 </ul>
 <ol>
 	<li>Pick over the dal to remove any foreign material, and rinse thorougly. Cover with plenty of water and leave to soak for 4-6 hours.</li>
