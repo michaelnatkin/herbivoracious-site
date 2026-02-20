@@ -17,11 +17,11 @@ This risotto packs a powerful mushroom intensity. I finely chop a whole pound of
 
 I made this with cultivated mushrooms, but if you happen to have fresh porcini on hand, they would be incredible in this dish.
 
-Fresh fava beans are wonderful, but I used to dread peeling them until I learned a great trick from Aki &amp; Alex's <a href="http://amzn.to/k3Wxap" target="_blank">Ideas In Food Cookbook</a>. First, remove the outer pod, then freeze the beans. The next day, thaw them. That simple step loosens their jacket. Then just pinch off a bit of skin and squeeze and they pop right out. The freeze/thaw cycle also makes the bean itself more tender, because ice crystals break some of the cell walls. Alex &amp; Aki call this cryo-blanching. The fava beans are so good this way that they don't need to be cooked.
+Fresh fava beans are wonderful, but I used to dread peeling them until I learned a great trick from Aki &amp; Alex's <a href="https://www.amazon.com/dp/0307717402?tag=herb-hugo-20">Ideas In Food Cookbook</a>. First, remove the outer pod, then freeze the beans. The next day, thaw them. That simple step loosens their jacket. Then just pinch off a bit of skin and squeeze and they pop right out. The freeze/thaw cycle also makes the bean itself more tender, because ice crystals break some of the cell walls. Alex &amp; Aki call this cryo-blanching. The fava beans are so good this way that they don't need to be cooked.
 
 There are two schools of thought on the ideal texture for risotto. The classic Venetian style is called <em>all'onda</em>, which means "wavy", i.e. quite wet. In contrast the Piedmontese style is a bit more firm. The picture above is definitely too dry, I should have added a bit more liquid. I was actually experimenting with pressure cooker risotto for the first time. It worked well but I was a little tentative. I'm offering you both the traditional stovetop method and the pressure cooker variation below.
 
-(By the way, if you are in need of a pressure cooker, I love this <a href="http://amzn.to/l29qzN" target="_blank">electric Cuisinart model</a>, and Amazon has it for an excellent price at the moment. Besides risotto, the way it cooks beans has changed my world.)
+(By the way, if you are in need of a pressure cooker, I love this <a href="https://www.amazon.com/dp/B0813VGM8V?tag=herb-hugo-20">electric Cuisinart model</a>, and Amazon has it for an excellent price at the moment. Besides risotto, the way it cooks beans has changed my world.)
 
 Whichever way you make risotto, I highly recommend finishing with <em>mantecare. </em>This just means mixing in some butter and parmigiano at the end to add a final dose of creaminess - but as with everything else it sounds a lot more romantic in Italian.
 <div class="recipe-card">
@@ -33,8 +33,8 @@ Whichever way you make risotto, I highly recommend finishing with <em>mantecare
 	<li>8 tablespoons extra-virgin olive oil, divided</li>
 	<li>Kosher salt</li>
 	<li>1 bunch asparagus, trimmed and cut into 2" pieces on the bias</li>
-	<li>1 tablespoon aged balsamic vinegar (the thick, syrupy, expensive stuff - optional)</li>
-	<li>2 cups arborio rice</li>
+	<li>1 tablespoon <a href="https://www.amazon.com/dp/B07N18W9Y4?tag=herb-hugo-20">aged balsamic vinegar</a> (the thick, syrupy, expensive stuff - optional)</li>
+	<li>2 cups <a href="https://www.amazon.com/dp/B00112UBOG?tag=herb-hugo-20">arborio rice</a></li>
 	<li>1 cup dry white wine</li>
 	<li>1/2 cup cryo-blanched and peeled fava beans (see headnote)</li>
 	<li>1/2 cup Parmigiano Reggiano + more for garnish</li>
@@ -52,9 +52,9 @@ Whichever way you make risotto, I highly recommend finishing with <em>mantecare
 <span style="text-decoration: underline;"><em>Pressure-cooker variation</em></span>
 <ol>
 	<li>Same as above.</li>
-	<li>Do this in the <a href="http:/" target="_blank" rel="nofollow">pressure cooker</a> base, then reserve the mushrooms.</li>
+	<li>Do this in the <a href="https://www.amazon.com/dp/B0813VGM8V?tag=herb-hugo-20">pressure cooker</a> base, then reserve the mushrooms.</li>
 	<li>Same as above.</li>
-	<li>Warm your serving bowls. Heat 2 tablespons of olive oil in the <a href="http:/" target="_blank" rel="nofollow">pressure cooker</a> base over medium-high heat. Add the rice, and cook, stirring frequently, until the rice appears somewhat translucent, about 2 minutes. Stir in the wine and stir until it evaporates. Add the mushrooms and 4 cups water. Bring to high pressure and cook for 5 minutes and 30 seconds. Release pressure quickly according to manufacturer's instructions. (Often by running under cold water). Check a grain to be sure it is correctly al dente. If still too firm, cook a little bit more without pressure, and remember to add an additional 30 seconds next time.</li>
+	<li>Warm your serving bowls. Heat 2 tablespons of olive oil in the <a href="https://www.amazon.com/dp/B0813VGM8V?tag=herb-hugo-20">pressure cooker</a> base over medium-high heat. Add the rice, and cook, stirring frequently, until the rice appears somewhat translucent, about 2 minutes. Stir in the wine and stir until it evaporates. Add the mushrooms and 4 cups water. Bring to high pressure and cook for 5 minutes and 30 seconds. Release pressure quickly according to manufacturer's instructions. (Often by running under cold water). Check a grain to be sure it is correctly al dente. If still too firm, cook a little bit more without pressure, and remember to add an additional 30 seconds next time.</li>
 	<li>Same as above. If too dry, stir in additional simmering water.</li>
 	<li>Same as above.</li>
 </ol>

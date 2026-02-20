@@ -20,4 +20,4 @@ Pros:
 
 The only negative I can point to is that it isn't the heaviest duty item in the world; I do wash mine by hand (which just takes a second) to extend the life and I have used it regularly for a few years with no problems at all. 
 
-Find the citrus juicer I recommend on Amazon.
+Find the <a href="https://www.amazon.com/dp/B0002BFZ16?tag=herb-hugo-20">citrus juicer</a> I recommend on Amazon.
