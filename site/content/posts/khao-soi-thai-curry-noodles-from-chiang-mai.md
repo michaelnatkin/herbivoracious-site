@@ -31,13 +31,13 @@ My version isn’t completely authentic; I skip making a second chili sauce (nam
   <h3>Ingredients</h3>
   <h4>FOR THE CURRY PASTE</h4>
 <ul>
-  <li>5 large, whole dried red chiles (such as pasilla, ancho, or New Mexico), stemmed but not seeded</li>
+  <li>5 large, whole dried red chiles (such as <a href="https://www.amazon.com/dp/B07VGSD7L7?tag=herb-hugo-20">pasilla, ancho, or New Mexico</a>), stemmed but not seeded</li>
   <li>1/2 cup diced shallot</li>
   <li>2 teaspoons grated fresh ginger</li>
   <li>1 garlic clove, peeled and sliced</li>
   <li>1/2 teaspoon coriander seed</li>
-  <li>1 teaspoon ground turmeric</li>
-  <li>2 teaspoons garam masala or other Indian spice mix of your choice</li>
+  <li>1 teaspoon <a href="https://www.amazon.com/dp/B000VK49YM?tag=herb-hugo-20">ground turmeric</a></li>
+  <li>2 teaspoons <a href="https://www.amazon.com/dp/B00309S13Q?tag=herb-hugo-20">garam masala</a> or other Indian spice mix of your choice</li>
 </ul>
 <h4>FOR THE CRISPY NOODLES</h4>
 <ul>
@@ -53,7 +53,7 @@ My version isn’t completely authentic; I skip making a second chili sauce (nam
 </ul>
 <h4>FOR THE PICKLED VEGETABLE</h4>
 <ul>
-  <li>1 cup Chinese pickled mustard greens</li>
+  <li>1 cup <a href="https://www.amazon.com/dp/B00IR5HVH0?tag=herb-hugo-20">Chinese pickled mustard greens</a></li>
   <li>*OR* 1 cup Sichuan pickled vegetable (see page 000)</li>
   <li>*OR* 1 cup sliced napa cabbage (1/8 inch thick) tossed with 1/4 cup white vinegar and 1/2 teaspoon kosher salt</li>
 </ul>
@@ -67,7 +67,7 @@ My version isn’t completely authentic; I skip making a second chili sauce (nam
   <h3>Instructions</h3>
   <h4>For the curry paste</h4>
 <ol>
-  <li>Place a medium skillet over medium heat. Put the chiles in the pan and dry-toast them for 2 minutes. Add the shallot, ginger, and garlic and continue to cook, tossing once or twice, until the chiles are very fragrant but not burning. Add the coriander seeds, turmeric, and garam masala, toss to combine, and remove from the heat. Let cool slightly, then puree in a mini-food processor (or with a mortar and pestle), adding about 1/4 cup of water (or more as needed) to form a coarse paste.</li>
+  <li>Place a medium skillet over medium heat. Put the chiles in the pan and dry-toast them for 2 minutes. Add the shallot, ginger, and garlic and continue to cook, tossing once or twice, until the chiles are very fragrant but not burning. Add the coriander seeds, turmeric, and garam masala, toss to combine, and remove from the heat. Let cool slightly, then puree in a mini-food processor (or with a <a href="https://www.amazon.com/dp/B0CRHP5G3P?tag=herb-hugo-20">mortar and pestle</a>), adding about 1/4 cup of water (or more as needed) to form a coarse paste.</li>
 </ol>
 <h4>For the crispy noodles</h4>
 <ol>

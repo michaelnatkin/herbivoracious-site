@@ -14,7 +14,7 @@ cover:
 
 <p>Rice and Peas is a classic Jamaican dish, traditionally served on Sundays. Peas in this case actually refer to kidney beans, pigeon peas or cowpeas. The rice is richly flavored with coconut milk, garlic, crushed green onions, thyme, and, if you dare, a Scotch Bonnet or habanero pepper.</p>
 <p>Even though the pepper is left whole, it will still infuse the dish with a subtle bit of heat if you choose to use it. For a bit more spice, cut a slit in the pepper, and if you are really crazy you can cut it up – wearing rubber gloves!</p>
-<p>I prefer to make Rice and Peas in a rice cooker, but if you want to do it on the stovetop, the recipe below offers both options.</p>
+<p>I prefer to make Rice and Peas in a <a href="https://www.amazon.com/dp/B007WQ9YNO?tag=herb-hugo-20">rice cooker</a>, but if you want to do it on the stovetop, the recipe below offers both options.</p>
 <p>If you make the beans from scratch, you can substitute 1 cup of the bean liquid for part of the water in the recipe for a “dirty rice” look with a slightly earthier flavor.</p>
 
 
@@ -27,8 +27,8 @@ cover:
 <br /><em>Vegan & Gluten-free / Serves 4  / 10 minutes active (40 minutes total)</em>
 </p>
 <ul>
-<li>2 cups basmati rice (or 3 measures with the cup that comes with most rice makers)</li>
-<li>1 14 oz. can coconut milk</li>
+<li>2 cups <a href="https://www.amazon.com/dp/B00I330QEQ?tag=herb-hugo-20">basmati rice</a> (or 3 measures with the cup that comes with most rice makers)</li>
+<li>1 14 oz. can <a href="https://www.amazon.com/dp/B000SRKCGM?tag=herb-hugo-20">coconut milk</a></li>
 <li>4 green onions cooked with the rice + 1 for garnish</li>
 <li>1 ½ cups cooked kidney (or other beans, see above), drained</li>
 <li>2 cloves garlic, chopped</li>

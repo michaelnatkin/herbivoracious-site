@@ -300,3 +300,106 @@ http://localhost:1313/2008/06/gougeres-chee/ — 1 new link added, 2 existing li
 http://localhost:1313/2009/03/grape-honey-yogurt-recipe/ — 2 new links added, 3 existing links updated (2 out-of-stock replaced, 1 tag/URL modernized to herb-hugo-20).
 2 posts modified, 0 skipped.
 --- Individual run finished at Thu Feb 19 2026 ---
+--- Batch run #7 finished at Thu Feb 19 17:22:52 PST 2026 ---
+Individual post run — greek-green-bean-salad-recipe and green-garlic-and-mint-potato-salad-recipe:
+
+| Post | New Links | Updated Links | Notes |
+|------|-----------|---------------|-------|
+| greek-green-bean-salad-recipe | 3 | 0 | fresh marjoram (B08LCKK4WV, The Spice Way, $6.99), Taggiascas olives (B07HY8DW8L, Taggiasca Olives Benza, $15.50), immersion circulator (B094921FYY, Wancle Sous Vide, $41.99) |
+| green-garlic-and-mint-potato-salad-recipe | 1 | 1 | Vegenaise (B000QJAFY6, Follow Your Heart 32oz, $11.49); Maldon salt tag updated poeticlicen07-20 → herb-hugo-20 + upgraded to https, target attribute removed |
+
+http://localhost:1313/2013/02/greek-green-bean-salad-recipe/ — 3 new links added, 0 updated.
+http://localhost:1313/2012/06/green-garlic-and-mint-potato-salad-recipe/ — 1 new link added, 1 existing link updated (tag + URL modernized to herb-hugo-20).
+2 posts modified, 0 skipped.
+--- Individual run finished at Thu Feb 19 2026 ---
+--- Batch run #8 finished at Thu Feb 19 17:26:10 PST 2026 ---
+Batch 20/55 is complete. Summary:
+
+- **6 posts modified** with new/updated Amazon affiliate links (10 insertions, 10 replacements)
+- **4 posts skipped** — no suitable link opportunities
+- Bead `herbvivoracious-migration-2qo` closed
+- 2 commits made, **not pushed** per your instructions
+
+Note: `fresh-fettucini-with-ricotta-spring-onions-and-duck-egg-recipe.md` and `amazon-batches.log` have uncommitted changes from a prior session — left untouched.
+--- Batch run #9 finished at Thu Feb 19 17:29:23 PST 2026 ---
+Batch 21/55 complete. Here's the summary:
+
+| Post | Result |
+|------|--------|
+| homemade-caraway-rye-crackers-recipe | **Modified** — 2 existing links updated, 2 new (rye flour, caraway seeds) |
+| how-do-you-get-your-protein... | **Modified** — 2 new links (sunflower butter, Flax Plus cereal) |
+| how-many-rams-c | **Modified** — 1 new link (rambutan in syrup) |
+| how-to-clean-a | **Modified** — 1 new link (cast iron skillet) |
+| how-to-find-a-g | Skipped — tips article, no products |
+| how-to-make-a-d | Skipped — all common pantry staples |
+| how-to-make-an-inside-out-egg-recipe | **Modified** — 1 out-of-stock replaced, 3 tags updated |
+| how-to-make-tofu-really-freaking-delicious... | **Modified** — 1 search URL fixed, 4 tags updated |
+| how-to-plan-a-vegetarian-meal... | Skipped — conceptual article, no products |
+| huevos-ahogados-drowned-eggs-recipe | **Modified** — 2 existing tags updated |
+
+**7/10 posts modified, 3 skipped.** Committed and bead closed. Not pushed (as requested).
+--- Batch run #10 finished at Thu Feb 19 17:32:50 PST 2026 ---
+Individual post run — hummus-peace-su:
+
+| Post | New Links | Updated Links | Notes |
+|------|-----------|---------------|-------|
+| hummus-peace-su | 2 | 0 | sesame tahini (B0D82M5SWZ, Soom Foods Organic Tahini, $9.99), pine nuts (B0DZ1FGKN2, Really Good Nuts 1lb, $17.45) |
+
+http://localhost:1313/2007/10/hummus-peace-su/ — 2 new links added, 0 updated.
+1 post modified, 0 skipped.
+Individual post run — im-going-to-work-at-chefsteps-and-maybe-you-should-too and indian-fry-bread-tacos-recipe:
+
+| Post | New Links | Updated Links | Notes |
+|------|-----------|---------------|-------|
+| im-going-to-work-at-chefsteps-and-maybe-you-should-too | 0 | 0 | Skipped — announcement post, no recipe/ingredients/tools |
+| indian-fry-bread-tacos-recipe | 2 | 0 | Mexican oregano (B000B6J4RI, McCormick Gourmet, $4.58); deep fry thermometer (B00004XSC9, Taylor 12", $11.69) |
+
+http://localhost:1313/2012/11/im-going-to-work-at-chefsteps-and-maybe-you-should-too/ — skipped (announcement post)
+http://localhost:1313/2011/11/indian-fry-bread-tacos-recipe/ — 2 new links added, 0 updated.
+1 post modified, 1 skipped.
+--- Individual run finished at Thu Feb 19 2026 ---
+Individual post run — i-like-you-hospitality-under-the-influence and ilans-top-chef-fideos:
+
+| Post | New Links | Updated Links | Notes |
+|------|-----------|---------------|-------|
+| i-like-you-hospitality-under-the-influence-by-amy-sedaris-cookbook-review | 2 | 2 tag fixes | cardamom (B00AJRKO8M, Simply Organic, $12.94), sesame seeds (B07VYPWBQ8, Happy Belly 3oz, $2.79); 2 existing "I Like You" book links updated poeticlicen07-20 → herb-hugo-20 + URLs modernized |
+| ilans-top-chef-fideos-vegetarian-style-with-a-review-of-the-top-chef-cookbook | 2 | 2 tag fixes | saffron threads (B072K71972, Golden Saffron 2g, $17.95), fideos pasta (B00FR6XI9W, Barilla Fideo Cut Spaghetti, $1.99); 2 existing Top Chef Cookbook links updated poeticlicen07-20 → herb-hugo-20 + URLs modernized |
+
+http://localhost:1313/2008/11/i-like-you-hospitality-under-the-influence-by-amy-sedaris-cookbook-review/ — 2 new links added, 2 existing links updated (tags + URLs modernized to herb-hugo-20).
+http://localhost:1313/2008/12/ilans-top-chef-fideos-vegetarian-style-with-a-review-of-the-top-chef-cookbook/ — 2 new links added, 2 existing links updated (tags + URLs modernized to herb-hugo-20).
+2 posts modified, 0 skipped.
+--- Individual run finished at Thu Feb 19 2026 ---
+Individual post run — hummus-peace-su and hungry-ghost-moroccan-carrot-salad-recipe:
+
+| Post | New Links | Updated Links | Notes |
+|------|-----------|---------------|-------|
+| hummus-peace-su | 2 | 0 | sesame tahini (B0D82M5SWZ, Soom Foods Organic Tahini, $9.99), pine nuts (B0DZ1FGKN2, Really Good Nuts 1lb, $17.45) |
+| hungry-ghost-moroccan-carrot-salad-recipe | 2 | 1 | Aleppo pepper (B071KH1X16, The Spice Way, $6.99), agave nectar (B0078DP4IK, Organic Agave In The Raw, $5.46); Feeding the Hungry Ghost tag updated poeticlicen07-20 → herb-hugo-20 + URL modernized to https |
+
+http://localhost:1313/2007/10/hummus-peace-su/ — 2 new links added, 0 updated.
+http://localhost:1313/2013/05/hungry-ghost-moroccan-carrot-salad-recipe/ — 2 new links added, 1 existing link updated (tag + URL modernized to herb-hugo-20).
+2 posts modified, 0 skipped.
+--- Individual run finished at Thu Feb 19 2026 ---
+--- Batch run #11 finished at Thu Feb 19 17:37:40 PST 2026 ---
+Individual post run — khao-soi-thai-curry-noodles-from-chiang-mai and kicking-it-old-school:
+
+| Post | New Links | Updated Links | Notes |
+|------|-----------|---------------|-------|
+| khao-soi-thai-curry-noodles-from-chiang-mai | 5 | 0 | pasilla/ancho chiles (B07VGSD7L7), ground turmeric (B000VK49YM), garam masala (B00309S13Q), Chinese pickled mustard greens (B00IR5HVH0), mortar and pestle (B0CRHP5G3P) |
+| kicking-it-old-school | 0 | 0 | Skipped — throwback/roundup post linking to two other posts; no recipe, ingredients, or tools of its own |
+
+http://localhost:1313/2013/04/khao-soi-thai-curry-noodles-from-chiang-mai/ — 5 new links added, 0 updated.
+http://localhost:1313/2009/06/kicking-it-old-school/ — skipped (roundup/throwback post, no link opportunities).
+1 post modified, 1 skipped.
+--- Individual run finished at Thu Feb 19 2026 ---
+Individual post run — island-style-sweet-and-spicy-cabbage-recipe and italian-plum-upside-down-cake-recipe:
+
+| Post | New Links | Updated Links | Notes |
+|------|-----------|---------------|-------|
+| island-style-sweet-and-spicy-cabbage-recipe | 3 | 0 | Dijon mustard (B000RK4BFI, Grey Poupon, $4.27), scotch bonnet sauce (B00U9W5YFK, Spur Tree Jamaican, $8.59), wok (B09GRXQGRN, Babish Carbon Steel 14", $44.99) |
+| italian-plum-upside-down-cake-recipe | 2 | 1 | muscovado sugar (B000H7LXRK, India Tree Dark Muscovado, $14.99), springform pan (B07L8S4PM5, HIWARE 8", $13.29); cookbook link (1558327452) updated poeticlicen07-20 → herb-hugo-20 + URL modernized |
+
+http://localhost:1313/2010/08/island-style-sweet-and-spicy-cabbage-recipe/ — 3 new links added, 0 updated.
+http://localhost:1313/2013/09/italian-plum-upside-down-cake-recipe/ — 2 new links added, 1 existing link updated (tag + URL modernized to herb-hugo-20).
+2 posts modified, 0 skipped.
+--- Individual run finished at Thu Feb 19 2026 ---
