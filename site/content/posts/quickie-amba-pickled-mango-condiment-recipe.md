@@ -15,7 +15,7 @@ A few weeks ago, I visited <a href="http://glutenfreegirl.com/">Shauna and Dan<
 
 <strong>But what is amba, you ask?</strong> Well, it is a sort of pickled mango condiment, and it isn't all that easy to find. In fact, I've seen it only once in America, and I didn't have any on hand for the video. So I thought I'd try to come up with a reasonable substitute, and actually I like this version better than the original - so much so that I'm going to put it on the <a href="/cookbook-errata/">cookbook errata page</a>.
 
-In fact, this is well worth making for any Middle Eastern meal. I used it the other night to complement a simple rice and chickpea pilaf, and I'd happily eat it with these <a href="/2010/07/chickpea-cakes-recipe/">chickpea cakes</a> or even a <a href="/2012/08/zucchini-chickpea-tagine-recipe/">tagine</a>. It uses <a href="http://www.amazon.com/dp/B0012S9NU2/?tag=poeticlicen07-20" target="_blank">preserved lemon</a> and <a href="http://www.amazon.com/dp/B0012WF8P2/?tag=poeticlicen07-20" target="_blank">harissa</a> but you should have them in your kitchen anyhow, they are a whole lot of delicious in small packages. I've linked products from Mustapha's Moroccan because I use them and like them a lot.
+In fact, this is well worth making for any Middle Eastern meal. I used it the other night to complement a simple rice and chickpea pilaf, and I'd happily eat it with these <a href="/2010/07/chickpea-cakes-recipe/">chickpea cakes</a> or even a <a href="/2012/08/zucchini-chickpea-tagine-recipe/">tagine</a>. It uses <a href="https://www.amazon.com/dp/B0012S9NU2?tag=herb-hugo-20" target="_blank">preserved lemon</a> and <a href="https://www.amazon.com/dp/B0012WF8P2?tag=herb-hugo-20" target="_blank">harissa</a> but you should have them in your kitchen anyhow, they are a whole lot of delicious in small packages. I've linked products from Mustapha's Moroccan because I use them and like them a lot.
 
 <div class="recipe-card">
 <strong>Quickie Amba (Pickled Mango</strong> Condiment)
@@ -23,8 +23,8 @@ In fact, this is well worth making for any Middle Eastern meal. I used it the ot
 <em>Makes enough to serve at a meal for 6, easily</em>
 <ul>
 	<li>1/2 mango, finely diced (slightly underripe is better, but not rock hard)</li>
-	<li>1/4 <a href="http://www.amazon.com/dp/B0012S9NU2/?tag=poeticlicen07-20" target="_blank">preserved lemon</a>, pips removed, minced (check ingredients if you need gluten free)</li>
-	<li>1 teaspoon <a href="http://www.amazon.com/dp/B0012WF8P2/?tag=poeticlicen07-20" target="_blank">harissa</a>  (check ingredients if you need gluten free)</li>
+	<li>1/4 <a href="https://www.amazon.com/dp/B0012S9NU2?tag=herb-hugo-20" target="_blank">preserved lemon</a>, pips removed, minced (check ingredients if you need gluten free)</li>
+	<li>1 teaspoon <a href="https://www.amazon.com/dp/B0012WF8P2?tag=herb-hugo-20" target="_blank">harissa</a>  (check ingredients if you need gluten free)</li>
 </ul>
 <div>
 <ol>

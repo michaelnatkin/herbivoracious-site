@@ -12,11 +12,11 @@ cover:
 <a style="display: inline;" href="/images/old/6a00e008d618bb88340120a9614a86970b-800wi.jpg" rel="lightbox"><img class="asset asset-image at-xid-6a00e008d618bb88340120a9614a86970b " src="/images/old/6a00e008d618bb88340120a9614a86970b-500wi.jpg" alt="Pupusas_De_Queso_Con_Curtido" /></a>
 <em>Pupusas de queso</em>
 
-Pupusas are El Salvador's best known national delicacy. The concept is simple, just corn masa with a savory filling and flattened into a thick disc, then baked on a lightly-greased griddle or in a <a href="http://www.amazon.com/dp/B00006JSUB/?tag=poeticlicen07-20" target="_blank">cast-iron skillet</a>. Essentially like a quesadilla, though there is something different about the taste when the filling is cooked at the same time as the dough instead of in a second pass. They are also quite similar to the arepas of South America.
+Pupusas are El Salvador's best known national delicacy. The concept is simple, just corn masa with a savory filling and flattened into a thick disc, then baked on a lightly-greased griddle or in a <a href="https://www.amazon.com/dp/B00006JSUB?tag=herb-hugo-20">cast-iron skillet</a>. Essentially like a quesadilla, though there is something different about the taste when the filling is cooked at the same time as the dough instead of in a second pass. They are also quite similar to the arepas of South America.
 
 The most common vegetarian fillings for pupusas are cheese, refried beans (if they don't contain lard), and loroco (a flower bud which can be hard to find in America.) For cheese pupusas, a soft, fresh quesillo would be most traditional. If you can't find that, any mild, meltable cheese can work well. While not traditional, fresh goat cheese (chevre) is also delicious.
 
-Pupusas can be shaped entirely by hand (as I did in the picture above), or using a tortilla press for a more uniform thickness and neat look.
+Pupusas can be shaped entirely by hand (as I did in the picture above), or using a <a href="https://www.amazon.com/dp/B0000CF4N9?tag=herb-hugo-20">tortilla press</a> for a more uniform thickness and neat look.
 
 Curtido is the classic accompaniment to pupusas. It is a simple and vinegary cabbage slaw which cuts through the richness of the filling. I find it addictive and will eat any leftovers as a condiment with rice or whatever else I can get my hands on. I've included a recipe for that as well.
 
@@ -26,13 +26,13 @@ I've been on a big masa kick lately. Pupusas are a great and gentle introduction
 <em>Vegetarian and gluten-free; not vegan unless you use vegan cheese
 Makes about 14, serves 4-6</em>
 <ul>
-	<li>3 cups masa harina (MaSeCa is a common brand; Bob's Red Mill makes a tasty one)</li>
+	<li>3 cups <a href="https://www.amazon.com/dp/B00032CRGO?tag=herb-hugo-20">masa harina</a> (MaSeCa is a common brand; Bob's Red Mill makes a tasty one)</li>
 	<li>1 3/4 cups warm water (and probably more)</li>
 	<li>1 1/2 cups grated cheese (see above for choices)</li>
 </ul>
 <ol>
 	<li>Thoroughly mix the masa harina and water, first with a spoon and then get in there with your hands. You want a moist, firm dough. I'd compare it to Play-Do. You should be able to form it without cracking. Add more water a little at a time as needed. Let rest, covered, at least 10 minutes.</li>
-	<li>Preheat a griddle or cast-iron skillet to medium and grease lightly. I used my favorite 12" <a href="http://www.amazon.com/dp/B00006JSUB/?tag=poeticlicen07-20" target="_blank">cast-iron skillet</a> and could cook 3 at a time.</li>
+	<li>Preheat a griddle or cast-iron skillet to medium and grease lightly. I used my favorite 12" <a href="https://www.amazon.com/dp/B00006JSUB?tag=herb-hugo-20">cast-iron skillet</a> and could cook 3 at a time.</li>
 	<li>Moisten your hands lightly. Break off a piece of dough and form a ball about 1 3/4" or so in diameter. Use your thumb to press a deep well in the ball, making it almost into a bowl. Put about 1 1/2 tablespoons of cheese in the middle. Close the ball over the filling and squeeze to seal. Using either a tortilla press or your hands, flatten into a circle about 5" in diameter.</li>
 	<li>Cook each pupusa for about 3 minutes on each side until golden brown. Press down a little to be sure you have contact over the whole surface. When done, you can hold them in a 200 degree oven for a few minutes while you complete the batch.</li>
 </ol>
@@ -45,7 +45,7 @@ Makes: a lot</em>
 	<li>1 large carrot, peeled and grated</li>
 	<li>1/2 onion, thinly sliced</li>
 	<li>1/2 teaspoon cayenne pepper (or you could use a fresh jalapeno or two)</li>
-	<li>1/2 teaspoon oregano (preferably Mexican oregano)</li>
+	<li>1/2 teaspoon oregano (preferably <a href="https://www.amazon.com/dp/B00BKZM0OU?tag=herb-hugo-20">Mexican oregano</a>)</li>
 	<li>1 teaspoon olive oil</li>
 	<li>1 teaspoon salt</li>
 	<li>1 teaspoon brown sugar</li>
