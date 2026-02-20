@@ -17,11 +17,11 @@ Vegetarian Lasagna Recipe with Spinach and Ricotta Filling
 
 I make mine without a bechamel sauce, opting for a spinach and ricotta mixture to provide the creaminess. I also prefer it to set up to a fairly firm, <strong>sliceable</strong> "pie", but if you like a wetter version, you could do the sauce 1.5 x or even double.
 
-I love to bake it in this <a href="http://www.amazon.com/dp/B00022O6YM/?tag=poeticlicen07-20" target="_blank">Emile Henry lasagna pan</a> - it looks beautiful and homey at the same time. We've given that pan as a wedding gift, too - because what says home more than a nice lasagna?
+I love to bake it in this <a href="https://www.amazon.com/dp/B00022O6YM?tag=herb-hugo-20" target="_blank">Emile Henry lasagna pan</a> - it looks beautiful and homey at the same time. We've given that pan as a wedding gift, too - because what says home more than a nice lasagna?
 
 The keys to a great veggie lasagna are (1) get all the liquid out of the veggies, (2) get the cheese on top <strong>really</strong> <strong>crispy</strong>. You don't want to go too heavy on the vegetables, otherwise you can get a lot of weeping and/or unpleasant crunchiness. For this version, the only thing I added besides the spinach was some sauteed cauliflower. If you'd like more vegetables but no weeping liquid, check out this <a href="/2009/09/summer-squas-and-portobello-vegetarian-lasagna-recipe/" target="_blank">summer squash and portobello mushroom lasagna</a> variation.
 
-I often make this with <a href="http://www.amazon.com/dp/B003EXVM66/?tag=poeticlicen07-20" target="_blank">no-boil lasagna noodles</a>. They are pretty much just standard noodles except rolled thinner, so that they simply cook in the sauce while the lasagna bakes. I would say they are 87.3% as good as traditional. Perhaps a slight pastiness, but quite acceptable. They need more sauce to ensure proper moistening. If you want to use regular noodles, just boil them first according to package directions and simmer the tomato sauce a bit more to thicken it (or use less of it).
+I often make this with <a href="https://www.amazon.com/dp/B003EXVM66?tag=herb-hugo-20" target="_blank">no-boil lasagna noodles</a>. They are pretty much just standard noodles except rolled thinner, so that they simply cook in the sauce while the lasagna bakes. I would say they are 87.3% as good as traditional. Perhaps a slight pastiness, but quite acceptable. They need more sauce to ensure proper moistening. If you want to use regular noodles, just boil them first according to package directions and simmer the tomato sauce a bit more to thicken it (or use less of it).
 
 <em>
 </em>

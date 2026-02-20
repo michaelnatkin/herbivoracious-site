@@ -53,7 +53,7 @@ Iceberg lettuce? <strong>I love iceberg lettuce. There, I said it.</strong> It i
  	<li>1 pound yellow summer squash, bite-sized cubes (about 3 medium)</li>
  	<li>kernels from 2 ears of corn</li>
  	<li>4 poblano peppers, roasted, peeled, seeded, and cut into strips (rajas) (use rubber gloves to avoid burning skin)</li>
- 	<li>2 teaspoons Mexican oregano</li>
+ 	<li>2 teaspoons <a href="https://www.amazon.com/dp/B0851SDG7Y?tag=herb-hugo-20">Mexican oregano</a></li>
  	<li>salt</li>
 </ul>
 <ol>
@@ -67,7 +67,7 @@ Iceberg lettuce? <strong>I love iceberg lettuce. There, I said it.</strong> It i
  	<li>1 cup cherry tomatoes, halved</li>
  	<li>2 cups shredded iceberg lettuce</li>
  	<li>1 1/2 cups <a href="/2009/11/ridiculously-good-guacamole-recipe/" target="_blank" rel="noopener">killer guacamole</a></li>
- 	<li><a href="/2009/11/aji-amarillo-hot-sauce-from-peruvian-chile-peppers-recipe/" target="_self" rel="noopener">homemade hot sauce</a> (but with morita and California dried peppers)</li>
+ 	<li><a href="/2009/11/aji-amarillo-hot-sauce-from-peruvian-chile-peppers-recipe/" target="_self" rel="noopener">homemade hot sauce</a> (but with <a href="https://www.amazon.com/dp/B0821P2R3G?tag=herb-hugo-20">morita</a> and California dried peppers)</li>
 </ul>
 <ol>
  	<li>Put a fry bread on each plate, and top with generous portions of beans, the squash saute cheese, onion, tomatoes, lettuce, guacamole and hot sauce. Serve immediately.</li>
