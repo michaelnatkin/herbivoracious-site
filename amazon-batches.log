@@ -757,3 +757,20 @@ Done. Batch 45/55 complete:
 - Committed as `3657ff9`, bead closed, synced. Not pushed.
 --- Batch run #4 finished at Thu Feb 19 21:32:30 PST 2026 ---
 Batch 46/55: 9 of 10 posts modified (supertaster-tes.md skipped - no recipe)
+Batch 46/55 complete. Summary:
+
+| Post | Result |
+|------|--------|
+| summer-leftover.md | +2 links (pepperoncini, aged balsamic) |
+| summer-risotto.md | +4 links (broth powder, carnaroli rice, food processor, mesh sieve) |
+| summer-salad-amuse-bouche-recipe.md | 1 existing link updated (affiliate tag) |
+| summer-squas-and-portobello-vegetarian-lasagna-recipe.md | +1 link (no-boil lasagna noodles) |
+| sunflower-butter-cookies-recipe.md | +2 links (Maldon salt, silpats) |
+| super-spicy-tofu-and-peppers-or-ok-fine-mild-if-you-prefer-recipe.md | +2 links (tamari, sesame oil) |
+| supertaster-tes.md | Skipped — no recipe content |
+| swiss-chard-enchiladas-in-a-tomatillo-sauce-recipe.md | 1 updated + 2 new links |
+| swiss-chard-with-garlic-and-yogurt-recipe.md | 1 updated + 2 new links |
+| tarragon-bechamel-recipe.md | +1 link (dried tarragon) |
+
+**9 of 10 posts modified**, ~16 new links added, 3 existing links updated. Not pushed per instructions.
+--- Batch run #5 finished at Thu Feb 19 22:00:07 PST 2026 ---
