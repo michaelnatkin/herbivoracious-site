@@ -28,12 +28,12 @@ cover:
 <ul>
 <li>4 tablespoons unsalted butter</li>
 <li>2 turnips, about 3” diameter, peeled and sliced into ¼” thick half-moons (about 20 half-moons total)</li>
-<li>flaky sea salt</li>
+<li><a href="https://www.amazon.com/dp/B00017028M?tag=herb-hugo-20">flaky sea salt</a></li>
 <li>4 large button or crimini mushrooms, cut into ¼” thick slices</li>
 <li>1 clove garlic, minced</li>
 <li>1 head frisee, core removed, rinsed and thoroughly dried</li>
-<li>2 tablespoons champagne vinegar or sherry vinegar</li>
-<li>½ cup toasted hazelnuts</li>
+<li>2 tablespoons <a href="https://www.amazon.com/dp/B07CQQ35PK?tag=herb-hugo-20">champagne vinegar</a> or sherry vinegar</li>
+<li>½ cup <a href="https://www.amazon.com/dp/B0797CV511?tag=herb-hugo-20">toasted hazelnuts</a></li>
 <li>fresh ground black pepper</li>
 </ul>
 <ol>

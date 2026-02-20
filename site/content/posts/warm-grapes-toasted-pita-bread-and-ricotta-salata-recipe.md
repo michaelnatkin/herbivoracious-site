@@ -19,24 +19,24 @@ Ricotta salata is a variation on fresh ricotta that has been pressed and salted.
 
 I'm hard pressed to choose a favorite set of spices to flavor this dish, so I've offered a few options below. If you twisted my arm, I'd probably pick the "fresh zaatar" variation, but try a few and and let me know which you like best.
 
-Oh, and a bit of news: the <a href="http://www.amazon.com/gp/product/1558327452/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=1558327452&amp;linkCode=as2&amp;tag=poeticlicen07-20" target="_blank">cookbook I'm working on</a> has had a schedule change. It will now be released by Harvard Common Press in spring 2012, rather than fall 2012 as we previously thought. I'm really excited to have it on shelves soon!
+Oh, and a bit of news: the <a href="https://www.amazon.com/dp/1558327452?tag=herb-hugo-20">cookbook I'm working on</a> has had a schedule change. It will now be released by Harvard Common Press in spring 2012, rather than fall 2012 as we previously thought. I'm really excited to have it on shelves soon!
 
 <div class="recipe-card">
 <strong>Warm Grapes, Toasted Pita Bread and Ricotta Salata</strong>
 <em>Vegetarian / Serves 2 / 10 minutes</em>
 <ul>
 	<li>2 tablespoons extra-virgin olive oil + more for drizzling</li>
-	<li>pinch of chili flakes or <a href="http://amzn.to/gzzITL" target="_blank">Aleppo pepper</a></li>
+	<li>pinch of chili flakes or <a href="https://www.amazon.com/dp/B000X5IPWM?tag=herb-hugo-20">Aleppo pepper</a></li>
 	<li>1 thick pita bread cut into 1/2" squares</li>
 	<li>1 cup grapes, halved (and seeded if neceessary)</li>
 	<li>squeeze of lemon juice</li>
 	<li>Choose one of these spice mixtures (2-4 teaspoons total):
 <ul>
 	<li>Toasted fennel and cumin seed</li>
-	<li><a href="http://amzn.to/evJEm8" target="_blank">Zaatar</a></li>
+	<li><a href="https://www.amazon.com/dp/B0CQMTLDF3?tag=herb-hugo-20">Zaatar</a></li>
 	<li>"Fresh zaatar" - toasted sesame seeds, sumac, fresh thyme leaves</li>
-	<li><a href="http://amzn.to/evJEm8" target="_blank">Dukkah</a></li>
-	<li><a href="http://amzn.to/gJTakK" target="_blank">Ras al hanout</a></li>
+	<li><a href="https://www.amazon.com/dp/B005MSBD4C?tag=herb-hugo-20">Dukkah</a></li>
+	<li><a href="https://www.amazon.com/dp/B0721RPQJ3?tag=herb-hugo-20">Ras al hanout</a></li>
 </ul>
 </li>
 	<li>2 or 3 ounces ricotta salata cheese, thinly sliced or crumbled</li>

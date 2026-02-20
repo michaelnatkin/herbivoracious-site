@@ -27,8 +27,8 @@ cover:
 <li>4 ripe fresh figs, halved</li>
 <li>¼ cup pomegranate arils</li>
 <li>16 shavings of Parmgiano-Reggiano or other hard aged cheese</li>
-<li>12 toasted walnut halves</li>
-<li>flaky sea salt</li>
+<li>12 <a href="https://www.amazon.com/dp/B08KRC5Q4M?tag=herb-hugo-20">toasted walnut halves</a></li>
+<li><a href="https://www.amazon.com/dp/B00017028M?tag=herb-hugo-20">flaky sea salt</a></li>
 </ul>
 <ol>
 <li>Arrange the slices of watermelon radish in a circle on 4 chlled plates. Drizzle with a little olive oil.</li>

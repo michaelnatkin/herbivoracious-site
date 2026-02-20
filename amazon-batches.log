@@ -885,3 +885,56 @@ http://localhost:1313/2009/03/vietnamese-lemongrass-green-beans-and-tofu-recipe/
 http://localhost:1313/2013/05/vietnamese-salad-rolls-goi-cuon-recipe/ — 2 new links added, 1 existing link updated (tag fix).
 2 posts modified, 1 skipped.
 --- Individual run finished at Fri Feb 20 2026 ---
+Batch 52/55 complete. Here's the summary:
+
+**Modified (4 posts):**
+- `vietnamese-cabbage-and-herb-salad-recipe.md` — 1 new link (shiso/perilla leaf)
+- `vietnamese-lemongrass-green-beans-and-tofu-recipe.md` — 1 new link (wok) + 1 updated (microplane)
+- `vietnamese-salad-rolls-goi-cuon-recipe.md` — 2 new links (sweet chili sauce, rice vermicelli) + 1 updated (rice paper)
+- `wacky-chana-chaat-spicy-chickpea-snack-recipe.md` — 4 new links (amchoor, spice grinder, mortar & pestle, food processor) + 1 updated tag
+
+**Skipped (6 posts):** No link opportunities — recipe roundups, video embeds, and restaurant reviews.
+
+Not pushed to remote per your instructions.
+--- Batch run #11 finished at Fri Feb 20 01:01:42 PST 2026 ---
+Individual post run — what-i-learned-staging-at-canlis, what-i-learned, what-im-doing-t:
+
+| Post | New Links | Updated Links | Notes |
+|------|-----------|---------------|-------|
+| what-i-learned-staging-at-canlis | 0 | 0 | Skipped — restaurant internship narrative; no recipes, specialty ingredients, tools, or cookbooks |
+| what-i-learned | 0 | 0 | Skipped — restaurant internship reflection; no recipes, specialty ingredients, tools, or cookbooks |
+| what-im-doing-t | 0 | 0 | Skipped — brief weekend dinner announcement with photo; only ingredient is fresh asparagus (common produce) |
+
+http://localhost:1313/2010/04/what-i-learned-staging-at-canlis/ — skipped (restaurant internship narrative, no link opportunities).
+http://localhost:1313/2008/02/what-i-learned/ — skipped (restaurant internship reflection, no link opportunities).
+http://localhost:1313/2008/05/what-im-doing-t/ — skipped (brief announcement post, no link opportunities).
+0 posts modified, 3 skipped.
+--- Individual run finished at Fri Feb 20 2026 ---
+Individual post run — welcome-to-our-new-design, welcome-to-the, welsh-cakes-fro:
+
+| Post | New Links | Updated Links | Notes |
+|------|-----------|---------------|-------|
+| welcome-to-our-new-design | 0 | 0 | Skipped — site redesign announcement, no recipe content or specialty items |
+| welcome-to-the | 0 | 0 | Skipped — cooking internship narrative; no recipes, specialty ingredients, or tools |
+| welsh-cakes-fro | 1 | 1 | New: currants (B07Z5M4RQ6, Sun-Maid Zante Currants 8oz, $4.59); Updated: HomeBaking book link converted from old astore.amazon.com format to https://www.amazon.com/dp/1579651747?tag=herb-hugo-20 |
+
+http://localhost:1313/2009/03/welcome-to-our-new-design/ — skipped (design announcement, no link opportunities).
+http://localhost:1313/2007/11/welcome-to-the/ — skipped (internship narrative, no link opportunities).
+http://localhost:1313/2007/10/welsh-cakes-fro/ — 1 new link added, 1 existing link updated (old astore URL modernized to dp format with herb-hugo-20 tag).
+1 post modified, 2 skipped.
+--- Individual run finished at Fri Feb 20 2026 ---
+Individual post run — warm-fennel-salad-with-pears-and-candied-pumpkin-seeds-recipe, warm-frisee-salad-with-brown-butter-vinaigrette-recipe, warm-grapes-toasted-pita-bread-and-ricotta-salata-recipe, watermelon-radish-and-watercress-salad-recipe:
+
+| Post | New Links | Updated Links | Notes |
+|------|-----------|---------------|-------|
+| warm-fennel-salad-with-pears-and-candied-pumpkin-seeds-recipe | 2 | 3 | New: hulled pumpkin seeds (B07TVJ9GSD), ancho chili powder (B006NIPC5Q); Updated: smoked paprika, Maldon salt, silpat (old tags → herb-hugo-20, amzn.to → dp URLs) |
+| warm-frisee-salad-with-brown-butter-vinaigrette-recipe | 3 | 0 | New: flaky sea salt (B00017028M, Maldon), champagne vinegar (B07CQQ35PK, O Olive), toasted hazelnuts (B0797CV511, Nature's Garden) |
+| warm-grapes-toasted-pita-bread-and-ricotta-salata-recipe | 3 | 2 | New: Zaatar (B0CQMTLDF3), Dukkah (B005MSBD4C), Ras al hanout (B0721RPQJ3); Updated: Aleppo pepper (amzn.to → dp), cookbook link (gp/product → dp format); both old tags → herb-hugo-20 |
+| watermelon-radish-and-watercress-salad-recipe | 2 | 0 | New: flaky sea salt (B00017028M, Maldon), toasted walnut halves (B08KRC5Q4M, Diamond of California) |
+
+http://localhost:1313/2011/03/warm-fennel-salad-with-pears-and-candied-pumpkin-seeds-recipe/ — 2 new links, 3 updated
+http://localhost:1313/2012/09/warm-frisee-salad-with-brown-butter-vinaigrette-recipe/ — 3 new links, 0 updated
+http://localhost:1313/2011/04/warm-grapes-toasted-pita-bread-and-ricotta-salata-recipe/ — 3 new links, 2 updated
+http://localhost:1313/2011/03/watermelon-radish-and-watercress-salad-recipe/ — 2 new links, 0 updated
+4 posts modified, 0 skipped.
+--- Individual run finished at Fri Feb 20 2026 ---
