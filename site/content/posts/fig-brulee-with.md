@@ -20,7 +20,7 @@ Vegetarian, Vegan, and Gluten free</em></span>
 
 2 ripe fresh figs
 2 t. white sugar
-1 t. <a href="http://www.amazon.com/gp/product/B0008IUUSG?ie=UTF8&amp;tag=poeticlicen07-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B0008IUUSG">fine aged balsamic vinegar</a>
+1 t. <a href="https://www.amazon.com/dp/B0008IUUSG?tag=herb-hugo-20">fine aged balsamic vinegar</a>
 
 Cut the figs in half lengthwise. Lay them skin-side down on a flameproof surface, such as a cookie sheet. Find a safe place to use your torch. Put a good mound of sugar on the cut surface of each fig, completely covering it. Use more than you think you would need because the blowtorch will blow some of it off. Turn on your torch and, working quickly, move back and forth over each fig turning the sugar into a melting dark brown syrup which will rapidly turn to "glass" when you remove the torch. You will want to experiment a bit to find the optimal distance to hold the flame. Remember that hot caramel will give you a nasty burn, so transfer them <em>carefully </em>to serving plates, and drizzle on some excellent balsamic vinegar.
 

@@ -1,0 +1,129 @@
+All agents have reported in. Batch 04/55 is fully committed and closed — nothing left to do.
+--- Batch run #1 finished at Thu Feb 19 15:45:59 PST 2026 ---
+Done. Here's the summary for **batch 05/55**:
+
+| Post | Links Added | Links Updated | Notes |
+|------|-------------|---------------|-------|
+| book-tour-update-with-pictures | 0 | 0 | No link opportunities (event announcement) |
+| braised-artichokes-in-a-tomatored-wine-sauce | 3 | 2 tags fixed | capers, grapefruit spoon, polenta |
+| braised-baby-artichoke-with-fennel-and-cherry-tomatoes | 3 | 0 | paring knife, skillet, vermouth |
+| braised-fennel | 2 | 2 tags fixed | star anise, Dutch oven |
+| bran-muffins | 3 | 1 link fixed | blackstrap molasses, wheat bran, Smart Bran cereal |
+| breakfast-in-is | 2 | 0 | halvah, falafel mix |
+| brownies | 4 | 1 tag fixed | Barefoot Contessa cookbook, espresso, chocolate chips, unsweetened chocolate |
+| bruschetta-with-chanterelles-and-brie | 3 | 0 | dried chanterelles, sherry, sea salt |
+| brusels-sprout-and-apple-hash | 1 | 1 tag fixed | champagne vinegar |
+| bucatini-with-smoked-asparagus | 3 | 2 tags fixed | cherry wood chips, bucatini, balsamic vinegar |
+
+**Totals:** 24 new links added, 9 existing links updated (tag corrections to `herb-hugo-20`). 9 of 10 posts modified. Not pushed to remote.
+--- Batch run #2 finished at Thu Feb 19 16:00:25 PST 2026 ---
+Individual post run — burnt-sugar-flan-recipe:
+
+| Post | Links Added | Links Updated | Notes |
+|------|-------------|---------------|-------|
+| burnt-sugar-flan-recipe | 3 | 0 | ramekins, fine sieve, vanilla extract |
+
+http://localhost:1313/2009/09/burnt-sugar-flan-recipe/ — 3 new links added, 0 updated.
+1 post modified, 0 skipped.
+--- Individual run finished at Thu Feb 19 2026 ---
+--- Batch run #3 finished at Thu Feb 19 16:06:43 PST 2026 ---
+Individual post run — caramelized-caulifower-fritatta-recipe:
+
+| Post | Links Added | Links Updated | Notes |
+|------|-------------|---------------|-------|
+| caramelized-caulifower-fritatta-recipe | 1 | 2 tags fixed | non-stick skillet; smoked paprika tag updated (×2) |
+
+http://localhost:1313/2009/12/caramelized-caulifower-fritatta-recipe/ — 1 new link added, 2 existing links updated (tag corrected to herb-hugo-20).
+1 post modified, 0 skipped.
+--- Individual run finished at Thu Feb 19 2026 ---
+Batch 07/55 complete. Here's the summary:
+
+**Batch 07/55 — 9 of 10 posts modified:**
+
+| Post | New Links | Updated Links |
+|------|-----------|---------------|
+| caramelized-apple-and-blue-cheese-crostini | 3 | 1 tag fix |
+| caramelized-banana-buttermilk-panna-cotta | 2 | 1 replaced (out of stock) |
+| caramelized-cauliflower-frittata | 1 | 2 tag fixes |
+| caramelized-pea | 3 | 2 modernized URLs |
+| caramelized-pear-and-ginger-scones | 2 | — |
+| caramelized-raisin-sauce | 4 | — |
+| caramelized-raisin-sundae | 3 | — |
+| cavatelli-with-broccoli-and-harissa | 1 | 2 replaced |
+| caviar-lentil-salad | 3 | 4 tag fixes |
+| **carrot-love** | **skipped** | no recipe content |
+
+All committed locally. Not pushed (as requested).
+--- Batch run #4 finished at Thu Feb 19 16:14:03 PST 2026 ---
+Done. Here's the summary:
+
+**Batch 09/55** (`herbvivoracious-migration-2tk`) — all 10 posts processed:
+
+| Post | Result |
+|------|--------|
+| chermoula-stuffed-eggplant-recipe | 3 new links added |
+| cherry-pumpkin | 2 existing updated, 1 new added |
+| cherry-tomato | 2 existing tags updated |
+| chickpea-and-potato-stew-with-baharat | 1 replaced (out of stock), 2 new added |
+| chickpea-cakes-recipe | 1 tag updated, 3 new added |
+| chickpea-fritters-recipe | 4 new links added |
+| chickpea-spinach-and-tomato-soup | 3 existing fixed/replaced, 1 new added |
+| chile-con-limon | 1 replaced, 3 tags updated, 1 new added |
+| chilled-tomato-buttermilk-soup | 2 new links added |
+| chimichurri-argentine-parsley-sauce | 1 replaced, 2 new added |
+
+Committed and bead closed. Not pushed (as requested).
+--- Batch run #1 finished at Thu Feb 19 16:18:58 PST 2026 ---
+Individual post run — coconut-rice-recipe and coconut-rice-with-black-beans-plantains-and-mango-salsa-recipe:
+
+Note: Amazon search was blocked (503 / Playwright bot detection) during this session. Links were added using ASINs confirmed in-stock earlier in session or already verified across multiple project posts.
+
+| Post | New Links | Updated Links | Notes |
+|------|-----------|---------------|-------|
+| coconut-rice-recipe | 1 | 0 | toasted black mustard seeds (B000MZC7C2) |
+| coconut-rice-with-black-beans-plantains-and-mango-salsa-recipe | 1 | 2 tag fixes | flaky sea salt (B0006FS4TI); rice cooker tag updated ×2 (poeticlicen07-20 → herb-hugo-20) |
+
+http://localhost:1313/2009/03/coconut-rice-recipe/ — 1 new link added, 0 updated.
+http://localhost:1313/2011/06/coconut-rice-with-black-beans-plantains-and-mango-salsa-recipe/ — 1 new link added, 2 existing links updated (tag corrected to herb-hugo-20).
+2 posts modified, 0 skipped.
+--- Individual run finished at Thu Feb 19 2026 ---
+--- Batch run #2 finished at Thu Feb 19 16:27:27 PST 2026 ---
+Done. Here's the summary for **batch 12/55**:
+
+| Post | Result |
+|------|--------|
+| `crepes-with-roasted-french-plums-yogurt-and-honey.md` | No changes (search empty) |
+| `crisp-polenta-with-braised-cabbage-and-beans-recipe.md` | No changes (search empty) |
+| `crispy-garlicky-smashed-potatoes-with-gremolata-recipe.md` | **Modified** — added flaky sea salt + sheet pan links |
+| `crostini-with-young-pecorino-...pesto-recipe.md` | **Modified** — tag update + blowtorch + food processor links |
+| `crunch-acid-salt-fat-1.md` | No changes (search empty) |
+| `cucumber-and-mango-salad-...recipe.md` | **Modified** — tag update on sweet chili sauce links |
+| `cucumber-dill-soup-tarator-recipe.md` | No changes (search empty) |
+| `cucumber-radish-and-cilantro-raita-recipe.md` | No changes (search empty) |
+| `cucumber-zucchi.md` | No changes on disk |
+| `dairy-products.md` | No changes (no opportunities) |
+
+**3 of 10 posts modified.** Note: Several agents hit Amazon bot detection (empty search results), which limited new link additions. Bead closed, commits made, not pushed.
+--- Batch run #1 finished at Thu Feb 19 16:40:25 PST 2026 ---
+Done. **Batch 13/55** is complete:
+
+- **3 posts modified** with Amazon link additions/updates
+- **4 posts skipped** (restaurant reviews / informational content)
+- **3 posts** had no actionable link opportunities (generic ingredients, search tool returning empty)
+- Committed and bead closed. Not pushed per your instruction.
+--- Batch run #2 finished at Thu Feb 19 16:46:16 PST 2026 ---
+Batch 14/55 complete. Here's the summary:
+
+**Modified (4 posts):**
+| Post | Changes |
+|------|---------|
+| `eatyourbookscom-and-gobbledybookcom-...` | 2 existing `amzn.to` links upgraded to canonical format |
+| `edamame-in-an-e.md` | 2 existing `astore.amazon.com` links upgraded |
+| `eggplant-and-okra-stew-recipe.md` | 2 new links added (ground coriander, chile flakes) |
+| `entry-avocado-grapefruit-mango-yuzu-cilantro.md` | 4 new links added (black salt, tomato knife, yuzu juice, LM pectin) |
+
+**No changes (6 posts):** eating-vegetari, edible-seattle-interview, espresso-vivace, ethiopian-ful-mudammas, event-seattle-r, everyday-chef-contest — no link opportunities or existing links already valid.
+
+All committed locally. Did not push.
+--- Batch run #3 finished at Thu Feb 19 16:58:38 PST 2026 ---
+{"level":"warn","message":"[BashTool] Pre-flight check is taking longer than expected. Run with ANTHROPIC_LOG=debug to check for failed or slow API requests."}
