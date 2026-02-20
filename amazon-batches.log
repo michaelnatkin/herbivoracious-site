@@ -706,3 +706,11 @@ http://localhost:1313/2007/08/salt-crazy-my-f/ — 0 new links added, 11 existin
 2 posts modified, 0 skipped.
 --- Individual run finished at Thu Feb 19 2026 ---
 --- Batch run #29 finished at Thu Feb 19 19:30:51 PST 2026 ---
+Done. Batch 42/55 is complete:
+
+- **6 of 10 posts modified** with Amazon affiliate links (new links added, old tags fixed, broken iframes replaced)
+- **3 posts skipped** (no link opportunities: sephardic bazaar, sephardic cauliflower, shanghai garden)
+- **1 post (sesame-flax-soda-bread)** — the agent reported modifications but changes didn't persist to disk; may need a re-run
+
+Note: `style.css` had an unrelated change in the working tree that I intentionally left unstaged. Not pushed per your instructions.
+--- Batch run #1 finished at Thu Feb 19 20:05:42 PST 2026 ---
