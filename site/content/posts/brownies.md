@@ -18,11 +18,11 @@ For me, I like more of a cakey brownie, but it has to be very moist and dense ca
 
 I've been searching awhile for a recipe that really captured those qualities and packs a seriously chocolaty punch, one that satisfies a guy who will down a whole bar of 72% dark chocolate like it was a potato chip.
 
-Now I'm not a huge <a type="amzn">Barefoot Contessa</a> fan. Nothing against her, the recipes are solid but a bit obvious - nothing to make me really run and open the book often. But Sarina suggested that the Contessa might have a proper brownie recipe and boy was she right. The Outrageous Brownies are everything I was looking for. I don't think I'll ever try a different recipe again, this just hits it out of the park. And everyone I've fed them to agrees.
+Now I'm not a huge <a href="https://www.amazon.com/dp/0609602195?tag=herb-hugo-20">Barefoot Contessa</a> fan. Nothing against her, the recipes are solid but a bit obvious - nothing to make me really run and open the book often. But Sarina suggested that the Contessa might have a proper brownie recipe and boy was she right. The Outrageous Brownies are everything I was looking for. I don't think I'll ever try a different recipe again, this just hits it out of the park. And everyone I've fed them to agrees.
 
 Needless to say I tweaked them out a bit to meet my own needs. The original recipe makes a 12x18 pan, but that is a lot for a small family, so I halved it to a 12x9 pan. Then I omitted the walnuts, doubled the salt, upgraded the chocolate, and simplified to use one less bowl.
 
-I also replaced the instant coffee with instant espresso. I've always been loyal to the Medaglia D'Oro brand, which I used to drink 20 years ago at 4 AM, sneaking off between the first two sessions of <a href="http://www.sfzc.org/ggf/">meditation practice</a>, when there wasn't enough time to make a real pot. Now I'd never drink it, but it actually tastes pretty great in baked goods. Another good option is Starbucks' Via instant coffee packets.
+I also replaced the instant coffee with instant espresso. I've always been loyal to the <a href="https://www.amazon.com/dp/B000QJW2KG?tag=herb-hugo-20">Medaglia D'Oro</a> brand, which I used to drink 20 years ago at 4 AM, sneaking off between the first two sessions of <a href="http://www.sfzc.org/ggf/">meditation practice</a>, when there wasn't enough time to make a real pot. Now I'd never drink it, but it actually tastes pretty great in baked goods. Another good option is Starbucks' Via instant coffee packets.
 
 I sprinkled half of the chocolate chips over the top of the batter instead of mixing them in, which gives you these incredible creamy-chocolate rivers on the surface.
 
@@ -36,15 +36,15 @@ Note: if you want these to be really light and cakey, use cake flour instead of 
 Vegetarian; not vegan or gluten-free</em>
 <ul>
 	<li>1/2 lb. (2 sticks) unsalted butter</li>
-	<li>12 oz. (1 bag) Ghiradelli semi-sweet chocolate chips</li>
-	<li>4 oz. best-quality unsweetened chocolate, chopped (Scharffen-Berger is awesome for this)</li>
+	<li>12 oz. (1 bag) <a href="https://www.amazon.com/dp/B000VK7PMK?tag=herb-hugo-20">Ghiradelli semi-sweet chocolate chips</a></li>
+	<li>4 oz. best-quality <a href="https://www.amazon.com/dp/B00IEIHQB6?tag=herb-hugo-20">unsweetened chocolate</a>, chopped (Scharffen-Berger is awesome for this)</li>
 	<li>4 large eggs</li>
 	<li>5 teaspoon instant espresso (Medaglia D'Oro is good)</li>
 	<li>1 tablespoon vanilla extract</li>
 	<li>1 c. + 2 tablespoons sugar</li>
 	<li>1/2 c. + 2 tablespoons all-purpose flour</li>
 	<li>1.5 teaspoon baking powder</li>
-	<li>1 teaspoon flaky sea salt (<a href="http://www.amazon.com/dp/B0006FS4TI/?tag=poeticlicen07-20" target="_blank">Maldon (aka the world's greatest salt)</a>!)</li>
+	<li>1 teaspoon flaky sea salt (<a href="https://www.amazon.com/dp/B0006FS4TI?tag=herb-hugo-20" target="_blank">Maldon (aka the world's greatest salt)</a>!)</li>
 </ul>
 <ol>
 	<li>Preheat the oven to 350 F.</li>

@@ -11,7 +11,7 @@ cover:
 
 <a href="/images/2013/01/Brussels-Sprout-and-Apple-Hash.jpg"><img class="alignnone size-full wp-image-3524" title="Brussels Sprout and Apple Hash" src="/images/2013/01/Brussels-Sprout-and-Apple-Hash.jpg" alt="Brussels Sprout and Apple Hash" width="626" height="693" /></a>
 
-I demo'ed this Brussels sprout and apple hash from <a href="http://www.amazon.com/dp/1558327452/?tag=poeticlicen07-20">my cookbook</a> on <a href="http://video.kcts9.org/video/2301973547" target="_blank">KCTS</a> recently, and a reader pointed out that the recipe isn't anywhere on the site. So here you go! Although I think of it as a side dish that goes well with mac &amp; cheese or a rustic soup and salad, I’ve also been known to <strong>fry up a plate just for myself</strong>, add a slice of toasted artisanal wheat bread, and call it dinner.
+I demo'ed this Brussels sprout and apple hash from <a href="https://www.amazon.com/dp/1558327452?tag=herb-hugo-20">my cookbook</a> on <a href="http://video.kcts9.org/video/2301973547" target="_blank">KCTS</a> recently, and a reader pointed out that the recipe isn't anywhere on the site. So here you go! Although I think of it as a side dish that goes well with mac &amp; cheese or a rustic soup and salad, I’ve also been known to <strong>fry up a plate just for myself</strong>, add a slice of toasted artisanal wheat bread, and call it dinner.
 
 Many variations are possible. You could add <strong>toasted pecans, hazelnuts, or dried cherries</strong>; change the champagne vinegar to apple cider vinegar, sherry vinegar, or orange juice; or even replace the apple with a crisp pear.
 
@@ -28,7 +28,7 @@ Many variations are possible. You could add <strong>toasted pecans, hazelnuts, o
 	<li>1 pound Brussels sprouts, cleaned, bottoms trimmed, and sliced about 1/4 inch thick (about 4 cups sliced)</li>
 	<li>2 fresh sage leaves, thinly sliced</li>
 	<li>1/2 teaspoon minced fresh rosemary leaves</li>
-	<li>2 teaspoons champagne vinegar</li>
+	<li>2 teaspoons <a href="https://www.amazon.com/dp/B07CQQ35PK?tag=herb-hugo-20">champagne vinegar</a></li>
 	<li>2 teaspoons honey</li>
 </ul>
 <ol>

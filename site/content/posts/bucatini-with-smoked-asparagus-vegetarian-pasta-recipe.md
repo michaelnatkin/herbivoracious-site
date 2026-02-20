@@ -27,16 +27,16 @@ By the way, the easiest way to trim asparagus is just to grab a few spears at a 
 <strong>Bucatini with Smoked Asparagus and Gorgonzola</strong>
 <em>Vegetarian / Serves 4 / 40 minutes</em>
 <ul>
-	<li>1/2 cup wood chips (first choice: cherry wood)</li>
+	<li>1/2 cup wood chips (first choice: <a href="https://www.amazon.com/dp/B0B2TMFT6D?tag=herb-hugo-20">cherry wood</a>)</li>
 	<li>16 very thick asparagus spears, woody ends trimmed</li>
 	<li>1 tablespoon extra-virgin olive oil</li>
 	<li>3 tablespoons butter</li>
 	<li>4 garlic cloves</li>
-	<li>1 teaspoon <a href="http://www.amazon.com/dp/B000NO943C/?tag=poeticlicen07-20" target="_blank" rel="nofollow">smoked paprika</a></li>
+	<li>1 teaspoon <a href="https://www.amazon.com/dp/B000NO943C?tag=herb-hugo-20" target="_blank" rel="nofollow">smoked paprika</a></li>
 	<li>1/2 teaspoon crushed red pepper</li>
-	<li>2 tablespoons aged balsamic vinegar (or balsamic reduction - not thin grocery store balsamic!) - optional</li>
+	<li>2 tablespoons <a href="https://www.amazon.com/dp/B085WF23VH?tag=herb-hugo-20">aged balsamic vinegar</a> (or balsamic reduction - not thin grocery store balsamic!) - optional</li>
 	<li>Kosher salt</li>
-	<li>1 pound bucatini</li>
+	<li>1 pound <a href="https://www.amazon.com/dp/B0050ILALA?tag=herb-hugo-20">bucatini</a></li>
 	<li>6 ounces gorgonzola, crumbled in large chunks</li>
 	<li>Flat leaf parsley</li>
 	<li>Fresh ground pepper</li>
@@ -45,7 +45,7 @@ By the way, the easiest way to trim asparagus is just to grab a few spears at a 
 	<li><del datetime="2014-07-23T04:19:30+00:00">Place the wood chips in the bottom of a pot that you don't mind discoloring. Set a steamer basket (or other improvised rack) above the chips. Coat the asparagus with the olive oil and place it in the basket. Cover the pot and set over a medium-high burner. After about 5 minutes, lift the lid and confirm that there is some smoke being generated. If there is none, raise the heat a bit. If there are billowing clouds, lower it. Re-cover and cook for about 10 minutes, until the asparagus is tender when poked with a knife.</del> See note on safer smoking above. Remove the asparagus and allow to cool enough that you can handle it.</li>
 	<li>Cut off the asparagus tips (and about 1/2" of stem) and reserve. Slice the remaining stem lengthwise into several strands, about the same diameter as your pasta.</li>
 	<li>Bring a very large pot of well-salted water to a boil, and warm your serving bowls.</li>
-	<li>Place a large skillet over medium heat. Melt the butter. Add the garlic, <a href="http://www.amazon.com/dp/B000NO943C/?tag=poeticlicen07-20" target="_blank" rel="nofollow">smoked paprika</a>, and red pepper. Cook for about two minutes, until the garlic is tender but not browned. Add the asparagus and a big pinch of salt and cook one more minute. Turn off heat.</li>
+	<li>Place a large skillet over medium heat. Melt the butter. Add the garlic, <a href="https://www.amazon.com/dp/B000NO943C?tag=herb-hugo-20" target="_blank" rel="nofollow">smoked paprika</a>, and red pepper. Cook for about two minutes, until the garlic is tender but not browned. Add the asparagus and a big pinch of salt and cook one more minute. Turn off heat.</li>
 	<li>Boil the pasta until just short of al dente. Return the skillet to medium=high heat and transfer the pasta along with some of the water clinging to it into it. Add the aged balsamic if using. Use tongs to toss the pasta with the asparagus and seasonings. Add a little more of the pasta water if the dish seems "tight". Taste and adjust seasoning.</li>
 	<li>Divide the pasta among the warmed serving bowls. Garnish with the reserved asparagus tips, the gorgonzola, a few leaves of parsley, and a hearty grind of pepper. Serve immediately.</li>
 </ol>

@@ -19,9 +19,9 @@ A proper braise is composed of even more basic cooking methods. First you sear t
 
 The most common choice of supporting vegetables is mirepoix - carrots, onions and celery. In this case I omit the celery because it might muddy the flavor of the fennel.
 
-For the flavorful liquids, I chose dry vermouth for its complex aromatics, and orange juice (augmented with zest) because it simply pairs beautifully with fennel. My friend <a href="http://twitter.com/#!/lisaknakamura" target="_self">Lisa Nakamura</a> (the chef at <a href="http://alliumonorcas.com/orcas-island-restaurants-brunch-lunch-dinner-menus/dinner-menu/" target="_blank">Allium</a>) suggested star anise. I didn't try that this time, but it sounds like a great idea if you are a fan of the licoricey notes in fennel and want to emphasize them.
+For the flavorful liquids, I chose dry vermouth for its complex aromatics, and orange juice (augmented with zest) because it simply pairs beautifully with fennel. My friend <a href="http://twitter.com/#!/lisaknakamura" target="_self">Lisa Nakamura</a> (the chef at <a href="http://alliumonorcas.com/orcas-island-restaurants-brunch-lunch-dinner-menus/dinner-menu/" target="_blank">Allium</a>) suggested <a href="https://www.amazon.com/dp/B08BXF9X52?tag=herb-hugo-20">star anise</a>. I didn't try that this time, but it sounds like a great idea if you are a fan of the licoricey notes in fennel and want to emphasize them.
 
-Have you ever had <a href="http://www.amazon.com/dp/B000V9ESIA/?tag=poeticlicen07-20" target="_blank">fennel pollen</a>? It is pretty amazing stuff. The aroma is like summer in Provence in a jar. As you can see, it is rather expensive but a pinch goes a long way. This dish is just fine without it, but if you are in the mood to gild the lily, I highly recommend it.
+Have you ever had <a href="http://www.amazon.com/dp/B000V9ESIA/?tag=herb-hugo-20" target="_blank">fennel pollen</a>? It is pretty amazing stuff. The aroma is like summer in Provence in a jar. As you can see, it is rather expensive but a pinch goes a long way. This dish is just fine without it, but if you are in the mood to gild the lily, I highly recommend it.
 
 <div class="recipe-card">
 <strong>Braised Fennel</strong>
@@ -38,11 +38,11 @@ Have you ever had <a href="http://www.amazon.com/dp/B000V9ESIA/?tag=poeticlicen0
 	<li>1/2 teaspoon Kosher salt</li>
 	<li>Zest and juice of 1 mandarin orange</li>
 	<li>1/4 cup dry vermouth</li>
-	<li>Flaky sea salt (<a href="http://www.amazon.com/dp/B0006FS4TI/?tag=poeticlicen07-20" target="_blank">Maldon (aka the world's greatest salt)</a>!)</li>
+	<li>Flaky sea salt (<a href="http://www.amazon.com/dp/B0006FS4TI/?tag=herb-hugo-20" target="_blank">Maldon (aka the world's greatest salt)</a>!)</li>
 	<li>Optional: fennel pollen</li>
 </ul>
 <ol>
-	<li>In a pot with a tight fitting lit, big enough to hold the fennel in a single layer, heat the olive oil over medium high heat. (A Dutch oven is ideal for this recipe.) When the oil is shimmering hot, lay the four fennel halves in the oil, cut side down. Sear until quite well browned, about 5 minutes. Flip and cook for another couple of minutes on the rounded sides.</li>
+	<li>In a pot with a tight fitting lit, big enough to hold the fennel in a single layer, heat the olive oil over medium high heat. (A <a href="https://www.amazon.com/dp/B000N4WN08?tag=herb-hugo-20">Dutch oven</a> is ideal for this recipe.) When the oil is shimmering hot, lay the four fennel halves in the oil, cut side down. Sear until quite well browned, about 5 minutes. Flip and cook for another couple of minutes on the rounded sides.</li>
 	<li>Remove the fennel to a plate, leaving the oil behind in the pot. Lower the heat to medium low. Add the garlic, onion, carrots, a big pinch of crushed red pepper, several generous grinds of black pepper and the salt. Cook, stirring occasionally for about 3 minutes, until the onions start to soften.</li>
 	<li>Add the orange zest and juice, the vermouth, and 1/2 cup water and stir, scraping the bottom to incorporate the delicious caramelized brown bits (<em>fond</em>). Put the fennel back in the pot, cut side up, on top of the onions and carrots. Cover the pot and braise until the fennel is completely tender when probed with a knife. This could be anywhere from 10 to 20 minutes depending on the size of the bulbs. During the braise, adjust the heat so that there is a good steady amount of steam in the pot, but not so much that all the liquid is boiling off. Add a bit more liquid if needed.</li>
 	<li>To serve, transfer the fennel bulbs to a serving platter. Spoon the carrots, onions and sauce over the fennel. Garnish with a generous drizzle of good olive oil, more freshly ground pepper, some flaky salt, the fennel fronds, and the optional fennel pollen.</li>
