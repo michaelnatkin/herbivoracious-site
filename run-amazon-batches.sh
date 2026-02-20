@@ -29,13 +29,14 @@ while true; do
     --max-turns 100 \
     "Pick the LOWEST-numbered open 'Amazon links batch' bead (use bd list --status=open | grep 'Amazon links batch').
 Mark it in_progress, then process ALL 10 posts in that batch by running /amazon-links on each one.
-Use 5 parallel Task agents (with model='sonnet') to process 2 posts each.
+Use 3 parallel Task agents (with model='sonnet') to process the batch.
 After all posts are done, commit the changes, close the bead, and run bd sync.
 Do NOT push to remote." \
     2>&1 | tee -a "$LOG"
 
   echo ""
   echo "--- Batch run #$BATCH finished at $(date) ---" | tee -a "$LOG"
+  sleep 500 # to avoid amazon rate limiting
 done
 
 echo ""

@@ -412,3 +412,67 @@ Batch 23/55 complete. Summary:
 --- Batch run #12 finished at Thu Feb 19 17:40:51 PST 2026 ---
 Batch 24/55 complete. 7 of 10 posts modified, 3 skipped (no link opportunities), committed, bead closed, and synced. Not pushed per your instructions.
 --- Batch run #13 finished at Thu Feb 19 17:44:06 PST 2026 ---
+Done. Batch 25/55 complete:
+
+- **All 10 posts modified** with Amazon affiliate links
+- Committed in `62bf0f2` + beads sync in `38587a6`
+- Bead `herbvivoracious-migration-50v` closed
+- Not pushed to remote (as requested)
+
+Remaining uncommitted files (`fresh-fettucini...`, `sidebar.html`, `style.css`) are pre-existing changes from before this session.
+--- Batch run #14 finished at Thu Feb 19 17:47:44 PST 2026 ---
+Done. Batch 26/55 complete:
+
+- **7 of 10 posts modified** with new/updated Amazon affiliate links
+- **3 posts skipped** (no viable link opportunities)
+- Committed and bead closed
+- Not pushed (as requested)
+--- Batch run #15 finished at Thu Feb 19 17:50:58 PST 2026 ---
+{"level":"warn","message":"[BashTool] Pre-flight check is taking longer than expected. Run with ANTHROPIC_LOG=debug to check for failed or slow API requests."}
+Done. Batch 27/55 complete:
+
+- **5 posts modified** with Amazon affiliate links (molto-mario-bat, mujadara, mushroom-risotto, my-favorite-citrus-juicer, my-skillet)
+- **5 posts skipped** — no link opportunities (restaurant review, narrative, announcements, short post)
+- Bead closed, beads synced, committed locally. Not pushed.
+--- Batch run #16 finished at Thu Feb 19 17:55:14 PST 2026 ---
+Batch 28/55 complete. Summary:
+
+| Post | Status | Links |
+|------|--------|-------|
+| new-restaurant.md | Skipped | No recipe/products |
+| new-visual-inde.md | Skipped | Site announcement |
+| new-years-feast.md | **Modified** | +4 (kochujang, soba, yuzu, mirin) |
+| non-traditional-arroz-verde-recipe.md | **Modified** | +3 (rice cooker, food processor, sea salt) |
+| nuevo-leon-style-tamales-adapted-to-be-vegetarian-recipe.md | **Modified** | +4 (dried chiles, immersion blender, Mexican oregano, steamer) |
+| on-on-vegetaria.md | Skipped | Editorial piece |
+| on-the-mathemat.md | Skipped | Essay, pantry staples only |
+| one-day-of-work.md | **Modified** | +1 new, 1 updated |
+| onebowl-banana-muffins-great-for-baking-with-kids-recipe.md | **Modified** | +4 (vanilla extract, muffin tin, liners, potato masher) |
+| onion-pakora-recipe.md | **Modified** | +2 new, 2 updated (chickpea flour, tamarind chutney) |
+
+**6 posts modified, 4 skipped. Not pushed (as requested).**
+--- Batch run #17 finished at Thu Feb 19 17:58:43 PST 2026 ---
+Batch 29/55 complete. 9 of 10 posts modified (panzanella-sala.md skipped — restaurant post with no link opportunities). Two commits made, bead closed and synced. Not pushed per your instructions.
+--- Batch run #18 finished at Thu Feb 19 18:02:41 PST 2026 ---
+Done. Batch 30/55 complete:
+- **8 of 10 posts** got new/updated Amazon affiliate links
+- **2 skipped**: `persian-crispy-rice-recipe` (teaser post, no recipe) and `persian-sweets` (no recipe content)
+- Committed and bead closed. Not pushed per instructions.
+--- Batch run #19 finished at Thu Feb 19 18:05:53 PST 2026 ---
+Batch 31/55 is done. Summary:
+
+- **7 of 10 posts modified** with new/updated Amazon affiliate links
+- **3 posts skipped**: no viable products (pickled onions), joke post (playdough gnocchi), travel post (Portland food carts)
+- Committed and bead closed. **Not pushed** per your instructions.
+--- Batch run #20 finished at Thu Feb 19 18:11:46 PST 2026 ---
+{"level":"warn","message":"[BashTool] Pre-flight check is taking longer than expected. Run with ANTHROPIC_LOG=debug to check for failed or slow API requests."}
+Another leftover background task from the subagents — batch 32 is already done, committed, and closed. Nothing to do here.
+--- Batch run #21 finished at Thu Feb 19 18:45:01 PST 2026 ---
+Done. Batch 33/55 is complete:
+
+- **6 of 10 posts modified** — affiliate tags updated from `poeticlicen07-20` to `herb-hugo-20`, URLs cleaned to `dp/` format, and a few new links added (Maldon sea salt, masa harina, tortilla press, Mexican oregano)
+- **4 posts skipped** — existing links were already valid or posts had no existing links, and Amazon search was returning empty results for new candidates
+- Committed and bead closed. Not pushed (as requested).
+
+**Note:** The Amazon search tool was returning empty results for most agents. The `check` command for existing ASINs still worked, so existing link updates went through fine, but new link discovery was limited. You may want to investigate the search tool before the next batch.
+--- Batch run #22 finished at Thu Feb 19 18:51:32 PST 2026 ---
