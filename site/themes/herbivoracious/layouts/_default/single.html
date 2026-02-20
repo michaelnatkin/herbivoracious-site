@@ -1,7 +1,7 @@
 {{ define "main" }}
 <div class="site-content">
   <main class="main-content">
-    <article>
+    <article data-pagefind-body>
       {{ $img := "" }}
       {{ with .Params.cover }}{{ with .image }}{{ $img = . }}{{ end }}{{ end }}
 
@@ -29,7 +29,7 @@
 
       {{ if $img }}
       <div class="single-cover">
-        <img src="{{ strings.TrimPrefix "/" $img | relURL }}" alt="{{ .Title }}">
+        <img src="{{ strings.TrimPrefix "/" $img | relURL }}" alt="{{ .Title }}" data-pagefind-meta="image[src], image_alt[alt]">
         {{ if $caption }}
         <figcaption class="single-cover__caption">{{ $caption }}</figcaption>
         {{ end }}
@@ -59,7 +59,7 @@
 
       {{ $related := first 3 (.Site.RegularPages.Related .) }}
       {{ if $related }}
-      <section class="related-posts">
+      <section class="related-posts" data-pagefind-ignore>
         <h3>You Might Also Like</h3>
         <div class="related-posts__grid">
           {{ range $related }}

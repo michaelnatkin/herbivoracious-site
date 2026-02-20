@@ -2,10 +2,22 @@
   <!-- Search -->
   <div class="sidebar-section">
     <h3>search</h3>
-    <form class="search-form" action="{{ "search/" | relURL }}" method="get">
-      <input type="text" name="q" placeholder="Search recipes&hellip;" aria-label="Search">
-      <button type="submit">Go</button>
-    </form>
+    <div id="sidebar-search"></div>
+    <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+    <script src="/pagefind/pagefind-ui.js"></script>
+    <script>
+      window.addEventListener('DOMContentLoaded', function() {
+        if (!document.getElementById('sidebar-search')) return;
+        new PagefindUI({
+          element: "#sidebar-search",
+          showSubResults: false,
+          showImages: false,
+          resetStyles: false,
+          pageSize: 5,
+          showEmptyFilters: false
+        });
+      });
+    </script>
   </div>
 
   <!-- As Seen In -->
