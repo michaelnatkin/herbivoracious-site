@@ -16,7 +16,7 @@ Spaghetti alla carbonara is one of those great Italian dishes that comes with <s
 
 I've made slapdash vegetarian versions of carbonara for years. The other night I happened to have a jar of <a href="http://www.amazon.com/dp/B006HWTYT8/?tag=poeticlicen07-20" target="_blank">Mama Lil's spicy peppers</a> open and added them in, and a whole new vista opened up for me. The kick from those pickled peppers took the dish to <strong>a whole new level</strong>.
 
-I've since made it again, elaborating with some <strong>toasted pine nuts for crunch</strong>, and a shower of parsley for an herbal top note. I'm seriously obsessed... it is pretty much killing me not to jump up and make a bowl for myself right now.
+I've since made it again, elaborating with some <strong><a href="https://www.amazon.com/dp/B074H6811H?tag=herb-hugo-20">toasted pine nuts</a> for crunch</strong>, and a shower of parsley for an herbal top note. I'm seriously obsessed... it is pretty much killing me not to jump up and make a bowl for myself right now.
 
 <a href="/images/2011/11/Mama-Lils-Carbonara-Small.jpg"><img class="alignright size-full wp-image-799" title="Mama Lils Carbonara Small" src="/images/2011/11/Mama-Lils-Carbonara-Small.jpg" alt="" width="250" height="250" /></a>If you haven't had Mama Lil's before, you are <strong>missing out big time</strong>. They are made here in Seattle and therefore widely available, but outside of Seattle you may be able to find them at Whole Foods, or you can pick them up <a href="http://www.amazon.com/dp/B001L106KQ/?tag=poeticlicen07-20" target="_blank">on Amazon</a>. The version I linked to is the mildly spicy version, which is actually quite hot when cooked. They also make a "kick butt" version that is more than I could personally handle in this dish.
 
@@ -32,7 +32,7 @@ The critical move in making creamy carbonara comes when you dump the pasta into 
 	<li>1/2 cup Mama Lil's peppers (including the oil from the jar)</li>
 	<li>4 cloves garlic, thinly sliced</li>
 	<li>2 eggs</li>
-	<li>1/2 cup grated Parmigiano-Reggiano cheese</li>
+	<li>1/2 cup grated <a href="https://www.amazon.com/dp/B07FZ74RRN?tag=herb-hugo-20">Parmigiano-Reggiano</a> cheese</li>
 	<li>Freshly ground black pepper</li>
 	<li>Kosher salt</li>
 	<li>1/4 cup toasted pine nuts</li>

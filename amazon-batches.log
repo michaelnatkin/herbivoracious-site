@@ -714,3 +714,37 @@ Done. Batch 42/55 is complete:
 
 Note: `style.css` had an unrelated change in the working tree that I intentionally left unstaged. Not pushed per your instructions.
 --- Batch run #1 finished at Thu Feb 19 20:05:42 PST 2026 ---
+Done. Batch 43/55 complete:
+
+- **9 of 10 posts modified** with Amazon affiliate links
+- **1 skipped**: `skillet-street.md` (restaurant review, no link opportunities)
+- Bead `herbvivoracious-migration-nsu` closed
+- 2 commits made, not pushed to remote
+--- Batch run #2 finished at Thu Feb 19 20:51:05 PST 2026 ---
+--- Individual run finished at Thu Feb 19 2026 ---
+Individual post run — spice-stalls-at, spicy-chickpea, spicy-mama-lil%e2%80%99s-spaghetti-alla-carbonara-video-recipe:
+
+| Post | New Links | Updated Links | Notes |
+|------|-----------|---------------|-------|
+| spice-stalls-at | 1 | 0 | dry harissa (B07NSP64G8, The Spice Way Harissa Seasoning Powder, $6.99); "green zatar" already linked to Wikipedia — not duplicated |
+| spicy-chickpea | 0 | 0 | Skipped — post body contains only an intro linking to a guest post on Apartment Therapy; no ingredients or tools listed |
+| spicy-mama-lil%e2%80%99s-spaghetti-alla-carbonara-video-recipe | 0 | 0 | Skipped — thin video post, no ingredients or tools in body; recipe itself lives in a separate November 2011 post |
+
+http://localhost:1313/2007/09/spice-stalls-at/ — 1 new link added.
+http://localhost:1313/2007/11/spicy-chickpea/ — skipped (no link opportunities).
+http://localhost:1313/2012/04/spicy-mama-lil%e2%80%99s-spaghetti-alla-carbonara-video-recipe/ — skipped (no link opportunities).
+1 post modified, 2 skipped.
+Individual post run — southernstyle-collard-greens-veganized-recipe, spaghetti-aglio-e-olio-recipe, spanish-lentils-and-mushrooms-recipe, spare-the-fat-spoil-the-flavor-making-your-food-pop-part-3:
+
+| Post | New Links | Updated Links | Notes |
+|------|-----------|---------------|-------|
+| southernstyle-collard-greens-veganized-recipe | 2 | 3 | fresh shiitake mushroom caps (B0CK1D8ZGT, Orsky Dried Sliced, $14.99), tamari (B000QWXIZQ, San-J Organic 10oz, $7.89); smoked paprika tag updated poeticlicen07-20 → herb-hugo-20 ×3 |
+| spaghetti-aglio-e-olio-recipe | 0 | 0 | Skipped — only common pantry ingredients (pasta, olive oil, garlic, parsley, parmesan); no specialty items |
+| spanish-lentils-and-mushrooms-recipe | 2 | 5 | sherry vinegar (B0058DO1SG, Columela Classic 12.7oz, $12.84), French green lentils (B08B3XFW1C, Pereg Du Puy 16oz, $8.95); smoked paprika tag updated poeticlicen07-20 → herb-hugo-20 ×5 |
+| spare-the-fat-spoil-the-flavor-making-your-food-pop-part-3 | 1 | 0 | ghee (B00VXQGY28, 4th & Heart Original Grass-Fed Ghee 9oz, $11.19) |
+
+http://localhost:1313/2009/10/southernstyle-collard-greens-veganized-recipe/ — 2 new links added, 3 existing links updated (tags corrected to herb-hugo-20).
+http://localhost:1313/2011/12/spaghetti-aglio-e-olio-recipe/ — skipped (no link opportunities).
+http://localhost:1313/2010/04/spanish-lentils-and-mushrooms-recipe/ — 2 new links added, 5 existing links updated (tags corrected to herb-hugo-20).
+http://localhost:1313/2010/01/spare-the-fat-spoil-the-flavor-making-your-food-pop-part-3/ — 1 new link added, 0 updated.
+3 posts modified, 1 skipped.

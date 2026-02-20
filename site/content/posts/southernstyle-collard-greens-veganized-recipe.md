@@ -29,17 +29,17 @@ Serves at least 4 as a side dish</em>
 <ul>
 	<li>2 big bunches collard greens</li>
 	<li>2 tablespoons vegetable oil</li>
-	<li>12 fresh shiitake mushroom caps, thinly sliced</li>
+	<li>12 <a href="https://www.amazon.com/dp/B0CK1D8ZGT?tag=herb-hugo-20">fresh shiitake mushroom caps</a>, thinly sliced</li>
 	<li>1/2 onion, thinly sliced</li>
-	<li>1 teaspoon <a href="http://www.amazon.com/dp/B000NO943C/?tag=poeticlicen07-20" target="_blank" rel="nofollow">smoked paprika</a> (pimenton de la vera for example)</li>
+	<li>1 teaspoon <a href="https://www.amazon.com/dp/B000NO943C?tag=herb-hugo-20">smoked paprika</a> (pimenton de la vera for example)</li>
 	<li>1/2 teaspoon chili flakes</li>
-	<li>2 teaspoons shoyu, tamari or other good soy sauce</li>
+	<li>2 teaspoons shoyu, <a href="https://www.amazon.com/dp/B000QWXIZQ?tag=herb-hugo-20">tamari</a> or other good soy sauce</li>
 	<li>salt to taste</li>
 </ul>
 <ol>
 	<li>Strip the collard greens from the stems, wash thoroughly in three changes of water, and slice into 1" ribbons.</li>
-	<li>Heat a dutch oven or soup pot over a medium flame. Add the oil, shiitake, and onions and cook, stirring occasionally for 5 minutes until they have some color. Add the collard greens, <a href="http://www.amazon.com/dp/B000NO943C/?tag=poeticlicen07-20" target="_blank" rel="nofollow">smoked paprika</a>, chili flakes, soy sauce and 1/2 cup water, reduce the heat to low, and cover. You may have to add the collards a bit at a time if the lid won't fit on.</li>
+	<li>Heat a dutch oven or soup pot over a medium flame. Add the oil, shiitake, and onions and cook, stirring occasionally for 5 minutes until they have some color. Add the collard greens, <a href="https://www.amazon.com/dp/B000NO943C?tag=herb-hugo-20">smoked paprika</a>, chili flakes, soy sauce and 1/2 cup water, reduce the heat to low, and cover. You may have to add the collards a bit at a time if the lid won't fit on.</li>
 	<li>Cook for, oh, at least 45 minutes, until completely tender, checking occasionally to see if they need a little more water.</li>
-	<li>When the greens are fully cooked, remove the lid and cook off the water. Taste and adjust the seasonings; they will probably want more salt or soy sauce, and maybe more of the <a href="http://www.amazon.com/dp/B000NO943C/?tag=poeticlicen07-20" target="_blank" rel="nofollow">smoked paprika</a>.</li>
+	<li>When the greens are fully cooked, remove the lid and cook off the water. Taste and adjust the seasonings; they will probably want more salt or soy sauce, and maybe more of the <a href="https://www.amazon.com/dp/B000NO943C?tag=herb-hugo-20">smoked paprika</a>.</li>
 </ol>
 </div>
