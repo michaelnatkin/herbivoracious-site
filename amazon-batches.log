@@ -583,3 +583,34 @@ http://localhost:1313/2008/02/recipe-valentin/ — 3 new links added, 0 updated.
 2 posts modified, 0 skipped.
 --- Individual run finished at Thu Feb 19 2026 ---
 --- Batch run #25 finished at Thu Feb 19 19:12:04 PST 2026 ---
+Done. Batch **37/55** is complete and committed (not pushed).
+
+- **4 posts modified** with new Amazon affiliate links
+- **6 posts skipped** (restaurant reviews and non-recipe content)
+- Bead `herbvivoracious-migration-9xx` closed and synced
+--- Batch run #26 finished at Thu Feb 19 19:14:37 PST 2026 ---
+Individual post run — review-punjab-s and review-senor-mo:
+
+| Post | New Links | Updated Links | Notes |
+|------|-----------|---------------|-------|
+| review-punjab-s | 0 | 0 | Skipped — restaurant review, no specialty ingredients, tools, or cookbooks |
+| review-senor-mo | 0 | 2 | Diana Kennedy cookbook (0609603558) and Rick Bayless cookbook (0061373265): both converted from asin-attr placeholder format to proper affiliate hrefs with herb-hugo-20 tag; both in-stock ($23.42 and $32.00) |
+
+http://localhost:1313/2008/05/review-punjab-s/ — skipped (restaurant review, no link opportunities)
+http://localhost:1313/2008/01/review-senor-mo/ — 0 new links added, 2 existing links updated (converted asin-attr format to proper affiliate hrefs with herb-hugo-20 tag).
+1 post modified, 1 skipped.
+--- Individual run finished at Thu Feb 19 2026 ---
+Individual post run — rigatoni-with-roasted-cauliflower-and-spicy-tomato-sauce-recipe and risotto-cake-with-crispy-ramps-recipe:
+
+| Post | New Links | Updated Links | Notes |
+|------|-----------|---------------|-------|
+| rigatoni-with-roasted-cauliflower-and-spicy-tomato-sauce-recipe | 1 | 3 | Ricotta salata (B0787VWCF3, Mitica, $8.99); Muir Glen tomatoes replaced out-of-stock B000LKVH9W → B000WCZNR6 (×2); all links (pasta extruder, Muir Glen ×2, smoked paprika ×4) updated from poeticlicen07-20 → herb-hugo-20 |
+| risotto-cake-with-crispy-ramps-recipe | 2 | 0 | Aged balsamic vinegar (B0153G717K, Giusti 3 Gold Medals, $43.99); ring mold (B00IVFJDKY, Lurch Germany stainless steel, $30.99) |
+
+http://localhost:1313/2012/09/rigatoni-with-roasted-cauliflower-and-spicy-tomato-sauce-recipe/ — 1 new link added, 3 existing links updated (1 out-of-stock replaced ×2 occurrences + all tags corrected to herb-hugo-20).
+http://localhost:1313/2010/05/risotto-cake-with-crispy-ramps-recipe/ — 2 new links added, 0 updated.
+2 posts modified, 0 skipped.
+--- Individual run finished at Thu Feb 19 2026 ---
+
+=== Batch 38/55 ===
+ridiculously-good-guacamole-recipe.md: 1 new link (potato masher -> B00004OCL9)

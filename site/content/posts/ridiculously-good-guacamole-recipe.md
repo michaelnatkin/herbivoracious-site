@@ -44,7 +44,7 @@ Serves 4-6 greedy guac hounds
 <ol>
 	<li>Extract the avocado flesh into a medium bowl as described above.</li>
 	<li>Add all of the other ingredients, including 1 teaspoon of salt.</li>
-	<li>Mash and mix lightly. I prefer a potato masher but the back of a big fork works well too.</li>
+	<li>Mash and mix lightly. I prefer a <a href="https://www.amazon.com/dp/B00004OCL9?tag=herb-hugo-20">potato masher</a> but the back of a big fork works well too.</li>
 	<li>Taste and add salt and more lime juice if needed.</li>
 </ol>
 <div style="padding-left: 20px; padding-top: 10px;"><script type="text/javascript">// <!]></script><script type="text/javascript" src="http://www.assoc-amazon.com/s/ads.js"></script></div>
