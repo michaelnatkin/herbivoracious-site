@@ -14,11 +14,11 @@ cover:
 
 Kim Davidson from <a href="http://www.davidsoncommodities.com/pnw-coop-specialty-foods">Pacific Northwest Farmers Cooperative</a> is doing amazing work supporting real family farms that are growing non-GMO grains, beans and lentils on the <strong>Palouse Prarie</strong>. So when he offered to send me a sample of their new crop of "caviar" lentils, grown by PNW Co-op Farmer Ambassador, <a href="http://www.davidsoncommodities.com/meet-our-pnw-co-op-farmer-ambassador" target="_blank">Jim Hermann</a>, it wasn't hard to say yes.
 
-Kim asked me to develop a new recipe that they could use to highlight this wonderful product. I wanted to leave the lentils alone, with a simple sherry vinegar dressing that highlights their sweet, earthy flavor. The same dressing goes on the salad of arugula and crispy shallots <strong>(which I cribbed from the classic Vietnamese garnish)</strong>. A nice slice of artisan toast spread thick with roasted garlic can be used to hoist the lentils or mop up the dressing.
+Kim asked me to develop a new recipe that they could use to highlight this wonderful product. I wanted to leave the lentils alone, with a simple <a href="https://www.amazon.com/dp/B0058DO1SG?tag=herb-hugo-20">sherry vinegar</a> dressing that highlights their sweet, earthy flavor. The same dressing goes on the salad of arugula and crispy shallots <strong>(which I cribbed from the classic Vietnamese garnish)</strong>. A nice slice of artisan toast spread thick with roasted garlic can be used to hoist the lentils or mop up the dressing.
 
-Speaking of the dressing, I made it with a nice extra-virgin olive oil, but it would also be <strong>spectacular</strong> with <a href="http://www.amazon.com/dp/B0000D9MRD/?tag=poeticlicen07-20" target="_blank">toasted walnut oil</a> or <a href="http://www.amazon.com/dp/B0000D9MRC/?tag=poeticlicen07-20" target="_blank">hazelnut oil</a>. I would have used one of them myself, but that's a <a href="/2009/02/understanding-deadly-food-allergies-this-post-could-save-a-life/" target="_blank">non-starter in my house</a>. Another nice option would be <a href="http://www.amazon.com/dp/B000Q9SEZS/?tag=poeticlicen07-20" target="_blank">truffle oil</a>.
+Speaking of the dressing, I made it with a nice extra-virgin olive oil, but it would also be <strong>spectacular</strong> with <a href="https://www.amazon.com/dp/B0000D9MRD?tag=herb-hugo-20" target="_blank">toasted walnut oil</a> or <a href="https://www.amazon.com/dp/B0000D9MRC?tag=herb-hugo-20" target="_blank">hazelnut oil</a>. I would have used one of them myself, but that's a <a href="/2009/02/understanding-deadly-food-allergies-this-post-could-save-a-life/" target="_blank">non-starter in my house</a>. Another nice option would be <a href="https://www.amazon.com/dp/B000Q9SEZS?tag=herb-hugo-20" target="_blank">truffle oil</a>.
 
-<strong>You might be wondering about the name</strong>, "caviar" lentils. They are very similar to the ones you may see marketed as beluga lentils or simply black lentils. Kim and Jim's black lentils will be available in Seattle area stores in a couple of months, and probably from the wonderful <a href="http://chefshop.com?afid=10" target="_blank">ChefShop.com</a> as well. (You can also find another variety of black lentils <a href="http://www.amazon.com/dp/B0013TMTZQ/?tag=poeticlicen07-20" target="_blank">from ChefShop on Amazon</a>.)
+<strong>You might be wondering about the name</strong>, "caviar" lentils. They are very similar to the ones you may see marketed as beluga lentils or simply black lentils. Kim and Jim's black lentils will be available in Seattle area stores in a couple of months, and probably from the wonderful <a href="http://chefshop.com?afid=10" target="_blank">ChefShop.com</a> as well. (You can also find another variety of black lentils <a href="https://www.amazon.com/dp/B0013TMTZQ?tag=herb-hugo-20" target="_blank">from ChefShop on Amazon</a>.)
 
 To turn this salad into a light entree, you could add a dollop of <strong>Greek yogurt, a piece of ripe cheese, or a fried egg</strong>.
 
@@ -29,7 +29,7 @@ To turn this salad into a light entree, you could add a dollop of <strong>Greek 
 <ul>
 	<li>2 large heads garlic</li>
 	<li>Extra-virgin olive oil</li>
-	<li>1 1/4 cups black lentils (Beluga aka Caviar lentils)</li>
+	<li>1 1/4 cups <a href="https://www.amazon.com/dp/B08BNPW71P?tag=herb-hugo-20">black lentils</a> (Beluga aka Caviar lentils)</li>
 	<li>1 cup vegetable oil (for shallow-frying shallots)</li>
 	<li>3/4 cup sliced shallots</li>
 	<li>4 teaspoons sherry vinegar</li>
@@ -37,7 +37,7 @@ To turn this salad into a light entree, you could add a dollop of <strong>Greek 
 	<li>4 slices artisan bread</li>
 	<li>4 handfuls baby arugula, washed and dried</li>
 	<li>About 20 cherry tomatoes, halved</li>
-	<li>Flaky sea salt</li>
+	<li><a href="https://www.amazon.com/dp/B086XGH24W?tag=herb-hugo-20">Flaky sea salt</a></li>
 	<li>Fresh ground black pepper</li>
 </ul>
 <ol>
