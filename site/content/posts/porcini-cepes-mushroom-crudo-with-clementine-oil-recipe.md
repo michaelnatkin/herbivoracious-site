@@ -24,7 +24,7 @@ Crudo is the Italian answer to sashimi. Raw fish, or in our case, mushroom, is s
 	<li>Zest and juice of 1 clementine or orange</li>
 	<li>12 thin, center slices of porcini mushroom, about 1mm thick</li>
 	<li>12 roasted pistachios</li>
-	<li><a href="http://www.amazon.com/dp/B0019ZHXQE/?tag=poeticlicen07-20" rel="nofollow" target="_blank">Maldon salt,</a> as needed</li>
+	<li><a href="https://www.amazon.com/dp/B0019ZHXQE?tag=herb-hugo-20" rel="nofollow" target="_blank">Maldon salt,</a> as needed</li>
 	<li>Chervil leaves, as needed</li>
 </ul>
 <ol>
