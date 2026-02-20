@@ -9,7 +9,7 @@ cover:
   hidden: true
 ---
 
-A few weeks ago, out of the blue, Cristina from <a href="http://www.mimaseca.com/en/" target="_blank">MaSeCa</a> emailed me to see if I wanted to be in their 2011 calendar. I use MaSeCa's masa harina a lot, for everything from tamales to pupusas, so I said yes figuring it would be good fun. So some day next year you might walk into a taqueria and see my smiling mug.
+A few weeks ago, out of the blue, Cristina from <a href="http://www.mimaseca.com/en/" target="_blank">MaSeCa</a> emailed me to see if I wanted to be in their 2011 calendar. I use MaSeCa's <a href="https://www.amazon.com/dp/B07W4MLCRN?tag=herb-hugo-20">masa harina</a> a lot, for everything from tamales to pupusas, so I said yes figuring it would be good fun. So some day next year you might walk into a taqueria and see my smiling mug.
 
 Margarita, Carlos and Martha visited me this morning as part of their 12 day trip around the country to shoot cooks and their food. It was really cool for me to see how Margarita styled my <a href="/2009/11/bocoles-masa-and-black-bean-cakes-with-spicy-yams-recipe/" target="_blank">bocoles with spicy yams</a>, and Carlos shot them. We had fun talking shop about photography too, and I learned a lot from how he approached the project. (Not to mention drooling over his tilt-shift lenses).
 

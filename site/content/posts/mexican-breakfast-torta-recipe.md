@@ -24,13 +24,13 @@ cover:
 <ul>
 <li>2 poblano peppers</li>
 <li>1 cup thinly sliced red cabbage</li>
-<li>1 tablespoon mayonnaise or vegan mayonnaise</li>
+<li>1 tablespoon mayonnaise or <a href="https://www.amazon.com/dp/B07B3PYTKN?tag=herb-hugo-20">vegan mayonnaise</a></li>
 <li>1 tablespoon lime juice</li>
 <li>Kosher salt</li>
 <li>4 bolillo or telera rolls (or substitute as described above)</li>
 <li>2 cups vegetarian refried beans, heated (refried black beans are great too) – add salt and/or cumin if needed</li>
 <li>6 eggs, scrambled (with ½ teaspoon Kosher salt and 2 tablespoons water) or, for vegan, 1 avocado, thinly sliced</li>
-<li>½ cup cotija cheese, crumbled (omit for vegan)</li>
+<li>½ cup <a href="https://www.amazon.com/dp/B07BM98393?tag=herb-hugo-20">cotija cheese</a>, crumbled (omit for vegan)</li>
 <li>cilantro</li>
 </ul>
 <ol>
