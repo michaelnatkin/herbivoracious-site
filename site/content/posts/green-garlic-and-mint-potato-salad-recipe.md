@@ -16,7 +16,7 @@ Green garlic is one of those wonderful farmer's market ingredients. At least in 
 
 To prepare green garlic, you want to cut off the frizzly roots and the tough, dark green tops. Then peel off the tough outermost leaf, and you should be left with a sizable, relatively tender length of white to pale green shoot.
 
-For this salad, the green garlic is briefly sauteed to soften. I add a couple of minced garlic cloves to the dressing though, to make sure the garlic flavor is distinct. I originally was going to do this dressing as a plain vinaigrette, but then I found that just a little bit of mayonnaise (or <strong>Vegenaise, which is quite tasty</strong>) brought out a better texture and flavor. The final addition of mint brightens things up, but you could also use fresh oregano or marjoram if they are to hand.
+For this salad, the green garlic is briefly sauteed to soften. I add a couple of minced garlic cloves to the dressing though, to make sure the garlic flavor is distinct. I originally was going to do this dressing as a plain vinaigrette, but then I found that just a little bit of mayonnaise (or <strong><a href="https://www.amazon.com/dp/B000QJAFY6?tag=herb-hugo-20">Vegenaise, which is quite tasty</a></strong>) brought out a better texture and flavor. The final addition of mint brightens things up, but you could also use fresh oregano or marjoram if they are to hand.
 
 If you have time, make the dressing in advance and allow the flavors to meld before giving them a final adjustment and mixing with the cooled potatoes.
 
@@ -34,7 +34,7 @@ This recipe makes enough to bring to a big potluck, but you can easily cut it in
 	<li>3 tablespoons white wine vinegar</li>
 	<li>1/4 cup mayonnaise or vegan mayonnaise</li>
 	<li>Freshly ground black pepper</li>
-	<li>1 tablespoon <a href="http://www.amazon.com/dp/B0006FS4TI/?tag=poeticlicen07-20" target="_blank">Maldon (aka the world's greatest salt)</a>  (less if using Kosher salt)</li>
+	<li>1 tablespoon <a href="https://www.amazon.com/dp/B0006FS4TI?tag=herb-hugo-20">Maldon (aka the world's greatest salt)</a>  (less if using Kosher salt)</li>
 	<li>1/2 teaspoon minced fresh rosemary leaves</li>
 	<li>1/4 teaspoon cayenne pepper</li>
 	<li>Freshly ground black pepper</li>

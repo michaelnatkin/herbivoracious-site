@@ -13,7 +13,7 @@ cover:
 
 These green beans are <strong>perfect for a potluck</strong>; the beans themselves are blanched and shocked and you can then hold them cold a day in advance and dress them close to serving time. They can be cooked traditionally in a big pot, or in a simple sous vide setup if you are so inclined - I've offered both options in the recipe.
 
-I've been on a big <strong>fresh marjoram</strong> kick lately. It is in the same family as oregano, but I think the flavor is more complex and resinous and interesting. It is especially well loved in Greek cuisine and pairs beautifully with feta and olives. If you can't find fresh marjoram, use fresh oregano and/or thyme.
+I've been on a big <strong><a href="https://www.amazon.com/dp/B08LCKK4WV?tag=herb-hugo-20">fresh marjoram</a></strong> kick lately. It is in the same family as oregano, but I think the flavor is more complex and resinous and interesting. It is especially well loved in Greek cuisine and pairs beautifully with feta and olives. If you can't find fresh marjoram, use fresh oregano and/or thyme.
 
 This dish is so simple that the quality of the feta and olives you use will make a big difference; buy the best you can afford. You might also <strong>add a bit of lemon or orange zest</strong> for even more flavor.
 
@@ -32,14 +32,14 @@ Also, you may have noticed that my new recipes have a <strong>shiny Save Recipe 
   <li>70 grams (1/3 cup) extra-virgin olive oil</li>
   <li>5 grams (1 teaspoon) kosher salt</li>
   <li>200 grams (1 1/3 cups) creamy feta, crumbled</li>
-  <li>300 grams (1 1/2 cups) pitted taste black olives (I used Taggiascas), sliced</li>
+  <li>300 grams (1 1/2 cups) pitted taste black olives (I used <a href="https://www.amazon.com/dp/B07HY8DW8L?tag=herb-hugo-20">Taggiascas</a>), sliced</li>
   <li>Freshly ground black pepper</li>
   <li>Lots of fresh marjoram or oregano</li>
 </ul>
   <h3>Instructions</h3>
   <ol>
   <li>Set up an ice bath for shocking the blanched green beans.</li>
-  <li>Cooking option 1: combine the green beans, olive oil and salt in a bag, seal, and cook sous vide at 85 C for 15 minutes. This can be done using the <a href="http://www.chefsteps.com/activities/improvised-sous-vide-pot-on-a-stove-method">improvised sous vide method</a> if you don't have an immersion circulator. Shock in the bag in ice water to stop the cooking.</li>
+  <li>Cooking option 1: combine the green beans, olive oil and salt in a bag, seal, and cook sous vide at 85 C for 15 minutes. This can be done using the <a href="http://www.chefsteps.com/activities/improvised-sous-vide-pot-on-a-stove-method">improvised sous vide method</a> if you don't have an <a href="https://www.amazon.com/dp/B094921FYY?tag=herb-hugo-20">immersion circulator</a>. Shock in the bag in ice water to stop the cooking.</li>
   <li>Cooking option 2: bring a very large pot of salted water to a boil. Boil the green beans until just barely tender and still bright green, working in two batches if necessary. Shock in the ice water.</li>
   <li>When the beans are well chilled, transfer to serving bowl. If cooked using option 2, add the olive oil and salt now and toss well. Garnish with the feta, black olives, pepper and marjoram. Toss just before serving, as it looks beautiful before tossing.</li>
 </ol>

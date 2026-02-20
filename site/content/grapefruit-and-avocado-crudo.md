@@ -19,10 +19,10 @@ Vegetarian, vegan, and gluten-free</em>
 <ul>
 	<li>2 red grapefruit, sliced as described above</li>
 	<li>1 ripe avocado, thinly sliced</li>
-	<li>about 12 chervil sprigs</li>
-	<li>1 tablespoon capers, briefly soaked to remove some salt and drained</li>
+	<li>about 12 <a href="https://www.amazon.com/dp/B0DCG5973B?tag=herb-hugo-20">chervil</a> sprigs</li>
+	<li>1 tablespoon <a href="https://www.amazon.com/dp/B0B8T8K2TC?tag=herb-hugo-20">capers</a>, briefly soaked to remove some salt and drained</li>
 	<li>2 tablespoons fruity extra virgin olive oil</li>
-	<li>sea salt (<a href="http://www.amazon.com/gp/product/B0019N89VE?ie=UTF8&amp;tag=poeticlicen07-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B0019N89VE">Maldon (aka the world's greatest salt)!</a>)</li>
+	<li>sea salt (<a href="https://www.amazon.com/dp/B0019N89VE?tag=herb-hugo-20">Maldon (aka the world's greatest salt)!</a>)</li>
 	<li>fresh ground black pepper</li>
 </ul>
 <ol>
