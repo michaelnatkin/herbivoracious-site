@@ -15,15 +15,15 @@ cover:
 
 When I <a href="/2008/02/what-i-learned/" target="_blank">worked at Cafe Flora</a>, we had gnocchi on the menu for a few months, so I had the opportunity to make, oh, a thousand of them by hand most days. Knocking out a few servings for my family seems like a walk in the park by comparison - and it really is easy once you get the hang of the few simple tips I'll share with you.
 
-Gnocchi are fantastic when simply boiled, buttered and bathed in a basic tomato sauce. Pan-frying the boiled gnocchi is another favorite method; it adds a layer of crispy textural contrast to the creamy interior, and some delicious toasty flavor notes as well. Here I've paired the crispy gnocchi with melted leeks, slightly bitter radicchio, and ricotta salata (made from regular ricotta that has been pressed and salted.)
+Gnocchi are fantastic when simply boiled, buttered and bathed in a basic tomato sauce. Pan-frying the boiled gnocchi is another favorite method; it adds a layer of crispy textural contrast to the creamy interior, and some delicious toasty flavor notes as well. Here I've paired the crispy gnocchi with melted leeks, slightly bitter radicchio, and <a href="https://www.amazon.com/dp/B0787VWCF3?tag=herb-hugo-20">ricotta salata</a> (made from regular ricotta that has been pressed and salted.)
 
 Not everyone adds egg to their gnocchi dough. Personally, I find that a small amount of egg adds a little insurance against the dumplings falling apart, and a pleasing flavor as well.
 
-You'll see that I call for baking the potatoes on a layer of Kosher salt. That serves two purposes. It allows heat and air to circulate under the potato, and it will also dry up any moisture that seeps out. Moist potatoes are the enemy of gnocchi, so I also cut them in half while they are cooling to let more steam escape. A <a href="http://amzn.to/gZUVu8" target="_blank">potato ricer</a> is the ideal tool for mashing the cooled potatoes, as it takes them apart into a fluffy pile without breaking up the starch granules into a sticky mass. Other options are a food mill or a box grater.
+You'll see that I call for baking the potatoes on a layer of Kosher salt. That serves two purposes. It allows heat and air to circulate under the potato, and it will also dry up any moisture that seeps out. Moist potatoes are the enemy of gnocchi, so I also cut them in half while they are cooling to let more steam escape. A <a href="https://www.amazon.com/dp/B00MUEHPGQ?tag=herb-hugo-20" target="_blank">potato ricer</a> is the ideal tool for mashing the cooled potatoes, as it takes them apart into a fluffy pile without breaking up the starch granules into a sticky mass. Other options are a food mill or a box grater.
 
 Getting the right amount of flour in the dough is the critical factor in making gnocchi that neither fall apart nor have a leaden texture. The dough should stick together but not be sticky, if you know what I mean. Until you get the hang of it, just keep a pot of water boiling and boil a test gnocchi or two until they are coming out just right. They only take a couple of minutes to boil, so this is easy to do.
 
-The traditional tool for shaping the grooves in gnocchi is a fork, but I really love this <a href="http://amzn.to/fT7Hb5" target="_blank">cheapo little gnocchi board</a>. It is faster and produces neater, deeper grooves than I can make with a fork.
+The traditional tool for shaping the grooves in gnocchi is a fork, but I really love this <a href="https://www.amazon.com/dp/B0019R7SPS?tag=herb-hugo-20" target="_blank">cheapo little gnocchi board</a>. It is faster and produces neater, deeper grooves than I can make with a fork.
 
 <div class="recipe-card">
 <strong>Pan-Fried Gnocchi with Radicchio, Leeks and Ricotta Salata</strong>

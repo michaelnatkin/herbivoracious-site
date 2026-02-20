@@ -255,3 +255,48 @@ http://localhost:1313/2008/07/garlic-scape-ri/ — 1 new link added, 0 updated.
 http://localhost:1313/2011/05/garnish/ — 3 new links added, 1 existing link updated (tag corrected to herb-hugo-20).
 2 posts modified, 0 skipped.
 --- Individual run finished at Thu Feb 19 2026 ---
+--- Batch run #6 finished at Thu Feb 19 17:19:12 PST 2026 ---
+Individual post run — golden-beet-tartare-recipe and gomashio-japanese-sesame-seed-salt-condiment-recipe:
+
+| Post | New Links | Updated Links | Notes |
+|------|-----------|---------------|-------|
+| golden-beet-tartare-recipe | 2 | 1 | capers (B074H61RBF, 365 Organic Nonpareil Capers, $2.99), ring mold (B01IO57N0W, Sunrise Kitchen Supply, $11.85); Maldon salt tag updated poeticlicen07-20 → herb-hugo-20 + upgraded to https |
+| gomashio-japanese-sesame-seed-salt-condiment-recipe | 2 | 1 | raw sesame seeds (B00B8DTH2K, Kevala Unhulled, $9.48), spice grinder (B07SYTRPSG, Amazon Basics, $15.44); suribachi tag updated poeticlicen07-20 → herb-hugo-20 + URL modernized |
+
+http://localhost:1313/2009/05/golden-beet-tartare-recipe/ — 2 new links added, 1 existing link updated (tag + URL modernized to herb-hugo-20).
+http://localhost:1313/2010/03/gomashio-japanese-sesame-seed-salt-condiment-recipe/ — 2 new links added, 1 existing link updated (tag + URL modernized to herb-hugo-20).
+2 posts modified, 0 skipped.
+--- Individual run finished at Thu Feb 19 2026 ---
+Individual post run — ginger-and-black-pepper-rice-pilafrecipe and gnocchi-with-radicchio-leeks-and-ricotta-salata-vegetarian-recipe:
+
+| Post | New Links | Updated Links | Notes |
+|------|-----------|---------------|-------|
+| ginger-and-black-pepper-rice-pilafrecipe | 2 | 2 | ghee (B00VXQGY28, 4th & Heart, $11.19), basmati rice (B00I330QEQ, Royal, $23.99); 2 existing tags updated poeticlicen07-20 → herb-hugo-20 (microplane B001VGS1M6, Indian lime pickle B000JSSOCY) |
+| gnocchi-with-radicchio-leeks-and-ricotta-salata-vegetarian-recipe | 1 | 2 | ricotta salata (B0787VWCF3, Mitica, $8.99); potato ricer replaced out-of-stock B00004SU1J → B00MUEHPGQ (PriorityChef, $21.99), gnocchi board amzn.to link → proper amazon.com/dp/B0019R7SPS |
+
+http://localhost:1313/2012/06/ginger-and-black-pepper-rice-pilafrecipe/ — 2 new links added, 2 existing links updated.
+http://localhost:1313/2011/04/gnocchi-with-radicchio-leeks-and-ricotta-salata-vegetarian-recipe/ — 1 new link added, 2 existing links updated (1 out-of-stock replaced, 1 amzn.to resolved).
+2 posts modified, 0 skipped.
+--- Individual run finished at Thu Feb 19 2026 ---
+Individual post run — good-stuff-from-bourbon-barrel-foods and gorditas-with-roasted-mushrooms-recipe:
+
+| Post | New Links | Updated Links | Notes |
+|------|-----------|---------------|-------|
+| good-stuff-from-bourbon-barrel-foods | 1 | 2 | Sorghum ASIN corrected B0035R8O12 → B0018GD1NI (Golden Barrel Pure Sorghum Syrup, $12.99); malformed nested anchor fixed for bourbon-smoked paprika; all 3 affiliate tags updated poeticlicen07-20 → herb-hugo-20 |
+| gorditas-with-roasted-mushrooms-recipe | 4 | 1 | masa harina (B07PTP4HDH, Masienda, $7.99), chili de arbol (B07TYNF3ND, $6.97), tortilla press (B00HWEIKZO, Victoria 8", $29.99), paring knife replaced broken myshopping.com.au link (B0DZJHRSF8, Misen 3.5", $33); Rick Bayless Authentic Mexican tag updated poeticlicen07-20 → herb-hugo-20 |
+
+http://localhost:1313/2009/09/good-stuff-from-bourbon-barrel-foods/ — 1 new link added, 2 existing links updated (ASIN correction + nested anchor fixed + all tags corrected to herb-hugo-20).
+http://localhost:1313/2013/04/gorditas-with-roasted-mushrooms-recipe/ — 4 new links added, 1 existing link updated (tag corrected to herb-hugo-20).
+2 posts modified, 0 skipped.
+--- Individual run finished at Thu Feb 19 2026 ---
+Individual post run — gougeres-chee and grape-honey-yogurt-recipe:
+
+| Post | New Links | Updated Links | Notes |
+|------|-----------|---------------|-------|
+| gougeres-chee | 1 | 2 | Bleu D'Auvergne blue cheese (B079NQVXQX, Livradois, $18.99); Alice Waters "The Art of Simple Food" converted from asin-attr to proper affiliate href (0307336794); Silpat converted from asin-attr to proper affiliate href (B00008T960) |
+| grape-honey-yogurt-recipe | 2 | 3 | rosewater (B00V8TRZG4, CORTAS Rose Flower Water, $7.00), sodium alginate (B00BLPNHLW, Pure Sodium Alginate Molecular Gastronomy, $12.99); dry harissa replaced out-of-stock B001E453JO → B005WDVR0W (Frontier Co-op Organic Harissa, $5.36); dukkah replaced out-of-stock B001EO5T5M → B0B88NVJC1 (Villa Jerada Dukkah, $10.99); Maldon salt URL/tag modernized poeticlicen07-20 → herb-hugo-20 |
+
+http://localhost:1313/2008/06/gougeres-chee/ — 1 new link added, 2 existing links updated (converted from asin-attr format to proper affiliate hrefs).
+http://localhost:1313/2009/03/grape-honey-yogurt-recipe/ — 2 new links added, 3 existing links updated (2 out-of-stock replaced, 1 tag/URL modernized to herb-hugo-20).
+2 posts modified, 0 skipped.
+--- Individual run finished at Thu Feb 19 2026 ---

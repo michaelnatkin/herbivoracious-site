@@ -19,17 +19,17 @@ My version of this curry comes out neither saucy nor completely dry. It is impor
 
 This same recipe can just as easily be used with any other vegetable that will hold its shape and not give up too much water, such as beets or turnips. For these firmer vegetables, you might want to parboil or microwave them first, to reduce the final cooking time.
 
-One possibly less familiar spice you'll see in the ingredient list is <a href="http://www.amazon.com/dp/B000MUX3D4/?tag=poeticlicen07-20" target="_blank">asafoetida, otherwise known as hing</a>, which is the ground-up gum from a particular plant rhizome. Asafoetida is pungent and has a flavor somewhat akin to aged garlic. It is used in small quantities to add savor to curries. It is also reputed to aid digestion.
+One possibly less familiar spice you'll see in the ingredient list is <a href="https://www.amazon.com/dp/B000MUX3D4?tag=herb-hugo-20" target="_blank">asafoetida, otherwise known as hing</a>, which is the ground-up gum from a particular plant rhizome. Asafoetida is pungent and has a flavor somewhat akin to aged garlic. It is used in small quantities to add savor to curries. It is also reputed to aid digestion.
 
-Serve this up with basmati rice, <a href="/2009/02/chana-dal-in-the-style-of-puri-jagannath-temple-recipe/" target="_blank">dal</a>, <a href="/2009/09/cucumber-radish-and-cilantro-raita-recipe/" target="_blank">raita</a>, and tamarind chutney and/or some Indian pickles for a satisfying feast.
+Serve this up with basmati rice, <a href="/2009/02/chana-dal-in-the-style-of-puri-jagannath-temple-recipe/" target="_blank">dal</a>, <a href="/2009/09/cucumber-radish-and-cilantro-raita-recipe/" target="_blank">raita</a>, and <a href="https://www.amazon.com/dp/B00BUXM4X2?tag=herb-hugo-20">tamarind chutney</a> and/or some Indian pickles for a satisfying feast.
 
 <div class="recipe-card">
 <strong>Gobi Masala (Cauliflower Curry)
 </strong><em>Vegetarian, vegan, and gluten-free</em> / s<em>erves 4 as part of an Indian meal</em>
 <ul>
 	<li>2 tablespoons vegetable oil</li>
-	<li>1 tablespoon mustard oil (if not available, use 1 more tablespoon vegetable oil)</li>
-	<li>1 tablespoon <a href="http://www.amazon.com/dp/B000JMAXMY/?tag=poeticlicen07-20" target="_blank">black mustard seeds</a></li>
+	<li>1 tablespoon <a href="https://www.amazon.com/dp/B08W4PP6W2?tag=herb-hugo-20">mustard oil</a> (if not available, use 1 more tablespoon vegetable oil)</li>
+	<li>1 tablespoon <a href="https://www.amazon.com/dp/B000JMAXMY?tag=herb-hugo-20" target="_blank">black mustard seeds</a></li>
 	<li>1 medium onion, minced</li>
 	<li>1 1/2 teaspoons Kosher salt</li>
 	<li>8 cloves garlic, minced</li>
@@ -40,7 +40,7 @@ Serve this up with basmati rice, <a href="/2009/02/chana-dal-in-the-style-of-pur
 	<li>1/2 teaspoon cayenne pepper (or more, to taste)</li>
 	<li>pinch <a href="http://www.amazon.com/dp/B000MUX3D4/?tag=poeticlicen07-20" target="_blank">asafoetida (hing)</a> powder (see comments discussion if you need gluten-free)</li>
 	<li>1 large cauliflower cut into bite sized florets</li>
-	<li>1/2 teaspoon garam masala</li>
+	<li>1/2 teaspoon <a href="https://www.amazon.com/dp/B00309S13Q?tag=herb-hugo-20">garam masala</a></li>
 	<li>cilantro</li>
 </ul>
 <ol>
