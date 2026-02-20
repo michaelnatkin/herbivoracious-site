@@ -12,7 +12,7 @@ cover:
 <span style="font-size: 0.8em;"><a href="/images/2008/06/05/pankocrustedeggwithsmokedasparagus.jpg" rel="lightbox"><img title="Panko-Crusted Egg With Cherry Smoked Asparagus, Smoked Paprika, And Sherry Gastrique" src="/images/2008-small/06/05/pankocrustedeggwithsmokedasparagus.jpg" alt="Panko-Crusted Egg With Cherry Smoked Asparagus, Smoked Paprika, And Sherry Gastrique" width="455" height="302" border="0" /></a></span>
 <span style="font-size: 0.8em;">Panko-Crusted Egg With Cherry Smoked Asparagus, Smoked Paprika, And Sherry Gastrique</span>
 
-This was the third course for <a href="/2008/05/dinner-party-1/">my recent "underground" dinner party</a>, and definitely my favorite. The panko-crusted egg was a late-night inspiration. I've been on a hunt for new ways to add crispy textures in unexpected places. The crunchy panko makes a really cool counterpoint to a correctly cooked, soft and smooth hardboiled egg. Eggs and asparagus have a natural affinity, and smoking the asparagus doubles up the flavor of the <a href="http://www.amazon.com/dp/B000NO943C/?tag=poeticlicen07-20" target="_blank" rel="nofollow">smoked paprika</a> (pimenton dulce). The sherry gastrique adds complex sweet/sour/caramelized notes.
+This was the third course for <a href="/2008/05/dinner-party-1/">my recent "underground" dinner party</a>, and definitely my favorite. The panko-crusted egg was a late-night inspiration. I've been on a hunt for new ways to add crispy textures in unexpected places. The crunchy panko makes a really cool counterpoint to a correctly cooked, soft and smooth hardboiled egg. Eggs and asparagus have a natural affinity, and smoking the asparagus doubles up the flavor of the <a href="https://www.amazon.com/dp/B000NO943C?tag=herb-hugo-20">smoked paprika</a> (pimenton dulce). The sherry gastrique adds complex sweet/sour/caramelized notes.
 
 <i><b>NOTE:</b> I no longer recommend jury-rigged stovetop smoking. I've since learned that creating smoke in a low-oxygen sealed environment like this creates unnecessarily high levels of carcinogens. See my <a href="/2013/01/smoked-tofu-buns-recipe/">Smoked Tofu Buns</a> recipe for a safer alternative if you don't have your own method of smoking.</i>
 
@@ -23,13 +23,13 @@ Vegetarian, not vegan or gluten-free</em>
 <ul>
 	<li>4 eggs (3 for boiling, 1 for battering)</li>
 	<li>cornstarch</li>
-	<li>panko</li>
+	<li><a href="https://www.amazon.com/dp/B000WD3PZM?tag=herb-hugo-20">panko</a></li>
 	<li>oil for shallow frying</li>
 	<li>smoked Spanish paprika</li>
-	<li>1 c. sherry vinegar (<a type="amzn">"O" brand is good</a>)</li>
+	<li>1 c. <a href="https://www.amazon.com/dp/B07FY1CYRY?tag=herb-hugo-20">sherry vinegar</a> ("O" brand is good)</li>
 	<li>1/2 c. sugar</li>
 	<li>24 fat spears asparagus</li>
-	<li>Maldon (aka the world's greatest salt) salt or other finishing salt</li>
+	<li><a href="https://www.amazon.com/dp/B00017028M?tag=herb-hugo-20">Maldon</a> (aka the world's greatest salt) salt or other finishing salt</li>
 	<li>extra-virgin olive oil</li>
 </ul>
 <ol>

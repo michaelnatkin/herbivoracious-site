@@ -17,7 +17,7 @@ Earlier this week I had the pleasure of cooking a five-course dinner at <a href=
 
 The best part about planning this dinner was that I got to use city harvested fruit in every course. Today's post is (a variation of) the entree, with pan-fried polenta, a chickpea stew based on my <a href="/2012/03/polenta-with-pepperonata-recip/" target="_blank">peperonata</a>, king oyster mushrooms, and City Fruit's fig puree.
 
-If you don't have fig puree on hand, you could dilute this (quite tasty) <a href="http://www.amazon.com/dp/B005GGUITQ/?tag=poeticlicen07-20" target="_blank">fig spread </a> with boiling water to a saucy consistency. In the past it hasn't been my style to put sweet components in savory dishes, but recently I've started to come around to appreciating that idea, which is especially popular in Moroccan cuisine. City Fruit's puree had this rich, raisiny, winey flavor that I loved.
+If you don't have fig puree on hand, you could dilute this (quite tasty) <a href="https://www.amazon.com/dp/B005GGUITQ?tag=herb-hugo-20" target="_blank">fig spread </a> with boiling water to a saucy consistency. In the past it hasn't been my style to put sweet components in savory dishes, but recently I've started to come around to appreciating that idea, which is especially popular in Moroccan cuisine. City Fruit's puree had this rich, raisiny, winey flavor that I loved.
 
 King oyster mushrooms are my favorite backstop when I can't find wild mushrooms. They are available year round and are often a terrific bargain at Asian groceries. My first choice would have been lobster mushrooms, although chanterelles would be delicious too.
 
@@ -39,6 +39,6 @@ Serves 4
 <ol>
 	<li><span style="line-height: 13px;">Preheat oven to 450. Cut the mushrooms in half lengthwise on a diagonal. Toss with olive oil and roast until very tender. </span></li>
 	<li><span style="line-height: 13px;">Heat a large skillet over high heat. Add about 1/4 cup of extra virgin olive oil and pan fry the polenta until golden brown on both sides. Remove to a plate. With the skillet still on high, take the roasted mushrooms and sear them for a minute for extra flavor.</span></li>
-	<li><span style="line-height: 13px;">Drizzle 1/4 cup of the fig puree on the plate. Top with two slabs of the polenta, one-quarter of the chickpea-peperonata stew, three halves of king oyster mushrooom, a few flakes of the <a href="http://www.amazon.com/dp/B0006FS4TI/?tag=poeticlicen07-20" target="_blank">Maldon (aka the world's greatest salt)</a> , and a pinch of the minced parsley. Serve hot.</span></li>
+	<li><span style="line-height: 13px;">Drizzle 1/4 cup of the fig puree on the plate. Top with two slabs of the polenta, one-quarter of the chickpea-peperonata stew, three halves of king oyster mushrooom, a few flakes of the <a href="https://www.amazon.com/dp/B00017028M?tag=herb-hugo-20" target="_blank">Maldon (aka the world's greatest salt)</a> , and a pinch of the minced parsley. Serve hot.</span></li>
 </ol>
 </div>

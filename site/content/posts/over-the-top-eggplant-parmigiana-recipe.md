@@ -25,12 +25,12 @@ cover:
 <li>3 large or 5 smaller globe eggplant, about 4 pounds total</li>
 <li>Kosher salt</li>
 <li>vegetable oil for pan frying</li>
-<li>2 cups canned crushed Italian tomatoes (San Marzano preferred)</li>
+<li>2 cups canned crushed Italian tomatoes (<a href="https://www.amazon.com/dp/B004NPNBO0?tag=herb-hugo-20">San Marzano</a> preferred)</li>
 <li>2 cloves garlic, minced</li>
 <li>1 tablespoon olive oil</li>
 <li>1 cup all-purpose flour</li>
 <li>4 eggs, beaten</li>
-<li>3 cups panko breadcrumbs</li>
+<li>3 cups <a href="https://www.amazon.com/dp/B000WD3PZM?tag=herb-hugo-20">panko breadcrumbs</a></li>
 <li>3/4 pound fresh mozzarella sliced thin</li>
 <li>2 handfuls of fresh basil, roughly chopped for assembly plus 1 more for fresh tomato topping</li>
 <li>1 cup fresh grated parmesan cheese</li>
