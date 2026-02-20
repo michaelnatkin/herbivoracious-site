@@ -1,0 +1,39 @@
+{{ define "main" }}
+<div class="site-content" style="grid-template-columns: 1fr;">
+  <main class="main-content">
+    <div class="four-oh-four">
+      <div class="four-oh-four__visual">
+        <span class="four-oh-four__num">4</span>
+        <span class="four-oh-four__plate">
+          <svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg" class="four-oh-four__svg">
+            <circle cx="60" cy="60" r="58" fill="none" stroke="currentColor" stroke-width="2" opacity="0.2"/>
+            <circle cx="60" cy="60" r="48" fill="none" stroke="currentColor" stroke-width="1.5" opacity="0.12"/>
+            <text x="60" y="68" text-anchor="middle" font-size="36" fill="currentColor" opacity="0.18" font-family="Georgia, serif">?</text>
+          </svg>
+        </span>
+        <span class="four-oh-four__num">4</span>
+      </div>
+
+      <h1 class="four-oh-four__title">This dish isn't on the menu</h1>
+      <p class="four-oh-four__desc">
+        The page you're looking for may have been moved, renamed, or perhaps it was just a figment of a hungry imagination.
+      </p>
+
+      <div class="four-oh-four__actions">
+        <a href="{{ "/" | relURL }}" class="four-oh-four__btn four-oh-four__btn--primary">Back to the kitchen</a>
+        <a href="{{ "categories/recipes/" | relURL }}" class="four-oh-four__btn four-oh-four__btn--secondary">Browse recipes</a>
+        <a href="{{ "search/" | relURL }}" class="four-oh-four__btn four-oh-four__btn--secondary">Search the site</a>
+      </div>
+
+      <div class="four-oh-four__suggestions">
+        <p class="four-oh-four__suggestions-label">Popular dishes to try instead</p>
+        <div class="four-oh-four__links">
+          {{ range first 6 (where .Site.RegularPages "Section" "posts") }}
+          <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  </main>
+</div>
+{{ end }}
