@@ -29,7 +29,7 @@ p.s. I recently got a review copy of my friend Keren Brown's <a href="http://t.c
 <strong>Smoked Pineapple and Tomatillo Salsa</strong>
 <em>Vegetarian, vegan, and gluten-free / Makes about 2 cups</em>
 <ul>
-	<li>1 cup hickory or mesquite wood chips</li>
+	<li>1 cup <a href="https://www.amazon.com/dp/B01M0J88TD?tag=herb-hugo-20">hickory or mesquite wood chips</a></li>
 	<li>1 3/4 cups fresh pineapple chunks</li>
 	<li>4 small tomatillos, peeled and halved</li>
 	<li>3 green onions, ends removed and cut in half lengthwise</li>
@@ -37,12 +37,12 @@ p.s. I recently got a review copy of my friend Keren Brown's <a href="http://t.c
 	<li>1 jalapeno, seeded and coarsely chopped</li>
 	<li>1 handful cilantro</li>
 	<li>1 teaspoon Kosher salt</li>
-	<li>1 to 2 tablespoons agave nectar</li>
-	<li>Chile de arbol or cayenne powder</li>
+	<li>1 to 2 tablespoons <a href="https://www.amazon.com/dp/B0078DP4IK?tag=herb-hugo-20">agave nectar</a></li>
+	<li><a href="https://www.amazon.com/dp/B07TYNF3ND?tag=herb-hugo-20">Chile de arbol</a> or cayenne powder</li>
 </ul>
 <ol>
 	<li><del datetime="2014-07-23T04:19:21+00:00">Put the wood chips in a medium-sized saucepan that you don't mind discoloring. Place a folding steamer basket on top of the wood chips, and put the pineapple chunks on it. Put the lid on the pot, and place it on high heat. Cook for 5 minutes, then turn off the heat. </del> See note on safer smoking above. Carefully taste a piece of pineapple and confirm that it has a good level of smoke. If not, cook for another couple of minutes.</li>
 	<li>Heat a small skillet over medium-high heat. Put the tomatillos and green onions in (with no oil) and cook, turning occasionally, until they start to darken in spots, about 5 minutes.</li>
-	<li>Put the smoked pineapple, tomatillos, green onions, garlic, jalapeno, cilantro, salt, agave nectar, and a pinch of chile de arbol in a mini-food processor. Process until it forms a coarse puree. Taste and adjust seasoning. Serve at room temperature for best flavor. This salsa will keep for at least 3 days in the refrigerator.</li>
+	<li>Put the smoked pineapple, tomatillos, green onions, garlic, jalapeno, cilantro, salt, agave nectar, and a pinch of chile de arbol in a <a href="https://www.amazon.com/dp/B0000645YM?tag=herb-hugo-20">mini-food processor</a>. Process until it forms a coarse puree. Taste and adjust seasoning. Serve at room temperature for best flavor. This salsa will keep for at least 3 days in the refrigerator.</li>
 </ol>
 </div>

@@ -27,22 +27,22 @@ If you get all of your ingredients ready in advance, you can boil the pasta at t
 	<li>1 head cauliflower, broken into large florets</li>
 	<li>¼ cup extra virgin olive oil + more for garnish</li>
 	<li>4 cloves garlic, thinly sliced</li>
-	<li>1 teaspoon fennel seeds</li>
+	<li>1 teaspoon <a href="https://www.amazon.com/dp/B074H7Y7ZJ?tag=herb-hugo-20">fennel seeds</a></li>
 	<li>½ teaspoon chile flakes</li>
 	<li>Kosher salt</li>
 	<li>zest and juice of 1 orange (zest divided)</li>
 	<li>juice of ½ lemon</li>
-	<li>3 tablespoons capers</li>
+	<li>3 tablespoons <a href="https://www.amazon.com/dp/B074H61RBF?tag=herb-hugo-20">capers</a></li>
 	<li>¼ cup raisins, plumped in hot water</li>
 	<li>1 pound spaghetti</li>
-	<li>1/3 cup pine nuts, toasted</li>
+	<li>1/3 cup <a href="https://www.amazon.com/dp/B074H6811H?tag=herb-hugo-20">pine nuts</a>, toasted</li>
 	<li>fresh ground black pepper</li>
 	<li>flat leaf parsley, for garnish</li>
 	<li>grated fresh Parmesan cheese, for garnish (omit for vegan)</li>
 </ul>
 <ol>
 	<li>Bring a very large pot of well-salted water to a rolling boil and set your serving bowls to warm. Boil the cauliflower for 5 minutes, then remove with a slotted spoon into a colander (leave the water on to use for the spaghetti). It will not be fully tender at this point. Allow the cauliflower to drain for a few minutes.</li>
-	<li>Heat a large skillet (preferably cast iron) over a high flame. When it is hot, add the olive oil, garlic, fennel seeds, and chile flakes. Fry for about 20 seconds and then add the drained cauliflower and about ¾ teaspoon of salt, and toss to coat with the oil. Cook, tossing occasionally, until tender and developing deep brown caramelized spots. The way to get this to happen is to keep the heat high, and not toss too often, so that the surfaces on the bottom of the pan brown. When it is nearly done, mix in the orange juice and half of the orange zest, the lemon juice, and the capers and raisins. Turn off heat.</li>
+	<li>Heat a large skillet (preferably <a href="https://www.amazon.com/dp/B00006JSUA?tag=herb-hugo-20">cast iron</a>) over a high flame. When it is hot, add the olive oil, garlic, fennel seeds, and chile flakes. Fry for about 20 seconds and then add the drained cauliflower and about ¾ teaspoon of salt, and toss to coat with the oil. Cook, tossing occasionally, until tender and developing deep brown caramelized spots. The way to get this to happen is to keep the heat high, and not toss too often, so that the surfaces on the bottom of the pan brown. When it is nearly done, mix in the orange juice and half of the orange zest, the lemon juice, and the capers and raisins. Turn off heat.</li>
 	<li>Boil the pasta until al dente; immediately drain, reserving a cup of the pasta water, and toss the spaghetti with a little extra-virgin olive oil.</li>
 	<li>Add the pasta to the cauliflower, set heat to medium, and toss everything together; tongs work well for this. If it seems a little dry, add a ladle or two of the pasta water. Cook on high for about 1 more minute. Taste and adjust seasoning.</li>
 	<li>To serve, divide the pasta among four bowls. The cauliflower will not mix in well, so you will probably need to distribute it with tongs. Garnish with a drizzle of extra-virgin olive oil, the remaining orange zest, the pine nuts, fresh ground black pepper, parsley, and freshly grated Parmesan cheese.</li>
