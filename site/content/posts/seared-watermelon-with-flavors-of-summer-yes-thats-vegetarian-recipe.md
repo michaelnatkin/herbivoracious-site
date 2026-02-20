@@ -19,7 +19,7 @@ I didn't do their whole process, I just went right to a smoking hot saute pan. T
 
 Here's my riff, dressed up a bit with black olive, dehydrated corn, chive flowers, rosemary flowers and oregano tips, and a jus made from the fond and more watermelon juice. A large square like this makes a nice first course, but a smaller portion would also be excellent as an amuse bouche.
 
-Hands down my favorite part of the garnish was the freeze-dried corn (which you can find at Whole Foods). It adds a nice crunch, but even better, the flavors of corn and watermelon just immediately take you to a summer picnic.
+Hands down my favorite part of the garnish was the <a href="https://www.amazon.com/dp/B003SLQG5G?tag=herb-hugo-20">freeze-dried corn</a> (which you can find at Whole Foods). It adds a nice crunch, but even better, the flavors of corn and watermelon just immediately take you to a summer picnic.
 
 <div class="recipe-card">
 <strong>Seared Watermelon with Flavors of Summer</strong>
@@ -38,6 +38,6 @@ Hands down my favorite part of the garnish was the freeze-dried corn (which you 
 <ol>
 	<li>Heat a saute pan over very high heat. Add the olive oil, and when it is smoking hot, add the watermelon. Be careful, there will be some spattering when the wet melon meets the oil, and I've also seen it flame up. Cook, pressing occasionally with a long, heavy spatula to compress, until the melon is well-seared on one side, about 3 minutes. Flip and repeat on the other side.</li>
 	<li>Remove the watermelon. Pour excess oil out of the pan. Return the pan to the heat and deglaze with the watermelon juice, reducing it a bit but not to a syrup; we are looking for a jus-like consistency. Drizzle the jus on serving plates and place a piece of watermelon atop the jus.</li>
-	<li>Garnish each piece with a small amount of the olive paste, a few kernels of dehydrated corn, a few of the chive flowers, rosemary flowers, and oregano tips, and a final sprinkle of <a href="http://www.amazon.com/dp/B0006FS4TI/?tag=poeticlicen07-20" target="_blank">Maldon (aka the world's greatest salt)</a> . Serve warm.</li>
+	<li>Garnish each piece with a small amount of the olive paste, a few kernels of dehydrated corn, a few of the chive flowers, rosemary flowers, and oregano tips, and a final sprinkle of <a href="https://www.amazon.com/dp/B00017028M?tag=herb-hugo-20" target="_blank">Maldon (aka the world's greatest salt)</a> . Serve warm.</li>
 </ol>
 </div>
