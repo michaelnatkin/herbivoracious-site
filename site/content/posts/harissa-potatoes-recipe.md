@@ -20,7 +20,7 @@ I cooked the potatoes entirely in the skillet, but you could also par-cook them 
 
 Harissa is a Moroccan spice paste that is quite hot; don't use the full 2 teaspoons if you don't order 4 stars at your local Thai place.
 
-The <a href="http://www.amazon.com/dp/B0012WF8P2/?tag=poeticlicen07-20">harissa</a> and <a href="http://www.amazon.com/dp/B0012S9NU2/?tag=poeticlicen07-20">preserved lemons</a> that I keep around are usually from Mustaphas Moroccan. Delicious stuff, and they keep a long time so they are convenient to have on hand whenever dinner needs a little extra oomph. Other ideas for using them: <a href="/2012/09/quickie-amba-pickled-mango-condiment-recipe/">quick mango pickle (amba)</a>, <a href="/2008/04/recipe-sabich/">sabich</a>, <a href="/2012/08/zucchini-chickpea-tagine-recipe/">zucchini and chickpea tagine</a>. I also like to spread harissa on the barely adequate delivery pizza we get sometimes.
+The <a href="https://www.amazon.com/dp/B0012WF8P2?tag=herb-hugo-20">harissa</a> and <a href="https://www.amazon.com/dp/B07PSJCLC6?tag=herb-hugo-20">preserved lemons</a> that I keep around are usually from Mustaphas Moroccan. Delicious stuff, and they keep a long time so they are convenient to have on hand whenever dinner needs a little extra oomph. Other ideas for using them: <a href="/2012/09/quickie-amba-pickled-mango-condiment-recipe/">quick mango pickle (amba)</a>, <a href="/2008/04/recipe-sabich/">sabich</a>, <a href="/2012/08/zucchini-chickpea-tagine-recipe/">zucchini and chickpea tagine</a>. I also like to spread harissa on the barely adequate delivery pizza we get sometimes.
 
 <div class="recipe-card">
 <strong>Harissa Potatoes
@@ -30,12 +30,12 @@ Serves 2-3 as a side dish or part of a meze</em>
 	<li>1 generous tablespoon olive oil</li>
 	<li>1/3 cup diced onion</li>
 	<li>3/4 pound potatoes, 1/2" dice (skins on is fine) - Yukon Golds would be a nice choice</li>
-	<li>1 to 2 teaspoons <a href="http://www.amazon.com/dp/B0012WF8P2/?tag=poeticlicen07-20" target="_blank">harissa paste</a> (check ingredients if you need gluten free)</li>
-	<li>1 tablespoon minced <a href="http://www.amazon.com/dp/B0012S9NU2/?tag=poeticlicen07-20" target="_blank">preserved lemon</a> (check ingredients if you need gluten free)</li>
+	<li>1 to 2 teaspoons <a href="https://www.amazon.com/dp/B0012WF8P2?tag=herb-hugo-20" target="_blank">harissa paste</a> (check ingredients if you need gluten free)</li>
+	<li>1 tablespoon minced <a href="https://www.amazon.com/dp/B07PSJCLC6?tag=herb-hugo-20" target="_blank">preserved lemon</a> (check ingredients if you need gluten free)</li>
 	<li>1/2 teaspoon cumin</li>
 	<li>1/4 teaspoon kosher salt</li>
 	<li>2 ounces feta cheese, crumbled (omit or replace for vegan)</li>
-	<li>Sumac powder (optional)</li>
+	<li><a href="https://www.amazon.com/dp/B07R4LL17V?tag=herb-hugo-20">Sumac powder</a> (optional)</li>
 	<li>Fresh dill</li>
 </ul>
 <ol>
