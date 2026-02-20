@@ -39,12 +39,12 @@ Now.. <a href="http://forum.chefsteps.com/discussion/206/culinary-challenge-2-ve
   <p><em>Note: vegetarian & kosher; vegan if you omit the egg</em></p>
 <ul>
   <li>4 eggs</li>
-  <li>40 grams dried shiitake mushrooms, caps only</li>
+  <li>40 grams <a href="https://www.amazon.com/dp/B0CK1D8ZGT?tag=herb-hugo-20">dried shiitake mushrooms</a>, caps only</li>
   <li>185 grams Asian rice</li>
   <li>8 grams salt</li>
   <li>194 grams storebought pre-fried tofu, finely diced</li>
   <li>8 grams sesame oil</li>
-  <li>12 grams tamari</li>
+  <li>12 grams <a href="https://www.amazon.com/dp/B000QWXIZQ?tag=herb-hugo-20">tamari</a></li>
   <li>12 rectangles fresh soybean skin (yuba), about 2" x 6", double-thick</li>
   <li>Canned pickled Chinese cabbage or Sichuan pickled vegetable</li>
   <li>Salt and pepper to taste</li>
@@ -52,7 +52,7 @@ Now.. <a href="http://forum.chefsteps.com/discussion/206/culinary-challenge-2-ve
   <h3>Instructions</h3>
   <ol>
   <li>Cook the eggs sous vide at 63 C for 45 minutes; alternatively make them soft-boiled in any way you prefer (not the same, but also good.)</li>
-  <li>Grind 20 grams of the shiitake caps in a spice grinder to a fine powder. Put the remaining shiitake caps in a bowl with very hot water to soak.</li>
+  <li>Grind 20 grams of the shiitake caps in a <a href="https://www.amazon.com/dp/B07SYTRPSG?tag=herb-hugo-20">spice grinder</a> to a fine powder. Put the remaining shiitake caps in a bowl with very hot water to soak.</li>
   <li>Combine the shiitake powder with the rice, salt, and 1 liter (1000 grams) of water and cook sous vide at 90 C for 1 1/2 hours or until completely broken down into a porridge consistency. Don't worry if the shiitake powder looks ugly in the bag, it will look fine when you stir later.</li>
   <li>Finely dice the reserved shiitake caps, and toss them in a bowl with the diced fried tofu, sesame oil, and soy sauce. Taste and adjust seasoning.</li>
   <li>Make twelve yuba wraps, filling each with 1 tablespoon of the tofu mixture. Don't seal the ends, just wrap up as tightly as you can. As close as possible to serving time, so they stay crisp, place a large skillet over medium-high heat, add a slick of vegetable oil, and pan-fry the yuba wraps until golden-brown on both sides. Season generously with salt and pepper.</li>
