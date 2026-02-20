@@ -794,3 +794,61 @@ Batch 48/55 complete. All committed, bead closed, and synced. Not pushed (as req
 --- Batch run #7 finished at Thu Feb 19 22:23:56 PST 2026 ---
 Batch 49/55 complete. 6 of 10 posts modified. All committed, bead closed, and synced. Not pushed (as requested).
 --- Batch run #8 finished at $(date) ---
+**Batch 49/55 complete.** Here's the summary:
+
+| Post | Result |
+|------|--------|
+| three-days-at-dirt-candy-nyc | No changes (narrative piece, no linkable items) |
+| three-ways-to-increase-your-confidence-in-the-kitchen | **Modified** — 4 existing links updated to `herb-hugo-20` tag + 1 new link (kitchen scale) |
+| to-play-video-1 | No changes (short event recap) |
+| to-play-video-2 | No changes (restaurant review) |
+| to-play-video-m | No changes (1 existing link already fine) |
+| tofu-in-the-sty | **Modified** — 1 existing link fixed + 1 new link (mirin) |
+| tomato-and-beet-salad-recipe | **Modified** — 1 broken link replaced + 1 new link (flaky sea salt) |
+| tomato-and-nectarine-salad-with-a-korean-dressing-recipe | **Modified** — 2 existing links updated + 3 new links (gochugaru, Maldon, sesame oil) |
+| tomato-confit-and-roasted-garlic-bruschetta-recipe | **Modified** — 2 new links (flaky sea salt, grill pan) |
+| top-ten-ways-to | **Modified** — 1 defunct astore link replaced + 1 new link (silpats) |
+
+**6 of 10 posts modified.** Committed, bead closed, synced. Not pushed.
+--- Batch run #8 finished at Thu Feb 19 22:35:50 PST 2026 ---
+Individual post run — tortilla-de-espinaca-spanish-omelet, tour-of-the-old, transparency-and-support, two-great-mexic:
+
+| Post | New Links | Updated Links | Notes |
+|------|-----------|---------------|-------|
+| tortilla-de-espinaca-spanish-omelet | 1 | 3 tag fixes | flaky sea salt (B00017028M, Maldon, $6.99); smoked paprika tag updated poeticlicen07-20 → herb-hugo-20 ×3 + URLs modernized to https |
+| tour-of-the-old | 0 | 0 | Skipped — travel/narrative post, no recipe, ingredients, or tools |
+| transparency-and-support | 0 | 0 | Skipped — editorial/meta post about affiliate links, no recipe opportunities |
+| two-great-mexic | 2 | 2 tag fixes | Diana Kennedy's The Essential Cuisines of Mexico (030758772X, $16.38); ancho chili (B07SLFM6W7, El Molcajete 4oz, $6.97); Authentic Mexican + Mexican Everyday tags updated poeticlicen07-20 → herb-hugo-20 + URLs modernized |
+
+http://localhost:1313/2012/02/tortilla-de-espinaca-spanish-omelet/ — 1 new link added, 3 existing links updated (tags corrected to herb-hugo-20).
+http://localhost:1313/2007/09/tour-of-the-old/ — skipped (travel post, no link opportunities).
+http://localhost:1313/2012/09/transparency-and-support/ — skipped (editorial post, no link opportunities).
+http://localhost:1313/2007/07/two-great-mexic/ — 2 new links added, 2 existing links updated (tags corrected to herb-hugo-20).
+2 posts modified, 2 skipped.
+--- Individual run finished at Thu Feb 19 2026 ---
+Individual post run — understanding-deadly-food-allergies, using-dry-ice-to-carry-scent-culinary-fog, vegan-bacon-from-king-oyster-mushrooms-recipe:
+
+| Post | New Links | Updated Links | Notes |
+|------|-----------|---------------|-------|
+| understanding-deadly-food-allergies-this-post-could-save-a-life | 0 | 0 | Skipped — informational safety article, no ingredients, tools, or cookbook references |
+| using-dry-ice-to-carry-scent-culinary-fog | 1 | 1 | lapsang souchong tea (B002JP6H2O, Taylors Loose Leaf Tin, $11.79); smoking gun link tag updated poeticlicen07-20 → herb-hugo-20 + URL cleaned to dp/ format |
+| vegan-bacon-from-king-oyster-mushrooms-recipe | 1 | 4 | cast-iron skillet (B00006JSUA, Lodge 10.25", $23.65); Maldon salt (body ×1 + recipe card ×1) + smoked paprika (×2) tags updated poeticlicen07-20 → herb-hugo-20 + URLs modernized to https |
+
+http://localhost:1313/2009/02/understanding-deadly-food-allergies-this-post-could-save-a-life/ — skipped (no link opportunities).
+http://localhost:1313/2010/03/using-dry-ice-to-carry-scent-culinary-fog/ — 1 new link added, 1 existing link updated (tag + URL modernized to herb-hugo-20).
+http://localhost:1313/2012/11/vegan-bacon-from-king-oyster-mushrooms-recipe/ — 1 new link added, 4 existing links updated (tags + URLs modernized to herb-hugo-20).
+2 posts modified, 1 skipped.
+--- Individual run finished at Thu Feb 19 2026 ---
+Individual post run — ubuntu-restaurant-napa-ca-restaurant-review, ultralocal-homefries-tomatoes-and-eggs-recipe, umami-packed-vegetarian-broth-recipe-also-vegan:
+
+| Post | New Links | Updated Links | Notes |
+|------|-----------|---------------|-------|
+| ubuntu-restaurant-napa-ca-restaurant-review | 0 | 0 | Skipped — restaurant review, no specialty ingredients, tools, or cookbooks |
+| ultralocal-homefries-tomatoes-and-eggs-recipe | 3 | 0 | flaky sea salt (B00017028M, Maldon, $6.99), cast-iron skillet (B00006JSUA, Lodge 10.25", $23.65), chili de arbol (B07TYNF3ND, $6.97) |
+| umami-packed-vegetarian-broth-recipe-also-vegan | 4 | 0 | dried shiitake mushrooms (B0CK1D8ZGT, Orsky 8oz, $14.99), marmite (B00014VTNW, 4.4oz, $9.99), kombu seaweed (B00ZB13JHO, WEL-PAC, $8.17), star anise (B08BXF9X52, The Spice Way, $5.49); 3 existing links (Modernist Cuisine, Ideas In Food, Fat Duck Cookbook) validated in-stock |
+
+http://localhost:1313/2009/07/ubuntu-restaurant-napa-ca-restaurant-review/ — skipped (restaurant review, no link opportunities).
+http://localhost:1313/2009/08/ultralocal-homefries-tomatoes-and-eggs-recipe/ — 3 new links added, 0 updated.
+http://localhost:1313/2011/09/umami-packed-vegetarian-broth-recipe-also-vegan/ — 4 new links added, 0 updated.
+2 posts modified, 1 skipped.
+--- Individual run finished at Thu Feb 19 2026 ---
