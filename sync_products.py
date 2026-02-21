@@ -237,6 +237,10 @@ def is_junk_product(name):
     return False
 
 
+# Global map of post URL -> post title, populated during scanning
+POST_TITLES = {}
+
+
 def get_post_url(filepath, content):
     """Get the permalink URL for a post from its frontmatter."""
     slug = os.path.splitext(os.path.basename(filepath))[0]
@@ -245,6 +249,12 @@ def get_post_url(filepath, content):
         year, month = date_m.group(1), date_m.group(2)
         return f"/{year}/{month}/{slug}/"
     return f"/{slug}/"
+
+
+def get_post_title(content):
+    """Extract the title from post frontmatter."""
+    m = re.search(r'title:\s*["\'](.+?)["\']', content[:500])
+    return m.group(1) if m else None
 
 
 def strip_html_tags(text):
@@ -260,6 +270,9 @@ def scan_all_posts():
         with open(filepath, "r") as f:
             content = f.read()
         post_url = get_post_url(filepath, content)
+        post_title = get_post_title(content)
+        if post_title:
+            POST_TITLES[post_url] = post_title
 
         # Scan for herb-hugo-20 links (current affiliate tag)
         for match in HERB_LINK_RE.finditer(content):
@@ -555,12 +568,15 @@ def _merge_product_into(target, source):
     """Merge source product entry into target, combining featured_in and preserving review_url."""
     if "review_url" in source and "review_url" not in target:
         target["review_url"] = source["review_url"]
-    existing_featured = set(target.get("featured_in", []))
-    for url in source.get("featured_in", []):
-        existing_featured.add(url)
-    existing_featured.discard(target.get("review_url"))
-    if existing_featured:
-        target["featured_in"] = sorted(existing_featured)[:5]
+    # Merge featured_in (list of {url, title} objects)
+    seen_urls = {item["url"] for item in target.get("featured_in", [])}
+    review_url = target.get("review_url")
+    for item in source.get("featured_in", []):
+        if item["url"] not in seen_urls and item["url"] != review_url:
+            seen_urls.add(item["url"])
+            target.setdefault("featured_in", []).append(item)
+    if "featured_in" in target:
+        target["featured_in"] = sorted(target["featured_in"], key=lambda x: x["url"])[:5]
 
 
 def dedup_with_llm(by_category):
@@ -718,15 +734,26 @@ def group_by_category(all_products, category_cache, existing_products):
             entry["review_url"] = review_url
 
         # Merge featured_in from both sources
-        featured = set()
-        for url in existing.get("featured_in", []):
-            featured.add(url)
+        featured_urls = set()
+        # Collect URLs from existing (may be old format strings or new format objects)
+        for item in existing.get("featured_in", []):
+            if isinstance(item, dict):
+                featured_urls.add(item["url"])
+            else:
+                featured_urls.add(item)
         for url in product.get("featured_in", []):
-            featured.add(url)
+            featured_urls.add(url)
         # Remove review_url from featured_in
-        featured.discard(review_url)
-        if featured:
-            entry["featured_in"] = sorted(featured)[:5]
+        featured_urls.discard(review_url)
+        if featured_urls:
+            featured_list = []
+            for url in sorted(featured_urls)[:5]:
+                title = POST_TITLES.get(url)
+                if title:
+                    featured_list.append({"url": url, "title": title})
+                else:
+                    featured_list.append({"url": url, "title": url.strip("/").split("/")[-1].replace("-", " ").title()})
+            entry["featured_in"] = featured_list
 
         by_category[cat].append(entry)
 

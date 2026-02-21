@@ -31,7 +31,7 @@
           {{ with .featured_in }}
           <span class="shop-item__featured">
             Featured in:
-            {{ range $i, $url := . }}{{ if $i }}, {{ end }}{{ with site.GetPage $url }}<a href="{{ $url }}">{{ .Title }}</a>{{ else }}<a href="{{ $url }}">{{ $url | replaceRE `^/\d{4}/\d{2}/` "" | replaceRE `/$` "" | replaceRE `-` " " | title }}</a>{{ end }}{{ end }}
+            {{ range $i, $item := . }}{{ if $i }}, {{ end }}<a href="{{ $item.url }}">{{ $item.title }}</a>{{ end }}
           </span>
           {{ end }}
         </li>
