@@ -6,5 +6,5 @@ params:
   category_slug: "cheese-dairy"
   description: "Artisan cheeses and specialty dairy for cooking"
   image: "/images/shop/cheese-dairy.jpg"
-  product_count: 7
+  product_count: 23
 ---

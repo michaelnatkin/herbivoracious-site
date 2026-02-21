@@ -6,5 +6,5 @@ params:
   category_slug: "grains-pasta-legumes"
   description: "Farro, polenta, lentils, specialty noodles, and flours"
   image: "/images/shop/grains-pasta-legumes.jpg"
-  product_count: 16
+  product_count: 52
 ---
