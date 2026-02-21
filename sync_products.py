@@ -140,6 +140,84 @@ CATEGORY_DESCRIPTIONS = {
 }
 
 
+# Words that should stay lowercase in title case (unless first word)
+TITLE_CASE_LOWER = {"a", "an", "and", "at", "by", "for", "from", "in", "of", "on", "or", "the", "to", "with"}
+
+# Words/patterns that should keep specific casing
+CASING_OVERRIDES = {
+    "oz": "oz",
+    "lb": "lb",
+    "qt": "qt",
+    "ml": "mL",
+    "le": "Le",
+    "el": "El",
+    "la": "La",
+    "de": "de",
+    "del": "del",
+    "di": "di",
+    "du": "du",
+    "d'auvergne": "d'Auvergne",
+}
+
+
+def title_case(name):
+    """Smart title case that handles food product names well."""
+    if not name:
+        return name
+
+    # Don't re-case names that look like they have intentional mixed case
+    # (e.g., brand names like "KitchenAid", "OXO")
+    words = name.split()
+    result = []
+
+    for i, word in enumerate(words):
+        lower = word.lower()
+
+        # Check overrides first
+        if lower in CASING_OVERRIDES:
+            result.append(CASING_OVERRIDES[lower] if i > 0 else word.title())
+            continue
+
+        # Keep ALL-CAPS short words (brand abbreviations like "OXO", "ISI")
+        if word.isupper() and len(word) <= 4 and len(word) >= 2:
+            result.append(word)
+            continue
+
+        # Keep words with internal caps (e.g., "KitchenAid", "McCormick")
+        if any(c.isupper() for c in word[1:]) and not word.isupper():
+            result.append(word)
+            continue
+
+        # Handle hyphenated words
+        if "-" in word:
+            parts = word.split("-")
+            result.append("-".join(p.capitalize() for p in parts))
+            continue
+
+        # Handle apostrophes (e.g., "chef's" -> "Chef's", not "Chef'S")
+        if "'" in lower:
+            parts = word.split("'")
+            # Title-case first part, keep rest lowercase
+            cased = parts[0].capitalize() + "'" + "'".join(p.lower() for p in parts[1:])
+            result.append(cased)
+            continue
+
+        # First word always capitalized
+        if i == 0:
+            result.append(word.capitalize())
+            continue
+
+        # Lowercase articles/prepositions mid-title
+        if lower in TITLE_CASE_LOWER:
+            result.append(lower)
+            continue
+
+        # Default: capitalize
+        result.append(word.capitalize())
+
+    return " ".join(result)
+
+
 def extract_asin(url):
     """Extract ASIN from an Amazon URL."""
     m = ASIN_RE.search(url)
@@ -464,10 +542,11 @@ def build_products_json(all_products, category_cache, existing_products):
         if cat not in by_category:
             cat = "pantry-staples"
 
-        # Prefer existing curated name/data
+        # Prefer existing curated name/data, then title-case
         existing = existing_products.get(asin, {})
+        raw_name = existing.get("name", product["name"])
         entry = {
-            "name": existing.get("name", product["name"]),
+            "name": title_case(raw_name),
             "url": f"https://www.amazon.com/dp/{asin}?tag=herb-hugo-20",
         }
 
