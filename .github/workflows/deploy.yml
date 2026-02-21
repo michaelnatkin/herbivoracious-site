@@ -26,18 +26,6 @@ jobs:
           hugo-version: '0.155.3'
           extended: true
 
-      - name: Setup Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.12'
-
-      - name: Sync products
-        run: |
-          pip install anthropic
-          python sync_products.py
-        env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
