@@ -532,9 +532,171 @@ def update_product_counts():
             print(f"  Updated {slug}.md product_count: {count}")
 
 
-def build_products_json(all_products, category_cache, existing_products):
-    """Build the categorized products.json structure."""
-    # Group products by category
+DEDUP_CACHE_FILE = os.path.join(SITE_DIR, "data", "product-dedup.json")
+
+
+def load_dedup_cache():
+    """Load the dedup cache: maps ASIN -> canonical ASIN (or itself if canonical)."""
+    if os.path.exists(DEDUP_CACHE_FILE):
+        with open(DEDUP_CACHE_FILE) as f:
+            return json.load(f)
+    return {}
+
+
+def save_dedup_cache(cache):
+    """Save the dedup cache."""
+    sorted_cache = dict(sorted(cache.items()))
+    with open(DEDUP_CACHE_FILE, "w") as f:
+        json.dump(sorted_cache, f, indent=2)
+        f.write("\n")
+
+
+def _merge_product_into(target, source):
+    """Merge source product entry into target, combining featured_in and preserving review_url."""
+    if "review_url" in source and "review_url" not in target:
+        target["review_url"] = source["review_url"]
+    existing_featured = set(target.get("featured_in", []))
+    for url in source.get("featured_in", []):
+        existing_featured.add(url)
+    existing_featured.discard(target.get("review_url"))
+    if existing_featured:
+        target["featured_in"] = sorted(existing_featured)[:5]
+
+
+def dedup_with_llm(by_category):
+    """Use LLM to identify duplicate products within each category. Returns dedup map {asin: canonical_asin}."""
+    try:
+        import anthropic
+    except ImportError:
+        print("  WARNING: anthropic package not installed, skipping dedup")
+        return {}
+
+    api_key = os.environ.get("ANTHROPIC_API_KEY")
+    if not api_key:
+        print("  WARNING: ANTHROPIC_API_KEY not set, skipping dedup")
+        return {}
+
+    client = anthropic.Anthropic()
+
+    # Build a single prompt with all categories
+    all_entries = []  # (index, asin, name, category)
+    idx = 0
+    for slug in CATEGORY_ORDER:
+        for product in by_category.get(slug, []):
+            asin_match = ASIN_RE.search(product["url"])
+            asin = asin_match.group(1) if asin_match else None
+            if asin:
+                all_entries.append((idx, asin, product["name"], slug))
+                idx += 1
+
+    product_lines = []
+    for i, asin, name, cat in all_entries:
+        product_lines.append(f"{i}: [{cat}] {name}")
+
+    prompt = f"""You are deduplicating a product catalog for a vegetarian food blog's shop. Products are grouped by category.
+
+Find groups of entries that refer to the SAME product (same item, just different Amazon listings or slightly different names).
+
+PRODUCTS (index: [category] name):
+{chr(10).join(product_lines)}
+
+For each group of duplicates, return the index of the BEST entry to keep (most descriptive, well-known brand name) and the indices to merge into it.
+
+Return a JSON object where keys are the "keep" index (as string) and values are arrays of "merge" indices. Only include groups with actual duplicates. Example:
+{{"5": [12, 45], "20": [21]}}
+
+Rules:
+- Only group products that are genuinely the same item (e.g., "Parmigiano Reggiano" and "Parmigiano-Reggiano Cheese" are the same)
+- Different sizes of the same product ARE duplicates (e.g., "Masa Harina" and "Masa Harina, 4 lb")
+- Generic names for the same tool ARE duplicates (e.g., "Pressure Cooker" appearing multiple times)
+- Different products are NOT duplicates even if similar (e.g., "Chili Oil" and "Chili-Flavored Sesame Oil" are different)
+- "Fennel Pollen" and "Fennel Seeds" are DIFFERENT products
+- Only group within the same category
+- Prefer keeping entries with brand names or more specific descriptions
+- When names are equally descriptive, keep the shorter, cleaner one
+
+Return ONLY the JSON object, no other text."""
+
+    print(f"  Calling Claude API to deduplicate {len(all_entries)} products...")
+    response = client.messages.create(
+        model="claude-sonnet-4-5-20250929",
+        max_tokens=8000,
+        messages=[{"role": "user", "content": prompt}],
+    )
+
+    text = response.content[0].text.strip()
+    if text.startswith("```"):
+        text = re.sub(r'^```\w*\n?', '', text)
+        text = re.sub(r'\n?```$', '', text)
+
+    groups = json.loads(text)
+
+    # Convert index-based groups to ASIN-based dedup map
+    dedup_map = {}
+    total_dupes = 0
+    for keep_idx_str, merge_indices in groups.items():
+        keep_idx = int(keep_idx_str)
+        if keep_idx >= len(all_entries):
+            continue
+        canonical_asin = all_entries[keep_idx][1]
+        # Map canonical to itself
+        dedup_map[canonical_asin] = canonical_asin
+        for merge_idx in merge_indices:
+            if merge_idx >= len(all_entries):
+                continue
+            dupe_asin = all_entries[merge_idx][1]
+            dedup_map[dupe_asin] = canonical_asin
+            total_dupes += 1
+
+    print(f"  Found {total_dupes} duplicates in {len(groups)} groups")
+    return dedup_map
+
+
+def _resolve_canonical(asin, dedup_cache, depth=0):
+    """Follow dedup chain to find the root canonical ASIN."""
+    if depth > 10:
+        return asin
+    canonical = dedup_cache.get(asin, asin)
+    if canonical == asin:
+        return asin
+    return _resolve_canonical(canonical, dedup_cache, depth + 1)
+
+
+def apply_dedup(by_category, dedup_cache):
+    """Apply dedup cache to merge duplicate products. Returns total merge count."""
+    total_merged = 0
+
+    for slug in CATEGORY_ORDER:
+        products = by_category.get(slug, [])
+        if not products:
+            continue
+
+        # Build ASIN -> product mapping for this category
+        canonical_products = {}  # canonical_asin -> product entry
+        order = []  # track insertion order of canonicals
+
+        for p in products:
+            asin_match = ASIN_RE.search(p["url"])
+            if not asin_match:
+                continue
+            asin = asin_match.group(1)
+            canonical = _resolve_canonical(asin, dedup_cache)
+
+            if canonical in canonical_products:
+                # Merge into canonical
+                _merge_product_into(canonical_products[canonical], p)
+                total_merged += 1
+            else:
+                canonical_products[canonical] = p
+                order.append(canonical)
+
+        by_category[slug] = [canonical_products[a] for a in order if a in canonical_products]
+
+    return total_merged
+
+
+def group_by_category(all_products, category_cache, existing_products):
+    """Group products by category, returning {slug: [product_entries]}."""
     by_category = {slug: [] for slug in CATEGORY_ORDER}
 
     for asin, product in all_products.items():
@@ -568,7 +730,11 @@ def build_products_json(all_products, category_cache, existing_products):
 
         by_category[cat].append(entry)
 
-    # Build output structure
+    return by_category
+
+
+def build_output(by_category):
+    """Build the final products.json structure from grouped/deduped categories."""
     output_categories = []
     for slug in CATEGORY_ORDER:
         products = by_category[slug]
@@ -652,9 +818,45 @@ def main():
     save_category_cache(category_cache)
     print(f"  Saved category cache ({len(category_cache)} entries)")
 
-    # Step 9: Build and write products.json
-    print("\nBuilding products.json...")
-    output = build_products_json(all_scanned, category_cache, existing_products)
+    # Step 9: Group by category
+    print("\nGrouping products by category...")
+    by_category = group_by_category(all_scanned, category_cache, existing_products)
+    pre_dedup = sum(len(v) for v in by_category.values())
+    print(f"  {pre_dedup} products across {sum(1 for v in by_category.values() if v)} categories")
+
+    # Step 10: Deduplicate via LLM (with cache)
+    dedup_cache = load_dedup_cache()
+    # Check if any ASINs in the current build are missing from cache
+    all_current_asins = set()
+    for products in by_category.values():
+        for p in products:
+            m = ASIN_RE.search(p["url"])
+            if m:
+                all_current_asins.add(m.group(1))
+    uncached_asins = all_current_asins - set(dedup_cache.keys())
+
+    if uncached_asins:
+        print(f"\n  {len(uncached_asins)} products not in dedup cache, running LLM dedup...")
+        new_dedup = dedup_with_llm(by_category)
+        if new_dedup:
+            dedup_cache.update(new_dedup)
+            # Also mark any ASINs not in a dedup group as canonical (self-mapping)
+            for asin in all_current_asins:
+                if asin not in dedup_cache:
+                    dedup_cache[asin] = asin
+            save_dedup_cache(dedup_cache)
+    else:
+        print("\n  All products in dedup cache (0 LLM dedup calls needed)")
+
+    # Apply dedup
+    total_merged = apply_dedup(by_category, dedup_cache)
+    if total_merged:
+        print(f"  Merged {total_merged} duplicate products")
+    post_dedup = sum(len(v) for v in by_category.values())
+
+    # Step 11: Write products.json
+    print("\nWriting products.json...")
+    output = build_output(by_category)
     total = sum(len(c["products"]) for c in output["categories"])
 
     with open(PRODUCTS_FILE, "w") as f:
@@ -662,7 +864,7 @@ def main():
         f.write("\n")
     print(f"  Wrote {total} products across {len(output['categories'])} categories")
 
-    # Step 10: Update product_count in shop .md files
+    # Step 12: Update product_count in shop .md files
     print("\nUpdating shop page product counts...")
     update_product_counts()
 

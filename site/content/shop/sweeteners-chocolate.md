@@ -6,5 +6,5 @@ params:
   category_slug: "sweeteners-chocolate"
   description: "Maple syrup, jaggery, sorghum, and artisan chocolate"
   image: "/images/shop/sweeteners-chocolate.jpg"
-  product_count: 39
+  product_count: 28
 ---
