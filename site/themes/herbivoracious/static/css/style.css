@@ -2323,13 +2323,19 @@ a.as-seen-in:hover { text-decoration: none; }
 }
 
 /* ---- Print Recipe Button (inside .recipe-card) ---- */
+.recipe-card {
+  position: relative;
+}
+
 .recipe-card .print-recipe-btn {
-  float: right;
+  position: absolute;
+  top: 28px;
+  right: 28px;
   display: inline-flex;
   align-items: center;
   gap: 6px;
   padding: 8px 18px;
-  background: none;
+  background: var(--white);
   border: 1.5px solid var(--border);
   border-radius: 100px;
   color: var(--text-secondary);
@@ -2339,7 +2345,7 @@ a.as-seen-in:hover { text-decoration: none; }
   letter-spacing: 0.02em;
   cursor: pointer;
   transition: all 0.3s var(--ease);
-  margin-top: 2px;
+  z-index: 1;
 }
 
 .recipe-card .print-recipe-btn:hover {
@@ -2349,6 +2355,13 @@ a.as-seen-in:hover { text-decoration: none; }
 
 .recipe-card .print-recipe-btn svg {
   flex-shrink: 0;
+}
+
+@media (max-width: 900px) {
+  .recipe-card .print-recipe-btn {
+    top: 16px;
+    right: 16px;
+  }
 }
 
 /* ---- Print Stylesheet ---- */
