@@ -1,0 +1,35 @@
+{{ define "main" }}
+<div class="site-content">
+  <main class="main-content">
+    <article class="collection-page">
+      <header class="single-header">
+        <h1>Recipe Collections</h1>
+      </header>
+
+      <div class="collection-intro">
+        <p>Curated selections from hundreds of vegetarian recipes, organized by theme to help you find exactly what you're looking for.</p>
+      </div>
+
+      <div class="collection-index-grid">
+        {{ range .Pages }}
+        {{ $title := .Title }}
+        <a href="{{ .RelPermalink }}" class="collection-index-card">
+          {{ with .Params.cover }}{{ with .image }}
+          <div class="collection-index-card__image">
+            <img src="{{ strings.TrimPrefix "/" . | relURL }}" alt="{{ $title }}" loading="lazy">
+          </div>
+          {{ end }}{{ end }}
+          <div class="collection-index-card__body">
+            <h2 class="collection-index-card__title">{{ .Title }}</h2>
+            {{ with .Params.subtitle }}<p class="collection-index-card__desc">{{ . }}</p>{{ end }}
+            <span class="collection-index-card__count">{{ len .Params.recipes }} recipes</span>
+          </div>
+        </a>
+        {{ end }}
+      </div>
+    </article>
+  </main>
+
+  {{ partial "sidebar.html" . }}
+</div>
+{{ end }}

@@ -1,0 +1,47 @@
+{{ define "main" }}
+<div class="site-content">
+  <main class="main-content">
+    <article class="collection-page">
+      <header class="collection-header">
+        <h1>{{ .Title }}</h1>
+        {{ with .Params.subtitle }}<p class="collection-subtitle">{{ . }}</p>{{ end }}
+      </header>
+
+      <div class="collection-intro">
+        {{ .Content }}
+      </div>
+
+      <div class="collection-grid">
+        {{ range .Params.recipes }}
+          {{ $post := site.GetPage (printf "/posts/%s" .) }}
+          {{ if $post }}
+          <article class="collection-card">
+            {{ $img := "" }}
+            {{ with $post.Params.cover }}{{ with .image }}{{ $img = . }}{{ end }}{{ end }}
+            {{ if $img }}
+            <a href="{{ $post.Permalink }}" class="collection-card__image">
+              <img src="{{ strings.TrimPrefix "/" $img | relURL }}" alt="{{ $post.Title }}" loading="lazy">
+            </a>
+            {{ end }}
+            <div class="collection-card__body">
+              <h2 class="collection-card__title"><a href="{{ $post.Permalink }}">{{ $post.Title | replaceRE " - Recipe$" "" }}</a></h2>
+              <p class="collection-card__excerpt">
+                {{ with $post.Params.description }}{{ . | truncate 160 }}{{ end }}
+              </p>
+              {{ with $post.Params.recipe }}
+              <div class="collection-card__meta">
+                {{ with .yield }}<span class="collection-card__yield">Serves {{ . }}</span>{{ end }}
+              </div>
+              {{ end }}
+              <a href="{{ $post.Permalink }}" class="collection-card__link">View Recipe</a>
+            </div>
+          </article>
+          {{ end }}
+        {{ end }}
+      </div>
+    </article>
+  </main>
+
+  {{ partial "sidebar.html" . }}
+</div>
+{{ end }}
