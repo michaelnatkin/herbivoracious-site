@@ -938,6 +938,36 @@ a.as-seen-in:hover { text-decoration: none; }
 
 .archive-posts a:hover { color: var(--accent); }
 
+/* Sidebar archive preview */
+.archive-posts--sidebar li {
+  padding: 6px 0;
+  gap: 12px;
+}
+
+.archive-posts--sidebar .date {
+  min-width: 90px;
+}
+
+.archive-posts--sidebar a {
+  font-size: 14px;
+  line-height: 1.4;
+}
+
+.sidebar-more-link {
+  display: inline-block;
+  margin-top: 10px;
+  font-family: var(--font-ui);
+  font-size: 13px;
+  font-weight: 500;
+  color: var(--accent);
+  text-decoration: none;
+  transition: color 0.3s var(--ease);
+}
+
+.sidebar-more-link:hover {
+  color: var(--text);
+}
+
 /* From the Archives grid */
 .archives-grid {
   display: grid;

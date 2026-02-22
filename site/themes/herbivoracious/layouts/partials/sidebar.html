@@ -111,4 +111,19 @@
       {{ end }}
     </ul>
   </div>
+
+  <!-- Archive Preview -->
+  <div class="sidebar-section">
+    <h3>archives</h3>
+    {{ $recent := first 5 (where .Site.RegularPages "Section" "posts") }}
+    <ul class="archive-posts archive-posts--sidebar">
+      {{ range $recent }}
+      <li>
+        <span class="date">{{ .Date.Format "Jan 2, 2006" }}</span>
+        <a href="{{ .Permalink }}">{{ replace .Title " - Recipe" "" }}</a>
+      </li>
+      {{ end }}
+    </ul>
+    <a href="{{ "archives/" | relURL }}" class="sidebar-more-link">more&hellip;</a>
+  </div>
 </aside>
