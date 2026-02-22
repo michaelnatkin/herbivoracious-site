@@ -354,12 +354,11 @@ a.as-seen-in:hover { text-decoration: none; }
 .as-seen-in img {
   width: 100%;
   height: auto;
-  opacity: 0.75;
-  transition: opacity 0.3s var(--ease);
+  transition: transform 0.3s var(--ease);
   border-radius: var(--radius);
 }
 
-.as-seen-in:hover img { opacity: 1; }
+.as-seen-in:hover img { transform: scale(1.03); }
 
 /* Sidebar Cards (author + cookbook) */
 .sidebar-cards {
