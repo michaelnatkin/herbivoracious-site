@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Vietnamese Vermicelli (Bun) with Ginger-Grapefruit Sauce"
   yield: "4"
-  diet: "Vegan"
   ingredients:
     - "8 oz. Vietnamese rice vermicelli noodles"
     - "1 cup shallot rings, sliced about 1/8\" thick"

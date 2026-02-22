@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Fresh Fettucini with Hedgehog or Shiitake Mushrooms and Ricotta"
   yield: "4 as a main course"
-  diet: "Vegan"
   ingredients:
     - "1 pound fresh fettucini noodles"
     - "1 pound fresh ricotta (preferably Calabro)"

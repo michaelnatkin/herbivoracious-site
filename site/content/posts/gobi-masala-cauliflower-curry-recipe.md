@@ -10,7 +10,6 @@ cover:
   hidden: true
 recipe:
   name: "Gobi Masala (Cauliflower Curry)"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "2 tablespoons vegetable oil"
     - "1 tablespoon mustard oil (if not available, use 1 more tablespoon vegetable oil)"

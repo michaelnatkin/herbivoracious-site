@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Paella Cakes with Manchego and Candied Seville Orange Peel"
   yield: "12 cakes, serving 4-6 as a main, or 8-12 as an appetizerVegetarian; gluten-free if you omit the breadcrumbs; not vegan"
-  diet: "Vegan, Gluten-Free"
   ingredients:
     - "1/4 cup extra virgin olive oil"
     - "1/2 white onion, small dice"

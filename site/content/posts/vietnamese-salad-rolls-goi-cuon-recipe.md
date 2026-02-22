@@ -9,8 +9,6 @@ cover:
   hidden: true
 recipe:
   name: "Vietnamese Salad Rolls with Shiso and Tofu (Gỏi cuốn) – Recipe"
-  time: "1 hr"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "Juice of 3 limes"
     - "1-inch piece of fresh ginger, grated"

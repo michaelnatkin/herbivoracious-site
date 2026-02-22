@@ -11,8 +11,6 @@ cover:
 recipe:
   name: "Bunuelos (Sephardic Doughnuts)"
   yield: "about 14 doughnuts"
-  time: "20 minutes active (plus a 1 hour rise)"
-  diet: "Vegan"
   ingredients:
     - "1 package dry yeast (2 1/4 teaspoons)"
     - "2 cups warm water, divided"

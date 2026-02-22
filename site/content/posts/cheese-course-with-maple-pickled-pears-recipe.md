@@ -11,7 +11,6 @@ cover:
 recipe:
   name: "Cheese Course with Maple Pickled Pears"
   yield: "4"
-  time: "15 minutes"
   ingredients:
     - "2 tablespoons apple cider vinegar"
     - "2 tablespoons maple syrup (preferably grade “B”)"

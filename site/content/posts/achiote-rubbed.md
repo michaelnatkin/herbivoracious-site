@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Achiote-Rubbed Butternut Squash Tacos"
   yield: "8 as part of a feast Vegetarian and gluten-free; could be vegan if you omit the cheese and crema For the filling:"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "1 large butternut squash, peeled seeded, and cut into 1/2\" thick slabs"
     - "2 oz. achiote paste (see above)"

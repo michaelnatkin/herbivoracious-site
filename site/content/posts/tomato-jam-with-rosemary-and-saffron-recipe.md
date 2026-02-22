@@ -11,7 +11,6 @@ cover:
 recipe:
   name: "Tomato Jam With Rosemary and Saffron"
   yield: "about a cup"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "24 ounces (by weight) tomatoes, cored and peeled (see above), roughly diced"
     - "1/2 cup white onion, finely diced"

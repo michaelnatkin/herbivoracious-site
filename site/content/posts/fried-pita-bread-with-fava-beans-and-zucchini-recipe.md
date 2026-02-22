@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Fried Pita Bread with Fava Beans and Zucchini"
   yield: "1 as a hearty one-pot meal, multiply as needed"
-  diet: "Vegan, Vegetarian"
   ingredients:
     - "2 tablespoons olive oil plus more for garnish"
     - "1 pita bread (slightly stale is fine), torn into bite-sized pieces"

@@ -10,8 +10,6 @@ cover:
 recipe:
   name: "Mission Chinese Food-Style Tofu with Radish and Shiso"
   yield: "2 as a main course or 4 as part of a larger family-style meal Vegetarian, vegan, and gluten-free if you use gluten-free soy sauce 15 minutes"
-  time: "15 minutes"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "2 tablespoons sugar"
     - "1 tablespoon cornstarch"

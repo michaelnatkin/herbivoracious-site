@@ -11,7 +11,6 @@ cover:
 recipe:
   name: "Mango Puffs with Lemongrass Coconut Pudding and Black Sesame"
   yield: "12 small desserts"
-  time: "20 minutes active (1 hour total)"
   ingredients:
     - "For the shells:"
     - "1 package frozen puff pastry (usually 17-20 ounces)"

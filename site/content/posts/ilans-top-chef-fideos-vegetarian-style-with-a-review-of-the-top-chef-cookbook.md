@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Ilan Hall's Top Chef Fideos, Adapted to be Vegetarian"
   yield: "4 as an entreeVegetarian; not vegan or gluten-free"
-  diet: "Vegan, Gluten-Free"
   ingredients:
     - "1 pound fideos or cappelini pasta"
     - "2 cups heavy cream"

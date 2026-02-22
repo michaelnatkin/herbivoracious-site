@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Grilled Eggplant and Tofu Otsu Noodles"
   yield: "4Vegetarian and vegan For the sauce:"
-  diet: "Vegan"
   ingredients:
     - "1/4 c. toasted sesame paste (tahini)"
     - "2 T. tamari or other soy sauce"

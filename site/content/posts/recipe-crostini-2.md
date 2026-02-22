@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Crostini with Spanish Green Olive Tapenade"
   yield: "1 c. for use as a crostini toppingVegetarian and vegan"
-  diet: "Vegan"
   ingredients:
     - "1 oz. roasted red peppers (or better, piquillo peppers) drained"
     - "1 c. high quality pitted green olives"

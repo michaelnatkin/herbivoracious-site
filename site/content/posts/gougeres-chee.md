@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Gougères with Blue Cheese and Rosemary"
   yield: "30 2-inch pastriesVegetarian; not vegan or gluten-free"
-  diet: "Vegan, Gluten-Free"
   ingredients:
     - "1 c. water"
     - "6 T. butter cut into pieces"

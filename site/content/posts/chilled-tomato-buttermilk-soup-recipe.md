@@ -11,8 +11,6 @@ cover:
 recipe:
   name: "Chilled Tomato Buttermilk Soup"
   yield: "4"
-  time: "10 minutes (but you need tomato confit already made)"
-  diet: "Gluten-Free"
   ingredients:
     - "2 1/2 cups cold buttermilk"
     - "36 tomato confit halves, divided"

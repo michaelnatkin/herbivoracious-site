@@ -11,7 +11,6 @@ cover:
 recipe:
   name: "Buckwheat Buttermilk Pancakes"
   yield: "about 12 medium pancakes"
-  time: "20 minutes"
   ingredients:
     - "Dry ingredients:"
     - "3/4 cup buckwheat flour"

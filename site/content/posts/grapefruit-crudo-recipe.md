@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Grapefruit Crudo with Avocado, Chervil and Capers"
   yield: "4 as an appetizerVegetarian, vegan, and gluten-free"
-  diet: "Vegan, Gluten-Free"
   ingredients:
     - "2 red grapefruit, sliced as described above"
     - "1 ripe avocado, thinly sliced"

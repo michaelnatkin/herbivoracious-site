@@ -11,7 +11,6 @@ cover:
 recipe:
   name: "Blue Potato Tarts"
   yield: "10 appetizer portions (2 bites each)"
-  time: "30 minutes"
   ingredients:
     - "6 small purple potatoes (about 3” long)"
     - "1 tablespoon extra virgin olive oil plus more for brushing"

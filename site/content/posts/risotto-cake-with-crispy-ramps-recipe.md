@@ -11,7 +11,6 @@ cover:
 recipe:
   name: "Risotto Cake with Crispy Ramps"
   yield: "1"
-  diet: "Gluten-Free"
   ingredients:
     - "6 ramps, white parts only, trimmed and halved lengthwise"
     - "3 tablespoons butter"

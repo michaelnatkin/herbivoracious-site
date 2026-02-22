@@ -10,8 +10,6 @@ cover:
   hidden: true
 recipe:
   name: "Ten-Minute Chickpea Salad with Feta and Basil"
-  time: "10 minutes"
-  diet: "Gluten-Free"
   ingredients:
     - "2 small (15 ounce) cans cooked chickpeas"
     - "1/2 red onion, finely diced"

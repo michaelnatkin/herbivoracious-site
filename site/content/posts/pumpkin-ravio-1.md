@@ -9,7 +9,6 @@ cover:
   hidden: true
 recipe:
   name: "Simple Broth and Beans"
-  diet: "Vegan, Gluten-Free"
   ingredients:
     - "3 large leeks, white parts only, cleaned and sliced thin"
     - "4 tablespoons olive oil"

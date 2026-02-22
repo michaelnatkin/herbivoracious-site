@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Soba in Shoyu Broth with Asparagus, Leeks and Tofu"
   yield: "4"
-  diet: "Vegan"
   ingredients:
     - "2 cups dried shiitake mushrooms"
     - "1 healthy piece of kombu seaweed (about 6\" - 8\" long)"

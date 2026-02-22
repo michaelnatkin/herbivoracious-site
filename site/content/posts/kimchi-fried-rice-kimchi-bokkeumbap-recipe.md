@@ -11,7 +11,6 @@ cover:
 recipe:
   name: "Vegetarian Kimchi Fried Rice (Kimchi Bokkeumbap)"
   yield: "2 as a one dish meal or 3 as a side dish 2 tablespoons vegetable oil 2 cloves garlic, thinly sliced 2 green onions cut into 1\" lengths + 1 more thinly sliced optional: 3"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "2 tablespoons vegetable oil"
     - "2 cloves garlic, thinly sliced"

@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Lobster Mushroom Spaghetti"
   yield: "4 Vegetarian; vegan if you omit cheese and use oil instead of butter"
-  diet: "Vegan, Vegetarian"
   ingredients:
     - "1 lb. lobster mushroom, cleaned well and cut into 1/2\" dice"
     - "1 lb. spaghetti"

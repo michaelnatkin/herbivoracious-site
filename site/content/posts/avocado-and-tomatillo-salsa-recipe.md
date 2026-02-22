@@ -9,7 +9,6 @@ cover:
   hidden: true
 recipe:
   name: "Avocado and Tomatillo Salsa"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "2 large, 3 medium, or 6 small tomatillos, husked"
     - "4 cloves garlic, skin on"

@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Jjolmyon or Bibim Naengmyeon"
   yield: "4 For the sauce"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "1/4 cup kochujang (Korean chili / soybean paste)"
     - "1/2 cup mirin"

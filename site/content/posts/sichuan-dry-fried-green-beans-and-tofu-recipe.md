@@ -11,8 +11,6 @@ cover:
 recipe:
   name: "Sichuan Dry-Fried Green Beans and Tofu"
   yield: "2 with rice as a meal, or 4 as part of a larger spread"
-  time: "25 minutes"
-  diet: "Vegan, Gluten-Free"
   ingredients:
     - "6 tablespoons vegetable oil, divided"
     - "1 pound firm or extra firm tofu, thoroughly patted dry, cut in 3/4” cubes"

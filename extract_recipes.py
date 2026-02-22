@@ -121,10 +121,6 @@ def recipe_to_yaml(recipe):
         lines.append(f'  name: "{yaml_escape(recipe["name"])}"')
     if "yield" in recipe:
         lines.append(f'  yield: "{yaml_escape(recipe["yield"])}"')
-    if "time" in recipe:
-        lines.append(f'  time: "{yaml_escape(recipe["time"])}"')
-    if "diet" in recipe:
-        lines.append(f'  diet: "{yaml_escape(recipe["diet"])}"')
     if recipe.get("ingredients"):
         lines.append("  ingredients:")
         for ing in recipe["ingredients"]:

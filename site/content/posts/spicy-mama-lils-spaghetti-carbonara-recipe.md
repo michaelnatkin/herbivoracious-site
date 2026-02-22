@@ -10,8 +10,6 @@ cover:
 recipe:
   name: "Spicy Mama Lil's Spaghetti alla Carbonara"
   yield: "2 as a hearty entree 15 minutes active time Vegetarian"
-  time: "15 minutes active"
-  diet: "Vegetarian"
   ingredients:
     - "2/3 pound spaghetti"
     - "1/2 cup Mama Lil's peppers (including the oil from the jar)"

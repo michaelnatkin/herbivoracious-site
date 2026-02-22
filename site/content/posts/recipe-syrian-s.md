@@ -9,7 +9,6 @@ cover:
   hidden: true
 recipe:
   name: "Syrian Style Labneh (Spiced Yogurt Cheese)"
-  diet: "Vegan, Vegetarian"
   ingredients:
     - "1 quart thick Greek-style yogurt or 1.5 quart thinner natural yogurt"
     - "1.5 t ground cumin"

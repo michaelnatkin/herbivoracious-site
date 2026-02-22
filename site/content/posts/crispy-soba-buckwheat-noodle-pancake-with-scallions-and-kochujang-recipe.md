@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Crispy Soba Noodle Pancakes with Korean Kochujang Hot Sauce"
   yield: "about 8 pancakes"
-  diet: "Vegan"
   ingredients:
     - "1/2 cup gochujang (Korean chili paste)"
     - "mirin (rice wine), or for a different taste, rice wine vinegar"

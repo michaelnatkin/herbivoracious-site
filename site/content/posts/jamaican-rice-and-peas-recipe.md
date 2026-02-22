@@ -11,8 +11,6 @@ cover:
 recipe:
   name: "Jamaican Rice and Peas"
   yield: "4"
-  time: "10 minutes active (40 minutes total)"
-  diet: "Vegan, Gluten-Free"
   ingredients:
     - "2 cups basmati rice (or 3 measures with the cup that comes with most rice makers)"
     - "1 14 oz. can coconut milk"

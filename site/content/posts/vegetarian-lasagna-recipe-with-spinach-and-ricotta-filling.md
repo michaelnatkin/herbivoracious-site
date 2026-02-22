@@ -10,8 +10,6 @@ cover:
   hidden: true
 recipe:
   name: "Vegetarian Lasagna Recipe with Spinach and Ricotta Filling for a Crowd, using No-Boil Noodles"
-  time: "30 min"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "1 plastic produce bag stuffed tightly full of spinach (preferably not baby spinach)"
     - "1 pound ricotta"

@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Raspberry-Blueberry Buckle"
   yield: "8 For the streusel:"
-  diet: "Vegan, Vegetarian"
   ingredients:
     - "1/2 cup sugar"
     - "6 tablespoons all-purpose flour"

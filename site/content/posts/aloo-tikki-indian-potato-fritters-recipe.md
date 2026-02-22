@@ -11,8 +11,6 @@ cover:
 recipe:
   name: "Aloo Tikki (Indian Potato Fritters)"
   yield: "10"
-  time: "20 minutes active (40 total)"
-  diet: "Vegan"
   ingredients:
     - "1 pound russet or Yukon Gold potatoes (about 4 medium Yukon Golds)"
     - "½ cup peas (defrosted if frozen)"

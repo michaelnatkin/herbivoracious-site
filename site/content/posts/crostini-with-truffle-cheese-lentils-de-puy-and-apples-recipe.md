@@ -11,7 +11,6 @@ cover:
 recipe:
   name: "Crostini with Truffled Cheese, Lentils Du Puy and Apples"
   yield: "8 crostini"
-  diet: "Vegetarian"
   ingredients:
     - "2 tablespoons extra-virgin olive oil"
     - "4 cloves garlic, minced"

@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Vietnamese Lemongrass Green Beans and Tofu"
   yield: "4Vegetarian, vegan, and gluten-free"
-  diet: "Vegan, Gluten-Free"
   ingredients:
     - "1 lb. extra-firm tofu, patted dry and cut into 1/2\" cubes"
     - "1 lb. green beans, stem ends trimmed"

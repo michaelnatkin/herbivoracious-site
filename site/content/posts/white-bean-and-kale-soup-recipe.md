@@ -11,8 +11,6 @@ cover:
 recipe:
   name: "White Bean and Kale Soup"
   yield: "10 cups, serves 6"
-  time: "20 minutes active (1 ½ hours total using pressure cooker)"
-  diet: "Vegan, Gluten-Free"
   ingredients:
     - "¼ cup extra-virgin olive oil plus more for garnish"
     - "1 medium onion, finely diced"

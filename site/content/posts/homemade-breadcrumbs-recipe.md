@@ -11,8 +11,6 @@ cover:
 recipe:
   name: "Homemade Breadcrumbs"
   yield: "2 cups"
-  time: "15 minutes"
-  diet: "Vegan"
   ingredients:
     - "6 thick slices of stale, but not moldy, bread, crust on"
     - "3 tablespoons extra-virgin olive oil"

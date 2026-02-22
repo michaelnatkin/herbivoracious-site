@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Kala Chana (Black Chickpea Curry)"
   yield: "2-3 Vegetarian, vegan, and gluten-free"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "1 cup dry black chickpeas"
     - "1 teaspoon baking soda"

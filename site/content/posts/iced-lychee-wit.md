@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Iced Lychee With Asian Mignonette Sauce"
   yield: "4Vegetarian, vegan, and gluten-free"
-  diet: "Vegan, Gluten-Free"
   ingredients:
     - "4 fresh lychee, peeled, halved, and pitted"
     - "2 teaspoons rice wine vinegar"

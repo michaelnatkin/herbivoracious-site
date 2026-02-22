@@ -11,8 +11,6 @@ cover:
 recipe:
   name: "Pear and Gouda Salad"
   yield: "4"
-  time: "15 minutes"
-  diet: "Gluten-Free"
   ingredients:
     - "1/3 cup Cryo-Pickled Onions + 2 tablespoons of the pickling liquid"
     - "5 tablespoons extra-virgin olive oil"

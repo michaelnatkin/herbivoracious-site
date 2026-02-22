@@ -11,7 +11,6 @@ cover:
 recipe:
   name: "Braised Fennel"
   yield: "4 as a side dish Vegetarian, vegan and gluten-free"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "1/4 cup extra virgin olive oil plus additional for garnish"
     - "2 medium fennel bulbs, trimmed and halved lengthwise, fronds reserved for garnish"

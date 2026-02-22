@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Recipe: Sesame Corn Muffins"
   yield: "12 muffinsVegetarian, not vegan or gluten-free"
-  diet: "Vegan, Gluten-Free"
   ingredients:
     - "1 1/4 c. coarse or medium cornmeal"
     - "3/4 c. all-purpose flour"

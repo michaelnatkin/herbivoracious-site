@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Basic Pan-Roasted Tomatillo Salsa Verde"
   yield: "about 2.5 cups"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "1.5 pounds tomatillos, outer husks removed, rinsed, cut in half"
     - "8 cloves of garlic, peeled and left whole"

@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Chanterelle Tostadas"
   yield: "4 small tostadas, which would be a light main course - double this if you aren't serving much else; multiply by 1.5 if using larger tostada shells Vegetarian, vegan, gluten free and kosher"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "Vegetable oil"
     - "40 small or 20 larger chanterelle mushrooms, cleaned (and cut into bite size if needed)"

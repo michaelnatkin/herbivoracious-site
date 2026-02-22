@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Red Rice and Avocado with Crispy Burdock Chips"
   yield: "4 Vegetarian and vegan For the dressing"
-  diet: "Vegan, Vegetarian"
   ingredients:
     - "1/4 cup white miso"
     - "2 tablespoons lime juice (or yuzu juice, if you happen to have it)"

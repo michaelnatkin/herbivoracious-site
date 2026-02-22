@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Giant Dutch Baby with Sauteed Apples"
   yield: "3 to 5 (see above)"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "6 + 2 tablespoons unsalted butter"
     - "5 eggs"

@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Quickie Amba (Pickled Mango"
   yield: "enough to serve at a meal for 6, easily"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "1/2 mango, finely diced (slightly underripe is better, but not rock hard)"
     - "1/4 preserved lemon, pips removed, minced (check ingredients if you need gluten free)"

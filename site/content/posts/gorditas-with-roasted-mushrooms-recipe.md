@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Gorditas with Roasted Mushrooms – Recipe"
   yield: "6 as a main course (with a couple extra for the hungriest) Ingredients For the roasted mushrooms"
-  time: "1 hr"
   ingredients:
     - "2 1/2 pounds white button mushrooms, quartered lengthwise"
     - "Vegetable oil"

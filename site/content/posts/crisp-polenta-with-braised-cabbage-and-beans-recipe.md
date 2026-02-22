@@ -11,7 +11,6 @@ cover:
 recipe:
   name: "Crisp Polenta Cakes with Braised Cabbage"
   yield: "4"
-  diet: "Vegetarian"
   ingredients:
     - "1/2 cup olive oil, divided"
     - "1 white onion, thinly sliced"

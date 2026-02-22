@@ -9,7 +9,6 @@ cover:
   hidden: true
 recipe:
   name: "Roasted Carrots with Sage Brown Butter"
-  diet: "Vegetarian, Gluten-Free"
   ingredients:
     - "12 carrots, peeled, cut in half lengthwise, then cut into 2-inch pieces"
     - "2 tablespoons extra-virgin olive oil"

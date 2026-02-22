@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Grapefruit And Avocado Salad"
   yield: "2Vegetarian, vegan, and gluten free"
-  diet: "Vegan, Gluten-Free"
   ingredients:
     - "1 grapefruit, cut into supremes over a bowl (see discussion above)"
     - "1 ripe avocado, cubed or sliced"

@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Ethiopian-Style Chard with Berbere"
   yield: "4 as a side dishVegetarian, vegan if you use oil instead of butter, and gluten-free"
-  diet: "Vegan, Gluten-Free"
   ingredients:
     - "2 tablespoons unsalted butter or oil"
     - "1/2 onion, thinly slices"

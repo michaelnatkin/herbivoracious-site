@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Quinoa with Tahina Sauce, Tofu and Green Beans"
   yield: "4 as a main dish"
-  diet: "Vegan, Gluten-Free"
   ingredients:
     - "1.5 cups uncooked quinoa"
     - "1 cup sesame tahini (Joyva or Alwadi are good brands; failing that, any Middle Eastern brand; if you use a health-food / natural foods type brand, look for one that specifies toasted, not raw. Raw tahini is yucky IMHO)."

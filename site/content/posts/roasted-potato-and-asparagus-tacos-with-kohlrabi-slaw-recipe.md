@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Roasted Potato and Asparagus Tacos with Kohlrabi Slaw"
   yield: "8 tacos, serves 4 with rice and beansVegetarian and gluten-free; not vegan unless you substitute or omit the dairy products"
-  diet: "Vegan, Gluten-Free"
   ingredients:
     - "6 medium potatoes, 1/2\" dice"
     - "3 tablespoons olive oil, divided"

@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Polenta With Sauteed Chard and Gorgonzola"
   yield: "4Vegetarian and gluten-free; vegan if you omit the cheese"
-  diet: "Vegan, Gluten-Free"
   ingredients:
     - "7 cups water"
     - "1 tablespoon salt"

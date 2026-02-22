@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Quinoa Cakes with a Farmer's Market Riot"
   yield: "4Vegetarian and gluten-free; vegan if you use an egg-replacer in the cakes For the chimichurri (or see this other, slightly embellished version):"
-  diet: "Vegan, Gluten-Free"
   ingredients:
     - "3 tablespoons extra-virgin olive oil"
     - "1 clove garlic, peeled and chopped fine or pressed"

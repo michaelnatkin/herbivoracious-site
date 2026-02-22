@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Poha (Flattened Rice) with Coconut and Cashews"
   yield: "2 as a main dish or 4 as a side dish or part of a thali"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "1/2 cup raw cashews"
     - "6 tablespoons unsweetened dried coconut"

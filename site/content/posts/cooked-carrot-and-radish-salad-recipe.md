@@ -11,7 +11,6 @@ cover:
 recipe:
   name: "Cooked Carrot and Radish Salad"
   yield: "4"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "1/2 cup extra virgin olive oil"
     - "1/4 cup lime juice or lemon juice"

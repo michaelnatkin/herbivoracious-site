@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Spaghetti with Fresh Artichokes ala Pink Door (Spaghetti con Carciofi \"Porta Rosa\")"
   yield: "3-4Vegetarian; not vegan or gluten-free"
-  diet: "Vegan, Gluten-Free"
   ingredients:
     - "16 baby artichokes, 8 medium artichokes, or 4 large artichokes trimmed as described above"
     - "1 lb. spaghetti"

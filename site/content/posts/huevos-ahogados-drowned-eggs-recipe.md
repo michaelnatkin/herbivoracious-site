@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Huevos Ahogados En Salsa Verde"
   yield: "2Vegetarian and gluten-free; not vegan"
-  diet: "Vegan, Gluten-Free"
   ingredients:
     - "3 cups tomatillo salsa, either from this recipe or a jar, pureed and slightly thinned if needed - it should be about the consistency of typical tomato soup"
     - "4 eggs"

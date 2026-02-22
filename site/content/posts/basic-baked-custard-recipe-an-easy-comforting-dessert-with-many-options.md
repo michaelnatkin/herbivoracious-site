@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Basic Baked Custard Recipe"
   yield: "8 servings Special equipment: 8 oven-proof ramekins"
-  diet: "Gluten-Free"
   ingredients:
     - "8 eggs"
     - "4 cups whole milk"

@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Sabich - Iraqi Jewish Eggplant Sandwich"
   yield: "as a saladMakes 4 sandwiches"
-  diet: "Vegan, Gluten-Free"
   ingredients:
     - "4 pieces good pita bread"
     - "4 hard boiled eggs (see note above), peeled and sliced"

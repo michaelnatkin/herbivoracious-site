@@ -9,8 +9,6 @@ cover:
   hidden: true
 recipe:
   name: "Chickpea and Saffron Pilaf with Crispy Onions – Recipe"
-  time: "30 min"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "1 medium white onion, fried like the shallots in this recipe"
     - "1/4 cup oil reserved from frying onions"

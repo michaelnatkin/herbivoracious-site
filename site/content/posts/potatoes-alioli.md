@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Alioli (Garlicky Spanish Mayonnaise)"
   yield: "1.5 cupsVegetarian and gluten-free; not vegan"
-  diet: "Vegan, Gluten-Free"
   ingredients:
     - "4 cloves garlic"
     - "2 egg yolks"

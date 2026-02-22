@@ -11,7 +11,6 @@ cover:
 recipe:
   name: "Baked Eggs with Chanterelles and Chard"
   yield: "4-6"
-  diet: "Gluten-Free"
   ingredients:
     - "3 tablespoons butter"
     - "1/2 cup finely diced white onion"

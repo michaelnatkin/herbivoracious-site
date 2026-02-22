@@ -9,7 +9,6 @@ cover:
   hidden: true
 recipe:
   name: "Chocolate-Cream Cheese Frosting"
-  diet: "Vegan, Gluten-Free"
   ingredients:
     - "12 ounces good quality chocolate chips (Ghiradelli works well)"
     - "4 tablespoons unsalted butter"

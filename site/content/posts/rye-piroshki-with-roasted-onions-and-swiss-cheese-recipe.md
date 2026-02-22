@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Rye Piroshki with Roasted Onions and Swiss Cheese"
   yield: "8 piroshki For the sponge (first part of the dough)"
-  diet: "Vegetarian"
   ingredients:
     - "500 grams all-purpose flour"
     - "650 grams warm water"

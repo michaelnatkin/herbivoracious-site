@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Chana Chaat in a Papadum Bowl"
   yield: "4Vegetarian, vegan if you skip the yogurt"
-  diet: "Vegan"
   ingredients:
     - "2 T. tamarind concentrate"
     - "2 T. boiling water"

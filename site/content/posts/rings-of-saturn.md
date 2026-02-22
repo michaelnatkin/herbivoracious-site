@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Rings Of Saturn On Challah French Toast"
   yield: "4 Vegetarian; not vegan or gluten-free For the buttermilk sauce: This sauce calls for xanthan gum. If you don't have it, you can do without, the sauce will just be a bit runny. You could also use thick Greek yogurt instead of buttermilk"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "1 cup buttermilk"
     - "1 tablespoon sugar"

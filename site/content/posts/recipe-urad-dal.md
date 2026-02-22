@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Urad Dal Patties (Vada) with Black Pepper"
   yield: "about 12 patties; 2 or 3 make a nice serving Vegetarian, vegan (if you don't garnish with dairy), and gluten-free"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "3/4 c. urad dal (without skins), available at any Indian grocery"
     - "2 tsp. coarse freshly ground black pepper"

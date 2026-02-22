@@ -11,8 +11,6 @@ cover:
 recipe:
   name: "Island Style Sweet and Spicy Cabbage"
   yield: "4 as a small side dish5 minutes active, 15 total"
-  time: "5 minutes active"
-  diet: "Vegan"
   ingredients:
     - "2 tablespoons vegetable oil"
     - "2 tablespoons brown sugar"

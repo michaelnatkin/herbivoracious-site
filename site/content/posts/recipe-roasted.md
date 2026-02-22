@@ -10,8 +10,6 @@ cover:
 recipe:
   name: "Roasted Purple Cauliflower with Sherry Vinaigrette and Fried Capers"
   yield: "8 as a side dishPreparation time: 45 minutesVegetarian and vegan"
-  time: "45 minutes"
-  diet: "Vegan"
   ingredients:
     - "4 heads cauliflower, preferably the purple variety"
     - "1 c. jarred roasted piquillo peppers or red peppers, sliced thin (or roast them yourself if you have the time)"

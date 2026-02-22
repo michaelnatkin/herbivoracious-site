@@ -10,8 +10,6 @@ cover:
 recipe:
   name: "Banana, Buttermilk and Brown Sugar Muffins"
   yield: "12 muffins 35 minutes total (10 active) Wet ingredients:"
-  time: "35 minutes total (10 active)"
-  diet: "Vegetarian"
   ingredients:
     - "1 cup buttermilk"
     - "1/4 cup safflower (or other neutral vegetable) oil"

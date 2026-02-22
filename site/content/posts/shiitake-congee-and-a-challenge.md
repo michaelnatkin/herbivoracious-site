@@ -9,8 +9,6 @@ cover:
   hidden: true
 recipe:
   name: "Shiitake Congee"
-  time: "30 min"
-  diet: "Vegan, Vegetarian"
   ingredients:
     - "4 eggs"
     - "40 grams dried shiitake mushrooms, caps only"

@@ -7,8 +7,6 @@ aliases: ["/mexican-panzane/", "/2007/07/mexican-panzane.html"]
 recipe:
   name: "Mexican Panzanella Salad"
   yield: "8 as most of dinnerVegetarian and vegan; to make gluten-free use corn tortillas instead of the bread 5 small limes, juiced 3"
-  time: "3 minutes"
-  diet: "Vegan, Gluten-Free"
   ingredients:
     - "Whisk together lime juice, olive oil, garlic, salt, chili powder and cumin to make the dressing. It should be pretty salty."
     - "Prepare the poblanos, tomatoes, cucumber and onion and place in a large serving bowl"

@@ -9,7 +9,6 @@ cover:
   hidden: true
 recipe:
   name: "Spicy Angel Hair Pasta"
-  diet: "Vegan, Vegetarian"
   ingredients:
     - "1/4 lb angel hair pasta"
     - "1 slice country bread"

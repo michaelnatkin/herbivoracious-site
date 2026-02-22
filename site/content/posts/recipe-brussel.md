@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Brussels Sprouts with Seeds and Coconut"
   yield: "4 as a side dishVegetarian, vegan if you use oil instead of butter, and gluten-free"
-  diet: "Vegan, Gluten-Free"
   ingredients:
     - "3 c. brussel sprouts, trimmed and sliced thin"
     - "2 T. ghee or 1 T. butter and 1 T. oil"

@@ -9,7 +9,6 @@ cover:
   hidden: true
 recipe:
   name: "Vegan \"Bacon\" From King Oyster Mushrooms"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "1 tablespoon Maldon - use 1 1/2 teaspoons for any other kind of salt"
     - "2 tablespoons sugar"

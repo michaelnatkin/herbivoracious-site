@@ -10,8 +10,6 @@ cover:
 recipe:
   name: "Saag with Collard Greens, Kale and Spinach"
   yield: "4 as part of a larger Indian dinner 15 minutes active (1 hour total) For the spice mixture:"
-  time: "15 minutes active (1 hour total)"
-  diet: "Vegetarian, Gluten-Free"
   ingredients:
     - "1/4 teaspoon ground asoefetida (hing)"
     - "1/4 teaspoon ground cinnamon"

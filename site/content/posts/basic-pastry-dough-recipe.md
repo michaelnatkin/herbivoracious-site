@@ -11,7 +11,6 @@ cover:
 recipe:
   name: "Basic Pastry Dough"
   yield: "6"
-  time: "30 minutes active (3 hours total)"
   ingredients:
     - "1 cup all-purpose flour"
     - "1/4 teaspoon salt"

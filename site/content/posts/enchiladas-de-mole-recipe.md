@@ -9,7 +9,6 @@ cover:
   hidden: true
 recipe:
   name: "Enchiladas de Mole with Zucchini and Mushrooms – Recipe"
-  time: "30 min"
   ingredients:
     - "2 tablespoons vegetable oil"
     - "1/2 white onion, diced"

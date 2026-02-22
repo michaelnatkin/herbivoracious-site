@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Sesame-Flax Soda Bread"
   yield: "1 large loaf Vegetarian; not vegan or gluten-free"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "2 cups all-purpose flour"
     - "1 cup whole wheat flour"

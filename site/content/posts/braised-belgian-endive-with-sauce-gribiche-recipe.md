@@ -11,7 +11,6 @@ cover:
 recipe:
   name: "Braised Belgian Endive with Sauce Gribiche"
   yield: "4"
-  time: "30 minutes (if you have a hardboiled egg)"
   ingredients:
     - "For the endive:"
     - "2 tablespoons olive oil"

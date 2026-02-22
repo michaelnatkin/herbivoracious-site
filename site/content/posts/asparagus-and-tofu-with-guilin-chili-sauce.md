@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Asparagus and Tofu with Guilin Chili Sauce"
   yield: "4 as a main course with riceVegetarian and vegan; the sauce is not gluten free"
-  diet: "Vegan, Gluten-Free"
   ingredients:
     - "1 pound extra-firm tofu, patted dry and cut into medium dice"
     - "2 tablespoons vegetable oil"

@@ -10,8 +10,6 @@ cover:
 recipe:
   name: "Persimmon Carpaccio with Fennel Salad"
   yield: "4 10 minutes"
-  time: "10 minutes"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "2-3 fuyu persimmons"
     - "1 bulb fennel (reserve fronds)"

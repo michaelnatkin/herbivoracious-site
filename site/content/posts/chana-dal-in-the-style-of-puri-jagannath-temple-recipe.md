@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Puri Jagganath Temple Chana Dal, Herbivoracious Style"
   yield: "4 as a main course with rice, or 8 as a side dishVegetarian and gluten free; vegan if you use oil instead of butter"
-  diet: "Vegan, Gluten-Free"
   ingredients:
     - "1.5 cups of chana dal"
     - "1/2 cup red lentils"

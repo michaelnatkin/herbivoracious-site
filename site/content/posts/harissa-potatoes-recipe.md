@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Harissa Potatoes"
   yield: "2-3 as a side dish or part of a meze"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "1 generous tablespoon olive oil"
     - "1/3 cup diced onion"

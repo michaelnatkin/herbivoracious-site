@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Thai-Style Salad of Grilled Eggplant, Tofu, and Watermelon"
   yield: "8 as a side dish or about 3 as a light mealVegetarian, vegan, and gluten-free For the lime dressing:"
-  diet: "Vegan, Gluten-Free"
   ingredients:
     - "6 tablespoons fresh lime juice"
     - "1 teaspoon grated fresh ginger"

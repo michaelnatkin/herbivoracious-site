@@ -11,7 +11,6 @@ cover:
 recipe:
   name: "Spicy and Seeds Potatoes - Recipe"
   yield: "4-6 as a side dish"
-  diet: "Vegan"
   ingredients:
     - "1/4 cup vegetable oil (or ghee, if you prefer)"
     - "1 white onion, finely diced"

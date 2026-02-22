@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Leftover Mujadara and Shiitake Soup"
   yield: "2"
-  diet: "Vegan"
   ingredients:
     - "2 c. leftover mujadara"
     - "2 good handfuls of dried shiitake mushrooms"

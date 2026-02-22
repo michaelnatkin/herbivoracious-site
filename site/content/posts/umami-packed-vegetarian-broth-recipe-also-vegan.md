@@ -11,7 +11,6 @@ cover:
 recipe:
   name: "Umami-Packed Vegetarian Broth"
   yield: "about 1 liter (4 1"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "42 grams (1/4 cup) vegetable oil"
     - "290 grams (2 cups) finely diced onion"

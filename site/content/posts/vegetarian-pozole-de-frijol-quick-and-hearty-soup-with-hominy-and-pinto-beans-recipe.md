@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Vegetarian Pozole Rojo de Frijol"
   yield: "at least 4 as a one-pot mealVegetarian and gluten-free; vegan if you don't offer cheese as a condiment"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "1 or 2 (or more, if you are a chili head) dried chilis de Arbol, ancho, or guajillo chilis to suit your preference"
     - "2 tablespoons oil"

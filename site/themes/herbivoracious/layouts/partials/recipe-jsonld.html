@@ -9,8 +9,7 @@
 {{- $recipe = merge $recipe (dict "url" .Permalink) -}}
 {{- with .Params.cover }}{{ with .image }}{{ $recipe = merge $recipe (dict "image" (. | absURL)) }}{{ end }}{{ end -}}
 {{- with .Params.recipe.yield }}{{ $recipe = merge $recipe (dict "recipeYield" .) }}{{ end -}}
-{{- with .Params.recipe.time }}{{ $recipe = merge $recipe (dict "totalTime" .) }}{{ end -}}
-{{- with .Params.recipe.diet }}{{ $recipe = merge $recipe (dict "suitableForDiet" .) }}{{ end -}}
+{{- if in .Params.categories "Vegan or Modifiable" }}{{ $recipe = merge $recipe (dict "suitableForDiet" "https://schema.org/VeganDiet") }}{{ else }}{{ $recipe = merge $recipe (dict "suitableForDiet" "https://schema.org/VegetarianDiet") }}{{ end -}}
 {{- with .Params.recipe.ingredients }}{{ $recipe = merge $recipe (dict "recipeIngredient" .) }}{{ end -}}
 {{- with .Params.recipe.instructions -}}
   {{- $steps := slice -}}

@@ -9,7 +9,6 @@ cover:
   hidden: true
 recipe:
   name: "Porcini Crudo"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "10 grams capers"
     - "52 grams extra virgin olive oil, divided"

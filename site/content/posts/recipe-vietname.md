@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Vietnamese Sandwiches with Tofu (Banh Mi Chay)"
   yield: "4"
-  diet: "Vegan, Vegetarian"
   ingredients:
     - "1 large carrot, peeled and cut into small batons"
     - "1/2 daikon radish, peeled and cut into small batons"

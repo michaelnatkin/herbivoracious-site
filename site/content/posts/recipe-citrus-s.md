@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Citrus Salad with Sherry Vinaigrette"
   yield: "4Vegetarian and vegan"
-  diet: "Vegan"
   ingredients:
     - "2 T. sherry vinegar"
     - "1/2 t. dijon mustard"

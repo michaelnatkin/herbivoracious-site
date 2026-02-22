@@ -11,7 +11,6 @@ cover:
 recipe:
   name: "Watermelon and Sweet Onion Gazpacho"
   yield: "about 4 cups"
-  diet: "Vegan"
   ingredients:
     - "5 cups cubed seedless watermelon"
     - "3/4 teaspoon salt"

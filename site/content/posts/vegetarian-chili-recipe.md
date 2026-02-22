@@ -10,8 +10,6 @@ cover:
 recipe:
   name: "Vegetarian Chili From Scratch"
   yield: "around 10 cups, easily serving 5 (and doubles or triples beautifully) Vegetarian, gluten-free, and vegan (if you modify the garnishes) Prep time: 20 minutes Cook time: 2 hours"
-  time: "20 minutes Cook"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "1 1/2cups dry pinto beans"
     - "1 cup dry black beans"

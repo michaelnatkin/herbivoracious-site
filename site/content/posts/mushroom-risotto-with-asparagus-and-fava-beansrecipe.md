@@ -11,7 +11,6 @@ cover:
 recipe:
   name: "Mushroom Risotto with Asparagus and Fava Beans"
   yield: "4"
-  diet: "Gluten-Free"
   ingredients:
     - "1 pound mushrooms"
     - "2 cloves garlic, minced"

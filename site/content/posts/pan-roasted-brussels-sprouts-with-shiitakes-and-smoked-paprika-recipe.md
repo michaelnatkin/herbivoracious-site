@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Pan Roasted Brussels Sprouts with Shiitakes and Smoked Paprika"
   yield: "2-3 as a side dish"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "3 tablespoons vegetable oil"
     - "6 fresh shiitake mushroom caps, sliced about 1/8\" thick"

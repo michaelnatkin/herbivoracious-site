@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Pasta With Eggplant And Fresh Tomatoes"
   yield: "4Vegetarian; not gluten-free; vegan if you omit the cheese"
-  diet: "Vegan, Gluten-Free"
   ingredients:
     - "2 medium eggplants, large dice"
     - "1 onion, medium dice"

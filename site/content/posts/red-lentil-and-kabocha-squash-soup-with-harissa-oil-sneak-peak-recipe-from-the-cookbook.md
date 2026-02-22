@@ -10,8 +10,6 @@ cover:
 recipe:
   name: "Red Lentil and Kabocha Squash Soup with Harissa Oil"
   yield: "4 to 6 Vegetarian, vegan, and gluten free For the quick harissa oil: 1⁄2 cup extra-virgin olive oil 2 teaspoons sriracha, sambal oelek, or similar thick Asian chile sauce 1 teaspoon hot red pepper flakes 1⁄2 teaspoon ground cumin 1⁄2 teaspoon caraway seeds 1⁄2 teaspoon coriander seeds 2 teaspoons ground sumac 1 garlic clove, minced Combine all of the ingredients in a small saucepan and warm over low heat for about 5 minutes. Do not allow the spices to sizzle; you don’t want them to cook, just to get warm enough for their flavors to infuse the oil quickly. Remove from the heat and let sit for 5 minutes more. Puree all of the ingredients with a stick blender or a mini food processor. Strain through a fine-mesh strainer. The oil is ready to use"
-  time: "5 minutes"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "1⁄2 cup extra-virgin olive oil"
     - "2 teaspoons sriracha, sambal oelek, or similar thick Asian chile sauce"

@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Arancini di Riso"
   yield: "about 12 depending on sizeVegetarian; not vegan; could be gluten-free if you use gluten-free breadcrumbs and broth"
-  diet: "Vegan, Gluten-Free"
   ingredients:
     - "4 cups clear vegetable broth (not some soupy thing; I like Seitenbacher broth powder for this kind of thing)"
     - "2 tablespoons olive oil"

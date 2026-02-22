@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "SuperFrico Grilled Cheese"
   yield: "one sandwich"
-  diet: "Vegan, Gluten-Free"
   ingredients:
     - "1 tablespoon unsalted butter"
     - "2 thin slices of artisan sourdough bread (Baker Street Sourdough from Tall Grass is a personal favorite)"

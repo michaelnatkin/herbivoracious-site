@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Green Garlic and Mint Potato Salad"
   yield: "enough to bring to a potluck (easily halved)"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "5 pounds small, waxy potatoes"
     - "8 stems green garlic"

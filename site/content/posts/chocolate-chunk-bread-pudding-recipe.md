@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Chocolate-chunk Bread Pudding"
   yield: "6-8 Lacto-ovo vegetarian"
-  diet: "Vegetarian"
   ingredients:
     - "1 tablespoon sweet butter"
     - "4 eggs"

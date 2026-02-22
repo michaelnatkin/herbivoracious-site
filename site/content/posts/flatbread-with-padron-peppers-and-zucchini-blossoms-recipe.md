@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Grilled Flatbread With Padron Peppers and Zucchini Blossoms"
   yield: "rectangular breads about 12\" x 4\"Vegetarian; vegan if you omit the chevre For the dough:"
-  diet: "Vegan, Vegetarian"
   ingredients:
     - "1 package dry yeast"
     - "1/2 cup warm water"

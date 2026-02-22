@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Vegetarian Paella"
   yield: "3-4 (unless you are greedy like me)Vegetarian, vegan, and gluten-free"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "pinch of saffron (see note above)"
     - "3 T. olive oil"

@@ -8,8 +8,6 @@ aliases: ["/rosemary-blueberry-sauce-recipe/", "/2012/06/rosemary-blueberry-sauc
 recipe:
   name: "Rosemary-Blueberry Sauce"
   yield: "about 1 cup"
-  time: "5 minutes active"
-  diet: "Vegan, Gluten-Free"
   ingredients:
     - "12 ounces fresh blueberries (about 1 ¾ cups)"
     - "¼ cup sugar"

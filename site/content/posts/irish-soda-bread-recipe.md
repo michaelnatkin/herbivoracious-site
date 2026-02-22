@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Irish Soda Bread"
   yield: "1 large loaf Vegetarian; not vegan or gluten-free Adapted from Saveur magazine"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "2 cups pastry flour (see note above)"
     - "2 cups whole wheat flour"

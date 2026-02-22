@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Italian Plum Upside Down Cake"
   yield: "12 as a breakfast pastry"
-  diet: "Vegetarian"
   ingredients:
     - "12 Italian plums, halved and pitted"
     - "5 tablespoons butter plus additional for greasing pan"

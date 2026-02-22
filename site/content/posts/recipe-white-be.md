@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Lemony White Beans With Grilled Onions"
   yield: "12 as a side dishVegan and gluten-free"
-  diet: "Gluten-Free"
   ingredients:
     - "6 c. cooked white beans (such as cannellini)"
     - "1.5 large sweet onions"

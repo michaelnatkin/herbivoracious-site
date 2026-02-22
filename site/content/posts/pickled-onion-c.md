@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Pickled Onions"
   yield: "about 1 cup Vegetarian, vegan, and gluten-free"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "1 red, white, or sweet onion (yellow is ok but not my favorite)"
     - "rice vinegar (or other mild vinegar) to cover - about 1 c."

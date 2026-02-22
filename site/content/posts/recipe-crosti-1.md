@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Fromage Forte (also sometimes spelled Fromage Fort)"
   yield: "about 2 cups for a crostini topping or dip"
-  diet: "Vegan, Vegetarian"
   ingredients:
     - "1/2 lb. cheese scraps (see note above)"
     - "1/2 c. dry white wine"

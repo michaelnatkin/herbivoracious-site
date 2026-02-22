@@ -11,7 +11,6 @@ cover:
 recipe:
   name: "Crispy, Garlicky Smashed Potatoes with Gremolata"
   yield: "6"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "5 pounds small (golf-ball sized) waxy potatoes, any color"
     - "1/2 cup extra virgin olive oil"

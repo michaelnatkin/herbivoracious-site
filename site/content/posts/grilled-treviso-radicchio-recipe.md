@@ -11,8 +11,6 @@ cover:
 recipe:
   name: "Grilled Treviso Radicchio"
   yield: "4"
-  time: "5 minutes"
-  diet: "Gluten-Free"
   ingredients:
     - "1 head Treviso radicchio, regular radicchio, or romaine lettuce"
     - "1 tablespoon extra-virgin olive oil"

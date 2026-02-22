@@ -11,7 +11,6 @@ cover:
 recipe:
   name: "Warm Fennel Salad with Pears and Candied Pumpkin Seeds"
   yield: "6"
-  diet: "Vegan, Gluten-Free"
   ingredients:
     - "1/2 cup hulled (green) pumpkin seeds - try the bulk section of a natural foods store"
     - "1 tablespoon sugar"

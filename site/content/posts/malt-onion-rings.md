@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Stout Chocolate Malt"
   yield: "4 six ounce servingsVegetarian; not vegan nor gluten-free"
-  diet: "Vegan, Gluten-Free"
   ingredients:
     - "2 1/2 cups milk chocolate ice cream"
     - "4 ounces stout or porter; I used Barney Flats Oatmeal Stout but anything you like is fine"

@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Sunflower Butter Cookies (Like Peanut Butter Cookies for the peanut-allergic)"
   yield: "15 big cookies"
-  diet: "Vegetarian"
   ingredients:
     - "8 tablespoons (1 stick) butter, room temperature"
     - "1 scant cup sugar"

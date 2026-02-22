@@ -11,7 +11,6 @@ cover:
 recipe:
   name: "Seared Watermelon with Flavors of Summer"
   yield: "4"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "2 tablespoons extra virgin olive oil"
     - "4 seedless squares of watermelon, 2 1/2\" x 2 1/2\" x 1\""

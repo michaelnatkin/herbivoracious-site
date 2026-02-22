@@ -11,8 +11,6 @@ cover:
 recipe:
   name: "Seared Tofu Poke"
   yield: "4"
-  time: "20 minutes"
-  diet: "Vegan, Gluten-Free"
   ingredients:
     - "1 cup ogo, limukohu, hijiki or mixed seaweed (see above)"
     - "2 tablespoons vegetable oil"

@@ -11,8 +11,6 @@ cover:
 recipe:
   name: "Banana Raita"
   yield: "1 ½ cups"
-  time: "5 minutes"
-  diet: "Gluten-Free"
   ingredients:
     - "1 ripe banana, peeled and finely diced"
     - "juice of ½ lemon"

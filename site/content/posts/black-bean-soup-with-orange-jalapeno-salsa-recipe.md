@@ -11,8 +11,6 @@ cover:
 recipe:
   name: "Black Bean Soup With Orange-Jalapeno Salsa"
   yield: "6"
-  time: "30 minutes"
-  diet: "Vegan, Gluten-Free"
   ingredients:
     - "6 cups cooked black beans (reserve cooking liquid if homemade)"
     - "2 bay leaves"

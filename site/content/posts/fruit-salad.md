@@ -11,7 +11,6 @@ cover:
 recipe:
   name: "Fruit Salad"
   yield: "4 For the lime glass:"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "30 grams isomalt"
     - "zest of one lime"

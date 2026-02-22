@@ -11,7 +11,6 @@ cover:
 recipe:
   name: "Dhal Puri Roti (Caribbean Lentil-stuffed Flatbread)"
   yield: "12 flatbreads"
-  time: "1 hour"
   ingredients:
     - "For the dough:"
     - "4 cups all-purpose flour"

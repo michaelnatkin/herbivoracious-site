@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "\"Rice Bowl\""
   yield: "4Vegetarian and Vegan"
-  diet: "Vegan"
   ingredients:
     - "2.5 c. short grained rice (I usually use Niko Niko)"
     - "1.5 lb tofu, or 1 lb tempeh, seitan, spicy vegetarian sausage, etc."

@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Chana Masala with Mushrooms"
   yield: "2 as a main course with basmati rice or 4 as part of a larger Indian meal"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "1 1/2 cups cooked chickpeas (15 oz. can, drained and rinsed, or better, home-cooked)"
     - "2 tablespoons vegetable oil (or clarified butter / ghee if you have it)"

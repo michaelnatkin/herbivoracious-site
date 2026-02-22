@@ -11,8 +11,6 @@ cover:
 recipe:
   name: "Caramel-Cooked Tofu"
   yield: "2-4"
-  time: "20 minutes"
-  diet: "Vegan, Gluten-Free"
   ingredients:
     - "¼ cup rice wine or dry sherry"
     - "2 teaspoons rice vinegar"

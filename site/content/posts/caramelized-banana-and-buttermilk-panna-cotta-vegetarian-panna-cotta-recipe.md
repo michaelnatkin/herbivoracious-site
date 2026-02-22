@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Caramelized Banana and Buttermilk Panna Cotta"
   yield: "6-8 servings For the bourbon brown sugar syrup"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "3/4 cup water"
     - "3/4 cup dark brown sugar"

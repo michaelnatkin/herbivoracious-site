@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Southern-Style Collard Greens, Veganized"
   yield: "at least 4 as a side dish"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "2 big bunches collard greens"
     - "2 tablespoons vegetable oil"

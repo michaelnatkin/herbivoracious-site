@@ -11,7 +11,6 @@ cover:
 recipe:
   name: "Spicy Nori Popcorn Seasoning"
   yield: "enough for many, many servings of popcorn"
-  diet: "Vegan"
   ingredients:
     - "2 sheets nori"
     - "1 dry chili pepper of your choice (morita is nice), seeds and ribs removed"

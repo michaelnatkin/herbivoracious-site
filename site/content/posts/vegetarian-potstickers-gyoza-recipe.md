@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Vegetarian Potstickers (Gyoza) - Recipe"
   yield: "about 48 dumplings For the sauce:"
-  diet: "Vegetarian"
   ingredients:
     - "1/4 cup good quality soy sauce / shoyu / tamari"
     - "2 tablespoons rice vinegar"

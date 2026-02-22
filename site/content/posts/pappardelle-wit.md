@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Fresh Pappardelle With Cauliflower and Zucchini"
   yield: "3-4Vegetarian; not vegan or gluten-free"
-  diet: "Vegan, Gluten-Free"
   ingredients:
     - "2 heads garlic (if roasting, or 1-2 minced cloves if just sauteeing)"
     - "4 T. butter"

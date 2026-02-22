@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Challah French Toast Bread Pudding"
   yield: "4 Vegetarian; not vegan or gluten-free"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "most of 1 loaf of challah or brioche, most of the crust removed, cut into large cubes (about 1.5\")"
     - "4 eggs, beaten"

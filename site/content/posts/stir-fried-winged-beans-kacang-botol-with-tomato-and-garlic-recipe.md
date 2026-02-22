@@ -11,7 +11,6 @@ cover:
 recipe:
   name: "Stir-Fried Winged Beans (Kacang Botol) with Tomato and Garlic"
   yield: "4 as a side dish"
-  diet: "Vegan"
   ingredients:
     - "1/4 cup vegetable oil"
     - "6 cloves garlic, thinly sliced"

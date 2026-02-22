@@ -10,8 +10,6 @@ cover:
 recipe:
   name: "Whole Bean Ful Medames - With Fava Beans or Marrowfat Peas"
   yield: "4-6 10 minutes after the beans are cooked"
-  time: "10 minutes"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "1 pound dried dark brown marrowfat peas or dried *round* fava beans (the flat ones aren't good for ful)"
     - "Optional: 1 cup cooked garbanzo beans (for a little variety)"

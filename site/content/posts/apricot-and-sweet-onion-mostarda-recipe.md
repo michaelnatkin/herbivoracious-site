@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Apricot and Sweet Onion Mostarda"
   yield: "about 1 cupVegetarian, vegan, and potentially gluten-free (be sure and check the pre-prepared ingredients)"
-  diet: "Vegan, Gluten-Free"
   ingredients:
     - "5 large or 8 small apricots (about 400 grams total)"
     - "3 tablespoons sugar"

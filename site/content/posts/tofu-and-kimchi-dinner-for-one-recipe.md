@@ -11,7 +11,6 @@ cover:
 recipe:
   name: "Tofu and Kimchi Dinner for One"
   yield: "1"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "1 tablespoon vegetable oil"
     - "1/3 pound extra-firm tofu, patted dry and cut into 1/2\" dice"

@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Tempura Lychee with Togarashi Mayo"
   yield: "4 as an amuse boucheVegetarian; not vegan or gluten-free"
-  diet: "Vegan, Gluten-Free"
   ingredients:
     - "1 egg yolk"
     - "1/4 cup neutral flavored vegetable oil"

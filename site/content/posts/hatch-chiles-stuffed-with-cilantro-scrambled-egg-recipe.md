@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Chiles Stuffed with Cilantro Scrambled Eggs"
   yield: "4 stuffed peppersVegetarian and gluten free"
-  diet: "Gluten-Free"
   ingredients:
     - "4 large Hatch chilis, green or ripe, or poblanos"
     - "6 large eggs"

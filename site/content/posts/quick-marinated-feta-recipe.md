@@ -9,7 +9,6 @@ cover:
   hidden: true
 recipe:
   name: "Quick Marinated Feta with Orange Zest, Mint and Aleppo Pepper"
-  diet: "Vegetarian, Gluten-Free"
   ingredients:
     - "2 tablespoons best quality extra virgin olive oil"
     - "1 clove garlic, minced"

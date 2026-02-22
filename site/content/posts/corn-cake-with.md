@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Corn Cake with Camembert, Cherries, and White Honey"
   yield: "4Vegetarian; gluten-free; not vegan For the corn cake:"
-  diet: "Vegan, Gluten-Free"
   ingredients:
     - "1 sprig rosemary"
     - "2/3 c. ultra-fine polenta (I used de la Estancia)"

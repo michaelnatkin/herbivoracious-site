@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Super Spicy Tofu and Peppers (with Mild Variation)"
   yield: "2"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "1/2 teaspoon cornstarch"
     - "1/4 cup tamari (gluten-free if needed) or other soy sauce"

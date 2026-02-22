@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Insalata Caprese"
   yield: "4"
-  diet: "Gluten-Free"
   ingredients:
     - "2 large, ripe heirloom tomatoes, cored and sliced about 3/8 - 1/4\" thick"
     - "optional: handful of heirloom cherry tomatoes"

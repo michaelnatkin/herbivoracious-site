@@ -10,8 +10,6 @@ cover:
 recipe:
   name: "Chermoula Sauce"
   yield: "about 3"
-  time: "10 minutes Cook"
-  diet: "Vegan"
   ingredients:
     - "1 bunch of cilantro, leaves and tender stems only, well washed"
     - "1 handful flat-leaf (Italian) parsley leaves"

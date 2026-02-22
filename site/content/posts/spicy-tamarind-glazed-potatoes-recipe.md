@@ -11,8 +11,6 @@ cover:
 recipe:
   name: "Spicy Tamarind-Glazed Potatoes"
   yield: "4"
-  time: "30 minutes"
-  diet: "Vegan, Gluten-Free"
   ingredients:
     - "2 pounds very small (2-3 bite) potatoes"
     - "Kosher salt"

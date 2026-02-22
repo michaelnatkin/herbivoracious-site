@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Grilled Eggplant And Shiitake Bruschetta"
   yield: "4 piecesVegetarian; vegan if you omit the parmesan; gluten free if you omit the bread"
-  diet: "Vegan, Gluten-Free"
   ingredients:
     - "1/2 c. red wine (I used a Tempranillo)"
     - "1/4 c. tamari or shoyu soy sauce"

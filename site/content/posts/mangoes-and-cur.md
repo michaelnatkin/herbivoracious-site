@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Bangla-Flavored Fried Zucchini"
   yield: "4 Vegetarian, vegan, and gluten-free"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "5 small zucchini (or 2-3 longer ones, cut into about 5 inch lengths)"
     - "1 tablespoon vegetable oil"

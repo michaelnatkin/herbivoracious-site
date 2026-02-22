@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Potatoes with Crispy Curry Leaves"
   yield: "4 as part of a larger Indian meal Vegetarian and gluten-free"
-  diet: "Vegetarian, Gluten-Free"
   ingredients:
     - "1 1/2 pounds small, waxy potatoes"
     - "Kosher salt"

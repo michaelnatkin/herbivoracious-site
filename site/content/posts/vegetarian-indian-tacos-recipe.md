@@ -11,7 +11,6 @@ cover:
 recipe:
   name: "Indian Tacos (with Navajo fry bread)"
   yield: "4 Time varies depending on whether you are using pre-cooked beans and pre-made salsa For the fry bread:"
-  diet: "Vegetarian"
   ingredients:
     - "3 cups flour"
     - "1 teaspoon salt"

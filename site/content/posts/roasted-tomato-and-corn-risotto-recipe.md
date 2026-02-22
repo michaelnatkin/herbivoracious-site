@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Roasted Tomato and Corn Risotto"
   yield: "4-6Vegetarian and gluten-free For the roasted tomatoes (do this a day in advance if you want to use the tomato oil to cook the rice) - this makes some extra but they are easy to use up:"
-  diet: "Gluten-Free"
   ingredients:
     - "15 medium-sized ripe tomatoes, such as Early Girls, halved and cored (or see above for alternate technique for peeling before halving)"
     - "1/4 cup extra-virgin olive oil"

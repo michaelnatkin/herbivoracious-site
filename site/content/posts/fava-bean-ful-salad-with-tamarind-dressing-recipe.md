@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Warm Fava Bean (Ful) Salad with Tamarind Dressing"
   yield: "6 as a side dishVegetarian, vegan, and gluten-free"
-  diet: "Vegan, Gluten-Free"
   ingredients:
     - "2 15 oz. cans cooked fava beans (ful), drained and rinsed - Sahara is a good brand"
     - "2 stalks celery, finely diced"

@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Homefries"
   yield: "2 as a major part of a mealVegetarian, vegan, and gluten-free (obviously not vegan if you serve it with the eggs above though)"
-  diet: "Vegan, Gluten-Free"
   ingredients:
     - "1/4 cup vegetable oil"
     - "1/2 white onion, 3/8\" dice"

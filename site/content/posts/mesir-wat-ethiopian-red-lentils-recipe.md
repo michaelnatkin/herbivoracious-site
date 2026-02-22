@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Mesir Wat - Ethiopian Red Lentil Puree"
   yield: "4 as part of a larger meal"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "2 cups red lentils, picked over and rinsed"
     - "1 medium onion, roughly chopped"

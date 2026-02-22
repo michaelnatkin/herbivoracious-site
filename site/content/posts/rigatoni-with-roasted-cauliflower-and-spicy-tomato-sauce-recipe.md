@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Rigatoni with Roasted Cauliflower and Spicy Tomato Sauce"
   yield: "4"
-  diet: "Vegetarian"
   ingredients:
     - "1 head cauliflower, broken into bite-sized florets (reserve stems for another use or chop and include)"
     - "6 tablespoons extra-virgin olive oil, divided"

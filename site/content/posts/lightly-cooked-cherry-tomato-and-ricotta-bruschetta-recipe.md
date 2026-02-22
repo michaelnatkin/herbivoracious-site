@@ -11,7 +11,6 @@ cover:
 recipe:
   name: "Lightly Cooked Cherry Tomato and Ricotta Bruschetta"
   yield: "4 large pieces"
-  diet: "Vegetarian"
   ingredients:
     - "1/4 cup extra-virgin olive oil, divided"
     - "1 or 2 cloves garlic, minced"

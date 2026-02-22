@@ -9,7 +9,6 @@ cover:
   hidden: true
 recipe:
   name: "Roasted Maitake Mushrooms In Smoky Tea Broth – Recipe"
-  time: "10 min"
   ingredients:
     - "1/2 cup finely diced bok choy stems"
     - "1 tablespoon water"

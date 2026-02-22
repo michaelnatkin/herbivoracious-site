@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Red Curry Delicata Squash and Tofu"
   yield: "4 For the red curry paste:"
-  diet: "Vegan"
   ingredients:
     - "6 dried New Mexico chili pods, stems removed"
     - "1/2 cup boiling water"

@@ -7,8 +7,6 @@ categories: ["Recipes", "Sauces and Condiments", "Vegan or Modifiable", "Gluten-
 aliases: ["/cryo-pickled-onions-recipe/", "/2012/12/cryo-pickled-onions-recipe.html"]
 recipe:
   name: "Cryo-Pickled Onions"
-  time: "10 minutes active"
-  diet: "Vegan, Gluten-Free"
   ingredients:
     - "1/3 cup rice vinegar"
     - "1 ½ teaspoons Kosher salt"

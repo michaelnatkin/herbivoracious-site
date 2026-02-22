@@ -10,8 +10,6 @@ cover:
 recipe:
   name: "Perfect Roasted Green Beans"
   yield: "4 as a side dish 15 minutes"
-  time: "15 minutes"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "1 pound of green beans"
     - "Vegetable oil"

@@ -11,8 +11,6 @@ cover:
 recipe:
   name: "Spaghetti Aglio e Olio"
   yield: "3-4"
-  time: "20 minutes"
-  diet: "Vegan"
   ingredients:
     - "1 pound dried spaghetti"
     - "4 tablespoons extra-virgin olive oil"

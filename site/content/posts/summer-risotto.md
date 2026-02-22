@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Summery Risotto With Corn, Zucchini and Cherry Tomato Oil"
   yield: "6Vegetarian and gluten-free; vegan if you omit the cheese For the tomato oil:"
-  diet: "Vegan, Gluten-Free"
   ingredients:
     - "6 tablespoons extra-virgin olive oil"
     - "handful of flavorful cherry tomatoes (or 1/4 cup diced ripe tomato)"

@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Vegetarian Jap Chae"
   yield: "one) Serves 2-3 as a main dish Serves 4-6 as a side dish"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "1 bundle of potato starch cellophane noodles called dangmyeon (most packages contain 2-3 bundles and can be purchased at any Korean grocery store or most Asian markets)"
     - "1/2 bunch of fresh spinach"

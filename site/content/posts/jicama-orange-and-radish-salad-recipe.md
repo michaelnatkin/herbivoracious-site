@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Jicama, Orange and Radish Salad"
   yield: "4 as a little side dish"
-  diet: "Vegan, Vegetarian"
   ingredients:
     - "1/2 jicama peeled and cut into 1/4\" x 1/4\" x 2\" batons"
     - "1 big handful radishes, trimmed and cut into quarters"

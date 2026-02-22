@@ -11,7 +11,6 @@ cover:
 recipe:
   name: "Turkish Chickpea and Potato Stew with Baharat"
   yield: "4"
-  diet: "Vegan"
   ingredients:
     - "2 tablespoons butter (or olive oil for vegan)"
     - "1/2 large onion, diced"

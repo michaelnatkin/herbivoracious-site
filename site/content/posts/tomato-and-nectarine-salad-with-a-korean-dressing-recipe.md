@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Tomato and Nectarine Salad with a Korean Dressing"
   yield: "4 For the dressing"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "1/4 cup grapeseed oil or other neutral vegetable oil"
     - "1 tablespoon toasted (Asian) sesame oil - not the pale colored raw stuff"

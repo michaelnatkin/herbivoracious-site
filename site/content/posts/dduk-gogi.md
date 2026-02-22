@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Tteokbokki - Spicy Korean Rice Cake Stew"
   yield: "4"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "3 cups water"
     - "2 tablespoons kochujang (check ingredients if you need gluten free)"

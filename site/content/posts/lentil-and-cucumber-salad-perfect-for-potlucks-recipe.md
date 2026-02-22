@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Lentil and Cucumber Salad"
   yield: "a big potluck-sized bowl; cut in half for regular \"family\" use"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "2 English cucumbers"
     - "1 pound lentils"

@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Swiss Chard with Garlic and Yogurt"
   yield: "about 2 as a side dish (depending on size of your bunch of chard), easily multiplied"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "1 small bunch of Swiss chard"
     - "1 clove minced garlic"

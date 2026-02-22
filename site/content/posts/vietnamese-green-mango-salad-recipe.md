@@ -11,7 +11,6 @@ cover:
 recipe:
   name: "Vietnamese Green Mango Salad"
   yield: "4"
-  diet: "Vegan"
   ingredients:
     - "1/3 cup lime juice"
     - "4 tablespoons palm sugar or half white sugar, half light brown"

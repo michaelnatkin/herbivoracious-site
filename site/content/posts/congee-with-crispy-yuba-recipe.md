@@ -11,8 +11,6 @@ cover:
 recipe:
   name: "Congee with Crispy Yuba"
   yield: "4"
-  time: "15 minutes active"
-  diet: "Vegan, Gluten-Free"
   ingredients:
     - "¾ cup Chinese-style rice"
     - "Kosher salt"

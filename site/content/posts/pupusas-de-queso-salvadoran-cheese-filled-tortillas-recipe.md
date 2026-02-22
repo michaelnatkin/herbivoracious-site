@@ -9,7 +9,6 @@ cover:
   hidden: true
 recipe:
   name: "Curtido (Cabbage slaw for Pupusas)"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "1/2 medium head green cabbage, cored and very thinly sliced or grated"
     - "1 large carrot, peeled and grated"

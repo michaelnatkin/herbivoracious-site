@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Vegetarian Minestrone"
   yield: "6-8 as a main courseVegetarian; gluten-free if you omit the crouton; vegan if you omit the cheese"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "1/2 cup extra virgin olive oil"
     - "1 medium onion, thinly sliced"

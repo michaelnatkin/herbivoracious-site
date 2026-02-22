@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Polenta With Grilled Fennel and Apples, Blue Cheese And Apple Jus"
   yield: "4 as an entree"
-  diet: "Vegetarian"
   ingredients:
     - "1 1/4 c. polenta"
     - "5 c. water"

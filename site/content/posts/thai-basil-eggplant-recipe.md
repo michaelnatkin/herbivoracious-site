@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Thai Basil Eggplant"
   yield: "2 as a main course, 4 as part of a larger spread"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "3 tablespoons vegetable oil"
     - "1 tablespoon grated fresh ginger"

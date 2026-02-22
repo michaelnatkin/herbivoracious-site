@@ -11,7 +11,6 @@ cover:
 recipe:
   name: "Smoked Pineapple and Tomatillo Salsa"
   yield: "about 2 cups"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "1 cup hickory or mesquite wood chips"
     - "1 3/4 cups fresh pineapple chunks"

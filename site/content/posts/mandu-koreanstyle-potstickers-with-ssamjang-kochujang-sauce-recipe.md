@@ -11,7 +11,6 @@ cover:
 recipe:
   name: "Mandu - Korean-Style Potstickers with Ssamjang / Kochujang Sauce"
   yield: "about 40 dumplings (which in my family serves 4-5, but we are greedy) Vegetarian For the sauce :"
-  diet: "Vegetarian"
   ingredients:
     - "1/4 cup kochujang"
     - "1/3 cup ssamjang"

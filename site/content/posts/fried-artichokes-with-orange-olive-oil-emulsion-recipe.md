@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Fried Artichokes with Orange-Olive Oil Emulsion"
   yield: "4 as an appetizer For the Orange-Olive Oil Emulsion"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "1/2 orange, skin on, cut into 4 slices"
     - "2 tablespoons sherry vinegar"

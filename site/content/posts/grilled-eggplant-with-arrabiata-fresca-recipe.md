@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Grilled Eggplant with Arrabiata Fresca"
   yield: "6 as an appetizerVegetarian, vegan, and gluten-free"
-  diet: "Vegan, Gluten-Free"
   ingredients:
     - "2 cups cherry tomatoes, halved (or an equivalent amount of larger heirloom tomatoes, large dice)"
     - "1/2 teaspoon sea salt"

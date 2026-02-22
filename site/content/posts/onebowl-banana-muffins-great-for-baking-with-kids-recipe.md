@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "One-Bowl Banana Muffins"
   yield: "10 good sized muffins"
-  diet: "Vegan"
   ingredients:
     - "2 large ripe bananas, peeled"
     - "1/2 cup (1 stick) unsalted butter"

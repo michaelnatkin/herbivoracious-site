@@ -9,7 +9,6 @@ cover:
   hidden: true
 recipe:
   name: "Khao Soi – Thai Curry Noodles from Chiang Mai"
-  time: "20 min"
   ingredients:
     - "5 large, whole dried red chiles (such as pasilla, ancho, or New Mexico), stemmed but not seeded"
     - "1/2 cup diced shallot"

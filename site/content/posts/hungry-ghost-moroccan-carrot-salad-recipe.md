@@ -9,7 +9,6 @@ cover:
   hidden: true
 recipe:
   name: "Hungry Ghost Moroccan Carrot Salad – Recipe"
-  time: "15 min"
   ingredients:
     - "1 pound carrots"
     - "1 tablespoon olive oil"

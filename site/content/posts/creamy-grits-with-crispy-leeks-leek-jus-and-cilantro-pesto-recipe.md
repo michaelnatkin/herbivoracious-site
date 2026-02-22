@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Creamy Grits with Crispy Leeks, Leek Jus, and Cilantro-Epazote Pesto"
   yield: "2"
-  diet: "Gluten-Free"
   ingredients:
     - "3 cups water"
     - "1 cup whole milk"

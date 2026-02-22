@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Young Coconut Salad"
   yield: "4"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "2 young coconuts (not mature coconuts!)"
     - "2 limes, halved"

@@ -11,7 +11,6 @@ cover:
 recipe:
   name: "Portabello-Summer Squash Lasagna"
   yield: "8"
-  time: "30 minutes active (90 minutes total)"
   ingredients:
     - "4 medium crookneck or other summer squash, or zucchini, sliced lengthwise, 1/8\" thick"
     - "4 large portabello mushroom caps, sliced 1/8\" thick on the bias"

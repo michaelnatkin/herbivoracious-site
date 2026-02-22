@@ -11,8 +11,6 @@ cover:
 recipe:
   name: "Cucumber and Mango Salad with Sweet Chili Sauce"
   yield: "4"
-  time: "10 minutes"
-  diet: "Vegan, Gluten-Free"
   ingredients:
     - "6 tablespoons sweet chili sauce"
     - "1 tablespoon rice vinegar"

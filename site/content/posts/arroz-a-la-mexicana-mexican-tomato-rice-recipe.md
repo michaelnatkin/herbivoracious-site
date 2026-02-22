@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Arroz a la Mexicana (aka Arroz Mexicano or Arroz Rojo or Spanish Rice)"
   yield: "6"
-  diet: "Vegan, Vegetarian"
   ingredients:
     - "3 tablespoons vegetable oil"
     - "1 1/2 cups medium grain rice"

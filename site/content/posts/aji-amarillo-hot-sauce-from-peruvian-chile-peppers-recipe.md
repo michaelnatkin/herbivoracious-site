@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "(can be made with other dried chiles)"
   yield: "about 1"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "4 dried Aji Amarillo or other peppers of your choice (use more if they are small, the Aji Amarillos were about 5 inches long and 1 inch wide)"
     - "1/4 cup boiling water"

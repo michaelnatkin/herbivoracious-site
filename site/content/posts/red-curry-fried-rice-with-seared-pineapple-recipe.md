@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Red Curry Fried Rice with Seared Pineapple"
   yield: "4 as a side dish"
-  diet: "Vegan, Gluten-Free"
   ingredients:
     - "1.5 cups fresh pineapple, bite sized chunks"
     - "1/4 cup vegetable oil"

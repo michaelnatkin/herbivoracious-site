@@ -11,8 +11,6 @@ cover:
 recipe:
   name: "Chickpea, Spinach and Tomato Soup"
   yield: "6 Prep time: 30 minutes Cook time: 2 hours (mostly bean boiling time)"
-  time: "30 minutes Cook"
-  diet: "Gluten-Free"
   ingredients:
     - "1 pound dry chickpeas (garbanzos), rinsed and picked over"
     - "2 teaspoons Kosher salt"

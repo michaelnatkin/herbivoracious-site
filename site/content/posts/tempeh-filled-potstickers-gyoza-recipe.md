@@ -11,8 +11,6 @@ cover:
 recipe:
   name: "Tempeh-Filled Potstickers (Gyoza)"
   yield: "about 48"
-  time: "2 hours (or faster and more fun if you get some help forming the dumplings)"
-  diet: "Vegan"
   ingredients:
     - "For the sauce:"
     - "1/4 cup good quality soy sauce, shoyu, or tamari"

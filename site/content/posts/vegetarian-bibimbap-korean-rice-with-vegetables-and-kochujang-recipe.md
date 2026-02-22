@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Vegetarian Bibimbap (Korean Mixed Rice)"
   yield: "4 Kosher"
-  diet: "Vegetarian"
   ingredients:
     - "1 tablespoon rice wine vinegar"
     - "1 teaspoon grated fresh ginger"

@@ -10,8 +10,6 @@ cover:
 recipe:
   name: "Farro and Chickpea Soup"
   yield: "4 1 hour total (15 minutes active)"
-  time: "1 hour total (15 minutes active)"
-  diet: "Vegan, Vegetarian"
   ingredients:
     - "2 tablespoons extra-virgin olive oil, plus more for serving"
     - "1/2 white onion, diced"

@@ -8,7 +8,6 @@ aliases: ["/red-curry-paste-recipe/", "/2012/08/red-curry-paste-recipe.html"]
 recipe:
   name: "Red Curry Paste"
   yield: "enough for 2 meals"
-  diet: "Vegan, Gluten-Free"
   ingredients:
     - "6 dried New Mexico chile pods, stems removed"
     - "1 teaspoon coriander seeds"

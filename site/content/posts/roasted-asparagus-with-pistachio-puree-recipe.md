@@ -9,7 +9,6 @@ cover:
   hidden: true
 recipe:
   name: "Roasted Asparagus with Pistachio Puree – Recipe"
-  time: "15 min"
   ingredients:
     - "270 grams (2 cups) unsalted, roasted pistachio kernels"
     - "46 grams lemon juice (1 whole lemon)"

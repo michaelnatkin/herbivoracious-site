@@ -11,8 +11,6 @@ cover:
 recipe:
   name: "Shaved Artichoke Salad with Blood Oranges"
   yield: "4"
-  time: "15 minutes"
-  diet: "Vegan, Gluten-Free"
   ingredients:
     - "2 blood oranges"
     - "¼ cup mayonnaise or vegan mayonnaise"

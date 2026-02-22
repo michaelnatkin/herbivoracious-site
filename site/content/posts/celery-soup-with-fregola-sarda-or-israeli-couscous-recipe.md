@@ -10,7 +10,6 @@ cover:
   hidden: true
 recipe:
   name: "Celery Soup with Fregola Sarda or Israeli Couscous"
-  time: "20 minutes"
   ingredients:
     - "½ cup fregola sarda or Israeli couscous"
     - "2 tablespoons extra-virgin olive oil"

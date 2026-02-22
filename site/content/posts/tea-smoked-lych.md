@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Tea-Smoked Lychee Amuse Bouche"
   yield: "4Vegetarian, Vegan, and Gluten-Free"
-  diet: "Vegan, Gluten-Free"
   ingredients:
     - "4 fresh lychee fruits"
     - "4 tablespoons genmaicha tea"

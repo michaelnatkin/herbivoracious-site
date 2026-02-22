@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Stringozzi (or linguini) con funghi (Simple pasta with mushrooms)"
   yield: "6 if made with stringozzi, 4 otherwise"
-  diet: "Vegan, Vegetarian"
   ingredients:
     - "3 tablespoons butter, divided"
     - "1/2 white onion, finely diced"

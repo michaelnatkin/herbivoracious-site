@@ -11,8 +11,6 @@ cover:
 recipe:
   name: "Shiitake Tacos with Asian Pear Slaw"
   yield: "8 tacos"
-  time: "30 minutes"
-  diet: "Vegan, Gluten-Free"
   ingredients:
     - "For the tacos:"
     - "4 jalapeno peppers"

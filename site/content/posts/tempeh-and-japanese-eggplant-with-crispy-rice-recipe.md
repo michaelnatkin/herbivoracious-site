@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Tempeh and Japanese Eggplant with Crispy Rice"
   yield: "sure the tempeh is safeServes 4 as a one-dish supper"
-  diet: "Vegan, Gluten-Free"
   ingredients:
     - "3 cups cooked brown rice"
     - "vegetable oil"

@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Maple-Roasted Shiitake Mushrooms"
   yield: "4 as part of an entree - could also be used as a breakfast item or side dish Vegetarian, vegan, gluten-free and kosher"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "1 pound of fresh shiitake mushrooms, stems removed"
     - "Real maple syrup (se above) to coat, about 1/2 cup"

@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Onions and Aged Gouda"
   yield: "3 to 5 (see above)"
-  diet: "Vegan, Vegetarian"
   ingredients:
     - "6 + 2 tablespoons unsalted butter"
     - "1 medium onion, thinly sliced (sweet ones like Vidalia or Walla Walla preferred)"

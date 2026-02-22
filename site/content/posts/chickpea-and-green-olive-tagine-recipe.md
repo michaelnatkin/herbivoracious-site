@@ -11,8 +11,6 @@ cover:
 recipe:
   name: "Chickpea and Green Olive Tagine"
   yield: "2-3 as a main dish over couscous, or 4 if you add a roasted vegetable"
-  time: "20 minutes"
-  diet: "Vegan"
   ingredients:
     - "¼ cup extra virgin olive oil"
     - "1 medium onion, medium dice"

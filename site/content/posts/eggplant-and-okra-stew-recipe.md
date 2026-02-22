@@ -11,8 +11,6 @@ cover:
 recipe:
   name: "Eggplant and Okra Stew"
   yield: "3-4"
-  time: "40 minutes"
-  diet: "Vegan, Gluten-Free"
   ingredients:
     - "8 very small eggplants (slightly larger than golf ball sized), 3 medium or 1 large, about 1 ½ pounds total"
     - "2 tablespoons vegetable oil"

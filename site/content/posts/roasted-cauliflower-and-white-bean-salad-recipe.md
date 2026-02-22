@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Roasted Cauliflower and White Bean Salad with Orange Olive Oil Dressing"
   yield: "4Vegetarian, vegan & gluten free"
-  diet: "Vegan, Gluten-Free"
   ingredients:
     - "1 medium head cauliflower, cut into florets (see above)"
     - "2 tablespoons (plain) extra virgin olive oil"

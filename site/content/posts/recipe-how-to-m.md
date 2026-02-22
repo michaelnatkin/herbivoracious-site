@@ -11,8 +11,6 @@ cover:
 recipe:
   name: "Fluffy Couscous"
   yield: "6 Vegetarian and Vegan Prep time: 5 minutes Cook time: 15 minutes"
-  time: "5 minutes Cook"
-  diet: "Vegan, Vegetarian"
   ingredients:
     - "3 cups couscous"
     - "4 1/2 cups boiling water"

@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "\"Inside-Out Egg\" with Mango and Coconut"
   yield: "4 Vegetarian, vegan and gluten-free"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "special equipment: 4 plastic Easter eggs, the kind that split in half"
     - "250 ml. smooth, fresh mango puree"

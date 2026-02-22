@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Rustic Peach and Nectarine Crostata"
   yield: "4-6 For the dough:"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "2 cup all-purpose flour"
     - "1/2 teaspoon salt"

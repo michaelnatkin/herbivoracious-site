@@ -9,7 +9,6 @@ cover:
   hidden: true
 recipe:
   name: "Greek Green Bean Salad"
-  time: "10 min"
   ingredients:
     - "1200 grams (2 1/2 pounds) green beans, trimmed and rinsed"
     - "70 grams (1/3 cup) extra-virgin olive oil"

@@ -11,7 +11,6 @@ cover:
 recipe:
   name: "Basil Gnudi with Summer Squash"
   yield: "4"
-  time: "1 hour (gnudi can be formed ahead of time)"
   ingredients:
     - "For the sauce:"
     - "2 tablespoons butter"

@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Risotto Cakes With Sherry Gastrique"
   yield: "4 cakes (a light lunch for two, or the basis of a larger meal)Vegetarian, not vegan"
-  diet: "Vegan, Vegetarian"
   ingredients:
     - "1 c. sherry vinegar"
     - "1/3 c. sugar"

@@ -10,8 +10,6 @@ cover:
   hidden: true
 recipe:
   name: "Garlic Miso Broth"
-  time: "15 minutes"
-  diet: "Vegan"
   ingredients:
     - "1 head garlic (about 10 cloves), peeled and thinly sliced"
     - "1 tablespoon red miso"

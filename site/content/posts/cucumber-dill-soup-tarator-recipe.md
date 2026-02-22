@@ -11,8 +11,6 @@ cover:
 recipe:
   name: "Cucumber & Dill Soup (Tarator)"
   yield: "8 cups, serves 6-8"
-  time: "20 minutes active"
-  diet: "Gluten-Free"
   ingredients:
     - "3 medium cucumbers or 2 large English cucumbers"
     - "2 tablespoons rice vinegar (or other mild-flavored vinegar)"

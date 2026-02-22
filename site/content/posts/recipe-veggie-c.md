@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Veggie Chili with Cornbread Dumplings"
   yield: "4 as a main courseVegetarian, not vegan or gluten-free but could be adjusted"
-  diet: "Vegan, Gluten-Free"
   ingredients:
     - "1 white onion, medium diced"
     - "2 small cans pinto beans, rinsed and drained"

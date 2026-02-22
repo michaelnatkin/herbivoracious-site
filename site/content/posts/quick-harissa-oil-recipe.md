@@ -8,8 +8,6 @@ aliases: ["/quick-harissa-oil-recipe/", "/2012/08/quick-harissa-oil-recipe.html"
 recipe:
   name: "Quick Harissa Oil"
   yield: "about 5 tablespoons"
-  time: "15 minutes"
-  diet: "Vegan, Gluten-Free"
   ingredients:
     - "½ cup extra-virgin olive oil"
     - "2 teaspoons Sriracha or other chile paste"

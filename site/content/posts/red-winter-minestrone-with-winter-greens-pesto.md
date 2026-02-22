@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Red Winter Minestrone with Winter Greens Pesto"
   yield: "4 moderately as dinner with salad and bread For The Winter Greens Pesto (makes more than you need for soup)"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "Greens from 1 bunch beets"
     - "Greens from 1 bunch turnips"

@@ -11,7 +11,6 @@ cover:
 recipe:
   name: "Crispy Polenta Cakes with White Beans and Morels"
   yield: "4"
-  diet: "Vegan, Gluten-Free"
   ingredients:
     - "6 cups cooked and chilled polenta (or 2 cups dry coarse cornmeal)"
     - "Kosher salt"

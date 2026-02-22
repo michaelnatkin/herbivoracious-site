@@ -11,8 +11,6 @@ cover:
 recipe:
   name: "Summer Squash and Portobello Mushroom Vegetarian Lasagna"
   yield: "at least 8 Ingredients"
-  time: "30 min"
-  diet: "Vegetarian"
   ingredients:
     - "6 medium crookneck or other summer squash or zucchini, sliced lengthwise, 1/8\" thick"
     - "6 large portobello mushroom caps, sliced 1/8\" thick on a bias"

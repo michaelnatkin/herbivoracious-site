@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Brussels Sprout Gratin"
   yield: "2 as a side dish, easily doubled"
-  diet: "Vegan"
   ingredients:
     - "2 tablespoons unsalted butter, divided"
     - "1/2 small white onion, thinly sliced"

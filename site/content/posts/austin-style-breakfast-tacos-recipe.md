@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Austin-Style Breakfast Tacos"
   yield: "4 generously (3 tacos each)"
-  diet: "Vegetarian, Gluten-Free"
   ingredients:
     - "12 corn tortillas"
     - "1 1/2 cups refried beans, hot"

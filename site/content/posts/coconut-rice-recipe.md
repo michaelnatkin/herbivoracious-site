@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Coconut Rice"
   yield: "4Vegetarian, vegan and gluten-free"
-  diet: "Vegan, Gluten-Free"
   ingredients:
     - "1.5 cups jasmine or basmati rice"
     - "1 14 oz. can coconut milk"

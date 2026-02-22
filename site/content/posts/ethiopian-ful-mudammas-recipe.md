@@ -11,8 +11,6 @@ cover:
 recipe:
   name: "Ethiopian Ful Medames"
   yield: "420 minutes if you have pre-cooked beans"
-  time: "420 minutes"
-  diet: "Vegan, Gluten-Free"
   ingredients:
     - "4-6 big crusty rolls"
     - "1/4 cup olive oil + more for garnish"

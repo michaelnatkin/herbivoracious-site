@@ -10,7 +10,6 @@ cover:
   hidden: true
 recipe:
   name: "Red Chili Sauce for Tamales"
-  diet: "Vegan, Vegetarian"
   ingredients:
     - "4 ancho chilis"
     - "2 morita chilis (or 1 chipotle in adobo)"

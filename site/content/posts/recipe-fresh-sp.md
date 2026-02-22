@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Fresh Spinach Fettuccine With Goat Cheese, Jerusalem Artichokes, Morels And Leeks"
   yield: "4Vegetarian, not vegan or gluten-free"
-  diet: "Vegan, Gluten-Free"
   ingredients:
     - "3/4 c. heavy cream"
     - "6 cloves garlic"

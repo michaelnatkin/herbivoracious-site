@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Whipped Cream Frosting"
   yield: "in refrigerator until you are ready to frost your cake"
-  time: "1 minute"
   ingredients:
     - "8 ounces cream cheese (full fat, not whipped)"
     - "1/4 teaspoon salt"

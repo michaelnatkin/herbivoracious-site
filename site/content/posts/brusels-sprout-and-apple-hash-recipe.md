@@ -10,8 +10,6 @@ cover:
 recipe:
   name: "Brussels Sprout and Apple Hash - Recipe"
   yield: "3 to 4 20 minutes"
-  time: "20 minutes"
-  diet: "Gluten-Free"
   ingredients:
     - "3 tablespoons unsalted butter"
     - "Half a medium white onion, finely diced"

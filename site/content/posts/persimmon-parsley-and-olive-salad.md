@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Persimmon, Parsley and Olive Salad"
   yield: "4 as a side dishVegetarian, vegan, and gluten-free"
-  diet: "Vegan, Gluten-Free"
   ingredients:
     - "1 bunch of flat leaf Italian parsley (curly wouldn't be good here), cleaned and thoroughly dried, only leaves and very thin stems"
     - "2 Fuyu persimmons, peeled if needed, medium dice"

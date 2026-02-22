@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Pear-Caramel Ice Cream"
   yield: "about 1 quart Vegetarian and gluten-free; not vegan"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "3 medium-sized ripe pears, peeled and cored"
     - "3/4 c. + 2 tablespoons sugar"

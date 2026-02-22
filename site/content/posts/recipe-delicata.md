@@ -10,8 +10,6 @@ cover:
 recipe:
   name: "Delicata Squash Stuffed with Orzo in a Sage Brown Butter Sauce"
   yield: "4 as an entree Preparation time: 45 minutes Vegetarian, vegan if you use olive oil instead of the brown butter, gluten-free if you omit the breadcrumbs and substitute a gluten-free pasta or other gluten-free grain for the orzo"
-  time: "45 minutes"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "2 delicata squash"
     - "8 tablespoons (one stick) unsalted butter"

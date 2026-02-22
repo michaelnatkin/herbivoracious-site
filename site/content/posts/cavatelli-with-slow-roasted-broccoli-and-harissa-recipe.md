@@ -10,8 +10,6 @@ cover:
 recipe:
   name: "Cavatelli with Slow Roasted Broccoli and Harissa"
   yield: "the parmesan cheese Ingredients"
-  time: "20 min"
-  diet: "Vegan, Vegetarian"
   ingredients:
     - "1/4 cup extra virgin olive oil"
     - "8 cloves garlic, thinly sliced"

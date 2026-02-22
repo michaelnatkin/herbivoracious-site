@@ -11,7 +11,6 @@ cover:
 recipe:
   name: "Pan-Fried Gnocchi with Radicchio, Leeks and Ricotta Salata"
   yield: "6"
-  diet: "Vegetarian"
   ingredients:
     - "2 pounds Russet potatoes"
     - "Kosher salt"

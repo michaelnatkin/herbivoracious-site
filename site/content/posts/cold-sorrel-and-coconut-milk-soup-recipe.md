@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Cold Sorrel and Coconut Milk Soup"
   yield: "2 (easily multiplied), or more as an amuse-bouche sized serving"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "1 tablespoon vegetable oil"
     - "1/2 cup minced white onion"

@@ -11,8 +11,6 @@ cover:
 recipe:
   name: "Zabaglione with Roasted Plums"
   yield: "4"
-  time: "20 minutes"
-  diet: "Gluten-Free"
   ingredients:
     - "12 Italian plums, halved and pitted"
     - "6 tablespoons sugar, divided"

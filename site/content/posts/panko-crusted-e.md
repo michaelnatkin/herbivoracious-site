@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Panko-Crusted Egg With Cherry Smoked Asparagus, Smoked Paprika, And Sherry Gastrique"
   yield: "4 Vegetarian, not vegan or gluten-free"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "4 eggs (3 for boiling, 1 for battering)"
     - "cornstarch"

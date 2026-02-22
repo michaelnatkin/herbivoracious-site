@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Peperonata (delicious over polenta)"
   yield: "4"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "8 ripe bell peppers (any combination of red, yellow or orange)"
     - "1 large or 2 medium white onions"

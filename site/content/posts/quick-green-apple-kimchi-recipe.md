@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Quick Green Apple \"Kimchi\""
   yield: "about 3 cups"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "2 green apples (any crisp variety)"
     - "1/4 white onion, thinly sliced"

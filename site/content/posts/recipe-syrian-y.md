@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Syrian Red Lentil Soup (Shurbat Addes)"
   yield: "8 cups, enough for 8 appetizer servings or 4 main course servings"
-  diet: "Vegetarian"
   ingredients:
     - "2 c. red lentils (see note above)"
     - "6 cloves garlic"

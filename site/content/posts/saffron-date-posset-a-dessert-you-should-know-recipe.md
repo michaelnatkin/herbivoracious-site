@@ -9,7 +9,6 @@ cover:
   hidden: true
 recipe:
   name: "Saffron-Date Posset – A Dessert You Should Know – Recipe"
-  time: "15 min"
   ingredients:
     - "1000 grams heavy cream (about 4 cups)"
     - "150 grams date sugar (about 3/4 cup)"

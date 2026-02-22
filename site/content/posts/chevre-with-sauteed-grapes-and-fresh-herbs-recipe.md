@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Chevre with Sauteed Grapes and Fresh Herbs"
   yield: "4"
-  diet: "Gluten-Free"
   ingredients:
     - "8 oz. fresh chevre (goat cheese; I'm partial to the Laura Chenel brand)"
     - "1.5 cups seedless red grapes, halved"

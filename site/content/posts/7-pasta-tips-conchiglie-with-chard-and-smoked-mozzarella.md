@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Conchiglie Pasta with Swiss Chard and Smoked Mozzarella"
   yield: "3-4 as a main course Vegetarian; not vegan or gluten-free but adaptable"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "3 tablespoons olive oil"
     - "2 cloves garlic, minced"

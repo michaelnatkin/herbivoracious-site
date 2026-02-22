@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Farro Salad With Chanterelles, Fennel and Apples"
   yield: "4Vegetarian; vegan if you omit the parmesan; not gluten-free"
-  diet: "Vegan, Gluten-Free"
   ingredients:
     - "1 cups farro (whole or semi-pearled)"
     - "2.5 cups water"

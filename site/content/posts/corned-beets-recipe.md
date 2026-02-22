@@ -9,7 +9,6 @@ cover:
   hidden: true
 recipe:
   name: "Corned Beets – Recipe"
-  time: "20 min"
   ingredients:
     - "500 grams water"
     - "10 to 20 grams kosher salt (see below)"

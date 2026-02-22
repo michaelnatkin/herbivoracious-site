@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Onion Pakora"
   yield: "3-4 Serve with tamarind or mint chutney"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "1 cup chickpea flour (I used Bob's Red's Mill brand)"
     - "2 teaspoons vegetable oil"

@@ -9,8 +9,6 @@ cover:
   hidden: true
 recipe:
   name: "Romesco Sauce – Spanish Red Pepper and Hazelnut (or Almond) Sauce – Vegetarian, Vegan, and Gluten free"
-  time: "15 min"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "1 head garlic + a bit of extra-virgin olive oil"
     - "1 red bell pepper"

@@ -10,8 +10,6 @@ cover:
 recipe:
   name: "Crispy Quesadilla with Pecorino and Garlic & Onion Jam"
   yield: "1 quesadilla - multiply as needed Vegetarian & gluten-free; not vegan Preparation time: under 10 minutes"
-  time: "10 minutes"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "2 taco-sized soft corn tortillas"
     - "1/4 cup grated green peppercorn pecorino cheese"

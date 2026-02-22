@@ -10,7 +10,6 @@ cover:
 recipe:
   name: ""
   yield: "about 4 as a main course, or more as part of a meze"
-  diet: "Vegan, Vegetarian"
   ingredients:
     - "1.5 c. dry cranberry (borlotti) beans or 3 c. canned beans of your choice"
     - "6 cloves garlic"

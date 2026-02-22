@@ -9,7 +9,6 @@ cover:
   hidden: true
 recipe:
   name: "Homemade Kimchi"
-  time: "1 hr"
   ingredients:
     - "700 grams (1 medium head) napa cabbage"
     - "1000 grams (1 liter, 4 1/4 cups) water"

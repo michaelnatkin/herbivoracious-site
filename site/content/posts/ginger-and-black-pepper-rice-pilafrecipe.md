@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Ginger and Black Pepper Rice Pilaf"
   yield: "4 as a side dish"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "1/4 cup ghee, butter, or vegetable oil (if you want vegan)"
     - "1 packed tablespoon grated fresh ginger (don't skimp, and do not substitute powdered ginger!)"

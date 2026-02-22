@@ -11,8 +11,6 @@ cover:
 recipe:
   name: "Roasted Maitake Mushroom in Smoky Tea Broth"
   yield: "4"
-  time: "30 minutes"
-  diet: "Vegan"
   ingredients:
     - "1 pound fresh maitake mushroom"
     - "½ cup small-diced bok choy stem"

@@ -10,8 +10,6 @@ cover:
 recipe:
   name: "Kouftikes De Prasa Sandwiches"
   yield: "4"
-  time: "30 minutes active"
-  diet: "Vegetarian"
   ingredients:
     - "2 cups finely shredded red cabbage"
     - "½ teaspoon Kosher salt"

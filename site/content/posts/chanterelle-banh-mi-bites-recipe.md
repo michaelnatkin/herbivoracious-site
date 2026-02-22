@@ -11,8 +11,6 @@ cover:
 recipe:
   name: "Chanterelle Bánh Mi Bites"
   yield: "12 small crostini"
-  time: "30 minutes total (15 minutes active)"
-  diet: "Vegan"
   ingredients:
     - "For the pickled vegetables:"
     - "½ cup rice vinegar"

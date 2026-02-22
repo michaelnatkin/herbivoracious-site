@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Arroz Verde - Mexican Green Herb Rice"
   yield: "4 as a side dish"
-  diet: "Vegan"
   ingredients:
     - "1.5 cups medium grain white rice"
     - "2 cups edible parts of lightly packed fresh herbs (see note above)"

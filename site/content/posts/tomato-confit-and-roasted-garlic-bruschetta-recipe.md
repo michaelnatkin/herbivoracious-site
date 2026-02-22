@@ -11,8 +11,6 @@ cover:
 recipe:
   name: "Tomato Confit and Roasted Garlic Bruschetta"
   yield: "4"
-  time: "10 minute"
-  diet: "Vegan"
   ingredients:
     - "1 head garlic"
     - "extra-virgin olive oil"

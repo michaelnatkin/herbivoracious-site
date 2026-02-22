@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Fava Beans, Potatoes and Saffron Rice"
   yield: "4 as a main course"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "pinch saffron"
     - "1.5 cups basmati rice"

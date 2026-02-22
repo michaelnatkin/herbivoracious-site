@@ -11,7 +11,6 @@ cover:
 recipe:
   name: "Pappardelle with Eggplant Ragu and Fresh Ricotta"
   yield: "3-4"
-  time: "30 minutes"
   ingredients:
     - "1/3 cup extra virgin olive oil"
     - "1 red onion, finely diced"

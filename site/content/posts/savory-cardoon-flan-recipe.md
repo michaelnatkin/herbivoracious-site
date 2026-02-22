@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Savory Cardoon Flan"
   yield: "4 individual servings"
-  diet: "Vegetarian, Gluten-Free"
   ingredients:
     - "1/2 pound cardoon (about 2 stalks)"
     - "1 tablespoon butter"

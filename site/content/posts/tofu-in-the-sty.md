@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Tofu In The Style Of Southeast Asian Steamed Fish (Vegetarian)"
   yield: "4Vegetarian, vegan, and gluten-free"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "20 oz. firm or extra-firm tofu"
     - "4 pieces of parchment paper or banana leaf, large enough to wrap the tofu and form an envelope"

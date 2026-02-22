@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Zucchini and Chickpea Tagine"
   yield: "4"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "6 ounces carrots, peeled and cut into 1/4\" thick half-moons"
     - "1/4 cup extra-virgin olive oil"

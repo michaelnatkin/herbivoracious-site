@@ -11,7 +11,6 @@ cover:
 recipe:
   name: "Vegetarian Gravy with Marmite"
   yield: "6 cups"
-  diet: "Vegetarian"
   ingredients:
     - "2 tablespoons unsalted butter for saute, plus 10 tablespoons for roux"
     - "1/2 pound fresh button, crimini, or portobello mushrooms (stems from another use is fine), roughly chopped"

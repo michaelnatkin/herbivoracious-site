@@ -11,8 +11,6 @@ cover:
 recipe:
   name: "Onion Chutney"
   yield: "1 ½ cups"
-  time: "10 minutes active (30 minutes total)"
-  diet: "Vegan, Gluten-Free"
   ingredients:
     - "½ white onion or sweet onion, very finely diced (1 ½ cups diced)"
     - "1 tablespoon vegetable oil"

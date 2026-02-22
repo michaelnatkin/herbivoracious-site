@@ -11,7 +11,6 @@ cover:
 recipe:
   name: "Crunchy Crusted Yeast-Raised Belgian Waffles"
   yield: "4"
-  time: "10 minutes"
   ingredients:
     - "2 ½ cups barely warm milk (around 100 degrees)"
     - "1 package dry yeast (2 ¼ teaspoons)"

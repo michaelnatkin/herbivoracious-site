@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Vegetarian Ceviche"
   yield: "4Vegetarian, vegan, and gluten-free"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "juice of 1 lime"
     - "juice of Meyer lemon"

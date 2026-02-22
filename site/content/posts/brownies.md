@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Most Spectacular Chocolate and Coffee Brownies"
   yield: "at least 10 large brownies or 18 more moderate ones. Vegetarian; not vegan or gluten-free"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "1/2 lb. (2 sticks) unsalted butter"
     - "12 oz. (1 bag) Ghiradelli semi-sweet chocolate chips"

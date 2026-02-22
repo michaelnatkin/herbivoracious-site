@@ -9,7 +9,6 @@ cover:
   hidden: true
 recipe:
   name: "Vietnamese Cabbage, Tofu and Herb Salad – Gói Bắp Cải Dậu Phụ"
-  time: "15 min"
   ingredients:
     - "5 large shallots, peeled and thinly sliced"
     - "Vegetable oil for frying"

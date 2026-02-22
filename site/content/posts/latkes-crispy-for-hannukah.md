@@ -9,7 +9,6 @@ cover:
   hidden: true
 recipe:
   name: "Crispy, Delicious Latkes for Hanukkah"
-  diet: "Vegetarian, Gluten-Free"
   ingredients:
     - "450 grams (1 pound Russet potato), peeled and held in water until ready to grate"
     - "115 grams (1/4 pound onion), preferably white but yellow is ok, peeled"

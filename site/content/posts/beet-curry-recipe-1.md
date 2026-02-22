@@ -11,7 +11,6 @@ cover:
 recipe:
   name: "Beet Curry"
   yield: "4"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "1 tablespoon mustard oil"
     - "1 tablespoon vegetable oil"

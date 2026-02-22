@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Kale Fried Rice for One"
   yield: "1 (but easy to multiply)"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "1 generous tablespoon oil"
     - "2 cloves garlic, thinly sliced"

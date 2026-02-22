@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Thai Eggplant in Coconut Curry"
   yield: "4 as part of a rice-based meal"
-  diet: "Vegan"
   ingredients:
     - "4 large, long Japanese eggplants (more if smaller)"
     - "6 tablespoons vegetable oil, divided"

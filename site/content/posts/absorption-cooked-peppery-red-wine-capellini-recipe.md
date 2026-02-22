@@ -11,8 +11,6 @@ cover:
 recipe:
   name: "Absorption-Cooked Peppery Red-Wine Capellini"
   yield: "4"
-  time: "30 minutes"
-  diet: "Vegan"
   ingredients:
     - "1 pound capellini (angel hair) noodles"
     - "3 tablespoons extra virgin olive oil"

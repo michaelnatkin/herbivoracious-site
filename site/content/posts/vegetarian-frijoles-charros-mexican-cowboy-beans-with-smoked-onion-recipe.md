@@ -11,7 +11,6 @@ cover:
 recipe:
   name: "Vegetarian Frijoles Charros - Mexican Cowboy Beans with Smoked Onion"
   yield: "4"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "1 cup hickory or mesquite wood chips"
     - "1 large white onion, small dice"

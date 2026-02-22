@@ -11,7 +11,6 @@ cover:
 recipe:
   name: "Savory Bread Pudding with Morels and Beet Greens"
   yield: "4 as a big side dish or light main course"
-  diet: "Vegetarian"
   ingredients:
     - "Greens from 1 bunch beets (or other greens), stripped of ribs, cut in ribbons, rinsed well"
     - "5 tablespoons butter, divided"

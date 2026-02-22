@@ -11,7 +11,6 @@ cover:
 recipe:
   name: "Cold Carrot Soup"
   yield: "at least 12 as an amuse bouche For the soup:"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "2 pounds sweet, delicious carrots, trimmed, peeled and cut into 1/2\" coins"
     - "3 tablespoons extra virgin olive oil"

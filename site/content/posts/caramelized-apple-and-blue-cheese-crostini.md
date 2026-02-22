@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Caramelized Apple and Blue Cheese Crostini"
   yield: "16 crostini 20 minutes"
-  time: "20 minutes"
   ingredients:
     - "½ cup loosely packed fresh tarragon leaves"
     - "2 tablespoons extra-virgin olive oil"

@@ -10,8 +10,6 @@ cover:
   hidden: true
 recipe:
   name: "Artichaut Marinières - Artichokes Cooked in White Wine and Garlic"
-  time: "30 minutes"
-  diet: "Vegetarian"
   ingredients:
     - "1 lemon"
     - "1 1/2 pounds baby artichokes"

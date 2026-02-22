@@ -11,7 +11,6 @@ cover:
 recipe:
   name: "Buttermilk Spoonbread"
   yield: "8 individual side-dish portions 10 minutes active, 30 total"
-  time: "10 minutes active"
   ingredients:
     - "4 tablespoons melted butter + more unmelted for ramekins"
     - "1 tablespoon honey"

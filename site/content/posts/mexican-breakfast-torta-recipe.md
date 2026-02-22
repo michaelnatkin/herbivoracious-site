@@ -11,7 +11,6 @@ cover:
 recipe:
   name: "Mexican Breakfast Torta"
   yield: "4"
-  diet: "Vegan"
   ingredients:
     - "2 poblano peppers"
     - "1 cup thinly sliced red cabbage"

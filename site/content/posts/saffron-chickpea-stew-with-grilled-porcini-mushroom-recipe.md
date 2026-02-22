@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Saffron Chickpea Stew with Grilled Porcini Mushrooms"
   yield: "4"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "About 20 ounces fresh porcini mushrooms (sauteed morels would be great too, if less dramatic - don't grill 'em)"
     - "Extra-virgin olive oil (about 1/4 cup + 2 tablespoons)"

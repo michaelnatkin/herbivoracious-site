@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "\"Caviar\" Lentil Salad with Arugula, Crispy Shallots and Roasted Garlic"
   yield: "4"
-  diet: "Vegan, Vegetarian"
   ingredients:
     - "2 large heads garlic"
     - "Extra-virgin olive oil"

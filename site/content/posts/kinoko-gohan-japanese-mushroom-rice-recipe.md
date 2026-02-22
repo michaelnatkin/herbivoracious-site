@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Kinoko Gohan (Japanese Mushroom Rice)"
   yield: "at least 4"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "3 tablespoons shoyu (Japanese soy sauce; look for a gluten-free tamari if needed)"
     - "1/4 cup sake"

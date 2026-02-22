@@ -11,8 +11,6 @@ cover:
 recipe:
   name: "Butternut Squash Soup with Maple Pumpkin Seeds"
   yield: "4-6"
-  time: "45 minutes"
-  diet: "Vegan, Gluten-Free"
   ingredients:
     - "¼ cup extra-virgin olive oil"
     - "1 small onion, finely diced"

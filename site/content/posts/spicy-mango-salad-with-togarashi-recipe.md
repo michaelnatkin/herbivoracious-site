@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Spicy Mango Salad with Shichimi Togarashi"
   yield: "4 as a side dish"
-  diet: "Vegan"
   ingredients:
     - "zest from 2 mandarin oranges"
     - "1 large dried chili peper of your choice (I used an aji amarillo), toasted in a dry skillet, seeds removed"

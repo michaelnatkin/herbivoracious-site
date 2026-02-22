@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Beer Battered Maitake Mushroom With Japanese Tartar Sauce"
   yield: "4Vegetarian; not vegan or gluten-free For the tartar sauce:"
-  diet: "Vegan, Gluten-Free"
   ingredients:
     - "1/2 cup high-quality mayonnaise"
     - "3 green onions, finely diced (white parts and some of the green)"

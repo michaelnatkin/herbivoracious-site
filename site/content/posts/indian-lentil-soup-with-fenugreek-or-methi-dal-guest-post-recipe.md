@@ -11,7 +11,6 @@ cover:
 recipe:
   name: "Red Lentils with Fenugreek or Methi Dal"
   yield: "about 4"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "1 tablespoon canola oil or ghee"
     - "½ teaspoon cumin seeds"

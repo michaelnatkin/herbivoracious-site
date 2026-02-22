@@ -10,8 +10,6 @@ cover:
   hidden: true
 recipe:
   name: "Lemon-Mustard Vinaigrette – The Simplest and Best Salad Dressing – Recipe"
-  time: "5 min"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "2 tablespoons freshly squeezed lemon juice"
     - "1/2 teaspoon prepared Dijon mustard (e.g. Grey Poupon)"

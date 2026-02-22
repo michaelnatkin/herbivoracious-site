@@ -9,7 +9,6 @@ cover:
   hidden: true
 recipe:
   name: "Vegetarian Nuevo León Style Tamale Filling"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "1 pound portabella mushrooms"
     - "5 whole dried chiles (combination of ancho, New Mexico, cascabel, etc. to your taste)"

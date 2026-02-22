@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Chickpea Salad With Feta Cheese"
   yield: "12 as a side dish"
-  diet: "Gluten-Free"
   ingredients:
     - "2 small (15 ounce) cans chickpeas"
     - "1/2 red onion, fine dice"

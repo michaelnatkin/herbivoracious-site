@@ -11,7 +11,6 @@ cover:
 recipe:
   name: "Figs and Ricotta"
   yield: "45 minutes"
-  time: "45 minutes"
   ingredients:
     - "1/2 cup Calabro ricotta (or homemade)"
     - "4 perfectly ripe figs"

@@ -11,8 +11,6 @@ cover:
 recipe:
   name: "Warm Grapes, Toasted Pita Bread and Ricotta Salata"
   yield: "2"
-  time: "10 minutes"
-  diet: "Vegetarian"
   ingredients:
     - "2 tablespoons extra-virgin olive oil + more for drizzling"
     - "pinch of chili flakes or Aleppo pepper"

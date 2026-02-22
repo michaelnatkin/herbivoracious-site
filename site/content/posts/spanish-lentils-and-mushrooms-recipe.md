@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Spanish Lentils and Mushrooms"
   yield: "4-6"
-  diet: "Vegan"
   ingredients:
     - "1 small white onion, finely diced"
     - "3 cloves garlic, finely diced"

@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Polenta With Asparagus And Olives"
   yield: "4Vegetarian and gluten-free; vegan if you omit the cheese"
-  diet: "Vegan, Gluten-Free"
   ingredients:
     - "2 c. polenta"
     - "1 bunch asparagus"

@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Chilaquiles Verdes - Mexican Scrambled Eggs with Corn Tortillas and Green Salsa"
   yield: "2"
-  diet: "Gluten-Free"
   ingredients:
     - "1 cup salsa verde or green enchilada sauce"
     - "1/4 cup vegetable oil"

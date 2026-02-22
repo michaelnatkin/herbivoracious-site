@@ -9,7 +9,6 @@ cover:
   hidden: true
 recipe:
   name: "Sichuan Spicy Cauliflower"
-  time: "10 min"
   ingredients:
     - "1 head cauliflower, halved or cut into florets (about 700 grams)"
     - "50 grams (1/4 cup) chili oil (or use a mix of plain and sesame oil and add dried chilis to your taste)"

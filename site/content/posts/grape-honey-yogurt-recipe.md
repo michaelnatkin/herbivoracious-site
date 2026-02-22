@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Grape, Honey, Yogurt"
   yield: "4"
-  diet: "Vegan"
   ingredients:
     - "12 green seedless grapes, peeled, finely diced, and chilled"
     - "6 tablespoons honey"

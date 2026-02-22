@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Hinode Black Rice Fritters with Chimichurri"
   yield: "12 fritters, serving 4 as an entree For the chimichurri"
-  diet: "Vegetarian, Gluten-Free"
   ingredients:
     - "1/2 cup extra-virgin olive oil"
     - "2 garlic cloves, peeled and chopped fine or pressed"

@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Anti-griddle Pudding Pop, Bruleed Mango, Black Sesame Tuille"
   yield: "1Vegetarian; not vegan nor gluten-free Coconut milk sauce:"
-  diet: "Vegan, Gluten-Free"
   ingredients:
     - "1 can coconut milk"
     - "6 kaffir lime leaves"

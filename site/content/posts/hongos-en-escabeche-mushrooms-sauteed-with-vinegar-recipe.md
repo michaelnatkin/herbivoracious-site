@@ -11,7 +11,6 @@ cover:
 recipe:
   name: "Hongos en Escabeche - Mushrooms Sauteed with Vinegar"
   yield: "4 as an appetizer or side dish"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "1 tablespoon olive oil plus more for garnish"
     - "4 cloves garlic, thinly sliced"

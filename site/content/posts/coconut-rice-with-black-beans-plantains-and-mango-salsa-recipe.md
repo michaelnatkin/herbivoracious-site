@@ -10,7 +10,6 @@ cover:
   hidden: true
 recipe:
   name: "Coconut Rice with Black Beans, Plantains, and Mango Salsa"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "2 1/4 cups basmati rice (3 standard rice-cooker cups)"
     - "1 thirteen-ounce can coconut milk"

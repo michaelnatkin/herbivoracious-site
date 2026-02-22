@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Farro, Chanterelles, Apples, Apples, Apples"
   yield: "4Vegetarian; not vegan or gluten-free"
-  diet: "Vegan, Gluten-Free"
   ingredients:
     - "2 cups farro (whole or semi-pearled)"
     - "5 cups water"

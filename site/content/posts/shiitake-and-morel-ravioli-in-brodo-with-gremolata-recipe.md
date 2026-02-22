@@ -11,7 +11,6 @@ cover:
 recipe:
   name: "Shiitake and Morel Ravioli in Brodo with Gremolata"
   yield: "16 well-stuffed ravioli plus extra pasta; serves 4 as a sizeable first course2 hours total (1 hour active); less if you don't make the pasta from scratch"
-  time: "2 hours total (1 hour active)"
   ingredients:
     - "10 ounces all-purpose or \"00\" flour"
     - "2 whole eggs plus 2 egg yolks"

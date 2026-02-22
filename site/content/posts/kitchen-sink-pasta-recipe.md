@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Kitchen Sink Spaghetti with Asparagus, Eggplant and Everything Else You Have in the House"
   yield: "4"
-  diet: "Vegan, Gluten-Free"
   ingredients:
     - "1 pound high-quality spaghetti noodles"
     - "1/2 cup pepitas (hulled pumpkin seeds), or walnuts, hazelnuts or pine nuts"

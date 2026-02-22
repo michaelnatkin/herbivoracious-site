@@ -11,8 +11,6 @@ cover:
 recipe:
   name: "Chana Mushroom Masala"
   yield: "2 with just rice or 4 as part of a larger Indian meal"
-  time: "30 minutes"
-  diet: "Vegan, Gluten-Free"
   ingredients:
     - "Spice mixture: 2 teaspoons black mustard seeds (plus one more for tempering, below)"
     - "1 teaspoon fennel seeds"

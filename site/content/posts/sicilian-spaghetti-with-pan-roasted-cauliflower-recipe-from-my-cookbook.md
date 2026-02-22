@@ -10,8 +10,6 @@ cover:
 recipe:
   name: "Sicilian Spaghetti with Pan-Roasted Cauliflower"
   yield: "3-4"
-  time: "30 minutes"
-  diet: "Vegan"
   ingredients:
     - "1 head cauliflower, broken into large florets"
     - "¼ cup extra virgin olive oil + more for garnish"

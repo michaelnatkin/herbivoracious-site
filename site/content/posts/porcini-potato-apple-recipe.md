@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Porcini, Potato, Apple"
   yield: "4"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "4 large porcini mushrooms (aka cèpes or king boletes), weighing nearly 1/2 pound each"
     - "Kosher salt"

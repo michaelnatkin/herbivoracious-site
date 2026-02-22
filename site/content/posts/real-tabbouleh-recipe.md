@@ -11,7 +11,6 @@ cover:
 recipe:
   name: "Real Tabbouleh"
   yield: "4"
-  diet: "Vegan, Gluten-Free"
   ingredients:
     - "1/2 cup fine bulghur wheat"
     - "1 cup boiling water"

@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Morel \"Hot Chocolate\" Soup"
   yield: "4 as a tiny appetizer, preferably with churros rolled in pimenton and cinnamon Vegetarian and gluten-free; not vegan"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "1.5 cups heavy cream"
     - "0.6 oz. dried morel mushrooms"

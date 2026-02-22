@@ -9,8 +9,6 @@ cover:
   hidden: true
 recipe:
   name: "Cheddar and Apple Butter Panini with Rosemary Candied Pecans"
-  time: "15 minutes Cook"
-  diet: "Vegetarian"
   ingredients:
     - "1/4 cup granulated sugar"
     - "2 teaspoons chopped fresh rosemary"

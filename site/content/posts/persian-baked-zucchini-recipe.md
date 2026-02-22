@@ -10,7 +10,6 @@ cover:
   hidden: true
 recipe:
   name: "Persian Baked Zucchini"
-  diet: "Vegan, Gluten-Free"
   ingredients:
     - "8 medium zucchini (2 pounds), cut in half lengthwise then in 1-inch segments"
     - "1 1/2 teaspoons Kosher salt"

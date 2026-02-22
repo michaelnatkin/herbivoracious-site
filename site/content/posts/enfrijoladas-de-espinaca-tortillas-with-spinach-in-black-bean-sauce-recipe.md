@@ -11,8 +11,6 @@ cover:
 recipe:
   name: "Enfrijoladas de Espinaca - Tortillas with Spinach in Black Bean Sauce"
   yield: "415 minutes"
-  time: "415 minutes"
-  diet: "Vegan, Gluten-Free"
   ingredients:
     - "1 pound frozen spinach"
     - "2 tablespoons vegetable oil"

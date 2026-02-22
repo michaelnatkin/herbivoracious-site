@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Pan-Fried Polenta with Chickpea Stew, King Oyster Mushrooms and Fig Puree"
   yield: "4"
-  diet: "Vegetarian, Gluten-Free"
   ingredients:
     - "6 king oyster mushrooms (depending on size - whatever looks like 4 portions to you)"
     - "Extra-virgin olive oil"

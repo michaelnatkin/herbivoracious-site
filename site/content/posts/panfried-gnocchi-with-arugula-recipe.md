@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Pan-Fried Potato Gnocchi with Arugula"
   yield: "4Vegetarian; not vegan or gluten-free"
-  diet: "Vegan, Gluten-Free"
   ingredients:
     - "4 cups potato gnocchi (homemade, see link above, or storebought)"
     - "4 tablespoons unsalted butter (don't worry, you won't eat all of this)"

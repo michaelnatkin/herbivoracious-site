@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Cherry Muffins With Pumpkin Seeds (Pepitas)"
   yield: "12 MuffinsVegetarian; not vegan or gluten-free"
-  diet: "Vegan, Gluten-Free"
   ingredients:
     - "6 tablespons unsalted butter, room temperature"
     - "3/4 cup sugar"

@@ -11,7 +11,6 @@ cover:
 recipe:
   name: "Tomato Sushi"
   yield: "3 pieces Special equipment: blowtorch (optional)"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "1 heirloom tomato"
     - "1/3 cup cooked and vinegared sushi rice"

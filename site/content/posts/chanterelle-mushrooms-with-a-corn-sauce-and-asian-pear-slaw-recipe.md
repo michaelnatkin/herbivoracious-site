@@ -11,8 +11,6 @@ cover:
 recipe:
   name: "Chanterelle Mushrooms with a Corn Sauce and Asian Pear Slaw"
   yield: "4 as an appetizer30 minutes"
-  time: "30 minutes"
-  diet: "Vegan, Gluten-Free"
   ingredients:
     - "kernels from 2 ears of corn"
     - "1/2 teaspoon grated fresh ginger"

@@ -10,8 +10,6 @@ cover:
 recipe:
   name: "Sopes with Plantain, Zucchini and Two Sauces"
   yield: "16 sopes, serves 6-8 90 minutes total For the smoky guajillo salsa (can be made a day or two ahead):"
-  time: "90 minutes total"
-  diet: "Vegan"
   ingredients:
     - "2 dried guajillo chiles"
     - "3 cloves garlic (still in skin)"

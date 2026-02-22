@@ -9,7 +9,6 @@ cover:
   hidden: true
 recipe:
   name: "Celery and Fennel Salad – Recipe"
-  time: "15 min"
   ingredients:
     - "12 grams pumpernickel (about one 1/4\" slice with the crusts removed), cut into 1/4\" dice"
     - "Vegetable oil for frying pumpernickel"

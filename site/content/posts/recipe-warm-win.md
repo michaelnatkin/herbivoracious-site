@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Warm Winter Greens and Bread Salad"
   yield: "1 as a main course or 2-3 as a side saladVegetarian, vegan if you omit the parmesan"
-  diet: "Vegan"
   ingredients:
     - "2 big handfuls of winter braising green mix (or a single green of your choice)"
     - "2 slices rustic white bread"

@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Soft-boiled Egg With Shiso and Kochujang"
   yield: "1 sick personVegetarian, not vegan or gluten-free"
-  diet: "Vegan, Gluten-Free"
   ingredients:
     - "1 egg (room temp or sit in warm water for a few minutes)"
     - "4 thin slices of seeded baguette, toasted"

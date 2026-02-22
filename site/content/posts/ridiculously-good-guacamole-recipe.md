@@ -10,8 +10,6 @@ cover:
 recipe:
   name: "Ridiculously Good Guacamole in Five Minutes"
   yield: "4-6 greedy guac hounds Prep time: 15 minutes Cook time: None!"
-  time: "15 minutes Cook"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "4 ripe Hass avocados"
     - "1 clove garlic, minced or pressed"

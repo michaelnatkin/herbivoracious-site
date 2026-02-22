@@ -10,7 +10,6 @@ cover:
   hidden: true
 recipe:
   name: "Recipe: Mujadara (Rice, Lentils and Caramelized Onion Pilaf)"
-  time: "20 min"
   ingredients:
     - "3 pounds white onions, sliced moderately thin"
     - "2 tablespoons butter"

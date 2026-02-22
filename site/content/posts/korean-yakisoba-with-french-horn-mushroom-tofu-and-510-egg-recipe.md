@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Korean Yakisoba with French Horn Mushroom, Tofu and 5:10 Egg"
   yield: "4 For the quick radish kimchi"
-  diet: "Vegetarian"
   ingredients:
     - "5 red radishes, thinly sliced (on a mandoline if available)"
     - "2 cloves garlic, thinly sliced"

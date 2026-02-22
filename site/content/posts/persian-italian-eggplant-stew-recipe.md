@@ -11,7 +11,6 @@ cover:
 recipe:
   name: "Persian-Italian Eggplant Stew"
   yield: "4"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "3 medium or 2 large eggplant (I used normal Western style eggplants)"
     - "1/2 cup olive oil"

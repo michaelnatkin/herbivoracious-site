@@ -11,7 +11,6 @@ cover:
 recipe:
   name: "Sephardic-Style Breaded Cauliflower in Lemony Tomato Sauce"
   yield: "4 as a side dish"
-  time: "30 minutes"
   ingredients:
     - "2 tablespoons extra-virgin olive oil"
     - "1/2 white onion, finely diced"

@@ -11,8 +11,6 @@ cover:
 recipe:
   name: "Non-Traditional Arroz Verde"
   yield: "4"
-  time: "10 minutes active (40 minutes total)"
-  diet: "Vegan, Gluten-Free"
   ingredients:
     - "1 1/2 cups medium grain white rice (or basmati rice)"
     - "1 cup lightly packed leaves and tender stems flat leaf parsley"

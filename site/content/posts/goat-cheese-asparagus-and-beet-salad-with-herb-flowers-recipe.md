@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Goat Cheese, Asparagus and Beet Salad"
   yield: "4Vegetarian and gluten-free; not vegan"
-  diet: "Vegan, Gluten-Free"
   ingredients:
     - "2 medium golden beets"
     - "4 thick spears of asparagus, very thinly sliced (see note above)"

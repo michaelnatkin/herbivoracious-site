@@ -11,7 +11,6 @@ cover:
 recipe:
   name: "Baked Penne with Mushrooms and Fontina"
   yield: "4"
-  time: "45 minutes"
   ingredients:
     - "10 ounces spinach"
     - "1 pound penne rigate"

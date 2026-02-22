@@ -11,7 +11,6 @@ cover:
 recipe:
   name: "Braised Baby Artichokes with Fennel and Cherry Tomatoes"
   yield: "2 as a hearty side dish or pasta condimentVegetarian, vegan, and gluten-free"
-  diet: "Vegan, Gluten-Free"
   ingredients:
     - "2 lemons (divided)"
     - "8 baby artichokes, trimmed and quartered (as described above)"

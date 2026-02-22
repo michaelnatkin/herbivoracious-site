@@ -11,7 +11,6 @@ cover:
 recipe:
   name: "Chickpea Cakes"
   yield: "about 16 small cakesVegetarian (vegan if you use an egg-replacer)"
-  diet: "Vegan"
   ingredients:
     - "3 cups cooked chickpeas (two 15 oz. cans, drained and rinsed)"
     - "1/2 cup green onions, minced"

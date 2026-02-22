@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Ancho Chili Butter"
   yield: "8 tablespoons, enough for 6 ears of corn Vegetarian and gluten-free, not vegan"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "1/4 pound (1 stick) unsalted (sweet cream) butter, softened to room temperature"
     - "2 dried ancho chilis"

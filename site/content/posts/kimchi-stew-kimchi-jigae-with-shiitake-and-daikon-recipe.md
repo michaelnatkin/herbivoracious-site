@@ -11,8 +11,6 @@ cover:
 recipe:
   name: "Kimchi Stew (Kimchi Jigae) with Shiitake and Daikon"
   yield: "4"
-  time: "35 minutes"
-  diet: "Vegan"
   ingredients:
     - "1 medium daikon root"
     - "2 tablespoons toasted sesame oil for stew plus a drizzle for garnish"

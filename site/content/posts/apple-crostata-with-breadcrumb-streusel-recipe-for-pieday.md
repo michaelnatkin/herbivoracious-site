@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Streusel"
   yield: "12 Vegetarian and kosher"
-  diet: "Vegetarian"
   ingredients:
     - "Double batch of the pastry dough from this older crostata recipe, refrigerated"
     - "4 apples (I used Braeburns)"

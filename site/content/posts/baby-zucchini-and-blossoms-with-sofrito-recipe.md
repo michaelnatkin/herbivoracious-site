@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Baby Zucchini and Blossoms with"
   yield: "4 as a side dish Vegetarian, vegan, gluten free and kosher"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "1/4 cup extra virgin olive oil"
     - "1/2 white onion, finely diced"

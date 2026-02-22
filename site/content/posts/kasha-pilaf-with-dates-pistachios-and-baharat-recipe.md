@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Kasha Pilaf with Dates, Pistachios and Baharat"
   yield: "4 as a side dish"
-  diet: "Vegetarian, Gluten-Free"
   ingredients:
     - "1 egg, lightly beaten"
     - "1 cup buckwheat groats (kasha) (medium grain)"

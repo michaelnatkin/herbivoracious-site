@@ -9,7 +9,6 @@ cover:
   hidden: true
 recipe:
   name: "Saffron Risotto with Watercress Puree and Spring Vegetables – Recipe"
-  time: "30 min"
   ingredients:
     - "Double recipe ChefSteps' Watercress Puree"
     - "2 cups shucked fresh peas"

@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Triple-Smoky Macaroni and Cheese"
   yield: "6-8 as a main course"
-  diet: "Vegan"
   ingredients:
     - "1 pound elbow macaroni"
     - "8 tablespoons butter, divided"

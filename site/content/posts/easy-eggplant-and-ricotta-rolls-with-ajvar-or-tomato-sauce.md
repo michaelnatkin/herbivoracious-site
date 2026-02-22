@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Eggplant and Ricotta Rolls with Ajvar"
   yield: "4Vegetarian and gluten-free; not vegan"
-  diet: "Vegan, Gluten-Free"
   ingredients:
     - "1 large eggplant, ends trimmed, peeled, and sliced lengthwise into 8 slabs; they should be about 1/3 to 1/2\" thick"
     - "2 tablespoons olive oil"

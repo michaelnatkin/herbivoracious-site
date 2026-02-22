@@ -11,8 +11,6 @@ cover:
 recipe:
   name: "Tofu Dengaku"
   yield: "12 pieces"
-  time: "15 minutes"
-  diet: "Vegan"
   ingredients:
     - "2 tablespoons red miso"
     - "1 tablespoon mirin"

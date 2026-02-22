@@ -11,7 +11,6 @@ cover:
 recipe:
   name: "Bunuelos (or Bimuelos) with Honey - Sephardic Hanukkah Donuts"
   yield: "about 14 donuts"
-  diet: "Vegan"
   ingredients:
     - "1 package dry yeast (2 1/4 teaspoons)"
     - "2 cups warm water, divided"

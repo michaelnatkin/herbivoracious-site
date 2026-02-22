@@ -11,7 +11,6 @@ cover:
 recipe:
   name: "Homemade Smoked Chile Con Limon"
   yield: "4 teaspons of powder or 2 tablespoons of sauce"
-  diet: "Vegan"
   ingredients:
     - "1 tablespoon smoked paprika"
     - "3/4 teaspoon salt"

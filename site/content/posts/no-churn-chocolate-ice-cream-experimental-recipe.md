@@ -11,7 +11,6 @@ cover:
 recipe:
   name: "No-Churn Ice Cream"
   yield: "1 pint +"
-  time: "15 minutes active"
   ingredients:
     - "20 grams (3 tablespoons) Dutch-processed cocoa powder"
     - "80 grams (7 tablespoons) granulated sugar"

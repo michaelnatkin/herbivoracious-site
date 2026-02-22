@@ -11,8 +11,6 @@ cover:
 recipe:
   name: "Potato and Green Bean Salad with Arugula Pesto"
   yield: "4"
-  time: "15 minutes active"
-  diet: "Gluten-Free"
   ingredients:
     - "For the vegetables:"
     - "1 pound small, waxy potatoes"

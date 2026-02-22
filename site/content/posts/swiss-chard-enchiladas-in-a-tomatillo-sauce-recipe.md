@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Swiss Chard, Onion and Monterey Jack Enchiladas in a Tomatillo Salsa"
   yield: "4"
-  diet: "Gluten-Free"
   ingredients:
     - "3 cloves garlic, peeled"
     - "1-3 jalapenos or other fresh green chili pepper, to taste, seeded"

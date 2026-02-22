@@ -11,7 +11,6 @@ cover:
 recipe:
   name: "Triple-Smoky Mac and Cheese"
   yield: "6-8 as a main course"
-  time: "1 hour"
   ingredients:
     - "1 pound elbow macaroni"
     - "8 tablespoons butter, divided"

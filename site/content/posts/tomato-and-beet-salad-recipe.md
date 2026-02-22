@@ -11,7 +11,6 @@ cover:
 recipe:
   name: "Tomato and Beet Salad"
   yield: "about 6 cups"
-  diet: "Vegan, Gluten-Free"
   ingredients:
     - "3 cups bite sized wedges of perfect ripe tomatoes (at room temp)"
     - "3 cups bite sized wedges of boiled, peeled and cooled beets (at room temp)"

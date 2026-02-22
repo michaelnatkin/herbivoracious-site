@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Kaffir Lime Dipping Sauce"
   yield: "about 1 cupVegetarian, vegan, and gluten free if you use a wheat-free soy sauce"
-  diet: "Vegan, Gluten-Free"
   ingredients:
     - "3/4 c. water"
     - "1.5 T. sugar"

@@ -11,8 +11,6 @@ cover:
 recipe:
   name: "Bocoles with Spicy Sweet Potatoes"
   yield: "6"
-  time: "40 minutes"
-  diet: "Vegan, Gluten-Free"
   ingredients:
     - "For the sweet potato filling:"
     - "2 tablespoons oil"

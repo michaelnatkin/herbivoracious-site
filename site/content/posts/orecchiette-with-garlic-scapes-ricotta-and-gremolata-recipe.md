@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Orecchiette with Garlic Scapes, Ricotta, and Gremolata"
   yield: "4 For the gremolata:"
-  diet: "Vegetarian"
   ingredients:
     - "Zest of 1 lemon"
     - "1 clove garlic, minced"

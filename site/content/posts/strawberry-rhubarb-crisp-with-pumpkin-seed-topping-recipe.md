@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Strawberry-Rhubarb Crisp"
   yield: "8Vegetarian; not vegan or gluten-free For the crisp topping:"
-  diet: "Vegan, Gluten-Free"
   ingredients:
     - "1/2 pound butter (room temperature or cold, see discussion above)"
     - "1.5 cups all-purpose flour"

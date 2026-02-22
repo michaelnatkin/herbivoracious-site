@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Tiny Eggplant and Okra in Tamarind Sauce"
   yield: "4Vegetarian, vegan, and gluten-free For the eggplant:"
-  diet: "Vegan, Gluten-Free"
   ingredients:
     - "1 teaspoon coriander seeds"
     - "1 teaspoon cumin seeds"

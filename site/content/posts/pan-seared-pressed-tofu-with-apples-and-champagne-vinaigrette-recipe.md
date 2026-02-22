@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Pan-Seared Pressed Tofu with Apples and Champagne Vinaigrette"
   yield: "2 as a light lunch or 4 as a side dish For the dressing"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "2 tablespoons champagne vinegar"
     - "3 teaspoons minced shallot"

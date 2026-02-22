@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Bocoles (Masa and Black Bean Cakes) with Spicy Yams"
   yield: "6 as an entree or 12 as an appetizerVegetarian, vegan if you omit the crema, and gluten-free For the yam filling:"
-  diet: "Vegan, Gluten-Free"
   ingredients:
     - "2 tablespoons oil"
     - "1 white onion, diced"

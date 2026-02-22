@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Black Rice Fritters with Roasted Turnips and Horseradish Cream"
   yield: "4 For the horseradish cream"
-  diet: "Vegetarian, Gluten-Free"
   ingredients:
     - "2 tablespoons minced onion"
     - "2 cups heavy cream"

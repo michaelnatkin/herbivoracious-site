@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Chocolate-Chili Pudding Cakes"
   yield: "4Vegetarian; not vegan or gluten-free"
-  diet: "Vegan, Gluten-Free"
   ingredients:
     - "1/2 cup butter, cut into pieces plus a bit more for greasing ramekins"
     - "6 ounces bittersweet chocolate, chopped"

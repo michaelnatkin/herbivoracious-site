@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Boyikos"
   yield: "about 4 dozen tiny biscuits"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "3 cups finely grated pecorino romano (2 for dough, 1 for rolling)"
     - "1 cup canola oil or other neutral tasting vegetable oil"

@@ -11,8 +11,6 @@ cover:
 recipe:
   name: "Loaded Otsu Noodles"
   yield: "4"
-  time: "30 minutes"
-  diet: "Vegan"
   ingredients:
     - "For the sauce:"
     - "1/4 cup toasted sesame paste (tahini)"

@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Gomashio - Sesame Seed and Salt Condiment"
   yield: "about 1"
-  diet: "Vegan"
   ingredients:
     - "1 tablespoon sea salt"
     - "1/2 cup + 2 tablespoons unhulled raw sesame seeds"

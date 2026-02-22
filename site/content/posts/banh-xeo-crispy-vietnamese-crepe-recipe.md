@@ -8,8 +8,6 @@ aliases: ["/banh-xeo-crispy-vietnamese-crepe-recipe/", "/2011/09/banh-xeo-crispy
 recipe:
   name: "Bánh xèo (Crispy Vietnamese Crepe)"
   yield: "6"
-  time: "45 minutes"
-  diet: "Vegan, Gluten-Free"
   ingredients:
     - "For the crepes:"
     - "1 cup rice flour (not sweet rice flour, which is used for making desserts)"

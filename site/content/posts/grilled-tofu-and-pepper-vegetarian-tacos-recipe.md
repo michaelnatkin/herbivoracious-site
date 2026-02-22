@@ -11,7 +11,6 @@ cover:
 recipe:
   name: "Grilled Tofu and Pepper Vegetarian Tacos"
   yield: "4"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "1.5 ounces achiote \"brick\" paste (aka annatto)"
     - "1/2 cup canola oil"

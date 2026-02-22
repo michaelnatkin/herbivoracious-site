@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Sichuan Peppercorn Peanuts"
   yield: "220 grams"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "3.5 grams Sichuan peppercorns"
     - "2 grams coriander seed"

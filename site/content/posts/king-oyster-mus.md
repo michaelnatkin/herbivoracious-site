@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "King Oyster Mushrooms With Pesto, Grilled Polenta, and White Beans"
   yield: "4 Vegetarian & gluten-free (*); not vegan For Marcella Hazan's pesto (makes a little extra):"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "2 c. packed fresh basil leaves, rinsed and dried"
     - "1/2 c. extra virgin olive oil"

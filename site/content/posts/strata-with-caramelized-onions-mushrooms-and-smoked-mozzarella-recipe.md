@@ -12,7 +12,6 @@ cover:
 recipe:
   name: "Strata with Caramelized Onions, Mushrooms and Smoked Mozzarella"
   yield: "6"
-  diet: "Vegetarian"
   ingredients:
     - "4 medium white onions, sliced 1/8\" thick"
     - "Butter"

@@ -10,7 +10,6 @@ cover:
 recipe:
   name: "Black Bean Soup with Optional Orange-Jalapeno Salsa"
   yield: "6"
-  diet: "Vegan"
   ingredients:
     - "6 cups cooked black beans (reserve cooking liquid if homemade)"
     - "2 bay leaves"

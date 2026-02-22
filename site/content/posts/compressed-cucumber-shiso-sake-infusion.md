@@ -11,8 +11,6 @@ cover:
 recipe:
   name: "Compressed Cantaloupe & Cucumber Salad with Shiso Infused Sake"
   yield: "4 15 minutes (but you have to have frozen and defrosted the cuke & melon in advance)"
-  time: "15 minutes (but you have to have frozen and defrosted the cuke & melon in advance)"
-  diet: "Vegan, Vegetarian, Gluten-Free"
   ingredients:
     - "14 shiso leaves, divided"
     - "1 cup sake"
