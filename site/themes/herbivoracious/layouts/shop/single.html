@@ -17,12 +17,6 @@
         {{ with .Params.description }}<p class="shop-section__desc">{{ . }}</p>{{ end }}
       </header>
 
-      {{ if .Content }}
-      <div class="shop-editorial">
-        {{ .Content }}
-      </div>
-      {{ end }}
-
       {{ $slug := .Params.category_slug }}
       {{ $data := site.Data.products }}
       {{ range $data.categories }}

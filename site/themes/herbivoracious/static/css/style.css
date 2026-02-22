@@ -1576,23 +1576,6 @@ a.as-seen-in:hover { text-decoration: none; }
   margin-bottom: 0;
 }
 
-.shop-editorial {
-  font-family: var(--font-body);
-  font-size: 16px;
-  line-height: 1.7;
-  color: var(--text);
-  margin-bottom: 32px;
-  max-width: 680px;
-}
-
-.shop-editorial p {
-  margin-bottom: 14px;
-}
-
-.shop-editorial p:last-child {
-  margin-bottom: 0;
-}
-
 .shop-banner {
   overflow: hidden;
   border-radius: var(--radius-lg);
