@@ -7,6 +7,21 @@ aliases: ["/pickled-onion-c/", "/2008/06/pickled-onion-c.html"]
 cover:
   image: "/images/2008-small/06/02/tacowithpickledonions.jpg"
   hidden: true
+recipe:
+  name: "Pickled Onions"
+  yield: "about 1 cup Vegetarian, vegan, and gluten-free"
+  diet: "Vegan, Vegetarian, Gluten-Free"
+  ingredients:
+    - "1 red, white, or sweet onion (yellow is ok but not my favorite)"
+    - "rice vinegar (or other mild vinegar) to cover - about 1 c."
+    - "1 t. kosher salt"
+    - "1/2 t. sugar"
+    - "fennel seeds, peppercorns, coriander seeds, chili flakes, citrus zest or whatever you like"
+  instructions:
+    - "Thinly slice the onion crosswise (making half-rings, not slices). They absorb the flavor better this way."
+    - "Put them in a clean tupperware or glass container and cover with vinegar. Actually you don't have to totally cover them because they will wilt enough in the vinegar to be covered the next day."
+    - "Add the salt, sugar and spices of your choice. Shake well."
+    - "Refrigerate. I don't know officially how long they are safe to keep but I use them for at least a few days."
 ---
 
 <a href="/images/2008/06/02/tacowithpickledonions.jpg" rel="lightbox"><img title="Adobo Tofu Taco with Pickled Onions" src="/images/2008-small/06/02/tacowithpickledonions.jpg" alt="Adobo Tofu Taco with Pickled Onions" width="455" height="302" border="0" /></a>

@@ -7,6 +7,29 @@ aliases: ["/panko-crusted-e/", "/2008/06/panko-crusted-e.html"]
 cover:
   image: "/images/2008-small/06/05/pankocrustedeggwithsmokedasparagus.jpg"
   hidden: true
+recipe:
+  name: "Panko-Crusted Egg With Cherry Smoked Asparagus, Smoked Paprika, And Sherry Gastrique"
+  yield: "4 Vegetarian, not vegan or gluten-free"
+  diet: "Vegan, Vegetarian, Gluten-Free"
+  ingredients:
+    - "4 eggs (3 for boiling, 1 for battering)"
+    - "cornstarch"
+    - "panko"
+    - "oil for shallow frying"
+    - "smoked Spanish paprika"
+    - "1 c. sherry vinegar (\"O\" brand is good)"
+    - "1/2 c. sugar"
+    - "24 fat spears asparagus"
+    - "Maldon (aka the world's greatest salt) salt or other finishing salt"
+    - "extra-virgin olive oil"
+  instructions:
+    - "Hard boil, chill, and peel 3 of the eggs. At the bottom of this article (just above the recipe) you'll find directions for how to get them to come out tender and perfect. You only need 2 eggs to serve 4 people, but I'm having you do an extra one in case one cracks or gives you a hard time removing the shell."
+    - "Reduce the sugar, sherry, and a pinch of salt over a moderate flame until it will lightly coat a spoon when allowed to cool for a minute."
+    - "Trim the asparagus to uniform 3 inch lengths and lightly peel the stems. Blanch for 2 minutes in boiling, salted water then shock in ice water. Smoke however you like (e.g. in a stovetop smoking set up See note on safer smoking above., or on a barbeque with real charcoal and wood chips). I used cherry wood, which has a very distinctive taste. About 10 minutes should do it."
+    - "Cut the eggs in half lengthwise, and batter the outside in the usual way - dipping first in cornstarch, then a raw beaten egg, then panko mixed with some salt. Try not to get any batter on top of the egg. Pan-fry in about 1/2\" of oil until crispy."
+    - "Reheat the asparagus with a very quick saute in a bit of olive oil at high heat."
+    - "To serve, put a circular dusting of the pimenton on the plate and top with the egg. Next to that, put down a teaspoon or so of the gastrique. Place 6 spears of the smoked asparagus on top of that in a pyramid."
+    - "Hit the asparagus with a bit of extra virgin olive oil and finishing salt."
 ---
 
 <span style="font-size: 0.8em;"><a href="/images/2008/06/05/pankocrustedeggwithsmokedasparagus.jpg" rel="lightbox"><img title="Panko-Crusted Egg With Cherry Smoked Asparagus, Smoked Paprika, And Sherry Gastrique" src="/images/2008-small/06/05/pankocrustedeggwithsmokedasparagus.jpg" alt="Panko-Crusted Egg With Cherry Smoked Asparagus, Smoked Paprika, And Sherry Gastrique" width="455" height="302" border="0" /></a></span>

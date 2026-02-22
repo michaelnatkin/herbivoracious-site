@@ -7,6 +7,30 @@ aliases: ["/poha-flattened-rice-with-coconut-and-cashews-recipe/", "/2012/03/poh
 cover:
   image: "/images/2012/02/Poha-with-Coconut-and-Cashews-626x415.jpg"
   hidden: true
+recipe:
+  name: "Poha (Flattened Rice) with Coconut and Cashews"
+  yield: "2 as a main dish or 4 as a side dish or part of a thali"
+  diet: "Vegan, Vegetarian, Gluten-Free"
+  ingredients:
+    - "1/2 cup raw cashews"
+    - "6 tablespoons unsweetened dried coconut"
+    - "1 cup thick poha (Indian flattened rice)"
+    - "3 tablespoons vegetable oil"
+    - "3/4 cup cup diced onion"
+    - "1 inch piece of fresh ginger, grated"
+    - "3/4 teaspoon kosher salt"
+    - "1 tablespoon black mustard seed"
+    - "1/2 teaspoon garam masala (or more to taste)"
+    - "1 teaspoon turmeric"
+    - "Juice of 1/2 lime"
+    - "1/2 ripe jalapeno (red), thinly sliced"
+    - "Cilantro"
+    - "Lime pickle"
+  instructions:
+    - "Toast the cashews in a small, dry skillet over medium low heat until fragrant, about 5 minutes. Reserve. Toast the coconut in the same skillet and reserve."
+    - "Put the poha in a bowl and cover with water. Let sit until fairly tender but not falling apart, about 3 minutes. Drain in a sieve, pressing lightly to remove excess water. Reserve."
+    - "Put the oil in a large skillet, either well-seasoned cast iron or non-stick, over medium-high heat. When the oil is shimmering, add the onion and ginger and fry until the onion begins to soften, about 3 minutes. Add the salt and mustard seeds. When the mustard seeds begin to change color, about 30 seconds, add the garam masala and turmeric. Stir in the drained poha and the coconut. Cook, stirring occasionally and gently for about 3 minutes. Squeeze in the lime juice. Taste and adjust seasoning."
+    - "Serve hot, garnished with cilantro, and offering lime pickle on the side."
 ---
 
 <a href="/images/2012/02/Poha-with-Coconut-and-Cashews.jpg"><img class="alignnone size-large wp-image-1355" title="Poha with Coconut and Cashews" src="/images/2012/02/Poha-with-Coconut-and-Cashews-626x415.jpg" alt="Poha with Coconut and Cashews" width="626" height="415" /></a><br><em>Poha (Flattened Rice) with Coconut and Cashews</em>

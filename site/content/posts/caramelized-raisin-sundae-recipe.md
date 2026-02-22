@@ -8,6 +8,27 @@ aliases: ["/caramelized-raisin-sundae-recipe/", "/2012/11/caramelized-raisin-sun
 cover:
   image: "/images/cookbook/caramelized-raisin-sundae.jpg"
   hidden: true
+recipe:
+  name: "Caramelized-Raisin Sundae"
+  yield: "4"
+  time: "25 minutes"
+  ingredients:
+    - "3 tablespoons butter + 1 more at end"
+    - "1 cup raisins (Thompsons work well)"
+    - "¼ cup dark brown sugar"
+    - "½ teaspoon Kosher salt"
+    - "1 cup port wine (tawny port is a good choice, not cooking wine)"
+    - "zest of ½ orange"
+    - "juice of 1 orange, divided in half"
+    - "1 apple"
+    - "¼ teaspoon cinnamon"
+    - "¼ teaspoon sumac (optional, for color)"
+    - "8 scoops high-quality vanilla ice cream"
+  instructions:
+    - "Melt 3 tablespoons of butter in a small saucepan over medium heat. Add the raisins, sugar, and salt and cook for five minutes, stirring occasionally. Don’t worry about the raisins getting very plump, they will shrink later. Do not let the raisins burn, but they should brown a bit."
+    - "Add the port, orange zest, and juice of 1 half orange. Bring to a simmer and lower heat to maintain. Cook for about 10 minutes stirring occasionally, until the sauce is thick enough to coat a spoon, or when you drag your spatula across the bottom of the pan, it leaves a clear space for a couple of seconds. Remove from heat and cool until slightly warm (about 100 degrees). Taste and adjust seasoning."
+    - "Just before serving, put the remaining orange juice in a bowl. Peel and core the apple, then cut into ¼” dice, tossing frequently with the juice to minimize browning. Add the cinnamon and optional sumac and toss to coat."
+    - "To serve, put two scoops of vanilla ice cream in each bowl or sundae cup. Top with ¼ of the raisins and sauce, followed by a handful of the apples. Serve immediately."
 ---
 <a href="/images/cookbook/caramelized-raisin-sundae.jpg"><img src="/images/cookbook/caramelized-raisin-sundae.jpg" alt="Caramelized-Raisin Sundae" /></a>
 

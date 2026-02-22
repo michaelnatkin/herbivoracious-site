@@ -7,6 +7,26 @@ aliases: ["/chickpea-and-saffron-pilaf-with-crispy-onions-recipe/", "/2013/06/ch
 cover:
   image: "/images/2013/06/Chickpea-and-Saffron-Pilaf-with-Crispy-Onions-626x415.jpg"
   hidden: true
+recipe:
+  name: "Chickpea and Saffron Pilaf with Crispy Onions – Recipe"
+  time: "30 min"
+  diet: "Vegan, Vegetarian, Gluten-Free"
+  ingredients:
+    - "1 medium white onion, fried like the shallots in this recipe"
+    - "1/4 cup oil reserved from frying onions"
+    - "2 cups basmati rice"
+    - "1 tablespoon kosher salt (2 teaspoons if Mortons)"
+    - "Big pinch saffron"
+    - "2 cups cooked chickpeas"
+    - "1 bunch dill, rinsed, dried, and minced at last minute (no stems)"
+    - "1 bunch mint, rinsed, dried and torn at last minute"
+    - "Maldon salt"
+    - "1 lemon, cut into wedges"
+  instructions:
+    - "Heat the onion-flavored oil in a medium saucepan, at least two quart sized, over medium high heat. Add the rice and salt and cook for about 3 minutes, stirring frequently, until translucent. Add 3 1/2 cups water, cover, and raise heat to high. When the water is boiling, reduce heat to the barest simmer, leave the cover on, and cook until the water is completely absorbed, about 20 minutes. Remove from the heat."
+    - "Quickly crush the saffron in a mortar and pestle (improvised is fine). Pour about 2 tablespoons of boiling water over it and stir to create the vibrant orange color. Open the pot of rice and pour the saffron water on one side of the pot, so only some of the rice is colored. Allow to stand until somewhat cooled, then fluff."
+    - "Add the chickpeas, along with 2/3'rds of the dill and mint. Toss gently. Taste and adjust seasoning."
+    - "To serve, mound the rice on a platter and garnish with the remaining dill, mint, and fried onions, and some flaky Maldon salt. Serve with lemon wedges so diners can add a little bit to their taste."
 ---
 
 <a href="/images/2013/06/Chickpea-and-Saffron-Pilaf-with-Crispy-Onions.jpg">

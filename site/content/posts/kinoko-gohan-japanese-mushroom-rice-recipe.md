@@ -7,6 +7,25 @@ aliases: ["/kinoko-gohan-japanese-mushroom-rice-recipe/", "/2012/03/kinoko-gohan
 cover:
   image: "/images/2012/03/Kinoko-Gohan-Japanese-Mushroom-Rice-626x415.jpg"
   hidden: true
+recipe:
+  name: "Kinoko Gohan (Japanese Mushroom Rice)"
+  yield: "at least 4"
+  diet: "Vegan, Vegetarian, Gluten-Free"
+  ingredients:
+    - "3 tablespoons shoyu (Japanese soy sauce; look for a gluten-free tamari if needed)"
+    - "1/4 cup sake"
+    - "1/4 cup mirin"
+    - "5 dried shiitake mushrooms"
+    - "One piece of dried kombu, approximately 6\" by 1 1/2 \""
+    - "8 ounces mixed fresh Asian mushrooms (such as king oyster, oyster, maitake, shimeiji, bunapi, shiitake), trimmed and cut if very large"
+    - "2 cups Japanese-style rice (like Niko Niko or Kokuho Rose), pre-soaked for an hour if time permits"
+    - "1 teaspoon toasted sesame oil"
+    - "Kosher salt"
+  instructions:
+    - "Put the shoyu, sake, mirin, 2 cups of water, the dried shiitakes, kombu, and fresh mushrooms in a good-sized pot with a lid, or in a rice cooker. Bring to a simmer and let cook 5 minutes. Turn off the heat."
+    - "Strain the mushrooms, reserving the liquid. Discard the kombu (or save for another use) and reserve the mushrooms. Cut the stems out of the dried shiitakes as they will be too hard to eat."
+    - "Rinse the rice thoroughly and add to the pot or rice cooker. Measure the mushroom liquid and add enough water to it to make 2 1/2 cups total. If using the rice cooker, add the liquid and cook on a normal cycle. If using a pot, add the liquid to the pot, bring to a boil, lower to a bare simmer, cover, and cook until the liquid is completely absorbed, about 20 minutes."
+    - "When the rice is done cooking, turn off the heat and, if possible, let stand 10 minutes. Fold in the mushrooms, toasted sesame oil, and salt to taste, then serve hot or warm."
 ---
 
 <a href="/images/2012/03/Kinoko-Gohan-Japanese-Mushroom-Rice.jpg"><img class="alignnone size-large wp-image-1456" title="Kinoko Gohan (Japanese Mushroom Rice)" src="/images/2012/03/Kinoko-Gohan-Japanese-Mushroom-Rice-626x415.jpg" alt="Kinoko Gohan (Japanese Mushroom Rice)" width="626" height="415" />

@@ -7,6 +7,28 @@ aliases: ["/shiitake-congee-and-a-challenge/", "/2013/01/shiitake-congee-and-a-c
 cover:
   image: "/images/2013/05/Sous-Vide-Shiitake-Congee-622x415.jpg"
   hidden: true
+recipe:
+  name: "Shiitake Congee"
+  time: "30 min"
+  diet: "Vegan, Vegetarian"
+  ingredients:
+    - "4 eggs"
+    - "40 grams dried shiitake mushrooms, caps only"
+    - "185 grams Asian rice"
+    - "8 grams salt"
+    - "194 grams storebought pre-fried tofu, finely diced"
+    - "8 grams sesame oil"
+    - "12 grams tamari"
+    - "12 rectangles fresh soybean skin (yuba), about 2\" x 6\", double-thick"
+    - "Canned pickled Chinese cabbage or Sichuan pickled vegetable"
+    - "Salt and pepper to taste"
+  instructions:
+    - "Cook the eggs sous vide at 63 C for 45 minutes; alternatively make them soft-boiled in any way you prefer (not the same, but also good.)"
+    - "Grind 20 grams of the shiitake caps in a spice grinder to a fine powder. Put the remaining shiitake caps in a bowl with very hot water to soak."
+    - "Combine the shiitake powder with the rice, salt, and 1 liter (1000 grams) of water and cook sous vide at 90 C for 1 1/2 hours or until completely broken down into a porridge consistency. Don't worry if the shiitake powder looks ugly in the bag, it will look fine when you stir later."
+    - "Finely dice the reserved shiitake caps, and toss them in a bowl with the diced fried tofu, sesame oil, and soy sauce. Taste and adjust seasoning."
+    - "Make twelve yuba wraps, filling each with 1 tablespoon of the tofu mixture. Don't seal the ends, just wrap up as tightly as you can. As close as possible to serving time, so they stay crisp, place a large skillet over medium-high heat, add a slick of vegetable oil, and pan-fry the yuba wraps until golden-brown on both sides. Season generously with salt and pepper."
+    - "To serve, open the bag of rice, empty into a bowl, and stir in boiling water from a kettle until it is at a pleasing consistency, somewhere on the soupy side of oatmeal. Divide among four hot bowls. Crack an egg and put in each bowl, followed by 3 of the yuba rolls and a couple of tablespoons of the pickled cabbage."
 ---
 
 <a href="/images/2013/05/Sous-Vide-Shiitake-Congee.jpg"><img class="alignnone size-large wp-image-3542" alt="Sous Vide Shiitake Congee" src="/images/2013/05/Sous-Vide-Shiitake-Congee-622x415.jpg" width="622" height="415" />

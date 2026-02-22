@@ -8,6 +8,17 @@ aliases: ["/indian-sichuan-pickle-recipe/", "/2012/06/indian-sichuan-pickle-reci
 cover:
   image: "/images/cookbook/indian-sichuan-pickle.jpg"
   hidden: true
+recipe:
+  name: "Indian-Sichuan Pickle"
+  ingredients:
+    - "1 tablespoon mustard oil or vegetable oil"
+    - "1 tablespoon black mustard seeds"
+    - "1 teaspoon cumin seeds"
+    - "1 teaspoon fennel seeds"
+    - "1 cup coarsely chopped Sichuan preserved vegetable (about 2 whole knobs)"
+  instructions:
+    - "Heat the vegetable oil in a small skillet over a medium high flame. Add the mustard seeds, cumin seeds and fennel seeds and cook for about 1 minute, until the mustard seeds start popping and everything is fragrant but not burning."
+    - "Toss the seeds and oil with the preserved vegetable. You can serve it right away or keep in the refrigerator for several days."
 ---
 <a href="/images/cookbook/indian-sichuan-pickle.jpg"><img src="/images/cookbook/indian-sichuan-pickle.jpg" alt="Indian-Sichuan Pickle" /></a>
 

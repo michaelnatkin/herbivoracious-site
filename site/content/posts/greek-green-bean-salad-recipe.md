@@ -7,6 +7,22 @@ aliases: ["/greek-green-bean-salad-recipe/", "/2013/02/greek-green-bean-salad-re
 cover:
   image: "/images/2013/05/Greek-Green-Bean-Salad-626x415.jpg"
   hidden: true
+recipe:
+  name: "Greek Green Bean Salad"
+  time: "10 min"
+  ingredients:
+    - "1200 grams (2 1/2 pounds) green beans, trimmed and rinsed"
+    - "70 grams (1/3 cup) extra-virgin olive oil"
+    - "5 grams (1 teaspoon) kosher salt"
+    - "200 grams (1 1/3 cups) creamy feta, crumbled"
+    - "300 grams (1 1/2 cups) pitted taste black olives (I used Taggiascas), sliced"
+    - "Freshly ground black pepper"
+    - "Lots of fresh marjoram or oregano"
+  instructions:
+    - "Set up an ice bath for shocking the blanched green beans."
+    - "Cooking option 1: combine the green beans, olive oil and salt in a bag, seal, and cook sous vide at 85 C for 15 minutes. This can be done using the improvised sous vide method if you don't have an immersion circulator. Shock in the bag in ice water to stop the cooking."
+    - "Cooking option 2: bring a very large pot of salted water to a boil. Boil the green beans until just barely tender and still bright green, working in two batches if necessary. Shock in the ice water."
+    - "When the beans are well chilled, transfer to serving bowl. If cooked using option 2, add the olive oil and salt now and toss well. Garnish with the feta, black olives, pepper and marjoram. Toss just before serving, as it looks beautiful before tossing."
 ---
 
 <a href="/images/2013/05/Greek-Green-Bean-Salad.jpg"><img class="alignnone size-large wp-image-3577" alt="Greek Green Bean Salad" src="/images/2013/05/Greek-Green-Bean-Salad-626x415.jpg" width="626" height="415" /></a>

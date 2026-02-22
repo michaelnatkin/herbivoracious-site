@@ -8,6 +8,28 @@ aliases: ["/beet-curry-recipe-1/", "/2011/11/beet-curry-recipe-1.html"]
 cover:
   image: "/images/old/6a00e008d618bb8834015392b86175970b-500wi.jpg"
   hidden: true
+recipe:
+  name: "Beet Curry"
+  yield: "4"
+  diet: "Vegan, Vegetarian, Gluten-Free"
+  ingredients:
+    - "1 tablespoon mustard oil"
+    - "1 tablespoon vegetable oil"
+    - "1 tablespoon black mustard seeds (don't use the light brown / yellow ones!)"
+    - "1 tablespoon cumin seeds"
+    - "1/2 white onion, finely diced"
+    - "2 cloves garlic, minced"
+    - "1 tablespoon grated fresh ginger"
+    - "1/4 - 1/2 teaspoon ground cayenne pepper"
+    - "2 teaspoons ground turmeric"
+    - "3 pounds red beets (about 3 medium bunches), peeled and cubed (reserve greens if desired)"
+    - "1 teaspoons Kosher salt"
+    - "1 tablespoon tamarind concentrate dissolved in a bit of hot water (I use Tamcon brand; you may need more if you use a less concentrated variety)"
+    - "1 teaspoon garam masala"
+  instructions:
+    - "Place a large skillet (preferably cast iron) over high heat. Add the mustard and vegetable oil, and when they are shimmering, add the mustard seeds and cumin seeds. As soon as the mustard seeds start to change color, add the onion, garlic, ginger, cayenne, and turmeric and cook, stirring frequently, until fragrant, about 30 seconds."
+    - "Add the beets, salt, tamarind paste, and 1 cup of water. Stir. If using the beet greens, rinse them, roughly chop them, and add them on top of the beets."
+    - "Bring to a boil, reduce to a simmer, and put on a cover. It doesn't have to fit perfectly. Simmer until the beets are very tender, about 20-30 minutes. Remove the lid and simmer off any remaining water (or add more during the cook if needed). Stir in the garam masala. Taste and adjust seasoning. It may need more salt, tamarind, or cayenne to achieve the flavor that you like. Serve hot."
 ---
 
 <a style="display: inline;" href="/images/old/6a00e008d618bb8834015392b86175970b-800wi.jpg" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb8834015392b86175970b" title="Beet Curry" src="/images/old/6a00e008d618bb8834015392b86175970b-500wi.jpg" alt="Beet Curry" /></a>

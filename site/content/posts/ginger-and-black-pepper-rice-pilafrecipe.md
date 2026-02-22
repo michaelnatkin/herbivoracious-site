@@ -7,6 +7,23 @@ aliases: ["/ginger-and-black-pepper-rice-pilafrecipe/", "/2012/06/ginger-and-bla
 cover:
   image: "/images/2012/06/Ginger-Black-Pepper-Rice-626x415.jpg"
   hidden: true
+recipe:
+  name: "Ginger and Black Pepper Rice Pilaf"
+  yield: "4 as a side dish"
+  diet: "Vegan, Vegetarian, Gluten-Free"
+  ingredients:
+    - "1/4 cup ghee, butter, or vegetable oil (if you want vegan)"
+    - "1 packed tablespoon grated fresh ginger (don't skimp, and do not substitute powdered ginger!)"
+    - "1 teaspoon kosher salt"
+    - "1/4 teaspoon cumin powder"
+    - "Big pinch of cinnamon"
+    - "Big pinch of cayenne pepper"
+    - "1/2 teaspoon or more freshly ground black pepper"
+    - "6 cups cooked basmati rice"
+  instructions:
+    - "Heat the ghee, butter or oil in a very small skillet over medium heat."
+    - "Add the ginger, salt, cumin, cinnamon and cayenne and stir and cook for 30 seconds. Remove from heat. Mix in the black pepper."
+    - "Fold the seasoning mixture into the rice. Taste and adjust the seasoning. It might need more salt or more black pepper."
 ---
 
 <a href="/images/2012/06/Ginger-Black-Pepper-Rice.jpg"><img class="alignnone size-large wp-image-2091" title="Ginger and Black Pepper Basmati Rice" src="/images/2012/06/Ginger-Black-Pepper-Rice-626x415.jpg" alt="Ginger and Black Pepper Basmati Rice" width="626" height="415" />

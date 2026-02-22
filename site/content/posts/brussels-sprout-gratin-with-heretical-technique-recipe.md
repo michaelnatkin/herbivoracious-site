@@ -7,6 +7,30 @@ aliases: ["/brussels-sprout-gratin-with-heretical-technique-recipe/", "/2010/01/
 cover:
   image: "/images/old/6a00e008d618bb8834012876e90914970c-500wi.jpg"
   hidden: true
+recipe:
+  name: "Brussels Sprout Gratin"
+  yield: "2 as a side dish, easily doubled"
+  diet: "Vegan"
+  ingredients:
+    - "2 tablespoons unsalted butter, divided"
+    - "1/2 small white onion, thinly sliced"
+    - "1 clove garlic, thinly sliced"
+    - "1 teaspoon minced fresh oregano or 1/2 teaspoon dried (optional, but delicious)"
+    - "1 cup heavy cream"
+    - "1/4 teaspoon salt"
+    - "black pepper"
+    - "freshly ground nutmeg"
+    - "1 1/2 cups trimmed and cleaned Brussels sprouts (see above)"
+    - "1/2 cup homemade breadcrumbs or panko"
+    - "1/4 cup grated Grana Padana or Paramigiano Reggiano cheese (optional)"
+  instructions:
+    - "Preheat the oven to 450 F."
+    - "In a small saucepan, melt 1 tablespoon of the butter over medium heat. Add the onion and garlic and saute for 2 minutes. Add the oregano, heavy cream and 1/4 teaspoon of salt. Bring to a simmer and reduce heat to barely maintain a bubble. Cook, stirring occasionally, until it will coat the back of a spoon."
+    - "When the sauce is thick enough, add several grinds of black pepper, a few gratings of fresh nutmeg (or a nice pinch of pre-ground), and the cheese. Taste and adjust seasoning."
+    - "Meanwhile, microwave the Brussels sprouts with a few tablespoons of water for about 5 minutes, stopping to stir occasionally, until you can just pierce them with a fork. If you start to get a cabbagey odor, stop cooking! Drain."
+    - "In a skillet, melt 1 more tablespoon of butter and toast the breadcrumbs with a pinch of salt until nicely browned."
+    - "Put the sprouts in an even layer in a low gratin dish, preferably just big enough to hold them. Pour the cream sauce over them. Bake in the oven for 5-8 minutes or so, until you can see that the sauce is starting to bubble."
+    - "Cover with the breadcrumbs and optional cheese, and return to the oven for 3 more minutes, and serve immediately."
 ---
 
 <p><a href="/images/old/6a00e008d618bb8834012876e90914970c-800wi.jpg" rel="lightbox" style="display: inline;"><img alt="Brussels Sprout Gratin" class="asset asset-image at-xid-6a00e008d618bb8834012876e90914970c " src="/images/old/6a00e008d618bb8834012876e90914970c-500wi.jpg" /></a> <br /><em>Brussels Sprouts Gratin</em></p> <p>Brussels sprouts are such a <strong>trendy ingredient</strong>, and we&#39;ve all learned how terrific they are roasted or sauteed at high heat until caramelized and nutty-tasting. Still, sometimes it is good to look back to a more traditional technique. Dare I say it: French technique. Enter the gratin.</p> <p>A gratin is basically anything (usually a vegetable) baked in a shallow dish, often with cream, until the top is crispy. Essentially the <strong>forerunner of the great American casserole</strong>, but with fewer ingredients and a little more attention to detail. With Brussels sprouts, the gratin treatment brings out their gentle, sweet side.</p> <p>The downfall of many gratins is that it is hard to manage the timing so that the vegetable is at the <strong>point of perfect tenderness</strong> at the same moment the sauce is appropriately thickened and the top crunchy. The best solution is to cook all three components separately, and then combine them just long enough to get to know each other in the oven.</p> <div style="float: right;"><img alt="200px-Paul_Bocuse2" class="asset asset-image at-xid-6a00e008d618bb8834012876f00221970c " src="/images/old/6a00e008d618bb8834012876f00221970c-500wi.jpg" style="margin: 0px 0px 5px 5px;" /><br /><em>Paul Bocuse, Photo by Jarle Vines</em></div> <p>Par-cooking the Brussels sprouts can be done in a big pot of salted water. The risk is that they can easily get waterlogged, and you have to dry them very thoroughly to avoid diluting the cream. So here&#39;s where the heresy comes in, and I can just about feel <strong>Paul Bocuse staring right through me</strong> when I say this: use your microwave.</p> <p>That&#39;s right. The microwave can be a very effective way to quickly and lightly cook vegetables without getting them soggy. In this case it is probably better than the big pot because the <strong>heat penetrates right to the core of each sprout.</strong> Just be sure and not go too long or you&#39;ll be in overcooked, cabbagey, sulfur-smell territory.</p> <p>In the same vein, I think it is better to make the reduced cream sauce on the stovetop, rather than counting on it to thicken in the oven. No starch is added. Unlike other dairy products, cream can be simmered to the desired thickness without scorching or breaking, and the flavor and mouthfeel of reduced heavy cream is <strong>luxurious beyond belief</strong>.</p> <p>Although there are several steps in this recipe, you can actually be preparing the sauce, par-cooking the sprouts, and toasting the breadcrumbs at the same time, so it comes together quickly.</p> <p>To get the Brussels sprouts ready for cooking, remove any tough or spotted outer leaves so that you a small, tight ball. Trim off a bit of the base, but leave enough intact to hold the head together.</p> <div class="recipe-card">

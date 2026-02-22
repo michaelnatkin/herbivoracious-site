@@ -8,6 +8,31 @@ aliases: ["/asparagus-with-nori-butter-recipe/", "/2010/04/asparagus-with-nori-b
 cover:
   image: "/images/old/6a00e008d618bb88340134800238a0970c-500wi.jpg"
   hidden: true
+recipe:
+  name: "Asparagus with Nori Butter"
+  yield: "4 as a side dish Vegetarian and gluten-free"
+  diet: "Vegetarian, Gluten-Free"
+  ingredients:
+    - "6 tablespoons unsalted butter"
+    - "1 sheet of nori seaweed"
+    - "24 stems of beautiful medium thick asparagus"
+    - "1 lemon"
+    - "1/3 cup white miso"
+    - "2 tablespoons mirin"
+    - "Maldon (aka the world's greatest salt) or other flaky salt"
+    - "toasted sesame seeds"
+    - "24 chive tips"
+    - "thin nori strips, which you can buy separately or cut with scissors from a sheet"
+  instructions:
+    - "Bring a pot of well salted water to a boil and set up a ice bath."
+    - "Melt the butter in a small skillet. Tear the nori sheet into rough pieces and infuse over very low heat for five minutes. Allow to rest 15 more minutes, then strain through a fine mesh."
+    - "Juice half the lemon and reserve. Cut the juice half in half again, squish flat on your cutting board, and carefully remove all of the white pith, leaving only yellow skin. Square this piece off."
+    - "Blanch the lemon skin in the boiling water for 30 seconds, shock in the ice bath and drain on paper towels. Cut first into 1/16\" strips (fine julienne) and then into 1/16\" squares (brunoise)."
+    - "Cut the asparagus to uniform length and use a paring knife to remove all the little random leaves that aren't part of the main tip. Blanch the asparagus until crisp-tender and bright green. The tip of a knife should go in easily but offer a hint of resistance. Shock in the ice water, drain, and reserve."
+    - "Whisk together the miso, mirin and juice of 1/2 lemon. Aim for a consistency where you can make a dot of sauce on a plate and it will stand up. Put in a squeeze bottle."
+    - "At this point you can reserve everything for up to 1 day."
+    - "When you are ready to serve, have 4 hot plates waiting, and set an oven or toaster oven to 500 degrees. Melt the nori butter. Bring the miso sauce back to room temperature. Brush the asparagus with the nori butter. Reheat the asparagus (this should just take about 3 minutes)."
+    - "To plate, arrange the asparagus in a neat row. Drizzle on more of the nori butter. Add neat lines of nori strips and sesame seeds. Make 6 dots of the miso sauce and top each one with a chive tip. Randomly place bits of blanched lemon zest. Sprinkle liberally with the Maldon (aka the world's greatest salt) and serve."
 ---
 
 <a style="display: inline;" href="/images/old/6a00e008d618bb88340134800238a0970c-800wi.jpg" rel="lightbox"><img class="asset asset-image at-xid-6a00e008d618bb88340134800238a0970c " src="/images/old/6a00e008d618bb88340134800238a0970c-500wi.jpg" alt="Asparagus with nori butter" /></a>

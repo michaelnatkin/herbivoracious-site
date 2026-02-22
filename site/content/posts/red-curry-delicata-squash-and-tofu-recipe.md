@@ -7,6 +7,43 @@ aliases: ["/red-curry-delicata-squash-and-tofu-recipe/", "/2009/10/red-curry-del
 cover:
   image: "/images/old/6a00e008d618bb88340120a63bfab6970b-500wi.jpg"
   hidden: true
+recipe:
+  name: "Red Curry Delicata Squash and Tofu"
+  yield: "4 For the red curry paste:"
+  diet: "Vegan"
+  ingredients:
+    - "6 dried New Mexico chili pods, stems removed"
+    - "1/2 cup boiling water"
+    - "1 teaspoon coriander seeds"
+    - "1/2 teaspoon cumin powder"
+    - "several grinds black pepper"
+    - "1 teaspoon turmeric powder"
+    - "1/2 teaspoon salt"
+    - "2\" piece of fresh ginger, peeled and roughly chopped"
+    - "1/4 cup roughly chopped red onion"
+    - "6 cloves garlic, peeled and roughly chopped"
+    - "zest and juice of 1 lime"
+    - "1 stalk lemongrass, tender white parts only, pounded and roughly chopped"
+    - "1 big handful of cilantro, leaves and stems (rinsed)"
+    - "4 tablespoons vegetable oil, divided"
+    - "1 pound firm or extra-firm tofu, cut into 2x2x1/2\" squares and patted dry"
+    - "1 tablespoon brown sugar"
+    - "5 tablespoons of the red curry paste"
+    - "2 good-sized delicata squash, peeled, halved, seeded, and cut into 1/4\" (or so) thick half moons"
+    - "1/2 teaspoon salt"
+    - "1 cup broccoli florets, cut very small"
+    - "black pepper"
+    - "cilantro for garnish"
+  instructions:
+    - "Tear the chili pods into small pieces. If you like your curries hot, keep the seeds and ribs. If not, throw them out."
+    - "Set up your blender and put the chili pieces in the jar. Pour the boiling water over them, cover, and let sit 20 minutes or so. In the meantime, you can gather the rest of your ingredients."
+    - "Toast the coriander seeds for 2 minutes in a dry skillet over medium heat."
+    - "Add the seeds and all of the remaining ingredients to the blender. Puree for several minutes, stopping occasionally to scrape down the sides and top. If needed, add a little more water to get the paste to come together."
+    - "Put aside 5 tablespoons to use for the delicata squash red curry recipe below and freeze the rest (unless you will use it in the next few days). You might like to freeze it in individual-use portions so you don't have to thaw the whole thing."
+    - "Heat a big, heavy skillet or a wok over very high heat. You'll need some sort of cover, but it doesn't have to be tight fitting. When it is hot, add two tablespoons of the oil and 5 seconds later, the tofu in a single layer. Fry on both sides until nicely browned. Remove with a slotted spoon or spatula to paper towels and season with a bit of salt."
+    - "Add the remaining two tablespoons of oil, the sugar, and the curry paste. Fry, stirring constantly for one minute. Add the squash and 1/2 teaspoon of salt. Stir and fry for one minute, then add 1/4 cup of water and cover. Cook until the squash is tender, occasionally lifting the lid to stir, check doneness, and add a little water if needed. When it is nearly done, add the broccoli. Cook until the squash is done. This will probably take about 10 minutes total."
+    - "Remove the cover and add the tofu. Stir to mix. If needed, add just a little more water to get a little bit of glossy sauce."
+    - "Serve with rice, garnishing with a grind of black pepper and the cilantro."
 ---
 
 <p>&#0160;<a href="/images/old/6a00e008d618bb88340120a63bfab6970b-800wi.jpg" rel="lightbox" style="display: inline;"><img alt="Red_Curry_Delicata_Tofu" class="asset asset-image at-xid-6a00e008d618bb88340120a63bfab6970b " src="/images/old/6a00e008d618bb88340120a63bfab6970b-500wi.jpg" /></a><br /><em>Red Curry Delicata Squash and Tofu</em></p> <p>Delicata squash is one of my favorite winter squash varieties. It is relatively easy to cut and peel, cooks quickly and has a rich, sweet flavor. (Check out last year&#39;s <a href="/2007/11/recipe-delicata/" target="_blank">orzo-stuffed delicata squash</a> for a festive vegetarian Thanksgiving entree).</p>  <p>You might not immediately think of putting winter squash in a Southeast Asian-style curry. I learned about it from a terrific pumpkin curry at my favorite local Thai place. When I saw a recipe for Malaysian red curry paste in <a href="/2009/10/the-adaptable-feast-cookbook-review-and-a-chance-to-win-a-copy/" target="_blank">Ivy&#39;s book</a>, I just knew I had to put it to use with delicata squash and tofu. </p><p>Making curry paste is addictive; the volatile aroma and flavor is miles beyond the pre-packaged stuff, though in a pinch you can use that with the squash part of the recipe below. (Just make sure that if you buy a packaged curry it is vegetarian, if that is important to you). </p>  <p>My red curry is very lightly changed from Ivy&#39;s recipe, adapted to what I had in the house and my own peculiar way of doing things. The great thing is, this recipe makes more paste than you will probably use in a single meal. Freeze the excess and you will have the beginning of two or three great dishes waiting for you at a moment&#39;s notice. Curry fried rice. In a soup like laksa or kao soi. Look out world.</p>  <p>This is a relatively dry curry; no coconut milk is added to produce a bowl of sauce, though it will have a small amount of liquid. You&#39;ll want to serve this with jasmine rice, and maybe an herb-filled salad <a href="/2008/09/thai-style-sala/" target="_blank">like this</a> (minus the tofu).<strong><br /></strong></p>  <div class="recipe-card">

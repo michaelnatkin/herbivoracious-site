@@ -7,6 +7,34 @@ aliases: ["/roasted-potato-and-asparagus-tacos-with-kohlrabi-slaw-recipe/", "/20
 cover:
   image: "/images/old/6a00e008d618bb88340115708352f6970c-500wi.jpg"
   hidden: true
+recipe:
+  name: "Roasted Potato and Asparagus Tacos with Kohlrabi Slaw"
+  yield: "8 tacos, serves 4 with rice and beansVegetarian and gluten-free; not vegan unless you substitute or omit the dairy products"
+  diet: "Vegan, Gluten-Free"
+  ingredients:
+    - "6 medium potatoes, 1/2\" dice"
+    - "3 tablespoons olive oil, divided"
+    - "2 teaspoons cumin powder"
+    - "1 bunch asparagus, trimmed and cut into 1 1/2\" lengths"
+    - "3 small or 1 large kohlrabi, peeled and julienned, preferably on a mandoline, or grated"
+    - "1/2 small sweet onion or white onion, thinly sliced"
+    - "1/2 cup Trader Joe's Orange Muscat Champage Vinegar or 1/4 cup champagne vinegar and 1/4 cup fresh orange juice"
+    - "1/2 cup Mexican crema, sour cream, or yogurt"
+    - "juice of one lemon"
+    - "1/4 lb feta or cotija cheese, crumbled"
+    - "1 ripe Hass avocado, peeled and sliced"
+    - "a few sprigs of cilantro"
+    - "salt"
+    - "16 soft corn tortillas"
+  instructions:
+    - "Heat the oven to 375 F. Toss the potatoes with 2 tablespoons of olive oil, the cumin powder, and 1 and 1/2 teaspoons salt. Roast on a sheet pan in a single layer, turning occasionally with a spatula until golden brown and crispy. Taste and adjust salt. Set aside in a heatproof bowl."
+    - "Toss the asparagus with 1 tablespoon of olive oil and 1/2 teaspoon of salt, and roast on the same sheet pan until tender and beginning to brown, maybe about 10 minutes. Taste and adjust salt. Set aside in a heatproof bowl."
+    - "Reduce oven to 175 F."
+    - "Combine the kohlrabi, onion, vinegar and 1 teaspoon of salt."
+    - "Combine the crema and lemon juice with a pinch of salt and whisk. Put it in a squeeze bottle if you like."
+    - "Put the plates in the oven to heat, and return the potatoes and asparagus to the oven to reheat."
+    - "Wrap the tortillas in a clean, moist kitchen towel and microwave until steaming hot and soft. Start checking after 1 minute."
+    - "To serve: on each plate, make two stacks of two tortillas each. In order, top with the potatoes and asparagus, then slaw, cheese, avocado, creama, and avocado."
 ---
 
 <p><a href="/images/old/6a00e008d618bb88340115708352f6970c-800wi.jpg" rel="lightbox" style="display: inline;"><img alt="Potato_Asparagus_Tacos" class="at-xid-6a00e008d618bb88340115708352f6970c " src="/images/old/6a00e008d618bb88340115708352f6970c-500wi.jpg" /></a><br /><em>Roasted Potato and Asparagus Tacos with Kohlrabi Slaw</em></p><p>Soft tacos in a Mexico City form factor: just a fistful of delicious ingredients in two soft, steamed corn tortillas. Perfect to pick up in one hand, and never put back down. I can enjoy other, overstuffed tacos that require a fork, but to me the street food version is best.</p><p>Today&#39;s tacos contain oven roasted Yukon gold potatoes and asparagus, a kohlrabi slaw, avocado, feta cheese, and cilantro, with a little lemon crema. Obviously the feta should have been cotija, but that&#39;s what I had on hand. </p><p>The potatoes were from Olsen Farms, which grows an astonishing selection of heirloom varieties. I think they are near the end of their storage collection for this year, but if you are in the Seattle area, look for them when the new crop comes out and be amazed.</p><p> I blatantly snagged the slaw concept (not the ingredients) from <a href="http://www.marinationmobile.com/" target="_blank">Marination Mobile</a>, about which more very soon. I picked kohlrabi basically because it was the nicest looking crispy vegetable I saw at the market yesterday, but you could just as easily use jicama. </p><p>The slaw was dressed with Trader Joe&#39;s Orange Muscat Champagne vinegar.&#0160; I&#39;m not a big TJ&#39;s person at all, but that vinegar has a really bright, citrusy taste that I&#39;ve used countless times to bring a dish to life. Granted you could easily combine champagne vinegar and fresh orange juice yourself, but in a pinch, this stuff is a real winner.</p><p>Because there are a lot of components to assemble on each taco, it is really important to have hot plates, and all of the ingredients prepared and organized in advance. Otherwise you&#39;ll be serving cold tacos, and who wants to do that?</p><p>Oh, and a note about corn tortillas: do not buy the ones at Whole Foods! They are terrible. The texture is completely wrong, and when heated they get all crumbly. It is as if they had hired a team of food scientists to make the worst possible tortilla. In order of preference: homemade, made at a local tortilleria (ask around, you might be very pleasantly surprised!), or a national Mexican brand. </p><div class="recipe-card">

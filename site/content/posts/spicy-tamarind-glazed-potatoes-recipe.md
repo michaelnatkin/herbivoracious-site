@@ -8,6 +8,31 @@ aliases: ["/spicy-tamarind-glazed-potatoes-recipe/", "/2012/10/spicy-tamarind-gl
 cover:
   image: "/images/cookbook/spicy-tamarind-glazed-potatoes.jpg"
   hidden: true
+recipe:
+  name: "Spicy Tamarind-Glazed Potatoes"
+  yield: "4"
+  time: "30 minutes"
+  diet: "Vegan, Gluten-Free"
+  ingredients:
+    - "2 pounds very small (2-3 bite) potatoes"
+    - "Kosher salt"
+    - "3 tablespoons of vegetable oil for the potatoes plus 1 more for the sauce"
+    - "10 thin, hot dried red chiles such as chili de arbol"
+    - "2 cloves garlic, minced"
+    - "1/3 cup minced shallot"
+    - "¼ cup palm sugar (break up first) or dark brown sugar"
+    - "3 tablespoons tamarind concentrate or 5 tablespoons sieved tamarind pulp"
+    - "1 tablespoon soy sauce"
+    - "½ cup shelled, unsalted peanuts"
+    - "1 handful cilantro leaves and tender stems, washed and dried"
+    - "4 green onions, white and light green parts only, thinly sliced"
+  instructions:
+    - "Put the potatoes in a pot that holds at least 4 quarts. Fill nearly to the top with cold water and add 2 tablespoons of salt. Place over high heat and bring to a boil, then continue to cook until tender but not falling apart (usually about ten minutes after they reach a boil). Drain."
+    - "Put the same pot back over high heat and add 3 tablespoons of oil. Add the potatoes and 1 teaspoon of Kosher salt and cook until browned in spots, tossing occasionally and gently, about 8 minutes. Remove the potatoes, leaving as much oil behind as possible."
+    - "Lower the heat on the empty pot to medium. Add one more tablespoon of oil, and the chiles, garlic, shallot and palm sugar. Fry for one minute. Add the tamarind concentrate, ½ cup water, and the soy sauce. Cook, stirring well, until the sauce is slightly sticky, about five minutes. Taste and adjust seasoning – it should be quite intense."
+    - "Add the potatoes and cook, tossing occasionally, until the sauce is glazing the potatoes, about five more minutes. Be careful not to let the sauce burn."
+    - "If the peanuts are raw, toast them until lightly browned and fragrant in a toaster oven or a dry skillet over medium-low heat."
+    - "Just before serving, stir in the peanuts. Garnish with the cilantro and green onion."
 ---
 <a href="/images/cookbook/spicy-tamarind-glazed-potatoes.jpg"><img src="/images/cookbook/spicy-tamarind-glazed-potatoes.jpg" alt="Spicy Tamarind-Glazed Potatoes" /></a>
 

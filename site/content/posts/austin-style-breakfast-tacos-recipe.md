@@ -7,6 +7,21 @@ aliases: ["/austin-style-breakfast-tacos-recipe/", "/2013/11/austin-style-breakf
 cover:
   image: "/images/2013/11/Breakfast-Tacos-624x415.jpg"
   hidden: true
+recipe:
+  name: "Austin-Style Breakfast Tacos"
+  yield: "4 generously (3 tacos each)"
+  diet: "Vegetarian, Gluten-Free"
+  ingredients:
+    - "12 corn tortillas"
+    - "1 1/2 cups refried beans, hot"
+    - "24 small potatoes, oven roasted with olive oil and salt, halved"
+    - "10 tender scrambled eggs"
+    - "Fresh salsa (a smoky one is nice)"
+    - "1 bunch cilantro minced with 1/2 white onion"
+    - "Hot sauce (Tapatio or whatever you like)"
+  instructions:
+    - "Heat the tortillas either on a griddle, or by wrapping in a clean, slightly dampened towel and microwaving for about two minutes until soft."
+    - "For each taco, spread on a couple of tablespoons of refried beans, and top with 4 potato halves. Spoon in some of the scrambled eggs, then a bit of salsa and a sprinkle of cilantro and onions. Serve right away, while still hot, and pass the hot sauce at the table."
 ---
 
 <a href="/images/2013/11/Breakfast-Tacos.jpg"><img class="alignnone size-large wp-image-3916" alt="Austin-Style Breakfast Tacos" src="/images/2013/11/Breakfast-Tacos-624x415.jpg" width="624" height="415" />

@@ -7,6 +7,37 @@ aliases: ["/quinoa-cakes-with-a-farmers-market-feast-recipe/", "/2009/07/quinoa-
 cover:
   image: "/images/old/6a00e008d618bb8834011571003385970c-500wi.jpg"
   hidden: true
+recipe:
+  name: "Quinoa Cakes with a Farmer's Market Riot"
+  yield: "4Vegetarian and gluten-free; vegan if you use an egg-replacer in the cakes For the chimichurri (or see this other, slightly embellished version):"
+  diet: "Vegan, Gluten-Free"
+  ingredients:
+    - "3 tablespoons extra-virgin olive oil"
+    - "1 clove garlic, peeled and chopped fine or pressed"
+    - "1 cup well-rinsed flat-leaf parsley leaves, lightly packed"
+    - "1/2 teaspoon salt"
+    - "1/4 teaspoon freshly ground black pepper"
+    - "1.5 teaspoons sherry vinegar or lemon juice"
+    - "2 cups leftover quinoa, or 1 cup rinsed, cooked normally, and allowed to cool"
+    - "1 teaspoon salt"
+    - "1 tablespoon smoked paprika"
+    - "1/2 teaspoon cumin powder"
+    - "1/2 teaspoon dried oregano or leaves from a couple stems of fresh oregano, minced"
+    - "2 eggs"
+    - "canola oil"
+    - "1 medium cucumber, seeded and cut into medium dice"
+    - "1 ripe beefsteak tomato, medium dice"
+    - "salt to taste"
+    - "1 tablespoon canola oil"
+    - "1/2 onion, minced"
+    - "2 teaspoons (or more, to your taste) red chili flakes"
+    - "2 ears corn, shucked and kernels removed from stem"
+    - "1 teaspoon salt"
+    - "zest of one lemon and 1 tablespoon of the juice"
+    - "4 small zucchini, cut into 1/4\" thick slabs, patted dry"
+    - "2 tablespoons canola oil"
+    - "sea salt"
+    - "pepper"
 ---
 
 <p><a href="/images/old/6a00e008d618bb8834011571003385970c-800wi.jpg" rel="lightbox" style="display: inline;"><img alt="Quinoa_Cakes_Corn_Zucchini_Tomatoes" class="at-xid-6a00e008d618bb8834011571003385970c " src="/images/old/6a00e008d618bb8834011571003385970c-500wi.jpg" /></a></p><p>On the way home from the farmer&#39;s market, Sarina and I joked that I wouldn&#39;t be able to resist playing with the molecular gastronomy toys, turning the zucchini into gel, the tomatoes into powder, <a href="/2008/03/blini-with-aspa/" target="_blank">spherifying</a> the cukes and making the corn into a tableside sorbet with liquid nitrogen. But it was just a joke. With ingredients this good, and the weather this hot, it would be a crime to do much more than tie them all together with some big, bright flavors and a good beer.</p><p>So we have: quinoa cakes, spicy roasted corn relish, pan-fried zucchini, beefsteak tomato and cucumber salad, and a simple chimichurri sauce to marry them all up. The components are summer dynamite together, but any one of them could be a good side dish in a different meal, so feel feel free to mix and match.</p><p>By the way, can I mention that apparently almost no-one realizes how good zucchini is when pan-fried in a single layer? I like zucchini lots of ways - sauteed, lightly steamed, grated even... but when allowed a lot of surface area and a hot flame, it develops this completely different nutty / caramelized flavor that is addictive. </p><p>I hate to be cruel, but I have to tell you that for dessert we had strawberry shortcake, with two quarts of berries also from the market, fresh baked biscuits, and Sea Breeze Farm cream.</p><div class="recipe-card">

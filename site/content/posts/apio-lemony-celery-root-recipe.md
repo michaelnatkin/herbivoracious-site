@@ -8,6 +8,18 @@ aliases: ["/apio-lemony-celery-root-recipe/", "/2012/02/apio-lemony-celery-root-
 cover:
   image: "/images/cookbook/apio-lemony-celery-root.jpg"
   hidden: true
+recipe:
+  name: "Apio (Lemony Celery Root)"
+  ingredients:
+    - "1 large celery root, peeled, sliced into half-moons generous ¼” thick"
+    - "1 carrot, peeled and cut into ¼” circles"
+    - "1 tablespoon olive oil"
+    - "juice of 2 lemons"
+    - "1 teaspoon sugar"
+    - "1 teaspoon salt"
+  instructions:
+    - "Combine all ingredients in a medium saucepan. Add enough water to just barely cover the vegetables. Bring to a boil, reduce heat to a simmer, cover and continue to cook for 30 minutes."
+    - "Remove the lid and continue cooking until the celery root is completely tender. Remove the vegetables with a slotted spoon directly to serving bowl. Raise the heat to a boil and cook the liquid until it reduces by approximately half. It won’t be thick like a sauce, but it will have a slight body to it. Taste and adjust seasoning. Pour over the vegetables. Serve warm or chilled."
 ---
 <a href="/images/cookbook/apio-lemony-celery-root.jpg"><img src="/images/cookbook/apio-lemony-celery-root.jpg" alt="Apio (Lemony Celery Root)" /></a>
 

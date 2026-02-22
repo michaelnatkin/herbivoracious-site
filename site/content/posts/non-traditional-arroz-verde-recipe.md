@@ -8,6 +8,24 @@ aliases: ["/non-traditional-arroz-verde-recipe/", "/2012/02/non-traditional-arro
 cover:
   image: "/images/cookbook/non-traditional-arroz-verde.jpg"
   hidden: true
+recipe:
+  name: "Non-Traditional Arroz Verde"
+  yield: "4"
+  time: "10 minutes active (40 minutes total)"
+  diet: "Vegan, Gluten-Free"
+  ingredients:
+    - "1 1/2 cups medium grain white rice (or basmati rice)"
+    - "1 cup lightly packed leaves and tender stems flat leaf parsley"
+    - "½ cup lightly packed leaves and tender stems cilantro"
+    - "¼ cup lightly packed leaves fresh oregano"
+    - "¼ cup light packed leaves mint or dill"
+    - "2 cloves garlic, coarsely chopped"
+    - "1/4 cup extra-virgin olive oil"
+    - "1 ½ teaspoons Kosher or flaky sea salt (only ¾ teaspoon if you substitute table salt)"
+  instructions:
+    - "Cook the rice in a rice cooker or according to package directions."
+    - "In a food processor, combine the herbs, garlic, and olive oil. Process until thoroughly pureed."
+    - "Just before serving, stir the herb mixture and salt into the rice. Taste and add more salt as needed."
 ---
 <a href="/images/cookbook/non-traditional-arroz-verde.jpg"><img src="/images/cookbook/non-traditional-arroz-verde.jpg" alt="Non-Traditional Arroz Verde" /></a>
 

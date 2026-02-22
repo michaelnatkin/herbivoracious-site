@@ -7,6 +7,22 @@ aliases: ["/aji-amarillo-hot-sauce-from-peruvian-chile-peppers-recipe/", "/2009/
 cover:
   image: "/images/old/6a00e008d618bb8834012875ea2fd8970c-500wi.jpg"
   hidden: true
+recipe:
+  name: "(can be made with other dried chiles)"
+  yield: "about 1"
+  diet: "Vegan, Vegetarian, Gluten-Free"
+  ingredients:
+    - "4 dried Aji Amarillo or other peppers of your choice (use more if they are small, the Aji Amarillos were about 5 inches long and 1 inch wide)"
+    - "1/4 cup boiling water"
+    - "1 tablespoon lemon juice"
+    - "1 clove garlic, minced"
+    - "1/4 teaspoon salt"
+  instructions:
+    - "Heat a dry skillet over a medium-high flame. Place the peppers on the skillet and toast for about 20 seconds on each side. You want them to become fragrant but definitely not burn. If you burn them, they will become bitter."
+    - "Remove from the skillet and allow to cool for a couple of minutes. Working over the sink or garbage, and wearing disposable gloves if possible, remove and discard the stems, seeds, and ribs of the peppers. If you like you can retain some of the seeds, which will tend to be hotter. I kind of enjoy the texture of the seeds so I often leave some in."
+    - "Tear the peppers into small pieces and put them in the jar of a mini food processor. Cover with the boiling water and stir. Allow to sit for 10 minutes or more."
+    - "Add the remaining ingredients and puree thoroughly. If it won't puree, add more hot water, a tablespoon or so at a time. You'll have to stop frequently to scrape down the sides."
+    - "Taste (carefully!) and adjust the seasonings to your preference."
 ---
 
 <a style="display: inline;" href="/images/old/6a00e008d618bb8834012875ea2fd8970c-800wi.jpg" rel="lightbox"><img class="asset asset-image at-xid-6a00e008d618bb8834012875ea2fd8970c " src="/images/old/6a00e008d618bb8834012875ea2fd8970c-500wi.jpg" alt="Aji_Amarillo_Hot_Sauce" /></a>

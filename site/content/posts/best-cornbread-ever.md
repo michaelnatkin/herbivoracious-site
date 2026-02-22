@@ -8,6 +8,28 @@ aliases: ["/best-cornbread-ever/", "/2009/04/best-cornbread-ever.html"]
 cover:
   image: "/images/2009/04/Brown-Butter-Cornbread-Skillet1-626x415.jpg"
   hidden: true
+recipe:
+  name: "Best Cornbread Recipe Ever"
+  yield: "one 8x8\" pan, enough for 4 for dinner if you aren't too greedy Can also be used to make 10 muffins, reduce baking time A double batch bakes up beautifully in my beloved 12\" cast iron skillet Vegetarian; not vegan nor gluten-free"
+  diet: "Vegan, Vegetarian, Gluten-Free"
+  ingredients:
+    - "1/2 cup unsalted butter (1 stick)"
+    - "1 tablespoon non-fat milk powder (optional)"
+    - "2 eggs"
+    - "1 cup buttermilk or 3/4 cup milk and 1 T. white vinegar (skim milk works ok; you might need a little more milk, but a full cup of milk is too liquid compared to buttermilk)"
+    - "1 cup coarse, stoneground cornmeal"
+    - "1 cup all-purpose flour"
+    - "1/3 cup sugar"
+    - "1 teaspoon salt"
+    - "1/2 teaspoon baking soda"
+  instructions:
+    - "Preheat the oven to 375 degrees and butter an 8x8\" pan."
+    - "Melt the butter in a small saucepan over medium heat. If using, add the non-fat milk powder and whisk in. Continue cooking about 5-10 minutes until it is turning a light brown and has a delicious, nutty aroma. Do not skim, keep all those browned milk solids."
+    - "Whisk together the eggs and buttermilk. Push the butter through a sieve (to break up any clumps of browned bits) into the buttermilk and stir."
+    - "Whisk together the dry ingredients in a separate bowl."
+    - "Combine the wet and dry ingredients and stir just enough to form a batter. It is ok if there are a few lumps. Avoid overbeating as this could make the cornbread tough."
+    - "Pour into the pan and bake about 25 minutes until golden brown and a toothpick inserted in the center comes out dry. (Muffins will take about 18 minutes.)"
+    - "Serve forth while still hot, with lots of good sweet butter."
 ---
 
 <em><a href="/images/2009/04/Brown-Butter-Cornbread-Skillet1.jpg"><img class="alignnone size-large wp-image-1310" title="Brown Butter Cornbread" src="/images/2009/04/Brown-Butter-Cornbread-Skillet1-626x415.jpg" alt="Brown Butter Cornbread" width="626" height="415" />

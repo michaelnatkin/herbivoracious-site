@@ -8,6 +8,27 @@ aliases: ["/spectacular-chocolate-espresso-brownies-recipe/", "/2012/05/spectacu
 cover:
   image: "/images/cookbook/spectacular-chocolate-espresso-brownies.jpg"
   hidden: true
+recipe:
+  name: "Spectacular Chocolate-Espresso Brownies"
+  yield: "10 large or 18 medium brownies"
+  ingredients:
+    - "1/2 pound (2 sticks) unsalted butter"
+    - "12 ounces (1 bag) Ghiradelli semi-sweet chocolate chips, divided approximately in half"
+    - "4 ounces best-quality unsweetened chocolate, roughly chopped (Scharffen-Berger is awesome for this)"
+    - "4 large eggs"
+    - "5 teaspoons instant espresso (Medaglia D'Oro is good, or use 2 packets of Starbucks Via instant coffee)"
+    - "1 tablespoon vanilla extract"
+    - "1 cup + 2 tablespoons sugar"
+    - "1/2 cup + 2 tablespoons all-purpose flour"
+    - "1 ½ teaspoons baking powder"
+    - "1 teaspoon flaky sea salt"
+  instructions:
+    - "Preheat the oven to 350 F. Butter and flour a 13x9 pan, at least 1\" deep."
+    - "Melt the butter, half of the chocolate chips, and the unsweetened chocolate in a double boiler or microwave (being careful to stir occasionally), then allow to cool for at least 5 minutes."
+    - "In a stand mixer (or in a large bowl with a hand mixer), beat together the eggs, instant espresso, vanilla and sugar. Stir in the chocolate mixture, drizzling in slowly so you don't cook the eggs."
+    - "Sift together the flour, baking powder, and salt. If any of the salt doesn't go through the sieve, add it in and stir. Add to the chocolate mixture and mix but don't over-beat."
+    - "Pour the batter into the prepared pan and spread evenly. Evenly distribute the remaining half of the chocolate chips over the surface."
+    - "Bake for 20 minutes. Give the pan a rap to force out bubbles. Bake for 5-10 minutes more, until a toothpick comes out clean. Don't overbake! Allow to cool slightly before serving."
 ---
 <a href="/images/cookbook/spectacular-chocolate-espresso-brownies.jpg"><img src="/images/cookbook/spectacular-chocolate-espresso-brownies.jpg" alt="Spectacular Chocolate-Espresso Brownies" /></a>
 

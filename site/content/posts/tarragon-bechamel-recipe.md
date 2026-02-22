@@ -5,6 +5,19 @@ slug: "tarragon-bechamel-recipe"
 description: ""
 categories: ["Recipes", "Sauces and Condiments"]
 aliases: ["/tarragon-bechamel-recipe/", "/2012/06/tarragon-bechamel-recipe.html"]
+recipe:
+  name: "Tarragon Bechamel"
+  ingredients:
+    - "4 tablespoons unsalted butter"
+    - "3 tablespoons all-purpose flour"
+    - "2 cups whole or 2% milk"
+    - "generous ¼ teaspoon Kosher salt"
+    - "1 tablespoon minced fresh tarragon (in a pinch, you can use 1 generous teaspoon dried tarragon)"
+  instructions:
+    - "Melt the butter in a small saucepan over medium-low heat. Whisk in the flour and cook for about 2 minutes, keeping the heat low enough that it does not brown."
+    - "Add the milk in a thin stream, whisking continuously. It will sputter at first. The most critical part of this process is at the very beginning, when you must break up any lumps before adding so much liquid that you have to chase them around the pan."
+    - "After all of the milk is incorporated, raise the heat to medium and bring to a very slight simmer. Add the salt and tarragon."
+    - "Continue to cook about 5 more minutes, until it will easily coat the back of a spoon. Taste and adjust seasoning, then remove from heat and use immediately, or refrigerate for up to a day. If refrigerated, whisk and reheat gently. You may need to add a little more milk."
 ---
 
 

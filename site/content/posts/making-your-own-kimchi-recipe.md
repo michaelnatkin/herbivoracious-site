@@ -7,6 +7,29 @@ aliases: ["/making-your-own-kimchi-recipe/", "/2013/05/making-your-own-kimchi-re
 cover:
   image: "/images/2013/05/Homemade-Kimchi1-626x415.jpg"
   hidden: true
+recipe:
+  name: "Homemade Kimchi"
+  time: "1 hr"
+  ingredients:
+    - "700 grams (1 medium head) napa cabbage"
+    - "1000 grams (1 liter, 4 1/4 cups) water"
+    - "150 grams (1 cup Diamond Crystal, 1/2 cup or so of Morton's) kosher salt"
+    - "28 grams (6 cloves) fresh garlic"
+    - "15 grams (1\" piece) fresh ginger, peeled"
+    - "15 grams (1 tablespoon) sugar"
+    - "15 grams (1 tablespoon) soy sauce (gluten-free if you want the kimchi to be gluten-free)"
+    - "100 grams onion (1/3 of an onion), roughly chopped"
+    - "40 grams (6 tablespoons) coarse Korean chili powder (gochugaru)"
+    - "15 grams (2 tablespoon) rice flour"
+    - "130 grams (1/2 cup) water"
+    - "40 grams green onion (2 green onions), cut into 3\" lengths"
+    - "110 grams (1 medium carrot) julienned carrots"
+  instructions:
+    - "Remove any discolored leaves from the cabbage and cut into 4 lengthwise sections. Remove the tough core at the bottom. Cut leaves into about 3\" sections. Whisk together the 1 liter of water and 150 grams of salt in a large, very clean container. Add the cabbage, which should be fully covered by the brine. (You might not need all of the brine). Cover with plastic wrap and find a way to apply some weight to press on the cabbage. Leave for about 1 hour until the cabbage is tender and well-seasoned."
+    - "Meanwhile, combine the garlic, ginger, sugar, soy sauce and onion and puree in a mini-food processor or with an immersion blender. (If you are doing a larger batch, you can use a blender.) Transfer to a bowl and stir in the gochugaru."
+    - "Whisk together the rice flour and 130 grams of water in a small saucepan and bring to a simmer, stirring frequently. As soon as it thickens, remove from heat, cool, then stir into the spice mixture. Add the green onion and carrots and toss to coat. I find this easiest to do wearing rubber gloves."
+    - "Thoroughly drain the cabbage, removing as much excess brine as possible. Again using rubber gloves, toss the cabbage with the spice mixture, thoroughly coating it."
+    - "Place the cabbage in a very clean container, packing it down tightly. Cover, but allow a little airflow. (Nick rigged up an airlock on a cambro, pretty fancy!). Don't put on a tight lid or it will get blown off by CO2. Store in a cool, dark place. Taste and toss daily. Depending on temperature, it will start to develop a pleasing acidity. When it is ripe to your taste (which could be anywhere from 3 days up to a couple of weeks), transfer to clean jars and refrigerate to maximize its life."
 ---
 
 <a href="/images/2013/05/Homemade-Kimchi1.jpg"><img class="alignnone size-large wp-image-3763" alt="Homemade Kimchi" src="/images/2013/05/Homemade-Kimchi1-626x415.jpg" width="626" height="415" /></a>

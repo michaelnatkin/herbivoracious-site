@@ -7,6 +7,22 @@ aliases: ["/recipe-syrian-y/", "/2008/04/recipe-syrian-y.html"]
 cover:
   image: "/images/2008-small/04/11/syrianredlentilsoup.jpg"
   hidden: true
+recipe:
+  name: "Syrian Red Lentil Soup (Shurbat Addes)"
+  yield: "8 cups, enough for 8 appetizer servings or 4 main course servings"
+  diet: "Vegetarian"
+  ingredients:
+    - "2 c. red lentils (see note above)"
+    - "6 cloves garlic"
+    - "1 t. coriander seed"
+    - "1 1/2 teaspoons Kosher salt, more as needed"
+    - "2 T. olive oil"
+    - "Garnish: fresh cilantro, ground cumin, Aleppo pepper (see note above), dukkah (see note above), or chili flakes, lemon wedges"
+  instructions:
+    - "Rinse the lentils, pick them over for stones or other miscellaneous material, and bring them to a boil with 2 quarts of water. Lower to a simmer. Stir occasionally to make sure they aren't sticking in a large lump on the bottom, otherwise they may scorch. Simmer for about 40 minutes, until they have dissolved into a puree."
+    - "While the lentils are cooking, grind the garlic, coriander seed and salt in a mortar and pestle or a small food processor into a coarse paste. Fry this paste in the olive oil for about 1 minute, being careful not to burn the garlic. Add to the soup and let simmer a bit longer."
+    - "Taste and adjust first for texture first (by adding water). I like it moderately thin, but thick is good too. Then add salt as needed to make it flavorful."
+    - "Serve in individual cups garnished with a sprig of cilantro and a pinch of the cumin and pepper, and a lemon wedge on the side."
 ---
 
 <p><a href="/images/2008/04/11/syrianredlentilsoup.jpg" rel="lightbox"><img alt="Syrianredlentilsoup" border="0" height="302" src="/images/2008-small/04/11/syrianredlentilsoup.jpg" title="Syrianredlentilsoup" width="455" /></a><br /><span style="font-size: 0.8em;">Syrian Red Lentil Soup (Shurbat Addes)</span></p>  <p>This recipe, and the next couple that I post, are adapted from Poopa Dweck&#39;s spectacular cookbook, <a href="https://www.amazon.com/dp/0060888180?tag=herb-hugo-20">Aromas of Aleppo, The Legendary Cuisine of Syrian Jews.</a><br /> </p>  <p>Aleppo was home to a major Jewish population from the time of the Babylonian exile (600 BCE). They experienced golden ages under the Byzantines and Ottomans, and remained there until the horrendous pogroms of 1947. Their Aleppo Codex is the oldest surviving document of the Old Testament other than the Dead Sea Scrolls, and resides at the Israel Museum in Jerusalem. Much of the Aleppan community has resettled in New Jersey. Aleppan Jewish cuisine contains elements similar to those found in the other Sepharic cultures, with strong Middle Eastern and Levantine flavors.</p>  <p>I tend to favor cookbooks that have a particularly strong individual point of view, and Aromas has that in spades. Dweck&#39;s book reminds me of those wonderful church, mosque or synagogue cookbooks that every immigrant congregation seems to put together after the first generation is well established, to ensure that their kids can carry on the traditions. Only this one somehow got printed in a gorgeous coffee-table sized hardback with world class photography and an outstanding historical introduction. If you like to cook with Middle Eastern flavors, it deserves a proud place on your shelf.</p>  <p>This particular soup is awfully easy to do. Basically you&#0160; just boil red lentils until they puree themselves, add a seasoning sautee and a quick garnish. I prefer to make it a little bit thinner than Dweck&#39;s version, so that it serves as a relatively light first course, but it also works in a larger and thicker portion as the main dish of a simple meal.</p>  <p><strong>Ingredient notes</strong></p>  <p>Red lentils are available at any natural food or health food store; do <strong>not</strong> substitute brown/green/black/french lentils. Aleppo pepper is a red pepper that is specific to Syrian food, and is quite hard to find in the US stores, but it is available <a href="https://www.amazon.com/dp/B071KH1X16?tag=herb-hugo-20">on Amazon</a>. Instead of the cumin and Aleppo pepper, another great garnish alternative is <a href="https://www.amazon.com/dp/B005MSBD4C?tag=herb-hugo-20">dukkah</a>, a spice blend from Egypt.</p> <div class="recipe-card">

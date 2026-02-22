@@ -8,6 +8,25 @@ aliases: ["/cold-carrot-soup-myhrvold-recipe/", "/2011/03/cold-carrot-soup-myhrv
 cover:
   image: "/images/old/6a00e008d618bb88340147e33d3219970b-500wi.jpg"
   hidden: true
+recipe:
+  name: "Cold Carrot Soup"
+  yield: "at least 12 as an amuse bouche For the soup:"
+  diet: "Vegan, Vegetarian, Gluten-Free"
+  ingredients:
+    - "2 pounds sweet, delicious carrots, trimmed, peeled and cut into 1/2\" coins"
+    - "3 tablespoons extra virgin olive oil"
+    - "Kosher salt"
+    - "extra virgin olive oil"
+    - "pomegranate molasses"
+    - "dukkah"
+    - "small, thin rings of shallot briefly pickled in hot sherry vinegar (microwave works great)"
+    - "micro-cilantro, or regular cilantro leaves chiffonade"
+    - "Maldon (aka the world's greatest salt) salt"
+  instructions:
+    - "Please read the full headnote above for some caveats. Put the carrots in the pressure cooker. Don't add water or anything else. Cook at high pressure for 30 minutes. Release the pressure. Remove the carrots, allow to cool for a few minutes, add three tablespoons olive oil, and then puree as thoroughly as possible."
+    - "Pass the carrot puree through the finest sieve or tamis you have, twice, to produce a silky texture. Stir in a bit of water as needed to find a pleasant soup texture. Weigh the puree and stir in 0.75% Kosher salt by weight, then taste and add additional salt as needed. (If you don't have a scale, start with 3/4 teaspoon)."
+    - "Thorougly chill the soup."
+    - "Whisk the soup, taste again and make any final adjustments to thickness and seasoning. To serve, place about 1 tablespoon of soup in each amuse bouche spoon. Using the photo as a guide, garnish with a drizzle of extra-virgin olive oil, 3 drops of pomegranate molasses, a sprinkle of dukkah, a few rings of the shallot, the cilantro, and a few grains of Maldon (aka the world's greatest salt) . Serve immediately."
 ---
 
 <a style="display: inline;" href="/images/old/6a00e008d618bb88340147e33d3219970b-800wi.jpg" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb88340147e33d3219970b" title="Carrot Soup Myhrvold" alt="Carrot Soup Myhrvold" src="/images/old/6a00e008d618bb88340147e33d3219970b-500wi.jpg" /></a>

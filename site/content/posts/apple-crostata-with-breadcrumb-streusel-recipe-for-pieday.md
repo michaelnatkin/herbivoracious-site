@@ -7,6 +7,25 @@ aliases: ["/apple-crostata-with-breadcrumb-streusel-recipe-for-pieday/", "/2012/
 cover:
   image: "/images/2012/06/Apple-Crostata-with-Breadcrumb-Streusel-626x415.jpg"
   hidden: true
+recipe:
+  name: "Streusel"
+  yield: "12 Vegetarian and kosher"
+  diet: "Vegetarian"
+  ingredients:
+    - "Double batch of the pastry dough from this older crostata recipe, refrigerated"
+    - "4 apples (I used Braeburns)"
+    - "1/2 cup dark brown sugar"
+    - "Kosher salt"
+    - "1/4 teaspoon nutmeg (preferably fresh ground)"
+    - "1 teaspoon cinnamon"
+    - "1/4 cup sugar + 2 tablespoons white sugar, divided"
+    - "2 cups breadcrumbs from artisan bread (I used a slightly stale pain au levain)"
+    - "4 tablespoons butter, melted"
+  instructions:
+    - "Preheat the oven to 400 F. Take the dough out of the refrigerator, let stand until somewhat pliable, then roll out to a bit larger than your rimmed baking sheet. If desired, line the baking sheet with a silpat or parchment paper. I don't think it will stick without, but I haven't tried it. Press the pastry into the corners and edges. Prick the surface all over with a fork. Place the sheet in the refrigerator to chill while you prepare the rest of the ingredients."
+    - "Peel, core and slice the apples into 24 segments each. (I start with eighths using this great item and then cut each slice into thirds.) Place the apples in a bowl and toss them with the brown sugar, 1/4 teaspoon of salt, the nutmeg and the cinnamon."
+    - "When the dough is well chilled, arrange the apples in overlapping rows to cover the pastry. Sprinkle on 1/4 cup of white sugar. Bake until the apples are tender, about 20 minutes. Meanwhile, toss the breadcrumbs with the melted butter and 2 tablespoons of sugar. Remove the crostata from the oven and distribute the breadcrumbs over the top. Return to the oven and bake until the breadcrumbs are toasted, about 5 more minutes."
+    - "Allow to cool, cut into squares and serve."
 ---
 
 <a href="/images/2012/06/Apple-Crostata-with-Breadcrumb-Streusel.jpg"><img class="size-large wp-image-2199 alignnone" title="Apple Crostata with Breadcrumb Streusel" src="/images/2012/06/Apple-Crostata-with-Breadcrumb-Streusel-626x415.jpg" alt="Apple Crostata with Breadcrumb Streusel" width="626" height="415" />

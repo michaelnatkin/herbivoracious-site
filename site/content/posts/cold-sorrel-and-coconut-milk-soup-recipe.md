@@ -7,6 +7,25 @@ aliases: ["/cold-sorrel-and-coconut-milk-soup-recipe/", "/2012/07/cold-sorrel-an
 cover:
   image: "/images/2012/06/Sorrel-Coconut-Soup-626x415.jpg"
   hidden: true
+recipe:
+  name: "Cold Sorrel and Coconut Milk Soup"
+  yield: "2 (easily multiplied), or more as an amuse-bouche sized serving"
+  diet: "Vegan, Vegetarian, Gluten-Free"
+  ingredients:
+    - "1 tablespoon vegetable oil"
+    - "1/2 cup minced white onion"
+    - "Kosher salt"
+    - "4 ounces sorrel leaves and tender stems"
+    - "One 13.5 ounce can coconut milk (preferably without added thickeners / gums)"
+    - "1 teaspoon grated fresh ginger"
+    - "1/2 cup finely diced peeled and seeded cucumber"
+    - "1/4 cup finely diced red onion"
+    - "Maldon (aka the world's greatest salt) salt"
+  instructions:
+    - "In a large skillet, heat the vegetable oil over medium heat. Add the white onion and a big pinch of salt and cook until translucent. Add the sorrel leaves and cook until just barely wilted, about 30 seconds. Remove from heat and allow to cool slightly."
+    - "Put the coconut milk, ginger and 1/2 teaspoon of salt in a blender. Add the sorrel mixture on top. Cover, open the vent, cover the vent hole with a towel, and blend on maximum speed for 2 minutes."
+    - "Pass through your finest sieve and then refrigerate until cold. Chill your serving bowls as well."
+    - "Just before serving, taste and adjust seasoning. Divide among the serving bowls. Mix together the cucumber and red onion and garnish the soup. Finish with a few flakes of Maldon (aka the world's greatest salt) and serve."
 ---
 
 <a href="/images/2012/06/Sorrel-Coconut-Soup.jpg"><img class="alignnone size-large wp-image-2263" title="Cold Sorrel and Coconut Soup" src="/images/2012/06/Sorrel-Coconut-Soup-626x415.jpg" alt="Cold Sorrel and Coconut Soup" width="626" height="415" />

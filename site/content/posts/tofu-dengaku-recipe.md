@@ -8,6 +8,27 @@ aliases: ["/tofu-dengaku-recipe/", "/2011/06/tofu-dengaku-recipe.html"]
 cover:
   image: "/images/cookbook/tofu-dengaku.jpg"
   hidden: true
+recipe:
+  name: "Tofu Dengaku"
+  yield: "12 pieces"
+  time: "15 minutes"
+  diet: "Vegan"
+  ingredients:
+    - "2 tablespoons red miso"
+    - "1 tablespoon mirin"
+    - "1 tablespoon sake or dry sherry"
+    - "1 teaspoon sugar"
+    - "1 block (14-16 ounces) extra firm tofu"
+    - "vegetable oil for brushing"
+    - "1 tablespoon toasted sesame seeds"
+    - "special equipment: 24 short wooden skewers (optional)"
+  instructions:
+    - "Preheat your broiler and place a rack at the top of the oven."
+    - "Whisk together the miso, mirin, sake, and sugar."
+    - "Wrap the tofu in a dish towel for a moment to remove excess water from the outside. Cut into 6 slabs (about ¾” thick), then cut each slab in half to produce approximately a 1 ½” square. Lay all the pieces out next to each other and pat firmly with a towel to dry the flat surfaces, then flip and pat again."
+    - "Place the tofu on a baking sheet and brush one side with oil. Broil until well browned, about 5 minutes. Flip and broil until the other side is browned, about 3 minutes. Remove the pan from the oven and brush each piece of tofu with 1 teaspoon of the sauce. Return to the broiler until the sauce is bubbling, about 1 minute."
+    - "If using the skewers, insert two into each piece."
+    - "Sprinkle on the sesame seeds and serve immediately."
 ---
 <a href="/images/cookbook/tofu-dengaku.jpg"><img src="/images/cookbook/tofu-dengaku.jpg" alt="Tofu Dengaku" /></a>
 

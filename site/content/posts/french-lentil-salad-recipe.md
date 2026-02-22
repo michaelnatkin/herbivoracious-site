@@ -7,6 +7,29 @@ aliases: ["/french-lentil-salad-recipe/", "/2009/09/french-lentil-salad-recipe.h
 cover:
   image: "/images/old/6a00e008d618bb88340120a550ab7a970b-500wi.jpg"
   hidden: true
+recipe:
+  name: ""
+  ingredients:
+    - "1 1/2 cups French green lentils (lentils de Puy AOC are the best)"
+    - "1 cup tiny potatoes or cubed larger potatoes"
+    - "1/2 medium cucumber, peeled, seeded and diced"
+    - "6 radishes, thinly sliced"
+    - "1/2 small red onion, small dice"
+    - "big handful mint leaves (chopped if large, reserve a few for garnish)"
+    - "big handful parsley leaves (reserve a few for garnish)"
+    - "lime juice"
+    - "extra virgin olive oil"
+    - "salt"
+    - "1/2 cup crumbled queso fresco"
+    - "fresh ground black pepper"
+    - "1 avocado, sliced"
+  instructions:
+    - "Rinse the lentils and pick them over for stones and debris. In a saucepan, cover them with plenty of water and boil for about 25 minutes until tender but not falling apart. Add more water if needed. Drain and allow to cool."
+    - "Meanwhile, toss the potatoes with olive oil and salt and roast at 400 F. until tender and browned. You can also do this in a skillet."
+    - "Combine the drained lentils, the potatoes, cucumber, radishes, onion, mint and parsley, and 2 teaspoons of salt and toss well."
+    - "I dress this salad by eye and taste. Start with the juice of 1 lime and a good glug of olive oil and then toss. You've got it right when there is a slight gloss of dressing but it isn't swimming. Taste and adjust the balance of acidity and salt as needed."
+    - "You can refrigerate at this point for a day or two, no problem. Just bring back to room temperature or slightly warmer before serving."
+    - "To serve, garnish with the queso fresco, mint and parsley, a nice grind of black pepper, and the avocado."
 ---
 
 <p><a href="/images/old/6a00e008d618bb88340120a550ab7a970b-800wi.jpg" rel="lightbox" style="display: inline;"><img alt="Lentil_Salad" class="at-xid-6a00e008d618bb88340120a550ab7a970b " src="/images/old/6a00e008d618bb88340120a550ab7a970b-500wi.jpg" /></a><br /><em>French lentil salad with Latin-American flavors</em></p>  <p>Lentil salad went through some bad years in the 80s and 90s, usually flaccid and overdressed, filled with canned vegetables. There was always the shadow of a good, simple, rustic dish there. </p>  <p>I like to make it with French lentils, otherwise known as green lentils. The best ones are from the <a href="https://www.amazon.com/dp/B08B3XFW1C?tag=herb-hugo-20">from the area of Puy</a>. They are a little smaller and rounder than the normal brown lentil, and they hold their shape even when tender, instead of voluntarily pureeing themselves into lentil soup. Another option are the <a href="https://www.amazon.com/dp/B08BNPW71P?tag=herb-hugo-20">black &quot;beluga&quot; lentils</a>.</p>  <p>Once you have cooked lentils in hand, a salad is a simple thing. You can pick any combination of cooked and raw vegetables that go well together, fresh herbs, and a straightforward dressing of citrus juice and olive oil. </p>  <p>I opted for Latin American flavors this time. with tiny roasted potatoes, cucumber, red onion, avocado, radish, lime juice, and a gilding of ranchero cheese. You could just as easily use lemon instead of lime, feta instead of ranchero, add thyme and oregano and call it Greek. </p>  <p><strong>Latin-American French Lentil Salad<br /></strong><em>Serves 4 as a main, 8 as a side dish<br />Vegetarian and gluten-free; vegan if you omit the cheese</em><div class="recipe-card">

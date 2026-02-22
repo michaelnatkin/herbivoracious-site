@@ -7,6 +7,26 @@ aliases: ["/brusels-sprout-and-apple-hash-recipe/", "/2013/01/brusels-sprout-and
 cover:
   image: "/images/2013/01/Brussels-Sprout-and-Apple-Hash.jpg"
   hidden: true
+recipe:
+  name: "Brussels Sprout and Apple Hash - Recipe"
+  yield: "3 to 4 20 minutes"
+  time: "20 minutes"
+  diet: "Gluten-Free"
+  ingredients:
+    - "3 tablespoons unsalted butter"
+    - "Half a medium white onion, finely diced"
+    - "Kosher salt"
+    - "1 crisp apple, such as a Pink Lady, peeled, cored, and finely diced"
+    - "1 pound Brussels sprouts, cleaned, bottoms trimmed, and sliced about 1/4 inch thick (about 4 cups sliced)"
+    - "2 fresh sage leaves, thinly sliced"
+    - "1/2 teaspoon minced fresh rosemary leaves"
+    - "2 teaspoons champagne vinegar"
+    - "2 teaspoons honey"
+  instructions:
+    - "Melt the butter in a large skillet over medium heat. Add the onion and a pinch of salt and cook until beginning to brown, about 4 minutes."
+    - "Add the apple and a pinch of salt. Raise the heat slightly and cook, stirring occasionally, until the apple starts to brown, about 2 minutes."
+    - "Add the Brussels sprouts, a big pinch of salt, the sage, and rosemary, and cook, stirring occasionally, until sprouts are wilted and well browned, about 10 minutes."
+    - "Add the champagne vinegar and honey and toss to coast, scraping any delicious browned bits from the bottom of the pan. Taste and adjust the seasonings; it will likely need more salt, and you may also want to add more honey or vinegar to suit your taste. Serve hot."
 ---
 
 <a href="/images/2013/01/Brussels-Sprout-and-Apple-Hash.jpg"><img class="alignnone size-full wp-image-3524" title="Brussels Sprout and Apple Hash" src="/images/2013/01/Brussels-Sprout-and-Apple-Hash.jpg" alt="Brussels Sprout and Apple Hash" width="626" height="693" /></a>

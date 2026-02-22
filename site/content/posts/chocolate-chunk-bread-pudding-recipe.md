@@ -7,6 +7,27 @@ aliases: ["/chocolate-chunk-bread-pudding-recipe/", "/2009/11/chocolate-chunk-br
 cover:
   image: "/images/2009/11/Chocolate-Chunk-Bread-Pudding-622x415.jpg"
   hidden: true
+recipe:
+  name: "Chocolate-chunk Bread Pudding"
+  yield: "6-8 Lacto-ovo vegetarian"
+  diet: "Vegetarian"
+  ingredients:
+    - "1 tablespoon sweet butter"
+    - "4 eggs"
+    - "2 cups whole milk"
+    - "2 teaspoons vanilla extract"
+    - "1/3 cup sugar"
+    - "big pinch of salt"
+    - "14 ounces challah or brioche, preferably slightly stale, most of the crust removed and cut into 3/4\" cubes"
+    - "7 ounces high quality bittersweet chocolate, in the 70% range, cut into good sized chunks - not a whole mouthful but a lot bigger than a chocolate chip"
+  instructions:
+    - "Preheat your oven to 350 F., using convection if you have it."
+    - "Butter a large shallow baking dish, around 8\" x 12\"."
+    - "Beat the eggs. Whisk in the milk, starting with just a little at a time until the eggs are well distributed. Whisk in the vanilla extract, sugar, and salt."
+    - "Place the cubed bread in the pan. Pour the custard evenly over the bread and toss lightly, trying to get it to absorb without squashing the bread too much.."
+    - "Add the chocolate chunks and again toss gently to distribute."
+    - "Cover the pan with tin foil and cook until it reaches an internal temperature in the center of 185 F. For me this took about one hour and fifteen minutes. You can also check for doneness with a fork, and as it gets close, by taking a bite. You want it to be well set, but not overcooked and rubbery."
+    - "Let rest ten minutes and serve it forth. A bit of whipped cream, a drizzle of heavy cream, or a scoop of vanilla ice cream are all very welcome. If you want to whisk a bit of good bourbon into that cream, don't let me stop you."
 ---
 
 <a href="/images/2009/11/Chocolate-Chunk-Bread-Pudding.jpg"><img class="alignnone size-large wp-image-933" title="Chocolate Chunk Bread Pudding" src="/images/2009/11/Chocolate-Chunk-Bread-Pudding-622x415.jpg" alt="Chocolate Chunk Bread Pudding" width="622" height="415" /></a>

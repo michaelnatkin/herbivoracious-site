@@ -8,6 +8,20 @@ aliases: ["/basic-pastry-dough-recipe/", "/2012/07/basic-pastry-dough-recipe.htm
 cover:
   image: "/images/cookbook/basic-pastry-dough.jpg"
   hidden: true
+recipe:
+  name: "Basic Pastry Dough"
+  yield: "6"
+  time: "30 minutes active (3 hours total)"
+  ingredients:
+    - "1 cup all-purpose flour"
+    - "1/4 teaspoon salt"
+    - "6 tablespoons very cold butter cut into small cubes; if frozen you can cut it carefully into slivers with a bread knife"
+    - "2-4 tablespoons ice water"
+  instructions:
+    - "In a bowl, combine the flour, salt, and butter. Using a pastry blender or your hands, work the butter into the flour until it mostly looks like coarse oatmeal. Limit this to at most 2 minutes. It is fine if there are still some larger chunks of butter. (If using a food processor, pulse for two seconds at a time)."
+    - "Add two tablespoons of the ice water. Work this in with a fork for 60 seconds, then try to press a piece together with your hands. If you can form a ball, you are done. If not, add more ice cold water, a couple teaspoons at a time until you can make a big shaggy ball. You really want to err on the side of minimal water, and keep the total time for this step again to less than two minutes. It is fine if there is a little bit of unincorporated flour left at the bottom. (The reason the water varies is it depends on the moisture content of both your flour and your butter.) (If using a food processor, add the water and process until a shaggy ball pulls away from the container.)"
+    - "Dust a work surface with flour and flatten the dough into a disk, about 7\" in diameter. Wrap it in plastic wrap, or better yet, put it in a gallon freezer bag. Press any little cracks in the edge together - this will make it easier to roll out. Refrigerate for at least one hour and up to two days."
+    - "Remove the dough from the refrigerator and let warm up a bit until slightly pliable. This could be anywhere from 5 to 20 minutes depending on how well chilled it is. While still wrapped, give it several cathartic thwacks with your rolling pin to get a head start on rolling out. Now put it on your floured board, flour your rolling pin, and roll out to the desired shape for your final recipe."
 ---
 <a href="/images/cookbook/basic-pastry-dough.jpg"><img src="/images/cookbook/basic-pastry-dough.jpg" alt="Basic Pastry Dough" /></a>
 

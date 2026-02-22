@@ -8,6 +8,29 @@ aliases: ["/seared-tofu-poke-recipe/", "/2011/04/seared-tofu-poke-recipe.html"]
 cover:
   image: "/images/cookbook/seared-tofu-poke.jpg"
   hidden: true
+recipe:
+  name: "Seared Tofu Poke"
+  yield: "4"
+  time: "20 minutes"
+  diet: "Vegan, Gluten-Free"
+  ingredients:
+    - "1 cup ogo, limukohu, hijiki or mixed seaweed (see above)"
+    - "2 tablespoons vegetable oil"
+    - "8 ounces firm tofu cut into 2” x 1” x ½” rectangles, thoroughly patted dry"
+    - "1 tablespoon Asian toasted sesame oil"
+    - "1 tablespoon sweet soy sauce (kecap manis)"
+    - "1 tablespoon shoyu"
+    - "1 teaspoon grated fresh ginger"
+    - "1 teaspoon sriracha hot sauce or wasabi (optional)"
+    - "¼ cup thinly sliced green onions or Maui onions"
+    - "½ thinly sliced jalapeno pepper (optional)"
+    - "Hawaiian sea salt"
+    - "1 cup mung bean sprouts (or try kaiware radish sprouts for a spicy variation)"
+  instructions:
+    - "Hydrate or rinse the seaweed according to the package directions. If it isn’t thinly sliced, make it so."
+    - "Put a large, preferably cast-iron, skillet over high heat. Add the vegetable oil and fry the tofu pieces in a single layer until well browned on both sides, about five minutes. Remove to paper towels."
+    - "Whisk together the sesame oil, sweet soy sauce, shoyu, fresh ginger and sriracha. Toss the tofu in the sauce and let rest for 3 minutes. Remove with a slotted spoon, reserving the sauce, and toss the tofu with most of the green onions and jalapeno, reserving a little for garnish."
+    - "To serve, divide the bean sprouts among 4 bowls. Drain and pat dry the seaweed and place a small mound atop the bean sprouts. Cover that with the tofu and drizzle on some of the remaining sauce. Garnish with the remaining green onion and jalapeno and a few grains of Hawaiian sea salt."
 ---
 <a href="/images/cookbook/seared-tofu-poke.jpg"><img src="/images/cookbook/seared-tofu-poke.jpg" alt="Seared Tofu Poke" /></a>
 

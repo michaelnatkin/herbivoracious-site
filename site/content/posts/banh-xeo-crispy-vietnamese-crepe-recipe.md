@@ -5,6 +5,35 @@ slug: "banh-xeo-crispy-vietnamese-crepe-recipe"
 description: "The first time I had Bánh xèo, I was actually giddy. The combination of textures and flavors is absolutely mindblowing."
 categories: ["Recipes", "Main Courses", "Vegan or Modifiable", "Gluten-Free"]
 aliases: ["/banh-xeo-crispy-vietnamese-crepe-recipe/", "/2011/09/banh-xeo-crispy-vietnamese-crepe-recipe.html"]
+recipe:
+  name: "Bánh xèo (Crispy Vietnamese Crepe)"
+  yield: "6"
+  time: "45 minutes"
+  diet: "Vegan, Gluten-Free"
+  ingredients:
+    - "For the crepes:"
+    - "1 cup rice flour (not sweet rice flour, which is used for making desserts)"
+    - "1 ½ cups coconut milk"
+    - "2 green onions, thinly sliced"
+    - "1 teaspoon turmeric"
+    - "1 teaspoon kosher salt"
+    - "6 tablespoons vegetable oil"
+    - "12 shiitake or crimini mushroom caps, finely diced"
+    - "6 ounces extra-firm tofu, finely diced"
+    - "6 tablespoons red onion, finely diced"
+    - "4 cups mung bean sprouts"
+    - "For serving:"
+    - "2 cups Vegetarian Nước chấm"
+    - "1 head red or green leaf lettuce, separated into leaves, rinsed and patted dry"
+    - "1 bunch cilantro, thin stems on, rinsed and dried"
+    - "1 bunch mint, thins stems on, rinsed and dried"
+    - "1 bunch Thai (holy) basil, thin stems on, rinsed and dried"
+  instructions:
+    - "Whisk together the rice flour, coconut milk, green onions, turmeric, 1 teaspoon of salt and ½ cup water. Whisk in additional water (starting with about ½ cup) until you reach a pourable consistency. The batter needs to be thin enough to spread around the pan before it sets. (After you make the first one, if you have trouble getting to spread, add more water!)"
+    - "Heat a 10” non-stick skillet with sloping sides and a lid (which can be makeshift, it doesn’t have to fit tight) over medium high heat. Add 1 tablespoon of the vegetable oil and one-sixth of the mushrooms, tofu and red onions. Saute for about 2 minutes until browning nicely."
+    - "Remove the pan from the heat. Spread the vegetables and tofu out in a single, sparse layer. Pour 1/3 of a cup of the crepe batter over the vegetables and immediately swirl the pan to distribute the batter over the whole surface. The batter won’t cover the vegetables, just surround them. Return to the heat. Place ¾ cup of the bean sprouts in a big pile over ½ of the crepe. Cover the pan and let cook for about 90 seconds, until the bean sprouts have started to soften."
+    - "Remove the cover and continue to cook until the edges of the crepe are getting crispy and brown. Peek underneath with a silicone spatula to make sure it is browning there as well. When done, slide it out on to a plate and fold the bare half over the bean sprouts. Sprinkle with a little extra salt."
+    - "Repeat for the remaining crepes. Serve a big pile of the lettuce and herbs either on a communal plate or individually, and with individual bowls of the Vegetarian Nước chấm."
 ---
 
 <p>The first time I had Bánh xèo, I was actually giddy. The combination of textures and flavors is absolutely mindblowing.</p>

@@ -7,6 +7,34 @@ aliases: ["/summer-risotto/", "/2008/08/summer-risotto.html"]
 cover:
   image: "/images/2008-small/08/22/summer_risotto.jpg"
   hidden: true
+recipe:
+  name: "Summery Risotto With Corn, Zucchini and Cherry Tomato Oil"
+  yield: "6Vegetarian and gluten-free; vegan if you omit the cheese For the tomato oil:"
+  diet: "Vegan, Gluten-Free"
+  ingredients:
+    - "6 tablespoons extra-virgin olive oil"
+    - "handful of flavorful cherry tomatoes (or 1/4 cup diced ripe tomato)"
+    - "1/4 teaspoon salt"
+    - "6 cups mildly flavored vegetable broth (Seitenbacher broth powder works well)"
+    - "4 tablespoon olive oil"
+    - "1/4 cup minced onion"
+    - "2 cups arborio, carnaroli or other risotto-approved rice"
+    - "1/2 cup dry white wine"
+    - "2 teaspoons salt"
+    - "corn kernels from 1 and 1/2 ears, reserve the cobs"
+    - "2 small zucchini, fine dice"
+    - "1/2 cup or more grated parmigiano-reggiano cheese plus more for serving"
+  instructions:
+    - "Puree all ingredients in a mini-food processor."
+    - "Allow to steep for half an hour if possible."
+    - "Strain first through a fine mesh sieve and refrigerate if not using soon."
+    - "Bring the broth to a simmer, and add the corn cobs."
+    - "Heat the olive oil over medium heat in a large, heavy pot. Saute the onion for a couple of minutes until softened but not browned. Add the rice and saute for a minute or two until it turns slightly translucent."
+    - "Add the wine and salt stir until absorbed."
+    - "Add the broth, one ladle at a time, stirring very frequently. Continuously isn't necessary. When the rice begins to dry out, add another ladle."
+    - "After 16 minutes, begin to check a grain every minute. When there is a slight white pinhead that is a bit tough inside, add the vegetables. If you have used up all of the broth, you can start using water. Add more salt if needed."
+    - "Within 3-10 minutes, the rice should be tender but with just a hint of toothsomeness to it, and it should be surrounded with creamy, starchy goodness. Take it off of the heat right away and stir in the cheese."
+    - "Serve in individual bowls. Add a good squeeze of the tomato oil around the edge, and top with more cheese. Or truffles if you happened to have some."
 ---
 
 <p><a href="/images/2008/08/22/summer_risotto.jpg" rel="lightbox"><img alt="Summery risotto with corn, zucchini, and tomato oil" border="0" height="302" src="/images/2008-small/08/22/summer_risotto.jpg" title="Summery risotto with corn, zucchini, and tomato oil" width="455" /></a><br />Summery risotto with corn, zucchini, and tomato oil</p>  <p>One of the great things about risotto is that it is a blank canvas on which you can paint the produce of any place and season.&#0160; Restaurants tend to make the same stereotyped combinations over and over again, but don&#39;t let that limit your options!</p>  <p>I needed a light entree for a hot day, and I wanted something a little festive since it was for a birthday celebration, so I made a basic risotto with fresh corn and zucchini, and dressed it up with a bit of tomato-flavored olive oil. </p>  <p>For a more concentrated tomato oil, I would oven dry the fruits first to evaporate most of the moisture. This one I did with raw cherry tomatoes. The water emulsified the oil, so it actually was more like a tomato dressing. It still had a lot of flavor intensity and has the virtue of coming together in 2 minutes. Dipping bread in the leftovers was pretty incredible. You should only keep leftover home-flavored oils for a few days because there is a risk of anaerobic bacteria.</p>  <p>The broth for a risotto should be mildly flavored, because it is greatly reduced and concentrated in the cooking process. If you started with a strong broth it would be overpowering when finished. For this risotto, I add the corn cobs to the broth while it is simmering to bring up the corn flavor.</p><p>p.s. I made <a href="/2009/08/roasted-tomato-and-corn-risotto-recipe/" target="_blank">another version of this dish</a> in the summer of 2009; check it out and see which sounds best to you!</p><div class="recipe-card">

@@ -7,6 +7,26 @@ aliases: ["/polenta-with-pepperonata-recip/", "/2012/03/polenta-with-pepperonata
 cover:
   image: "/images/2012/02/Polenta-Pepperonata-626x415.jpg"
   hidden: true
+recipe:
+  name: "Peperonata (delicious over polenta)"
+  yield: "4"
+  diet: "Vegan, Vegetarian, Gluten-Free"
+  ingredients:
+    - "8 ripe bell peppers (any combination of red, yellow or orange)"
+    - "1 large or 2 medium white onions"
+    - "5 cloves garlic"
+    - "6 tablespoons extra virgin olive oil plus extra for garnish"
+    - "1 1/2 teaspoons kosher salt"
+    - "3 tablespoons double-strength tomato paste (or 6 tablespoons of regular tomato paste)"
+    - "1 red onion, thinly sliced"
+    - "1 tablespoon sherry vinegar"
+    - "Fresh ground black pepper to taste"
+    - "Handful flatleaf parsley"
+  instructions:
+    - "Preheat over to 400. Cut the tops and bottoms off the bell peppers and reserve for another use. Cut in half vertically and remove and discard the seeds and ribs. Place the peppers cut-side down on a rimmed baking sheet and bake until the skins are well blistered, about 40 minutes. Transfer to a covered bowl and allow to cool. Peel off skins and tear or cut the peppers into approximately 1/2\" wide strips. Save all of the liquid from the bowl and the baking sheet!"
+    - "Meanwhile, while the peppers are roasting, make the sofrito. Puree the white onion and garlic in a blender. Put the olive oil in a large, non-reactive (i.e. not cast iron) skillet over medium heat. Don't use a non-stick pan. Fry the pureed onion, scraping the bottom of the pan frequently, until the water cooks off and the onion is well browned; lower the heat if needed to avoid any burning. Add the salt and tomato paste and cook, scraping frequently for about 10 more minutes, until the sofrito is fairly uniform and a dark rusty brown and turn off the heat."
+    - "Add the onion, vinegar, peppers and reserved liquid from the peppers. Set the heat to medium low, and scrape the pan to loosen all those delicious brown bits into the sauce. Cook until the red onions are fully softened, about 15 minutes. You can add a small amount of water if needed."
+    - "Just before serving stir in the black pepper and parsley. Taste and adjust seasoning. Serve over polenta, finishing with a bit more extra-virgin olive oil."
 ---
 
 <a href="/images/2012/02/Polenta-Pepperonata.jpg"><img class="alignnone size-large wp-image-1363" title="Polenta with Pepperonata" src="/images/2012/02/Polenta-Pepperonata-626x415.jpg" alt="Polenta with Pepperonata" width="626" height="415" />

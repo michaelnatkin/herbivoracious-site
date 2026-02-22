@@ -8,6 +8,29 @@ aliases: ["/mango-puffs-with-lemongrass-coconut-pudding-and-black-sesame-recipe/
 cover:
   image: "/images/cookbook/mango-puffs-with-lemongrass-coconut-pudding-and-black-sesame.jpg"
   hidden: true
+recipe:
+  name: "Mango Puffs with Lemongrass Coconut Pudding and Black Sesame"
+  yield: "12 small desserts"
+  time: "20 minutes active (1 hour total)"
+  ingredients:
+    - "For the shells:"
+    - "1 package frozen puff pastry (usually 17-20 ounces)"
+    - "1 egg whisked with 1 tablespoon water"
+    - "sugar for sprinkling"
+    - "For the coconut pudding:"
+    - "1 stalk lemongrass"
+    - "1 fourteen ounce can coconut milk"
+    - "3 tablespoons sugar"
+    - "pinch salt"
+    - "3 tablespoons cornstarch"
+    - "To assemble:"
+    - "1 ripe mango, peeled and cut into small dice"
+    - "2 tablespoons black sesame paste"
+    - "toasted black sesame seeds"
+  instructions:
+    - "Preheat oven to 400 degrees. Line a baking sheet with parchment paper or a silicone mat. Unroll puff pastry, allow to defrost for about 5 minutes, and cut out twelve 2 ½” circles. You may need one or two sheets of the puff pastry depending on the brand. Re-freeze the remainder for another use. Place the pastry circles on the baking sheet and brush them with the whisked egg. Sprinkle generously with granulated sugar. Bake until puffed and golden brown, about 12 minutes. Set aside to cool."
+    - "Pound the lemongrass stalk to release the flavors. Cut off and discard all but the bottom 3 inches. Remove outer layer and chop the rest finely. Put the lemongrass, coconut milk, sugar and salt in a small saucepan over medium low heat. Put the cornstarch in a small bowl. When the sauce is near a simmer, take a few tablespoons of it and whisk into the cornstarch to form a slurry, then whisk that slurry back into the saucepan. Whisking constantly, bring to a bare simmer and keep there for one minute (you should see the sauce start to thicken), then remove from heat and strain into a shallow bowl. Refrigerate on your coldest shelf if you want to assemble the pastries soon."
+    - "To assemble, take one pastry shell and use a sharp paring knife to cut a circle out of the top, leaving a 3/8” rim all the way around. Carefully lift off the “lid” and reserve. Spoon in a tablespoon of the chilled pudding. Put ½ teaspoon black sesame paste in the center of the pudding. Spoon on two tablespoons of the mango and sprinkle with the black sesame seeds. Repeat for the remaining shells. Serve immediately."
 ---
 <a href="/images/cookbook/mango-puffs-with-lemongrass-coconut-pudding-and-black-sesame.jpg"><img src="/images/cookbook/mango-puffs-with-lemongrass-coconut-pudding-and-black-sesame.jpg" alt="Mango Puffs with Lemongrass Coconut Pudding and Black Sesame" /></a>
 

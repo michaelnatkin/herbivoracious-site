@@ -8,6 +8,27 @@ aliases: ["/roasted-maitake-mushroom-in-smoky-tea-broth-recipe/", "/2011/03/roas
 cover:
   image: "/images/cookbook/roasted-maitake-mushroom-in-smoky-tea-broth.jpg"
   hidden: true
+recipe:
+  name: "Roasted Maitake Mushroom in Smoky Tea Broth"
+  yield: "4"
+  time: "30 minutes"
+  diet: "Vegan"
+  ingredients:
+    - "1 pound fresh maitake mushroom"
+    - "½ cup small-diced bok choy stem"
+    - "3 tablespoons vegetable oil"
+    - "½ teaspoon Kosher salt"
+    - "2 teaspoons lapsang souchong tea"
+    - "1 tablespoon tamari"
+    - "toasted sesame oil"
+    - "flaky sea salt"
+    - "2 teaspoons finely sliced green onion"
+  instructions:
+    - "Preheat oven to 450 F, using convection if available. Set 4 shallow soup bowls aside to warm."
+    - "Place the bok choy in a small bowl with a tablespoon of water and microwave on high for one minute. (Alternatively, you can steam the bok choy or blanch in boiling water). Reserve."
+    - "Divide the mushroom into 4 portions (leaving the pieces as large as possible) and place on a rimmed sheet tray. Toss with the vegetable oil and sprinkle with 1/2 teaspoon Kosher salt. Roast until fragrant, starting to brown, and becoming tender, about 20 minutes."
+    - "While the mushrooms are roasting, cover the lapsang souchong tea with 2 cups boiling water and allow to steep 5 minutes. Strain. Add the tamari. Taste and season with a bit of salt if needed. The broth should be smoky, with a distinct note of soy and mildly salty."
+    - "When the mushrooms are ready, place one portion in each bowl. Place the bok choy dice around the maitake. Reheat the tea in the microwave and divide among the 4 bowls. Garnish each bowl with a drizzle of toasted sesame oil, a pinch of flaky sea salt, and the green onions. Serve piping hot."
 ---
 <a href="/images/cookbook/roasted-maitake-mushroom-in-smoky-tea-broth.jpg"><img src="/images/cookbook/roasted-maitake-mushroom-in-smoky-tea-broth.jpg" alt="Roasted Maitake Mushroom in Smoky Tea Broth" /></a>
 

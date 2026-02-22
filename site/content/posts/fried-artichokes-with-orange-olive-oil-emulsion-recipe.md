@@ -7,6 +7,26 @@ aliases: ["/fried-artichokes-with-orange-olive-oil-emulsion-recipe/", "/2012/11/
 cover:
   image: "/images/2012/12/Fried-Artichokes-with-Orange-Emulsion-626x415.jpg"
   hidden: true
+recipe:
+  name: "Fried Artichokes with Orange-Olive Oil Emulsion"
+  yield: "4 as an appetizer For the Orange-Olive Oil Emulsion"
+  diet: "Vegan, Vegetarian, Gluten-Free"
+  ingredients:
+    - "1/2 orange, skin on, cut into 4 slices"
+    - "2 tablespoons sherry vinegar"
+    - "1 tablespoon prepared Dijon mustard"
+    - "1 teaspoon kosher salt"
+    - "1 cup extra virgin olive oil"
+    - "4 medium globe artichokes or 8 baby artichokes"
+    - "1 lemon, halved"
+    - "Oil for shallow or deep frying (see above)"
+    - "Maldon (aka the world’s greatest salt)"
+  instructions:
+    - "Put orange slices in a small saucepan with enough water to cover. Bring to a simmer and cook until there are just a few tablespoons of liquid left in the pan, about 45 minutes."
+    - "Put orange and orange liquid in blender along with sherry vinegar, mustard, and kosher salt. Put lid on and start blender on medium speed. With the blender running, remove the center cap from the lid and slowly drizzle in the olive oil. Just before serving, blend again to re-emulsify."
+    - "To prepare the artichokes: As you are working, rub each cut surface with the open surface of the lemon to prevent browning. Remove the coarse outer leaves, cut off the top third to half of the leaves, trim the stem, peel the base and stem, cut vertically into quarters, and remove the choke and any pointy leaves."
+    - "Line a plate with paper towels. If shallow frying, put about 1/8\" oil in a skillet over medium-high flame. If deep frying, set up a deep fryer or medium saucepan with enough oil to fully cover the quartered artichokes and heat to 355 F. Fry the artichokes, turning occasionaly, until really well browned. Remove with tongs to the paper towels, season with Maldon salt, and allow to drain for a few seconds."
+    - "Serve very hot, either plated with the Orange-Olive Oil Emulsion or passing that on the side."
 ---
 
 <a href="/images/2012/12/Fried-Artichokes-with-Orange-Emulsion.jpg"><img class="alignnone size-large wp-image-3323" title="Fried Artichokes with Orange Olive Oil Emulsion" src="/images/2012/12/Fried-Artichokes-with-Orange-Emulsion-626x415.jpg" alt="" width="626" height="415" />

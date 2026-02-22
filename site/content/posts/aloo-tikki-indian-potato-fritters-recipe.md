@@ -8,6 +8,29 @@ aliases: ["/aloo-tikki-indian-potato-fritters-recipe/", "/2011/05/aloo-tikki-ind
 cover:
   image: "/images/cookbook/aloo-tikki-indian-potato-fritters.jpg"
   hidden: true
+recipe:
+  name: "Aloo Tikki (Indian Potato Fritters)"
+  yield: "10"
+  time: "20 minutes active (40 total)"
+  diet: "Vegan"
+  ingredients:
+    - "1 pound russet or Yukon Gold potatoes (about 4 medium Yukon Golds)"
+    - "½ cup peas (defrosted if frozen)"
+    - "2 tablespoons homade breadcrumbs or panko breadcrumbs"
+    - "1 teaspoon salt"
+    - "1 teaspoon turmeric"
+    - "½ teaspoon cayenne pepper"
+    - "¼ teaspoon fresh ground black pepper"
+    - "2 teaspoons minced fresh ginger"
+    - "2 teaspoons coriander seeds"
+    - "2 teaspoons cumin seeds"
+    - "oil for shallow frying"
+    - "flaky sea salt"
+  instructions:
+    - "Put potatoes in large pot of cold salted water. Bring to a boil, cook until tender, drain, cool thoroughly, and peel."
+    - "Lightly mash the potatoes (a potato ricer is ideal for this). Lightly mash the peas and mix in to the potatoes. Add the breadcrumbs, salt, turmeric, cayenne pepper, black pepper and ginger."
+    - "In a small skillet, toast the coriander and cumin seeds over a medium-low flame until fragrant but not burned, about 1 minute. Grind in a mortar and pestle or spice grinder and add to the potato mixture. Mix everything thoroughly. Your hands are the easiest way to do this."
+    - "Heat oil in a large skillet to a depth of about 1/8” over a medium-high flame. Moisten your hands. Form patties by taking a golf-ball sized piece of the potato mixture, and patting it flat and about 2 ½” around, ¾” thick. Go ahead and press fairly firmly so they don’t fall apart when frying. Fry until golden brown, about 2 minutes on each side. Remove to paper towels and finish with flaky sea salt."
 ---
 <a href="/images/cookbook/aloo-tikki-indian-potato-fritters.jpg"><img src="/images/cookbook/aloo-tikki-indian-potato-fritters.jpg" alt="Aloo Tikki (Indian Potato Fritters)" /></a>
 

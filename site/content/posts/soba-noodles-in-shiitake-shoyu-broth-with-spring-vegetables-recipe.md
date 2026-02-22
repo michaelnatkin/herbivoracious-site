@@ -8,6 +8,34 @@ aliases: ["/soba-noodles-in-shiitake-shoyu-broth-with-spring-vegetables-recipe/"
 cover:
   image: "/images/cookbook/soba-noodles-in-shiitake-shoyu-broth-with-spring-vegetables.jpg"
   hidden: true
+recipe:
+  name: "Soba Noodles in Shiitake Shoyu Broth with Spring Vegetables"
+  yield: "4"
+  time: "45 minutes"
+  ingredients:
+    - "2 cups dried shiitake mushrooms"
+    - "1 piece of Kombu seaweed (about 6\" - 8\" long)"
+    - "1 small piece (1/2\") fresh ginger, peeled"
+    - "4 cloves garlic, peeled and coarsely chopped"
+    - "4 medium leeks; discard tough outer layer; white parts only, halved lengthwise and carefully cleaned"
+    - "4 eggs"
+    - "12 ounces soft tofu, ½” cubes"
+    - "1 large bunch of thick asparagus, tough parts removed and lightly peeled"
+    - "1 tablespoon vegetable oil"
+    - "Kosher salt"
+    - "2 green onions, thinly sliced on the diagonal"
+    - "shoyu (Japanese soy sauce; see note above about best brand)"
+    - "9 ounces dry soba noodles"
+    - "toasted sesame oil"
+  instructions:
+    - "Briefly rinse the dried shiitakes and bring them, along with the kombu, ginger and garlic to a simmer in 8 cups of water. Cook for 20 minutes."
+    - "Add the leeks and simmer for 10 more minutes or until the leeks are tender. Remove the leeks with a slotted spoon and reserve. Discard the kombu. Strain the broth, through a fine sieve, squeezing out as much from the mushrooms as possible. Slice enough of the shiitake caps thinly to yield 1 cup for serving, and save the rest for another use."
+    - "Add 3 tablespoons of the shoyu to the broth. Taste and add more if needed."
+    - "Put the eggs in a small pot, covered with cold water by 1/2\". Bring the pot to a boil over a high flame, then cover and remove from the heat. Set a timer for exactly 8 minutes, then shock in cold water and peel."
+    - "Brush the asparagus with oil and grill in a single layer (a grill pan works fine). If you can't grill, do them in a single layer in a large skillet. Cook until tender and charred spots are appearing on all sides. Remove and season with salt."
+    - "Boil the soba noodles according to the package directions and strain."
+    - "Bring the broth back to a simmer."
+    - "To serve, put about 1 cup of noodles in each of 4 heated bowls. Cut the eggs in half. Top the noodles with the leeks, eggs, asparagus, sliced shiitake caps, tofu and green onions. Take your time to make an attractive arrangement. Ladle in about 1 1/2 cups of the broth. Drizzle in a few drops of the sesame oil and serve it forth."
 ---
 <a href="/images/cookbook/soba-noodles-in-shiitake-shoyu-broth-with-spring-vegetables.jpg"><img src="/images/cookbook/soba-noodles-in-shiitake-shoyu-broth-with-spring-vegetables.jpg" alt="Soba Noodles in Shiitake Shoyu Broth with Spring Vegetables" /></a>
 

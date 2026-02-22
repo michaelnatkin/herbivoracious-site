@@ -7,6 +7,21 @@ aliases: ["/quick-marinated-feta-recipe/", "/2012/01/quick-marinated-feta-recipe
 cover:
   image: "/images/2012/04/Quick-Marinated-Feta-626x415.jpg"
   hidden: true
+recipe:
+  name: "Quick Marinated Feta with Orange Zest, Mint and Aleppo Pepper"
+  diet: "Vegetarian, Gluten-Free"
+  ingredients:
+    - "2 tablespoons best quality extra virgin olive oil"
+    - "1 clove garlic, minced"
+    - "1 big pinch Aleppo pepper or chili flakes"
+    - "1 teaspoon orange zest (from about 1/2 orange)"
+    - "8 mint leaves (chiffonade) or 1 teaspoon dried mint (rub to release flavor)"
+    - "7 ounces feta"
+    - "3 pita breads cut into 1/8th rounds and lightly toasted in the oven"
+  instructions:
+    - "In a small bowl, stir together the olive oil, garlic, pepper flakes, orange zest and mint."
+    - "Put the feta on a plate in one large piece and pour the marinade over it."
+    - "Serve at cool room temperature with the toasted pita."
 ---
 
 <a href="/images/2012/04/Quick-Marinated-Feta.jpg"><img class="alignnone size-large wp-image-1081" title="Quick Marinated Feta" src="/images/2012/04/Quick-Marinated-Feta-626x415.jpg" alt="" width="626" height="415" /></a>

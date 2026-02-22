@@ -7,6 +7,29 @@ aliases: ["/quesadilla/", "/2008/07/quesadilla.html"]
 cover:
   image: "/images/2008-small/07/29/quesadillacrispy.jpg"
   hidden: true
+recipe:
+  name: "Crispy Quesadilla with Pecorino and Garlic & Onion Jam"
+  yield: "1 quesadilla - multiply as needed Vegetarian & gluten-free; not vegan Preparation time: under 10 minutes"
+  time: "10 minutes"
+  diet: "Vegan, Vegetarian, Gluten-Free"
+  ingredients:
+    - "2 taco-sized soft corn tortillas"
+    - "1/4 cup grated green peppercorn pecorino cheese"
+    - "a few thin slices of red onion"
+    - "1 tablespoon Stonewall Kitchen garlic & onion jam (see link above)"
+    - "2 teaspoons vegetable oil (anything that can handle heat, like canola)"
+    - "pinch of kosher or sea salt"
+    - "2 tablespoons goat cheese (aka chevre; my favorite is Laura Chenel)"
+    - "small handful cilantro leaves, chopped fine - reserve a couple for garnish"
+    - "smoked paprika (see link above)"
+  instructions:
+    - "Heat a cast-iron skillet, flat griddle, or other frying pan over medium heat."
+    - "Sprinkle the cheese on one tortilla and top it with the onion."
+    - "Spread the jam on the other tortilla and cover the first one."
+    - "Brush one side with the oil and put that side down in the skillet, then brush the other side with oil."
+    - "Cook for several minutes on each side, until it is developing beautiful crispy brown spots. The one in the picture above could actually have gone a few more minutes."
+    - "Meanwhile, beat the goat cheese with a bit of water until smooth like thick yogurt. Bruise the minced cilantro with your fingertips to release the flavor and stir it in to the goat cheese with a bit of salt to taste."
+    - "When the quesadilla is done on both side, remove it to a cutting board and carefully cut it into quarters with decisive presses of a sharp knive. Place on plate, sprinkle with a bit of salt, dust the plate with the smoked paprika, add a dollop of the goat cheese sauce and munch intently."
 ---
 
 <a href="/images/2008/07/29/quesadillacrispy.jpg" rel="lightbox"><img title="Crispy Quesadilla with Pecorino and Onion &amp; Garlic Jam" src="/images/2008-small/07/29/quesadillacrispy.jpg" alt="Crispy Quesadilla with Pecorino and Onion &amp; Garlic Jam" width="455" height="302" border="0" /></a>

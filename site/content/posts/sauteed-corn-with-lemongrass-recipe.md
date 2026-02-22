@@ -5,6 +5,30 @@ slug: "sauteed-corn-with-lemongrass-recipe"
 description: ""
 categories: ["Recipes", "Side Dishes"]
 aliases: ["/sauteed-corn-with-lemongrass-recipe/", "/2012/03/sauteed-corn-with-lemongrass-recipe.html"]
+recipe:
+  name: "Sauteed Corn with Lemongrass"
+  ingredients:
+    - "3 tablespoons vegetable oil"
+    - "1/2 red onion, finely diced"
+    - "2 stalks lemongrass, tender parts only, minced"
+    - "1 inch piece of fresh ginger, peeled and minced"
+    - "3 cloves garlic, minced"
+    - "2 kaffir lime leaves (optional)"
+    - "2 or more small hot green chile peppers, minced (optional)"
+    - "2 medium yellow summer squash or zucchini, 1/2\" dice"
+    - "1 yellow bell pepper, 1/2\" dice"
+    - "zest of one lime"
+    - "kernels from 5 ears sweet corn, removed from cob"
+    - "1 teaspoon kosher salt"
+    - "juice of 2 limes"
+    - "1 ½ cups cherry tomatoes, halved"
+    - "3 green onions, white parts only, thinly sliced"
+    - "fresh ground black pepper"
+  instructions:
+    - "Place a wok or a large skillet over very high heat. When pre-heated, add the vegetable oil, onion, lemongrass, ginger, garlic, and the optional kaffir lime leaves and chile pepper. Stir-fry for one minute."
+    - "Add the squash, bell pepper and lime zest and saute for 1 minute. Add the corn and salt and saute until tender, about 2-3 minutes."
+    - "Add the lime juice and turn off the heat. Adjust seasoning and lime juice as needed. Remove the kaffir lime leaves."
+    - "Garnish with the cherry tomatoes and green onions, a grind of fresh black pepper, and a few flakes of sea salt, and serve immediately."
 ---
 
 

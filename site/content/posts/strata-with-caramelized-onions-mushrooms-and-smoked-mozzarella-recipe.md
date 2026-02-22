@@ -9,6 +9,33 @@ aliases: ["/strata-with-caramelized-onions-mushrooms-and-smoked-mozzarella-recip
 cover:
   image: "/images/old/6a00e008d618bb8834014e8bf50191970d-500wi.jpg"
   hidden: true
+recipe:
+  name: "Strata with Caramelized Onions, Mushrooms and Smoked Mozzarella"
+  yield: "6"
+  diet: "Vegetarian"
+  ingredients:
+    - "4 medium white onions, sliced 1/8\" thick"
+    - "Butter"
+    - "Kosher salt"
+    - "3/4 pound crimini mushrooms, sliced generous 1/4\" thick"
+    - "2 cloves garlic, thinly sliced"
+    - "8 eggs, well beaten"
+    - "2 3/4 cup milk"
+    - "2 teaspoons Dijon mustard"
+    - "1/4 teaspoon chili flakes"
+    - "1 tablespoon minced fresh tarragon (packed)"
+    - "Freshly ground black pepper"
+    - "Freshly grated nutmeg"
+    - "7 ounces smoked mozzarella, grated or cut into small cubes"
+    - "4 1/2 cups artisan bread, 1/2\" cubes (slightly stale is fine)"
+  instructions:
+    - "Melt 3 tablespoons butter in large skillet over medium-low heat. Add the onions, which will fill it practically to overflowing, and 1/4 teaspoon of Kosher salt. Cook, stirring ocassionally, until they are reduced to gooey brown awesomeness. You'll probably need to lower the heat part way through to avoid burning. The whole process will take about an hour, and when you are done you'll have a generous cup of caramelized onions."
+    - "Remove the onions, add another 2 tablespoons of butter, raise the heat to medium-high, add the mushrooms, garlic, and a big pinch of salt and saute until slightly softened and browned, about 5 minutes. Remove from heat."
+    - "Preheat oven to 350. Butter a casserole that is about 9\" x 11\" x 2\". (Unless you are making this in advance, in which case don't preheat the oven now, duh; refrigerate the dish after step 5 and allow about 10 minutes extra time when baking from cold.)"
+    - "In a large bowl, whisk together the eggs, milk, mustard, chili flakes, tarragon, 1 1/2 teaspoons of salt and generous quantities of pepper and nutmeg. Stir in the onions, mushrooms and cheese."
+    - "Put the cubed bread in the casserole and pour the egg mixture over it. Toss to distribute well."
+    - "Bake until the custard is set and the top is lightly browned, about 40 minutes. It should feel reasonably firm when touched in the center and there should be no jiggle to it, but don't overbake or the eggs can become grainy."
+    - "Allow to cool at least 10 minutes, then serve either hot, warm, or near room temperature."
 ---
 
 <p><a href="/images/old/6a00e008d618bb8834014e8bf50191970d-800wi.jpg" rel="lightbox" style="display: inline;"><img alt="Strata with Caramelized Onions, Mushrooms and Smoked Mozzarella" class="asset  asset-image at-xid-6a00e008d618bb8834014e8bf50191970d" src="/images/old/6a00e008d618bb8834014e8bf50191970d-500wi.jpg" title="Strata with Caramelized Onions, Mushrooms and Smoked Mozzarella" /></a><br /><em>Strata with Caramelized Onions, Mushrooms and Smoked Mozzarella </em></p> <p>Strata: a baked egg dish filled with cubes of bread and whatever awesomeness you can muster. I.e. it has all of the appeal of a quiche, but without the slight hassle of pie crust. Also, the starch from the bread tends to stabilize the custard, so you have a somewhat wider safety margin between unset eggs and overcooked, rubbery eggs.</p> <p>Today&#39;s version features a big pile of caramelized onions and sauteed mushrooms, flavored with <a href="https://www.amazon.com/dp/B08LCKFBMW?tag=herb-hugo-20">fresh tarragon</a>, garlic, black pepper, and <a href="https://www.amazon.com/dp/B08ZJVNKWQ?tag=herb-hugo-20">nutmeg</a>. The caramelized onions take a while to produce, but you can make this whole dish the night before a brunch, refrigerate it, and then just bake it off in the morning while you and your guests drink coffee and pray that whatever mess the kids are making in the other room isn&#39;t irreparable. <em>Hey, it seems awfully quiet in there!&#0160;</em></p> <p><em>&#0160;</em><div class="recipe-card">

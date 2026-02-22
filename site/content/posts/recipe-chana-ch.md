@@ -7,6 +7,27 @@ aliases: ["/recipe-chana-ch/", "/2008/02/recipe-chana-ch.html"]
 cover:
   image: "/images/2008-small/02/02/chanachatinpapadumbowl.jpg"
   hidden: true
+recipe:
+  name: "Chana Chaat in a Papadum Bowl"
+  yield: "4Vegetarian, vegan if you skip the yogurt"
+  diet: "Vegan"
+  ingredients:
+    - "2 T. tamarind concentrate"
+    - "2 T. boiling water"
+    - "1 t. agar-agar powder"
+    - "2 t. sugar"
+    - "1 black pepper (or other flavor) papadum, cut into 4 wedges"
+    - "2 c. cooked and cooled (or opened, rinsed, and drained) chickpeas"
+    - "2 T. chaat masala (or mix your own)"
+    - "1/2 c. high quality yogurt"
+    - "1 t. mild chili powder"
+    - "sprigs of cilantro"
+    - "4 pieces of crystallized ginger, sliced thin"
+  instructions:
+    - "Stir together the tamarind concentrate, boiling water, agar-agar powder, and sugar. Taste and add more sugar if needed. Cool in refrigerator. When gelled, whisk vigorously to make a viscous liquid."
+    - "Working one piece at a time, put a papadum on top of a small ramekin and place in a toaster oven. Toast for a few minutes until golden brown and blistering, occasionally and carefully applying slight pressure to form a bowl shape. Remove from oven and leave in ramekin for a few minutes to cool."
+    - "Mix chickpeas with the chaat masala. You could also add diced cucumbers, potatoes, or onions."
+    - "To serve, put a few drops of tamarind sauce on the plate with a medicine dropper, place a few slices of the ginger, add the papadum bowl and top with 1/4 of the chickpeas, 2 T. of yogurt, and a bit of the chili powder and cilantro."
 ---
 
 <p><a rel="lightbox" href="/images/2008/02/02/chanachatinpapadumbowl.jpg"><img width="455" height="341" border="0" src="/images/2008-small/02/02/chanachatinpapadumbowl.jpg" title="Chana Chaat in a Papadum Bowl" alt="Chana Chaat in a Papadum Bowl" /></a><br /><span style="font-size: 0.8em;">Chana Chaat in a Papadum Bowl</span></p>  <p>Chaat (or chat) is a whole family of delicious Indian snacks, served either as street food or in shops that specialize in these treats. and generally cold or at room temperature. They aren't very popular in America, but you can sometimes find a few items on a menu, especially at a South Indian restaurant. </p>  <p>I believe <a href="http://www.udupipalace.net/">Udupi Palace</a> in Bellevue, WA has <a href="http://onehotstove.blogspot.com/2006/01/street-food-pani-puri.html">Pani Puri</a>, which is one of the all time great chaat items, though I don't see it on the online menu. Those of you lucky enough to live in the Bay Area can visit the legendary <a href="http://www.vikschaatcorner.com/">Vik Distributors</a> in Berkeley, where you can load up on Indian groceries and have some of the best chaat snacks in the country. When I got a chance to travel to India, my coworkers <a href="http://www.delhitreats.blogspot.com/">Delhi Treats</a> and <a href="http://ayusman-foodie.blogspot.com/">Ayusman</a>, among others, took me to some of the best chaat places in Delhi and I think I left my heart there, or at least my palate.</p>  <p>If you know of a great chaat emporium elsewhere, please add a comment below!</p>  <p>Anyhow, I was longing for those flavors, and I had the idea to see if I could do a slightly upscale presentation. The main trick here was to make a bowl out of a papadum. All you have to do is cut a pie shaped wedge and put it on top of a ramekin, then toast it in the toaster oven and carefully press down on it until it forms a partial bowl. I topped that with spicy chickpeas, yogurt and cilantro, and on the plate we've got a bit of tamarind gel and slices of crystallized ginger. Here's the recipe:</p>  <div class="recipe-card">

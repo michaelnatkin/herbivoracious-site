@@ -8,6 +8,34 @@ aliases: ["/vegetarian-lasagna-recipe-with-spinach-and-ricotta-filling/", "/2008
 cover:
   image: "/images/old/6a00e008d618bb8834010536979c48970b-500wi.jpg"
   hidden: true
+recipe:
+  name: "Vegetarian Lasagna Recipe with Spinach and Ricotta Filling for a Crowd, using No-Boil Noodles"
+  time: "30 min"
+  diet: "Vegan, Vegetarian, Gluten-Free"
+  ingredients:
+    - "1 plastic produce bag stuffed tightly full of spinach (preferably not baby spinach)"
+    - "1 pound ricotta"
+    - "1/2 teaspoon grated nutmeg"
+    - "Kosher salt"
+    - "Freshly ground black pepper"
+    - "2 eggs, lightly beaten"
+    - "1/4 cup extra-virgin olive oil"
+    - "1 onion, diced"
+    - "2 cloves garlic, minced"
+    - "1/2 head cauliflower florets and some stem, cut into small bite-sized pieces"
+    - "2 large (28 oz.) cans plain tomato sauce"
+    - "Zest from 1 lemon"
+    - "No-boil lasagna noodles (or regular lasagna noodles - par-boil first) - enough to fit your pan, 4 layers"
+    - "1 pound grated mozzarella cheese"
+    - "4 ounces grated Parmesan cheese"
+  instructions:
+    - "Clean the spinach well. Place in a microwave safe bowl, cover loosely with a plate and microwave until fully wilted, about 5 minutes. Allow to cool, then squeeze out all water. (A good way to do this is by wrapping in a clean dish towel and twisting.) In a medium bowl, stir together the spinach, ricotta and nutmeg. Add salt and pepper to taste, then stir in the eggs."
+    - "Put the olive oil in a large skillet over medium high heat. Add the onion and garlic and 1/2 teaspoon salt, and cook, stirring occasionally until translucent (about 2 minutes), then add the cauliflower and cook, stirring occasionally, for 5 more minutes. Add the tomato sauce and lemon zest, lower the heat to a simmer and cook for 5 more minutes. Taste and adjust salt."
+    - "Preheat the oven to 375. Oil an lasagna pan (at least 2″ deep). Build up layers of noodles, sauce, ricotta mixture, and mozzarella. Be sure to get the noodles quite wet since they are the no-boil type and need plenty of moisture. You’ll have about 4 layers total. I do sauce on every layer, but ricotta on some and mozzarella on others."
+    - "Finish with a heavy layer of mozzarella and the parmesan, mixed together."
+    - "Bake , covering with tin foil part of the time if needed to avoid overbrowning. It is done when internal temp is say 170 F. (check a few spots) or when you can easily pierce the noodles with a fork, and the sauce is bubbling around the sides."
+    - "If the cheese isn’t crispy and brown enough, finish judiciously with the broiler."
+    - "Allow to rest at least 15 minutes before serving so it has time to set up a bit."
 ---
 
 <a style="display: inline;" href="/images/old/6a00e008d618bb8834010536979c48970b-800wi.jpg" rel="lightbox"><img class="photo at-xid-6a00e008d618bb8834010536979c48970b"  alt="Vegetarian Lasagna With Ricotta And Spinach" src="/images/old/6a00e008d618bb8834010536979c48970b-500wi.jpg" /></a>

@@ -7,6 +7,28 @@ aliases: ["/vegetarian-ceviche-recipe/", "/2009/12/vegetarian-ceviche-recipe.htm
 cover:
   image: "/images/old/6a00e008d618bb8834012876063175970c-500wi.jpg"
   hidden: true
+recipe:
+  name: "Vegetarian Ceviche"
+  yield: "4Vegetarian, vegan, and gluten-free"
+  diet: "Vegan, Vegetarian, Gluten-Free"
+  ingredients:
+    - "juice of 1 lime"
+    - "juice of Meyer lemon"
+    - "4 oyster mushrooms"
+    - "1/2 can hearts of palm, cut into bite-size rings"
+    - "2 radishes, cut into thin circles"
+    - "1/2 english cucumber, cut into circles"
+    - "1 jalapeno pepper, seeded and cut into rings"
+    - "a few rings of thinly sliced red onion"
+    - "sea salt"
+    - "a few mint or cilantro leaves"
+    - "8 tortilla chips"
+  instructions:
+    - "Combine the lime and lemon juices with a bit of salt."
+    - "Toss the vegetables with the juice and let marinate for a couple of minutes."
+    - "Divide the vegetables among 4 serving vessels, making sure each gets an oyster mushroom and some of each other component."
+    - "Drizzle on a bit of the juice."
+    - "Finish with sea salt, mint or cilantro leaves, and 2 tortilla chips."
 ---
 
 <p><a href="/images/old/6a00e008d618bb8834012876063175970c-800wi.jpg" rel="lightbox" style="display: inline;"><img alt="Vegetarian Ceviche" class="asset asset-image at-xid-6a00e008d618bb8834012876063175970c " src="/images/old/6a00e008d618bb8834012876063175970c-500wi.jpg" /></a> <br />Vegetarian ceviche</p>  <p>Traditional ceviche is raw or lightly cooked fish and shellfish, marinated in citrus juices. Variations of it are served throughout Latin America. Each country has its own <strong>special twists</strong> on the ingredients, sauce, or crispy accompaniments. </p>  <p>Obviously it isn&#39;t the same thing, but you can absolutely make a vegetarian dish that capitalizes on some of those <strong>pleasures</strong>. If you think in terms of a composed salad, include some tropical and spicy elements, and use a dressing of citrus with no oil, there is lots of room to play. I included oyster mushrooms and (sustainably harvested) <a href="https://www.amazon.com/dp/B074H5M1BL?tag=herb-hugo-20">hearts of palm</a> as somewhat <strong>humorous references</strong> to seafood - the oyster mushrooms by name and the palm by shape.</p>  <p>Ceviche usually includes something salty and crispy for contrast. Roasted corn kernels (something like <strong>Corn Nuts</strong>), popcorn, fried plantains are popular choices. I was short on time for today&#39;s dish so I simply used tortilla chips, but if I would have preferred a spiced up popcorn.</p>  <p>This would be fun to serve with cocktails, or as the first course of a dinner party.</p>  <div class="recipe-card">

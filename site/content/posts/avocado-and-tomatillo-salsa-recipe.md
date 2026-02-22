@@ -7,6 +7,23 @@ aliases: ["/avocado-and-tomatillo-salsa-recipe/", "/2012/09/avocado-and-tomatill
 cover:
   image: "/images/2012/09/Avocado-Tomatillo-Salsa-626x415.jpg"
   hidden: true
+recipe:
+  name: "Avocado and Tomatillo Salsa"
+  diet: "Vegan, Vegetarian, Gluten-Free"
+  ingredients:
+    - "2 large, 3 medium, or 6 small tomatillos, husked"
+    - "4 cloves garlic, skin on"
+    - "1 jalapeno pepper (more or less, depending on preference and heat level)"
+    - "1 shallot, peeled"
+    - "1/2 Reed avocado or 1 Hass avocado, pitted and scooped"
+    - "Juice of 2 limes"
+    - "1 bunch cilantro"
+    - "1/2 teaspoon ground cumin"
+    - "1/2 teaspoon kosher salt"
+  instructions:
+    - "Put a small skillet over medium high heat. Without using any oil, add the tomatillos, garlic, jalapeno and shallot and dry roast, turning occasionally, until there are many black spots on the vegetables, about 5 minutes."
+    - "Put the tomatillos and shallot in your blender jar. Peel the garlic and add it to the blender. Halve, seed, and stem the jalapeno and add it to the blender."
+    - "Add the avocado, lime juice, cilantro, cumin, and salt. Process on high speed until smooth. Taste and adjust seasoning - it may need more lime juice or salt. If it needs more heat, judiciously add cayenne or any chili powder you prefer."
 ---
 
 <img class="size-large wp-image-2850  alignnone" title="Avocado Tomatillo Salsa" src="/images/2012/09/Avocado-Tomatillo-Salsa-626x415.jpg" alt="Avocado Tomatillo Salsa" width="626" height="415" />

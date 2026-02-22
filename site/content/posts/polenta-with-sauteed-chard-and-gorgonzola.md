@@ -7,6 +7,27 @@ aliases: ["/polenta-with-sauteed-chard-and-gorgonzola/", "/2008/11/polenta-with-
 cover:
   image: "/images/old/6a00e008d618bb8834010535c1ea22970b-500wi.jpg"
   hidden: true
+recipe:
+  name: "Polenta With Sauteed Chard and Gorgonzola"
+  yield: "4Vegetarian and gluten-free; vegan if you omit the cheese"
+  diet: "Vegan, Gluten-Free"
+  ingredients:
+    - "7 cups water"
+    - "1 tablespoon salt"
+    - "1 2/3 cup polenta (medium to coarse grained yellow cornmeal)"
+    - "1/2 cup grated parmesan"
+    - "1 tablespoon olive oil"
+    - "2 cloves garlic, sliced thin"
+    - "optional: 1/4 teaspoon chili flakes"
+    - "1 large bunch Swiss chard (any color is fine), leaves pulled from stems, washed, and chopped coarsely"
+    - "6 tablespoons gorgonzola dolce or other blue cheese"
+    - "Maldon (aka the world's greatest salt) or other finishing salt"
+    - "black pepper"
+    - "optional: balsamico tradizionale"
+  instructions:
+    - "Bring water and 1 tablespoon of salt to a boil. Whisk the polenta in a thin stream into the water, stir for 2 minutes being sure to reach the bottom of the pot, reduce the heat to a simmer, and cover. Every ten minutes, uncover the pot, stir for whole 1 minute, and re-cover until 40 minutes have elapsed. Then uncover and cook five more minutes, and stir in the grated parmesan. Turn off the heat."
+    - "Heat the oil in a large skillet over a medium-high flame. When it is shimmering, add the garlic and optional chili flakes. Fry for 10 seconds, then add the chard and 1 teaspoon of salt. Saute for a minute, add a little water, cover, and steam until thoroughly tender, about 7 minutes. Remove top and allow water to evaporate."
+    - "To serve, ladle 1/4 of the polenta into a bowl. Top with 1/4 of the chard and 1.5 tablespoons of gorgonzola. Finish with salt, pepper and optionally a drizzle of balsamico."
 ---
 
 <p><a href="/images/old/6a00e008d618bb8834010535c1ea22970b-800wi.jpg" rel="lightbox" style="display: inline;"><img alt="Polenta_Chard_Blue_Cheese" class="at-xid-6a00e008d618bb8834010535c1ea22970b " src="/images/old/6a00e008d618bb8834010535c1ea22970b-500wi.jpg"  /></a></p> <p>As fall closes in on winter, the cold weather greens and warm, filling grains figure more in our cooking. A lazy weekend day meant I had time to make polenta the slow way instead of using the quick cooking (but not instant) de La Estancia brand. I followed Marcella Hazan&#39;s &quot;no-stir&quot; method, which really isn&#39;t no-stir, but definitely low maintenance, you just need to have an hour. Both the quick-cooking and slow-and-low methods make delicious polenta, but they are very different. The de la Estancia is bright yellow and tastes more of fresh corn, with a slightly rougher texture. Hazan&#39;s technique leads to polenta which is very mellow, creamy, soft and soothing.</p> <p>Whenever I make polenta, I almost always double the batch and chill the rest on a oiled baking sheet. The next day I cut it into squares and cook it in a skillet with a bit of oil. The fried pieces with soft insides are delicious with a simple tomato sauce. The recipe below is for four, but will work fine to double or triple as long as you use a big enough pot.</p> <p>The polenta is definitely the main event in a dish like this, and we don&#39;t want to overwhelm it. Strong flavors are fine but they should be in moderate amounts. I&#39;d say the amount of blue cheese in the picture above is too much by half. I added just a few slivers of garlic and a pinch of chili <a href="https://www.amazon.com/Maldon-Sea-Salt-Flakes-ounce/dp/B00017028M?tag=herb-hugo-20">flakes</a> to the chard, and a drizzle of good balsamic on the side to round out the dish.</p> <div class="recipe-card">

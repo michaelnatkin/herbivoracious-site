@@ -8,6 +8,29 @@ aliases: ["/grilled-tofu-and-pepper-vegetarian-tacos-recipe/", "/2010/05/grilled
 cover:
   image: "/images/old/6a00e008d618bb883401348054dc7a970c-500wi.jpg"
   hidden: true
+recipe:
+  name: "Grilled Tofu and Pepper Vegetarian Tacos"
+  yield: "4"
+  diet: "Vegan, Vegetarian, Gluten-Free"
+  ingredients:
+    - "1.5 ounces achiote \"brick\" paste (aka annatto)"
+    - "1/2 cup canola oil"
+    - "1 teaspoon ground cumin"
+    - "2 teaspoons Tapatio or other hot sauce"
+    - "1 teaspoon salt"
+    - "10 ounces extra firm tofu cut into 1/3\" slabs and patted dry"
+    - "1 medium zucchini, cut into 1/3\" slabs"
+    - "1 medium onion, thinly sliced"
+    - "4 cloves garlic, thinly sliced"
+    - "2 red and 1 yellow bell pepper, cut into strips"
+    - "24 corn tortillas"
+  instructions:
+    - "In a small bowl, break up the achiote with a fork and mash in the oil, a little at a time until it dissolves. Mix in the cumin, hot sauce and salt."
+    - "Heat up a grill or grill pan to a medium flame. Brush the tofu with the achiote oil on one side and grill until well marked. Brush the other side, flip, and grill. Repeat with the zucchini. Allow both to cool and then cut into 1/3\" dice."
+    - "Heat up a frying pan over a medium-high flame. Add 2 tablespoons of the achiote oil. Saute the onion, garlic and bell peppers until very soft."
+    - "Add the tofu and zucchini to the pepper mixture. Taste and adjust seasoning. It may need more salt, or a little lime or lemon juice, or more chile heat."
+    - "Wrap the tortillas in a damp, clean dish towel and microwave for about 3 minutes until soft and warm."
+    - "To eat, lay down two tortillas. Top with a moderate scoop of the filling, a spoonfull of guacamole and the pineapple salsa. Pass more hot sauce for those who want it."
 ---
 
 <a style="display: inline;" href="/images/old/6a00e008d618bb883401348054dc7a970c-800wi.jpg" rel="lightbox"><img class="asset asset-image at-xid-6a00e008d618bb883401348054dc7a970c " title="Tofu_Achiote_Tacos" src="/images/old/6a00e008d618bb883401348054dc7a970c-500wi.jpg" alt="Vegetarian (and vegan) tacos filled with achiote flavore grilled tofu and peppers" /></a>

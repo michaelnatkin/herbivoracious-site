@@ -7,6 +7,27 @@ aliases: ["/caramelized-apple-and-blue-cheese-crostini/", "/2012/04/caramelized-
 cover:
   image: "/images/2012/04/Caramelized-Apple-and-Blue-Cheese-Crostini-626x415.jpg"
   hidden: true
+recipe:
+  name: "Caramelized Apple and Blue Cheese Crostini"
+  yield: "16 crostini 20 minutes"
+  time: "20 minutes"
+  ingredients:
+    - "½ cup loosely packed fresh tarragon leaves"
+    - "2 tablespoons extra-virgin olive oil"
+    - "Kosher salt"
+    - "16 thin slices of crusty baguette"
+    - "1 tablespoon unsalted butter"
+    - "2 small apples such as Pink Lady, cut into 16 wedges"
+    - "Tiny pinch of cayenne pepper"
+    - "Freshly ground black pepper"
+    - "¼ cup blue cheese (such as Blue de Causses or Gorgonzola dolce), at room temperature"
+    - "Flaky sea salt (such as Maldon (aka the world's greatest salt)) or large crystal sea salt (such as red Hawaiian salt)"
+  instructions:
+    - "Preheat oven or toaster oven to 400 degrees."
+    - "Set aside 32 nice looking tarragon leaves. In a mortar and pestle or mini food processor, roughly puree the remaining tarragon with the olive oil."
+    - "Brush the baguette slices with the tarragon oil, reserving the crushed tarragon. Toast in the oven (on a baking sheet) or toaster oven until golden brown and crispy, about 5 minutes."
+    - "Melt the butter in a large skillet over medium heat. Cook the apples on in a single layer, working in batches if needed, until both sides are golden brown and somewhat tender, about 5 minutes. Season with a pinch of cayenne pepper and several grinds of black pepper."
+    - "To serve, arrange two slices of cooked apple on each crostini. Top with ½ teaspoon of the blue cheese, a speck of the crushed tarragon, two whole tarragon leaves, and a few grains of sea salt."
 ---
 
 <a href="/images/2012/04/Caramelized-Apple-and-Blue-Cheese-Crostini.jpg"><img class="alignnone size-large wp-image-1747" title="Caramelized Apple and Blue Cheese Crostini" src="/images/2012/04/Caramelized-Apple-and-Blue-Cheese-Crostini-626x415.jpg" alt="Caramelized Apple and Blue Cheese Crostini" width="626" height="415" />

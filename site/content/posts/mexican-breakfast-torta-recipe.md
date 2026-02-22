@@ -8,6 +8,26 @@ aliases: ["/mexican-breakfast-torta-recipe/", "/2012/10/mexican-breakfast-torta-
 cover:
   image: "/images/cookbook/mexican-breakfast-torta.jpg"
   hidden: true
+recipe:
+  name: "Mexican Breakfast Torta"
+  yield: "4"
+  diet: "Vegan"
+  ingredients:
+    - "2 poblano peppers"
+    - "1 cup thinly sliced red cabbage"
+    - "1 tablespoon mayonnaise or vegan mayonnaise"
+    - "1 tablespoon lime juice"
+    - "Kosher salt"
+    - "4 bolillo or telera rolls (or substitute as described above)"
+    - "2 cups vegetarian refried beans, heated (refried black beans are great too) – add salt and/or cumin if needed"
+    - "6 eggs, scrambled (with ½ teaspoon Kosher salt and 2 tablespoons water) or, for vegan, 1 avocado, thinly sliced"
+    - "½ cup cotija cheese, crumbled (omit for vegan)"
+    - "cilantro"
+  instructions:
+    - "Place the poblano peppers under the broiler. Cook, turning every minute or so, until blackened and blistered all over. Place in a small bowl and cover for 10 minutes. Remove from the bowl, allow to cool, peel, remove the stems, cut in half, and remove the seeds. (You may want to wear rubber gloves while working with them to avoid getting spicy oil on your hands. It is ok if not every bit of skin comes off.)"
+    - "Toss the cabbage with the mayonnaise, lime juice and salt."
+    - "Cut each roll in half and pull out some of the soft bread to make more room for the filling. Lightly toast the rolls."
+    - "To assemble, line up the bottom halves of the four rolls. Top each one with one quarter of the refried beans and scrambled eggs (or avocado). If using the avocado, season it with a generous sprinkle of salt. Add one half of a poblano pepper, some of the red cabbage mixture, a generous sprinkle of the cotija cheese, and a few sprigs of cilantro. Cut in half if desired and serve immediately, offering hot sauce at the table."
 ---
 <a href="/images/cookbook/mexican-breakfast-torta.jpg"><img src="/images/cookbook/mexican-breakfast-torta.jpg" alt="Mexican Breakfast Torta" /></a>
 

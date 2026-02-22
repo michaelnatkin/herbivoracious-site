@@ -7,6 +7,25 @@ aliases: ["/whole-bean-ful-medames-with-fava-beans-or-marrowfat-peas-recipe/", "
 cover:
   image: "/images/2013/07/Marrowfat-Peas-626x415.jpg"
   hidden: true
+recipe:
+  name: "Whole Bean Ful Medames - With Fava Beans or Marrowfat Peas"
+  yield: "4-6 10 minutes after the beans are cooked"
+  time: "10 minutes"
+  diet: "Vegan, Vegetarian, Gluten-Free"
+  ingredients:
+    - "1 pound dried dark brown marrowfat peas or dried *round* fava beans (the flat ones aren't good for ful)"
+    - "Optional: 1 cup cooked garbanzo beans (for a little variety)"
+    - "4 cloves garlic, very finel minced. Use more or less to your taste."
+    - "1 teaspoon cumin"
+    - "Kosher salt"
+    - "Copious extra-virgin olive oil"
+    - "2 lemons"
+    - "Fresh oregano or parsley leaves"
+    - "Freshly ground black pepper"
+  instructions:
+    - "Rinse and pick through the beans for any extraneous material. Cover with a good amount of water and soak overnight. Drain and add fresh water to cover by about 1 inch. Bring to a low boil and cook until tender, adding more water if needed. You can also cook them in a pressure cooker if you like, but I don't know the exact time you'll need. You can refrigerate the beans and broth overnight if you like, and then reheat them the next day. Drain the beans but reserve the cooking liquid, which will become the broth for your ful."
+    - "Toss the marrowfat peas or fava with the optional chickpeas, garlic, cumin, and 1 teaspoon of kosher salt and 2 tablespoons of olive oil. If you don't like raw garlic, you can briefly sizzle it in a little olive oil first. Taste and adjust seasoning."
+    - "Spoon the beans into serving bowls and ladle some, but not too much, of the hot broth over the top. If you like, you could mash some of the beans. Drizzle lots more olive oil over the top. Garnish with a generous squeeze of lemon juice, the oregano or parsley, and several grinds of black pepper. Serve hot."
 ---
 
 <a href="/images/2013/07/Marrowfat-Peas.jpg"><img class="alignnone size-large wp-image-3817" alt="Whole Bean Ful Medames" src="/images/2013/07/Marrowfat-Peas-626x415.jpg" width="626" height="415" /></a>

@@ -7,6 +7,31 @@ aliases: ["/saffron-chickpea-stew-with-grilled-porcini-mushroom-recipe/", "/2012
 cover:
   image: "/images/2012/06/Grilled-Porcini-with-Chickpea-Stew-626x415.jpg"
   hidden: true
+recipe:
+  name: "Saffron Chickpea Stew with Grilled Porcini Mushrooms"
+  yield: "4"
+  diet: "Vegan, Vegetarian, Gluten-Free"
+  ingredients:
+    - "About 20 ounces fresh porcini mushrooms (sauteed morels would be great too, if less dramatic - don't grill 'em)"
+    - "Extra-virgin olive oil (about 1/4 cup + 2 tablespoons)"
+    - "Kosher salt"
+    - "1 large white onion, minced"
+    - "3 tablespoons double-concentrated tomato paste (or 6 tablespoons regular tomato paste)"
+    - "8 cloves minced garlic"
+    - "Nice big pinch saffron threads"
+    - "1/2 teaspoon smoked paprika"
+    - "1 teaspoon sugar"
+    - "1 cup dry white wine"
+    - "5 cups cooked chickpeas (preferably home cooked; see above for more discussion)"
+    - "Freshly ground black pepper"
+    - "Thinly sliced green garlic, or failing that, scallion"
+    - "Maldon (aka the world's greatest salt) salt or other finishing salt"
+  instructions:
+    - "Preheat the oven to 450. Cut the porcinis in half, lengthwise. Place the porcinis on enough tin foil to wrap them. You may want to make two packets. Toss them with a little olive oil and a couple pinches of salt and seal them into packets. Roast until tender (see above). Time will really depend on the size of the mushrooms; mine took about 30 minutes. When tender, open, inhale and faint from the beautiful smell, then reserve. You might consider drinking the roasting juices. Cook's treat."
+    - "Meanwhile, put a generous 1/4 cup of olive oil in a large skillet over medium heat. Add the onion, tomato paste, garlic, saffron, smoked paprika, sugar and 1 teaspoon of salt. Cooking, stirring occasionally, until the onion and tomato have turned a nice rust color."
+    - "Add the wine and scrape (deglaze) the bottom of the pan to incorporate all the lovely browned tasty bits. Add the chickpeas, find a low simmer, and cook for about 15 minutes. Add water as needed to create a saucy consistency. It should definitely not be dry, but neither are we making soup. Taste and adjust seasoning. Besides salt, it might need more smoked paprika."
+    - "Set your serving bowls or plates aside to warm up. Heat a grill pan over high heat. Brush the cut side of the porcinis with a bit of olive oil and grill until nice grill marks develop. Rotate 90 degrees and create a crosshatch pattern."
+    - "When you are ready to serve, give the chickpea stew one last adjustment for taste and texture and divide among the serving bowls. Top with some freshly ground black pepper and a little drizzle of olive oil. Arrange the porcini on top of the chickpeas. Garnish with the green garlic and a few flakes of Maldon (aka the world's greatest salt) and serve immediately."
 ---
 
 <a href="/images/2012/06/Grilled-Porcini-with-Chickpea-Stew.jpg"><img class="alignnone size-large wp-image-2079" title="Grilled Porcini with Chickpea Stew" src="/images/2012/06/Grilled-Porcini-with-Chickpea-Stew-626x415.jpg" alt="Grilled Porcini with Chickpea Stew" width="626" height="415" />

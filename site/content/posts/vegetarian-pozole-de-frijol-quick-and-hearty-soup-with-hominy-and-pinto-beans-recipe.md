@@ -7,6 +7,30 @@ aliases: ["/vegetarian-pozole-de-frijol-quick-and-hearty-soup-with-hominy-and-pi
 cover:
   image: "/images/old/6a00e008d618bb8834010535f1ce06970b-500wi.jpg"
   hidden: true
+recipe:
+  name: "Vegetarian Pozole Rojo de Frijol"
+  yield: "at least 4 as a one-pot mealVegetarian and gluten-free; vegan if you don't offer cheese as a condiment"
+  diet: "Vegan, Vegetarian, Gluten-Free"
+  ingredients:
+    - "1 or 2 (or more, if you are a chili head) dried chilis de Arbol, ancho, or guajillo chilis to suit your preference"
+    - "2 tablespoons oil"
+    - "1 onion, diced"
+    - "4 cloves garlic, minced"
+    - "optional: 6 cups mild vegetable broth"
+    - "1/2 15 oz. can diced tomatoes - those \"fire roasted\" ones would be good if you have them"
+    - "1 tablespoon dried oregano"
+    - "1 15 oz. can pinto beans, drained and rinsed"
+    - "2 15 oz. cans hominy, drained and rinsed"
+    - "salt"
+    - "juice of 2 limes"
+    - "garnishes: see the list in the discussion above"
+  instructions:
+    - "Soak the chilis in a bit of boiling water for 20 minutes or so, then puree in a mini food processor."
+    - "In a large soup pot, saute the onion and garlic in the oil for 2 minutes over medium heat."
+    - "Add the tomatoes, 2 teaspoons of salt, the oregano, and 6 cups of vegetable broth or water and bring to a simmer."
+    - "Add the pinto beans and hominy and bring back to a simmer. Allow to simmer for ten minutes."
+    - "Add the pureed chilis, lime juice, stir, then add salt and more lime juice or more of the tomatoes as needed to produce a piquant broth. You might like to add the chilis a little at a time and taste to make sure you are't exceeding your heat preference. You can always serve the remainder of the chili sauce on the side."
+    - "Serve it forth, with a good selection of garnishes."
 ---
 
 <p><a href="/images/old/6a00e008d618bb8834010535f1ce06970b-800wi.jpg" rel="lightbox" style="display: inline;"><img  alt="Vegetarian pozole / posole de frijol; hearty Mexican stew with hominy and beans" class="at-xid-6a00e008d618bb8834010535f1ce06970b " src="/images/old/6a00e008d618bb8834010535f1ce06970b-500wi.jpg" ></a><br><span style="font-size: 11px; font-family: Arial;">Vegetarian Pozole de Frijol</span><br><strong>Pozole</strong> (also spelled posole) is a soup or stew made all over Mexico, dating back to <strong>pre-Columbian times</strong>. Vegetarian pozole is almost a non-sequitur, because the original is heavy on the pig, but this version is delicious and filling so I don't think you will miss the meat. It makes a terrific one pot meal on a cold day.</p><p>There are more variations of pozole than you can count, but as long as it has hominy and some kind of red chili in it, you are in the ballpark. Actually that is for pozole rojo. (There is another version, pozole verde that involves ground pumpkin seeds; I've never tried it but it sounds amazing). </p><p>For this particular batch I added pinto beans, which makes it <strong>pozole de frijol</strong>. I like to use tomatoes and a lot of lime juice to make a somewhat sour broth. </p><p>Much of the fun comes with the accompaniments, which you can put out on a big platter and let everyone choose for themselves. Popular options include: <strong>avocado slices</strong>, cilantro, lime wedges, tortilla chips, shredded cabbage or lettuce, onions and radishes. If you want to make a true feast, fry up some homemade tostadas and make a batch of guacamole.</p><p>The recipe below calls for canned hominy and beans for simplicity. Made this way, it can even be a weeknight supper. But if you want a more leisurely and even better soup, you can cook them both from scratch. Hominy corn is available dried, in which case you would soak it overnight and boil it for several hours, very much like with dried beans. Or if you are really motivated, you could try to find <em>maiz para pozol</em> and soak it yourself in lye water and then remove the end of each kernel. Sounds like fun!</p><div class="recipe-card">

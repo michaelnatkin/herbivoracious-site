@@ -8,6 +8,26 @@ aliases: ["/warm-frisee-salad-with-brown-butter-vinaigrette-recipe/", "/2012/09/
 cover:
   image: "/images/cookbook/warm-frisee-salad-with-brown-butter-vinaigrette.jpg"
   hidden: true
+recipe:
+  name: "Warm Frisee Salad with Brown Butter Vinaigrette"
+  yield: "4"
+  time: "15 minutes"
+  diet: "Gluten-Free"
+  ingredients:
+    - "4 tablespoons unsalted butter"
+    - "2 turnips, about 3” diameter, peeled and sliced into ¼” thick half-moons (about 20 half-moons total)"
+    - "flaky sea salt"
+    - "4 large button or crimini mushrooms, cut into ¼” thick slices"
+    - "1 clove garlic, minced"
+    - "1 head frisee, core removed, rinsed and thoroughly dried"
+    - "2 tablespoons champagne vinegar or sherry vinegar"
+    - "½ cup toasted hazelnuts"
+    - "fresh ground black pepper"
+  instructions:
+    - "Melt the butter in a large skillet over medium heat. Line a plate with a paper towel. Add the turnips in a single layer and cook until lightly browned on one side. If the butter starts to smoke or burn, lower the heat. Flip the turnips and cook until browned on the other side and tender to a toothpick. Using a slotted spatula or spoon, remove the turnips to the paper towel and season with a sprinkle of flaky sea salt."
+    - "Cook the mushrooms in the same way as the turnips, and again remove to the paper towel and season with salt."
+    - "Add the garlic to the butter and cook for 30 seconds. Turn off the heat. Add the frisee, champagne vinegar, and ¼ teaspoon more salt. Toss in the butter just enough to barely begin to wilt, about 30 seconds."
+    - "Using tongs, remove the frisee, gently shaking off any excess butter. Divide among 4 serving plates. Divide the turnips, mushrooms and hazelnuts among the plates. Season each salad with a generous grating of fresh-ground black pepper and serve immediately."
 ---
 <a href="/images/cookbook/warm-frisee-salad-with-brown-butter-vinaigrette.jpg"><img src="/images/cookbook/warm-frisee-salad-with-brown-butter-vinaigrette.jpg" alt="Warm Frisee Salad with Brown Butter Vinaigrette" /></a>
 

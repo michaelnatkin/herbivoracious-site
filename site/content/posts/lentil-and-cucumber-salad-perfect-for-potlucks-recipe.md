@@ -7,6 +7,23 @@ aliases: ["/lentil-and-cucumber-salad-perfect-for-potlucks-recipe/", "/2013/06/l
 cover:
   image: "/images/2013/06/Lentil-and-Cucumber-Salad-626x415.jpg"
   hidden: true
+recipe:
+  name: "Lentil and Cucumber Salad"
+  yield: "a big potluck-sized bowl; cut in half for regular \"family\" use"
+  diet: "Vegan, Vegetarian, Gluten-Free"
+  ingredients:
+    - "2 English cucumbers"
+    - "1 pound lentils"
+    - "Kosher salt"
+    - "1/2 red onion, diced"
+    - "1/2 cup extra virgin olive oil"
+    - "Juice of 1 lemon"
+    - "Big handful of fresh dill (reserve a bit for garnish and mince the rest)"
+    - "Big handful of fresh mint (reserve a bit for garnish and mince the rest)"
+  instructions:
+    - "Peel the cucumbers and cut them in half lengthwise. Use a spoon to scoop out the seeds. Cut into half-moons about 1/3\" thick. Toss with 1 tablespoon of kosher salt and place in a colander over a bowl to drain for about 30 minutes. If you are motivated, find some way to weight them for even better results. When they are nice and translucent and lots of water has collected, rinse the slices and then pat them dry."
+    - "Meanwhile, sort through the lentils and discard any non-lenticular matter. Rinse in several changes of water. Put in a medium pot and cover with a couple inches of water. Bring to a boil, reduce to a simmer, and cook until tender but not mushy. Immediately drain and rinse in several changes of cold water to stop the cooking."
+    - "Combine the cooled lentils, cucumbers, onion, olive oil, lemon juice, 2 teaspoons of salt, dill and mint in a large bowl and toss. Taste and adjust seasoning. It may need more salt or lemon juice. Look for that moment when the flavors start to \"sing\" a little, not just sit there meekly on your palate. If you are serving more than an hour or so later, refrigerate and hold off on the herbs and final flavor adjustment until close to serving time. Garnish with the remaining herbs."
 ---
 
 <a href="/images/2013/06/Lentil-and-Cucumber-Salad.jpg"><img class="alignnone size-large wp-image-3778" alt="Lentil and Cucumber Salad" src="/images/2013/06/Lentil-and-Cucumber-Salad-626x415.jpg" width="626" height="415" />

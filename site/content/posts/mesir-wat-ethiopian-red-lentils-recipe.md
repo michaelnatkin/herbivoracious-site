@@ -7,6 +7,25 @@ aliases: ["/mesir-wat-ethiopian-red-lentils-recipe/", "/2010/02/mesir-wat-ethiop
 cover:
   image: "/images/old/6a00e008d618bb88340128777bea31970c-500wi.jpg"
   hidden: true
+recipe:
+  name: "Mesir Wat - Ethiopian Red Lentil Puree"
+  yield: "4 as part of a larger meal"
+  diet: "Vegan, Vegetarian, Gluten-Free"
+  ingredients:
+    - "2 cups red lentils, picked over and rinsed"
+    - "1 medium onion, roughly chopped"
+    - "2 cloves garlic, roughly chopped"
+    - "1 big knob of fresh ginger, peeled and roughly chopped"
+    - "3 tablespoons butter or oil"
+    - "1 tablespoon paprika or other mild red pepper"
+    - "1 teaspoon turmeric"
+    - "1/2 teaspoon cayenne (or to taste)"
+    - "salt"
+  instructions:
+    - "In a medium saucepan, cover the lentils with about 1 inch of water and bring to a boil. Reduce to a simmer. Stir occasionally to avoid scorching on the bottom, and add more water if it gets low. Start this going and move on to the next step."
+    - "Meanwhile, in a blender or mini food processor, puree the onion, garlic and ginger."
+    - "Heat the butter or oil over a medium flame in a small skillet. Add the paprika, turmeric and cayene, and fry for 30 seconds. Add the onion mixture and fry for about 10 minutes, until rather dry and lightly browned."
+    - "Scrape the mixture from the skillet into the lentil and add about 1/2 teaspoon of salt. Continue to simmer until the lentils are fully pureed. The total time starting at step 1 will probably be about 40 minutes. Add water if too thick or cook a little longer if too thin. The ideal texture is thick enough to stand up a little on a spoon, but not thick like, say, hummus. A little thicker than applesauce. Taste and adjust the seasoning."
 ---
 
 <a style="display: inline;" href="/images/old/6a00e008d618bb88340128777bea31970c-800wi.jpg" rel="lightbox"><img class="asset asset-image at-xid-6a00e008d618bb88340128777bea31970c " src="/images/old/6a00e008d618bb88340128777bea31970c-500wi.jpg" alt="Mesir Wat, an Ethiopian red lentil puree" /></a>

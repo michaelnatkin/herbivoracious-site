@@ -7,6 +7,24 @@ aliases: ["/southernstyle-collard-greens-veganized-recipe/", "/2009/10/southerns
 cover:
   image: "/images/old/6a00e008d618bb88340120a5c2c43b970b-500wi.jpg"
   hidden: true
+recipe:
+  name: "Southern-Style Collard Greens, Veganized"
+  yield: "at least 4 as a side dish"
+  diet: "Vegan, Vegetarian, Gluten-Free"
+  ingredients:
+    - "2 big bunches collard greens"
+    - "2 tablespoons vegetable oil"
+    - "12 fresh shiitake mushroom caps, thinly sliced"
+    - "1/2 onion, thinly sliced"
+    - "1 teaspoon smoked paprika (pimenton de la vera for example)"
+    - "1/2 teaspoon chili flakes"
+    - "2 teaspoons shoyu, tamari or other good soy sauce"
+    - "salt to taste"
+  instructions:
+    - "Strip the collard greens from the stems, wash thoroughly in three changes of water, and slice into 1\" ribbons."
+    - "Heat a dutch oven or soup pot over a medium flame. Add the oil, shiitake, and onions and cook, stirring occasionally for 5 minutes until they have some color. Add the collard greens, smoked paprika, chili flakes, soy sauce and 1/2 cup water, reduce the heat to low, and cover. You may have to add the collards a bit at a time if the lid won't fit on."
+    - "Cook for, oh, at least 45 minutes, until completely tender, checking occasionally to see if they need a little more water."
+    - "When the greens are fully cooked, remove the lid and cook off the water. Taste and adjust the seasonings; they will probably want more salt or soy sauce, and maybe more of the smoked paprika."
 ---
 
 <a style="display: inline;" href="/images/old/6a00e008d618bb88340120a5c2c43b970b-800wi.jpg" rel="lightbox"><img class="asset asset-image at-xid-6a00e008d618bb88340120a5c2c43b970b " src="/images/old/6a00e008d618bb88340120a5c2c43b970b-500wi.jpg" alt="CollardGreens" /></a>

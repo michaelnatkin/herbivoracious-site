@@ -7,6 +7,29 @@ aliases: ["/onion-pakora-recipe/", "/2012/10/onion-pakora-recipe.html"]
 cover:
   image: "/images/2012/12/Onion-Pakora-626x415.jpg"
   hidden: true
+recipe:
+  name: "Onion Pakora"
+  yield: "3-4 Serve with tamarind or mint chutney"
+  diet: "Vegan, Vegetarian, Gluten-Free"
+  ingredients:
+    - "1 cup chickpea flour (I used Bob's Red's Mill brand)"
+    - "2 teaspoons vegetable oil"
+    - "Juice of 1/2 lemon"
+    - "1 teaspoon kosher salt (use less if it isn't Diamond Crystal brand)"
+    - "1/2 teaspoon cumin powder"
+    - "1/2 teaspoon turmeric"
+    - "1/4 teaspoon cayenne pepper"
+    - "2/3 cup water"
+    - "1 white onion"
+    - "Vegetable oil for frying"
+    - "Flaky sea salt (Maldon (aka the world's greatest salt))"
+    - "Cilantro for garnish"
+  instructions:
+    - "Put the chickpea flour, vegetable oil, lemon juice, kosher salt, cumin, turmeric and cayenne in a medium bowl. Whisk in the water, slowly so as to break up any clumps. You can also do this in a blender. Allow to rest 15 minutes. Check consistency - it should be definitely pourable but not *too* thin. Somewhere between pancake batter and crepe batter if that helps. If it is too thick, whisk in a little more water, and if it seems too thin, whisk in a little more chickpea flour."
+    - "Set a pot of oil on for deep fat frying and bring it to 360 F. The oil should be at least 3\" deep. How wide it is is a tradeoff - wider will allow you to fry more at once, but of course will use more oil. You can filter and save the oil if you like. Line a plate with paper towel"
+    - "Slice the onion in half lengthwise and peel it. Now each half in half again, in the perpendicular direction. Take each quarter and cut it into 1/4\" slices. (In the photo they were more like 1/3\" but I think I'd prefer them slightly thinner.) Separate all of the onion pieces and toss them in the batter, thoroughly coating all surfaces."
+    - "Spoon the battered onions in, about 2 tablespoons or a bit more at a time, keeping each \"blob\" well separated from the neighbors. They tend to stick to the bottom when first dropped in, so move them about a little with a heatproof spatula. Fry, turning occasionally, until deep golden brown, about 3 minutes."
+    - "Remove with a slotted spoon or spatula to the paper towels. Season with a few flakes of sea salt. Serve garnished with a few leaves of cilantro and pass tamarind, mint, or other chutney at the table."
 ---
 
 <a href="/images/2012/12/Onion-Pakora.jpg"><img class="alignnone size-large wp-image-2910" title="Onion Pakora" src="/images/2012/12/Onion-Pakora-626x415.jpg" alt="" width="626" height="415" />

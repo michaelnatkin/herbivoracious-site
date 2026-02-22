@@ -8,6 +8,29 @@ aliases: ["/potato-and-green-bean-salad-with-arugula-pesto-recipe/", "/2012/09/p
 cover:
   image: "/images/cookbook/potato-and-green-bean-salad-with-arugula-pesto.jpg"
   hidden: true
+recipe:
+  name: "Potato and Green Bean Salad with Arugula Pesto"
+  yield: "4"
+  time: "15 minutes active"
+  diet: "Gluten-Free"
+  ingredients:
+    - "For the vegetables:"
+    - "1 pound small, waxy potatoes"
+    - "8 ounces green beans, trimmed and halved"
+    - "2 tablespoons salt"
+    - "For the arugula pesto:"
+    - "2 ounces baby arugula, rinsed and dried (about 3 cups of loosely packed leaves)"
+    - "3 tablespoons extra virgin olive oil"
+    - "1 to 2 cloves garlic, roughly chopped (use the larger amount if you are a garlic lover)"
+    - "¼ teaspoon salt"
+    - "1 ounce grated grana padano cheese (or parmigiano) (about ¼ cup)"
+    - "To complete the salad:"
+    - "fresh ground black pepper"
+    - "optional: ½ cup toasted walnut pieces"
+  instructions:
+    - "For the vegetables: place the potatoes in a large pot of cold water with 2 tablespoons of salt. Bring to a boil over high heat, then lower heat to maintain a vigorous simmer. When the potatoes are fork-tender, remove them to a bowl with a slotted spoon. Add the green beans to the water and boil for 2 ½ minutes. Remove the green beans to a separate bowl. Rinse both vegetables in cold water until cool. Cut the potatoes in half if they are much larger than bite size."
+    - "For the pesto: Combine all ingredients in a mini food processor. Process until it forms a fairly smooth paste with some texture left. Alternatively you can use an immersion blender, or a regular blender if you make a double batch. Taste and adjust seasoning."
+    - "To complete the salad: Toss the potatoes and green beans with the arugula pesto, several grinds of black pepper, and the walnut pieces if using. Taste and add more salt if needed."
 ---
 <a href="/images/cookbook/potato-and-green-bean-salad-with-arugula-pesto.jpg"><img src="/images/cookbook/potato-and-green-bean-salad-with-arugula-pesto.jpg" alt="Potato and Green Bean Salad with Arugula Pesto" /></a>
 

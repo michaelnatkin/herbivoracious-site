@@ -7,6 +7,25 @@ aliases: ["/recipe-farro-wi/", "/2008/01/recipe-farro-wi.html"]
 cover:
   image: "/images/2008-small/01/05/collardsandfarrowithbaconsalt.jpg"
   hidden: true
+recipe:
+  name: "Farro with Collard Greens and Bacon Salt"
+  yield: "4"
+  ingredients:
+    - "4 servings of farro (see below)"
+    - "1/2 small can chickpeas, drained"
+    - "3 big bunches of collard greens or other strong-flavored greens (not spinach)"
+    - "1 white onion, diced"
+    - "6 T. extra virgin olive oil"
+    - "2 cloves garlic, sliced thinly"
+    - "1 t. chili flakes"
+    - "1 t. Bacon Salt (or regular salt and smoked paprika)"
+  instructions:
+    - "Cook 4 servings of farro according to package directions. (Actually you should probably make 6 servings because serving sizes are always too small, right!). There are a number of different types with different cooking times, so it is better if I don't give you specific details, but cook until it is tender but not falling apart. Drain, and stir in chickpeas."
+    - "Remove stems from greens, rinse thoroughly and chop coarsely"
+    - "In a large soup pot, fry the onions in 2 T. of the oil. When slightly brown, add the chili flakes and garlic and fry for 20 more seconds."
+    - "Add the greens and a small splash of water if they aren't wet. Cover. After a minute or two, reduce heat to medium low. Stir occasionally until they are very thoroughly tender and wilted."
+    - "Remove from, drain excess water, and toss with the remaining olive oil and the Bacon Salt."
+    - "To serve, simply put the farro in a bowl or on a plate, top with the greens, and lightly toss. Pass more good olive oil, sea salt, bacon salt, and black pepper at the table."
 ---
 
 <p><a rel="lightbox" href="/images/2008/01/05/collardsandfarrowithbaconsalt.jpg"><img width="455" height="302" border="0" src="/images/2008-small/01/05/collardsandfarrowithbaconsalt.jpg" title="Collardsandfarrowithbaconsalt" alt="Collardsandfarrowithbaconsalt" /></a><br /><span style="font-size: 0.8em;">Farro with Collard Greens and Bacon Salt</span></p>  <p>Yep, you heard me right. <a href="https://www.amazon.com/dp/B000SYOEJ6?tag=herb-hugo-20">Bacon Salt</a>. It has been all over the blogosphere lately, but I had no idea it was vegetarian until <a href="http://savvysavorer.blogspot.com/">Keren</a> brought some to give away to our last food blogger get together. I shouldn't have been surprised, as processed bacon bits are a soy product too. I generally don't cook with artificial flavors, but I took it as a challenge to use it at least once, and I have to admit I liked the results. </p>  <p>Greens are often cooked with pork in both the American south and in Italy as well. I had some beautiful pearled farro that I brought home from our Italy trip, so a plan came together for a simple and hearty one-pot meal. </p>  <p>If you haven't used farro before, I really recommend you try some. It is a very ancient whole grain, one of the staples of the Roman poor. I find the flavor somewhere between wheat and barley. It is a very nice change of pace from rice and couscous.</p>  <p>This recipe is vegetarian but not vegan because the bacon salt contains milk products of some sort.</p>  <div class="recipe-card">

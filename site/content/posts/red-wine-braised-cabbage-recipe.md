@@ -5,6 +5,21 @@ slug: "red-wine-braised-cabbage-recipe"
 description: ""
 categories: ["Recipes", "Side Dishes"]
 aliases: ["/red-wine-braised-cabbage-recipe/", "/2012/02/red-wine-braised-cabbage-recipe.html"]
+recipe:
+  name: "Red-Wine Braised Cabbage"
+  ingredients:
+    - "2 tablespoons extra-virgin olive oil (butter is good too if you don’t need vegan)"
+    - "1 white onion, thinly sliced"
+    - "1 large leek, white and light green parts only, cut into thin half-moons and thoroughly rinsed"
+    - "1 smallish red cabbage, cored and thinly sliced"
+    - "1 ½ cups dry red wine"
+    - "1 teaspoon caraway seeds"
+    - "several grinds fresh ground black pepper"
+    - "1 1/2 teaspoons Kosher salt"
+  instructions:
+    - "Put the oil in a 4 quart or larger Dutch oven (or other pot with a lid) over medium-high heat. Add the onion and leek and cook for 3 minutes, stirring occasionally."
+    - "Add the cabbage, wine, caraway seeds, black pepper, and salt and mix well. Bring to a simmer, lower the heat to medium-low, cover, and cook for 20 minutes or so until the cabbage is becoming fairly tender."
+    - "Remove the lid and continue cooking until the cabbage is quite tender and the liquid is reduced to just about 1/8” on the bottom of the pot. Taste and adjust seasoning, adding a little more salt if needed. Serve immediately."
 ---
 
 

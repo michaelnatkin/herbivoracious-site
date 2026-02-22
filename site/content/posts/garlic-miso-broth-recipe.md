@@ -8,6 +8,23 @@ aliases: ["/garlic-miso-broth-recipe/", "/2011/02/garlic-miso-broth-recipe.html"
 cover:
   image: "/images/cookbook/garlic-miso-broth.jpg"
   hidden: true
+recipe:
+  name: "Garlic Miso Broth"
+  time: "15 minutes"
+  diet: "Vegan"
+  ingredients:
+    - "1 head garlic (about 10 cloves), peeled and thinly sliced"
+    - "1 tablespoon red miso"
+    - "1 teaspoon tamari or shoyu (high quality soy sauce)"
+    - "1 teaspoon Chinese toasted sesame oil"
+    - "Kosher salt"
+    - "1 tablespoon thinly sliced green onion"
+    - "optional: 16 deep-fried tofu puffs (room temperature)"
+  instructions:
+    - "Bring 4 cups of water to a simmer. Add the garlic and simmer for ten minutes."
+    - "Whisk the miso, tamari and sesame oil with a few tablespoons of water until it forms a pourable paste. Turn off the heat on the garlic broth and whisk the miso paste into it."
+    - "Strain the soup to remove the garlic and any undissolved bits of miso. Return to the pot and reheat but do not boil. Taste and add more salt or soy sauce if needed."
+    - "Ladle into serving bowls, add the tofu puffs if using, sprinkle on a few green onion slices and serve immediately."
 ---
 <a href="/images/cookbook/garlic-miso-broth.jpg"><img src="/images/cookbook/garlic-miso-broth.jpg" alt="Garlic Miso Broth" /></a>
 

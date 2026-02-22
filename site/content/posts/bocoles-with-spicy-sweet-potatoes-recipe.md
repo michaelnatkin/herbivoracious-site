@@ -8,6 +8,40 @@ aliases: ["/bocoles-with-spicy-sweet-potatoes-recipe/", "/2011/10/bocoles-with-s
 cover:
   image: "/images/cookbook/bocoles-with-spicy-sweet-potatoes.jpg"
   hidden: true
+recipe:
+  name: "Bocoles with Spicy Sweet Potatoes"
+  yield: "6"
+  time: "40 minutes"
+  diet: "Vegan, Gluten-Free"
+  ingredients:
+    - "For the sweet potato filling:"
+    - "2 tablespoons oil"
+    - "1 white onion, diced"
+    - "4 cloves garlic, minced"
+    - "2 medium sweet potatoes, peeled and finely diced"
+    - "2 or more jalapeno peppers, minced"
+    - "1 teaspoon cumin powder"
+    - "2 teaspoons powdered chile New Mexico"
+    - "3/4 teaspoon Kosher salt"
+    - "juice of 1 lime"
+    - "For the bocoles:"
+    - "2 ½ cups masa harina"
+    - "1 ½ cups + 2 tablespoons warm water"
+    - "Kosher salt"
+    - "2 cups refried black beans (Ducal brand is good or make your own)"
+    - "2 teaspoons baking powder"
+    - "vegetable oil for pan frying"
+    - "For serving:"
+    - "shredded romaine lettuce"
+    - "Mexican crema or sour cream"
+    - "optional: pomegranate seeds"
+    - "Jicama, Radish and Orange Salad, guacamole, or salsa of your choice, or a squeeze of lime juice"
+  instructions:
+    - "Put the oil in a large skillet over medium heat. Saute the onion and garlic for 1 minute. Add the sweet potatoes, jalapeno, cumin, chili powder, and 3/4 teaspoon of salt. Cook, stirring occasionally until the sweet potatoes are fully tender. Mix in the lime juice. Taste and adjust seasoning; they will likely need more salt. Feel free to make the filling spicier if that suits you."
+    - "Mix the masa harina with the warm water and ¼ teaspoon salt. Beat with a wooden spoon until smooth. If the dough is very stiff and crumbly, beat in a few tablespoons of warm water."
+    - "Add the refried beans and baking powder; use your hands to mix thoroughly. Taste and add more salt if needed. (The dough can be refrigerated overnight at this point if you like)."
+    - "Heat 1/8\" of oil in a large skillet over a medium-high flame. Make golf-ball sized balls of the dough and pat them between your hands into a pancake about 1/4\" thick. Fry for about 3 minutes on each side until brown on the outside and cooked but still soft on the inside."
+    - "Serve immediately, on a bed of shredded lettuce, topped with a generous amount of the sweet potato filling, and garnished with the crema and optional pomegranate seeds. Pass the salad, salsa, or guacamole on the side."
 ---
 <a href="/images/cookbook/bocoles-with-spicy-sweet-potatoes.jpg"><img src="/images/cookbook/bocoles-with-spicy-sweet-potatoes.jpg" alt="Bocoles with Spicy Sweet Potatoes" /></a>
 

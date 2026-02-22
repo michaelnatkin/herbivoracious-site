@@ -8,6 +8,34 @@ aliases: ["/shiitake-tacos-with-asian-pear-slaw-recipe/", "/2012/01/shiitake-tac
 cover:
   image: "/images/cookbook/shiitake-tacos-with-asian-pear-slaw.jpg"
   hidden: true
+recipe:
+  name: "Shiitake Tacos with Asian Pear Slaw"
+  yield: "8 tacos"
+  time: "30 minutes"
+  diet: "Vegan, Gluten-Free"
+  ingredients:
+    - "For the tacos:"
+    - "4 jalapeno peppers"
+    - "6 cloves garlic (not peeled)"
+    - "3 tablespoons vegetable oil"
+    - "1 white onion, diced"
+    - "1 pound fresh shiitake mushrooms, stems removed, quartered"
+    - "two-thirds of a head of full-sized bok choy, carefully washed and sliced into 1” segments"
+    - "1 teaspoon Kosher salt"
+    - "pinch cinnamon"
+    - "½ teaspoon cumin powder"
+    - "16 soft corn tortillas"
+    - "For the slaw:"
+    - "juice of 1 lime"
+    - "1 asian pear, peeled"
+    - "¼ red onion, thinly sliced"
+    - "handful cilantro leaves"
+    - "¼ teaspoon Kosher salt"
+  instructions:
+    - "Place a large skillet (preferably cast iron) over medium high heat. Without adding any oil, dry-roast the jalapenos and unpeeled garlic cloves for five minutes. Set aside to cool, then remove the stems from the jalapenos. Remove the seeds and ribs if you want a milder dish, then cut into thin slices. Remove the skin from the garlic cloves and roughly chop."
+    - "Return the same skillet to high heat. Add the oil, and when it is shimmering, add the white onion. Fry for about 5 minutes until moderately browned. Add the shiitakes and saute for 3 minutes. Add the roasted jalapenos, roasted garlic, bok choy, salt, cinnamon, and cumin. Cook, stirring occasionally, until the leaves of the bok choy have wilted and the stems are mostly tender but still have a bit of a bite. Taste and adjust seasoning."
+    - "Put the lime juice in a small bowl. Using a mandoline or a knife, julienne the Asian pear, tossing frequently with the lime juice so that it doesn’t brown. Add the red onion, cilantro and kosher salt."
+    - "Wrap the corn tortillas in a lightly moistened towel and microwave until soft and steaming, about 2 minutes. To serve, make 8 stacks of two tortillas each. Top each pair of tortillas with a big spoonful of the shiitakes, and a smaller spoonful of the slaw, and serve immediately."
 ---
 <a href="/images/cookbook/shiitake-tacos-with-asian-pear-slaw.jpg"><img src="/images/cookbook/shiitake-tacos-with-asian-pear-slaw.jpg" alt="Shiitake Tacos with Asian Pear Slaw" /></a>
 

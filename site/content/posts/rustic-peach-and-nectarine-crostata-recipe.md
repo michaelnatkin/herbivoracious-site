@@ -7,6 +7,29 @@ aliases: ["/rustic-peach-and-nectarine-crostata-recipe/", "/2009/08/rustic-peach
 cover:
   image: "/images/old/6a00e008d618bb88340115716086c0970c-500wi.jpg"
   hidden: true
+recipe:
+  name: "Rustic Peach and Nectarine Crostata"
+  yield: "4-6 For the dough:"
+  diet: "Vegan, Vegetarian, Gluten-Free"
+  ingredients:
+    - "2 cup all-purpose flour"
+    - "1/2 teaspoon salt"
+    - "12 tablespoons very cold butter cut into small cubes; if frozen you can do it carefully into slivers with a bread knife"
+    - "1/4 - 1/2 cup ice water"
+    - "4-5 large ripe peaches and/or nectarines, cut into about 10-12 slices each (peel if so inclined)"
+    - "3 tablespoons melted butter"
+    - "2 tablespoons brown sugar"
+    - "2 tablespoons white sugar (sanding sugar if you have it)"
+  instructions:
+    - "In a bowl, combine the flour, salt, and butter. Using a pastry blender (my preference), or your hands, work the butter into the flour until it mostly looks like coarse oatmeal. Limit this to at most 2 minutes. It is fine if there are still some larger chunks of butter."
+    - "Add 1/4 cup of the ice water. Work this in with a fork for 60 seconds, then try to press a piece together with your hands. If you can form a ball, you are good. If not, add more ice cold water, a couple teaspoons at a time until you can make a big shaggy ball. You really want to err on the side of minimal water, and keep the total time for this step again to under two minutes. It is fine if there is a little bit of unincorporated flour left at the bottom. (The reason the water varies is it depends on the moisture content of both your flour and your butter.)"
+    - "Dust a work surface with flour and flatten the dough into a disk, about 7\" in diameter. Wrap it in plastic wrap, or better yet, put it in a gallon freezer bag. Press any little cracks in the edge together - this will make it easier to roll out. Refrigerate for at least one hour and up to two days."
+    - "Preheat oven to 400. Line a rimmed baking sheet with a silpat or parchment paper."
+    - "Remove the dough from the refrigerator and let warm up a bit until slightly pliable. This could be anywhere from 5 to 20 minutes depending on how well chilled it is. While still wrapped, give it several cathartic thwacks with your rolling pin to get a head start on rolling out. Now put it on your floured board, flour your rolling pin, and working from the center out and rotating after each push, form a circle about 13 inches or so in diameter. Roll up onto your pin and back out on the baking sheet. Refrigerate for 15 minutes."
+    - "Arrange the fruit in rings (or randomly) on the dough, leaving about a 1.5 inch rim around the outside. Roll the rim up around the fruit. You can do it totally rustically like you see in the picture above, or if you like, you can do a neater crimp."
+    - "Brush the rim with melted butter and drizzle the rest on the fruit. Sprinkle the brown sugar on the fruit, and the white or sanding sugar on the pastry."
+    - "Bake for about 40-50 minutes, until the crust is nicely golden brown."
+    - "Slice and serve. Probably with vanilla ice cream."
 ---
 
 <a style="display: inline;" href="/images/old/6a00e008d618bb88340115716086c0970c-800wi.jpg" rel="lightbox"><img class="at-xid-6a00e008d618bb88340115716086c0970c " src="/images/old/6a00e008d618bb88340115716086c0970c-500wi.jpg" alt="Peach and Nectarine Crostata" /></a>

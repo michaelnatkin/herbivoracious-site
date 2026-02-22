@@ -8,6 +8,30 @@ aliases: ["/crisp-polenta-with-braised-cabbage-and-beans-recipe/", "/2010/06/cri
 cover:
   image: "/images/old/6a00e008d618bb88340134828a761a970c-500wi.jpg"
   hidden: true
+recipe:
+  name: "Crisp Polenta Cakes with Braised Cabbage"
+  yield: "4"
+  diet: "Vegetarian"
+  ingredients:
+    - "1/2 cup olive oil, divided"
+    - "1 white onion, thinly sliced"
+    - "1 very small head cabbage, cored and thinly sliced (about 6 cups sliced cabbage)"
+    - "1/4 cup apple cider vinegar"
+    - "1 teaspoon sugar, divided"
+    - "3 cups leftover cooked polenta with cheese, chilled overnight"
+    - "6 ounces flavorful ale (preferably not too bitter)"
+    - "1 teaspoon caraway seeds, toasted, cooled, and ground"
+    - "1 teaspoon or more Dijon mustard (whole grain welcome)"
+    - "2 tablespoons butter, cut into 4 cubes"
+    - "1 cup cooked white beans, broad beans or gigandes beans, heated (for bonus points, saute them with some butter and garlic)"
+    - "Kosher salt"
+    - "Finishing salt (optional)"
+    - "Fennel fronds (or other herbs) for garnish"
+  instructions:
+    - "Heat 1/4 cup of olive oil over a high flame in a large skillet (not cast iron) with a lid. Fry the onion for 30 seconds. Add the cabbage, and fry, stirring occasionally for 5 minutes, to develop some browning. Reduce heat to very low, add a cup of water and 1/2 teaspoon of salt, and cover. Cook for about 40 minutes, opening occasionally to stir and check tenderness. About halfway through the cooking time, add the cider vinegar and sugar."
+    - "About 15 minutes before you are ready to serve, heat another large skillet over a medium-high to high flame. Form the polenta into 8 patties, about 5\" in diameter and 1/3\" thick. Add 1/4 cup of oil to the pan, coating it well. Press the patties flat into the pan so they get maximum surface area onto the heat. Fry until quite well browned on one side, flip and fry the other side. Remove to paper towels and season with finishing salt or Kosher salt."
+    - "While the cakes are cooking, remove the lid from cabbage and cook off any excess liquid. Transfer a nice mound of the cabbage to each of 4 heated plates or bowls. Without cleaning the skillet, add the beer, mustard and caraway and a big pinch of salt. Bring to a good simmer. Whisk in the butter, 1 cube at a time, emulsifying. Cook the sauce down until it will lightly coat a spoon. Taste and adjust the seasoning. You may want more mustard."
+    - "To serve, drizzle the sauce over the cabbage, allowing it to coat the plate as well. Spoon a few of the heated beans into the cabbage and sauce. Top the cabbage with two piping hot, crispy polenta cakes, and garnish with fennel fronds or other herbs."
 ---
 
 <a style="display: inline;" href="/images/old/6a00e008d618bb88340134828a761a970c-800wi.jpg" rel="lightbox"><img class="asset asset-image at-xid-6a00e008d618bb88340134828a761a970c " src="/images/old/6a00e008d618bb88340134828a761a970c-500wi.jpg" alt="Crispy_Polenta_Cabbage_Beans" /></a>

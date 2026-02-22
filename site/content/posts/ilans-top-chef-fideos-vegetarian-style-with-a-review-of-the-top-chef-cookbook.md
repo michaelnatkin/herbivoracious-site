@@ -7,6 +7,31 @@ aliases: ["/ilans-top-chef-fideos-vegetarian-style-with-a-review-of-the-top-chef
 cover:
   image: "/images/old/6a00e008d618bb8834010536901f5b970c-500wi.jpg"
   hidden: true
+recipe:
+  name: "Ilan Hall's Top Chef Fideos, Adapted to be Vegetarian"
+  yield: "4 as an entreeVegetarian; not vegan or gluten-free"
+  diet: "Vegan, Gluten-Free"
+  ingredients:
+    - "1 pound fideos or cappelini pasta"
+    - "2 cups heavy cream"
+    - "1 teaspoon saffron threads, crumbled"
+    - "salt"
+    - "2.5 cups cauliflower florets (original recipe uses 1 cup)"
+    - "2.5 cups broccoli florets (original recipe uses 1 cup)"
+    - "1/3 cup extra-virgin olive oil"
+    - "10 cloves garlic, peeled and left whole"
+    - "1/2 cup white wine"
+    - "fresh ground black pepper"
+    - "flat leaf parsley, chopped, for garnish"
+  instructions:
+    - "Preheat oven to 375 F."
+    - "Break the noodles into 3-inch pieces. Arrange in an even layer on rimmed baking sheet. Place in the oven and bake until golden brown, 8 to 10 minutes. Remove from the oven and set aside to cool. (ed note: I tossed them a couple times during the baking to keep the browning even. Get 'em nice and dark)"
+    - "In a large saucepan, combine the cream, saffron, and salt to taste, and place over medium heat. Bring just to a boil, whisking and watching the pot so the cream doesn't boil over. Remove from the heat, stir in the vegetables, and set aside."
+    - "Preheat the broiler."
+    - "In a large saucepan, heat the oil and garlic over low heat, stirring, until the garlic begins to soften and turn golden, about 15 minutes. Break the garlic up with the back of a wooden spoon, then add the wine and fideos. Season with salt and pepper to taste and stir to combine."
+    - "Increase the heat to medium-high and cover the pan. Cook for about 4 minutes. (ed note: check the noodles now. If they are still crunchy, add more wine or water, cover the pan, and keep checking every minute until they are al dente). Stir in the vegetable and cream mixture and remove from heat."
+    - "Divide the mixture among 4 ovenproof dishes (ed note: or one large casserole) and broil until golden brown, 2-4 minutes."
+    - "Garnish with the chopped parsley and serve immediately."
 ---
 
 <p><a href="/images/old/6a00e008d618bb8834010536901f5b970c-800wi.jpg" rel="lightbox" style="display: inline;"><img alt="Top_Chef_Fideos" class="at-xid-6a00e008d618bb8834010536901f5b970c " src="/images/old/6a00e008d618bb8834010536901f5b970c-500wi.jpg"  /></a><br /><span style="font-size: 12px; font-family: Arial;">Ilan Hall&#39;s Top Chef Fideos</span></p><p>I&#39;m an avid fan of <a href="https://www.amazon.com/dp/0811864308?tag=herb-hugo-20">Top Chef</a>. Our family has a standing date to watch it on TiVO every week. Of the cooking reality shows (Next Food Network Star, Hell&#39;s Kitchen and so on), it is the only one that features people who can <strong>really cook</strong>, and spends most of the time showing off their skills, not so much on the yelling, biting and scratching. </p><p>Season 2 of Top Chef was won by <strong>Ilan Hall</strong>, who was a line cook at New York&#39;s Casa Mono, a first rate Spanish restaurant. He was (in)famous for making mostly dishes from the restaurant and not taking a lot of chances. It is hard to fault him for a winning approach though, and all of his food looked incredible. In week 11, he made a dish of <em>fideos</em> with clams, cauliflower, and broccoli that looked amazing.&#0160; Everyone on the show, including <strong>Tom Colicchio</strong>, <strong>Padma Lakshmi</strong>, and <strong>Eric Ripert</strong>, freaked out about how good they were. The clams never seemed like a critical component of the recipe, so I felt pretty sure that a vegetarian version would work.</p><p>What are fideos? Simply thin noodles, broken into short lengths and toasted to a deep brown in the oven before cooking directly in a sauce. It might sound kind of strange to those of used to the Italian or Asian pasta traditions, but this is completely delicious. The toasting adds a whole layer of flavor, which in this dish is bolstered with <strong>cream</strong>, <strong>white wine</strong>, and <strong>loads of garlic</strong>.</p><p>I got the original recipe from <a href="https://www.amazon.com/dp/0811864308?tag=herb-hugo-20">Top Chef: The Cookbook</a>, which my mom-in-law gave me. It would make a great holiday gift for anyone who is a fan of the show or should be. It is a very solid cookbook with incredible recipes, plus excellent features on the contestants, hosts, and judges, &quot;making-of&quot; info about each season and general funny stuff. Great graphic design too. I couldn&#39;t put it down; highly recommended.</p><p>Here is the recipe for Ilan&#39;s Fideos, adapted to be clamless. I added a lot more of the vegetables, which are really succulent and tasty. I did run into a slight problem with the recipe - when I finished the last step, the noodles were still kinda crunchy. I knew that wasn&#39;t right, so I added more wine and let them cook a couple extra minutes until they were al dente. The dish is rich, so though it is listed as an entree for 4, it might work even better as a side dish for 6-8.</p><div class="recipe-card">

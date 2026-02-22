@@ -7,6 +7,33 @@ aliases: ["/italian-plum-upside-down-cake-recipe/", "/2013/09/italian-plum-upsid
 cover:
   image: "/images/2013/11/Italian-Plum-Upside-Down-Cake-626x415.jpg"
   hidden: true
+recipe:
+  name: "Italian Plum Upside Down Cake"
+  yield: "12 as a breakfast pastry"
+  diet: "Vegetarian"
+  ingredients:
+    - "12 Italian plums, halved and pitted"
+    - "5 tablespoons butter plus additional for greasing pan"
+    - "3/4 cup muscovado or other dark brown sugar"
+    - "2 eggs"
+    - "1 cup sour cream"
+    - "1 cup sugar"
+    - "1/3 cup extra virgin olive oil"
+    - "2 teaspoons vanilla extract"
+    - "1 tablespoon slivovitz or bourbon"
+    - "2 cups all-purpose flour"
+    - "1 1/2 teaspoons baking powder"
+    - "1/2 teaspoon baking soda"
+    - "1/2 teaspoon kosher salt"
+  instructions:
+    - "Preheat oven to 400 F. Arrange plums, cut side up, on baking sheet. Roast until some juices have run off and the plums are quite tender but retaining their shape, about 30 minutes. Remove from oven and set aside to cool."
+    - "Reduce oven temperature to 350 F. Butter an 8\" cake pan. If you have a springform pan, use it, and wrap the outside with aluminum foil to prevent leaks."
+    - "In a small saucepan or skillet, melt the butter over medium heat. Add the muscovado sugar and cook for about 3 minutes. Set aside."
+    - "In a medium bowl, whisk together the eggs, sour cream, sugar, olive oil, vanilla extract, and slivovitz or bourbon."
+    - "In another medium bowl, whisk together the flour, baking powder, baking soda, and salt."
+    - "Stir the wet ingredients into the dry. Try to get them well mixed, but don't overwork, as it will cause your cake to be tough."
+    - "Pour the butter and brown sugar mixture into the prepared cake pan and spread around as evenly as possible. Arrange the plums, cut side down, into concentric circles around the bottom of the pan. You can use more than I show in the picture. Distribute the batter over the plums. It is a fairly thick batter, so you'll need to gently spread it around with a spatula without disturbing the arrangement of the plums."
+    - "Place the cake pan on a baking sheet and bake until golden brown and a toothpick inserted in the center comes out clean, about 35 - 40 minutes. Transfer to a cooling rack. After about 30 minutes, you can transfer the cake to a serving platter. With a regular cake pan, work a knife around the sides, then place the platter over the top of the cake pan and quickly and confidently invert it and give the bottom a rap to unmold. If you are using a springform pan, you can just unmold it, then invert and remove the bottom to reveal the plums."
 ---
 
 <a href="/images/2013/11/Italian-Plum-Upside-Down-Cake.jpg"><img class="alignnone size-large wp-image-3875" alt="Italian Plum Upside-Down Cake" src="/images/2013/11/Italian-Plum-Upside-Down-Cake-626x415.jpg" width="626" height="415" />

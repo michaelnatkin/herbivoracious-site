@@ -8,6 +8,29 @@ aliases: ["/enfrijoladas-de-espinaca-tortillas-with-spinach-in-black-bean-sauce-
 cover:
   image: "/images/old/6a00e008d618bb88340133f490f75a970b-500wi.jpg"
   hidden: true
+recipe:
+  name: "Enfrijoladas de Espinaca - Tortillas with Spinach in Black Bean Sauce"
+  yield: "415 minutes"
+  time: "415 minutes"
+  diet: "Vegan, Gluten-Free"
+  ingredients:
+    - "1 pound frozen spinach"
+    - "2 tablespoons vegetable oil"
+    - "1 small white onion, finely diced"
+    - "2 cloves garlic, minced"
+    - "1/2 teaspoon cumin powder"
+    - "1/2 teaspoon oregano (Mexican oregano if possible)"
+    - "1 teaspoon Kosher salt"
+    - "1 quart Pacific Natural Foods Spicy Black Bean Soup"
+    - "12 corn tortillas (double check ingredients for gluten-free)"
+    - "1/2 cup crumbled cotija cheese (or grated Monterey Jack) (omit or replace for vegan)"
+    - "1 avocado, sliced"
+    - "a few cilantro leaves"
+  instructions:
+    - "Defrost the frozen spinach and squeeze some of the water out of it. Heat the oil in a skillet over a medium high flame. Saute the onion and garlic for 2 minutes. Add the spinach, cumin, oregano, and salt. Cook, stirring occasionally for 3 minutes. Taste and adjust seasoning."
+    - "Heat the soup in a small saucepan."
+    - "Carefully dip a tortilla in the soup (using tongs so you don't burn yourself!). Hold it there for about 5-10 seconds, until it has softened but isn't falling apart. Remove to a bowl, fill with about 3 tablespoons of the spinach, and loosely roll up. Repeat for all of the tortillas, putting 3 in each bowl."
+    - "Top each bowl with 1/4 of the remaining sauce, a sprinkling of the cotija cheese, a few slices of avocado, and some roughly torn cilantro and serve immediately."
 ---
 
 <p><a style="display: inline;" rel="lightbox" href="/images/old/6a00e008d618bb88340133f490f75a970b-800wi.jpg"><img class="asset  asset-image at-xid-6a00e008d618bb88340133f490f75a970b" title="Enfrijoladas de Espinaca - Tortillas with Spinach in Black Bean Sauce" src="/images/old/6a00e008d618bb88340133f490f75a970b-500wi.jpg" alt="Enfrijoladas de Espinaca - Tortillas with Spinach in Black Bean Sauce" /></a><br /><em>Enfrijoladas de Espinaca - Tortillas with Spinach in Black Bean Sauce</em></p> <p>This is my entry for the second <a href="http://everydaychefchallenge.com/recipe-gallery/?round=all" target="_blank">Everyday Chef Challenge</a>. Pacific Natural Foods invited me and four other bloggers to participate, and this time we were to use one of their creamy soups, and spinach.</p> <p><strong>After you check out this post, please <a href="http://everydaychefchallenge.com/recipe-gallery/?round=all" target="_blank">jump over to their site and vote</a>!  It takes just a few seconds; you don't have to register or anything,  and you can vote every 24 hours if you like. I'm in the middle of the top row. I would dearly love to win the two-day bootcamp at the Culinary Institute of America, so your vote means a lot to me!</strong></p> <p>Enfrijoladas are a simple, homey Mexican dish that you rarely see in the Unites States. Corn tortillas are dipped in a smooth bean sauce spiked with a few chiles. In the simplest form, they are simply served up with more of the sauce and some cheese or crema.</p> <p>For a slightly more elaborate version, enfrijoladas can be filled. A quick mixture of seasoned spinach and onions works great. Think of them like spinach enchiladas with beans instead of tomatos or tomatillos as the backbone of the sauce.</p> <p>Pacific Natural's Spicy Black Bean Soup is already the perfect consistency and flavor to use for enfrijoladas. This makes the whole thing so simple you can throw it together in fifteen minutes.</p> <p>I hope you like the dish, and please <a href="http://everydaychefchallenge.com/recipe-gallery/?round=all" target="_blank">go vote at the Everyday Chef Challenge</a>!</p> <p><em>Full disclosure: Pacific Natural Foods is an advertiser on my  site,  and provided products for me and the other bloggers participating  in this  contest.</em></p> <div class="recipe-card">

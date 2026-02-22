@@ -8,6 +8,31 @@ aliases: ["/sephardic-style-breaded-cauliflower-in-lemony-tomato-sauce-recipe/",
 cover:
   image: "/images/old/6a00e008d618bb8834014e5f1c7bf9970c-500wi.jpg"
   hidden: true
+recipe:
+  name: "Sephardic-Style Breaded Cauliflower in Lemony Tomato Sauce"
+  yield: "4 as a side dish"
+  time: "30 minutes"
+  ingredients:
+    - "2 tablespoons extra-virgin olive oil"
+    - "1/2 white onion, finely diced"
+    - "2 cloves garlic, minced"
+    - "1 teaspoon Kosher salt"
+    - "1 twenty-eight ounce can crushed tomatoes or tomato sauce (depending on the texture you want in the final dish, see above)"
+    - "juice and zest of 1/2 to 1 lemon"
+    - "pinch of sugar"
+    - "1 medium-sized cauliflower broken into large-bite sized florets (discard or save stem for another use)"
+    - "1 cup all-purpose flour, divided"
+    - "1 teaspoon Kosher salt"
+    - "fresh ground black pepper"
+    - "2 eggs"
+    - "1 cup vegetable oil for shallow frying"
+    - "minced flat-leaf parsley"
+  instructions:
+    - "To make the tomato sauce: in a large frying pan (big enough to hold the cauliflower later), heat the olive oil over a medium flame. Saute the onion, garlic and salt for about 3 minutes, until the onion is translucent. Add the tomato, lemon juice and zest and a pinch of sugar. Bring to a simer, taste and adjust salt and lemon levels, and turn off heat."
+    - "To make the cauliflower: Put the cauliflower florets in a large bowl and cover with plastic wrap. Pierce wrap with a few holes. Microwave on high for about 4 minutes, until just slightly tenderized. Alternatively, boil in salted water for 1 minute, then drain well."
+    - "Let the cauliflower cool to just warm. Add 1/2 cup of the flour, 1 teaspoon of Kosher salt, and a few grinds of pepper to the cauliflower and toss well to coat. Use your hands! Beat the eggs with 2 tablespoons of water, add them to the cauliflower, and again toss to coat. Add the remaining flour and toss again. The cauliflower should be well coated in most nooks and crannies with a thick paste of flour and egg, and there should be very little flour left on the bottom of the bowl."
+    - "Put 1 cup of oil in a large skillet over medium-high heat. When the oil is sizzling hot (test with a scrap of cauliflower), add 1/3 of the cauliflower in a single, well separated layer. Fry, turning occasionally, until golden brown all over, then remove to paper towels. Adjust the heat as needed so that they brown reasonably expeditiously but don't burn. Repeat with two more batches of cauliflower."
+    - "To finish the dish, bring the tomato sauce back to a simmer. Add the cauliflower and simmer for ten minutes. We'd like the breading to soften but not completely melt and float away! Add a little water if the sauce seems too thick. Serve immediately, garnished with the parsley."
 ---
 
 <p><a href="/images/old/6a00e008d618bb8834014e5f1c7bf9970c-800wi.jpg" rel="lightbox" style="display: inline;"><img alt="Sephardic Eggplant" class="asset  asset-image at-xid-6a00e008d618bb8834014e5f1c7bf9970c" src="/images/old/6a00e008d618bb8834014e5f1c7bf9970c-500wi.jpg" title="Sephardic Eggplant" /></a><br /><em>Sephardic-Style Breaded Cauliflower in Lemony Tomato Sauce</em></p> <p>As <a href="/2008/04/review-nonis-ki/" target="_blank">I&#39;ve</a> <a href="/2009/01/boyikos-aka-boyos-de-queso-sephardic-style-cheese-biscuits-the-greatest-snack-with-a-martini-ever-re/" target="_blank">mentioned</a> <a href="/2010/11/bunuelos-bimuelos-donuts-hanukkah-sephardic/" target="_self">before</a>, I&#39;m lucky enough to have married into a family of excellent cooks from the Sephardic Jewish tradition. This is another terrific dish I learned from <strong>Noni Sophie</strong>, my wife&#39;s grandmother.&#0160;</p> <p><strong>It might sound crazy</strong> to bread something, fry it until it is crispy, and then &quot;ruin&quot; that crispiness by soaking it in tomato sauce. I think if you had told me about this and I&#39;d never had it before, I&#39;d have thought it was a bad idea. But it totally works. The result is savory and toothsome and altogether satisfying.</p> <p>Of course you can also skip the tomato sauce and serve just the crispy breaded cauliflower with a sprinkle of sea salt, that is delicious too.</p> <p>I found a way to do the breading that is a little less trouble than the usual two- or three- pan dip method. For this dish, it works just fine to first toss the cauliflower with flour, then the egg wash, then more flour, all in the same bowl. The key is to use just the right amount of flour so it sticks without leaving a lot of excess. The bonus is <strong>much less mess to cleanup</strong> when you are done.</p> <p>Noni serves this with a thin tomato sauce, a lot thinner than what you see in the picture above. It is great that way, but I wanted to serve it over polenta (and with arugula pesto) so I made a thicker sauce this time.</p> <p>Take your pick, either way is good. I didn&#39;t think that it worked very well with polenta and pesto though; not enough textural variation. I think this cauliflower is best served as a side dish. It is also delicious eaten at midnight, direct from the tupperware in the refrigerator.&#0160;</p> <div class="recipe-card">

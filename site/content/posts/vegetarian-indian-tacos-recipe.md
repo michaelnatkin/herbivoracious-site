@@ -8,6 +8,36 @@ aliases: ["/vegetarian-indian-tacos-recipe/", "/2010/09/vegetarian-indian-tacos-
 cover:
   image: "/images/old/6a00e008d618bb88340133f3c66477970b-500wi.jpg"
   hidden: true
+recipe:
+  name: "Indian Tacos (with Navajo fry bread)"
+  yield: "4 Time varies depending on whether you are using pre-cooked beans and pre-made salsa For the fry bread:"
+  diet: "Vegetarian"
+  ingredients:
+    - "3 cups flour"
+    - "1 teaspoon salt"
+    - "1 tablespoon baking powder"
+    - "1 cup milk (and maybe a little more)"
+    - "oil for frying (3/4\" deep in a big skillet)"
+    - "2 tablespoons oil"
+    - "1/2 onion, fine dice"
+    - "3 cloves garlic, minced"
+    - "1 pound yellow summer squash, bite-sized cubes (about 3 medium)"
+    - "kernels from 2 ears of corn"
+    - "4 poblano peppers, roasted, peeled, seeded, and cut into strips (rajas) (use rubber gloves to avoid burning skin)"
+    - "2 teaspoons Mexican oregano"
+    - "salt"
+    - "3 cups tender cooked pinto beans (homemade or canned)"
+    - "1 cup grated cheddar"
+    - "1/2 cup minced white onion"
+    - "1 cup cherry tomatoes, halved"
+    - "2 cups shredded iceberg lettuce"
+    - "1 1/2 cups killer guacamole"
+    - "homemade hot sauce (but with morita and California dried peppers)"
+  instructions:
+    - "Whisk together the dry ingredients. Add the milk and mix with a fork until you have a shaggy mass, adding a little more milk if needed. You want a dough that is just barely not-sticky-enough to roll out. With floured hands, knead for just a few seconds to make a ball. Oil and set aside until you are ready to fry."
+    - "When ready to fry (just before serving, they are best fresh), bring a skillet filled with 3/4\" of oil to 365 degrees F. Divide the dough into 4 balls and roll each one out to about 9\" in diameter. Fry one at a time until medium golden brown (not as dark as the photograph), flipping to cook both sides. Be careful when flipping - they are big enough that if you just flop over with a spatula it can cause a dangerous splash. I used a spatula and a spoon to control them. Remove to paper towels to drain."
+    - "Heat the oil in a big skillet over a medium-high flame. Fry the the onion and garlic for 1 minute, then add the summer squash and 3/4 teaspoon of salt. Cook, tossing occasionally, until browned; add the corn and cook 2 minutes; add the poblanos and oregano and heat through. Taste and adjust seasoning."
+    - "Put a fry bread on each plate, and top with generous portions of beans, the squash saute cheese, onion, tomatoes, lettuce, guacamole and hot sauce. Serve immediately."
 ---
 
 <a style="display: inline;" href="/images/old/6a00e008d618bb88340133f3c66477970b-800wi.jpg" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb88340133f3c66477970b" title="Vegetarian Indian Tacos (on Navajo fry bread)" src="/images/old/6a00e008d618bb88340133f3c66477970b-500wi.jpg" alt="Navajo Tacos" /></a>

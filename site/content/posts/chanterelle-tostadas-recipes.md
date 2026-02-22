@@ -7,6 +7,28 @@ aliases: ["/chanterelle-tostadas-recipes/", "/2014/06/chanterelle-tostadas-recip
 cover:
   image: "/images/2013/09/Chanterelle-Tostadas-Top-624x415.jpg"
   hidden: true
+recipe:
+  name: "Chanterelle Tostadas"
+  yield: "4 small tostadas, which would be a light main course - double this if you aren't serving much else; multiply by 1.5 if using larger tostada shells Vegetarian, vegan, gluten free and kosher"
+  diet: "Vegan, Vegetarian, Gluten-Free"
+  ingredients:
+    - "Vegetable oil"
+    - "40 small or 20 larger chanterelle mushrooms, cleaned (and cut into bite size if needed)"
+    - "Kosher salt"
+    - "Cumin powder"
+    - "4 six-inch tostada shells (or make your own by pan-frying corn tortillas in a shallow layer of oil)"
+    - "1 cup refried beans, heated and thinned with water if needed to make smooth and spreadable"
+    - "2 ripe tomatoes (preferably green zebras for color, but any good tomato will do), cut into bite-sized chunks"
+    - "4 radishes, cut into sixths"
+    - "1 jalapeno pepper, thinly sliced"
+    - "1/3 cup diced sweet onion"
+    - "Fresh cilantro leaves"
+    - "Maldon salt or other finishing salt"
+  instructions:
+    - "Place a large, heavy skillet over medium-high heat. Add a tablespoon or so of vegetable oil, and when it is shimmering, add the mushrooms, a pinch of salt , and a pinch of cumin and cook, stirring occasionally, until the mushrooms are tender and aromatic, about 5 minutes."
+    - "Spread the tostada shells with the refried beans."
+    - "Arrange the sauteed mushrooms, tomatoes and radishes on top of the beans."
+    - "Garnish with the jalapeno, sweet onion, cilantro, and finishing salt. Serve hot."
 ---
 
 <a href="/images/2013/09/Chanterelle-Tostadas-Top.jpg"><img class="alignnone size-large wp-image-3885" src="/images/2013/09/Chanterelle-Tostadas-Top-624x415.jpg" alt="Chanterelle Tostadas" width="624" height="415" /></a>

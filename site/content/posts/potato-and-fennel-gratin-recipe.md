@@ -8,6 +8,30 @@ aliases: ["/potato-and-fennel-gratin-recipe/", "/2010/11/potato-and-fennel-grati
 cover:
   image: "/images/old/6a00e008d618bb88340134887f3852970c-500wi.jpg"
   hidden: true
+recipe:
+  name: "Potato and Fennel Gratin"
+  yield: "4-6"
+  ingredients:
+    - "1 head fennel, sliced 1/4\" thick"
+    - "2 1/2 pounds (7 medium) Yukon gold potatoes"
+    - "2 tablespoons butter"
+    - "1/2 onion, thinly sliced"
+    - "3 cloves garlic, thinly sliced, divided"
+    - "2 cups heavy cream"
+    - "1 teaspoon thyme"
+    - "1/4 teaspoon fresh ground nutmeg"
+    - "1/2 teaspoon Kosher salt"
+    - "zest of 1 lemon"
+    - "2 cups breadcrumbs made by grinding stale artisan bread in food processor"
+    - "2 tablespoons extra-virgin olive oil"
+    - "1/4 teaspoon flaky sea salt"
+  instructions:
+    - "Bring a medium pot of salted water (big enough for the potatoes) to a boil. Butter a 9x11\" casserole. preheat oven to 375 F."
+    - "Boil the fennel slices for 3 minutes, then remove from water and rinse to cool."
+    - "Boil the potatoes until tender, then remove, cool, and slice 1/4\" thick. Don't try to slice while boiling hot, they will fall apart."
+    - "Meanwhile, in a small saucepan over medium-high heat, melt the butter and saute the onion and 1 clove garlic for 2 minutes. Add the cream, bring to a simmer and lower the heat to maintain that simmer. Add the thyme, nutmeg, and Kosher salt. Simmer until thick enough to coat the back of a spoon rather well. It should be almost as thick as gravy, as it will not have time to thicken much more in the oven. Stir in the lemon zest and remove from heat."
+    - "In a medium skillet, heat the olive oil over a medium flame. Saute the remaining two cloves of garlic for 1 minute. Add the breadcrumbs, reduce heat to medium low, and toast until golden brown, stirring frequently."
+    - "Layer the casserole with potatoes, in overlapping rows. Top that with a scattering of half of the fennel and pour in half of the cream sauce. Top with another layer of potatoes, fennel, and sauce. Cover the top with breadcrumbs. Bake until bubbling hot, about 20 minutes, and serve immediately."
 ---
 
 <a style="display: inline;" href="/images/old/6a00e008d618bb88340134887f3852970c-800wi.jpg" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb88340134887f3852970c" title="Potato and Fennel Gratin" src="/images/old/6a00e008d618bb88340134887f3852970c-500wi.jpg" alt="Potato and Fennel Gratin" /></a>

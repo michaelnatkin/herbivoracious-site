@@ -7,6 +7,23 @@ aliases: ["/pupusas-de-queso-salvadoran-cheese-filled-tortillas-recipe/", "/2010
 cover:
   image: "/images/old/6a00e008d618bb88340120a9614a86970b-500wi.jpg"
   hidden: true
+recipe:
+  name: "Curtido (Cabbage slaw for Pupusas)"
+  diet: "Vegan, Vegetarian, Gluten-Free"
+  ingredients:
+    - "1/2 medium head green cabbage, cored and very thinly sliced or grated"
+    - "1 large carrot, peeled and grated"
+    - "1/2 onion, thinly sliced"
+    - "1/2 teaspoon cayenne pepper (or you could use a fresh jalapeno or two)"
+    - "1/2 teaspoon oregano (preferably Mexican oregano)"
+    - "1 teaspoon olive oil"
+    - "1 teaspoon salt"
+    - "1 teaspoon brown sugar"
+    - "1/4 cup white vinegar (apple cider or rice vinegar will do in a pinch)"
+  instructions:
+    - "In a large bowl, cover the cabbage and carrot with boiling water and allow to stand for a minute."
+    - "Drain well, then combine all other ingredients."
+    - "Taste and adjust the seasoning. Allow to stand for at least an hour. Toss again just before serving."
 ---
 
 <a style="display: inline;" href="/images/old/6a00e008d618bb88340120a9614a86970b-800wi.jpg" rel="lightbox"><img class="asset asset-image at-xid-6a00e008d618bb88340120a9614a86970b " src="/images/old/6a00e008d618bb88340120a9614a86970b-500wi.jpg" alt="Pupusas_De_Queso_Con_Curtido" /></a>

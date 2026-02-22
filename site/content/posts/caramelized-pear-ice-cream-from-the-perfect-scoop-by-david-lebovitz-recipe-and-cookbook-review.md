@@ -7,6 +7,23 @@ aliases: ["/caramelized-pear-ice-cream-from-the-perfect-scoop-by-david-lebovitz-
 cover:
   image: "/images/old/6a00e008d618bb8834010536a299d3970b-500wi.jpg"
   hidden: true
+recipe:
+  name: "Pear-Caramel Ice Cream"
+  yield: "about 1 quart Vegetarian and gluten-free; not vegan"
+  diet: "Vegan, Vegetarian, Gluten-Free"
+  ingredients:
+    - "3 medium-sized ripe pears, peeled and cored"
+    - "3/4 c. + 2 tablespoons sugar"
+    - "2 cups heavy cream"
+    - "1/8 teaspooon coarse salt"
+    - "a few drops of fresh lemon juice"
+  instructions:
+    - "Dice the pears into 1/4-inch pieces."
+    - "Spread the sugar in a large, heavy saucepan. Cook over medium heat, carefully watching and stirring occasionally with a heatproof spatula until melted."
+    - "When the sugar is a deep amber, stir in the pears. The caramel will seize, that's ok. Continue cooking and stirring occasionally (again with a heat-proof spatula - caramel will burn heck out of you) for ten minutes. The sugar will have dissolved."
+    - "Remove from the heat and stir in 1/2 cup of the cream, then mix in the rest of the cream, salt, and lemon juice."
+    - "Cool to room temp, puree until smooth, press through a strainer."
+    - "Chill according to your ice-cream maker manufacturer's instructions."
 ---
 
 <a style="display: inline;" href="/images/old/6a00e008d618bb8834010536a299d3970b-800wi.jpg" rel="lightbox"><img class="at-xid-6a00e008d618bb8834010536a299d3970b " src="/images/old/6a00e008d618bb8834010536a299d3970b-500wi.jpg" alt="Caramelized_Pear_Ice_Cream" /></a>

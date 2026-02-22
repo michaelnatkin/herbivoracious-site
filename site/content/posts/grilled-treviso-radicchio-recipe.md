@@ -8,6 +8,24 @@ aliases: ["/grilled-treviso-radicchio-recipe/", "/2011/03/grilled-treviso-radicc
 cover:
   image: "/images/cookbook/grilled-treviso-radicchio.jpg"
   hidden: true
+recipe:
+  name: "Grilled Treviso Radicchio"
+  yield: "4"
+  time: "5 minutes"
+  diet: "Gluten-Free"
+  ingredients:
+    - "1 head Treviso radicchio, regular radicchio, or romaine lettuce"
+    - "1 tablespoon extra-virgin olive oil"
+    - "aged balsamic vinegar"
+    - "about 12 thin slices of Parmesan cheese, cut with a vegetable peeler"
+    - "handful of toasted walnuts"
+    - "flaky sea salt"
+    - "fresh ground black pepper"
+  instructions:
+    - "Preheat a grill or a cast-iron grill pan on your stovetop to a moderate temperature."
+    - "Cut the head of radicchio in half, lengthwise and straight through the stem. Do not cut off the stem, you need it to hold the head together."
+    - "Brush the cut sides of the radicchio with olive oil. Place on the grill, cut side down and press down firmly to maximize contact area. Cook for about 2-3 minutes, until nicely seared and starting to wilt."
+    - "Remove from the grill and place on serving platter. Garnish with a generous drizzle of the aged balsamic, the cheese, walnuts, a sprinkle of sea salt and freshly ground pepper. Cut into bite sized pieces and serve immediately."
 ---
 <a href="/images/cookbook/grilled-treviso-radicchio.jpg"><img src="/images/cookbook/grilled-treviso-radicchio.jpg" alt="Grilled Treviso Radicchio" /></a>
 

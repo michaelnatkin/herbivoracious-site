@@ -5,6 +5,28 @@ slug: "red-curry-paste-recipe"
 description: "There is nothing wrong with making curries using pre-packaged pastes, but making curry paste from scratch is addictive; the volatile aroma and flavor is at a completely different level."
 categories: ["Recipes", "Sauces and Condiments", "Vegan or Modifiable", "Gluten-Free"]
 aliases: ["/red-curry-paste-recipe/", "/2012/08/red-curry-paste-recipe.html"]
+recipe:
+  name: "Red Curry Paste"
+  yield: "enough for 2 meals"
+  diet: "Vegan, Gluten-Free"
+  ingredients:
+    - "6 dried New Mexico chile pods, stems removed"
+    - "1 teaspoon coriander seeds"
+    - "1/2 teaspoon cumin powder"
+    - "several grinds black pepper"
+    - "1 teaspoon turmeric powder"
+    - "1/2 teaspoon Kosher salt"
+    - "2-inch piece of fresh ginger, peeled and roughly chopped"
+    - "1/4 cup roughly chopped red onion"
+    - "6 cloves garlic, peeled and roughly chopped"
+    - "zest and juice of 1 lime"
+    - "1 stalk lemongrass, tender white parts only, pounded and roughly chopped"
+    - "1 big handful of cilantro, leaves and stems (rinsed)"
+  instructions:
+    - "Wearing rubber gloves, tear the chile pods into small pieces. If you like your curries hot, keep the seeds and ribs. If not, throw them out."
+    - "Set up your blender and put the chile pieces in the jar. Pour ½ cup boiling water over them, cover, and let sit 20 minutes or so. In the meantime, you can gather the rest of your ingredients."
+    - "Toast the coriander seeds for 2 minutes in a dry skillet over medium heat."
+    - "Add the seeds and all of the remaining ingredients to the blender. Puree for several minutes, stopping occasionally to scrape down the sides and top. If needed, add a little more water to get the paste to come together."
 ---
 
 <p>There is nothing wrong with making curries using pre-packaged pastes, but making curry paste from scratch is addictive; the volatile aroma and flavor is at a completely different level.</p>

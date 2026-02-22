@@ -7,6 +7,29 @@ aliases: ["/zucchini-chickpea-tagine-recipe/", "/2012/08/zucchini-chickpea-tagin
 cover:
   image: "/images/2012/08/Zucchini-and-Chickpea-Tagine-626x415.jpg"
   hidden: true
+recipe:
+  name: "Zucchini and Chickpea Tagine"
+  yield: "4"
+  diet: "Vegan, Vegetarian, Gluten-Free"
+  ingredients:
+    - "6 ounces carrots, peeled and cut into 1/4\" thick half-moons"
+    - "1/4 cup extra-virgin olive oil"
+    - "1 1/4 pounds zucchini, diced"
+    - "3 cups cooked chickpeas (preferably home-cooked; can also use two 15 ounce cans, drained and rinsed - use ones that are tender, not snappy)"
+    - "1 teaspoon kosher salt"
+    - "1/4 teaspoon cinnamon"
+    - "1 teaspoon ground cumin"
+    - "1 teaspoon dried mint (yes, you can open up a mint teabag)"
+    - "1 teaspoon ras el hanout (optional, but delicious - if you omit, add more of the other spices)"
+    - "1/4 teaspoon Aleppo pepper (or more to taste; can substitute cayenne or chili flakes)"
+    - "1 tablespoon tomato paste"
+    - "1 tablespoon minced preserved lemon"
+    - "Juice of 1/2 lemon"
+    - "Optional garnish: flat-leaf parsley"
+  instructions:
+    - "Place the carrots in a small, loosely-covered microwave-safe bowl and microwave on high until beginning to soften, about 90 seconds."
+    - "Place the oil in your largest skillet or a Dutch oven over medium-high heat. Saute the zucchini until it is tender. Add the carrots and all of the remaining ingredients (chickpeas, salt, cinnamon, cumin, mint, ras el hanout, Aleppo pepper, tomato paste, preserved lemon, and lemon juice). Add 1/2 cup water and mix thoroughly. Bring to a simmer, reduce heat to low, cover, and cook for 10 minutes."
+    - "Taste and adjust seasoning. It will probably need more salt, and you may want to amp up the spices, depending on your taste. Serve hot, garnishing with parsley if you desire."
 ---
 
 <a href="/images/2012/08/Zucchini-and-Chickpea-Tagine.jpg"><img class="alignnone size-large wp-image-2563" title="Zucchini and Chickpea Tagine" src="/images/2012/08/Zucchini-and-Chickpea-Tagine-626x415.jpg" alt="Zucchini and Chickpea Tagine" width="626" height="415" /></a>

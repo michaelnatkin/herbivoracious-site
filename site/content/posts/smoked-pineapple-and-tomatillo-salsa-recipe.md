@@ -8,6 +8,25 @@ aliases: ["/smoked-pineapple-and-tomatillo-salsa-recipe/", "/2011/07/smoked-pine
 cover:
   image: "/images/old/6a00e008d618bb8834015432c00d13970c-500wi.jpg"
   hidden: true
+recipe:
+  name: "Smoked Pineapple and Tomatillo Salsa"
+  yield: "about 2 cups"
+  diet: "Vegan, Vegetarian, Gluten-Free"
+  ingredients:
+    - "1 cup hickory or mesquite wood chips"
+    - "1 3/4 cups fresh pineapple chunks"
+    - "4 small tomatillos, peeled and halved"
+    - "3 green onions, ends removed and cut in half lengthwise"
+    - "1 clove garlic, thinly sliced"
+    - "1 jalapeno, seeded and coarsely chopped"
+    - "1 handful cilantro"
+    - "1 teaspoon Kosher salt"
+    - "1 to 2 tablespoons agave nectar"
+    - "Chile de arbol or cayenne powder"
+  instructions:
+    - "Put the wood chips in a medium-sized saucepan that you don't mind discoloring. Place a folding steamer basket on top of the wood chips, and put the pineapple chunks on it. Put the lid on the pot, and place it on high heat. Cook for 5 minutes, then turn off the heat. See note on safer smoking above. Carefully taste a piece of pineapple and confirm that it has a good level of smoke. If not, cook for another couple of minutes."
+    - "Heat a small skillet over medium-high heat. Put the tomatillos and green onions in (with no oil) and cook, turning occasionally, until they start to darken in spots, about 5 minutes."
+    - "Put the smoked pineapple, tomatillos, green onions, garlic, jalapeno, cilantro, salt, agave nectar, and a pinch of chile de arbol in a mini-food processor. Process until it forms a coarse puree. Taste and adjust seasoning. Serve at room temperature for best flavor. This salsa will keep for at least 3 days in the refrigerator."
 ---
 
 <a style="display: inline;" href="/images/old/6a00e008d618bb8834015432c00d13970c-800wi.jpg" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb8834015432c00d13970c" title="Smoked Pineapple Salsa" src="/images/old/6a00e008d618bb8834015432c00d13970c-500wi.jpg" alt="Smoked Pineapple Salsa" /></a>

@@ -8,6 +8,30 @@ aliases: ["/white-bean-and-kale-soup-recipe/", "/2011/02/white-bean-and-kale-sou
 cover:
   image: "/images/cookbook/white-bean-and-kale-soup.jpg"
   hidden: true
+recipe:
+  name: "White Bean and Kale Soup"
+  yield: "10 cups, serves 6"
+  time: "20 minutes active (1 ½ hours total using pressure cooker)"
+  diet: "Vegan, Gluten-Free"
+  ingredients:
+    - "¼ cup extra-virgin olive oil plus more for garnish"
+    - "1 medium onion, finely diced"
+    - "1 whole head garlic, peeled and minced"
+    - "1 carrot, finely diced"
+    - "1 teaspoon salt"
+    - "2 bay leaves"
+    - "1 teaspoon minced fresh rosemary leaves"
+    - "1 parmesan rind or 3/4 ounce dried porcini mushrooms or 2 tablespoons vegetarian broth powder (ok to use more than one)"
+    - "2 cups dry white beans such as cannellini, rinsed and picked over"
+    - "1 bunch dinosaur (lacinato) kale, stems stripped, cut in to ribbons and thoroughly washed"
+    - "juice of 1 lemon"
+  instructions:
+    - "Pressure cooker method: In the pressure cooker base, but without pressure, heat the olive oil over a medium-high flame. Saute the onion, garlic, carrot and 1 teaspoon of salt until the onion is translucent, about 4 minutes."
+    - "Add the bay leaves, rosemary, and your choice(s) of the parmesan rind, dried porcini, or broth powder. Add the dry beans and 7 cups of water. Bring up to high pressure and cook for 40 minutes, then allow the pressure to release naturally. Open the lid."
+    - "Remove the bay leaves and parmesan rind (if using)."
+    - "Add the kale and lemon juice and simmer for 10 minutes, until the kale is thoroughly tender. Taste and adjust seasoning, then serve, garnished with a generous drizzle of extra-virgin olive oil."
+    - "Stove-top method: In a large pot, soak and cook the beans as usual, reserving 7 cups of the bean cooking liquid when finished. Saute the vegetables as above."
+    - "Add the bean broth, bay leaves, rosemary and your choice of the parmesan rind, dried porcini, or broth powder. Bring to a simmer and cook for 30 minutes. Add the beans and then do step 4 above."
 ---
 <a href="/images/cookbook/white-bean-and-kale-soup.jpg"><img src="/images/cookbook/white-bean-and-kale-soup.jpg" alt="White Bean and Kale Soup" /></a>
 

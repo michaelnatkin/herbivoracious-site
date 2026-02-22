@@ -1,0 +1,26 @@
+{{- if .Params.recipe -}}
+{{- $name := or .Params.recipe.name .Title -}}
+{{- $desc := or .Description (.Summary | plainify | truncate 200) -}}
+{{- $recipe := dict "@context" "https://schema.org" "@type" "Recipe" -}}
+{{- $recipe = merge $recipe (dict "name" $name) -}}
+{{- $recipe = merge $recipe (dict "description" $desc) -}}
+{{- $recipe = merge $recipe (dict "author" (dict "@type" "Person" "name" .Site.Params.author)) -}}
+{{- $recipe = merge $recipe (dict "datePublished" (.Date.Format "2006-01-02")) -}}
+{{- $recipe = merge $recipe (dict "url" .Permalink) -}}
+{{- with .Params.cover }}{{ with .image }}{{ $recipe = merge $recipe (dict "image" (. | absURL)) }}{{ end }}{{ end -}}
+{{- with .Params.recipe.yield }}{{ $recipe = merge $recipe (dict "recipeYield" .) }}{{ end -}}
+{{- with .Params.recipe.time }}{{ $recipe = merge $recipe (dict "totalTime" .) }}{{ end -}}
+{{- with .Params.recipe.diet }}{{ $recipe = merge $recipe (dict "suitableForDiet" .) }}{{ end -}}
+{{- with .Params.recipe.ingredients }}{{ $recipe = merge $recipe (dict "recipeIngredient" .) }}{{ end -}}
+{{- with .Params.recipe.instructions -}}
+  {{- $steps := slice -}}
+  {{- range . -}}
+    {{- $steps = $steps | append (dict "@type" "HowToStep" "text" .) -}}
+  {{- end -}}
+  {{- $recipe = merge $recipe (dict "recipeInstructions" $steps) -}}
+{{- end -}}
+{{- with .Params.categories }}{{ $recipe = merge $recipe (dict "recipeCategory" (index . 0)) }}{{ end -}}
+<script type="application/ld+json">
+{{ $recipe | jsonify | safeJS }}
+</script>
+{{- end -}}

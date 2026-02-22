@@ -7,6 +7,28 @@ aliases: ["/dutch-baby-with-sauteed-apples-giant-ovenbaked-pancakes-recipe/", "/
 cover:
   image: "/images/old/6a00e008d618bb88340115707ccfcb970b-500wi.jpg"
   hidden: true
+recipe:
+  name: "Giant Dutch Baby with Sauteed Apples"
+  yield: "3 to 5 (see above)"
+  diet: "Vegan, Vegetarian, Gluten-Free"
+  ingredients:
+    - "6 + 2 tablespoons unsalted butter"
+    - "5 eggs"
+    - "1 1/4 cups whole milk"
+    - "1 1/4 cups all-purpose flour"
+    - "pinch salt"
+    - "2 apples, peeled, cored, and sliced into 16 pieces each"
+    - "2 tablespoons brown sugar"
+    - "1/4 teaspoon cinnamon"
+    - "powdered sugar"
+    - "1 lemon, cut into wedges"
+  instructions:
+    - "Preheat your oven to 425 degrees."
+    - "Combine the eggs, milk, flour and salt in a blender at high speed for 1 minute."
+    - "Put the 6 tablespoons of butter into a well-seasoned 12\" cast-iron skillet or other large, oven-safe container. Put the skillet in the oven."
+    - "When the butter is sizzling, carefully pull the skillet out and swirl it or use a brush to be sure the whole thing is coated. Pour in the batter and return it to the oven. Cook about 18 minutes until puffed and golden brown."
+    - "Meanwhile, in a saute pan, melt the remaining 2 tablespoons of butter over medium-high heat. Add the apples and saute for 5 minutes. Add the brown sugar, cinnamon, and a pinch of salt, and saute until tender and glazed."
+    - "When the Dutch Baby is done, carefully remove it from the oven. Pad off any excess butter on top with a paper towel. Top with the apples and a generous sprinkle of powdered sugar. Since you have it in a really hot skillet, you might want to serve it directly on to plates rather than bring that to the table. Offer lemon wedges on the side, they add a nice counterpoint to the sweetness."
 ---
 
 <a style="display: inline;" href="/images/old/6a00e008d618bb88340115707ccfcb970b-800wi.jpg" rel="lightbox"><img class="at-xid-6a00e008d618bb88340115707ccfcb970b " src="/images/old/6a00e008d618bb88340115707ccfcb970b-500wi.jpg" alt="Dutch_Baby_With_Sauteed_Apples" /></a>

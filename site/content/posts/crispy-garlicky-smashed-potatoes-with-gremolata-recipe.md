@@ -8,6 +8,24 @@ aliases: ["/crispy-garlicky-smashed-potatoes-with-gremolata-recipe/", "/2011/02/
 cover:
   image: "/images/old/6a00e008d618bb88340147e2b4a5ca970b-500wi.jpg"
   hidden: true
+recipe:
+  name: "Crispy, Garlicky Smashed Potatoes with Gremolata"
+  yield: "6"
+  diet: "Vegan, Vegetarian, Gluten-Free"
+  ingredients:
+    - "5 pounds small (golf-ball sized) waxy potatoes, any color"
+    - "1/2 cup extra virgin olive oil"
+    - "1 head garlic, cloves peeled and finely minced - not crushed"
+    - "Kosher salt"
+    - "big handful flat-leaf parsley leaves"
+    - "zest of 1/2 lemon"
+    - "flaky sea salt"
+  instructions:
+    - "Preheat oven to 450. Place potatoes in a pot with enough cold water to cover them and 2 tablespoons of salt. Put the pot over maximum heat, bring to a boil and allow to boil for 5 minutes. Drain."
+    - "Put the potatoes on a sheet pan and bake in the oven until fork tender. Remove the sheet from the oven and smash each potato fairly agressively, so that it flattens out some and develops big cracks, but doesn't totally mash. The bottom of a coffee mug works well for this."
+    - "In a small frying pan, heat the olive oil over medium heat. Add the garlic and saute for 2 minutes."
+    - "Spoon the garlic and oil over the potatoes, distributing as evenly as possible. Sprinkle with Kosher salt. Return the tray to the oven, raise heat to 500, and cook until the skins are crispy in many spots. This will take at least 20 minutes."
+    - "Mince the parsley and lemon zest together to make the gremolata. Put the potatoes in a serving bowl, being sure to gather up all the crispy bits garlic. Sprinkle the gremolata over the top, add a generous amount of flaky sea salt and serve immediately."
 ---
 
 <a style="display: inline;" href="/images/old/6a00e008d618bb88340147e2b4a5ca970b-800wi.jpg" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb88340147e2b4a5ca970b" title="Crispy Roasted Potatoes with Garlic and Gremolata 2" src="/images/old/6a00e008d618bb88340147e2b4a5ca970b-500wi.jpg" alt="Crispy Roasted Potatoes with Garlic and Gremolata 2" /></a>

@@ -8,6 +8,24 @@ aliases: ["/lightly-cooked-cherry-tomato-and-ricotta-bruschetta-recipe/", "/2011
 cover:
   image: "/images/old/6a00e008d618bb8834014e8af4b190970d-500wi.jpg"
   hidden: true
+recipe:
+  name: "Lightly Cooked Cherry Tomato and Ricotta Bruschetta"
+  yield: "4 large pieces"
+  diet: "Vegetarian"
+  ingredients:
+    - "1/4 cup extra-virgin olive oil, divided"
+    - "1 or 2 cloves garlic, minced"
+    - "2 1/2 cups cherry tomatoes, halved"
+    - "Kosher salt"
+    - "4 thick slices pain au levain or other artisan bread"
+    - "3/4 cup fresh ricotta, room temperature"
+    - "Fresh basil, thinly sliced (chiffonade)"
+    - "Flaky sea salt"
+    - "Fresh ground black pepper"
+  instructions:
+    - "Place a medium skillet over medium heat. Add 2 tablespoons olive oil. When it is hot, add the garlic and saute until fragrant, about 30 seconds. Add the cherry tomatoes and 1/2 teaspoon of Kosher salt and cook until warmed through and just starting to break down a bit, stirring occasionally, about 2 minutes. Turn off heat, taste and adjust seasoning, and reserve."
+    - "Brush the bread with the remaining olive oil and grill or toast until well browned."
+    - "To finish the bruschetta, spread each slice of bread with 1/4 of the ricotta and 1/4 of the cherry tomato mixture, a drizzle of olive oil if you are so inclined, a bit of the basil, a few flakes of salt, and a few grinds of pepper. Cut each piece in half and serve immediately."
 ---
 
 <a style="display: inline;" href="/images/old/6a00e008d618bb8834014e8af4b190970d-800wi.jpg" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb8834014e8af4b190970d" title="Lightly Cooked Cherry Tomato Bruschetta" src="/images/old/6a00e008d618bb8834014e8af4b190970d-500wi.jpg" alt="Lightly Cooked Cherry Tomato Bruschetta" /></a>

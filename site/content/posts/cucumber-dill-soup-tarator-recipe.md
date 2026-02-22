@@ -8,6 +8,29 @@ aliases: ["/cucumber-dill-soup-tarator-recipe/", "/2012/08/cucumber-dill-soup-ta
 cover:
   image: "/images/cookbook/cucumber-dill-soup-tarator.jpg"
   hidden: true
+recipe:
+  name: "Cucumber & Dill Soup (Tarator)"
+  yield: "8 cups, serves 6-8"
+  time: "20 minutes active"
+  diet: "Gluten-Free"
+  ingredients:
+    - "3 medium cucumbers or 2 large English cucumbers"
+    - "2 tablespoons rice vinegar (or other mild-flavored vinegar)"
+    - "¼ cup extra-virgin olive oil"
+    - "1 tablespoon Kosher salt"
+    - "½ teaspoon black pepper"
+    - "1 clove garlic, minced (see above)"
+    - "¼ cup finely chopped chives or green onions"
+    - "½ cup loosely packed mint leaves, finely chopped"
+    - "1 bunch fresh dill, stems removed, finely chopped – reserve 1 tablespoon for garnish"
+    - "4 cups (1 quart) low fat yogurt"
+    - "2 cups (1 pint) low fat sour cream"
+  instructions:
+    - "Peel the cucumbers only if the peel is tough. Cut the cucumbers in half lengthwise and remove the seeds with a spoon. Very finely dice the cucumbers (about 1/8” cubes). The easiest way to do this is to cut it into long strips, then cut those in half lengthwise, then cut across. You may need to go back over the whole pile with your knife, as when mincing herbs. (Or, for a different style or if there isn’t time to chop the cucumbers by hand, peel them and puree in a food processor or blender). Put the cucumbers in a large bowl, which can be the bowl you ultimately serve in."
+    - "Add the vinegar, olive oil, salt, pepper, garlic, chives, mint and dill and stir well."
+    - "Stir in the yogurt and sour cream. Taste and adjust seasoning."
+    - "Refrigerate for at least 1 hour. Chill serving bowls as well. Check soup texture. If it is very thick, stir in a little cold water. If it is too thin you can add a little more sour cream. Taste and adjust seasoning again."
+    - "To serve, pour into serving bowls and garnish with the reserved dill."
 ---
 <a href="/images/cookbook/cucumber-dill-soup-tarator.jpg"><img src="/images/cookbook/cucumber-dill-soup-tarator.jpg" alt="Cucumber & Dill Soup (Tarator)" /></a>
 

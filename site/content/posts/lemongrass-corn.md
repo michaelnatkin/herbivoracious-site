@@ -7,6 +7,14 @@ aliases: ["/lemongrass-corn/", "/2007/08/lemongrass-corn.html"]
 cover:
   image: "/images/2007-small/07/31/dsc_7454.jpg"
   hidden: true
+recipe:
+  name: "Lemongrass Corn Saute With Grilled Tofu and Quinoa"
+  instructions:
+    - "Rinse quinoa in a fine-mesh strainer to remove natural bitter coating, then bring to a boil in a covered saucepan with 3.5 c. water. Reduce to a simmer and cook about 15 minutes, until tender and the water is absorbed."
+    - "Prepare all of the other ingredients first, because cooking will go fast and you won't have time for chopping."
+    - "Brush the tofu with a little oil and grill on a grill pan or skillet, about 1 minute to each side until nicely browned, season with salt and pepper, reserve."
+    - "Heat a wok or a large skillet to very hot, then add the remaining canola oil and all of the aromatics (onions, lemongrass, garlic, ginger, lime leaves and chili peppers if using). Add the squash and lime zest, saute for 1 minute, add the bell pepper, saute for 30 seconds, add the corn, saute until tender, about 2-3 minutes. Add lime juice and salt to taste, and turn off the heat. Adjust seasoning and lime juice as needed! Remove the lime leaves."
+    - "To serve, put a scoop of quinoa in each bowl, arrange 3 slabs of tofu on the side, top the quinoa with the vegetables, then garnish with a handful of cherry tomatoes, some green onions, a grind of fresh black pepper, and a few flakes of sea salt. Offer hot sauce at the table."
 ---
 
 <p><a href="/images/2007/07/31/dsc_7454.jpg" rel="lightbox"><img width="455" height="303" border="0" alt="Dsc_7454" title="Dsc_7454" src="/images/2007-small/07/31/dsc_7454.jpg" /></a></p>  <p>This is one of those 30-minute meal-in-a-bowl dishes that is both light and satisfying, and you can easily customize the main ingredients or the flavors to suit your mood or your vegetable drawer. For this version I made it with Thai flavors (lemongrass, ginger, garlic, lime zest, juice &amp; leaves), but not typical Thai vegetables (corn, cherry tomatoes, summer squash), and served it over quinoa. That kind of fusion can be kind of risky, you could end up with scary vegetarian mish-mosh, but we won't let that happen now, will we?</p>  <div class="recipe-card">

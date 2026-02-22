@@ -7,6 +7,28 @@ aliases: ["/stringozzi-or-linguini-con-funghi-simple-pasta-with-mushrooms-recipe
 cover:
   image: "/images/old/6a00e008d618bb88340120a80925c0970b-500wi.jpg"
   hidden: true
+recipe:
+  name: "Stringozzi (or linguini) con funghi (Simple pasta with mushrooms)"
+  yield: "6 if made with stringozzi, 4 otherwise"
+  diet: "Vegan, Vegetarian"
+  ingredients:
+    - "3 tablespoons butter, divided"
+    - "1/2 white onion, finely diced"
+    - "4 cloves garlic"
+    - "1 1/2 pounds white or brown button mushrooms, sliced scant 1/4\" thick"
+    - "1/2 cup white wine or vermouth"
+    - "1/2 kilo (about 1 pound) stringozzi or other long but not wide strand pasta, preferably thick"
+    - "salt"
+    - "pepper"
+    - "parmigiano reggiano, grated or cut with a vegetable peeler"
+    - "flat-leaf (Italian) parsley leaves, minced or left whole to your taste"
+  instructions:
+    - "Bring a very large pot of well-salted water to a full, rolling boil. Put your serving bowl or bowls somewhere to warm up."
+    - "In a very large skillet (not-non stick), melt two tablespoons of the butter over a medium-high flame. Saute the onion and garlic with a pinch of salt for two minutes."
+    - "Add the sliced mushrooms and about 1/4 teaspoon of salt. Cooking, turning occasionally, until they release their moisture and then start to brown. Deglaze the pan with the white wine. Taste a mushroom and adjust seasoning."
+    - "When the mushrooms are nearly done, boil the pasta according to the package directions being sure to leave it al dente. Reserve 2 cups of the cooking water and drain the pasta."
+    - "Add the remaining tablespoon of butter to the mushrooms and stir. Add the pasta to the mushrooms and mix thoroughly, being sure to scrape the browned bits from the bottom of the pan in. Add the pasta water, a little at a time until the pasta is quite lightly sauced, but there is a little sheen. You probably won't need all of the pasta water."
+    - "Serve the pasta family style in a big bowl, or plate individually. Be sure and get all those delicious mushrooms onto the pasta. Finish with parmigiano-reggiano, fresh ground black pepper, and lots of flat-leaf parsley."
 ---
 
 <a style="display: inline;" href="/images/old/6a00e008d618bb88340120a80925c0970b-800wi.jpg" rel="lightbox"><img class="asset asset-image at-xid-6a00e008d618bb88340120a80925c0970b " src="/images/old/6a00e008d618bb88340120a80925c0970b-500wi.jpg" alt="Stringozzi_Con_Funghi" /></a>

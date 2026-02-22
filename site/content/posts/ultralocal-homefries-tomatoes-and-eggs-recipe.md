@@ -7,6 +7,21 @@ aliases: ["/ultralocal-homefries-tomatoes-and-eggs-recipe/", "/2009/08/ultraloca
 cover:
   image: "/images/old/6a00e008d618bb88340120a5284e23970b-500wi.jpg"
   hidden: true
+recipe:
+  name: "Homefries"
+  yield: "2 as a major part of a mealVegetarian, vegan, and gluten-free (obviously not vegan if you serve it with the eggs above though)"
+  diet: "Vegan, Gluten-Free"
+  ingredients:
+    - "1/4 cup vegetable oil"
+    - "1/2 white onion, 3/8\" dice"
+    - "1 fresh chili de arbol or other hot pepper, seeded and thinly sliced (optional)"
+    - "1.5 pounds potatoes, any kind, skin-on, 3/8\" dice"
+    - "kosher salt"
+  instructions:
+    - "Heat your biggest skillet, preferably cast-iron, over a medium-high flame. You want a really big pan to maximize surface area. Add the oil and onion, and the chili if using, and saute for 30 seconds."
+    - "Add the potato and two big pinches of salt, and stir to coat with the oil. Distribute into a single layer, or as close as possible. Every 3 minutes or so, flip them with a spatula, trying as much as possible to get uncooked surfaces onto the skillet, and of course maintaining the single layer."
+    - "Fry until deep golden brown; taste and add salt as needed."
+    - "Serve while still hot and crispy. Awesome topped with a fried egg and slices of garden tomatoes."
 ---
 
 <p><a href="/images/old/6a00e008d618bb88340120a5284e23970b-800wi.jpg" rel="lightbox" style="display: inline;"><img alt="Homefries_Tomatoes_Eggs" class="at-xid-6a00e008d618bb88340120a5284e23970b " src="/images/old/6a00e008d618bb88340120a5284e23970b-500wi.jpg" /></a></p><p>Everything but the salt and olive oil was local on this one. Purple Viking potatoes and Purple Cherokee tomatoes from our backyard, <a href="https://www.amazon.com/dp/B07TYNF3ND?tag=herb-hugo-20">chili de arbol</a> from <a href="http://www.fullcirclefarm.com/partners.phtml">Alvarez farm</a>, onions from the farmer&#39;s market, and crowned with eggs from my friend Dan&#39;s backyard chickens. </p><p>This was so good I made it for dinner two nights in a row. I think everyone loves breakfast for dinner because it almost feels like you are getting away with something.</p><p>Home-made homefries (is that redundant?) are infinitely better than you find in most restaurants, because you can get them really crispy and serve them while they are still crispy. In restaurants, homefries are usually cut too large and cooked in a big pile on a flat-top griddle, where they mostly steam. Bah.</p><p>Here&#39;s how I make homefries; I&#39;ll leave it to you to slice the the tomatoes and fry eggs. Sunny-side up, of course. The yolk mixed with the potatoes and the tomato juices is just ridiculous. Hit the whole thing with some <a href="https://www.amazon.com/dp/B00017028M?tag=herb-hugo-20">flaky sea salt</a> and fresh ground pepper before serving.</p><div class="recipe-card">

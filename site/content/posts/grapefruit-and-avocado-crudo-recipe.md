@@ -8,6 +8,21 @@ aliases: ["/grapefruit-and-avocado-crudo-recipe/", "/2011/04/grapefruit-and-avoc
 cover:
   image: "/images/cookbook/grapefruit-and-avocado-crudo.jpg"
   hidden: true
+recipe:
+  name: "Grapefruit and Avocado Crudo"
+  ingredients:
+    - "2 red grapefruit, sliced as described above"
+    - "1 ripe avocado, thinly sliced"
+    - "about 12 chervil sprigs"
+    - "1 tablespoon capers, briefly soaked to remove some salt, drained"
+    - "2 tablespoons fruity extra virgin olive oil"
+    - "sea salt (preferably Maldon)"
+    - "fresh ground white or black pepper"
+  instructions:
+    - "Arrange grapefruit pieces pleasingly on a large platter."
+    - "Top each slice with 1 piece of avocado, 1 chervil sprig and a few capers."
+    - "Drizzle olive oil on plate and fruit."
+    - "Add a few grains of sea salt and a grind of black pepper to each slice."
 ---
 <a href="/images/cookbook/grapefruit-and-avocado-crudo.jpg"><img src="/images/cookbook/grapefruit-and-avocado-crudo.jpg" alt="Grapefruit and Avocado Crudo" /></a>
 

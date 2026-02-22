@@ -8,6 +8,35 @@ aliases: ["/portabello-summer-squash-lasagna-recipe/", "/2011/09/portabello-summ
 cover:
   image: "/images/cookbook/portabello-summer-squash-lasagna.jpg"
   hidden: true
+recipe:
+  name: "Portabello-Summer Squash Lasagna"
+  yield: "8"
+  time: "30 minutes active (90 minutes total)"
+  ingredients:
+    - "4 medium crookneck or other summer squash, or zucchini, sliced lengthwise, 1/8\" thick"
+    - "4 large portabello mushroom caps, sliced 1/8\" thick on the bias"
+    - "extra-virgin olive oil for sautéing"
+    - "1 15-ounce container fresh ricotta (Calabro is an excellent brand)"
+    - "1/2 teaspoon nutmeg (fresh ground, if available)"
+    - "Kosher salt"
+    - "2 eggs"
+    - "1 onion, diced"
+    - "2 cloves garlic, minced"
+    - "2 28-ounce cans plain tomato sauce"
+    - "zest of 1 lemon"
+    - "1 pound no-boil lasagna noodles (or regular lasagna noodles, par-boiled)"
+    - "¾ pound grated mozzarella"
+    - "3 ounces fresj grated parmesan cheese"
+    - "salt and pepper to taste"
+  instructions:
+    - "In a large skillet over high heat, fry the squash and portabello mushrooms in olive oil. Fry in a single layer, using as many batches as needed. Flip and cook both sides until well browned. Remove to paper towels and season with salt."
+    - "Season the ricotta with the nutmeg, ½ teaspoon of salt, and several grinds of black pepper, then beat in the eggs."
+    - "Sauté the onion & garlic in three tablespoons of olive oil; add the tomato sauce and lemon zest, and 1 teaspoon of Kosher salt. Simmer 5 minutes. Taste and adjust seasoning."
+    - "Oil a 9”x13” baking dish that is at least 2\" deep. Build up layers of noodles, sauce, squash and mushrooms, ricotta mixture, and mozzarella. Be sure to get the noodles quite wet if they are the no-boil type, they need plenty of moisture. You'll have about 4 layers total. Use sauce on every layer, but alternate the ricotta and mozzarella. You’ll probably have a bit of extra sauce."
+    - "Finish with a heavy layer of mozzarella and the parmesan, mixed together."
+    - "Bake at 375 F., covering with tin foil for the first 30 minutes. It is done when internal temperature is 170 F (about 30 minutes more), or when you can easily pierce the noodles with a fork, and the sauce is bubbling around the sides. Don't overcook and let the noodles get soggy."
+    - "If the cheese isn't crispy and brown enough, finish judiciously with the broiler."
+    - "Allow to rest at least 15 minutes before serving so it has time to set up a bit."
 ---
 <a href="/images/cookbook/portabello-summer-squash-lasagna.jpg"><img src="/images/cookbook/portabello-summer-squash-lasagna.jpg" alt="Portabello-Summer Squash Lasagna" /></a>
 

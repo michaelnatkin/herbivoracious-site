@@ -8,6 +8,37 @@ aliases: ["/basil-gnudi-with-summer-squash-recipe/", "/2011/08/basil-gnudi-with-
 cover:
   image: "/images/cookbook/basil-gnudi-with-summer-squash.jpg"
   hidden: true
+recipe:
+  name: "Basil Gnudi with Summer Squash"
+  yield: "4"
+  time: "1 hour (gnudi can be formed ahead of time)"
+  ingredients:
+    - "For the sauce:"
+    - "2 tablespoons butter"
+    - "2 cloves garlic, minced"
+    - "½ cup minced white onion"
+    - "½ teaspoon Kosher salt"
+    - "1 ½ cups sliced summer squash (about ¼” thick)"
+    - "1 ½ cups yellow cherry tomatoes, cut in half"
+    - "1/2 cup white wine or dry vermouth"
+    - "For the gnudi and garnish:"
+    - "1 pound ricotta cheese"
+    - "¼ cup fresh grated Parmesan cheese"
+    - "6 tablespoons all-purpose flour plus more for dredging"
+    - "¾ cup packed basil leaves, finely chopped (reserve a few small leaves for garnish)"
+    - "1 whole egg plus 2 egg yolks"
+    - "To serve:"
+    - "8 squash or zucchini blossoms, separated into single petals (optional)"
+    - "½ cup of the same wine used for the sauce"
+    - "2 tablespoons cold unsalted butter cut into 6 pieces"
+    - "salt"
+    - "black pepper"
+  instructions:
+    - "For the sauce: In a large sauté pan, melt 3 tablespoons of butter over a medium flame. Sauté the garlic and onion for 2 minutes along with ½ teaspoon salt. Add the squash and sauté for 3 minutes. Add the cherry tomatoes and sauté for 1 minute. Add ½ of the wine, and reduce the heat to low. Simmer for 5 minutes. Taste and adjust salt. Turn off heat and reserve."
+    - "Bring a large pot of salted water to a boil. In a medium sized bowl, use a wooden spoon to beat together the ricotta, Parmesan cheese, 6 tablespoons of flour, and the basil leaves. Season with salt to taste and then beat in the eggs."
+    - "To form the gnudi, fill a small bowl with flour for dredging, and have ready a baking sheet sprinkled heavily with flour. Flour your hands as well. Grab about 1 heaping tablespoon of dough, quickly roll it into a ball (it will be quite sticky), and then roll it around in the flour and transfer to the baking sheet. Repeat with all of the dough. Sprinkle the tops of the gnudi with more flour. At this point, you can either complete the dish, or wrap and refrigerate them for a few hours."
+    - "To cook the gnudi, gently add half of the batch to the water and simmer for about 5 minutes, until they rise to the top and stay there for about 1 minute. (You may have to give them a very gentle nudge off the bottom). Remove with a slotted spoon to a plate while you cook the second batch. Test one to make sure it is done to your liking after it has sat for a moment."
+    - "To serve: have ready 4 warm pasta bowls. Warm the sauce back up over low heat. Add the gnudi and the zucchini blossoms to the sauce and raise heat slightly. Cook for about 1 minute. Divide the gnudi and vegetables and some of the sauce between the bowls. Add the additional half cup of wine to the pan, raise heat to medium and scrape the bottom of the pan. Whisk in the butter, cook for just a minute or so until slightly thickened and spoon over the four bowls. Garnish with the small basil leaves, a few grains of salt, and a grind of black pepper and serve immediately."
 ---
 <a href="/images/cookbook/basil-gnudi-with-summer-squash.jpg"><img src="/images/cookbook/basil-gnudi-with-summer-squash.jpg" alt="Basil Gnudi with Summer Squash" /></a>
 

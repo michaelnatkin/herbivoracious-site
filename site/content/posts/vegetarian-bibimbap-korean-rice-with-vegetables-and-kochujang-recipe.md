@@ -7,6 +7,36 @@ aliases: ["/vegetarian-bibimbap-korean-rice-with-vegetables-and-kochujang-recipe
 cover:
   image: "/images/2012/12/Bibimbap-626x415.jpg"
   hidden: true
+recipe:
+  name: "Vegetarian Bibimbap (Korean Mixed Rice)"
+  yield: "4 Kosher"
+  diet: "Vegetarian"
+  ingredients:
+    - "1 tablespoon rice wine vinegar"
+    - "1 teaspoon grated fresh ginger"
+    - "Kosher salt"
+    - "1 teaspoon sugar"
+    - "1 pickling cucumber, thinly sliced"
+    - "Vegetable oil, for pan frying"
+    - "1 bunch bunshimeji or similar mushrooms, roots trimmed"
+    - "1 zucchini, 1/2\" dice"
+    - "2 tablespoons sweet soy sauce (kecap manis), or regular soy sauce"
+    - "2 big handfuls mung bean sprouts"
+    - "1 tablespoon toasted Asian sesame oil"
+    - "1 pound tofu, prepared for making as per How To Make Tofu Really Freaking Delicious"
+    - "4 poached, soft boiled, or fried eggs"
+    - "Plenty of cooked white Asian rice (like Kokuho rose or other similar short grained varieties), held hot"
+    - "1 bunch scallions, thinly sliced"
+    - "1 handful pea vines or other shoots, washed and dried"
+    - "Kochujang, for serving"
+  instructions:
+    - "Warm your serving bowls."
+    - "In a medium bowl, stir together the rice vinegar, 2 tablespoons of water, the ginger, 1/2 teaspoon salt and the sugar. Add the sliced cucumber and toss. Reserve."
+    - "Heat a large skillet over high heat. Add a couple tablespoons of vegetable oil and stir fry the mushrooms with a big pinch of salt until fragrant and tender, about 2 minutes. Remove and reserve, leaving the pan going."
+    - "Add a little more oil if needed, the zucchini, and a couple pinches of salt. Stir fry until beginning to soften, about two minutes. Add the sweet soy sauce and cook, stirring, until glazed, about 1 more minute. Remove and reserve, leaving the pan going."
+    - "Add the mung bean sprouts, sesame oil, and a pinch of salt and stir fry until just wilting, about 1 minute. Remove and reserve, leaving the pan going."
+    - "Cook the tofu as described in How To Make Tofu Really Freaking Delicious, then slice the slabs into batons."
+    - "To serve, put a mound of steaming hot rice in a warm bowl. Arrange servings of the mushrooms, zucchini, bean sprouts, pea shoots, fried tofu and pickled cucumbers around the perimeter of the rice. Put an egg in the middle, and garnish with the scallions. Serve immediately, piping hot, with plenty of kochujang for diners to mix in as they please."
 ---
 
 <a href="/images/2012/12/Bibimbap.jpg"><img class="alignnone size-large wp-image-3504" title="Bibimbap" src="/images/2012/12/Bibimbap-626x415.jpg" alt="Vegetarian Bibimbap" width="626" height="415" /></a>

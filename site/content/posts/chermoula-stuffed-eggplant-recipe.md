@@ -8,6 +8,22 @@ aliases: ["/chermoula-stuffed-eggplant-recipe/", "/2012/09/chermoula-stuffed-egg
 cover:
   image: "/images/cookbook/chermoula-stuffed-eggplant.jpg"
   hidden: true
+recipe:
+  name: "Chermoula Stuffed Eggplant"
+  yield: "4"
+  time: "20 minutes active"
+  diet: "Gluten-Free"
+  ingredients:
+    - "extra virgin olive oil"
+    - "2 medium globe eggplant, about 14 ounces each"
+    - "1 batch of chermoula, divided"
+    - "Kosher salt"
+    - "½ cup feta cheese, crumbled"
+  instructions:
+    - "Preheat the oven to 450 F. Grease a baking sheet generously with olive oil."
+    - "Trim the ends off of the eggplants. Using a knife, trim off about 1/8” off of two opposing sides, to remove some of the skin and create a stable surface. Cut the eggplants in half lengthwise. For each of the four halves, use your knife to cut them almost in half again lengthwise, leaving them attached for the last ½” at the base end."
+    - "Open up each eggplant half and rub the inside with a generous tablespoon of the chermoula. Close the halves back up and put them on the baking sheet, wide side up. Brush the tops with olive oil and season with a generous sprinkle of salt."
+    - "Warm your serving plates or bowls. Bake the eggplant until completely tender and just starting to brown, about 30 minutes. Remove from the oven and drizzle on the remaining chermoula. Sprinkle on the crumbled feta and serve immediately."
 ---
 <a href="/images/cookbook/chermoula-stuffed-eggplant.jpg"><img src="/images/cookbook/chermoula-stuffed-eggplant.jpg" alt="Chermoula Stuffed Eggplant" /></a>
 

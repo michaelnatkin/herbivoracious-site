@@ -7,6 +7,30 @@ aliases: ["/recipe-sabich/", "/2008/04/recipe-sabich-.html", "/2008/04/recipe-sa
 cover:
   image: "/images/2008-small/04/25/sabich.jpg"
   hidden: true
+recipe:
+  name: "Sabich - Iraqi Jewish Eggplant Sandwich"
+  yield: "as a saladMakes 4 sandwiches"
+  diet: "Vegan, Gluten-Free"
+  ingredients:
+    - "4 pieces good pita bread"
+    - "4 hard boiled eggs (see note above), peeled and sliced"
+    - "1-2 large eggplants, peeled and sliced 1/4\" or so thick"
+    - "vegetable oil for frying"
+    - "2 roma tomatoes, finely diced"
+    - "1/2 English cucumber, finely diced"
+    - "juice of 1 lemon"
+    - "hummus (bought or make your own)"
+    - "prepared tahina (bought or make your own)"
+    - "1/2 flat leaf parsley"
+    - "1/2 small white onion minced"
+    - "1/2 c. pickle, cut into small slices or cubes"
+    - "amba - mango pickle, or failing that, hot sauce of your choice - harissa maybe?"
+  instructions:
+    - "Make a simple salad of the tomatoes, cucumber, and lemon juice, with salt to taste."
+    - "Fry the eggplant in batches until thoroughly tender and browned; drain on paper towels and sprinkle with salt."
+    - "While the eggplant is frying, put each of the other ingredients in bowls so everyone can build a sandwich to their own specifications."
+    - "Toast or grill the pita bread."
+    - "Serve it forth, preferably with cold beer, make yourself a gigantic sandwich, and chill."
 ---
 
 <p><a rel="lightbox" href="/images/2008/04/25/sabich.jpg"><img width="455" height="302" border="0" src="/images/2008-small/04/25/sabich.jpg" title="Sabich - Iraqi Jewish Eggplant Sandwich" alt="Sabich - Iraqi Jewish Eggplant Sandwich" /></a><br /><span style="font-size: 0.8em;">Sabich - Iraqi Jewish Eggplant Sandwich</span></p>  <p>So I'm at that Men Cook event I've been telling you about, and my friend <a href="http://averbuch.net/">Aaron</a> starts telling me about this amazing sandwich he'd had in Israel. He had me at fried eggplant and hardboiled egg, and I missed the rest because I was too busy drooling and scheming when I was going to make it. I'd <a href="/2007/10/hummus-peace-su/">been in Israel</a> this past fall, and was heartbroken that while I'd <a href="/2007/09/falafel-in-the-/">eaten untold falafel</a>, I'd had nary a sabich.</p>  <p>I did a little web research on sabich, but was waylaid by the fact that I'd need to buy or make a pickled mango condiment named amba. A few days later, Sarina and I were in a Middle Eastern grocery in Bellevue, and there was an enormous jar of it! So I snapped that up. It is the bright orange stuff you see in the back of the picture. And actually the jarred stuff wasn't that great, kind of harsh for my taste. Maybe a small amount, but <a href="http://www.recipezaar.com/280255">this recipe sounds better</a>.</p>  <p>And then, not more than a few days later again, I'm skimming <a asin="B00005NINY" type="amzn">Food and Wine</a> as usual, and here it is again. Some chef in Philly has been traveling in Israel, training up on dishes for his new place and sabich is high on his list. Something is clearly alive in the global food consciousness, and I want in!</p>  <p>From what little I've been able to glean, sabich is a popular sabbath food for Iraqi Jews, and when they emigrated to Israel and set up a community in Ramat Gan, the sandwich came with them. It has since gained widespread popularity, and of course in typical Israeli fashion spawned N variations and N * 2 arguments about which one is better.</p>  <p>Above you can see my first try, which I'm not too modest to say tasted damn good. There is something about the creaminess of the egg and the fried goodness of the eggplant that work really well together, and then the garnishes of Israeli salad (tomatoes and cucumbers with a bit of lemon juice) hummus, onions, pickles, parsley and amba give your mouth the full workout of sweet, spicy, sour, herbacious, smooth and crispy.</p>  <p>A quick note on hardboiled eggs. Mine have gotten drastically better since I read <a href="http://www.howtohardboilanegg.com/">How To Hard Boil an Egg</a>. The basic summary is: eggs in enough cold water to cover, covered pot, bring to a boil, remove from heat, sprinkle in a little salt, leave covered for 20 minutes, drain, ice bath, peel, enjoy. Read the site for more tips, but that has been working great for me. They say 30 minutes but I find 20 is perfect. Nice and soft and absolutely no green around the yolk (see the picture above).</p>  <p>Here's the sabich recipe:</p>  <div class="recipe-card">

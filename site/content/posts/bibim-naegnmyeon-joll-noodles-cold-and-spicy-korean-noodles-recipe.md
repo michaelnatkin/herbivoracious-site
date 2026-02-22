@@ -7,6 +7,19 @@ aliases: ["/bibim-naegnmyeon-joll-noodles-cold-and-spicy-korean-noodles-recipe/"
 cover:
   image: "/images/2012/05/Joll-Noodles-612x415.jpg"
   hidden: true
+recipe:
+  name: "Jjolmyon or Bibim Naengmyeon"
+  yield: "4 For the sauce"
+  diet: "Vegan, Vegetarian, Gluten-Free"
+  ingredients:
+    - "1/4 cup kochujang (Korean chili / soybean paste)"
+    - "1/2 cup mirin"
+    - "4 teaspoons rice vinegar"
+    - "1 teaspoon salt"
+    - "1 inch piece grated fresh ginger"
+    - "Up to 1/2 cup ice cold water"
+  instructions:
+    - "In a small bowl, whisk together half of the kochujang and all of the mirin, rice vinegar, salt, and ginger. Whisk in enough ice cold water to reach a thin sauce consistency. Taste and adjust seasoning, adding the rest of the kochujang depending on your heat preference. Refrigerate, or if you want to serve soon, place in the freezer."
 ---
 
 <a href="/images/2012/05/Joll-Noodles.jpg"><img class="alignnone size-large wp-image-1917" title="Bibim Naengmyeon (Cold Korean Noodles)" alt="" src="/images/2012/05/Joll-Noodles-612x415.jpg" width="612" height="415" /></a>

@@ -7,6 +7,16 @@ aliases: ["/caramelized-banana-and-buttermilk-panna-cotta-vegetarian-panna-cotta
 cover:
   image: "/images/2012/10/Banana-Buttermilk-Panna-Cotta1-626x415.jpg"
   hidden: true
+recipe:
+  name: "Caramelized Banana and Buttermilk Panna Cotta"
+  yield: "6-8 servings For the bourbon brown sugar syrup"
+  diet: "Vegan, Vegetarian, Gluten-Free"
+  ingredients:
+    - "3/4 cup water"
+    - "3/4 cup dark brown sugar"
+    - "6 tablespoons good quality bourbon (Maker's or better)"
+  instructions:
+    - "Bring all ingredients to a simmer in a small saucepan. Simmer 5 minutes. Strain and reserve in refrigerator."
 ---
 
 <a href="/images/2012/10/Banana-Buttermilk-Panna-Cotta1.jpg"><img class="alignnone size-large wp-image-3110" title="Banana Buttermilk Panna Cotta" src="/images/2012/10/Banana-Buttermilk-Panna-Cotta1-626x415.jpg" alt="Banana Buttermilk Panna Cotta (unmolded)" width="626" height="415" />

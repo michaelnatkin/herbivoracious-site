@@ -8,6 +8,24 @@ aliases: ["/seared-watermelon-with-flavors-of-summer-yes-thats-vegetarian-recipe
 cover:
   image: "/images/old/6a00e008d618bb8834015432e28c67970c-500wi.jpg"
   hidden: true
+recipe:
+  name: "Seared Watermelon with Flavors of Summer"
+  yield: "4"
+  diet: "Vegan, Vegetarian, Gluten-Free"
+  ingredients:
+    - "2 tablespoons extra virgin olive oil"
+    - "4 seedless squares of watermelon, 2 1/2\" x 2 1/2\" x 1\""
+    - "1/2 cup watermelon juice"
+    - "8 brine-cured black olives, pitted and mashed to a paste"
+    - "Just Veggies brand freeze-dried corn"
+    - "Chive flowerets (from 1 flower)"
+    - "Rosemary flowers"
+    - "Tiny tips of oregano"
+    - "Maldon (aka the world's greatest salt) salt"
+  instructions:
+    - "Heat a saute pan over very high heat. Add the olive oil, and when it is smoking hot, add the watermelon. Be careful, there will be some spattering when the wet melon meets the oil, and I've also seen it flame up. Cook, pressing occasionally with a long, heavy spatula to compress, until the melon is well-seared on one side, about 3 minutes. Flip and repeat on the other side."
+    - "Remove the watermelon. Pour excess oil out of the pan. Return the pan to the heat and deglaze with the watermelon juice, reducing it a bit but not to a syrup; we are looking for a jus-like consistency. Drizzle the jus on serving plates and place a piece of watermelon atop the jus."
+    - "Garnish each piece with a small amount of the olive paste, a few kernels of dehydrated corn, a few of the chive flowers, rosemary flowers, and oregano tips, and a final sprinkle of Maldon (aka the world's greatest salt) . Serve warm."
 ---
 
 <a style="display: inline;" href="/images/old/6a00e008d618bb8834015432e28c67970c-800wi.jpg" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb8834015432e28c67970c" title="Seared Watermelon with Summer Flavors" src="/images/old/6a00e008d618bb8834015432e28c67970c-500wi.jpg" alt="Seared Watermelon with Summer Flavors" /></a>

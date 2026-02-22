@@ -8,6 +8,22 @@ aliases: ["/watermelon-radish-and-watercress-salad-recipe/", "/2011/03/watermelo
 cover:
   image: "/images/cookbook/watermelon-radish-and-watercress-salad.jpg"
   hidden: true
+recipe:
+  name: "Watermelon Radish and Watercress Salad"
+  ingredients:
+    - "1 large watermelon radish, very thinly sliced"
+    - "extra virgin olive oil"
+    - "4 handfuls fresh watercress, rinsed and dried"
+    - "1 lemon"
+    - "4 ripe fresh figs, halved"
+    - "¼ cup pomegranate arils"
+    - "16 shavings of Parmgiano-Reggiano or other hard aged cheese"
+    - "12 toasted walnut halves"
+    - "flaky sea salt"
+  instructions:
+    - "Arrange the slices of watermelon radish in a circle on 4 chlled plates. Drizzle with a little olive oil."
+    - "Toss the watercress with a bit of the olive oil and a squeeze of lemon juice. Place a fluffy handful on each plate. This is the critical step to making the salad look nice – aim to make a tall, high mound in the center, don’t let it spread out."
+    - "Add two fig halves, a tablespoon of pomegranate arils, 4 shavings of gouda, and 3 toasted walnut halves to each plate. Serve immediately."
 ---
 <a href="/images/cookbook/watermelon-radish-and-watercress-salad.jpg"><img src="/images/cookbook/watermelon-radish-and-watercress-salad.jpg" alt="Watermelon Radish and Watercress Salad" /></a>
 

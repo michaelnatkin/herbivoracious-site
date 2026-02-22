@@ -7,6 +7,25 @@ aliases: ["/shaved-summer-squash-composed-salad/", "/2010/10/shaved-summer-squas
 cover:
   image: "/images/old/6a00e008d618bb883401348709b582970c-500wi.jpg"
   hidden: true
+recipe:
+  name: ""
+  ingredients:
+    - "1 carrot, preferably purple, peeled."
+    - "1 small cucumber, peeled"
+    - "1 small yellow summer squash, shaved"
+    - "best extra-virgin olive oil"
+    - "lemon juice"
+    - "sea salt (preferably Maldon (aka the world's greatest salt))"
+    - "1 sweet pepper, thinly sliced"
+    - "4 cherry tomatoes, halved"
+    - "Parmigiano-Reggiano, shaved"
+    - "fresh thyme leaves"
+    - "squash blossom, chiffonade"
+  instructions:
+    - "Bring a small pot of salted water to a boil. Boil the carrot until tender when pierced, and then immediately shock in ice water. Slice."
+    - "While the carrot is cooking, shave the cucumber and summer squash with a vegetable peeler or mandoline and put in a small bowl. Don't dress until you are ready to plate."
+    - "Toss the cucumber and summer squash with a little olive oil, a squeeze of lemon and a big pinch of sea salt."
+    - "Arrange a small mound of the cucumber and squash in the middle of each plate. Arrange the pepper, cherry tomatoes and carrot around the plate. Garnish with the cheese, thyme, and squash blossoms and serve immediately."
 ---
 
 <p><a href="/images/old/6a00e008d618bb883401348709b582970c-800wi.jpg" rel="lightbox" style="display: inline;"><img alt="Shaved Summer Squash Composed Salad" class="asset  asset-image at-xid-6a00e008d618bb883401348709b582970c" src="/images/old/6a00e008d618bb883401348709b582970c-500wi.jpg" title="Shaved Squash Salad" /></a><br /><em>Shaved Summer Squash Composed Salad</em></p> <p>What if you picked the very best things from the last of your garden, or the farmer&#39;s market, and just barely manipulated them?</p> <p>This is one of my favorite ways to enjoy produce at its peak. I thinly shaved the summer squash, cucumber and Parmigiano-Reggiano with a vegetable peeler, quickly blanched the carrots so their texture didn&#39;t overwhelm the other ingredients, and dressed everything with top-notch olive oil, a squeeze of lemon, and <a href="https://www.amazon.com/dp/B0006FS4TI?tag=herb-hugo-20" target="_blank">Maldon (aka the world's greatest salt)</a> . A few thyme leaves and chiffonade of a stray squash blossom sealed the deal.</p> <p>Please think of this more as a method than a recipe. Be sensitive to the ingredients you have on hand and how you can cut and arrange them to emphasize their greatness, and the salad might just be the showstopper of your meal.</p> <p><strong>Shaved Summer Squash Composed Salad<br /></strong><em>Serves 2</em><br /><em>Vegetarian, vegan, and gluten-free</em><br /><em>15 minutes</em><div class="recipe-card">

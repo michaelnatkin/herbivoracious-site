@@ -8,6 +8,30 @@ aliases: ["/buckwheat-buttermilk-pancakes-cookbook-recipe/", "/2012/04/buckwheat
 cover:
   image: "/images/cookbook/buckwheat-buttermilk-pancakes.jpg"
   hidden: true
+recipe:
+  name: "Buckwheat Buttermilk Pancakes"
+  yield: "about 12 medium pancakes"
+  time: "20 minutes"
+  ingredients:
+    - "Dry ingredients:"
+    - "3/4 cup buckwheat flour"
+    - "3/4 cup unbleached white all-purpose flour"
+    - "3 tablespoons sugar"
+    - "1 ½ teaspoons baking powder"
+    - "1/2 teaspoon baking soda"
+    - "1/2 teaspoon Kosher salt"
+    - "Wet ingredients:"
+    - "1 1/2 cups buttermilk"
+    - "3 tablespoons unsalted butter, melted"
+    - "2 eggs"
+    - "For serving:"
+    - "room temperature sweet butter and maple syrup"
+  instructions:
+    - "Whisk together the dry ingredients in one bowl."
+    - "Whisk together the wet ingredients in a second bowl. You can save a bit of cleanup by gently melting the butter in this bowl in the microwave, then stirring in the buttermilk and eggs."
+    - "Stir the wet ingredients into the dry. Be sure not to over mix, or your pancakes will come out tough. It is ok if they have some lumps. If it is too thick, add a bit more buttermilk or milk, but keep it on the thick side. If it is too thin, add a bit more of either flour."
+    - "Place a griddle (or two skillets) over medium heat. Rub it with a bit of oil on a paper towel. Ladle out pancake batter to about 5\" circles. Allow to cook until bubbles form on top and a peek underneath reveals a nice dark brown. Flip and cook until the other side is done. (Adjust heat as needed after your first batch. You want the pancakes to be dark golden brown and cook reasonably quickly, but not be burned.)"
+    - "Serve forth with plenty of soft butter and real maple syrup."
 ---
 <a href="/images/cookbook/buckwheat-buttermilk-pancakes.jpg"><img src="/images/cookbook/buckwheat-buttermilk-pancakes.jpg" alt="Buckwheat Buttermilk Pancakes" /></a>
 

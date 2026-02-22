@@ -7,6 +7,32 @@ aliases: ["/vegetarian-japchae-a-guest-recipe-by-alice-of-savory-sweet-life/", "
 cover:
   image: "/images/old/6a00e008d618bb88340133eca2b5ae970b-500wi.jpg"
   hidden: true
+recipe:
+  name: "Vegetarian Jap Chae"
+  yield: "one) Serves 2-3 as a main dish Serves 4-6 as a side dish"
+  diet: "Vegan, Vegetarian, Gluten-Free"
+  ingredients:
+    - "1 bundle of potato starch cellophane noodles called dangmyeon (most packages contain 2-3 bundles and can be purchased at any Korean grocery store or most Asian markets)"
+    - "1/2 bunch of fresh spinach"
+    - "1/2 medium yellow onion, julienned"
+    - "1 carrot, peeled and cut into match sticks"
+    - "1/2 red bell pepper, julienned"
+    - "8-10 fresh shiitake mushrooms, sliced"
+    - "2 stalks green onions, sliced in 1.5” slices (green parts only)"
+    - "½ block of firm tofu, cut into small rectangle pieces (approx. 1.5”x1”x.25”)"
+    - "2 cloves garlic, minced"
+    - "Olive oil or Canola oil (amounts will vary, please see directions)"
+    - "soy sauce (amounts will vary, please see directions)"
+    - "sesame oil (amounts will vary, please see directions)"
+    - "salt and pepper"
+    - "2 tablespoons sugar"
+    - "3 tablespoons toasted sesame seeds"
+  instructions:
+    - "Boil one bundle of noodles for 5 minutes until softened and al dente in texture. Drain the noodles and do not rinse. Add noodles to a large mixing bowl and cut them three times with kitchen shears."
+    - "Add 2 tablespoons (each) of soy sauce and sesame seed oil. Toss noodles until sauce is evenly distributed and set aside. Using the same pot as the noodles, add enough water to boil spinach for 1 minute. Remove spinach from water and allow to cool just enough to squeeze as much water out as possible. Cut spinach in thirds, and massage it while seasoning with 1 teaspoon of sesame oil and a pinch of salt and pepper. Add spinach to the large noodle filled bowl."
+    - "Heat a wok or large frying pan on high. Add 1 teaspoon of olive oil and cook sliced onions for 2 minutes stirring them as they start to turn translucent. Season with a 1/2 teaspoon of sesame oil and a pinch of salt and pepper. Add onions to the large bowl of noodles. Repeat the same process as the onions except reduce cooking times to 30 seconds for the carrots, 2 minutes for the bell red pepper, 1 minute for the shiitake mushrooms, and 10 seconds for the green onions. Fry tofu squares for 1 minute per side – but do not add tofu to the large bowl of noodles."
+    - "Add 2 tablespoons of soy sauce, 1 tablespoon of sesame oil, and 2 tablespoons of sugar, and ½ teaspoon of ground pepper to the large noodle bowl and toss everything until well mixed."
+    - "Add 1 tablespoon of olive oil to the hot wok and add minced garlic. Allow garlic to cook for a few seconds and add the entire bowl of mix noodles and vegetables to the wok/pan. Stir-fry everything for 2-3 minutes and turn off heat. Gently add tofu and transfer noodles to a large serving platter. Sprinkle toasted sesame seeds on top. Serve warm or cold. Enjoy!."
 ---
 
 <a style="display: inline;" href="/images/old/6a00e008d618bb88340133eca2b5ae970b-800wi.jpg" rel="lightbox"><img class="asset asset-image at-xid-6a00e008d618bb88340133eca2b5ae970b " src="/images/old/6a00e008d618bb88340133eca2b5ae970b-500wi.jpg" alt="Japchae in a dish" /></a>

@@ -8,6 +8,32 @@ aliases: ["/mandu-koreanstyle-potstickers-with-ssamjang-kochujang-sauce-recipe/"
 cover:
   image: "/images/old/6a00e008d618bb88340133f15ee68b970b-500wi.jpg"
   hidden: true
+recipe:
+  name: "Mandu - Korean-Style Potstickers with Ssamjang / Kochujang Sauce"
+  yield: "about 40 dumplings (which in my family serves 4-5, but we are greedy) Vegetarian For the sauce :"
+  diet: "Vegetarian"
+  ingredients:
+    - "1/4 cup kochujang"
+    - "1/3 cup ssamjang"
+    - "1/3 cup black vinegar"
+    - "1 cup mung bean sprouts"
+    - "1 cup extra firm tofu"
+    - "1/2 cup vegetable oil, divided"
+    - "8 ounce tempeh"
+    - "4 green onions, white and light green parts, sliced thin"
+    - "3 cloves garlic, minced"
+    - "1/4 cup tamari (soy sauce)"
+    - "4 teaspoons Asian (toasted) sesame oil"
+    - "2 egg, beaten"
+    - "1 package (around 40) potsticker wrappers - I prefer the kind labeled \"thick\""
+  instructions:
+    - "Whisk together all ingredients. Add water as needed to reach a dipping sauce consistency. Taste and add more vinegar if desired."
+    - "Blanch the mung bean sprouts in a small pot of boiling, salted water for 1 minute. Drain, chop roughly, and squeeze out as much moisture as possible using a clean kitchen towel. Crumble the tofu and squeeze the water out of it as well."
+    - "Slice the tempeh into thin slabs and pan fry in 2 tablespoons of the vegetable oil until golden brown on both sides. Crumble."
+    - "Thoroughly combine the bean sprouts, tofu, tempeh, green onions, garlic, tamari and sesame oil. Taste and adjust seasoning as needed. Then mix in the beaten eggs."
+    - "To form the dumplings, take a wrapper and put about 2 teaspoons of filling in the center. Moisten the edge, fold, and seal firmly. Optionally, you can pinch to form pleats. Or use the dumpling press I mentioned above. Do not overfill, it will make it impossible to get a tight seal."
+    - "To fry the dumplings, heat a large skillet over a medium high flame. Add 2 tablepoons of oil, then put in about 1/3 of the dumplings, pleats pointing up. Press down a little to create a flat spot. Be sure the dumplings aren't touching. Fry for about 60-90 seconds until golden brown on the bottom. Carefully add in about 3 tablespoons of water, lower the heat, and put on the lid. Cook about 3 minutes. Remove the lid, cook off any excess water, and then remove the dumplings with a spatula. Repeat with the remaining dumplings."
+    - "Serve immediately with the dipping sauce on the side."
 ---
 
 <a style="display: inline;" href="/images/old/6a00e008d618bb88340133f15ee68b970b-800wi.jpg" rel="lightbox"><img class="asset asset-image at-xid-6a00e008d618bb88340133f15ee68b970b " src="/images/old/6a00e008d618bb88340133f15ee68b970b-500wi.jpg" alt="Vegetarian Mandu (Korean potstickers)" /></a>

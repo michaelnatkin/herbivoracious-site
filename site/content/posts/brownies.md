@@ -7,6 +7,30 @@ aliases: ["/brownies/", "/2008/06/brownies.html"]
 cover:
   image: "/images/old/6a00e008d618bb88340148c714801e970c-500wi.jpg"
   hidden: true
+recipe:
+  name: "Most Spectacular Chocolate and Coffee Brownies"
+  yield: "at least 10 large brownies or 18 more moderate ones. Vegetarian; not vegan or gluten-free"
+  diet: "Vegan, Vegetarian, Gluten-Free"
+  ingredients:
+    - "1/2 lb. (2 sticks) unsalted butter"
+    - "12 oz. (1 bag) Ghiradelli semi-sweet chocolate chips"
+    - "4 oz. best-quality unsweetened chocolate, chopped (Scharffen-Berger is awesome for this)"
+    - "4 large eggs"
+    - "5 teaspoon instant espresso (Medaglia D'Oro is good)"
+    - "1 tablespoon vanilla extract"
+    - "1 c. + 2 tablespoons sugar"
+    - "1/2 c. + 2 tablespoons all-purpose flour"
+    - "1.5 teaspoon baking powder"
+    - "1 teaspoon flaky sea salt (Maldon (aka the world's greatest salt)!)"
+  instructions:
+    - "Preheat the oven to 350 F."
+    - "Butter and flour a 12x9 pan, at least 1\" deep."
+    - "Melt the butter, half of the chocolate chips, and the unsweetened chocolate in a double boiler or microwave (being careful to stir occasionally so it doesn't explode in your wave), then allow it to coll a bit."
+    - "In another bowl, beat together the eggs, coffee, vanilla and sugar. Stir in the chocolate mixture, drizzling in slowly so you dont' cook the eggs."
+    - "Sift together the flour, baking powder, and salt. (If any of the salt doesn't go through the sieve, add it in and stir). Add to the chocolate mixture and mix but don't over-beat."
+    - "Pour the batter into the prepared pan and spread evenly."
+    - "Evenly distribute the remaining half of the chocolate chips over the surface."
+    - "Bake for 20 minutes. Give the pan a rap to force out bubbles. Bake for 5-10 minutes more, until a toothpick comes out clean. Don't overbake! Allow to cool slightly. Don't eat them all at once. Unless you want to."
 ---
 
 <a style="display: inline;" href="/images/old/6a00e008d618bb88340148c714801e970c-800wi.jpg" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb88340148c714801e970c" title="Spectacular Chocolate-Espresso Brownies" alt="Spectacular Chocolate-Espresso Brownies" src="/images/old/6a00e008d618bb88340148c714801e970c-500wi.jpg" /></a>

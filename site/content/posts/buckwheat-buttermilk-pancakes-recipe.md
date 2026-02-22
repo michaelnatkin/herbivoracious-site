@@ -7,6 +7,26 @@ aliases: ["/buckwheat-buttermilk-pancakes-recipe/", "/2009/01/buckwheat-buttermi
 cover:
   image: "/images/old/6a00e008d618bb8834010536aae41d970c-500wi.jpg"
   hidden: true
+recipe:
+  name: "Buckwheat Buttermilk Pancakes"
+  yield: "4 generously Vegetarian; not vegan or gluten-free"
+  diet: "Vegan, Vegetarian, Gluten-Free"
+  ingredients:
+    - "1 1/2 cups (180 grams) buckwheat flour"
+    - "1 1/2 cups (180 grams) unbleached white all-purpose flour"
+    - "6 tablespoons (76 grams)sugar"
+    - "1 tablespoon (10 grams) baking powder"
+    - "1 teaspoon (5 grams) baking soda"
+    - "1 teaspoon (5 grams) salt"
+    - "3 cups (650 grams) buttermilk"
+    - "6 tablespoons (85 grams) unsalted butter, melted"
+    - "4 eggs (220 grams)"
+  instructions:
+    - "Whisk together the dry ingredients in one bowl."
+    - "Whisk together the wet ingredients in a second bowl. You can save a bit of cleanup by melting the butter in this bowl in the microwave, then stirring in the buttermilk and eggs."
+    - "Stir the wet ingredients into the dry. Be sure not to overmix, or your pancakes will come out tough. It is ok if they have some lumps. If it is too thick, add a bit more buttermilk or milk, but keep it on the thick side. If it is too thin, add a bit more of either flour."
+    - "Cook in the usual way. In case you are from Mars: heat a griddle over a medium high flame. Rub it with a bit of oil on a paper towel. Ladle out pancake batter to about 5\" circles. Allow to cook until bubbles form on top and peek underneath reveals a nice dark brown. Flip and cook until the other side is done."
+    - "Serve forth with plenty of soft butter and real maple syrup."
 ---
 
 <a style="display: inline;" href="/images/old/6a00e008d618bb8834010536aae41d970c-800wi.jpg" rel="lightbox"><img class="at-xid-6a00e008d618bb8834010536aae41d970c " alt="Buttermilk_Buckwheat_Pancakes" src="/images/old/6a00e008d618bb8834010536aae41d970c-500wi.jpg" /></a>

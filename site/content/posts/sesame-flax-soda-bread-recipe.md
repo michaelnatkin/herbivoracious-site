@@ -7,6 +7,28 @@ aliases: ["/sesame-flax-soda-bread-recipe/", "/2012/12/sesame-flax-soda-bread-re
 cover:
   image: "/images/2013/12/Sesame-Flax-Quickbread-626x415.jpg"
   hidden: true
+recipe:
+  name: "Sesame-Flax Soda Bread"
+  yield: "1 large loaf Vegetarian; not vegan or gluten-free"
+  diet: "Vegan, Vegetarian, Gluten-Free"
+  ingredients:
+    - "2 cups all-purpose flour"
+    - "1 cup whole wheat flour"
+    - "1 cup flax meal"
+    - "1/2 cup toasted sesame seeds"
+    - "2 tablespoons sugar"
+    - "1 teaspoon salt"
+    - "1 teaspoon baking soda"
+    - "4 tablespoons butter, cool"
+    - "1 egg, beaten"
+    - "2 cups buttermilk"
+  instructions:
+    - "Preheat oven to 425 F. Whisk together the all-purpose flour, whole wheat flour, flax meal, sesame seeds, sugar, salt, and baking soda."
+    - "Cut the butter into the flour with two knives or a pastry cutter, as when making a pie crust. (Tip: if your butter is frozen, microwave it for ten seconds at a time until it is cuttable)."
+    - "Add the egg and buttermilk. Mix well with a spoon, then knead right in the bowl for couple of minutes. It should be moist but firm enough to form a ball. If not, add a bit more flour."
+    - "Shape into a large ball, place on a greased (or silpat-covered) cookie sheet, and make an X in the top with a sharp knife."
+    - "Bake for about 40 minutes until golden brown, and sounds hollow when rapped on the bottom. Better yet, use an instant read thermometer to look for an internal temperature of 180 degrees F / 83 C. That is a much more reliable way to gauge doneness. Check the bread about 20 minutes into cooking, and if it is browning too fast, cover it with a tinfoil tent until it is done."
+    - "Allow to cool for a few minutes, and serve with swaths of sweet cream butter."
 ---
 
 <a href="/images/2013/12/Sesame-Flax-Quickbread.jpg"><img class="alignnone size-large wp-image-3472" title="Sesame-Flax Soda Bread" src="/images/2013/12/Sesame-Flax-Quickbread-626x415.jpg" alt="Sesame-Flax Soda Bread" width="626" height="415" />

@@ -8,6 +8,16 @@ aliases: ["/recipe-how-to-m/", "/2007/11/recipe-how-to-m.html"]
 cover:
   image: "/images/2007/11/07/fluffycouscous.jpg"
   hidden: true
+recipe:
+  name: "Fluffy Couscous"
+  yield: "6 Vegetarian and Vegan Prep time: 5 minutes Cook time: 15 minutes"
+  time: "5 minutes Cook"
+  diet: "Vegan, Vegetarian"
+  ingredients:
+    - "3 cups couscous"
+    - "4 1/2 cups boiling water"
+    - "1 teaspoon salt"
+    - "1 tablespoon olive oil"
 ---
 
 <a href="/images/2007/11/07/fluffycouscous.jpg" rel="lightbox"><img class="photo" title="Fluffy Couscous - just steam it in a casserole instead of a pot" src="/images/2007/11/07/fluffycouscous.jpg" alt="Fluffy Couscous - just steam it in a casserole instead of a pot" width="455" height="302" border="0" /></a>

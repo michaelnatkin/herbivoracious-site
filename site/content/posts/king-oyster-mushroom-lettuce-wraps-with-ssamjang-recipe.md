@@ -8,6 +8,24 @@ aliases: ["/king-oyster-mushroom-lettuce-wraps-with-ssamjang-recipe/", "/2011/07
 cover:
   image: "/images/cookbook/king-oyster-mushroom-lettuce-wraps-with-ssamjang.jpg"
   hidden: true
+recipe:
+  name: "King Oyster Mushroom Lettuce Wraps with Ssamjang"
+  ingredients:
+    - "1 tablespoon ssamjang for sauce plus ¼ cup for serving"
+    - "2 teaspoons mirin or sherry"
+    - "1 tablespoon vegetable oil"
+    - "½ teaspoon toasted sesame oil"
+    - "2 teaspoons sugar"
+    - "½ teaspoon salt"
+    - "4 large king oyster mushrooms, halved lengthwise"
+    - "8 leaves red-leaf or similar lettuce, washed and thoroughly dried"
+    - "2 cups cooked calrose or jasmine rice, warm but not hot"
+    - "kaiware (daikon radish) sprouts"
+    - "6 tablespoons minced kimchi"
+  instructions:
+    - "Whisk the first tablespoon of the ssamjang with the mirin until it starts to thin out, then whisk in the vegetable oil, sesame oil, sugar and salt. Taste and adjust seasoning. Heat a grill pan or large cast iron skillet to medium high. Toss the mushrooms with the sauce and cook until caramelized on one side, then turn and cook the other side. Remove from heat."
+    - "Whisk the remaining ssamjang with a little water if needed to reach a dipping sauce consistency."
+    - "To serve, place ¼ cup of the rice in the middle of a lettuce leaf. Top with one oyster mushroom half, a small handful of kaiware, and a couple teaspoons of minced kimchi. Let diners roll up the leaves and dip in the ssamjang."
 ---
 <a href="/images/cookbook/king-oyster-mushroom-lettuce-wraps-with-ssamjang.jpg"><img src="/images/cookbook/king-oyster-mushroom-lettuce-wraps-with-ssamjang.jpg" alt="King Oyster Mushroom Lettuce Wraps with Ssamjang" /></a>
 

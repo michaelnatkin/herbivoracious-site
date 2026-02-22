@@ -7,6 +7,23 @@ aliases: ["/spicy-mango-salad-with-togarashi-recipe/", "/2010/03/spicy-mango-sal
 cover:
   image: "/images/old/6a00e008d618bb883401310f4afcde970c-500wi.jpg"
   hidden: true
+recipe:
+  name: "Spicy Mango Salad with Shichimi Togarashi"
+  yield: "4 as a side dish"
+  diet: "Vegan"
+  ingredients:
+    - "zest from 2 mandarin oranges"
+    - "1 large dried chili peper of your choice (I used an aji amarillo), toasted in a dry skillet, seeds removed"
+    - "2 teaspoons coriander seeds, toasted in a dry skillet"
+    - "1 tablespoon sesame seeds, toasted in a dry skillet"
+    - "salt"
+    - "2 ripe mangos"
+    - "a few mint leaves, chiffonade"
+  instructions:
+    - "If you have time, spread the mandarin zest out on a plate and allow to air dry for a couple of hours. If not, it will still work."
+    - "Combine the zest, toasted chili pepper, and toasted coriander seeds in a spice grinder or mortar and pestle. Grind until it is a fairly fine powder. Add the toasted sesame seeds and a big pinch of salt and grind just a little more, leaving the sesame seeds partially intact."
+    - "Peel the mango. Using the same peeler, a mandoline, or a sharp knife, thinly slice the flesh. Toss with as much of the spice mix as you like, reserving a little to sprinkle on top."
+    - "To serve, garnish with a bit more of the spice mix and the mint leaves."
 ---
 
 <p><a href="/images/old/6a00e008d618bb883401310f4afcde970c-800wi.jpg" rel="lightbox" style="display: inline;"><img  alt="Spicy Mango Salad with Shichimi Togarashi" class="asset asset-image at-xid-6a00e008d618bb883401310f4afcde970c " src="/images/old/6a00e008d618bb883401310f4afcde970c-500wi.jpg" /></a><br><em>Spicy Mango Salad with Shichimi Togarashi</em></p>  <p> The seasoning for this mango salad was inspired by <em>shichimi togarashi</em> (or the very similar <em>nanami togarashi</em>), a spicy <strong>Japanese condiment</strong> of ground chili peppers with orange peel, sesame seed and other spices. I've always <a href="https://www.amazon.com/dp/B004Y18GJ8?tag=herb-hugo-20">bought premade togarashi</a>, but then it occurred to me that I could make my own for more control and fresher flavor.</p>  <p>I've written about <a href="/2009/11/vietnamese-green-mango-salad-recipe/" target="_blank">mango salads</a> before; I love them because they can play the part both of a side dish and almost a salsa that you can eat along with your main course. Instead of a dressing, this time I simply tossed it with the togarashi mix, <strong>almost like a street-food snack</strong> you might find in either Southeast Asia or Mexico.</p>  <p>Rather than dirty my mandoline, I just used the same <a href="https://www.amazon.com/dp/B0007VO0CG?tag=herb-hugo-20">serrated vegetable peeler</a> that I used to remove the skin from the mangos to cut them into thin sheets. The serration gives the flesh an appealing ridged texture. Just be careful because the peeled mangos are <strong>very slippery</strong>. We want to peel the fruit, not your hand. Use a clean dish towel for a better grip.</p>  <div class="recipe-card">

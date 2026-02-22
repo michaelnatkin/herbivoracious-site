@@ -7,6 +7,34 @@ aliases: ["/recipe-veggie-c/", "/2008/03/recipe-veggie-c.html"]
 cover:
   image: "/images/2008-small/03/07/beanswithcornbreaddumplings2.jpg"
   hidden: true
+recipe:
+  name: "Veggie Chili with Cornbread Dumplings"
+  yield: "4 as a main courseVegetarian, not vegan or gluten-free but could be adjusted"
+  diet: "Vegan, Gluten-Free"
+  ingredients:
+    - "1 white onion, medium diced"
+    - "2 small cans pinto beans, rinsed and drained"
+    - "1 can diced tomatoes, preferably Muir Glen fire-roasted (nice smoky flavor)"
+    - "2 links Field Roast Mexican Chipotle vegetarian sausage (kinda spicy), or 8 oz. other veggie meat of your choice, cut into bite size chunks"
+    - "2 T. olive oil"
+    - "salt"
+    - "optional: tabasco, chili flakes, chili powder, ground ancho chilis, green chilis, whatever heat you like"
+    - "grated cheddar for serving"
+    - "3/4 c. cornmeal (I used de la Estancia polenta, which has a wonderful fresh-corn flavor)"
+    - "1/4 c. all-purpose flour"
+    - "1 1/2 t. baking powder"
+    - "1/2 t. salt"
+    - "1/4 c. yogurt"
+    - "1/4 c. whole milk"
+    - "1 egg"
+    - "2 T. vegetable oil"
+  instructions:
+    - "Preheat the onion to 400 degrees."
+    - "Put the onions, pinto beans, tomatoes, veggie sausage and olive oil in a casserole. Season with salt and add optional heat to your taste. Cover and put in oven to start heating while you make the dumplings."
+    - "Mix the cornmeal, flour, baking powder and salt in one bowl. Beat the yogurt, milk, egg, and vegetable oil in another. Quickly mix the wet and dry ingredients without overbeating."
+    - "Remove the casserole from the oven, remove the lid, and drop the dumpling dough on in chunks a bit smaller than a golf ball, leaving spaces between them. (See picture above)"
+    - "Bake about 20 minutes or so (uncovered) until the beans are hot and the dumplings are golden brown and baked through. Check them with a toothpick if you aren't sure."
+    - "Serve it up with grated cheddar and hot sauce on the side."
 ---
 
 <p><a href="/images/2008/03/07/beanswithcornbreaddumplings2.jpg" rel="lightbox"><img alt="Veggie Chili Beans with Cornbread Dumplings" border="0" height="302" src="/images/2008-small/03/07/beanswithcornbreaddumplings2.jpg" title="Veggie Chili Beans with Cornbread Dumplings" width="455" /></a><span style="font-size: 0.8em;"><br />Veggie Chili Beans with Cornbread Dumplings</span></p> <p>Sarina likes what I cook at home, but sometimes she wishes I&#39;d make more comfort food. I&#39;m admittedly an oddball; comfort food for me ranges from <a href="http://www.wafflehouse.com/">Waffle House</a> hash browns (scattered, smothered, and covered please) to <a href="http://en.wikipedia.org/wiki/Idli">idli</a> with sambar and everything in between. But I know what she means, and it seems only fair to try and hook her up sometimes.</p> <p>I figured anything with a biscuit or dumpling top is a guaranteed winner, so I made some simple cornbread batter and dropped it on a casserole dish full of beans, onions and veggie sausage. It is pretty darn rare that I make anything that involves so much canned food, but this came out tasty. I served it with grated cheddar, Louisiana hot sauce, and a quick salad of diced cucumbers and radishes with dill, parsley and mint and a lime dressing.</p> <p>The cornbread was based on <a href="http://www.foodnetwork.com/food/recipes/recipe/0,1977,FOOD_9936_22832,00.html">this Emeril recipe</a>, adjusted to what I had on hand. Heck, if I&#39;m busting out the canned food, might as well make with the Food Network stars too, right?</p> <div class="recipe-card">

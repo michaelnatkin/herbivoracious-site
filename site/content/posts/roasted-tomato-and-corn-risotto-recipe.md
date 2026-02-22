@@ -7,6 +7,39 @@ aliases: ["/roasted-tomato-and-corn-risotto-recipe/", "/2009/08/roasted-tomato-a
 cover:
   image: "/images/old/6a00e008d618bb88340120a50373db970b-500wi.jpg"
   hidden: true
+recipe:
+  name: "Roasted Tomato and Corn Risotto"
+  yield: "4-6Vegetarian and gluten-free For the roasted tomatoes (do this a day in advance if you want to use the tomato oil to cook the rice) - this makes some extra but they are easy to use up:"
+  diet: "Gluten-Free"
+  ingredients:
+    - "15 medium-sized ripe tomatoes, such as Early Girls, halved and cored (or see above for alternate technique for peeling before halving)"
+    - "1/4 cup extra-virgin olive oil"
+    - "1 teaspoon Kosher salt"
+    - "the reserved tomato water"
+    - "4 tablespoons of the oil from covering the tomatoes"
+    - "1/4 cup minced onion"
+    - "2 cups arborio, carnaroli or other risotto-approved rice"
+    - "1 cup dry white wine"
+    - "2 teaspoons salt"
+    - "4 of the roasted tomato halves, minced"
+    - "corn kernels from 1 large ear"
+    - "1/2 cup grated Parmigiano-reggiano cheese"
+    - "6 ounces semi-soft aged goat cheese, small cubes"
+    - "roasted tomato halves, room temperature or gently warmed"
+    - "1 tablespoon fresh thyme leaves"
+  instructions:
+    - "Preheat the oven to 350 Fahrenheit. Line a rimmed baking sheet with tin foil (don't use a silpat for this)."
+    - "Toss the halved tomatoes in a bowl with the olive oil and salt and place them cut-side down on the baking sheet."
+    - "Bake for 20 minutes or until the skins have begun to loosen. Remove from the oven and let cool for a few minutes until you can easily peel off the skins without burning yourself. Pour off and reserve any juice. Lower the heat to 275 F. and return the pan to the oven."
+    - "Every half-an-hour or so, pour off and reserve the juice. Roast for a total of about 4 hours, until they have given up a lot of moisture and a very tender but still moist. Taste a bite and make sure they have a concentrated tomato flavor."
+    - "Remove from the oven. If you are going to wait a day to make the risotto then in a separate container (not the same as the reserved juice), cover with a good amount of olive oil and refrigerate."
+    - "Bring the tomato water to a simmer. In a separate pot or tea kettle, bring 4 cups of water to a simmer."
+    - "Heat the tomato oil over medium heat in a large, heavy pot. Saute the onion for a couple of minutes until softened but not browned. Add the rice and saute for a minute or two until it turns slightly translucent."
+    - "Add the wine, salt and minced roasted tomatoes, and stir until the liquid is absorbed."
+    - "Add the tomato water, one ladle at a time, stirring very frequently. Continuously isn't necessary. When the rice begins to dry out, add another ladle. After you have used up the tomato water, switch to plain simmering water."
+    - "After 16 minutes, begin to check a grain every minute. When there is a slight white pinhead that is a bit tough inside, add the corn. Add more salt if needed."
+    - "Within 3-10 minutes, the rice should be tender but with just a hint of toothsomeness to it, and it should be surrounded with creamy, starchy goodness. Take it off of the heat right away and stir in the cheese."
+    - "Serve in individual bowls. Top with 4-6 of the roasted tomato halves, the cheese, and the thyme leaves."
 ---
 
 <p><a href="/images/old/6a00e008d618bb88340120a50373db970b-800wi.jpg" rel="lightbox" style="display: inline;"><img alt="Roasted Tomato and Corn Risotto" class="at-xid-6a00e008d618bb88340120a50373db970b " src="/images/old/6a00e008d618bb88340120a50373db970b-500wi.jpg" /></a><br /><em>Roasted Tomato and Corn Risotto</em></p><p>Slow roasting tomatoes is alchemy. You put base metal in the oven and a few hours later, you&#39;ve got gold. In this case, we had a pile of Early Girls that had my rapt attention throughout July as they hurtled towards ripeness. But when they arrived, they were... kind of bland. I knew the Purple Cherokees were right around the corner, promising a truly intense heirloom taste. In the meantime, a slow roast with olive oil was just the ticket to concentrate and transform the Early Girls into a treat.</p><p>Tom Colicchio, in his terrific book <a href="https://www.amazon.com/dp/0307406954?tag=herb-hugo-20" target="_blank">Think Like a Chef</a>, devotes an entire chapter to dishes based on roasted tomatoes. I&#39;ve adapted his technique here. Another option, if you don&#39;t like trying to remove the peels from the tomatoes while they are hot, is to cut a small X in the bottom and give them a 30 second bath in boiling water and then peel before roasting.</p><p>I&#39;ve written about a <a href="/2008/08/summer-risotto/" target="_blank">tomato and corn risotto</a> before. Today&#39;s version uses a little bit different technique. I&#39;ve omitted the zucchini, and instead of making a tomato oil by pureeing cherry tomatoes in olive oil, I stored the roasted tomatoes in the oil overnight, then poured it off to use for the saute.</p><p>Also, while the tomatoes are roasting, you stop to drain the juice every so often. I collected that juice and used it as the cooking medium for the rice, with only white wine besides. I didn&#39;t use any other broth so that the delicate tomato flavor would be foremost.</p><p>The cheese I used was <span class="status-body"><span class="entry-content">River Valley Ranch&#39;s &quot;Valley Doe&quot;- an aged, semisoft cheese made from raw goat milk. If you don&#39;t have access to this exact cheese, ask your cheesemonger for an aged goat cheese. If you are familiar mainly with the fresh chevre, it will open your eyes to a whole other range of possibilities.</span></span></p><div class="recipe-card">

@@ -7,6 +7,29 @@ aliases: ["/recipe-banana-m/", "/2007/12/recipe-banana-m.html"]
 cover:
   image: "/images/2007-small/12/21/bananamuffinswithacrumbtop.jpg"
   hidden: true
+recipe:
+  name: "Banana Muffins With A Crumb Top"
+  yield: "10 muffins Dry:"
+  ingredients:
+    - "1 1/2 c. all-purpose flour"
+    - "1 t. baking soda"
+    - "1 t. baking powder"
+    - "1/2 t. salt"
+    - "3 ripe bananas, mashed"
+    - "1/2 c. brown sugar"
+    - "1 egg"
+    - "1/3 c. unsalted butter, melted"
+    - "1/3 c. brown sugar (preferably something delicious like Muscovado)"
+    - "2 T. all-purpose flour"
+    - "1/8 t. cinnamon"
+    - "pinch or two of flaky finishing salt (like Maldon (aka the world's greatest salt)), optional"
+    - "1 T. butter"
+  instructions:
+    - "Preheat oven to 375 and grease or line 10 cups of a muffin pan"
+    - "Mix the dry and wet ingredients thoroughly and separately"
+    - "Fold the dry into the wet, without mixing any more than necessary to combine. Overmixing will make them tough. Fill the muffin cups."
+    - "Cut the butter into the rest of the crumb topping ingredients like you were making pie crust, and then sprinkle evenly over the batter."
+    - "Bake about 20 minutes until a tester comes out dry."
 ---
 
 <p><a rel="lightbox" href="/images/2007/12/21/bananamuffinswithacrumbtop.jpg"><img width="455" height="302" border="0" src="/images/2007-small/12/21/bananamuffinswithacrumbtop.jpg" title="Bananamuffinswithacrumbtop" alt="Bananamuffinswithacrumbtop" /></a><br /><span style="font-size: 0.8em;">Banana Muffins With A Crumb Top</span></p>  <p>Most banana muffin recipes seem too sweet to me. I want to taste banana, not overpowering sugar. This version is a composite of several recipes, putting together all the bits that we like (borrowing the most from <a href="http://allrecipes.com/Recipe/Banana-Crumb-Muffins/Detail.aspx">this one</a> at Allrecipes). Mini-me had a great time sprinkling on the crumb topping, which has a few flakes of sea salt in it.</p>  <p>By the way, how do you like that vintage <a href="http://www.notagaingraphics.com/Branchell/br3a.html">Melmac</a> serving plate? I have a few hundred pieces of the stuff, the remnants of an even larger collection from my post-college years. I think I'll start busting them out for more blog photos.</p>  <p>It occurred to me afterwards that caramelizing the bananas first to bring out even more of their flavor might be good. That or using some of the smaller, intensely flavored bananas that good stores carry these days. If anyone tries either of those ideas, please comment and let me know how it turned out!</p>  <div class="recipe-card">

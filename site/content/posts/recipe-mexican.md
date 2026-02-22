@@ -7,6 +7,21 @@ aliases: ["/recipe-mexican/", "/2008/02/recipe-mexican.html"]
 cover:
   image: "/images/2008-small/02/10/mexicanmatzobrei.jpg"
   hidden: true
+recipe:
+  name: "Mexican Matzo Brei or Jewish Chilaquiles"
+  ingredients:
+    - "1 Trader Joe's \"Handmade\" corn tortilla, torn into small pieces"
+    - "1 T. canola oil"
+    - "2 eggs, lightly beaten"
+    - "3 T. grated cheddar cheese"
+    - "salt, pepper"
+    - "hot sauce"
+  instructions:
+    - "Heat a non-stick skillet over a high flame. Add the canola oil, and a few seconds later toss in the tortilla pieces."
+    - "Fry for a few minutes, shaking occasionally until the strips are a little crispy but still chewy."
+    - "Add the eggs, salt and pepper and cook like normal scrambled eggs."
+    - "When the eggs are just about done, add the cheese and cook til melted"
+    - "Serve with your favorite hot sauce. I've been enjoying Bullard's Louisana Habanero lately."
 ---
 
 <span style="font-size: 0.8em;"><a href="/images/2008/02/10/mexicanmatzobrei.jpg" rel="lightbox"><img title="Mexicanmatzobrei" src="/images/2008-small/02/10/mexicanmatzobrei.jpg" alt="Mexicanmatzobrei" width="455" height="302" border="0" /></a>

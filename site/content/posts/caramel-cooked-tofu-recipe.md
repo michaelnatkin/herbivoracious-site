@@ -8,6 +8,29 @@ aliases: ["/caramel-cooked-tofu-recipe/", "/2011/11/caramel-cooked-tofu-recipe.h
 cover:
   image: "/images/cookbook/caramel-cooked-tofu.jpg"
   hidden: true
+recipe:
+  name: "Caramel-Cooked Tofu"
+  yield: "2-4"
+  time: "20 minutes"
+  diet: "Vegan, Gluten-Free"
+  ingredients:
+    - "¼ cup rice wine or dry sherry"
+    - "2 teaspoons rice vinegar"
+    - "¼ cup soy sauce (gluten-free if required)"
+    - "1 teaspoon Chinese toasted sesame oil"
+    - "2 cloves garlic, minced"
+    - "1 teaspoon minced fresh ginger"
+    - "½ cup sugar"
+    - "1 pound extra-firm tofu"
+    - "2 tablespoons vegetable oil"
+    - "½ cup thinly sliced white onion"
+    - "4-8 dried small red chile pods (optional)"
+    - "5 green onions, white and light green parts only, thinly sliced"
+  instructions:
+    - "Whisk together the rice wine, rice vinegar, soy sauce, sesame oil, garlic, ginger and sugar until the sugar dissolves."
+    - "Thoroughly pat the tofu dry with a clean towel, and cut into squares, approximately 2” x 2” x 1/3”. Heat the oil in a large skillet (preferably cast iron) over a high flame. Lay the tofu squares in the skillet in a single layer (or as close to a single layer as possible). Fry until golden brown on the first side, about 4 minutes."
+    - "Flip the tofu and immediately pour in the sauce and add the white onions, and the chile peppers if using. The sauce will be spluttering and caramelizing. Keep a close eye on it, and move the tofu around a little bit to let the sauce get under it. Keep cooking until the sauce has thickened and becomes a fairly thick glaze coating the tofu, about 4 more minutes."
+    - "Serve immediately, garnished with the green onions."
 ---
 <a href="/images/cookbook/caramel-cooked-tofu.jpg"><img src="/images/cookbook/caramel-cooked-tofu.jpg" alt="Caramel-Cooked Tofu" /></a>
 

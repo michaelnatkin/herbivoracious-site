@@ -8,6 +8,30 @@ aliases: ["/strawberry-shortcake-with-cornbread-and-tarragon-whipped-cream-recip
 cover:
   image: "/images/old/6a00e008d618bb88340153901e7f02970b-500wi.jpg"
   hidden: true
+recipe:
+  name: "Strawberry \"Shortcake\" with Cornbread and Tarragon Whipped Cream"
+  yield: "4 For the tarragon-infused whipped cream:"
+  ingredients:
+    - "2 cups heavy (whipping) cream"
+    - "4 teaspoons tightly packed fresh tarragon leaves"
+    - "1/4 cup confectioner's sugar"
+    - "6 cups fresh strawberries, hulled and halved or quartered (depending on size)"
+    - "1/2 cup sugar"
+    - "3/4 cup milk"
+    - "1 tablespoon white (distilled) vinegar"
+    - "1/2 cup butter, melted"
+    - "2 eggs, lightly beaten"
+    - "1 teaspoon vanilla extract"
+    - "2/3 cup cornmeal"
+    - "1 1/2 cup all-purpose flour"
+    - "1 teaspoon salt"
+    - "1/2 teaspoon baking soda"
+  instructions:
+    - "For the whipped cream: bruise the tarragon leaves by rubbing them between your fingers. Stir into the cream and refrigerate for at least one hour. If you like a stronger tarragon flavor, overnight is even better. Strain the cream, add the confectioner's sugar, and whip until it holds firm peaks (or use a cream whipper)."
+    - "For the strawberries: in a medium bowl, gently toss together the strawberries and sugar. Set aside to macerate for about one hour, tossing ocassionally."
+    - "For the cornbread: Preheat the oven to 375 F. and butter an 8x8\" baking pan. In a small bowl, whisk together the milk and vinegar and let sit for 5 minutes. Stir in the melted butter, eggs, and vanilla extract."
+    - "In a medium bowl, whisk together the cornmeal, flour, salt, and baking soda. Pour in the wet ingredients and gently fold together to just combine. Do not overbeat. Pour the mixture into the prepared baking pan and bake until a toothpick inserted in the center comes out clean, about 25 minutes."
+    - "To serve: cut four generous squares of cornbread, and then cut those in half horizontally. Place one half in the bottom of each of four bowls and ladle in some of the strawberries and their juice. Add another half piece of cornbread and divide up the remaining strawberries and juice. Top with a generous portion of the tarragon whipped cream and serve immediately."
 ---
 
 <p><a href="/images/old/6a00e008d618bb88340153901e7f02970b-800wi.jpg" rel="lightbox" style="display: inline;"><img alt="Strawberry Cornbread Shortcake" class="asset  asset-image at-xid-6a00e008d618bb88340153901e7f02970b" src="/images/old/6a00e008d618bb88340153901e7f02970b-500wi.jpg" title="Strawberry Cornbread Shortcake" /></a><br /><em>Strawberry &quot;Shortcake&quot; with Cornbread and Tarragon Whipped Cream</em></p> <p>I don&#39;t allow as how I&#39;ve actually experienced summer if there hasn&#39;t been a huge bowl of <strong>strawberry shortcake to sanctify it</strong>. Generally I make it with big, flaky biscuits, but for some reason this year it crossed my mind to try it with cornbread instead. Corn and strawberries go really well together, and they both speak of Americana, so why not?</p> <p>I modified my <a href="/2009/04/best-cornbread-ever/" target="_blank">regular cornbread recipe</a>&#0160;by using a slightly lower corn-to-flour ratio, skipping the brown-butter step, and adding a bit of vanilla. These moves all served to make it <strong>slightly more cakey</strong> and dessert-like without being overly sweet.</p> <p>There are two ways to think about the strawberries for strawberry shortcake. Ideally, of course you would have absolutely fresh berries from the farmer&#39;s market, still warm from the field and of one of the delicate, perfumed varieties that don&#39;t travel well enough to be found at the grocery. If you are so lucky, you might want to macerate them less or not at all. If your strawberries aren&#39;t quite that good, a longer maceration period with plenty of sugar will cause them to break down and be more <strong>tender and release more flavor</strong>. This won&#39;t turn pale, flavorless berries into gold, but it can make fair ones taste a lot better.</p> <p>Ok, I know, you&#39;ve read this far but you are really thinking... <strong>&quot;Tarragon whipped cream? Really?&quot;</strong> Well, all I can tell you is that I thought it went beautifully with the berries and cornbread. If this is too out there for you, or just violates everything you think strawberry shortcake should be, I can accept that. But if you are on the fence, I think you should try it! Something about the anisey intensity of the herb adds just the right balance against the corn and strawberries.&#0160;</p> <div class="recipe-card">

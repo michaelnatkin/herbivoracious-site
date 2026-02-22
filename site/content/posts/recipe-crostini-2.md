@@ -7,6 +7,20 @@ aliases: ["/recipe-crostini-2/", "/2008/02/recipe-crostini-2.html"]
 cover:
   image: "/images/2008-small/02/11/greenolivewithorangecrostinitopping.jpg"
   hidden: true
+recipe:
+  name: "Crostini with Spanish Green Olive Tapenade"
+  yield: "1 c. for use as a crostini toppingVegetarian and vegan"
+  diet: "Vegan"
+  ingredients:
+    - "1 oz. roasted red peppers (or better, piquillo peppers) drained"
+    - "1 c. high quality pitted green olives"
+    - "zest and juice of 1/2 orange"
+    - "1/2 t. chili flakes"
+    - "1/2 t. smoked paprika (like pimenton dolce)"
+  instructions:
+    - "Soak the olives in hot water for 5 minutes or so and then drain them."
+    - "Combine all ingredients in a food processor and pulse until it holds together but is still somewhat coarse."
+    - "Taste and check seasoning."
 ---
 
 <p><a rel="lightbox" href="/images/2008/02/11/greenolivewithorangecrostinitopping.jpg"><img width="455" height="302" border="0" src="/images/2008-small/02/11/greenolivewithorangecrostinitopping.jpg" title="Crostini with Spanish Green Olive Tapenade" alt="Crostini with Spanish Green Olive Tapenade" /></a><br /><span style="font-size: 0.8em;">Crostini with Spanish Green Olive Tapenade</span></p>  <p>This is the second of three crostini toppings I made for our <a href="http://www.kavanaseattle.org/">Kavana</a> Men Cook event. This one has straight ahead Spanish flavors with the green olives, orange zest, and <a href="https://www.amazon.com/dp/B000NO5CRY?tag=herb-hugo-20">smoked paprika</a>. It goes together in just a minute in a food processor. This tapenade is on the thicker side and works better as a crostini or bruschetta topping than as a dip.</p>  <p>One small trick here is to soak the olives in hot water for a few minutes to remove some of the saltiness. You can do the same with black olives or capers in similar recipes.</p>  <div class="recipe-card">

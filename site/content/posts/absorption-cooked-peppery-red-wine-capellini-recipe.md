@@ -8,6 +8,33 @@ aliases: ["/absorption-cooked-peppery-red-wine-capellini-recipe/", "/2012/01/abs
 cover:
   image: "/images/cookbook/absorption-cooked-peppery-red-wine-capellini.jpg"
   hidden: true
+recipe:
+  name: "Absorption-Cooked Peppery Red-Wine Capellini"
+  yield: "4"
+  time: "30 minutes"
+  diet: "Vegan"
+  ingredients:
+    - "1 pound capellini (angel hair) noodles"
+    - "3 tablespoons extra virgin olive oil"
+    - "1/2 large white onion, thinly sliced"
+    - "6 cloves garlic, minced"
+    - "1 ½ pounds zucchini, 1/2\" dice"
+    - "1 small bunch asparagus, trimmed and cut into 1/2\" lengths"
+    - "1 1/2 cups cherry tomatoes, halved (1 cup cooked in, the remainder for garnish)"
+    - "1 tablespoon smoked paprika (pimenton de la vera)"
+    - "1 teaspoon fresh ground black pepper"
+    - "1/4 teaspoon cayenne pepper"
+    - "2 tablespoons fresh oregano leaves"
+    - "1 teaspoon minced fresh rosemary"
+    - "salt"
+    - "1 1/4 cups red wine (I used a tempranillo)"
+    - "lots of minced fresh parsley for garnish"
+  instructions:
+    - "Preheat the oven to 375 F. Break the capellini into approximately 3\" lengths. Toast on a baking sheet tossing occasionally with tongs, for about 12 minutes, until golden brown."
+    - "Meanwhile, in a large pot with a lid (at least 5.5 quarts), heat the olive oil over a medium flame. Cook the onion and garlic with a pinch of salt for 5 minutes, allowing them only to soften and grow aromatic, but not burn. Increase the heat to medium-high and add the zucchini and another pinch of salt. Saute, browning the vegetables until the noodles have come out of the oven."
+    - "Add the noodles on top of the zucchini mixture. Put the asparagus and two-thirds of the cherry tomatoes on top of that and sprinkle in the smoked paprika, black pepper, cayenne pepper, oregano and rosemary. Pour the red wine and 1 1/4 cups of water over the top. Toss as best you can with tongs, but it will be hard at first because the noodles are stiff. Return the heat to medium and cover."
+    - "Every 3 minutes, remove the top and toss. The total cooking time will be about 8-12 minutes. Towards the end, taste a noodle each time you remove the top to see if it is done. If not, and there isn't any moisture left on the bottom, add a bit more wine or water, about 1/3 cup."
+    - "When the noodles are done to your liking, make any final adjustments to the seasoning and transfer to serving bowls. Garnish with the remaining uncooked cherry tomatoes and parsley, and another grind of fresh black pepper and serve immediately."
 ---
 <a href="/images/cookbook/absorption-cooked-peppery-red-wine-capellini.jpg"><img src="/images/cookbook/absorption-cooked-peppery-red-wine-capellini.jpg" alt="Absorption-Cooked Peppery Red-Wine Capellini" /></a>
 

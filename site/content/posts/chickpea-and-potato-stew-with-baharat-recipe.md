@@ -8,6 +8,27 @@ aliases: ["/chickpea-and-potato-stew-with-baharat-recipe/", "/2011/06/chickpea-a
 cover:
   image: "/images/old/6a00e008d618bb883401538eb2d12d970b-500wi.jpg"
   hidden: true
+recipe:
+  name: "Turkish Chickpea and Potato Stew with Baharat"
+  yield: "4"
+  diet: "Vegan"
+  ingredients:
+    - "2 tablespoons butter (or olive oil for vegan)"
+    - "1/2 large onion, diced"
+    - "2 garlic cloves, thinly sliced"
+    - "Kosher salt"
+    - "1 tablespoon tomato paste"
+    - "2 tablespoons Turkish baharat"
+    - "1/2 teaspoon cayenne pepper"
+    - "1 fifteen-ounce can crushed tomatoes"
+    - "1 pound Yukon gold potatoes, cut into bite-sized chunks"
+    - "2 1/2 cups cooked chickpeas (1/2 pound dried chickpeas, cooked as usual until tender) - reserve 1 cup cooking liquid if cooking from dry"
+    - "Minced fresh mint or cilantro for garnish"
+  instructions:
+    - "Melt the butter In a 5 quart Dutch oven over medium-high heat. Add the onion, garlic and a pinch of salt and cook until they begin to soften, about 1 minute. Add the tomato paste and cook until it starts to brown, about 2 more minutes."
+    - "Add the Turkish baharat and cayenne and cook for just 10 seconds to release the flavor, then add the crushed tomatoes, potatoes, and 1 teaspoon of salt. Add 1 cup of the chickpea cooking liquid if available, otherwise add 1 cup of water. Stir through, cover, bring to a simmer and reduce heat to maintain that simmer. Cook until the potatoes are nearly tender, about 10 minutes."
+    - "Mix in the chickpeas and simmer for at least 10 more minutes. Taste and adjust seasoning. It may need more salt, baharat, or cayenne. The spice flavors should be intense, not subtle - though it doesn't need to have a lot of heat if that isn't your preference."
+    - "Garnish with the fresh mint or cilantro and serve hot."
 ---
 
 <a style="display: inline;" rel="lightbox" href="/images/old/6a00e008d618bb883401538eb2d12d970b-800wi.jpg"><img class="asset  asset-image at-xid-6a00e008d618bb883401538eb2d12d970b" title="Turkish Chickpea and Potato Stew with Baharat" src="/images/old/6a00e008d618bb883401538eb2d12d970b-500wi.jpg" alt="Turkish Chickpea and Potato Stew with Baharat" /></a><br /><em>Turkish Chickpea and Potato Stew with Baharat</em> <p>I'm obsessed with <a href="https://www.amazon.com/dp/B0CZY27RNZ?tag=herb-hugo-20">baharat</a> lately. Baharat is a spice mixture that is popular throughout North Africa, the Levant and the Middle East. Most versions include black pepper, cumin, coriander, cloves and cinnamon. The Turkish variety usually adds dried mint and savory. Like anything else in food, every village and maybe every cook has their own version. I've been buying this <a href="http://www.worldspice.com/blends/0383baharatturkish.shtml" target="_blank">Turkish baharat</a> from World Spice and am very happy with the flavor and freshness - they grind it when you order it.</p> <p>Like Indian garam masala, baharat can be added at the beginning or end of a dish to produce different flavors. This recipe is cooked low and slow to allow the baharat to deeply permeate the chickpeas and potatoes.</p> <p>This dish will work with canned chickpeas, but is much better if you have time to cook them at home. A <a href="https://www.amazon.com/dp/B00006ISG6?tag=herb-hugo-20">pressure cooker</a> is ideal for cooking beans because you don't need to pre-soak them, and they come out positively creamy. &nbsp;</p> <p>I served this on <a href="/2010/05/persian-crispy-rice-recipe/" target="_blank">Persian rice pilaf</a> with its characteristic crispy crust (chelo with tahdig), which I don't think is too big of a stretch, but it will also eat well on plain basmati rice, or with couscous.</p> <div class="recipe-card">

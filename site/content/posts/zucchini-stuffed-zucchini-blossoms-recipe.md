@@ -8,6 +8,27 @@ aliases: ["/zucchini-stuffed-zucchini-blossoms-recipe/", "/2010/07/zucchini-stuf
 cover:
   image: "/images/old/6a00e008d618bb883401348525f944970c-500wi.jpg"
   hidden: true
+recipe:
+  name: "Zucchini-Stuffed Zucchini Blossoms"
+  yield: "4 as part of an entree plate or 8 as an appetizer"
+  ingredients:
+    - "2 cups finely diced zucchini"
+    - "1/4 cup finely diced white onion"
+    - "2 teaspoons olive oil"
+    - "8 oz. chevre (fresh, soft goat cheese)"
+    - "1 teaspoon smoked paprika"
+    - "zest and juice of 1 lime"
+    - "salt"
+    - "16 large zucchini blossoms"
+    - "enough vegetable oil for deep frying in your smallest saucepan, about 3\" deep"
+    - "1 cup basic tempura batter (whisk together 1 egg, 1 cup flour, 1 cup ice cold water, 1 teaspoon baking soda, 1/2 teaspoon salt; thin as needed with ice cold water to a thin pancake batter consistency)"
+    - "1/2 cup homemade pesto thinned with olive oil, or chimichurri"
+  instructions:
+    - "Saute the zucchini, onion and a big pinch of salt in the olive oil over high heat until quite deeply brown; you want to drive off the moisture and really caramelize the zucchini to develop the flavor."
+    - "Combine the zucchini mixture with the goat cheese, smoked paprika, lime zest and juice and mix thoroughly. Taste and season with salt and pepper. Put this mixture into a pastry bag with a big tip, or a zip-loc type bag with a corner cut out."
+    - "To stuff the zucchini blossoms, gently untwist and pull apart the petals. Pull out the stamens/anthers/pistils as best you can without destroying the flower. Pipe in a good amount of the goat cheese mixture, maybe about 1.5 tablespoons. Pull the petals over the mixture, and give them a little twist. Lay them flat on a plate until ready to fry."
+    - "Heat the vegetable oil in a very small pot to about 365 degrees Fahrenheit. Working one blossom at a time. Pick the flower up from the petal end, using tongs. Dip it about halfway into the tempura batter, then let the excess drip back into the bowl. Hold it in the hot oil, keeping the un-battered part out. Swish it around for about 30 seconds until the batter is browned. Remove to paper towels and season with fleur de sel or other sea salt."
+    - "Serve with the pesto or chimichurri."
 ---
 
 <a href="/images/old/6a00e008d618bb883401348525f944970c-800wi.jpg" rel="lightbox" style="display: inline;"><img alt="Tempura_Zucchini_Blossoms" class="asset asset-image at-xid-6a00e008d618bb883401348525f944970c " src="/images/old/6a00e008d618bb883401348525f944970c-500wi.jpg" /></a><br /><p><em>Zucchini-stuffed Zucchini Blossoms</em></p><p><strong>Zucchini blossoms are one of the most beautiful and delicate items of summer produce.</strong> You may find them still attached to tiny zucchini, or sold separately. Look around at farmer&#39;s markets to find beautiful specimens. They are expensive by the pound but they don&#39;t weigh much!</p><p>I learned a great way to keep zucchini blossoms for a day or so from the good folks at Alvarez Farms - put them in a plastic produce bag, blow it up like a balloon and tie it tight. This &quot;airbag&quot; will protect them from unwanted buffeting from the other denizens of your produce bin.</p><p>The flavor of zucchini blossoms is very mild. So I don&#39;t really get why people stuff them in quesadillas and such. To me the value is in the <strong>visual appeal of the flower</strong>, so I always look for ways to emphasize that. </p><p>For today&#39;s recipe, we will caramelize tiny dice of zucchini to amp up the flavor, and mix that with goat cheese, a classic pairing. The blossoms are then fried in tempura batter, but only half way up, so the petals still peek out.&#0160;</p><p>You could serve this as a fairly substantial part of an entree plate, or as an appetizer. A little pesto or <a href="/2009/02/chimichurri-argentine-parsley-sauce-recipe/" target="_blank">chimichurri</a> seals the deal.</p><div class="recipe-card">

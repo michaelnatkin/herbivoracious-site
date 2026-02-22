@@ -8,6 +8,23 @@ aliases: ["/tomato-sushi-yes-thats-vegetarian-recipe/", "/2011/08/tomato-sushi-y
 cover:
   image: "/images/old/6a00e008d618bb883401538fe041cc970b-500wi.jpg"
   hidden: true
+recipe:
+  name: "Tomato Sushi"
+  yield: "3 pieces Special equipment: blowtorch (optional)"
+  diet: "Vegan, Vegetarian, Gluten-Free"
+  ingredients:
+    - "1 heirloom tomato"
+    - "1/3 cup cooked and vinegared sushi rice"
+    - "prepared wasabi"
+    - "vegetable oil"
+    - "12 strips toasted nori, 1-inch by 1/16-inch"
+    - "flaky black sea salt"
+  instructions:
+    - "Bring a small pot of water to a boil. Cut an X in the skin on the bottom of the tomato."
+    - "Dunk the tomato for 10 seconds in the boiling water. Remove with a slotted spoon and allow to cool briefy. Peel off the skin, trying to keep it in 4 large sections."
+    - "Cover a dinner plate with microwave-safe plastic wrap, tight as a drum. Brush the plastic wrap with vegetable oil. Lay the tomato skin on the plastic wrap, flat, and brush with a bit more oil. Microwave at 50% power until crispy, about 5 minutes. Remove and allow to cool. Cut into 1 inch by 1/16\" strips."
+    - "Cut the tomato into segments about 1 1/4\" wide. Scoop out and reserve the seed pockets (just seeds and gel, no white parts). Lay each tomato segment on your board, outside down, and carefully cut parallel to the board, leaving just a 1/8\" thick piece of flesh. Trim the ends."
+    - "Form the sushi rice into three small, flattened balls. Dab each ball with a tiny amount of wasabi. Place one tomato segment over each ball of rice and brush lightly with oil. Blowtorch for about 5 seconds each, just long enough to darken a small area. Top each piece with about 1/4 teaspoon of the tomato seed gel, a few strips of nori, a few strips of tomato skin and a few grains of the black sea salt. Serve immediately (before the tomato skin and nori begin to soften)."
 ---
 
 <a style="display: inline;" href="/images/old/6a00e008d618bb883401538fe041cc970b-800wi.jpg" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb883401538fe041cc970b" title="Tomato Sushi copy" src="/images/old/6a00e008d618bb883401538fe041cc970b-500wi.jpg" alt="Tomato Sushi copy" /></a>

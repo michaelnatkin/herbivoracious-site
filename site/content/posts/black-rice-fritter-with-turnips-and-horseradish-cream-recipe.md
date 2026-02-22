@@ -7,6 +7,17 @@ aliases: ["/black-rice-fritter-with-turnips-and-horseradish-cream-recipe/", "/20
 cover:
   image: "/images/2012/10/Black-Rice-Cakes-with-Roasted-Turnips-and-Horseradish-Cream-626x415.jpg"
   hidden: true
+recipe:
+  name: "Black Rice Fritters with Roasted Turnips and Horseradish Cream"
+  yield: "4 For the horseradish cream"
+  diet: "Vegetarian, Gluten-Free"
+  ingredients:
+    - "2 tablespoons minced onion"
+    - "2 cups heavy cream"
+    - "1/2 teaspoon kosher salt"
+    - "2 tablespoons peeled and grated fresh horseradish root or 1 tablespoon prepared horseradish"
+  instructions:
+    - "Bring all ingredients to a simmer in a small saucepan. Cook until the cream reaches a saucy consistency; it should coat the back of a spoon and you should be able to drag your finger through that coating and leave a clean line. Taste and adjust seasoning, adding more horseradish or salt if needed. Strain and reserve."
 ---
 
 <img class="alignnone size-large wp-image-2887" title="Black Rice Cakes with Roasted Turnips and Horseradish Cream" src="/images/2012/10/Black-Rice-Cakes-with-Roasted-Turnips-and-Horseradish-Cream-626x415.jpg" alt="Black Rice Cakes with Roasted Turnips and Horseradish Cream" width="626" height="415" />

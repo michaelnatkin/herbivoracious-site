@@ -8,6 +8,25 @@ aliases: ["/onion-chutney-recipe/", "/2012/07/onion-chutney-recipe.html"]
 cover:
   image: "/images/cookbook/onion-chutney.jpg"
   hidden: true
+recipe:
+  name: "Onion Chutney"
+  yield: "1 ½ cups"
+  time: "10 minutes active (30 minutes total)"
+  diet: "Vegan, Gluten-Free"
+  ingredients:
+    - "½ white onion or sweet onion, very finely diced (1 ½ cups diced)"
+    - "1 tablespoon vegetable oil"
+    - "2 teaspoons black mustard seeds"
+    - "½ teaspoon cumin powder"
+    - "¼ teaspoon cayenne pepper"
+    - "1 tablespoon tomato paste"
+    - "1 tablespoon white vinegar"
+    - "¼ teaspoon Kosher salt"
+    - "optional: 1-2 drops red food coloring"
+  instructions:
+    - "Soak the onion in a generous amount of water for 30 minutes. Don’t skip this step, it is important to remove a bit of the harsh bite."
+    - "In a small skillet, heat the vegetable oil over a medium flame. Add the mustard seeds and cook for about 30 seconds, until they begin to pop and turn gray. Add the cumin powder, and cayenne powder, and ten seconds later (before the cumin can burn) add the tomato paste, vinegar and salt."
+    - "Drain the onion thoroughly, then stir the tomato mixture into it. Stir in the food coloring if using. Taste and adjust seasoning. You may like a little more vinegar, salt, or cayenne."
 ---
 <a href="/images/cookbook/onion-chutney.jpg"><img src="/images/cookbook/onion-chutney.jpg" alt="Onion Chutney" /></a>
 

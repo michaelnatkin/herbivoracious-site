@@ -7,6 +7,21 @@ aliases: ["/quick-green-apple-kimchi-recipe/", "/2012/09/quick-green-apple-kimch
 cover:
   image: "/images/2012/09/Green-Apple-Kimchi-626x415.jpg"
   hidden: true
+recipe:
+  name: "Quick Green Apple \"Kimchi\""
+  yield: "about 3 cups"
+  diet: "Vegan, Vegetarian, Gluten-Free"
+  ingredients:
+    - "2 green apples (any crisp variety)"
+    - "1/4 white onion, thinly sliced"
+    - "1\" piece of fresh ginger, grated"
+    - "1/4 teaspoon salt"
+    - "1 - 2 tablespoons gochugaru (Korean chili powder)"
+    - "1 tablespoon rice vinegar"
+  instructions:
+    - "Cut the apples into 1/8\" thick slices, avoiding the core. You can leave the skin on. Cut the slices into 1/2\" wide strips. The easiest way to do this is on a mandoline - you can do the whole thing in one move with the wide julienne cutter."
+    - "Put all ingredients in a bowl and use your hands to toss it thoroughly, working the gochugaru into the apple. Taste and adjust seasoning to your preference."
+    - "Reserve in refrigerator until ready to use. Use within a couple of hours or it can become too soggy."
 ---
 
 <a href="/images/2012/09/Green-Apple-Kimchi.jpg"><img class="alignnone size-large wp-image-2774" title="Green Apple Kimchi" src="/images/2012/09/Green-Apple-Kimchi-626x415.jpg" alt="Green Apple Kimchi" width="626" height="415" /></a>

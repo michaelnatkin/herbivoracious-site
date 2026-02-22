@@ -7,6 +7,25 @@ aliases: ["/recipe-urad-dal/", "/2008/03/recipe-urad-dal.html"]
 cover:
   image: "/images/2008-small/03/23/uraddalbada.jpg"
   hidden: true
+recipe:
+  name: "Urad Dal Patties (Vada) with Black Pepper"
+  yield: "about 12 patties; 2 or 3 make a nice serving Vegetarian, vegan (if you don't garnish with dairy), and gluten-free"
+  diet: "Vegan, Vegetarian, Gluten-Free"
+  ingredients:
+    - "3/4 c. urad dal (without skins), available at any Indian grocery"
+    - "2 tsp. coarse freshly ground black pepper"
+    - "1/2 tsp. asafetida powder or 1 clove garlic, minced"
+    - "1 tsp. cayenne pepper"
+    - "2 tsp. kosher salt"
+    - "oil for frying (or ghee)"
+    - "garnish: Maldon (aka the world's greatest salt) or other finishing salt, creme fraiche or yogurt (optional)"
+  instructions:
+    - "Pick over the dal to remove any foreign material, and rinse thorougly. Cover with plenty of water and leave to soak for 4-6 hours."
+    - "Drain the dal. In a blender, grind half of the dal with 6 tbsp. of water (or maybe less, see comment thread below) until thoroughly smooth and fluffy, stopping to scrape down the sides as needed. Remove from blender."
+    - "Put the other half of the dal in the blender with 5 tbsp. of water (or maybe less, see comment thread below) and grind briefly, until it is a coarse paste but retains some texture. Add to the first batch of dal in a bowl."
+    - "Mix in the pepper, asafetida, cayenne and kosher salt. Taste and adjust seasoning."
+    - "Heat a frying pan with enough oil or ghee to fill about 1/2\" deep to a temperature of about 340 F."
+    - "Carefully drop in portions of the dal mixture and lightly press with a spatula to form patties. About 1/4 c. will do fine. Put as many as you can in your pan without crowding them to close. Fry until golden brown on one side (maybe 4 minutes), then flip and brown the other side. Remove from the pan, drain on a paper towel, and hit it with some finishing salt. Hold hot while you fry the rest and serve them forth. Like anything fried, they are at their best minutes after leaving the oil and deteriorate rapidly, so be ready to chow!"
 ---
 
 <a href="/images/2008/03/23/uraddalbada.jpg" rel="lightbox"><img title="Urad Dal Patties (Vada) with Black Pepper" src="/images/2008-small/03/23/uraddalbada.jpg" alt="Urad Dal Patties (Vada) with Black Pepper" width="455" height="302" border="0" /></a>

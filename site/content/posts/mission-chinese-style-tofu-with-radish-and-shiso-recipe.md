@@ -7,6 +7,30 @@ aliases: ["/mission-chinese-style-tofu-with-radish-and-shiso-recipe/", "/2013/08
 cover:
   image: "/images/2013/08/Mission-Chinese-Style-Tofu-with-Radish-and-Shiso-626x415.jpg"
   hidden: true
+recipe:
+  name: "Mission Chinese Food-Style Tofu with Radish and Shiso"
+  yield: "2 as a main course or 4 as part of a larger family-style meal Vegetarian, vegan, and gluten-free if you use gluten-free soy sauce 15 minutes"
+  time: "15 minutes"
+  diet: "Vegan, Vegetarian, Gluten-Free"
+  ingredients:
+    - "2 tablespoons sugar"
+    - "1 tablespoon cornstarch"
+    - "1/4 cup Seitenbacher brand vegetable broth powder or similar"
+    - "6 tablespoons soy sauce (use gluten-free if needed)"
+    - "1 1/3 cup water"
+    - "2 tablespoons vegetable oil"
+    - "8 red radishes, scrubbed, trimmed, cut into bite-sized pieces"
+    - "1 smallish zucchini, medium-dice"
+    - "6 ounces pre-flavored and cooked extra-firm tofu, like Wildwood's baked Teriyaki tofu - you can also use plain extra firm tofu and fry it yourself, I just happened to have this on hand and it worked well in this dish"
+    - "12 whole small red chili pods - I believe they are chili de arbol in Mexican markets, or the ones you typically see in Kung Pao style dishes from a Chinese market (less if you don't care for spicy food)"
+    - "6 green onions cut into 1\" lengths"
+    - "About 20 leaves of shiso"
+    - "2 green onions thinly sliced for garnish"
+  instructions:
+    - "In a small bowl, whisk together the sugar, cornstarch, and vegetable broth powder. Add the soy sauce and whisk to begin to form a paste. Drizzle in the water, whisking to break up lumps. Once the lumps are dissolved, you can add the rest of the water quickly."
+    - "Heat a wok or large cast iron skillet over maximum heat. When it is smoking hot, add the oil and immediately add the radishes and zucchini. Stir-fry until they begin to color and become tender. Add the tofu and chili pods and stir-fry for about a minute, until the tofu picks up a little color."
+    - "Whisk the sauce one more time, reduce the heat of the pan to medium, and add the sauce all at once. It will sputter and boil so be careful. When it reaches a boil, you will see it start to thicken just a bit and turn glossy. Add the green onion and shiso and stir through."
+    - "Quickly, transfer to a serving bowl (or individual bowls), garnish with the green onion, and serve. Warn guests not to eat the chili pods!"
 ---
 
 <a href="/images/2013/08/Mission-Chinese-Style-Tofu-with-Radish-and-Shiso.jpg"><img class="alignnone size-large wp-image-3841" alt="Mission Chinese Style Tofu with Radish and Shiso" src="/images/2013/08/Mission-Chinese-Style-Tofu-with-Radish-and-Shiso-626x415.jpg" width="626" height="415" /></a>

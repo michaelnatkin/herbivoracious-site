@@ -8,6 +8,37 @@ aliases: ["/chili-borracho-recipe/", "/2011/11/chili-borracho-recipe.html"]
 cover:
   image: "/images/cookbook/chili-borracho.jpg"
   hidden: true
+recipe:
+  name: "Chili Borracho"
+  yield: "3 as a one pot meal or 4 with cornbread and guacamole"
+  time: "1 hour"
+  diet: "Vegan"
+  ingredients:
+    - "¼ cup olive oil"
+    - "1 onion, small dice"
+    - "6 cloves garlic, minced"
+    - "1 cup dried pinto beans, rinsed and picked over"
+    - "1 cup dried black beans, rinsed and picked over"
+    - "2/3 cup dried kidney beans, rinsed and picked over"
+    - "2 whole chile negro (dried pasilla)"
+    - "2 teaspoons ancho chili powder"
+    - "2 teaspoons oregano (preferably Mexican oregano)"
+    - "1 teaspoon cumin powder"
+    - "¼ teaspoon cinnamon"
+    - "1 tablespoon cocoa powder"
+    - "2 teaspoons Kosher salt"
+    - "1 12-ounce bottle very dark beer"
+    - "1 14.5-ounce can diced tomatoes"
+    - "1 handful minced cilantro or parsley"
+    - "juice of 1 lime"
+    - "garnish: sour cream, minced onion, shredded cheddar cheese, minced cilantro or parsley, hot sauce"
+  instructions:
+    - "Heat the pressure cooker base (or a 5 quart pot) over a medium high flame. Saute the onion and garlic in the olive oil for 3 minutes."
+    - "Add the pinto beans, black beans, kidney beans, chile negro, ancho chili powder, oregano, cumin powder, cinnamon, cocoa powder, salt, beer and tomatoes. Add 6 cups water. Cover the pressure cooker and cook on high pressure for according to manufacturers suggested time and instructions. (For my pressure cooker, it takes 33 minutes.) Turn off and allow the pressure to release naturally. (If not using a pressure cooker, use precooked beans instead, skip the water, and simmer for 30 minutes.)"
+    - "Remove the lid and discard the whole chiles. Test the beans (all 3 types) to make sure they are done; if not, simmer until tender."
+    - "(Skip this step if not using a pressure cooker). Pour off most of the liquid into a saucepan and simmer that sauce briskly until there is only about 1 cup left, then pour that back into the chile."
+    - "Add the lime juice and cilantro or parsley, mix thoroughly, then taste and adjust seasoning. It will probably need more salt and possibly more chili powder."
+    - "Serve immediately, passing the garnishes for each diner to customize the chile to their taste."
 ---
 <a href="/images/cookbook/chili-borracho.jpg"><img src="/images/cookbook/chili-borracho.jpg" alt="Chili Borracho" /></a>
 

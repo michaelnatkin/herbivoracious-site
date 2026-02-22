@@ -7,6 +7,32 @@ aliases: ["/vietnamese-salad-rolls-goi-cuon-recipe/", "/2013/05/vietnamese-salad
 cover:
   image: "/images/2013/05/Vietnamese-Salad-Rolls-Gỏi-cuốn-626x415.jpg"
   hidden: true
+recipe:
+  name: "Vietnamese Salad Rolls with Shiso and Tofu (Gỏi cuốn) – Recipe"
+  time: "1 hr"
+  diet: "Vegan, Vegetarian, Gluten-Free"
+  ingredients:
+    - "Juice of 3 limes"
+    - "1-inch piece of fresh ginger, grated"
+    - "1 clove garlic, minced"
+    - "1 stalk lemongrass, bottom 3\" only, crushed and minced"
+    - "1 green onion, thinly sliced"
+    - "1/2 teaspoon salt"
+    - "1/2 cup sweet chili sauce"
+    - "12 rice paper wrappers"
+    - "24 shiso leaves"
+    - "1 bunch fresh mint, leaves only"
+    - "1 bunch cilantro sprigs (leaves and tender stems)"
+    - "1/4 pound rice vermicelli, cooked according to package directions and cooled"
+    - "1 cucumber peeled, halved, and thinly sliced lengthwise, trimmed to 4\" lengths"
+    - "1 large carrot, peeled and julienned"
+    - "1 pound tofu, pan fried as in this recipe, cooled, and cut into 24 pieces"
+  instructions:
+    - "Whisk all ingredients together. Taste and adjust seasoning. Reserve."
+    - "Arrange all of the ingredients near your work surface. Fill a pie plate or other shallow pan large enough to hold one of the rice paper wrappers with very hot water."
+    - "To make one roll, submerge a rice paper wrapper in the hot water for just a few seconds. It will still be fairly firm when you remove it. Don't worry, it will continue to hydrate while you arrange the ingredients."
+    - "Place the wrapper on a flat surface. Near the edge closest to you, arrange 2 shiso leaves so they cover about 2/3rds of the width of the edge. Top with a few mint leaves and cilantro sprigs. Top with a small amount of rice noodles - this is hard to measure, but less than you think you should use. Now, in a line parallel to the first, but close to the center, place a slice of cucumber and a few pieces of carrot. Finally, parallel and close to the far edge, arrange two pieces of tofu."
+    - "Begin by rolling completely around the herbs and noodles, slightly tucking under. Then fold in the edges like for a burrito, and then continue rolling to enclose the cucumber, carrot, and tofu. You want to use reasonably firm pressure but not enough to burst the wrapper. Don't worry, you'll get the hang of it in just a few tries!"
 ---
 
 <a href="/images/2013/05/Vietnamese-Salad-Rolls-Gỏi-cuốn.jpg"><img class="alignnone size-large wp-image-3738" alt="Vietnamese Salad Rolls Gỏi cuốn" src="/images/2013/05/Vietnamese-Salad-Rolls-Gỏi-cuốn-626x415.jpg" width="626" height="415" /></a>

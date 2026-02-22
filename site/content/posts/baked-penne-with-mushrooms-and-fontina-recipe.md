@@ -8,6 +8,31 @@ aliases: ["/baked-penne-with-mushrooms-and-fontina-recipe/", "/2012/10/baked-pen
 cover:
   image: "/images/cookbook/baked-penne-with-mushrooms-and-fontina.jpg"
   hidden: true
+recipe:
+  name: "Baked Penne with Mushrooms and Fontina"
+  yield: "4"
+  time: "45 minutes"
+  ingredients:
+    - "10 ounces spinach"
+    - "1 pound penne rigate"
+    - "¼ cup extra-virgin olive oil, divided"
+    - "5 cloves garlic, minced"
+    - "½ white onion, thinly sliced"
+    - "2 pounds white or crimini mushrooms, quartered lengthwise (cut smaller if that is more than bite-sized)"
+    - "Kosher salt"
+    - "2 teaspoons dried oregano"
+    - "½ teaspoon chili flakes"
+    - "½ cup sweet vermouth"
+    - "12 ounces fontina cheese, cut into small cubes"
+    - "fresh ground black pepper"
+    - "3/4 cup freshly grated parmesan cheese"
+  instructions:
+    - "Bring a large pot of salted water to a boil and preheat the oven to 400 F. Lightly grease a 9x13” lasagna pan."
+    - "Put ½ of the spinach in a large metal strainer and carefully dunk in the boiling water for about 30 seconds, until thoroughly wilted. Drain very well and place in the lasagna pan. Repeat with the other half of the spinach. (If you don’t want to do this, you can also microwave the spinach.)"
+    - "Boil the pasta according to package directions; drain well and add to the lasagna pan. While it is boiling, continue with the next step."
+    - "Put 2 tablespoons of the olive oil in your largest skillet over high heat. When the oil is hot, add the garlic, onion, and half the mushrooms (or however much will fit in your skillet up to about a double layer). Season with ½ teaspoon of salt, the oregano, and the chili flakes and cook, stirring occasionally, until well browned on most sides but still thick and meaty, not having given up all of their liquid. Transfer to the lasagna pan. Add the second half of the olive oil and mushrooms to the skillet and cook in the same fashion, adding another ½ teaspoon of salt. When they are done, add the sweet vermouth, deglaze, and cook for about 30 more seconds. Transfer the mushrooms and any juice crispy bits in the skillet to the lasagna pan."
+    - "Add the fontina cheese and several grinds of black pepper to the lasgana pan. Stir everything around thoroughly. If this is too difficult, move some back temporarily to the skillet to make room for stirring. Taste and add more salt if needed."
+    - "Sprinkle the top with the parmesan cheese and bake until bubbly and browned, about 15 minutes. (Alternatively, you can prepare the casserole and then refrigerate for up to 24 hours, then bake when you are ready. When baked from cold it will take 45 minutes to an hour.)"
 ---
 <a href="/images/cookbook/baked-penne-with-mushrooms-and-fontina.jpg"><img src="/images/cookbook/baked-penne-with-mushrooms-and-fontina.jpg" alt="Baked Penne with Mushrooms and Fontina" /></a>
 

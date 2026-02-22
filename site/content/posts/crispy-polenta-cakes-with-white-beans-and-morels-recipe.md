@@ -8,6 +8,26 @@ aliases: ["/crispy-polenta-cakes-with-white-beans-and-morels-recipe/", "/2011/12
 cover:
   image: "/images/cookbook/crispy-polenta-cakes-with-white-beans-and-morels.jpg"
   hidden: true
+recipe:
+  name: "Crispy Polenta Cakes with White Beans and Morels"
+  yield: "4"
+  diet: "Vegan, Gluten-Free"
+  ingredients:
+    - "6 cups cooked and chilled polenta (or 2 cups dry coarse cornmeal)"
+    - "Kosher salt"
+    - "16 dried morel mushrooms"
+    - "¼ teaspoon minced dried rosemary"
+    - "extra virgin olive oil"
+    - "1 ½ cups cooked white beans, such as cannellini (one fifteen ounce canned, drained and rinsed)"
+    - "handful parsley leaves"
+    - "fresh ground black pepper"
+    - "flaky sea salt"
+  instructions:
+    - "If not using previously cooked and chilled polenta, bring 6 cups of water to a boil. Whisk in the cornmeal and 1 tablespoon of Kosher salt. Bring back to a boil, reduce to a simmer, and stir occasionally until thick and fairly smooth, about 30 minutes. You may need to add a little more water if it starts to pull away from the sides of the pan. When done, transfer to a heatproof bowl and refrigerate for at least 3 hours, until well chilled."
+    - "Put the dried morel mushrooms in a bowl and cover them with boiling water. Allow to sit for 15 minutes. Drain off and reserve the soaking liquid and strain through your finest sieve. Halve any mushrooms that are larger than bite-sized."
+    - "Set plates aside to warm. Put 1 tablespoon of olive oil in a small skillet over medium high heat. Fry the mushrooms with a big pinch of Kosher salt and the rosemary for 2 minutes. Add the beans, ½ cup of the reserved mushroom soaking liquid and ½ teaspoon of salt and reduce heat to maintain a simmer. Taste and adjust seasoning."
+    - "Put ¼ cup of extra-virgin olive oil in your largest skillet, preferably cast iron over medium-high heat. Take ½ cup of the chilled polenta and form it into a patty, about 3/8” thick. Repeat with 3 more patties. Fry on one side until quite golden-brown, then flip and brown the other side. Repeat for a second batch of 4 patties."
+    - "To serve, divide the beans with some of the broth and the morels among the plates. Top with 2 polenta cakes each, and finish with a few leaves of parsley, fresh ground black pepper, and a generous scattering of flaky sea salt."
 ---
 <a href="/images/cookbook/crispy-polenta-cakes-with-white-beans-and-morels.jpg"><img src="/images/cookbook/crispy-polenta-cakes-with-white-beans-and-morels.jpg" alt="Crispy Polenta Cakes with White Beans and Morels" /></a>
 

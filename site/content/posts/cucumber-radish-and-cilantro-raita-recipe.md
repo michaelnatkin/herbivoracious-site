@@ -7,6 +7,21 @@ aliases: ["/cucumber-radish-and-cilantro-raita-recipe/", "/2009/09/cucumber-radi
 cover:
   image: "/images/old/6a00e008d618bb88340120a5ac8679970c-500wi.jpg"
   hidden: true
+recipe:
+  name: "Cucumber and Radish Raita"
+  yield: "at least 4 as a condiment"
+  ingredients:
+    - "2 cups plain yogurt (I prefer the thicker Greek style such as Fage, Greek Gods, or Oikos)"
+    - "1/2 to 1 whole medium cucumber, peeled, halved, seeded and grated"
+    - "6 medium radishes, grated"
+    - "1 handful cilantro leaves, chopped"
+    - "1 teaspoon salt"
+    - "1 tablespoon lemon juice"
+  instructions:
+    - "Put the yogurt in a bowl with plenty of extra room. Beat it thoroughly with a spoon or whisk (about 1 minute, until you see the texture thin out)."
+    - "Add all of the remaining ingredients and mix."
+    - "If needed, add a tablespoon of water at a time until you have a thick but liquid, pourable sauce."
+    - "Taste and adjust seasonings; it may need more salt or lemon juice to make the flavor zing."
 ---
 
 <p><a href="/images/old/6a00e008d618bb88340120a5ac8679970c-800wi.jpg" rel="lightbox" style="display: inline;"><img alt="Cucumber_Radish_Raita" class="at-xid-6a00e008d618bb88340120a5ac8679970c " src="/images/old/6a00e008d618bb88340120a5ac8679970c-500wi.jpg" /></a><br />Cucumber-Radish Raita</p>  <p>Raita is a simple yogurt-based sauce that can be served with almost any Indian meal. It makes a cooling condiment when a curry gets a little too spicy, but the real beauty is when it is mixed with basmati rice. I find that combination so tasty that I will often skip dessert to make room for an extra portion.</p>The most common variety of raita seems to be made with grated cucumber, similar to a Greek tzatziki, but the possible variations are endless. I&#39;ve seen recipes for banana raita, spicy raita, eggplant raita, even vermicelli raita - which sounds a little frightening.<p>The yogurt for raita should be thick, and it is always thoroughly beaten before mixing in the garnish. The beating changes the texture, making it smooth and creamy and altogether more appealing as a sauce.</p>  <p>Here is a simple cucumber, radish and cilantro raita that you can embellish with more herbs and spices if you see fit. Good options would be roasted cumin seeds, black pepper, and fresh mint.</p>  <div class="recipe-card">

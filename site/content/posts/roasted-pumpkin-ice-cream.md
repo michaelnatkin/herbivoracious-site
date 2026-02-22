@@ -7,6 +7,19 @@ aliases: ["/roasted-pumpkin-ice-cream/", "/2013/10/roasted-pumpkin-ice-cream.htm
 cover:
   image: "/images/2013/11/Roasted-Pumpkin-Ice-Cream-624x415.jpg"
   hidden: true
+recipe:
+  name: "Roasted Pumpkin Ice Cream"
+  yield: "about 1 liter (1.1 quarts)"
+  ingredients:
+    - "200 grams roasted pumpkin puree (about 1 cup)"
+    - "300 grams whole milk (about 1 cup + 2 tablespoons)"
+    - "300 grams heavy cream (about 1 cup + 2 tablespoons)"
+    - "150 grams sugar (about 2/3 cup)"
+    - "120 grams egg yolk (about 6 yolks - reserve whites for another use)"
+  instructions:
+    - "Blend all ingredients, strain, and cook sous vide for 1 hour at 85 C / 185 F. Alternatively, cook using standard custard ice cream technique. If you do go the sous vide route, you may also want to experiment with a shorter cooking time. Grant at ChefSteps told me that the hour long time brings out more of the egg yolk flavor, which is very pleasant but maybe fights with the pumpkin a little."
+    - "Cool the base, then refrigerate overnight."
+    - "Churn ice cream however you see fit - with a home ice cream maker, dry ice, liquid nitrogen, or PacoJet if you have one handy."
 ---
 
 <a href="/images/2013/11/Roasted-Pumpkin-Ice-Cream.jpg"><img class="alignnone size-large wp-image-3899" alt="Roasted Pumpkin Ice Cream" src="/images/2013/11/Roasted-Pumpkin-Ice-Cream-624x415.jpg" width="624" height="415" /></a>

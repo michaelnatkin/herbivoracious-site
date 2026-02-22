@@ -8,6 +8,29 @@ aliases: ["/spanish-lentil-and-mushroom-stew-recipe/", "/2011/10/spanish-lentil-
 cover:
   image: "/images/cookbook/spanish-lentil-and-mushroom-stew.jpg"
   hidden: true
+recipe:
+  name: "Spanish Lentil and Mushroom Stew"
+  yield: "4-6"
+  time: "40 minutes"
+  diet: "Vegan, Gluten-Free"
+  ingredients:
+    - "1 small white onion, finely diced"
+    - "3 cloves garlic, finely diced"
+    - "3 tablespoons of olive oil for the lentils, 2 tablespoons for the mushrooms, 2 teaspoons for the tomatoes"
+    - "2 cups French green lentils, picked over and washed"
+    - "1 teaspoon smoked paprika (such as pimenton dulce)"
+    - "Kosher salt"
+    - "1 tablespoon sherry vinegar for lentils + 2 teaspoons for the tomatoes"
+    - "1 pound crimini mushrooms, quartered lengthwise"
+    - "1 pint cherry tomatoes, halved"
+    - "12 big leaves of basil, chiffonade"
+    - "black pepper"
+  instructions:
+    - "In a large saucepan, over medium-high heat, saute the onion and garlic with 3 tablespoons of olive oil and a pinch of salt until softened, about 3 minutes. Add the lentils and 4 cups of water. Bring to a boil, reduce to a simmer, and cook, uncovered, until tender but not falling apart, about 20 minutes. Drain."
+    - "While the lentils are cooking, put 2 tablespoons of olive oil in your largest skillet. If it isn’t big enough to hold the mushrooms in roughly one layer, work in batches. When the oil is shimmering, fry the mushrooms, turning occasionally until well browned on most sides. Season with ¼ teaspoon Kosher salt."
+    - "When the lentils are cooked, add the smoked paprika, 1 teaspoon of salt, and the sherry vinegar. Taste and adjust seasoning. I like there to be just an edge of vinegary sourness without it being overpowering."
+    - "Toss the cherry tomatoes and basil with 2 teaspoons of olive oil, 2 teaspoonsof sherry vinegar, and ¼ teaspoon Kosher salt."
+    - "To serve, divide the lentils into bowls. Top with the mushrooms, and top that with the salad. Give the whole thing a grind of black pepper and optionally another little dusting of smoked paprika."
 ---
 <a href="/images/cookbook/spanish-lentil-and-mushroom-stew.jpg"><img src="/images/cookbook/spanish-lentil-and-mushroom-stew.jpg" alt="Spanish Lentil and Mushroom Stew" /></a>
 

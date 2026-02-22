@@ -7,6 +7,45 @@ aliases: ["/tiny-eggplant-and-okra-in-tamarind-sauce-recipe/", "/2010/01/tiny-eg
 cover:
   image: "/images/old/6a00e008d618bb88340120a7b01c33970b-500wi.jpg"
   hidden: true
+recipe:
+  name: "Tiny Eggplant and Okra in Tamarind Sauce"
+  yield: "4Vegetarian, vegan, and gluten-free For the eggplant:"
+  diet: "Vegan, Gluten-Free"
+  ingredients:
+    - "1 teaspoon coriander seeds"
+    - "1 teaspoon cumin seeds"
+    - "1/4 teaspoon chili flakes"
+    - "6 black peppercorns"
+    - "1 teaspoon black mustard seeds"
+    - "1/4 teaspoon salt"
+    - "2 tablespoons vegetable oil"
+    - "8 tiny eggplants, about 3 inches long and 1 1/2 inches in diameter"
+    - "3 tablespoons ghee or vegetable oil"
+    - "2 teaspoons black mustard seeds"
+    - "3/4 cup minced white onion"
+    - "1/3 cup canned crushed tomatoes (or use fresh in season)"
+    - "8 ounces of okra, trimmed and cut into bite-sized pieces"
+    - "2 cups water"
+    - "1 heaping teaspoon Tamicon brand tamarind concentrate"
+    - "1 teaspoon amchoor (dried mango powder, available at Indian groceries)"
+    - "4 kaffir lime leaves (best substitute is lime zest)"
+    - "salt"
+    - "sugar"
+    - "fresh ground black pepper"
+    - "finishing salt"
+    - "cilantro"
+  instructions:
+    - "Preheat the oven to 450."
+    - "Grind all of the spices and salt together in a mortar and pestle or spice grinder. Combine with the vegetable oil."
+    - "Cut the eggplant into 4 segments lengthwise, leaving the stem intact. (See photos)."
+    - "Rub all of the cut surfaces with the spice mixture and place in a single layer in a casserole that you can use to serve the final dish."
+    - "Roast until thoroughly and completely tender, probably 30 minutes or so."
+    - "In a large skillet, heat the ghee or vegetable oil over medium-high heat."
+    - "Add the mustard seeds and fry for a few seconds until they begin to pop. Add the onion and tomato and a big pinch of salt and cook, stirring frequently, for about 5 minutes until the mixture begins to darken."
+    - "Add the okra and fry for 2 minutes. Add the water. Mix the tamarind concentrate into a few teaspoons of water to dissolve and add it. Add the amchoor and kaffir lime leaves, another pinch of salt and one of sugar."
+    - "Simmer about 10 minutes, until the okra is tender and sauce is slightly reduced. Taste the sauce and adjust seasoning. It may need more tamarind, salt or sugar to be balanced."
+    - "Remove the eggplants from the casserole. Transfer the okra and sauce to the hot casserole and put the eggplant back on top. Return to the oven for 5 minutes or so, until the whole thing is bubbling hot."
+    - "Remove from the oven, hit with several aggressive grind of black pepper, a little finishing salt, and garnish with cilantro."
 ---
 
 <p>&nbsp;<a href="/images/old/6a00e008d618bb88340120a7b01c33970b-800wi.jpg" rel="lightbox" style="display: inline;"><img  alt="Tiny_Eggplant" class="asset asset-image at-xid-6a00e008d618bb88340120a7b01c33970b " src="/images/old/6a00e008d618bb88340120a7b01c33970b-500wi.jpg" /></a> <br><em>Tiny eggplant, rubbed with spices and ready to roast</em></p>  <p> I didn't have a definite plan when I picked up these gorgeous little eggplants, I just knew they had to come home with me. I ended up rubbing them with spices and roasting, then serving them in a <strong>sweet-tart tamarind curry</strong>. Later I realized that I'd made a little joke - they were kind of a spin on <a href="http://rasamalaysia.com/thai-recipe-son-in-law-eggs/" target="_blank">Son-In-Law Eggs</a>, only with egg-sized eggplants.</p>  <p>Although I didn't fill the eggplants, I was also inspired by Healthy and Gourmet's <a href="http://healthyandgourmet.blogspot.com/2009/09/stuffed-eggplant.html" target="_blank">Stuffed Baby Eggplant</a>. I liked the way Natasha had cut them in quarters but left the stem attached. It turns out to be fun to eat most of the eggplant with a fork and then pick up the stem and sort of <strong>suck out the last bit of goodness</strong>.</p>  <p>The recipe calls for kaffir lime leaves, which aren't always easy to source. Try a well stocked Asian or Indian grocery. If you haven't had them, they produce an amazingly floral citrus scent. There really is no substitute, but a little lime zest is as close as you can come.</p>  <p><a href="/images/old/6a00e008d618bb88340120a7b01d0c970b-800wi.jpg" rel="lightbox" style="display: inline;"><img  alt="Tamarind_Eggplant" class="asset asset-image at-xid-6a00e008d618bb88340120a7b01d0c970b " src="/images/old/6a00e008d618bb88340120a7b01d0c970b-500wi.jpg" /></a><br><em>Tiny Eggplant and Okra in Tamarind Sauce<br></em></p>  <p>If you are <strong>okra-negative</strong>, you could just leave them out of this dish. Are you okra-positive like me? I don't even mind if they are a little slimy.</p>  <p><strong>Toasted and crushed peanuts</strong> on top would be perfect. </p>  <p>I was thinking of this more as an Indian dish, so I served it with saffron basmati rice, raita, papadum and <strong>lime pickle</strong>. But you could also omit the tomato and go in a Thai or Malaysian direction with jasmine or sticky rice.</p>  <div class="recipe-card">

@@ -7,6 +7,31 @@ aliases: ["/one-day-of-work/", "/2007/10/one-day-of-work.html"]
 cover:
   image: "/images/2007-small/10/20/cornmealpancakes.jpg"
   hidden: true
+recipe:
+  name: "Spicy Angel Hair Pasta"
+  diet: "Vegan, Vegetarian"
+  ingredients:
+    - "1/4 lb angel hair pasta"
+    - "1 slice country bread"
+    - "olive oil"
+    - "2 large cloves of garlic, minced"
+    - "1 tsp. chili flakes (or to taste)"
+    - "butter"
+    - "lemon"
+    - "parmesan (reggiano), grated"
+    - "sea salt"
+    - "pepper"
+    - "parsley"
+  instructions:
+    - "Start boiling a pot of salted water"
+    - "Toast bread until quite dark, cool a bit, then chop with a knife (or food process or whatever, but I like kinda coarse breadcrumbs for this)"
+    - "When the water boils, heat a big frying pan or skillet over medium flame"
+    - "Drop the pasta"
+    - "Put a good amount olive oil in the skillet, and add the garlic and chili flakes"
+    - "After a minute or two, add the breadcrumbs and stir occasionally"
+    - "When the pasta is al dente (probably 4 minutes for angel hair), drain it well and add right to the skillet"
+    - "Add a good nub of butter, a handful of parm, a squeeze of lemon, salt and pepper to taste, and quickly toss a few times with tongs. Taste and adjust, quickly."
+    - "Serve piping hot in big bowls, garnished with a generous amount of more parm, a few more grains of sea salt, fresh ground pepper, and parsley"
 ---
 
 <a href="/images/2007/10/20/cornmealpancakes.jpg" rel="lightbox"><img title="Cornmealpancakes" src="/images/2007-small/10/20/cornmealpancakes.jpg" alt="Cornmealpancakes" width="455" height="302" border="0" /></a>

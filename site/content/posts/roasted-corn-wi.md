@@ -7,6 +7,21 @@ aliases: ["/roasted-corn-wi/", "/2008/07/roasted-corn-wi.html"]
 cover:
   image: "/images/2008-small/07/16/roasted_corn_with_ancho_chili_butte.jpg"
   hidden: true
+recipe:
+  name: "Ancho Chili Butter"
+  yield: "8 tablespoons, enough for 6 ears of corn Vegetarian and gluten-free, not vegan"
+  diet: "Vegan, Vegetarian, Gluten-Free"
+  ingredients:
+    - "1/4 pound (1 stick) unsalted (sweet cream) butter, softened to room temperature"
+    - "2 dried ancho chilis"
+    - "juice of 1/2 lemon"
+    - "pinch of salt"
+  instructions:
+    - "Lightly toast the chilis using tongs over a flame, or in a dry skillet."
+    - "Allow to cool, then carefully (see discussion above), remove the stem and seeds."
+    - "If you have a mini food processor, put the chilis and the lemon juice in it and grind as fine as possible. You'll have to push it down a bunch of times. Then add the butter and salt and process until well mixed. The chilis will still be in small bits, not perfectly smooth, but they will soften in the butter so that is fine."
+    - "If you don't have a food processor, chop the chilis as fine as possible with a knife or use a mortar and pestle. Then mix in the butter and salt."
+    - "Refrigerate in a ramekin, or wrap into a log shape in parchment paper."
 ---
 
 <a href="/images/2008/07/16/roasted_corn_with_ancho_chili_butte.jpg" rel="lightbox"><img title="Roasted_corn_with_ancho_chili_butte" src="/images/2008-small/07/16/roasted_corn_with_ancho_chili_butte.jpg" alt="Roasted_corn_with_ancho_chili_butte" width="455" height="302" border="0" /></a>

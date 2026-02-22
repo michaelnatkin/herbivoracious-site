@@ -7,6 +7,26 @@ aliases: ["/challah-french-toast-bread-pudding-goodness-recipe/", "/2009/03/chal
 cover:
   image: "/images/old/6a00e008d618bb883401127917950928a4-500wi.jpg"
   hidden: true
+recipe:
+  name: "Challah French Toast Bread Pudding"
+  yield: "4 Vegetarian; not vegan or gluten-free"
+  diet: "Vegan, Vegetarian, Gluten-Free"
+  ingredients:
+    - "most of 1 loaf of challah or brioche, most of the crust removed, cut into large cubes (about 1.5\")"
+    - "4 eggs, beaten"
+    - "2 cups milk (or buttermilk is good too)"
+    - "1 teaspoon vanilla, or seeds scraped from one fresh vanilla bean"
+    - "1/2 teaspoon cinnamon"
+    - "1/2 teaspoon salt"
+    - "3 tablespoons sugar (or honey, or sweetener of your choice)"
+    - "1 tablespoon butter"
+  instructions:
+    - "Butter a large casserole and fill with the bread."
+    - "Whisk the milk, vanilla, cinnamon, salt and sugar into the eggs."
+    - "Pour the custard mixture over the bread and toss."
+    - "Refrigerate overnight. This might not be all that necessary, but I haven't tried skipping it. It would probably be fine."
+    - "Preheat the oven to 375 F. Give the bread mixture one more toss with a light touch, trying to \"fluff\" it up a bit. Bake until lightly golden brown and a toothpick inserted in several spots comes out dry (an internal temperature of about 190 F. is good). This will probably take about 45 minutes."
+    - "Optionally sprinkle with powdered sugar and serve. Maple syrup is good too."
 ---
 
 <p style="font-size: 12px; font-family: Arial;"><a style="display: inline;" href="/images/old/6a00e008d618bb883401127917950928a4-800wi.jpg" rel="lightbox"><img class="at-xid-6a00e008d618bb883401127917950928a4 " style="width: 500px;" src="/images/old/6a00e008d618bb883401127917950928a4-500wi.jpg" alt="Challah_French_Toast_Bread_Pudding" /></a>

@@ -7,6 +7,10 @@ aliases: ["/recipe-crostini/", "/2008/03/recipe-crostini.html"]
 cover:
   image: "/images/2008-small/02/11/whitebeanandbasilcrostinitopping.jpg"
   hidden: true
+recipe:
+  name: "Crostini with White Beans and Basil"
+  instructions:
+    - "Preheat oven to 400 F."
 ---
 
 <p><a href="/images/2008/02/11/whitebeanandbasilcrostinitopping.jpg" rel="lightbox"><img width="455" height="302" border="0" src="/images/2008-small/02/11/whitebeanandbasilcrostinitopping.jpg" alt="Crostini with White Beans and Basil" title="Crostini with White Beans and Basil" /></a> <br />Crostini with White Beans and Basil</p>  <p>This is the last of the three crostini toppings I did for the recent <a href="http://kavana.org/">Kavana Men Cook</a> event, and it is admittedly similar to the <a href="/2008/01/recipe-white-be/">other white bean dip</a> I posted awhile back with grilled onions. This version is pared down further, focusing simply on clear flavors from the Meyer lemon and basil. Garlic and/or chili flakes would be appropriate additions, and you could use fresh parsley, tarragon, or oregano instead of the basil.</p>  <div class="recipe-card">

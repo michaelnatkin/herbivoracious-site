@@ -8,6 +8,24 @@ aliases: ["/red-chili-sauce-for-tamales/", "/2011/11/red-chili-sauce-for-tamales
 cover:
   image: "/images/old/6a00e008d618bb8834014e8a846a38970d-500wi.jpg"
   hidden: true
+recipe:
+  name: "Red Chili Sauce for Tamales"
+  diet: "Vegan, Vegetarian"
+  ingredients:
+    - "4 ancho chilis"
+    - "2 morita chilis (or 1 chipotle in adobo)"
+    - "1 dried aji amarillo chili"
+    - "1/2 large white onion, cut into a few pieces"
+    - "2 cloves garlic (unpeeled)"
+    - "4 teaspoons Better-than-Bouillon brand vegetable base"
+    - "One 14 ounce can fire-roasted tomatoes"
+    - "1 tablespoon Mexican oregano"
+    - "1 tablespoon unsweetened cocoa powder"
+    - "1 tablespoon salt"
+  instructions:
+    - "Wearing rubber gloves, tear open the chilis and dispose of their seeds and stems. Rip the chilis into smallish pieces. Put them in a blender jar and pour 4 cups boiling water over them. Let stand for 15 minutes."
+    - "Place a medium skillet over medium high heat. Add the onion and garlic and cook, tossing a couple of times, until softened and slightly browned. Remove from heat, cool slightly peel the garlic, and add to the blender jar."
+    - "Add the vegetable base, the tomatoes, the oregano, the cocoa powder and salt. Cover the blender and process on high speed for 1 minute. The result should be a thick sauce. If it is too thick, add a bit more water. Taste and adjust seasoning, then use to make tamales."
 ---
 
 <a style="display: inline;" href="/images/old/6a00e008d618bb8834014e8a846a38970d-800wi.jpg" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb8834014e8a846a38970d" title="Tofu and Red Chili Tamales" src="/images/old/6a00e008d618bb8834014e8a846a38970d-500wi.jpg" alt="Tofu and Red Chili Tamales" /></a>

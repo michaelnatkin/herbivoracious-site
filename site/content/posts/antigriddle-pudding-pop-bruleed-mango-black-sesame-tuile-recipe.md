@@ -7,6 +7,35 @@ aliases: ["/antigriddle-pudding-pop-bruleed-mango-black-sesame-tuile-recipe/", "
 cover:
   image: "/images/old/6a00e008d618bb88340120a7d18cbb970b-500wi.jpg"
   hidden: true
+recipe:
+  name: "Anti-griddle Pudding Pop, Bruleed Mango, Black Sesame Tuille"
+  yield: "1Vegetarian; not vegan nor gluten-free Coconut milk sauce:"
+  diet: "Vegan, Gluten-Free"
+  ingredients:
+    - "1 can coconut milk"
+    - "6 kaffir lime leaves"
+    - "1\" piece of ginger, peeled and finely grated"
+    - "2 teaspoons agave nectar"
+    - "pinch of salt"
+    - "Ultra-tex 3"
+    - "1 piece of mango, approx 2\" x 3/4\" x 3/4\""
+    - "1 teaspon white sugar"
+    - "1 tablespoon chocolate pudding (see link above)"
+    - "1/8 teaspoon dulce de leche"
+    - "flaky sea salt"
+    - "a drop of toasted sesame oil"
+    - "1 lollipop stick (cut one off of a dum-dum)"
+    - "1/2 black sesame tuile (see link above)"
+    - "tiny bit of chiffonade shiso leaf"
+    - "coconut milk sauce"
+  instructions:
+    - "In a small saucepan, warm the coconut milk with the kaffir lime leaves, ginger, agave nectar and salt. Turn off the heat and allow to infuse for 30 minutes. Strain through a fine sieve. Taste and adjust seasoning. It should be intensely flavored as you will be serving a very small amount."
+    - "Using an immersion blender, get a good vortex going. Start sprinkling in Ultra-tex 3, a teaspoon at a time until it reaches a pudding-like consistency, thick enough to stand up on the plate."
+    - "Strain again in case you got any lumps. Chill."
+    - "At one end of the mango, cut a little slot to hold tuile. At the other, poke a hole to hold the pudding pop. Sprinkle the mango with the sugar and brulee (carefully) with a torch until the sugar is deep brown."
+    - "Put half the chocolate pudding on the antigriddle in a small circle, about 1 1/2\" in diameter. Quickly dip the lollipop stick in the dulce de leche, forming a litle ball at the end, and place it in the center of the pudding. Add a couple grains of salt and 1 drop of toasted sesame oil. Top with the rest of the pudding."
+    - "When the first side is frozen but the middle is still soft, flip the pop and freeze the second side. You'll get the hang of determining when it is frozen on the outside but still pleasingly soft in the interior. And eating your first few mistakes will be fun. Just please be careful not to freeze your tongue."
+    - "To plate, place the tuile cookie in the slot on the mango and the lollipop in the hole. Add a tiny pinch of the shiso leaf and a small stripe of the coconut milk sauce and serve."
 ---
 
 <p>&#0160;<a href="/images/old/6a00e008d618bb88340120a7d18cbb970b-800wi.jpg" rel="lightbox" style="display: inline;"><img alt="Pudding_Pop" class="asset asset-image at-xid-6a00e008d618bb88340120a7d18cbb970b " src="/images/old/6a00e008d618bb88340120a7d18cbb970b-500wi.jpg" /></a> <br /><em>Anti-griddle Pudding Pop, Bruleed Mango, Black Sesame Tuile</em></p><p> This was my dish for the <strong>MasterChef auditions</strong> that took Seattle by storm last weekend. I guess it must have been ok, it earned me a callback for a second round interview. There were no cooking facilities for the audition, so the judges made allowances if your food was intended to be served hot. </p>  <p>Still I figured I&#39;d work with those restrictions instead of against them by making dessert that would allow me to do some last minute cooking with my own tools. I bruleed the mango <strong>with a torch</strong> and made the pudding pop (chocolate, filled with dulce de leche, sea salt, and a drop of <a href="https://www.amazon.com/dp/B005WXMPMQ?tag=herb-hugo-20">toasted sesame oil</a>) on a <strong>homebrew anti-griddle</strong>.</p>  <p>Anti-griddles are popular in modern-style restaurants. They circulate liquid nitrogen under a flat griddle surface, so that you can freeze a liquid in seconds. I started making a homestyle version using the dry ice from our weekly <a href="http://www.amazon.com/gp/redirect.html?ie=UTF8&amp;location=http%3A%2F%2Ffresh.amazon.com%2F&amp;tag=poeticlicen07-20&amp;linkCode=ur2&amp;camp=1789&amp;creative=9325" target="_blank">Amazon Fresh</a> order. (If you try this yourself, use gloves and please be careful - touching dry ice <strong>can hurt you badly</strong>). I just put it between two sheet pans or cake pans. I&#39;ve frozen all manner of yogurts, puddings, sauces and so forth. It helps to use a slightly thickened liquid so you can control how it spreads. It also is a good idea to lightly wipe it with oil to make it easier to release your food.</p>  <p>The white sauce you see on the front of the plate is coconut milk, infused with <a href="https://www.amazon.com/dp/B0CY8JH83F?tag=herb-hugo-20">kaffir lime leaf</a> and ginger, and thickened with <a href="https://www.amazon.com/dp/B00BTI833I?tag=herb-hugo-20">Ultra-Tex 3</a>. Ultra-Tex 3 is a modified food starch that <strong>thickens at room temperature</strong>. This makes it easy to see when you&#39;ve reached the desired texture, so you don&#39;t have to be as precise as with some of the other fancy-pants hydrocolloids out there. It releases flavor well and doesn&#39;t get gummy. I know it sounds all technical, but really if you are an ambitious home cook, you should consider adding it to your pantry. I think you will find it has a lot of applications.</p>  <p>For the pudding, I followed <a href="http://smittenkitchen.com/2008/02/best-chocolate-pudding/" target="_blank">this simple formula</a> at Smitten Kitchen. Tastes great. Just be sure and use a good quality dark chocolate. These <a href="http://www.cookingdebauchery.com/cooking_debauchery/2009/02/tuiles-with-whipped-creme-fraiche.html" target="_blank">tuiles at Cooking Debauchery</a> are dandy as well. Add about a tablespoon of <strong><a href="https://www.amazon.com/dp/B07PB8Y21N?tag=herb-hugo-20">Japanese black sesame paste</a></strong> and sprinkle them with toasted white sesame seeds before baking.</p><p>All of the components here will make way more than you will need for a small number of plates, it just isn&#39;t practical to make them in much smaller batches. I&#39;ll give the recipe in terms of a single serving.</p><div class="recipe-card">

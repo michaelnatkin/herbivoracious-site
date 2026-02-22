@@ -8,6 +8,26 @@ aliases: ["/celery-soup-with-fregola-sarda-or-israeli-couscous-recipe/", "/2012/
 cover:
   image: "/images/cookbook/celery-soup-with-fregola-sarda-or-israeli-couscous.jpg"
   hidden: true
+recipe:
+  name: "Celery Soup with Fregola Sarda or Israeli Couscous"
+  time: "20 minutes"
+  ingredients:
+    - "½ cup fregola sarda or Israeli couscous"
+    - "2 tablespoons extra-virgin olive oil"
+    - "½ cup finely diced white onion"
+    - "1 teaspoon Kosher salt"
+    - "2 outer ribs celery, finely diced"
+    - "juice ½ lemon"
+    - "1 tablespoon shoyu"
+    - "¼ cup grated parmesan or grana padano cheese"
+    - "1/4 cup very thinly sliced inner rib of celery"
+    - "big handful celery leaves"
+    - "fresh ground black pepper"
+  instructions:
+    - "Set aside 4 serving bowls to warm. Place a pot that holds at least 2 quarts over medium heat. If using fregola sarda, skip to step 2. If using Israeli couscous, dry-toast it in the pot, stirring occasionally until light, brown."
+    - "Add the olive oil, onion, kosher salt, and diced outer ribs of celery. Saute until the vegetables have softened somewhat, about 4 minutes. Add the fregola sarda if using. Add 4 cups of water and bring to a simmer, then lower the heat. Cook until the pasta is just al dente, about 10-12 minutes (or check package directions)."
+    - "Turn off the heat and stir in the lemon juice and shoyu. Taste and adjust seasoning."
+    - "Divide the soup among the 4 bowls. Top with a sprinkle of grated cheese, the raw celery, the celery leaves, and a grind of black pepper. Serve immediately."
 ---
 <a href="/images/cookbook/celery-soup-with-fregola-sarda-or-israeli-couscous.jpg"><img src="/images/cookbook/celery-soup-with-fregola-sarda-or-israeli-couscous.jpg" alt="Celery Soup with Fregola Sarda or Israeli Couscous" /></a>
 

@@ -8,6 +8,35 @@ aliases: ["/fruit-salad/", "/2011/04/fruit-salad.html"]
 cover:
   image: "/images/old/6a00e008d618bb8834014e604fd274970c-500wi.jpg"
   hidden: true
+recipe:
+  name: "Fruit Salad"
+  yield: "4 For the lime glass:"
+  diet: "Vegan, Vegetarian, Gluten-Free"
+  ingredients:
+    - "30 grams isomalt"
+    - "zest of one lime"
+    - "12 oil-cured black olives, pitted"
+    - "extra virgin olive oil"
+    - "lime juice"
+    - "half of 1 ripe, unblemished avocado"
+    - "1 ripe heirloom tomato"
+    - "4 blood oranges"
+    - "1 packet Alpine brand spiced apple cider mix"
+    - "8 red globe grapes, chilled and peeled"
+    - "1 tablespoon fresh papaya seeds, rinsed"
+    - "lemon thyme leaves"
+    - "cherry-smoked sea salt (or Maldon (aka the world's greatest salt) )"
+  instructions:
+    - "Make isomalt powder according to these instructions. Put the powder into a small, fine sieve and distribute it in thin layer a 6\" x 6\" area on another silpat lined sheet pan. (You'll have more powder than you need, but this will give you enough to try a few times if necessary). Set oven to 300 F. Bake, watching carefully, until the isomalt just melts. Remove from the oven."
+    - "If you will serve the salad very soon, grate the lime zest directly over the isomalt, allow to cool, then break off 4 small pieces to serve. If you are going to wait awhile, break the isomalt glass into the pieces and set aside. When it is time to serve, quickly melt their surface with a blowtorch, add the lime zest, allow to cool and then proceed."
+    - "Puree the olives thoroughly in a coffee grinder or mini food processor. You might have to use more olives just to make the machine work. Force through a fine sieve and discard the stuff that won't pass. Stir in a bit of olive oil to reach a consistency where it can be drizzled, but still has enough body to not run on the plate."
+    - "Lay out a 10\" length of plastic wrap as flat as possible. Squeeze some lime juice on it and brush around. Scoop out the avocado in the middle of the plastic wrap, avoiding any discolored bits. Squeze more lime juice on top of the avocado. Cover with another sheet of plastic wrap."
+    - "Gently squish with your fingers and then roll with a rolling pin to make an even layer of avocado, a generous 1/8\" thick. Be sure to press enough to get rid of any voids. Using a 3\" square template and a sharp knife, cut out 4 squares. Set aside in the refrigerator."
+    - "Set up four small, chilled plates. Make a line of the black olive puree on each plate. Cut the tomato into wedges along the seed pocket lines and scoop out four seed pockets with their gel, leaving behind all of the tomato flesh. Place one seed pocket in the middle of each line of black olive puree."
+    - "Remove the plastic wrap from one side of each piece of avocado. Invert onto a plate and remove the top piece of plastic wrap. Brush on additional lime juice and season well with the cherry-smoked sea salt."
+    - "Cut the top and bottom off of each blood orange. Using a very small ring mold or an apple corer, cut out the center of each orange. Set each orange on your cutting board and using a sharp knife, remove all of the peel and pith, trying not to break the circle of orange. Now make one slice through the wall. Unfurl the orange, gently give it a slight twist, and place on a corner of the avocado. Lean a small piece of lime glass against the blood orange."
+    - "Make a small pile of the apple cider powder on each plate (about 3/4 teaspoon). Place one of the peeled grapes on the pile and the other next to it."
+    - "Sprinkle a few papaya seeds around the plate, and a few lemon thyme leaves. Scatter another few crystals of the salt and serve immediately."
 ---
 
 <div itemscope itemtype="http://data-vocabulary.org/Recipe">

@@ -7,6 +7,21 @@ aliases: ["/young-coconut-salad/", "/2011/01/young-coconut-salad.html"]
 cover:
   image: "/images/old/6a00e008d618bb88340148c7a4e76b970c-500wi.jpg"
   hidden: true
+recipe:
+  name: "Young Coconut Salad"
+  yield: "4"
+  diet: "Vegan, Vegetarian, Gluten-Free"
+  ingredients:
+    - "2 young coconuts (not mature coconuts!)"
+    - "2 limes, halved"
+    - "1 cup watercress leaves, cleaned and dried"
+    - "¼ cup pomegranate arils"
+    - "flaky sea salt"
+  instructions:
+    - "Open the coconut tops and reserve the coconut water. If you are going to carbonate the coconut water, do so now. Put the seltzer bottle or plain coconut water in the coldest part of the refrigerator."
+    - "Cut the coconuts in half lengthwise. Immediately rub the cut shell surface with a lime half to prevent discoloration."
+    - "Place a tight, fluffy handful of watercress in each coconut half. Top with a few pomegranate arils. Squeeze in a bit of lime juice and top with a few flakes of sea salt."
+    - "Serve immediately, with the coconut water in glasses on the side."
 ---
 
 <a style="display: inline;" href="/images/old/6a00e008d618bb88340148c7a4e76b970c-800wi.jpg" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb88340148c7a4e76b970c" title="Young Coconut Salad" src="/images/old/6a00e008d618bb88340148c7a4e76b970c-500wi.jpg" alt="Young Coconut Salad" /></a>

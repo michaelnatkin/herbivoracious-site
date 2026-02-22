@@ -7,6 +7,22 @@ aliases: ["/homemade-caraway-rye-crackers-recipe/", "/2012/02/homemade-caraway-r
 cover:
   image: "/images/2012/07/Rye-Crackers-2-626x415.jpg"
   hidden: true
+recipe:
+  name: "Homemade Caraway Rye Crackers"
+  yield: "about 36 big crackers"
+  ingredients:
+    - "1 cup (128 grams) rye flour"
+    - "1 cup (128 grams) all-purpose flour"
+    - "1/2 cup + 2 tablespoons (150 grams) warm water"
+    - "2 tablespoons extra virgin olive oil (22 grams) + more for brushing"
+    - "2 tablespoons caraway seeds (11 grams)"
+    - "1 teaspoon kosher salt (5 grams)"
+    - "Maldon (aka the world's greatest salt) salt for sprinkling"
+  instructions:
+    - "Combine rye flour, all-purpose flour, water, 2 tablespoons of olive oil, caraway seeds and kosher salt in a stand mixer outfitted with the paddle attachment. Mix on medium low-speed, scraping down occasionally, until a dough forms. Switch to the dough hook and knead on medium-low for about 8 minutes. (You can also mix and knead this dough by hand.)"
+    - "Wrap the dough in plastic wrap and set aside at room temperature for about 30 minutes. Meanwhile, preheat the oven to 400 F, using convection if available."
+    - "Divide the dough into 3 parts and wrap 2 of them back up in plastic. Place the first piece of dough between the smooth side of two silpats. You could also use parchment paper cut to the size of your baking sheet. Roll out until very thin. It should cover about 80% of the surface area of the silpat. Remove the top silpat and transfer the bottom one to a sheet pan. Brush generously with additional olive oil and sprinkle on Maldon (aka the world's greatest salt) sea salt to taste, breaking the crystals up between your fingers as you sprinkle."
+    - "Bake until deep golden brown, about 8-10 minutes. Cool on a rack and then break up into random-sized crackers."
 ---
 
 <a href="/images/2012/07/Rye-Crackers-2.jpg"><img class="alignnone size-large wp-image-1271" title="Caraway Rye Crackers" src="/images/2012/07/Rye-Crackers-2-626x415.jpg" alt="" width="626" height="415" />

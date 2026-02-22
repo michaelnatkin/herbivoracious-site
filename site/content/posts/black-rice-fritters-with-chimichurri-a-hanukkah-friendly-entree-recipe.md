@@ -7,6 +7,35 @@ aliases: ["/black-rice-fritters-with-chimichurri-a-hanukkah-friendly-entree-reci
 cover:
   image: "/images/2012/11/Black-Rice-Fritters-with-Chimichurri-626x415.jpg"
   hidden: true
+recipe:
+  name: "Hinode Black Rice Fritters with Chimichurri"
+  yield: "12 fritters, serving 4 as an entree For the chimichurri"
+  diet: "Vegetarian, Gluten-Free"
+  ingredients:
+    - "1/2 cup extra-virgin olive oil"
+    - "2 garlic cloves, peeled and chopped fine or pressed"
+    - "1 cup well-rinsed parsley leaves, lightly packed"
+    - "1 cup well-rinsed cilantro leaves, lightly packed"
+    - "1 teaspoon salt"
+    - "1/4 teaspoon freshly ground black pepper"
+    - "1 tablespoon sherry vinegar"
+    - "1/4 cup red onion, minced (or add to food processor before herbs)"
+    - "1 tablespoon capers, rinsed"
+    - "3 cups cooked and cooled Hinode black rice (1 cup dry, cooked according to package directions)"
+    - "2 eggs, beaten with a fork"
+    - "1 teaspoon smoked paprika"
+    - "1/2 teaspoon kosher salt"
+    - "Several grinds black pepper"
+    - "Vegetable oil"
+    - "Flaky sea salt"
+  instructions:
+    - "In a small food processor, combine the olive oil and garlic and run until the garlic is well distributed. If you don’t feel like mincing the onion by hand, you can add it in chunks now, but it won’t look as nice. If you don’t have a small food processor, make a double batch as a full size machine won’t work well on this small quantity."
+    - "Add the parsley, cilantro, salt, pepper and vinegar and process until minced but with still a bit of texture left in the leaves."
+    - "Remove from the food processor and mix in the onions and capers."
+    - "Taste and adjust salt, pepper and vinegar as needed."
+    - "In a medium bowl, stir together the rice, eggs, smoked paprika, kosher salt, and pepper."
+    - "Line a plate with paper towels. Place a large, heavy skillet over medium high heat. Add a tablespoon of vegetable oil and swirl it around the pan. Take about 1/4 cup of the fritter mixture, place it in the pan and press down to form a pancake, about 5\" in diameter. Fry until golden brown one side, about 2 minutes, then flip and cook until the other side is golden brown. Remove to the paper towel-lined plate and add a few grains of flaky salt. Repeat for the remaining fritters, working in batches so as not to crowd the pan."
+    - "Serve hot with the chimichurri sauce on the side."
 ---
 
 <a href="/images/2012/11/Black-Rice-Fritters-with-Chimichurri.jpg"><img class="alignnone size-large wp-image-3338" title="Black Rice Fritters with Chimichurri" src="/images/2012/11/Black-Rice-Fritters-with-Chimichurri-626x415.jpg" alt="Black Rice Fritters with Chimichurri" width="626" height="415" />

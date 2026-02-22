@@ -7,6 +7,27 @@ aliases: ["/super-spicy-tofu-and-peppers-or-ok-fine-mild-if-you-prefer-recipe/",
 cover:
   image: "/images/2012/05/Super-Spicy-Tofu-626x415.jpg"
   hidden: true
+recipe:
+  name: "Super Spicy Tofu and Peppers (with Mild Variation)"
+  yield: "2"
+  diet: "Vegan, Vegetarian, Gluten-Free"
+  ingredients:
+    - "1/2 teaspoon cornstarch"
+    - "1/4 cup tamari (gluten-free if needed) or other soy sauce"
+    - "2 teaspoons sugar"
+    - "2 cloves garlic, minced"
+    - "1 teaspoon toasted sesame oil"
+    - "1/2 pound extra-firm tofu cut into 1/2\" cubes"
+    - "4 jalapeno peppers"
+    - "1/2 red bell pepper"
+    - "4 scallions, trimmed and cut into 1\" lengths"
+    - "2 tablespoons vegetable oil"
+  instructions:
+    - "Put the cornstarch in a small bowl. Drizzle in the tamari while whisking until all lumps are gone. Whisk in the sugar, garlic and sesame oil. Taste and adjust the seasoning of the sauce."
+    - "Lay the tofu out in a single layer on a clean, absorbent towel and pat dry. (See Tofu 101 for the finer points.)"
+    - "Preferably wearing disposable globes, cut the top off of each jalapeno pepper and cut in half lengthwise. Use a teaspoon to remove the seeds and ribs. Cut each half pepper crosswise. Remove the stem, seeds and rib from the bell pepper and cut into pieces about the same size as the quartered jalapeno."
+    - "Heat the oil in a large cast iron skillet or wok over high heat. Pat the tofu dry one more time and fry in a single layer, tossing occasionaly until golden brown, about 3 minutes. Remove the tofu to a plate and leave the skillet on."
+    - "Add the jalapeno, bell pepper and scallion and stir fry over high heat until the colors brighten, about 1 minute. Add the tofu back in, then add the sauce. Quickly stir and fry just long enough to reheat the tofu and cook the cornstarch, about 30 seconds. Transfer to a serving bowl or platter and serve immediately."
 ---
 
 <a href="/images/2012/05/Super-Spicy-Tofu.jpg"><img class="alignnone size-large wp-image-2009" title="Super Spicy Tofu and Peppers" src="/images/2012/05/Super-Spicy-Tofu-626x415.jpg" alt="Super Spicy Tofu and Peppers" width="626" height="415" />

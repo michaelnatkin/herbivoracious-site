@@ -8,6 +8,26 @@ aliases: ["/jack-of-all-cakes-a-guest-post-from-lemonpi/", "/2011/11/jack-of-all
 cover:
   image: "/images/old/6a00e008d618bb88340162fc5ae60a970d-500wi.jpg"
   hidden: true
+recipe:
+  name: "Jackfruit brown sugar cake"
+  ingredients:
+    - "One tin ripe jackfruit in syrup (440 grams)"
+    - "1 tablespoon tamarind puree (optional)"
+    - "100 grams (1/2 cup) caster sugar"
+    - "180 grams (1 cup, loosely packed) brown sugar"
+    - "86 grams (6 tablespoons) soft butter, plus 114 grams (1 stick) butter, melted and cooled"
+    - "140 grams (about 1 cup plus 1 tablespoon) all-purpose flour"
+    - "1 teaspoon baking powder"
+    - "1/4 teaspoon sea salt"
+    - "2 eggs, at room temperature"
+    - "3 egg yolks, at room temperature"
+    - "1 teaspoon vanilla extract"
+  instructions:
+    - "Preheat the oven to 175'C (350F). Butter the base and sides of a 9-inch round cake pan."
+    - "Drain the jackfruit and slice each piece into half."
+    - "Put 100g of sugar in a pan and cook to a caramel over medium heat, stirring with a heat proof spatula. Once the caramel is a medium golden brown, carefully whisk in the soft butter followed by the tamarind puree. Take care as the caramel will splutter. Bring the liquid to a boil, whisking to emulsify, then pour into the prepared cake pan. The caramel should be just enough to cover the base of the pan. Arrange the cut jackfruit pieces on top of this."
+    - "For the cake batter, whisk together the eggs, egg yolks, brown sugar, vanilla, salt and melted butter. Sift the flour and baking powder together. Fold the flour mixture into the egg mixture. Pour the batter over the jackfruit in the pan."
+    - "Bake for 45 minutes or until the top is golden brown and a skewer inserted into the cake comes out clean. Allow the cake to cool in the pan on a wire rack for at least 30 minutes before inverting it onto a serving plate. This cake is best served warm or at room temperature."
 ---
 
 <p><a href="/images/old/6a00e008d618bb88340162fc5ae60a970d-800wi.jpg" rel="lightbox" style="display: inline;"><img alt="JackfruitCake4" class="asset  asset-image at-xid-6a00e008d618bb88340162fc5ae60a970d" src="/images/old/6a00e008d618bb88340162fc5ae60a970d-500wi.jpg" title="JackfruitCake4" /></a><br /><em>Jackfruit Upside=Down Cake</em></p>

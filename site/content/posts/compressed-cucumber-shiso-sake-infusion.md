@@ -8,6 +8,25 @@ aliases: ["/compressed-cucumber-shiso-sake-infusion/", "/2010/09/compressed-cucu
 cover:
   image: "/images/old/6a00e008d618bb8834013487657c0a970c-500wi.jpg"
   hidden: true
+recipe:
+  name: "Compressed Cantaloupe & Cucumber Salad with Shiso Infused Sake"
+  yield: "4 15 minutes (but you have to have frozen and defrosted the cuke & melon in advance)"
+  time: "15 minutes (but you have to have frozen and defrosted the cuke & melon in advance)"
+  diet: "Vegan, Vegetarian, Gluten-Free"
+  ingredients:
+    - "14 shiso leaves, divided"
+    - "1 cup sake"
+    - "1 cucumber, peeled, seeded, cut into 1/4\" thick slabs, frozen overnight, defrosted but still cool"
+    - "1/2 cantaloupe, peeled, seeded, cut into 1/4\" thick slabs, frozen overnight, defrosted, but still cool"
+    - "2 teaspoons toasted sesame oil"
+    - "1 tablespoon toasted sesame seeds"
+    - "1 teaspoon umeboshi plum paste (or buy whole umeboshi plums, pit and crush)"
+    - "black sea salt"
+    - "kaiware sprouts"
+  instructions:
+    - "Set glasses and plates aside to chill. Lightly crush and tear up ten of the shiso leaves until fragrant. Put them and the sake into your cream whipper. Charge with one NO2 (whipped cream) cartridge. Shake for 30 seconds. Let stand for 1 minute. Discharge the NO2 (into a sink, in case a little liquid comes out). Remove the lid and strain the sake. Chill in the coldest part of the freezer for ten minutes while you make the rest of the dish."
+    - "Trim the cucumber and cantaloupe into 3\" long slabs. Work them in your hands or even with a rolling pin to extract most of the liquid. You should seem them grow somewhat translucent. Slice into 1/8\" wide \"noodles\". You'll need about 1 1/2 cups total for four servings. Toss the noodles with the sesame oil and sesame seeds."
+    - "To serve, divide the \"noodles\" among four plates, forming a small mount. Top with a 1/4 teaspoon umeboshi plum paste. Sprinkle with a pinch of black sea salt and garnish with a few kaiware sprout tops. Pour 4 servings of the cold sake, place the glass on one whole shiso leaf, and serve immediately."
 ---
 
 <a style="display: inline;" href="/images/old/6a00e008d618bb8834013487657c0a970c-800wi.jpg" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb8834013487657c0a970c" title="Compressed Cantaloupe &amp; Cucumber Salad with Shiso Infused Sake" src="/images/old/6a00e008d618bb8834013487657c0a970c-500wi.jpg" alt="Compressed Cantaloupe &amp; Cucumber Salad with Shiso Infused Sake" /></a>

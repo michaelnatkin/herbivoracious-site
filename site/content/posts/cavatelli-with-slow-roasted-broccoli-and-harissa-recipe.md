@@ -7,6 +7,28 @@ aliases: ["/cavatelli-with-slow-roasted-broccoli-and-harissa-recipe/", "/2013/02
 cover:
   image: "/images/2013/02/Cavatelli-with-Broccoli-and-Harissa-626x415.jpg"
   hidden: true
+recipe:
+  name: "Cavatelli with Slow Roasted Broccoli and Harissa"
+  yield: "the parmesan cheese Ingredients"
+  time: "20 min"
+  diet: "Vegan, Vegetarian"
+  ingredients:
+    - "1/4 cup extra virgin olive oil"
+    - "8 cloves garlic, thinly sliced"
+    - "1 head broccoli, florets cut bite sized; stems peeled and cut bite sized"
+    - "2 teaspoons harissa paste (see above)"
+    - "Kosher salt"
+    - "1 pound cavatelli pasta"
+    - "1 packed handful parsley leaves"
+    - "1 packed handful fresh mint leaves"
+    - "Maldon salt"
+    - "Freshly ground pepper"
+    - "Freshly ground Parmigiano-Reggiano, optional"
+  instructions:
+    - "Heat the olive oil over medium heat in your largest skillet. Add the garlic and saute for about 20 seconds. Add the broccoli, harissa, and 1/4 teaspoon salt and reduce heat to medium low. Cook, turning occasionally, until the broccoli is completely tender and meltingly delicious - I've been known to let this go for 45 minutes or more. Add a little more olive oil during the process if it seems advisable."
+    - "Put aside four bowls to warm."
+    - "Bring a large pot of well-salted water to a rolling boil. Cook the pasta until al dente. Transfer to the skillet with the broccoli, reserving a cup of the pasta water. Raise the heat to medium-high. Toss the pasta with the broccoli. If it seems a little dry, drizzle in some of the pasta water to develop a bit of moistness and shine. Taste and adjust seasoning; it will probably need more salt."
+    - "Stir in the parsley and mint. Divide the pasta among the preheated bowls, hit with a few flakes of Maldon salt and some freshly ground pepper, and serve immediately, passing the Parmesan cheese at the table if using."
 ---
 
 <a href="/images/2013/02/Cavatelli-with-Broccoli-and-Harissa.jpg"><img class="alignnone size-large wp-image-3586" alt="Cavatelli with Slow Roasted Broccoli and Harissa" src="/images/2013/02/Cavatelli-with-Broccoli-and-Harissa-626x415.jpg" width="626" height="415" /></a>

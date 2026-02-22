@@ -7,6 +7,40 @@ aliases: ["/vegetarian-chili-recipe/", "/2009/04/vegetarian-chili-recipe.html"]
 cover:
   image: "/images/old/6a00e008d618bb883401156f9cf5ce970b-500wi.jpg"
   hidden: true
+recipe:
+  name: "Vegetarian Chili From Scratch"
+  yield: "around 10 cups, easily serving 5 (and doubles or triples beautifully) Vegetarian, gluten-free, and vegan (if you modify the garnishes) Prep time: 20 minutes Cook time: 2 hours"
+  time: "20 minutes Cook"
+  diet: "Vegan, Vegetarian, Gluten-Free"
+  ingredients:
+    - "1 1/2cups dry pinto beans"
+    - "1 cup dry black beans"
+    - "1/2 cup dry kidney beans"
+    - "3 to 6 dried chili pods (any combination of ancho, guajillo, pasilla, cascabel, de arbol, ... )"
+    - "1 small can chipotle pepper in adobo (double check for gluten free, or use dried morita peppers instead)"
+    - "28 oz. can of crushed tomatoes"
+    - "1 medium carrot, finely diced"
+    - "1 white or yellow onion, finely diced"
+    - "2 stalks celery, finely diced"
+    - "1/4 cup canola or other neutral vegetable oil"
+    - "4 cloves garlic, minced"
+    - "juice of 1/2 lemon"
+    - "salt"
+    - "Green onion (sliced thin, mostly white parts only), or white onion (minced)"
+    - "Cilantro leaves"
+    - "Grated cheddar or queso anejo or cotija"
+    - "Sour cream or queso fresco"
+    - "Lime wedges"
+  instructions:
+    - "Carefully sort through the beans removing any extraneous material. Rinse well. Put in the pot you will eventually cook in, add 2 quarts of water, and soak overnight."
+    - "The next day, drain the beans, add water to cover by an inch or so, and bring to a boil. Reduce to a simmer and cook until the beans are very tender, which could take 1 to 2 hours depending on their age. Add water occasionally, and stir to prevent any scorching. When nearly done, add 2 teaspoons of salt."
+    - "Meanwhile, toast the chilis in a hot, dry skillet until darkened on both sides. Ventilate the room well while you do this, it produces a rather intense smoke that some people find painful. Allow to cool."
+    - "(Hint: use dispoable gloves for this step to avoid having spicy hands!). Break apart the chilis and dispose of the seeds and stems. Add the chilis, tomato sauce, half of the adobo sauce from the can of chipotle, and 1 teaspoon of salt to a blender and puree until very smooth. This sauce should be pretty spicy, because it is going in that huge pot of beans soon!"
+    - "Saute the carrot, onion and celery with 1 teaspoon of salt in the oil for about 10 minutes, until soft. Add the garlic and saute for 1 more minute."
+    - "Drain most of the liquid from the beans, reserving a cup for later dilution if needed."
+    - "Add the chili sauce, vegetables and lemon juice to the beans. Bring back to a simmer and let cook for 10 minutes or so, allowing the flavors to begin to marry."
+    - "Now taste. If it needs more heat or a smoke, add the rest of the adobo sauce. If it needs a lot more heat, you can puree the chipotle peppers and add them. Add salt as needed. You shouldn't be tasting a lemon flavor, but there should be a subtle hint of acidity that wakes up the sauce. If the whole thing is too thick, you can dilute it with some of the reserved bean-cooking liquid."
+    - "Serve your vegetarian chili forth with the garnishes listed above."
 ---
 
 <a style="display: inline;" href="/images/old/6a00e008d618bb883401156f9cf5ce970b-800wi.jpg" rel="lightbox"><img class="photo at-xid-6a00e008d618bb883401156f9cf5ce970b " src="/images/old/6a00e008d618bb883401156f9cf5ce970b-500wi.jpg" alt="Vegetarian_Chili" /></a>

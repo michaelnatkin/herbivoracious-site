@@ -8,6 +8,34 @@ aliases: ["/manouri-cheese-blintzes-recipe/", "/2012/03/manouri-cheese-blintzes-
 cover:
   image: "/images/cookbook/manouri-cheese-blintzes.jpg"
   hidden: true
+recipe:
+  name: "Manouri Cheese Blintzes"
+  yield: "about 30 small blintzes; serves 6"
+  ingredients:
+    - "For the filling:"
+    - "1 pound manouri cheese, finely crumbled (or ricotta, see substitution info above)"
+    - "1 egg, lightly beaten"
+    - "½ cup milk"
+    - "5 tablespoons sugar"
+    - "big pinch of salt"
+    - "zest of 1 lemon"
+    - "For the blintzes:"
+    - "2 cups all purpose flour"
+    - "1 tablespoon corn starch"
+    - "1/8 teaspoon salt"
+    - "1 ½ cups water"
+    - "1 cup whole milk"
+    - "7 eggs"
+    - "about 4 tablespoons butter (for frying)"
+    - "at the table: sour cream and brown sugar, or rosemary-blueberry sauce"
+  instructions:
+    - "Mix together all of the filling ingredients and reserve in refrigerator until needed."
+    - "In a blender, combine the flour, corn starch, salt, water, milk and eggs. Blend on high speed for 3 minutes. It should be quite liquid, much thinner than pancake batter. Refrigerate for at least half an hour and up to overnight. Just before making the blintzes, stir or blend briefly again."
+    - "Heat a non-stick pan, crepe pan, or omelet pan with about a 7-inch bottom over a medium-low flame. Grease the pan with a small amount of butter. Ladle in about 2-3 tablespoons of batter and immediately tilt in all directions to spread the batter out evenly, covering as much of the surface as possible."
+    - "Cook each crepe for about 1 minute, until it is well set and you can remove it with a spatula. Do not flip. Lay the crepe on a flat surface, allow it to cool for a few seconds, then put a heaping tablespoon of the filling in the horizontal center of the crepe, about 1 inch from the front edge. Fold the front edge over the filling, then fold in the sides, then roll it up like a burrito."
+    - "Continue making all of the blintzes. Once you get the hang of it, you can be cooking one while you fill the previous one. Set them aside on a baking sheet lined with parchment paper, not touching each other."
+    - "At this point, you can either refrigerate all of the filled blintzes for up to 24 hours, or finish cooking and serving them. To finish the dish, heat up a large skillet over a medium flame and melt a generous amount of butter. Working in batches, fry the rolled crepes on each side until golden brown and crispy. Keep the flame low enough that the filling will be cooked by the time the wrapper is done."
+    - "Serve them forth with sour cream and brown sugar or the rosemary-blueberry sauce."
 ---
 <a href="/images/cookbook/manouri-cheese-blintzes.jpg"><img src="/images/cookbook/manouri-cheese-blintzes.jpg" alt="Manouri Cheese Blintzes" /></a>
 

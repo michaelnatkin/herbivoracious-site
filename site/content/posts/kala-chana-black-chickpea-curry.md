@@ -7,6 +7,39 @@ aliases: ["/kala-chana-black-chickpea-curry/", "/2012/01/kala-chana-black-chickp
 cover:
   image: "/images/2012/01/Kala-Chana-624x415.jpg"
   hidden: true
+recipe:
+  name: "Kala Chana (Black Chickpea Curry)"
+  yield: "2-3 Vegetarian, vegan, and gluten-free"
+  diet: "Vegan, Vegetarian, Gluten-Free"
+  ingredients:
+    - "1 cup dry black chickpeas"
+    - "1 teaspoon baking soda"
+    - "7 cups water"
+    - "2 teaspoons salt"
+    - "4 tablespoons canola oil"
+    - "1/2 teaspoon black mustard seeds"
+    - "1/8 teaspoon asafoetida (hing)"
+    - "4 dried chilies (Indian dried red chilis - if not available, chile de arbol would probably work well)"
+    - "3 cloves"
+    - "1/2 cinnamon stick"
+    - "1 tablespoon ginger-garlic paste*"
+    - "1 medium onion, peeled and finely diced in the food processor (pulse well, just before it releases liquid)"
+    - "2 roma tomatoes, pureed in the food processor"
+    - "1 teaspoon ground coriander"
+    - "1 teaspoon ground cumin"
+    - "1/2 teaspoon turmeric"
+    - "1/4 teaspoon chili powder (or more/less to taste) (cayenne is an ok substitute)"
+    - "1/2 teaspoon garam masala"
+    - "2-3 tablespoons finely chopped cilantro (optional)"
+  instructions:
+    - "Soak the beans with the baking soda in 3 cups water overnight. Drain water."
+    - "Fill the pressure cooker with the soaked beans, add 4 cups of fresh water. Add the salt to the water, and pressure cook for 3 whistles (12 minutes). Turn off the heat but do not open the pressure cooker."
+    - "After 45 mins or later, open the pressure cooker and drain the beans."
+    - "Heat canola oil in a wide saute pan or wok (pan should be at least 3\" deep) on med-high heat. Add asafoetida, mustard seeds, chilies, cloves,and cinnamon stick. Fry for about 1 to 2 mins until fragrant but not burned."
+    - "Add onions to the pan and cook for 4-5 mins or until onions soften and become translucent. Add ginger-garlic paste (or substitute) and cook for 1-2 mins."
+    - "Add tomatoes to the pan, stir well, and then add coriander, cumin, turmeric, chili powder."
+    - "Cook for 5 minutes, mixing well. Add garam masala and beans. Cover and simmer on low for 20 mins, stirring occasionally."
+    - "Turn off heat, garnish with cilantro, and serve over rice, or with flatbread, parathas, or naan."
 ---
 
 <em><a href="/images/2012/01/Kala-Chana.jpg"><img class="alignnone size-large wp-image-1173" title="Kala Chana" src="/images/2012/01/Kala-Chana-624x415.jpg" alt="Kala Chana (Curried Black Chickpeas)" width="624" height="415" />

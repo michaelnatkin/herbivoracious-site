@@ -7,6 +7,42 @@ aliases: ["/red-winter-minestrone-with-winter-greens-pesto/", "/2012/10/red-wint
 cover:
   image: "/images/2012/10/Red-Winter-Minestrone-with-Winter-Greens-Pesto-626x415.jpg"
   hidden: true
+recipe:
+  name: "Red Winter Minestrone with Winter Greens Pesto"
+  yield: "4 moderately as dinner with salad and bread For The Winter Greens Pesto (makes more than you need for soup)"
+  diet: "Vegan, Vegetarian, Gluten-Free"
+  ingredients:
+    - "Greens from 1 bunch beets"
+    - "Greens from 1 bunch turnips"
+    - "1 bunch kale"
+    - "2/3 cup extra-virgin olive oil"
+    - "2 cloves garlic"
+    - "1 ounce parmigiano-reggiano cheese"
+    - "1/2 teaspoon kosher salt"
+    - "1/4 cup + 2 tablespoons extra virgin olive oil (divided)"
+    - "1 white onion, finely diced or grated"
+    - "2 roma tomatoes, or two canned tomatoes, grated (leave out skins if using fresh)"
+    - "4 cloves garlic, minced"
+    - "1 handful parsley leaves"
+    - "1 pinch chili flakes"
+    - "1 bay leaf"
+    - "1 teaspoon minced rosemary leaves"
+    - "Kosher salt"
+    - "1 leek, white and light green parts, cut into 1/2\" wide half-moons and well-washed"
+    - "1 medium carrot, peeled and cut into 1/8\" thick circles"
+    - "1/2 pound turnips, peeled and cut into 1/3\" cubes"
+    - "1/2 pound beets, peeled and cut into 1/3\" cubes"
+    - "1 cup dry white wine"
+    - "Handful of green beans, cut into 1\" lengths"
+    - "2 cups cooked white beans (cannelini or similar) - reserve 3 cups of the cooking liquid if you cooked them yourself (recommended)"
+    - "Optional: lemon juice"
+  instructions:
+    - "Bring a large pot of salted water to a boil and set up a large bowl full of ice water. Strip the beet greens, turnip greens, and kale from their coarse stems and wash them well. Put each bunch, one at a time, into the boiling water, and cook until they turn bright green and fairly limp. Use tongs to transfer immediately to the ice bath (where they can all swim together.)"
+    - "Remove from the ice bath and squeeze out as much moisture as possible."
+    - "Puree the greens, olive oil, garlic, cheese, and 1/2 teaspoon of salt in a blender. Taste and adjust seasoning, then reserve in the refrigerator, covered directly on the surface with plastic wrap."
+    - "In a big soup pot, heat 1/4 cup of the olive oil over medium-high heat. Add the onion, tomato, garlic, parsley, chili flakes, bay leaf and rosemary and 1/2 teaspoon kosher salt. Cook, stirring occasionally, for about 5 minutes, then reduce the heat to medium-low. Keep cooking until you've got a well caramelized, somewhat uniform base (sofrito). This will probably take at least 20-30 minutes."
+    - "Add the remaining 2 tablespoons of olive oil, and the leeks, carrot, turnips and beets. Raise heat to medium-high again. Cook, stirring occasionally, for 5 minutes. Add the white wine and deglaze (scrape) the bottom of the pot with your spatula to dislodge any delicious browned bits. Cook for 2 minutes to boil off most of the alcohol. Add the green beans, white beans, and 3 cups of the bean cooking liquid and 2 cups of water (or, failing that, 5 cups of water). Bring to a boil, reduce to a simmer, and cook for a few more minutes. Taste and adjust seasoning. It will certainly need more salt, and you might also like a squeeze of lemon juice."
+    - "Divide among heated bowls and serve with a generous dollop of the winter greens pesto, which the diner can stir in."
 ---
 
 <img class="alignnone size-large wp-image-3052" title="Red Winter Minestrone with Winter Greens Pesto" src="/images/2012/10/Red-Winter-Minestrone-with-Winter-Greens-Pesto-626x415.jpg" alt="Red Winter Minestrone with Winter Greens Pesto" width="626" height="415" />

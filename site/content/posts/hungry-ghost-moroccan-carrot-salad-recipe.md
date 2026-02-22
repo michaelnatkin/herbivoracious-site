@@ -7,6 +7,24 @@ aliases: ["/hungry-ghost-moroccan-carrot-salad-recipe/", "/2013/05/hungry-ghost-
 cover:
   image: "/images/2013/05/Hungry-Ghost-Carrot-Salad-626x415.jpg"
   hidden: true
+recipe:
+  name: "Hungry Ghost Moroccan Carrot Salad – Recipe"
+  time: "15 min"
+  ingredients:
+    - "1 pound carrots"
+    - "1 tablespoon olive oil"
+    - "1 teaspoon ground cumin"
+    - "1 teaspoon ground paprika (sweet is traditional, smoked is edgy but quite nice)"
+    - "Generous pinch of cayenne pepper or, if you have it, Aleppo pepper"
+    - "2 teaspoons agave nectar or honey"
+    - "Juice of 1 or 2 lemons"
+    - "1/2 teaspoon sea salt"
+    - "1 bunch fresh flat leaf parsley, coarsely chopped"
+  instructions:
+    - "Coarsely shred the carrots in a food processor or cut into 1/4\" matchsticks, your call. Dump into a good-size bowl and set aside."
+    - "In a small skillet, heat the oil, cumin, paprika, and cayenne over low heat, stirring now and again until spices darken and the whole thing turns fragrant, 2 to 3 minutes. Remove from the heat and let cool."
+    - "Pour the spiced oil over the carrots. Add the agave nectar, lemon juice, and sea salt and stir until the carrots are evenly coated. (The carrot salad can be stored in a airtight container in the refrigerator for a day.)"
+    - "Just before serving, gently stir in the parsley. Enjoy chilled but not gelid."
 ---
 
 <a href="/images/2013/05/Hungry-Ghost-Carrot-Salad.jpg"><img class="alignnone size-large wp-image-3728" alt="Hungry Ghost Moroccan Carrot Salad" src="/images/2013/05/Hungry-Ghost-Carrot-Salad-626x415.jpg" width="626" height="415" /></a>

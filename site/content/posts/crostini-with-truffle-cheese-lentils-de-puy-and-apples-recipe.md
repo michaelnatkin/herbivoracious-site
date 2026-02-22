@@ -8,6 +8,25 @@ aliases: ["/crostini-with-truffle-cheese-lentils-de-puy-and-apples-recipe/", "/2
 cover:
   image: "/images/old/6a00e008d618bb88340147e2cddfaa970b-500wi.jpg"
   hidden: true
+recipe:
+  name: "Crostini with Truffled Cheese, Lentils Du Puy and Apples"
+  yield: "8 crostini"
+  diet: "Vegetarian"
+  ingredients:
+    - "2 tablespoons extra-virgin olive oil"
+    - "4 cloves garlic, minced"
+    - "1 cup lentils du Puy"
+    - "1 teaspoon Kosher salt"
+    - "8 small slices of crusty bread"
+    - "more extra-virgin olive oil for brushing"
+    - "8 slices semi-soft truffled sheep's milk cheese"
+    - "1 apple, peeled, cored and finely diced"
+    - "1 big handful spicy microgreens of your choice (or chervil would work)"
+  instructions:
+    - "Heat 2 tablespoons of oil in a medium saucepan over medium-high heat. Saute the garlic for 1 minute. Add the lentils and Kosher salt along with 2 cups water. Bring to a boil, reduce heat to a simmer, and cook, stirring occasionally until tender but not falling apart. Add more water if needed. Drain and cool to room temperature. Taste and adjust seasoning."
+    - "Brush the bread generously with olive oil on both sides and toast both sides until well browned on a grill or in a toaster oven, or under the broiler. Cover with the cheese and keep toasting until melted."
+    - "If the lentils seem a bit dry, stir in some more fruity olive oil."
+    - "Top each crostini with a spoonful of lentils. Don't pile them so high that it will be too hard to eat. Add a smaller spoonful of apples and a little pinch of the microgreens, and serve."
 ---
 
 <a style="display: inline;" href="/images/old/6a00e008d618bb88340147e2cddfaa970b-800wi.jpg" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb88340147e2cddfaa970b" title="Bruschetta Truffle Cheese Lentils Apples" src="/images/old/6a00e008d618bb88340147e2cddfaa970b-500wi.jpg" alt="Bruschetta Truffle Cheese Lentils Apples" /></a>

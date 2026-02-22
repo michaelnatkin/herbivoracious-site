@@ -7,6 +7,39 @@ aliases: ["/vietnamese-vermicelli-bun-with-ginger-grapefruit-sauce-recipe/", "/2
 cover:
   image: "/images/old/6a00e008d618bb88340120a5df3783970b-500wi.jpg"
   hidden: true
+recipe:
+  name: "Vietnamese Vermicelli (Bun) with Ginger-Grapefruit Sauce"
+  yield: "4"
+  diet: "Vegan"
+  ingredients:
+    - "8 oz. Vietnamese rice vermicelli noodles"
+    - "1 cup shallot rings, sliced about 1/8\" thick"
+    - "1/4 cup vegetable oil, divided"
+    - "1 pound extra-firm tofu, cut into approximately 2\" x 2\" x 1/3\" squares"
+    - "1/4 cup sweet soy sauce (kecap manis)"
+    - "2-3 grapefruits"
+    - "juice of 2 limes (reserve zest from one)"
+    - "2-4 tablespoons sugar (palm sugar if you have it)"
+    - "2 teaspoons soy sauce"
+    - "1 tablespoon minced fresh ginger"
+    - "salt"
+    - "1 cup julienned carrot (use a mandoline if possible)"
+    - "1 cup julienned daikon radish (use a mandoline if possible)"
+    - "2 tablespoons rice wine vinegar"
+    - "1 tablespoon toasted sesame seeds"
+    - "1 head romaine lettuce, sliced into bite-sized pieces"
+    - "2 small hot chile peppers, thinly sliced"
+    - "1 medium cucumber, seeded and diced"
+    - "3 green onions, white and light green parts only, thinly sliced"
+    - "1 ripe mango, diced"
+    - "1 cup lightly packed cilantro leaves"
+  instructions:
+    - "Heat a pot of water to boiling, remove from the heat, add the rice noodles and let sit for ten minutes. Check the texture - they should be tender but definitely not mushy. Drain and reserve."
+    - "Cut the grapefruit into supremes, working over a bowl to catch the juice. Strain off the juice, squeeze all of the leftover pieces of the grapefruit in with it, and add the lime juice, 2 tablespoons of sugar, ginger, soy sauce and 1 teaspoon of salt. We'd like to have at least 1.5 cups of an intensely citrus-ginger flavored sauce that is distinctly sweet and just slightly syrupy. Taste and adjust seasonings, remembering that it will need to be strongly flavored to play off of all the other ingredients. Depending on how many you needed to make the sauce, you might have more supremes than you want to serve: cooks treat."
+    - "Fry the shallot rings in 2 tablespoons of oil over medium-high heat until dark brown. Remove to paper towels and season with salt. As they cool, they will become crispy."
+    - "Add the remaining oil and fry the tofu, working in batches as needed to get the squares brown on both sides. Drizzle with the sweet soy sauce (kecap manis) and continue frying for another 30 seconds so it can caramelize."
+    - "Combine the carrot, daikon, rice wine vinegar and sesame seeds and set aside to pickle a bit."
+    - "To assemble, divide the lettuce among 4 large bowls. Top each with a big handful of the rice noodles. Then top with an attractive arrangement of the remaining ingredients: tofu, grapefruit supremes, mango carrot/daikon salad, chile pepper, cucumber and finally the shallot rings, green onion, and cilantro and lime zest. You can either pour on the sauce yourself or divide into individual bowls for your guests to add as they see fit. Offer Sriracha-type hot sauce on the side."
 ---
 
 <p><a href="/images/old/6a00e008d618bb88340120a5df3783970b-800wi.jpg" rel="lightbox" style="display: inline;"><img alt="Bun_Grapefruit" class="asset asset-image at-xid-6a00e008d618bb88340120a5df3783970b " src="/images/old/6a00e008d618bb88340120a5df3783970b-500wi.jpg" /></a> <em><br />Vietnamese Vermicelli (Bun) with Ginger-Grapefruit Sauce</em></p>  <p>Bun (pronounced, roughly, boon), when well made, is just about one of the greatest foods ever invented. Super-thin Vietnamese rice noodles are topped with a variety of cooked and fresh ingredients, lots of herbs, and a sweet and savory sauce to make a light, healthy and superbly delicious meal-in-a-bowl. Salad and entree in one package.<br /><br />I&#39;ll drop everything and run to the nearest Vietnamese restaurant whenever I need a bun fix. A vegetarian version with tofu instead of meat is always available for the asking, even if it isn&#39;t on the menu. The only problem is the sauce (nuoc cham), which contains fish sauce. Sometimes the kitchen will make a vegetarian version of that as well, but if not you&#39;ll have to make do with whatever condiments are on the table. <br /><br /><a href="/images/old/6a00e008d618bb88340120a635cb0d970c-800wi.jpg" rel="lightbox" style="float: right;"><img alt="BunMise" class="asset asset-image at-xid-6a00e008d618bb88340120a635cb0d970c " src="/images/old/6a00e008d618bb88340120a635cb0d970c-200wi.jpg" style="margin: 0px 0px 5px 5px; width: 200px;" /></a>Better yet, you can make a terrific bun at home. You have the luxury of gathering great fresh ingredients which may well be better than you find at the corner joint, and you can make a sauce that is vegetarian by design, with big bright flavors. The version I&#39;m offering you today uses grapefruit. The segments go in the bowl, and the juice is used for the sauce. (If you&#39;ve never cut citrus into supremes - segments without any pith - Ming Tsai has a <a href="http://www.youtube.com/watch?v=xa-_O4vJqRw" target="_blank">good video</a> to show you how.)<br /><br />The key to bun is all in the mise en place. You have quite a few ingredients that need preparation. Nothing complicated, it just takes a little bit of time to get them all together, and you want to be organized for final assembly. <br /><br />My choices for ingredients and sauce can just be a starting point; you can add or subtract anything you like; as long as it fits within the Vietnamese flavor profiles it will still be a great dish. Other things I love to include: Thai basil, lemongrass (sauteed with the tofu), roasted peanuts, papaya.</p><div class="recipe-card">

@@ -7,6 +7,27 @@ aliases: ["/maitake-mushrooms-in-smoky-tea-broth/", "/2013/04/maitake-mushrooms-
 cover:
   image: "/images/2013/04/Roasted-Maitake-In-Smoky-Tea-Broth-626x415.jpg"
   hidden: true
+recipe:
+  name: "Roasted Maitake Mushrooms In Smoky Tea Broth – Recipe"
+  time: "10 min"
+  ingredients:
+    - "1/2 cup finely diced bok choy stems"
+    - "1 tablespoon water"
+    - "1 pound fresh maitake mushroom(s)"
+    - "3 tablespoons vegetable oil"
+    - "1/2 teaspoon kosher salt"
+    - "2 teaspoons lapsang souchong tea"
+    - "2 cups boiling water"
+    - "1 tablespoon tamari"
+    - "Toasted sesame oil"
+    - "Flaky sea salt (such as Maldon)"
+    - "2 teaspoons finely sliced scallion, white and light green parts only"
+  instructions:
+    - "Preheat the oven to 450°F using convection, or 475°F without convection. Warm four shallow soup bowls."
+    - "Place the bok choy in a small bowl with 1 tablespoon water and microwave on High for 1 minute. (Alternatively, you can steam the bok choy or blanch it in boiling water.) Reserve."
+    - "Divide the mushroom into 4 portions (leaving the pieces as large as possible) and place on a rimmed baking sheet. Toss with the vegetable oil, coating the mushroom as evenly as possible, and sprinkle with 1/2 teaspoon kosher salt. Roast until fragrant, starting to brown, and becoming tender, about 20 minutes."
+    - "While the mushroom is roasting, place the lapsang souchong tea in a small, heatproof bowl and cover with the boiling water; allow to steep 5 minutes. Strain. Add the tamari. Taste and season with a bit of salt if needed. The broth should be smoky and mildly salty, with a distinct note of soy."
+    - "When the mushrooms are ready, place one portion in each bowl. Place the bok choy dice around the maitake. Reheat the tea in the microwave and divide among the 4 bowls. Garnish each bowl with a drizzle of toasted sesame oil, a pinch of flaky sea salt, and the scallions. Serve piping hot."
 ---
 
 <a href="/images/2013/04/Roasted-Maitake-In-Smoky-Tea-Broth.jpg"><img class="alignnone size-large wp-image-3694" alt="Roasted Maitake Mushroom In Smoky Tea Broth" src="/images/2013/04/Roasted-Maitake-In-Smoky-Tea-Broth-626x415.jpg" width="626" height="415" /></a>

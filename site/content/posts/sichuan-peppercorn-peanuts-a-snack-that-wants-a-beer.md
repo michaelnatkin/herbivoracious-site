@@ -7,6 +7,23 @@ aliases: ["/sichuan-peppercorn-peanuts-a-snack-that-wants-a-beer/", "/2012/12/si
 cover:
   image: "/images/2013/12/Szechwan-Peppercorn-Peanuts-626x415.jpg"
   hidden: true
+recipe:
+  name: "Sichuan Peppercorn Peanuts"
+  yield: "220 grams"
+  diet: "Vegan, Vegetarian, Gluten-Free"
+  ingredients:
+    - "3.5 grams Sichuan peppercorns"
+    - "2 grams coriander seed"
+    - "1 1/2 grams ancho chili powder (or chili powder of your choice)"
+    - "1 dried guajillo pepper"
+    - "9 grams orange zest (see below for preparation)"
+    - "35 grams neutral vegetable oil"
+    - "200 grams unsalted, dry roasted peanuts"
+    - "1 to 2 grams fleur de sel, or, better, Himalayan sulfur salt, ground to a powder (more to taste)"
+  instructions:
+    - "Finely grind the Sichuan peppercorns and coriander seed and combine with the ancho powder. Remove the seeds and stem from the guajillo chili and cut it lengthwise into 2 strips, and then slice those crosswise into the thinnest threads you can manage. Add to the spices."
+    - "Cut strips of orange zest, being careful to avoid the pith, then use your knife to cut into threads similar to the chili threads. Add to the spices."
+    - "Line a paper plate with towels. Heat the oil in a large skillet over medium heat. Add the spice mixture and cook until fragrant, but don't allow to burn. Add the peanuts and cook, tossing frequently, for 2 more minutes. Remove to the paper towels, including all of the spices. Allow to drain for a few minutes, then transfer to a bowl, toss with the salt, adjust seasoning, and serve (or they will keep for a few days)."
 ---
 
 <a href="/images/2013/12/Szechwan-Peppercorn-Peanuts.jpg"><img class="alignnone size-large wp-image-3486" title="Sichuan Peppercorn Peanuts" src="/images/2013/12/Szechwan-Peppercorn-Peanuts-626x415.jpg" alt="Sichuan Peppercorn Peanuts" width="626" height="415" /></a>

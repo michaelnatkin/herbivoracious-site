@@ -8,6 +8,21 @@ aliases: ["/pretzel-ice-cream-recipe/", "/2010/10/pretzel-ice-cream-recipe.html"
 cover:
   image: "/images/old/6a00e008d618bb88340133f4c2d553970b-500wi.jpg"
   hidden: true
+recipe:
+  name: "Pretzel Ice Cream"
+  yield: "about 3 cups"
+  ingredients:
+    - "2 cups whole milk, divided"
+    - "1/2 cup sugar"
+    - "2 cups heavy cream"
+    - "8 ounces unsalted mini pretzels"
+    - "flaky sea salt"
+    - "for serving: salted pretzels, dark caramel sauce"
+  instructions:
+    - "In a microwavable bowl, stir together 1 cup of whole milk with the sugar. Microwave on high for 2 minutes or until the sugar is dissolved."
+    - "In a large container with a lid, combine the sugared milk, remaining cup of milk, cream, and pretzels. Refrigerate for at least two hours, shaking occasionally. Taste and confirm that the cream has absorbed enough pretzel flavor; if not, infuse longer."
+    - "In a colander, strain the cream mixture, pressing down on the pretzels to extract as much liquid as possible. Then pass the cream again through a fine sieve to remove little bits of pretzel."
+    - "Process according to your ice cream maker's instructions. When it is done but not frozen hard, fold in flaky sea salt to taste."
 ---
 
 <a style="display: inline;" href="/images/old/6a00e008d618bb88340133f4c2d553970b-800wi.jpg" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb88340133f4c2d553970b" title="Pretzel Ice Cream" src="/images/old/6a00e008d618bb88340133f4c2d553970b-500wi.jpg" alt="Pretzel Ice Cream" /></a>

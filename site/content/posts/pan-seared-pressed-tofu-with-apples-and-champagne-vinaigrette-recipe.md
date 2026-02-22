@@ -7,6 +7,18 @@ aliases: ["/pan-seared-pressed-tofu-with-apples-and-champagne-vinaigrette-recipe
 cover:
   image: "/images/2011/12/Seared-Tofu-and-Apples-with-Champagne-Vinaigrette-626x415.jpg"
   hidden: true
+recipe:
+  name: "Pan-Seared Pressed Tofu with Apples and Champagne Vinaigrette"
+  yield: "2 as a light lunch or 4 as a side dish For the dressing"
+  diet: "Vegan, Vegetarian, Gluten-Free"
+  ingredients:
+    - "2 tablespoons champagne vinegar"
+    - "3 teaspoons minced shallot"
+    - "Leaves from 2 sprigs of fresh thyme"
+    - "1 teaspoon Kosher salt"
+    - "1/4 cup extra-virgin olive oil"
+  instructions:
+    - "In a small bowl, stir together the vinegar, shallot, thyme and salt. Allow to stand for ten minutes. Drizzle in the olive oil while whisking to emulsify. Taste and adjust seasoning. Reserve."
 ---
 
 <a href="/images/2011/12/Seared-Tofu-and-Apples-with-Champagne-Vinaigrette.jpg"><img class="alignnone size-large wp-image-904" title="Seared Tofu and Apples with Champagne Vinaigrette" src="/images/2011/12/Seared-Tofu-and-Apples-with-Champagne-Vinaigrette-626x415.jpg" alt="" width="626" height="415" /></a>

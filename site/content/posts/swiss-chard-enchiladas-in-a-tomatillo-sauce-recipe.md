@@ -7,6 +7,37 @@ aliases: ["/swiss-chard-enchiladas-in-a-tomatillo-sauce-recipe/", "/2009/02/swis
 cover:
   image: "/images/old/6a00e008d618bb883401053707975a970b-500wi.jpg"
   hidden: true
+recipe:
+  name: "Swiss Chard, Onion and Monterey Jack Enchiladas in a Tomatillo Salsa"
+  yield: "4"
+  diet: "Gluten-Free"
+  ingredients:
+    - "3 cloves garlic, peeled"
+    - "1-3 jalapenos or other fresh green chili pepper, to taste, seeded"
+    - "1.5 pounds tomatillos, husked, rinsed and halved (about 10-12)"
+    - "1 cup bean cooking liquid or vegetable broth (see above)"
+    - "3 tablespoons sour cream, Mexican crema, or thick Greek-style yogurt"
+    - "1 teaspoon sugar"
+    - "3 tablespoons vegetable oil"
+    - "2 large bunches Swiss chard (enough to completely fill a produce bag)"
+    - "1 medium white onion, medium dice"
+    - "10 oz. Monterey Jack cheese (or one of the Mexican melting cheese)"
+    - "12 corn tortillas"
+    - "1/4 cup grated parmesan (or better yet, queso anejo)"
+    - "1/2 large red onion, cut into rings"
+    - "1 handful fresh cilantro leaves"
+    - "salt"
+  instructions:
+    - "Preheat the oven to 375."
+    - "Combine the garlic, jalapenos and tomatillos and 1 teaspoon of salt in the blender and puree until smooth."
+    - "In a medium saucepan, heat 1.5 tablespoons of oil over medium-high heat. Add the puree, and cook down (reduce) until about as thick as an Italian tomato sauce, stirring frequently. Don't let it scorch. Add the broth, and reduce heat to a simmer. After 10 minutes, turn off the heat and stir in the sour cream. Taste, and add more salt, and the sugar if needed. If it isn't thick enough, simmer some more. If it is too thick, add a bit more broth. Turn off the heat and allow to cool."
+    - "To prepare the chard, strip the leaves from the stems and cut in a rough chiffonade (ribbons, about 1/2\" wide). Rinse in a full bath of water at least twice, because gritty enchiladas will be nasty! Remove the toughest end of the stems, and chop the remaining part finely. Rinse the stems thoroughly too."
+    - "In a large saute pan with a lid, heat the remaining 1.5 tablespoons of oil on a high flame. Add the white onion and fry for 30 seconds. Add the chard stems and fry for 1 minute. Add all of the chard leaves and toss. If they don't fit all at once, wait a minute until the first part wilts, then add the rest. Add 1/4 cup of water and 1 teaspoon of salt, cover and reduce heat to low. Cook for about 15 minutes, stirring occasionally, until thoroughly wilted and tender. Remove the lid and cook off remaining water until fairly dry."
+    - "In a bowl, combine the chard and onion mixture with three quarters of the Monterey Jack cheese. Taste and adjust seasoning."
+    - "Wrap the tortillas in a clean, moist dish towel and microwave for 2 minutes to soften."
+    - "To assemble, ladle about 1 cup of sauce in a 9x13 casserole. For each tortilla, dip it in the remaining sauce and then lay it in the casserole. Fill it with about 1/4 cup of filling and roll, then push to one side, seam side down. Twelve will just fit snugly lengthwise in the pan."
+    - "Pour maybe another cup of sauce over the top, then top with the remaining Monterey Jack and the parmesan."
+    - "Bake about 25 minutes, until the sauce is bubbling and the cheese is melted. Raise the heat to a broil and carefully cook a couple more minutes until the cheese is browning a bit. Remove from the oven and top with the onion rings and cilantro sprigs."
 ---
 
 <p><a href="/images/old/6a00e008d618bb883401053707975a970b-800wi.jpg" rel="lightbox" style="display: inline;"><img alt="Swiss_Chard_Enchiladas_Fresh_Tomatillo_Salsa" class="at-xid-6a00e008d618bb883401053707975a970b " src="/images/old/6a00e008d618bb883401053707975a970b-500wi.jpg"  /></a><br /><span style="font-size: 12px; font-family: Arial;">Swiss Chard, Onion and Monterey Jack Enchiladas in a Tomatillo Salsa</span></p><p>I&#39;m not going to front, these vegetarian enchiladas were really damn good. My brother described them as &quot;firing on all cylinders&quot;. I can&#39;t take full credit though, they were roughly based on a Rick Bayless recipe, from his terrific <a href="https://www.amazon.com/dp/039306154X?tag=herb-hugo-20" target="_blank">Mexican Everyday</a> cookbook. I changed the filling from spinach and mushroom to Swiss chard, onions, and Monterey Jack, and I baked them rather than just rolling them on hot plates and covering with the sauce. They were just cheesy enough to be satisfying, but not the total gut bomb that plain cheese enchiladas can be.</p><p>I don&#39;t know why I don&#39;t cook with tomatillos more often. They make incredible salsas, whether you use them completely raw, sear them before pureeing, or as in this case, cook the puree. They have an intense, rounded sour flavor without being too acidic, which makes other flavors pop. If you have some of the salsa left, you can make the Huevos Ahogados I&#39;ll show you in my next post. </p><p>I don&#39;t think people realize how good Swiss chard stems are. There is just sort of this natural inclination to remove them, the same as you would from say collard greens, whose stems really are tough. But with chard, if you just remove the woodiest bit, and chop the rest of the stem up fairly small and give it enough time to cook, it is a delicious, toothsome part of the vegetable. I would say it is a big part of what made these enchiladas delicious. </p><p>Bayless&#39; recipe calls for two cups of broth, but I found that to be too loose. I had to cook it down a long time to be the right consistency, so below I call for a single cup. If you have cooked pinto beans from scratch to go with the meal, you can use a cup of their cooking liquid as the broth. Otherwise, a good vegetable broth will do just fine.</p><p>Serve this forth with freshly made guacamole and refried beans, and I&#39;m pretty sure you will have a happy dinner that night!</p><div class="recipe-card">

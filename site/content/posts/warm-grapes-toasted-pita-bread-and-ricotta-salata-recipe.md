@@ -8,6 +8,30 @@ aliases: ["/warm-grapes-toasted-pita-bread-and-ricotta-salata-recipe/", "/2011/0
 cover:
   image: "/images/old/6a00e008d618bb8834014e607b812c970c-500wi.jpg"
   hidden: true
+recipe:
+  name: "Warm Grapes, Toasted Pita Bread and Ricotta Salata"
+  yield: "2"
+  time: "10 minutes"
+  diet: "Vegetarian"
+  ingredients:
+    - "2 tablespoons extra-virgin olive oil + more for drizzling"
+    - "pinch of chili flakes or Aleppo pepper"
+    - "1 thick pita bread cut into 1/2\" squares"
+    - "1 cup grapes, halved (and seeded if neceessary)"
+    - "squeeze of lemon juice"
+    - "Choose one of these spice mixtures (2-4 teaspoons total): Toasted fennel and cumin seed Zaatar \"Fresh zaatar\" - toasted sesame seeds, sumac, fresh thyme leaves Dukkah Ras al hanout"
+    - "2 or 3 ounces ricotta salata cheese, thinly sliced or crumbled"
+    - "handful of parsley leaves"
+    - "Toasted fennel and cumin seed"
+    - "Zaatar"
+    - "\"Fresh zaatar\" - toasted sesame seeds, sumac, fresh thyme leaves"
+    - "Dukkah"
+    - "Ras al hanout"
+  instructions:
+    - "Put the olive oil in a small skillet over medium-high heat. When it is hot, add the chili flakes and pita. Cook, tossing occasionally, until the pita is nicely browned and somewhat crispy. Transfer the pita to a bowl and put the pan back on the heat."
+    - "Without adding any more oil, saute the grapes for about 30 seconds, until warmed through but not falling apart. Add the grapes to the pita bread."
+    - "Add a generous squeeze of lemon juice and spice mixture and toss. Add the cheese and toss again, then taste and adjust seasoning. Ricotta salata is quite salty, so you may not need any salt, or just a pinch."
+    - "Divide on serving plates, or leave in the large bowl. Finish with a drizzle of excellent olive oil. If you happen to have an orange-scented one like this beauty from ChefShop, this is a perfect spot to use it. Serve warm."
 ---
 
 <a style="display: inline;" href="/images/old/6a00e008d618bb8834014e607b812c970c-800wi.jpg" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb8834014e607b812c970c" title="Toasted Pita Bread, Grape and Ricotta Salata" alt="Toasted Pita Bread, Grape and Ricotta Salata" src="/images/old/6a00e008d618bb8834014e607b812c970c-500wi.jpg" /></a>

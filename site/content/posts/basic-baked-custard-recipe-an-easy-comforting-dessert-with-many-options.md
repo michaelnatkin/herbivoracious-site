@@ -7,6 +7,24 @@ aliases: ["/basic-baked-custard-recipe-an-easy-comforting-dessert-with-many-opti
 cover:
   image: "/images/2012/07/Basic-Baked-Custard-626x415.jpg"
   hidden: true
+recipe:
+  name: "Basic Baked Custard Recipe"
+  yield: "8 servings Special equipment: 8 oven-proof ramekins"
+  diet: "Gluten-Free"
+  ingredients:
+    - "8 eggs"
+    - "4 cups whole milk"
+    - "1 cup sugar"
+    - "2 teaspoons vanilla extract"
+    - "1/4 teaspoon salt"
+  instructions:
+    - "Preheat the oven to 350. Bring a kettle of water to a boil Set the ramekins in a baking dish."
+    - "In a bowl that can hold 3 quarts, thoroughly whisk the eggs."
+    - "In a pot that can hold 3 quarts, whisk together the milk, sugar, vanilla and salt. Cook over medium heat, stirring frequently to avoid scorching, until the milk is approaching a simmer. Remove from the heat."
+    - "While whisking the eggs continuously, drizzle in the milk. Go slowly at first to avoid cooking the eggs, then once about half of the milk has been incorporated, you can go faster."
+    - "Strain the custard through a coarse strainer and then your finest strainer to catch any bits of egg."
+    - "Ladle the custard into the ramekins and put the baking dish in the oven. Pull the rack part way out and pour the boiling water around the ramekins until it comes about halfway up their sides."
+    - "Bake until just barely set, about 20 minutes. A toothpick should come out nearly clean, but there should still be a visible jiggle if you move the pan. Err on the side of undercooking them. Remove the ramekins carefully to a cooling rack. I usually do this using tongs, but you have to be careful not to drop one back in the pan of hot water and splash yourself!"
 ---
 
 <a href="/images/2012/07/Basic-Baked-Custard.jpg"><img class="alignnone size-large wp-image-2408" title="Basic Baked Custard" src="/images/2012/07/Basic-Baked-Custard-626x415.jpg" alt="Basic Baked Custard" width="626" height="415" />

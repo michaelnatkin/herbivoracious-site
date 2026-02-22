@@ -8,6 +8,29 @@ aliases: ["/stuffed-baked-polenta-recipe/", "/2011/10/stuffed-baked-polenta-reci
 cover:
   image: "/images/cookbook/stuffed-baked-polenta.jpg"
   hidden: true
+recipe:
+  name: "Stuffed & Baked Polenta"
+  yield: "8"
+  time: "45 minutes active"
+  ingredients:
+    - "3 tablespoons olive oil, divided"
+    - "1 medium white onion, diced"
+    - "4 cloves garlic, minced"
+    - "1 teaspoon Kosher salt"
+    - "pinch chile flakes"
+    - "2 pounds button mushrooms, sliced ¼” thick"
+    - "1 bunch kale, stemmed and sliced thin (about 4 cups packed)"
+    - "zest of 1 lemon"
+    - "9 cups cooked polenta (3 cups raw, made according to package directions)"
+    - "2 cups Tarragon Béchamel sauce"
+    - "¾ cup freshly grated asiago fresco or provolone cheese"
+    - "½ cup freshly grated Parmesan cheese"
+  instructions:
+    - "Preheat oven to 400, using convection if available."
+    - "Saute the onion and garlic with 2 tablespoons of olive oil in your largest skillet over medium-high heat for 2 minutes, until the onion is translucent. Add the salt, chile flakes and mushrooms and cook, stirring occasionally, until the mushrooms are browned and most of the water has cooked out (the bottom of the pan will seem dry)."
+    - "Add the kale and cook, stirring occasionally until it is wilted and tender. Add the lemon zest. Taste and adjust seasoning."
+    - "Grease a 9x13” pan (at least 2” deep) with the remaining tablespoon of olive oil. Spread ½ of the polenta in the bottom of the pan. If the polenta has cooled and solidified, you may have to squish it into place. Top with the mushroom mixture, then the béchamel sauce, and the remaining polenta. Scatter the grated cheeses on top."
+    - "Bake until hot all the way through and golden brown on top, about 30 minutes, then serve immediately."
 ---
 <a href="/images/cookbook/stuffed-baked-polenta.jpg"><img src="/images/cookbook/stuffed-baked-polenta.jpg" alt="Stuffed & Baked Polenta" /></a>
 

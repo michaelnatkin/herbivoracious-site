@@ -7,6 +7,20 @@ aliases: ["/crepes-with-roasted-french-plums-yogurt-and-honey/", "/2012/08/crepe
 cover:
   image: "/images/2012/08/Crepes-with-Sage-Roasted-Plums-and-Yogurt-626x415.jpg"
   hidden: true
+recipe:
+  name: "Julia Child's Crepe Recipe"
+  yield: "about 12 crepes I don't want to reproduce Julia's recipe in the entirety, but here are the ingredients, and my synopsis of the method"
+  ingredients:
+    - "1 cup cold water"
+    - "1 cup cold milk"
+    - "4 eggs"
+    - "1/2 teaspoon salt"
+    - "2 cups sifted all-purpose flour"
+    - "4 tablespoons [1/2 stick] melted butter"
+  instructions:
+    - "Combine all ingredients in the blender. Whiz on high speed for 1 minute, scraping down the sides if needed. Refrigerate for 2 hours."
+    - "Put your skillet over medium-to-medium high heat with a tiny bit of butter. When it is preheated, pour in 1/4 cup of the batter while tilting and swirling the skillet in all directions for a few seconds to produce a generally circular, thin crepe. If you can't get it spread evenly, you need either (1) work on your tilting and swirling (2) thin out the batter a bit or (3) lower the heat. Expect it to take a few crepes to really dial it in."
+    - "Cook until lightly browned on one side, about 1 minute or a bit more, then flip and cook for just about 30 seconds on the other side. I usually perform the flip by lifting the edge with a silicone spatula and then using my fingers to rapidly turn it over. I have asbestos fingers though, so only try it this way if you feel comfortable that you won't hurt yoursellf. Otherwise, try using two spatulas."
 ---
 
 <a href="/images/2012/08/Crepes-with-Sage-Roasted-Plums-and-Yogurt.jpg"><img class="alignnone size-large wp-image-2598" title="Crepes with Sage Roasted Plums and Yogurt" src="/images/2012/08/Crepes-with-Sage-Roasted-Plums-and-Yogurt-626x415.jpg" alt="Crepes with Sage Roasted Plums and Yogurt" width="626" height="415" />

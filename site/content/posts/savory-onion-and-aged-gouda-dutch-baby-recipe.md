@@ -7,6 +7,27 @@ aliases: ["/savory-onion-and-aged-gouda-dutch-baby-recipe/", "/2009/10/savory-on
 cover:
   image: "/images/old/6a00e008d618bb88340120a5037798970b-500wi.jpg"
   hidden: true
+recipe:
+  name: "Onions and Aged Gouda"
+  yield: "3 to 5 (see above)"
+  diet: "Vegan, Vegetarian"
+  ingredients:
+    - "6 + 2 tablespoons unsalted butter"
+    - "1 medium onion, thinly sliced (sweet ones like Vidalia or Walla Walla preferred)"
+    - "5 eggs"
+    - "1 1/4 cups whole milk"
+    - "1 1/4 cups all-purpose flour"
+    - "1/2 teaspoon salt"
+    - "1 cup grated aged Gouda cheese"
+    - "2 teaspoons herbes de Provence, ground if coarse (see discussion above)"
+    - "smoked paprika (for garnish)"
+  instructions:
+    - "Preheat your oven to 425 degrees."
+    - "Saute the onion in 2 tablespoons of butter with a pinch of salt until quite soft; remove and cool."
+    - "Combine the eggs, milk, flour and salt in a blender at high speed for 1 minute. Stir in the onions, salt, Gouda cheese and herbs de Provence."
+    - "Put the 6 tablespoons of butter into a well-seasoned 12\" cast-iron skillet or other large, oven-safe container. Put the skillet in the oven."
+    - "When the butter is sizzling, carefully pull the skillet out and swirl it or use a brush to be sure the whole thing is coated. Pour in the batter and return it to the oven. Cook about 18 minutes until puffed and golden brown. It will not puff as much as normal Dutch baby without the cheese."
+    - "When the Dutch Baby is done, carefully remove it from the oven. Pad off any excess butter on top with a paper towel. Garnish with smoked paprika and serve."
 ---
 
 <p><a href="/images/old/6a00e008d618bb88340120a5037798970b-800wi.jpg" rel="lightbox" style="display: inline;"><img alt="Savory_Dutch_Baby_Slice" class="at-xid-6a00e008d618bb88340120a5037798970b " src="/images/old/6a00e008d618bb88340120a5037798970b-500wi.jpg" /></a><br /><em>Savory onion and aged gouda Dutch baby</em></p>  <p>Eating Out Loud and I <a href="http://www.eatingoutloud.com/2009/04/dutch-baby-pancake-recipe.html" target="_blank">have</a> <a href="/2009/05/dutch-baby-with-sauteed-apples-giant-ovenbaked-pancakes-recipe/" target="_blank">riffed</a> <a href="http://www.eatingoutloud.com/2009/09/an-adult-toad-in-the-hole.html" target="_blank">on</a> Dutch Babies a couple of times now. This was my first attempt at a savory version and I was pretty darn happy with the flavors. Done this way, it becomes like a very light, custardy quiche. You could serve it for lunch or brunch with a green salad (apples!), or cut it up into squares as an appetizer.</p>  <p>If you haven&#39;t had aged gouda before, hie thee to a good cheesemonger and get a taste. They also carry a decent mid-grade one at Trader Joe&#39;s. This is <strong>not</strong> the stuff in the red wax, people. It has an intense caramel or butterscotch flavor, and in the most-aged varieties, is rather crystalline like parmigiano reggiano. It is one of my all time favorite cheeses. I love to eat it with wine, though I&#39;m not sure I can say what the best pairings are. Anyone have an opinion?</p>  <p><a href="/images/old/6a00e008d618bb88340120a55a90a2970c-800wi.jpg" rel="lightbox" style="float: right;"><img alt="Savory_Dutch_Baby" class="at-xid-6a00e008d618bb88340120a55a90a2970c " src="/images/old/6a00e008d618bb88340120a55a90a2970c-250wi.jpg" style="margin: 0px 0px 5px 5px; width: 220px;" /></a>I also call for herbes de Provence, which is generally a mixture of thyme, basil, savory, fennel and a tiny bit of lavender. It can also contain a variety of other herbs. If you don&#39;t have a pre-mixed packet of <a href="https://www.amazon.com/dp/B0001M10TM?tag=herb-hugo-20">herbes de Provence</a>, just use as many of those individual herbs as you have available. The exact proportions aren&#39;t critical, but they should be lively dried herbs, not ones that you have had slowly turning into dust for the past 9 years. Beter yet, you could use 2 tablespoons of fresh herbs if you have them. If you do use lavender, make it just a pinch or your Dutch Baby will taste like your grandmother&#39;s favorite soap.</p>  <p><strong>Savory Dutch Baby</strong> <span style="font-weight: bold;">with </span><div class="recipe-card">

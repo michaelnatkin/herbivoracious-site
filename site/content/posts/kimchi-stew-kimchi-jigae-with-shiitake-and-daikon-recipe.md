@@ -8,6 +8,30 @@ aliases: ["/kimchi-stew-kimchi-jigae-with-shiitake-and-daikon-recipe/", "/2012/0
 cover:
   image: "/images/cookbook/kimchi-stew-kimchi-jigae-with-shiitake-and-daikon.jpg"
   hidden: true
+recipe:
+  name: "Kimchi Stew (Kimchi Jigae) with Shiitake and Daikon"
+  yield: "4"
+  time: "35 minutes"
+  diet: "Vegan"
+  ingredients:
+    - "1 medium daikon root"
+    - "2 tablespoons toasted sesame oil for stew plus a drizzle for garnish"
+    - "16 fresh shiitake mushroom caps, cut into bite sized pieces (usually quarters)"
+    - "½ white onion, medium dice"
+    - "1 tablespoon grated ginger"
+    - "2 cloves garlic, minced"
+    - "2 cups roughly chopped vegetarian kimchi"
+    - "2 tablespoons kochujang"
+    - "2 tablespoons red miso"
+    - "2 tablespoons soy sauce"
+    - "1 pound firm tofu, ½” cubes"
+    - "2 green onions, white and light green parts only, thinly sliced"
+  instructions:
+    - "Set serving bowls aside to preheat. Peel the daikon. Cut it in half lengthwise, then cut ¼” thick half moons until you have 2 cups worth. Reserve the rest for another use."
+    - "Put a pot that holds at least 4 quarts over medium-high heat. Add 2 tablespoons of toasted sesame oil. When it is hot, add the daikon and saute for 1 minute. Add the shiitake and onion and saute for 2 more minutes."
+    - "Add the ginger, garlic, kimchi, kochujang, and miso and stir. Allow to cook about 5 minutes, stirring occasionally. Don’t worry that the kochujang and miso start as big blobs; after a few minutes they will soften and dissolve."
+    - "Add the soy sauce and 3 cups of water. Bring to a boil, reduce to a simmer, and cook, stirring occasionally for 15 minutes. Taste and adjust seasoning. If you’d like it to be spicier, you can add more kimchi, kochujang, or powdered chili pepper (kochugaru), or even chili flakes. Gently stir in the tofu and simmer 5 more minutes."
+    - "Divide among the serving bowls, garnish with an additional drizzle of sesame oil and the green onions, and serve immediately."
 ---
 <a href="/images/cookbook/kimchi-stew-kimchi-jigae-with-shiitake-and-daikon.jpg"><img src="/images/cookbook/kimchi-stew-kimchi-jigae-with-shiitake-and-daikon.jpg" alt="Kimchi Stew (Kimchi Jigae) with Shiitake and Daikon" /></a>
 

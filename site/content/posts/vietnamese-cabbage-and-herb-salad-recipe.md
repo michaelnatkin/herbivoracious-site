@@ -7,6 +7,29 @@ aliases: ["/vietnamese-cabbage-and-herb-salad-recipe/", "/2013/02/vietnamese-cab
 cover:
   image: "/images/2013/08/Vietnamese-Cabbage-and-Herb-Salad-626x415.jpg"
   hidden: true
+recipe:
+  name: "Vietnamese Cabbage, Tofu and Herb Salad – Gói Bắp Cải Dậu Phụ"
+  time: "15 min"
+  ingredients:
+    - "5 large shallots, peeled and thinly sliced"
+    - "Vegetable oil for frying"
+    - "3 ounces extra-firm tofu (one of those seasoned and baked tofus can work as well), 1/4\" dice"
+    - "Kosher salt"
+    - "1/2 small head green cabbage, cored, thinly shredded and refrigerated"
+    - "2 big, packed handfuls mixed Vietnamese herbs - rau ram, mint, cilantro, etc. - see above"
+    - "2 tablespoons lime juice or rice vinegar"
+    - "1 teaspoon sugar"
+    - "1 tablespoon soy sauce - use a gluten free variety if needed"
+    - "1 teaspoon minced fresh ginger"
+    - "1 clove garlic, minced"
+    - "1/4 cup peanuts, toasted and lightly crushed"
+  instructions:
+    - "Bring a small pot with enough oil to completely cover the shallots up to a low frying temperature, about 260 F / 126 C. Add the shallots and cook, stirring occasionally until deeply golden brown. This will take a very long time - around 45 minutes. Keep the temperature very low. You can speed the process up a little by using more oil in a larger pot. For a long time it will seem like nothing much is happening, then they will start to slowly brown. Keep the temperature low, and pay more attention for the last few minutes."
+    - "When the shallots are done, drain them but *reserve the delicious oil*. Spread the shallots out on paper towels. As they cool, they will become shatteringly crispy."
+    - "Pan-fry the tofu in a small amount of oil until nicely browned. Transfer to paper towels and season."
+    - "In a small bowl, stir together the lime juice, sugar, 1/4 teaspoon salt, soy sauce, ginger, and garlic. Whisk in 1/4 cup of the reserved shallot oil. Don't worry about getting it emulsified."
+    - "Put the cabbage in a mixing bowl. Add half of the shallots, the tofu, and all of the herbs, tearing them and lightly bruising the leaves to release flavor. Add the dressing a little at a time, tossing as you go, until the cabbage is well dressed but not drenched. Taste and adjust seasoning - it may need more salt."
+    - "To serve, transfer the salad to platter. Garnish with the remaining fried shallots and peanuts."
 ---
 
 <a href="/images/2013/08/Vietnamese-Cabbage-and-Herb-Salad.jpg"><img class="alignnone size-large wp-image-3598" alt="Vietnamese Cabbage and Herb Salad - Recipe" src="/images/2013/08/Vietnamese-Cabbage-and-Herb-Salad-626x415.jpg" width="626" height="415" /></a>

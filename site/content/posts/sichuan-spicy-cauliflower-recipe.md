@@ -7,6 +7,19 @@ aliases: ["/sichuan-spicy-cauliflower-recipe/", "/2013/03/sichuan-spicy-cauliflo
 cover:
   image: "/images/2013/05/Sichuan-Cauliflower-Cooked-626x415.jpg"
   hidden: true
+recipe:
+  name: "Sichuan Spicy Cauliflower"
+  time: "10 min"
+  ingredients:
+    - "1 head cauliflower, halved or cut into florets (about 700 grams)"
+    - "50 grams (1/4 cup) chili oil (or use a mix of plain and sesame oil and add dried chilis to your taste)"
+    - "7.5 grams kosher salt (start with 1 teaspoon if working by volume)"
+    - "3.4 grams Sichuan peppercorn (1 tablespoon), crushed"
+    - "2 cloves garlic, minced"
+    - "1-inch piece of ginger, grated"
+  instructions:
+    - "Divide all ingredients among two sous vide bags. Seal under maximum vacuum if available. Cook at 85 C / 185 F until tender, about 40 mins. Allow to cool slightly, then remove from bag, and, if desired broil or blowtorch to brown in spots. Taste and adjust seasoning and serve."
+    - "Microwave florets at high power until partly tender. Drain off any water. Heat a large skillet over high heat. Add the oil, salt, Sichuan peppercorn, garlic, and ginger. Stir-fry for just a few seconds, then add the cauliflower, and stir-fry until cooked through and browned in spots, about 5 minutes. Taste and adjust seasoning and serve."
 ---
 
 <a href="/images/2013/05/Sichuan-Cauliflower-Cooked.jpg"><img class="alignnone size-large wp-image-3652" alt="Sichuan Spicy Cauliflower" src="/images/2013/05/Sichuan-Cauliflower-Cooked-626x415.jpg" width="626" height="415" /></a>

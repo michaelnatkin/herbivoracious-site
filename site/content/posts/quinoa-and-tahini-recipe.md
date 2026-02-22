@@ -7,6 +7,28 @@ aliases: ["/quinoa-and-tahini-recipe/", "/2009/06/quinoa-and-tahini-recipe.html"
 cover:
   image: "/images/old/6a00e008d618bb8834011570e96f01970b-500wi.jpg"
   hidden: true
+recipe:
+  name: "Quinoa with Tahina Sauce, Tofu and Green Beans"
+  yield: "4 as a main dish"
+  diet: "Vegan, Gluten-Free"
+  ingredients:
+    - "1.5 cups uncooked quinoa"
+    - "1 cup sesame tahini (Joyva or Alwadi are good brands; failing that, any Middle Eastern brand; if you use a health-food / natural foods type brand, look for one that specifies toasted, not raw. Raw tahini is yucky IMHO)."
+    - "juice of 1 lemon"
+    - "1 clove garlic, minced"
+    - "1 pound extra firm tofu, cut into 1/2\" cubes"
+    - "1 tablespoon canola oil"
+    - "1 pound green beans, trimmed and washed"
+    - "salt to taste"
+    - "optional: paprika or sumac (the dried spice, not the poison ivy like thing) for garnish"
+  instructions:
+    - "Rinse the quinoa twice in cold water, draining in a fine-meshed strainer."
+    - "In a pot or rice cooker, combine the quinoa with 3 cups water. If using a pot, bring to a boil, reduce heat to low, cover, and cook for 15-18 minutes until the water is absorbed. If using a rice cooker, simply turn on for the regular white rice cycle."
+    - "If the tahini is separated in the jar, stir it up. Combine the tahini, lemon juice, garlic and 1 teaspoon of salt in a mini-food processor or blender. Whiz on high speed until smooth. You will need to add some warm water to get it to sauce consistency, possibly quite a bit. Do not serve mortar paste! Taste and add more salt and lemon juice as needed. Hint: leave the sauce in the machine until serving time, as it has a tendency to thicken more. Give it one last spin and adjust at the last moment."
+    - "Steam the green beans until crisp-tender, either in the microwave or a steaming basket. Or saute them if you'd rather."
+    - "Saute the tofu cubes in the oil over high heat, flipping occasionally, until light browned. Drain on a paper towel and season with salt."
+    - "When the quinoa is done, fluff it and let it rest about 5 minutes with the cover off to get rid of any excess steam."
+    - "To serve, simply put 1 cup of quinoa on each plate, top with 1/4 of the tofu and 1/4 of the green beans and a healthy splash of the tahina. Garnish with the paprika or sumac for a little color and a hit of spice."
 ---
 
 <p><a href="/images/old/6a00e008d618bb8834011570e96f01970b-800wi.jpg" rel="lightbox" style="display: inline;"><img alt="Quinoa_Green_Beans_Tahina" class="at-xid-6a00e008d618bb8834011570e96f01970b " src="/images/old/6a00e008d618bb8834011570e96f01970b-500wi.jpg" /></a>&#0160;</p><p>Glorious hippie food. No offense to any hippies out there! That&#39;s just what I call this kind of dish, when I throw together some components that don&#39;t really have any particular culinary heritage together, but they taste good in a healthy, satisfying way.</p><p>This dish is a prime example. Quinoa is from South America, tahina is from the Middle East, tofu is from Asia, and green beans are multi-culti. And yet somehow, they play together. I&#39;ve always found quinoa to have an affinity for sesame. I&#39;m not sure why, maybe it is because the flavors of both are mild and nutty, or because the quinoa grains are about the size of sesame seeds. </p><p>Bonus: Quinoa, tofu and sesame are all high protein, nutritionally dense foods. It might be just the power of suggestion, but I always feel good and strong after a meal like this.</p><p>If you haven&#39;t cooked quinoa before, I think you will really enjoy it as a change of pace from rice. There is one critical thing you must know: it needs to be rinsed a couple of times in cold water. The grain has a slightly bitter coating on it (saponins, if you must know). Some boxed quinoa might already have this removed, but I wouldn&#39;t count on it. Once you&#39;ve done that, you can simply simmer it in a pot with a 2:1 ratio of water for about 15-18 minutes. You can also cook it in a rice cooker, again with a 2:1 ratio.</p><p>Tahina sauce is a classic combination of plain tahini with garlic and lemon juice. Once you see how easy it is to make, you&#39;ll want to use it as a dip for pita or vegetables or a condiment for falafel, roasted eggplant or just about any Middle Eastern dish.</p><div class="recipe-card">

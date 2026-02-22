@@ -7,6 +7,27 @@ aliases: ["/fried-pita-bread-with-fava-beans-and-zucchini-recipe/", "/2013/08/fr
 cover:
   image: "/images/2013/08/Fried-Pita-with-Fava-and-Zucchini-626x415.jpg"
   hidden: true
+recipe:
+  name: "Fried Pita Bread with Fava Beans and Zucchini"
+  yield: "1 as a hearty one-pot meal, multiply as needed"
+  diet: "Vegan, Vegetarian"
+  ingredients:
+    - "2 tablespoons olive oil plus more for garnish"
+    - "1 pita bread (slightly stale is fine), torn into bite-sized pieces"
+    - "Kosher salt"
+    - "1 clove garlic, minced"
+    - "1/2 cup zucchini, diced"
+    - "1/4 cup sliced marinated green olives, preferably a Middle eastern style"
+    - "1/2 cup cooked fava or garbanzo beans"
+    - "2 teaspoons harissa (less if you aren't into heat)"
+    - "Handful of cherry tomatoes, halved"
+    - "Minced parsley"
+    - "Zucchini blossoms, chiffonade (optional)"
+  instructions:
+    - "Heat the olive oil in, say, an 8\" skillet over medium heat. When the oil is shimmering, add the torn bread and a pinch of salt and saute, stirring occasionally, until the bread is browned in a fair number of spots. Remove to a plate."
+    - "Add a bit more oil if needed, then add the garlic and zucchini and a pinch of salt and saute, stirring occasionally, until the zucchini is browning in spots. Add the marinated olives, fava beans, harissa, and a bit of water (so it is just slightly saucy). Continue to cook, stirring occasionally, until everything is hot and integrated, maybe 3 minutes. Taste and add salt as needed. Loosen with a bit more water if needed but you are about to add the bread back, and you don't want to make it soggy."
+    - "Return the bread to the skillet and toss through. Transfer to serving bowl."
+    - "Garnish with plenty of additional good olive oil, the cherry tomatoes, parsley, and the zucchini blossoms if using."
 ---
 
 <a href="/images/2013/08/Fried-Pita-with-Fava-and-Zucchini.jpg"><img class="alignnone size-large wp-image-3850" alt="Fried Pita Bread with Fava Beans and Zucchini" src="/images/2013/08/Fried-Pita-with-Fava-and-Zucchini-626x415.jpg" width="626" height="415" /></a>

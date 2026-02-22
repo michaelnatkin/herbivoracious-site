@@ -8,6 +8,24 @@ aliases: ["/middle-eastern-panzanella-recipe/", "/2011/03/middle-eastern-panzane
 cover:
   image: "/images/cookbook/middle-eastern-panzanella.jpg"
   hidden: true
+recipe:
+  name: "Middle Eastern Panzanella"
+  ingredients:
+    - "1 pita bread, toasted until well browned"
+    - "2 ripe medium-sized tomatoes"
+    - "½ cucumber, peeled if tough"
+    - "2 tablespoons minced red onion"
+    - "generous handful of cilantro leaves"
+    - "generous handful of mint leaves"
+    - "1-2 tablespoons extra-virgin olive oil"
+    - "1 tablespoon lemon juice"
+    - "¼ teaspoon salt or to taste"
+    - "several grinds black pepper"
+    - "big pinch of sumac"
+  instructions:
+    - "Cut the pita bread, tomatoes and cucumber into bite sized pieces."
+    - "Just before serving, toss with the onion, cilantro, mint, olive oil, lemon juice, salt and pepper."
+    - "Garnish with the sumac."
 ---
 <a href="/images/cookbook/middle-eastern-panzanella.jpg"><img src="/images/cookbook/middle-eastern-panzanella.jpg" alt="Middle Eastern Panzanella" /></a>
 

@@ -7,6 +7,18 @@ aliases: ["/korean-yakisoba-with-french-horn-mushroom-tofu-and-510-egg-recipe/",
 cover:
   image: "/images/2012/03/Korean-Yakisoba-626x415.jpg"
   hidden: true
+recipe:
+  name: "Korean Yakisoba with French Horn Mushroom, Tofu and 5:10 Egg"
+  yield: "4 For the quick radish kimchi"
+  diet: "Vegetarian"
+  ingredients:
+    - "5 red radishes, thinly sliced (on a mandoline if available)"
+    - "2 cloves garlic, thinly sliced"
+    - "1/2 teaspoon kosher salt"
+    - "1/2 teaspoon sugar"
+    - "1/4 teaspoon Korean red pepper powder, or failing that, cayenne"
+  instructions:
+    - "Toss all ingredients and allow to rest at room temperature for about an hour. Can also be made a day ahead and refrigerated."
 ---
 
 <a href="/images/2012/03/Korean-Yakisoba.jpg"><img class="alignnone size-large wp-image-1738" title="Korean Yakisoba with French Horn Mushroom, Tofu and 5:10 Egg" src="/images/2012/03/Korean-Yakisoba-626x415.jpg" alt="" width="626" height="415" /></a>

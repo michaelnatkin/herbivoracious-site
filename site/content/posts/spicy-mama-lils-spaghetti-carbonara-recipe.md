@@ -7,6 +7,26 @@ aliases: ["/spicy-mama-lils-spaghetti-carbonara-recipe/", "/2011/11/spicy-mama-l
 cover:
   image: "/images/2011/11/Mama-Lils-Carbonara-2-626x415.jpg"
   hidden: true
+recipe:
+  name: "Spicy Mama Lil's Spaghetti alla Carbonara"
+  yield: "2 as a hearty entree 15 minutes active time Vegetarian"
+  time: "15 minutes active"
+  diet: "Vegetarian"
+  ingredients:
+    - "2/3 pound spaghetti"
+    - "1/2 cup Mama Lil's peppers (including the oil from the jar)"
+    - "4 cloves garlic, thinly sliced"
+    - "2 eggs"
+    - "1/2 cup grated Parmigiano-Reggiano cheese"
+    - "Freshly ground black pepper"
+    - "Kosher salt"
+    - "1/4 cup toasted pine nuts"
+    - "2 tablespoons minced parsley"
+  instructions:
+    - "Bring a large pot of well salted water to a boil. Put your serving bowls aside to warm. When the water is at a rolling boil, add the pasta. Heat a large skillet over medium high heat. Add the Mama Lil's peppers including at least a couple of tablespoons of the oil they are packed in. When the oil is shimmering, add the garlic and reduce the heat to low."
+    - "In a large bowl, whisk together the eggs, cheese, several generous grinds of black pepper, and a pinch of Kosher salt (you don't need much because the peppers and cheese are already salty). When the pasta is al dente (or even just slightly shy of al dente), drain it, add to the skillet and raise the heat to medium high. Using tongs, toss the pasta with the peppers for about 1 minute."
+    - "Pour the entire contents of the skillet into the egg mixture, and working quickly and aggressively with your tongs to prevent the eggs from scrambling, toss the pasta for about 1 minute. Taste and adjust seasoning."
+    - "Divide the pasta among the serving bowls, garnish with the toasted pine nuts and parsley and serve immediately."
 ---
 
 <a href="/images/2011/11/Mama-Lils-Carbonara-2.jpg"><img class="alignnone size-large wp-image-793" title="Vegetarian Spaghetti Carbonara with Mama Lil's Spicy Peppers" src="/images/2011/11/Mama-Lils-Carbonara-2-626x415.jpg" alt="Vegetarian Spaghetti Carbonara with Mama Lil's Spicy Peppers" width="626" height="415" /></a>

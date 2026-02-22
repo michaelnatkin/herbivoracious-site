@@ -8,6 +8,23 @@ aliases: ["/chilled-tomato-buttermilk-soup-recipe/", "/2011/02/chilled-tomato-bu
 cover:
   image: "/images/cookbook/chilled-tomato-buttermilk-soup.jpg"
   hidden: true
+recipe:
+  name: "Chilled Tomato Buttermilk Soup"
+  yield: "4"
+  time: "10 minutes (but you need tomato confit already made)"
+  diet: "Gluten-Free"
+  ingredients:
+    - "2 1/2 cups cold buttermilk"
+    - "36 tomato confit halves, divided"
+    - "1 teaspoon Kosher salt"
+    - "finely chopped chives"
+    - "extra virgin olive oil"
+    - "flaky sea salt"
+  instructions:
+    - "Chill 4 small bowls."
+    - "In a blender or with an immersion blender, puree the buttermilk, 32 of the tomato confit halves and the salt. Run the blender for at least a minute to make the puree as smooth as possible. Strain."
+    - "Finely chop the remaining 4 tomato halves."
+    - "Divide the soup among the bowls; garnish each one with some chopped confit, chives, a drizzle of olive oil, and a few flakes of salt. Serve immediately."
 ---
 <a href="/images/cookbook/chilled-tomato-buttermilk-soup.jpg"><img src="/images/cookbook/chilled-tomato-buttermilk-soup.jpg" alt="Chilled Tomato Buttermilk Soup" /></a>
 

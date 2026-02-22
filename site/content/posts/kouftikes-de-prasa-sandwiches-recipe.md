@@ -7,6 +7,39 @@ aliases: ["/kouftikes-de-prasa-sandwiches-recipe/", "/2012/04/kouftikes-de-prasa
 cover:
   image: "/images/2012/03/Kouftikes-De-Prasa-Sandwich.jpg"
   hidden: true
+recipe:
+  name: "Kouftikes De Prasa Sandwiches"
+  yield: "4"
+  time: "30 minutes active"
+  diet: "Vegetarian"
+  ingredients:
+    - "2 cups finely shredded red cabbage"
+    - "½ teaspoon Kosher salt"
+    - "¼ cup white vinegar"
+    - "½ preserved lemon, finely chopped"
+    - "2 teaspoons harissa or Thai-style chile sauce (such as Sriracha)"
+    - "2 large leeks, white and light green parts only (about 12 ounces)"
+    - "2 tablespoons olive oil"
+    - "3/4 teaspoon salt"
+    - "4 large eggs, beaten"
+    - "1/2 cup homemade breadcrumbs"
+    - "½ teaspoon cumin powder"
+    - "¼ teaspoon Aleppo pepper or cayenne"
+    - "pinch cinnamon"
+    - "vegetable oil for shallow frying"
+    - "flaky sea salt"
+    - "4 pita breads, lightly toasted or grilled"
+    - "20 thin half-moons of cucumber"
+    - "½ cup thick Greek yogurt or labneh"
+    - "sumac"
+    - "handful mint (or cilantro) leaves, torn"
+  instructions:
+    - "For the spicy cabbage: Thoroughly toss together all ingredients and refrigerate for at least two hours (the day before is fine too). Allow to return to room temperature before serving."
+    - "For the leek patties: Cut the leeks in half lengthwise and then into ¼” half-circles. Wash in 3 changes of water and then dry thoroughly (a salad spinner works well for this)."
+    - "In a large skillet over medium high heat, heat the olive oil and saute the leeks until tender and starting to shrivel, about 5 minutes. (You can use the same skillet to fry the leek patties in a moment)."
+    - "Thoroughly mix the leeks, salt, eggs, breadcrumbs, cumin powder, Aleppo pepper or cayenne, and cinnamon."
+    - "Put about 1/8” of vegetable oil in the skillet and set the heat to medium-high. Drop the batter in with a quarter-cup measure and use the back of the cup to smooth each patty into a circle about 4” in diameter. Make 8 patties total, which will require two batches. Fry each patty until golden brown, about 3 minutes per side. Remove to paper towels and season with the flaky sea salt."
+    - "To finish the sandwiches: Place two leek patties on a pita. Top with a handful of the spicy red cabbage, 5 cucumber slices, and 2 tablespoons of the Greek yogurt. Sprinkle a little sumac on the yogurt, and scatter a few mint leaves over the whole sandwich. Serve immediately."
 ---
 
 <a href="/images/2012/03/Kouftikes-De-Prasa-Sandwich.jpg"><img class="alignnone size-full wp-image-1732" title="Kouftikes De Prasa Sandwich" src="/images/2012/03/Kouftikes-De-Prasa-Sandwich.jpg" alt="Kouftikes De Prasa Sandwich" width="580" height="800" />

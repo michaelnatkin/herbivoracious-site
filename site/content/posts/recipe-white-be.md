@@ -7,6 +7,30 @@ aliases: ["/recipe-white-be/", "/2008/01/recipe-white-be.html"]
 cover:
   image: "/images/2008-small/01/08/lemonywhitebeans.jpg"
   hidden: true
+recipe:
+  name: "Lemony White Beans With Grilled Onions"
+  yield: "12 as a side dishVegan and gluten-free"
+  diet: "Gluten-Free"
+  ingredients:
+    - "6 c. cooked white beans (such as cannellini)"
+    - "1.5 large sweet onions"
+    - "6 cloves garlic, minced"
+    - "1/2 c. extra virgin olive oil"
+    - "zest and juice of 2 lemons"
+    - "1/2 preserved lemon, interior only, chopped fine"
+    - "salt to taste"
+    - "1 t. black pepper"
+    - "1/4 c. packed sage leaves, chiffonade"
+    - "1 T. minced rosemary leaves"
+    - "1 jalapeno, minced"
+    - "2 yellow bell peppers, diced small"
+    - "1 handful flat leaf parsley, minced (reserve a few leaves for garnish)"
+    - "1 handful chives, minced"
+  instructions:
+    - "Cook the beans (or open a can), and drain thoroughly. Heat (or cool, as the case may be) the beans to a very warm temperature so they absorb flavors."
+    - "Slice the onions into thick circles and grill until fairly charred (see note above), then dice."
+    - "Combine all of the ingredients thoroughly and check for seasoning."
+    - "Serve warm or at room temperature. This will keep for a few days in the refrigerator and the flavor will continue to improve."
 ---
 
 <p><a rel="lightbox" href="/images/2008/01/08/lemonywhitebeans.jpg"><img width="455" height="302" border="0" src="/images/2008-small/01/08/lemonywhitebeans.jpg" title="Lemonywhitebeans" alt="Lemonywhitebeans" /></a><br /><span style="font-size: 0.8em;">Lemony White Beans With Grilled Onions</span></p>  <p>I made this for a Seattle food blogger brunch put together by the Keren Brown, aka <a href="http://savvysavorer.blogspot.com/2008/01/seattle-food-bloggers-event.html">The Savvy Savorer</a>. She told me her husband was making his lachooch (a delicious, slightly spongy Yemenite flatbread that reminded me a lot of Ethiopian injera, only thicker). I can't find anything about it on the web, Keren care to provide us with a recipe? </p>  <p>Anyhow, I figured it would go well with lemony beans, so I came up with this simple white bean salad. The flavors are basically Italian, but I snuck in a bit of <a href="https://www.amazon.com/dp/B07PSJCLC6?tag=herb-hugo-20">preserved lemon</a> to add a Middle Eastern twist. If you don't have preserved lemon handy just add another fresh lemon. I love the flavor of preserved lemon but you want to go easy with it for general audiences - some folks may feel it tastes like Lemon Pledge in large quantities!</p>  <p>Grilling the onions adds another hit of flavor. You could do that on a barbeque if it is convenient, but you can also use a grill pan or cast iron skillet.</p>  <p>White bean salads like this are very versatile. You can bring them as a potluck dish, use them as a side salad, have them as the main even of a light lunch, smash them a bit and offer as a dip, or even serve them hot as the base layer of an entree plate.</p>  <p>This recipe is vegetarian and vegan.</p>  <div class="recipe-card">

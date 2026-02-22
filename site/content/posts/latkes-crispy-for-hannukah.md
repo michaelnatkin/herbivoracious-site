@@ -7,6 +7,28 @@ aliases: ["/latkes-crispy-for-hannukah/", "/2008/12/latkes-crispy-for-hannukah.h
 cover:
   image: "/images/2008/12/Hannukah-Latkes-626x415.jpg"
   hidden: true
+recipe:
+  name: "Crispy, Delicious Latkes for Hanukkah"
+  diet: "Vegetarian, Gluten-Free"
+  ingredients:
+    - "450 grams (1 pound Russet potato), peeled and held in water until ready to grate"
+    - "115 grams (1/4 pound onion), preferably white but yellow is ok, peeled"
+    - "Vitamin-C tablets (optional)"
+    - "Kosher salt"
+    - "1 egg (60 grams), beaten"
+    - "Freshly ground black pepper, to taste"
+    - "Vegetable oil for frying (lots)"
+    - "Maldon salt or fleur de sel"
+  instructions:
+    - "In a food processor or on a box grater, grate the potato and onion and mix together. Mix in 5 grams (1 1/2 teaspoons) of kosher salt for every 450 grams of potato you started with, cover, and let sit for 15 minutes. If you want to keep the potatoes a nice white color, crush one 500 mg plain unflavored vitamin C tablet for every 4 pounds of potato and toss it in with the salt."
+    - "Uncover, squeeze down a bit and drain off excess water from the bowl. Now, working a handful or two at a time, either use a potato ricer to squeeze out the water, or wrap the potatoes in a double layer of cheesecloth or a clean dish towel and wring the liquid out of them. Hard. Go to town. Wrap the gathered ends of the cloth around the handle of a wooden spoon and twist for extra leverage. Get them as dry as possible. Really. This makes a huge difference."
+    - "Mix in the eggs, and pepper and another 1.75 grams (1/2 teaspoon of salt) (since much of the original salt will have washed away). I find the best way to do this is with my hands."
+    - "In a large skillet, heat about 1/8 inch of oil over a medium high flame. (If you are feeling your oats, you can use two or more large skillets at once). A bit of potato thrown in should immediately sizzle, but the oil shouldn't be smoking. Don't be stingy with the oil - they are going to absorb the same amount anyhow, but if you use less they won't come out properly crispy."
+    - "Depending on what size you like your latkes, grab about 1/4 to 1/3 of a cup of potato, and add it to the oil. Immediately flatten to about 1/3 inch. You don't want much thickness because the inside has to cook before the outside burns. Form the rest of the latkes the same way. Lately I've found that using tongs to transfer the potatoes to the skillet works really well, I'm less tempted to make them too big."
+    - "When the first side is a dark, deep brown (see picture above), flip and continue cooking. When both sides are done, remove to a plate lined with paper towel. Sprinkle on a bit of the Maldon salt or fleur de sel."
+    - "Be sure and taste one of the first ones to make sure it is cooked through. If not, reduce the heat a bit or make the next batch thinner."
+    - "Try not to eat all of them yourself."
+    - "Serve with applesauce, sour cream and more salt on the side."
 ---
 
 <a href="/images/2008/12/Hannukah-Latkes.jpg"><img class="alignnone size-large wp-image-3481" title="Hannukah Latkes" src="/images/2008/12/Hannukah-Latkes-626x415.jpg" alt="" width="626" height="415" /></a>

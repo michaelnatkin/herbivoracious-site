@@ -7,6 +7,22 @@ aliases: ["/recipe-grapefru/", "/2008/01/recipe-grapefru.html"]
 cover:
   image: "/images/2008-small/01/21/grapefruitandavocadosalad.jpg"
   hidden: true
+recipe:
+  name: "Grapefruit And Avocado Salad"
+  yield: "2Vegetarian, vegan, and gluten free"
+  diet: "Vegan, Gluten-Free"
+  ingredients:
+    - "1 grapefruit, cut into supremes over a bowl (see discussion above)"
+    - "1 ripe avocado, cubed or sliced"
+    - "1/4 red onion, sliced paper thin"
+    - "1/4 c. best quality extra virgin olive oil"
+    - "1/2 t. kosher salt"
+    - "1 t. prepared dijon mustard (like Grey Poupon)"
+    - "black salt and black pepper for finishing"
+  instructions:
+    - "Squeeze the leftover bits of grapefruit and the juice gathered while cutting the supremes, and measure 1/4 c. of it. Drink the rest, cook's treat."
+    - "Mix the 1/4 c. of juice with the olive oil, kosher salt, and mustard in a jar and shake intensively to emulsify. Taste and add a little good vinegar if it needs more acidity. Leave it underseasoned so you can finish with the black salt."
+    - "Arrange the grapefruit, avocado, and onions on a plate, either individually or on a platter. Just before serving, drizzle on the salad and sprinkle with the black salt and black pepper."
 ---
 
 <p><a href="/images/2008/01/21/grapefruitandavocadosalad.jpg" rel="lightbox"><img width="455" height="341" border="0" alt="Grapefruitandavocadosalad" title="Grapefruitandavocadosalad" src="/images/2008-small/01/21/grapefruitandavocadosalad.jpg" /></a></p>  <p>Chef Janine over at <a href="/cooking-internship/">Cafe Flora</a> showed me the other day how to cut sections of citrus fruit properly. Technically these are called &quot;supremes&quot; as in in &quot;we need to cut grapefruit supremes&quot;. I've tried to do them before and always had a lot of trouble, with bits of pith leftover and broken segments and frustration. </p>  <p>Anyhow, I had always tried to go in with my knife on both sides of the membrane between the segments. The way she showed me, you go in on one side, flip your knife around, and come back towards you on the other side, maybe leaving a bit of &quot;meat&quot; behind. Works like a charm, you end up with clean segments and a beautiful cup of juice too. If enough folks are interested maybe I could put up a video of the technique.</p>  <p>So I was itching to try this new found skill at home, and we had a grapefruit and an avocado just begging to become a salad. There is a famous crabmeat version of this salad at <a href="http://tomdouglas.com/index.php?page=ettas">Etta's</a>, which I'm sure is great. And we have one with these ingredients at Cafe Flora too, but with an Asian-inflected twist of shiitake mushrooms and a ginger-miso dressing, all on greens. Delicious.<br /> </p>  <p>My take is below. Possible variations would be to use different citrus (blood oranges!), or add feta cheese and/or cilantro.</p>  <div class="recipe-card">

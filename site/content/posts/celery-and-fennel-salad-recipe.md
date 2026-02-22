@@ -7,6 +7,26 @@ aliases: ["/celery-and-fennel-salad-recipe/", "/2013/03/celery-and-fennel-salad-
 cover:
   image: "/images/2013/03/Compressed-Celery-Salad-626x352.jpg"
   hidden: true
+recipe:
+  name: "Celery and Fennel Salad – Recipe"
+  time: "15 min"
+  ingredients:
+    - "12 grams pumpernickel (about one 1/4\" slice with the crusts removed), cut into 1/4\" dice"
+    - "Vegetable oil for frying pumpernickel"
+    - "140 grams celery (about 4 stalks), strings removed, sliced about 1/8\" thick"
+    - "140 grams fennel (about 1/3 bulb), sliced about 1/8\" thick, (parallel to the base)"
+    - "15 grams extra-virgin olive oil (1 tablespoon)"
+    - "Lemon juice, as needed"
+    - "Maldon salt, as needed"
+    - "Celery leaves, as needed"
+    - "Fennel fronds, as needed"
+    - "Small block of blue cheese, any type you like, frozen hard"
+  instructions:
+    - "Heat 1\" of oil in a very small pot to about 260 F. Slowly fry the pumpernickel cubes until darkened and crispy, about 10 minutes. Remove with a slotted spoon to paper towels and reserve."
+    - "Option 1: If you have access to a chamber vacuum, combine the sliced celery and fennel in a bag with a couple pinches of Maldon salt and seal at maximum vacuum. When ready to serve, transfer from bag to a bowl."
+    - "Option 2: Combine the sliced celery, sliced fennel, olive oil, and a couple of pinches of Maldon salt in a bowl."
+    - "Toss with lemon juice to taste and add more salt as needed."
+    - "To serve, divide the salad onto 4 chilled plates. Distribute the croutons, and garnish with the celery and fennel leaves. Immediately before serving, remove the blue cheese from the freezer and shave a few paper thin slices over each salad, using a mandoline or a vegetable peeler."
 ---
 
 <a href="/images/2013/03/Compressed-Celery-Salad.jpg"><img class="alignnone size-large wp-image-3668" alt="Compressed Celery and Fennel Salad" src="/images/2013/03/Compressed-Celery-Salad-626x352.jpg" width="626" height="352" /></a>

@@ -7,6 +7,22 @@ aliases: ["/alices-savory-sweet-life-cookbook-with-a-recipe-for-roasted-carrots-
 cover:
   image: "/images/2012/06/Carrots-with-Brown-Butter-Savory-Sweet-Life-626x415.jpg"
   hidden: true
+recipe:
+  name: "Roasted Carrots with Sage Brown Butter"
+  diet: "Vegetarian, Gluten-Free"
+  ingredients:
+    - "12 carrots, peeled, cut in half lengthwise, then cut into 2-inch pieces"
+    - "2 tablespoons extra-virgin olive oil"
+    - "3 tablespoons salted butter"
+    - "6 fresh sage leaves, chopped"
+    - "1/4 teaspoon ground cinnammon"
+    - "1/4 teaspoon ground nutmeg"
+    - "Kosher salt and freshly ground black pepper"
+  instructions:
+    - "Preheat the oven to 400 F."
+    - "In a large bowl, toss the carrots with the olive oil to coat them thoroughly. Spread the carrots in a single layer on a baking sheet and roast them for 20 minutes, or until tender."
+    - "Meanwhile, prepare the sage brown butter: Melt the butter in a small saucepan over medium heat. Add the sage, cinnammon and nutmeg and cook until the butter is fragrant, brown, and beginning to foam, 1 to 2 minutes. Remove the pan from the heat and set aside."
+    - "Toss the carrots in the sage brown butter and season them with salt and pepper to taste before serving."
 ---
 
 <a href="/images/2012/06/Carrots-with-Brown-Butter-Savory-Sweet-Life.jpg"><img class="size-large wp-image-2003 alignnone" title="Roasted Carrots with Sage Brown Butter from the Savory Sweet Life Cookbook" src="/images/2012/06/Carrots-with-Brown-Butter-Savory-Sweet-Life-626x415.jpg" alt="Roasted Carrots with Sage Brown Butter from the Savory Sweet Life Cookbook" width="626" height="415" /></a>

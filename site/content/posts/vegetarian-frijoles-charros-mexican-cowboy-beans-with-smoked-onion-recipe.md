@@ -8,6 +8,25 @@ aliases: ["/vegetarian-frijoles-charros-mexican-cowboy-beans-with-smoked-onion-r
 cover:
   image: "/images/old/6a00e008d618bb8834015432bb4309970c-500wi.jpg"
   hidden: true
+recipe:
+  name: "Vegetarian Frijoles Charros - Mexican Cowboy Beans with Smoked Onion"
+  yield: "4"
+  diet: "Vegan, Vegetarian, Gluten-Free"
+  ingredients:
+    - "1 cup hickory or mesquite wood chips"
+    - "1 large white onion, small dice"
+    - "2 pasilla oaxaca or other whole dried chiles of your choice"
+    - "3 tablespoons vegetable oil"
+    - "2 garlic cloves, thinly sliced"
+    - "1 tablespoon Kosher salt (if using Diamond Crystal; start with half as much if using Morton's)"
+    - "3 tablespoons tomato paste"
+    - "1/2 cup canned crushed tomato"
+    - "4 cups unsalted home-cooked pinto beans, and 2 cups of their cooking liquid"
+  instructions:
+    - "Put the wood chips in a medium-sized saucepan that you don't mind discoloring. Place a folding steamer basket on top of the wood chips, and put the onion on it. Put the lid on the pot, and place it on high heat. Cook for seven minutes, then turn off the heat. See note on safer smoking above. Carefully taste a piece of onion and confirm that it has a good level of smoke. If not, cook for another couple of minutes."
+    - "Place a large skillet over medium-high heat. When it is hot, press the pasilla oaxaca chiles down onto it with a spatula, just for a few seconds on each side. Wearing disposable gloves, remove the stems and seeds from the peppers and crush them into very small pieces."
+    - "Add the oil to the same skillet, over medium-high heat. When the oil is shimmering, add the crushed chiles, smoked onion, garlic and salt and cook, stirring occasionally until the onion is softened, about 3 minutes. Add the tomato paste and cook until it darkens, about 2 minutes."
+    - "Add the crushed tomato, the beans, and 1 cup of the bean liquid. Bring to a simmer and reduce heat to maintain. Cook for about 15 minutes, then taste and adjust seasoning. Add more of the bean liquid to find the desired brothy consistency. Serve hot."
 ---
 
 <a style="display: inline;" href="/images/old/6a00e008d618bb8834015432bb4309970c-800wi.jpg" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb8834015432bb4309970c" title="Frijoles Charros" src="/images/old/6a00e008d618bb8834015432bb4309970c-500wi.jpg" alt="Frijoles Charros" /></a>

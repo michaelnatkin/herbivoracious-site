@@ -7,6 +7,23 @@ aliases: ["/porcini-potato-apple-recipe/", "/2013/10/porcini-potato-apple-recipe
 cover:
   image: "/images/2013/10/Porcini-Potato-Apple-624x415.jpg"
   hidden: true
+recipe:
+  name: "Porcini, Potato, Apple"
+  yield: "4"
+  diet: "Vegan, Vegetarian, Gluten-Free"
+  ingredients:
+    - "4 large porcini mushrooms (aka cèpes or king boletes), weighing nearly 1/2 pound each"
+    - "Kosher salt"
+    - "Extra virgin olive oil"
+    - "12 small red or fingerling potatoes, cooked as in this recipe, but without the garlic or gremolata"
+    - "1 honeycrisp apple, thinly sliced on mandoline, cut into half-moons"
+    - "Sweet vermouth or red wine"
+    - "Maldon salt"
+    - "Parsley leaves or celery leaves"
+  instructions:
+    - "If you prefer to cook sous vide, bag the whole mushrooms individually with a big pinch of salt and a drizzle of olive oil and cook at 85 C / 185 F until fully tender, about 45 minutes. Remove from the bag and reserve the juice, then brown the mushrooms with a blowtorch or broiler. Otherwise, cook as in this recipe and also reserve the juice."
+    - "Measure the amount of mushroom juice you have, and add 1/4 that amount of sweet vermouth or red wine to it. Strain. Place in your smallest saucepan and simmer over medium heat until it is slightly reduced and the alcohol taste has burned off. Season to taste with salt. (If your total juice collection is less than a cup, don't reduce it - just reduce the wine using the microwave, and add it to whatever mushroom juice you do have.)"
+    - "To serve, heat 4 bowls and make sure all ingredients are piping hot. Divide the broth among the bowls. Place 3 smashed potatoes in each bowl. Cut the mushrooms into 3 or 4 chunks each, leaving the head whole, and arrange over the potatoes. Drizzle with a bit of olive oil. Add a few slices of apple tucked in between the mushrooms pieces. Finish with a few leaves of parsley and a generous sprinkle of Maldon salt and serve immediately."
 ---
 
 <a href="/images/2013/10/Porcini-Potato-Apple.jpg"><img class="alignnone size-large wp-image-3905" src="/images/2013/10/Porcini-Potato-Apple-624x415.jpg" alt="Porcini, Potato, Apple" width="624" height="415" /></a>

@@ -8,6 +8,35 @@ aliases: ["/mushroom-risotto-with-asparagus-and-fava-beansrecipe/", "/2011/06/mu
 cover:
   image: "/images/old/6a00e008d618bb883401538ea01c40970b-500wi.jpg"
   hidden: true
+recipe:
+  name: "Mushroom Risotto with Asparagus and Fava Beans"
+  yield: "4"
+  diet: "Gluten-Free"
+  ingredients:
+    - "1 pound mushrooms"
+    - "2 cloves garlic, minced"
+    - "8 tablespoons extra-virgin olive oil, divided"
+    - "Kosher salt"
+    - "1 bunch asparagus, trimmed and cut into 2\" pieces on the bias"
+    - "1 tablespoon aged balsamic vinegar (the thick, syrupy, expensive stuff - optional)"
+    - "2 cups arborio rice"
+    - "1 cup dry white wine"
+    - "1/2 cup cryo-blanched and peeled fava beans (see headnote)"
+    - "1/2 cup Parmigiano Reggiano + more for garnish"
+    - "4 tablespoons unsalted butter, cut into cubes"
+  instructions:
+    - "Run the mushrooms in a food processor with the regular blade until they are very finely chopped. You may need to work in two batches."
+    - "Heat 1/4 cup of olive oil in a large skillet over medium-high heat. When it is shimmering, add the mushrooms and garlic and 1 teaspoon of salt. Cook, stirring occasionally, until the mushrooms give up all of their liquid and dry out, about 20 minutes."
+    - "Heat 2 tablespoons of the olive oil in a large skillet over high heat. When it is shimmering, add the asparagus and 1/2 teaspoon of salt and cook, stirring frequently, until it is tender and browning in spots. Stir in the balsamic vinegar to glaze. Set aside."
+    - "Warm your serving bowls. Heat 2 tablespons of olive oil in a large saucepan or Dutch oven over medium heat. Add the rice, and cook, stirring frequently, until the rice appears somewhat translucent, about 2 minutes. Bring 5 cups of water to a simmer. Stir in the white wine and cook until it is absorbed. Stir in the mushrooms. Lower heat to medium low and stir in 1 cup of the simmering water. Keep cooking, stirring firmly and frequently and adding water as each previous cup is absorbed. When you've added 4 cups, start checking a grain periodically. When the rice is fully tender but still offers a slight al dente resistance (but absolutely not a snap) it is done."
+    - "Beat the the Parmigiano and butter into the rice. Taste and add more salt if needed. Depending on whether you want to serve the risotto in a dry or wet style, you may need to stir in a bit more water."
+    - "Divide the risotto among the serving bowls. Top each with some of the asparagus and fava beans, and an additional bit of Parmigiano. Serve immediately."
+    - "Same as above."
+    - "Do this in the pressure cooker base, then reserve the mushrooms."
+    - "Same as above."
+    - "Warm your serving bowls. Heat 2 tablespons of olive oil in the pressure cooker base over medium-high heat. Add the rice, and cook, stirring frequently, until the rice appears somewhat translucent, about 2 minutes. Stir in the wine and stir until it evaporates. Add the mushrooms and 4 cups water. Bring to high pressure and cook for 5 minutes and 30 seconds. Release pressure quickly according to manufacturer's instructions. (Often by running under cold water). Check a grain to be sure it is correctly al dente. If still too firm, cook a little bit more without pressure, and remember to add an additional 30 seconds next time."
+    - "Same as above. If too dry, stir in additional simmering water."
+    - "Same as above."
 ---
 
 <a style="display: inline;" href="/images/old/6a00e008d618bb883401538ea01c40970b-800wi.jpg" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb883401538ea01c40970b" title="Mushroom Risotto With Asparagus and Fava Beans" alt="Mushroom Risotto With Asparagus and Fava Beans" src="/images/old/6a00e008d618bb883401538ea01c40970b-500wi.jpg" /></a>

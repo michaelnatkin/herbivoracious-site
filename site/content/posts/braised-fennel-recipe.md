@@ -8,6 +8,28 @@ aliases: ["/braised-fennel-recipe/", "/2011/10/braised-fennel-recipe.html"]
 cover:
   image: "/images/old/6a00e008d618bb88340154360e3c7c970c-500wi.jpg"
   hidden: true
+recipe:
+  name: "Braised Fennel"
+  yield: "4 as a side dish Vegetarian, vegan and gluten-free"
+  diet: "Vegan, Vegetarian, Gluten-Free"
+  ingredients:
+    - "1/4 cup extra virgin olive oil plus additional for garnish"
+    - "2 medium fennel bulbs, trimmed and halved lengthwise, fronds reserved for garnish"
+    - "4 cloves garlic, thinly sliced"
+    - "1/2 white onion, thinly sliced"
+    - "1 1/2 cups sliced carrots (1/4\" thick coins)"
+    - "Crushed red pepper"
+    - "Freshly ground black pepper"
+    - "1/2 teaspoon Kosher salt"
+    - "Zest and juice of 1 mandarin orange"
+    - "1/4 cup dry vermouth"
+    - "Flaky sea salt (Maldon (aka the world's greatest salt)!)"
+    - "Optional: fennel pollen"
+  instructions:
+    - "In a pot with a tight fitting lit, big enough to hold the fennel in a single layer, heat the olive oil over medium high heat. (A Dutch oven is ideal for this recipe.) When the oil is shimmering hot, lay the four fennel halves in the oil, cut side down. Sear until quite well browned, about 5 minutes. Flip and cook for another couple of minutes on the rounded sides."
+    - "Remove the fennel to a plate, leaving the oil behind in the pot. Lower the heat to medium low. Add the garlic, onion, carrots, a big pinch of crushed red pepper, several generous grinds of black pepper and the salt. Cook, stirring occasionally for about 3 minutes, until the onions start to soften."
+    - "Add the orange zest and juice, the vermouth, and 1/2 cup water and stir, scraping the bottom to incorporate the delicious caramelized brown bits (fond). Put the fennel back in the pot, cut side up, on top of the onions and carrots. Cover the pot and braise until the fennel is completely tender when probed with a knife. This could be anywhere from 10 to 20 minutes depending on the size of the bulbs. During the braise, adjust the heat so that there is a good steady amount of steam in the pot, but not so much that all the liquid is boiling off. Add a bit more liquid if needed."
+    - "To serve, transfer the fennel bulbs to a serving platter. Spoon the carrots, onions and sauce over the fennel. Garnish with a generous drizzle of good olive oil, more freshly ground pepper, some flaky salt, the fennel fronds, and the optional fennel pollen."
 ---
 
 <a style="display: inline;" href="/images/old/6a00e008d618bb88340154360e3c7c970c-800wi.jpg" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb88340154360e3c7c970c" title="Braised Fennel" src="/images/old/6a00e008d618bb88340154360e3c7c970c-500wi.jpg" alt="Braised Fennel" /></a>

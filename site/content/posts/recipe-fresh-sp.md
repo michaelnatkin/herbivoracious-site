@@ -7,6 +7,34 @@ aliases: ["/recipe-fresh-sp/", "/2008/05/recipe-fresh-sp.html"]
 cover:
   image: "/images/2008-small/04/26/freshspinachfettuciniwithgoatcheese.jpg"
   hidden: true
+recipe:
+  name: "Fresh Spinach Fettuccine With Goat Cheese, Jerusalem Artichokes, Morels And Leeks"
+  yield: "4Vegetarian, not vegan or gluten-free"
+  diet: "Vegan, Gluten-Free"
+  ingredients:
+    - "3/4 c. heavy cream"
+    - "6 cloves garlic"
+    - "1 lb. fresh goat cheese (chevre) - Laura Chenel is an excellent brand"
+    - "1.5 oz dried morels or 4 small handfuls fresh ones"
+    - "1.5 lbs. Jerusalem artichokes (aka sunchokes)"
+    - "8 baby leeks or 3 large leeks"
+    - "chili flakes"
+    - "1.5 lbs. fresh spinach fettuccine"
+    - "olive oil"
+    - "flat leaf parsley"
+    - "Parmesan cheese"
+    - "salt and pepper"
+  instructions:
+    - "Put a large pot of salted water on to boil for the pasta."
+    - "If using dried morels, put them in a small bowl and just barely cover with boiling water."
+    - "In a small saucepan, bring the heavy cream to a simmer with the garlic, turn heat to low, and reduce, stirring occasionally. Reduce by half or as long as you have patience for. Add the goat cheese and whisk until smooth. Season with salt and pepper to taste."
+    - "While the cream is reducing, peel the Jerusalem artichokes and slice them about 1/4\" thick. Saute in a very hot skillet with plenty of olive oil until nicely browned and somewhat tender. Remove to a plate lined with paper towels, and season with salt."
+    - "Remove all but the white part of the leeks, slice in half lengthwise and wash carefully. There tends to be dirt between the leaves. Slice thin. Add to the skillet and saute until soft. Season with salt, and remove."
+    - "Drain the morels if they were soaking (and reserve that stock for something, it is delicious). Slice the larger morels, and leave small ones whole. Add to the skillet, still at high heat, and get a nice caramelize on them. Season with salt and chili flakes to taste."
+    - "When the morels are about done, add the pasta to the boiling water. Fresh fettuccine will probably take about 3 minutes. Don't overcook it."
+    - "Add the Jerusalem artichokes and leeks back to the skillet and bring them back up to temperature. Give the mixture a final tasting for salt."
+    - "Drain the noodles and reserve some of the cooking water. Toss them with the sauce, and add back a bit of the cooking liquid if needed to loosen it up."
+    - "Divide among four bowls, top with the vegetable mixture and toss lightly. Top with a hearty shot of freshly grated Parmesan, black pepper and a few leaves of parsley."
 ---
 
 <p><a href="/images/2008/04/26/freshspinachfettuciniwithgoatcheese.jpg" rel="lightbox"><img width="455" height="302" border="0" alt="Fresh Spinach Fettucini With Goat Cheese, Jerusalem Artichokes, Morels And Leeks" title="Fresh Spinach Fettucini With Goat Cheese, Jerusalem Artichokes, Morels And Leeks" src="/images/2008-small/04/26/freshspinachfettuciniwithgoatcheese.jpg" /></a><br />Fresh Spinach Fettuccine With Goat Cheese, Jerusalem Artichokes, Morels And Leeks</p>  <p>When we got to the farmer's market at noon last Saturday, I hadn't thought about how little might be left. It is early in the season, and Seattle's throngs of organic produce devotees had snapped up just about everything edible.</p>  <p>Still, I spied beautiful fresh spinach fettuccine from La Pasta. And then there were dried morels from one of the best local foragers. The fresh ones are due soon, but morels are one of the few mushrooms that really survive drying and rehydrating well; if anything the taste becomes more concentrated. Another booth had a few baby leeks and Jerusalem artichokes (aka sunchokes). I was beginning to see a plan, and some fresh goat cheese (chevre) completed the picture.</p>  <p>I hadn't worked with Jerusalem artichokes too much. Oddly, that afternoon I happened to be reading <strong><a href="https://www.amazon.com/dp/0020098014?tag=herb-hugo-20">The Curious Cook: More Kitchen Science and Lore</a></strong> and one chapter was about that very tuber. The main takeaway is that they give you gas, and that you can reduce that by boiling them for awhile in plenty of water. I didn't do that, and let's just say I can confirm the diagnosis.</p>  <p>Anyhow, back to the recipe at hand. I made a simple sauce by reducing heavy cream with garlic and melting the goat cheese in it. The Jerusalem artichokes were peeled, sliced and sauteed, which gave them a sweet caramelized exterior while still leaving a satisfying crunch. The morels were rehydrated and sauteed, and then the leeks went in the same pan. </p>  <p>The result was delicious, and satisfying because I'd found a way to go from making-do with the sparse early season produce to a dish I'd be happy to eat anytime. You can use this blueprint to improvise a wide range of fresh pasta dishes by varying the type of noodle, the vegetables, and the seasonings. Just keep in mind that generally speaking, fresh pastas like cream-based sauces better than tomato-based ones. Another option is to simply dress the noodles with olive oil or butter and leave the chevre in chunks.</p>  <p>As I was writing down this recipe, I was struck by how many times I ask you to taste and season one of the elements with salt. I can't stress this enough. You will get a much better dish by salting each component to taste instead of waiting until the end, or relying just on the sauce. It is hard to explain why, but try it and see if you don't agree.</p>  <div class="recipe-card">

@@ -5,6 +5,23 @@ slug: "quick-harissa-oil-recipe"
 description: "Harissa is the classic spice paste of North Africa, used in stews, as a rub, and as a condiment at the table. Oil infused with harissa is terrific for grilling vegetables, and I also like it drizzled..."
 categories: ["Recipes", "Sauces and Condiments", "Vegan or Modifiable", "Gluten-Free"]
 aliases: ["/quick-harissa-oil-recipe/", "/2012/08/quick-harissa-oil-recipe.html"]
+recipe:
+  name: "Quick Harissa Oil"
+  yield: "about 5 tablespoons"
+  time: "15 minutes"
+  diet: "Vegan, Gluten-Free"
+  ingredients:
+    - "½ cup extra-virgin olive oil"
+    - "2 teaspoons Sriracha or other chile paste"
+    - "1 teaspoon chile flakes"
+    - "½ teaspoon ground cumin"
+    - "½ teaspoon caraway seeds"
+    - "½ teaspoon coriander seeds"
+    - "2 teaspoons sumac powder"
+    - "1 clove garlic, minced"
+  instructions:
+    - "Place all ingredients in a small saucepan over low heat for about 5 minutes. Do not allow the spices to sizzle; we don’t want them to cook, just to get warm enough for their flavors to infuse the oil quickly. Remove from heat and let sit for 5 more minutes."
+    - "Puree all of the ingredients with a stick blender or a mini-food processor. Strain through a fine sieve and the oil is ready to use."
 ---
 
 <p>Harissa is the classic spice paste of North Africa, used in stews, as a rub, and as a condiment at the table. Oil infused with harissa is terrific for grilling vegetables, and I also like it drizzled on soups, such as the Red Lentil and Kabocha Squash soup on . You can also use a small amount of this oil to spice up a vinaigrette for dressing salads or dipping bread.</p>

@@ -8,6 +8,19 @@ aliases: ["/lemon-mustard-vinaigrette-the-simplest-and-best-salad-dressing-recip
 cover:
   image: "/images/old/6a00e008d618bb8834011570985d44970b-500wi.jpg"
   hidden: true
+recipe:
+  name: "Lemon-Mustard Vinaigrette – The Simplest and Best Salad Dressing – Recipe"
+  time: "5 min"
+  diet: "Vegan, Vegetarian, Gluten-Free"
+  ingredients:
+    - "2 tablespoons freshly squeezed lemon juice"
+    - "1/2 teaspoon prepared Dijon mustard (e.g. Grey Poupon)"
+    - "1/4 teaspoon sea salt (preferably Maldon (aka the world's greatest salt)!)"
+    - "4 tablespoons delicious extra-virgin olive oil"
+  instructions:
+    - "Option 1: combine all ingredients in a small jar with a tight fitting lid. Shake vigorously for 30 seconds until emulsified."
+    - "Option 2: Combine the lemon juice, mustard and salt in a bowl. Drizzle in the olive oil while whisking continuosly."
+    - "Taste and adjust the salt, and add more lemon juice or olive oil to achieve a pleasing balance of acidity."
 ---
 
 <a style="display: inline;" href="/images/old/6a00e008d618bb8834011570985d44970b-800wi.jpg" rel="lightbox"><img class="at-xid-6a00e008d618bb8834011570985d44970b " alt="Lemon_Mustard_Vinaigrette" src="/images/old/6a00e008d618bb8834011570985d44970b-500wi.jpg" /></a>

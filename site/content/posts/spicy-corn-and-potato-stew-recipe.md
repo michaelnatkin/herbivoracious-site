@@ -8,6 +8,30 @@ aliases: ["/spicy-corn-and-potato-stew-recipe/", "/2011/01/spicy-corn-and-potato
 cover:
   image: "/images/cookbook/spicy-corn-and-potato-stew.jpg"
   hidden: true
+recipe:
+  name: "Spicy Corn and Potato Stew"
+  yield: "4"
+  time: "30 minutes"
+  diet: "Vegan, Gluten-Free"
+  ingredients:
+    - "4 cups corn kernels, shaved from cobs and reserve cobs"
+    - "3 tablespoons vegetable oil, divided"
+    - "4 cups diced waxy potatoes (approximately 3/8” cubes)"
+    - "6 cloves garlic, minced"
+    - "¼ cup minced shallots"
+    - "2 tablespoons New Mexico chili powder (or see substitutions above)"
+    - "1 teaspoon cumin powder"
+    - "2 tablespoons dried Mexican oregano (if substituting European oregano, reduce by half)"
+    - "pinch of cinnamon"
+    - "1 teaspoon Kosher salt"
+    - "2 limes (divided)"
+    - "handful of cilantro leaves"
+  instructions:
+    - "(Optional) Put the corn cobs in a pot with enough water to cover, bring to a boil, and simmer for 10 minutes. Remove corn cobs and strain the resulting lightly flavored broth."
+    - "In a 3-quart or larger pot, heat half of the vegetable oil over a medium-high flame. Cook the corn, stirring occasionally, allowing it to blister and darken in spots, about 5 minutes."
+    - "Set the corn aside, and add the potatoes and the remaining oil to the pan. Lower the heat to medium. Cook, stirring occasionally until they are almost tender. Add the garlic, shallots, chile powder, cumin powder, oregano, cinnamon, salt, and the juice of 1 lime and cook for about 2 more minutes, until very fragrant."
+    - "Add the corn back to the pot, along with 2 ½ cups of the corncob broth or water. Add more broth if you prefer it a little soupier. Bring to a simmer. Taste and adjust seasonings, adding more salt, chile heat or lime juice if you see fit. Cook for a few more minutes for the flavors to meld and the potatoes to be fully tender but not falling apart."
+    - "To finish, divide among 4 bowls and squeeze the remaining lime over them. Garnish with cilantro and serve immediately."
 ---
 <a href="/images/cookbook/spicy-corn-and-potato-stew.jpg"><img src="/images/cookbook/spicy-corn-and-potato-stew.jpg" alt="Spicy Corn and Potato Stew" /></a>
 

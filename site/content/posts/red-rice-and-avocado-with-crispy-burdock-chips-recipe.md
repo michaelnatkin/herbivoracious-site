@@ -7,6 +7,26 @@ aliases: ["/red-rice-and-avocado-with-crispy-burdock-chips-recipe/", "/2012/10/r
 cover:
   image: "/images/2012/10/Red-Rice-and-Avocado-Terrine-626x415.jpg"
   hidden: true
+recipe:
+  name: "Red Rice and Avocado with Crispy Burdock Chips"
+  yield: "4 Vegetarian and vegan For the dressing"
+  diet: "Vegan, Vegetarian"
+  ingredients:
+    - "1/4 cup white miso"
+    - "2 tablespoons lime juice (or yuzu juice, if you happen to have it)"
+    - "1 tablespoon toasted sesame oil"
+    - "2 teaspoons grated fresh ginger"
+    - "Yuzu kosho; start with 1/2 teaspoon and add to taste (if you don't have that, use a sriracha-style paste + zest from 1 lime)"
+    - "20 paper thin slices of peeled burdock root, about 6\" long each"
+    - "2 cups cooked red rice, room temperature"
+    - "1 1/3 cups cup diced avocado"
+    - "1 red bell pepper, left whole but cored and then thinly sliced on the mandoline"
+    - "A handful of \"spring mix\" lettuce or other baby greens"
+    - "4 teaspoons gomashio"
+  instructions:
+    - "Whisk together all ingredients. Whisk in water as needed to reach a salad dressing consistency. Add more yuzu kosho or chili paste to your preferred heat level."
+    - "Lay the burdock root out in a single layer on a plate. Microwave on high for 30 seconds at a time until shriveled and crispy, but not burned. It may help to reduce the power for the last couple of cycles. Allow to cool for a minute, then pull up the crisps and set aside. (If you have any trouble getting the chips to release with this method, just grease the plate with a drop of oil or pan spray first.)"
+    - "To assemble the dish, place a 3 1/2\" ring mold (or biscuit cutter) on a plate. Put 1/2 cup of the rice in the mold and press down to form an even, solid layer. Dress with some of the miso dressing. Layer in one quarter of the avocado and more dressing. Add a thin layer of bell pepper and a bit more dressing. Top with a few leaves of the lettuce and 5 of the burdock chips. Sprinkle with a teaspoon of the gomashio. Carefully remove the ring mold and repeat with the remaining plates."
 ---
 
 <img class="alignnone size-large wp-image-2872" title="Red Rice and Avocado Terrine" src="/images/2012/10/Red-Rice-and-Avocado-Terrine-626x415.jpg" alt="Red Rice and Avocado Terrine" width="626" height="415" />

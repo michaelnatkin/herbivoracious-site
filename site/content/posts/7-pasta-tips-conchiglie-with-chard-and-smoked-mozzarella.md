@@ -7,6 +7,32 @@ aliases: ["/7-pasta-tips-conchiglie-with-chard-and-smoked-mozzarella/", "/2008/1
 cover:
   image: "/images/2008/11/Conchiglie_Chard_Smoked_Mozarella-626x415.jpg"
   hidden: true
+recipe:
+  name: "Conchiglie Pasta with Swiss Chard and Smoked Mozzarella"
+  yield: "3-4 as a main course Vegetarian; not vegan or gluten-free but adaptable"
+  diet: "Vegan, Vegetarian, Gluten-Free"
+  ingredients:
+    - "3 tablespoons olive oil"
+    - "2 cloves garlic, minced"
+    - "1/2 medium white onion, thinly sliced"
+    - "2 teaspoons fresh thyme leaves or 1 teaspoon dried"
+    - "3 fresh sage leaves, finely chopped or 2 teaspoons dried"
+    - "1 teaspoon dried chili flakes (or to your taste)"
+    - "2 bunches of chard leaves (any variety), stemmed, cleaned, and roughly sliced or torn"
+    - "1 can artichoke bottoms (or hearts, but bottoms are better), medium slices"
+    - "1/2 can white beans"
+    - "1/2 cup dry sherry"
+    - "2/3 pound smoked mozzarella, cubed"
+    - "1 pound conchiglie"
+    - "1/4 cup shelled pumpkin seeds (pepita, they should be green), lightly toasted"
+    - "salt and pepper"
+  instructions:
+    - "Put one gallon of water to boil in a large pot with 1.5 tablespoons of salt."
+    - "Heat a very large skillet (preferably not a non-stick one) over a medium high flame. Add the oil, then a few seconds later add the garlic and onion. Saute for 1 minute, then add the thyme, sage, and chili flakes, and saute for 10 more seconds. Add the chard and 1.5 teaspoons of salt, toss, and cover for a few minutes. You can probably drop the pasta at this point."
+    - "When the chard is tender, remove the lid, and add the artichokes, white beans and sherry and reduce the heat to medium low. Scrape the bottom of the pan thoroughly with your spatula so the sherry picks up lots of caramelized flavors."
+    - "When the pasta is just barely al dente, reserve 1 cup of the water and drain it. Return it to the pot you cooked it in, toss with a little more olive oil, then empty in the contents of the skillet, being sure to scrape out all the flavorful stuff on the bottom."
+    - "Return the pot to the a medium low flame, add the mozzarella cubes, and stir constantly for one minute. If it seems a little \"tight\", add some of the pasta water. Taste and adjust for salt."
+    - "To serve, divide among the bowls, top with the pumpkin seeds and a grind of fresh black pepper."
 ---
 
 <a href="/images/2008/11/Conchiglie_Chard_Smoked_Mozarella.jpg"><img class="alignnone size-large wp-image-750" title="Conchiglie_Chard_Smoked_Mozarella" src="/images/2008/11/Conchiglie_Chard_Smoked_Mozarella-626x415.jpg" alt="Conchiglie with Chard and Smoked Mozzarella" width="626" height="415" /></a>

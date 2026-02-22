@@ -8,6 +8,24 @@ aliases: ["/tofu-and-kimchi-dinner-for-one-recipe/", "/2010/06/tofu-and-kimchi-d
 cover:
   image: "/images/old/6a00e008d618bb88340134850961fb970c-500wi.jpg"
   hidden: true
+recipe:
+  name: "Tofu and Kimchi Dinner for One"
+  yield: "1"
+  diet: "Vegan, Vegetarian, Gluten-Free"
+  ingredients:
+    - "1 tablespoon vegetable oil"
+    - "1/3 pound extra-firm tofu, patted dry and cut into 1/2\" dice"
+    - "2 tablespoons minced red onion"
+    - "1 teaspoon grated fresh ginger"
+    - "salt"
+    - "toasted sesame oil"
+    - "2 green onions (scallions), thinly sliced (white and light green parts only)"
+    - "toasted sesame seeds"
+    - "1/4 cup vegetarian kimchi"
+    - "1 tablespoon ssamjang or 1 teaspon kochujang, or 1 teaspoon sriracha"
+  instructions:
+    - "Heat a large cast iron skillet over a very high flame. Add the oil, and 5 seconds later, the tofu and a great big pinch of salt. Fry, tossing occasionally until golden brown. Add the onion and grated ginger and fry for 30 more seconds."
+    - "Mound the tofu into a bowl. Drizzle on a little sesame oil, and garnish heavily with the green onions and sesame seeds. Add a nice pile of kimchi and the hot sauce of your choice. I really love ssamjang because it is only moderately spicy, with a lot of flavor complexity, so you can use quite a bit of it."
 ---
 
 <a style="display: inline;" href="/images/old/6a00e008d618bb88340134850961fb970c-800wi.jpg" rel="lightbox"><img class="asset asset-image at-xid-6a00e008d618bb88340134850961fb970c " title="Vegetarian Korean tofu dinner for one" src="/images/old/6a00e008d618bb88340134850961fb970c-500wi.jpg" alt="" /></a>

@@ -7,6 +7,12 @@ aliases: ["/crackers-and-dips-more-than-fifty-homemade-snacks-cookbook-review/",
 cover:
   image: "/images/2013/07/Crackers-and-Dips.jpg"
   hidden: true
+recipe:
+  name: "For the peanut butter filling"
+  ingredients:
+    - "3/4 cup/190 g creamy peanut butter"
+    - "3 tbsp unsalted butter, at room temperature"
+    - "3/4 cup/80 g confectioners’ sugar, sifted"
 ---
 
 <a href="/images/2013/07/Crackers-and-Dips.jpg"><img class="alignnone size-full wp-image-3806" alt="Crackers and Dips - Ivy Manning" src="/images/2013/07/Crackers-and-Dips.jpg" width="600" height="880" />

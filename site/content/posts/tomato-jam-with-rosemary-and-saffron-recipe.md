@@ -8,6 +8,22 @@ aliases: ["/tomato-jam-with-rosemary-and-saffron-recipe/", "/2010/07/tomato-jam-
 cover:
   image: "/images/old/6a00e008d618bb883401348576c8f3970c-500wi.jpg"
   hidden: true
+recipe:
+  name: "Tomato Jam With Rosemary and Saffron"
+  yield: "about a cup"
+  diet: "Vegan, Vegetarian, Gluten-Free"
+  ingredients:
+    - "24 ounces (by weight) tomatoes, cored and peeled (see above), roughly diced"
+    - "1/2 cup white onion, finely diced"
+    - "1/2 teaspoon rosemary leaves, very finely chopped"
+    - "3/4 cup sugar (you could also try a little less)"
+    - "3/4 teaspoon salt"
+    - "pinch of chili flakes"
+    - "pinch of saffron, crumbled"
+    - "a few grind of black pepper"
+    - "2 tablespoons lemon juice"
+  instructions:
+    - "How about this for easy? Bring all ingredients to a simmer (the liquid will all come out of the tomatoes, you don't need to add any). Cook for about an hour, until thick and syrupy. Taste and adjust seasonings."
 ---
 
 <a style="display: inline;" href="/images/old/6a00e008d618bb883401348576c8f3970c-800wi.jpg" rel="lightbox"><img class="asset asset-image at-xid-6a00e008d618bb883401348576c8f3970c " title="Tomato Jam With Rosemary and Saffron" src="/images/old/6a00e008d618bb883401348576c8f3970c-500wi.jpg" alt="Grilled_Cheese_With_Tomato_Jam" /></a>

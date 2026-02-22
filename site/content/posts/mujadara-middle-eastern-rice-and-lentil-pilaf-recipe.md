@@ -8,6 +8,23 @@ aliases: ["/mujadara-middle-eastern-rice-and-lentil-pilaf-recipe/", "/2011/07/mu
 cover:
   image: "/images/cookbook/mujadara-middle-eastern-rice-and-lentil-pilaf.jpg"
   hidden: true
+recipe:
+  name: "Mujadara – Middle Eastern Rice and Lentil Pilaf"
+  ingredients:
+    - "3 pounds white onions, sliced moderately thin"
+    - "1/4 cup vegetable oil"
+    - "1/2 cup white wine or vermouth (optional)"
+    - "3 cups cooked brown or green lentils (not red lentils or French lentils), tender but not falling apart"
+    - "6 cups cooked long grain white or brown rice"
+    - "1/4 teaspoon ground cinnamon"
+    - "1/4 teaspoon ground cumin"
+    - "salt"
+    - "black pepper"
+    - "small handful of flat leaf parsley for serving"
+  instructions:
+    - "In your largest skillet, over a medium-low flame, heat the oil and 1 teaspoon salt and then add the onions. Stir occasionally until very soft, about 45 minutes. Turn heat to medium high and keep cooking and stirring often until deeply browned and sweet, another 20 minutes or more. Deglaze pan with white wine or vermouth (or water) and stir into the onions to get more flavor. (See note above for another option, if you don’t have enough time)."
+    - "When the onions are cooked, fold the rice, lentils, spices, half of the onions, 1 more teaspoon of salt and several grinds of black pepper together in a large bowl. Taste and adjust seasonings."
+    - "On a large serving platter, form a mound of the rice and lentil mixture, top with the remaining caramelized onions and chopped parsley, a grind of pepper and a few grains of sea salt."
 ---
 <a href="/images/cookbook/mujadara-middle-eastern-rice-and-lentil-pilaf.jpg"><img src="/images/cookbook/mujadara-middle-eastern-rice-and-lentil-pilaf.jpg" alt="Mujadara – Middle Eastern Rice and Lentil Pilaf" /></a>
 

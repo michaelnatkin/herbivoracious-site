@@ -7,6 +7,28 @@ aliases: ["/dduk-gogi/", "/2012/02/dduk-gogi.html"]
 cover:
   image: "/images/2012/12/Dduk-Boki-626x415.jpg"
   hidden: true
+recipe:
+  name: "Tteokbokki - Spicy Korean Rice Cake Stew"
+  yield: "4"
+  diet: "Vegan, Vegetarian, Gluten-Free"
+  ingredients:
+    - "3 cups water"
+    - "2 tablespoons kochujang (check ingredients if you need gluten free)"
+    - "2 tablespoons sugar"
+    - "2 tablespoons light soy sauce (choose a gluten free variety if needed)"
+    - "2 teaspoons rice wine vinegar"
+    - "1\" piece of ginger, grated"
+    - "1 pound frozen tteok (Korean rice cakes), any shape (check ingredients if you need gluten free - some have wheat!)"
+    - "1/2 pound Asian eggplant cut into bite-sized pieces"
+    - "1/2 pound fresh shiitake mushrooms, stems removed"
+    - "3 green onions, thinly sliced, white and light green parts only"
+    - "Fresh ground black pepper"
+    - "Toasted sesame oil"
+  instructions:
+    - "Bring the water to a simmer in a large skillet. Non-stick is a good option as the tteok do tend to stick a bit. Add the kochujang, sugar, soy sauce, vinegar and ginger and stir. It is ok if the the kochujang doesn't fully dissolve immediately, it will have plenty of time."
+    - "Add the tteok and cook, stirring occasionally until it comes back to a simmer, then adjust the heat to maintain the simmer. After 5 minutes add the eggplant and shiitakes and continue cooking, stirring occasionally and checking the bottom for sticking, until the tteok and eggplant are tender, about 15 minutes more minutes. If the sauce gets too thick, add a bit more water."
+    - "Taste and adjust seasoning and sauce thickness. It should definitely be thick like a stew, not a soup, but not gummy and tight. Add a bit more water if needed."
+    - "To serve, transfer to a large serving bowl or individual dishes and garnish with the green onions, black pepper and a healthy drizzle of sesame oil."
 ---
 
 <a href="/images/2012/12/Dduk-Boki.jpg"><img class="size-large wp-image-1218 alignnone" title="Tteokbokki, Ddeokbokki, Dduk Boki - Spicy Korean Rice Cake Stew" src="/images/2012/12/Dduk-Boki-626x415.jpg" alt="Tteokbokki, Ddeokbokki, Dduk Boki - Spicy Korean Rice Cake Stew" width="626" height="415" /></a>

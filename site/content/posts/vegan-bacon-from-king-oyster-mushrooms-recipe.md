@@ -7,6 +7,20 @@ aliases: ["/vegan-bacon-from-king-oyster-mushrooms-recipe/", "/2012/11/vegan-bac
 cover:
   image: "/images/2012/11/Mushroom-Bacon-626x415.jpg"
   hidden: true
+recipe:
+  name: "Vegan \"Bacon\" From King Oyster Mushrooms"
+  diet: "Vegan, Vegetarian, Gluten-Free"
+  ingredients:
+    - "1 tablespoon Maldon - use 1 1/2 teaspoons for any other kind of salt"
+    - "2 tablespoons sugar"
+    - "2 tablespoons smoke paprika"
+    - "1/4 teaspoon freshly ground black pepper"
+    - "King oyster mushrooms (however many you want)"
+    - "Vegetable oil for pan frying"
+  instructions:
+    - "Slightly grind the salt to a finer texture. You can do this with your fingers or a mortar and pestle. In a small bowl, whisk together the Maldon salt, sugar, paprika and black pepper. Unless you are doing a lot of mushrooms, this will be more rub than you need, but you can save it."
+    - "Slice the king oyster mushrooms lengthwise on a mandoline to about 2mm thickness. Rub both sides of each slice of the mushrooms with the dry rub mix (you probably won't need all of it) and set aside for at least 15 minutes. Wipe off excess rub."
+    - "Line a plate with paper towels. Heat a large skillet, preferably cast-iron over medium-high heat. Add a thin layer of vegetable oil. When it shimmers, add strips of mushroom in a single, sparse layer (working in batches as needed) and cook until golden brown (about 1 minute), then flip and brown the other side. Transfer to the paper towels. It will crisp up as it cools (just 20 seconds or so)."
 ---
 
 <a href="/images/2012/11/Mushroom-Bacon.jpg"><img class="alignnone size-large wp-image-3330" title="Vegetarian &quot;Bacon&quot; From King Oyster Mushrooms" src="/images/2012/11/Mushroom-Bacon-626x415.jpg" alt="Vegetarian &quot;Bacon&quot; From King Oyster Mushrooms" width="626" height="415" /></a>

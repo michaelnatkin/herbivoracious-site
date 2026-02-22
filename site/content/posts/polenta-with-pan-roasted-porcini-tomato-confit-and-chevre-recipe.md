@@ -8,6 +8,32 @@ aliases: ["/polenta-with-pan-roasted-porcini-tomato-confit-and-chevre-recipe/", 
 cover:
   image: "/images/old/6a00e008d618bb8834014e8c2f692d970d-500wi.jpg"
   hidden: true
+recipe:
+  name: "Polenta with Pan Roasted Porcini, Tomato Confit and Chevre"
+  yield: "4"
+  ingredients:
+    - "8-12 good-sized porcini (cepe) mushrooms, cleaned and cut in half lengthwise (if yours are huge, you may need to cut them into slabs instead of halves)"
+    - "1/4 cup extra virgin olive oil"
+    - "Sea salt"
+    - "Four servings of polenta (see note above)"
+    - "20 tomato confit halves (see below), warm"
+    - "1/2 cup fresh chevre (I'm partial to the Laura Chenel brand), room temperature"
+    - "A few fresh basil leaves"
+    - "20 plum tomatoes or other tomatoes (this makes double what you need for the recipe above, but you might as well make a full standard 1/2 baking sheet's worth)"
+    - "3 tablespoons extra-virgin olive oil"
+    - "½ teaspoon kosher salt"
+    - "4 thinly sliced garlic cloves"
+    - "2 teaspoons fresh thyme leaves"
+    - "1 packed tablespoon fresh tarragon leaves, thinly sliced"
+  instructions:
+    - "Warm your serving bowls."
+    - "Heat a large skillet over medium high heat. Add the olive oil, and when it is shimmering, add the porcini, cut side down. Cook without moving them too much until the cut side is well browned, then flip, season the cut side with sea salt, and cook the rounded side until it is also browned."
+    - "Divide the polenta, mushrooms, tomato confit and chevre between the serving bowls. Scatter on a few leaves of fresh basil and a few more grains of sea salt and serve immediately."
+    - "Bring a medium pot of water to a boil. Preheat the oven to 300°F. Line a baking sheet with parchment paper or a silicone mat."
+    - "Using a paring knife, remove the core of each tomato and cut a small X in the bottom. Working in batches, dip the tomatoes into the boiling water for just a few seconds to loosen the skin. Allow them to cool, then remove the skins."
+    - "Cut each tomato in half lengthwise. Scoop out the seeds. A grapefruit spoon or a butter curler works well for this. (If you like, you can strain the seeds and drink the resulting thin juice as a cook’s treat.)"
+    - "Place the tomatoes, cut side up, on the baking sheet. Drizzle with the olive oil and sprinkle on the salt. Scatter on the garlic, thyme and tarragon."
+    - "Roast, turning the pan occasionally, until the tomatoes are quite flat and much of the liquid is gone, about 3 hours. Take one out, let it cool, and taste it to be sure the flavor is quite concentrated. If not, let them cook longer."
 ---
 
 <p><a href="/images/old/6a00e008d618bb8834014e8c2f692d970d-800wi.jpg" rel="lightbox" style="display: inline;"><img alt="Polenta with Porcini, Oven Roasted Tomatoes, and Chevre" class="asset  asset-image at-xid-6a00e008d618bb8834014e8c2f692d970d" src="/images/old/6a00e008d618bb8834014e8c2f692d970d-500wi.jpg" title="Polenta with Porcini, Oven Roasted Tomatoes, and Chevre" /></a><br /><em>Polenta with Pan Roasted Porcini, Tomato Confit and Chevre</em></p> <p>Fresh <a href="https://www.amazon.com/dp/B079FCR7XK?tag=herb-hugo-20">porcini</a> are one of nature&#39;s great treats. They are rather expensive unless you know how to forage for them, which I swear I&#39;m going to learn someday ... maybe from <a href="http://fat-of-the-land.blogspot.com/" target="_blank">Langdon</a>.</p> <p>In the meantime, when I get my hands on a few porcini I like to feature them prominently in a dish. It seems a shame to take this rare beast and cut it up so small that you have to hunt for that unique flavor and texture. So in this recipe, the porcini are definitely the star, getting a fast and hot sear to develop a bit of a caramelized crust and served with a supporting cast of soothing polenta, oven-roasted tomato confit, and fresh chevre.</p> <p>When I make polenta these days I use the basic <a href="https://www.amazon.com/dp/B00006ISG6?tag=herb-hugo-20">pressure cooker</a> method from&#0160;<a href="http://www.hip-cooking.com/2010/08/polenta-five-ways.html" target="_blank">Hip Pressure Cooking</a>, adding plenty of grated Parmesan, milk and butter to finish it. It is quite a bit less work and comes out perfectly creamy, every bit as good as on the stovetop. But you can also use a&#0160;<a href="/2008/11/polenta-with-sauteed-chard-and-gorgonzola/" target="_blank">more traditional method</a>.</p> <p>Whichever way you go, you might like to make extra so that you can refrigerate it, and the next day, <a href="/2010/06/crisp-polenta-with-braised-cabbage-and-beans-recipe/" target="_blank">fry up the leftovers</a>.</p> <p>The recipe for tomato confit is down below the main recipe. You should master this method as they make great additions to&#0160;pasta, risotto, soup, bruschetta and so forth. I&#39;ve got a number of recipes that use them in my <a href="/2010/10/im-writing-a-cookbook-and-you-can-win-prizes/" target="_blank">upcoming book</a>.</p> <div class="recipe-card">

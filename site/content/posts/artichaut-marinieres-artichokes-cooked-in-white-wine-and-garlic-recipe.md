@@ -8,6 +8,28 @@ aliases: ["/artichaut-marinieres-artichokes-cooked-in-white-wine-and-garlic-reci
 cover:
   image: "/images/old/6a00e008d618bb883401543235f911970c-500wi.jpg"
   hidden: true
+recipe:
+  name: "Artichaut Marinières - Artichokes Cooked in White Wine and Garlic"
+  time: "30 minutes"
+  diet: "Vegetarian"
+  ingredients:
+    - "1 lemon"
+    - "1 1/2 pounds baby artichokes"
+    - "3 tablespoons unsalted butter"
+    - "6 tablespoons minced shallot or white onion"
+    - "6 garlic cloves, minced"
+    - "1 teaspoon Kosher salt"
+    - "1 1/2 cups dry vermouth"
+    - "3 tablespoons minced parsley, divided (or try 1 tablespoon fresh tarragon instead)"
+    - "2 sprigs fresh thyme"
+    - "Fresh ground black pepper"
+    - "4-8 slices artisan bread, brushed with extra-virgin olive oil and grilled or toasted"
+  instructions:
+    - "Preheat a large serving bowl. Fill another bowl with cold water and squeeze in the juice of 1 lemon."
+    - "Cut off the upper third of each baby artichoke. Trim off any ugly part of the stem but leave as much as possible. Pull off tough outer leaves, erring on the side of removing more, not less. If any of the baby artichokes are much bigger than the rest, cut them in half. Put each artichoke in the lemon water (acidulated water) as you finish trimming it, to avoid unsightly browning."
+    - "Melt the butter in a 5 quart Dutch oven over medium heat. Add the onion, garlic, and salt and cook for 3 minutes, until the onion has softened."
+    - "Add the white wine, 2 tablespoons of parsley, thyme and the drained artichokes. Mix the artichokes in. Cover and bring to a bare simmer. Reduce heat to low to just maintain the simmer and cook until the artichokes are completely tender when poked with a knife. If there isn't enough broth left, add a bit more wine and simmer for a couple of minutes to cook off most of the alcohol. Taste and add more salt if needed."
+    - "Pour all of the contents of the pot into the serving bowl. Garnish with the remaining parsley and several grinds of pepper. Arrange the toasted bread around the outside of the bowl and serve immediately."
 ---
 
 <a style="display: inline;" href="/images/old/6a00e008d618bb883401543235f911970c-800wi.jpg" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb883401543235f911970c" title="Artichauds Mariniers" src="/images/old/6a00e008d618bb883401543235f911970c-500wi.jpg" alt="Artichauds Mariniers" /></a>

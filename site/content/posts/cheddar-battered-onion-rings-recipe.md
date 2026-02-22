@@ -8,6 +8,24 @@ aliases: ["/cheddar-battered-onion-rings-recipe/", "/2011/06/cheddar-battered-on
 cover:
   image: "/images/cookbook/cheddar-battered-onion-rings.jpg"
   hidden: true
+recipe:
+  name: "Cheddar-Battered Onion Rings"
+  ingredients:
+    - "2 cups grated extra sharp cheddar cheese"
+    - "1 egg yolk"
+    - "2 tablespoons vegetable oil"
+    - "1 teaspoon salt"
+    - "1 big pinch xanthan gum (optional, see above)"
+    - "1 cup all purpose flour"
+    - "3/4 cup seltzer water + more as needed"
+    - "2 large white onions, peeled and cut into thick rings"
+    - "flour for dredging (all-purpose or rice flour)"
+    - "oil for deep frying"
+    - "sea salt"
+  instructions:
+    - "Preheat broiler. Line a baking sheet with a silicone baking mat or parchment paper. Spread the cheddar cheese in a thin layer on the sheet. Watching rather closely, broil until starting to brown. Allow to cool. Pat off excess oil. Using a spice grinder or mortar and pestle, crush the cheese into a fine powder."
+    - "Whisk together 75 grams (about 3 ounces) of the cheese powder, the egg yolk, 2 tablespoons of oil, salt, xanthan gum (if using), flour and seltzer. It should be rather thin, the consistency of crepe batter, not thick pancake batter. Add more seltzer as needed."
+    - "Heat oil for deep frying to 360 degrees. Working in small batches, dredge each onion ring in flour, shake off the excess, dip in the batter, drip off the excess and add to the fryer. I find this easiest to do with chopsticks. Cook until golden brown and remove to paper towels to drain. Pat lightly to remove excess oil. Season with sea salt."
 ---
 <a href="/images/cookbook/cheddar-battered-onion-rings.jpg"><img src="/images/cookbook/cheddar-battered-onion-rings.jpg" alt="Cheddar-Battered Onion Rings" /></a>
 

@@ -7,6 +7,22 @@ aliases: ["/pan-roasted-brussels-sprouts-with-shiitakes-and-smoked-paprika-recip
 cover:
   image: "/images/2011/12/Pan-Roasted-Brussels-Sprouts-with-Shiitakes-and-Smoked-Paprika-626x415.jpg"
   hidden: true
+recipe:
+  name: "Pan Roasted Brussels Sprouts with Shiitakes and Smoked Paprika"
+  yield: "2-3 as a side dish"
+  diet: "Vegan, Vegetarian, Gluten-Free"
+  ingredients:
+    - "3 tablespoons vegetable oil"
+    - "6 fresh shiitake mushroom caps, sliced about 1/8\" thick"
+    - "Kosher salt"
+    - "3 cups brussels sprouts, trimmed and quartered (about 9 ounces / 250 grams)"
+    - "1/2 teaspoon smoked paprika"
+    - "Freshly ground black pepper"
+    - "Flaky salt such as Maldon (aka the world's greatest salt)"
+  instructions:
+    - "Line a plate with paper towels. Place a large skillet over medium-high heat. Add the vegetable oil, and when it shimmers, add the mushrooms caps in a single layer. Cook until well browned on one side, about one minute, then flip and cook the other side. When the second side is browned, remove with a slotted spatula to the paper towels, leaving as much oil behind as possible. Season with a sprinkle of Kosher salt."
+    - "With the skillet still on medium high heat, add the brussels sprouts and toss to coat with oil, adding a bit more oil if needed. Cook, turning occasionally, until tender and many surface have dark brown spots. I like mine almost charred."
+    - "Add the smoked paprika, 1/2 teaspoon of Kosher salt and the reserved shiitakes. Toss, then taste and adjust seasoning. Transfer to a serving platter, finish with black pepper and a few grains of flaky salt and serve."
 ---
 
 <a href="/images/2011/12/Pan-Roasted-Brussels-Sprouts-with-Shiitakes-and-Smoked-Paprika.jpg"><img class="alignnone size-large wp-image-911" title="Pan Roasted Brussels Sprouts with Shiitakes and Smoked Paprika" src="/images/2011/12/Pan-Roasted-Brussels-Sprouts-with-Shiitakes-and-Smoked-Paprika-626x415.jpg" alt="Pan Roasted Brussels Sprouts with Shiitakes and Smoked Paprika" width="626" height="415" /></a>

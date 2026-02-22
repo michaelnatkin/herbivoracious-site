@@ -21,6 +21,9 @@
   <meta name="twitter:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }}{{ end }}">
   <meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
   <meta name="twitter:image" content="{{ $ogImage }}">
+  {{ if and .IsPage .Params.recipe }}
+    {{ partial "recipe-jsonld.html" . }}
+  {{ end }}
   <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-CWXB776C7R"></script>
   <script>

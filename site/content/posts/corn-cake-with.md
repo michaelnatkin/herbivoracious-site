@@ -7,6 +7,30 @@ aliases: ["/corn-cake-with/", "/2008/07/corn-cake-with.html"]
 cover:
   image: "/images/2008-small/07/02/cherriesseastackcorncakeandwhitehon.jpg"
   hidden: true
+recipe:
+  name: "Corn Cake with Camembert, Cherries, and White Honey"
+  yield: "4Vegetarian; gluten-free; not vegan For the corn cake:"
+  diet: "Vegan, Gluten-Free"
+  ingredients:
+    - "1 sprig rosemary"
+    - "2/3 c. ultra-fine polenta (I used de la Estancia)"
+    - "1/4 c. dark brown sugar"
+    - "1 T. butter"
+    - "pinch of salt"
+    - "1/2 c. juice of fresh cherries"
+    - "1/4 c. sour cherry vinegar"
+    - "28 cherries, pitted and halved"
+    - "4 pieces of camembert cut into small rounds"
+    - "6 t. white honey"
+    - "flaky salt (Maldon (aka the world's greatest salt)!)"
+  instructions:
+    - "Bring 2 c. water to a boil."
+    - "Add rosemary sprig, reduce to a simmer, cook for 1 minute, remove rosemary."
+    - "Add the remaining ingredients and simmer until the polenta is cooked, just a couple of minutes."
+    - "Divide the polenta among 4 buttered ring molds and refrigerate on parchment."
+    - "Combine and simmer until reduced by 1/2."
+    - "Unmold the corn cakes and fry at high heat in a bit of oil to create a crisp crust on both sides."
+    - "Serve each cake with 1/4 of the pitted cherries, 1.5 T. of the sauce, one piece of camembert, 1.5 t. of the honey, and a pinch of the flaky salt.."
 ---
 
 <p><a href="/images/2008/07/02/cherriesseastackcorncakeandwhitehon.jpg" rel="lightbox"><img width="455" height="302" border="0" alt="Cherriesseastackcorncakeandwhitehon" title="Cherriesseastackcorncakeandwhitehon" src="/images/2008-small/07/02/cherriesseastackcorncakeandwhitehon.jpg" /></a><br /><span style="font-size: 0.8em;">Corn Cake with Camembert, Cherries, and White Honey</span></p>  <p>  Cherries are in full storm here in the northwest. Mostly we just like to eat them out of hand, many pints at a time. While laying in a cherry-induced stupor, red juice drooling like some sort of befruited Dracula, I set to pondering whether I could steal just a few of them to experiment with flavor pairings.</p>  <p>My first thought was to do a cheese course, which then morphed into something that is more of an ambiguous sweet/savory dish, which I find appealing.</p>  <p>The components on the plate are a corn cake made with fine polenta, rosemary, brown sugar, and butter (which reminded me very much of an Indian <a href="http://www.indiasnacks.com/recipe/781/Suji-Halva-(Semolina-Halva).php">Suji Halva</a>), Mt. Townsend Pacific Northwest Camembert, Bing Cherries, a sauce made from cherry juice and <a href="https://www.amazon.com/dp/B0012S5LQ2?tag=herb-hugo-20">Acetoria Sour Cherry Vinegar</a>, and <a href="http://www.volcanoislandhoney.com/honey.htm">white honey</a> from the Big Island of Hawaii. </p>  <p>The white honey is an unusual product, from bees that fertilize rare kiawe trees. It is raw and unfiltered, with a creamy consistency somewhat like softened butter. The flavor is intense but clean and not overly floral. I'm at a loss to give you a comparison. Maybe a bit like an ice wine. </p>  <div class="recipe-card">

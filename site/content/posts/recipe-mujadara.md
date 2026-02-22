@@ -8,6 +8,25 @@ aliases: ["/recipe-mujadara/", "/2007/10/recipe-mujadara.html"]
 cover:
   image: "/images/2007/10/07/mujadara.jpg"
   hidden: true
+recipe:
+  name: "Recipe: Mujadara (Rice, Lentils and Caramelized Onion Pilaf)"
+  time: "20 min"
+  ingredients:
+    - "3 pounds white onions, sliced moderately thin"
+    - "2 tablespoons butter"
+    - "2 tablespoons vegetable oil"
+    - "1/2 cup white wine or vermouth (optional)"
+    - "1 1/2 cups brown or green lentils (not red lentils or french lentils!)"
+    - "2 cups long grain white or brown rice (I prefer the brown for a bit more character)"
+    - "1/4 teaspoon ground cinammon"
+    - "1/4 teaspoon ground cumin"
+    - "Salt and pepper"
+    - "Flat leaf parsley for serving"
+  instructions:
+    - "Melt the butter along with the oil and 1 t. salt in your largest skillet, and add the onions. Set heat on medium-low and stir occasionally until very soft, about 45 minutes. Turn heat to medium high and keep cooking and stirring often until deeply browned and sweet, another 20 minutes or more. Deglaze pan with white wine or vermouth (or water) and stir into the onions to get more flavor. See “caramelized onions” in Joy of Cooking for a more thorough description of the process. If pressed for time you can do a higher heat version, yielding onions with a caramelized exterior and crunchy interior, which is also delicious."
+    - "Meanwhile, cook the rice and the lentils separately according to your usual method. The lentils need to be watched carefully. You don’t want them still crunchy , but you definitely want to retain their shape. We aren’t making lentil soup here. Some folks cook the rice and lentils together but I don’t think that gives you enough control over the texture."
+    - "When everything is cooked, fold the rice, lentils, spices, half of the onions, and more salt and pepper together in a large bowl. Taste and adjust seasonings."
+    - "To serve, form a large mound, top with the remaining caramelized onions and chopped parsley, a grind of pepper and a few grains of sea salt. Pass a bowl of thick Greek yogurt to mix in as desired. It is really good at room temperature, and just gets better after a day in the refrigerator."
 ---
 
 <a href="/images/2007/10/07/mujadara.jpg" rel="lightbox"><img class="photo noresize" title="Mujadara (Rice, Lentils and Caramelized Onion Pilaf)" alt="Mujadara (Rice, Lentils and Caramelized Onion Pilaf)" src="/images/2007/10/07/mujadara.jpg"/></a>

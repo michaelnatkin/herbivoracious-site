@@ -7,6 +7,25 @@ aliases: ["/chilaquiles-verde-mexican-scrambled-eggs-with-corn-tortillas-and-gre
 cover:
   image: "/images/2012/05/Chilaquiles-626x415.jpg"
   hidden: true
+recipe:
+  name: "Chilaquiles Verdes - Mexican Scrambled Eggs with Corn Tortillas and Green Salsa"
+  yield: "2"
+  diet: "Gluten-Free"
+  ingredients:
+    - "1 cup salsa verde or green enchilada sauce"
+    - "1/4 cup vegetable oil"
+    - "3 corn tortillas"
+    - "4 large eggs (preferably organic)"
+    - "1/4 teaspoon ground cumin"
+    - "Sea salt"
+    - "Black pepper"
+    - "Optional garnishes: hot sauce (Tapatio!), minced cilantro and white onion, charred scallion, avocado, sour cream, cotija cheese, lime wedges"
+  instructions:
+    - "Preheat two serving bowls, and heat the salsa verde in the microwave."
+    - "Place a large, well seasoned or non-stick skillet over medium-high heat. Add the oil. When it is shimmering, tear each tortilla into 6 wedges and add them to the pan, along with a pinch of salt. Cook, flipping occasionally, until they are quite well browned. Pull out and reserve 6 of the wedges."
+    - "Reduce the heat to low. In a small bowl, whisk together the eggs, 2 tablespoons of water, cumin, 1/4 teaspoon of salt, and several grinds of black pepper."
+    - "Pour the eggs over the tortillas that are still in the pan, and cook, stirring frequently, until the eggs are as set as you like them. Remove from the heat."
+    - "Put about 1/4 cup of the heated salsa in each bowl. Spoon in half of the egg and tortilla mixture. Pour the remaining salsa over the eggs. Sprinkle on a bit more salt. Add the reserved fried tortillas on top, and finish with some or all of the suggested garnishes (or offer them at the table.)"
 ---
 
 <a href="/images/2012/05/Chilaquiles.jpg"><img class="alignnone size-large wp-image-1936" title="Chilaquiles Verdes" src="/images/2012/05/Chilaquiles-626x415.jpg" alt="Chilaquiles Verdes" width="626" height="415" />

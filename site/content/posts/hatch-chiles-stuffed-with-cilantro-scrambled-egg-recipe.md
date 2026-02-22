@@ -7,6 +7,23 @@ aliases: ["/hatch-chiles-stuffed-with-cilantro-scrambled-egg-recipe/", "/2009/10
 cover:
   image: "/images/old/6a00e008d618bb88340120a5a180e4970b-500wi.jpg"
   hidden: true
+recipe:
+  name: "Chiles Stuffed with Cilantro Scrambled Eggs"
+  yield: "4 stuffed peppersVegetarian and gluten free"
+  diet: "Gluten-Free"
+  ingredients:
+    - "4 large Hatch chilis, green or ripe, or poblanos"
+    - "6 large eggs"
+    - "1/4 cup whole milk"
+    - "1/2 teaspoon salt"
+    - "2 tablespoons butter"
+    - "1 big handful cilantro leaves, chopped (reserve a few whole for garnish)"
+    - "1 jalapeno, thinly sliced (optional)"
+    - "For serving: steamed corn tortillas, refried beans (preferably black beans), pico de gallo"
+  instructions:
+    - "Place the the chilis in a 400 degree toaster oven, and cook until mostly blackened all over, turning occasionally. When they are done, transfer to a small bowl and cover with a plate. Allow to cool. Peel. Do not rinse, you'll lose lots of flavor. Run a slit down one side and use a spoon to remove the ribs and seeds as best you can."
+    - "Beat the eggs with the milk and salt. In a non-stick or well seasoned skillet, melt the butter over a low flame. Add the eggs. Cook slowly, stirring every minute or so and being sure to move the cooked eggs off the bottom of the pan. It should take at least 10 minutes. If it seems like it is moving too fast, lower the heat. Just before they are done, stir in the chopped cilantro and the jalapeno, if using."
+    - "Fill the peppers with the scrambled eggs, and garnish with the reserved cilantro leaves. Serve with the tortillas, refriend beans and salsa."
 ---
 
 <p class="asset asset-image"><a href="/images/old/6a00e008d618bb88340120a5a180e4970b-800wi.jpg" rel="lightbox" style="display: inline;"><img alt="Hatch_Chilis_Stuffed_With_Migas" class="at-xid-6a00e008d618bb88340120a5a180e4970b " src="/images/old/6a00e008d618bb88340120a5a180e4970b-500wi.jpg" /></a> </p><p> <a href="https://www.amazon.com/dp/B074LGRD5K?tag=herb-hugo-20">Hatch chiles</a> are a specialty of the Mesilla Valley area of New Mexico, where a huge festival celebrates the annual harvest and roasting season. In the Seattle area, Alvarez Farms brings the same variety to farmer&#39;s markets in early fall. They are most commonly used green, but this time they had a batch of ripe peppers that looked amazing. (In case you didn&#39;t realize it, all peppers, whether a big bell or a tiny Thai bird chile, are red when ripe - if a pepper is green, by definition it was picked before it was fully ripe, which gives it a different flavor profile).</p><p>My first thought was to make traditional chile rellenos, but a they are a big project and I didn&#39;t have time to go there. But &quot;relleno&quot; just means stuffed, and that thought process made me think to stuff them with scrambled eggs,&#0160; moving the eggs from a batter on the outside to a creamy filling with lots of cilantro. </p><p>You could do the same thing with poblanos or any other big, mild pepper. I&#39;ve recently taken to roasting them in the toaster oven before peeling, but you can also do it in the regular oven, on a grill, or carefully with tongs over a gas burner.</p><p>Corn tortillas, a quick, fresh salsa and refried black beans makes a complete meal. We tend to think of eggs as breakfast food in America but you could just as easily have this for dinner.</p><p>You could elaborate this dish further by upgrading the eggs to a full-blown case of <a href="http://blogs.chron.com/cookstour/archives/2009/09/of_chilaquiles.html" target="_blank">chilaquiles</a> or Tex-Mex <a href="http://mattbites.com/2006/09/03/migas-my-dad/" target="_blank">migas</a>.</p><p>A word about scrambling eggs. Really, one word: <strong>slow</strong>. Or if you can spare me three words: <strong>slow and low</strong>. Egg cookery is all about temperature control, because if they get too hot, the proteins knot up and they become tough. If you want big, custardy-smooth curds, the way to get there is to work over very low heat and keep folding, moving the cooked egg off the bottom of the pan.</p><p>And by the way, regular readers will probably have noticed a new badge over in my sidebar. Welcome to <a href="http://cooklocal.com" target="_blank">CookLocal.com</a>! Patricia and John are doing a great job over there showing how delicious the locavore lifestyle can be, please drop by and check them out.</p><div class="recipe-card">

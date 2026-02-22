@@ -7,6 +7,30 @@ aliases: ["/roasted-asparagus-with-pistachio-puree-recipe/", "/2013/04/roasted-a
 cover:
   image: "/images/2013/04/Asparagus-with-Pistachio-Puree-626x415.jpg"
   hidden: true
+recipe:
+  name: "Roasted Asparagus with Pistachio Puree – Recipe"
+  time: "15 min"
+  ingredients:
+    - "270 grams (2 cups) unsalted, roasted pistachio kernels"
+    - "46 grams lemon juice (1 whole lemon)"
+    - "5 grams (1 clove) garlic, thinly sliced"
+    - "5 grams (1 teaspoon) salt"
+    - "1.5 grams (3/4 teaspoon) ground cumin"
+    - "1.5 grams (3/4 teaspoon) smoked paprika"
+    - "150 grams (3/4 cup) extra virgin olive oil"
+    - "150 grams (2/3 cup) water"
+    - "700 grams (1 1/2 pounds) fat asparagus spears, trimmed"
+    - "Extra virgin olive oil"
+    - "Kosher salt"
+    - "Real balsamic vinegar or balsamic reduction"
+    - "33 grams (1/4 cup) unsalted, roasted pistachio kernels, coarsely chopped"
+    - "Maldon salt"
+    - "Fresh tarragon leaves"
+  instructions:
+    - "Combine the pistachos, lemon juice, garlic, salt, cumin, smoked paprika, and half of the olive oil in the blender. With the lid on and the blender running on mediumlow speed, drizzle in the remaining oil and then the water, stopping to scrape down the sides as needed. Blend until color lightens and fairly smooth but not completely textureless. You may need to add a little more water."
+    - "Taste and adjust seasoning; it will likely need more salt and possibly more lemon juice or spices, but don't overpowerr the pistachio flavor. Reserve, with plastic wrap on the surface to prevent oxidation."
+    - "Preheat oven to 400. Toss the asparagus with a bit of olive oil and kosher salt. Roast on a baking sheet until tender, about 10 minutes. Turn on broiler (or use a blowtorch) and cook until blackened in spots."
+    - "To serve, spoon the pistachio puree on a plate and place the asparagus on top. Garnish with the balsamic vinegar, chopped pistachios, Maldon salt and tarragon leaves."
 ---
 
 <a href="/images/2013/04/Asparagus-with-Pistachio-Puree.jpg"><img class="alignnone size-large wp-image-3704" alt="Asparagus with Pistachio Puree" src="/images/2013/04/Asparagus-with-Pistachio-Puree-626x415.jpg" width="626" height="415" /></a>

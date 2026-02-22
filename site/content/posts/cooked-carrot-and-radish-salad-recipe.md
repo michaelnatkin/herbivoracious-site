@@ -8,6 +8,26 @@ aliases: ["/cooked-carrot-and-radish-salad-recipe/", "/2010/05/cooked-carrot-and
 cover:
   image: "/images/old/6a00e008d618bb8834013481cc6e4e970c-500wi.jpg"
   hidden: true
+recipe:
+  name: "Cooked Carrot and Radish Salad"
+  yield: "4"
+  diet: "Vegan, Vegetarian, Gluten-Free"
+  ingredients:
+    - "1/2 cup extra virgin olive oil"
+    - "1/4 cup lime juice or lemon juice"
+    - "1 teaspoon finely grated fresh ginger"
+    - "salt to taste"
+    - "1 bunch of small, sweet carrots with tops attached"
+    - "4-6 radishes, preferably of varying colors"
+    - "a few tiny sprigs of dill"
+    - "finishing salt (this Hawaiian Red Salt would be amazing)"
+  instructions:
+    - "Bring a large pot of well salted water to a boil and set up an ice bath."
+    - "Meanwhile, whisk together the olive oil, citrus juice, and ginger. Add salt to taste, and reserve."
+    - "Peel the carrots and trim the tops, leaving about 1/2 inch of stem."
+    - "Thinly slice the radishes, using a mandoline if available."
+    - "When the water is boiling, cook the carrots until tender, checking them frequently with the point of a knife. When they are just tender, remove them immediately to the ice water."
+    - "When you are ready to serve, drain the carrots and pat them dry. Give the dressing a quick whisk and toss the carrots with some of it. Transfer to a serving platter, and arrange the radish slices amongst and over them. Drizzle more dressing over the top. Garnish with the dill and finishing salt."
 ---
 
 <a style="display: inline;" href="/images/old/6a00e008d618bb8834013481cc6e4e970c-800wi.jpg" rel="lightbox"><img class="asset asset-image at-xid-6a00e008d618bb8834013481cc6e4e970c " src="/images/old/6a00e008d618bb8834013481cc6e4e970c-500wi.jpg" alt="Salad with Cooked Baby Carrots and Sliced Radishes" /></a>

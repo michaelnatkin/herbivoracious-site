@@ -8,6 +8,26 @@ aliases: ["/ten-minute-chickpea-salad-with-feta-and-basil-recipe/", "/2011/03/te
 cover:
   image: "/images/cookbook/ten-minute-chickpea-salad-with-feta-and-basil.jpg"
   hidden: true
+recipe:
+  name: "Ten-Minute Chickpea Salad with Feta and Basil"
+  time: "10 minutes"
+  diet: "Gluten-Free"
+  ingredients:
+    - "2 small (15 ounce) cans cooked chickpeas"
+    - "1/2 red onion, finely diced"
+    - "1/2 English cucumber, finely diced"
+    - "1 jar roasted red or yellow peppers, roughly chopped"
+    - "½ pound feta cheese, crumbled"
+    - "1 clove of garlic, crushed and minced"
+    - "handful of fresh basil leaves, torn"
+    - "3 tablespoons fresh lemon juice"
+    - "1/4 cup extra virgin olive oil"
+    - "black pepper to taste"
+    - "salt to taste"
+  instructions:
+    - "Combine all of the ingredients except the salt, and toss well."
+    - "Taste and add salt as needed. Depending on how salty your feta is, you might not need any."
+    - "Serve right away, or refrigerate for up to a few hours."
 ---
 <a href="/images/cookbook/ten-minute-chickpea-salad-with-feta-and-basil.jpg"><img src="/images/cookbook/ten-minute-chickpea-salad-with-feta-and-basil.jpg" alt="Ten-Minute Chickpea Salad with Feta and Basil" /></a>
 

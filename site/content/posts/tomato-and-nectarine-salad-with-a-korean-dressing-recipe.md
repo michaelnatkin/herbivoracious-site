@@ -7,6 +7,18 @@ aliases: ["/tomato-and-nectarine-salad-with-a-korean-dressing-recipe/", "/2012/0
 cover:
   image: "/images/2012/08/Nectarine-and-Tomato-Salad-Foofy-626x415.jpg"
   hidden: true
+recipe:
+  name: "Tomato and Nectarine Salad with a Korean Dressing"
+  yield: "4 For the dressing"
+  diet: "Vegan, Vegetarian, Gluten-Free"
+  ingredients:
+    - "1/4 cup grapeseed oil or other neutral vegetable oil"
+    - "1 tablespoon toasted (Asian) sesame oil - not the pale colored raw stuff"
+    - "1/2 teaspoon salt"
+    - "1/4 to 1 teaspoon fine ground gochugaru (Korean chili powder)"
+    - "2 tablespoons sherry vinegar (in a pinch, rice vinegar)"
+  instructions:
+    - "In a small bowl, whisk together the grapeseed oil, sesame oil, salt and gochugaru (start with the smaller amount). Whisking continuously, drizzle in the sherry vinegar. Taste and adjust seasoning."
 ---
 
 <a href="/images/2012/08/Nectarine-and-Tomato-Salad-Foofy.jpg"><img class="size-large wp-image-2630 alignnone" title="Nectarine and Tomato Salad with Korean Dressing" src="/images/2012/08/Nectarine-and-Tomato-Salad-Foofy-626x415.jpg" alt="Nectarine and Tomato Salad with Korean Dressing" width="626" height="415" />

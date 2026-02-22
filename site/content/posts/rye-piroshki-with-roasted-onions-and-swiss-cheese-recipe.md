@@ -7,6 +7,17 @@ aliases: ["/rye-piroshki-with-roasted-onions-and-swiss-cheese-recipe/", "/2012/0
 cover:
   image: "/images/2012/07/Swiss-and-Onions-in-Rye-626x415.jpg"
   hidden: true
+recipe:
+  name: "Rye Piroshki with Roasted Onions and Swiss Cheese"
+  yield: "8 piroshki For the sponge (first part of the dough)"
+  diet: "Vegetarian"
+  ingredients:
+    - "500 grams all-purpose flour"
+    - "650 grams warm water"
+    - "1 envelope yeast"
+    - "25 grams sugar"
+  instructions:
+    - "Put all ingredients in stand mixer and mix with paddle on medium-low speed until uniform, about 2 minutes. Allow to rest, loosely covered, at room temperature for 2 hours. (You can of course also mix this by hand.)"
 ---
 
 <a href="/images/2012/07/Swiss-and-Onions-in-Rye.jpg"><img class="alignnone size-large wp-image-2488" title="Rye Piroshki with Roasted Onions and Swiss Cheese" src="/images/2012/07/Swiss-and-Onions-in-Rye-626x415.jpg" alt="Rye Piroshki with Roasted Onions and Swiss Cheese" width="626" height="415" /></a>

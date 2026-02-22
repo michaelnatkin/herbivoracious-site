@@ -7,6 +7,23 @@ aliases: ["/potatoes-with-crispy-curry-leaves-recipe/", "/2012/10/potatoes-with-
 cover:
   image: "/images/2012/10/Potatoes-with-Curry-Leaves.jpg"
   hidden: true
+recipe:
+  name: "Potatoes with Crispy Curry Leaves"
+  yield: "4 as part of a larger Indian meal Vegetarian and gluten-free"
+  diet: "Vegetarian, Gluten-Free"
+  ingredients:
+    - "1 1/2 pounds small, waxy potatoes"
+    - "Kosher salt"
+    - "3 tablespoons butter or ghee"
+    - "About 30 fresh or frozen curry leaves"
+    - "1/2 teaspoon cumin powder"
+    - "Freshly ground black pepper"
+    - "Flaky sea salt (Maldon (aka the world's greatest salt)!)"
+  instructions:
+    - "Put potatoes in a medium saucepan and cover with cold, salted water. Bring to a boil, reduce to a simmer, and cook until completely tender when pierced with a knife, but not falling apart. Drain and reserve."
+    - "Melt the butter in a large skillet over medium-high heat. Add the curry leaves, and stir-fry until they begin to crisp up, about 3 minutes. (Pull one out and let it cool for a few seconds to see if it is crispy.)"
+    - "Add the potatoes, cumin, a few grinds of black pepper, and 1/2 teaspoon of kosher salt (less if not Diamond Crystal), and toss well."
+    - "Taste and adjust seasoning, then finish with a few flakes of sea salt."
 ---
 
 <img title="Potatoes with Curry Leaves.jpg" src="/images/2012/10/Potatoes-with-Curry-Leaves.jpg" alt="Potatoes with Curry Leaves" width="600" height="398" border="0" />

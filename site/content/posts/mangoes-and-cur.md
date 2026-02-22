@@ -7,6 +7,23 @@ aliases: ["/mangoes-and-cur/", "/2008/09/mangoes-and-cur.html"]
 cover:
   image: "/images/2008-small/09/15/zucchinialford.jpg"
   hidden: true
+recipe:
+  name: "Bangla-Flavored Fried Zucchini"
+  yield: "4 Vegetarian, vegan, and gluten-free"
+  diet: "Vegan, Vegetarian, Gluten-Free"
+  ingredients:
+    - "5 small zucchini (or 2-3 longer ones, cut into about 5 inch lengths)"
+    - "1 tablespoon vegetable oil"
+    - "1/4 teaspoon turmeric"
+    - "1 teaspoon black mustard seeds"
+    - "1/4 teaspoon cayenne pepper"
+    - "1 teaspoon sugar"
+    - "1/2 teaspoon salt or to taste"
+  instructions:
+    - "Slice the zucchini lengthwise into about 1/2\" thick slabs (see photo)."
+    - "Heat the oil in a large wok or cast iron skillet over a medium-high flame. Add the spices and sugar and fry for about 10 seconds until the mustard seeds start to pop."
+    - "Quickly add the zucchini and toss to coat with the oil and spices. Lower heat a bit, and continue to turn occasionally until tender but not mushy, 3-5 minutes."
+    - "Remove from the skillet, season with salt to taste and serve."
 ---
 
 <a href="/images/2008/09/15/zucchinialford.jpg" rel="lightbox"><img title="Bangladeshi-Style Fried Zucchini" src="/images/2008-small/09/15/zucchinialford.jpg" alt="Fried zucchini, Bangladeshi style" width="455" height="302" border="0" /></a>

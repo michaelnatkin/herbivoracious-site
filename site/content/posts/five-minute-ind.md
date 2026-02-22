@@ -7,6 +7,25 @@ aliases: ["/five-minute-ind/", "/2008/10/five-minute-ind.html"]
 cover:
   image: "/images/2008-small/10/03/indian_cabbage.jpg"
   hidden: true
+recipe:
+  name: "Five-Minute Indian-style Cabbage"
+  yield: "4 as a side dish Vegetarian, vegan, and gluten-free"
+  diet: "Vegan, Vegetarian, Gluten-Free"
+  ingredients:
+    - "1/2 head green cabbage, cored and sliced into 1/4\" wide ribbons"
+    - "1 tablespoon vegetable oil or ghee (clarified butter), or mustard oil, or more to taste"
+    - "1 tablespoon black mustard seeds"
+    - "1/2 teaspoon cumin powder"
+    - "1/2 teaspoon turmeric powder"
+    - "1/4 teaspoon cayenne pepper"
+    - "1 teaspoon salt"
+    - "optional: garlic, ginger, unsweetened shredded coconut, fresh chilis or dried chili flakes, garam masala"
+    - "optional garnish: cilantro, lemon juice"
+  instructions:
+    - "Heat a large skillet or wok over a medium-high flame. Add the oil, wait 10 seconds, and immediately add the mustard seeds."
+    - "As soon as they start to pop, add the rest of the spices and any optional ingredients and stir-fry for 10 more seconds. Move quickly here so you infuse the flavor in the oil but don't burn them."
+    - "Add the cabbage and salt, and stir-fry until crisp-tender or tender, your preference. Taste and adjust seasoning."
+    - "Garnish with cilantro and/or lemon juice."
 ---
 
 <a href="/images/2008/10/03/indian_cabbage.jpg" rel="lightbox"><img title="Five-minute Indian-style cabbage" src="/images/2008-small/10/03/indian_cabbage.jpg" alt="Indian_cabbage" width="455" height="302" border="0" /></a>

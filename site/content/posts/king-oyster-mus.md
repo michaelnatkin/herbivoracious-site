@@ -7,6 +7,48 @@ aliases: ["/king-oyster-mus/", "/2008/07/king-oyster-mus.html"]
 cover:
   image: "/images/2008-small/07/11/kingoystermushroomswithgrilledpolen.jpg"
   hidden: true
+recipe:
+  name: "King Oyster Mushrooms With Pesto, Grilled Polenta, and White Beans"
+  yield: "4 Vegetarian & gluten-free (*); not vegan For Marcella Hazan's pesto (makes a little extra):"
+  diet: "Vegan, Vegetarian, Gluten-Free"
+  ingredients:
+    - "2 c. packed fresh basil leaves, rinsed and dried"
+    - "1/2 c. extra virgin olive oil"
+    - "3 tablespoons pine nuts (or I used pepitas because of allergy issues)"
+    - "2 cloves garlic, thinly sliced"
+    - "salt to taste"
+    - "1/2 c. fresh grated parmesan cheese (parmigiano-reggiano)"
+    - "2 tablespoons fresh grated romano cheese"
+    - "3 tablespoons unsalted butter, room temperature"
+    - "2 c. polenta"
+    - "2 t. salt"
+    - "1/2 c. grated parmesan cheese"
+    - "olive oil"
+    - "1 white onion, medium dice"
+    - "2 cloves garlic, sliced thin"
+    - "2 tablespoons olive oil"
+    - "1 small can cannellini beans, drained and rinsed"
+    - "salt"
+    - "4 large king oyster mushrooms (aka king trumpet or french horn), sliced 1/8\" thick lengthwise"
+    - "1/4 c. olive oil"
+    - "sea salt (Maldon (aka the world's greatest salt) if you have it)"
+  instructions:
+    - "In a food processor, spin the basil, olive oil, nuts, garlic and salt until it is a uniform green paste with a bit of texture left."
+    - "Remove the pesto from the food processor and mix in the cheese by hand."
+    - "Finally, mix in the softened butter."
+    - "If using a packaged polenta, prepare according to the directions. I really like de la Estancia, which cooks up in just a minute because it is so finely ground. If you are using a bulk polenta, cook in the normal way."
+    - "Butter or oil a 12\" x 12\" pan (or something a little larger than that), and pour in the polenta. Refrigerate until cool and firmly set. (You can do this the night before, or at least 2 hours before you plan to serve). You want them fairly thin so the inside will heat up properly; definitely no more than 1/2\" thick."
+    - "Slice into 3.5\" squares, brush with olive oil and cook on a grill pan or skillet until they develop a nice crispy crust. Oil well to be sure they don't stick. Remove and season with more salt. You will have more polenta left for another meal."
+    - "In a small skillet over medium heat, cook the onion and garlic in the olive oil until starting to brown."
+    - "Add the beans, reduce the heat to low, and simmer 5 minutes."
+    - "Season with salt to taste."
+    - "In a large skillet over medium high heat, heat the olive oil."
+    - "Add the mushroom slices in a single layer. Cook for a few minutes on each side until they develop rich browning on the edges and a slight tenderness. (They will remain moderately chewy / meaty)."
+    - "Drain off any excess oil and season with a good sea salt."
+    - "Divide the beans evenly on 4 heated plates."
+    - "Top the beans with two squares of polenta."
+    - "Add 1/4 of the mushrooms."
+    - "And finally add a generous dollop of pesto. Pass more at the table."
 ---
 
 <a href="/images/2008/07/11/kingoystermushroomswithgrilledpolen.jpg" rel="lightbox"><img title="Kingoystermushroomswithgrilledpolen" src="/images/2008-small/07/11/kingoystermushroomswithgrilledpolen.jpg" alt="Kingoystermushroomswithgrilledpolen" width="455" height="302" border="0" /></a>

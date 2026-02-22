@@ -7,6 +7,31 @@ aliases: ["/recipe-delicata/", "/2007/11/recipe-delicata.html"]
 cover:
   image: "/images/2007-small/11/23/delicatasquashstuffedwithorzo.jpg"
   hidden: true
+recipe:
+  name: "Delicata Squash Stuffed with Orzo in a Sage Brown Butter Sauce"
+  yield: "4 as an entree Preparation time: 45 minutes Vegetarian, vegan if you use olive oil instead of the brown butter, gluten-free if you omit the breadcrumbs and substitute a gluten-free pasta or other gluten-free grain for the orzo"
+  time: "45 minutes"
+  diet: "Vegan, Vegetarian, Gluten-Free"
+  ingredients:
+    - "2 delicata squash"
+    - "8 tablespoons (one stick) unsalted butter"
+    - "3 leaves fresh sage"
+    - "6 ounces orzo pasta"
+    - "1 tablespoon lemon juice"
+    - "1/2 cup pepitas (green, hulled pumpkin seeds - or substitute chopped almonds)"
+    - "1/2 cup dried cranberries, halved"
+    - "Salt"
+    - "Freshly ground black pepper"
+    - "1/2 cup breadcrumbs (preferably homemade; not panko)"
+    - "Handful of fresh pomegranate seeds"
+    - "Italian parsley"
+  instructions:
+    - "Carefully halve the squash, remove the seeds (a tablespoon or ice cream scoop works well), rub with oil and roast in the oven at 375 degrees until thoroughly tender. When they come out, rub the inside with a little butter."
+    - "In a small saucepan over medium heat, melt the butter and allow it to keep cooking until it develops a nutty / caramel aroma and light brown color, about 5 minutes. Remove from heat. Taste (carefully), it should have a caramel flavor as well. If not, you haven't cooked it long enough. While the butter is still hot, tear the sage leaves and add them in, allowing them to steep for awhile."
+    - "Boil the orzo according to package directions, being sure to leave it al dente, then drain. Strain the brown butter, add the lemon juice, and toss with the orzo. You may not need all of the butter. If you have some left, try it on popcorn or brussel sprouts."
+    - "Toast the pepitas in a skillet, toaster oven, or oven until slightly browned and smelling good. Add the cranberries and pepitas to the orzo Season with salt and pepper to taste."
+    - "Mound the orzo into the squash. At this point you can refrigerate them for later use, or serve immediately."
+    - "To serve, sprinkle on a good layer of breadcrumbs and heat in oven. If reheating from cold, start covered with tinfoil and remove for the last few minutes. Garnish with the parsley and pomegranate seeds, a good finishing salt (such as Maldon (aka the world's greatest salt)), and a grind of black pepper."
 ---
 
 <a href="/images/2007/11/23/delicatasquashstuffedwithorzo.jpg" rel="lightbox"><img title="Delicata Squash Stuffed with Orzo in a Sage Brown Butter Sauce" src="/images/2007-small/11/23/delicatasquashstuffedwithorzo.jpg" alt="Delicata Squash Stuffed with Orzo in a Sage Brown Butter Sauce" width="455" height="302" border="0" /></a>

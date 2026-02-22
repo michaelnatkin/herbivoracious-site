@@ -7,6 +7,19 @@ aliases: ["/gomashio-japanese-sesame-seed-salt-condiment-recipe/", "/2010/03/gom
 cover:
   image: "/images/old/6a00e008d618bb88340120a96de76e970b-500wi.jpg"
   hidden: true
+recipe:
+  name: "Gomashio - Sesame Seed and Salt Condiment"
+  yield: "about 1"
+  diet: "Vegan"
+  ingredients:
+    - "1 tablespoon sea salt"
+    - "1/2 cup + 2 tablespoons unhulled raw sesame seeds"
+  instructions:
+    - "Heat a medium-sized skillet on a medium-low flame."
+    - "Add the salt and toast for 3 minutes - who knows if this does anything, but it is traditional. You might see it turn gray."
+    - "Remove the salt and add the sesame seeds. Toast, turning frequently until fragrant and a few shades darker. You will hear some popping. Be sure and keep the heat low enough to avoid any burning. If you burn them, throw them out, wipe the pan clean and start over."
+    - "Grind the salt and sesame seeds together in a suribachi (Japanese mortar and pestle) or a spice grinder. I like it fairly fluffy but with some seeds that are not completely powdered."
+    - "Store in an airtight container at room temperature and offer as a table condiment."
 ---
 
 <p>&#0160;<a href="/images/old/6a00e008d618bb88340120a96de76e970b-800wi.jpg" rel="lightbox" style="display: inline;"><img alt="Gomashio" class="asset asset-image at-xid-6a00e008d618bb88340120a96de76e970b " src="/images/old/6a00e008d618bb88340120a96de76e970b-500wi.jpg" /></a> <br /><em>Brown rice with broccoli and gomashio, hoisin glazed tofu; in the back, a suribachi</em></p>  <p> I first learned about gomashio when my Mom was on a <a href="http://en.wikipedia.org/wiki/Macrobiotic" target="_blank">macrobiotic</a> diet. The diet never stuck with me, but gomashio is simple and delicious whether or not it has any <strong>special healing powers</strong>. </p>  <p>What is gomashio (also spelled gomasio)? Simply toasted <strong>unhulled</strong> sesame seeds ground with sea salt in about a 10:1 ratio. It is typically used as a table condiment though there is no reason the cook can&#39;t apply it as a garnish as well. </p>  <p>I love gomashio on those <strong>simple, fortifying meals</strong> of say brown rice and carefully steamed vegetables, maybe a little tofu, and a cup of miso soup. It is also good on edamame, and it is used on a classic dish of sticky rice with adzuki beans. I could even see it working in a dessert, like when we use salt with caramel.</p>  <p>How you make gomashio depends on whether you believe that the traditional method produces superior results or somehow invests it with the aforementioned healing powers, <strong>or you just enjoy doing things the slow way (which I completely support)</strong>. So I&#39;ll give you both options: The traditional method requires a <a href="https://www.amazon.com/dp/B000UEYXL8?tag=herb-hugo-20">suribachi (Japanese ridged ceramic mortar and pestle)</a>, pictured above. Or you can simply bust out a <a href="https://www.amazon.com/dp/B07SYTRPSG?tag=herb-hugo-20">spice grinder</a> and be done in seconds.</p>  <p><strong>You must be absolutely sure that your sesame seeds aren&#39;t rancid. </strong>They contain a lot of oil, so it isn&#39;t hard for them to go off. If you can&#39;t tell from a whiff of the whole seeds, it should be quite apparent when you grind them. If they are even a tiny bit rancid, throw them out and go get a new bag from a co-op or other place where they will have high turnover of bulk products. </p>  <p>Once made, gomashio will last a couple of weeks at room temperature.</p>  <div class="recipe-card">

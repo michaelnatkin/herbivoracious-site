@@ -7,6 +7,22 @@ aliases: ["/sunflower-butter-cookies-recipe/", "/2012/12/sunflower-butter-cookie
 cover:
   image: "/images/2012/12/Sunbutter-Cookies-2-626x415.jpg"
   hidden: true
+recipe:
+  name: "Sunflower Butter Cookies (Like Peanut Butter Cookies for the peanut-allergic)"
+  yield: "15 big cookies"
+  diet: "Vegetarian"
+  ingredients:
+    - "8 tablespoons (1 stick) butter, room temperature"
+    - "1 scant cup sugar"
+    - "1 egg"
+    - "1 cup unsweetened sunflower butter"
+    - "1 cup (130 grams) flour"
+    - "1 teaspoon Maldon salt (use only 1/2 teaspoon if substituting a different salt)"
+    - "1 teaspoon baking powder"
+  instructions:
+    - "In a stand mixer with the paddle attachment, cream the butter and sugar at medium speed until fluffy, about 5 minutes. Lower the speed and add the egg, then gradually add the sunflower butter."
+    - "Whisk together the flour, salt (rubbing a little to break up large crystals), and baking powder. Add slowly to the running mixer. Mix until well combined, about 1 more minute."
+    - "Chill the dough for at least 30 minutes. Preheat oven to 375. Line baking sheets with parchment or silpats. Dish dough out into approximately 2-tablespoon balls. Flatten, then use the tines of a fork to make the traditional criss-cross pattern. Bake about 12 minutes until lightly browned. Cool on a rack for at least 10 minutes, then enjoy."
 ---
 
 <a href="/images/2012/12/Sunbutter-Cookies-2.jpg"><img class="alignnone size-large wp-image-3493" title="Sunflower Butter Cookies" src="/images/2012/12/Sunbutter-Cookies-2-626x415.jpg" alt="Sunflower Butter Cookies" width="626" height="415" />

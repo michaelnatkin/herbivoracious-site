@@ -8,6 +8,34 @@ aliases: ["/tempeh-filled-potstickers-gyoza-recipe/", "/2011/04/tempeh-filled-po
 cover:
   image: "/images/cookbook/tempeh-filled-potstickers-gyoza.jpg"
   hidden: true
+recipe:
+  name: "Tempeh-Filled Potstickers (Gyoza)"
+  yield: "about 48"
+  time: "2 hours (or faster and more fun if you get some help forming the dumplings)"
+  diet: "Vegan"
+  ingredients:
+    - "For the sauce:"
+    - "1/4 cup good quality soy sauce, shoyu, or tamari"
+    - "2 tablespoons rice vinegar"
+    - "1 teaspoon hot-chile sesame oil (or 1 teaspoon plain toasted sesame oil and 1/2 teaspoon chile paste)"
+    - "1 green onion, whites parts only, cut into tiny thin rings"
+    - "For the potstickers (gyoza):"
+    - "3 tablespoons vegetable oil, divided"
+    - "1 pound tempeh, cut into thin slabs"
+    - "1 cup very thinly sliced Napa or green cabbage"
+    - "6 green onions, white and light green parts only, minced"
+    - "4 teaspoons Chinese rice wine (sherry is a good substitute)"
+    - "2 tablespoons soy sauce"
+    - "1 tablespoon cornstarch"
+    - "48 potsticker wrappers (that is about one normal package; if possible choose a \"thick\" variety)"
+  instructions:
+    - "Combine all of the sauce ingredients and taste for salt/vinegar/heat balance and set aside. I like mine pretty vinegary."
+    - "Heat a large skillet, preferably cast iron, with a tight-fitting lid, over a medium-high flame. Add 2 tablespoons of oil. Fry the tempeh in a single layer, working in batches if needed, until golden brown on both sides. Set aside to cool."
+    - "Fry the cabbage for a few minutes until browned and most water removed. Turn off the heat."
+    - "Thoroughly crumble the tempeh into a bowl. Mix it with the cabbage, green onions, rice wine or sherry, and soy sauce. Taste and adjust salt as needed. You can also add more rice wine or soy, but don't make it too wet. When you are satisfied with the taste, sprinkle in the cornstarch and toss thoroughly to combine. (This will absorb any water released when the dumplings are cooking)."
+    - "To form the potsticker dumplings, take one wrapper and moisten the entire edge with a fingertip or pastry brush dipped in water. Place a heaping teaspoon of filling in the center. Pick it up, fold in half, and seal the edge. Decoratively crimp the edge if you like. Set on a plate or sheet pan, seal side up and flat side down."
+    - "To cook the potstickers, heat that big skillet back up again to medium-high and add the remaining tablespoon of oil. Put the potstickers in in a single layer, flat side down, not touching but they can be close. (You will probably need to do two or more batches). Fry 1 to 2 minutes until they are dark golden brown on the bottom. Add 1/3 cup of water and cover the pan. Cook about 3 minutes. Remove the lid and keep cooking until the water is totally gone - otherwise they won't be crispy."
+    - "Serve hot, with the dipping sauce."
 ---
 <a href="/images/cookbook/tempeh-filled-potstickers-gyoza.jpg"><img src="/images/cookbook/tempeh-filled-potstickers-gyoza.jpg" alt="Tempeh-Filled Potstickers (Gyoza)" /></a>
 

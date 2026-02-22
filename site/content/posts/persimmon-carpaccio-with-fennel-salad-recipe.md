@@ -7,6 +7,24 @@ aliases: ["/persimmon-carpaccio-with-fennel-salad-recipe/", "/2011/12/persimmon-
 cover:
   image: "/images/2011/12/Persimmon-Carpaccio-626x415.jpg"
   hidden: true
+recipe:
+  name: "Persimmon Carpaccio with Fennel Salad"
+  yield: "4 10 minutes"
+  time: "10 minutes"
+  diet: "Vegan, Vegetarian, Gluten-Free"
+  ingredients:
+    - "2-3 fuyu persimmons"
+    - "1 bulb fennel (reserve fronds)"
+    - "4 radishes"
+    - "1/4 of a small red onion, peeled"
+    - "2 tablespoons extra-virgin olive oil"
+    - "1 tablespoon champagne vinegar"
+    - "1/2 teaspoon flaky sea salt (preferably Maldon (aka the world's greatest salt))"
+    - "2 tablespoons toasted pumpkin seeds (pepitas)"
+  instructions:
+    - "Chill 4 salad plates. Slice the persimmons about 1 mm thick on a mandoline, discarding the end slices. Use a circle cutter to cut out each slice. For the persimmons I used, a 2 1/2\" cutter was perfect. Alternatively, you can skip using the circle cutter but you'll need to peel the persimmons."
+    - "Thinly slice the fennel, radish and red onion on the mandoline and put them in a small bowl. Dress with the olive oil, champagne vinegar and sea salt. Taste and adjust seasoning."
+    - "Arrange 7 persimmon slices in a circle on each plate. Top with 1/4 of the salad, keeping it centered and as tall as possible on top of the persimmons. Garnish with a few of the reserved fennel fronds and the pepitas and serve."
 ---
 
 <a href="/images/2011/12/Persimmon-Carpaccio.jpg"><img class="alignnone size-large wp-image-859" title="Persimmon Carpaccio with Fennel Salad and Pepitas" src="/images/2011/12/Persimmon-Carpaccio-626x415.jpg" alt="" width="626" height="415" /></a>

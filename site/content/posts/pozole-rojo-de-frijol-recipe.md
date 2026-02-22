@@ -8,6 +8,28 @@ aliases: ["/pozole-rojo-de-frijol-recipe/", "/2011/01/pozole-rojo-de-frijol-reci
 cover:
   image: "/images/cookbook/pozole-rojo-de-frijol.jpg"
   hidden: true
+recipe:
+  name: "Pozole Rojo de Frijol"
+  ingredients:
+    - "1 or 2 (or more, if you like a lot of heat) dried chiles de Arbol, ancho, or guajillo chiles"
+    - "2 tablespoons oil"
+    - "1 medium onion, diced"
+    - "4 cloves garlic, minced"
+    - "6 cups mild, clear vegetable broth or water"
+    - "one half 15 ounce can diced tomatoes - those \"fire roasted\" ones would be good if you have them"
+    - "1 tablespoon dried oregano (preferably Mexican oregano)"
+    - "1 15-ounce can pinto beans, drained and rinsed"
+    - "2 15-ounce cans hominy, drained and rinsed"
+    - "salt"
+    - "juice of 2 limes"
+    - "some or all of for garnish: avocado slices, cilantro, lime wedges, tortilla chips, shredded cabbage or lettuce, onions and radishes"
+  instructions:
+    - "Soak the chiles in just enough boiling water to cover, for 20 minutes or so, then puree in a mini food processor."
+    - "Meanwhile, in a large soup pot, saute the onion and garlic in the oil for 2 minutes over medium heat."
+    - "Add the tomatoes, 2 teaspoons of salt if using plain water, the oregano, and 6 cups of vegetable broth or water and bring to a simmer."
+    - "Add the pinto beans and hominy and bring back to a simmer. Allow to simmer for ten minutes."
+    - "Add half of the pureed chiles and all of the lime juice and stir. Taste and adjust seasoning, adding salt and more lime juice or tomatoes as needed to produce a piquant broth. Add more of the chile paste to reach your preferred heat level and pass the rest as a condiment."
+    - "Serve it forth, with a good selection of garnishes."
 ---
 <a href="/images/cookbook/pozole-rojo-de-frijol.jpg"><img src="/images/cookbook/pozole-rojo-de-frijol.jpg" alt="Pozole Rojo de Frijol" /></a>
 

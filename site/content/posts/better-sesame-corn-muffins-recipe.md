@@ -8,6 +8,29 @@ aliases: ["/better-sesame-corn-muffins-recipe/", "/2010/11/better-sesame-corn-mu
 cover:
   image: "/images/old/6a00e008d618bb8834013488413e4c970c-500wi.jpg"
   hidden: true
+recipe:
+  name: "Sesame Corn Muffins (Improved Version)"
+  yield: "12"
+  ingredients:
+    - "1/2 cup + 2 tablespoons hulled sesame seeds, divided"
+    - "1 1/4 cups medium-grind cornmeal"
+    - "1 1/4 cups all-purpose flour"
+    - "1/4 cup sugar"
+    - "1 teaspoon baking powder"
+    - "1/4 teaspoon baking soda"
+    - "1/2 teaspoon kosher salt"
+    - "2 eggs"
+    - "3 tablespoons vegetable oil"
+    - "1 teaspoon toasted sesame oil (Asian sesame oil)"
+    - "2/3 cup whole milk"
+    - "1 cup buttermilk"
+  instructions:
+    - "Preheat the oven to 375 F, using convection if available. Line a 12-muffin pan with paper cups or grease with butter."
+    - "In a small skillet, toast 1/2 cup of the sesame seeds over a medium-low flame until browned and fragrant."
+    - "In a large bowl, thoroughly whisk together the toasted sesame seeds, the cornmeal, all-purpose flour, sugar, baking powder, baking soda and salt."
+    - "In a small bowl, whisk together the eggs, vegetable oil, sesame oil, milk, and buttermilk."
+    - "Add the wet ingredients to the dry, and gently fold together. Do not overmix, as this will make tough muffins. Just try to get the flour moistened. It is ok if there are some small lumps."
+    - "Divide the batter in to the muffin tins. Sprinkle with the remaining sesame seeds. Bake for 20 to 25 minutes until lightly golden brown and a toothpick inserted in the center comes out clean. Do not overbake. Allow to cool for 5 minutes in the pan, then remove to a rack, cool 5 more minutes, and serve."
 ---
 
 <p><a href="/images/old/6a00e008d618bb8834013488413e4c970c-800wi.jpg" rel="lightbox" style="display: inline;"><img alt="Sesame Corn Muffins" class="asset  asset-image at-xid-6a00e008d618bb8834013488413e4c970c" src="/images/old/6a00e008d618bb8834013488413e4c970c-500wi.jpg" title="Sesame Corn Muffins" /></a><br /><em>Sesame Corn Muffins</em></p> <p>I posted the <a href="/2008/05/recipe-sesame-c/" target="_blank">original version</a> of these Sesame Corn Muffins a couple of years ago. When I came back to them today, I could see several opportunities to improve the recipe. Pre-toasting the sesame seeds, using buttermilk, not buttermilk powder, altering the ratio of cornmeal to all-purpose flour, and upping the salt all contribute to a better structure and more flavor.</p> <p>These muffins aren&#39;t particularly sweet. You can take them in two directions. Offer them up with plenty of room temperature butter and honey for a breakfast treat, or if you want to go savory, serve them instead of <a href="/2009/04/best-cornbread-ever/" target="_blank">cornbread</a> with a big bowl of <a href="/2009/04/vegetarian-chili-recipe/" target="_blank">vegetarian chili</a>.</p> <p>Other things that would be good to add: blueberries, grated ginger, lemon or orange zest.</p> <div class="recipe-card">

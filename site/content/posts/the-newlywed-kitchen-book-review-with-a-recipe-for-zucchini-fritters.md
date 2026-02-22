@@ -8,6 +8,27 @@ aliases: ["/the-newlywed-kitchen-book-review-with-a-recipe-for-zucchini-fritters
 cover:
   image: "/images/old/6a00e008d618bb883401348181365a970c-500wi.jpg"
   hidden: true
+recipe:
+  name: "Zucchini Fritters with Tangy Yogurt Sauce"
+  yield: "10 Fritters For the sauce:"
+  ingredients:
+    - "3/4 cup plain Greek yogurt"
+    - "1 teaspoon freshly squeezed lemon juice"
+    - "1 tablespoon chopped fresh parsley"
+    - "Kosher salt and fresh ground pepper"
+    - "3 cups grated zucchini"
+    - "1/2 teaspoon kosher salt"
+    - "2 cloves garlic, minced"
+    - "1 large egg"
+    - "1/4 teaspoon fresh ground black pepper"
+    - "1/4 cup grated Parmesan"
+    - "1/2 cup flour"
+    - "3 tablespoons extra-vigin olive oil"
+  instructions:
+    - "Whisk together the yogurt, lemon juice and parsley. Season with salt and pepper to taste."
+    - "Combine the zucchini and salt in a sieve over a large bowl and squeeze the water out with your hands. (You should be able to remove about 1/2 cup of water.)"
+    - "Transfer the zucchini to a large bowl and add the garlic, egg, peppers, Parmesan, and flour. Stir to combine."
+    - "Heat the olive oil in a large skillet over medium-high heat. Spoon heaping tablespoons of the zucchini batter into the pan, making sure the fritters don't touch one another. Brown the fritters for about 3 minutes, lifting the edge to check on the color. When the fritters are golden brown, flip and cook for another 2 to 3 minutes."
 ---
 
 <p> <a href="/images/old/6a00e008d618bb883401348181365a970c-800wi.jpg" rel="lightbox" style="display: inline;"><img alt="Zucchini_Fritters" class="asset asset-image at-xid-6a00e008d618bb883401348181365a970c " src="/images/old/6a00e008d618bb883401348181365a970c-500wi.jpg" /></a> <br /><em>Zucchini fritters from The Newlywed Kitchen</em></p> <p> I love a cookbook that has a unique point of view, and Lorna Yee and Ali Basye&#39;s<a href="https://www.amazon.com/dp/1570616329?tag=herb-hugo-20"> Newlywed Kitchen: Delicious Meals for Couples Cooking Together</a> has that in spades. They have created a beautiful, charming book for couples just starting out in marriage to explore cooking together.&#0160; You&#39;d be crazy not to give it as a shower gift to every couple you know who is getting married this summer.</p>  <p>Along with the recipes are endearing stories from a wide range of culinary professionals about their experiences cooking with their beloved in the first years of marriage. I love Chef Ethan Stowell&#39;s story of how he came to throw the soup his wife Angela requested for their wedding over a cliff!</p>  <p>When I first flipped through the book, I was immediately attracted to this recipe for zucchini fritters. I&#39;m pretty much a sucker for any sort of little crispy pan-fried fritter, and I could tell this one was gonna be good. Lorna was happy to share it with our readers, so it is reprinted below. Serve them fresh out of the frying pan for maximum crispy goodness.</p>  <div class="recipe-card">

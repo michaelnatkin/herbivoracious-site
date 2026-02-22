@@ -5,6 +5,24 @@ slug: "vegetarian-nuc-chm-recipe"
 description: "Nước chấm is the quintessential Vietnamese dipping sauce made of fish sauce seasoned with sugar, lime juice, garlic and chiles. I use a little bit of kombu and soy sauce to infuse that oceanic, umami..."
 categories: ["Recipes", "Sauces and Condiments", "Vegan or Modifiable", "Gluten-Free"]
 aliases: ["/vegetarian-nuc-chm-recipe/", "/2012/06/vegetarian-nuc-chm-recipe.html"]
+recipe:
+  name: "Vegetarian Nước Chấm"
+  yield: "1 cup"
+  time: "10 minutes"
+  diet: "Vegan, Vegetarian, Gluten-Free"
+  ingredients:
+    - "¾ cup water"
+    - "2 tablespoons sugar"
+    - "1 small piece dried kombu seaweed"
+    - "1-2 thinly sliced Thai bird or serrano chiles, or 2 teaspoons chile paste"
+    - "1 tablespoon soy sauce (omit or check ingredients carefully if you need gluten-free)"
+    - "6 tablespoons lime juice"
+    - "2 cloves garlic, minced"
+    - "about 1 teaspoon salt"
+    - "¼ cup julienned carrots (optional)"
+  instructions:
+    - "Bring the water, sugar and kombu to a simmer. Turn off the heat and allow to stand for ten minutes. Remove the kombu."
+    - "Mix in the remaining ingredients. Taste and adjust seasoning to achieve a balance of savory, salty, sweet, spicy and sour. Serve immediately or keep in the refrigerator for a few days."
 ---
 
 <p>Nước chấm is the quintessential Vietnamese dipping sauce made of fish sauce seasoned with sugar, lime juice, garlic and chiles. I use a little bit of kombu and soy sauce to infuse that oceanic, umami flavor that would otherwise be missing.</p>

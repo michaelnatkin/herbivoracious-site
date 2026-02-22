@@ -7,6 +7,23 @@ aliases: ["/ridiculously-good-guacamole-recipe/", "/2009/11/ridiculously-good-gu
 cover:
   image: "/images/old/6a00e008d618bb88340120a651ba17970b-500wi.jpg"
   hidden: true
+recipe:
+  name: "Ridiculously Good Guacamole in Five Minutes"
+  yield: "4-6 greedy guac hounds Prep time: 15 minutes Cook time: None!"
+  time: "15 minutes Cook"
+  diet: "Vegan, Vegetarian, Gluten-Free"
+  ingredients:
+    - "4 ripe Hass avocados"
+    - "1 clove garlic, minced or pressed"
+    - "1 small handful cilantro leaves, lightly chopped"
+    - "1/4 cup finely diced white onion"
+    - "juice of 1 lime"
+    - "salt"
+  instructions:
+    - "Extract the avocado flesh into a medium bowl as described above."
+    - "Add all of the other ingredients, including 1 teaspoon of salt."
+    - "Mash and mix lightly. I prefer a potato masher but the back of a big fork works well too."
+    - "Taste and add salt and more lime juice if needed."
 ---
 
 <a style="display: inline;" href="/images/old/6a00e008d618bb88340120a651ba17970b-800wi.jpg" rel="lightbox"><img class="photo asset asset-image at-xid-6a00e008d618bb88340120a651ba17970b " src="/images/old/6a00e008d618bb88340120a651ba17970b-500wi.jpg" alt="Guacamole" /></a>

@@ -7,6 +7,32 @@ aliases: ["/grape-honey-yogurt-recipe/", "/2009/03/grape-honey-yogurt-recipe.htm
 cover:
   image: "/images/old/6a00e008d618bb883401156f754390970b-500wi.jpg"
   hidden: true
+recipe:
+  name: "Grape, Honey, Yogurt"
+  yield: "4"
+  diet: "Vegan"
+  ingredients:
+    - "12 green seedless grapes, peeled, finely diced, and chilled"
+    - "6 tablespoons honey"
+    - "1 tablespoon dry harissa spice mix (or a combination of crushed red pepper flakes and toasted cumin, coriander and caraway seeds, crushed moderately in a mortar and pestle)"
+    - "4 pieces of brik dough, 4\" by 12\" long"
+    - "3 tablespoons unsalted butter, melted"
+    - "1 tablespoon dukkah"
+    - "1 tablespoon sesame seeds"
+    - "1/2 cup thick Greek yogurt"
+    - "6 drops of rosewater"
+    - "5 grams sodium alginate"
+    - "a few strips of lemon zest"
+    - "flaky sea salt (Maldon (aka the world's greatest salt)!)"
+  instructions:
+    - "Preheat oven to 375."
+    - "Mix the honey with the harissa and set aside to infuse."
+    - "Brush each piece of brik with melted butter, dust with the dukkah and roll into a cigar shape. Brush the ouside with more melted butter and sprinkle on the sesame seeds. Bake until golden brown, about 8 minutes."
+    - "Combine the yogurt and rosewater. Taste and add more drops as needed."
+    - "Shear the sodium alginate into 1 liter of water using an immersion blender."
+    - "Form the yogurt into shapes about the size of a grape and drop into the alginate solution. I found the easiest way to do this was to make quenelles with a teaspoon and make the last turn right over the bath, allowing them to slide in gently. You only need 12 to serve, but make some extra in case of breakage."
+    - "Leave the yogurt to sit for at least five minutes, moving them about gently once after three minutes to make sure all sides are exposed to the bath. Gently remove them with a slotted spoon to a bath of fresh water. You might want to try one before removing all of them to be sure it has set sufficiently."
+    - "To serve, brush each generously with the honey. Place a pile of the grapes at one end and top with a few grains of the sea salt. Place a brik cigar in the middle. Remove the yogurt \"spheres\" from the water, again carefully with a slotted spoon, allow the water to drain and place at the far end of the honey. Top with a couple of strips of lemon zest and serve."
 ---
 
 <p><a href="/images/old/6a00e008d618bb883401156f754390970b-800wi.jpg" rel="lightbox" style="display: inline;"><img alt="Diced_Grapes" class="at-xid-6a00e008d618bb883401156f754390970b " src="/images/old/6a00e008d618bb883401156f754390970b-500wi.jpg" /></a></p><p>Driving home from work the other day, I was musing about whether I could make a plate with cheese and grapes swapping forms. I figured I could make an agar gel of the grapes and spherify a triple-cream cheese. I still like the idea, but I couldn&#39;t quite envision what other components it needed.</p><p>That got me thinking that maybe an even simpler transformation of the grapes would be interesting. What if I simply peeled them and diced them fine? I tried a couple and found it really compelling. The juxtaposition is interesting because it is such an everyday flavor but an unexpected texture, yet natural, not so forced as a lot of &quot;molecular&quot; tricks can seem. I think I would serve it in a cold metal spoon as an amuse bouche on a hot day.&#0160;</p><p>For this plate, I spun the grapes in a Middle Eastern direction. The other components are honey with harissa spices, a brik dough roll with dukkah and sesame seeds, and reverse-spherified Greek yogurt cheese (lebni / labneh) with rosewater and lemon zest. The combination has sweetness from the grapes and honey balanced by the savory pastry and yogurt, and a pretty intense spice level. It certainly wouldn&#39;t be a normal dessert but could act as a cheese course. What it dish could use is a bit more of a focal point. As it stands, the ingredients all kind of have equal billing. They play well together but I need to decide who is the star, and who is the supporting cast.</p><p>This dish is actually very simple to make and comes together in less than 30 minutes. The hardest part is tracking down the ingredients. The odd ones you will need are a <a href="https://www.amazon.com/dp/B005WDVR0W?tag=herb-hugo-20">dry harissa mix</a> (but you could also make your own), brik dough (you could use phyllo), <a href="https://www.amazon.com/dp/B0B88NVJC1?tag=herb-hugo-20">dukkah</a> (again, fakeable), Greek yogurt cheese (you could drain regular yogurt in cheescloth), and <a href="http://willpowder.com/sodiumAlginate.html" target="_blank">sodium alginate</a>. No faking that last one.</p><p>I&#39;ve <a href="/2008/03/blini-with-aspa/" target="_blank">played with spherification</a> before, but this is my first time doing reverse spherification. In the &quot;normal&quot; process, you blend sodium alginate into your ingredient, then drip it into a calcium laced bath, which causes a skin to form. Though cool, the downside to this technique is that the alginate can add an unpleasant texture to your pristine product. </p><p>In reverse spherification, the calcium is in your product (and can be naturally occuring as in this case with the yogurt cheese), while the alginate is in the bath. You get the same type of skin but the flavor and texture is much better. (Many chefs have also use a agar and cold oil technique, which forms solid instead of liquid pearls. I haven&#39;t tried that yet).</p><div class="recipe-card">

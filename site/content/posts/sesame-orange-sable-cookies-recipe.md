@@ -8,6 +8,24 @@ aliases: ["/sesame-orange-sable-cookies-recipe/", "/2012/11/sesame-orange-sable-
 cover:
   image: "/images/cookbook/sesame-orange-sable-cookies.jpg"
   hidden: true
+recipe:
+  name: "Sesame-Orange Sable Cookies"
+  yield: "about 48 small cookies"
+  time: "15 minutes active"
+  ingredients:
+    - "12 tablespoons (1 ½ sticks) room temperature butter"
+    - "1 cup granulated sugar"
+    - "1/2 teaspoon flaky sea salt (use half as much for Kosher salt or any fine grained salt)"
+    - "¾ cup toasted sesame seeds (white, black or a mixture)"
+    - "¾ cup whole wheat pastry flour"
+    - "¾ cup all-purpose flour"
+    - "½ teaspoon baking soda"
+    - "zest of 1 orange or 2 mandarin oranges"
+  instructions:
+    - "With a stand mixer or hand mixer, cream together the butter, sugar and salt at medium speed until light and fluffy, about 3 minutes. Add the sesame seeds and mix for 30 more seconds."
+    - "Whisk together the whole wheat pastry flour, all-purpose flour, baking soda and orange zest. Add the flour mixture to the butter mixture and continue beating until it forms a dough, about 1 minute."
+    - "Turn the dough out onto a light floured board and knead for a moment to form a cohesive ball. Divide into two pieces. Roll each piece into a cylinder about 8“ long. Be sure the dough is sticking together well; if not, roll it a bit more firmly. Wrap the cylinders tightly in plastic wrap, firmly roll on the counter a couple of times, and refrigerate for at least 3 hours or overnight."
+    - "Preheat the oven to 375 and line two baking sheets with parchment or silicone mats. Unwrap the dough. Using a sharp knife, slice each cylinder into generous ¼” cookies. Place the cookies on the baking sheets, leaving 1” between each cookie. Bake for 14-16 minutes until golden brown. Remove to a rack, cool, and serve."
 ---
 <a href="/images/cookbook/sesame-orange-sable-cookies.jpg"><img src="/images/cookbook/sesame-orange-sable-cookies.jpg" alt="Sesame-Orange Sable Cookies" /></a>
 

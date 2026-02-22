@@ -7,6 +7,30 @@ aliases: ["/farro-and-chickpea-soup-recipe/", "/2011/12/farro-and-chickpea-soup-
 cover:
   image: "/images/old/6a00e008d618bb88340162fc805e37970d-500wi.jpg"
   hidden: true
+recipe:
+  name: "Farro and Chickpea Soup"
+  yield: "4 1 hour total (15 minutes active)"
+  time: "1 hour total (15 minutes active)"
+  diet: "Vegan, Vegetarian"
+  ingredients:
+    - "2 tablespoons extra-virgin olive oil, plus more for serving"
+    - "1/2 white onion, diced"
+    - "1 rib celery, diced"
+    - "3 cloves garlic, thinly sliced"
+    - "Pinch crushed red pepper"
+    - "1 1/2 teaspoons kosher salt"
+    - "1 bunch mustard green, stems removed and cut into 1\" ribbons"
+    - "1 cup uncooked farro"
+    - "1 cup fully cooked chickpeas"
+    - "Juice of 1 lemon"
+    - "Fresh ground black pepper"
+    - "Parsley"
+    - "Flaky sea salt"
+  instructions:
+    - "In a large pot with a lid, or a pressure cooker, heat the olive oil over medium high heat. When it shimmers, add the onion, celery, garlic, crushed red pepper, and salt. Cook, stirring occasionally, until the onion has softened, about 3 minutes."
+    - "Add the mustard greens and cook for a couple of minutes until they have begun to soften. Add the farro and 4 cups water. Cover and simmer until the farro is tender but still a bit chewy, about 50 minutes (or if using a pressure cooker, 32 minutes at high pressure followed by a quick pressure release.)"
+    - "Remove the lid and add the chickpeas and lemon juice. Stir and simmer for a few minutes to allow the flavors to meld, then taste and adjust seasoning."
+    - "To serve, divide among bowls, garnish with more good olive oil, fresh ground black pepper, parsley and sea salt."
 ---
 
 <a style="display: inline;" href="/images/old/6a00e008d618bb88340162fc805e37970d-800wi.jpg" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb88340162fc805e37970d" title="Farro Chickpea Soup" src="/images/old/6a00e008d618bb88340162fc805e37970d-500wi.jpg" alt="Farro Chickpea Soup" />

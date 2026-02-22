@@ -7,6 +7,39 @@ aliases: ["/kitchen-sink-pasta-recipe/", "/2009/04/kitchen-sink-pasta-recipe.htm
 cover:
   image: "/images/old/6a00e008d618bb883401156f69603f970c-500wi.jpg"
   hidden: true
+recipe:
+  name: "Kitchen Sink Spaghetti with Asparagus, Eggplant and Everything Else You Have in the House"
+  yield: "4"
+  diet: "Vegan, Gluten-Free"
+  ingredients:
+    - "1 pound high-quality spaghetti noodles"
+    - "1/2 cup pepitas (hulled pumpkin seeds), or walnuts, hazelnuts or pine nuts"
+    - "1 large eggplant, peeled and cut into 1/4\" thick slabs"
+    - "1 large bunch asparagus, trimmed and sliced on a diagonal, about 1/4\" thick"
+    - "1 red onion, thinly sliced"
+    - "6 cloves garlic, minced"
+    - "2 teaspoons minced fresh rosemary leaves"
+    - "2 tablespoons Roasted Garlic and Onion Jam"
+    - "1 chipotle chili pepper (from a can of chipotle in adobo), mashed"
+    - "1/2 cup white wine or dry vermouth"
+    - "1 cup of jarred roasted red peppers, rinsed and sliced"
+    - "1 cup fresh basil leaves"
+    - "zest of 1 lemon, juice of 1/2 of said lemon"
+    - "fresh ground black pepper"
+    - "1/2 pound smoked mozzarella, rind removed, cubed"
+    - "extra virgin olive oil"
+    - "salt"
+  instructions:
+    - "Bring a large pot of water to a rolling boil with 2 tablespoons of salt."
+    - "Meanwhile, heat a large skillet over a medium low flame. Add the pepitas and toast, tossing occasionally, until fragrant and beginning to brown, about 4 minutes. Reserve."
+    - "Add 1 tablespoon of olive oil to the pan and raise heat to medium high. Add the eggplant in a single layer. Cook for 5 minutes on one side, flip and season with salt. Cook until thoroughly tender and easily pierced with a fork. Remove and reserve, dicing when cool enough to handle."
+    - "Add another tablespoon of olive oil to the pan, along with the asparagus and 1 teaspoon of salt. Saute, stirring occasionally until crisp-tender and bright green. Don't overcook, it will get heated more later."
+    - "Now to make the sauce. Add another tablespoon of oil to the pan, along with the onion, garlic and rosemary. Saute for 3 minutes. Add the garlic and onion jam, chipotle pepper, wine and lemon juice. Reduce heat to low and stir occasionally. This stuff will seem too thick to be a sauce, but wait for it... step 9 will reveal all."
+    - "At this point, if you have everything else prepared, you can drop the pasta."
+    - "After the pasta has cooked about 5 minutes, add the asparagus, eggplant and roasted red peppers back to the saute pan and stir."
+    - "When the pasta is nearly done, but definitely still al dente, reserve one cup of the cooking water and drain the rest. Return the pasta to the pot."
+    - "Scrape the contents of the saute pan, getting all the flavorful bits, on top of the pasta and turn the heat back to medium low. Toss, and then add some or all of the reserved pasta cooking water to loosen the consistency. Because the pasta water has starch, salt, and sweetness, it will thin the sauce without greatly diluting your flavors. Taste and adjust for salt."
+    - "Finally, add the basil leaves, tearing as you go, the lemon zest, the smoked mozzarella, several aggressive grinds of fresh black pepper, and the pepitas. Give it all one final toss, and serve it forth in heated bowls. (Or for a slightly more refined presentation, dish up the pasta as of step 7 and garnish with the remaining items)."
 ---
 
 <p><a href="/images/old/6a00e008d618bb883401156f69603f970c-800wi.jpg" rel="lightbox" style="display: inline;"><img alt="Kitchen_Sink_Pasta" class="at-xid-6a00e008d618bb883401156f69603f970c " src="/images/old/6a00e008d618bb883401156f69603f970c-500wi.jpg" /></a><br /><em><span style="font-size: 12px;">Kitchen Sink Spaghetti</span></em></p><p>Any Italian grandmothers reading this should probably avert their eyes. I expect there to be a brigade of Nonna&#39;s with pitchforks outside my window at any moment. This pasta is about as far from traditional as you&#39;ll ever see me go. It has a dizzying array of intense flavors that could overwhelm your palate. Oh, and it is really freakin&#39; tasty. </p><p>Let&#39;s see what we&#39;ve got in there. It starts out fairly traditional: asparagus, roasted red peppers, eggplant, red onion, garlic. White wine. Stonewall Kitchen&#39;s amazing <a href="http://click.linksynergy.com/fs-bin/click?id=ihUZtjJP1K4&amp;offerid=86966.10000006&amp;type=2&amp;subid=0" target="new">Roasted Garlic and Onion Jam</a><img border="0" height="1" src="http://ad.linksynergy.com/fs-bin/show?id=ihUZtjJP1K4&amp;bids=86966.10000006&amp;type=2&amp;subid=0" width="1" />. Basil. Rosemary. Lemon zest. Pumpkin seeds? Smoked mozzarella? Chipotle pepper?!?</p><p>Actually, I guess if you want to look at it a certain way, this isn&#39;t so much of a stretch. I use pumpkin seeds because we <a href="/2009/02/understanding-deadly-food-allergies-this-post-could-save-a-life/" target="_blank">can&#39;t have nuts in our house</a>, but walnuts, hazelnuts or pine nuts would be even better. The chipotle is a little odd, but Italian dishes often have red pepper flakes, and this way I&#39;m getting some of the smoky flavors that an omnivore might introduce with bacon. Same goes for the smoked mozzarella. </p><p>Oh, and that garlic and onion jam. I love that stuff. A tablespoon or two of it melted into the base of a sauce is an incredible, complex-tasting alternative to a slow and low caramelization of onions you do yourself. </p><p>Bottom line: this kind of dish is a total crowd pleaser. Big, bold, intense flavors that are at the same time comforting and approachable. </p><p>Pay attention to the details of how the sauce and pasta are brought together - this little bit of technique really marries the flavors and makes them pop.</p><div class="recipe-card">

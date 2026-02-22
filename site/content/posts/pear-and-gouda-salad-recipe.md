@@ -8,6 +8,23 @@ aliases: ["/pear-and-gouda-salad-recipe/", "/2012/08/pear-and-gouda-salad-recipe
 cover:
   image: "/images/cookbook/pear-and-gouda-salad.jpg"
   hidden: true
+recipe:
+  name: "Pear and Gouda Salad"
+  yield: "4"
+  time: "15 minutes"
+  diet: "Gluten-Free"
+  ingredients:
+    - "1/3 cup Cryo-Pickled Onions + 2 tablespoons of the pickling liquid"
+    - "5 tablespoons extra-virgin olive oil"
+    - "¼ teaspoon Kosher salt"
+    - "1 head romaine lettuce, mostly hearts, sliced, washed and dried"
+    - "1/3 cup green pumpkin seeds (pepitas), skillet-toasted if raw"
+    - "2 ounces aged gouda, thinly sliced (with a cheese plane or vegetable peeler)"
+    - "1 ripe pear, peeled and sliced into 16 pieces, just before serving so it doesn’t brown"
+  instructions:
+    - "Whisk together the pickling liquid, olive oil, and salt. It is ok if it doesn’t completely emulsify. Taste and adjust seasoning."
+    - "Put the lettuce, toasted pumpkin seeds, gouda, pear slices and pickled onions in a salad bowl."
+    - "Give the dressing one last whisk and dress the salad; start with half of the dressing and add more as needed so that the leaves are nicely coated but not drenched."
 ---
 <a href="/images/cookbook/pear-and-gouda-salad.jpg"><img src="/images/cookbook/pear-and-gouda-salad.jpg" alt="Pear and Gouda Salad" /></a>
 

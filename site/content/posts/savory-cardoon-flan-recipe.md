@@ -7,6 +7,27 @@ aliases: ["/savory-cardoon-flan-recipe/", "/2012/10/savory-cardoon-flan-recipe.h
 cover:
   image: "/images/2012/10/Cardoon-Flan.jpg"
   hidden: true
+recipe:
+  name: "Savory Cardoon Flan"
+  yield: "4 individual servings"
+  diet: "Vegetarian, Gluten-Free"
+  ingredients:
+    - "1/2 pound cardoon (about 2 stalks)"
+    - "1 tablespoon butter"
+    - "1 cup heavy cream"
+    - "1 1/2 cups whole milk (plus up to 1/2 cup more)"
+    - "4 cloves garlic, peeled"
+    - "1 ounce grated Parmigiano-Reggiano"
+    - "1/4 teaspoon kosher salt"
+    - "Pinch of nutmeg (freshly grated if possible)"
+    - "4 eggs"
+  instructions:
+    - "Fill a bowl with water. Add a tablespoon of salt and the juice of 1/2 lemon. Trim off any ugly parts of the cardoon, remove strings as you would for celery, cut into 1/4\" slices and soak in the salted and acidulated water for 30 minutes."
+    - "Butter 4 ramekins and preheat oven to 350 F."
+    - "Bring the cream and milk to a simmer in a small saucepan. Add cardoon, garlic, cheese, salt and nutmeg to the cream mixture. Return to a simmer and cook, stirring occasionally, until the cardoon is completely tender, about 30 minutes. Allow to cool and infuse for ten minutes, then puree very thoroughly (using proper blender safety methods with hot liquids - see owners manual!). Strain through a fine sieve, pushing down to extract as much liquid as possible."
+    - "Measure the amount of liquid you have, and if it is less than 1 3/4 cups, add milk to bring it up to that measurement. Taste and adjust seasoning; it will probably need more salt and possibly more nutmeg."
+    - "Bring a kettle of water to a boil. Beat the eggs in a medium bowl, then whisk continuously while adding the cream mixture. Place the ramekins in a casserole to hold the water bath. Divide the custard among the 4 prepared ramekins and place on a middle rack of the oven. Pour the boiling water into the casserole about half-way up the side of the ramekins."
+    - "Bake until just set; a toothpick inserted in the center should come out clean, about 25 minutes. Carefully remove the ramekins with tongs (you can take the water bath out later when it has cooled, I don't want you splashing boiling water on yourself.) Cool ramekins on a rack for about 15 minutes, then use a knife to release the custard and invert onto serving plates."
 ---
 
 <img title="Cardoon Flan.jpg" src="/images/2012/10/Cardoon-Flan.jpg" alt="Cardoon Flan" width="600" height="398" border="0" />

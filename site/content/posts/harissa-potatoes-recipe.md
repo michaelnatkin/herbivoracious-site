@@ -7,6 +7,24 @@ aliases: ["/harissa-potatoes-recipe/", "/2012/10/harissa-potatoes-recipe.html"]
 cover:
   image: "/images/2012/10/Harissa-Potatoes-626x415.jpg"
   hidden: true
+recipe:
+  name: "Harissa Potatoes"
+  yield: "2-3 as a side dish or part of a meze"
+  diet: "Vegan, Vegetarian, Gluten-Free"
+  ingredients:
+    - "1 generous tablespoon olive oil"
+    - "1/3 cup diced onion"
+    - "3/4 pound potatoes, 1/2\" dice (skins on is fine) - Yukon Golds would be a nice choice"
+    - "1 to 2 teaspoons harissa paste (check ingredients if you need gluten free)"
+    - "1 tablespoon minced preserved lemon (check ingredients if you need gluten free)"
+    - "1/2 teaspoon cumin"
+    - "1/4 teaspoon kosher salt"
+    - "2 ounces feta cheese, crumbled (omit or replace for vegan)"
+    - "Sumac powder (optional)"
+    - "Fresh dill"
+  instructions:
+    - "Add the olive oil to a medium skillet over medium-high heat. When the oil is shimmering, add the onion and cook for 1 minute, until it begins to soften. Add the potatoes, harissa, preserved lemon, cumin, and salt and cook, stirring occasionally until the potatoes are lightly browned on the outside and tender in the middle. It helps to cover the pot so that the tops of the potatoes are steaming a bit while the bottoms are browning. Uncover for the last couple of minutes."
+    - "To serve, taste and adjust seasoning. You might need more salt, harissa, or preserved lemon. Transfer to serving plate and garnish with the feta cheese, a sprinkle of sumac and a very generous amount of fresh dill (leaves and tender stems)."
 ---
 
 <img class="alignnone size-large wp-image-3261" title="Harissa Potatoes" src="/images/2012/10/Harissa-Potatoes-626x415.jpg" alt="Harissa Potatoes" width="626" height="415" />

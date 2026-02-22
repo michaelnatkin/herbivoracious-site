@@ -8,6 +8,22 @@ aliases: ["/grilled-pineapple-salsa-recipe/", "/2010/04/grilled-pineapple-salsa-
 cover:
   image: "/images/old/6a00e008d618bb88340133ed101feb970b-500wi.jpg"
   hidden: true
+recipe:
+  name: "Grilled Pineapple Salsa"
+  yield: "about 1.5 cups"
+  diet: "Vegan"
+  ingredients:
+    - "1/2 fresh pineapple, sliced into 3/8\" thick planks (see above)"
+    - "canola oil for grilling"
+    - "juice of one lime"
+    - "2 tablespoons minced shallot"
+    - "1/4 to 1 jalapeno, depending on your heat preference, seeded and minced"
+    - "big handful of cilantro leaves"
+    - "salt to taste"
+  instructions:
+    - "Brush one side of each plank of pineapple with canola oil and sprinkle on a little salt. Grill over medium high heat until dark grill marks develop. Brush and salt the other side and grill until done."
+    - "Remove the pineapple from the grill, allow to cool until you can handle it safely, and cut into 3/8\" dice."
+    - "Combine with all of the other ingredients. If not using right away, hold off on the cilantro so it stays bright. Taste and and salt, lime juice, heat as needed."
 ---
 
 <p><a href="/images/old/6a00e008d618bb88340133ed101feb970b-800wi.jpg" rel="lightbox" style="display: inline;"><img alt="Grilled Pineapple Salsa" class="asset asset-image at-xid-6a00e008d618bb88340133ed101feb970b " src="/images/old/6a00e008d618bb88340133ed101feb970b-500wi.jpg" /></a> <br /><em>Grilled pineapple salsa</em></p>  <p> I like this salsa for its bright flavors and simplicity - just a few ingredients, and you can throw it together in a few minutes of active time. I served it with tacos that I&#39;ll cover it my next post, but it could work well in a Southeast Asian context too, especially if you added lemongrass and/or ginger. It is plenty tasty to polish off with a bag of chips at midnight too; if there was a security camera in my kitchen, I could prove it.</p>  <p>You will have to butcher your own pineapple to make this, because if you buy it already cut up, it will be in chunks too small to grill effectively. I was going to describe how to do that, but it turns out there is a website devoted solely to that specific topic: <a href="http://www.howtocutapineapple.com/" target="_blank">howtocutapineapple.com</a>. Talk about working a niche! Follow the pictures there through the part where the skin is fully removed, and then slice into vertical planks instead of horizontal. You&#39;ll only need half of it for this recipe, you can save the rest for a salad with tiny marshmallows and vegan spam chunks.</p>  <p>If you have a grill going for other reasons, just use that. If not, this <a href="https://www.amazon.com/dp/B00008GKDQ?tag=herb-hugo-20">Lodge cast-iron grill pan</a> is a great alternative. It has a ridged grill on one side, which I used for the pineapple, and a flat griddle on the other, which I use for pancakes. Be sure and grill the pineapple long enough to drive off some moisture and develop caramelized flavors.</p>  <div class="recipe-card">

@@ -7,6 +7,24 @@ aliases: ["/romesco-sauce-spanish-red-pepper-and-hazelnut-or-almond-sauce-recipe
 cover:
   image: "/images/2013/01/Gigandes-Beans-With-Romesco-and-Saffron-Broth-626x383.jpg"
   hidden: true
+recipe:
+  name: "Romesco Sauce – Spanish Red Pepper and Hazelnut (or Almond) Sauce – Vegetarian, Vegan, and Gluten free"
+  time: "15 min"
+  diet: "Vegan, Vegetarian, Gluten-Free"
+  ingredients:
+    - "1 head garlic + a bit of extra-virgin olive oil"
+    - "1 red bell pepper"
+    - "40 grams skinned hazelnuts (about 1/3 cup)"
+    - "2 canned tomatoes (from one can), preferably San Marzano"
+    - "5 grams kosher salt (about 1 teaspoon)"
+    - "8 grams sherry vinegar (about 1 1/2 teaspoons)"
+    - "3.5 grams smoked paprika (about 1 1/2 teaspoons)"
+    - "80 grams hazelnut oil if available, otherwise extra-virgin olive oil (about 6 tablespoons)"
+  instructions:
+    - "Preheat oven to 400 F. Trim top off head of garlic, place on foil, rub with a bit of extra-virgin olive oil. Wrap and roast at until tender and brown, about 40 mins."
+    - "Thoroughly blister red pepper with blowtorch; set in covered bowl for 5 mins. Rub off skin with a paper towel. Split and discard stem, seeds, and ribs. Roughly chop. (Alternatively, you can roast the red peppers under the broiler, or, very carefully, on a stove burner, and then proceed as directed.)"
+    - "Toast hazelnuts in a skillet over medium heat until lightly browned and fragrant."
+    - "Put hazelnuts in a blender and process at medium speed until powdered. Squeeze garlic cloves out of skin and add to blender. Add bell pepper, tomatoes, salt, vinegar and smoked paprika and process to a paste. With blender running on low speed, drizzle in the the hazelnut oil. Taste and adjust seasoning."
 ---
 
 <a href="/images/2013/01/Gigandes-Beans-With-Romesco-and-Saffron-Broth-626x383.jpg" target="_blank"><img class="alignnone size-large wp-image-3552" alt="Gigandes Beans With Romesco and Saffron Broth" src="/images/2013/01/Gigandes-Beans-With-Romesco-and-Saffron-Broth-626x383.jpg" width="626" height="383" /></a>

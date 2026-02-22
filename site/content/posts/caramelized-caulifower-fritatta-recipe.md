@@ -7,6 +7,27 @@ aliases: ["/caramelized-caulifower-fritatta-recipe/", "/2009/12/caramelized-caul
 cover:
   image: "/images/old/6a00e008d618bb88340120a73c6a8e970b-500wi.jpg"
   hidden: true
+recipe:
+  name: "Caramelized Cauliflower Frittata"
+  yield: "4 as a light entree or 8 as a first course"
+  ingredients:
+    - "1/4 cup extra virgin olive oil + a little extra"
+    - "1 small head cauliflower, cut into bite-sized florets"
+    - "4 cloves garlic, minced"
+    - "10 large eggs"
+    - "3/4 cup heavy cream or whole milk"
+    - "1/2 cup packed minced leafy fresh herbs - for example parsley, thyme, marjoram, and a little mint"
+    - "zest of 1 lemon"
+    - "salt"
+    - "optional garnish: smoked paprika, more fresh cut herbs"
+  instructions:
+    - "Preheat oven to 350."
+    - "Heat a 12 inch oven-proof non-stick or well-seasoned cast-iron skillet over high heat. Add the olive oil, the cut-up cauliflower, and 1/4 teaspoon of salt. Saute, tossing occasionally, until tender and well caramelized. It should be quite brown in many spots. Just towards the end, add the garlic. Taste and adjust salt."
+    - "Remove the cauliflower to a bowl, and let both the skillet and the cauliflower cool a bit, so they don't overcook the eggs on contact."
+    - "Whisk the eggs thoroughly. Whisk in the cream, 1/2 teaspoon of salt, the herbs, and the lemon zest."
+    - "Drizzle a little more olive oil in the pan. Put the cauliflower back in the pan and distribute evenly over the bottom. Pour in the eggs and shake a little to distribute. Put over a medium flame and cook until beginning to set."
+    - "Cover with tin foil and bake until fully set. This could take anywhere from 15 minutes to an hour depending on how much you cooked the eggs in step 5. Lately I've preferred to let the oven do more of the work, but either way is fine. You just want to be sure to get them fully cooked and not runny, but don't go so far past that that you have rubbery eggs."
+    - "Cut into wedges and garnish with the smoked paprika and/or fresh herbs as desired."
 ---
 
 <p>&#0160;<a href="/images/old/6a00e008d618bb88340120a73c6a8e970b-800wi.jpg" rel="lightbox" style="display: inline;"><img alt="Caramelized_Cauliflower_Fritatta2" class="asset asset-image at-xid-6a00e008d618bb88340120a73c6a8e970b " src="/images/old/6a00e008d618bb88340120a73c6a8e970b-500wi.jpg" /></a> <br /> Caramelized Cauliflower Frittata</p> <p>Cauliflower has a <strong>split personality</strong>. Boiled or steamed, it is kind of cabbagey, bland and slightly bitter. But roasted or sauteed until it has lots of dark brown caramelized spots all over, it becomes luscious and savory and altogether craveable. Deep fried, it is so good that my wife and I drove half way across LA in <strong>rush hour traffic</strong> just to get a second helping.</p> <p><a href="/images/old/6a00e008d618bb88340128763f538c970c-800wi.jpg" rel="lightbox" style="float: right;"><img alt="Caramelized_Cauliflower_Fritatta" class="asset asset-image at-xid-6a00e008d618bb88340128763f538c970c " src="/images/old/6a00e008d618bb88340128763f538c970c-200wi.jpg" style="margin-left: 5px; width: 200px;" /></a> This simple frittata emphasizes that intense caramelized cauliflower flavor with a <strong>big helping of fresh herbs</strong>. I used a combination of parsley, thyme, marjoram and a little mint, but you can adjust it to what you have on hand or what sounds good with the rest of your meal. Use about a 1/2 cup of packed leafy herbs, less if they are very intense like tarragon. Don&#39;t use anywhere near this much of something woody like rosemary.</p> <p><a href="/images/old/6a00e008d618bb88340120a73c6b63970b-800wi.jpg" rel="lightbox" style="float: left;"><img alt="Caramelized_Cauliflower_Fritatta3" class="asset asset-image at-xid-6a00e008d618bb88340120a73c6b63970b " src="/images/old/6a00e008d618bb88340120a73c6b63970b-200wi.jpg" style="margin-right: 5px; width: 200px;" title="Caramelized_Cauliflower_Fritatta3" /></a>Once you have cooked the cauliflower and mixed it with the eggs, you can either start cooking the eggs on the stove and finish in the oven, or do the whole thing in the oven.</p> <p>I like this best served room temperature or cold, though piping hot can be good too. Served just warm with a bracing salad makes a great light lunch. Another good option is to cut it into bite sized pieces and serve on baguette slices with <strong>aioli and pickled onions</strong>, as an appetizer or party snack.</p> <div class="recipe-card">

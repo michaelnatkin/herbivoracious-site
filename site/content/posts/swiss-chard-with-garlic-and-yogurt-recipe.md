@@ -7,6 +7,23 @@ aliases: ["/swiss-chard-with-garlic-and-yogurt-recipe/", "/2012/07/swiss-chard-w
 cover:
   image: "/images/2012/07/Swiss-Chard-with-Garlic-and-Yogurt-2-626x415.jpg"
   hidden: true
+recipe:
+  name: "Swiss Chard with Garlic and Yogurt"
+  yield: "about 2 as a side dish (depending on size of your bunch of chard), easily multiplied"
+  diet: "Vegan, Vegetarian, Gluten-Free"
+  ingredients:
+    - "1 small bunch of Swiss chard"
+    - "1 clove minced garlic"
+    - "Extra-virgin olive oil"
+    - "Dukkah (see above) (check your brand if you need nut-free or gluten-free)"
+    - "Maldon (aka the world's greatest salt) salt or other flaky sea salt"
+    - "1/2 cup thick Greek-style yogurt"
+    - "1 tablespoon toasted sesame seeds"
+  instructions:
+    - "Thoroughly wash the chard in at least 2 changes of water; more if you suspect any grit remains. Pull the leaves off of the stems. Discard the toughest part of the stems and chop the remaining stems into 1\" lengths."
+    - "Fill a large bowl with icewater. Put the leaves and stems in a loosely covered, microwave-safe bowl and microwave on high for 3 minutes or until the leaves are well wilted and tender but not turning gray. Immediately transfer the chard to the icewater and toss to cool quickly (this will preserve the color). Drain the chard and squeeze it dry in a clean dishtowel."
+    - "Put the chard in a bowl and toss with the garlic, a good glug of extra-virgin olive oil, at least a couple of teaspoons of dukkah and salt to taste. Taste and adjust seasoning - you may want more garlic, oil, dukkah or salt to get the flavors really popping."
+    - "When you are ready to serve, mound the chard on a plate, and sprinkle with a few more flakes of salt. Spoon the yogurt next to the chard and sprinkle it with the toasted sesame seeds."
 ---
 
 <a href="/images/2012/07/Swiss-Chard-with-Garlic-and-Yogurt-2.jpg"><img class="alignnone size-large wp-image-2380" title="Swiss Chard with Garlic and Yogurt" src="/images/2012/07/Swiss-Chard-with-Garlic-and-Yogurt-2-626x415.jpg" alt="Swiss Chard with Garlic and Yogurt" width="626" height="415" />

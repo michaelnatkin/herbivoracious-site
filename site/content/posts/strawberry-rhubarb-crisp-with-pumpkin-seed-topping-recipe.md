@@ -7,6 +7,33 @@ aliases: ["/strawberry-rhubarb-crisp-with-pumpkin-seed-topping-recipe/", "/2009/
 cover:
   image: "/images/old/6a00e008d618bb8834011570a612b2970b-500wi.jpg"
   hidden: true
+recipe:
+  name: "Strawberry-Rhubarb Crisp"
+  yield: "8Vegetarian; not vegan or gluten-free For the crisp topping:"
+  diet: "Vegan, Gluten-Free"
+  ingredients:
+    - "1/2 pound butter (room temperature or cold, see discussion above)"
+    - "1.5 cups all-purpose flour"
+    - "1 cup sugar"
+    - "1/2 cup brown sugar"
+    - "1/2 teaspoon salt"
+    - "1 cup quick-cooking oatmeal"
+    - "1 cup pepitas (green, hulled pumpkin seeds), toasted (or your choice of nuts, or omit)"
+    - "1 tablespoon butter"
+    - "1.5 lbs rhubarb, trimmed and cut into 1\" lengths"
+    - "1 lb. strawberries, hullied and quartered"
+    - "1 1/4 cups sugar"
+    - "1/4 cup cornstarch"
+    - "big pinch salt"
+  instructions:
+    - "Crisp topping option 1: melt the butter, combine thoroughly with all of the ingredients, and refrigerate for at least one hour until firm. You can also do this a day ahead, or even longer if you freeze it."
+    - "Crisp topping option 2: cut the cool butter into cubes, and cream in an electric mixer with all of the other ingredients."
+    - "Preheat the oven to 350."
+    - "Use the 1 tablespoon of butter to grease a deep casserole. I used a round Emile Henry one that was 9\" in diameter and 3\" deep."
+    - "Combine all of the other ingredients, toss well and put in the casserole."
+    - "Put the crisp filling on in an even layer on top."
+    - "Bake for about 1 hour until the fruit is bubbling and the topping is golden brown and crisp."
+    - "Serve right away, lest the crisp become soggy. Vanilla ice cream, duh!"
 ---
 
 <p><a href="/images/old/6a00e008d618bb8834011570a612b2970b-800wi.jpg" rel="lightbox" style="display: inline;"><img alt="Strawberry_Rhubarb_Crisp" class="at-xid-6a00e008d618bb8834011570a612b2970b " src="/images/old/6a00e008d618bb8834011570a612b2970b-500wi.jpg" /></a><br /><em>Strawberry-Rhubarb Crisp with a Pumpkin Seed Topping</em></p><p>Who doesn&#39;t love a good fruit crisp? They are a great way to use up excesses of seasonal fruits, and you can make the topping so easily that there is no need to wait for a special occasion. Strawberry + rhubarb is a great combination for this time of year, as the rhubarb is getting late and the strawberries are not yet so perfect that it would be a shame not to eat them fresh.&#0160;</p><p>Sarina insists that there is no other topping for a crisp than oatmeal, and I certainly see her point. It has a great toasty flavor. This time I augmented it with toasted pumpkin seeds, but you could use walnuts or almonds or hazelnuts, or omit them entirely depending on your mood. Crisp topping freezes beautifully too, so why not make a double batch? </p><p>The recipe below (based on an <a href="https://www.amazon.com/dp/0609602195?tag=herb-hugo-20" target="_blank">Ina Garten</a> formula), makes a lot of topping for a single crisp - we are all hounds for the buttery goodness, so I don&#39;t stint. But you could make do with just half as much if you are looking for a lower-fat option.</p><p>There are two good options for handling the butter for the crisp topping. You can either melt it, and then refrigerate the topping for at least an hour before baking, or you can cream it relatively cold with the other ingredients and use it right away.</p><p>Some recipes for this sort of thing involve peeling and/or pre-stewing the rhubarb. Trust me, this is totally unnecessary. All you need to do is trim the ends and cut it into 1 inch segments. It will happilly cook to tenderness in the oven, leaving a little bit of desireable texture instead of completely turning into sauce. I much prefer it this way. </p><div class="recipe-card">

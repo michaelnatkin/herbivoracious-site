@@ -7,6 +7,27 @@ aliases: ["/saffron-date-posset-a-dessert-you-should-know-recipe/", "/2013/02/sa
 cover:
   image: "/images/2013/02/Date-Posset-626x352.jpg"
   hidden: true
+recipe:
+  name: "Saffron-Date Posset – A Dessert You Should Know – Recipe"
+  time: "15 min"
+  ingredients:
+    - "1000 grams heavy cream (about 4 cups)"
+    - "150 grams date sugar (about 3/4 cup)"
+    - "0.2 grams saffron (a generous pinch)"
+    - "7 grams citric acid (sour salt) (about 1 1/2 teaspoons)"
+    - "100 grams sugar (about 1/2 cup)"
+    - "Peel from one preserved lemon, julienned"
+    - "Pistachio oil (as needed)"
+    - "Honey (as needed, optional)"
+    - "40 toasted pistachios"
+    - "3 dates, pits removed, cut into small pieces"
+    - "Lemon thyme leaves (as needed)"
+    - "Maldon salt (as needed)"
+  instructions:
+    - "Combine the cream, date sugar and saffron in a small pot or vacuum bag. If using sous vide, place in an 85 C bath for 45 minutes. On the stovetop, infuse on low heat for 10 minutes, then raise heat to medium and cook until it reaches 85 C."
+    - "Remove from the heat and add the citric acid to the cream. Puree with an immersion blender to break up any lumps of date sugar. Strain through a fine mesh sieve. Divide equally among 8 ramekins. Cover with plastic wrap and refrigerate until chilled and set, at least 2 hours."
+    - "In your smallest pot, combine the 100 grams of plain sugar and 100 grams of water and bring to a simmer. Add the julienned preserved lemon peel and allow to simmer for a few minutes. Strain and then spread on parchment paper to cool."
+    - "To serve, drizzle some pistachio oil on the posset. Drizzle with honey if using. Top with 5 pistachios, several pieces of date, a few slivers of candied preserved lemon, a few lemon thyme leaves and a few grains of salt."
 ---
 
 <a href="/images/2013/02/Date-Posset.jpg"><img class="alignnone size-large wp-image-3566" alt="Date Posset" src="/images/2013/02/Date-Posset-626x352.jpg" width="626" height="352" /></a>

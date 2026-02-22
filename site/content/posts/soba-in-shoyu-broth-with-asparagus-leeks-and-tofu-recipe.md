@@ -7,6 +7,33 @@ aliases: ["/soba-in-shoyu-broth-with-asparagus-leeks-and-tofu-recipe/", "/2009/0
 cover:
   image: "/images/old/6a00e008d618bb88340115701752a4970b-500wi.jpg"
   hidden: true
+recipe:
+  name: "Soba in Shoyu Broth with Asparagus, Leeks and Tofu"
+  yield: "4"
+  diet: "Vegan"
+  ingredients:
+    - "2 cups dried shiitake mushrooms"
+    - "1 healthy piece of kombu seaweed (about 6\" - 8\" long)"
+    - "1 small piece (1/2\") fresh ginger, peeled"
+    - "4 cloves garlic, peeled and coarsely choppd"
+    - "4 leeks, white parts only, halved lengthwise and carefully cleaned"
+    - "4 eggs"
+    - "12 oz. silken or soft tofu, cubed"
+    - "1 large bunch of thick asparagus, tough parts removed and lightly peeled"
+    - "1 tablespoon vegetable oil"
+    - "salt"
+    - "2 green onions, thinly sliced on the diagonal"
+    - "shoyu (Japanese soy sauce; see note above about best brand)"
+    - "1 lb. dry soba noodles"
+    - "toasted sesame oil"
+  instructions:
+    - "Briefly rinse the dried shiitakes and bring them, along with the kombu, ginger and garlic to a simmer in 8 cups of water. Simmer for 20 minutes."
+    - "Add the leeks and simmer for 10 more minutes or until the leeks are tender. Remove the leeks with a slotted spoon and reserve. Discard the kombu. Strain the broth, squeezing out as much from the mushrooms as possible. Slice some of the shiitake caps thinly for service, and discard the rest."
+    - "Add 3 tablspoons of the shoyu to the broth. Taste and add more if needed."
+    - "Meanwhile, put the eggs in a small pot, covered with cold water by 1/2\". Bring the pot to a boil over a high flame, then cover and remove from the heat. Let sit for exactly 8 minutes, then shock in cold water and peel."
+    - "Brush the asparagus with oil and grill in a single layer (a grill pan works fine). If you can't grill, do them in a single layer in a large skillet. Cook until tender and charred spots are appearing on all sides."
+    - "Boil the soba noodles according to the package directions and strain. Bring the broth back to a simmer."
+    - "To serve, put about 1 cup of noodles in each of 4 heated bowls. Cut the eggs in half. Top the noodles with the leeks, eggs, asparagus, sliced shiitake caps, tofu and green onions. Take your time to make an attractive arrangement. Ladle in about 1.5 cups of the broth. Drizzle in a few drops of the sesame oil and serve it forth."
 ---
 
 <p><a href="/images/old/6a00e008d618bb88340115701752a4970b-800wi.jpg" rel="lightbox" style="display: inline;"><img alt="Soba_With_Asparagus_Leeks_Shiitakes" class="at-xid-6a00e008d618bb88340115701752a4970b " src="/images/old/6a00e008d618bb88340115701752a4970b-500wi.jpg" /><br /></a><em>Soba Noodle Soup in Shiitake Shoyu Broth with Asparagus, Leeks and Tofu</em></p><p>I get a little jealous of meat eaters with their delicious looking Asian noodle soups. I wanted to create a very full flavored broth with lots of umami intensity. I made it with dried shiitakes, <a href="https://www.amazon.com/dp/B00ZB13JHO?tag=herb-hugo-20">kombu</a>, and the best shoyu I have ever tasted.</p><p>If you haven&#39;t had <a href="https://www.amazon.com/dp/B000VK109Y?tag=herb-hugo-20">soba</a> before, they are a Japanese noodle made from buckwheat flour. They are often served cold with a dipping sauce, but are equally great in soup. The buckwheat flavor is distinctively nutty and earthy. It has a peculiar resonance for me because it reminds me of the kasha that my eastern European Jewish family served growing up. Funny how the same flavor can appear succesfully in such different contexts. The same dish could be made with ramen or udon noodles and still be delicious.</p><p>The toppings for this soup are a nice transition from winter to spring. We have the leeks and dried mushrooms that are a mainstay of the cold weather months, and asparagus and eggs which have always <a href="/2008/06/panko-crusted-e/" target="_blank">symbolized</a> <a href="/2008/03/recipe-white-as/" target="_blank">spring</a>. A few green onions add a bright top note, and the soft tofu brings another texture and some protein. I&#39;m not sure I can think of anything I&#39;d rather eat on a rainy day. Of course you can vary the toppings to suit your mood and the contents of your vegetable drawer.</p><p>So I mentioned great shoyu. Shoyu is the Japanese name for soy sauce. This <a href="https://www.amazon.com/dp/B0018PUIVW?tag=herb-hugo-20">Ohsawa Organic Unpasteurized Nama Shoyu</a> is to most other shoyu as parmigiano reggiano is to the stuff in the green can. The flavor is more complex and caramelized, less salty, and with no chemical edge. Because it is unpasteurized it is also (claimed to be) a source for healthy digestive probiotic bacteria. I plan to never be without it in my pantry.</p><p>The eggs are cooked using my favorite technique for soft or hard boiled eggs. They are placed in a pan of cold water, brought to a boil and then the heat is turned off and they are covered. For soft-boiled, you use about 4 minutes, and for hard-boiled, 12 is good. For this dish I used 8 minutes, which gives a terrific texture. The whites and yolk are both set, but the yolk is ever so slightly underdone, bright yellow and translucent. The whites remain tender and unrubbery. Try it, I think you&#39;ll like it.</p><p>I&#39;m having you make more noodles than you will probably need because the next recipe I post will be for a crispy soba pancake made from the leftovers. Crispy I say.</p><div class="recipe-card">

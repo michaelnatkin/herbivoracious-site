@@ -8,6 +8,24 @@ aliases: ["/tomato-confit-and-roasted-garlic-bruschetta-recipe/", "/2011/05/toma
 cover:
   image: "/images/cookbook/tomato-confit-and-roasted-garlic-bruschetta.jpg"
   hidden: true
+recipe:
+  name: "Tomato Confit and Roasted Garlic Bruschetta"
+  yield: "4"
+  time: "10 minute"
+  diet: "Vegan"
+  ingredients:
+    - "1 head garlic"
+    - "extra-virgin olive oil"
+    - "8 tomato confit halves, finely chopped"
+    - "1 tablespoon finely sliced fresh mint leaves"
+    - "¼ teaspoon Kosher salt"
+    - "4 thick slices rustic bread"
+    - "flaky sea salt"
+  instructions:
+    - "Cut off the top ¼” of the head of garlic. Rub with a little olive oil and wrap in tin foil. Roast for about 45 minutes at 300 degrees until the garlic is completely soft and can be squeezed right out of the skin."
+    - "Remove all of the garlic cloves from the skin and finely chop them. Mix with the tomato confit, mint and Kosher salt."
+    - "Heat a grill or a grill pan to medium high (or use a toaster oven as a last resort). Brush the bread generously on one side with extra-virgin olive oil. Toast until well browned and nice grill marks have formed."
+    - "Divide the topping among the four pieces of bread, season with a few flakes of sea salt and serve immediately."
 ---
 <a href="/images/cookbook/tomato-confit-and-roasted-garlic-bruschetta.jpg"><img src="/images/cookbook/tomato-confit-and-roasted-garlic-bruschetta.jpg" alt="Tomato Confit and Roasted Garlic Bruschetta" /></a>
 

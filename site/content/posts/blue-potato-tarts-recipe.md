@@ -8,6 +8,27 @@ aliases: ["/blue-potato-tarts-recipe/", "/2011/05/blue-potato-tarts-recipe.html"
 cover:
   image: "/images/cookbook/blue-potato-tarts.jpg"
   hidden: true
+recipe:
+  name: "Blue Potato Tarts"
+  yield: "10 appetizer portions (2 bites each)"
+  time: "30 minutes"
+  ingredients:
+    - "6 small purple potatoes (about 3” long)"
+    - "1 tablespoon extra virgin olive oil plus more for brushing"
+    - "1 sprig rosemary"
+    - "truffle salt or Kosher salt"
+    - "1 recipe Basic Pastry Dough"
+    - "¼ cup heavy cream"
+    - "½ cup chevre (goat cheese)"
+    - "1 clove garlic, minced"
+    - "1 tablespoon aged balsamic vinegar or thick balsamic reduction"
+    - "1 tablespoon minced parsley"
+  instructions:
+    - "Preheat the oven to 400."
+    - "Slice the potatoes very evenly and thinly, between 1/16” and 1/8”. A mandoline is ideal for this job, or you can also use the slicing blade on a food processor. In a small baking dish with a cover, toss the potatoes with 1 tablespoon of olive oil and ¼ teaspoon of truffle salt or Kosher salt. Add the sprig of rosemary and 2 tablespoons of water. Cover and bake until the potatoes are fully tender but not falling apart, about 15 minutes. Remove lid and allow to cool."
+    - "Line a baking sheet with parchment or a silicone mat. Roll out the pastry crust into two 12” x 4” rectangles and transfer to the baking sheet. Use your hands to form a thin raised edge all the way around the rectangles. Prick the dough all over with a fork. Bake until golden brown, 10-15 minutes. Remove and cool for 10 minutes."
+    - "Whisk together the cream, chevre, garlic and ¼ teaspoon truffle salt or Kosher salt. Brush the tart crusts with olive oil and then spread the chevre mixture evenly over the tarts. Lay the potato slices over the tarts neatly, overlapping so about 1/8” of each potato is revealed. (You’ll have more than you need; this allows for a few slices to break). Brush the potatoes with more olive oil and sprinkle on a bit more salt."
+    - "Bake to heat through, about 10 minutes. Remove from the oven, allow to cool slightly, then garnish with the aged balsamic vinegar and parsley. Cut each tart into five slices and serve immediately."
 ---
 <a href="/images/cookbook/blue-potato-tarts.jpg"><img src="/images/cookbook/blue-potato-tarts.jpg" alt="Blue Potato Tarts" /></a>
 

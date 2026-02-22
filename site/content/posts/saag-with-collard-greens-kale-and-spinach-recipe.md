@@ -7,6 +7,31 @@ aliases: ["/saag-with-collard-greens-kale-and-spinach-recipe/", "/2012/01/saag-w
 cover:
   image: "/images/2012/07/Saag-with-Collards-and-Kale-626x415.jpg"
   hidden: true
+recipe:
+  name: "Saag with Collard Greens, Kale and Spinach"
+  yield: "4 as part of a larger Indian dinner 15 minutes active (1 hour total) For the spice mixture:"
+  time: "15 minutes active (1 hour total)"
+  diet: "Vegetarian, Gluten-Free"
+  ingredients:
+    - "1/4 teaspoon ground asoefetida (hing)"
+    - "1/4 teaspoon ground cinnamon"
+    - "1/4 teaspoon ground nutmeg (preferably freshly grated, use a bit more if not)"
+    - "1/2 teaspoon ground cumin"
+    - "1/2 teaspoon garam masala"
+    - "1 teaspoon black mustard seeds"
+    - "1 inch piece fresh ginger, grated"
+    - "1 bunch kale"
+    - "1 bunch collard greens (about 1 pound total kale and collard greens)"
+    - "10 ounce package frozen spinach (or 1 pound fresh baby spinach, washed)"
+    - "3 tablespoons butter or ghee"
+    - "1 teaspoon kosher salt"
+    - "1/2 cup yogurt (I used full fat)"
+  instructions:
+    - "Place all ingredients in a small bowl."
+    - "Strip the coarse stems from their kale and collard greens, chop them roughly, and wash them in three changes of warm water in a large bowl. Drain off the water, add the spinach, and set aside."
+    - "Melt the butter in a very large skillet or wok over medium heat. Add the spice mixture and stir until fragrant but not burning, about 1 minute."
+    - "Add the greens and 1/2 cup water. Toss with tongs, then cover. Reduce heat to medium low. Cook, tossing occasionally, until completely tender and wilted, about 45 minutes, adding a bit more water if needed."
+    - "Turn off the heat, remove the lid, and allow to cool slightly. Stir in the yogurt. Taste and adjust seasoning. Gently reheat, but don't bring all the way up toward a simmer or the yogurt may break."
 ---
 
 <a href="/images/2012/07/Saag-with-Collards-and-Kale.jpg"><img class="size-large wp-image-1158" title="Saag with Collards and Kale" src="/images/2012/07/Saag-with-Collards-and-Kale-626x415.jpg" alt="Saag with Collards and Kale (Indian style long-cooked greens)" width="626" height="415" /></a>

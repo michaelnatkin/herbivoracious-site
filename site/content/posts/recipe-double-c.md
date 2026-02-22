@@ -7,6 +7,33 @@ aliases: ["/recipe-double-c/", "/2007/12/recipe-double-c.html"]
 cover:
   image: "/images/2007-small/12/03/doubletopmacandcheese1_2.jpg"
   hidden: true
+recipe:
+  name: "Double Crust Mac and Cheese"
+  yield: "6"
+  ingredients:
+    - "1.5 lbs rigatoni (or other pasta shape of your choice)"
+    - "6 c. milk"
+    - "4 oz. butter"
+    - "4 oz. all purpose flour (1 cup)"
+    - "10 oz. gruyere cheese, grated"
+    - "1 T. dried thyme or 2 T. fresh, leaves picked"
+    - "12 oz. parmigiano reggiano cheese, grated"
+    - "2 c. breadcrumbs (regular or panko)"
+    - "salt and pepper"
+  instructions:
+    - "Preheat oven to 425 and put a large pot of salted water on to boil."
+    - "Boil pasta until al dente. Do not overcook. Toss with a bit of olive oil or butter."
+    - "In a saucepan, bring the milk to a simmer, but do not scald."
+    - "In a skillet, melt the butter, add the flour, and stir until a toasty smell develops and the raw taste is mostly gone, 2-3 minutes."
+    - "Stir 1 c. of the milk into the flour/butter mixture (roux), then add all of the roux back to the milk and whisk over low heat until smooth and starting to thicken."
+    - "Stir in all of the gruyere, and two thirds of the parmesan, a handful at a time, until melted and smooth."
+    - "Add thyme and some black pepper."
+    - "Taste and adjust salt. I'm not giving a specific measurement because it depends a lot on how salty the cheese is."
+    - "Mix the pasta with the cheese sauce."
+    - "Put 2/3 of the mixture in a large buttered casserole and 1/3 on a greased sheet pan (or use a silpat)."
+    - "Top both pans heavily with breadcrumbs and the remaining parmesan cheese. Use more than called for above if it seems like a good idea."
+    - "Bake for about 30 minutes until thorougly golden brown. If hot but not sufficiently browned you may want to use the broiler to finish the job, but watch it closely"
+    - "To serve, give each person a portion from both pans."
 ---
 
 <p><a href="/images/2007/12/03/doubletopmacandcheese1_2.jpg" rel="lightbox"><img alt="Doubletopmacandcheese1_2" border="0" height="302" src="/images/2007-small/12/03/doubletopmacandcheese1_2.jpg" title="Doubletopmacandcheese1_2" width="455" /></a><br /><span style="font-size: 0.8em;">Double Crust Mac and Cheese After Baking</span>   </p><p>Everyone knows that the best part of mac and cheese is the crunchy top, but it took Sally Schneider to do something about it. In <a href="https://www.amazon.com/dp/0060731648?tag=herb-hugo-20">The Improvisational Cook</a>, Schneider makes the brilliant suggestion that you split your mac and cheese into two parts, baking half in a casserole and the rest in a thin layer on a baking sheet. When you serve it up, each person gets a small amount of each, and great crispy crunchiness ensues!</p>  <p>Now I tried her recipe as written once and it was super, but relies on a somewhat strange thickening technique for the sauce. Rather than making a normal roux-based milk sauce (Bechamel) and then adding cheese (which would then be a Sauce Mornay), she prefers to boil the pasta and then pull some of it aside and puree it with the milk. I guess that gives you the thickening power of wheat flour, but to me it seemed to lack a little something. Granted, that something is probably, um, butter, but for me this kind of rich mac and cheese is such a treat that if I make it I want it to be as great as humanly possible. </p>  <p>Be that as it may, the double crust idea is <strong>pure, unadulerated culinary genius</strong>. So here is my hybrid recipe with a traditional cheese sauce and the double top. Guaranteed to scratch your comfort food itch. It makes a great party dish because you can do it ahead, meat eaters will be just as happy to eat it as vegetarians, and kids and adults will be equally joyous.</p>  <p>Variations: depending on how much of a stickler you are for comfort food remaining untweaked, there is infinite room for improvisation here. You can use any cheese that melts well, any shape pasta you like, and any flavoring style, as well as adding vegetables. For example: spicy with fresh or dried hot peppers, luxurious with fresh truffles, or Greek flavors with lemon zest, oregano, roasted red peppers and romano cheese.</p>  <p>Also, you might want to check out the Presto Pasta Nights at <a href="http://onceuponafeast.blogspot.com/">Once Upon a Feast</a> for more ideas.</p>  <div class="recipe-card">

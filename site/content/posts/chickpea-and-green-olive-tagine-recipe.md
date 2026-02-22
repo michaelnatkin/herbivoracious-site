@@ -8,6 +8,27 @@ aliases: ["/chickpea-and-green-olive-tagine-recipe/", "/2012/01/chickpea-and-gre
 cover:
   image: "/images/cookbook/chickpea-and-green-olive-tagine.jpg"
   hidden: true
+recipe:
+  name: "Chickpea and Green Olive Tagine"
+  yield: "2-3 as a main dish over couscous, or 4 if you add a roasted vegetable"
+  time: "20 minutes"
+  diet: "Vegan"
+  ingredients:
+    - "¼ cup extra virgin olive oil"
+    - "1 medium onion, medium dice"
+    - "3 cups cooked chickpeas (or two 15-ounce cans, drained and rinsed)"
+    - "1 ½ teaspoons Kosher salt"
+    - "1 teaspoon chile flakes"
+    - "1 teaspoon ras el hanout"
+    - "2 tablespoons pomegranate molasses"
+    - "1/2 preserved lemon, minced"
+    - "1 ½ cups pitted, marinated green olives, cut in halves or thirds if large (see above)"
+    - "1 tablespoon sumac powder"
+    - "minced flat-leaf parsley"
+  instructions:
+    - "Put the olive oil in a large skillet over medium-high heat. Add the onion and fry for 2 minutes. Add the chickpeas, salt, chile flakes, ras al hanout, pomegranate molasses and preserved lemon. Reduce heat to medium-low and cook 5 more minutes."
+    - "Stir in the green olives. Cook for 2 more minutes, then taste and adjust seasoning. You can add more minced preserved lemon if you like. Add a few tablespoons of water if needed to keep the dish moist, but not at all soupy."
+    - "Serve over couscous, garnishing with the sumac powder and parsley."
 ---
 <a href="/images/cookbook/chickpea-and-green-olive-tagine.jpg"><img src="/images/cookbook/chickpea-and-green-olive-tagine.jpg" alt="Chickpea and Green Olive Tagine" /></a>
 

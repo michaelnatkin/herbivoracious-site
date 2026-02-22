@@ -7,6 +7,25 @@ aliases: ["/how-to-make-an-inside-out-egg-recipe/", "/2009/03/how-to-make-an-ins
 cover:
   image: "/images/old/6a00e008d618bb8834011168a2d2eb970c-500wi.jpg"
   hidden: true
+recipe:
+  name: "\"Inside-Out Egg\" with Mango and Coconut"
+  yield: "4 Vegetarian, vegan and gluten-free"
+  diet: "Vegan, Vegetarian, Gluten-Free"
+  ingredients:
+    - "special equipment: 4 plastic Easter eggs, the kind that split in half"
+    - "250 ml. smooth, fresh mango puree"
+    - "1 teaspoon agar-agar powder (not the pre-sweetened kind)"
+    - "1 can full-fat coconut milk, not shaken"
+    - "200 ml water"
+    - "1 teaspoon agar-agar powder"
+  instructions:
+    - "Set up the molds like you see above. I used chickpeas to balance them, but rice or whatever will hold them upright is fine. Spray the insides with cooking spray (aka pan release)."
+    - "Bring the mango puree to a boil and sprinkle in the agar. Whisk for 20 seconds, then turn off the heat. Whisk for another 30 seconds, then pour into the molds, and seal them. Place in the refrigerator for 15 minutes. (Agar sets really fast!)"
+    - "Without shaking, open the can of coconut milk and spoon out the creamy part at the top. Reserve the liquid part for another recipe."
+    - "Unmold the top half of each egg."
+    - "Carefully spoon out a hollow in all 8 halves and fill just below level with the coconut cream."
+    - "Bring the second part of the water and agar to a boil, whisk and quickly brush it on the mango rim of both halves of each egg. Put a top half on each bottom and press gently to allow to bond. Refrigerate for 15 more minutes."
+    - "Remove from the molds and serve."
 ---
 
 <a style="display: inline;" href="/images/old/6a00e008d618bb8834011168a2d2eb970c-800wi.jpg" rel="lightbox"><img class="at-xid-6a00e008d618bb8834011168a2d2eb970c "  src="/images/old/6a00e008d618bb8834011168a2d2eb970c-500wi.jpg" alt="Inside_Out_Egg_How_To" /></a>

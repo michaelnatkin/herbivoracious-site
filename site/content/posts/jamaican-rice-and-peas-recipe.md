@@ -8,6 +8,26 @@ aliases: ["/jamaican-rice-and-peas-recipe/", "/2012/02/jamaican-rice-and-peas-re
 cover:
   image: "/images/cookbook/jamaican-rice-and-peas.jpg"
   hidden: true
+recipe:
+  name: "Jamaican Rice and Peas"
+  yield: "4"
+  time: "10 minutes active (40 minutes total)"
+  diet: "Vegan, Gluten-Free"
+  ingredients:
+    - "2 cups basmati rice (or 3 measures with the cup that comes with most rice makers)"
+    - "1 14 oz. can coconut milk"
+    - "4 green onions cooked with the rice + 1 for garnish"
+    - "1 ½ cups cooked kidney (or other beans, see above), drained"
+    - "2 cloves garlic, chopped"
+    - "3 big sprigs fresh thyme"
+    - "1 teaspoon salt"
+    - "several grinds of black pepper"
+    - "1 Scotch Bonnet or habanero pepper (optional)"
+  instructions:
+    - "If using a rice cooker, put the 3 measures of rice in the pot, add the coconut milk, and top up with enough water to reach the 3 cup line, plus ¼ cup more water. If using the stove, choose a pot with a tight fitting lid, and combine 2 cups of rice, the can of coconut milk, and 2 3/4 cups of water."
+    - "Leave 4 of the green onions whole, but crush them with a rolling pin or the back of your knife. Add them to the pot, along with the beans, garlic, thyme, salt, black pepper, and the optional whole chile pepper. Stir everything together."
+    - "If using the rice cooker, turn on and run a normal cycle. If using the stove, bring to a boil, cover, and reduce to a bare simmer, then cook until all of the water is absorbed."
+    - "To serve, remove the whole green onions, thyme sprigs, and chile if using. Fluff the rice and turn out into a bowl. Garnish with the remaining green onion, finely sliced, and serve immediately."
 ---
 <a href="/images/cookbook/jamaican-rice-and-peas.jpg"><img src="/images/cookbook/jamaican-rice-and-peas.jpg" alt="Jamaican Rice and Peas" /></a>
 

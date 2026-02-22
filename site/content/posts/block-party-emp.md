@@ -7,6 +7,15 @@ aliases: ["/block-party-emp/", "/2007/08/block-party-emp.html"]
 cover:
   image: "/images/2007-small/08/07/cheeseempanadas.jpg"
   hidden: true
+recipe:
+  name: "Appetizer Cheese Empanadas with Chimichurri Sauce"
+  instructions:
+    - "Preheat the oven to 425."
+    - "In a food processor or by hand, cut the butter into the dry ingredients. Beat the milk with the eggs and add them to the dry ingredients. Working as quickly as possible, form a ball of dough. Divide the dough into 3 balls and refrigerate for at least 20 minutes, covered."
+    - "Working with one ball at a time on a lightly floured surface, either divide into twelve equal pieces and roll out into 5\" circles, or roll into a large thin sheet (just short of transparent) and use a 5\" pastry cutter to make a dozen circles, gathering the scraps to finish the job. You may have to let the dough relax a bit if it has gotten too elastic."
+    - "With a pastry brush, wet the edge around the back half of each circle. Fill each empanada with a heaping tablespoon of the cheese mixture. Fold over and press firmly to seal. You really want a good seal to minimize cheese leakage. Optionally use your thumb and forefinger to create a decorative \"rope edge\". To do this, hold the empanada in one hand, and starting at the end neareast you, pull out a 1/2\" \"tab\", and fold it back over and toward you, then work your way towards the other end. Put each completed empanada on a non-stick baking sheet (or use a silpat or parchment paper)."
+    - "Brush the empanadas with a little whole milk to help the brown up with little shine, and bake for about 20 minutes, until deep golden brown. You can do this all well-ahead and refrigerate or freeze, and reheat on baking sheets for a few minutes."
+    - "For the chimichurri (and this is really a quickie version, but it tastes great), just whir all the ingredients in the food processor until you have a medium-coarse sauce, and then adjust salt, pepper and lemon juice as needed. It will taste best if it gets to marry flavors for half an hour or so."
 ---
 
 <a href="/images/2007/08/07/cheeseempanadas.jpg" rel="lightbox"><img title="Cheeseempanadas" src="/images/2007-small/08/07/cheeseempanadas.jpg" alt="Cheeseempanadas" width="455" height="325" border="0" /></a>

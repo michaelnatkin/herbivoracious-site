@@ -7,6 +7,32 @@ aliases: ["/creamy-grits-with-crispy-leeks-leek-jus-and-cilantro-pesto-recipe/",
 cover:
   image: "/images/old/6a00e008d618bb88340128769323d9970c-500wi.jpg"
   hidden: true
+recipe:
+  name: "Creamy Grits with Crispy Leeks, Leek Jus, and Cilantro-Epazote Pesto"
+  yield: "2"
+  diet: "Gluten-Free"
+  ingredients:
+    - "3 cups water"
+    - "1 cup whole milk"
+    - "1 cup stone-ground grits"
+    - "2 tablespoons pepitas, toasted"
+    - "1 handful cilantro leaves, cleaned"
+    - "4 epazote leaves"
+    - "2 tablespoons canola oil"
+    - "1/4 cup canola oil"
+    - "3 leeks, white parts only, halved lengthwise, cleaned thoroughly, sliced thinly"
+    - "2 morita peppers or other smoked pepper of your choice, briefly toasted in a dry skillet"
+    - "1 tablespoon honey"
+    - "2 organic eggs"
+    - "2 ounces queso fresco or other cheese of your choice"
+  instructions:
+    - "Bring the 3 cups of water and 1 cup of milk to a boil. Whisk in the grits in a thin stream, stirring continuously. Add a couple big pinches of salt. Reduce to a simmer. Cook for about 45 minutes, stirring occasionally. You will notice a distinct change where they go from being \"gritty\" to creamy. Add more water as necessary if they are getting dry before that happens. Anytime after they turn creamy, they are ready to serve. Taste and add salt as needed."
+    - "Meanwhile, combine the pepitas, cilantro, epazote, 2 tablespoons of canola oil and a pinch of salt in a mini food processor, and process until it forms a coarse, pesto-like consistency. You might need a little more oil. Taste and adjust salt."
+    - "Heat a very large, preferably cast-iron skilet over a high flame. Add 1/4 cup of oil and heat for a moment. Add the leeks and a big pinch of salt and fry, turning only very occasionally, until they are mostly deep brown. Remove about two tablespoons of them two paper towels and season with salt. As they cool, the should become crisp."
+    - "Return the pan to a medium flame (with the rest of the leeks still in it), and deglaze the pan with 1 cup of water, scraping well to get all the flavorful bits. Add the morita peppers and the honey and whisk. Reduce heat to a bare simmer and cook five minutes, adding more water if needed."
+    - "Using a fine sieve and pressing well, transfer the liquid to a very small saucepan and keep warm. Dispose of the solids. Reduce or add liquid as necessary to produce a thin jus with just a hint of body. Taste and adjust seasoning. We'd like a balance of savory from the leeks, salt, smoke and heat, and sweetness from the honey."
+    - "In the original skillet, add a little more oil and fry off two eggs. Cover so that the whites cook while the yolk remains runny. Or you could use poached eggs."
+    - "To serve, put a helping of the grits in each bowl and make a well. Fill the well with the poached egg. Top with the crispy leeks and pour a couple tablespoons of the jus around the edge. Add a tablespoon or so of the pesto and a small piece of queso fresco."
 ---
 
 <p>&#0160;<a href="/images/old/6a00e008d618bb88340128769323d9970c-800wi.jpg" rel="lightbox" style="display: inline;"><img alt="Creamy Grits with Crispy Leeks, Leek Jus, and Cilantro-Epazote Pesto" class="asset asset-image at-xid-6a00e008d618bb88340128769323d9970c " src="/images/old/6a00e008d618bb88340128769323d9970c-500wi.jpg" /></a> <br /><em>Creamy Grits with Crispy Leeks, Leek Jus, and Cilantro-Epazote Pesto</em></p>  <p> Breakfast for dinner doesn&#39;t have to be just pancakes or eggs and toast. I grew up in the South, and was always appalled to watch folks mix together <strong>waffles, bacon, maple syrup</strong> and everything else on their plate. Thirty years later, I think that mixing sweet, savory and salty flavors is pure genius. </p><p>Today&#39;s dish explores that idea, with creamy grits, crispy fried leeks, a leek jus with <a href="https://www.amazon.com/dp/B00NF1P470?tag=herb-hugo-20">morita peppers</a> and honey, cilantro-epazote pesto, an egg, <strong>sunny side up</strong>, and a bit of queso fresco. This would be more of a Southwestern spin on that Southern idea. </p>  <p>Grits are one of the great breakfast foods. If you have made polenta before, you&#39;ve also made grits - there is no real difference, unless you are talking lye-processed hominy grits, which are much less common. Some folks argue about whether or one is coarser or finer, white or yellow but mainly it is a <strong>distinction without a definitive difference</strong>. Cornmeal is simply whisked into lots of boiling water, and then simmered until smooth, soft and creamy. If you like, you can replace some of the water with milk, and/or add cheese to enrich.</p>  <p>I handled the leeks in an interesting way here. We fry up a big batch of them until crispy. Some are reserved for the final dish, and the rest are then simmered with morita peppers, extracting all of that caramelized flavor to make the jus. I just recently learned about moritas - they are <strong>smoked and dried red jalapenos</strong>. So basically chipotles, but not packed in adobo. You get the opportunity to get all the pepper flavor and smoke without the extraneous tomatoey flavors in the canned sauce. And let me tell you, breathing in deep from a bag of morita peppers is a transporting experience. Wow.</p>  <p>The cilantro-epazote pesto was a pure experiment. I thought maybe the <a href="/2008/10/scrambled-eggs/" target="_blank">epazote</a> flavor would be overpowering, and I would only be able to use a tiny bit as an accent. Surprisingly, that wasn&#39;t the case. It was present and very appetizing, but not over the top. </p>  <div class="recipe-card">

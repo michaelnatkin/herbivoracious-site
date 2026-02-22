@@ -8,6 +8,33 @@ aliases: ["/butternut-squash-soup-with-maple-pumpkin-seeds-recipe/", "/2011/03/b
 cover:
   image: "/images/cookbook/butternut-squash-soup-with-maple-pumpkin-seeds.jpg"
   hidden: true
+recipe:
+  name: "Butternut Squash Soup with Maple Pumpkin Seeds"
+  yield: "4-6"
+  time: "45 minutes"
+  diet: "Vegan, Gluten-Free"
+  ingredients:
+    - "¼ cup extra-virgin olive oil"
+    - "1 small onion, finely diced"
+    - "2 ribs celery, finely diced"
+    - "2 leaves fresh sage, thinly sliced"
+    - "Kosher salt"
+    - "3 cloves garlic, minced"
+    - "1 ½ - 2 pound butternut squash, peeled, seeded and cut into ½” cubes"
+    - "2 cups vegetable broth"
+    - "1 cup plain soymilk (or whole milk if you don’t need vegan)"
+    - "1 cup raw green (hulled) pumpkin seeds"
+    - "1 teaspoon sugar"
+    - "2 teaspoons maple syrup"
+    - "big pinch flaky sea salt"
+    - "4 teaspoons pomegranate molasses"
+    - "1 orange"
+  instructions:
+    - "Put the olive oil In a pot that holds at least 2 quarts over medium heat. Saute the onion, celery, sage and a big pinch of Kosher salt until the vegetables are softened, about 4 minutes. Add the garlic and cook 1 more minute."
+    - "Add the acorn squash and ½ teaspoon Kosher salt and cook, stirring frequently, until the squash is lightly browned and mostly tender. Add the broth and soymilk, bring to a simmer, reduce heat to medium-low, and continue to cook until the squash is fully tender."
+    - "Meanwhile, put the pumpkin seeds and sugar in a small skillet over medium heat. Toast, stirring frequently, until starting to brown and the sugar is melted. Add the maple syrup and a pinch of flaky sea salt and stir and cook for 1 more minute. Scrape the seeds onto a silicone mat or parchment paper and allow to cool into clusters."
+    - "Put serving bowls in the oven to warm up. Remove the soup from the heat and very carefully and thoroughly puree with a blender (working in batches) or stick blender. Be sure you know how to safely puree hot, thick liquids, or allow it to cool first. Add a little more soymilk if needed to reach a nice soup texture. Strain through a fine sieve and return to pot over medium low heat to come back to serving temperature. Taste and adjust seasoning."
+    - "To serve, ladle the soup into warmed bowls. Garnish with a drizzle of the pomegranate molasses and a small handful of the pumpkin seed clusters, broken up if needed. Zest the orange directly over the soup so that the essential oils are released, allowing a few strands of zest to fall on each bowl. Finish with a few more grains of flaky sea salt and serve immediately."
 ---
 <a href="/images/cookbook/butternut-squash-soup-with-maple-pumpkin-seeds.jpg"><img src="/images/cookbook/butternut-squash-soup-with-maple-pumpkin-seeds.jpg" alt="Butternut Squash Soup with Maple Pumpkin Seeds" /></a>
 

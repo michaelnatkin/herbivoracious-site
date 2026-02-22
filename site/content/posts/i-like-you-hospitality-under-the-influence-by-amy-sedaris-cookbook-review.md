@@ -7,6 +7,24 @@ aliases: ["/i-like-you-hospitality-under-the-influence-by-amy-sedaris-cookbook-r
 cover:
   image: "/images/old/6a00e008d618bb8834010535f35007970c-500wi.jpg"
   hidden: true
+recipe:
+  name: "Arty Sarayiote's Koulourakia (Greek Cookie Twists)"
+  ingredients:
+    - "1 lb. sweet butter"
+    - "1 to 1.5 cups sugar"
+    - "2 eggs, separated"
+    - "2 teaspoons vanilla extract"
+    - "1/4 teaspoon cardamom"
+    - "6 to 7 cups flour"
+    - "2 teaspoons baking powder"
+    - "1/2 pint heavy cream"
+    - "sesame seeds"
+  instructions:
+    - "Preheat oven to 350 F."
+    - "Beat butter and sugar until light and fluffy. Add egg yolks, vanilla, cardamom."
+    - "Sift flour and baking powder together. Add to the butter and sugar mixture, along with the cream and mix well."
+    - "Shape by taking a tablespoon or two of dough and rolling into 7\" ropes. Fold the rope in half and twist together."
+    - "Place the koulourakia on a foil-lined cookie sheet, brush with egg whites, top with sesame seeds, and bake 25 minutes or until light brown."
 ---
 
 <a style="display: inline;" href="/images/old/6a00e008d618bb8834010535f35007970c-800wi.jpg" rel="lightbox"><img class="at-xid-6a00e008d618bb8834010535f35007970c "  src="/images/old/6a00e008d618bb8834010535f35007970c-500wi.jpg" alt="Koulourakis (Greek cookies with cardamom)" /></a>

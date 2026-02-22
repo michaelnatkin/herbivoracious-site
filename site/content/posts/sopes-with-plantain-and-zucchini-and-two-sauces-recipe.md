@@ -7,6 +7,20 @@ aliases: ["/sopes-with-plantain-and-zucchini-and-two-sauces-recipe/", "/2012/02/
 cover:
   image: "/images/2012/04/Sopes-with-Plantains-and-Two-Sauces-626x415.jpg"
   hidden: true
+recipe:
+  name: "Sopes with Plantain, Zucchini and Two Sauces"
+  yield: "16 sopes, serves 6-8 90 minutes total For the smoky guajillo salsa (can be made a day or two ahead):"
+  time: "90 minutes total"
+  diet: "Vegan"
+  ingredients:
+    - "2 dried guajillo chiles"
+    - "3 cloves garlic (still in skin)"
+    - "One 14.5 ounce can Muir Glen fire roasted diced tomatoes"
+    - "1/4 teaspoon kosher salt"
+    - "pinch sugar"
+  instructions:
+    - "Place a small dry skillet over medium heat. Toast the chiles and garlic, pressing and turning occasionally, until quite fragrant, about 5 minutes. Allow the chiles to cool and discard the stems and seeds."
+    - "Peel the garlic. Combine the chiles, garlic, tomatoes, salt, and sugar in a blender and whiz on high speed until smooth. Taste and adjust seasoning. Reserve."
 ---
 
 <a href="/images/2012/04/Sopes-with-Plantains-and-Two-Sauces.jpg"><img class="alignnone size-large wp-image-1213" title="Sopes with Plantains and Two Sauces" src="/images/2012/04/Sopes-with-Plantains-and-Two-Sauces-626x415.jpg" alt="" width="626" height="415" />

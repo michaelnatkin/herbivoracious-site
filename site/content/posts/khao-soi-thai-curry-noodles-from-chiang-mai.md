@@ -7,6 +7,39 @@ aliases: ["/khao-soi-thai-curry-noodles-from-chiang-mai/", "/2013/04/khao-soi-th
 cover:
   image: "/images/2013/04/Khao-Soi-626x415.jpg"
   hidden: true
+recipe:
+  name: "Khao Soi – Thai Curry Noodles from Chiang Mai"
+  time: "20 min"
+  ingredients:
+    - "5 large, whole dried red chiles (such as pasilla, ancho, or New Mexico), stemmed but not seeded"
+    - "1/2 cup diced shallot"
+    - "2 teaspoons grated fresh ginger"
+    - "1 garlic clove, peeled and sliced"
+    - "1/2 teaspoon coriander seed"
+    - "1 teaspoon ground turmeric"
+    - "2 teaspoons garam masala or other Indian spice mix of your choice"
+    - "Vegetable oil for frying"
+    - "1 big handful of the noodles you will be using for the main dish"
+    - "FOR THE SAUCE"
+    - "3 (13.6-ounce) cans coconut milk"
+    - "1/2 cup light soy sauce"
+    - "2 tablespoons sugar"
+    - "3/4 to 1 1/2 pounds packaged fried tofu (see head note)"
+    - "Kosher salt"
+    - "1 cup water"
+    - "1 cup Chinese pickled mustard greens"
+    - "*OR* 1 cup Sichuan pickled vegetable (see page 000)"
+    - "*OR* 1 cup sliced napa cabbage (1/8 inch thick) tossed with 1/4 cup white vinegar and 1/2 teaspoon kosher salt"
+    - "1 pound fresh flat (about 1/8 inch wide) or spaghetti-shaped Asian egg noodles, minus a handful fried up for garnish"
+    - "4 Key limes, halved, or 2 regular limes, quartered"
+    - "Fresh cilantro leaves"
+    - "1/2 cup thinly sliced shallot"
+  instructions:
+    - "Place a medium skillet over medium heat. Put the chiles in the pan and dry-toast them for 2 minutes. Add the shallot, ginger, and garlic and continue to cook, tossing once or twice, until the chiles are very fragrant but not burning. Add the coriander seeds, turmeric, and garam masala, toss to combine, and remove from the heat. Let cool slightly, then puree in a mini-food processor (or with a mortar and pestle), adding about 1/4 cup of water (or more as needed) to form a coarse paste."
+    - "In a very small saucepan, heat 1/2 inch of vegetable oil over medium-high heat. Throw in one noodle, and when it sizzles, add half of the noodles that you have set aside for crisping. Cook, turning frequently with tongs, until golden brown and crispy. Remove to a paper-towel-lined plate and repeat with the rest of the noodles to be crisped."
+    - "Bring a large pot of salted water to a boil and warm four serving bowls in a low (200°F) oven."
+    - "While the pot of water heats up, pour 1 can of the coconut milk into a large saucepan (at least 4 quarts), place it over medium heat, and simmer until it begins to separate. Stir in about half of the curry paste, along with the soy sauce and sugar, and continue cooking until the sauce becomes thick enough to coat a spoon, about 10 minutes. Add the fried tofu and simmer 10 more minutes. Taste and adjust seasoning, adding more salt if desired. If you like it hotter, stir in more of the chili paste. Add the remaining 2 cans of coconut milk and the water, and bring back up to a simmer."
+    - "Drain and squeeze most of the liquid out of the pickled vegetable. Boil the noodles according to the package directions; cook until they are tender but still have a bit of bite. Drain and divide among the serving bowls. Top each serving of noodles with one-quarter of the sauce and tofu, a squeeze of lime juice, a handful of the pickled vegetable, one-quarter of the crispy noodles, and a few cilantro leaves. Serve immediately, passing the thinly sliced shallots, remaining limes, and curry paste for each diner to apply."
 ---
 
 <a href="/images/2013/04/Khao-Soi.jpg"><img class="alignnone size-large wp-image-3718" alt="Khao Soi - Chiang Mai Curry Noodles" src="/images/2013/04/Khao-Soi-626x415.jpg" width="626" height="415" /></a>

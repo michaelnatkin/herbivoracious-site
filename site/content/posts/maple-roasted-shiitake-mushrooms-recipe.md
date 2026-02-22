@@ -7,6 +7,17 @@ aliases: ["/maple-roasted-shiitake-mushrooms-recipe/", "/2012/05/maple-roasted-s
 cover:
   image: "/images/2012/04/Maple-Roasted-Shiitake-626x415.jpg"
   hidden: true
+recipe:
+  name: "Maple-Roasted Shiitake Mushrooms"
+  yield: "4 as part of an entree - could also be used as a breakfast item or side dish Vegetarian, vegan, gluten-free and kosher"
+  diet: "Vegan, Vegetarian, Gluten-Free"
+  ingredients:
+    - "1 pound of fresh shiitake mushrooms, stems removed"
+    - "Real maple syrup (se above) to coat, about 1/2 cup"
+    - "1/2 teaspoon kosher salt"
+    - "Big pinch smoked paprika (pimenton)"
+  instructions:
+    - "Preheat oven to 400 degrees. Toss the mushroom caps with the syrup, salt and paprika. Spread in a single layer on a baking sheet lined with a silicone mat or parchment paper. Roast, turning a couple of times, until tender, glazed, and wrinkled. Taste and adjust seasoning. Serve hot."
 ---
 
 <a href="/images/2012/04/Maple-Roasted-Shiitake.jpg"><img class="alignnone size-large wp-image-1845" title="Maple Roasted Shiitake Mushrooms" src="/images/2012/04/Maple-Roasted-Shiitake-626x415.jpg" alt="Maple Roasted Shiitake Mushrooms" width="626" height="415" />

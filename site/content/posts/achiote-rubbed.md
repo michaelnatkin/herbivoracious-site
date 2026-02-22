@@ -7,6 +7,34 @@ aliases: ["/achiote-rubbed/", "/2008/09/achiote-rubbed.html"]
 cover:
   image: "/images/2008-small/09/20/butternut_squash_taco_filling.jpg"
   hidden: true
+recipe:
+  name: "Achiote-Rubbed Butternut Squash Tacos"
+  yield: "8 as part of a feast Vegetarian and gluten-free; could be vegan if you omit the cheese and crema For the filling:"
+  diet: "Vegan, Vegetarian, Gluten-Free"
+  ingredients:
+    - "1 large butternut squash, peeled seeded, and cut into 1/2\" thick slabs"
+    - "2 oz. achiote paste (see above)"
+    - "3 poblano peppers"
+    - "cilantro"
+    - "mexican crema or sour cream"
+    - "salt"
+    - "32 soft corn tortillas"
+    - "1/2 red onion, medium slices"
+    - "2 limes cut into wedges"
+    - "1/2 pound panella cheese or other soft, mild, white cheese"
+    - "more cilantro"
+    - "more crema"
+    - "Tapatio or other hot sauce"
+    - "optional: guacamole, more poblanos"
+  instructions:
+    - "Mix the achiote paste with a small amount of hot water. Working in the sink, use your hands to break it up until thoroughly dissolved. Rub it on all sides of the butternut squash slabs and set aside. Wash your hands, this stuff stains!"
+    - "Prepare a grill for direct high heat. Place the poblano peppers on the grill and char them, rotating occasionally until they are mostly black on all sides. Remove from the grill and put them in a covered bowl for 10 minutes (the steam makes it easy to remove the skins)."
+    - "Reduce the heat of the grill (by adjusting the gas or allowing the charcoal to burn down and using the side areas), then put on the squash. I didn't use any oil and had only slight sticking, but you might want to use a little. Cook until thoroughly tender, flipping halfway through."
+    - "Remove the squash from the grill and allow to cool a bit, then cut into cubes. If you had to remove it early because it was overcooking on the outside and isn't quite tender, you can use a microwave to finish it."
+    - "Peel and seed the poblanos, then cut into small dice."
+    - "Toss the squash and poblanos along with a 1.5 teaspoons of salt. Taste and adjust. Place in a bowl and top with a squirt of crema and some cilantro."
+    - "Wrap the tortillas in a moistened towl and microwave for 90 seconds."
+    - "Bring everything to the table and let everyone roll tacos to their own taste. Use two overlapped tortillas per taco to make a structurally sound dining device."
 ---
 
 <a href="/images/2008/09/20/butternut_squash_taco_filling.jpg" rel="lightbox"><img title="Filling for achiote-rubbed butternut squash tacos" src="/images/2008-small/09/20/butternut_squash_taco_filling.jpg" alt="Grilled butternut squash taco filling" width="455" height="303" border="0" /></a>

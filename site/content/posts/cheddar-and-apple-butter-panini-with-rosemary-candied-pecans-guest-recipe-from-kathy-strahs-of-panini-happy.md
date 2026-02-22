@@ -7,6 +7,30 @@ aliases: ["/cheddar-and-apple-butter-panini-with-rosemary-candied-pecans-guest-r
 cover:
   image: "/images/2011/12/Panini-800.jpg"
   hidden: true
+recipe:
+  name: "Cheddar and Apple Butter Panini with Rosemary Candied Pecans"
+  time: "15 minutes Cook"
+  diet: "Vegetarian"
+  ingredients:
+    - "1/4 cup granulated sugar"
+    - "2 teaspoons chopped fresh rosemary"
+    - "1/2 teaspoon coarse salt"
+    - "1/8 teaspoon ground cayenne pepper"
+    - "1 egg white"
+    - "1 tablespoon water"
+    - "1 cup chopped pecans"
+    - "8 slices rosemary bread, or other country-style white bread"
+    - "1/4 cup apple butter"
+    - "8 ounces shredded sharp cheddar cheese"
+    - "1 tablespoon melted butter"
+  instructions:
+    - "Preheat the oven or toaster oven to 300°F. Line a baking sheet with foil sprayed with cooking spray."
+    - "Add the sugar, rosemary, salt and cayenne to a resealable plastic bag. Seal the bag and shake it well to combine it all."
+    - "In a medium bowl, whisk together the egg white and water until the mixture is slightly foamy. Add in the pecans and toss to coat them well. With a slotted spoon, transfer the pecans to the bag with the sugar mixture. Seal the bag and shake it well to coat all of the pecans."
+    - "Transfer the coated pecans to the prepared baking sheet and bake them for 30 minutes, giving them a stir with a fork after about 15 minutes. Set them aside to cool."
+    - "Preheat the panini grill to medium-high heat.*"
+    - "For each sandwich: Top a slice of bread with 1/4 of the cheese and a few tablespoons of the Rosemary Candied Pecans. Spread about a tablespoon of apple butter inside another slice of bread and place it, apple butter side-down, on top of the pecans to close the sandwich."
+    - "Brush a little melted butter over the top of the sandwich and transfer it to the panini grill. Grill until the cheese is melted and the bread is toasted, 4 to 5 minutes. Slice the sandwich in half and serve it immediately."
 ---
 
 <a href="/images/2011/12/Panini-800.jpg"><img class="alignnone size-full wp-image-929" title="Panini 800" src="/images/2011/12/Panini-800.jpg" alt="" width="800" height="1200" /></a>

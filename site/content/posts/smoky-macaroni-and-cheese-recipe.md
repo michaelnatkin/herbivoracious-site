@@ -7,6 +7,37 @@ aliases: ["/smoky-macaroni-and-cheese-recipe/", "/2009/06/smoky-macaroni-and-che
 cover:
   image: "/images/old/6a00e008d618bb8834011570bd915f970b-500wi.jpg"
   hidden: true
+recipe:
+  name: "Triple-Smoky Macaroni and Cheese"
+  yield: "6-8 as a main course"
+  diet: "Vegan"
+  ingredients:
+    - "1 pound elbow macaroni"
+    - "8 tablespoons butter, divided"
+    - "4 cups cubed bread, preferably rustic, preferably dry/stale (but not moldy!)"
+    - "2 cloves garlic, minced"
+    - "1/4 cup all purpose-flour"
+    - "4 cups whole milk"
+    - "1/2 onion, finely diced"
+    - "1 tablespoon smoked paprika"
+    - "1 teaspoon rosemary, minced"
+    - "1 chipotle pepper (canned in adobo sauce), minced, or 1/4 cup Frontera chipotle sauce"
+    - "1 teaspoon oregano"
+    - "1/4 teaspoon nutmeg (preferably freshly grated)"
+    - "8 ounces smoked cheddar (or other smoked cheese), grated"
+    - "8 ounces mozzarella (not fresh mozzarella), grated"
+    - "salt to taste"
+  instructions:
+    - "Bring a large pot of salted water to a boil. Boil the macaroni according to package directions, draining when it is just becoming al dente. This will bake more in the oven, so don't overcook it. Drain and toss with 2 tablespoons butter."
+    - "If the bread isn't fully dried, toast it on a tray in the toaster oven, toaster or skillet, and then allow to cool. Grind in a food processor until you have fairly coarse crumbs. Heat 2 tablespoons butter in a skillet over medium heat, add the garlic, a pinch of salt, and the breadcrumbs. Cook, tossing frequently, until lightly browned. Set aside to cool. At this point people will be crowding your kitchen, asking \"what's for dinner?\" because of the smell of garlic butter."
+    - "Preheat oven to 350 and grease a large baking dish."
+    - "In a medium saucepan, melt the remaining 4 tablespoons of butter over medium-low heat. Sprinkle in the flour and whisk pretty constantly for 3 minutes. Whisk in the milk. Add the onion, smoked paprika, rosemary, chipotle, oregano, and nutmeg. Simmer, whisking occasionally until it begins to thicken."
+    - "Gradually whisk in the grated cheeses, stirring each batch to incorporate."
+    - "Taste the sauce, and adjust the seasoning to your preference. It will probably need a little salt, but maybe not too much depending on the cheeses. Add more spiciness if desired. Remember that the sauce should be pretty intense because it is going to be diluted by a full pound of pasta."
+    - "Stir the macaroni into the sauce. Pour the macaroni into the prepared pan."
+    - "Top with the garlicky breadcrumbs (you might not need all of them)."
+    - "Bake for about 30 minutes, until you can see bubbling around the sides and the breadcrumbs are nicely browned."
+    - "Let stand for 5-10 minutes (to set) and serve."
 ---
 
 <p><a href="/images/old/6a00e008d618bb8834011570bd915f970b-800wi.jpg" rel="lightbox" style="display: inline;"><img alt="Triple_Smoky_Mac_And_Cheese" class="at-xid-6a00e008d618bb8834011570bd915f970b " src="/images/old/6a00e008d618bb8834011570bd915f970b-500wi.jpg" /></a>&#0160;</p><p>The last time we talked about mac and cheese, it was this <a href="/2007/12/recipe-double-c/" target="_blank">double-crust version</a> which is pretty great and crunchy. But ever since a friend brought us a superb traditional mac to have in the freezer after our first kid came was born, I&#39;ve had in mind to revisit the classic. The parts that I especially liked were the macaroni noodles (instead of penne which I usually use) and the breadcrumb top.</p><p>I needed to feed both kids and adults, so I made two batches. I simply made one big pot of bechamel base and then divided it into two before adding cheese and spices. The kid portion was straight cheddar and mozzarella, and it was darn good.</p><p> For the grownups, I was inspired by an incredible <strong>oak-smoked cheddar</strong> that I purchased at DeLaurentis in Pike Place Market. I reinforced that flavor with <a href="https://www.amazon.com/dp/B000NO943C?tag=herb-hugo-20" target="_blank" rel="nofollow">smoked paprika</a> and chipotle pepper. If you can&#39;t get the smoked cheddar, smoked mozzarella would be good too. I was very happy with the results. The smoke was definitely present but not overpowering, and a good match for a little chili heat. On a warm afternoon with a cold beer on the deck, life seemed pretty great.</p><p>Let&#39;s talk breadcrumbs. <strong>Homemade</strong>. Gotta do it. That stuff in the cans is pretty awful. Much too powdery and flavorless. Plus homemade breadcrumbs are a great way to use up leftover, slightly stale bread. Mario Batali gave me permission to leave the crust on, though others consider that abhorrent. You make the call. Once you get in the habit of making them at home, you&#39;ll want to use them all the time on pastas, simple vegetable dishes, gratins... any place you want to garnish with a little crunch. I like to include garlic when I saute them for an extra hit of flavor.</p><p>You can also make this macaroni and cheese ahead, and refrigerate it, which makes it very convenient for dinner parties. Just wait to top with the breadcrumbs until the last minute, and allow additional baking time to come up to temperature.</p><div class="recipe-card">

@@ -7,6 +7,18 @@ aliases: ["/strawberries-and-cream-birthday-cake-momofuku-style/", "/2012/11/str
 cover:
   image: "/images/2012/09/Milk-Bar-Style-Strawberry-Cake-275x415.jpg"
   hidden: true
+recipe:
+  name: "Whipped Cream Frosting"
+  yield: "in refrigerator until you are ready to frost your cake"
+  time: "1 minute"
+  ingredients:
+    - "8 ounces cream cheese (full fat, not whipped)"
+    - "1/4 teaspoon salt"
+    - "1 cup powdered sugar"
+    - "1 tablespoon vanilla extract"
+    - "1 1/2 cups heavy cream"
+  instructions:
+    - "Put the cream cheese, salt, sugar and vanilla extract in a stand mixer. Beat on medium speed until fluffy, about 1 minute. With the mixer still running, drizzle in the heavy cream. Continue beating until the mixture is homogenous and holds stiff peaks. Reserve in refrigerator until you are ready to frost your cake."
 ---
 
 <a href="/images/2012/09/Milk-Bar-Style-Strawberry-Cake.jpg"><img class="alignnone size-large wp-image-2790" title="Strawberry Birthday Cake, Momofuku Milk Bar Style" src="/images/2012/09/Milk-Bar-Style-Strawberry-Cake-275x415.jpg" alt="Strawberry Birthday Cake, Momofuku Milk Bar Style" width="275" height="415" /></a>

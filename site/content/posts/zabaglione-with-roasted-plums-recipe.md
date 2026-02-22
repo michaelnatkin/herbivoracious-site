@@ -8,6 +8,21 @@ aliases: ["/zabaglione-with-roasted-plums-recipe/", "/2012/04/zabaglione-with-ro
 cover:
   image: "/images/cookbook/zabaglione-with-roasted-plums.jpg"
   hidden: true
+recipe:
+  name: "Zabaglione with Roasted Plums"
+  yield: "4"
+  time: "20 minutes"
+  diet: "Gluten-Free"
+  ingredients:
+    - "12 Italian plums, halved and pitted"
+    - "6 tablespoons sugar, divided"
+    - "4 egg yolks"
+    - "¼ cup plum brandy or grappa (slivovitz) + ¼ cup water, or ½ cup Marsala wine"
+    - "pinch of salt"
+  instructions:
+    - "Heat the oven the to 400 degrees. Place the plums on a rimmed cookie sheet (with parchment paper for easier cleanup) and sprinkle with two tablespoons of the sugar. Roast for about 15 minutes, until browning and tender but not falling apart."
+    - "Bring water to a sbare immer in a double boiler, using a round-bottomed metal mixing bowl for the top half. In the top half of the double boiler, but off the heat, thoroughly whisk together the egg yolks, ¼ cup of sugar, plum brandy, water and a pinch of salt. Set on top of the boiling water and whisk continuously. The egg yolks will begin to froth, lighten, and grow greatly in volume. If you sense that the yolks are at risk of scrambling, quickly remove from the heat and whisk to cool slightly, then continue. When soft peaks from after, about 5 to10 minutes, the zabaglione is done. Remove to a clean bowl and refrigerate."
+    - "To serve, place 6 plum halves in the bottom of each of 4 glasses. Give the zabaglione a quick whisk and spoon on top of the plums, then serve immediately."
 ---
 <a href="/images/cookbook/zabaglione-with-roasted-plums.jpg"><img src="/images/cookbook/zabaglione-with-roasted-plums.jpg" alt="Zabaglione with Roasted Plums" /></a>
 

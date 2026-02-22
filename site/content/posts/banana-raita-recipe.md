@@ -8,6 +8,26 @@ aliases: ["/banana-raita-recipe/", "/2012/06/banana-raita-recipe.html"]
 cover:
   image: "/images/cookbook/banana-raita.jpg"
   hidden: true
+recipe:
+  name: "Banana Raita"
+  yield: "1 ½ cups"
+  time: "5 minutes"
+  diet: "Gluten-Free"
+  ingredients:
+    - "1 ripe banana, peeled and finely diced"
+    - "juice of ½ lemon"
+    - "1 tablespoon vegetable oil"
+    - "1 tablespoon black mustard seed"
+    - "1 cup yogurt"
+    - "½ teaspoon salt"
+    - "½ teaspoon sugar"
+    - "½ jalapeno pepper, finely diced (optional)"
+    - "1 green onion, white and light green parts only, thinly sliced"
+  instructions:
+    - "Toss the diced banana with the lemon juice (to prevent browning)."
+    - "Heat the oil in a small skillet over a medium flame. When hot, add the mustard seeds and cook until they begin to pop and change color, about 1 minute."
+    - "Put the yogurt, salt, and sugar in a bowl. Beat thoroughly with a whisk or fork until smooth. Mix in the bananas, mustard seeds and jalapeno."
+    - "Taste and adjust seasoning, garnish with the green onion, and serve."
 ---
 <a href="/images/cookbook/banana-raita.jpg"><img src="/images/cookbook/banana-raita.jpg" alt="Banana Raita" /></a>
 

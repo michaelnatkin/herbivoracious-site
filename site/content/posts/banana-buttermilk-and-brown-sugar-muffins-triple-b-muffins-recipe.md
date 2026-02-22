@@ -7,6 +7,32 @@ aliases: ["/banana-buttermilk-and-brown-sugar-muffins-triple-b-muffins-recipe/",
 cover:
   image: "/images/2012/02/Banana-Buttermilk-Brown-Sugar-Muffins-626x415.jpg"
   hidden: true
+recipe:
+  name: "Banana, Buttermilk and Brown Sugar Muffins"
+  yield: "12 muffins 35 minutes total (10 active) Wet ingredients:"
+  time: "35 minutes total (10 active)"
+  diet: "Vegetarian"
+  ingredients:
+    - "1 cup buttermilk"
+    - "1/4 cup safflower (or other neutral vegetable) oil"
+    - "1 egg"
+    - "2 very ripe bananas (overripe if possible, frozen is fine - defrost in microwave first if your blender isn't superpowered)"
+    - "1 inch piece of fresh ginger, grated"
+    - "1/4 teaspoon cinnamon"
+    - "2 1/2 cups (320 grams) all-purpose flour"
+    - "2/3 cup brown sugar (preferably dark brown)"
+    - "2 teaspoons baking powder"
+    - "1/2 teaspoon baking soda"
+    - "1/2 teaspoon salt"
+    - "1 tablespoon melted butter"
+    - "1 tablespoon brown sugar (preferably dark)"
+    - "1/4 teaspoon cinnamon"
+  instructions:
+    - "Preheat oven to 375 degrees (using convection if available) and put liners in a 12-cup muffin pan."
+    - "Put the wet ingredients in a blender and blend on high until very smooth."
+    - "In a large bowl, whisk together the dry ingredients. Pour in the wet ingredients and stir and fold them together. Stir as little as possible to avoid developing gluten which would make the muffins tough. Divide the batter into the muffin cups (an ice-cream scoop works well for this.)"
+    - "Spoon about 1/2 teaspoon of the drizzle over each muffin."
+    - "Bake until golden brown, about 25 minutes."
 ---
 
 <a href="/images/2012/02/Banana-Buttermilk-Brown-Sugar-Muffins.jpg"><img class="alignnone size-large wp-image-1345" title="Banana, Buttermilk and Brown Sugar Muffins" src="/images/2012/02/Banana-Buttermilk-Brown-Sugar-Muffins-626x415.jpg" alt="Banana, Buttermilk and Brown Sugar Muffins" width="626" height="415" />

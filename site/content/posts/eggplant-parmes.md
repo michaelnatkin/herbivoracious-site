@@ -8,6 +8,16 @@ aliases: ["/eggplant-parmes/", "/2007/08/eggplant-parmes.html"]
 cover:
   image: "/images/old/6a00e008d618bb88340134874f99a5970c-500wi.jpg"
   hidden: true
+recipe:
+  name: "Eggplant Parmesan (or Eggplant Parmigiana)"
+  instructions:
+    - "Peel eggplant and slice lengthwise in scant 1/2\" thick planks. Layer in a colander or on a cooling racks, with a heavy sprinkling of kosher salt in each layer, top with a plate and weight with some cans, and let drain for at least 30 minutes. Wipe off excess salt with a paper towel."
+    - "Make a quick tomato sauce by sauteing the garlic in the olive oil and adding the diced tomatoes, and reducing a bit while you make the rest of the recipe. Don't add salt because the eggplant will still have residual salt from the draining process."
+    - "Set up for dredging, with plates for the flour and panko, and a shallow bowl for the egg. Also, get a rack or sheet pan covered with paper towel to receive the booty. Get out and butter a large baking dish and preheat the oven to 400 degrees."
+    - "Put a good 1/4\" of vegetable oil (not olive oil, it will smoke too much) in your biggest skillet and and heat on high. Working with two slices of eggplant at a time, pat them in the flour until they have a dry coating, then drag through the egg, and finally press both sides in the panko, covering thoroughly. Place them in the skillet, where they should start sizzling immediately. Fill the skillet loosely, leaving yourself some room to work. Flip when brown, maybe 2 minutes, then remove to the paper towels when brown on the other side. They should be tender to a fork at this point, because the oven baking is just to melt the cheese, not cook the eggplant."
+    - "To assemble, lay down your first layer of eggplant, and top each slice with a couple tablespoons of tomato sauce, a piece of mozarella, a bit of parmesan, and a bit of basil . Build up three layers using all of the ingredients and finishing with cheese."
+    - "Bake in the oven for about 20 minutes, until the cheese it thoroughly melted."
+    - "To serve, put a healthy stack on each plate, and top with about 1/4 cup of the diced heirloom tomatoes, any remaining basil, and a grind of fresh pepper."
 ---
 
 <a style="display: inline;" href="/images/old/6a00e008d618bb88340134874f99a5970c-800wi.jpg" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb88340134874f99a5970c" title="Eggplant Parmigiana" src="/images/old/6a00e008d618bb88340134874f99a5970c-500wi.jpg" alt="Eggplant Parmigiana" /></a>

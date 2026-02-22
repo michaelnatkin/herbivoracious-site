@@ -8,6 +8,19 @@ aliases: ["/homemade-breadcrumbs-recipe/", "/2012/07/homemade-breadcrumbs-recipe
 cover:
   image: "/images/cookbook/homemade-breadcrumbs.jpg"
   hidden: true
+recipe:
+  name: "Homemade Breadcrumbs"
+  yield: "2 cups"
+  time: "15 minutes"
+  diet: "Vegan"
+  ingredients:
+    - "6 thick slices of stale, but not moldy, bread, crust on"
+    - "3 tablespoons extra-virgin olive oil"
+    - "¼ teaspoon Kosher salt"
+  instructions:
+    - "Set up your food processor with the grating blade. Run all of the bread through the grater. Empty the crumbs out of the bowl and replace the grating blade with the regular chopping blade. Put the crumbs back in and process until you reach your desired texture. I like mine fairly coarse for general use, but rather fine if being used for breading."
+    - "Put the oil in your largest skillet over medium-low heat. When the oil is hot, add the breadcrumbs and salt. Toast, stirring frequently until well browned and crispy, about 10 minutes."
+    - "Set aside to cool and use as needed."
 ---
 <a href="/images/cookbook/homemade-breadcrumbs.jpg"><img src="/images/cookbook/homemade-breadcrumbs.jpg" alt="Homemade Breadcrumbs" /></a>
 

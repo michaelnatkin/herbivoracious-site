@@ -7,6 +7,35 @@ aliases: ["/saffron-risotto-with-watercress-puree-and-spring-vegetables-recipe/"
 cover:
   image: "/images/2013/03/Saffron-Risotto-with-Watercress-Puree-and-Spring-Vegetables-626x415.jpg"
   hidden: true
+recipe:
+  name: "Saffron Risotto with Watercress Puree and Spring Vegetables – Recipe"
+  time: "30 min"
+  ingredients:
+    - "Double recipe ChefSteps' Watercress Puree"
+    - "2 cups shucked fresh peas"
+    - "1 bunch asparagus"
+    - "2 big pinches saffron (1/4 gram)"
+    - "3 tablespoons extra virgin olive oil (50 grams) + more for the vegetables"
+    - "1/2 finely diced onion (140 grams)"
+    - "2 cups arborio rice (420 grams)"
+    - "1 1/4 cups dry white wine (300 grams)"
+    - "6 cups clear vegetable broth (1400 ml) at a simmer"
+    - "Zest of 1/2 lemon"
+    - "1/4 pound taleggio or other triple cream cheese (113 grams)"
+    - "Kosher salt"
+    - "Freshly ground black pepper"
+  instructions:
+    - "Prepare the watercress puree and reserve warm."
+    - "Preheat your serving bowls."
+    - "In a large pot of boiling salted water, or sous vide, separately blanch and shock the peas and the asparagus."
+    - "Wrap the saffron in tin foil and toast briefly in a dry skillet. Remove, cool, crumble, and add to the vegetable broth."
+    - "Place a large Dutch oven over medium heat. Add the 3 tablespoons of olive oil, and when it is hot, add the onion and a pinch of salt. Cook, stirring frequently, until the onion is translucent. Add the rice, and cook, stirring frequently until the rice is translucent, about 3 minutes."
+    - "Stir in the white wine and cook until it is absorbed."
+    - "Ladle in about 1 cup of the broth, and stir the risotto well. Repeat this process every couple of minutes when the liquid is absorbed. You'll see the rice begin to swell. Periodically taste a grain."
+    - "When the rice is nearly done, bring a large skillet up to high heat and quickly saute the par-cooked asparagus and peas in a generous glug of olive oil. Season with salt and pepper to taste."
+    - "When it is tender but has just a tiny bit of toothsomeness to it, stir in the lemon zest and cheese. Taste and adjust seasoning."
+    - "Make a final adjustment to the texture of the risotto - it should be quite moist, otherwise it will firm up too much when set. If you've used up all of the broth, simmering water can be used instead."
+    - "To finish, divide the watercress puree among the bowls. Spoon in the risotto and top with the vegetables. Serve piping hot."
 ---
 
 <a href="/images/2013/03/Saffron-Risotto-with-Watercress-Puree-and-Spring-Vegetables.jpg"><img class="alignnone size-large wp-image-3671" src="/images/2013/03/Saffron-Risotto-with-Watercress-Puree-and-Spring-Vegetables-626x415.jpg" alt="Saffron Risotto with Watercress Puree and Spring Vegetables" width="626" height="415" /></a>

@@ -7,6 +7,31 @@ aliases: ["/bocoles-masa-and-black-bean-cakes-with-spicy-yams-recipe/", "/2009/1
 cover:
   image: "/images/old/6a00e008d618bb88340120a651bb62970b-500wi.jpg"
   hidden: true
+recipe:
+  name: "Bocoles (Masa and Black Bean Cakes) with Spicy Yams"
+  yield: "6 as an entree or 12 as an appetizerVegetarian, vegan if you omit the crema, and gluten-free For the yam filling:"
+  diet: "Vegan, Gluten-Free"
+  ingredients:
+    - "2 tablespoons oil"
+    - "1 white onion, diced"
+    - "4 cloves garlic, minced"
+    - "2 medium yams, peeled and finely diced (see below)"
+    - "2 or more jalapeno peppers, minced"
+    - "1 teaspoon cumin powder"
+    - "salt"
+    - "2 pounds (about 4 cups) masa or prepared masa harina, no wetter than necessary"
+    - "2 cups refried black beans (Ducal brand is good or make your own)"
+    - "2 teaspoons baking powder"
+    - "salt"
+    - "oil for pan frying"
+    - "shredded romaine lettuce hearts"
+    - "crema or sour cream"
+    - "salsa or jicama salad"
+    - "optional: mole or pipian sauce"
+  instructions:
+    - "The easiest way to cut the yams is to make strips using a mandoline and then use a knife to cut the strips into very small cubes. Heat the oil in a large skillet over a medium flame. Saute the onion and garlic for 1 minute. Add the yams, jalapeno and cumin and 1/2 teaspoon of salt. Cook, stirring occasionally until the yams are fully tender. Taste and adjust seasoning - they will likely need more salt. Feel free to make the filling spicier if that suits you."
+    - "Thoroughly mix the masa, refried beans, baking powder and 1 teaspoon salt. Taste and add more salt if needed. Heat 1/8\" of oil in a large skillet over a medium flame. Make golf-ball sized balls of the dough and pat them between your hands into a pancake about 1/4\" thick or so. Fry for about 3 or 4 minutes until brown on the outside and cooked but still soft on the inside. Diana Kennedy says 7 minutes per side but I found it didn't it take that long; try a tester and see what you like best."
+    - "Serve as soon as possible, on a bed of shredded lettuce, topped with a generous amount of the yam filling, and garnished with crema. Pass the salad or salsa and optional mole on the side."
 ---
 
 <p>&#0160;<a href="/images/old/6a00e008d618bb88340120a651bb62970b-800wi.jpg" rel="lightbox" style="display: inline;"><img alt="Bocoles_With_Yams" class="asset asset-image at-xid-6a00e008d618bb88340120a651bb62970b " src="/images/old/6a00e008d618bb88340120a651bb62970b-500wi.jpg" /></a><br /><em>Bocoles (Masa and Black Bean Cakes) with Spicy Yams</em></p>  <p>Bocoloes are little pan-fried cake of masa and mashed black beans, typically served as an <em>antojito</em> (appetizer). I learned about them from Diana Kennedy&#39;s magnificient <a href="https://www.amazon.com/dp/0609602470?tag=herb-hugo-20" target="_blank">My Mexico</a> and thought that I could replace the pork filling with yams, increase the portion, and make an unusual and delicious vegetarian entree. </p>  <p>The cakes came out great; they fry up with a crispy exterior and somewhat creamy inside. If you have had an Indian dosa, which is made from a lentil batter, the crust is kind of like that. Both of my kids loved them too, which was a nice bonus. The older one now calls them &quot;yummy cakes&quot; and is lobbying for a repeat performance.</p>  <p>I served the bocoles with this refreshing <a href="/2009/11/jicama-orange-and-radish-salad-recipe/" target="_blank">jicama, radish and orange salad</a>, and a spoonful of homemade pipian, a type of mole made with <a href="https://www.amazon.com/dp/B07TVJ9GSD?tag=herb-hugo-20">pumpkin seeds (pepitas)</a>.</p>  <p>Fresh masa is a delight to work with, much nicer than dough made from dry masa harina. Your best bet for finding it is to locate a place that makes fresh corn tortillas (a <em>tortilleria</em>). That should be easy in parts of the country that have large Mexican populations. In Seattle I&#39;ve had luck at La Bendicion on Beacon Hill, if I ask a day in advance, or I hear you can get it at the The Mexican Grocery in Pike Place. If you don&#39;t have fresh masa, just buy <a href="https://www.amazon.com/dp/B00ZQMR7L2?tag=herb-hugo-20">masa harina</a> flour and mix it according to the package directions for tortillas.</p>  <p>I also bought pre-made Ducal-brand refried black beans. If you don&#39;t have that, simply fry some onion and garlic with canned black beans and then thoroughly puree them with enough liquid to make a smooth paste.</p>  <div class="recipe-card">

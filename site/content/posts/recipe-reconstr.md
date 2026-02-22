@@ -7,6 +7,28 @@ aliases: ["/recipe-reconstr/", "/2007/10/recipe-reconstr.html"]
 cover:
   image: "/images/2007-small/10/30/tarttatinwithspunsugar.jpg"
   hidden: true
+recipe:
+  name: "Reconstructed Tarte Tatin"
+  yield: "4"
+  ingredients:
+    - "3 baking apples, peeled, cored, and sliced medium"
+    - "1 c. sugar"
+    - "2 T. quince or apricot jam, warmed to a spreadable consistency"
+    - "2 T. butter"
+    - "1/4 t. cinnamon"
+    - "1/8 t. nutmeg (preferably fresh ground)"
+    - "1 pinch sea salt"
+    - "1 sheet all-butter puff pastry, defrosted"
+  instructions:
+    - "Preheat oven to 400 degress."
+    - "In an ovenproof skillet, heat 2/3 c. of the sugar over medium heat, stirring occasionally until it turns into a light caramel. Be careful! Caramel will burn you very easily. Add the apples, toss, dot with butter, and put in oven."
+    - "Cut a 10 inch circle out of the puff pastry and put on a cookie sheet in the oven."
+    - "Bake the apples until tender and the puff pastry until golden brown (which will be at different times) and remove both from the oven."
+    - "In a clean skillet, melt the remaining sugar into a medium caramel and let start to cool in a ramekin."
+    - "Using a paring knife, cut a rim around the puff pastry, about 3/4\" in from the edge to create a \"dish\" into which to place the apples. You aren't removing any pastry, just letting the center drop."
+    - "Lay the apples in concentric rings, tucking them under the edge. Glaze with the jam, warming it slightly in the microwave if needed. Pour over the leftover apple cooking juice and caramel, reducing a bit if needed. If you want to add some Calvados, don't let me stop you. Sprinkle with the cinammon, nutmeg, and sea salt."
+    - "To make the spun sugar, take the tines of a fork, dip them in the caramel and pull vertically. If it is as the right temperature, it will form a thin strand. Carefully use your fingers to stretch it. Lay the strand over the tart and repeat until it looks cool. (There are more technical ways to do this that include adding water, corn syrup, cream of tartar and so on. But I didn't have any problem with this technique.)"
+    - "Serve with vanilla ice cream!"
 ---
 
 <p><a rel="lightbox" href="/images/2007/10/30/tarttatinwithspunsugar.jpg"><img width="455" height="302" border="0" src="/images/2007-small/10/30/tarttatinwithspunsugar.jpg" title="Reconstructed Tarte Tatin with Spun Sugar" alt="Reconstructed Tarte Tatin with Spun Sugar" /></a><br /><span style="font-size: 0.8em;">Reconstructed Tarte Tatin with Spun Sugar</span></p>  <p>This quick tarte tatin-style dessert is based partially on a method by Dieter Schoemer that I read about in <a href="https://www.amazon.com/dp/0471287857?tag=herb-hugo-20">Culinary Artistry</a>, which I'll be reviewing soon. I made it as a full size dessert that would serve 4 with ice cream, but you could also do it as individual portions, which I think would be quite striking. The main idea is to cook the crust separately from the apples and caramel so it remains crunchy. I added the easy but cool looking spun sugar topping. You could do this with a normal flaky pie crust instead of puff pastry too.<br /> </p>  <div class="recipe-card">

@@ -4,6 +4,18 @@ date: 2007-07-16T20:21:51
 slug: "mexican-panzane"
 categories: ["Recipes", "Salads", "Vegan or Modifiable"]
 aliases: ["/mexican-panzane/", "/2007/07/mexican-panzane.html"]
+recipe:
+  name: "Mexican Panzanella Salad"
+  yield: "8 as most of dinnerVegetarian and vegan; to make gluten-free use corn tortillas instead of the bread 5 small limes, juiced 3"
+  time: "3 minutes"
+  diet: "Vegan, Gluten-Free"
+  ingredients:
+    - "Whisk together lime juice, olive oil, garlic, salt, chili powder and cumin to make the dressing. It should be pretty salty."
+    - "Prepare the poblanos, tomatoes, cucumber and onion and place in a large serving bowl"
+    - "Remove the corn kernels from the cob and add to the other vegetables"
+    - "If you like the bread to sop up the juice, add it now, otherwise wait til close to serving time"
+    - "About 15 minutes before you are ready to serve the salad, combine the dressing, vegetables, bread (if you haven't already), avocado, and herbs, and toss gently but thoroughly"
+    - "Let rest a few minutes then taste and adjust seasoning"
 ---
 
 <p>The idea for this is based on a Rick Bayless recipe title, but I didn't have it in front of me this weekend. Hmm, and actually looking at his chayote-based recipe now, they really have nothing in common. We were in Friday Harbor Washington, which is on San Juan Island in Puget Sound, on S's parent's boat. It served 6 with one other dish and lots of leftovers, so you could easily cut it in half for a side dish.<br /><div class="recipe-card">

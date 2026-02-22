@@ -7,6 +7,17 @@ aliases: ["/orecchiette-with-garlic-scapes-ricotta-and-gremolata-recipe/", "/201
 cover:
   image: "/images/2012/06/Orecchitte-with-Garlic-Scapes-Ricotta-and-Gremolata-626x415.jpg"
   hidden: true
+recipe:
+  name: "Orecchiette with Garlic Scapes, Ricotta, and Gremolata"
+  yield: "4 For the gremolata:"
+  diet: "Vegetarian"
+  ingredients:
+    - "Zest of 1 lemon"
+    - "1 clove garlic, minced"
+    - "1 packed handful of washed and dried parsley leaves, minced"
+    - "A few leaves of tarragon (optional), minced"
+  instructions:
+    - "Pile these ingredients together on the chopping board, and give them an additional mincing and tossing together. Set aside in a bowl."
 ---
 
 <a href="/images/2012/06/Orecchitte-with-Garlic-Scapes-Ricotta-and-Gremolata.jpg"><img class="alignnone size-large wp-image-2257" title="Orecchiette with Garlic Scapes, Ricotta, and Gremolata" src="/images/2012/06/Orecchitte-with-Garlic-Scapes-Ricotta-and-Gremolata-626x415.jpg" alt="Orecchiette with Garlic Scapes, Ricotta, and Gremolata" width="626" height="415" />

@@ -8,6 +8,33 @@ aliases: ["/persian-italian-eggplant-stew-recipe/", "/2010/05/persian-italian-eg
 cover:
   image: "/images/old/6a00e008d618bb8834013480a274c0970c-500wi.jpg"
   hidden: true
+recipe:
+  name: "Persian-Italian Eggplant Stew"
+  yield: "4"
+  diet: "Vegan, Vegetarian, Gluten-Free"
+  ingredients:
+    - "3 medium or 2 large eggplant (I used normal Western style eggplants)"
+    - "1/2 cup olive oil"
+    - "1 onion, finely diced"
+    - "2 cloves garlic, minced"
+    - "2 teaspoons ground cumin"
+    - "1/2 teaspoon ground cinnamon"
+    - "1/2 teaspoon cayenne (or to taste)"
+    - "several grinds fresh black pepper"
+    - "2 tablespoons mosto cotto (saba)"
+    - "2 tablespoons honey (replace if you want vegan)"
+    - "2 tablespoons red wine vinegar"
+    - "2 tablespoons roasted, unsweeted sunflower butter (or see above)"
+    - "2 cups water"
+    - "salt"
+    - "handful parsley leaves"
+    - "2 teaspoons sumac powder"
+  instructions:
+    - "Trim the eggplants and cut them in quarters, lengthwise. In a large skillet, heat the oil over a medium high-flame. Fry the eggplant on all sides until well seared and golden brown. Remove to paper towels and season with salt."
+    - "Leaving the remaining oil in the pan, reduce the heat to medium and fry the onion and garlic for 3 minutes. Add the cumin, cinnamon, cayenne and black pepper and cook for one more minute. Add the mosto cotto, honey, red wine vinegar, and sunflower butter and water. The sunflower butter will be a lump at first, but once it heats up you can whisk it in easily."
+    - "Simmer for a few minutes and then season with salt as needed. Cut the cooled eggplant into bite sized pieces and add back to the sauce. Reduce heat to a bare simmer. Cook until the eggplant is fully tender and the sauce thickened, about 10 minutes."
+    - "Taste and adjust seasoning, adding more salt, pepper, cayenne, or vinegar as needed to achieve a complex mixture of spices, sweet, and sour."
+    - "Garnish with parsley leaves and sumac and serve."
 ---
 
 <a style="display: inline;" href="/images/old/6a00e008d618bb8834013480a274c0970c-800wi.jpg" rel="lightbox"><img class="asset asset-image at-xid-6a00e008d618bb8834013480a274c0970c " title="Persian-Italian Eggplant Stew (Vegetarian, Vegan, and Gluten-Free)" src="/images/old/6a00e008d618bb8834013480a274c0970c-500wi.jpg" alt="Persian-Italian Eggplant Stew (Vegetarian, Vegan, and Gluten-Free)" /></a>

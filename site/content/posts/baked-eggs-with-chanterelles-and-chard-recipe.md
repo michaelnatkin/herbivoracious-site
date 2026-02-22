@@ -8,6 +8,30 @@ aliases: ["/baked-eggs-with-chanterelles-and-chard-recipe/", "/2010/12/baked-egg
 cover:
   image: "/images/old/6a00e008d618bb88340133f5345f90970b-500wi.jpg"
   hidden: true
+recipe:
+  name: "Baked Eggs with Chanterelles and Chard"
+  yield: "4-6"
+  diet: "Gluten-Free"
+  ingredients:
+    - "3 tablespoons butter"
+    - "1/2 cup finely diced white onion"
+    - "2 pounds chanterelle mushrooms, cleaned and sliced"
+    - "2 cloves garlic, thinly sliced"
+    - "1/2 teaspoon salt"
+    - "1 bunch chard, stripped, cleaned and cut into ribbons"
+    - "2 cups whole milk"
+    - "1 cup creme fraiche"
+    - "10 eggs, beaten"
+    - "2 teaspoons salt"
+    - "freshly ground nutmeg"
+    - "freshly ground black pepper"
+    - "1/2 cup freshly grated parmesan cheese"
+  instructions:
+    - "Preheat the oven to 350 degrees and butter a quiche dish or deep pie pan, about 10\" in diameter and 2\" deep."
+    - "In a large skillet, melt the butter over medium-high heat. Add the onion and saute for 2 minutes. Add the chanterelle mushrooms, garlic and salt and saute for about 10 minutes, until golden brown, somewhat tender, and all water has cooked off. Remove the mushrooms, leaving the skillet on the flame."
+    - "Add the chard to the skillet and cook, stirring occasionally, until fully wilted. You can cover it for part of the time to speed this along. When done, mix with the mushrooms."
+    - "Whisk the milk slowly into the creme fraiche until completely smooth. Whisk in the eggs. Add the salt, the mushroom and chard mixture, several grinds of whole nutmeg and several grinds of black pepper. Mix thoroughly and pour in to the prepared dish."
+    - "Top with the grated parmesan. Bake for about 50 minutes, until well browned and a toothpick in the center comes out completely dry. Allow to cool at least 15 minutes, then slice and serve."
 ---
 
 <a style="display: inline;" href="/images/old/6a00e008d618bb88340133f5345f90970b-800wi.jpg" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb88340133f5345f90970b" title="Chanterelle Chard Baked Eggs" src="/images/old/6a00e008d618bb88340133f5345f90970b-500wi.jpg" alt="Chanterelle Chard Baked Eggs" /></a>

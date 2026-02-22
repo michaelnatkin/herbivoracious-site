@@ -8,6 +8,25 @@ aliases: ["/spaghetti-aglio-e-olio-recipe/", "/2011/12/spaghetti-aglio-e-olio-re
 cover:
   image: "/images/cookbook/spaghetti-aglio-e-olio.jpg"
   hidden: true
+recipe:
+  name: "Spaghetti Aglio e Olio"
+  yield: "3-4"
+  time: "20 minutes"
+  diet: "Vegan"
+  ingredients:
+    - "1 pound dried spaghetti"
+    - "4 tablespoons extra-virgin olive oil"
+    - "8 cloves garlic (or to your taste), thinly sliced"
+    - "pinch red chile flakes (more if you like it spicy)"
+    - "½ teaspoon Kosher salt"
+    - "¼ cup minced flat-leaf (Italian) parsley"
+    - "optional: ½ cup homemade breadcrumbs, freshly grated parmesan cheese"
+  instructions:
+    - "Bring a large pot of well-salted water to a boil and preheat your serving bowls."
+    - "Add the spaghetti and start boiling for the minimum time specified on the package. While the pasta is cooking, put the oil in your largest skillet over medium heat. Add the garlic, chile flakes, and salt and cook until the garlic is softened but not browned, about 3 minutes. Turn off heat until the pasta is ready."
+    - "Test a strand of pasta, and if it is not yet al dente, go for another minute. When the pasta is done, reserve 1 cup of the cooking water and drain."
+    - "Turn the heat on your skillet to medium-high, and add the pasta to the oil along with ½ cup of the pasta water. Toss thoroughly with tongs, adding more of the reserved liquid if it seems dry."
+    - "Divide the pasta among the serving bowls and garnish with the parsley and the optional breadcrumbs and cheese. Serve immediately."
 ---
 <a href="/images/cookbook/spaghetti-aglio-e-olio.jpg"><img src="/images/cookbook/spaghetti-aglio-e-olio.jpg" alt="Spaghetti Aglio e Olio" /></a>
 

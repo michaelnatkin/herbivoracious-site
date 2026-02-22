@@ -7,6 +7,23 @@ aliases: ["/kale-fried-rice-for-one-infinitely-adaptable-recipe/", "/2013/06/kal
 cover:
   image: "/images/2013/10/Kale-Fried-Rice-622x415.jpg"
   hidden: true
+recipe:
+  name: "Kale Fried Rice for One"
+  yield: "1 (but easy to multiply)"
+  diet: "Vegan, Vegetarian, Gluten-Free"
+  ingredients:
+    - "1 generous tablespoon oil"
+    - "2 cloves garlic, thinly sliced"
+    - "1 1/2 cups cooked and refrigerated rice"
+    - "4 leaves kales, stripped from stems and thinly sliced"
+    - "1/4 teaspoon salt"
+    - "1 teaspoon soy sauce (gluten free if needed)"
+    - "1 egg"
+    - "1 green onion, thinly sliced"
+    - "Freshly ground black pepper"
+  instructions:
+    - "Preheat a medium cast iron skillet over high heat. Add the oil and garlic. A few seconds later, add the rice and break up large clumps. Allow to cook, stirring only occasionally, for about 3 minutes, until there are some nice browned bits. Add the kale, salt, and soy sauce and cook for about another 5 minutes until the kale is completely tender."
+    - "Transfer the rice to a bowl and turn off the heat. Put the egg in the skillet and use the residual heat to cook it. Slide on top of the rice, garnish with the green onion, season with salt and pepper, and enjoy."
 ---
 
 <a href="/images/2013/10/Kale-Fried-Rice.jpg"><img class="alignnone size-large wp-image-3795" alt="Kale Fried Rice" src="/images/2013/10/Kale-Fried-Rice-622x415.jpg" width="622" height="415" /></a>

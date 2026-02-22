@@ -7,6 +7,29 @@ aliases: ["/caviar-lentil-salad-with-arugula-crispy-shallots-and-roasted-garlic-
 cover:
   image: "/images/2012/09/Black-Lentils-with-Arugula-and-Crispy-Shallots-626x415.jpg"
   hidden: true
+recipe:
+  name: "\"Caviar\" Lentil Salad with Arugula, Crispy Shallots and Roasted Garlic"
+  yield: "4"
+  diet: "Vegan, Vegetarian"
+  ingredients:
+    - "2 large heads garlic"
+    - "Extra-virgin olive oil"
+    - "1 1/4 cups black lentils (Beluga aka Caviar lentils)"
+    - "1 cup vegetable oil (for shallow-frying shallots)"
+    - "3/4 cup sliced shallots"
+    - "4 teaspoons sherry vinegar"
+    - "Kosher salt"
+    - "4 slices artisan bread"
+    - "4 handfuls baby arugula, washed and dried"
+    - "About 20 cherry tomatoes, halved"
+    - "Flaky sea salt"
+    - "Fresh ground black pepper"
+  instructions:
+    - "Preheat oven to 350. Rub the whole heads of garlic with a bit of olive oil and wrap them individually in tin foil. Place on a baking sheet and roast until the garlic is completely tender, about 30 minutes. Cut off the top of each head and squeeze the cloves into a small bowl. Season with a pinch of salt and two teaspoons of olive oil. Mash well with a fork and reserve."
+    - "Meanwhile, carefully sort the lentils and remove any extraneous material. Rinse well. Place in a small pot with 4 cups of water. Bring to a boil over high heat, reduce to a simmer, and cook until the lentils are tender but not falling apart, about 25 minutes. Drain and reserve."
+    - "Put the cup of vegetable oil in your smallest saucepan over medium-high heat. You might need more oil if your pot is wider - it needs to be enough to more or less cover the shallots. When the oil is shimmering, add a piece of shallot and if it sizzles, add the rest. Reduce heat to medium. Cook, stirring frequently. After a few minutes, the shallots will begin to turn golden. At this point, watch them carefully, and when they are dark brown but not burned, remove from the heat. Strain, reserving the flavored oil for use in future salad dressings or stir-fries. Leave the shallots in your sieve to cool and crisp up."
+    - "Whisk together 6 tablespoons of the olive oil with 2 tablespoons of sherry vinegar and 1/4 teaspoon salt. Mix two-thirds of the dressing into the lentils. Taste and adjust seasoning; they will probably need more salt."
+    - "To serve: toast the bread and spread each piece with a generous portion of the roasted garlic. Divide the (room temperature) lentils among 4 serving plates. Toss the arugula, cherry tomatoes and crispy shallots with the remaining dressing and pile atop the lentils. Put a piece of the bread on each plate, finish with a few flakes of sea salt and grinds of blacks pepper and serve immediately (before the arugula wilts)."
 ---
 
 <a href="/images/2012/09/Black-Lentils-with-Arugula-and-Crispy-Shallots.jpg"><img class="size-large wp-image-2700 alignnone" title="Black Lentils with Arugula and Crispy Shallots" src="/images/2012/09/Black-Lentils-with-Arugula-and-Crispy-Shallots-626x415.jpg" alt="Black Lentils with Arugula and Crispy Shallots" width="626" height="415" />

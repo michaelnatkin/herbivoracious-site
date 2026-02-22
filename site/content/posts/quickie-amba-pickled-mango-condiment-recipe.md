@@ -7,6 +7,16 @@ aliases: ["/quickie-amba-pickled-mango-condiment-recipe/", "/2012/09/quickie-amb
 cover:
   image: "/images/2012/09/Quickie-Amba-Pickled-Mango-Condiment-626x415.jpg"
   hidden: true
+recipe:
+  name: "Quickie Amba (Pickled Mango"
+  yield: "enough to serve at a meal for 6, easily"
+  diet: "Vegan, Vegetarian, Gluten-Free"
+  ingredients:
+    - "1/2 mango, finely diced (slightly underripe is better, but not rock hard)"
+    - "1/4 preserved lemon, pips removed, minced (check ingredients if you need gluten free)"
+    - "1 teaspoon harissa (check ingredients if you need gluten free)"
+  instructions:
+    - "Toss together all ingredients. Taste and add more lemon or harissa if you think it needs it. Add salt if needed. Serve at room temperature; keeps in refrigerator for a few days."
 ---
 
 <img class="alignnone size-large wp-image-2810" title="Quickie Amba Pickled Mango Condiment" src="/images/2012/09/Quickie-Amba-Pickled-Mango-Condiment-626x415.jpg" alt="Quickie Amba Pickled Mango Condiment" width="626" height="415" />

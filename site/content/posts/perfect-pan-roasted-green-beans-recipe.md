@@ -7,6 +7,23 @@ aliases: ["/perfect-pan-roasted-green-beans-recipe/", "/2013/09/perfect-pan-roas
 cover:
   image: "/images/2013/11/Perfect-Pan-Roasted-Green-Beans-626x415.jpg"
   hidden: true
+recipe:
+  name: "Perfect Roasted Green Beans"
+  yield: "4 as a side dish 15 minutes"
+  time: "15 minutes"
+  diet: "Vegan, Vegetarian, Gluten-Free"
+  ingredients:
+    - "1 pound of green beans"
+    - "Vegetable oil"
+    - "Kosher salt"
+    - "Sea salt, preferably Maldon"
+    - "Extra-virgin olive oil"
+  instructions:
+    - "Trim your green beans. I like to remove just the stem end, but if you want to do both ends that is ok too. By the way, try doing this task with kitchen shears. I find it to be much faster than with my knife."
+    - "Preheat your largest skillet, preferably cast iron, over high heat. (Don't do this with a non-stick pan, it isn't safe at these temperatures.)"
+    - "Rinse the green beans and leave a bit of water clinging to them. Place them in a microwave-safe bowl with a lid and microwave on high power for 1 minute, then carefully toss with tongs and return to the microwave. Repeat the covering, microwaving and tossing 1 minute or less at a time until the beans have turned a brighter shade of green, but with still have a noticeable firmness about them. In my microwave the total time is only about 2 minutes."
+    - "Leave the skillet on high heat. Add a couple of tablespoons of the vegetable oil to the skillet and immediately add the beans, using tongs so as to leave any water behind in the bowl. Add a big pinch of Kosher salt and toss the beans, then spread them out evenly in the pan. Cook, tossing only occasionally, until there are many browned spots on the beans, about 3 minutes"
+    - "Transfer your beautifully caramelized green beans to a serving platter and finish with a drizzle of extra-virgin olive oil and a nice scattering of sea salt."
 ---
 
 <a href="/images/2013/11/Perfect-Pan-Roasted-Green-Beans.jpg"><img class="alignnone size-large wp-image-3863" alt="Perfect Pan-Roasted Green Beans" src="/images/2013/11/Perfect-Pan-Roasted-Green-Beans-626x415.jpg" width="626" height="415" /></a><br><em>Perfect Roasted Green Beans</em>

@@ -7,6 +7,28 @@ aliases: ["/green-garlic-and-mint-potato-salad-recipe/", "/2012/06/green-garlic-
 cover:
   image: "/images/2012/06/Green-Garlic-and-Mint-Potato-Salad-626x415.jpg"
   hidden: true
+recipe:
+  name: "Green Garlic and Mint Potato Salad"
+  yield: "enough to bring to a potluck (easily halved)"
+  diet: "Vegan, Vegetarian, Gluten-Free"
+  ingredients:
+    - "5 pounds small, waxy potatoes"
+    - "8 stems green garlic"
+    - "1/2 cup extra virgin olive oil, divided"
+    - "2 cloves minced garlic cloves"
+    - "3 tablespoons white wine vinegar"
+    - "1/4 cup mayonnaise or vegan mayonnaise"
+    - "Freshly ground black pepper"
+    - "1 tablespoon Maldon (aka the world's greatest salt) (less if using Kosher salt)"
+    - "1/2 teaspoon minced fresh rosemary leaves"
+    - "1/4 teaspoon cayenne pepper"
+    - "Freshly ground black pepper"
+    - "Handful of mint leaves"
+  instructions:
+    - "Wash the potatoes and put them in a large pot full of cold, salted water. Bring to a boil and continue to cook until they are fully tender but not falling apart (time greatly depends on size and variety). Drain, rinse, cool, and cut into bite sized pieces."
+    - "Meanwhile, remove the tough parts of the green garlic including the outermost leaves, just like you would with a scallion. Slice thinly. Heat a small saute pan over medium heat. Add 1/4 cup of the olive oil and saute the green garlic just for about 1 minute, until it is slightly softened."
+    - "Scrape the green garlic and olive oil into a small bowl. Add the remaining olive oil, minced garlic, vinegar, mayonnaise, black pepper, salt, rosemary, cayenne and black pepper. Stir well. Dip a piece of potato in and taste. Does it have enough salt? Is the garlic flavor present enough? Could it use a bit more cayenne? When you are satisfied, toss the dressing with the potatoes. This is easiest to do with your hands."
+    - "Just before serving, thinly slice the mint and mix it into the potatoes."
 ---
 
 <a href="/images/2012/06/Green-Garlic-and-Mint-Potato-Salad.jpg"><img class="alignnone size-large wp-image-2072" title="Green Garlic and Mint Potato Salad" src="/images/2012/06/Green-Garlic-and-Mint-Potato-Salad-626x415.jpg" alt="Green Garlic and Mint Potato Salad" width="626" height="415" />

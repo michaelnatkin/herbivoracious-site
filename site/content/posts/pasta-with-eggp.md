@@ -7,6 +7,34 @@ aliases: ["/pasta-with-eggp/", "/2008/08/pasta-with-eggp.html"]
 cover:
   image: "/images/2008-small/08/08/pasta_with_eggplant_and_fresh_tomat.jpg"
   hidden: true
+recipe:
+  name: "Pasta With Eggplant And Fresh Tomatoes"
+  yield: "4Vegetarian; not gluten-free; vegan if you omit the cheese"
+  diet: "Vegan, Gluten-Free"
+  ingredients:
+    - "2 medium eggplants, large dice"
+    - "1 onion, medium dice"
+    - "1 small sprig rosemary, leaves picked and finely chopped"
+    - "4 tablespoons canola oil (or other high heat vegetable oil)"
+    - "2 tablespoons olive oil"
+    - "4 cloves garlic, thinly sliced"
+    - "1/2 teaspoon chili flakes"
+    - "2/3 cup pitted black olives (Kalamata for example), halved"
+    - "1 lb. strozzapetti or other moderate size shaped pasta"
+    - "1 large or 2 medium heirloom tomatoes, medium dice"
+    - "handful of fresh basil"
+    - "handful of fresh parsley"
+    - "black pepper"
+    - "pecorino romano or parmigiano reggiano - 1 cup grated plus thin slices for garnish"
+  instructions:
+    - "If you have time to spare, put the cut eggplant in a colander, toss with lots of kosher salt, put the colander in a sink or bowl and weight the whole thing for an hour. This will leach some of the excess, slightly bitter liquid out of the eggplant. If not, don't worry, it is fine as is."
+    - "In a large skillet over medium high heat, fry the eggplant, onion, and rosemary in the canola oil, tossing occasionally. The eggplant will absorb all of the oil. Don't give it any more. It is greedy and you have to show it who is boss. If you didn't salt the eggplant in step 1, add 2 teaspoons of kosher salt now."
+    - "Meanwhile, bring a large pot of well salted water to a boil."
+    - "When the eggplant is tender, push it to one side of the skillet and add the olive oil in the clear space. Put the garlic and chili flakes in the olive oil and stir-fry for a minute, then mix them in with eggplant, along with the olives."
+    - "Boil the pasta until just shy of al dente. Reserve one cup of the pasta water and then drain the pasta."
+    - "Return the pasta to the pot over medium heat, and add the eggplant mixture, scraping the pan to get all the good flavor. Toss well and add a bit of the pasta water to get a slight sauciness going. Taste and adjust the salt as needed."
+    - "Turn off the heat and mix in the tomatoes."
+    - "To serve, portion in to individual bowls and top with hand-torn basil and parsley, a grind of black pepper, and thin slices of the cheese (you can do that at the last moment with a vegetable peeler)."
 ---
 
 <p><a rel="lightbox" href="/images/2008/08/08/pasta_with_eggplant_and_fresh_tomat.jpg"><img width="455" height="302" border="0" src="/images/2008-small/08/08/pasta_with_eggplant_and_fresh_tomat.jpg" title="Pasta With Eggplant And Fresh Tomatoes" alt="Pasta With Eggplant And Fresh Tomatoes" /></a><br /><span style="font-size: 0.8em;">Pasta with eggplant and fresh tomatoes, in homage to Norma</span></p>  <p>Yep, it is summer and the whole deal is to do as little to the beautiful ingredients as possible. This dish is kind of a reinterpreted Pasta alla Norma, a classic Sicilian dish. By reinterpreted I mean: I didn't have <a href="https://www.amazon.com/dp/B0787VWCF3?tag=herb-hugo-20">ricotta salata</a>, and I wanted to use fresh tomatoes. So sue me. </p>  <p>This would also be insanely good with some lascivious chunks of fresh mozzarella.</p>  <p>Be sure and use a medium-sized, shaped pasta for this. If you try and use a strand like spaghetti, the vegetables won't mix in with it and it just gets irritating to eat.</p>  <p><em>If you are enjoying this recipe, why not <a href="http://feeds.feedburner.com/TheVegetarianFoodie">subscribe</a> and keep up with our updates?</em></p>  <div class="recipe-card">

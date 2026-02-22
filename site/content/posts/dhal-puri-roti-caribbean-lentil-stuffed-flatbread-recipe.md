@@ -8,6 +8,33 @@ aliases: ["/dhal-puri-roti-caribbean-lentil-stuffed-flatbread-recipe/", "/2011/0
 cover:
   image: "/images/cookbook/dhal-puri-roti-caribbean-lentil-stuffed-flatbread.jpg"
   hidden: true
+recipe:
+  name: "Dhal Puri Roti (Caribbean Lentil-stuffed Flatbread)"
+  yield: "12 flatbreads"
+  time: "1 hour"
+  ingredients:
+    - "For the dough:"
+    - "4 cups all-purpose flour"
+    - "3 ½ cups whole-wheat pastry flour"
+    - "2 tablespoons baking powder"
+    - "2 teaspoons salt"
+    - "6 tablespoons melted butter + more for final cooking"
+    - "For the filling:"
+    - "3 tablespoons oil, divided"
+    - "½ medium onion, diced"
+    - "2 cloves garlic, minced"
+    - "2 teaspoons salt, divided"
+    - "1 ½ cups yellow split peas"
+    - "1 teaspoon turmeric"
+    - "2 teaspoons cumin powder"
+    - "pinch cayenne"
+  instructions:
+    - "Mix all of the dough ingredients together in a large bowl. Add 2 ½ cups of warm water and stir until a shaggy mass forms. You may need up to ½ cup additional water. The goal is a soft, pliable dough that isn’t too sticky. Knead for about 5 minutes, form into a ball, rub with a little oil, cover and set aside to rest for about 1 hour; meanwhile, make the filling. (Another option is to use a stand mixer. Use the paddle attachment for the initial mixing, then switch to a dough hook for the 5 minutes of kneading.)"
+    - "In a large saucepan, heat 1 tablespoon of oil over a medium-high flame. Add the onion, garlic, and 1 teaspoon of salt and cook for about 2 minutes, until the onion is translucent. Add the split peas and 6 cups of water. Bring to a boil and reduce to a simmer. Cook until the peas are easily crushed between your fingers – done enough to eat, but not turning into soup."
+    - "Drain the peas and transfer them to a food processor. Add the remaining 2 tablespoons of oil, the turmeric, cumin, cayenne and the remaining teaspoon of salt. Pulse the blade until they are coarsely pureed but retain a bit of texture. Taste and adjust seasoning. You may also need to add a couple tablespoons of water. The right texture is one that will form a ball, but not be bone-dry. If it is too wet, it will make the roti soggy."
+    - "When the dough is done with the initial rest, divide it into 12 pieces (if using a scale, they will be about 135 grams each). Form into balls, place on a lightly floured board or baking sheet, cover with plastic wrap, and allow to rest for an additional 30 minutes."
+    - "To cook the breads, preheat a skillet or griddle that is at least 12” in diameter over a medium flame. Take one ball of dough and, on a lightly floured work surface or a silicone board, roll it out to about 5” in diameter. Place 3 tablespoons of the filling in the center. Pull the edges of dough up around the filling and seal to completely enclose it. Flatten with your hand and then roll out to about 10” in diameter and less than ¼” thick. (You can start baking one, in the next step, while continuing to form the rest of the breads)."
+    - "Melt a little butter on the griddle and put in the first bread. Cook until lightly browned on the first side, about 1 ½ minutes, pushing down on the edges occasionally. You don’t want it to brown so much that it is crispy; the bread should remain soft. Turn and cook the other side, then remove to a plate, cover. Serve immediately or reheat if made in advance."
 ---
 <a href="/images/cookbook/dhal-puri-roti-caribbean-lentil-stuffed-flatbread.jpg"><img src="/images/cookbook/dhal-puri-roti-caribbean-lentil-stuffed-flatbread.jpg" alt="Dhal Puri Roti (Caribbean Lentil-stuffed Flatbread)" /></a>
 

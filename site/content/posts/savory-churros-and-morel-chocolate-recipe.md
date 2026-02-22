@@ -7,6 +7,23 @@ aliases: ["/savory-churros-and-morel-chocolate-recipe/", "/2009/01/savory-churro
 cover:
   image: "/images/old/6a00e008d618bb8834010536a29b22970b-500wi.jpg"
   hidden: true
+recipe:
+  name: "Morel \"Hot Chocolate\" Soup"
+  yield: "4 as a tiny appetizer, preferably with churros rolled in pimenton and cinnamon Vegetarian and gluten-free; not vegan"
+  diet: "Vegan, Vegetarian, Gluten-Free"
+  ingredients:
+    - "1.5 cups heavy cream"
+    - "0.6 oz. dried morel mushrooms"
+    - "2 teaspoons high quality cocoa powder (not Hershey's please); I used Lake Champlain Chocolate"
+    - "1/2 cup half & half"
+    - "sea salt"
+  instructions:
+    - "Bring the cream to a simmer in a small saucepan. Add the morels, and simmer on lowest possible heat for 10 minutes."
+    - "Turn off heat and allow to rest for 30 more minutes."
+    - "Add the cocoa powder, half & half, and a couple pinches of salt."
+    - "Puree very thoroughly in a blender, then strain through a fine mesh sieve."
+    - "Taste and adjust the salt."
+    - "To serve, reheat and then carefully froth with a handheld blender."
 ---
 
 <a style="display: inline;" href="/images/old/6a00e008d618bb8834010536a29b22970b-800wi.jpg" rel="lightbox"><img class="at-xid-6a00e008d618bb8834010536a29b22970b "  src="/images/old/6a00e008d618bb8834010536a29b22970b-500wi.jpg" alt="Savory_Churros_And_Morel_Chocolate" /></a>

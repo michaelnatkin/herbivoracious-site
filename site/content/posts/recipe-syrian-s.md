@@ -7,6 +7,22 @@ aliases: ["/recipe-syrian-s/", "/2008/04/recipe-syrian-s.html"]
 cover:
   image: "/images/2008-small/04/11/labneh.jpg"
   hidden: true
+recipe:
+  name: "Syrian Style Labneh (Spiced Yogurt Cheese)"
+  diet: "Vegan, Vegetarian"
+  ingredients:
+    - "1 quart thick Greek-style yogurt or 1.5 quart thinner natural yogurt"
+    - "1.5 t ground cumin"
+    - "1.5 t. dried spearmint"
+    - "1/2 t. Aleppo pepper or chili flakes"
+    - "1.5 t. sea salt"
+    - "olive oil"
+    - "cheesecloth"
+  instructions:
+    - "Put a large colander in a bowl. Line the colander with a double layer of cheesecloth. Pour in the yogurt, and tie the cheesecloth into a ball. For bonus points, tie cheesecloth around a wooden spoon or something you can hang over the colander rim so it is suspended. That will help it drain faster, using its own weight."
+    - "Put the whole apparatus in the refrigerator overnight. Make sure there is enough room in the bowl to catch the liquid, we don't want a mess in your fridge."
+    - "Remove the yogurt from the cheesecloth into a clean bowl. It should be firm enough to form somewhat decent balls at this point. If not, drain it more. Mix in the cumin, spearmint, pepper and sea salt."
+    - "To serve, fill a shallow bowl with about 1/8\" of olive oil. Grease your hands and form balls a bit smaller than a golf ball. Arrange in the dish, and garnish with roughly chopped parsley or cilantro."
 ---
 
 <a href="/images/2008/04/11/labneh.jpg" rel="lightbox"><img title="Syrian Style Labneh (Spiced Yogurt Cheese)" src="/images/2008-small/04/11/labneh.jpg" alt="Syrian Style Labneh (Spiced Yogurt Cheese)" width="455" height="302" border="0" /></a>

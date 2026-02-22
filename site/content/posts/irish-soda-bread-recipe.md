@@ -7,6 +7,27 @@ aliases: ["/irish-soda-bread-recipe/", "/2008/11/irish-soda-bread-recipe.html"]
 cover:
   image: "/images/old/6a00e008d618bb8834010535dc7ab4970b-500wi.jpg"
   hidden: true
+recipe:
+  name: "Irish Soda Bread"
+  yield: "1 large loaf Vegetarian; not vegan or gluten-free Adapted from Saveur magazine"
+  diet: "Vegan, Vegetarian, Gluten-Free"
+  ingredients:
+    - "2 cups pastry flour (see note above)"
+    - "2 cups whole wheat flour"
+    - "2 tablespoons sugar"
+    - "1 teaspoon salt"
+    - "1 teaspoon baking soda"
+    - "4 tablespoons butter, cool"
+    - "1 cup raisins or currants, or 1.5 tablespoons caraway seeds, or nothing"
+    - "1 egg, beaten"
+    - "2 cups buttermilk"
+  instructions:
+    - "Preheat oven to 425 F. Sift together the flours, sugar, salt, and baking soda."
+    - "Cut the butter into the flour with two knives or a pastry cutter, as when making a pie crust. (Tip: if your butter is frozen, microwave it for ten seconds at a time until it is cuttable)."
+    - "Add the remaining ingredients, mix well with a spoon, then knead right in the bowl for couple of minutes. It should be moist but firm enough to form a ball. If not, add a bit more flour."
+    - "Shape into a large ball, place on a greased (or silpat-covered) cookie sheet, and make an X in the top with a sharp knife."
+    - "Bake for about 40 minutes until golden brown, and sounds hollow when rapped on the bottom. Better yet, use an instant read thermometer to look for an internal temperature of 180 degrees. That is a much more reliable way to gauge doneness. If the bread browns too fast, cover it with a tinfoil tent until it is done."
+    - "Allow to cool for a few minutes, and serve with swaths of sweet cream butter."
 ---
 
 <a style="display: inline;" href="/images/old/6a00e008d618bb8834010535dc7ab4970b-800wi.jpg" rel="lightbox"><img class="at-xid-6a00e008d618bb8834010535dc7ab4970b "  src="/images/old/6a00e008d618bb8834010535dc7ab4970b-500wi.jpg" alt="Irish Soda Bread" /></a>

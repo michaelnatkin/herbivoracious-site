@@ -7,6 +7,37 @@ aliases: ["/quick-chana-mushroom-masala-chickpea-curry-recipe/", "/2009/09/quick
 cover:
   image: "/images/old/6a00e008d618bb88340120a5ac89f1970c-500wi.jpg"
   hidden: true
+recipe:
+  name: "Chana Masala with Mushrooms"
+  yield: "2 as a main course with basmati rice or 4 as part of a larger Indian meal"
+  diet: "Vegan, Vegetarian, Gluten-Free"
+  ingredients:
+    - "1 1/2 cups cooked chickpeas (15 oz. can, drained and rinsed, or better, home-cooked)"
+    - "2 tablespoons vegetable oil (or clarified butter / ghee if you have it)"
+    - "2 teaspoons black mustard seeds"
+    - "1 teaspoon fennel seeds"
+    - "1 teaspoon cumin seeds"
+    - "1 teaspoon coriander seeds"
+    - "2 cloves garlic, minced"
+    - "1/2 medium onion, small dice"
+    - "1 medium tomato, cored, small dice (canned is an option)"
+    - "2/3 cups white mushrooms, quartered or thickly sliced"
+    - "1 small, hot red chili pepper, thinly sliced"
+    - "1 tablespoon fresh grated turmeric, or 2 teaspoons dry"
+    - "1/4 teaspoon cinnamon"
+    - "1 pinch ground cloves"
+    - "1/4 teaspoon cayenne pepper"
+    - "2 tablespoons lemon juice"
+    - "1 teaspoon salt"
+    - "for tempering: 1 tablespoon oil, 1 teaspoon black mustard seeds"
+    - "for garnish: cilantro"
+  instructions:
+    - "If using canned chickpeas and, drain and rinse them, and put them in a saucepan with water to cover, then bring to a boil and simmer while you get everything else going. This will improve their texture. You can do this in the microwave too. Or skip this step completely if your chickpeas are already pleasantly soft."
+    - "In a large skillet, heat the vegetable oil over a medium-high flame. Add the mustard, fennel, cumin and coriander seeds. Cook for about 10-20 seconds until the mustard seeds begin to pop. Immediately add the garlic, onion and tomato."
+    - "Cook, stirring occasionally, for about 5 minutes until the liquid is mostly gone and everything is browning."
+    - "Add the mushrooms and the drained chickpeas, the hot pepper, turmeric, cinnamon, cloves and cayenne pepper, lemon juice, a teaspoon of salt, and a cup or so of water, so it is kind of soupy."
+    - "Cook uncovered over a medium-low flame for about 15 minutes, until the sauce begins to thicken. Taste and adjust seasoning. Does it need more salt? More lemon juice? A bit more cayenne?"
+    - "Finish for the texture you want - you can see how I like it in the picture above. Then in a separate skillet, heat the last tablespoon of oil over a high flame and fry the mustard seeds until they pop, just a few seconds. This is called tempering, and it is a great way to add a final layer of flavor. Toss the contents of that skillet over the chickpeas and serve, with the cilantro for garnish."
 ---
 
 <a style="display: inline;" href="/images/old/6a00e008d618bb88340120a5ac89f1970c-800wi.jpg" rel="lightbox"><img class="at-xid-6a00e008d618bb88340120a5ac89f1970c " src="/images/old/6a00e008d618bb88340120a5ac89f1970c-500wi.jpg" alt="Chana_Mushroom_Masala" />

@@ -7,6 +7,29 @@ aliases: ["/recipe-valentin/", "/2008/02/recipe-valentin.html"]
 cover:
   image: "/images/2008-small/02/10/crepeswithchocolateganache_2.jpg"
   hidden: true
+recipe:
+  name: "Valentine's Day Crepes with Chocolate Ganache And Raspberry Compote"
+  yield: "4-5"
+  ingredients:
+    - "4 T. melted butter"
+    - "1 c. cold water"
+    - "1 c. whole milk"
+    - "4 eggs"
+    - "2 c. sifted all-purpose flour"
+    - "1/2 t. kosher salt"
+    - "vegetable oil for the pan"
+    - "8 oz. good bittersweet or semi-sweet (Scharffen-Berger or Callebaut are fine choices)"
+    - "1 pint heavy cream (for ganache and whipped cream)"
+    - "3 T. powdered sugar"
+    - "one small bag frozen raspberries"
+    - "sugar as needed"
+  instructions:
+    - "Combine the melted butter, cold water, milk, eggs, flour and kosher salt in the blender and whir for a minute. Refrigerate the batter until ready to use. Better if it chills for an hour, but not mandatory. The consistency should be like a quite thin pancake batter. Stir in a bit more cold milk if necessary."
+    - "Roughly chop the chocolate, add 1/2 c. of the heavy cream, and melt in the microwave or double boiler, whisking occasionally until smooth. Add more cream if needed to make a fluffy ganache. Do not refrigerate. (To do this in the microwave, heat at full power for 30 seconds at a time in a microwaveable bowl, stirring in between, until melted and smooth)."
+    - "In a small pot, melt the raspberries, and whisk occasionally until they turn into a sauce. Add sugar, and a pinch of salt to taste. Continue to simmer until slightly thickened. A little lemon juice or zest is nice here too."
+    - "Whip the cream with the powdered sugar."
+    - "To cook the crepes, heat one or two crepe pans or 8\" non-stick skillets over a medium flame. Wipe with a bit of vegetable oil. Pour in 1/4 c. of batter, and quickly swirl to coat. Let cook until just slightly brown but not crisp, about 60 seconds, then flip and cook for another 30 seconds."
+    - "To serve, put a spoonfull of the ganache in the center of each crepe and roll or fold. Place on plate with a spoonful of the raspberry compote, drizzle with more ganache, and add dollop of the whip cream. Two crepes makes a good serving."
 ---
 
 <p><strong><a rel="lightbox" href="/images/2008/02/10/crepeswithchocolateganache_2.jpg"><img width="455" height="302" border="0" src="/images/2008-small/02/10/crepeswithchocolateganache_2.jpg" title="Valentine's Day Crepes with Chocolate Ganache And Raspberry Compote" alt="Valentine's Day Crepes with Chocolate Ganache And Raspberry Compote" /></a>   </strong><br /><span style="font-size: 0.8em;">Valentine's Day Crepes with Chocolate Ganache And Raspberry Compote</span></p>  <p>This is the first of several posts of the dishes I did for the men's cooking group of <a href="http://www.kavanaseattle.org/default.asp">Kavana</a>, a cooperative Jewish organization that we have been involved with recently. Eric L., the creator of <a href="http://www.cellartracker.com/intro.asp">CellarTracker.com</a> normally leads the group, but he's down with a shoulder injury. So he and his family hosted at their beautiful house and provided amazing wine, and I led the cooking with a&nbsp; group of 13 enthusiastic sous chefs. It was great fun!</p>  <p>Normally I'd post the recipes in order starting with appetizers, but with Valentine's Day right around the corner, we better begin with a dessert to knock your sweetie's socks off. (Or other items of clothing). Although there are a few steps, it really isn't much harder than making pancakes.&nbsp; Add a chocolate ganache, quick raspberry compote, and whipped cream and I dare you not to be happy. Eric paired this with a Heitz ruby port which I think was ideal.</p>  <p>The batter recipe is classic Julia Child. You can make it a day ahead if you like. If you have <a href="https://www.amazon.com/dp/0375413405?tag=herb-hugo-20">Mastering the Art of French Cooking</a>, she goes in to her characteristic fine detail for perfecting your crepe technique. Page 190 in my well-worn old hardback copy that I inherited from my Mom. Definitely worth a look.</p>  <div class="recipe-card">

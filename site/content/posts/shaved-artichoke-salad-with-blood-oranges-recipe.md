@@ -8,6 +8,24 @@ aliases: ["/shaved-artichoke-salad-with-blood-oranges-recipe/", "/2012/09/shaved
 cover:
   image: "/images/cookbook/shaved-artichoke-salad-with-blood-oranges.jpg"
   hidden: true
+recipe:
+  name: "Shaved Artichoke Salad with Blood Oranges"
+  yield: "4"
+  time: "15 minutes"
+  diet: "Vegan, Gluten-Free"
+  ingredients:
+    - "2 blood oranges"
+    - "¼ cup mayonnaise or vegan mayonnaise"
+    - "¼ teaspoon Kosher salt"
+    - "¼ teaspoon ras al hanout (optional)"
+    - "2 large globe artichokes preferably with 3” stems"
+    - "2 teaspoons minced chives"
+    - "flaky sea salt"
+    - "fresh ground black pepper"
+  instructions:
+    - "Set 4 small plates aside to chill. Working over a small bowl, cut the oranges into supremes (as described in the box on ). Squeeze the leftover bits of peel and membrane to extract extra juice. Measure 1 tablespoon of the juice and drink the rest. Reserve the supremes. Whisk the tablespoon of the juice with the mayonnaise, Kosher salt and (optional) ras al hanout. Taste and adjust seasoning."
+    - "Trim a tiny bit off the artichoke stems. Peel the stems. Pull off all of the leaves (which you can steam and serve separately if you like). Use a spoon to remove the hairy choke. Quickly peel and pare around the outside of the artichoke bottom. You should be left with the peeled stem attached to a nicely trimmed heart with all of the leaves and choke gone. Working quickly, slice the artichoke very thinly on a mandoline and toss the shaved vegetable with the dressing."
+    - "To serve, make a small mound of the dressed artichoke on each plate. Try to keep it centered and as high and fluffy as possible for a nice presentation. Garnish with the orange supremes, chives, flaky sea salt and fresh ground pepper and serve immediately."
 ---
 <a href="/images/cookbook/shaved-artichoke-salad-with-blood-oranges.jpg"><img src="/images/cookbook/shaved-artichoke-salad-with-blood-oranges.jpg" alt="Shaved Artichoke Salad with Blood Oranges" /></a>
 

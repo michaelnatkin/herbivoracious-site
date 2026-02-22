@@ -7,6 +7,30 @@ aliases: ["/rigatoni-with-roasted-cauliflower-and-spicy-tomato-sauce-recipe/", "
 cover:
   image: "/images/2012/08/Rigatoni-with-Spicy-Tomato-Sauce-626x415.jpg"
   hidden: true
+recipe:
+  name: "Rigatoni with Roasted Cauliflower and Spicy Tomato Sauce"
+  yield: "4"
+  diet: "Vegetarian"
+  ingredients:
+    - "1 head cauliflower, broken into bite-sized florets (reserve stems for another use or chop and include)"
+    - "6 tablespoons extra-virgin olive oil, divided"
+    - "Kosher salt"
+    - "1 onion, diced"
+    - "4 cloves garlic, thinly sliced"
+    - "Two 14.5 ounce cans crushed tomatoes, preferably Muir Glen Fire-Roasted"
+    - "3/4 cup heavy cream"
+    - "2 tablespoons vodka"
+    - "1/2 teaspoon chili flakes"
+    - "Optional: smoked paprika"
+    - "1 pound rigatoni"
+    - "1 cup pitted green olives - if they are a marinated variety, so much the better"
+    - "Ricotta salata cheese (if you can't find that, a young pecorino would be good - something semi-soft and salty)"
+  instructions:
+    - "Preheat oven to 450 degrees. Put a large, covered pot of well-salted water on to boil. Set serving bowls aside to warm."
+    - "Toss the cauliflower with two tablespoons of the olive oil and a couple of pinches of salt. Roast in oven, tossing occasionally, until completely tender and browned in many spots, at least 20 minutes. Remove from oven and reserve."
+    - "Meanwhile, place your largest skillet over medium heat. Add the remaining olive oil, and when it shimmers, add the onion and garlic and a pinch of salt. Cook, stirring occasionally until the onion is translucent. Transfer the contents of the skillet to a blender (but don't clean the skillet). Add the tomatoes, cream, vodka, chili flakes, and 1/4 teaspoon of salt to the blender. If using smoked paprika, add 1/2 teaspoon. Blend at high speed until perfectly smooth. Return to skillet and bring to a simmer over very low heat. Taste and adjust seasoning."
+    - "Boil the rigatoni according to package directions. When it is almost al-dente, reserve 1 cup of the cooking water, drain and add to the sauce. Add the cauliflower and olives and mix gently. Taste and make any final adjustments to the seasoning - does it need more salt, chili flakes or smoked paprika? If the sauce is too thick, dilute it with some of the reserved pasta water."
+    - "Divide the pasta among the serving bowls (or place in a large family-sized bowl). Add several thin shavings of ricotta salata and serve immediately."
 ---
 
 <a href="/images/2012/08/Rigatoni-with-Spicy-Tomato-Sauce.jpg"><img class="size-large wp-image-2683 alignnone" title="Rigatoni with Spicy Tomato Sauce" src="/images/2012/08/Rigatoni-with-Spicy-Tomato-Sauce-626x415.jpg" alt="Rigatoni with Spicy Tomato Sauce" width="626" height="415" /></a>

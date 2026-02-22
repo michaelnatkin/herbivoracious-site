@@ -7,6 +7,20 @@ aliases: ["/corned-beets-recipe/", "/2013/03/corned-beets-recipe.html"]
 cover:
   image: "/images/2013/06/Pastrami-Beets-626x415.jpg"
   hidden: true
+recipe:
+  name: "Corned Beets – Recipe"
+  time: "20 min"
+  ingredients:
+    - "500 grams water"
+    - "10 to 20 grams kosher salt (see below)"
+    - "18 grams sugar"
+    - "15 to 22 grams spice mix (see below)"
+    - "1000 grams peeled and thinly-sliced (about 2mm) beets (from about 1800 grams whole beets)"
+  instructions:
+    - "Whisk together the water, salt, sugar, and spice mixture. If using the ChefSteps House Rub 01, use the smaller amounts of salt and spice mix. If using Elise's corned beef spice mix, use the larger amounts. Taste and adjust seasoning - it should definitely be salty, but not unbearably, and it should have a definite spice kick."
+    - "If you have sous vide equipment available, seal the beets with the brine and cook at 85 C / 185 F until very tender, about 1 hour and 20 minutes. Otherwise, bring to a simmer in a pot and cook until tender, adding water as needed to keep the beets just covered."
+    - "If you have a dehydrator available, dehydrate at 145 F until very dry and leathery, about 4 hours. Otherwise, place in a single layer on a parchment-lined baking sheet in your oven at the lowest possible temperature. That will probably be about 170 F, so you'll have to keep a closer eye on them. I'd expect it will take about 2 hours. Use convection if available to maximize airflow."
+    - "If you have a chamber vacuum available, seal the beets with a minimal amount of water at maximum vacuum to quickly rehydrate. Otherwise, put them in a covered bowl in the refrigerator with just enough water to cover, and check them every half-hour or so until pleasantly chewy. Drain off excess water. The beets are now ready to use."
 ---
 
 <a href="/images/2013/06/Pastrami-Beets.jpg"><img class="alignnone size-large wp-image-3619" alt="Beets Cooked Pastrami Style" src="/images/2013/06/Pastrami-Beets-626x415.jpg" width="626" height="415" /></a>

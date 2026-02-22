@@ -8,6 +8,19 @@ aliases: ["/cheese-course-with-maple-pickled-pears-recipe/", "/2012/11/cheese-co
 cover:
   image: "/images/cookbook/cheese-course-with-maple-pickled-pears.jpg"
   hidden: true
+recipe:
+  name: "Cheese Course with Maple Pickled Pears"
+  yield: "4"
+  time: "15 minutes"
+  ingredients:
+    - "2 tablespoons apple cider vinegar"
+    - "2 tablespoons maple syrup (preferably grade “B”)"
+    - "½ teaspoon Kosher salt"
+    - "several grinds black pepper"
+    - "1 Bosc pear, peeled, cored, and finely diced or thinly sliced"
+  instructions:
+    - "Mix the vinegar, syrup, salt and pepper in a small bowl and microwave for 1 minute. Toss with the pears and set aside at room temperature for at least 15 minutes, or they can be refrigerated overnight."
+    - "Drain off the pickling liquid and serve the pears with your cheeses and bread or crackers. Leftovers can be used in grilled cheese sandwiches."
 ---
 <a href="/images/cookbook/cheese-course-with-maple-pickled-pears.jpg"><img src="/images/cookbook/cheese-course-with-maple-pickled-pears.jpg" alt="Cheese Course with Maple Pickled Pears" /></a>
 

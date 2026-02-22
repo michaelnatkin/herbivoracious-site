@@ -7,6 +7,25 @@ aliases: ["/four-thousand-d/", "/2007/11/four-thousand-d.html"]
 cover:
   image: "/images/2007-small/11/12/whitetruffles.jpg"
   hidden: true
+recipe:
+  name: "Tagliatelle in White Truffle Cream Sauce"
+  yield: "2 as dinner or 4 as a first course"
+  ingredients:
+    - "1 lb. fresh tagliatelle"
+    - "at least 5 grams of fresh white truffle"
+    - "1 1/2 c. heavy cream"
+    - "3 oz. parmigiano reggiano cheese, grated"
+    - "sea salt"
+    - "fresh ground black pepper"
+  instructions:
+    - "Set a large pot of salted water on to boil."
+    - "In a small skillet, heat the cream to a simmer and let it reduce for about 5 minutes, until slightly thickened, and then remove from the heat."
+    - "Stir in most of the parmesan cheese."
+    - "Grate the truffle into the sauce with your finest grater (i.e. a microplane). Don't waste a hair of it."
+    - "Cover the sauce and let rest off the heat for at least 15 minutes."
+    - "When you are ready to eat, drop in the pasta and set the sauce back over lowest possible simmer to reheat gently."
+    - "When the pasta is al dente, drain, portion into individual heated bowls, toss with the sauce, top with a bit more parmesan, a few grains of sea salt and a grind of pepper."
+    - "Experience rapture."
 ---
 
 <p><a href="/images/2007/11/12/whitetruffles.jpg" rel="lightbox"><img width="455" height="302" border="0" alt="Fresh White Truffles" title="Fresh White Truffles" src="/images/2007-small/11/12/whitetruffles.jpg" /></a><br /><span style="font-size: 0.8em;">Fresh White Truffles</span><br /></p>  <p>Sarina spotted the news that DeLaurenti's market, a superb Italian specialty store in Seattle's Pike Place Market had received a shipment of white truffles. Oh, just one little thing. They cost $4000 dollars for a pound.</p>  <p>Now this isn't actually as gruesome as it seems. That works out to something like $8 / gram, and even 5-6 grams (the size of one of the truffles in the picture above) will flavor the heck out of enough pasta or eggs for 2-4 people. So for the the cost of only a middling restaurant meal, you could instead have something superb and rare at home. Maybe not so bad? Certainly one of the greatest vegetarian indulgences imaginable.</p>  <p>So we trekked down to DeLaurenti's, which Sarina calls &quot;the happiest place on Earth&quot;. The folks at the counter were happy to help, allowing us to pick out our own truffles and watch them weigh them on a special little postal scale. While we were there we felt compelled to come back with housemade porcini butter (astounding), housemade fresh mozzarella, Calabro ricotta, Porcini Harvest Bread from Macrina, grilled artichokes, and a pound of fresh tagliatelle which they roll and cut to order. And some chanterelles from another store. Picture below. This is a family blog so let me just say: Oh heck yeah.</p>  <p>This is my first experience cooking with white truffles. I've had black ones a couple of times. There is a distinct difference in flavor. To me, the black truffles are more cleanly aromatic while the whites have a pungent characteristic a little bit like garlic. I actually think I might prefer the black truffles (and they are only like 1/5 the price), but the jury is still out.</p>  <p>Most of the reading I did suggested infusing black truffles into sauces, risottos and so on, while white truffles were to be reserved for grating or slicing on top of a finished dish. So that is what I tried first, the classic preparation of simply grating them on top of scrambled eggs with lots of butter. For whatever reason, this didn't do it for me. It was good, of course, but the aroma didn't send me reeling back with pleasure.</p>  <p>So tonight we used up most of the rest of them in a simple parmesan cream sauce for pasta. The recipe is below. The main trick is to infuse the truffle in the cream for 15-30 minutes so the flavor can fully develop. Good parmesan cheese seems to me to be one of the ultimate matches for truffles, enhancing the heady earthy flavors. The results this time were as astonishing as I'd hoped. Outrageous really.</p>  <div class="recipe-card">

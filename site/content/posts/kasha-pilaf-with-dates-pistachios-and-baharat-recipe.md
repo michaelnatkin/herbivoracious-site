@@ -7,6 +7,26 @@ aliases: ["/kasha-pilaf-with-dates-pistachios-and-baharat-recipe/", "/2012/01/ka
 cover:
   image: "/images/2012/04/Kasha-Pilaf-with-Baharat-Dates-and-Pistachios1-626x415.jpg"
   hidden: true
+recipe:
+  name: "Kasha Pilaf with Dates, Pistachios and Baharat"
+  yield: "4 as a side dish"
+  diet: "Vegetarian, Gluten-Free"
+  ingredients:
+    - "1 egg, lightly beaten"
+    - "1 cup buckwheat groats (kasha) (medium grain)"
+    - "1/4 teaspoon salt"
+    - "2 tablespoons butter"
+    - "2 cups water"
+    - "1 tablespoon baharat (or ras el hanout)"
+    - "Several grinds black pepper"
+    - "1/4 teaspoon cayenne pepper (optional)"
+    - "1/3 cup seeded and diced dates"
+    - "1/3 cup shelled pistachios"
+  instructions:
+    - "Stir together the egg and kasha until the grains are coated. Place a medium saucepan over medium heat. Add the egg coated kasha and cook, stirring pretty constantly, until the grains dry out and separate, about 4 minutes."
+    - "Add the salt, butter, and water and stir. Bring to a simmer, reduce heat to low to maintain the simmer, cover and cook until all of the water is absorbed, about 12 minutes. Remove from heat, allow to cool slightly, and fluff with a fork."
+    - "Stir in the baharat, black pepper, cayenne and dates. Taste and adjust seasoning."
+    - "Just before serving, lightly toast the pistachios in dry skillet over medium heat and mix them in. (Don't do this much in advance or they will absorb moisture and lose their crunch.)"
 ---
 
 <a href="/images/2012/04/Kasha-Pilaf-with-Baharat-Dates-and-Pistachios1.jpg"><img class="alignnone size-large wp-image-1096" title="Kasha Pilaf with Baharat, Dates and Pistachios" src="/images/2012/04/Kasha-Pilaf-with-Baharat-Dates-and-Pistachios1-626x415.jpg" alt="" width="626" height="415" /></a>

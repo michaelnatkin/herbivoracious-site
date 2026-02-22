@@ -8,6 +8,33 @@ aliases: ["/gnocchi-with-radicchio-leeks-and-ricotta-salata-vegetarian-recipe/",
 cover:
   image: "/images/old/6a00e008d618bb8834014e60d72305970c-500wi.jpg"
   hidden: true
+recipe:
+  name: "Pan-Fried Gnocchi with Radicchio, Leeks and Ricotta Salata"
+  yield: "6"
+  diet: "Vegetarian"
+  ingredients:
+    - "2 pounds Russet potatoes"
+    - "Kosher salt"
+    - "2 1/2 cups all-purpose flour"
+    - "2 eggs, lightly beaten"
+    - "1/2 cup milk"
+    - "Fresh ground nutmeg"
+    - "Extra-virgin olive oil"
+    - "4 leeks, white and light green parts only, cut into 1/4\" rings and thoroughly rinsed"
+    - "2 cloves garlic, minced"
+    - "1 small head radicchio cut into 1/2\" ribbons"
+    - "1 big pinch chili flakes"
+    - "6 ounces ricotta salata, thinly sliced"
+  instructions:
+    - "Preheat the oven to 450. Put a thin layer of Kosher salt on a baking sheet. Poke a few holes in the potatoes and set them on the salt. Bake until very thoroughly tender, about 45 minutes. Remove from the oven, cut in half lengthwise, and allow to cool to near room temperature."
+    - "Remove the skins from the potatoes and force them through a potato ricer or food mill into a large bowl. Add the flour, eggs, milk, 1 teaspoon of Kosher salt, and several generous grinds of nutmeg. Use a spoon and then your hands to bring together into a soft but not sticky dough. Add a bit more water or flour as needed to find the right texture (see headnote). Cover."
+    - "Bring a large pot of salted water to a rolling boil. Lightly flour your board and a baking sheet. Grab a fistful of dough and roll out into a 1/2\" thick rope. Using a knife or board scraper, cut into 1/2\" gnocchi. Roll each gnocchi over a gnocchi board or the tines of a knife. Press in with your thumb to create an indentation as you roll to create the grooves on the opposite side. If things are sticking a lot, you need to add more flour. Transfer the gnocchi to the baking sheet. Repeat with the remaining dough."
+    - "Working in several batches, depending on your pot size, boil the gnocchi until they float to the top and then another 30 seconds. Remove with a slotted spoon to a bowl and toss with some olive oil to prevent sticking. If you won't be finishing the dish right away, then once all the gnocchi are boiled, oiled, and cooled a bit, transfer them to a baking sheet and refrigerate."
+    - "Place a large skillet over medium-high heat. Add 2 tablespoons of olive oil, and when it is hot, add the leeks and a big pinch of salt. Cook until tender and lightly browned. Remove to a bowl and leave skillet on."
+    - "Add a little more oil to the skillet. Add the garlic and saute for 30 seconds, not allowing it to burn. Add the radicchio, a big pinch of salt, and the chili flakes. Cook until wilted and transfer to the bowl with the leeks."
+    - "Add a little more oil to the skillet. Add the gnocchi and saute, turning occasionally until browned on most sides and nicely crispy."
+    - "Return the leeks and radicchio to the pan and toss to combine and reheat. Taste and add a little more salt if needed, but be careful because the ricotta salata is quite salty."
+    - "Divide among the serving plates, garnish with the ricotta salata, and serve immediately."
 ---
 
 <a style="display: inline;" href="/images/old/6a00e008d618bb8834014e60d72305970c-800wi.jpg" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb8834014e60d72305970c" title="Gnocchi with Ricchio, Leeks and Ricotta Salata" src="/images/old/6a00e008d618bb8834014e60d72305970c-500wi.jpg" alt="Gnocchi with Ricchio, Leeks and Ricotta Salata" /></a>

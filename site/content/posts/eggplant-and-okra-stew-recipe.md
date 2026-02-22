@@ -8,6 +8,32 @@ aliases: ["/eggplant-and-okra-stew-recipe/", "/2011/10/eggplant-and-okra-stew-re
 cover:
   image: "/images/cookbook/eggplant-and-okra-stew.jpg"
   hidden: true
+recipe:
+  name: "Eggplant and Okra Stew"
+  yield: "3-4"
+  time: "40 minutes"
+  diet: "Vegan, Gluten-Free"
+  ingredients:
+    - "8 very small eggplants (slightly larger than golf ball sized), 3 medium or 1 large, about 1 ½ pounds total"
+    - "2 tablespoons vegetable oil"
+    - "1 medium white onion, diced"
+    - "4 cloves garlic, thinly sliced"
+    - "2 tablespoons grated fresh ginger, divided"
+    - "1 tablespoon ground coriander"
+    - "1 tablespoon ground cumin"
+    - "1 teaspoon chile flakes (more or less to taste)"
+    - "1 summer squash, medium dice"
+    - "1 pound okra, ends removed, cut into 1” lengths"
+    - "1 28-ounce can peeled tomatoes including juice"
+    - "kernels from 2 ears of corn"
+    - "Kosher salt"
+    - "fresh ground black pepper"
+    - "handful of parsley leaves"
+  instructions:
+    - "Preheat the oven to 400 degrees. Prick each eggplant several times with a fork. Roast on a sheet pan until completely tender, about 30 minutes. If the eggplant is not golf-ball sized, cut it into bite-sized pieces."
+    - "In a 4 quart or larger pot, heat the vegetable oil over a medium-high flame. Saute the onion for 2 minutes, until becoming translucent. Add 1 teaspoon of Kosher salt, the garlic, 1 tablespoon of the freshly grated ginger, the coriander, cumin and chile flakes. Cook and stir for 1 more minute."
+    - "Add the summer squash, okra, and the tomatoes with their juice. Break up the tomatoes. Bring to a simmer and then reduce heat to maintain. Cook for 15 minutes, until the vegetables are tender. Add the eggplant when it is ready. Taste and adjust salt and spices."
+    - "Two minutes before you are ready to serve, add the corn kernels and the remaining tablespoon of fresh ginger. Divide into bowls over rice, finish with several grinds of black pepper and some torn or cut leaves of parsley and bring to the table immediately."
 ---
 <a href="/images/cookbook/eggplant-and-okra-stew.jpg"><img src="/images/cookbook/eggplant-and-okra-stew.jpg" alt="Eggplant and Okra Stew" /></a>
 

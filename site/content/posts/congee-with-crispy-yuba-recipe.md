@@ -8,6 +8,29 @@ aliases: ["/congee-with-crispy-yuba-recipe/", "/2012/11/congee-with-crispy-yuba-
 cover:
   image: "/images/cookbook/congee-with-crispy-yuba.jpg"
   hidden: true
+recipe:
+  name: "Congee with Crispy Yuba"
+  yield: "4"
+  time: "15 minutes active"
+  diet: "Vegan, Gluten-Free"
+  ingredients:
+    - "¾ cup Chinese-style rice"
+    - "Kosher salt"
+    - "1 cup thinly sliced red cabbage"
+    - "2 tablespoons rice vinegar"
+    - "2 sheets (roughly 8 x 10 inches) yuba (tofu skin)"
+    - "¼ cup vegetable oil"
+    - "1-2 large shallots cut into 1/8” thick slices and separated into rings"
+    - "8 sprigs cilantro (leaves and tender stems only)"
+    - "4 teaspoons toasted sesame oil"
+    - "flaky sea salt"
+  instructions:
+    - "Rinse the rice in two changes of water. Drain and put in a pot that holds about 3 quarts, along with 9 cups of water and 1 ½ teaspoons Kosher salt. Bring to a boil, reduce to a simmer, and put on a lid, leaving a gap for some steam to escape. Simmer, stirring every ten minutes or so, until it has become a creamy porridge with a consistency similar to a slightly thin oatmeal, about 1 hour and 15 minutes to 1 and ½ hours. While the congee is cooking, you can prepare the toppings. When done, stir, taste, and add more salt as needed."
+    - "Toss the cabbage with the rice vinegar and a big pinch of salt and set aside to pickle."
+    - "Roughly break up the yuba skin, place in a small bowl, and cover with boiling water for 5 minutes. Carefully drain, rinse with cool water, then spread out and pat the yuba dry."
+    - "Put the vegetable oil in a medium skillet over medium-high heat. When the oil is hot, place the shallot rings in the oil in a single layer. Fry, tossing once or twice, until dark golden brown. Remove to paper towels, leaving the oil in the skillet. Sprinkle on a bit of salt."
+    - "Close to serving time, so it stays crispy, pat the yuba skin dry again and then fry in the same skillet. You may need to work in two batches. It will brown quickly, and stick together somewhat like an egg. When it is golden brown, remove to paper towels and sprinkle with a bit of salt."
+    - "To serve the congee, divide the porridge among 4 bowls. Top each with one one quarter of the yuba, one quarter of the shallot, one quarter of the cabbage (drained), two sprigs of cilantro and a teaspoon of toasted sesame oil. Add a generous sprinkle of flaky sea salt and serve immediately."
 ---
 <a href="/images/cookbook/congee-with-crispy-yuba.jpg"><img src="/images/cookbook/congee-with-crispy-yuba.jpg" alt="Congee with Crispy Yuba" /></a>
 

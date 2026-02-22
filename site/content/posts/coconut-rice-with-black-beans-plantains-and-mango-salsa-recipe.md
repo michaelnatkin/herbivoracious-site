@@ -8,6 +8,32 @@ aliases: ["/coconut-rice-with-black-beans-plantains-and-mango-salsa-recipe/", "/
 cover:
   image: "/images/old/6a00e008d618bb8834015432781119970c-500wi.jpg"
   hidden: true
+recipe:
+  name: "Coconut Rice with Black Beans, Plantains, and Mango Salsa"
+  diet: "Vegan, Vegetarian, Gluten-Free"
+  ingredients:
+    - "2 1/4 cups basmati rice (3 standard rice-cooker cups)"
+    - "1 thirteen-ounce can coconut milk"
+    - "1 ripe mango, cubed"
+    - "1 to 2 jalapeno or serrano pepper (or if you are insane, some part of a habanero), seeded and roughly chopped"
+    - "1 clove garlic, thinly sliced"
+    - "1/3 cup finely diced red onion"
+    - "1 handful cilantro"
+    - "1/2 teaspoon Kosher salt"
+    - "2 tablespoons coconut oil or vegetable oil"
+    - "2 ripe plantains, peeled and sliced into generous 1/4\" thick coins"
+    - "Kosher salt"
+    - "2 cups cooked black beans, heated, seasoned with salt (or if you like, with garlic, onions, epazote, etc. as you please)"
+    - "1 ripe avocado, sliced"
+    - "1 mango, cubed"
+    - "1 handful cilantro"
+    - "flaky sea salt"
+    - "1 lime cut into quarters"
+  instructions:
+    - "For the rice: Cook the rice in your usual way, on the stovetop or in a rice cooker, but replace one can's worth of water with the coconut milk, then add in an extra quarter-cup of water."
+    - "For the sauce: Roughly puree all ingredients in a mini food processor. Just 10 seconds or so should be sufficient, as you want to retain some texture. Taste and adjust seasoning."
+    - "To complete the dish: Warm your serving bowls or plates. Heat the oil in a large skillet over medium-high heat. When it is shimmering, add the plantains in a single layer. Fry, until brown on one side, about 3 minutes. Flip and cook on the other side until browned and tender, about two more minutes. Sprinkle with Kosher salt."
+    - "To serve, you may either divide the rice among four bowls and top with the plantains, beans, avocado, mango, cilantro and sauce, or serve all of the ingredients separately and let diners make their own. Pass the lime quarters to squeeze over the finished plate as desired."
 ---
 
 <a style="display: inline;" href="/images/old/6a00e008d618bb8834015432781119970c-800wi.jpg" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb8834015432781119970c" title="Coconut Rice with Black Beans, Plantains, and Mango Salsa" src="/images/old/6a00e008d618bb8834015432781119970c-500wi.jpg" alt="Coconut Rice with Black Beans, Plantains, and Mango Salsa" /></a>
