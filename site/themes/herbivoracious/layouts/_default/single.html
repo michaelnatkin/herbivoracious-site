@@ -49,14 +49,6 @@
         </div>
         {{ end }}
       </div>
-      {{ if .Params.recipe }}
-      <div class="print-recipe-bar">
-        <button class="print-recipe-btn" onclick="window.print()">
-          <svg width="16" height="16" viewBox="0 0 16 16" fill="none" aria-hidden="true"><path d="M4 1h8v3H4V1Zm-1 3h10a2 2 0 0 1 2 2v4a1 1 0 0 1-1 1h-2v4H4v-4H2a1 1 0 0 1-1-1V6a2 2 0 0 1 2-2Zm3 6v4h4v-4H6Z" fill="currentColor"/></svg>
-          Print Recipe
-        </button>
-      </div>
-      {{ end }}
       <div class="single-content">
         {{/* Wrap recipe title pattern: <strong>Title</strong><em>info</em> → classed spans */}}
         {{ $content = $content | replaceRE `<p>\s*<strong>([^<]+)\s*</strong>\s*<em>` `<p><span class="recipe-title">$1</span><em class="recipe-meta">` }}
@@ -105,4 +97,17 @@
 
   {{ partial "sidebar.html" . }}
 </div>
+{{ if .Params.recipe }}
+<script>
+(function(){
+  var card = document.querySelector('.recipe-card');
+  if (!card) return;
+  var btn = document.createElement('button');
+  btn.className = 'print-recipe-btn';
+  btn.onclick = function(){ window.print(); };
+  btn.innerHTML = '<svg width="16" height="16" viewBox="0 0 16 16" fill="none" aria-hidden="true"><path d="M4 1h8v3H4V1Zm-1 3h10a2 2 0 0 1 2 2v4a1 1 0 0 1-1 1h-2v4H4v-4H2a1 1 0 0 1-1-1V6a2 2 0 0 1 2-2Zm3 6v4h4v-4H6Z" fill="currentColor"/></svg> Print Recipe';
+  card.insertBefore(btn, card.firstChild);
+})();
+</script>
+{{ end }}
 {{ end }}

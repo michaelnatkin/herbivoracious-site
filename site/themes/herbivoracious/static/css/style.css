@@ -2322,14 +2322,9 @@ a.as-seen-in:hover { text-decoration: none; }
   .cb-lead p { font-size: 18px; }
 }
 
-/* ---- Print Recipe Button ---- */
-.print-recipe-bar {
-  display: flex;
-  justify-content: flex-end;
-  margin-bottom: 12px;
-}
-
-.print-recipe-btn {
+/* ---- Print Recipe Button (inside .recipe-card) ---- */
+.recipe-card .print-recipe-btn {
+  float: right;
   display: inline-flex;
   align-items: center;
   gap: 6px;
@@ -2344,14 +2339,15 @@ a.as-seen-in:hover { text-decoration: none; }
   letter-spacing: 0.02em;
   cursor: pointer;
   transition: all 0.3s var(--ease);
+  margin-top: 2px;
 }
 
-.print-recipe-btn:hover {
+.recipe-card .print-recipe-btn:hover {
   border-color: var(--accent);
   color: var(--accent);
 }
 
-.print-recipe-btn svg {
+.recipe-card .print-recipe-btn svg {
   flex-shrink: 0;
 }
 
@@ -2365,8 +2361,9 @@ a.as-seen-in:hover { text-decoration: none; }
   .comments-section,
   .site-footer,
   .cookbook-cta,
-  .print-recipe-bar,
+  .single-cover,
   .single-categories,
+  .print-recipe-btn,
   .pagefind-ui {
     display: none !important;
   }
@@ -2405,18 +2402,6 @@ a.as-seen-in:hover { text-decoration: none; }
     border-bottom: 1pt solid #ccc;
     padding-bottom: 8pt;
     margin-bottom: 16pt;
-  }
-
-  /* Cover image — keep but constrain */
-  .single-cover {
-    border-radius: 0;
-    margin-bottom: 16pt;
-  }
-
-  .single-cover img {
-    max-height: 280pt;
-    aspect-ratio: auto;
-    border-radius: 0;
   }
 
   /* Content */
