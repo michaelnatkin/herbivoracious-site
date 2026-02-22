@@ -2,7 +2,7 @@
 title: "Apio (Lemony Celery Root) - Recipe"
 date: 2012-02-20T06:00:00
 slug: "apio-lemony-celery-root-recipe"
-description: ""
+description: "Vegetarian recipe for apio, a bright and lemony celery root dish with carrots and olive oil. A simple, refreshing side dish."
 categories: ["Recipes", "Side Dishes"]
 aliases: ["/apio-lemony-celery-root-recipe/", "/2012/02/apio-lemony-celery-root-recipe.html"]
 cover:

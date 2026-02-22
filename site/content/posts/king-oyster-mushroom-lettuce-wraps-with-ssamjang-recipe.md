@@ -2,7 +2,7 @@
 title: "King Oyster Mushroom Lettuce Wraps with Ssamjang - Recipe"
 date: 2011-07-01T08:30:00
 slug: "king-oyster-mushroom-lettuce-wraps-with-ssamjang-recipe"
-description: ""
+description: "Vegetarian Korean-inspired lettuce wraps with meaty king oyster mushrooms and spicy-sweet ssamjang sauce. A fresh, flavorful appetizer."
 categories: ["Recipes", "Appetizers"]
 aliases: ["/king-oyster-mushroom-lettuce-wraps-with-ssamjang-recipe/", "/2011/07/king-oyster-mushroom-lettuce-wraps-with-ssamjang-recipe.html"]
 cover:

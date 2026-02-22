@@ -2,7 +2,7 @@
 title: "Roasted Cippolini Onions and Beets - Recipe"
 date: 2012-02-03T06:30:00
 slug: "roasted-cippolini-onions-and-beets-recipe"
-description: ""
+description: "Sweet roasted cippolini onions and beets with olive oil and red wine vinegar. A simple, elegant vegetarian side dish with beautiful color."
 categories: ["Recipes", "Side Dishes"]
 aliases: ["/roasted-cippolini-onions-and-beets-recipe/", "/2012/02/roasted-cippolini-onions-and-beets-recipe.html"]
 cover:

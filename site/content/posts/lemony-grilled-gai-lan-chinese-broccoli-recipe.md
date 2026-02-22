@@ -2,7 +2,7 @@
 title: "Lemony Grilled Gai Lan (Chinese Broccoli) - Recipe"
 date: 2012-02-28T08:45:00
 slug: "lemony-grilled-gai-lan-chinese-broccoli-recipe"
-description: ""
+description: "Grilled gai lan (Chinese broccoli) brightened with lemon. A quick, smoky vegetarian side dish that brings out the best in this hearty green."
 categories: ["Recipes", "Side Dishes"]
 aliases: ["/lemony-grilled-gai-lan-chinese-broccoli-recipe/", "/2012/02/lemony-grilled-gai-lan-chinese-broccoli-recipe.html"]
 cover:

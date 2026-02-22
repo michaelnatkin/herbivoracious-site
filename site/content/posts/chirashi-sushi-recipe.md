@@ -2,7 +2,7 @@
 title: "Chirashi Sushi - Recipe"
 date: 2011-08-09T07:45:00
 slug: "chirashi-sushi-recipe"
-description: ""
+description: "Vegetarian chirashi sushi with seasoned rice topped with eggplant, shiitake and beech mushrooms, tofu, avocado, cucumber, and shiso."
 categories: ["Recipes", "Main Courses"]
 aliases: ["/chirashi-sushi-recipe/", "/2011/08/chirashi-sushi-recipe.html"]
 cover:

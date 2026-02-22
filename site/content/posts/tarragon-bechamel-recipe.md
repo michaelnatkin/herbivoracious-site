@@ -2,7 +2,7 @@
 title: "Tarragon Bechamel - Recipe"
 date: 2012-06-19T06:15:00
 slug: "tarragon-bechamel-recipe"
-description: ""
+description: "Classic bechamel sauce infused with fresh tarragon. A versatile vegetarian white sauce for gratins, lasagna, and more."
 categories: ["Recipes", "Sauces and Condiments"]
 aliases: ["/tarragon-bechamel-recipe/", "/2012/06/tarragon-bechamel-recipe.html"]
 recipe:

@@ -2,7 +2,7 @@
 title: "Crunchy Crusted Yeast-Raised Belgian Waffles - Recipe"
 date: 2012-04-11T08:45:00
 slug: "crunchy-crusted-yeast-raised-belgian-waffles-recipe"
-description: ""
+description: "Yeast-raised Belgian waffles with an irresistibly crunchy, caramelized crust. An overnight recipe that's worth the wait for the best waffles you've ever had."
 categories: ["Recipes", "Breakfast and Brunch"]
 aliases: ["/crunchy-crusted-yeast-raised-belgian-waffles-recipe/", "/2012/04/crunchy-crusted-yeast-raised-belgian-waffles-recipe.html"]
 cover:

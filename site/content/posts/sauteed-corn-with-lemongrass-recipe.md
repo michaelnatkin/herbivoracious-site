@@ -2,7 +2,7 @@
 title: "Sauteed Corn with Lemongrass - Recipe"
 date: 2012-03-06T08:15:00
 slug: "sauteed-corn-with-lemongrass-recipe"
-description: ""
+description: "Sauteed corn with fragrant lemongrass, fresh ginger, and red onion. A quick, aromatic vegetarian side dish with Southeast Asian flair."
 categories: ["Recipes", "Side Dishes"]
 aliases: ["/sauteed-corn-with-lemongrass-recipe/", "/2012/03/sauteed-corn-with-lemongrass-recipe.html"]
 recipe:

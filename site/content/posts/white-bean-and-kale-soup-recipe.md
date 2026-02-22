@@ -2,7 +2,7 @@
 title: "White Bean and Kale Soup - Recipe"
 date: 2011-02-04T06:00:00
 slug: "white-bean-and-kale-soup-recipe"
-description: ""
+description: "Hearty white bean and kale soup with garlic, rosemary, and a whole head of garlic. Vegan-friendly, gluten-free, with both pressure cooker and stovetop methods."
 categories: ["Recipes", "Soups", "Vegan or Modifiable", "Gluten-Free"]
 aliases: ["/white-bean-and-kale-soup-recipe/", "/2011/02/white-bean-and-kale-soup-recipe.html"]
 cover:

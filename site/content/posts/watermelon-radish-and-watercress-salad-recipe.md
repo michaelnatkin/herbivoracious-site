@@ -2,7 +2,7 @@
 title: "Watermelon Radish and Watercress Salad - Recipe"
 date: 2011-03-26T07:00:00
 slug: "watermelon-radish-and-watercress-salad-recipe"
-description: ""
+description: "A crisp, peppery salad of watermelon radish and fresh watercress dressed with olive oil and lemon. A beautiful, vibrant vegetarian salad."
 categories: ["Recipes", "Salads"]
 aliases: ["/watermelon-radish-and-watercress-salad-recipe/", "/2011/03/watermelon-radish-and-watercress-salad-recipe.html"]
 cover:

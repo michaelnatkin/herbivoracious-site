@@ -2,7 +2,7 @@
 title: "Butternut Squash Soup with Maple Pumpkin Seeds - Recipe"
 date: 2011-03-05T06:45:00
 slug: "butternut-squash-soup-with-maple-pumpkin-seeds-recipe"
-description: ""
+description: "Vegan-friendly butternut squash soup topped with sweet maple-glazed pumpkin seeds. A rich, warming fall soup that's also gluten-free."
 categories: ["Recipes", "Soups", "Vegan or Modifiable", "Gluten-Free"]
 aliases: ["/butternut-squash-soup-with-maple-pumpkin-seeds-recipe/", "/2011/03/butternut-squash-soup-with-maple-pumpkin-seeds-recipe.html"]
 cover:

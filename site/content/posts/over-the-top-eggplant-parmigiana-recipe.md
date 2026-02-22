@@ -2,7 +2,7 @@
 title: "Over the Top Eggplant Parmigiana - Recipe"
 date: 2011-09-19T07:15:00
 slug: "over-the-top-eggplant-parmigiana-recipe"
-description: ""
+description: "An indulgent vegetarian eggplant parmigiana with San Marzano tomatoes, fresh mozzarella, and Parmesan. Layers of fried eggplant baked to bubbly perfection."
 categories: ["Recipes", "Main Courses"]
 aliases: ["/over-the-top-eggplant-parmigiana-recipe/", "/2011/09/over-the-top-eggplant-parmigiana-recipe.html"]
 cover:

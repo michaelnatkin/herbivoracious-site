@@ -2,7 +2,7 @@
 title: "Rice Vermicelli (Bún) with Ginger-Grapefruit Sauce - Recipe"
 date: 2011-07-27T08:15:00
 slug: "rice-vermicelli-bun-with-ginger-grapefruit-sauce-recipe"
-description: ""
+description: "Vietnamese-style rice vermicelli noodle bowl (bun) with a bright ginger-grapefruit sauce, crispy shallots, and fresh herbs. Vegan-friendly and gluten-free."
 categories: ["Recipes", "Main Courses", "Vegan or Modifiable", "Gluten-Free"]
 aliases: ["/rice-vermicelli-bun-with-ginger-grapefruit-sauce-recipe/", "/2011/07/rice-vermicelli-bun-with-ginger-grapefruit-sauce-recipe.html"]
 cover:

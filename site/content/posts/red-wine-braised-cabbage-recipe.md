@@ -2,7 +2,7 @@
 title: "Red-Wine Braised Cabbage - Recipe"
 date: 2012-02-15T07:45:00
 slug: "red-wine-braised-cabbage-recipe"
-description: ""
+description: "Slow-braised cabbage simmered in red wine with onion and leek. A deeply savory vegetarian side dish that’s even better the next day."
 categories: ["Recipes", "Side Dishes"]
 aliases: ["/red-wine-braised-cabbage-recipe/", "/2012/02/red-wine-braised-cabbage-recipe.html"]
 recipe:

@@ -2,7 +2,7 @@
 title: "Seckel Pears with Cinnamon Pastry Crumbs - Recipe"
 date: 2012-05-02T08:45:00
 slug: "seckel-pears-with-cinnamon-pastry-crumbs-recipe"
-description: ""
+description: "Tender seckel pears topped with buttery cinnamon pastry crumbs. A rustic, elegant vegetarian dessert with warm spice and delicate fruit."
 categories: ["Recipes", "Desserts"]
 aliases: ["/seckel-pears-with-cinnamon-pastry-crumbs-recipe/", "/2012/05/seckel-pears-with-cinnamon-pastry-crumbs-recipe.html"]
 cover:

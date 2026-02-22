@@ -2,7 +2,7 @@
 title: "Caramelized Pear and Ginger Scones - Recipe"
 date: 2012-04-09T08:15:00
 slug: "caramelized-pear-and-ginger-scones-recipe"
-description: ""
+description: "Buttery scones studded with caramelized pears and fresh ginger. A perfect vegetarian brunch treat with a crisp exterior and tender crumb."
 categories: ["Recipes", "Breakfast and Brunch"]
 aliases: ["/caramelized-pear-and-ginger-scones-recipe/", "/2012/04/caramelized-pear-and-ginger-scones-recipe.html"]
 cover:

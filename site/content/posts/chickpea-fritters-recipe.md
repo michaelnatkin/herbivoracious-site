@@ -2,7 +2,7 @@
 title: "Chickpea Fritters - Recipe"
 date: 2011-06-22T07:30:00
 slug: "chickpea-fritters-recipe"
-description: ""
+description: "Crispy vegetarian chickpea fritters with green onions, garlic, rosemary, lemon zest, and sesame seeds. Pan-fried golden brown and finished with flaky sea salt."
 categories: ["Recipes", "Appetizers"]
 aliases: ["/chickpea-fritters-recipe/", "/2011/06/chickpea-fritters-recipe.html"]
 cover:

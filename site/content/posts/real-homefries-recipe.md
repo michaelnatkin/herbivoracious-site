@@ -2,7 +2,7 @@
 title: "Real Homefries - Recipe"
 date: 2012-04-19T07:30:00
 slug: "real-homefries-recipe"
-description: ""
+description: "Real homefries done right — crispy pan-fried potatoes with onion and chile de arbol. A satisfying vegetarian breakfast side dish."
 categories: ["Recipes", "Breakfast and Brunch"]
 aliases: ["/real-homefries-recipe/", "/2012/04/real-homefries-recipe.html"]
 cover:

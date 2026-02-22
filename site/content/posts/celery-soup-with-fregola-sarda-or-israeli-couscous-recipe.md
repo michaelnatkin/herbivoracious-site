@@ -2,7 +2,7 @@
 title: "Celery Soup with Fregola Sarda or Israeli Couscous - Recipe"
 date: 2012-08-25T06:15:00
 slug: "celery-soup-with-fregola-sarda-or-israeli-couscous-recipe"
-description: ""
+description: "Vegetarian celery soup with toasted fregola sarda or Israeli couscous. A light, elegant soup with bright celery flavor and satisfying chewy pasta."
 categories: ["Recipes", "Soups"]
 aliases: ["/celery-soup-with-fregola-sarda-or-israeli-couscous-recipe/", "/2012/08/celery-soup-with-fregola-sarda-or-israeli-couscous-recipe.html"]
 cover:
