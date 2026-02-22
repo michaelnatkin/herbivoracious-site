@@ -2321,3 +2321,148 @@ a.as-seen-in:hover { text-decoration: none; }
   .cb-stat__number { font-size: 28px; }
   .cb-lead p { font-size: 18px; }
 }
+
+/* ---- Print Recipe Button ---- */
+.print-recipe-bar {
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 12px;
+}
+
+.print-recipe-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 8px 18px;
+  background: none;
+  border: 1.5px solid var(--border);
+  border-radius: 100px;
+  color: var(--text-secondary);
+  font-family: var(--font-ui);
+  font-size: 13px;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+  cursor: pointer;
+  transition: all 0.3s var(--ease);
+}
+
+.print-recipe-btn:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+.print-recipe-btn svg {
+  flex-shrink: 0;
+}
+
+/* ---- Print Stylesheet ---- */
+@media print {
+  /* Hide everything non-essential */
+  .site-header,
+  .sidebar,
+  .post-nav,
+  .related-posts,
+  .comments-section,
+  .site-footer,
+  .cookbook-cta,
+  .print-recipe-bar,
+  .single-categories,
+  .pagefind-ui {
+    display: none !important;
+  }
+
+  /* Reset page layout */
+  body {
+    font-size: 12pt;
+    line-height: 1.5;
+    color: #000;
+    background: #fff;
+  }
+
+  .site-content {
+    display: block;
+    max-width: 100%;
+    padding: 0;
+    margin: 0;
+  }
+
+  .main-content {
+    max-width: 100%;
+  }
+
+  /* Typography */
+  .single-header h1 {
+    font-size: 22pt;
+    margin-bottom: 4pt;
+  }
+
+  .single-meta {
+    font-size: 10pt;
+    margin-bottom: 12pt;
+  }
+
+  .single-header {
+    border-bottom: 1pt solid #ccc;
+    padding-bottom: 8pt;
+    margin-bottom: 16pt;
+  }
+
+  /* Cover image — keep but constrain */
+  .single-cover {
+    border-radius: 0;
+    margin-bottom: 16pt;
+  }
+
+  .single-cover img {
+    max-height: 280pt;
+    aspect-ratio: auto;
+    border-radius: 0;
+  }
+
+  /* Content */
+  .single-content {
+    font-size: 11pt;
+    line-height: 1.55;
+  }
+
+  .single-content img {
+    max-height: 200pt;
+    page-break-inside: avoid;
+  }
+
+  /* Recipe card */
+  .recipe-card {
+    border: 1pt solid #ccc;
+    padding: 16pt;
+    page-break-inside: avoid;
+  }
+
+  .recipe-card-title {
+    font-size: 16pt;
+  }
+
+  /* Links: show URL in parens */
+  .single-content a[href^="http"]::after {
+    content: " (" attr(href) ")";
+    font-size: 9pt;
+    color: #666;
+    word-break: break-all;
+  }
+
+  /* Don't show URL for image links or amazon links */
+  .single-content a[href*="amazon.com"]::after,
+  .single-content a:has(img)::after {
+    content: none;
+  }
+
+  /* No animations, no shadows */
+  * {
+    animation: none !important;
+    box-shadow: none !important;
+  }
+
+  /* Avoid orphans/widows in recipe instructions */
+  .recipe-card li {
+    page-break-inside: avoid;
+  }
+}
