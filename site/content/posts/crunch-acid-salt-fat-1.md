@@ -5,11 +5,11 @@ slug: "crunch-acid-salt-fat-1"
 categories: ["Favorites", "Miscellany", "Theory and Rants"]
 aliases: ["/2010/01/crunch-acid-salt-fat-1.html"]
 cover:
-  image: "/images/old/6a00e008d618bb88340128769f5c44970c-500wi.jpg"
+  image: "/images/old/6a00e008d618bb88340128769f5c44970c-500wi.webp"
   hidden: true
 ---
 
-<a style="display: inline;" href="/images/old/6a00e008d618bb88340128769f5c44970c-800wi.jpg" rel="lightbox"><img class="asset asset-image at-xid-6a00e008d618bb88340128769f5c44970c " src="/images/old/6a00e008d618bb88340128769f5c44970c-500wi.jpg" alt="Maldon (aka the world's greatest salt) Salt" /></a>
+<a style="display: inline;" href="/images/old/6a00e008d618bb88340128769f5c44970c-800wi.webp" rel="lightbox"><img class="asset asset-image at-xid-6a00e008d618bb88340128769f5c44970c " src="/images/old/6a00e008d618bb88340128769f5c44970c-500wi.webp" alt="Maldon (aka the world's greatest salt) Salt" /></a>
 <em>Flaky <a href="https://www.amazon.com/dp/B0006FS4TI?tag=herb-hugo-20" target="_blank">Maldon (aka the world's greatest sea salt)</a>, my personal favorite</em>
 
 Ask a professional chef to taste and evaluate a dish, and odds are that if they think it needs something, that something will be <strong>salt</strong>, <strong>acid</strong>, <strong>fat</strong>, or <strong>crunch</strong>.

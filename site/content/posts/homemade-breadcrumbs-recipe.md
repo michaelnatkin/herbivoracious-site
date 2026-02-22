@@ -6,7 +6,7 @@ description: "Homemade breadcrumbs are a completely different ballgame from the 
 categories: ["Recipes", "Sauces and Condiments", "Vegan or Modifiable"]
 aliases: ["/homemade-breadcrumbs-recipe/", "/2012/07/homemade-breadcrumbs-recipe.html"]
 cover:
-  image: "/images/cookbook/homemade-breadcrumbs.jpg"
+  image: "/images/cookbook/homemade-breadcrumbs.webp"
   hidden: true
 recipe:
   name: "Homemade Breadcrumbs"
@@ -20,7 +20,7 @@ recipe:
     - "Put the oil in your largest skillet over medium-low heat. When the oil is hot, add the breadcrumbs and salt. Toast, stirring frequently until well browned and crispy, about 10 minutes."
     - "Set aside to cool and use as needed."
 ---
-<a href="/images/cookbook/homemade-breadcrumbs.jpg"><img src="/images/cookbook/homemade-breadcrumbs.jpg" alt="Homemade Breadcrumbs" /></a>
+<a href="/images/cookbook/homemade-breadcrumbs.webp"><img src="/images/cookbook/homemade-breadcrumbs.webp" alt="Homemade Breadcrumbs" /></a>
 
 
 <p>Homemade breadcrumbs are a completely different ballgame from the canned grocery store stuff. It is a very easy thing to grate dried-out bread in the <a href="https://www.amazon.com/dp/B089TP3K77?tag=herb-hugo-20">food processor</a> and then toast the crumbs with a little olive oil in a skillet. You’ll be rewarded with tasty, crunchy goodness that can top a gratin, add body to a filling, or bread a fritter.</p>
@@ -29,9 +29,9 @@ recipe:
 <p>The recipe below is for a basic, all-purpose breadcrumb. You can add crushed garlic or hearty herbs such as rosemary or sage to the olive oil for variety.</p>
 
 
-<a href="/images/cookbook/homemade-breadcrumbs-2.jpg"><img src="/images/cookbook/homemade-breadcrumbs-2.jpg" alt="Homemade Breadcrumbs" /></a>
+<a href="/images/cookbook/homemade-breadcrumbs-2.webp"><img src="/images/cookbook/homemade-breadcrumbs-2.webp" alt="Homemade Breadcrumbs" /></a>
 
-<a href="/images/cookbook/homemade-breadcrumbs-3.jpg"><img src="/images/cookbook/homemade-breadcrumbs-3.jpg" alt="Homemade Breadcrumbs" /></a>
+<a href="/images/cookbook/homemade-breadcrumbs-3.webp"><img src="/images/cookbook/homemade-breadcrumbs-3.webp" alt="Homemade Breadcrumbs" /></a>
 
 <div class="recipe-card">
 <p><strong>Homemade Breadcrumbs</strong>

@@ -6,7 +6,7 @@ description: "Recipe for a modern-style vegetarian sushi presentation using all 
 categories: ["Appetizers", "Experiments", "Gluten-Free or modifiable", "Recipes", "Vegan or Modifiable"]
 aliases: ["/tomato-sushi-yes-thats-vegetarian-recipe/", "/2011/08/tomato-sushi-yes-thats-vegetarian-recipe.html"]
 cover:
-  image: "/images/old/6a00e008d618bb883401538fe041cc970b-500wi.jpg"
+  image: "/images/old/6a00e008d618bb883401538fe041cc970b-500wi.webp"
   hidden: true
 recipe:
   name: "Tomato Sushi"
@@ -26,7 +26,7 @@ recipe:
     - "Form the sushi rice into three small, flattened balls. Dab each ball with a tiny amount of wasabi. Place one tomato segment over each ball of rice and brush lightly with oil. Blowtorch for about 5 seconds each, just long enough to darken a small area. Top each piece with about 1/4 teaspoon of the tomato seed gel, a few strips of nori, a few strips of tomato skin and a few grains of the black sea salt. Serve immediately (before the tomato skin and nori begin to soften)."
 ---
 
-<a style="display: inline;" href="/images/old/6a00e008d618bb883401538fe041cc970b-800wi.jpg" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb883401538fe041cc970b" title="Tomato Sushi copy" src="/images/old/6a00e008d618bb883401538fe041cc970b-500wi.jpg" alt="Tomato Sushi copy" /></a>
+<a style="display: inline;" href="/images/old/6a00e008d618bb883401538fe041cc970b-800wi.webp" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb883401538fe041cc970b" title="Tomato Sushi copy" src="/images/old/6a00e008d618bb883401538fe041cc970b-500wi.webp" alt="Tomato Sushi copy" /></a>
 <em>Tomato Sushi - Yes, That's Vegetarian</em>
 
 Depending on where you live, great tomatoes are probably coming online right about now. Once you have <strong>gorged yourself</strong> on an indecent quantity dressed with nothing but olive oil and salt, and the requisite insalata caprese, maybe you'll be ready to think about manipulating them just a bit more.

@@ -5,6 +5,6 @@ type: "shop"
 params:
   category_slug: "condiments-sauces"
   description: "Bold flavors to keep on hand"
-  image: "/images/shop/condiments-sauces.jpg"
+  image: "/images/shop/condiments-sauces.webp"
   product_count: 21
 ---

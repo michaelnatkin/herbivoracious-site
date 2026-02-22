@@ -5,7 +5,7 @@ slug: "sunflower-butter-cookies-recipe"
 categories: ["Baking", "Recipes"]
 aliases: ["/sunflower-butter-cookies-recipe/", "/2012/12/sunflower-butter-cookies-recipe.html"]
 cover:
-  image: "/images/2012/12/Sunbutter-Cookies-2-626x415.jpg"
+  image: "/images/2012/12/Sunbutter-Cookies-2-626x415.webp"
   hidden: true
 recipe:
   name: "Sunflower Butter Cookies (Like Peanut Butter Cookies for the peanut-allergic)"
@@ -24,7 +24,7 @@ recipe:
     - "Chill the dough for at least 30 minutes. Preheat oven to 375. Line baking sheets with parchment or silpats. Dish dough out into approximately 2-tablespoon balls. Flatten, then use the tines of a fork to make the traditional criss-cross pattern. Bake about 12 minutes until lightly browned. Cool on a rack for at least 10 minutes, then enjoy."
 ---
 
-<a href="/images/2012/12/Sunbutter-Cookies-2.jpg"><img class="alignnone size-large wp-image-3493" title="Sunflower Butter Cookies" src="/images/2012/12/Sunbutter-Cookies-2-626x415.jpg" alt="Sunflower Butter Cookies" width="626" height="415" />
+<a href="/images/2012/12/Sunbutter-Cookies-2.webp"><img class="alignnone size-large wp-image-3493" title="Sunflower Butter Cookies" src="/images/2012/12/Sunbutter-Cookies-2-626x415.webp" alt="Sunflower Butter Cookies" width="626" height="415" />
 </a><em>Sunflower butter cookies (like peanut butter cookies for folks with peanut allergies)</em>
 
 My wife, Sarina, is severely allergic to both peanuts and every kind of tree nut. Like, <a href="/2009/02/understanding-deadly-food-allergies-this-post-could-save-a-life/" target="_blank">epipen and straight to the hospital allergic</a>. This meant that she has never tasted a peanut butter cookie, and neither have my kids. It seemed to me that this was a grave injustice that needed to be rectified.

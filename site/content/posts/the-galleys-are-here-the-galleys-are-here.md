@@ -5,11 +5,11 @@ slug: "the-galleys-are-here-the-galleys-are-here"
 categories: ["Cookbook Project"]
 aliases: ["/the-galleys-are-here-the-galleys-are-here/", "/2011/11/the-galleys-are-here-the-galleys-are-here.html"]
 cover:
-  image: "/images/old/6a00e008d618bb88340162fc0e1b83970d-500wi.jpg"
+  image: "/images/old/6a00e008d618bb88340162fc0e1b83970d-500wi.webp"
   hidden: true
 ---
 
-<a style="display: inline;" href="/images/old/6a00e008d618bb88340162fc0e1b83970d-800wi.jpg" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb88340162fc0e1b83970d" title="Box of Galleys" src="/images/old/6a00e008d618bb88340162fc0e1b83970d-500wi.jpg" alt="Box of Galleys" />
+<a style="display: inline;" href="/images/old/6a00e008d618bb88340162fc0e1b83970d-800wi.webp" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb88340162fc0e1b83970d" title="Box of Galleys" src="/images/old/6a00e008d618bb88340162fc0e1b83970d-500wi.webp" alt="Box of Galleys" />
 </a><em>Galley proofs of <a href="/2010/10/im-writing-a-cookbook-and-you-can-win-prizes/" target="_blank">the cookbook.</a></em>
 
 <strong><em>This has to be among the most exciting boxes I've opened in my life.</em></strong>

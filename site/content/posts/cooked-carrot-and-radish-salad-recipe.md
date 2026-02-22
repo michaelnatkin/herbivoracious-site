@@ -6,7 +6,7 @@ description: "An easy and attractive salad using lightly cooked fresh carrots an
 categories: ["Appetizers", "Gluten-Free or modifiable", "Recipes", "Salads", "Seattle", "Vegan or Modifiable"]
 aliases: ["/cooked-carrot-and-radish-salad-recipe/", "/2010/05/cooked-carrot-and-radish-salad-recipe.html"]
 cover:
-  image: "/images/old/6a00e008d618bb8834013481cc6e4e970c-500wi.jpg"
+  image: "/images/old/6a00e008d618bb8834013481cc6e4e970c-500wi.webp"
   hidden: true
 recipe:
   name: "Cooked Carrot and Radish Salad"
@@ -29,7 +29,7 @@ recipe:
     - "When you are ready to serve, drain the carrots and pat them dry. Give the dressing a quick whisk and toss the carrots with some of it. Transfer to a serving platter, and arrange the radish slices amongst and over them. Drizzle more dressing over the top. Garnish with the dill and finishing salt."
 ---
 
-<a style="display: inline;" href="/images/old/6a00e008d618bb8834013481cc6e4e970c-800wi.jpg" rel="lightbox"><img class="asset asset-image at-xid-6a00e008d618bb8834013481cc6e4e970c " src="/images/old/6a00e008d618bb8834013481cc6e4e970c-500wi.jpg" alt="Salad with Cooked Baby Carrots and Sliced Radishes" /></a>
+<a style="display: inline;" href="/images/old/6a00e008d618bb8834013481cc6e4e970c-800wi.webp" rel="lightbox"><img class="asset asset-image at-xid-6a00e008d618bb8834013481cc6e4e970c " src="/images/old/6a00e008d618bb8834013481cc6e4e970c-500wi.webp" alt="Salad with Cooked Baby Carrots and Sliced Radishes" /></a>
 <em>Salad with Cooked Baby Carrots and Sliced Radishes in a Ginger-Lime Dressing
 </em>
 

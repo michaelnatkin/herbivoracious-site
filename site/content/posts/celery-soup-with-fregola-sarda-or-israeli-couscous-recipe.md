@@ -6,7 +6,7 @@ description: "Vegetarian celery soup with toasted fregola sarda or Israeli cousc
 categories: ["Recipes", "Soups"]
 aliases: ["/celery-soup-with-fregola-sarda-or-israeli-couscous-recipe/", "/2012/08/celery-soup-with-fregola-sarda-or-israeli-couscous-recipe.html"]
 cover:
-  image: "/images/cookbook/celery-soup-with-fregola-sarda-or-israeli-couscous.jpg"
+  image: "/images/cookbook/celery-soup-with-fregola-sarda-or-israeli-couscous.webp"
   hidden: true
 recipe:
   name: "Celery Soup with Fregola Sarda or Israeli Couscous"
@@ -28,12 +28,12 @@ recipe:
     - "Turn off the heat and stir in the lemon juice and shoyu. Taste and adjust seasoning."
     - "Divide the soup among the 4 bowls. Top with a sprinkle of grated cheese, the raw celery, the celery leaves, and a grind of black pepper. Serve immediately."
 ---
-<a href="/images/cookbook/celery-soup-with-fregola-sarda-or-israeli-couscous.jpg"><img src="/images/cookbook/celery-soup-with-fregola-sarda-or-israeli-couscous.jpg" alt="Celery Soup with Fregola Sarda or Israeli Couscous" /></a>
+<a href="/images/cookbook/celery-soup-with-fregola-sarda-or-israeli-couscous.webp"><img src="/images/cookbook/celery-soup-with-fregola-sarda-or-israeli-couscous.webp" alt="Celery Soup with Fregola Sarda or Israeli Couscous" /></a>
 
 
 
 
-<a href="/images/cookbook/celery-soup-with-fregola-sarda-or-israeli-couscous-2.jpg"><img src="/images/cookbook/celery-soup-with-fregola-sarda-or-israeli-couscous-2.jpg" alt="Celery Soup with Fregola Sarda or Israeli Couscous" /></a>
+<a href="/images/cookbook/celery-soup-with-fregola-sarda-or-israeli-couscous-2.webp"><img src="/images/cookbook/celery-soup-with-fregola-sarda-or-israeli-couscous-2.webp" alt="Celery Soup with Fregola Sarda or Israeli Couscous" /></a>
 
 <div class="recipe-card">
 <p><strong>Celery Soup with <a href="https://www.amazon.com/dp/B000B38C6A?tag=herb-hugo-20">Fregola Sarda</a> or Israeli Couscous</strong>

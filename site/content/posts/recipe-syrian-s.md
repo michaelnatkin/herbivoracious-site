@@ -5,7 +5,7 @@ slug: "recipe-syrian-s"
 categories: ["Appetizers", "Recipes"]
 aliases: ["/recipe-syrian-s/", "/2008/04/recipe-syrian-s.html"]
 cover:
-  image: "/images/2008-small/04/11/labneh.jpg"
+  image: "/images/2008-small/04/11/labneh.webp"
   hidden: true
 recipe:
   name: "Syrian Style Labneh (Spiced Yogurt Cheese)"
@@ -24,7 +24,7 @@ recipe:
     - "To serve, fill a shallow bowl with about 1/8\" of olive oil. Grease your hands and form balls a bit smaller than a golf ball. Arrange in the dish, and garnish with roughly chopped parsley or cilantro."
 ---
 
-<a href="/images/2008/04/11/labneh.jpg" rel="lightbox"><img title="Syrian Style Labneh (Spiced Yogurt Cheese)" src="/images/2008-small/04/11/labneh.jpg" alt="Syrian Style Labneh (Spiced Yogurt Cheese)" width="455" height="302" border="0" /></a>
+<a href="/images/2008/04/11/labneh.webp" rel="lightbox"><img title="Syrian Style Labneh (Spiced Yogurt Cheese)" src="/images/2008-small/04/11/labneh.webp" alt="Syrian Style Labneh (Spiced Yogurt Cheese)" width="455" height="302" border="0" /></a>
 <span style="font-size: 0.8em;">Syrian Style Labneh (Spiced Yogurt Cheese)</span>
 
 This recipe is adapted from Poopa Dweck's  cookbook, <a href="https://www.amazon.com/dp/0060888180?tag=herb-hugo-20">Aromas of Aleppo, The Legendary Cuisine of Syrian Jews.</a> I wrote more about that book in <a href="/2008/04/recipe-syrian-y/">this post on Syrian Red Lentil Soup</a>.

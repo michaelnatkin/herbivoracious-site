@@ -5,7 +5,7 @@ slug: "vietnamese-salad-rolls-goi-cuon-recipe"
 categories: ["Gluten-Free or modifiable", "Recipes", "Sauces and Condiments", "Vegan or Modifiable"]
 aliases: ["/vietnamese-salad-rolls-goi-cuon-recipe/", "/2013/05/vietnamese-salad-rolls-goi-cuon-recipe.html"]
 cover:
-  image: "/images/2013/05/Vietnamese-Salad-Rolls-Gỏi-cuốn-626x415.jpg"
+  image: "/images/2013/05/Vietnamese-Salad-Rolls-Gỏi-cuốn-626x415.webp"
   hidden: true
 recipe:
   name: "Vietnamese Salad Rolls with Shiso and Tofu (Gỏi cuốn) – Recipe"
@@ -33,7 +33,7 @@ recipe:
     - "Begin by rolling completely around the herbs and noodles, slightly tucking under. Then fold in the edges like for a burrito, and then continue rolling to enclose the cucumber, carrot, and tofu. You want to use reasonably firm pressure but not enough to burst the wrapper. Don't worry, you'll get the hang of it in just a few tries!"
 ---
 
-<a href="/images/2013/05/Vietnamese-Salad-Rolls-Gỏi-cuốn.jpg"><img class="alignnone size-large wp-image-3738" alt="Vietnamese Salad Rolls Gỏi cuốn" src="/images/2013/05/Vietnamese-Salad-Rolls-Gỏi-cuốn-626x415.jpg" width="626" height="415" /></a>
+<a href="/images/2013/05/Vietnamese-Salad-Rolls-Gỏi-cuốn.webp"><img class="alignnone size-large wp-image-3738" alt="Vietnamese Salad Rolls Gỏi cuốn" src="/images/2013/05/Vietnamese-Salad-Rolls-Gỏi-cuốn-626x415.webp" width="626" height="415" /></a>
 
 I've always loved Vietnamese Salad rolls (gỏi cuốn), and I've been making them off and on for decades, so I don't know why I haven't shared them with you guys before. If you haven't had them, they are cool and refreshing, with a tender but slightly chewy rice paper wrapper surrounding thin rice noodles, lettuce, herbs, and your choice of other ingredients. For today's version, I used shiso instead of lettuce for a more pronounced and complex herbal flavor.
 

@@ -6,7 +6,7 @@ description: "This West African-style stew, redolent with ginger and black peppe
 categories: ["Recipes", "Main Courses", "Vegan or Modifiable", "Gluten-Free"]
 aliases: ["/eggplant-and-okra-stew-recipe/", "/2011/10/eggplant-and-okra-stew-recipe.html"]
 cover:
-  image: "/images/cookbook/eggplant-and-okra-stew.jpg"
+  image: "/images/cookbook/eggplant-and-okra-stew.webp"
   hidden: true
 recipe:
   name: "Eggplant and Okra Stew"
@@ -33,7 +33,7 @@ recipe:
     - "Add the summer squash, okra, and the tomatoes with their juice. Break up the tomatoes. Bring to a simmer and then reduce heat to maintain. Cook for 15 minutes, until the vegetables are tender. Add the eggplant when it is ready. Taste and adjust salt and spices."
     - "Two minutes before you are ready to serve, add the corn kernels and the remaining tablespoon of fresh ginger. Divide into bowls over rice, finish with several grinds of black pepper and some torn or cut leaves of parsley and bring to the table immediately."
 ---
-<a href="/images/cookbook/eggplant-and-okra-stew.jpg"><img src="/images/cookbook/eggplant-and-okra-stew.jpg" alt="Eggplant and Okra Stew" /></a>
+<a href="/images/cookbook/eggplant-and-okra-stew.webp"><img src="/images/cookbook/eggplant-and-okra-stew.webp" alt="Eggplant and Okra Stew" /></a>
 
 
 <p>This West African-style stew, redolent with ginger and black pepper, is great made with tiny eggplants, just a little bigger than a golf ball. You may find them at a farmer’s market in late summer, or at a store that specializes in Thai or Indian ingredients. Otherwise, use a regular globe eggplant and just cut it into bite-sized pieces.</p>
@@ -41,7 +41,7 @@ recipe:
 <p>Serve this stew over a bowl of rice for a satisfying one-dish meal.</p>
 
 
-<a href="/images/cookbook/eggplant-and-okra-stew-2.jpg"><img src="/images/cookbook/eggplant-and-okra-stew-2.jpg" alt="Eggplant and Okra Stew" /></a>
+<a href="/images/cookbook/eggplant-and-okra-stew-2.webp"><img src="/images/cookbook/eggplant-and-okra-stew-2.webp" alt="Eggplant and Okra Stew" /></a>
 
 <div class="recipe-card">
 <p><strong>Eggplant and Okra Stew</strong>

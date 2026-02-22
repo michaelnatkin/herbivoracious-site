@@ -5,11 +5,11 @@ slug: "chocolate-cupca"
 categories: ["Baking", "Desserts", "Recipes", "Seattle"]
 aliases: ["/chocolate-cupca/", "/2007/08/chocolate-cupca.html"]
 cover:
-  image: "/images/2007-small/08/27/creamcheesecupcakeandchocolategelat.jpg"
+  image: "/images/2007-small/08/27/creamcheesecupcakeandchocolategelat.webp"
   hidden: true
 ---
 
-<a href="/images/2007/08/27/creamcheesecupcakeandchocolategelat.jpg" rel="lightbox"><img title="Chocolate Cupcakes With Cream Cheese Filling And Chocolate Gelato" src="/images/2007-small/08/27/creamcheesecupcakeandchocolategelat.jpg" alt="Chocolate Cupcakes With Cream Cheese Filling And Chocolate Gelato" width="455" height="303" border="0" /></a>
+<a href="/images/2007/08/27/creamcheesecupcakeandchocolategelat.webp" rel="lightbox"><img title="Chocolate Cupcakes With Cream Cheese Filling And Chocolate Gelato" src="/images/2007-small/08/27/creamcheesecupcakeandchocolategelat.webp" alt="Chocolate Cupcakes With Cream Cheese Filling And Chocolate Gelato" width="455" height="303" border="0" /></a>
 
 We have officially entered the Snacky Pants birthday celebration period, which extends approximately 30 days on either side of the actual anniversary of her entrance to this world. We've kicked in to high gear a bit earlier than usual owing to our <a href="/2007/08/where-to-eat-in/">rapidly approaching trip</a> which will separate her from many of her usual admirers during this important holiday. Brother and CatWoman feted her with gifts, and I was directed to produce both chocolate cupcakes with a cream cheese filling and a chocolate ice cream. Normally I would have wanted to go to vanilla or some sort of caramel ice cream, but one does not argue with the birthday girl.
 

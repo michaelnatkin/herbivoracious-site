@@ -5,11 +5,11 @@ slug: "wacky-chana-chaat-spicy-chickpea-snack-recipe"
 categories: ["Appetizers", "Gluten-Free or modifiable", "Recipes", "Vegan or Modifiable"]
 aliases: ["/wacky-chana-chaat-spicy-chickpea-snack-recipe/", "/2012/09/wacky-chana-chaat-spicy-chickpea-snack-recipe.html"]
 cover:
-  image: "/images/2012/09/Wacky-Chaat-626x415.jpg"
+  image: "/images/2012/09/Wacky-Chaat-626x415.webp"
   hidden: true
 ---
 
-<img class="alignnone size-large wp-image-2817" title="Wacky Chaat" src="/images/2012/09/Wacky-Chaat-626x415.jpg" alt="Wacky Chaat" width="626" height="415" />
+<img class="alignnone size-large wp-image-2817" title="Wacky Chaat" src="/images/2012/09/Wacky-Chaat-626x415.webp" alt="Wacky Chaat" width="626" height="415" />
 <em>Wacky Chana Chaat - Spicy Chickpea Snack</em>
 
 Chaat is a whole family of amazing snack foods from India that are served by street vendors and informal restaurants. Chaat can be anything from aloo tiki (potato fritters - there's a recipe in <a href="/get-the-herbivoracious-cookbook/" target="_blank">my book</a>) to pani puri (little crispy hollow crackers that you poke a hole in, fill with a potato and chickpea mixture, then dunk in a spicy cold broth) to dahi vada (fried lentil dumplings drowned in sweet yogurt). It is almost hard to say what the defining characteristic of  a chaat is, but after awhile you know one when you see one, and you'll probably want to <strong>get on the outside of it</strong> as quickly as possible.

@@ -5,7 +5,7 @@ slug: "young-coconut-salad"
 categories: ["Gluten-Free or modifiable", "Recipes", "Salads", "Vegan or Modifiable"]
 aliases: ["/young-coconut-salad/", "/2011/01/young-coconut-salad.html"]
 cover:
-  image: "/images/old/6a00e008d618bb88340148c7a4e76b970c-500wi.jpg"
+  image: "/images/old/6a00e008d618bb88340148c7a4e76b970c-500wi.webp"
   hidden: true
 recipe:
   name: "Young Coconut Salad"
@@ -23,7 +23,7 @@ recipe:
     - "Serve immediately, with the coconut water in glasses on the side."
 ---
 
-<a style="display: inline;" href="/images/old/6a00e008d618bb88340148c7a4e76b970c-800wi.jpg" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb88340148c7a4e76b970c" title="Young Coconut Salad" src="/images/old/6a00e008d618bb88340148c7a4e76b970c-500wi.jpg" alt="Young Coconut Salad" /></a>
+<a style="display: inline;" href="/images/old/6a00e008d618bb88340148c7a4e76b970c-800wi.webp" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb88340148c7a4e76b970c" title="Young Coconut Salad" src="/images/old/6a00e008d618bb88340148c7a4e76b970c-500wi.webp" alt="Young Coconut Salad" /></a>
 <em>Young Coconut Salad</em>
 
 Young coconuts are very different from the mature brown-husked specimens you may be familiar with. The edible interior flesh is tender, thin and custard-like, with the purest coconut flavor imaginable. Seek them out at Asian markets or in health-food stores that cater to raw foodists. Keep young coconuts refrigerated until just before serving.

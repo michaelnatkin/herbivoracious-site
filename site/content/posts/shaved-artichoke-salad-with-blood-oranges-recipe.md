@@ -6,7 +6,7 @@ description: "Artichokes are almost always served cooked, but they can be delici
 categories: ["Recipes", "Salads", "Vegan or Modifiable", "Gluten-Free"]
 aliases: ["/shaved-artichoke-salad-with-blood-oranges-recipe/", "/2012/09/shaved-artichoke-salad-with-blood-oranges-recipe.html"]
 cover:
-  image: "/images/cookbook/shaved-artichoke-salad-with-blood-oranges.jpg"
+  image: "/images/cookbook/shaved-artichoke-salad-with-blood-oranges.webp"
   hidden: true
 recipe:
   name: "Shaved Artichoke Salad with Blood Oranges"
@@ -25,7 +25,7 @@ recipe:
     - "Trim a tiny bit off the artichoke stems. Peel the stems. Pull off all of the leaves (which you can steam and serve separately if you like). Use a spoon to remove the hairy choke. Quickly peel and pare around the outside of the artichoke bottom. You should be left with the peeled stem attached to a nicely trimmed heart with all of the leaves and choke gone. Working quickly, slice the artichoke very thinly on a mandoline and toss the shaved vegetable with the dressing."
     - "To serve, make a small mound of the dressed artichoke on each plate. Try to keep it centered and as high and fluffy as possible for a nice presentation. Garnish with the orange supremes, chives, flaky sea salt and fresh ground pepper and serve immediately."
 ---
-<a href="/images/cookbook/shaved-artichoke-salad-with-blood-oranges.jpg"><img src="/images/cookbook/shaved-artichoke-salad-with-blood-oranges.jpg" alt="Shaved Artichoke Salad with Blood Oranges" /></a>
+<a href="/images/cookbook/shaved-artichoke-salad-with-blood-oranges.webp"><img src="/images/cookbook/shaved-artichoke-salad-with-blood-oranges.webp" alt="Shaved Artichoke Salad with Blood Oranges" /></a>
 
 
 <p>Artichokes are almost always served cooked, but they can be delicious raw as well. They taste like a slightly astringent root vegetable. A lemony vinaigrette and shards of Parmigiano-Reggiano make for a nice treatment, or try this recipe, with a mayonnaise-based dressing that yields a salad reminiscent of celery root remoulade.</p>
@@ -39,7 +39,7 @@ recipe:
 <p>When you are done, you’ll have extracted all of the segments, which are now sitting in a little puddle of juice. Squeeze the remaining peel and membrane pieces to extract the rest of the juice. ]]</p>
 
 
-<a href="/images/cookbook/shaved-artichoke-salad-with-blood-oranges-2.jpg"><img src="/images/cookbook/shaved-artichoke-salad-with-blood-oranges-2.jpg" alt="Shaved Artichoke Salad with Blood Oranges" /></a>
+<a href="/images/cookbook/shaved-artichoke-salad-with-blood-oranges-2.webp"><img src="/images/cookbook/shaved-artichoke-salad-with-blood-oranges-2.webp" alt="Shaved Artichoke Salad with Blood Oranges" /></a>
 
 <div class="recipe-card">
 <p><strong>Shaved Artichoke Salad with Blood Oranges</strong>

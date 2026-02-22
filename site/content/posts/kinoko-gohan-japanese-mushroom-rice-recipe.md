@@ -5,7 +5,7 @@ slug: "kinoko-gohan-japanese-mushroom-rice-recipe"
 categories: ["Gluten-Free or modifiable", "Kid Friendly", "Recipes", "Side Dishes", "Vegan or Modifiable"]
 aliases: ["/kinoko-gohan-japanese-mushroom-rice-recipe/", "/2012/03/kinoko-gohan-japanese-mushroom-rice-recipe.html"]
 cover:
-  image: "/images/2012/03/Kinoko-Gohan-Japanese-Mushroom-Rice-626x415.jpg"
+  image: "/images/2012/03/Kinoko-Gohan-Japanese-Mushroom-Rice-626x415.webp"
   hidden: true
 recipe:
   name: "Kinoko Gohan (Japanese Mushroom Rice)"
@@ -27,7 +27,7 @@ recipe:
     - "When the rice is done cooking, turn off the heat and, if possible, let stand 10 minutes. Fold in the mushrooms, toasted sesame oil, and salt to taste, then serve hot or warm."
 ---
 
-<a href="/images/2012/03/Kinoko-Gohan-Japanese-Mushroom-Rice.jpg"><img class="alignnone size-large wp-image-1456" title="Kinoko Gohan (Japanese Mushroom Rice)" src="/images/2012/03/Kinoko-Gohan-Japanese-Mushroom-Rice-626x415.jpg" alt="Kinoko Gohan (Japanese Mushroom Rice)" width="626" height="415" />
+<a href="/images/2012/03/Kinoko-Gohan-Japanese-Mushroom-Rice.webp"><img class="alignnone size-large wp-image-1456" title="Kinoko Gohan (Japanese Mushroom Rice)" src="/images/2012/03/Kinoko-Gohan-Japanese-Mushroom-Rice-626x415.webp" alt="Kinoko Gohan (Japanese Mushroom Rice)" width="626" height="415" />
 </a><em>Kinoko Gohan (Japanese Mushroom Rice)</em>
 
 Kinoko Gohan is <strong>classic, soothing Japanese comfort food</strong>. It has strong associations as a fall dish, but the typical mushrooms used in it are mostly cultivated and therefore available year round. Of course if you have access to seasonal, wild harvested maitake or matsutake, for example, then you'll be making something truly special.

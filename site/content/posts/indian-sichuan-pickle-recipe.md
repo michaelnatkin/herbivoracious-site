@@ -6,7 +6,7 @@ description: "A cross-cultural vegetarian pickle recipe combining Indian spices 
 categories: ["Recipes", "Sauces and Condiments"]
 aliases: ["/indian-sichuan-pickle-recipe/", "/2012/06/indian-sichuan-pickle-recipe.html"]
 cover:
-  image: "/images/cookbook/indian-sichuan-pickle.jpg"
+  image: "/images/cookbook/indian-sichuan-pickle.webp"
   hidden: true
 recipe:
   name: "Indian-Sichuan Pickle"
@@ -20,14 +20,14 @@ recipe:
     - "Heat the vegetable oil in a small skillet over a medium high flame. Add the mustard seeds, cumin seeds and fennel seeds and cook for about 1 minute, until the mustard seeds start popping and everything is fragrant but not burning."
     - "Toss the seeds and oil with the preserved vegetable. You can serve it right away or keep in the refrigerator for several days."
 ---
-<a href="/images/cookbook/indian-sichuan-pickle.jpg"><img src="/images/cookbook/indian-sichuan-pickle.jpg" alt="Indian-Sichuan Pickle" /></a>
+<a href="/images/cookbook/indian-sichuan-pickle.webp"><img src="/images/cookbook/indian-sichuan-pickle.webp" alt="Indian-Sichuan Pickle" /></a>
 
 
 
 
-<a href="/images/cookbook/indian-sichuan-pickle-2.jpg"><img src="/images/cookbook/indian-sichuan-pickle-2.jpg" alt="Indian-Sichuan Pickle" /></a>
+<a href="/images/cookbook/indian-sichuan-pickle-2.webp"><img src="/images/cookbook/indian-sichuan-pickle-2.webp" alt="Indian-Sichuan Pickle" /></a>
 
-<a href="/images/cookbook/indian-sichuan-pickle-3.jpg"><img src="/images/cookbook/indian-sichuan-pickle-3.jpg" alt="Indian-Sichuan Pickle" /></a>
+<a href="/images/cookbook/indian-sichuan-pickle-3.webp"><img src="/images/cookbook/indian-sichuan-pickle-3.webp" alt="Indian-Sichuan Pickle" /></a>
 
 <div class="recipe-card">
 <p><strong>Indian-Sichuan Pickle</strong>

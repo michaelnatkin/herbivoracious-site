@@ -6,7 +6,7 @@ description: "Recipe for a Caribbean-style vegetarian entree of coconut-milk sce
 categories: ["Favorites", "Gluten-Free or modifiable", "Kid Friendly", "Main Courses", "Recipes", "Sauces and Condiments", "Vegan or Modifiable"]
 aliases: ["/coconut-rice-with-black-beans-plantains-and-mango-salsa-recipe/", "/2011/06/coconut-rice-with-black-beans-plantains-and-mango-salsa-recipe.html"]
 cover:
-  image: "/images/old/6a00e008d618bb8834015432781119970c-500wi.jpg"
+  image: "/images/old/6a00e008d618bb8834015432781119970c-500wi.webp"
   hidden: true
 recipe:
   name: "Coconut Rice with Black Beans, Plantains, and Mango Salsa"
@@ -35,7 +35,7 @@ recipe:
     - "To serve, you may either divide the rice among four bowls and top with the plantains, beans, avocado, mango, cilantro and sauce, or serve all of the ingredients separately and let diners make their own. Pass the lime quarters to squeeze over the finished plate as desired."
 ---
 
-<a style="display: inline;" href="/images/old/6a00e008d618bb8834015432781119970c-800wi.jpg" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb8834015432781119970c" title="Coconut Rice with Black Beans, Plantains, and Mango Salsa" src="/images/old/6a00e008d618bb8834015432781119970c-500wi.jpg" alt="Coconut Rice with Black Beans, Plantains, and Mango Salsa" /></a>
+<a style="display: inline;" href="/images/old/6a00e008d618bb8834015432781119970c-800wi.webp" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb8834015432781119970c" title="Coconut Rice with Black Beans, Plantains, and Mango Salsa" src="/images/old/6a00e008d618bb8834015432781119970c-500wi.webp" alt="Coconut Rice with Black Beans, Plantains, and Mango Salsa" /></a>
 <em>Coconut Rice with Black Beans, Plantains, and Mango Salsa</em>
 
 At my house, we eat food in styles from all over the world, but <strong>rice is far and away our most popular substrate</strong>. I'm always experimenting with new ways to cook rice as well as new things to serve with it.

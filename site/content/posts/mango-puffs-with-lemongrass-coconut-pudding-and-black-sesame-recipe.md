@@ -6,7 +6,7 @@ description: "These little two-bite desserts are a riff on a classic fruit tart,
 categories: ["Recipes", "Desserts"]
 aliases: ["/mango-puffs-with-lemongrass-coconut-pudding-and-black-sesame-recipe/", "/2012/05/mango-puffs-with-lemongrass-coconut-pudding-and-black-sesame-recipe.html"]
 cover:
-  image: "/images/cookbook/mango-puffs-with-lemongrass-coconut-pudding-and-black-sesame.jpg"
+  image: "/images/cookbook/mango-puffs-with-lemongrass-coconut-pudding-and-black-sesame.webp"
   hidden: true
 recipe:
   name: "Mango Puffs with Lemongrass Coconut Pudding and Black Sesame"
@@ -31,7 +31,7 @@ recipe:
     - "Pound the lemongrass stalk to release the flavors. Cut off and discard all but the bottom 3 inches. Remove outer layer and chop the rest finely. Put the lemongrass, coconut milk, sugar and salt in a small saucepan over medium low heat. Put the cornstarch in a small bowl. When the sauce is near a simmer, take a few tablespoons of it and whisk into the cornstarch to form a slurry, then whisk that slurry back into the saucepan. Whisking constantly, bring to a bare simmer and keep there for one minute (you should see the sauce start to thicken), then remove from heat and strain into a shallow bowl. Refrigerate on your coldest shelf if you want to assemble the pastries soon."
     - "To assemble, take one pastry shell and use a sharp paring knife to cut a circle out of the top, leaving a 3/8” rim all the way around. Carefully lift off the “lid” and reserve. Spoon in a tablespoon of the chilled pudding. Put ½ teaspoon black sesame paste in the center of the pudding. Spoon on two tablespoons of the mango and sprinkle with the black sesame seeds. Repeat for the remaining shells. Serve immediately."
 ---
-<a href="/images/cookbook/mango-puffs-with-lemongrass-coconut-pudding-and-black-sesame.jpg"><img src="/images/cookbook/mango-puffs-with-lemongrass-coconut-pudding-and-black-sesame.jpg" alt="Mango Puffs with Lemongrass Coconut Pudding and Black Sesame" /></a>
+<a href="/images/cookbook/mango-puffs-with-lemongrass-coconut-pudding-and-black-sesame.webp"><img src="/images/cookbook/mango-puffs-with-lemongrass-coconut-pudding-and-black-sesame.webp" alt="Mango Puffs with Lemongrass Coconut Pudding and Black Sesame" /></a>
 
 
 <p>These little two-bite desserts are a riff on a classic fruit tart, using an easy homemade coconut-milk pudding instead of pastry cream. They are small enough to pass at a cocktail party and the tropical flavors are pleasantly refreshing.</p>
@@ -39,7 +39,7 @@ recipe:
 <p><a href="https://www.amazon.com/Japanese-Sesame-additives-2-2lbs-Product/dp/B089KTTLFJ?tag=herb-hugo-20">Black sesame paste</a> is available at better Asian grocery stores, especially those that specialize in Japanese ingredients. It is similar to tahini, but thicker and sweetened and totally addictive. If you can’t find it, you can omit it from this recipe and still have a delicious dessert.</p>
 
 
-<a href="/images/cookbook/mango-puffs-with-lemongrass-coconut-pudding-and-black-sesame-2.jpg"><img src="/images/cookbook/mango-puffs-with-lemongrass-coconut-pudding-and-black-sesame-2.jpg" alt="Mango Puffs with Lemongrass Coconut Pudding and Black Sesame" /></a>
+<a href="/images/cookbook/mango-puffs-with-lemongrass-coconut-pudding-and-black-sesame-2.webp"><img src="/images/cookbook/mango-puffs-with-lemongrass-coconut-pudding-and-black-sesame-2.webp" alt="Mango Puffs with Lemongrass Coconut Pudding and Black Sesame" /></a>
 
 <div class="recipe-card">
 <p><strong>Mango Puffs with Lemongrass Coconut Pudding and Black Sesame</strong>

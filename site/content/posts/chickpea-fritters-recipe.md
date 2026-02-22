@@ -6,7 +6,7 @@ description: "Crispy vegetarian chickpea fritters with green onions, garlic, ros
 categories: ["Recipes", "Appetizers"]
 aliases: ["/chickpea-fritters-recipe/", "/2011/06/chickpea-fritters-recipe.html"]
 cover:
-  image: "/images/cookbook/chickpea-fritters.jpg"
+  image: "/images/cookbook/chickpea-fritters.webp"
   hidden: true
 recipe:
   name: "Chickpea Fritters"
@@ -28,12 +28,12 @@ recipe:
     - "Combine all ingredients except the oil and flaky sea salt in a food processor and buzz until you have a fairly uniform mixture, but stop before it is completely pureed. We want some texture left. You should be able to form it into a ball that holds its shape. It should be neither crumbly nor a batter. Add liquid or breadcrumbs as necessary to find the right moisture level."
     - "Heat a few tablespoons of oil in a large skillet, preferably cast-iron, over a medium-high flame. Take a golf-ball sized piece of dough, press it in your hands into a flattened 3-inch patty and place in the skillet. Repeat with as many as will fit comfortably. Fry on one side until golden brown, about 3 minutes, then flip and brown the other side. Remove to paper towels and finish with a little bit of sea salt."
 ---
-<a href="/images/cookbook/chickpea-fritters.jpg"><img src="/images/cookbook/chickpea-fritters.jpg" alt="Chickpea Fritters" /></a>
+<a href="/images/cookbook/chickpea-fritters.webp"><img src="/images/cookbook/chickpea-fritters.webp" alt="Chickpea Fritters" /></a>
 
 
 
 
-<a href="/images/cookbook/chickpea-fritters-2.jpg"><img src="/images/cookbook/chickpea-fritters-2.jpg" alt="Chickpea Fritters" /></a>
+<a href="/images/cookbook/chickpea-fritters-2.webp"><img src="/images/cookbook/chickpea-fritters-2.webp" alt="Chickpea Fritters" /></a>
 
 <div class="recipe-card">
 <p><strong>Chickpea Fritters</strong>

@@ -5,7 +5,7 @@ slug: "corned-beets-recipe"
 categories: ["Experiments", "Gluten-Free or modifiable", "Recipes", "Vegan or Modifiable"]
 aliases: ["/corned-beets-recipe/", "/2013/03/corned-beets-recipe.html"]
 cover:
-  image: "/images/2013/06/Pastrami-Beets-626x415.jpg"
+  image: "/images/2013/06/Pastrami-Beets-626x415.webp"
   hidden: true
 recipe:
   name: "Corned Beets – Recipe"
@@ -22,7 +22,7 @@ recipe:
     - "If you have a chamber vacuum available, seal the beets with a minimal amount of water at maximum vacuum to quickly rehydrate. Otherwise, put them in a covered bowl in the refrigerator with just enough water to cover, and check them every half-hour or so until pleasantly chewy. Drain off excess water. The beets are now ready to use."
 ---
 
-<a href="/images/2013/06/Pastrami-Beets.jpg"><img class="alignnone size-large wp-image-3619" alt="Beets Cooked Pastrami Style" src="/images/2013/06/Pastrami-Beets-626x415.jpg" width="626" height="415" /></a>
+<a href="/images/2013/06/Pastrami-Beets.webp"><img class="alignnone size-large wp-image-3619" alt="Beets Cooked Pastrami Style" src="/images/2013/06/Pastrami-Beets-626x415.webp" width="626" height="415" /></a>
 
 Corned beets. It started out <strong>more as a pun</strong> then anything else, but I figured beets cooked with the spices typically associated with corned beef would be good. Then I tried an iteration with the ChefSteps <a href="http://creations.chefsteps.com/chefsteps-house-rub-01/" target="_blank">House Rub 01</a> and that was also fantastic.
 

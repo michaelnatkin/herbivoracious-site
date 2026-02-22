@@ -5,11 +5,11 @@ slug: "madelines-with"
 categories: ["Baking", "Desserts", "Kid Friendly", "Weblogs"]
 aliases: ["/madelines-with/", "/2008/09/madelines-with.html"]
 cover:
-  image: "/images/2008-small/09/01/madelines.jpg"
+  image: "/images/2008-small/09/01/madelines.webp"
   hidden: true
 ---
 
-<a href="/images/2008/09/01/madelines.jpg" rel="lightbox"><img title="Madeleine cookies - or really, teacakes" src="/images/2008-small/09/01/madelines.jpg" alt="Madeleines" width="455" height="302" border="0" /></a>
+<a href="/images/2008/09/01/madelines.webp" rel="lightbox"><img title="Madeleine cookies - or really, teacakes" src="/images/2008-small/09/01/madelines.webp" alt="Madeleines" width="455" height="302" border="0" /></a>
 <span style="font-size: 0.8em;">Madeleine cookies - or really, teacakes</span>
 
 My goal for this post is to write about madeleines without mentioning Proust (again).
@@ -28,5 +28,5 @@ Kiddo really enjoyed measuring ingredients, watching the mixer, folding the batt
 
 Here are Amazon links for <a href="https://www.amazon.com/dp/B0006BDDI4?tag=herb-hugo-20">basic</a> pans if you want to try your hand at them. I probably wouldn't buy non-stick or silicone because they likely won't brown as well. Just use a good brand of pan spray or butter, they come out easily.
 
-<a href="/images/2008/09/01/madelineswithmunchkins.jpg" rel="lightbox"><img title="Munchkin filling the molds" src="/images/2008-small/09/01/madelineswithmunchkins.jpg" alt="Child filling madeleine cookie molds with batter" width="455" height="302" border="0" /></a>
+<a href="/images/2008/09/01/madelineswithmunchkins.webp" rel="lightbox"><img title="Munchkin filling the molds" src="/images/2008-small/09/01/madelineswithmunchkins.webp" alt="Child filling madeleine cookie molds with batter" width="455" height="302" border="0" /></a>
 Munchkin filling the molds

@@ -5,7 +5,7 @@ slug: "potatoes-with-crispy-curry-leaves-recipe"
 categories: ["Gluten-Free or modifiable", "Recipes", "Side Dishes"]
 aliases: ["/potatoes-with-crispy-curry-leaves-recipe/", "/2012/10/potatoes-with-crispy-curry-leaves-recipe.html"]
 cover:
-  image: "/images/2012/10/Potatoes-with-Curry-Leaves.jpg"
+  image: "/images/2012/10/Potatoes-with-Curry-Leaves.webp"
   hidden: true
 recipe:
   name: "Potatoes with Crispy Curry Leaves"
@@ -25,7 +25,7 @@ recipe:
     - "Taste and adjust seasoning, then finish with a few flakes of sea salt."
 ---
 
-<img title="Potatoes with Curry Leaves.jpg" src="/images/2012/10/Potatoes-with-Curry-Leaves.jpg" alt="Potatoes with Curry Leaves" width="600" height="398" border="0" />
+<img title="Potatoes with Curry Leaves.jpg" src="/images/2012/10/Potatoes-with-Curry-Leaves.webp" alt="Potatoes with Curry Leaves" width="600" height="398" border="0" />
 <em>Potatoes with Crispy Curry Leaves</em>
 
 How is this for confusing? <strong>Curry powder is not made from curry leaves.</strong> Good Indian cooks tend to mix spices for individual dishes, although there are some mixtures that are fairly standardized, like garam masala. In the west, some truly awful, unbalanced spice mixtures go by the name of curry powder and should be roundly avoided. To make matters worse, curry leaves themselves <strong>can </strong>be ground into a powder called karuvepilai podi, although you probably won't run into that so often.

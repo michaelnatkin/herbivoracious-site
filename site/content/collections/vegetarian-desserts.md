@@ -4,7 +4,7 @@ subtitle: "Sweets, pastries, and things from the oven"
 slug: "vegetarian-desserts"
 description: "Vegetarian dessert and baking recipes — from espresso brownies and panna cotta to apple crostata and Sephardic doughnuts. Approachable techniques, real results."
 cover:
-  image: "/images/2012/06/Apple-Crostata-with-Breadcrumb-Streusel-626x415.jpg"
+  image: "/images/2012/06/Apple-Crostata-with-Breadcrumb-Streusel-626x415.webp"
 recipes:
   - "apple-crostata-with-breadcrumb-streusel-recipe-for-pieday"
   - "brownies"

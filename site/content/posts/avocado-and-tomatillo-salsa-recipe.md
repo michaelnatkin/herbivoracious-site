@@ -5,7 +5,7 @@ slug: "avocado-and-tomatillo-salsa-recipe"
 categories: ["Gluten-Free or modifiable", "Recipes", "Sauces and Condiments", "Vegan or Modifiable"]
 aliases: ["/avocado-and-tomatillo-salsa-recipe/", "/2012/09/avocado-and-tomatillo-salsa-recipe.html"]
 cover:
-  image: "/images/2012/09/Avocado-Tomatillo-Salsa-626x415.jpg"
+  image: "/images/2012/09/Avocado-Tomatillo-Salsa-626x415.webp"
   hidden: true
 recipe:
   name: "Avocado and Tomatillo Salsa"
@@ -25,7 +25,7 @@ recipe:
     - "Add the avocado, lime juice, cilantro, cumin, and salt. Process on high speed until smooth. Taste and adjust seasoning - it may need more lime juice or salt. If it needs more heat, judiciously add cayenne or any chili powder you prefer."
 ---
 
-<img class="size-large wp-image-2850  alignnone" title="Avocado Tomatillo Salsa" src="/images/2012/09/Avocado-Tomatillo-Salsa-626x415.jpg" alt="Avocado Tomatillo Salsa" width="626" height="415" />
+<img class="size-large wp-image-2850  alignnone" title="Avocado Tomatillo Salsa" src="/images/2012/09/Avocado-Tomatillo-Salsa-626x415.webp" alt="Avocado Tomatillo Salsa" width="626" height="415" />
 <em>Avocado-Tomatillo Salsa</em>
 
 Many years ago. Gulp. More than two decades ago, when I lived in the Bay Area, I would visit friends in the Mission District of San Francisco and inevitably eat at one of the great neighborhood taquerias. Many of them keep little jars of an avocado-based salsa on the tables, to add a little creamy drizzle on your taco or burrito, or just for dipping tortilla chips. This is my version of that sauce, which I like a little bit thicker and amped up with some heat and spice.

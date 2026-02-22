@@ -6,7 +6,7 @@ description: "There is a famous Thai dish known as Son-in-law Eggs. You’ll get
 categories: ["Recipes", "Side Dishes", "Vegan or Modifiable", "Gluten-Free"]
 aliases: ["/spicy-tamarind-glazed-potatoes-recipe/", "/2012/10/spicy-tamarind-glazed-potatoes-recipe.html"]
 cover:
-  image: "/images/cookbook/spicy-tamarind-glazed-potatoes.jpg"
+  image: "/images/cookbook/spicy-tamarind-glazed-potatoes.webp"
   hidden: true
 recipe:
   name: "Spicy Tamarind-Glazed Potatoes"
@@ -32,7 +32,7 @@ recipe:
     - "If the peanuts are raw, toast them until lightly browned and fragrant in a toaster oven or a dry skillet over medium-low heat."
     - "Just before serving, stir in the peanuts. Garnish with the cilantro and green onion."
 ---
-<a href="/images/cookbook/spicy-tamarind-glazed-potatoes.jpg"><img src="/images/cookbook/spicy-tamarind-glazed-potatoes.jpg" alt="Spicy Tamarind-Glazed Potatoes" /></a>
+<a href="/images/cookbook/spicy-tamarind-glazed-potatoes.webp"><img src="/images/cookbook/spicy-tamarind-glazed-potatoes.webp" alt="Spicy Tamarind-Glazed Potatoes" /></a>
 
 
 <p>There is a famous Thai dish known as Son-in-law Eggs. You’ll get the joke if you realize that eggs in Thai refer to the same part of the male anatomy as huevos in Spanish. To make Son-in-law Eggs, peeled hardboiled eggs are pan-fried or deep-fried until the outside gets wrinkled and brown, and then they are halved and served with a spicy tamarind sauce.</p>
@@ -43,7 +43,7 @@ recipe:
 <p>If you buy the pods or pulp, they must be soaked in boiling water. You then remove the skin, seeds and strings and force the remaining pulp through a fine sieve. Honestly, this is a messy, sticky, tedious job. I generally buy the concentrate instead. The brand you will usually find is called Tamcon. Look for it at Asian or Indian groceries. ]]</p>
 
 
-<a href="/images/cookbook/spicy-tamarind-glazed-potatoes-2.jpg"><img src="/images/cookbook/spicy-tamarind-glazed-potatoes-2.jpg" alt="Spicy Tamarind-Glazed Potatoes" /></a>
+<a href="/images/cookbook/spicy-tamarind-glazed-potatoes-2.webp"><img src="/images/cookbook/spicy-tamarind-glazed-potatoes-2.webp" alt="Spicy Tamarind-Glazed Potatoes" /></a>
 
 <div class="recipe-card">
 <p><strong>Spicy Tamarind-Glazed Potatoes</strong>

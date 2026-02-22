@@ -6,7 +6,7 @@ description: "This vegetarian recipe for potato and fennel gratin is a comfort f
 categories: ["Recipes", "Side Dishes"]
 aliases: ["/potato-and-fennel-gratin-recipe/", "/2010/11/potato-and-fennel-gratin-recipe.html"]
 cover:
-  image: "/images/old/6a00e008d618bb88340134887f3852970c-500wi.jpg"
+  image: "/images/old/6a00e008d618bb88340134887f3852970c-500wi.webp"
   hidden: true
 recipe:
   name: "Potato and Fennel Gratin"
@@ -34,7 +34,7 @@ recipe:
     - "Layer the casserole with potatoes, in overlapping rows. Top that with a scattering of half of the fennel and pour in half of the cream sauce. Top with another layer of potatoes, fennel, and sauce. Cover the top with breadcrumbs. Bake until bubbling hot, about 20 minutes, and serve immediately."
 ---
 
-<a style="display: inline;" href="/images/old/6a00e008d618bb88340134887f3852970c-800wi.jpg" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb88340134887f3852970c" title="Potato and Fennel Gratin" src="/images/old/6a00e008d618bb88340134887f3852970c-500wi.jpg" alt="Potato and Fennel Gratin" /></a>
+<a style="display: inline;" href="/images/old/6a00e008d618bb88340134887f3852970c-800wi.webp" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb88340134887f3852970c" title="Potato and Fennel Gratin" src="/images/old/6a00e008d618bb88340134887f3852970c-500wi.webp" alt="Potato and Fennel Gratin" /></a>
 <em>Potato and fennel gratin</em>
 
 Nothing complicated here, just a rich, comforting potato gratin, tweaked with a bit of fennel. I don't cook with cream often, but when I do I like to keep the flavors simple and clean so that the pure dairy sweetness comes through.

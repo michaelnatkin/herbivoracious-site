@@ -6,7 +6,7 @@ description: "If you have ever ordered the dry-fried green beans at a good Chine
 categories: ["Recipes", "Main Courses", "Vegan or Modifiable", "Gluten-Free"]
 aliases: ["/sichuan-dry-fried-green-beans-and-tofu-recipe/", "/2011/09/sichuan-dry-fried-green-beans-and-tofu-recipe.html"]
 cover:
-  image: "/images/cookbook/sichuan-dry-fried-green-beans-and-tofu.jpg"
+  image: "/images/cookbook/sichuan-dry-fried-green-beans-and-tofu.webp"
   hidden: true
 recipe:
   name: "Sichuan Dry-Fried Green Beans and Tofu"
@@ -29,7 +29,7 @@ recipe:
     - "Return the pan to the heat. Fry the Sichuan preserved vegetable, ginger and garlic for 30 seconds, until very fragrant. Add the green beans, mushrooms and tofu back to the pan and toss with the aromatics."
     - "Whisk together the soy sauce, sesame oil, sugar and salt and pour over the green beans. Toss to coat, cook for 30 more seconds, and serve immediately."
 ---
-<a href="/images/cookbook/sichuan-dry-fried-green-beans-and-tofu.jpg"><img src="/images/cookbook/sichuan-dry-fried-green-beans-and-tofu.jpg" alt="Sichuan Dry-Fried Green Beans and Tofu" /></a>
+<a href="/images/cookbook/sichuan-dry-fried-green-beans-and-tofu.webp"><img src="/images/cookbook/sichuan-dry-fried-green-beans-and-tofu.webp" alt="Sichuan Dry-Fried Green Beans and Tofu" /></a>
 
 
 <p>If you have ever ordered the dry-fried green beans at a good Chinese restaurant, you know how delicious they can be, but I bet you don’t know what is in them! For years, I wondered what all that yummy brown stuff was. I knew there was garlic and ginger, but I couldn’t imagine that there could be 1/2 cup of garlic in a plate of green beans.</p>
@@ -38,13 +38,13 @@ recipe:
 <p>Don’t be scared off by the quantity of oil in this recipe, and please don’t stint on it when frying the green beans. Most of it is is drained off before the dish is completed.</p>
 
 
-<a href="/images/cookbook/sichuan-dry-fried-green-beans-and-tofu-2.jpg"><img src="/images/cookbook/sichuan-dry-fried-green-beans-and-tofu-2.jpg" alt="Sichuan Dry-Fried Green Beans and Tofu" /></a>
+<a href="/images/cookbook/sichuan-dry-fried-green-beans-and-tofu-2.webp"><img src="/images/cookbook/sichuan-dry-fried-green-beans-and-tofu-2.webp" alt="Sichuan Dry-Fried Green Beans and Tofu" /></a>
 
-<a href="/images/cookbook/sichuan-dry-fried-green-beans-and-tofu-3.jpg"><img src="/images/cookbook/sichuan-dry-fried-green-beans-and-tofu-3.jpg" alt="Sichuan Dry-Fried Green Beans and Tofu" /></a>
+<a href="/images/cookbook/sichuan-dry-fried-green-beans-and-tofu-3.webp"><img src="/images/cookbook/sichuan-dry-fried-green-beans-and-tofu-3.webp" alt="Sichuan Dry-Fried Green Beans and Tofu" /></a>
 
-<a href="/images/cookbook/sichuan-dry-fried-green-beans-and-tofu-4.jpg"><img src="/images/cookbook/sichuan-dry-fried-green-beans-and-tofu-4.jpg" alt="Sichuan Dry-Fried Green Beans and Tofu" /></a>
+<a href="/images/cookbook/sichuan-dry-fried-green-beans-and-tofu-4.webp"><img src="/images/cookbook/sichuan-dry-fried-green-beans-and-tofu-4.webp" alt="Sichuan Dry-Fried Green Beans and Tofu" /></a>
 
-<a href="/images/cookbook/sichuan-dry-fried-green-beans-and-tofu-5.jpg"><img src="/images/cookbook/sichuan-dry-fried-green-beans-and-tofu-5.jpg" alt="Sichuan Dry-Fried Green Beans and Tofu" /></a>
+<a href="/images/cookbook/sichuan-dry-fried-green-beans-and-tofu-5.webp"><img src="/images/cookbook/sichuan-dry-fried-green-beans-and-tofu-5.webp" alt="Sichuan Dry-Fried Green Beans and Tofu" /></a>
 
 <div class="recipe-card">
 <p><strong>Sichuan Dry-Fried Green Beans and Tofu</strong>

@@ -5,11 +5,11 @@ slug: "good-stuff-from-bourbon-barrel-foods"
 categories: ["My Kitchen", "Sauces and Condiments"]
 aliases: ["/good-stuff-from-bourbon-barrel-foods/", "/2009/09/good-stuff-from-bourbon-barrel-foods.html"]
 cover:
-  image: "/images/old/6a00e008d618bb88340120a57d3817970b-500wi.jpg"
+  image: "/images/old/6a00e008d618bb88340120a57d3817970b-500wi.webp"
   hidden: true
 ---
 
-<a style="display: block;" href="/images/old/6a00e008d618bb88340120a57d3817970b-800wi.jpg" rel="lightbox"><img class="at-xid-6a00e008d618bb88340120a57d3817970b " style="margin: 0px;" src="/images/old/6a00e008d618bb88340120a57d3817970b-500wi.jpg" alt="Bourbon_Barrel_Foods" /></a>
+<a style="display: block;" href="/images/old/6a00e008d618bb88340120a57d3817970b-800wi.webp" rel="lightbox"><img class="at-xid-6a00e008d618bb88340120a57d3817970b " style="margin: 0px;" src="/images/old/6a00e008d618bb88340120a57d3817970b-500wi.webp" alt="Bourbon_Barrel_Foods" /></a>
 
 I grew up in Louisville, Kentucky. In the 1970s. Not gonna lie to you. At that time it was pretty much a gastronomic wasteland, except for the not inconsiderable charms of Waffle House. Scattered, smothered and covered.. but I digress.
 

@@ -6,7 +6,7 @@ description: "I’m not a big believer in lots of vegetables or grains in chili.
 categories: ["Recipes", "Main Courses", "Vegan or Modifiable"]
 aliases: ["/chili-borracho-recipe/", "/2011/11/chili-borracho-recipe.html"]
 cover:
-  image: "/images/cookbook/chili-borracho.jpg"
+  image: "/images/cookbook/chili-borracho.webp"
   hidden: true
 recipe:
   name: "Chili Borracho"
@@ -38,7 +38,7 @@ recipe:
     - "Add the lime juice and cilantro or parsley, mix thoroughly, then taste and adjust seasoning. It will probably need more salt and possibly more chili powder."
     - "Serve immediately, passing the garnishes for each diner to customize the chile to their taste."
 ---
-<a href="/images/cookbook/chili-borracho.jpg"><img src="/images/cookbook/chili-borracho.jpg" alt="Chili Borracho" /></a>
+<a href="/images/cookbook/chili-borracho.webp"><img src="/images/cookbook/chili-borracho.webp" alt="Chili Borracho" /></a>
 
 
 <p>I’m not a big believer in lots of vegetables or grains in chili. For me, it is all about the beans, complemented by a savory sauce and lots of tasty garnish. My version includes dark beer, dried chiles and unsweetened cocoa powder to create those deep bass notes, reminiscent of Oaxacan mole.</p>

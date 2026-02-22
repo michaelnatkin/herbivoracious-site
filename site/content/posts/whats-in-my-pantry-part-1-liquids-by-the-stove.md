@@ -8,11 +8,11 @@ cover:
   image: "]
 ---liquids-by-the-stove.html", "/2008/10/whats-in-my-pantry-part-1---liquids-by-the-stove/", "/2008/10/whats-in-my-pantry-part-1---liquids-by-the-stove", "/2008/10/whats-in-my-pantry-part-1-liquids-by-the-stove.html"]
 cover:
-  image: "/images/old/6a00e008d618bb8834010535b99772970c-500wi.jpg"
+  image: "/images/old/6a00e008d618bb8834010535b99772970c-500wi.webp"
   hidden: true
 ---
 
-<p><a href="/images/old/6a00e008d618bb8834010535b99772970c-800wi.jpg" rel="lightbox" style="display: inline;"><img alt="Pantry_Liquids" class="at-xid-6a00e008d618bb8834010535b99772970c " src="/images/old/6a00e008d618bb8834010535b99772970c-500wi.jpg"  /></a></p>
+<p><a href="/images/old/6a00e008d618bb8834010535b99772970c-800wi.webp" rel="lightbox" style="display: inline;"><img alt="Pantry_Liquids" class="at-xid-6a00e008d618bb8834010535b99772970c " src="/images/old/6a00e008d618bb8834010535b99772970c-500wi.webp"  /></a></p>
 <p>I thought it might be fun to do an occasional post of what I&#39;ve got stashed away in different parts of the kitchen. </p>
 <p>This first batch are the items I keep right on the counter, for sauteeing, deglazing, making quick sauces, and adding little hits of flavor. I put the Frantoia in the middle because that is my favorite high end extra-virgin olive oil. I reach for it for most raw uses, like vinaigrettes or to drizzle on pasta. The Whole Foods house brand is less expensive and I use it for cooking, along with canola oil that I keep in the fridge. (On <a href="/2008/08/molto-mario-bat/">Molto Mario</a>, he uses Frantoia even to deep fry. Which is nice if you have deep pockets!)</p>
 <p>Pride of place also goes to the little bottle of <a href="https://www.amazon.com/dp/B00MULSARC?tag=herb-hugo-20">balsamico tradizionale</a> - real balsamic vinegar, syrupy, sweet and incredibly complex, only for drizzling a few precious drops at a time. A recent purchase is the mosto cotto (a.k.a. saba, left of the Whole Food olive oil), which is the cooked grape must that would become balsamic if it was aged, but this stuff is immediately bottled. It is sweet and somewhat thick, but much less intense than the balsamico.</p>

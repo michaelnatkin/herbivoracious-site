@@ -6,7 +6,7 @@ description: "Recipe for bunuelos (aka bimuelos) - yeast raised, fried rustic do
 categories: ["Desserts", "Kid Friendly", "Recipes", "Vegan or Modifiable"]
 aliases: ["/bunuelos-bimuelos-donuts-hanukkah-sephardic/", "/2010/11/bunuelos-bimuelos-donuts-hanukkah-sephardic.html"]
 cover:
-  image: "/images/old/6a00e008d618bb8834013488983680970c-500wi.jpg"
+  image: "/images/old/6a00e008d618bb8834013488983680970c-500wi.webp"
   hidden: true
 recipe:
   name: "Bunuelos (or Bimuelos) with Honey - Sephardic Hanukkah Donuts"
@@ -27,7 +27,7 @@ recipe:
     - "Drizzle with honey (or offer honey for dipping, or dust with powdered sugar) and serve immediately."
 ---
 
-<a style="display: inline;" href="/images/old/6a00e008d618bb8834013488983680970c-800wi.jpg" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb8834013488983680970c" title="Bunuelos (or Bimuelos) with Honey - Sephardic Hanukkah Donuts" src="/images/old/6a00e008d618bb8834013488983680970c-500wi.jpg" alt="Bunuelos (or Bimuelos) with Honey - Sephardic Hanukkah Donuts" /></a>
+<a style="display: inline;" href="/images/old/6a00e008d618bb8834013488983680970c-800wi.webp" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb8834013488983680970c" title="Bunuelos (or Bimuelos) with Honey - Sephardic Hanukkah Donuts" src="/images/old/6a00e008d618bb8834013488983680970c-500wi.webp" alt="Bunuelos (or Bimuelos) with Honey - Sephardic Hanukkah Donuts" /></a>
 <em>Bunuelos (or Bimuelos) with Honey - Sephardic Hanukkah Donuts</em>
 
 When my friend <a href="http://www.laraferroni.com/" target="_blank">Lara Ferroni</a> sent me a review copy of her new book, <a href="https://www.amazon.com/dp/1570616418?tag=herb-hugo-20" target="_blank">Doughnuts: Simple and Delicious Recipes to Make at Home</a>, my kiddo and I spent a fun hour on the couch, leafing through and dog-earing the pages of all of the delicious desserts we want to make. When we were done, pretty much every page was bent!

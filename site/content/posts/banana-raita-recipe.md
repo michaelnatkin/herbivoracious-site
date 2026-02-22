@@ -6,7 +6,7 @@ description: "Raitas are a family of yogurt-based condiments that can go with ju
 categories: ["Recipes", "Sauces and Condiments", "Gluten-Free"]
 aliases: ["/banana-raita-recipe/", "/2012/06/banana-raita-recipe.html"]
 cover:
-  image: "/images/cookbook/banana-raita.jpg"
+  image: "/images/cookbook/banana-raita.webp"
   hidden: true
 recipe:
   name: "Banana Raita"
@@ -27,14 +27,14 @@ recipe:
     - "Put the yogurt, salt, and sugar in a bowl. Beat thoroughly with a whisk or fork until smooth. Mix in the bananas, mustard seeds and jalapeno."
     - "Taste and adjust seasoning, garnish with the green onion, and serve."
 ---
-<a href="/images/cookbook/banana-raita.jpg"><img src="/images/cookbook/banana-raita.jpg" alt="Banana Raita" /></a>
+<a href="/images/cookbook/banana-raita.webp"><img src="/images/cookbook/banana-raita.webp" alt="Banana Raita" /></a>
 
 
 <p>Raitas are a family of yogurt-based condiments that can go with just about any Indian dish, from street food to a sumptuous banquet. They make a cooling complement to a spicy dish. Unfortunately, only the cucumber raita has become popular in America, but there are many other possibilities.</p>
 <p>I like this banana raita because the flavors are at once familiar and surprising. First you get banana smoothie, only to have your taste buds surprised by mustard seed, jalapeno, and spring onion. Try this with the aloo tiki on .</p>
 
 
-<a href="/images/cookbook/banana-raita-2.jpg"><img src="/images/cookbook/banana-raita-2.jpg" alt="Banana Raita" /></a>
+<a href="/images/cookbook/banana-raita-2.webp"><img src="/images/cookbook/banana-raita-2.webp" alt="Banana Raita" /></a>
 
 <div class="recipe-card">
 <p><strong>Banana Raita</strong>

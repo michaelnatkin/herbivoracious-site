@@ -5,7 +5,7 @@ slug: "quick-green-apple-kimchi-recipe"
 categories: ["Gluten-Free or modifiable", "Recipes", "Vegan or Modifiable"]
 aliases: ["/quick-green-apple-kimchi-recipe/", "/2012/09/quick-green-apple-kimchi-recipe.html"]
 cover:
-  image: "/images/2012/09/Green-Apple-Kimchi-626x415.jpg"
+  image: "/images/2012/09/Green-Apple-Kimchi-626x415.webp"
   hidden: true
 recipe:
   name: "Quick Green Apple \"Kimchi\""
@@ -23,7 +23,7 @@ recipe:
     - "Reserve in refrigerator until ready to use. Use within a couple of hours or it can become too soggy."
 ---
 
-<a href="/images/2012/09/Green-Apple-Kimchi.jpg"><img class="alignnone size-large wp-image-2774" title="Green Apple Kimchi" src="/images/2012/09/Green-Apple-Kimchi-626x415.jpg" alt="Green Apple Kimchi" width="626" height="415" /></a>
+<a href="/images/2012/09/Green-Apple-Kimchi.webp"><img class="alignnone size-large wp-image-2774" title="Green Apple Kimchi" src="/images/2012/09/Green-Apple-Kimchi-626x415.webp" alt="Green Apple Kimchi" width="626" height="415" /></a>
 <em>Green Apple Kimchi, shown here with Tofu Lettuce Wrap and Hatcho Miso Sauce</em>
 
 As I mentioned in the <a href="/2012/08/tomato-and-nectarine-salad-with-a-korean-dressing-recipe/" target="_blank">Tomato and Nectarine Salad</a>, I've fallen in love with <a href="http://www.amazon.com/dp/B004W71CJU/?tag=poeticlicen07-20" rel="nofollow" target="_blank">gochugaru (Korean chili powder</a>). It is spicy, but not so spicy that you can't use enough of it to also appreciate its fruity, tart notes. I like using it to make quick "kimchi". I'm putting the "kimchi" in quotes because there is no fermentation at all. I'm <strong>not</strong> putting it in quotes because this is apple, not cabbage - Koreans make kimchi from all sorts of things besides those familiar leaves.

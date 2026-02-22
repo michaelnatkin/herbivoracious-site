@@ -5,7 +5,7 @@ slug: "celery-and-fennel-salad-recipe"
 categories: ["Experiments", "Salads"]
 aliases: ["/celery-and-fennel-salad-recipe/", "/2013/03/celery-and-fennel-salad-recipe.html"]
 cover:
-  image: "/images/2013/03/Compressed-Celery-Salad-626x352.jpg"
+  image: "/images/2013/03/Compressed-Celery-Salad-626x352.webp"
   hidden: true
 recipe:
   name: "Celery and Fennel Salad – Recipe"
@@ -28,7 +28,7 @@ recipe:
     - "To serve, divide the salad onto 4 chilled plates. Distribute the croutons, and garnish with the celery and fennel leaves. Immediately before serving, remove the blue cheese from the freezer and shave a few paper thin slices over each salad, using a mandoline or a vegetable peeler."
 ---
 
-<a href="/images/2013/03/Compressed-Celery-Salad.jpg"><img class="alignnone size-large wp-image-3668" alt="Compressed Celery and Fennel Salad" src="/images/2013/03/Compressed-Celery-Salad-626x352.jpg" width="626" height="352" /></a>
+<a href="/images/2013/03/Compressed-Celery-Salad.webp"><img class="alignnone size-large wp-image-3668" alt="Compressed Celery and Fennel Salad" src="/images/2013/03/Compressed-Celery-Salad-626x352.webp" width="626" height="352" /></a>
 <em>Celery and Fennel Salad</em>
 
 So... something completely unexpected and exciting happened: the <a href="http://www.amazon.com/gp/product/1558327452/ref=as_li_ss_tl?ie=UTF8&amp;tag=herb-book-sales-page-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=1558327452">Herbivoracious cookbook</a> was named a finalist for a James Beard Foundation book award, in the Vegetable Focused and Vegetarian category. I'll be going to the awards ceremony in New York on May 3rd. Honestly, while winning would be a thrill, I'm mostly just delighted to be included, and excited to spend some time with a bunch of terrific cooks and authors.

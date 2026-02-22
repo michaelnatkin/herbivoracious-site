@@ -5,11 +5,11 @@ slug: "tortilla-de-espinaca-spanish-omelet"
 categories: ["Appetizers", "Gluten-Free or modifiable", "Kid Friendly", "Main Courses"]
 aliases: ["/tortilla-de-espinaca-spanish-omelet/", "/2012/02/tortilla-de-espinaca-spanish-omelet.html"]
 cover:
-  image: "/images/2012/06/Tortilla-De-Espinaca-626x415.jpg"
+  image: "/images/2012/06/Tortilla-De-Espinaca-626x415.webp"
   hidden: true
 ---
 
-<a href="/images/2012/06/Tortilla-De-Espinaca.jpg"><img class="alignnone size-large wp-image-1304" title="Tortilla De Espinacas" src="/images/2012/06/Tortilla-De-Espinaca-626x415.jpg" alt="Tortilla De Espinacas - Spanish Omelet with Spinach" width="626" height="415" />
+<a href="/images/2012/06/Tortilla-De-Espinaca.webp"><img class="alignnone size-large wp-image-1304" title="Tortilla De Espinacas" src="/images/2012/06/Tortilla-De-Espinaca-626x415.webp" alt="Tortilla De Espinacas - Spanish Omelet with Spinach" width="626" height="415" />
 </a><em>Tortilla de Espinacas - Spanish Omelet with Spinach</em>
 
 When we had our first kiddo, family and friends helped out by bringing over food, doing laundry, and generally making it so we could stay in our pajamas and <strong>figure out how the heck to be parents</strong>. It was wonderful. Seriously, if you have the opportunity to do that for a someone you know, they will never forget it.

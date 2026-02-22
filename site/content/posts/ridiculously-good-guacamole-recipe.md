@@ -5,7 +5,7 @@ slug: "ridiculously-good-guacamole-recipe"
 categories: ["Appetizers", "Gluten-Free or modifiable", "Kid Friendly", "Recipes", "Side Dishes", "Vegan or Modifiable"]
 aliases: ["/ridiculously-good-guacamole-recipe/", "/2009/11/ridiculously-good-guacamole-recipe.html"]
 cover:
-  image: "/images/old/6a00e008d618bb88340120a651ba17970b-500wi.jpg"
+  image: "/images/old/6a00e008d618bb88340120a651ba17970b-500wi.webp"
   hidden: true
 recipe:
   name: "Ridiculously Good Guacamole in Five Minutes"
@@ -24,7 +24,7 @@ recipe:
     - "Taste and add salt and more lime juice if needed."
 ---
 
-<a style="display: inline;" href="/images/old/6a00e008d618bb88340120a651ba17970b-800wi.jpg" rel="lightbox"><img class="photo asset asset-image at-xid-6a00e008d618bb88340120a651ba17970b " src="/images/old/6a00e008d618bb88340120a651ba17970b-500wi.jpg" alt="Guacamole" /></a>
+<a style="display: inline;" href="/images/old/6a00e008d618bb88340120a651ba17970b-800wi.webp" rel="lightbox"><img class="photo asset asset-image at-xid-6a00e008d618bb88340120a651ba17970b " src="/images/old/6a00e008d618bb88340120a651ba17970b-500wi.webp" alt="Guacamole" /></a>
 <em>Legendary Guacamole</em>
 
 I've never understood why people buy pre-made guacamole. The store-bought stuff ranges from barely ok to green glue. The real thing takes all of five minutes to make and <strong>tastes spectacular</strong>. I'll show you how. I usually make a four-avocado batch and it is just enough to satisfy four adults and a couple of munchkins, so you can tell how popular it is at my house.

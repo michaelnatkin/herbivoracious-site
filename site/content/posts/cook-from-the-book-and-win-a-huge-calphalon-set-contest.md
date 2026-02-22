@@ -5,11 +5,11 @@ slug: "cook-from-the-book-and-win-a-huge-calphalon-set-contest"
 categories: ["Contests"]
 aliases: ["/cook-from-the-book-and-win-a-huge-calphalon-set-contest/", "/2012/05/cook-from-the-book-and-win-a-huge-calphalon-set-contest.html"]
 cover:
-  image: "/images/2012/05/Calphalon-Set-2-622x415.jpg"
+  image: "/images/2012/05/Calphalon-Set-2-622x415.webp"
   hidden: true
 ---
 
-<a href="/images/2012/05/Calphalon-Set-2.jpg"><img class="alignnone size-large wp-image-1908" title="Calphalon Set 2" src="/images/2012/05/Calphalon-Set-2-622x415.jpg" alt="" width="622" height="415" /></a>
+<a href="/images/2012/05/Calphalon-Set-2.webp"><img class="alignnone size-large wp-image-1908" title="Calphalon Set 2" src="/images/2012/05/Calphalon-Set-2-622x415.webp" alt="" width="622" height="415" /></a>
 <em>Win me?</em>
 
 My whole dream <a href="/get-the-herbivoracious-cookbook/" target="_blank">with the cookbook</a> is that it is one people will use on a regular basis. I wanted to share recipes with you that are <strong>manageable to make, and delicious enough to keep making</strong>. So I get really excited when people write back to tell me what they've made and how they liked it.

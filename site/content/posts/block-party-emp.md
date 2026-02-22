@@ -5,7 +5,7 @@ slug: "block-party-emp"
 categories: ["Appetizers", "Recipes"]
 aliases: ["/block-party-emp/", "/2007/08/block-party-emp.html"]
 cover:
-  image: "/images/2007-small/08/07/cheeseempanadas.jpg"
+  image: "/images/2007-small/08/07/cheeseempanadas.webp"
   hidden: true
 recipe:
   name: "Appetizer Cheese Empanadas with Chimichurri Sauce"
@@ -18,7 +18,7 @@ recipe:
     - "For the chimichurri (and this is really a quickie version, but it tastes great), just whir all the ingredients in the food processor until you have a medium-coarse sauce, and then adjust salt, pepper and lemon juice as needed. It will taste best if it gets to marry flavors for half an hour or so."
 ---
 
-<a href="/images/2007/08/07/cheeseempanadas.jpg" rel="lightbox"><img title="Cheeseempanadas" src="/images/2007-small/08/07/cheeseempanadas.jpg" alt="Cheeseempanadas" width="455" height="325" border="0" /></a>
+<a href="/images/2007/08/07/cheeseempanadas.webp" rel="lightbox"><img title="Cheeseempanadas" src="/images/2007-small/08/07/cheeseempanadas.webp" alt="Cheeseempanadas" width="455" height="325" border="0" /></a>
 
 Tonight was <a href="http://www.nationaltownwatch.org/nno/">National Night Out</a> and I hope many of you had rockin' block parties. Ours was fun as always, with lots of munchkins on bikes, scooters, toy cars, rollerblades and strollers. Zeb the kooky dog barked at everyone and ate liverwurst training paste, and our neighborhood police sergeant put up with the usual grilling and good-naturedly took home two enormous slices of cake. My contribution was these appetizer sized, cheese filled empanadas with a quick chimichurri sauce. I wanted to do a baked, not fried version because I made them last night way too late and I couldn't really deal with a big frying mess. I guess they must have been pretty well received, the stack disappeared rapidly. You could use any cheese you want as long as it melts well. Latin American cheeses would certainly be a good choice, but you can also do a fusion version with anything that suits your fancy, and you could also add a bit of chutney or fig jam to take the flavor up a notch. I included about 20% romano to give a depth of flavor, borrowing from what I see Snacky Pants' grandmother do with her outstanding Sephardic baked goodies. Oh, and if any cheese should leak out during baking and make a crispy brown puddle on your sheet pan, that is known as a Cook's Treat.
 

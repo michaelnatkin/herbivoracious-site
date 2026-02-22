@@ -6,7 +6,7 @@ description: "Recipe for an intensely flavored cold carrot soup, using a techniq
 categories: ["Appetizers", "Experiments", "Favorites", "Gluten-Free or modifiable", "Recipes", "Soups", "Vegan or Modifiable"]
 aliases: ["/cold-carrot-soup-myhrvold-recipe/", "/2011/03/cold-carrot-soup-myhrvold-recipe.html"]
 cover:
-  image: "/images/old/6a00e008d618bb88340147e33d3219970b-500wi.jpg"
+  image: "/images/old/6a00e008d618bb88340147e33d3219970b-500wi.webp"
   hidden: true
 recipe:
   name: "Cold Carrot Soup"
@@ -28,7 +28,7 @@ recipe:
     - "Whisk the soup, taste again and make any final adjustments to thickness and seasoning. To serve, place about 1 tablespoon of soup in each amuse bouche spoon. Using the photo as a guide, garnish with a drizzle of extra-virgin olive oil, 3 drops of pomegranate molasses, a sprinkle of dukkah, a few rings of the shallot, the cilantro, and a few grains of Maldon (aka the world's greatest salt) . Serve immediately."
 ---
 
-<a style="display: inline;" href="/images/old/6a00e008d618bb88340147e33d3219970b-800wi.jpg" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb88340147e33d3219970b" title="Carrot Soup Myhrvold" alt="Carrot Soup Myhrvold" src="/images/old/6a00e008d618bb88340147e33d3219970b-500wi.jpg" /></a>
+<a style="display: inline;" href="/images/old/6a00e008d618bb88340147e33d3219970b-800wi.webp" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb88340147e33d3219970b" title="Carrot Soup Myhrvold" alt="Carrot Soup Myhrvold" src="/images/old/6a00e008d618bb88340147e33d3219970b-500wi.webp" /></a>
 <em>Cold Carrot Soup </em>
 
 You've probably heard that Dr. Nathan Myhrvold, the CEO of Intellectual Ventures and former CTO of Microsoft, along with Chris Young, Maxime Billet, and a cast of dozens, is publishing the <a href="https://www.amazon.com/dp/0982761007?tag=herb-hugo-20" target="_blank">most anticipated cookbook</a> since <a href="http://en.wikipedia.org/wiki/Apicius" target="_self">Apicius</a>. (If not, here is the <a href="http://www.wired.com/magazine/2011/02/ff_myhrvold/all/1" target="_blank">background</a>.)

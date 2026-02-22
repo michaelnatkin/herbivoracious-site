@@ -5,7 +5,7 @@ slug: "ginger-and-black-pepper-rice-pilafrecipe"
 categories: ["Gluten-Free or modifiable", "Recipes", "Side Dishes", "Vegan or Modifiable"]
 aliases: ["/ginger-and-black-pepper-rice-pilafrecipe/", "/2012/06/ginger-and-black-pepper-rice-pilafrecipe.html"]
 cover:
-  image: "/images/2012/06/Ginger-Black-Pepper-Rice-626x415.jpg"
+  image: "/images/2012/06/Ginger-Black-Pepper-Rice-626x415.webp"
   hidden: true
 recipe:
   name: "Ginger and Black Pepper Rice Pilaf"
@@ -25,7 +25,7 @@ recipe:
     - "Fold the seasoning mixture into the rice. Taste and adjust the seasoning. It might need more salt or more black pepper."
 ---
 
-<a href="/images/2012/06/Ginger-Black-Pepper-Rice.jpg"><img class="alignnone size-large wp-image-2091" title="Ginger and Black Pepper Basmati Rice" src="/images/2012/06/Ginger-Black-Pepper-Rice-626x415.jpg" alt="Ginger and Black Pepper Basmati Rice" width="626" height="415" />
+<a href="/images/2012/06/Ginger-Black-Pepper-Rice.webp"><img class="alignnone size-large wp-image-2091" title="Ginger and Black Pepper Basmati Rice" src="/images/2012/06/Ginger-Black-Pepper-Rice-626x415.webp" alt="Ginger and Black Pepper Basmati Rice" width="626" height="415" />
 </a><em>Ginger and Black Pepper Rice Pilaf</em>
 
 <strong></strong>Flavoring your basmati rice is an easy way to add variety to an <a href="/2012/01/saag-with-collard-greens-kale-and-spinach-recipe/" target="_blank">Indian</a> <a href="/2011/04/gobi-masala-cauliflower-curry-recipe/" target="_blank">menu</a>. The possibilities are endless. Today's version, with ample quantities of grated ginger root and freshly ground pepper is one of my favorites.

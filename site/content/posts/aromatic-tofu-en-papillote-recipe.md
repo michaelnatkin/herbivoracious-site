@@ -6,7 +6,7 @@ description: "Imagine opening a present at the table, and being greeted with a r
 categories: ["Recipes", "Main Courses"]
 aliases: ["/aromatic-tofu-en-papillote-recipe/", "/2011/12/aromatic-tofu-en-papillote-recipe.html"]
 cover:
-  image: "/images/cookbook/aromatic-tofu-en-papillote.jpg"
+  image: "/images/cookbook/aromatic-tofu-en-papillote.webp"
   hidden: true
 recipe:
   name: "Aromatic Tofu En Papillote"
@@ -32,7 +32,7 @@ recipe:
     - "Fold the wrapper over first in one direction and then the other, rolling the lip to make a firm seal, moderately tight around the ingredients, but leave a bit of room for steam. Secure with two toothpicks. Place on a baking sheet in the oven and cook for about 20 minutes. If you are using parchment paper, it will turn quite brown, which is normal."
     - "To serve, place each packet on an individual plate. Tell the diners to open it carefully and enjoy the aromatic steam. Pass the lime wedges."
 ---
-<a href="/images/cookbook/aromatic-tofu-en-papillote.jpg"><img src="/images/cookbook/aromatic-tofu-en-papillote.jpg" alt="Aromatic Tofu En Papillote" /></a>
+<a href="/images/cookbook/aromatic-tofu-en-papillote.webp"><img src="/images/cookbook/aromatic-tofu-en-papillote.webp" alt="Aromatic Tofu En Papillote" /></a>
 
 
 <p>Imagine opening a present at the table, and being greeted with a rush of aromatic steam full of lemongrass and ginger that makes you close your eyes with pleasure.  Baking your food in <a href="https://www.amazon.com/dp/B07H79KX8W?tag=herb-hugo-20">parchment paper</a> or banana leaves is just the ticket to that experience.</p>
@@ -40,15 +40,15 @@ recipe:
 <p>One nice thing about making individual packets is that you can customize the spice level for each person if necessary. For children, leave out the jalapeno and long pepper and add their favorite vegetables.</p>
 
 
-<a href="/images/cookbook/aromatic-tofu-en-papillote-2.jpg"><img src="/images/cookbook/aromatic-tofu-en-papillote-2.jpg" alt="Aromatic Tofu En Papillote" /></a>
+<a href="/images/cookbook/aromatic-tofu-en-papillote-2.webp"><img src="/images/cookbook/aromatic-tofu-en-papillote-2.webp" alt="Aromatic Tofu En Papillote" /></a>
 
-<a href="/images/cookbook/aromatic-tofu-en-papillote-3.jpg"><img src="/images/cookbook/aromatic-tofu-en-papillote-3.jpg" alt="Aromatic Tofu En Papillote" /></a>
+<a href="/images/cookbook/aromatic-tofu-en-papillote-3.webp"><img src="/images/cookbook/aromatic-tofu-en-papillote-3.webp" alt="Aromatic Tofu En Papillote" /></a>
 
-<a href="/images/cookbook/aromatic-tofu-en-papillote-4.jpg"><img src="/images/cookbook/aromatic-tofu-en-papillote-4.jpg" alt="Aromatic Tofu En Papillote" /></a>
+<a href="/images/cookbook/aromatic-tofu-en-papillote-4.webp"><img src="/images/cookbook/aromatic-tofu-en-papillote-4.webp" alt="Aromatic Tofu En Papillote" /></a>
 
-<a href="/images/cookbook/aromatic-tofu-en-papillote-5.jpg"><img src="/images/cookbook/aromatic-tofu-en-papillote-5.jpg" alt="Aromatic Tofu En Papillote" /></a>
+<a href="/images/cookbook/aromatic-tofu-en-papillote-5.webp"><img src="/images/cookbook/aromatic-tofu-en-papillote-5.webp" alt="Aromatic Tofu En Papillote" /></a>
 
-<a href="/images/cookbook/aromatic-tofu-en-papillote-6.jpg"><img src="/images/cookbook/aromatic-tofu-en-papillote-6.jpg" alt="Aromatic Tofu En Papillote" /></a>
+<a href="/images/cookbook/aromatic-tofu-en-papillote-6.webp"><img src="/images/cookbook/aromatic-tofu-en-papillote-6.webp" alt="Aromatic Tofu En Papillote" /></a>
 
 <div class="recipe-card">
 <p><strong>Aromatic Tofu En Papillote</strong>

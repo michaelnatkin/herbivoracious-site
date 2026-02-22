@@ -5,7 +5,7 @@ slug: "caramelized-pear-ice-cream-from-the-perfect-scoop-by-david-lebovitz-recip
 categories: ["Books", "Gluten-Free or modifiable", "Kid Friendly", "Recipes"]
 aliases: ["/caramelized-pear-ice-cream-from-the-perfect-scoop-by-david-lebovitz-recipe-and-cookbook-review/", "/2009/01/caramelized-pear-ice-cream-from-the-perfect-scoop-by-david-lebovitz-recipe-and-cookbook-review.html"]
 cover:
-  image: "/images/old/6a00e008d618bb8834010536a299d3970b-500wi.jpg"
+  image: "/images/old/6a00e008d618bb8834010536a299d3970b-500wi.webp"
   hidden: true
 recipe:
   name: "Pear-Caramel Ice Cream"
@@ -25,7 +25,7 @@ recipe:
     - "Chill according to your ice-cream maker manufacturer's instructions."
 ---
 
-<a style="display: inline;" href="/images/old/6a00e008d618bb8834010536a299d3970b-800wi.jpg" rel="lightbox"><img class="at-xid-6a00e008d618bb8834010536a299d3970b " src="/images/old/6a00e008d618bb8834010536a299d3970b-500wi.jpg" alt="Caramelized_Pear_Ice_Cream" /></a>
+<a style="display: inline;" href="/images/old/6a00e008d618bb8834010536a299d3970b-800wi.webp" rel="lightbox"><img class="at-xid-6a00e008d618bb8834010536a299d3970b " src="/images/old/6a00e008d618bb8834010536a299d3970b-500wi.webp" alt="Caramelized_Pear_Ice_Cream" /></a>
 <span style="font-size: 12px; font-family: Arial;">Pear-caramel ice cream from <em>The Perfect Scoop</em></span>
 
 I bought <a href="https://www.amazon.com/dp/1580088082?tag=herb-hugo-20" target="_blank">The Perfect Scoop</a>, only a few months after I started blogging, back in the fall of 2007. David Lebovitz was already well established as a food blogger, living in Paris. The idea that a blogger could launch a book was pretty amazing to me. Of course, I later realized he'd published three previous books and worked for more than a decade at a little place called Chez Panisse, but still, I was impressed!

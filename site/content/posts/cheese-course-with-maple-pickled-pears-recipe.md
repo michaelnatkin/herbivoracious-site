@@ -6,7 +6,7 @@ description: "This isn’t so much a recipe as a reminder, that a cheese course 
 categories: ["Recipes", "Desserts"]
 aliases: ["/cheese-course-with-maple-pickled-pears-recipe/", "/2012/11/cheese-course-with-maple-pickled-pears-recipe.html"]
 cover:
-  image: "/images/cookbook/cheese-course-with-maple-pickled-pears.jpg"
+  image: "/images/cookbook/cheese-course-with-maple-pickled-pears.webp"
   hidden: true
 recipe:
   name: "Cheese Course with Maple Pickled Pears"
@@ -21,7 +21,7 @@ recipe:
     - "Mix the vinegar, syrup, salt and pepper in a small bowl and microwave for 1 minute. Toss with the pears and set aside at room temperature for at least 15 minutes, or they can be refrigerated overnight."
     - "Drain off the pickling liquid and serve the pears with your cheeses and bread or crackers. Leftovers can be used in grilled cheese sandwiches."
 ---
-<a href="/images/cookbook/cheese-course-with-maple-pickled-pears.jpg"><img src="/images/cookbook/cheese-course-with-maple-pickled-pears.jpg" alt="Cheese Course with Maple Pickled Pears" /></a>
+<a href="/images/cookbook/cheese-course-with-maple-pickled-pears.webp"><img src="/images/cookbook/cheese-course-with-maple-pickled-pears.webp" alt="Cheese Course with Maple Pickled Pears" /></a>
 
 
 <p>This isn’t so much a recipe as a reminder, that a cheese course can be a fitting end to any meal. The opportunity to linger over small portions of a couple of beautiful cheeses with a thoughtfully made condiment and maybe a glass of port or sherry can feel much more intimate than a sweet dessert.</p>
@@ -30,9 +30,9 @@ recipe:
 <p>These pears, quick-pickled with apple cider vinegar and maple syrup are just one possible accompaniment. Good honey, preferably with pieces of honeycomb, spiced nuts (see the Maple Pudding with Spiced Pecans recipe on ), perfectly ripe fresh figs, or a bit of marmalade are all terrific. Just keep it simple and don’t overpower the cheese.</p>
 
 
-<a href="/images/cookbook/cheese-course-with-maple-pickled-pears-2.jpg"><img src="/images/cookbook/cheese-course-with-maple-pickled-pears-2.jpg" alt="Cheese Course with Maple Pickled Pears" /></a>
+<a href="/images/cookbook/cheese-course-with-maple-pickled-pears-2.webp"><img src="/images/cookbook/cheese-course-with-maple-pickled-pears-2.webp" alt="Cheese Course with Maple Pickled Pears" /></a>
 
-<a href="/images/cookbook/cheese-course-with-maple-pickled-pears-3.jpg"><img src="/images/cookbook/cheese-course-with-maple-pickled-pears-3.jpg" alt="Cheese Course with Maple Pickled Pears" /></a>
+<a href="/images/cookbook/cheese-course-with-maple-pickled-pears-3.webp"><img src="/images/cookbook/cheese-course-with-maple-pickled-pears-3.webp" alt="Cheese Course with Maple Pickled Pears" /></a>
 
 <div class="recipe-card">
 <p><strong>Cheese Course with Maple Pickled Pears</strong>

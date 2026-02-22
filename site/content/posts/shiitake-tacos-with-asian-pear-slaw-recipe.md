@@ -6,7 +6,7 @@ description: "I love to make up taco combinations using a substantial component 
 categories: ["Recipes", "Main Courses", "Vegan or Modifiable", "Gluten-Free"]
 aliases: ["/shiitake-tacos-with-asian-pear-slaw-recipe/", "/2012/01/shiitake-tacos-with-asian-pear-slaw-recipe.html"]
 cover:
-  image: "/images/cookbook/shiitake-tacos-with-asian-pear-slaw.jpg"
+  image: "/images/cookbook/shiitake-tacos-with-asian-pear-slaw.webp"
   hidden: true
 recipe:
   name: "Shiitake Tacos with Asian Pear Slaw"
@@ -35,7 +35,7 @@ recipe:
     - "Put the lime juice in a small bowl. Using a mandoline or a knife, julienne the Asian pear, tossing frequently with the lime juice so that it doesn’t brown. Add the red onion, cilantro and kosher salt."
     - "Wrap the corn tortillas in a lightly moistened towel and microwave until soft and steaming, about 2 minutes. To serve, make 8 stacks of two tortillas each. Top each pair of tortillas with a big spoonful of the shiitakes, and a smaller spoonful of the slaw, and serve immediately."
 ---
-<a href="/images/cookbook/shiitake-tacos-with-asian-pear-slaw.jpg"><img src="/images/cookbook/shiitake-tacos-with-asian-pear-slaw.jpg" alt="Shiitake Tacos with Asian Pear Slaw" /></a>
+<a href="/images/cookbook/shiitake-tacos-with-asian-pear-slaw.webp"><img src="/images/cookbook/shiitake-tacos-with-asian-pear-slaw.webp" alt="Shiitake Tacos with Asian Pear Slaw" /></a>
 
 
 <p>I love to make up taco combinations using a substantial component like shiitake mushrooms, contrasted with a bright fresh slaw. Serve these up with big plates of refried beans, Mexican rice (or the Non-Traditional Arroz Verde on ), and homemade guacamole for a feast that is only a bit more work than ordinary “taco night”, but a lot more interesting.</p>
@@ -44,7 +44,7 @@ recipe:
 <p>You can take this same Asian pear slaw and use it as a condiment for other dishes. Add a little <a href="https://www.amazon.com/dp/B005WXMPMQ?tag=herb-hugo-20">toasted sesame oil</a> if you are using it in an Asian meal.</p>
 
 
-<a href="/images/cookbook/shiitake-tacos-with-asian-pear-slaw-2.jpg"><img src="/images/cookbook/shiitake-tacos-with-asian-pear-slaw-2.jpg" alt="Shiitake Tacos with Asian Pear Slaw" /></a>
+<a href="/images/cookbook/shiitake-tacos-with-asian-pear-slaw-2.webp"><img src="/images/cookbook/shiitake-tacos-with-asian-pear-slaw-2.webp" alt="Shiitake Tacos with Asian Pear Slaw" /></a>
 
 <div class="recipe-card">
 <p><strong>Shiitake Tacos with Asian Pear Slaw</strong>

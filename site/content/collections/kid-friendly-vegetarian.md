@@ -4,7 +4,7 @@ subtitle: "Recipes the whole family will actually eat"
 slug: "kid-friendly-vegetarian"
 description: "Kid-tested vegetarian recipes the whole family will enjoy. From cornbread and pancakes to black bean soup and breakfast tacos — real food, not dumbed down."
 cover:
-  image: "/images/2009/04/Brown-Butter-Cornbread-Skillet1-626x415.jpg"
+  image: "/images/2009/04/Brown-Butter-Cornbread-Skillet1-626x415.webp"
 recipes:
   - "best-cornbread-ever"
   - "austin-style-breakfast-tacos-recipe"

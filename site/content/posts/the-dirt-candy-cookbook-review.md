@@ -5,11 +5,11 @@ slug: "the-dirt-candy-cookbook-review"
 categories: ["Books", "My Kitchen"]
 aliases: ["/the-dirt-candy-cookbook-review/", "/2012/10/the-dirt-candy-cookbook-review.html"]
 cover:
-  image: "/images/2012/10/Dirt-Candy-1.jpg"
+  image: "/images/2012/10/Dirt-Candy-1.webp"
   hidden: true
 ---
 
-<a href="http://www.amazon.com/dp/0307952177/?tag=herb-hugo-20"><img class="alignnone size-full wp-image-3120" title="The Dirt Candy Cookbook" src="/images/2012/10/Dirt-Candy-1.jpg" alt="The Dirt Candy Cookbook" width="599" height="395" /></a>
+<a href="http://www.amazon.com/dp/0307952177/?tag=herb-hugo-20"><img class="alignnone size-full wp-image-3120" title="The Dirt Candy Cookbook" src="/images/2012/10/Dirt-Candy-1.webp" alt="The Dirt Candy Cookbook" width="599" height="395" /></a>
 
 Amanda Cohen is a bad-ass chef. I had the terrific experience of staging (interning) with her for a few days last year. You should <a href="/2011/03/three-days-at-dirt-candy-nyc/">read about that first</a>.
 
@@ -23,4 +23,4 @@ Beyond the recipes, the book offers hilarious tales of the trials and tribulatio
 
 Oh hell, I could go on and on. Let me put it this way. I picked it up, read half of the book the first evening, fell asleep, and finished it the next day. Laughed my butt off on most every page. If you like to cook vegetables and if you dig graphic novels, you need this book. It is probably too edgy for your grandma's Hanukkah present, unless your grandma is a badass. The best way to decide is go use the <a href="http://www.amazon.com/dp/0307952177/?tag=herb-hugo-20">Look Inside on Amazon</a> and see for yourself.
 
-<a href="http://www.amazon.com/dp/0307952177/?tag=herb-hugo-20"><img class="alignnone size-full wp-image-3121" title="The Dirt Candy Cookbook" src="/images/2012/10/Dirt-Candy-2.jpg" alt="The Dirt Candy Cookbook" width="600" height="401" /></a>
+<a href="http://www.amazon.com/dp/0307952177/?tag=herb-hugo-20"><img class="alignnone size-full wp-image-3121" title="The Dirt Candy Cookbook" src="/images/2012/10/Dirt-Candy-2.webp" alt="The Dirt Candy Cookbook" width="600" height="401" /></a>

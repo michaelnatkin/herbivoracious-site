@@ -6,7 +6,7 @@ description: "Recipe for a beautiful vegetarian entree of potato gnocchi with le
 categories: ["Main Courses", "Recipes"]
 aliases: ["/gnocchi-with-radicchio-leeks-and-ricotta-salata-vegetarian-recipe/", "/2011/04/gnocchi-with-radicchio-leeks-and-ricotta-salata-vegetarian-recipe.html"]
 cover:
-  image: "/images/old/6a00e008d618bb8834014e60d72305970c-500wi.jpg"
+  image: "/images/old/6a00e008d618bb8834014e60d72305970c-500wi.webp"
   hidden: true
 recipe:
   name: "Pan-Fried Gnocchi with Radicchio, Leeks and Ricotta Salata"
@@ -36,7 +36,7 @@ recipe:
     - "Divide among the serving plates, garnish with the ricotta salata, and serve immediately."
 ---
 
-<a style="display: inline;" href="/images/old/6a00e008d618bb8834014e60d72305970c-800wi.jpg" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb8834014e60d72305970c" title="Gnocchi with Ricchio, Leeks and Ricotta Salata" src="/images/old/6a00e008d618bb8834014e60d72305970c-500wi.jpg" alt="Gnocchi with Ricchio, Leeks and Ricotta Salata" /></a>
+<a style="display: inline;" href="/images/old/6a00e008d618bb8834014e60d72305970c-800wi.webp" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb8834014e60d72305970c" title="Gnocchi with Ricchio, Leeks and Ricotta Salata" src="/images/old/6a00e008d618bb8834014e60d72305970c-500wi.webp" alt="Gnocchi with Ricchio, Leeks and Ricotta Salata" /></a>
 <em>Pan-Fried Gnocchi with Radicchio, Leeks and Ricotta Salata</em>
 
 When I <a href="/2008/02/what-i-learned/" target="_blank">worked at Cafe Flora</a>, we had gnocchi on the menu for a few months, so I had the opportunity to make, oh, a thousand of them by hand most days. Knocking out a few servings for my family seems like a walk in the park by comparison - and it really is easy once you get the hang of the few simple tips I'll share with you.

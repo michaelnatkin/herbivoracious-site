@@ -5,7 +5,7 @@ slug: "onion-pakora-recipe"
 categories: ["Appetizers", "Gluten-Free or modifiable", "Recipes", "Vegan or Modifiable"]
 aliases: ["/onion-pakora-recipe/", "/2012/10/onion-pakora-recipe.html"]
 cover:
-  image: "/images/2012/12/Onion-Pakora-626x415.jpg"
+  image: "/images/2012/12/Onion-Pakora-626x415.webp"
   hidden: true
 recipe:
   name: "Onion Pakora"
@@ -31,7 +31,7 @@ recipe:
     - "Remove with a slotted spoon or spatula to the paper towels. Season with a few flakes of sea salt. Serve garnished with a few leaves of cilantro and pass tamarind, mint, or other chutney at the table."
 ---
 
-<a href="/images/2012/12/Onion-Pakora.jpg"><img class="alignnone size-large wp-image-2910" title="Onion Pakora" src="/images/2012/12/Onion-Pakora-626x415.jpg" alt="" width="626" height="415" />
+<a href="/images/2012/12/Onion-Pakora.webp"><img class="alignnone size-large wp-image-2910" title="Onion Pakora" src="/images/2012/12/Onion-Pakora-626x415.webp" alt="" width="626" height="415" />
 </a><em>Onion Pakora</em>
 
 Pakora are a classic Indian snack food or appetizer, made by coating just about any vegetable (or sometimes fruit) with a chickpea flour batter and deep frying. They can be made from whole slices of vegetable or smaller pieces spooned together, and the batter can be thick or thin, crispy or puffy. I've seen pakora made with anything from spinach to raw banana, but <strong>my heart will always belong to onion pakora</strong>. I'm an onion ring kinda guy too, and onion pakora basically scratches that same itch.

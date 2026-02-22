@@ -5,7 +5,7 @@ slug: "thai-basil-eggplant-recipe"
 categories: ["Gluten-Free or modifiable", "Main Courses", "Recipes", "Side Dishes", "Vegan or Modifiable"]
 aliases: ["/thai-basil-eggplant-recipe/", "/2012/07/thai-basil-eggplant-recipe.html"]
 cover:
-  image: "/images/2012/06/Thai-Basil-Eggplant-626x415.jpg"
+  image: "/images/2012/06/Thai-Basil-Eggplant-626x415.webp"
   hidden: true
 recipe:
   name: "Thai Basil Eggplant"
@@ -26,7 +26,7 @@ recipe:
     - "Remove the lid and add the mushrooms, onion, chili and Thai basil. Stir fry for about 1 minute until the mushrooms are somewhat tender. Taste and adjust seasoning - it probably needs a bit more salt. Served immediately, garnished with the reserved basil leaves."
 ---
 
-<a href="/images/2012/06/Thai-Basil-Eggplant.jpg"><img class="alignnone size-large wp-image-2328" title="Thai Basil Eggplant" src="/images/2012/06/Thai-Basil-Eggplant-626x415.jpg" alt="Thai Basil Eggplant" width="626" height="415" />
+<a href="/images/2012/06/Thai-Basil-Eggplant.webp"><img class="alignnone size-large wp-image-2328" title="Thai Basil Eggplant" src="/images/2012/06/Thai-Basil-Eggplant-626x415.webp" alt="Thai Basil Eggplant" width="626" height="415" />
 </a><em>Thai Basil Eggplant</em>
 
 The Thai basil situation can be <strong>a bit confusing</strong>. The herb known specifically as Thai basil, which is what I've used in this dish, has purplish stems and green leaves. There is another, significantly different herb called holy basil that is also much loved in Thailand, and it has purple leaves and is incredibly aromatic. Both of these basils are quite different from Italian basil, which I wouldn't use it in this recipe. The thing that is great about Thai basil is that it can stand up to a good amount of cooking, so it can be used almost as a vegetable, not just a garnish (although I do also reserve a few leaves for garnish.)

@@ -6,7 +6,7 @@ description: "Have you ever noticed how mushrooms that are cut thickly and brown
 categories: ["Recipes", "Main Courses", "Vegan or Modifiable", "Gluten-Free"]
 aliases: ["/spanish-lentil-and-mushroom-stew-recipe/", "/2011/10/spanish-lentil-and-mushroom-stew-recipe.html"]
 cover:
-  image: "/images/cookbook/spanish-lentil-and-mushroom-stew.jpg"
+  image: "/images/cookbook/spanish-lentil-and-mushroom-stew.webp"
   hidden: true
 recipe:
   name: "Spanish Lentil and Mushroom Stew"
@@ -30,7 +30,7 @@ recipe:
     - "Toss the cherry tomatoes and basil with 2 teaspoons of olive oil, 2 teaspoonsof sherry vinegar, and ¼ teaspoon Kosher salt."
     - "To serve, divide the lentils into bowls. Top with the mushrooms, and top that with the salad. Give the whole thing a grind of black pepper and optionally another little dusting of smoked paprika."
 ---
-<a href="/images/cookbook/spanish-lentil-and-mushroom-stew.jpg"><img src="/images/cookbook/spanish-lentil-and-mushroom-stew.jpg" alt="Spanish Lentil and Mushroom Stew" /></a>
+<a href="/images/cookbook/spanish-lentil-and-mushroom-stew.webp"><img src="/images/cookbook/spanish-lentil-and-mushroom-stew.webp" alt="Spanish Lentil and Mushroom Stew" /></a>
 
 
 <p>Have you ever noticed how mushrooms that are cut thickly and browned are a completely different experience to eat than when sliced thin and sauteed as normal? Instead of cooking all of the water out of them, the surface simply gets seared and the interior retains a chewy texture. Delicious.</p>
@@ -39,11 +39,11 @@ recipe:
 <p>With a good baguette this would make a nice light and healthy meal, or a smaller portion can be the first course of something more elaborate.</p>
 
 
-<a href="/images/cookbook/spanish-lentil-and-mushroom-stew-2.jpg"><img src="/images/cookbook/spanish-lentil-and-mushroom-stew-2.jpg" alt="Spanish Lentil and Mushroom Stew" /></a>
+<a href="/images/cookbook/spanish-lentil-and-mushroom-stew-2.webp"><img src="/images/cookbook/spanish-lentil-and-mushroom-stew-2.webp" alt="Spanish Lentil and Mushroom Stew" /></a>
 
-<a href="/images/cookbook/spanish-lentil-and-mushroom-stew-3.jpg"><img src="/images/cookbook/spanish-lentil-and-mushroom-stew-3.jpg" alt="Spanish Lentil and Mushroom Stew" /></a>
+<a href="/images/cookbook/spanish-lentil-and-mushroom-stew-3.webp"><img src="/images/cookbook/spanish-lentil-and-mushroom-stew-3.webp" alt="Spanish Lentil and Mushroom Stew" /></a>
 
-<a href="/images/cookbook/spanish-lentil-and-mushroom-stew-4.jpg"><img src="/images/cookbook/spanish-lentil-and-mushroom-stew-4.jpg" alt="Spanish Lentil and Mushroom Stew" /></a>
+<a href="/images/cookbook/spanish-lentil-and-mushroom-stew-4.webp"><img src="/images/cookbook/spanish-lentil-and-mushroom-stew-4.webp" alt="Spanish Lentil and Mushroom Stew" /></a>
 
 <div class="recipe-card">
 <p><strong>Spanish Lentil and Mushroom Stew</strong>

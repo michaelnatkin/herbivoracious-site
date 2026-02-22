@@ -5,7 +5,7 @@ slug: "kala-chana-black-chickpea-curry"
 categories: ["Gluten-Free or modifiable", "Main Courses", "Recipes", "Vegan or Modifiable", "Weblogs"]
 aliases: ["/kala-chana-black-chickpea-curry/", "/2012/01/kala-chana-black-chickpea-curry.html"]
 cover:
-  image: "/images/2012/01/Kala-Chana-624x415.jpg"
+  image: "/images/2012/01/Kala-Chana-624x415.webp"
   hidden: true
 recipe:
   name: "Kala Chana (Black Chickpea Curry)"
@@ -41,7 +41,7 @@ recipe:
     - "Turn off heat, garnish with cilantro, and serve over rice, or with flatbread, parathas, or naan."
 ---
 
-<em><a href="/images/2012/01/Kala-Chana.jpg"><img class="alignnone size-large wp-image-1173" title="Kala Chana" src="/images/2012/01/Kala-Chana-624x415.jpg" alt="Kala Chana (Curried Black Chickpeas)" width="624" height="415" />
+<em><a href="/images/2012/01/Kala-Chana.webp"><img class="alignnone size-large wp-image-1173" title="Kala Chana" src="/images/2012/01/Kala-Chana-624x415.webp" alt="Kala Chana (Curried Black Chickpeas)" width="624" height="415" />
 </a></em><em>Kala Chana (Black Chickpea Curry)</em>
 
 <em>Today's guest post is from my friend Amee of <a href="http://www.rabbitfoodrocks.blogspot.com/" target="_blank">Rabbit Food Rocks</a>. We've been blog buddies for a couple years now. Amee is down in Dallas, Texas. She's Indian and today's recipe is one of those great homestyle Indian dishes that you almost never see in a restaurant, so you have to learn to make it yourself if you want to try it. But Amee's range is global. Check out her <a href="http://www.rabbitfoodrocks.blogspot.com/2011/10/scandinavian-kringler.html" target="_blank">Scandinavian Kringler</a> if your eyes can afford the calories! Take it away, Amee...</em>

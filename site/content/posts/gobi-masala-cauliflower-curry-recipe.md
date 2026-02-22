@@ -6,7 +6,7 @@ description: "Vegetarian, vegan, and gluten-free recipe for Cauliflower Curry (G
 categories: ["Favorites", "Gluten-Free or modifiable", "Main Courses", "Recipes", "Vegan or Modifiable"]
 aliases: ["/gobi-masala-cauliflower-curry-recipe/", "/2011/04/gobi-masala-cauliflower-curry-recipe.html"]
 cover:
-  image: "/images/old/6a00e008d618bb8834014e872bdd62970d-500wi.jpg"
+  image: "/images/old/6a00e008d618bb8834014e872bdd62970d-500wi.webp"
   hidden: true
 recipe:
   name: "Gobi Masala (Cauliflower Curry)"
@@ -33,7 +33,7 @@ recipe:
     - "Stir in the garam masala and taste. Add more salt or spices as needed. Put in serving bowl. (Optional: for extra flavor, fry more mustard seeds and cumin seeds in a little more oil, for about 20 seconds, and drizzle over the finished dish. This is called tempering, and you can play with which spices are used.) Garnish with the cilantro, and serve immediately."
 ---
 
-<a style="display: inline;" href="/images/old/6a00e008d618bb8834014e872bdd62970d-800wi.jpg" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb8834014e872bdd62970d" title="Cauliflower Curry" src="/images/old/6a00e008d618bb8834014e872bdd62970d-500wi.jpg" alt="Cauliflower Curry" /></a>
+<a style="display: inline;" href="/images/old/6a00e008d618bb8834014e872bdd62970d-800wi.webp" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb8834014e872bdd62970d" title="Cauliflower Curry" src="/images/old/6a00e008d618bb8834014e872bdd62970d-500wi.webp" alt="Cauliflower Curry" /></a>
 <em>Cauliflower curry (gobi masala)</em>
 
 Cauliflower curry (gobi masala) is a great Indian dish to have in your back pocket, because once you know the basic method you can knock it out quickly, varying the spicing to suit your mood and your guests. (You shouldn't actually keep it in your back pocket though, the turmeric causes terrible stains.)

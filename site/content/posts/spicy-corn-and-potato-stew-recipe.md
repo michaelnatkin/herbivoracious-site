@@ -6,7 +6,7 @@ description: "If your New England corn chowder packed up and moved to New Mexico
 categories: ["Recipes", "Soups", "Vegan or Modifiable", "Gluten-Free"]
 aliases: ["/spicy-corn-and-potato-stew-recipe/", "/2011/01/spicy-corn-and-potato-stew-recipe.html"]
 cover:
-  image: "/images/cookbook/spicy-corn-and-potato-stew.jpg"
+  image: "/images/cookbook/spicy-corn-and-potato-stew.webp"
   hidden: true
 recipe:
   name: "Spicy Corn and Potato Stew"
@@ -31,7 +31,7 @@ recipe:
     - "Add the corn back to the pot, along with 2 ½ cups of the corncob broth or water. Add more broth if you prefer it a little soupier. Bring to a simmer. Taste and adjust seasonings, adding more salt, chile heat or lime juice if you see fit. Cook for a few more minutes for the flavors to meld and the potatoes to be fully tender but not falling apart."
     - "To finish, divide among 4 bowls and squeeze the remaining lime over them. Garnish with cilantro and serve immediately."
 ---
-<a href="/images/cookbook/spicy-corn-and-potato-stew.jpg"><img src="/images/cookbook/spicy-corn-and-potato-stew.jpg" alt="Spicy Corn and Potato Stew" /></a>
+<a href="/images/cookbook/spicy-corn-and-potato-stew.webp"><img src="/images/cookbook/spicy-corn-and-potato-stew.webp" alt="Spicy Corn and Potato Stew" /></a>
 
 
 <p>If your New England corn chowder packed up and moved to New Mexico, it might turn into this spicy (but not too hot) stew. Plenty of garlic, chili powder, oregano and lime juice make this irresistible.</p>

@@ -5,11 +5,11 @@ slug: "winter-green-du"
 categories: ["Cooking Internship", "Main Courses", "Recipes"]
 aliases: ["/winter-green-du/", "/2007/12/winter-green-du.html"]
 cover:
-  image: "/images/2008-small/01/04/greendumplingsinshiitakebroth_2.jpg"
+  image: "/images/2008-small/01/04/greendumplingsinshiitakebroth_2.webp"
   hidden: true
 ---
 
-<a href="/images/2008/01/04/greendumplingsinshiitakebroth_2.jpg" rel="lightbox"><img title="Greendumplingsinshiitakebroth_2" src="/images/2008-small/01/04/greendumplingsinshiitakebroth_2.jpg" alt="Greendumplingsinshiitakebroth_2" width="455" height="302" border="0" /></a>
+<a href="/images/2008/01/04/greendumplingsinshiitakebroth_2.webp" rel="lightbox"><img title="Greendumplingsinshiitakebroth_2" src="/images/2008-small/01/04/greendumplingsinshiitakebroth_2.webp" alt="Greendumplingsinshiitakebroth_2" width="455" height="302" border="0" /></a>
 <span style="font-size: 0.8em;">Winter Green Dumplings Shiitake Broth</span>
 
 <a href="/cooking-internship/">Cafe Flora</a> changes much of the menu seasonally, and every few months any of the employees can put up a dish for evaluation by the management team. I offered this dumpling entree and it just went on the menu a couple of nights ago. This is my first dish on a restaurant menu, so I have to say I'm pretty excited about it!

@@ -5,11 +5,11 @@ slug: "the-joy-of-a-proper-spatula"
 categories: ["Kitchen Utensils", "My Kitchen"]
 aliases: ["/the-joy-of-a-proper-spatula/", "/2012/08/the-joy-of-a-proper-spatula.html"]
 cover:
-  image: "/images/2012/07/Lamson-Sharp-Slotted-Turner.jpeg"
+  image: "/images/2012/07/Lamson-Sharp-Slotted-Turner.webp"
   hidden: true
 ---
 
-<a href="https://www.amazon.com/dp/B00004WGUM?tag=herb-hugo-20"><img style="border:none !important; " class="alignnone size-full wp-image-2583" title="LamsonSharp Slotted Turner" src="/images/2012/07/Lamson-Sharp-Slotted-Turner.jpeg" alt="LamsonSharp Slotted Turner" width="600" height="181" /></a>
+<a href="https://www.amazon.com/dp/B00004WGUM?tag=herb-hugo-20"><img style="border:none !important; " class="alignnone size-full wp-image-2583" title="LamsonSharp Slotted Turner" src="/images/2012/07/Lamson-Sharp-Slotted-Turner.webp" alt="LamsonSharp Slotted Turner" width="600" height="181" /></a>
 
 Most spatulas suck.
 

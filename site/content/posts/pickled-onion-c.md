@@ -5,7 +5,7 @@ slug: "pickled-onion-c"
 categories: ["Recipes", "Sauces and Condiments"]
 aliases: ["/pickled-onion-c/", "/2008/06/pickled-onion-c.html"]
 cover:
-  image: "/images/2008-small/06/02/tacowithpickledonions.jpg"
+  image: "/images/2008-small/06/02/tacowithpickledonions.webp"
   hidden: true
 recipe:
   name: "Pickled Onions"
@@ -23,14 +23,14 @@ recipe:
     - "Refrigerate. I don't know officially how long they are safe to keep but I use them for at least a few days."
 ---
 
-<a href="/images/2008/06/02/tacowithpickledonions.jpg" rel="lightbox"><img title="Adobo Tofu Taco with Pickled Onions" src="/images/2008-small/06/02/tacowithpickledonions.jpg" alt="Adobo Tofu Taco with Pickled Onions" width="455" height="302" border="0" /></a>
+<a href="/images/2008/06/02/tacowithpickledonions.webp" rel="lightbox"><img title="Adobo Tofu Taco with Pickled Onions" src="/images/2008-small/06/02/tacowithpickledonions.webp" alt="Adobo Tofu Taco with Pickled Onions" width="455" height="302" border="0" /></a>
 <span style="font-size: 0.8em;">Adobo Tofu Taco with Pickled Onions</span>
 
 Pickled onions are one of my favorite condiments. I do this almost automatically if I find myself with half of an onion left on my cutting board from some other dish. It takes all of two minutes and then you have this little jar of tastiness waiting in your fridge for a few days.
 
 What do I do with these allegedly delicious alliums? The possibilities are numerous. They pair well whenever you have something creamy or fatty that wants a vinegary, pungent counterpoint. Almost any sandwich with a cheese component will benefit. Tacos are greatly elevated. You can even toss them with some thinly sliced cucumber or cabbage for a quick salad.
 
-<a href="/images/2008/06/02/bagelwithpickledonions.jpg" rel="lightbox"><img title="Bagel and Cream Cheese with Pickled Onions" src="/images/2008-small/06/02/bagelwithpickledonions.jpg" alt="Bagel and Cream Cheese with Pickled Onions" width="455" height="302" border="0" /></a>
+<a href="/images/2008/06/02/bagelwithpickledonions.webp" rel="lightbox"><img title="Bagel and Cream Cheese with Pickled Onions" src="/images/2008-small/06/02/bagelwithpickledonions.webp" alt="Bagel and Cream Cheese with Pickled Onions" width="455" height="302" border="0" /></a>
 <span style="font-size: 0.8em;">Bagel and Cream Cheese with Pickled Onions</span>
 
 I like to add a little bit of seasoning in with the onions depending on my mood. My most recent batch had a 1/2 t. of <a type="amzn">fennel pollen</a> in it which is amazing.

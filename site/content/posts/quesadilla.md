@@ -5,7 +5,7 @@ slug: "quesadilla"
 categories: ["Appetizers", "Gluten-Free or modifiable", "Kid Friendly", "Recipes"]
 aliases: ["/quesadilla/", "/2008/07/quesadilla.html"]
 cover:
-  image: "/images/2008-small/07/29/quesadillacrispy.jpg"
+  image: "/images/2008-small/07/29/quesadillacrispy.webp"
   hidden: true
 recipe:
   name: "Crispy Quesadilla with Pecorino and Garlic & Onion Jam"
@@ -30,7 +30,7 @@ recipe:
     - "When the quesadilla is done on both side, remove it to a cutting board and carefully cut it into quarters with decisive presses of a sharp knive. Place on plate, sprinkle with a bit of salt, dust the plate with the smoked paprika, add a dollop of the goat cheese sauce and munch intently."
 ---
 
-<a href="/images/2008/07/29/quesadillacrispy.jpg" rel="lightbox"><img title="Crispy Quesadilla with Pecorino and Onion &amp; Garlic Jam" src="/images/2008-small/07/29/quesadillacrispy.jpg" alt="Crispy Quesadilla with Pecorino and Onion &amp; Garlic Jam" width="455" height="302" border="0" /></a>
+<a href="/images/2008/07/29/quesadillacrispy.webp" rel="lightbox"><img title="Crispy Quesadilla with Pecorino and Onion &amp; Garlic Jam" src="/images/2008-small/07/29/quesadillacrispy.webp" alt="Crispy Quesadilla with Pecorino and Onion &amp; Garlic Jam" width="455" height="302" border="0" /></a>
 <span style="font-size: 0.8em;">Crispy Quesadilla with Pecorino and Onion &amp; Garlic Jam</span>
 
 Pretty much everyone loves a quesadilla. Whether you are feeding a 3-year old with mild Monterey jack, or a sophisticated foodie with taleggio and grilled figs, a tortilla and melted cheese is quick to make and irresistible. Let me tell you about a simple trick which will take your quesadillas from tasty but floppy to crispy and delicious.

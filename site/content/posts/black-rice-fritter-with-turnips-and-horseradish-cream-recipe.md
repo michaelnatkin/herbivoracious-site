@@ -5,7 +5,7 @@ slug: "black-rice-fritter-with-turnips-and-horseradish-cream-recipe"
 categories: ["Gluten-Free or modifiable", "Main Courses", "Recipes"]
 aliases: ["/black-rice-fritter-with-turnips-and-horseradish-cream-recipe/", "/2012/10/black-rice-fritter-with-turnips-and-horseradish-cream-recipe.html"]
 cover:
-  image: "/images/2012/10/Black-Rice-Cakes-with-Roasted-Turnips-and-Horseradish-Cream-626x415.jpg"
+  image: "/images/2012/10/Black-Rice-Cakes-with-Roasted-Turnips-and-Horseradish-Cream-626x415.webp"
   hidden: true
 recipe:
   name: "Black Rice Fritters with Roasted Turnips and Horseradish Cream"
@@ -19,7 +19,7 @@ recipe:
     - "Bring all ingredients to a simmer in a small saucepan. Cook until the cream reaches a saucy consistency; it should coat the back of a spoon and you should be able to drag your finger through that coating and leave a clean line. Taste and adjust seasoning, adding more horseradish or salt if needed. Strain and reserve."
 ---
 
-<img class="alignnone size-large wp-image-2887" title="Black Rice Cakes with Roasted Turnips and Horseradish Cream" src="/images/2012/10/Black-Rice-Cakes-with-Roasted-Turnips-and-Horseradish-Cream-626x415.jpg" alt="Black Rice Cakes with Roasted Turnips and Horseradish Cream" width="626" height="415" />
+<img class="alignnone size-large wp-image-2887" title="Black Rice Cakes with Roasted Turnips and Horseradish Cream" src="/images/2012/10/Black-Rice-Cakes-with-Roasted-Turnips-and-Horseradish-Cream-626x415.webp" alt="Black Rice Cakes with Roasted Turnips and Horseradish Cream" width="626" height="415" />
 <em>Black Rice Fritters with Roasted Turnips and Horseradish Cream</em>
 
 Although <a href="https://www.amazon.com/dp/B01NAGDHZR?tag=herb-hugo-20">black rice</a> is an Asian ingredient, I think it reminded me in <strong>some oblique way of pumpernickel</strong>, which inspired me to deploy a favorite set of Eastern European flavors: caraway, horseradish, mustard. Those are a natural fit with the baby turnips I'd brought home from the farmer's market.

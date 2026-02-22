@@ -5,11 +5,11 @@ slug: "recipe-chewy-oa"
 categories: ["Baking", "Desserts", "Kid Friendly"]
 aliases: ["/recipe-chewy-oa/", "/2008/06/recipe-chewy-oa.html"]
 cover:
-  image: "/images/2008-small/06/07/chewyoatmealchocolatechipcookies2.jpg"
+  image: "/images/2008-small/06/07/chewyoatmealchocolatechipcookies2.webp"
   hidden: true
 ---
 
-<a href="/images/2008/06/07/chewyoatmealchocolatechipcookies2.jpg" rel="lightbox"><img title="Chewyoatmealchocolatechipcookies2" alt="Chewyoatmealchocolatechipcookies2" src="/images/2008-small/06/07/chewyoatmealchocolatechipcookies2.jpg" width="455" height="302" border="0" /></a>
+<a href="/images/2008/06/07/chewyoatmealchocolatechipcookies2.webp" rel="lightbox"><img title="Chewyoatmealchocolatechipcookies2" alt="Chewyoatmealchocolatechipcookies2" src="/images/2008-small/06/07/chewyoatmealchocolatechipcookies2.webp" width="455" height="302" border="0" /></a>
 <span style="font-size: 0.8em;">Oatmeal-Chocolate Chip Cookies</span>
 
 Sometimes in life you just want a big, warm plate of chocolate-chip cookies, and sometimes you want oatmeal chocolate-chip. At least that's what Sarina and her Mom tell me :).

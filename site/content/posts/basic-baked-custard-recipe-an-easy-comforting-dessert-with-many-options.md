@@ -5,7 +5,7 @@ slug: "basic-baked-custard-recipe-an-easy-comforting-dessert-with-many-options"
 categories: ["Desserts", "Gluten-Free or modifiable", "Recipes"]
 aliases: ["/basic-baked-custard-recipe-an-easy-comforting-dessert-with-many-options/", "/2012/07/basic-baked-custard-recipe-an-easy-comforting-dessert-with-many-options.html"]
 cover:
-  image: "/images/2012/07/Basic-Baked-Custard-626x415.jpg"
+  image: "/images/2012/07/Basic-Baked-Custard-626x415.webp"
   hidden: true
 recipe:
   name: "Basic Baked Custard Recipe"
@@ -26,7 +26,7 @@ recipe:
     - "Bake until just barely set, about 20 minutes. A toothpick should come out nearly clean, but there should still be a visible jiggle if you move the pan. Err on the side of undercooking them. Remove the ramekins carefully to a cooling rack. I usually do this using tongs, but you have to be careful not to drop one back in the pan of hot water and splash yourself!"
 ---
 
-<a href="/images/2012/07/Basic-Baked-Custard.jpg"><img class="alignnone size-large wp-image-2408" title="Basic Baked Custard" src="/images/2012/07/Basic-Baked-Custard-626x415.jpg" alt="Basic Baked Custard" width="626" height="415" />
+<a href="/images/2012/07/Basic-Baked-Custard.webp"><img class="alignnone size-large wp-image-2408" title="Basic Baked Custard" src="/images/2012/07/Basic-Baked-Custard-626x415.webp" alt="Basic Baked Custard" width="626" height="415" />
 </a><em>Basic Baked Custard Recipe - An Easy, Comforting Dessert with Many Options</em>
 
 A simple custard, baked in ramekins, is one of those recipes that <strong>every cook should have in their arsenal</strong>. It isn't at all hard to make, but there are a few ways you can go wrong that leave you with grainy bowls of scrambled eggs instead of the silky-smooth result you are looking for. Follow the method below and you'll feel like a custard master in no time.

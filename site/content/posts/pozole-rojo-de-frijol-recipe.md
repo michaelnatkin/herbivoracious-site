@@ -6,7 +6,7 @@ description: "Pozole is a soup or thin stew made all over Mexico, dating back to
 categories: ["Recipes", "Soups"]
 aliases: ["/pozole-rojo-de-frijol-recipe/", "/2011/01/pozole-rojo-de-frijol-recipe.html"]
 cover:
-  image: "/images/cookbook/pozole-rojo-de-frijol.jpg"
+  image: "/images/cookbook/pozole-rojo-de-frijol.webp"
   hidden: true
 recipe:
   name: "Pozole Rojo de Frijol"
@@ -31,7 +31,7 @@ recipe:
     - "Add half of the pureed chiles and all of the lime juice and stir. Taste and adjust seasoning, adding salt and more lime juice or tomatoes as needed to produce a piquant broth. Add more of the chile paste to reach your preferred heat level and pass the rest as a condiment."
     - "Serve it forth, with a good selection of garnishes."
 ---
-<a href="/images/cookbook/pozole-rojo-de-frijol.jpg"><img src="/images/cookbook/pozole-rojo-de-frijol.jpg" alt="Pozole Rojo de Frijol" /></a>
+<a href="/images/cookbook/pozole-rojo-de-frijol.webp"><img src="/images/cookbook/pozole-rojo-de-frijol.webp" alt="Pozole Rojo de Frijol" /></a>
 
 
 <p>Pozole is a soup or thin stew made all over Mexico, dating back to pre-Columbian times. Vegetarian pozole is almost a non-sequitur, because the original is heavy on the pig, but this version is delicious and filling so I don't think you will miss the meat. It makes a terrific one-pot meal on a cold day. The broth is mildly spicy and sour, which whets your appetite for the hearty beans and hominy corn.</p>
@@ -40,9 +40,9 @@ recipe:
 <p>The recipe below calls for canned hominy and beans for simplicity. Made this way, it can even be a weeknight supper. If you want a more leisurely and even better soup, you can cook them both from scratch. Hominy corn is available dried, in which case you would soak it overnight and boil it for several hours, very much like with dried beans.</p>
 
 
-<a href="/images/cookbook/pozole-rojo-de-frijol-2.jpg"><img src="/images/cookbook/pozole-rojo-de-frijol-2.jpg" alt="Pozole Rojo de Frijol" /></a>
+<a href="/images/cookbook/pozole-rojo-de-frijol-2.webp"><img src="/images/cookbook/pozole-rojo-de-frijol-2.webp" alt="Pozole Rojo de Frijol" /></a>
 
-<a href="/images/cookbook/pozole-rojo-de-frijol-3.jpg"><img src="/images/cookbook/pozole-rojo-de-frijol-3.jpg" alt="Pozole Rojo de Frijol" /></a>
+<a href="/images/cookbook/pozole-rojo-de-frijol-3.webp"><img src="/images/cookbook/pozole-rojo-de-frijol-3.webp" alt="Pozole Rojo de Frijol" /></a>
 
 <div class="recipe-card">
 <p><strong>Pozole Rojo de Frijol</strong>

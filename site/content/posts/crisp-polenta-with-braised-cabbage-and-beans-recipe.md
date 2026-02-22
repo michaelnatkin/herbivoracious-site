@@ -6,7 +6,7 @@ description: "Recipe for a vegetarian Italo-Austrian style entree of crispy pole
 categories: ["Main Courses", "Recipes"]
 aliases: ["/crisp-polenta-with-braised-cabbage-and-beans-recipe/", "/2010/06/crisp-polenta-with-braised-cabbage-and-beans-recipe.html"]
 cover:
-  image: "/images/old/6a00e008d618bb88340134828a761a970c-500wi.jpg"
+  image: "/images/old/6a00e008d618bb88340134828a761a970c-500wi.webp"
   hidden: true
 recipe:
   name: "Crisp Polenta Cakes with Braised Cabbage"
@@ -33,7 +33,7 @@ recipe:
     - "To serve, drizzle the sauce over the cabbage, allowing it to coat the plate as well. Spoon a few of the heated beans into the cabbage and sauce. Top the cabbage with two piping hot, crispy polenta cakes, and garnish with fennel fronds or other herbs."
 ---
 
-<a style="display: inline;" href="/images/old/6a00e008d618bb88340134828a761a970c-800wi.jpg" rel="lightbox"><img class="asset asset-image at-xid-6a00e008d618bb88340134828a761a970c " src="/images/old/6a00e008d618bb88340134828a761a970c-500wi.jpg" alt="Crispy_Polenta_Cabbage_Beans" /></a>
+<a style="display: inline;" href="/images/old/6a00e008d618bb88340134828a761a970c-800wi.webp" rel="lightbox"><img class="asset asset-image at-xid-6a00e008d618bb88340134828a761a970c " src="/images/old/6a00e008d618bb88340134828a761a970c-500wi.webp" alt="Crispy_Polenta_Cabbage_Beans" /></a>
 <em>Crisp Polenta with Braised Cabbage and Beans</em>
 
 Cabbage doesn't get enough respect in America. True, if it is boiled to death, it produces some of the worst sulfurous smells imaginable. I lived upstairs from the <strong>craziest, meanest, nicest old woman in Milwaukee</strong> (RIP, Angie!), and you could tell when she was cooking cabbage from a mile away. But <em>slowly</em> braised with a little acid and it becomes superbly flavorful and tender.

@@ -5,7 +5,7 @@ slug: "crepes-with-roasted-french-plums-yogurt-and-honey"
 categories: ["Books", "Breakfast", "Desserts", "Recipes"]
 aliases: ["/crepes-with-roasted-french-plums-yogurt-and-honey/", "/2012/08/crepes-with-roasted-french-plums-yogurt-and-honey.html"]
 cover:
-  image: "/images/2012/08/Crepes-with-Sage-Roasted-Plums-and-Yogurt-626x415.jpg"
+  image: "/images/2012/08/Crepes-with-Sage-Roasted-Plums-and-Yogurt-626x415.webp"
   hidden: true
 recipe:
   name: "Julia Child's Crepe Recipe"
@@ -23,7 +23,7 @@ recipe:
     - "Cook until lightly browned on one side, about 1 minute or a bit more, then flip and cook for just about 30 seconds on the other side. I usually perform the flip by lifting the edge with a silicone spatula and then using my fingers to rapidly turn it over. I have asbestos fingers though, so only try it this way if you feel comfortable that you won't hurt yoursellf. Otherwise, try using two spatulas."
 ---
 
-<a href="/images/2012/08/Crepes-with-Sage-Roasted-Plums-and-Yogurt.jpg"><img class="alignnone size-large wp-image-2598" title="Crepes with Sage Roasted Plums and Yogurt" src="/images/2012/08/Crepes-with-Sage-Roasted-Plums-and-Yogurt-626x415.jpg" alt="Crepes with Sage Roasted Plums and Yogurt" width="626" height="415" />
+<a href="/images/2012/08/Crepes-with-Sage-Roasted-Plums-and-Yogurt.webp"><img class="alignnone size-large wp-image-2598" title="Crepes with Sage Roasted Plums and Yogurt" src="/images/2012/08/Crepes-with-Sage-Roasted-Plums-and-Yogurt-626x415.webp" alt="Crepes with Sage Roasted Plums and Yogurt" width="626" height="415" />
 </a><em>Crepes with Roasted French Plums, Yogurt and Honey</em>
 
 Julia Child's 100th birthday is coming up on 8/15/12, and PBS has been doing this very fun <a href="http://www.pbs.org/food/julia-child-100-birthday/" target="_blank">#cookforjulia</a> event to commemorate her. When they asked me to contribute a recipe, I knew right away that I wanted to do something with crepes. Julia and I go back a long way. I only have two <strong>cookbooks from my Mom</strong>. <a href="http://www.amazon.com/dp/0375413405/?tag=poeticlicen07-20" target="_blank">Mastering the Art of French Cooking, Volume 1</a> is one of them, and the other is an enormous Chinese cookbook that I've never found very usable.
@@ -34,7 +34,7 @@ Of all the recipes in the book, I come back to the crepes most often. It is a si
 
 Once you know how to make a basic crepe, there are no end of things you can do with them, from today's recipe with roasted plums, yogurt and honey to my Valentine's day standby <a href="/2008/02/recipe-valentin/" target="_blank">with chocolate ganache and raspberry compote</a> or the terror-inducing <a href="/2009/12/gateaux-de-crepes-recipe/" target="_blank">Gâteau de Crêpes</a>. Crepes can be used for savory dishes as well, but for that I prefer the style made in Brittany with buckwheat flour. A topic for another day!
 
-<a href="/images/2012/08/IMG_2426.jpg"><img class="alignright size-medium wp-image-2621" title="IMG_2426" src="/images/2012/08/IMG_2426-353x265.jpg" alt="" width="353" height="265" /></a>For cooking crepes you want a seriously non-stick pan. If you've got a well-seasoned cast-iron skillet or omelet pan with sloped sides that give you access to the crepe, that is all to the good. If not, I've been using this <a href="http://www.amazon.com/dp/B0000936JK/?tag=poeticlicen07-20" target="_blank">Calphalon 12-inch non-stick omelet pan</a> with great success. Just don't use metal tools in it. (Disclaimer: Calphalon gave me this pan at <a href="http://eatwriteretreat.com/" target="_blank">Eat, Write, Retreat</a> - and  I liked it enough to haul it around in my suitcase for the rest of my book tour. Yes, I could have shipped it.)
+<a href="/images/2012/08/IMG_2426.webp"><img class="alignright size-medium wp-image-2621" title="IMG_2426" src="/images/2012/08/IMG_2426-353x265.webp" alt="" width="353" height="265" /></a>For cooking crepes you want a seriously non-stick pan. If you've got a well-seasoned cast-iron skillet or omelet pan with sloped sides that give you access to the crepe, that is all to the good. If not, I've been using this <a href="http://www.amazon.com/dp/B0000936JK/?tag=poeticlicen07-20" target="_blank">Calphalon 12-inch non-stick omelet pan</a> with great success. Just don't use metal tools in it. (Disclaimer: Calphalon gave me this pan at <a href="http://eatwriteretreat.com/" target="_blank">Eat, Write, Retreat</a> - and  I liked it enough to haul it around in my suitcase for the rest of my book tour. Yes, I could have shipped it.)
 
 The plums I used are from my neighbor's tree. They are a French variety whose name escapes me right now. Italian plums would be just as good. What you want is one of the varieties that has a loose (free) pit and is rather dense so that it can cook without the juices running everywhere.
 

@@ -6,7 +6,7 @@ description: "Have you ever wondered what the difference between crostini and br
 categories: ["Recipes", "Appetizers", "Vegan or Modifiable"]
 aliases: ["/tomato-confit-and-roasted-garlic-bruschetta-recipe/", "/2011/05/tomato-confit-and-roasted-garlic-bruschetta-recipe.html"]
 cover:
-  image: "/images/cookbook/tomato-confit-and-roasted-garlic-bruschetta.jpg"
+  image: "/images/cookbook/tomato-confit-and-roasted-garlic-bruschetta.webp"
   hidden: true
 recipe:
   name: "Tomato Confit and Roasted Garlic Bruschetta"
@@ -25,7 +25,7 @@ recipe:
     - "Heat a grill or a grill pan to medium high (or use a toaster oven as a last resort). Brush the bread generously on one side with extra-virgin olive oil. Toast until well browned and nice grill marks have formed."
     - "Divide the topping among the four pieces of bread, season with a few flakes of sea salt and serve immediately."
 ---
-<a href="/images/cookbook/tomato-confit-and-roasted-garlic-bruschetta.jpg"><img src="/images/cookbook/tomato-confit-and-roasted-garlic-bruschetta.jpg" alt="Tomato Confit and Roasted Garlic Bruschetta" /></a>
+<a href="/images/cookbook/tomato-confit-and-roasted-garlic-bruschetta.webp"><img src="/images/cookbook/tomato-confit-and-roasted-garlic-bruschetta.webp" alt="Tomato Confit and Roasted Garlic Bruschetta" /></a>
 
 
 <p>Have you ever wondered what the difference between crostini and bruschetta is? A crostini is generally a hard, crispy toast, while bruschetta is rustic bread that has been brushed with olive oil and grilled.</p>
@@ -33,7 +33,7 @@ recipe:
 <p>The mint adds an unexpected twist to this topping, but feel free to switch it to oregano, basil, or parsley if you prefer. A few chopped black olives can be added as well.</p>
 
 
-<a href="/images/cookbook/tomato-confit-and-roasted-garlic-bruschetta-2.jpg"><img src="/images/cookbook/tomato-confit-and-roasted-garlic-bruschetta-2.jpg" alt="Tomato Confit and Roasted Garlic Bruschetta" /></a>
+<a href="/images/cookbook/tomato-confit-and-roasted-garlic-bruschetta-2.webp"><img src="/images/cookbook/tomato-confit-and-roasted-garlic-bruschetta-2.webp" alt="Tomato Confit and Roasted Garlic Bruschetta" /></a>
 
 <div class="recipe-card">
 <p><strong>Tomato Confit and Roasted Garlic Bruschetta</strong>

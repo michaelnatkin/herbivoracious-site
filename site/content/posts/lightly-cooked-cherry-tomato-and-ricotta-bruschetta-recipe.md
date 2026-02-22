@@ -6,7 +6,7 @@ description: "Recipe for a delicious bruschetta with fresh ricotta and lightly c
 categories: ["Appetizers", "Recipes"]
 aliases: ["/lightly-cooked-cherry-tomato-and-ricotta-bruschetta-recipe/", "/2011/08/lightly-cooked-cherry-tomato-and-ricotta-bruschetta-recipe.html"]
 cover:
-  image: "/images/old/6a00e008d618bb8834014e8af4b190970d-500wi.jpg"
+  image: "/images/old/6a00e008d618bb8834014e8af4b190970d-500wi.webp"
   hidden: true
 recipe:
   name: "Lightly Cooked Cherry Tomato and Ricotta Bruschetta"
@@ -27,7 +27,7 @@ recipe:
     - "To finish the bruschetta, spread each slice of bread with 1/4 of the ricotta and 1/4 of the cherry tomato mixture, a drizzle of olive oil if you are so inclined, a bit of the basil, a few flakes of salt, and a few grinds of pepper. Cut each piece in half and serve immediately."
 ---
 
-<a style="display: inline;" href="/images/old/6a00e008d618bb8834014e8af4b190970d-800wi.jpg" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb8834014e8af4b190970d" title="Lightly Cooked Cherry Tomato Bruschetta" src="/images/old/6a00e008d618bb8834014e8af4b190970d-500wi.jpg" alt="Lightly Cooked Cherry Tomato Bruschetta" /></a>
+<a style="display: inline;" href="/images/old/6a00e008d618bb8834014e8af4b190970d-800wi.webp" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb8834014e8af4b190970d" title="Lightly Cooked Cherry Tomato Bruschetta" src="/images/old/6a00e008d618bb8834014e8af4b190970d-500wi.webp" alt="Lightly Cooked Cherry Tomato Bruschetta" /></a>
 <em>Lightly Cooked Cherry Tomato and Ricotta Bruschetta</em>
 
 This bruschetta is the <strong>epitome of carefree cooking</strong>, made almost entirely by gathering good ingredients. Ripe, organic cherry tomatoes (maybe from your backyard?), ricotta (<a href="/2008/04/calabro-the-b/" target="_blank">Calabro?</a>), a bit of good olive oil, garlic and fresh basil. A nice artisan pain au levain brings chew and flavor to the party.

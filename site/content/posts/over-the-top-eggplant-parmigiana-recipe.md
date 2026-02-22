@@ -6,7 +6,7 @@ description: "An indulgent vegetarian eggplant parmigiana with San Marzano tomat
 categories: ["Recipes", "Main Courses"]
 aliases: ["/over-the-top-eggplant-parmigiana-recipe/", "/2011/09/over-the-top-eggplant-parmigiana-recipe.html"]
 cover:
-  image: "/images/cookbook/over-the-top-eggplant-parmigiana.jpg"
+  image: "/images/cookbook/over-the-top-eggplant-parmigiana.webp"
   hidden: true
 recipe:
   name: "Over the Top Eggplant Parmigiana"
@@ -34,14 +34,14 @@ recipe:
     - "Bake in the oven for about 20 minutes, until the cheese it thoroughly melted."
     - "To serve, toss the heirloom tomatoes with the remaining basil. Put an eggplant stack on each plate, and top with 1/4 cup of the heirloom tomato mixture and a grind of fresh black pepper."
 ---
-<a href="/images/cookbook/over-the-top-eggplant-parmigiana.jpg"><img src="/images/cookbook/over-the-top-eggplant-parmigiana.jpg" alt="Over the Top Eggplant Parmigiana" /></a>
+<a href="/images/cookbook/over-the-top-eggplant-parmigiana.webp"><img src="/images/cookbook/over-the-top-eggplant-parmigiana.webp" alt="Over the Top Eggplant Parmigiana" /></a>
 
 
 
 
-<a href="/images/cookbook/over-the-top-eggplant-parmigiana-2.jpg"><img src="/images/cookbook/over-the-top-eggplant-parmigiana-2.jpg" alt="Over the Top Eggplant Parmigiana" /></a>
+<a href="/images/cookbook/over-the-top-eggplant-parmigiana-2.webp"><img src="/images/cookbook/over-the-top-eggplant-parmigiana-2.webp" alt="Over the Top Eggplant Parmigiana" /></a>
 
-<a href="/images/cookbook/over-the-top-eggplant-parmigiana-3.jpg"><img src="/images/cookbook/over-the-top-eggplant-parmigiana-3.jpg" alt="Over the Top Eggplant Parmigiana" /></a>
+<a href="/images/cookbook/over-the-top-eggplant-parmigiana-3.webp"><img src="/images/cookbook/over-the-top-eggplant-parmigiana-3.webp" alt="Over the Top Eggplant Parmigiana" /></a>
 
 <div class="recipe-card">
 <p><strong>Over the Top Eggplant Parmigiana</strong>

@@ -5,7 +5,7 @@ slug: "chilaquiles-verde-mexican-scrambled-eggs-with-corn-tortillas-and-green-sa
 categories: ["Breakfast", "Gluten-Free or modifiable", "Recipes"]
 aliases: ["/chilaquiles-verde-mexican-scrambled-eggs-with-corn-tortillas-and-green-salsa-recipe/", "/2012/05/chilaquiles-verde-mexican-scrambled-eggs-with-corn-tortillas-and-green-salsa-recipe.html"]
 cover:
-  image: "/images/2012/05/Chilaquiles-626x415.jpg"
+  image: "/images/2012/05/Chilaquiles-626x415.webp"
   hidden: true
 recipe:
   name: "Chilaquiles Verdes - Mexican Scrambled Eggs with Corn Tortillas and Green Salsa"
@@ -27,7 +27,7 @@ recipe:
     - "Put about 1/4 cup of the heated salsa in each bowl. Spoon in half of the egg and tortilla mixture. Pour the remaining salsa over the eggs. Sprinkle on a bit more salt. Add the reserved fried tortillas on top, and finish with some or all of the suggested garnishes (or offer them at the table.)"
 ---
 
-<a href="/images/2012/05/Chilaquiles.jpg"><img class="alignnone size-large wp-image-1936" title="Chilaquiles Verdes" src="/images/2012/05/Chilaquiles-626x415.jpg" alt="Chilaquiles Verdes" width="626" height="415" />
+<a href="/images/2012/05/Chilaquiles.webp"><img class="alignnone size-large wp-image-1936" title="Chilaquiles Verdes" src="/images/2012/05/Chilaquiles-626x415.webp" alt="Chilaquiles Verdes" width="626" height="415" />
 </a><em>Chilaquiles Verdes</em>
 
 First: You didn't forget to enter the contest for a <a href="/2012/05/cook-from-the-book-and-win-a-huge-calphalon-set-contest/" target="_blank">full set of Calphalon pots and pans</a>, did you? You have until 12:01 AM PDT on Monday the 4th.

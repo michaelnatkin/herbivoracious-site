@@ -5,7 +5,7 @@ slug: "make-sparkling-water-seltzer-soda-at-home-with-sodaclub-save-money-and-he
 categories: ["My Kitchen", "Small Appliances"]
 aliases: ["/make-sparkling-water-seltzer-soda-at-home-with-sodaclub-save-money-and-help-the-environment/", "/2009/04/make-sparkling-water-seltzer-soda-at-home-with-sodaclub-save-money-and-help-the-environment.html"]
 cover:
-  image: "/images/old/6a00e008d618bb883401157052d04d970b-200wi.jpg"
+  image: "/images/old/6a00e008d618bb883401157052d04d970b-200wi.webp"
   hidden: true
 ---
 
@@ -13,7 +13,7 @@ cover:
 
 I'm completely addicted to sparkling water, and so is my whole family. We go through quarts of the bubbly stuff every day, and believe me it was getting expensive! Even when we stepped down from imported to store brands, we were easily spending $30 per month, not to mention lugging it home from the grocery store.
 
-<a style="float: right;" href="/images/old/6a00e008d618bb883401157052d04d970b-800wi.jpg" rel="lightbox"><img class="at-xid-6a00e008d618bb883401157052d04d970b " style="margin: 0px 0px 5px 5px; width: 200px;" src="/images/old/6a00e008d618bb883401157052d04d970b-200wi.jpg" alt="Soda-Club-1" /></a> So last summer I learned about <a href="https://www.amazon.com/dp/B0BWK6XK7G?tag=herb-hugo-20">SodaStream</a>, and we had to give it a try. Bottom line: I've never been happier with a product I've bought for the house. Check out the video above - the machine is incredibly easy to use. You just fill up one of the included, reusable quart bottles with water, screw it into the machine, and depress a button a few times to release the CO2. In a few seconds you have a quart of delicious, refreshing sparkling water. By pumping more or less you can adjust the carbonation level to your own preference.
+<a style="float: right;" href="/images/old/6a00e008d618bb883401157052d04d970b-800wi.webp" rel="lightbox"><img class="at-xid-6a00e008d618bb883401157052d04d970b " style="margin: 0px 0px 5px 5px; width: 200px;" src="/images/old/6a00e008d618bb883401157052d04d970b-200wi.webp" alt="Soda-Club-1" /></a> So last summer I learned about <a href="https://www.amazon.com/dp/B0BWK6XK7G?tag=herb-hugo-20">SodaStream</a>, and we had to give it a try. Bottom line: I've never been happier with a product I've bought for the house. Check out the video above - the machine is incredibly easy to use. You just fill up one of the included, reusable quart bottles with water, screw it into the machine, and depress a button a few times to release the CO2. In a few seconds you have a quart of delicious, refreshing sparkling water. By pumping more or less you can adjust the carbonation level to your own preference.
 
 Ok, I can't help it, I'm just in love with this thing. It makes a terrific gift, by the way!
 

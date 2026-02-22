@@ -6,7 +6,7 @@ description: "Sable doughs are a bit like shortbread, but with granulated sugar 
 categories: ["Recipes", "Desserts"]
 aliases: ["/sesame-orange-sable-cookies-recipe/", "/2012/11/sesame-orange-sable-cookies-recipe.html"]
 cover:
-  image: "/images/cookbook/sesame-orange-sable-cookies.jpg"
+  image: "/images/cookbook/sesame-orange-sable-cookies.webp"
   hidden: true
 recipe:
   name: "Sesame-Orange Sable Cookies"
@@ -26,7 +26,7 @@ recipe:
     - "Turn the dough out onto a light floured board and knead for a moment to form a cohesive ball. Divide into two pieces. Roll each piece into a cylinder about 8“ long. Be sure the dough is sticking together well; if not, roll it a bit more firmly. Wrap the cylinders tightly in plastic wrap, firmly roll on the counter a couple of times, and refrigerate for at least 3 hours or overnight."
     - "Preheat the oven to 375 and line two baking sheets with parchment or silicone mats. Unwrap the dough. Using a sharp knife, slice each cylinder into generous ¼” cookies. Place the cookies on the baking sheets, leaving 1” between each cookie. Bake for 14-16 minutes until golden brown. Remove to a rack, cool, and serve."
 ---
-<a href="/images/cookbook/sesame-orange-sable-cookies.jpg"><img src="/images/cookbook/sesame-orange-sable-cookies.jpg" alt="Sesame-Orange Sable Cookies" /></a>
+<a href="/images/cookbook/sesame-orange-sable-cookies.webp"><img src="/images/cookbook/sesame-orange-sable-cookies.webp" alt="Sesame-Orange Sable Cookies" /></a>
 
 
 <p>Sable doughs are a bit like shortbread, but with granulated sugar providing a delightfully sandy texture. They can be flavored with anything from chocolate to matcha tea with good results. My version incorporates enough sesame seeds to create something that is almost a cross between a cookie and those sesame sticks that you ate a pound of at Aunt Peg’s Superbowl party.</p>
@@ -35,11 +35,11 @@ recipe:
 <p>Serve these cookies with tea and a bar of good bittersweet chocolate for a real treat.</p>
 
 
-<a href="/images/cookbook/sesame-orange-sable-cookies-2.jpg"><img src="/images/cookbook/sesame-orange-sable-cookies-2.jpg" alt="Sesame-Orange Sable Cookies" /></a>
+<a href="/images/cookbook/sesame-orange-sable-cookies-2.webp"><img src="/images/cookbook/sesame-orange-sable-cookies-2.webp" alt="Sesame-Orange Sable Cookies" /></a>
 
-<a href="/images/cookbook/sesame-orange-sable-cookies-3.jpg"><img src="/images/cookbook/sesame-orange-sable-cookies-3.jpg" alt="Sesame-Orange Sable Cookies" /></a>
+<a href="/images/cookbook/sesame-orange-sable-cookies-3.webp"><img src="/images/cookbook/sesame-orange-sable-cookies-3.webp" alt="Sesame-Orange Sable Cookies" /></a>
 
-<a href="/images/cookbook/sesame-orange-sable-cookies-4.jpg"><img src="/images/cookbook/sesame-orange-sable-cookies-4.jpg" alt="Sesame-Orange Sable Cookies" /></a>
+<a href="/images/cookbook/sesame-orange-sable-cookies-4.webp"><img src="/images/cookbook/sesame-orange-sable-cookies-4.webp" alt="Sesame-Orange Sable Cookies" /></a>
 
 <div class="recipe-card">
 <p><strong>Sesame-Orange Sable Cookies</strong>

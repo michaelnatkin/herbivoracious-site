@@ -6,7 +6,7 @@ description: "Recipe for smashed, oven roasted potatoes with a whole head of gar
 categories: ["Gluten-Free or modifiable", "Kid Friendly", "Recipes", "Side Dishes", "Vegan or Modifiable"]
 aliases: ["/crispy-garlicky-smashed-potatoes-with-gremolata-recipe/", "/2011/02/crispy-garlicky-smashed-potatoes-with-gremolata-recipe.html"]
 cover:
-  image: "/images/old/6a00e008d618bb88340147e2b4a5ca970b-500wi.jpg"
+  image: "/images/old/6a00e008d618bb88340147e2b4a5ca970b-500wi.webp"
   hidden: true
 recipe:
   name: "Crispy, Garlicky Smashed Potatoes with Gremolata"
@@ -27,7 +27,7 @@ recipe:
     - "Mince the parsley and lemon zest together to make the gremolata. Put the potatoes in a serving bowl, being sure to gather up all the crispy bits garlic. Sprinkle the gremolata over the top, add a generous amount of flaky sea salt and serve immediately."
 ---
 
-<a style="display: inline;" href="/images/old/6a00e008d618bb88340147e2b4a5ca970b-800wi.jpg" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb88340147e2b4a5ca970b" title="Crispy Roasted Potatoes with Garlic and Gremolata 2" src="/images/old/6a00e008d618bb88340147e2b4a5ca970b-500wi.jpg" alt="Crispy Roasted Potatoes with Garlic and Gremolata 2" /></a>
+<a style="display: inline;" href="/images/old/6a00e008d618bb88340147e2b4a5ca970b-800wi.webp" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb88340147e2b4a5ca970b" title="Crispy Roasted Potatoes with Garlic and Gremolata 2" src="/images/old/6a00e008d618bb88340147e2b4a5ca970b-500wi.webp" alt="Crispy Roasted Potatoes with Garlic and Gremolata 2" /></a>
 
 A whole head of garlic.
 

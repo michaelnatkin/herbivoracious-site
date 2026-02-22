@@ -5,7 +5,7 @@ slug: "quickie-amba-pickled-mango-condiment-recipe"
 categories: ["Gluten-Free or modifiable", "Recipes", "Sauces and Condiments", "Vegan or Modifiable", "Weblogs"]
 aliases: ["/quickie-amba-pickled-mango-condiment-recipe/", "/2012/09/quickie-amba-pickled-mango-condiment-recipe.html"]
 cover:
-  image: "/images/2012/09/Quickie-Amba-Pickled-Mango-Condiment-626x415.jpg"
+  image: "/images/2012/09/Quickie-Amba-Pickled-Mango-Condiment-626x415.webp"
   hidden: true
 recipe:
   name: "Quickie Amba (Pickled Mango"
@@ -18,7 +18,7 @@ recipe:
     - "Toss together all ingredients. Taste and add more lemon or harissa if you think it needs it. Add salt if needed. Serve at room temperature; keeps in refrigerator for a few days."
 ---
 
-<img class="alignnone size-large wp-image-2810" title="Quickie Amba Pickled Mango Condiment" src="/images/2012/09/Quickie-Amba-Pickled-Mango-Condiment-626x415.jpg" alt="Quickie Amba Pickled Mango Condiment" width="626" height="415" />
+<img class="alignnone size-large wp-image-2810" title="Quickie Amba Pickled Mango Condiment" src="/images/2012/09/Quickie-Amba-Pickled-Mango-Condiment-626x415.webp" alt="Quickie Amba Pickled Mango Condiment" width="626" height="415" />
 
 A few weeks ago, I visited <a href="http://glutenfreegirl.com/">Shauna and Dan</a> on Vashon to shoot a video about the sabich recipe in my cookbook. Sabich is an absurdly delicious Iraqi-Jewish eggplant sandwich with fried eggplant, Israeli salad, hummus, tahina, hardboiled egg, cucumber pickle, and amba. Since those guys are gluten-free, we ate it as a salad instead, <strong>which I might even like better</strong>. But I hear they might have a gluten-free pita coming in their next book, so stay tuned. We had an absolutely lovely day, sitting on their all-too-relaxing patio soaking up the sun, talking food and blogs and kids and life, and cooking and eating, and oh yeah, shooting a video. (I'll let you know when it is up on their site.)
 

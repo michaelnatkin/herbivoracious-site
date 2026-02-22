@@ -6,7 +6,7 @@ description: "Real homefries done right — crispy pan-fried potatoes with onion
 categories: ["Recipes", "Breakfast and Brunch"]
 aliases: ["/real-homefries-recipe/", "/2012/04/real-homefries-recipe.html"]
 cover:
-  image: "/images/cookbook/real-homefries.jpg"
+  image: "/images/cookbook/real-homefries.webp"
   hidden: true
 recipe:
   name: "Real Homefries"
@@ -23,12 +23,12 @@ recipe:
     - "Add the potato and salt, and stir to coat with the oil. Distribute into a single layer, or as close as possible. Every 3 minutes or so, flip them with a spatula, trying as much as possible to get uncooked surfaces onto the skillet, and of course maintaining the single layer."
     - "Fry until deep golden brown. Taste and salt as needed. Serve immediately, while hot and crispy, topped with a few flakes of sea salt and fresh ground black pepper."
 ---
-<a href="/images/cookbook/real-homefries.jpg"><img src="/images/cookbook/real-homefries.jpg" alt="Real Homefries" /></a>
+<a href="/images/cookbook/real-homefries.webp"><img src="/images/cookbook/real-homefries.webp" alt="Real Homefries" /></a>
 
 
 
 
-<a href="/images/cookbook/real-homefries-2.jpg"><img src="/images/cookbook/real-homefries-2.jpg" alt="Real Homefries" /></a>
+<a href="/images/cookbook/real-homefries-2.webp"><img src="/images/cookbook/real-homefries-2.webp" alt="Real Homefries" /></a>
 
 <div class="recipe-card">
 <p><strong>Real Homefries</strong>

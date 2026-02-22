@@ -5,7 +5,7 @@ slug: "poha-flattened-rice-with-coconut-and-cashews-recipe"
 categories: ["Gluten-Free or modifiable", "Main Courses", "Recipes", "Side Dishes", "Vegan or Modifiable"]
 aliases: ["/poha-flattened-rice-with-coconut-and-cashews-recipe/", "/2012/03/poha-flattened-rice-with-coconut-and-cashews-recipe.html"]
 cover:
-  image: "/images/2012/02/Poha-with-Coconut-and-Cashews-626x415.jpg"
+  image: "/images/2012/02/Poha-with-Coconut-and-Cashews-626x415.webp"
   hidden: true
 recipe:
   name: "Poha (Flattened Rice) with Coconut and Cashews"
@@ -32,11 +32,11 @@ recipe:
     - "Serve hot, garnished with cilantro, and offering lime pickle on the side."
 ---
 
-<a href="/images/2012/02/Poha-with-Coconut-and-Cashews.jpg"><img class="alignnone size-large wp-image-1355" title="Poha with Coconut and Cashews" src="/images/2012/02/Poha-with-Coconut-and-Cashews-626x415.jpg" alt="Poha with Coconut and Cashews" width="626" height="415" /></a><br><em>Poha (Flattened Rice) with Coconut and Cashews</em>
+<a href="/images/2012/02/Poha-with-Coconut-and-Cashews.webp"><img class="alignnone size-large wp-image-1355" title="Poha with Coconut and Cashews" src="/images/2012/02/Poha-with-Coconut-and-Cashews-626x415.webp" alt="Poha with Coconut and Cashews" width="626" height="415" /></a><br><em>Poha (Flattened Rice) with Coconut and Cashews</em>
 
-<a href="/images/2012/03/Poha-Small.jpg"><img class="alignright size-full wp-image-1357" title="Poha Small" src="/images/2012/03/Poha-Small.jpg" alt="" width="250" height="250" /></a>Poha is simply rice that has been flattened. It is a popular food in India, used in a whole range of dishes. In fact, I'd been eating it for years on thalis <strong>without really quite realizing what it was</strong>. It has become something of a minor obsession for me lately, because it cooks very quickly, produces a light, fluffy texture, and is quite neutral in flavor so it takes to a wide range of treatments.
+<a href="/images/2012/03/Poha-Small.webp"><img class="alignright size-full wp-image-1357" title="Poha Small" src="/images/2012/03/Poha-Small.webp" alt="" width="250" height="250" /></a>Poha is simply rice that has been flattened. It is a popular food in India, used in a whole range of dishes. In fact, I'd been eating it for years on thalis <strong>without really quite realizing what it was</strong>. It has become something of a minor obsession for me lately, because it cooks very quickly, produces a light, fluffy texture, and is quite neutral in flavor so it takes to a wide range of treatments.
 
-Now you aren't going to find poha at your local supermarket or even Whole Foods. See the small picture at right for an idea of what you are looking for at the Indian grocer, or you can <a href="/images/2012/02/Poha-with-Coconut-and-Cashews.jpg">pick it up from Amazon 14oz</a> along with some lime pickle 10oz, which I like to serve with this dish. (Hell, lime pickle would make<strong> recycled snow tires</strong> taste pretty good.)
+Now you aren't going to find poha at your local supermarket or even Whole Foods. See the small picture at right for an idea of what you are looking for at the Indian grocer, or you can <a href="/images/2012/02/Poha-with-Coconut-and-Cashews.webp">pick it up from Amazon 14oz</a> along with some lime pickle 10oz, which I like to serve with this dish. (Hell, lime pickle would make<strong> recycled snow tires</strong> taste pretty good.)
 
 You'll often find at least two thicknesses of poha. I like working with the thick one, as I think it is <strong>most forgiving</strong>. The main thing you don't want to do is oversoak or overcook the flakes, as then you will have mush. Be sure to drain them before they fall apart, you just want to get enough liquid in them to rehydrate.
 

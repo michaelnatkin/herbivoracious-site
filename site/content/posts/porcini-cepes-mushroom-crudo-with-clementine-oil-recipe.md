@@ -5,7 +5,7 @@ slug: "porcini-cepes-mushroom-crudo-with-clementine-oil-recipe"
 categories: ["Appetizers", "Gluten-Free or modifiable", "Recipes", "Vegan or Modifiable"]
 aliases: ["/porcini-cepes-mushroom-crudo-with-clementine-oil-recipe/", "/2012/12/porcini-cepes-mushroom-crudo-with-clementine-oil-recipe.html"]
 cover:
-  image: "/images/2012/12/Porcini-Crudo-626x415.jpg"
+  image: "/images/2012/12/Porcini-Crudo-626x415.webp"
   hidden: true
 recipe:
   name: "Porcini Crudo"
@@ -23,7 +23,7 @@ recipe:
     - "Arrange the porcini slices just barely overlapping on your serving platter. Drizzle generously with the orange-infused oil - I should have used more than in the photo above. Drizzle on a smaller amount of the orange juice. Scatter the pistachios and fried capers over the porcini. Sprinkle on a good bit of the Maldon salt, place a few chervil leaves randomly, and serve."
 ---
 
-<a href="/images/2012/12/Porcini-Crudo.jpg"><img class="alignnone size-large wp-image-3463" title="Porcini Crudo with Clementine Oil" src="/images/2012/12/Porcini-Crudo-626x415.jpg" alt="Porcini Crudo with Clementine Oil" width="626" height="415" /></a>
+<a href="/images/2012/12/Porcini-Crudo.webp"><img class="alignnone size-large wp-image-3463" title="Porcini Crudo with Clementine Oil" src="/images/2012/12/Porcini-Crudo-626x415.webp" alt="Porcini Crudo with Clementine Oil" width="626" height="415" /></a>
 
 Whenever I get my hands on a rare or expensive ingredient, I look for ways to feature it in a simple, pure form that shows off the natural beauty and flavor. These porcini are only available for a weeks a year, and cost a small fortune, at least here in the Seattle area. In Tuscany, they would be much less! I got mine at Sosio's in Pike Place Market. They have knowledgeable folks behind the aprons and some of the loveliest specialty produce in the city.
 

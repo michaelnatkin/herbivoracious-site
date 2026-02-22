@@ -5,7 +5,7 @@ slug: "caramelized-apple-and-blue-cheese-crostini"
 categories: ["Appetizers", "Recipes"]
 aliases: ["/caramelized-apple-and-blue-cheese-crostini/", "/2012/04/caramelized-apple-and-blue-cheese-crostini.html"]
 cover:
-  image: "/images/2012/04/Caramelized-Apple-and-Blue-Cheese-Crostini-626x415.jpg"
+  image: "/images/2012/04/Caramelized-Apple-and-Blue-Cheese-Crostini-626x415.webp"
   hidden: true
 recipe:
   name: "Caramelized Apple and Blue Cheese Crostini"
@@ -29,7 +29,7 @@ recipe:
     - "To serve, arrange two slices of cooked apple on each crostini. Top with ½ teaspoon of the blue cheese, a speck of the crushed tarragon, two whole tarragon leaves, and a few grains of sea salt."
 ---
 
-<a href="/images/2012/04/Caramelized-Apple-and-Blue-Cheese-Crostini.jpg"><img class="alignnone size-large wp-image-1747" title="Caramelized Apple and Blue Cheese Crostini" src="/images/2012/04/Caramelized-Apple-and-Blue-Cheese-Crostini-626x415.jpg" alt="Caramelized Apple and Blue Cheese Crostini" width="626" height="415" />
+<a href="/images/2012/04/Caramelized-Apple-and-Blue-Cheese-Crostini.webp"><img class="alignnone size-large wp-image-1747" title="Caramelized Apple and Blue Cheese Crostini" src="/images/2012/04/Caramelized-Apple-and-Blue-Cheese-Crostini-626x415.webp" alt="Caramelized Apple and Blue Cheese Crostini" width="626" height="415" />
 </a><em>Caramelized Apple and Blue Cheese Crostini</em>
 
 <em>Here's a sneak peek at one of my favorite new appetizers <a href="/get-the-herbivoracious-cookbook/">in the cookbook</a>. I'll probably serve this a lot at book signing events because it is easy to do and pops with lots of flavor. The key is to use a good, crisp cooking apple and then really caramelize is deeply, like you see in the picture above. Using both a quickly-made tarragon oil and the fresh leaves is a good trick to amp up the flavor.</em>

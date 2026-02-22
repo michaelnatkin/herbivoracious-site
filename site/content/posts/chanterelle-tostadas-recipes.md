@@ -5,7 +5,7 @@ slug: "chanterelle-tostadas-recipes"
 categories: ["Gluten-Free or modifiable", "Main Courses", "Recipes", "Vegan or Modifiable"]
 aliases: ["/chanterelle-tostadas-recipes/", "/2014/06/chanterelle-tostadas-recipes.html"]
 cover:
-  image: "/images/2013/09/Chanterelle-Tostadas-Top-624x415.jpg"
+  image: "/images/2013/09/Chanterelle-Tostadas-Top-624x415.webp"
   hidden: true
 recipe:
   name: "Chanterelle Tostadas"
@@ -30,7 +30,7 @@ recipe:
     - "Garnish with the jalapeno, sweet onion, cilantro, and finishing salt. Serve hot."
 ---
 
-<a href="/images/2013/09/Chanterelle-Tostadas-Top.jpg"><img class="alignnone size-large wp-image-3885" src="/images/2013/09/Chanterelle-Tostadas-Top-624x415.jpg" alt="Chanterelle Tostadas" width="624" height="415" /></a>
+<a href="/images/2013/09/Chanterelle-Tostadas-Top.webp"><img class="alignnone size-large wp-image-3885" src="/images/2013/09/Chanterelle-Tostadas-Top-624x415.webp" alt="Chanterelle Tostadas" width="624" height="415" /></a>
 <em>Chanterelle Tostada</em>
 
 These tostadas had a very simple inspiration: wildly inexpensive chanterelles. Although they grow prolifically in the Pacific Northwest, I've never learned how to hunt them, so I'm typically stuck paying retail when I want my fix - unless, I'm hanging around with my friend <a href="http://fat-of-the-land.blogspot.com/" target="_blank" rel="noopener">Lang</a>, whose new book <a href="http://www.amazon.com/gp/product/0345536258/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0345536258&amp;linkCode=as2&amp;tag=poeticlicen07-20" target="_blank" rel="noopener">The Mushroom Hunters</a> just came out. And retail price can easily be $20 or even $30 per pound. So I kind of freaked out when I saw them for under $10/pound at a few local markets, and snatched up several pounds. Not only were they cheap, but they are beautifully plump and dry, not the soggy or woody leftovers you sometimes see.

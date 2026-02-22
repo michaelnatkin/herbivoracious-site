@@ -6,7 +6,7 @@ description: "Recipe for a savory bread pudding with morel mushrooms and beet gr
 categories: ["Recipes", "Side Dishes"]
 aliases: ["/savory-bread-pudding-with-morels-and-beet-greens-recipe/", "/2011/12/savory-bread-pudding-with-morels-and-beet-greens-recipe.html"]
 cover:
-  image: "/images/old/6a00e008d618bb8834014e8a482c36970d-500wi.jpg"
+  image: "/images/old/6a00e008d618bb8834014e8a482c36970d-500wi.webp"
   hidden: true
 recipe:
   name: "Savory Bread Pudding with Morels and Beet Greens"
@@ -36,7 +36,7 @@ recipe:
     - "Remove from the oven, let cool for at least 15 minutes, garnish with a sprinkle of flaky sea salt, fresh ground black pepper and minced chives and serve it forth."
 ---
 
-<a style="display: inline;" href="/images/old/6a00e008d618bb8834014e8a482c36970d-800wi.jpg" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb8834014e8a482c36970d" title="Savory Morel Bread Pudding" src="/images/old/6a00e008d618bb8834014e8a482c36970d-500wi.jpg" alt="Savory Morel Bread Pudding" /></a>
+<a style="display: inline;" href="/images/old/6a00e008d618bb8834014e8a482c36970d-800wi.webp" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb8834014e8a482c36970d" title="Savory Morel Bread Pudding" src="/images/old/6a00e008d618bb8834014e8a482c36970d-500wi.webp" alt="Savory Morel Bread Pudding" /></a>
 <em>Savory Bread Pudding with Morel Mushrooms and Beet Greens</em>
 
 <strong>I wish you could smell this.</strong>

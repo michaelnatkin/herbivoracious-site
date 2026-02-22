@@ -6,7 +6,7 @@ description: "The idea for these rings came from a daydream on the way home from
 categories: ["Recipes", "Appetizers"]
 aliases: ["/cheddar-battered-onion-rings-recipe/", "/2011/06/cheddar-battered-onion-rings-recipe.html"]
 cover:
-  image: "/images/cookbook/cheddar-battered-onion-rings.jpg"
+  image: "/images/cookbook/cheddar-battered-onion-rings.webp"
   hidden: true
 recipe:
   name: "Cheddar-Battered Onion Rings"
@@ -27,7 +27,7 @@ recipe:
     - "Whisk together 75 grams (about 3 ounces) of the cheese powder, the egg yolk, 2 tablespoons of oil, salt, xanthan gum (if using), flour and seltzer. It should be rather thin, the consistency of crepe batter, not thick pancake batter. Add more seltzer as needed."
     - "Heat oil for deep frying to 360 degrees. Working in small batches, dredge each onion ring in flour, shake off the excess, dip in the batter, drip off the excess and add to the fryer. I find this easiest to do with chopsticks. Cook until golden brown and remove to paper towels to drain. Pat lightly to remove excess oil. Season with sea salt."
 ---
-<a href="/images/cookbook/cheddar-battered-onion-rings.jpg"><img src="/images/cookbook/cheddar-battered-onion-rings.jpg" alt="Cheddar-Battered Onion Rings" /></a>
+<a href="/images/cookbook/cheddar-battered-onion-rings.webp"><img src="/images/cookbook/cheddar-battered-onion-rings.webp" alt="Cheddar-Battered Onion Rings" /></a>
 
 
 <p>The idea for these rings came from a daydream on the way home from work. What if I could make perfect tempura-battered onion rings, and somehow get them to taste like aged cheddar? I didn't want to create a melty mess and ruin the crunch though.</p>
@@ -36,7 +36,7 @@ recipe:
 <p>Try serving these with Stout Chocolate Malt on  for an Alice-in-Wonderland spin on traditional diner food.</p>
 
 
-<a href="/images/cookbook/cheddar-battered-onion-rings-2.jpg"><img src="/images/cookbook/cheddar-battered-onion-rings-2.jpg" alt="Cheddar-Battered Onion Rings" /></a>
+<a href="/images/cookbook/cheddar-battered-onion-rings-2.webp"><img src="/images/cookbook/cheddar-battered-onion-rings-2.webp" alt="Cheddar-Battered Onion Rings" /></a>
 
 <div class="recipe-card">
 <p><strong>Cheddar-Battered Onion Rings</strong>

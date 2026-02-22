@@ -5,7 +5,7 @@ slug: "shiitake-congee-and-a-challenge"
 categories: ["Contests", "Experiments", "Recipes"]
 aliases: ["/shiitake-congee-and-a-challenge/", "/2013/01/shiitake-congee-and-a-challenge.html"]
 cover:
-  image: "/images/2013/05/Sous-Vide-Shiitake-Congee-622x415.jpg"
+  image: "/images/2013/05/Sous-Vide-Shiitake-Congee-622x415.webp"
   hidden: true
 recipe:
   name: "Shiitake Congee"
@@ -29,7 +29,7 @@ recipe:
     - "To serve, open the bag of rice, empty into a bowl, and stir in boiling water from a kettle until it is at a pleasing consistency, somewhere on the soupy side of oatmeal. Divide among four hot bowls. Crack an egg and put in each bowl, followed by 3 of the yuba rolls and a couple of tablespoons of the pickled cabbage."
 ---
 
-<a href="/images/2013/05/Sous-Vide-Shiitake-Congee.jpg"><img class="alignnone size-large wp-image-3542" alt="Sous Vide Shiitake Congee" src="/images/2013/05/Sous-Vide-Shiitake-Congee-622x415.jpg" width="622" height="415" />
+<a href="/images/2013/05/Sous-Vide-Shiitake-Congee.webp"><img class="alignnone size-large wp-image-3542" alt="Sous Vide Shiitake Congee" src="/images/2013/05/Sous-Vide-Shiitake-Congee-622x415.webp" width="622" height="415" />
 </a><em>Shiitake Congee</em>
 
 In the next paragraph, I'm going to use a <strong>potentially scary word</strong>. After all, it is French, and it also might make you think you are going to need expensive new kitchen gear to do it (you won't). Please remain calm, because as you'll see, I need your help.

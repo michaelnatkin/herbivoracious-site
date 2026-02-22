@@ -6,7 +6,7 @@ description: "Vegetarian and vegan recipe for asparagus with an incredibly flavo
 categories: ["Appetizers", "Gluten-Free or modifiable", "Kid Friendly", "Recipes", "Seattle", "Side Dishes"]
 aliases: ["/asparagus-with-nori-butter-recipe/", "/2010/04/asparagus-with-nori-butter-recipe.html"]
 cover:
-  image: "/images/old/6a00e008d618bb88340134800238a0970c-500wi.jpg"
+  image: "/images/old/6a00e008d618bb88340134800238a0970c-500wi.webp"
   hidden: true
 recipe:
   name: "Asparagus with Nori Butter"
@@ -34,7 +34,7 @@ recipe:
     - "To plate, arrange the asparagus in a neat row. Drizzle on more of the nori butter. Add neat lines of nori strips and sesame seeds. Make 6 dots of the miso sauce and top each one with a chive tip. Randomly place bits of blanched lemon zest. Sprinkle liberally with the Maldon (aka the world's greatest salt) and serve."
 ---
 
-<a style="display: inline;" href="/images/old/6a00e008d618bb88340134800238a0970c-800wi.jpg" rel="lightbox"><img class="asset asset-image at-xid-6a00e008d618bb88340134800238a0970c " src="/images/old/6a00e008d618bb88340134800238a0970c-500wi.jpg" alt="Asparagus with nori butter" /></a>
+<a style="display: inline;" href="/images/old/6a00e008d618bb88340134800238a0970c-800wi.webp" rel="lightbox"><img class="asset asset-image at-xid-6a00e008d618bb88340134800238a0970c " src="/images/old/6a00e008d618bb88340134800238a0970c-500wi.webp" alt="Asparagus with nori butter" /></a>
 <em>Asparagus with nori butter</em>
 
 I'm in the middle of a two-week stage at <a href="http://canlis.com/" target="_blank">Canlis</a>, a terrific fine-dining restaurant in Seattle.  One of the many delicious items on Chef Franey's menu is an asparagus with <a href="http://en.wikipedia.org/wiki/Sauce_gribiche" target="_blank">sauce gribiche</a>. At Canlis we use much more classical French technique than I typically apply in my home cooking. I thought I would apply some of those ideas towards this asparagus with nori butter, though of course the level of refinement is not as high as what we serve at the restaurant.

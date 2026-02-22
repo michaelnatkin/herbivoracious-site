@@ -5,11 +5,11 @@ slug: "ba-da-bing-what"
 categories: ["Miscellany"]
 aliases: ["/ba-da-bing-what/", "/2008/07/ba-da-bing-what.html"]
 cover:
-  image: "/images/2008-small/07/16/bingcherries.jpg"
+  image: "/images/2008-small/07/16/bingcherries.webp"
   hidden: true
 ---
 
-<a href="/images/2008/07/16/bingcherries.jpg" rel="lightbox"><img title="Bing Cherries" src="/images/2008-small/07/16/bingcherries.jpg" alt="Bing Cherries" width="455" height="302" border="0" /></a>
+<a href="/images/2008/07/16/bingcherries.webp" rel="lightbox"><img title="Bing Cherries" src="/images/2008-small/07/16/bingcherries.webp" alt="Bing Cherries" width="455" height="302" border="0" /></a>
 <span style="font-size: 0.8em;">Bing Cherries</span>
 
 No, I haven't been watching too many episodes of the Sopranos. These beautiful Bing cherries are from Batch's Best Family Farms. I got them from my friends over at <a href="http://chefshop.com?afid=10">ChefShop.com</a>. Tim Mar &amp; his crew have a knack for tracking down great food.

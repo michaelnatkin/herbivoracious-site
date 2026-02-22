@@ -6,11 +6,11 @@ description: "Best vegetarian Thanksgiving recipes from Herbivoracious"
 categories: ["Favorites"]
 aliases: ["/vegetarian-thanksgiving-recipes/", "/2011/11/vegetarian-thanksgiving-recipes.html"]
 cover:
-  image: "/images/old/6a00e008d618bb8834015392e21df5970b-500wi.jpg"
+  image: "/images/old/6a00e008d618bb8834015392e21df5970b-500wi.webp"
   hidden: true
 ---
 
-<p><a href="/images/old/6a00e008d618bb8834015392e21df5970b-800wi.jpg" rel="lightbox" style="display: inline;"><img alt="DelicataSquashStuffedWithOrzo" class="asset  asset-image at-xid-6a00e008d618bb8834015392e21df5970b" src="/images/old/6a00e008d618bb8834015392e21df5970b-500wi.jpg" title="DelicataSquashStuffedWithOrzo" /></a></p>
+<p><a href="/images/old/6a00e008d618bb8834015392e21df5970b-800wi.webp" rel="lightbox" style="display: inline;"><img alt="DelicataSquashStuffedWithOrzo" class="asset  asset-image at-xid-6a00e008d618bb8834015392e21df5970b" src="/images/old/6a00e008d618bb8834015392e21df5970b-500wi.webp" title="DelicataSquashStuffedWithOrzo" /></a></p>
 <p>Traditional American Thanksgiving is an interesting meal for vegetarians. On the one hand, obviously pride of place on most families&#39; tables is given to a big roasted turkey. On the other hand, just about everything else (mashed potatoes, stuffing, yams, green beans, cranberry sauce, etc.) is typically vegetarian. So personally, when I&#39;m having Thanksgiving at an omnivorous house, I&#39;m pretty happy to just stuff myself on all those other goodies and try to save room for a slice or three of pumpkin pie.</p>
 <p>If I&#39;m making Thanksgiving at my own house though, I&#39;m inclined to want to have an actual vegetarian entree. Here are a few from the archives that I think are festive and hearty enough to fit the bill:</p>
 <ul>
@@ -22,7 +22,7 @@ cover:
 <li><a href="/2008/10/pumpkin-ravio-1/">Pumpkin Ravioli</a></li>
 <li><a href="/2007/11/recipe-delicata/">Delicata Squash Stuffed with Orzo in a Sage Brown Butter Sauce</a></li>
 </ul>
-<p><a href="/images/old/6a00e008d618bb8834015436b5760f970c-800wi.jpg" rel="lightbox" style="display: inline;"><img alt="Potatoes_Chanterelles_Shallots_Red_Wine" class="asset  asset-image at-xid-6a00e008d618bb8834015436b5760f970c" src="/images/old/6a00e008d618bb8834015436b5760f970c-500wi.jpg" title="Potatoes_Chanterelles_Shallots_Red_Wine" /></a><br />Speaking of side dishes, it really isn&#39;t against the law to have something besides your great Aunt Bitsy&#39;s canned candied yams with orange juice and mini marshmallows. Here are some of my favorites:</p>
+<p><a href="/images/old/6a00e008d618bb8834015436b5760f970c-800wi.webp" rel="lightbox" style="display: inline;"><img alt="Potatoes_Chanterelles_Shallots_Red_Wine" class="asset  asset-image at-xid-6a00e008d618bb8834015436b5760f970c" src="/images/old/6a00e008d618bb8834015436b5760f970c-500wi.webp" title="Potatoes_Chanterelles_Shallots_Red_Wine" /></a><br />Speaking of side dishes, it really isn&#39;t against the law to have something besides your great Aunt Bitsy&#39;s canned candied yams with orange juice and mini marshmallows. Here are some of my favorites:</p>
 <ul>
 <li><a href="/2009/09/potatoes-chanterelles-shallots-in-red-wine-sauce-recipe/">Potatoes, Chanterelles and Shallots in Red Wine Sauce</a></li>
 <li><a href="/2010/11/potato-and-fennel-gratin-recipe/">Potato and Fennel Gratin</a></li>

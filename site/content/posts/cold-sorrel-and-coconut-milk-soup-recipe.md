@@ -5,7 +5,7 @@ slug: "cold-sorrel-and-coconut-milk-soup-recipe"
 categories: ["Gluten-Free or modifiable", "Recipes", "Soups", "Vegan or Modifiable"]
 aliases: ["/cold-sorrel-and-coconut-milk-soup-recipe/", "/2012/07/cold-sorrel-and-coconut-milk-soup-recipe.html"]
 cover:
-  image: "/images/2012/06/Sorrel-Coconut-Soup-626x415.jpg"
+  image: "/images/2012/06/Sorrel-Coconut-Soup-626x415.webp"
   hidden: true
 recipe:
   name: "Cold Sorrel and Coconut Milk Soup"
@@ -27,7 +27,7 @@ recipe:
     - "Just before serving, taste and adjust seasoning. Divide among the serving bowls. Mix together the cucumber and red onion and garnish the soup. Finish with a few flakes of Maldon (aka the world's greatest salt) and serve."
 ---
 
-<a href="/images/2012/06/Sorrel-Coconut-Soup.jpg"><img class="alignnone size-large wp-image-2263" title="Cold Sorrel and Coconut Soup" src="/images/2012/06/Sorrel-Coconut-Soup-626x415.jpg" alt="Cold Sorrel and Coconut Soup" width="626" height="415" />
+<a href="/images/2012/06/Sorrel-Coconut-Soup.webp"><img class="alignnone size-large wp-image-2263" title="Cold Sorrel and Coconut Soup" src="/images/2012/06/Sorrel-Coconut-Soup-626x415.webp" alt="Cold Sorrel and Coconut Soup" width="626" height="415" />
 </a><em>Cold Sorrel and Coconut Milk Soup</em>
 
 <strong>First, a quick bit of housekeeping. </strong>I recently moved the Herbivoracious email list over to a new, more robust provider. In the process, some of you received an email asking you to reconfirm your subscription. This kind of thing is easy to miss, especially if you are aren't expecting them. So if you aren't getting today's post by email, just sign up again. Look over there -------&gt; and you'll see a place near the top of the sidebar to enter your email address. Of course if you never were on the list, please sign up too! It is a great way to make sure you see each new recipe, and I'll also be sending out the occasional special announcement or offer to mailing list subscribers only.

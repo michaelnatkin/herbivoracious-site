@@ -6,7 +6,7 @@ description: "I developed this black bean soup so that it will satisfy those who
 categories: ["Recipes", "Soups", "Vegan or Modifiable", "Gluten-Free"]
 aliases: ["/black-bean-soup-with-orange-jalapeno-salsa-recipe/", "/2011/01/black-bean-soup-with-orange-jalapeno-salsa-recipe.html"]
 cover:
-  image: "/images/cookbook/black-bean-soup-with-orange-jalapeno-salsa.jpg"
+  image: "/images/cookbook/black-bean-soup-with-orange-jalapeno-salsa.webp"
   hidden: true
 recipe:
   name: "Black Bean Soup With Orange-Jalapeno Salsa"
@@ -37,7 +37,7 @@ recipe:
     - "Meanwhile, make the salsa. Do this as close to serving time as possible, or at least reserve the cilantro separately, as it dies quickly. Cut the oranges into supremes ( Mix with the red onion, jalapeno, cilantro, and ¼ teaspoon Kosher salt. Taste and adjust seasoning."
     - "To serve, ladle the soup into bowls and either garnish with approximately 3 tablespoons of the salsa and some cream, or pass them separately."
 ---
-<a href="/images/cookbook/black-bean-soup-with-orange-jalapeno-salsa.jpg"><img src="/images/cookbook/black-bean-soup-with-orange-jalapeno-salsa.jpg" alt="Black Bean Soup With Orange-Jalapeno Salsa" /></a>
+<a href="/images/cookbook/black-bean-soup-with-orange-jalapeno-salsa.webp"><img src="/images/cookbook/black-bean-soup-with-orange-jalapeno-salsa.webp" alt="Black Bean Soup With Orange-Jalapeno Salsa" /></a>
 
 
 <p>I developed this black bean soup so that it will satisfy those who prefer mild dishes (including kids) as well as those of us who prefer a bolder spice. The main soup is very straightforward, and on the side, we have a bright and intense orange and jalapeno salsa. You can also pass grated cheddar cheese for those who would prefer to think of it as vegetarian chile.</p>
@@ -45,9 +45,9 @@ recipe:
 <p>There are several ways to puree the soup. Always remove it from the heat first. If you have an <a href="https://www.amazon.com/dp/B09X27HV7X?tag=herb-hugo-20">immersion blender</a>, put it in the pot well below the surface and whiz a little bit at a time. Alternatively, use a potato/bean masher in the pot.</p>
 
 
-<a href="/images/cookbook/black-bean-soup-with-orange-jalapeno-salsa-2.jpg"><img src="/images/cookbook/black-bean-soup-with-orange-jalapeno-salsa-2.jpg" alt="Black Bean Soup With Orange-Jalapeno Salsa" /></a>
+<a href="/images/cookbook/black-bean-soup-with-orange-jalapeno-salsa-2.webp"><img src="/images/cookbook/black-bean-soup-with-orange-jalapeno-salsa-2.webp" alt="Black Bean Soup With Orange-Jalapeno Salsa" /></a>
 
-<a href="/images/cookbook/black-bean-soup-with-orange-jalapeno-salsa-3.jpg"><img src="/images/cookbook/black-bean-soup-with-orange-jalapeno-salsa-3.jpg" alt="Black Bean Soup With Orange-Jalapeno Salsa" /></a>
+<a href="/images/cookbook/black-bean-soup-with-orange-jalapeno-salsa-3.webp"><img src="/images/cookbook/black-bean-soup-with-orange-jalapeno-salsa-3.webp" alt="Black Bean Soup With Orange-Jalapeno Salsa" /></a>
 
 <div class="recipe-card">
 <p><strong>Black Bean Soup With Orange-Jalapeno Salsa</strong>

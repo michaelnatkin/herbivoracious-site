@@ -5,7 +5,7 @@ slug: "chickpea-and-saffron-pilaf-with-crispy-onions-recipe"
 categories: ["Gluten-Free or modifiable", "Main Courses", "Recipes", "Side Dishes", "Vegan or Modifiable"]
 aliases: ["/chickpea-and-saffron-pilaf-with-crispy-onions-recipe/", "/2013/06/chickpea-and-saffron-pilaf-with-crispy-onions-recipe.html"]
 cover:
-  image: "/images/2013/06/Chickpea-and-Saffron-Pilaf-with-Crispy-Onions-626x415.jpg"
+  image: "/images/2013/06/Chickpea-and-Saffron-Pilaf-with-Crispy-Onions-626x415.webp"
   hidden: true
 recipe:
   name: "Chickpea and Saffron Pilaf with Crispy Onions – Recipe"
@@ -27,8 +27,8 @@ recipe:
     - "To serve, mound the rice on a platter and garnish with the remaining dill, mint, and fried onions, and some flaky Maldon salt. Serve with lemon wedges so diners can add a little bit to their taste."
 ---
 
-<a href="/images/2013/06/Chickpea-and-Saffron-Pilaf-with-Crispy-Onions.jpg">
-<img class="alignnone size-large wp-image-3771" src="/images/2013/06/Chickpea-and-Saffron-Pilaf-with-Crispy-Onions-626x415.jpg" alt="Chickpea and Saffron Pilaf with Crispy Onions" width="626" height="415" /></a>
+<a href="/images/2013/06/Chickpea-and-Saffron-Pilaf-with-Crispy-Onions.webp">
+<img class="alignnone size-large wp-image-3771" src="/images/2013/06/Chickpea-and-Saffron-Pilaf-with-Crispy-Onions-626x415.webp" alt="Chickpea and Saffron Pilaf with Crispy Onions" width="626" height="415" /></a>
 <em>Chickpea and Saffron Pilaf with Crispy Onions</em>
 
 The secret of this pilaf is using the flavorful oil leftover from making the crispy onions to saute the rice before adding any water. It adds a rich, savory background that makes the dish more satisfying.

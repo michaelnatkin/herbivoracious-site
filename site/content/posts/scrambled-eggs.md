@@ -5,11 +5,11 @@ slug: "scrambled-eggs"
 categories: ["Breakfast", "Recipes"]
 aliases: ["/scrambled-eggs/", "/2008/10/scrambled-eggs.html"]
 cover:
-  image: "/images/2008-small/09/27/scrambled_eggs_with_epazote_and_pob.jpg"
+  image: "/images/2008-small/09/27/scrambled_eggs_with_epazote_and_pob.webp"
   hidden: true
 ---
 
-<a href="/images/2008/09/27/scrambled_eggs_with_epazote_and_pob.jpg" rel="lightbox"><img title="Scrabled eggs with poblanos and epazote" src="/images/2008-small/09/27/scrambled_eggs_with_epazote_and_pob.jpg" alt="Scrambled_eggs_with_epazote_and_pob" width="455" height="294" border="0" /></a>
+<a href="/images/2008/09/27/scrambled_eggs_with_epazote_and_pob.webp" rel="lightbox"><img title="Scrabled eggs with poblanos and epazote" src="/images/2008-small/09/27/scrambled_eggs_with_epazote_and_pob.webp" alt="Scrambled_eggs_with_epazote_and_pob" width="455" height="294" border="0" /></a>
 <span style="font-size: 0.8em;">Scrambled eggs with epazote and poblanos</span>
 
 Epazote is an absolutely common, everyday herb in many parts of Mexico, Central and South America, but it is barely known in the United States outside of Latin American communities. It is worth your while to track down, as the flavor is utterly unique. If you take bite of the raw leaf, it is resinous (like rosemary), citrusy, herbal and vegetal all at once, with maybe a hint of gasoline! <a href="https://www.amazon.com/dp/0307383253?tag=herb-hugo-20">Diana Kennedy</a> and <a href="https://www.amazon.com/dp/068484186X?tag=herb-hugo-20">Rick Bayless</a> both say there is no substitute for it, and I have to agree.

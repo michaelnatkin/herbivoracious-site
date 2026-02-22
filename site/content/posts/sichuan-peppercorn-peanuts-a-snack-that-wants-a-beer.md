@@ -5,7 +5,7 @@ slug: "sichuan-peppercorn-peanuts-a-snack-that-wants-a-beer"
 categories: ["Appetizers", "Gluten-Free or modifiable", "Recipes", "Vegan or Modifiable"]
 aliases: ["/sichuan-peppercorn-peanuts-a-snack-that-wants-a-beer/", "/2012/12/sichuan-peppercorn-peanuts-a-snack-that-wants-a-beer.html"]
 cover:
-  image: "/images/2013/12/Szechwan-Peppercorn-Peanuts-626x415.jpg"
+  image: "/images/2013/12/Szechwan-Peppercorn-Peanuts-626x415.webp"
   hidden: true
 recipe:
   name: "Sichuan Peppercorn Peanuts"
@@ -25,7 +25,7 @@ recipe:
     - "Line a paper plate with towels. Heat the oil in a large skillet over medium heat. Add the spice mixture and cook until fragrant, but don't allow to burn. Add the peanuts and cook, tossing frequently, for 2 more minutes. Remove to the paper towels, including all of the spices. Allow to drain for a few minutes, then transfer to a bowl, toss with the salt, adjust seasoning, and serve (or they will keep for a few days)."
 ---
 
-<a href="/images/2013/12/Szechwan-Peppercorn-Peanuts.jpg"><img class="alignnone size-large wp-image-3486" title="Sichuan Peppercorn Peanuts" src="/images/2013/12/Szechwan-Peppercorn-Peanuts-626x415.jpg" alt="Sichuan Peppercorn Peanuts" width="626" height="415" /></a>
+<a href="/images/2013/12/Szechwan-Peppercorn-Peanuts.webp"><img class="alignnone size-large wp-image-3486" title="Sichuan Peppercorn Peanuts" src="/images/2013/12/Szechwan-Peppercorn-Peanuts-626x415.webp" alt="Sichuan Peppercorn Peanuts" width="626" height="415" /></a>
 
 The idea for these came from a packaged Japanese snack that I find totally addictive. It is easy to make at home, and then you can adjust the ratio of heat, orange zest, salt, and the tongue-numbing zing of the Sichuan peppercorn to your own preference. These guys pretty much have "snack with a beer" written all over them. They would also be awesome tossed with crispy, pan-fried tofu for a spicy variation on kung pao.
 

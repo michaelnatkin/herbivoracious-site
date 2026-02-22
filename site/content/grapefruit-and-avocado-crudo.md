@@ -4,7 +4,7 @@ date: 2010-05-07T20:19:39
 slug: "grapefruit-and-avocado-crudo"
 ---
 
-<a style="display: inline;" href="/images/old/6a00e008d618bb883401053629844e970c-800wi.jpg" rel="lightbox"><img class="at-xid-6a00e008d618bb883401053629844e970c "  src="/images/old/6a00e008d618bb883401053629844e970c-500wi.jpg" alt="Grapefruit_Crudo" /></a>
+<a style="display: inline;" href="/images/old/6a00e008d618bb883401053629844e970c-800wi.webp" rel="lightbox"><img class="at-xid-6a00e008d618bb883401053629844e970c "  src="/images/old/6a00e008d618bb883401053629844e970c-500wi.webp" alt="Grapefruit_Crudo" /></a>
 <span style="font-size: 11px; font-family: Arial;">Grapefruit crudo, avocado, chervil and capers - this isn't tuna!</span>
 
 I was goofing around with cutting citrus fruits into cubes the other day, and the red grapefruit looked so much like tuna. Not that I eat tuna, but of course I see other people eat it at sushi restaurants. I tried slicing it vertically into slabs instead, which was also beautiful. You could take this concept in a sashimi direction, but I opted for crudo instead - a.k.a. Italian sashimi. The avocado makes a perfect complement, adding that rich, contrasting mouthfeel to offset the bite of the grapefruit.

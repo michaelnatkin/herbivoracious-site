@@ -5,7 +5,7 @@ slug: "red-winter-minestrone-with-winter-greens-pesto"
 categories: ["Gluten-Free or modifiable", "Recipes", "Soups", "Vegan or Modifiable"]
 aliases: ["/red-winter-minestrone-with-winter-greens-pesto/", "/2012/10/red-winter-minestrone-with-winter-greens-pesto.html"]
 cover:
-  image: "/images/2012/10/Red-Winter-Minestrone-with-Winter-Greens-Pesto-626x415.jpg"
+  image: "/images/2012/10/Red-Winter-Minestrone-with-Winter-Greens-Pesto-626x415.webp"
   hidden: true
 recipe:
   name: "Red Winter Minestrone with Winter Greens Pesto"
@@ -44,7 +44,7 @@ recipe:
     - "Divide among heated bowls and serve with a generous dollop of the winter greens pesto, which the diner can stir in."
 ---
 
-<img class="alignnone size-large wp-image-3052" title="Red Winter Minestrone with Winter Greens Pesto" src="/images/2012/10/Red-Winter-Minestrone-with-Winter-Greens-Pesto-626x415.jpg" alt="Red Winter Minestrone with Winter Greens Pesto" width="626" height="415" />
+<img class="alignnone size-large wp-image-3052" title="Red Winter Minestrone with Winter Greens Pesto" src="/images/2012/10/Red-Winter-Minestrone-with-Winter-Greens-Pesto-626x415.webp" alt="Red Winter Minestrone with Winter Greens Pesto" width="626" height="415" />
 <em>Red Winter Minestrone with Winter Greens Pesto</em>
 
 If you are a dedicated locavore, or farmer's market shopper, or year-round CSA subscriber, you are all too familiar with this issue: depending on where you live, there are several loooong months of the year where the main local vegetables available are the hearty dark leafy greens and root vegetables. <strong>You are going to need a serious repertoire of kale recipes to get you through the winter.</strong> So when <a href="http://www.oxbow.org/">Oxbow Farm</a> sent me a CSA box, I knew I wanted to give you a hearty, warming soup that would take advantage of what the season is offering.

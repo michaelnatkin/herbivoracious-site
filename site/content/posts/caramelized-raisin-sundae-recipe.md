@@ -6,7 +6,7 @@ description: "There is nothing like a sundae to bring out the kid in all of us, 
 categories: ["Recipes", "Desserts"]
 aliases: ["/caramelized-raisin-sundae-recipe/", "/2012/11/caramelized-raisin-sundae-recipe.html"]
 cover:
-  image: "/images/cookbook/caramelized-raisin-sundae.jpg"
+  image: "/images/cookbook/caramelized-raisin-sundae.webp"
   hidden: true
 recipe:
   name: "Caramelized-Raisin Sundae"
@@ -29,7 +29,7 @@ recipe:
     - "Just before serving, put the remaining orange juice in a bowl. Peel and core the apple, then cut into ¼” dice, tossing frequently with the juice to minimize browning. Add the cinnamon and optional sumac and toss to coat."
     - "To serve, put two scoops of vanilla ice cream in each bowl or sundae cup. Top with ¼ of the raisins and sauce, followed by a handful of the apples. Serve immediately."
 ---
-<a href="/images/cookbook/caramelized-raisin-sundae.jpg"><img src="/images/cookbook/caramelized-raisin-sundae.jpg" alt="Caramelized-Raisin Sundae" /></a>
+<a href="/images/cookbook/caramelized-raisin-sundae.webp"><img src="/images/cookbook/caramelized-raisin-sundae.webp" alt="Caramelized-Raisin Sundae" /></a>
 
 
 <p>There is nothing like a sundae to bring out the kid in all of us, but that is no reason it can’t have adult flavors! To make this sauce, the raisins are caramelized with butter, brown sugar, port wine and orange zest to make a rich sauce that isn’t too sweet. Fresh apple spiked with cinnamon adds a crunchy, slightly spicy counterpoint.</p>

@@ -6,7 +6,7 @@ description: "Recipe for incredible vegetarian eggplant parmigiana, made with pa
 categories: ["Main Courses", "Recipes"]
 aliases: ["/eggplant-parmes/", "/2007/08/eggplant-parmes.html"]
 cover:
-  image: "/images/old/6a00e008d618bb88340134874f99a5970c-500wi.jpg"
+  image: "/images/old/6a00e008d618bb88340134874f99a5970c-500wi.webp"
   hidden: true
 recipe:
   name: "Eggplant Parmesan (or Eggplant Parmigiana)"
@@ -20,7 +20,7 @@ recipe:
     - "To serve, put a healthy stack on each plate, and top with about 1/4 cup of the diced heirloom tomatoes, any remaining basil, and a grind of fresh pepper."
 ---
 
-<a style="display: inline;" href="/images/old/6a00e008d618bb88340134874f99a5970c-800wi.jpg" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb88340134874f99a5970c" title="Eggplant Parmigiana" src="/images/old/6a00e008d618bb88340134874f99a5970c-500wi.jpg" alt="Eggplant Parmigiana" /></a>
+<a style="display: inline;" href="/images/old/6a00e008d618bb88340134874f99a5970c-800wi.webp" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb88340134874f99a5970c" title="Eggplant Parmigiana" src="/images/old/6a00e008d618bb88340134874f99a5970c-500wi.webp" alt="Eggplant Parmigiana" /></a>
 <em>Eggplant Parmigiana</em>
 
 This eggplant parmigiana is one of my favorite celebratory dishes for late summer, when the eggplants and tomatoes are at their very best. I use canned tomatoes for the sauce, and a dice of fresh heirloom cherry tomatoes and basil on top, after it comes out of the oven. The combination of fresh and cooked tomato flavor is unbeatable.
@@ -54,9 +54,9 @@ two handfuls of fresh basil, roughly chopped, divided
 	<li>Put a good 1/4" of vegetable oil (not olive oil, it will smoke too much) in your biggest skillet and and heat on high. Working with two slices of eggplant at a time, pat them in the flour until they have a dry coating, then drag through the egg, and finally press both sides in the panko, covering thoroughly. Place them in the skillet, where they should start sizzling immediately. Fill the skillet loosely, leaving yourself some room to work. Flip when brown, maybe 2 minutes, then remove to the paper towels when brown on the other side. They should be tender to a fork at this point, because the oven baking is just to melt the cheese, not cook the eggplant.</li>
 	<li>To assemble, lay down your first layer of eggplant, and top each slice with a couple tablespoons of tomato sauce, a piece of mozarella, a bit of parmesan, and a bit of basil . Build up three layers using all of the ingredients and finishing with cheese.</li>
 	<li>Bake in the oven for about 20 minutes, until the cheese it thoroughly melted.</li>
-	<li>To serve, put a healthy stack on each plate, and top with about 1/4 cup of the diced heirloom tomatoes, any remaining basil, and a grind of fresh pepper.<a href="/images/2007/08/12/eggplant_fried_6.jpg" rel="lightbox"><img title="Eggplant_fried_6" src="/images/2007-small/08/12/eggplant_fried_6.jpg" alt="Eggplant_fried_6" width="455" height="302" border="0" /></a>
+	<li>To serve, put a healthy stack on each plate, and top with about 1/4 cup of the diced heirloom tomatoes, any remaining basil, and a grind of fresh pepper.<a href="/images/2007/08/12/eggplant_fried_6.webp" rel="lightbox"><img title="Eggplant_fried_6" src="/images/2007-small/08/12/eggplant_fried_6.webp" alt="Eggplant_fried_6" width="455" height="302" border="0" /></a>
 
-<a href="/images/2007/08/12/eggplant_baked_3.jpg" rel="lightbox"><img class="noresize" title="Eggplant_baked_3" src="/images/2007-small/08/12/eggplant_baked_3.jpg" alt="Eggplant_baked_3" width="455" height="302" border="0" /></a></li>
+<a href="/images/2007/08/12/eggplant_baked_3.webp" rel="lightbox"><img class="noresize" title="Eggplant_baked_3" src="/images/2007-small/08/12/eggplant_baked_3.webp" alt="Eggplant_baked_3" width="455" height="302" border="0" /></a></li>
 </ol>
 <img class="noresize" style="width: 101px; height: 20px;" src="http://static.foodista.com/images/foodista_logo_101_20_flattened.png?foodista_widget_BBD6VZ5P" alt="Eggplant Parmesan on Foodista" />
 </div>

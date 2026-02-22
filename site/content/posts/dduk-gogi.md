@@ -5,7 +5,7 @@ slug: "dduk-gogi"
 categories: ["Gluten-Free or modifiable", "Main Courses", "Recipes", "Vegan or Modifiable"]
 aliases: ["/dduk-gogi/", "/2012/02/dduk-gogi.html"]
 cover:
-  image: "/images/2012/12/Dduk-Boki-626x415.jpg"
+  image: "/images/2012/12/Dduk-Boki-626x415.webp"
   hidden: true
 recipe:
   name: "Tteokbokki - Spicy Korean Rice Cake Stew"
@@ -30,7 +30,7 @@ recipe:
     - "To serve, transfer to a large serving bowl or individual dishes and garnish with the green onions, black pepper and a healthy drizzle of sesame oil."
 ---
 
-<a href="/images/2012/12/Dduk-Boki.jpg"><img class="size-large wp-image-1218 alignnone" title="Tteokbokki, Ddeokbokki, Dduk Boki - Spicy Korean Rice Cake Stew" src="/images/2012/12/Dduk-Boki-626x415.jpg" alt="Tteokbokki, Ddeokbokki, Dduk Boki - Spicy Korean Rice Cake Stew" width="626" height="415" /></a>
+<a href="/images/2012/12/Dduk-Boki.webp"><img class="size-large wp-image-1218 alignnone" title="Tteokbokki, Ddeokbokki, Dduk Boki - Spicy Korean Rice Cake Stew" src="/images/2012/12/Dduk-Boki-626x415.webp" alt="Tteokbokki, Ddeokbokki, Dduk Boki - Spicy Korean Rice Cake Stew" width="626" height="415" /></a>
 <em>Tteokbokki, Ddeokbokki, Dduk Boki - Spicy Korean Rice Cake Stew</em>
 
 Tteok (also transliterated as ddeok, duk, dduk and so forth) is a type of <strong>Korean rice cake</strong> that you can buy frozen at any Korean grocer or better general Asian grocers. The two most common shapes you will find are flat ovals, and cylinders about 1/4" in diameter. You can see a package of the former in the picture above. They can be used in various kinds of stir fries and soups like the Tteok Guk that is a standard New Year's dish. Today I'll show you how to make a simple, spicy stew called tteokboki.

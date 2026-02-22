@@ -5,11 +5,11 @@ slug: "understanding-deadly-food-allergies-this-post-could-save-a-life"
 categories: ["Favorites", "Miscellany", "Theory and Rants"]
 aliases: ["/understanding-deadly-food-allergies-this-post-could-save-a-life/", "/2009/02/understanding-deadly-food-allergies-this-post-could-save-a-life.html"]
 cover:
-  image: "/images/old/6a00e008d618bb8834010537079a5a970b-500wi.jpg"
+  image: "/images/old/6a00e008d618bb8834010537079a5a970b-500wi.webp"
   hidden: true
 ---
 
-<a style="display: inline;" href="/images/old/6a00e008d618bb8834010537079a5a970b-800wi.jpg" rel="lightbox"><img class="at-xid-6a00e008d618bb8834010537079a5a970b "  src="/images/old/6a00e008d618bb8834010537079a5a970b-500wi.jpg" alt="Nuts" /></a>
+<a style="display: inline;" href="/images/old/6a00e008d618bb8834010537079a5a970b-800wi.webp" rel="lightbox"><img class="at-xid-6a00e008d618bb8834010537079a5a970b "  src="/images/old/6a00e008d618bb8834010537079a5a970b-500wi.webp" alt="Nuts" /></a>
 
 When I was a sophomore in college, a woman in my class named Katherine <span class="misspell">Brodsky</span> died because she never imagined that a bowl of chili at a local pub would have peanut butter as a "secret ingredient". She had the most severe form of food allergy, known as <strong>anaphylaxis</strong>. Her airway closed, and she died a couple of hours later. Although I didn't know Katherine personally, her tragedy stuck in my head.
 

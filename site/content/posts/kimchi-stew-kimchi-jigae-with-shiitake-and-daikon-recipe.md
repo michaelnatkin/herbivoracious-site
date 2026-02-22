@@ -6,7 +6,7 @@ description: "Kimchi jigae is classic Korean home cooking that is simple enough 
 categories: ["Recipes", "Main Courses", "Vegan or Modifiable"]
 aliases: ["/kimchi-stew-kimchi-jigae-with-shiitake-and-daikon-recipe/", "/2012/09/kimchi-stew-kimchi-jigae-with-shiitake-and-daikon-recipe.html"]
 cover:
-  image: "/images/cookbook/kimchi-stew-kimchi-jigae-with-shiitake-and-daikon.jpg"
+  image: "/images/cookbook/kimchi-stew-kimchi-jigae-with-shiitake-and-daikon.webp"
   hidden: true
 recipe:
   name: "Kimchi Stew (Kimchi Jigae) with Shiitake and Daikon"
@@ -31,7 +31,7 @@ recipe:
     - "Add the soy sauce and 3 cups of water. Bring to a boil, reduce to a simmer, and cook, stirring occasionally for 15 minutes. Taste and adjust seasoning. If you’d like it to be spicier, you can add more kimchi, kochujang, or powdered chili pepper (kochugaru), or even chili flakes. Gently stir in the tofu and simmer 5 more minutes."
     - "Divide among the serving bowls, garnish with an additional drizzle of sesame oil and the green onions, and serve immediately."
 ---
-<a href="/images/cookbook/kimchi-stew-kimchi-jigae-with-shiitake-and-daikon.jpg"><img src="/images/cookbook/kimchi-stew-kimchi-jigae-with-shiitake-and-daikon.jpg" alt="Kimchi Stew (Kimchi Jigae) with Shiitake and Daikon" /></a>
+<a href="/images/cookbook/kimchi-stew-kimchi-jigae-with-shiitake-and-daikon.webp"><img src="/images/cookbook/kimchi-stew-kimchi-jigae-with-shiitake-and-daikon.webp" alt="Kimchi Stew (Kimchi Jigae) with Shiitake and Daikon" /></a>
 
 
 <p>Kimchi jigae is classic Korean home cooking that is simple enough to make for a weeknight dinner. The body of the stew comes from chopped kimchi, spiked with chili paste (kochujang, also spelled <a href="https://www.amazon.com/Gochujang-Cholesterol-Calories-Fermented-Marinades/dp/B013HB0CC4?tag=herb-hugo-20">gochujang</a>) and miso. This version is made with daikon, shiitake mushroom caps and tofu, but you can adapt the stew to just about any ingredients you have on hand.</p>
@@ -40,9 +40,9 @@ recipe:
 <p> Depending on your kimchi, this may already be quite a spicy stew, or you may wish to add additional chile heat.</p>
 
 
-<a href="/images/cookbook/kimchi-stew-kimchi-jigae-with-shiitake-and-daikon-2.jpg"><img src="/images/cookbook/kimchi-stew-kimchi-jigae-with-shiitake-and-daikon-2.jpg" alt="Kimchi Stew (Kimchi Jigae) with Shiitake and Daikon" /></a>
+<a href="/images/cookbook/kimchi-stew-kimchi-jigae-with-shiitake-and-daikon-2.webp"><img src="/images/cookbook/kimchi-stew-kimchi-jigae-with-shiitake-and-daikon-2.webp" alt="Kimchi Stew (Kimchi Jigae) with Shiitake and Daikon" /></a>
 
-<a href="/images/cookbook/kimchi-stew-kimchi-jigae-with-shiitake-and-daikon-3.jpg"><img src="/images/cookbook/kimchi-stew-kimchi-jigae-with-shiitake-and-daikon-3.jpg" alt="Kimchi Stew (Kimchi Jigae) with Shiitake and Daikon" /></a>
+<a href="/images/cookbook/kimchi-stew-kimchi-jigae-with-shiitake-and-daikon-3.webp"><img src="/images/cookbook/kimchi-stew-kimchi-jigae-with-shiitake-and-daikon-3.webp" alt="Kimchi Stew (Kimchi Jigae) with Shiitake and Daikon" /></a>
 
 <div class="recipe-card">
 <p><strong>Kimchi Stew (Kimchi Jigae) with Shiitake and Daikon</strong>

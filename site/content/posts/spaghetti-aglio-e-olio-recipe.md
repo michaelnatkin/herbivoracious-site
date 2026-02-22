@@ -6,7 +6,7 @@ description: "Spaghetti aglio e olio (garlic and oil) is just about the simplest
 categories: ["Recipes", "Main Courses", "Vegan or Modifiable"]
 aliases: ["/spaghetti-aglio-e-olio-recipe/", "/2011/12/spaghetti-aglio-e-olio-recipe.html"]
 cover:
-  image: "/images/cookbook/spaghetti-aglio-e-olio.jpg"
+  image: "/images/cookbook/spaghetti-aglio-e-olio.webp"
   hidden: true
 recipe:
   name: "Spaghetti Aglio e Olio"
@@ -26,7 +26,7 @@ recipe:
     - "Turn the heat on your skillet to medium-high, and add the pasta to the oil along with ½ cup of the pasta water. Toss thoroughly with tongs, adding more of the reserved liquid if it seems dry."
     - "Divide the pasta among the serving bowls and garnish with the parsley and the optional breadcrumbs and cheese. Serve immediately."
 ---
-<a href="/images/cookbook/spaghetti-aglio-e-olio.jpg"><img src="/images/cookbook/spaghetti-aglio-e-olio.jpg" alt="Spaghetti Aglio e Olio" /></a>
+<a href="/images/cookbook/spaghetti-aglio-e-olio.webp"><img src="/images/cookbook/spaghetti-aglio-e-olio.webp" alt="Spaghetti Aglio e Olio" /></a>
 
 
 <p>Spaghetti aglio e olio (garlic and oil) is just about the simplest way to eat pasta other than just tossing the noodles with butter and cheese. You can have this ready two minutes after the pasta is done boiling, so it makes a perfect meal when the day gets away from you but you still want to eat something home-cooked.</p>
@@ -34,9 +34,9 @@ recipe:
 <p>The clean and direct flavors of extra virgin olive oil and garlic, spiked up with a few chile flakes are all it takes to make this dish outstanding. I often gild the lilly with a handful of Parmesan cheese and fresh breadcrumbs, but there are others who will insist this is sacrilege. The choice is yours.</p>
 
 
-<a href="/images/cookbook/spaghetti-aglio-e-olio-2.jpg"><img src="/images/cookbook/spaghetti-aglio-e-olio-2.jpg" alt="Spaghetti Aglio e Olio" /></a>
+<a href="/images/cookbook/spaghetti-aglio-e-olio-2.webp"><img src="/images/cookbook/spaghetti-aglio-e-olio-2.webp" alt="Spaghetti Aglio e Olio" /></a>
 
-<a href="/images/cookbook/spaghetti-aglio-e-olio-3.jpg"><img src="/images/cookbook/spaghetti-aglio-e-olio-3.jpg" alt="Spaghetti Aglio e Olio" /></a>
+<a href="/images/cookbook/spaghetti-aglio-e-olio-3.webp"><img src="/images/cookbook/spaghetti-aglio-e-olio-3.webp" alt="Spaghetti Aglio e Olio" /></a>
 
 <div class="recipe-card">
 <p><strong>Spaghetti Aglio e Olio</strong>

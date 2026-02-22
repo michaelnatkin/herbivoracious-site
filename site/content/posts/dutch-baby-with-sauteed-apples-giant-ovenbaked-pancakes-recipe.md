@@ -5,7 +5,7 @@ slug: "dutch-baby-with-sauteed-apples-giant-ovenbaked-pancakes-recipe"
 categories: ["Desserts", "Kid Friendly", "Recipes"]
 aliases: ["/dutch-baby-with-sauteed-apples-giant-ovenbaked-pancakes-recipe/", "/2009/05/dutch-baby-with-sauteed-apples-giant-ovenbaked-pancakes-recipe.html"]
 cover:
-  image: "/images/old/6a00e008d618bb88340115707ccfcb970b-500wi.jpg"
+  image: "/images/old/6a00e008d618bb88340115707ccfcb970b-500wi.webp"
   hidden: true
 recipe:
   name: "Giant Dutch Baby with Sauteed Apples"
@@ -30,7 +30,7 @@ recipe:
     - "When the Dutch Baby is done, carefully remove it from the oven. Pad off any excess butter on top with a paper towel. Top with the apples and a generous sprinkle of powdered sugar. Since you have it in a really hot skillet, you might want to serve it directly on to plates rather than bring that to the table. Offer lemon wedges on the side, they add a nice counterpoint to the sweetness."
 ---
 
-<a style="display: inline;" href="/images/old/6a00e008d618bb88340115707ccfcb970b-800wi.jpg" rel="lightbox"><img class="at-xid-6a00e008d618bb88340115707ccfcb970b " src="/images/old/6a00e008d618bb88340115707ccfcb970b-500wi.jpg" alt="Dutch_Baby_With_Sauteed_Apples" /></a>
+<a style="display: inline;" href="/images/old/6a00e008d618bb88340115707ccfcb970b-800wi.webp" rel="lightbox"><img class="at-xid-6a00e008d618bb88340115707ccfcb970b " src="/images/old/6a00e008d618bb88340115707ccfcb970b-500wi.webp" alt="Dutch_Baby_With_Sauteed_Apples" /></a>
 
 I happened to see Allen of <a href="http://www.eatingoutloud.com/2009/04/dutch-baby-pancake-recipe.html" target="_blank">Eating Out Loud's</a> post on Dutch Babies the other day, and I was reminded that my wife, Sarina, had fond childhood memories of them. I'd never had one before, but the recipe looked easy enough that I could pull it off while watching the kids so we could surprise her for Mother's Day. I'm glad I did, it was delicious.
 

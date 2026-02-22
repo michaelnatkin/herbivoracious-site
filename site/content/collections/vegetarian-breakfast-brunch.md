@@ -4,7 +4,7 @@ subtitle: "Morning meals worth getting out of bed for"
 slug: "vegetarian-breakfast-brunch"
 description: "Vegetarian breakfast and brunch recipes — from buckwheat pancakes and breakfast tacos to baked eggs with chanterelles. Weekend-worthy and weekday-adaptable."
 cover:
-  image: "/images/2013/11/Breakfast-Tacos-624x415.jpg"
+  image: "/images/2013/11/Breakfast-Tacos-624x415.webp"
 recipes:
   - "austin-style-breakfast-tacos-recipe"
   - "chilaquiles-verde-mexican-scrambled-eggs-with-corn-tortillas-and-green-salsa-recipe"

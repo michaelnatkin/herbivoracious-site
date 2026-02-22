@@ -5,11 +5,11 @@ slug: "corn-nut-butter-recipe-work-in-progress"
 categories: ["Experiments", "Gluten-Free or modifiable", "Recipes", "Vegan or Modifiable"]
 aliases: ["/corn-nut-butter-recipe-work-in-progress/", "/2012/06/corn-nut-butter-recipe-work-in-progress.html"]
 cover:
-  image: "/images/2012/06/Corn-Nut-Butter-626x415.jpg"
+  image: "/images/2012/06/Corn-Nut-Butter-626x415.webp"
   hidden: true
 ---
 
-<a href="/images/2012/06/Corn-Nut-Butter.jpg"><img class="alignnone size-large wp-image-2316" title="Corn Nut Butter" src="/images/2012/06/Corn-Nut-Butter-626x415.jpg" alt="Corn Nut Butter" width="626" height="415" />
+<a href="/images/2012/06/Corn-Nut-Butter.webp"><img class="alignnone size-large wp-image-2316" title="Corn Nut Butter" src="/images/2012/06/Corn-Nut-Butter-626x415.webp" alt="Corn Nut Butter" width="626" height="415" />
 </a><em>Corn Nut Butter</em>
 
 Yep. Corn Nuts, ground up into a "nut" butter.

@@ -6,7 +6,7 @@ description: "Recipe for a Persian-style stew with eggplant in a sweet, sour and
 categories: ["Gluten-Free or modifiable", "Main Courses", "Recipes", "Vegan or Modifiable"]
 aliases: ["/persian-italian-eggplant-stew-recipe/", "/2010/05/persian-italian-eggplant-stew-recipe.html"]
 cover:
-  image: "/images/old/6a00e008d618bb8834013480a274c0970c-500wi.jpg"
+  image: "/images/old/6a00e008d618bb8834013480a274c0970c-500wi.webp"
   hidden: true
 recipe:
   name: "Persian-Italian Eggplant Stew"
@@ -36,7 +36,7 @@ recipe:
     - "Garnish with parsley leaves and sumac and serve."
 ---
 
-<a style="display: inline;" href="/images/old/6a00e008d618bb8834013480a274c0970c-800wi.jpg" rel="lightbox"><img class="asset asset-image at-xid-6a00e008d618bb8834013480a274c0970c " title="Persian-Italian Eggplant Stew (Vegetarian, Vegan, and Gluten-Free)" src="/images/old/6a00e008d618bb8834013480a274c0970c-500wi.jpg" alt="Persian-Italian Eggplant Stew (Vegetarian, Vegan, and Gluten-Free)" /></a>
+<a style="display: inline;" href="/images/old/6a00e008d618bb8834013480a274c0970c-800wi.webp" rel="lightbox"><img class="asset asset-image at-xid-6a00e008d618bb8834013480a274c0970c " title="Persian-Italian Eggplant Stew (Vegetarian, Vegan, and Gluten-Free)" src="/images/old/6a00e008d618bb8834013480a274c0970c-500wi.webp" alt="Persian-Italian Eggplant Stew (Vegetarian, Vegan, and Gluten-Free)" /></a>
 <em>Persian-Italian Eggplant Stew</em>
 
 Yes, I said Persian-Italian. Bear with me here for a second. I was looking for some sort of moist eggplant dish to serve with Persian rice (a wonderful basmati pilaf with a crunchy crust; I'll tell you about that soon). I came across several recipes for a Persian dish named <em>Fesenjan-e Bademjan</em>, which is eggplant braised in a sauce of walnuts, <a href="https://www.amazon.com/dp/B0CRL8HR8S?tag=herb-hugo-20">pomegranate molasses</a>, and honey.

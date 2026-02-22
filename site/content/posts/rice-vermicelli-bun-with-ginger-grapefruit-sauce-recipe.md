@@ -6,7 +6,7 @@ description: "Vietnamese-style rice vermicelli noodle bowl (bun) with a bright g
 categories: ["Recipes", "Main Courses", "Vegan or Modifiable", "Gluten-Free"]
 aliases: ["/rice-vermicelli-bun-with-ginger-grapefruit-sauce-recipe/", "/2011/07/rice-vermicelli-bun-with-ginger-grapefruit-sauce-recipe.html"]
 cover:
-  image: "/images/cookbook/rice-vermicelli-bn-with-ginger-grapefruit-sauce.jpg"
+  image: "/images/cookbook/rice-vermicelli-bn-with-ginger-grapefruit-sauce.webp"
   hidden: true
 recipe:
   name: "Rice Vermicelli (Bún) with Ginger-Grapefruit Sauce"
@@ -41,16 +41,16 @@ recipe:
     - "Combine the carrot, daikon, rice wine vinegar and sesame seeds and set aside to pickle a bit."
     - "To assemble, divide the lettuce among 4 large bowls. Top each with a big handful of the rice noodles. Then top with an attractive arrangement of the remaining ingredients: tofu, grapefruit supremes, mango, carrot / daikon salad, chile pepper, cucumber and finally the shallot rings, green onion, cilantro and lime zest. You can either pour on the sauce yourself or divide into individual bowls for your guests to add as they see fit. Offer Sriracha-type hot sauce on the side."
 ---
-<a href="/images/cookbook/rice-vermicelli-bn-with-ginger-grapefruit-sauce.jpg"><img src="/images/cookbook/rice-vermicelli-bn-with-ginger-grapefruit-sauce.jpg" alt="Rice Vermicelli (Bún) with Ginger-Grapefruit Sauce" /></a>
+<a href="/images/cookbook/rice-vermicelli-bn-with-ginger-grapefruit-sauce.webp"><img src="/images/cookbook/rice-vermicelli-bn-with-ginger-grapefruit-sauce.webp" alt="Rice Vermicelli (Bún) with Ginger-Grapefruit Sauce" /></a>
 
 
 
 
-<a href="/images/cookbook/rice-vermicelli-bn-with-ginger-grapefruit-sauce-2.jpg"><img src="/images/cookbook/rice-vermicelli-bn-with-ginger-grapefruit-sauce-2.jpg" alt="Rice Vermicelli (Bún) with Ginger-Grapefruit Sauce" /></a>
+<a href="/images/cookbook/rice-vermicelli-bn-with-ginger-grapefruit-sauce-2.webp"><img src="/images/cookbook/rice-vermicelli-bn-with-ginger-grapefruit-sauce-2.webp" alt="Rice Vermicelli (Bún) with Ginger-Grapefruit Sauce" /></a>
 
-<a href="/images/cookbook/rice-vermicelli-bn-with-ginger-grapefruit-sauce-3.jpg"><img src="/images/cookbook/rice-vermicelli-bn-with-ginger-grapefruit-sauce-3.jpg" alt="Rice Vermicelli (Bún) with Ginger-Grapefruit Sauce" /></a>
+<a href="/images/cookbook/rice-vermicelli-bn-with-ginger-grapefruit-sauce-3.webp"><img src="/images/cookbook/rice-vermicelli-bn-with-ginger-grapefruit-sauce-3.webp" alt="Rice Vermicelli (Bún) with Ginger-Grapefruit Sauce" /></a>
 
-<a href="/images/cookbook/rice-vermicelli-bn-with-ginger-grapefruit-sauce-4.jpg"><img src="/images/cookbook/rice-vermicelli-bn-with-ginger-grapefruit-sauce-4.jpg" alt="Rice Vermicelli (Bún) with Ginger-Grapefruit Sauce" /></a>
+<a href="/images/cookbook/rice-vermicelli-bn-with-ginger-grapefruit-sauce-4.webp"><img src="/images/cookbook/rice-vermicelli-bn-with-ginger-grapefruit-sauce-4.webp" alt="Rice Vermicelli (Bún) with Ginger-Grapefruit Sauce" /></a>
 
 <div class="recipe-card">
 <p><strong>Rice Vermicelli (Bún) with Ginger-Grapefruit Sauce</strong>

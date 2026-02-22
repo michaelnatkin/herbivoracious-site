@@ -6,7 +6,7 @@ description: "The recipe for this refreshing, yogurt-based soup comes from our c
 categories: ["Recipes", "Soups", "Gluten-Free"]
 aliases: ["/cucumber-dill-soup-tarator-recipe/", "/2012/08/cucumber-dill-soup-tarator-recipe.html"]
 cover:
-  image: "/images/cookbook/cucumber-dill-soup-tarator.jpg"
+  image: "/images/cookbook/cucumber-dill-soup-tarator.webp"
   hidden: true
 recipe:
   name: "Cucumber & Dill Soup (Tarator)"
@@ -30,7 +30,7 @@ recipe:
     - "Refrigerate for at least 1 hour. Chill serving bowls as well. Check soup texture. If it is very thick, stir in a little cold water. If it is too thin you can add a little more sour cream. Taste and adjust seasoning again."
     - "To serve, pour into serving bowls and garnish with the reserved dill."
 ---
-<a href="/images/cookbook/cucumber-dill-soup-tarator.jpg"><img src="/images/cookbook/cucumber-dill-soup-tarator.jpg" alt="Cucumber & Dill Soup (Tarator)" /></a>
+<a href="/images/cookbook/cucumber-dill-soup-tarator.webp"><img src="/images/cookbook/cucumber-dill-soup-tarator.webp" alt="Cucumber & Dill Soup (Tarator)" /></a>
 
 
 <p>The recipe for this refreshing, yogurt-based soup comes from our cousin Sabi, an Israeli whose family emigrated from Bulgaria, where it is known as tarator. Our branch of the family elaborates it with mint and chives in addition to the traditional dill. It is perfect for a hot summer day when you don’t want to heat up the kitchen.</p>

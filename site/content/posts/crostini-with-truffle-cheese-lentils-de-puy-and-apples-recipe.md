@@ -6,7 +6,7 @@ description: "Vegetarian recipe for an elegant appetizer of grilled bread topped
 categories: ["Appetizers", "Recipes"]
 aliases: ["/crostini-with-truffle-cheese-lentils-de-puy-and-apples-recipe/", "/2011/02/crostini-with-truffle-cheese-lentils-de-puy-and-apples-recipe.html"]
 cover:
-  image: "/images/old/6a00e008d618bb88340147e2cddfaa970b-500wi.jpg"
+  image: "/images/old/6a00e008d618bb88340147e2cddfaa970b-500wi.webp"
   hidden: true
 recipe:
   name: "Crostini with Truffled Cheese, Lentils Du Puy and Apples"
@@ -28,7 +28,7 @@ recipe:
     - "Top each crostini with a spoonful of lentils. Don't pile them so high that it will be too hard to eat. Add a smaller spoonful of apples and a little pinch of the microgreens, and serve."
 ---
 
-<a style="display: inline;" href="/images/old/6a00e008d618bb88340147e2cddfaa970b-800wi.jpg" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb88340147e2cddfaa970b" title="Bruschetta Truffle Cheese Lentils Apples" src="/images/old/6a00e008d618bb88340147e2cddfaa970b-500wi.jpg" alt="Bruschetta Truffle Cheese Lentils Apples" /></a>
+<a style="display: inline;" href="/images/old/6a00e008d618bb88340147e2cddfaa970b-800wi.webp" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb88340147e2cddfaa970b" title="Bruschetta Truffle Cheese Lentils Apples" src="/images/old/6a00e008d618bb88340147e2cddfaa970b-500wi.webp" alt="Bruschetta Truffle Cheese Lentils Apples" /></a>
 <em>Crostini with Truffled Cheese, <a href="https://www.amazon.com/dp/B08B3XFW1C?tag=herb-hugo-20">Lentils Du Puy</a> and Apple</em>
 
 This was the first course of a <a href="http://www.facebook.com/album.php?aid=275992&amp;id=283218176855" target="_blank">little dinner party</a> I threw together for some friends a few weeks ago. It is really easy to make, and you could easily prepare the lentils the day before and then just warm them up when you are ready to serve. The apples provide a sweet, fresh counterpoint to the earthy flavors of the truffle and lentils.

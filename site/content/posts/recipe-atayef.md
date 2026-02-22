@@ -5,11 +5,11 @@ slug: "recipe-atayef"
 categories: ["Desserts", "Kid Friendly", "Vegan or Modifiable"]
 aliases: ["/recipe-atayef/", "/2008/04/recipe-atayef-.html", "/2008/04/recipe-atayef-/", "/2008/04/recipe-atayef-", "/2008/04/recipe-atayef.html"]
 cover:
-  image: "/images/2008-small/04/11/atayef.jpg"
+  image: "/images/2008-small/04/11/atayef.webp"
   hidden: true
 ---
 
-<a href="/images/2008/04/11/atayef.jpg" rel="lightbox"><img title="Atayef - Syrian Ricotta-Filled Dessert Pancakes" src="/images/2008-small/04/11/atayef.jpg" alt="Atayef - Syrian Ricotta-Filled Dessert Pancakes" width="455" height="302" border="0" /></a>
+<a href="/images/2008/04/11/atayef.webp" rel="lightbox"><img title="Atayef - Syrian Ricotta-Filled Dessert Pancakes" src="/images/2008-small/04/11/atayef.webp" alt="Atayef - Syrian Ricotta-Filled Dessert Pancakes" width="455" height="302" border="0" /></a>
 <span style="font-size: 0.8em;">Atayef - Syrian Ricotta-Filled Dessert Pancakes</span>
 
 I took one look at the picture of these <em>atayef</em> in Poopa Dweck's spectacular cookbook, <a type="amzn" href="http://www.amazon.com/dp/0060888180/?tag=poeticlicen07-20" target="_blank">Aromas of Aleppo, The Legendary Cuisine of Syrian Jews</a> and knew imediately that I had to make them. I served them at a recent Men Cook event for dessert, after a meal that also included her <a href="/2008/04/recipe-syrian-y/">red lentil soup (shurbat addes)</a> and <a href="/2008/04/recipe-syrian-s/">spiced yogurt cheese (labneh)</a>.

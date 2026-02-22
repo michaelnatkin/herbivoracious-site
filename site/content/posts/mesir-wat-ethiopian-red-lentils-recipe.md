@@ -5,7 +5,7 @@ slug: "mesir-wat-ethiopian-red-lentils-recipe"
 categories: ["Main Courses", "Recipes", "Side Dishes"]
 aliases: ["/mesir-wat-ethiopian-red-lentils-recipe/", "/2010/02/mesir-wat-ethiopian-red-lentils-recipe.html"]
 cover:
-  image: "/images/old/6a00e008d618bb88340128777bea31970c-500wi.jpg"
+  image: "/images/old/6a00e008d618bb88340128777bea31970c-500wi.webp"
   hidden: true
 recipe:
   name: "Mesir Wat - Ethiopian Red Lentil Puree"
@@ -27,7 +27,7 @@ recipe:
     - "Scrape the mixture from the skillet into the lentil and add about 1/2 teaspoon of salt. Continue to simmer until the lentils are fully pureed. The total time starting at step 1 will probably be about 40 minutes. Add water if too thick or cook a little longer if too thin. The ideal texture is thick enough to stand up a little on a spoon, but not thick like, say, hummus. A little thicker than applesauce. Taste and adjust the seasoning."
 ---
 
-<a style="display: inline;" href="/images/old/6a00e008d618bb88340128777bea31970c-800wi.jpg" rel="lightbox"><img class="asset asset-image at-xid-6a00e008d618bb88340128777bea31970c " src="/images/old/6a00e008d618bb88340128777bea31970c-500wi.jpg" alt="Mesir Wat, an Ethiopian red lentil puree" /></a>
+<a style="display: inline;" href="/images/old/6a00e008d618bb88340128777bea31970c-800wi.webp" rel="lightbox"><img class="asset asset-image at-xid-6a00e008d618bb88340128777bea31970c " src="/images/old/6a00e008d618bb88340128777bea31970c-500wi.webp" alt="Mesir Wat, an Ethiopian red lentil puree" /></a>
 <em>Mesir wat - Ethiopian red lentil puree</em>
 
 I've <a href="/2007/11/eat-ethiopian-t/" target="_blank">loved Ethiopian food</a> for years. The cuisine is very vegetarian friendly, with many dishes based on lentils, and various vegetable stews, all served with copious quantities of injera - a delicious, slightly sour and spongy flatbread which serves as both plate and eating utensil.

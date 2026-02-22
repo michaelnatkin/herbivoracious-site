@@ -5,7 +5,7 @@ slug: "sichuan-spicy-cauliflower-recipe"
 categories: ["Gluten-Free or modifiable", "Recipes", "Side Dishes", "Vegan or Modifiable"]
 aliases: ["/sichuan-spicy-cauliflower-recipe/", "/2013/03/sichuan-spicy-cauliflower-recipe.html"]
 cover:
-  image: "/images/2013/05/Sichuan-Cauliflower-Cooked-626x415.jpg"
+  image: "/images/2013/05/Sichuan-Cauliflower-Cooked-626x415.webp"
   hidden: true
 recipe:
   name: "Sichuan Spicy Cauliflower"
@@ -21,7 +21,7 @@ recipe:
     - "Microwave florets at high power until partly tender. Drain off any water. Heat a large skillet over high heat. Add the oil, salt, Sichuan peppercorn, garlic, and ginger. Stir-fry for just a few seconds, then add the cauliflower, and stir-fry until cooked through and browned in spots, about 5 minutes. Taste and adjust seasoning and serve."
 ---
 
-<a href="/images/2013/05/Sichuan-Cauliflower-Cooked.jpg"><img class="alignnone size-large wp-image-3652" alt="Sichuan Spicy Cauliflower" src="/images/2013/05/Sichuan-Cauliflower-Cooked-626x415.jpg" width="626" height="415" /></a>
+<a href="/images/2013/05/Sichuan-Cauliflower-Cooked.webp"><img class="alignnone size-large wp-image-3652" alt="Sichuan Spicy Cauliflower" src="/images/2013/05/Sichuan-Cauliflower-Cooked-626x415.webp" width="626" height="415" /></a>
 <em>Sichuan Spicy Cauliflower</em>
 
 So, this happened: for reasons too tedious to explore, we ate dinner at a California Pizza Kitchen the other night. First time I've been to one in years. Not my first choice of places to eat, but it served the purpose. The very next morning, I woke up to this Google Alert in my inbox:

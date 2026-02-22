@@ -5,7 +5,7 @@ slug: "maitake-mushrooms-in-smoky-tea-broth"
 categories: ["Appetizers", "Gluten-Free or modifiable", "Recipes", "Soups", "Vegan or Modifiable"]
 aliases: ["/maitake-mushrooms-in-smoky-tea-broth/", "/2013/04/maitake-mushrooms-in-smoky-tea-broth.html"]
 cover:
-  image: "/images/2013/04/Roasted-Maitake-In-Smoky-Tea-Broth-626x415.jpg"
+  image: "/images/2013/04/Roasted-Maitake-In-Smoky-Tea-Broth-626x415.webp"
   hidden: true
 recipe:
   name: "Roasted Maitake Mushrooms In Smoky Tea Broth – Recipe"
@@ -29,7 +29,7 @@ recipe:
     - "When the mushrooms are ready, place one portion in each bowl. Place the bok choy dice around the maitake. Reheat the tea in the microwave and divide among the 4 bowls. Garnish each bowl with a drizzle of toasted sesame oil, a pinch of flaky sea salt, and the scallions. Serve piping hot."
 ---
 
-<a href="/images/2013/04/Roasted-Maitake-In-Smoky-Tea-Broth.jpg"><img class="alignnone size-large wp-image-3694" alt="Roasted Maitake Mushroom In Smoky Tea Broth" src="/images/2013/04/Roasted-Maitake-In-Smoky-Tea-Broth-626x415.jpg" width="626" height="415" /></a>
+<a href="/images/2013/04/Roasted-Maitake-In-Smoky-Tea-Broth.webp"><img class="alignnone size-large wp-image-3694" alt="Roasted Maitake Mushroom In Smoky Tea Broth" src="/images/2013/04/Roasted-Maitake-In-Smoky-Tea-Broth-626x415.webp" width="626" height="415" /></a>
 <em>Roasted Maitake Mushroom In Smoky Tea Broth</em>
 
 <em>I've been traveling this week, so I thought I'd take the opportunity to share one of my favorite recipes from <a href="https://www.amazon.com/dp/1558327452?tag=herb-hugo-20" target="_blank">the Herbivoracious cookbook</a>. I saw some beautiful maitake mushrooms at Pike Place Market recently, so this should be a good time of year to seek them out and try this soup.</em>

@@ -5,7 +5,7 @@ slug: "i-like-you-hospitality-under-the-influence-by-amy-sedaris-cookbook-review
 categories: ["Baking", "Desserts", "Kid Friendly", "Recipes"]
 aliases: ["/i-like-you-hospitality-under-the-influence-by-amy-sedaris-cookbook-review/", "/2008/11/i-like-you-hospitality-under-the-influence-by-amy-sedaris-cookbook-review.html"]
 cover:
-  image: "/images/old/6a00e008d618bb8834010535f35007970c-500wi.jpg"
+  image: "/images/old/6a00e008d618bb8834010535f35007970c-500wi.webp"
   hidden: true
 recipe:
   name: "Arty Sarayiote's Koulourakia (Greek Cookie Twists)"
@@ -27,7 +27,7 @@ recipe:
     - "Place the koulourakia on a foil-lined cookie sheet, brush with egg whites, top with sesame seeds, and bake 25 minutes or until light brown."
 ---
 
-<a style="display: inline;" href="/images/old/6a00e008d618bb8834010535f35007970c-800wi.jpg" rel="lightbox"><img class="at-xid-6a00e008d618bb8834010535f35007970c "  src="/images/old/6a00e008d618bb8834010535f35007970c-500wi.jpg" alt="Koulourakis (Greek cookies with cardamom)" /></a>
+<a style="display: inline;" href="/images/old/6a00e008d618bb8834010535f35007970c-800wi.webp" rel="lightbox"><img class="at-xid-6a00e008d618bb8834010535f35007970c "  src="/images/old/6a00e008d618bb8834010535f35007970c-500wi.webp" alt="Koulourakis (Greek cookies with cardamom)" /></a>
 <span style="font-size: 10px; font-family: Arial;">Koulourakis (Greek cookies with cardamom)</span>
 
 For those of you who aren't familiar with her work (most famously <a href="http://en.wikipedia.org/wiki/Strangers_with_Candy">Strangers With Candy</a>), <strong>Amy Sedaris</strong> is crazy. <strong>Bug f'ing nuts</strong>. Mad as a hatter.

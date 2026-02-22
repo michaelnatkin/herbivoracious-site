@@ -5,7 +5,7 @@ slug: "panko-crusted-e"
 categories: ["Appetizers", "Experiments", "Recipes"]
 aliases: ["/panko-crusted-e/", "/2008/06/panko-crusted-e.html"]
 cover:
-  image: "/images/2008-small/06/05/pankocrustedeggwithsmokedasparagus.jpg"
+  image: "/images/2008-small/06/05/pankocrustedeggwithsmokedasparagus.webp"
   hidden: true
 recipe:
   name: "Panko-Crusted Egg With Cherry Smoked Asparagus, Smoked Paprika, And Sherry Gastrique"
@@ -31,7 +31,7 @@ recipe:
     - "Hit the asparagus with a bit of extra virgin olive oil and finishing salt."
 ---
 
-<span style="font-size: 0.8em;"><a href="/images/2008/06/05/pankocrustedeggwithsmokedasparagus.jpg" rel="lightbox"><img title="Panko-Crusted Egg With Cherry Smoked Asparagus, Smoked Paprika, And Sherry Gastrique" src="/images/2008-small/06/05/pankocrustedeggwithsmokedasparagus.jpg" alt="Panko-Crusted Egg With Cherry Smoked Asparagus, Smoked Paprika, And Sherry Gastrique" width="455" height="302" border="0" /></a></span>
+<span style="font-size: 0.8em;"><a href="/images/2008/06/05/pankocrustedeggwithsmokedasparagus.webp" rel="lightbox"><img title="Panko-Crusted Egg With Cherry Smoked Asparagus, Smoked Paprika, And Sherry Gastrique" src="/images/2008-small/06/05/pankocrustedeggwithsmokedasparagus.webp" alt="Panko-Crusted Egg With Cherry Smoked Asparagus, Smoked Paprika, And Sherry Gastrique" width="455" height="302" border="0" /></a></span>
 <span style="font-size: 0.8em;">Panko-Crusted Egg With Cherry Smoked Asparagus, Smoked Paprika, And Sherry Gastrique</span>
 
 This was the third course for <a href="/2008/05/dinner-party-1/">my recent "underground" dinner party</a>, and definitely my favorite. The panko-crusted egg was a late-night inspiration. I've been on a hunt for new ways to add crispy textures in unexpected places. The crunchy panko makes a really cool counterpoint to a correctly cooked, soft and smooth hardboiled egg. Eggs and asparagus have a natural affinity, and smoking the asparagus doubles up the flavor of the <a href="https://www.amazon.com/dp/B000NO943C?tag=herb-hugo-20">smoked paprika</a> (pimenton dulce). The sherry gastrique adds complex sweet/sour/caramelized notes.

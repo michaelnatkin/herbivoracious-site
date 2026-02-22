@@ -5,7 +5,7 @@ slug: "kouftikes-de-prasa-sandwiches-recipe"
 categories: ["Kid Friendly", "Main Courses", "Recipes"]
 aliases: ["/kouftikes-de-prasa-sandwiches-recipe/", "/2012/04/kouftikes-de-prasa-sandwiches-recipe.html"]
 cover:
-  image: "/images/2012/03/Kouftikes-De-Prasa-Sandwich.jpg"
+  image: "/images/2012/03/Kouftikes-De-Prasa-Sandwich.webp"
   hidden: true
 recipe:
   name: "Kouftikes De Prasa Sandwiches"
@@ -40,7 +40,7 @@ recipe:
     - "To finish the sandwiches: Place two leek patties on a pita. Top with a handful of the spicy red cabbage, 5 cucumber slices, and 2 tablespoons of the Greek yogurt. Sprinkle a little sumac on the yogurt, and scatter a few mint leaves over the whole sandwich. Serve immediately."
 ---
 
-<a href="/images/2012/03/Kouftikes-De-Prasa-Sandwich.jpg"><img class="alignnone size-full wp-image-1732" title="Kouftikes De Prasa Sandwich" src="/images/2012/03/Kouftikes-De-Prasa-Sandwich.jpg" alt="Kouftikes De Prasa Sandwich" width="580" height="800" />
+<a href="/images/2012/03/Kouftikes-De-Prasa-Sandwich.webp"><img class="alignnone size-full wp-image-1732" title="Kouftikes De Prasa Sandwich" src="/images/2012/03/Kouftikes-De-Prasa-Sandwich.webp" alt="Kouftikes De Prasa Sandwich" width="580" height="800" />
 </a><em>Kouftikes de Prasa (Leek Fritter) Sandwiches</em>
 
 <em>Of all the new recipes I developed for the cookbook this has to be one of my favorites. I'm excited to share it with you as a sneak peek today. The contest in this article is over (Melyssa S. was the winner), but maybe you'd like to <a href="/get-the-herbivoracious-cookbook/" target="_blank">order a copy</a>?</em>

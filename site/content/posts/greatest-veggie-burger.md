@@ -5,11 +5,11 @@ slug: "greatest-veggie-burger"
 categories: ["Kid Friendly", "Main Courses", "Recipes"]
 aliases: ["/greatest-veggie-burger/", "/2013/07/greatest-veggie-burger.html"]
 cover:
-  image: "/images/2014/05/MushroomBurger.jpg"
+  image: "/images/2014/05/MushroomBurger.webp"
   hidden: true
 ---
 
-<a href="/images/2014/05/MushroomBurger.jpg"><img class="alignnone size-full wp-image-4025" alt="Hi-Tech Mushroom Burger" src="/images/2014/05/MushroomBurger.jpg" width="600" height="367" />
+<a href="/images/2014/05/MushroomBurger.webp"><img class="alignnone size-full wp-image-4025" alt="Hi-Tech Mushroom Burger" src="/images/2014/05/MushroomBurger.webp" width="600" height="367" />
 </a><em>Hi-Tech Mushroom Burger</em>
 
 Having been a vegetarian for 30 years, I've eaten my share of veggie burgers. The problem with most mass-produced veggie burgers is that they taste bland and vaguely chemical, while most homemade versions have terrible texture issues. They are generally mushy, and who wants to bite through a soft bun into a mushy patty that falls apart on impact? Meh. If you can pile on enough condiments, they can be ok. But I've yet to eat a vegetarian burger that I'm actually excited to sink my teeth into.

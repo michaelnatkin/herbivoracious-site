@@ -5,11 +5,11 @@ slug: "how-to-make-tofu-really-freaking-delicious-tofu-101"
 categories: ["Favorites", "Gluten-Free or modifiable", "Kid Friendly", "Main Courses", "Recipes", "Seattle", "Theory and Rants", "Vegan or Modifiable"]
 aliases: ["/how-to-make-tofu-really-freaking-delicious-tofu-101/", "/2012/05/how-to-make-tofu-really-freaking-delicious-tofu-101.html"]
 cover:
-  image: "/images/2012/05/Tofu-101-Done-626x415.jpg"
+  image: "/images/2012/05/Tofu-101-Done-626x415.webp"
   hidden: true
 ---
 
-<a href="/images/2012/05/Tofu-101-Done.jpg"><img class="alignnone size-large wp-image-1961" title="Crispy Pan Fried Tofu" src="/images/2012/05/Tofu-101-Done-626x415.jpg" alt="Crispy Pan Fried Tofu" width="626" height="415" /></a>
+<a href="/images/2012/05/Tofu-101-Done.webp"><img class="alignnone size-large wp-image-1961" title="Crispy Pan Fried Tofu" src="/images/2012/05/Tofu-101-Done-626x415.webp" alt="Crispy Pan Fried Tofu" width="626" height="415" /></a>
 <em>Crispy Pan-Fried Tofu</em>
 
 When I talk with folks about meatless meals, the conversation always comes around to tofu. I find people in two camps: (1) those who hate it and are sure it is always <strong>bland</strong> (2) those who want to like it, but aren't really sure how to work with it to make it delicious.
@@ -41,7 +41,7 @@ Don't panic if this doesn't work for you, but if you live in a big city,  there
 
 Ok, I hear you: you don't live near a tofu store, or you aren't willing to go track one down. Fair enough. (But trust me, when you eventually do, it will be worth it.) Your next best bet is to find a store that moves a lot of tofu. You want the stuff packed in a rectangular, water filled box (or maybe wrapped in plastic), in the refrigerator section. Please not the shelf-stable UHT boxes. Choose an extra-firm tofu with the latest expiration date you can find. That is usually going to be a better indicator of quality than the brand. If you open it and smell more than a tiny whiff of sourness,  or it feels slimy, it isn't going to be good.
 <h3>Step 2: Cut Your Tofu</h3>
-<img class="alignleft size-thumbnail wp-image-1962" title="Tofu" src="/images/2012/05/Tofu-101-Cutting-150x150.jpg" alt="" width="150" height="150" />
+<img class="alignleft size-thumbnail wp-image-1962" title="Tofu" src="/images/2012/05/Tofu-101-Cutting-150x150.webp" alt="" width="150" height="150" />
 
 Open the package, drain out the water, and cut your 'fu into slabs about 3/8" thick. That will give you a nice ratio of crust to interior. You can, if desired, break those slabs down further into strips or cubes. (For cubes, 1/2" is probably a better size.) That was easy.
 <h3>Optional Step 2.5: Soak Your Tofu in Hot, Salted Water</h3>
@@ -53,20 +53,20 @@ Were you thinking I'd say marinate your tofu? In my experience, this is a waste 
 
 Were you thinking I'd say <a href="https://www.amazon.com/dp/B01698J0RU?tag=herb-hugo-20" target="_blank">press (weight) your tofu</a>? You can, if you want, but that is why I had you buy extra firm tofu in the first place, so that it already has a firm texture.
 
-<a href="/images/2012/05/Tofu-101-Drying.jpg"><img class="alignright size-thumbnail wp-image-1963" title="Tofu 101 - Drying" src="/images/2012/05/Tofu-101-Drying-150x150.jpg" alt="Tofu 101 - Drying" width="150" height="150" /></a>What we need to do is get the surface of your tofu dry. Put down a <a href="https://www.amazon.com/dp/B003BS4856?tag=herb-hugo-20" target="_blank">clean dishtowel</a>. Lay the tofu out in a single layer on said dish towel. Put another clean dishtowel on top and pat well, all over, to remove as much surface moisture as possible. This is what is going to allow it to brown. It will also reduce dangerous and unpleasant sputtering when you put it in the skillet.
+<a href="/images/2012/05/Tofu-101-Drying.webp"><img class="alignright size-thumbnail wp-image-1963" title="Tofu 101 - Drying" src="/images/2012/05/Tofu-101-Drying-150x150.webp" alt="Tofu 101 - Drying" width="150" height="150" /></a>What we need to do is get the surface of your tofu dry. Put down a <a href="https://www.amazon.com/dp/B003BS4856?tag=herb-hugo-20" target="_blank">clean dishtowel</a>. Lay the tofu out in a single layer on said dish towel. Put another clean dishtowel on top and pat well, all over, to remove as much surface moisture as possible. This is what is going to allow it to brown. It will also reduce dangerous and unpleasant sputtering when you put it in the skillet.
 <h3>Step 4: Pan Fry Your Tofu</h3>
 The optimum pan for this job is a <a href="/2009/11/my-skillet/">big cast-iron skillet</a>.  It holds a ton of heat, and develops a lovely non-sticking surface. We are going to cook this over very high heat, so you probably shouldn't use a non-stick pan as it might damage the coating or even be dangerous. A wok is really only a great choice if you have a wok burner capable of pumping out serious BTUs. Otherwise, the flat bottomed skillet works better because it allows the tofu to stay in contact with the hot surface for longer periods of time.
 
 So: heat that skillet over high heat. On my stove: maximum heat. If you have a commercial level Wolf or Viking, etc., it might be an notch down from there. When it is hot, add about 2 tablespoons of a neutral vegetable oil or peanut oil. Something with a high smoke point. Swirl to cover the surface. Pat the tofu dry one more time and put it in the skillet it in a single layer, with plenty of room around each piece. Don't crowd the pan, or the heat will drop too much and the tofu will steam, not brown. If you are doing a full pound, you'll probably need to do this in two batches.
 
-<a href="/images/2012/05/Tofu-101-Frying.jpg"><img class="alignleft size-thumbnail wp-image-1964" title="Tofu 101 - Frying" src="/images/2012/05/Tofu-101-Frying-150x150.jpg" alt="Tofu 101 - Frying" width="150" height="150" /></a>Cook on one side until it is <strong>deeply golden brown</strong>, then flip (<a href="/2012/08/the-joy-of-a-proper-spatula/" target="_blank">preferably with a slotted spatula</a>). If you are doing cubes, it becomes impractical to get all 6 sides of every piece, so instead you'll just toss them every minute or so and hope to get most of them.  When both sides are done, remove to a plate and, depending on what you are going to do with them, possibly season with a little sea salt. Done.
+<a href="/images/2012/05/Tofu-101-Frying.webp"><img class="alignleft size-thumbnail wp-image-1964" title="Tofu 101 - Frying" src="/images/2012/05/Tofu-101-Frying-150x150.webp" alt="Tofu 101 - Frying" width="150" height="150" /></a>Cook on one side until it is <strong>deeply golden brown</strong>, then flip (<a href="/2012/08/the-joy-of-a-proper-spatula/" target="_blank">preferably with a slotted spatula</a>). If you are doing cubes, it becomes impractical to get all 6 sides of every piece, so instead you'll just toss them every minute or so and hope to get most of them.  When both sides are done, remove to a plate and, depending on what you are going to do with them, possibly season with a little sea salt. Done.
 
 If you are going to turn this into a stir-fry but don't have that wok burner, don't be tempted to add the vegetables and sauce on top of the tofu. It will ruin the crust. Instead, remove the tofu from the pan, do your vegetables, then add the tofu back just in time to make friends with the sauce.
 
 <strong>So again, the keys: buy good tofu, get it really dry, fry in a hot skillet with a decent amount of oil, don't crowd the pan, and cook until it is really brown.</strong>
 
 Was that so hard?
-<h3><a href="/images/2012/05/How-To-Make-Tofu-Delicious-Pin1.jpg"><img class="alignright size-medium wp-image-2423" title="How To Make Tofu Delicious Pin" src="/images/2012/05/How-To-Make-Tofu-Delicious-Pin1-139x265.jpg" alt="" width="139" height="265" /></a>So What do I do With This New Found Tofu Knowledge?</h3>
+<h3><a href="/images/2012/05/How-To-Make-Tofu-Delicious-Pin1.webp"><img class="alignright size-medium wp-image-2423" title="How To Make Tofu Delicious Pin" src="/images/2012/05/How-To-Make-Tofu-Delicious-Pin1-139x265.webp" alt="" width="139" height="265" /></a>So What do I do With This New Found Tofu Knowledge?</h3>
 How about <a href="/2012/05/korean-yakisoba-with-french-horn-mushroom-tofu-and-510-egg-recipe/" target="_blank">yakisoba</a>, <a href="/2010/06/tofu-and-kimchi-dinner-for-one-recipe/" target="_blank">tofu &amp; kimchi dinner for 1</a>, <a href="/2010/04/vegetarian-japchae-a-guest-recipe-by-alice-of-savory-sweet-life/" target="_blank">jap chae</a>, <a href="/2010/02/thai-tofu-salad-recipe/" target="_blank">Thai tofu salad (yam tofu)</a>, <a href="/2009/10/red-curry-delicata-squash-and-tofu-recipe/" target="_blank">red curry delicata squash with tofu</a> ... and in <a href="https://www.amazon.com/dp/1558327452?tag=herb-hugo-20" target="_blank">my cookbook</a> you'll find khao soi (Chiang Mai curry noodles), seared tofu poke (Hawaiian style), Sichuan dry-fried green beans with tofu and more.
 
 Get The Herbivoracious Cookbook

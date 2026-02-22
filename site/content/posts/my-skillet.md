@@ -5,11 +5,11 @@ slug: "my-skillet"
 categories: ["Favorites", "My Kitchen", "Pots and Pans"]
 aliases: ["/my-skillet/", "/2009/11/my-skillet.html"]
 cover:
-  image: "/images/old/6a00e008d618bb88340120a69d1999970b-500wi.jpg"
+  image: "/images/old/6a00e008d618bb88340120a69d1999970b-500wi.webp"
   hidden: true
 ---
 
-<a style="display: inline;" href="/images/old/6a00e008d618bb88340120a69d1999970b-800wi.jpg" rel="lightbox"><img class="asset asset-image at-xid-6a00e008d618bb88340120a69d1999970b " src="/images/old/6a00e008d618bb88340120a69d1999970b-500wi.jpg" alt="Cast_Iron_Skillet" /></a>
+<a style="display: inline;" href="/images/old/6a00e008d618bb88340120a69d1999970b-800wi.webp" rel="lightbox"><img class="asset asset-image at-xid-6a00e008d618bb88340120a69d1999970b " src="/images/old/6a00e008d618bb88340120a69d1999970b-500wi.webp" alt="Cast_Iron_Skillet" /></a>
 <em>Cast iron skillet</em>
 
 This is <strong>my skillet</strong>. Sure, I have lots of others pots - small saute pans, sauciers, stock pots, paella pans, a beloved <a href="https://www.amazon.com/dp/B000LEXR0K?tag=herb-hugo-20">Dutch oven</a>, griddles, you name it. But this <a href="https://www.amazon.com/dp/B00006JSUB?tag=herb-hugo-20">big cast-iron skillet</a> is the absolute workhorse in my kitchen. I've had it for at least 20 years, and I'd say it has been the central figure in thousands of meals.

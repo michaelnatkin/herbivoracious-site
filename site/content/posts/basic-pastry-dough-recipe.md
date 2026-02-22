@@ -6,7 +6,7 @@ description: "Let’s have a word with you people who are afraid of making pastr
 categories: ["Recipes", "Sauces and Condiments"]
 aliases: ["/basic-pastry-dough-recipe/", "/2012/07/basic-pastry-dough-recipe.html"]
 cover:
-  image: "/images/cookbook/basic-pastry-dough.jpg"
+  image: "/images/cookbook/basic-pastry-dough.webp"
   hidden: true
 recipe:
   name: "Basic Pastry Dough"
@@ -22,7 +22,7 @@ recipe:
     - "Dust a work surface with flour and flatten the dough into a disk, about 7\" in diameter. Wrap it in plastic wrap, or better yet, put it in a gallon freezer bag. Press any little cracks in the edge together - this will make it easier to roll out. Refrigerate for at least one hour and up to two days."
     - "Remove the dough from the refrigerator and let warm up a bit until slightly pliable. This could be anywhere from 5 to 20 minutes depending on how well chilled it is. While still wrapped, give it several cathartic thwacks with your rolling pin to get a head start on rolling out. Now put it on your floured board, flour your rolling pin, and roll out to the desired shape for your final recipe."
 ---
-<a href="/images/cookbook/basic-pastry-dough.jpg"><img src="/images/cookbook/basic-pastry-dough.jpg" alt="Basic Pastry Dough" /></a>
+<a href="/images/cookbook/basic-pastry-dough.webp"><img src="/images/cookbook/basic-pastry-dough.webp" alt="Basic Pastry Dough" /></a>
 
 
 <p>Let’s have a word with you people who are afraid of making pastry crusts. I've been there. We can get you through this and have you making tender, flaky crusts. It really isn't difficult, you just have to focus on a few details:</p>

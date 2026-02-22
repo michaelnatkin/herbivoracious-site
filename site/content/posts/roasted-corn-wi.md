@@ -5,7 +5,7 @@ slug: "roasted-corn-wi"
 categories: ["Recipes", "Side Dishes"]
 aliases: ["/roasted-corn-wi/", "/2008/07/roasted-corn-wi.html"]
 cover:
-  image: "/images/2008-small/07/16/roasted_corn_with_ancho_chili_butte.jpg"
+  image: "/images/2008-small/07/16/roasted_corn_with_ancho_chili_butte.webp"
   hidden: true
 recipe:
   name: "Ancho Chili Butter"
@@ -23,7 +23,7 @@ recipe:
     - "Refrigerate in a ramekin, or wrap into a log shape in parchment paper."
 ---
 
-<a href="/images/2008/07/16/roasted_corn_with_ancho_chili_butte.jpg" rel="lightbox"><img title="Roasted_corn_with_ancho_chili_butte" src="/images/2008-small/07/16/roasted_corn_with_ancho_chili_butte.jpg" alt="Roasted_corn_with_ancho_chili_butte" width="455" height="302" border="0" /></a>
+<a href="/images/2008/07/16/roasted_corn_with_ancho_chili_butte.webp" rel="lightbox"><img title="Roasted_corn_with_ancho_chili_butte" src="/images/2008-small/07/16/roasted_corn_with_ancho_chili_butte.webp" alt="Roasted_corn_with_ancho_chili_butte" width="455" height="302" border="0" /></a>
 
 I'm more than a little obsessed when it comes to roasted or grilled corn. Anytime we go to a State Fair or Sons of Norway festival, I head straight for the corn booth, wolf down 3 ears and then regret that I don't have room for a cream puff. Well, not until after we play Whack-A-Mole.
 

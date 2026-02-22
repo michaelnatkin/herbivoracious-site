@@ -6,7 +6,7 @@ description: "Vegetarian recipe for apio, a bright and lemony celery root dish w
 categories: ["Recipes", "Side Dishes"]
 aliases: ["/apio-lemony-celery-root-recipe/", "/2012/02/apio-lemony-celery-root-recipe.html"]
 cover:
-  image: "/images/cookbook/apio-lemony-celery-root.jpg"
+  image: "/images/cookbook/apio-lemony-celery-root.webp"
   hidden: true
 recipe:
   name: "Apio (Lemony Celery Root)"
@@ -21,12 +21,12 @@ recipe:
     - "Combine all ingredients in a medium saucepan. Add enough water to just barely cover the vegetables. Bring to a boil, reduce heat to a simmer, cover and continue to cook for 30 minutes."
     - "Remove the lid and continue cooking until the celery root is completely tender. Remove the vegetables with a slotted spoon directly to serving bowl. Raise the heat to a boil and cook the liquid until it reduces by approximately half. It won’t be thick like a sauce, but it will have a slight body to it. Taste and adjust seasoning. Pour over the vegetables. Serve warm or chilled."
 ---
-<a href="/images/cookbook/apio-lemony-celery-root.jpg"><img src="/images/cookbook/apio-lemony-celery-root.jpg" alt="Apio (Lemony Celery Root)" /></a>
+<a href="/images/cookbook/apio-lemony-celery-root.webp"><img src="/images/cookbook/apio-lemony-celery-root.webp" alt="Apio (Lemony Celery Root)" /></a>
 
 
 
 
-<a href="/images/cookbook/apio-lemony-celery-root-2.jpg"><img src="/images/cookbook/apio-lemony-celery-root-2.jpg" alt="Apio (Lemony Celery Root)" /></a>
+<a href="/images/cookbook/apio-lemony-celery-root-2.webp"><img src="/images/cookbook/apio-lemony-celery-root-2.webp" alt="Apio (Lemony Celery Root)" /></a>
 
 <div class="recipe-card">
 <p><strong>Apio (Lemony Celery Root)</strong>

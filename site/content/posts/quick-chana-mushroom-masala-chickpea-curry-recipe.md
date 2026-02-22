@@ -5,7 +5,7 @@ slug: "quick-chana-mushroom-masala-chickpea-curry-recipe"
 categories: ["Favorites", "Gluten-Free or modifiable", "Kid Friendly", "Main Courses", "Recipes", "Vegan or Modifiable"]
 aliases: ["/quick-chana-mushroom-masala-chickpea-curry-recipe/", "/2009/09/quick-chana-mushroom-masala-chickpea-curry-recipe.html"]
 cover:
-  image: "/images/old/6a00e008d618bb88340120a5ac89f1970c-500wi.jpg"
+  image: "/images/old/6a00e008d618bb88340120a5ac89f1970c-500wi.webp"
   hidden: true
 recipe:
   name: "Chana Masala with Mushrooms"
@@ -39,7 +39,7 @@ recipe:
     - "Finish for the texture you want - you can see how I like it in the picture above. Then in a separate skillet, heat the last tablespoon of oil over a high flame and fry the mustard seeds until they pop, just a few seconds. This is called tempering, and it is a great way to add a final layer of flavor. Toss the contents of that skillet over the chickpeas and serve, with the cilantro for garnish."
 ---
 
-<a style="display: inline;" href="/images/old/6a00e008d618bb88340120a5ac89f1970c-800wi.jpg" rel="lightbox"><img class="at-xid-6a00e008d618bb88340120a5ac89f1970c " src="/images/old/6a00e008d618bb88340120a5ac89f1970c-500wi.jpg" alt="Chana_Mushroom_Masala" />
+<a style="display: inline;" href="/images/old/6a00e008d618bb88340120a5ac89f1970c-800wi.webp" rel="lightbox"><img class="at-xid-6a00e008d618bb88340120a5ac89f1970c " src="/images/old/6a00e008d618bb88340120a5ac89f1970c-500wi.webp" alt="Chana_Mushroom_Masala" />
 </a><em>Chana Masala with Mushrooms</em>
 
 Chana Masala (spicy chickpeas) is one of those ten dishes you will find at pretty much every Indian restaurant in America. You can understand why: it is inexpensive to prepare, delicious, healthy and satisfying. The mass prepared versions are usually pretty good, but you can make a similar dish at home and enjoy fresher, more vibrant flavors.

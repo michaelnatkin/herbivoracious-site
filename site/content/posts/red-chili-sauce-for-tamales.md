@@ -6,7 +6,7 @@ description: "Recipe for a red chili sauce suitable for use in tamales."
 categories: ["Recipes", "Sauces and Condiments", "Vegan or Modifiable"]
 aliases: ["/red-chili-sauce-for-tamales/", "/2011/11/red-chili-sauce-for-tamales.html"]
 cover:
-  image: "/images/old/6a00e008d618bb8834014e8a846a38970d-500wi.jpg"
+  image: "/images/old/6a00e008d618bb8834014e8a846a38970d-500wi.webp"
   hidden: true
 recipe:
   name: "Red Chili Sauce for Tamales"
@@ -27,7 +27,7 @@ recipe:
     - "Add the vegetable base, the tomatoes, the oregano, the cocoa powder and salt. Cover the blender and process on high speed for 1 minute. The result should be a thick sauce. If it is too thick, add a bit more water. Taste and adjust seasoning, then use to make tamales."
 ---
 
-<a style="display: inline;" href="/images/old/6a00e008d618bb8834014e8a846a38970d-800wi.jpg" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb8834014e8a846a38970d" title="Tofu and Red Chili Tamales" src="/images/old/6a00e008d618bb8834014e8a846a38970d-500wi.jpg" alt="Tofu and Red Chili Tamales" /></a>
+<a style="display: inline;" href="/images/old/6a00e008d618bb8834014e8a846a38970d-800wi.webp" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb8834014e8a846a38970d" title="Tofu and Red Chili Tamales" src="/images/old/6a00e008d618bb8834014e8a846a38970d-500wi.webp" alt="Tofu and Red Chili Tamales" /></a>
 <em>Tofu and Red Chili Tamales wrapped in Banana Leaves</em>
 
 I love tamales.
@@ -40,7 +40,7 @@ I love that moment when you unwrap that first tamal, like a little present, and 
 
 And I really love when I look in the freezer and find a bag with a few leftover tamales that I can have for breakfast. (They reheat beautifully in the microwave!)
 
-<a style="float: right;" href="/images/old/6a00e008d618bb8834015390912f9d970b-800wi.jpg" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb8834015390912f9d970b" style="width: 220px; margin: 0px 0px 5px 5px;" title="Red Chile Tamales Top" src="/images/old/6a00e008d618bb8834015390912f9d970b-250wi.jpg" alt="Red Chile Tamales Top" /></a>My wife and I were visiting the Old Mission in Santa Barbara earlier this year, and passing time in the gift shop I glanced through a book called <a href="https://www.amazon.com/dp/1580084281?tag=herb-hugo-20" target="_blank">Tamales 101</a>. I wasn't expecting much, but to my pleasant surprise it turns out to be a terrific specialized cookbook. The author, Alice Guadalupe Tapp runs a very succesful tamale shop in Los Angeles, and she takes you through each step in great detail, laying out all of your options (fresh masa or masa harina? butter or shortening?) and what effect they have on the finished product. Better yet, she has a ton of vegetarian recipes.
+<a style="float: right;" href="/images/old/6a00e008d618bb8834015390912f9d970b-800wi.webp" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb8834015390912f9d970b" style="width: 220px; margin: 0px 0px 5px 5px;" title="Red Chile Tamales Top" src="/images/old/6a00e008d618bb8834015390912f9d970b-250wi.webp" alt="Red Chile Tamales Top" /></a>My wife and I were visiting the Old Mission in Santa Barbara earlier this year, and passing time in the gift shop I glanced through a book called <a href="https://www.amazon.com/dp/1580084281?tag=herb-hugo-20" target="_blank">Tamales 101</a>. I wasn't expecting much, but to my pleasant surprise it turns out to be a terrific specialized cookbook. The author, Alice Guadalupe Tapp runs a very succesful tamale shop in Los Angeles, and she takes you through each step in great detail, laying out all of your options (fresh masa or masa harina? butter or shortening?) and what effect they have on the finished product. Better yet, she has a ton of vegetarian recipes.
 
 I'm not going to try and replicate all of this info in a blog post, so l'll just share my version of a piquant red chili sauce. I like a large dose of it moistening the inside of tamales filled with cubes of tofu and zucchini, or with black beans. If you are interested, I highly recommend you pick up the book. Or if you want instant gratification, there is a pretty good <a href="http://www.cooking-mexican-recipes.com/tamales-recipe.html" target="_blank">visual tamale tutorial here</a>.
 

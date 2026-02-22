@@ -6,7 +6,7 @@ description: "Variations on dhal puri roti are made on many of the Caribbean isl
 categories: ["Recipes", "Main Courses"]
 aliases: ["/dhal-puri-roti-caribbean-lentil-stuffed-flatbread-recipe/", "/2011/08/dhal-puri-roti-caribbean-lentil-stuffed-flatbread-recipe.html"]
 cover:
-  image: "/images/cookbook/dhal-puri-roti-caribbean-lentil-stuffed-flatbread.jpg"
+  image: "/images/cookbook/dhal-puri-roti-caribbean-lentil-stuffed-flatbread.webp"
   hidden: true
 recipe:
   name: "Dhal Puri Roti (Caribbean Lentil-stuffed Flatbread)"
@@ -35,7 +35,7 @@ recipe:
     - "To cook the breads, preheat a skillet or griddle that is at least 12” in diameter over a medium flame. Take one ball of dough and, on a lightly floured work surface or a silicone board, roll it out to about 5” in diameter. Place 3 tablespoons of the filling in the center. Pull the edges of dough up around the filling and seal to completely enclose it. Flatten with your hand and then roll out to about 10” in diameter and less than ¼” thick. (You can start baking one, in the next step, while continuing to form the rest of the breads)."
     - "Melt a little butter on the griddle and put in the first bread. Cook until lightly browned on the first side, about 1 ½ minutes, pushing down on the edges occasionally. You don’t want it to brown so much that it is crispy; the bread should remain soft. Turn and cook the other side, then remove to a plate, cover. Serve immediately or reheat if made in advance."
 ---
-<a href="/images/cookbook/dhal-puri-roti-caribbean-lentil-stuffed-flatbread.jpg"><img src="/images/cookbook/dhal-puri-roti-caribbean-lentil-stuffed-flatbread.jpg" alt="Dhal Puri Roti (Caribbean Lentil-stuffed Flatbread)" /></a>
+<a href="/images/cookbook/dhal-puri-roti-caribbean-lentil-stuffed-flatbread.webp"><img src="/images/cookbook/dhal-puri-roti-caribbean-lentil-stuffed-flatbread.webp" alt="Dhal Puri Roti (Caribbean Lentil-stuffed Flatbread)" /></a>
 
 
 <p>Variations on dhal puri roti are made on many of the Caribbean islands, but you can tell by the name and style that they originated with Indian immigrants. The name can seem confusing because in Indian terminology, a puri and a roti are two different types of bread.</p>
@@ -44,7 +44,7 @@ recipe:
 <p>These breads are best when steaming hot; otherwise, the filling can be dry. They reheat beautifully in the microwave if you’ve made them ahead.</p>
 
 
-<a href="/images/cookbook/dhal-puri-roti-caribbean-lentil-stuffed-flatbread-2.jpg"><img src="/images/cookbook/dhal-puri-roti-caribbean-lentil-stuffed-flatbread-2.jpg" alt="Dhal Puri Roti (Caribbean Lentil-stuffed Flatbread)" /></a>
+<a href="/images/cookbook/dhal-puri-roti-caribbean-lentil-stuffed-flatbread-2.webp"><img src="/images/cookbook/dhal-puri-roti-caribbean-lentil-stuffed-flatbread-2.webp" alt="Dhal Puri Roti (Caribbean Lentil-stuffed Flatbread)" /></a>
 
 <div class="recipe-card">
 <p><strong>Dhal Puri Roti (Caribbean Lentil-stuffed Flatbread)</strong>

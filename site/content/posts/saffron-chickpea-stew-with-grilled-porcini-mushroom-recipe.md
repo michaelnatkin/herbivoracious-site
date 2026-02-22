@@ -5,7 +5,7 @@ slug: "saffron-chickpea-stew-with-grilled-porcini-mushroom-recipe"
 categories: ["Gluten-Free or modifiable", "Main Courses", "Recipes", "Vegan or Modifiable"]
 aliases: ["/saffron-chickpea-stew-with-grilled-porcini-mushroom-recipe/", "/2012/06/saffron-chickpea-stew-with-grilled-porcini-mushroom-recipe.html"]
 cover:
-  image: "/images/2012/06/Grilled-Porcini-with-Chickpea-Stew-626x415.jpg"
+  image: "/images/2012/06/Grilled-Porcini-with-Chickpea-Stew-626x415.webp"
   hidden: true
 recipe:
   name: "Saffron Chickpea Stew with Grilled Porcini Mushrooms"
@@ -33,7 +33,7 @@ recipe:
     - "When you are ready to serve, give the chickpea stew one last adjustment for taste and texture and divide among the serving bowls. Top with some freshly ground black pepper and a little drizzle of olive oil. Arrange the porcini on top of the chickpeas. Garnish with the green garlic and a few flakes of Maldon (aka the world's greatest salt) and serve immediately."
 ---
 
-<a href="/images/2012/06/Grilled-Porcini-with-Chickpea-Stew.jpg"><img class="alignnone size-large wp-image-2079" title="Grilled Porcini with Chickpea Stew" src="/images/2012/06/Grilled-Porcini-with-Chickpea-Stew-626x415.jpg" alt="Grilled Porcini with Chickpea Stew" width="626" height="415" />
+<a href="/images/2012/06/Grilled-Porcini-with-Chickpea-Stew.webp"><img class="alignnone size-large wp-image-2079" title="Grilled Porcini with Chickpea Stew" src="/images/2012/06/Grilled-Porcini-with-Chickpea-Stew-626x415.webp" alt="Grilled Porcini with Chickpea Stew" width="626" height="415" />
 </a><em>Saffron Chickpea Stew with Grilled Porcini Mushrooms</em>
 
 First of all, let me say that this stew is <strong>well worth making</strong> even if you can't find fresh porcini mushrooms. I can only get them in Seattle for a few weeks a year, and they are quite expensive. You could serve the same stew with morels or crimini mushrooms (either of which you would just saute, not roast and grill), or take it in an entirely different direction and have it over couscous.

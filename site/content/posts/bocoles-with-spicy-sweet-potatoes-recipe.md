@@ -6,7 +6,7 @@ description: "Bocoloes are little pan-fried cake of masa and mashed black beans,
 categories: ["Recipes", "Main Courses", "Vegan or Modifiable", "Gluten-Free"]
 aliases: ["/bocoles-with-spicy-sweet-potatoes-recipe/", "/2011/10/bocoles-with-spicy-sweet-potatoes-recipe.html"]
 cover:
-  image: "/images/cookbook/bocoles-with-spicy-sweet-potatoes.jpg"
+  image: "/images/cookbook/bocoles-with-spicy-sweet-potatoes.webp"
   hidden: true
 recipe:
   name: "Bocoles with Spicy Sweet Potatoes"
@@ -41,7 +41,7 @@ recipe:
     - "Heat 1/8\" of oil in a large skillet over a medium-high flame. Make golf-ball sized balls of the dough and pat them between your hands into a pancake about 1/4\" thick. Fry for about 3 minutes on each side until brown on the outside and cooked but still soft on the inside."
     - "Serve immediately, on a bed of shredded lettuce, topped with a generous amount of the sweet potato filling, and garnished with the crema and optional pomegranate seeds. Pass the salad, salsa, or guacamole on the side."
 ---
-<a href="/images/cookbook/bocoles-with-spicy-sweet-potatoes.jpg"><img src="/images/cookbook/bocoles-with-spicy-sweet-potatoes.jpg" alt="Bocoles with Spicy Sweet Potatoes" /></a>
+<a href="/images/cookbook/bocoles-with-spicy-sweet-potatoes.webp"><img src="/images/cookbook/bocoles-with-spicy-sweet-potatoes.webp" alt="Bocoles with Spicy Sweet Potatoes" /></a>
 
 
 <p>Bocoloes are little pan-fried cake of masa and mashed black beans, typically served as anantojito (appetizer). I learned about them from Diana Kennedy's magnificient opus, My Mexico. For my version, I’ve replaced the pork filling with spiced up pan-fried sweet potatoes, and increase the portion to make them into a satisfying vegetarian entrée.</p>
@@ -51,7 +51,7 @@ recipe:
 <p>If you don’t have refried black beans, just cook ½ an onion and 2 cloves of garlic in a couple tablespoons of oil, add cooked black beans and a little oil and mash them to a smooth puree, adding water as needed. Season to taste.</p>
 
 
-<a href="/images/cookbook/bocoles-with-spicy-sweet-potatoes-2.jpg"><img src="/images/cookbook/bocoles-with-spicy-sweet-potatoes-2.jpg" alt="Bocoles with Spicy Sweet Potatoes" /></a>
+<a href="/images/cookbook/bocoles-with-spicy-sweet-potatoes-2.webp"><img src="/images/cookbook/bocoles-with-spicy-sweet-potatoes-2.webp" alt="Bocoles with Spicy Sweet Potatoes" /></a>
 
 <div class="recipe-card">
 <p><strong>Bocoles with Spicy Sweet Potatoes</strong>

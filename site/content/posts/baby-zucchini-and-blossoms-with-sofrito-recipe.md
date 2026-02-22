@@ -5,7 +5,7 @@ slug: "baby-zucchini-and-blossoms-with-sofrito-recipe"
 categories: ["Gluten-Free or modifiable", "Recipes", "Side Dishes", "Vegan or Modifiable"]
 aliases: ["/baby-zucchini-and-blossoms-with-sofrito-recipe/", "/2013/07/baby-zucchini-and-blossoms-with-sofrito-recipe.html"]
 cover:
-  image: "/images/2013/07/Zucchini-Sofrito-626x415.jpg"
+  image: "/images/2013/07/Zucchini-Sofrito-626x415.webp"
   hidden: true
 recipe:
   name: "Baby Zucchini and Blossoms with"
@@ -28,7 +28,7 @@ recipe:
     - "To serve, transfer to a bowl and garnish with the reserved parsley and squash blossoms."
 ---
 
-<a href="/images/2013/07/Zucchini-Sofrito.jpg"><img class="alignnone size-large wp-image-3825" alt="Baby Zucchini with Sofrito" src="/images/2013/07/Zucchini-Sofrito-626x415.jpg" width="626" height="415" /></a>
+<a href="/images/2013/07/Zucchini-Sofrito.webp"><img class="alignnone size-large wp-image-3825" alt="Baby Zucchini with Sofrito" src="/images/2013/07/Zucchini-Sofrito-626x415.webp" width="626" height="415" /></a>
 <em>Baby Zucchini and Blossoms with Sofrito</em>
 
 Every gardener loves to lament that they get overrun with zucchini and have to resort to baking too much zucchini bread or, worse, ringing the doorbell, dashing and leaving them on people's doorsteps. Well, let me tell you: you're doing it wrong.

@@ -5,7 +5,7 @@ slug: "cavatelli-with-slow-roasted-broccoli-and-harissa-recipe"
 categories: ["Main Courses", "Recipes", "Vegan or Modifiable"]
 aliases: ["/cavatelli-with-slow-roasted-broccoli-and-harissa-recipe/", "/2013/02/cavatelli-with-slow-roasted-broccoli-and-harissa-recipe.html"]
 cover:
-  image: "/images/2013/02/Cavatelli-with-Broccoli-and-Harissa-626x415.jpg"
+  image: "/images/2013/02/Cavatelli-with-Broccoli-and-Harissa-626x415.webp"
   hidden: true
 recipe:
   name: "Cavatelli with Slow Roasted Broccoli and Harissa"
@@ -29,7 +29,7 @@ recipe:
     - "Stir in the parsley and mint. Divide the pasta among the preheated bowls, hit with a few flakes of Maldon salt and some freshly ground pepper, and serve immediately, passing the Parmesan cheese at the table if using."
 ---
 
-<a href="/images/2013/02/Cavatelli-with-Broccoli-and-Harissa.jpg"><img class="alignnone size-large wp-image-3586" alt="Cavatelli with Slow Roasted Broccoli and Harissa" src="/images/2013/02/Cavatelli-with-Broccoli-and-Harissa-626x415.jpg" width="626" height="415" /></a>
+<a href="/images/2013/02/Cavatelli-with-Broccoli-and-Harissa.webp"><img class="alignnone size-large wp-image-3586" alt="Cavatelli with Slow Roasted Broccoli and Harissa" src="/images/2013/02/Cavatelli-with-Broccoli-and-Harissa-626x415.webp" width="626" height="415" /></a>
 
 Hopefully we are at a point now where it is no longer considered a faux pas to, you know, actually <strong>cook</strong> a vegetable. I know there was a time when all vegetables were indiscriminately boiled to death. Then came the rebellion, and all vegetables had to be served just lightly waved over steam. Your jaw got a good workout in those years.
 

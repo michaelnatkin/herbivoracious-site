@@ -4,7 +4,7 @@ subtitle: "Start the meal right, no meat required"
 slug: "vegetarian-appetizers"
 description: "Impressive vegetarian appetizer recipes for dinner parties, holidays, and entertaining. From crispy fritters to elegant composed plates, these starters set the tone."
 cover:
-  image: "/images/cookbook/chanterelle-bnh-mi-bites.jpg"
+  image: "/images/cookbook/chanterelle-bnh-mi-bites.webp"
 recipes:
   - "chanterelle-banh-mi-bites-recipe"
   - "aloo-tikki-indian-potato-fritters-recipe"

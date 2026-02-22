@@ -5,7 +5,7 @@ slug: "vegetarian-chili-recipe"
 categories: ["Favorites", "Gluten-Free or modifiable", "Kid Friendly", "Main Courses", "Recipes", "Vegan or Modifiable"]
 aliases: ["/vegetarian-chili-recipe/", "/2009/04/vegetarian-chili-recipe.html"]
 cover:
-  image: "/images/old/6a00e008d618bb883401156f9cf5ce970b-500wi.jpg"
+  image: "/images/old/6a00e008d618bb883401156f9cf5ce970b-500wi.webp"
   hidden: true
 recipe:
   name: "Vegetarian Chili From Scratch"
@@ -41,7 +41,7 @@ recipe:
     - "Serve your vegetarian chili forth with the garnishes listed above."
 ---
 
-<a style="display: inline;" href="/images/old/6a00e008d618bb883401156f9cf5ce970b-800wi.jpg" rel="lightbox"><img class="photo at-xid-6a00e008d618bb883401156f9cf5ce970b " src="/images/old/6a00e008d618bb883401156f9cf5ce970b-500wi.jpg" alt="Vegetarian_Chili" /></a>
+<a style="display: inline;" href="/images/old/6a00e008d618bb883401156f9cf5ce970b-800wi.webp" rel="lightbox"><img class="photo at-xid-6a00e008d618bb883401156f9cf5ce970b " src="/images/old/6a00e008d618bb883401156f9cf5ce970b-500wi.webp" alt="Vegetarian_Chili" /></a>
 <span style="font-size: 12px;"><em>Vegetarian chili with all the fixins'</em></span>
 
 Vegetarian chili is one of the first veggie entrees that pop into people's minds (along with <a href="/2008/12/vegetarian-lasagna-recipe-with-spinach-and-ricotta-filling/" target="_blank">vegetarian lasagna</a> of course). It is a delicious, easy and very nutritious meal-in-a-bowl. Add some tortillas or <a href="/2009/04/best-cornbread-ever/" target="_blank">brown-butter cornbread</a> and a salad and you'll feel like a king. It also can be made ahead; it just gets better over the course of a couple of days, and it freezes well.

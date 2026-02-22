@@ -6,7 +6,7 @@ description: "Tender seckel pears topped with buttery cinnamon pastry crumbs. A 
 categories: ["Recipes", "Desserts"]
 aliases: ["/seckel-pears-with-cinnamon-pastry-crumbs-recipe/", "/2012/05/seckel-pears-with-cinnamon-pastry-crumbs-recipe.html"]
 cover:
-  image: "/images/cookbook/seckel-pears-with-cinnamon-pastry-crumbs.jpg"
+  image: "/images/cookbook/seckel-pears-with-cinnamon-pastry-crumbs.webp"
   hidden: true
 recipe:
   name: "Seckel Pears with Cinnamon Pastry Crumbs"
@@ -27,7 +27,7 @@ recipe:
     - "Preheat the oven to 375. Line a baking sheet with parchment or a silicone pat. Roll out one of the discs of dough on a lightly floured board to about 1/8” thick. Transfer to the baking sheet and bake until golden brown, about 11 minutes. Remove and allow to cool, then crumble to a fairly fine crumb texture. (Save the remaining dough for another purpose.)"
     - "To serve, place about 2 tablespoons of the crumbs in a pile on each serving plate. Make a small hollow in the middle and rest a pear in that hollow. Put a small scoop of vanilla ice cream on each plate and garnish that with a few lines of the hardened pear caramel. Serve immediately."
 ---
-<a href="/images/cookbook/seckel-pears-with-cinnamon-pastry-crumbs.jpg"><img src="/images/cookbook/seckel-pears-with-cinnamon-pastry-crumbs.jpg" alt="Seckel Pears with Cinnamon Pastry Crumbs" /></a>
+<a href="/images/cookbook/seckel-pears-with-cinnamon-pastry-crumbs.webp"><img src="/images/cookbook/seckel-pears-with-cinnamon-pastry-crumbs.webp" alt="Seckel Pears with Cinnamon Pastry Crumbs" /></a>
 
 
 

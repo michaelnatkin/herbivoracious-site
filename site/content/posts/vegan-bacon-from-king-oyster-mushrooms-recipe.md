@@ -5,7 +5,7 @@ slug: "vegan-bacon-from-king-oyster-mushrooms-recipe"
 categories: ["Breakfast", "Gluten-Free or modifiable", "Recipes", "Sauces and Condiments", "Vegan or Modifiable"]
 aliases: ["/vegan-bacon-from-king-oyster-mushrooms-recipe/", "/2012/11/vegan-bacon-from-king-oyster-mushrooms-recipe.html"]
 cover:
-  image: "/images/2012/11/Mushroom-Bacon-626x415.jpg"
+  image: "/images/2012/11/Mushroom-Bacon-626x415.webp"
   hidden: true
 recipe:
   name: "Vegan \"Bacon\" From King Oyster Mushrooms"
@@ -22,7 +22,7 @@ recipe:
     - "Line a plate with paper towels. Heat a large skillet, preferably cast-iron over medium-high heat. Add a thin layer of vegetable oil. When it shimmers, add strips of mushroom in a single, sparse layer (working in batches as needed) and cook until golden brown (about 1 minute), then flip and brown the other side. Transfer to the paper towels. It will crisp up as it cools (just 20 seconds or so)."
 ---
 
-<a href="/images/2012/11/Mushroom-Bacon.jpg"><img class="alignnone size-large wp-image-3330" title="Vegetarian &quot;Bacon&quot; From King Oyster Mushrooms" src="/images/2012/11/Mushroom-Bacon-626x415.jpg" alt="Vegetarian &quot;Bacon&quot; From King Oyster Mushrooms" width="626" height="415" /></a>
+<a href="/images/2012/11/Mushroom-Bacon.webp"><img class="alignnone size-large wp-image-3330" title="Vegetarian &quot;Bacon&quot; From King Oyster Mushrooms" src="/images/2012/11/Mushroom-Bacon-626x415.webp" alt="Vegetarian &quot;Bacon&quot; From King Oyster Mushrooms" width="626" height="415" /></a>
 <em>Vegan "Bacon" From King Oyster Mushrooms (left: whole mushroom; middle: sliced mushroom; right: "bacon")</em>
 
 Let me say for the record: I have no desire to eat bacon. <strong>I prefer for pigs to keep their own bellies and backsides.</strong> However, I'm not at all opposed to having good ways of adding crispy, salty, savory, smoky goodness to my meals.

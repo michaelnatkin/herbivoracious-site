@@ -5,7 +5,7 @@ slug: "boyikos-aka-boyos-de-queso-sephardic-style-cheese-biscuits-the-greatest-s
 categories: ["Appetizers", "Kid Friendly", "Recipes"]
 aliases: ["/boyikos-aka-boyos-de-queso-sephardic-style-cheese-biscuits-the-greatest-snack-with-a-martini-ever-re/", "/2009/01/boyikos-aka-boyos-de-queso-sephardic-style-cheese-biscuits-the-greatest-snack-with-a-martini-ever-re.html"]
 cover:
-  image: "/images/old/6a00e008d618bb8834010536d6fca4970b-500wi.jpg"
+  image: "/images/old/6a00e008d618bb8834010536d6fca4970b-500wi.webp"
   hidden: true
 recipe:
   name: "Boyikos"
@@ -26,7 +26,7 @@ recipe:
     - "Bake until golden brown, about 15 minutes. You don't want them to get real dark, but they should definitely be golden. Let cool for a couple of minutes and then remove to a wire rack. Cool the cookie sheet before making another batch."
 ---
 
-<a style="display: inline;" href="/images/old/6a00e008d618bb8834010536d6fca4970b-800wi.jpg" rel="lightbox"><img class="at-xid-6a00e008d618bb8834010536d6fca4970b "  src="/images/old/6a00e008d618bb8834010536d6fca4970b-500wi.jpg" alt="Boyikos (aka Boyos de Queso) - Sephardic Style Cheese Biscuits - The Greatest Snack with a Martini Ever - Recipe" /></a>
+<a style="display: inline;" href="/images/old/6a00e008d618bb8834010536d6fca4970b-800wi.webp" rel="lightbox"><img class="at-xid-6a00e008d618bb8834010536d6fca4970b "  src="/images/old/6a00e008d618bb8834010536d6fca4970b-500wi.webp" alt="Boyikos (aka Boyos de Queso) - Sephardic Style Cheese Biscuits - The Greatest Snack with a Martini Ever - Recipe" /></a>
 <span style="font-size: 12px; font-family: Arial;">Boyikos in their natural habitat</span>
 
 Savory, crispy, flaky, cheesy. Boyikos are little cheese biscuits or crackers that every good Sephardic grandmother makes. You should learn how too, because they are quick and easy, and I don't think a Martini ever had a better companion. Bring these to a potluck and I bet you come home with an empty plate.

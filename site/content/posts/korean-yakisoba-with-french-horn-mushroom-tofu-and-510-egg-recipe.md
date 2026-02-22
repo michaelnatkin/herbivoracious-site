@@ -5,7 +5,7 @@ slug: "korean-yakisoba-with-french-horn-mushroom-tofu-and-510-egg-recipe"
 categories: ["Main Courses", "Recipes"]
 aliases: ["/korean-yakisoba-with-french-horn-mushroom-tofu-and-510-egg-recipe/", "/2012/05/korean-yakisoba-with-french-horn-mushroom-tofu-and-510-egg-recipe.html"]
 cover:
-  image: "/images/2012/03/Korean-Yakisoba-626x415.jpg"
+  image: "/images/2012/03/Korean-Yakisoba-626x415.webp"
   hidden: true
 recipe:
   name: "Korean Yakisoba with French Horn Mushroom, Tofu and 5:10 Egg"
@@ -20,7 +20,7 @@ recipe:
     - "Toss all ingredients and allow to rest at room temperature for about an hour. Can also be made a day ahead and refrigerated."
 ---
 
-<a href="/images/2012/03/Korean-Yakisoba.jpg"><img class="alignnone size-large wp-image-1738" title="Korean Yakisoba with French Horn Mushroom, Tofu and 5:10 Egg" src="/images/2012/03/Korean-Yakisoba-626x415.jpg" alt="" width="626" height="415" /></a>
+<a href="/images/2012/03/Korean-Yakisoba.webp"><img class="alignnone size-large wp-image-1738" title="Korean Yakisoba with French Horn Mushroom, Tofu and 5:10 Egg" src="/images/2012/03/Korean-Yakisoba-626x415.webp" alt="" width="626" height="415" /></a>
 <em>Korean Yakisoba with French Horn Mushroom, Tofu and 5:10 Egg</em>
 
 I asked around on the <a href="https://www.facebook.com/herbivoracious" target="_blank">social</a> <a href="https://twitter.com/#!/michaelnatkin" target="_blank">medias</a> to see if there was an official name for Japanese yakisoba noodles cooked with Korean flavors, and no-one came up with anything, but I have a hard time believing that some version of this dish doesn't exist. So someone please let me know the right term.

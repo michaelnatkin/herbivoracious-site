@@ -6,7 +6,7 @@ description: "Warm salads seem a little more filling than a typical cool salad, 
 categories: ["Recipes", "Salads", "Gluten-Free"]
 aliases: ["/warm-frisee-salad-with-brown-butter-vinaigrette-recipe/", "/2012/09/warm-frisee-salad-with-brown-butter-vinaigrette-recipe.html"]
 cover:
-  image: "/images/cookbook/warm-frisee-salad-with-brown-butter-vinaigrette.jpg"
+  image: "/images/cookbook/warm-frisee-salad-with-brown-butter-vinaigrette.webp"
   hidden: true
 recipe:
   name: "Warm Frisee Salad with Brown Butter Vinaigrette"
@@ -27,7 +27,7 @@ recipe:
     - "Add the garlic to the butter and cook for 30 seconds. Turn off the heat. Add the frisee, champagne vinegar, and ¼ teaspoon more salt. Toss in the butter just enough to barely begin to wilt, about 30 seconds."
     - "Using tongs, remove the frisee, gently shaking off any excess butter. Divide among 4 serving plates. Divide the turnips, mushrooms and hazelnuts among the plates. Season each salad with a generous grating of fresh-ground black pepper and serve immediately."
 ---
-<a href="/images/cookbook/warm-frisee-salad-with-brown-butter-vinaigrette.jpg"><img src="/images/cookbook/warm-frisee-salad-with-brown-butter-vinaigrette.jpg" alt="Warm Frisee Salad with Brown Butter Vinaigrette" /></a>
+<a href="/images/cookbook/warm-frisee-salad-with-brown-butter-vinaigrette.webp"><img src="/images/cookbook/warm-frisee-salad-with-brown-butter-vinaigrette.webp" alt="Warm Frisee Salad with Brown Butter Vinaigrette" /></a>
 
 
 <p>Warm salads seem a little more filling than a typical cool salad, and a bit special too. They are nice in cool weather, especially if you aren’t serving a soup to take the chill out of the air.</p>
@@ -35,9 +35,9 @@ recipe:
 <p>To turn this salad into a light meal, top it with a poached or fried egg and serve it with a slices of artisan toast. Toasted walnut or pecan halves and shavings of Parmesan cheese are also delicious additions. You can also replace the frisee with baby arugula.</p>
 
 
-<a href="/images/cookbook/warm-frisee-salad-with-brown-butter-vinaigrette-2.jpg"><img src="/images/cookbook/warm-frisee-salad-with-brown-butter-vinaigrette-2.jpg" alt="Warm Frisee Salad with Brown Butter Vinaigrette" /></a>
+<a href="/images/cookbook/warm-frisee-salad-with-brown-butter-vinaigrette-2.webp"><img src="/images/cookbook/warm-frisee-salad-with-brown-butter-vinaigrette-2.webp" alt="Warm Frisee Salad with Brown Butter Vinaigrette" /></a>
 
-<a href="/images/cookbook/warm-frisee-salad-with-brown-butter-vinaigrette-3.jpg"><img src="/images/cookbook/warm-frisee-salad-with-brown-butter-vinaigrette-3.jpg" alt="Warm Frisee Salad with Brown Butter Vinaigrette" /></a>
+<a href="/images/cookbook/warm-frisee-salad-with-brown-butter-vinaigrette-3.webp"><img src="/images/cookbook/warm-frisee-salad-with-brown-butter-vinaigrette-3.webp" alt="Warm Frisee Salad with Brown Butter Vinaigrette" /></a>
 
 <div class="recipe-card">
 <p><strong>Warm Frisee Salad with Brown Butter Vinaigrette</strong>

@@ -5,7 +5,7 @@ slug: "lentil-and-cucumber-salad-perfect-for-potlucks-recipe"
 categories: ["Gluten-Free or modifiable", "Kid Friendly", "Main Courses", "Recipes", "Salads", "Vegan or Modifiable"]
 aliases: ["/lentil-and-cucumber-salad-perfect-for-potlucks-recipe/", "/2013/06/lentil-and-cucumber-salad-perfect-for-potlucks-recipe.html"]
 cover:
-  image: "/images/2013/06/Lentil-and-Cucumber-Salad-626x415.jpg"
+  image: "/images/2013/06/Lentil-and-Cucumber-Salad-626x415.webp"
   hidden: true
 recipe:
   name: "Lentil and Cucumber Salad"
@@ -25,7 +25,7 @@ recipe:
     - "Combine the cooled lentils, cucumbers, onion, olive oil, lemon juice, 2 teaspoons of salt, dill and mint in a large bowl and toss. Taste and adjust seasoning. It may need more salt or lemon juice. Look for that moment when the flavors start to \"sing\" a little, not just sit there meekly on your palate. If you are serving more than an hour or so later, refrigerate and hold off on the herbs and final flavor adjustment until close to serving time. Garnish with the remaining herbs."
 ---
 
-<a href="/images/2013/06/Lentil-and-Cucumber-Salad.jpg"><img class="alignnone size-large wp-image-3778" alt="Lentil and Cucumber Salad" src="/images/2013/06/Lentil-and-Cucumber-Salad-626x415.jpg" width="626" height="415" />
+<a href="/images/2013/06/Lentil-and-Cucumber-Salad.webp"><img class="alignnone size-large wp-image-3778" alt="Lentil and Cucumber Salad" src="/images/2013/06/Lentil-and-Cucumber-Salad-626x415.webp" width="626" height="415" />
 </a><em>Lentil and Cucumber Salad</em>
 
 This salad is great to have in your back pocket for summer potlucks and picnics  (*). It is easy to make, light and healthy and packed with flavor that adults will love, but manageable for kids too.

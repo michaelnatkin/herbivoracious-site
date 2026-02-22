@@ -5,11 +5,11 @@ slug: "transparency-and-support"
 categories: ["My Kitchen"]
 aliases: ["/transparency-and-support/", "/2012/09/transparency-and-support.html"]
 cover:
-  image: "/images/2012/09/Transparency-622x415.jpg"
+  image: "/images/2012/09/Transparency-622x415.webp"
   hidden: true
 ---
 
-<img class="alignnone size-large wp-image-2799" title="Transparency" src="/images/2012/09/Transparency-622x415.jpg" alt="" width="622" height="415" />
+<img class="alignnone size-large wp-image-2799" title="Transparency" src="/images/2012/09/Transparency-622x415.webp" alt="" width="622" height="415" />
 
 If you are a long-time reader of Herbivoracious, you may have noticed that there are <strong>more recipes than ever before</strong> (2 or 3 per week instead of 1), and also a bit more commercial content here than in the past.
 

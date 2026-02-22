@@ -7,7 +7,7 @@ description: "Recipe for a flavorful vegetarian pasta with smoked asparagus and 
 categories: ["Main Courses", "Recipes"]
 aliases: ["/bucatini-with-smoked-asparagus-vegetarian-pasta-recipe/", "/2011/05/bucatini-with-smoked-asparagus-vegetarian-pasta-recipe.html"]
 cover:
-  image: "/images/old/6a00e008d618bb88340154321a95c7970c-500wi.jpg"
+  image: "/images/old/6a00e008d618bb88340154321a95c7970c-500wi.webp"
   hidden: true
 ---
 

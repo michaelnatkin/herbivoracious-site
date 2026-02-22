@@ -6,7 +6,7 @@ description: "Modern culinary techniques for infusing flavors and compressing me
 categories: ["Experiments", "Gluten-Free or modifiable", "Recipes", "Salads", "Vegan or Modifiable"]
 aliases: ["/compressed-cucumber-shiso-sake-infusion/", "/2010/09/compressed-cucumber-shiso-sake-infusion.html"]
 cover:
-  image: "/images/old/6a00e008d618bb8834013487657c0a970c-500wi.jpg"
+  image: "/images/old/6a00e008d618bb8834013487657c0a970c-500wi.webp"
   hidden: true
 recipe:
   name: "Compressed Cantaloupe & Cucumber Salad with Shiso Infused Sake"
@@ -27,7 +27,7 @@ recipe:
     - "To serve, divide the \"noodles\" among four plates, forming a small mount. Top with a 1/4 teaspoon umeboshi plum paste. Sprinkle with a pinch of black sea salt and garnish with a few kaiware sprout tops. Pour 4 servings of the cold sake, place the glass on one whole shiso leaf, and serve immediately."
 ---
 
-<a style="display: inline;" href="/images/old/6a00e008d618bb8834013487657c0a970c-800wi.jpg" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb8834013487657c0a970c" title="Compressed Cantaloupe &amp; Cucumber Salad with Shiso Infused Sake" src="/images/old/6a00e008d618bb8834013487657c0a970c-500wi.jpg" alt="Compressed Cantaloupe &amp; Cucumber Salad with Shiso Infused Sake" /></a>
+<a style="display: inline;" href="/images/old/6a00e008d618bb8834013487657c0a970c-800wi.webp" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb8834013487657c0a970c" title="Compressed Cantaloupe &amp; Cucumber Salad with Shiso Infused Sake" src="/images/old/6a00e008d618bb8834013487657c0a970c-500wi.webp" alt="Compressed Cantaloupe &amp; Cucumber Salad with Shiso Infused Sake" /></a>
 <em>Compressed Cantaloupe &amp; Cucumber Salad with Shiso Infused Sake</em>
 
 Dave Arnold from the French Culinary Institute recently <a href="http://www.cookingissues.com/2010/08/11/infusion-profusion-game-changing-fast-%E2%80%98n-cheap-technique/" target="_self">invented a technique for infusing</a> just about anything (herbs, vegetables, chocolate, ...) into booze, water or oil, using nothing fancier than a <a href="https://www.amazon.com/dp/B000A3L60U?tag=herb-hugo-20" target="_blank">cream whipper</a>. It is a genius idea because it takes two minutes, requires no special culinary talent, and produces beautifully clear, fresh, brightly flavored results.

@@ -4,7 +4,7 @@ subtitle: "Satisfying meatless meals you can pull off on a Tuesday"
 slug: "weeknight-vegetarian-dinners"
 description: "Quick, satisfying vegetarian dinner recipes for busy weeknights. From fried rice to yakisoba to tacos, these meatless mains come together fast without sacrificing flavor."
 cover:
-  image: "/images/2013/10/Kale-Fried-Rice-622x415.jpg"
+  image: "/images/2013/10/Kale-Fried-Rice-622x415.webp"
 recipes:
   - "kale-fried-rice-for-one-infinitely-adaptable-recipe"
   - "korean-yakisoba-with-french-horn-mushroom-tofu-and-510-egg-recipe"

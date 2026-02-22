@@ -5,11 +5,11 @@ slug: "tour-of-the-old"
 categories: ["Travel"]
 aliases: ["/tour-of-the-old/", "/2007/09/tour-of-the-old.html"]
 cover:
-  image: "/images/2007-small/09/06/persimmonjuice.jpg"
+  image: "/images/2007-small/09/06/persimmonjuice.webp"
   hidden: true
 ---
 
-<a href="/images/2007/09/06/persimmonjuice.jpg" rel="lightbox"><img title="Fresh Persimmon Juice In The Old City of Jerusalem" src="/images/2007-small/09/06/persimmonjuice.jpg" alt="Fresh Persimmon Juice In The Old City of Jerusalem" width="455" height="302" border="0" /></a>
+<a href="/images/2007/09/06/persimmonjuice.webp" rel="lightbox"><img title="Fresh Persimmon Juice In The Old City of Jerusalem" src="/images/2007-small/09/06/persimmonjuice.webp" alt="Fresh Persimmon Juice In The Old City of Jerusalem" width="455" height="302" border="0" /></a>
 
 When we met our tour guide for the Old City of Jerusalem, Nurit Lessem, she was surprised to hear that we hadn't had lunch yet, but was more than happy to take us to one of her favorite falafel places for a break. I knew right away we'd found the right chaperone!
 
@@ -19,4 +19,4 @@ Now about that falafel. Nurit took us to the Fountain Coffee Shop, in Suq Afthem
 
 Also on the way through the souk we stopped for a glass of fresh squeezed pomegranate juice. It was kind of phenomenal to watch the gentleman slice open and squish 5 or 6 of the fruits and squish them in a manual press, right into my glass. I guess I'm used to thinking of them as almost a luxury fruit, so it was eye opening to enjoy them this way. The flavor was nothing like the Pom brand juice in US stores. It was much lighter, and mildly sweet with little hits of the bitter pith. Awesome.
 
-<a href="/images/2007/09/06/fountaingrillfalafelstand.jpg" rel="lightbox"><img title="Fountain Grill Falafel stand in the Old City of Jerusalem" src="/images/2007-small/09/06/fountaingrillfalafelstand.jpg" alt="Fountaingrillfalafelstand" width="455" height="300" border="0" /></a>
+<a href="/images/2007/09/06/fountaingrillfalafelstand.webp" rel="lightbox"><img title="Fountain Grill Falafel stand in the Old City of Jerusalem" src="/images/2007-small/09/06/fountaingrillfalafelstand.webp" alt="Fountaingrillfalafelstand" width="455" height="300" border="0" /></a>

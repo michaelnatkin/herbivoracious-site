@@ -5,11 +5,11 @@ slug: "king-oyster-mushroom-with-roasted-cherries-and-sage-no-that-isnt-meat-rec
 categories: ["Experiments", "Sauces and Condiments"]
 aliases: ["/king-oyster-mushroom-with-roasted-cherries-and-sage-no-that-isnt-meat-recipe-and-thought-process/", "/2012/07/king-oyster-mushroom-with-roasted-cherries-and-sage-no-that-isnt-meat-recipe-and-thought-process.html"]
 cover:
-  image: "/images/2012/07/King-Oyster-Mushroom-Roasted-Cherry-Sage-626x415.jpg"
+  image: "/images/2012/07/King-Oyster-Mushroom-Roasted-Cherry-Sage-626x415.webp"
   hidden: true
 ---
 
-<a href="/images/2012/07/King-Oyster-Mushroom-Roasted-Cherry-Sage.jpg"><img class="alignnone size-large wp-image-2455" title="King Oyster Mushroom with Roasted Cherries and Sage" src="/images/2012/07/King-Oyster-Mushroom-Roasted-Cherry-Sage-626x415.jpg" alt="King Oyster Mushroom with Roasted Cherries and Sage" width="626" height="415" />
+<a href="/images/2012/07/King-Oyster-Mushroom-Roasted-Cherry-Sage.webp"><img class="alignnone size-large wp-image-2455" title="King Oyster Mushroom with Roasted Cherries and Sage" src="/images/2012/07/King-Oyster-Mushroom-Roasted-Cherry-Sage-626x415.webp" alt="King Oyster Mushroom with Roasted Cherries and Sage" width="626" height="415" />
 </a><em>King Oyster Mushroom with Roasted Cherries and Sage</em>
 
 I'm often asked "where do you get your inspiration for the recipes?" I love this question because it gives me a chance to talk about all of the different places that ideas come from, but <strong>often in generalities</strong>. So today, I thought it might be interesting to focus on the specifics of how a particular dish came about.

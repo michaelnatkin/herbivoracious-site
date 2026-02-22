@@ -6,7 +6,7 @@ description: "The best cornbread recipe ever - the butter is browned first to ma
 categories: ["Baking", "Favorites", "Kid Friendly", "Recipes", "Side Dishes"]
 aliases: ["/best-cornbread-ever/", "/2009/04/best-cornbread-ever.html"]
 cover:
-  image: "/images/2009/04/Brown-Butter-Cornbread-Skillet1-626x415.jpg"
+  image: "/images/2009/04/Brown-Butter-Cornbread-Skillet1-626x415.webp"
   hidden: true
 recipe:
   name: "Best Cornbread Recipe Ever"
@@ -31,7 +31,7 @@ recipe:
     - "Serve forth while still hot, with lots of good sweet butter."
 ---
 
-<em><a href="/images/2009/04/Brown-Butter-Cornbread-Skillet1.jpg"><img class="alignnone size-large wp-image-1310" title="Brown Butter Cornbread" src="/images/2009/04/Brown-Butter-Cornbread-Skillet1-626x415.jpg" alt="Brown Butter Cornbread" width="626" height="415" />
+<em><a href="/images/2009/04/Brown-Butter-Cornbread-Skillet1.webp"><img class="alignnone size-large wp-image-1310" title="Brown Butter Cornbread" src="/images/2009/04/Brown-Butter-Cornbread-Skillet1-626x415.webp" alt="Brown Butter Cornbread" width="626" height="415" />
 </a>Cornbread flavored with brown butter</em>
 
 Since we talked about <a href="/2009/04/vegetarian-chili-recipe/" target="_blank">vegetarian chili</a> last week, I've got to hook you up with the <em>best cornbread recipe ever</em> to go with it. It is moist without being cake-like with an intense corn flavor. The butter is browned before adding it to the batter, a genius trick I learned from <a href="http://therecipegirl.blogspot.com/2009/01/brown-butter-cornbread-with-farmer.html" target="_blank">The Recipe Girl</a>. That contributes some of the umami flavor that some folks would get using bacon drippings.

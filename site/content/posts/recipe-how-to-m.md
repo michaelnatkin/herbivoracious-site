@@ -6,7 +6,7 @@ description: "This simple technique will make your couscous turn out fluffy ever
 categories: ["Favorites", "Kid Friendly", "Recipes", "Side Dishes", "Vegan or Modifiable"]
 aliases: ["/recipe-how-to-m/", "/2007/11/recipe-how-to-m.html"]
 cover:
-  image: "/images/2007/11/07/fluffycouscous.jpg"
+  image: "/images/2007/11/07/fluffycouscous.webp"
   hidden: true
 recipe:
   name: "Fluffy Couscous"
@@ -18,7 +18,7 @@ recipe:
     - "1 tablespoon olive oil"
 ---
 
-<a href="/images/2007/11/07/fluffycouscous.jpg" rel="lightbox"><img class="photo" title="Fluffy Couscous - just steam it in a casserole instead of a pot" src="/images/2007/11/07/fluffycouscous.jpg" alt="Fluffy Couscous - just steam it in a casserole instead of a pot" width="455" height="302" border="0" /></a>
+<a href="/images/2007/11/07/fluffycouscous.webp" rel="lightbox"><img class="photo" title="Fluffy Couscous - just steam it in a casserole instead of a pot" src="/images/2007/11/07/fluffycouscous.webp" alt="Fluffy Couscous - just steam it in a casserole instead of a pot" width="455" height="302" border="0" /></a>
 <span style="font-size: 0.8em;">Fluffy Couscous - just steam it in a casserole instead of a pot</span>
 
 I make <a href="https://www.amazon.com/dp/B001HTINWA?tag=herb-hugo-20">couscous</a> all the time, whenever I want a break from rice or pasta, or when I just need something that cooks super quick with minimal attention. I know there is a proper way that it is prepared in its native lands, involving multiple steamings in a basket over boiling water, followed by breaking up with your fingers and steaming some more. I'm sure this is fantastic but I've always contented myself with the quick "package directions" version where you simply add the couscous to boiling water, turn off the heat, cover, wait 5 minutes and fluff. It isn't bad but it isn't all that fluffy or delicious either.
@@ -47,6 +47,6 @@ Add the salt and oil to boiling water. Spread couscous evenly in the bottom of a
 
 For a delicious and simple couscous salad recipe, make the the couscous as described above. Let it cool, then toss it with  canned chickpeas, finely chopped green onions, fresh mint, olive oil, and sea salt. Other nice additions are raisins, pine nuts, feta cheese, olives, and flat leaf parsley.
 
-<a href="/images/2007/11/07/spicychickpeastew.jpg" rel="lightbox"><img title="Spicy Chickpea Stew Over Couscous" src="/images/2007-small/11/07/spicychickpeastew.jpg" alt="Spicy Chickpea Stew Over CouscousSpicy Chickpea Stew Over Couscous" width="455" height="302" border="0" /></a>
+<a href="/images/2007/11/07/spicychickpeastew.webp" rel="lightbox"><img title="Spicy Chickpea Stew Over Couscous" src="/images/2007-small/11/07/spicychickpeastew.webp" alt="Spicy Chickpea Stew Over CouscousSpicy Chickpea Stew Over Couscous" width="455" height="302" border="0" /></a>
 <span style="font-size: 0.8em;">Spicy Chickpea Stew Over Couscous</span>
 </div>

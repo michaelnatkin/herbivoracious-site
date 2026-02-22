@@ -6,7 +6,7 @@ description: "Recipe for a brightly flavored Middle Eastern style salad of saute
 categories: ["Appetizers", "Recipes", "Salads"]
 aliases: ["/warm-grapes-toasted-pita-bread-and-ricotta-salata-recipe/", "/2011/04/warm-grapes-toasted-pita-bread-and-ricotta-salata-recipe.html"]
 cover:
-  image: "/images/old/6a00e008d618bb8834014e607b812c970c-500wi.jpg"
+  image: "/images/old/6a00e008d618bb8834014e607b812c970c-500wi.webp"
   hidden: true
 recipe:
   name: "Warm Grapes, Toasted Pita Bread and Ricotta Salata"
@@ -32,7 +32,7 @@ recipe:
     - "Divide on serving plates, or leave in the large bowl. Finish with a drizzle of excellent olive oil. If you happen to have an orange-scented one like this beauty from ChefShop, this is a perfect spot to use it. Serve warm."
 ---
 
-<a style="display: inline;" href="/images/old/6a00e008d618bb8834014e607b812c970c-800wi.jpg" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb8834014e607b812c970c" title="Toasted Pita Bread, Grape and Ricotta Salata" alt="Toasted Pita Bread, Grape and Ricotta Salata" src="/images/old/6a00e008d618bb8834014e607b812c970c-500wi.jpg" /></a>
+<a style="display: inline;" href="/images/old/6a00e008d618bb8834014e607b812c970c-800wi.webp" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb8834014e607b812c970c" title="Toasted Pita Bread, Grape and Ricotta Salata" alt="Toasted Pita Bread, Grape and Ricotta Salata" src="/images/old/6a00e008d618bb8834014e607b812c970c-500wi.webp" /></a>
 <em>Warm Grapes, Toasted Pita Bread and Ricotta Salata</em>
 
 I'm not sure whether to describe this dish as a salad, an appetizer, or a side dish. Whatever you call it, the combination of sweet and salty, crunchy and juicy, herbaceous and spicy is exciting and a little unusual. You could serve this as part of a meze, or an accompaniment to anything grilled in a Meditteranean or Middle Eastern vein.

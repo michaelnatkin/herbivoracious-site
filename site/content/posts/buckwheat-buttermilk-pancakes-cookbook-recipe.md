@@ -6,7 +6,7 @@ description: "Buckwheat pancakes have a place in the American imagination, but r
 categories: ["Recipes", "Breakfast and Brunch"]
 aliases: ["/buckwheat-buttermilk-pancakes-cookbook-recipe/", "/2012/04/buckwheat-buttermilk-pancakes-cookbook-recipe.html"]
 cover:
-  image: "/images/cookbook/buckwheat-buttermilk-pancakes.jpg"
+  image: "/images/cookbook/buckwheat-buttermilk-pancakes.webp"
   hidden: true
 recipe:
   name: "Buckwheat Buttermilk Pancakes"
@@ -32,19 +32,19 @@ recipe:
     - "Place a griddle (or two skillets) over medium heat. Rub it with a bit of oil on a paper towel. Ladle out pancake batter to about 5\" circles. Allow to cook until bubbles form on top and a peek underneath reveals a nice dark brown. Flip and cook until the other side is done. (Adjust heat as needed after your first batch. You want the pancakes to be dark golden brown and cook reasonably quickly, but not be burned.)"
     - "Serve forth with plenty of soft butter and real maple syrup."
 ---
-<a href="/images/cookbook/buckwheat-buttermilk-pancakes.jpg"><img src="/images/cookbook/buckwheat-buttermilk-pancakes.jpg" alt="Buckwheat Buttermilk Pancakes" /></a>
+<a href="/images/cookbook/buckwheat-buttermilk-pancakes.webp"><img src="/images/cookbook/buckwheat-buttermilk-pancakes.webp" alt="Buckwheat Buttermilk Pancakes" /></a>
 
 <p>Buckwheat pancakes have a place in the American imagination, but rarely at the breakfast table. When you do occasionally find them at restaurants, the percentage of <a href="https://www.amazon.com/dp/B01EIQROUA?tag=herb-hugo-20">buckwheat flour</a> is so low that you can hardly taste it, which is a shame, because it adds a warm, toasty, nutty flavor.</p>
 <p>Buckwheat is widely enjoyed in other cuisines, such as Russian blini, Japanese soba noodles, and Eastern European kasha. The easiest place to find buckwheat flour is at your local natural foods store, often in the bulk section.</p>
 <p>You can easily substitute up to 50% buckwheat flour in any pancake recipe and it will be fine but possibly a little flat. I counteract that tendency with buttermilk, which adds a lot of leavening power. Pancake batter should be fairly thick so that it has time to rise instead of spread when poured on the griddle.</p>
 
-<a href="/images/cookbook/buckwheat-buttermilk-pancakes-2.jpg"><img src="/images/cookbook/buckwheat-buttermilk-pancakes-2.jpg" alt="Buckwheat Buttermilk Pancakes" /></a>
+<a href="/images/cookbook/buckwheat-buttermilk-pancakes-2.webp"><img src="/images/cookbook/buckwheat-buttermilk-pancakes-2.webp" alt="Buckwheat Buttermilk Pancakes" /></a>
 
-<a href="/images/cookbook/buckwheat-buttermilk-pancakes-3.jpg"><img src="/images/cookbook/buckwheat-buttermilk-pancakes-3.jpg" alt="Buckwheat Buttermilk Pancakes" /></a>
+<a href="/images/cookbook/buckwheat-buttermilk-pancakes-3.webp"><img src="/images/cookbook/buckwheat-buttermilk-pancakes-3.webp" alt="Buckwheat Buttermilk Pancakes" /></a>
 
-<a href="/images/cookbook/buckwheat-buttermilk-pancakes-4.jpg"><img src="/images/cookbook/buckwheat-buttermilk-pancakes-4.jpg" alt="Buckwheat Buttermilk Pancakes" /></a>
+<a href="/images/cookbook/buckwheat-buttermilk-pancakes-4.webp"><img src="/images/cookbook/buckwheat-buttermilk-pancakes-4.webp" alt="Buckwheat Buttermilk Pancakes" /></a>
 
-<a href="/images/cookbook/buckwheat-buttermilk-pancakes-5.jpg"><img src="/images/cookbook/buckwheat-buttermilk-pancakes-5.jpg" alt="Buckwheat Buttermilk Pancakes" /></a>
+<a href="/images/cookbook/buckwheat-buttermilk-pancakes-5.webp"><img src="/images/cookbook/buckwheat-buttermilk-pancakes-5.webp" alt="Buckwheat Buttermilk Pancakes" /></a>
 
 <div class="recipe-card">
 <p><strong>Buckwheat Buttermilk Pancakes</strong>

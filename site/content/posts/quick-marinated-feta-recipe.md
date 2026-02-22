@@ -5,7 +5,7 @@ slug: "quick-marinated-feta-recipe"
 categories: ["Appetizers", "Gluten-Free or modifiable", "Recipes", "Seattle"]
 aliases: ["/quick-marinated-feta-recipe/", "/2012/01/quick-marinated-feta-recipe.html"]
 cover:
-  image: "/images/2012/04/Quick-Marinated-Feta-626x415.jpg"
+  image: "/images/2012/04/Quick-Marinated-Feta-626x415.webp"
   hidden: true
 recipe:
   name: "Quick Marinated Feta with Orange Zest, Mint and Aleppo Pepper"
@@ -23,7 +23,7 @@ recipe:
     - "Serve at cool room temperature with the toasted pita."
 ---
 
-<a href="/images/2012/04/Quick-Marinated-Feta.jpg"><img class="alignnone size-large wp-image-1081" title="Quick Marinated Feta" src="/images/2012/04/Quick-Marinated-Feta-626x415.jpg" alt="" width="626" height="415" /></a>
+<a href="/images/2012/04/Quick-Marinated-Feta.webp"><img class="alignnone size-large wp-image-1081" title="Quick Marinated Feta" src="/images/2012/04/Quick-Marinated-Feta-626x415.webp" alt="" width="626" height="415" /></a>
 <em>Quick Marinated Feta with Orange Zest, Mint and Aleppo Pepper</em>
 
 Here's about as easy an appetizer as you could want for a Middle Eastern or Mediterranean meal or cocktail party spread.  We'll just make a quick marinade of good olive oil with garlic, Aleppo pepper, orange zest and fresh mint, pour it over the top of a block of feta cheese and serve it forth with lightly toasted pita bread.

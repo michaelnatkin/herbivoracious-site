@@ -5,7 +5,7 @@ slug: "austin-style-breakfast-tacos-recipe"
 categories: ["Breakfast", "Gluten-Free or modifiable", "Kid Friendly", "Main Courses", "Recipes", "Travel"]
 aliases: ["/austin-style-breakfast-tacos-recipe/", "/2013/11/austin-style-breakfast-tacos-recipe.html"]
 cover:
-  image: "/images/2013/11/Breakfast-Tacos-624x415.jpg"
+  image: "/images/2013/11/Breakfast-Tacos-624x415.webp"
   hidden: true
 recipe:
   name: "Austin-Style Breakfast Tacos"
@@ -23,7 +23,7 @@ recipe:
     - "For each taco, spread on a couple of tablespoons of refried beans, and top with 4 potato halves. Spoon in some of the scrambled eggs, then a bit of salsa and a sprinkle of cilantro and onions. Serve right away, while still hot, and pass the hot sauce at the table."
 ---
 
-<a href="/images/2013/11/Breakfast-Tacos.jpg"><img class="alignnone size-large wp-image-3916" alt="Austin-Style Breakfast Tacos" src="/images/2013/11/Breakfast-Tacos-624x415.jpg" width="624" height="415" />
+<a href="/images/2013/11/Breakfast-Tacos.webp"><img class="alignnone size-large wp-image-3916" alt="Austin-Style Breakfast Tacos" src="/images/2013/11/Breakfast-Tacos-624x415.webp" width="624" height="415" />
 </a><em>Austin-Style Breakfast Tacos</em>
 
 I've had the good fortune to travel to Austin a couple of times in the last year or so, and it is always good fun. Like Portland, Milwaukee, or Brooklyn, it is a place where people understand that work is important, but having a beer and a bite with friends, listening to music, or just kicking back on the front porch is just as important.

@@ -6,7 +6,7 @@ description: "Tortas are Mexican sandwiches. They generally have a base of refri
 categories: ["Recipes", "Breakfast and Brunch", "Vegan or Modifiable"]
 aliases: ["/mexican-breakfast-torta-recipe/", "/2012/10/mexican-breakfast-torta-recipe.html"]
 cover:
-  image: "/images/cookbook/mexican-breakfast-torta.jpg"
+  image: "/images/cookbook/mexican-breakfast-torta.webp"
   hidden: true
 recipe:
   name: "Mexican Breakfast Torta"
@@ -28,7 +28,7 @@ recipe:
     - "Cut each roll in half and pull out some of the soft bread to make more room for the filling. Lightly toast the rolls."
     - "To assemble, line up the bottom halves of the four rolls. Top each one with one quarter of the refried beans and scrambled eggs (or avocado). If using the avocado, season it with a generous sprinkle of salt. Add one half of a poblano pepper, some of the red cabbage mixture, a generous sprinkle of the cotija cheese, and a few sprigs of cilantro. Cut in half if desired and serve immediately, offering hot sauce at the table."
 ---
-<a href="/images/cookbook/mexican-breakfast-torta.jpg"><img src="/images/cookbook/mexican-breakfast-torta.jpg" alt="Mexican Breakfast Torta" /></a>
+<a href="/images/cookbook/mexican-breakfast-torta.webp"><img src="/images/cookbook/mexican-breakfast-torta.webp" alt="Mexican Breakfast Torta" /></a>
 
 
 <p>Tortas are Mexican sandwiches. They generally have a base of refried beans which can be topped with just about anything – in this case, scrambled eggs (or avocado, for a vegan version), a roasted poblano pepper, and a simple cabbage slaw.</p>

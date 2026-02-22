@@ -6,7 +6,7 @@ description: "Chana masala (spicy chickpeas) is one of those ten dishes you will
 categories: ["Recipes", "Main Courses", "Vegan or Modifiable", "Gluten-Free"]
 aliases: ["/chana-mushroom-masala-recipe/", "/2011/07/chana-mushroom-masala-recipe.html"]
 cover:
-  image: "/images/cookbook/chana-mushroom-masala.jpg"
+  image: "/images/cookbook/chana-mushroom-masala.webp"
   hidden: true
 recipe:
   name: "Chana Mushroom Masala"
@@ -42,7 +42,7 @@ recipe:
     - "Cook uncovered over medium-low heat for about 15 minutes, until the sauce begins to thicken. Taste and adjust seasoning. Does it need more salt? More lemon juice? A bit more cayenne?"
     - "Finish for the texture you want - you can see how I like it in the picture. Then in a separate small skillet, heat the last tablespoon of oil over high heat and fry the mustard seeds until they pop, just a few seconds. This is called tempering, and it is a great way to add a final layer of flavor. Toss the contents of that skillet over the chickpeas and serve, with the cilantro for garnish."
 ---
-<a href="/images/cookbook/chana-mushroom-masala.jpg"><img src="/images/cookbook/chana-mushroom-masala.jpg" alt="Chana Mushroom Masala" /></a>
+<a href="/images/cookbook/chana-mushroom-masala.webp"><img src="/images/cookbook/chana-mushroom-masala.webp" alt="Chana Mushroom Masala" /></a>
 
 
 <p>Chana masala (spicy chickpeas) is one of those ten dishes you will find at pretty much every Indian restaurant in America. You can understand why: it is inexpensive, delicious, healthy and satisfying. The mass prepared versions are usually pretty good, but you can make a similar dish at home and enjoy fresher, more vibrant flavors.</p>
@@ -51,13 +51,13 @@ recipe:
 <p>There are a lot of spices in this recipe, so to help you stay organized and efficient, we’ll gather everything into three separate bowls before starting to cook the curry.</p>
 
 
-<a href="/images/cookbook/chana-mushroom-masala-2.jpg"><img src="/images/cookbook/chana-mushroom-masala-2.jpg" alt="Chana Mushroom Masala" /></a>
+<a href="/images/cookbook/chana-mushroom-masala-2.webp"><img src="/images/cookbook/chana-mushroom-masala-2.webp" alt="Chana Mushroom Masala" /></a>
 
-<a href="/images/cookbook/chana-mushroom-masala-3.jpg"><img src="/images/cookbook/chana-mushroom-masala-3.jpg" alt="Chana Mushroom Masala" /></a>
+<a href="/images/cookbook/chana-mushroom-masala-3.webp"><img src="/images/cookbook/chana-mushroom-masala-3.webp" alt="Chana Mushroom Masala" /></a>
 
-<a href="/images/cookbook/chana-mushroom-masala-4.jpg"><img src="/images/cookbook/chana-mushroom-masala-4.jpg" alt="Chana Mushroom Masala" /></a>
+<a href="/images/cookbook/chana-mushroom-masala-4.webp"><img src="/images/cookbook/chana-mushroom-masala-4.webp" alt="Chana Mushroom Masala" /></a>
 
-<a href="/images/cookbook/chana-mushroom-masala-5.jpg"><img src="/images/cookbook/chana-mushroom-masala-5.jpg" alt="Chana Mushroom Masala" /></a>
+<a href="/images/cookbook/chana-mushroom-masala-5.webp"><img src="/images/cookbook/chana-mushroom-masala-5.webp" alt="Chana Mushroom Masala" /></a>
 
 <div class="recipe-card">
 <p><strong>Chana Mushroom Masala</strong>

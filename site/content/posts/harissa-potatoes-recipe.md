@@ -5,7 +5,7 @@ slug: "harissa-potatoes-recipe"
 categories: ["Breakfast", "Favorites", "Gluten-Free or modifiable", "Recipes", "Side Dishes", "Vegan or Modifiable"]
 aliases: ["/harissa-potatoes-recipe/", "/2012/10/harissa-potatoes-recipe.html"]
 cover:
-  image: "/images/2012/10/Harissa-Potatoes-626x415.jpg"
+  image: "/images/2012/10/Harissa-Potatoes-626x415.webp"
   hidden: true
 recipe:
   name: "Harissa Potatoes"
@@ -26,7 +26,7 @@ recipe:
     - "To serve, taste and adjust seasoning. You might need more salt, harissa, or preserved lemon. Transfer to serving plate and garnish with the feta cheese, a sprinkle of sumac and a very generous amount of fresh dill (leaves and tender stems)."
 ---
 
-<img class="alignnone size-large wp-image-3261" title="Harissa Potatoes" src="/images/2012/10/Harissa-Potatoes-626x415.jpg" alt="Harissa Potatoes" width="626" height="415" />
+<img class="alignnone size-large wp-image-3261" title="Harissa Potatoes" src="/images/2012/10/Harissa-Potatoes-626x415.webp" alt="Harissa Potatoes" width="626" height="415" />
 <em>Potatoes with harissa, feta and dill</em>
 
 This was absolutely an improvisation; I'd been traveling and had very few vegetables in the house on my return, but found a few waxy potatoes lying around along with a hunk of feta and a package of dill that was still good. That got me to thinking of Middle Eastern flavors and 15 minutes later I was eating an entire recipe of this as my own breakfast. Almost a Middle Eastern take on home fries. And actually, you know if you wanted to have this as an even more substantial breakfast, a fried egg between the potatoes and the feta would be amazing.

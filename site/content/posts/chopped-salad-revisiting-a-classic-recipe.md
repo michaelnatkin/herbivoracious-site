@@ -5,11 +5,11 @@ slug: "chopped-salad-revisiting-a-classic-recipe"
 categories: ["Favorites", "Gluten-Free or modifiable", "Salads", "Vegan or Modifiable"]
 aliases: ["/chopped-salad-revisiting-a-classic-recipe/", "/2010/04/chopped-salad-revisiting-a-classic-recipe.html"]
 cover:
-  image: "/images/old/6a00e008d618bb883401310ff1619b970c-500wi.jpg"
+  image: "/images/old/6a00e008d618bb883401310ff1619b970c-500wi.webp"
   hidden: true
 ---
 
-<a style="display: inline;" href="/images/old/6a00e008d618bb883401310ff1619b970c-800wi.jpg" rel="lightbox"><img class="asset asset-image at-xid-6a00e008d618bb883401310ff1619b970c selected " title="Chopped Salad" src="/images/old/6a00e008d618bb883401310ff1619b970c-500wi.jpg" alt="Chopped Salad" /></a>
+<a style="display: inline;" href="/images/old/6a00e008d618bb883401310ff1619b970c-800wi.webp" rel="lightbox"><img class="asset asset-image at-xid-6a00e008d618bb883401310ff1619b970c selected " title="Chopped Salad" src="/images/old/6a00e008d618bb883401310ff1619b970c-500wi.webp" alt="Chopped Salad" /></a>
 <em>Chopped salad, ready to be dressed and tossed</em>
 
 Chopped salad is just exactly what it sounds like: a salad whose ingredients have all been cut down to a fairly uniform size, around 1/2" cubes. It works well as a side dish and it shines as <strong>one of the all time great entree salads</strong> when you want a lighter meal. It is easy to eat because the diner doesn't have to take anything apart with a knife, which makes it particularly good for a dinner party.

@@ -5,7 +5,7 @@ slug: "latkes-crispy-for-hannukah"
 categories: ["Gluten-Free or modifiable", "Kid Friendly", "Main Courses", "Recipes", "Side Dishes"]
 aliases: ["/latkes-crispy-for-hannukah/", "/2008/12/latkes-crispy-for-hannukah.html"]
 cover:
-  image: "/images/2008/12/Hannukah-Latkes-626x415.jpg"
+  image: "/images/2008/12/Hannukah-Latkes-626x415.webp"
   hidden: true
 recipe:
   name: "Crispy, Delicious Latkes for Hanukkah"
@@ -30,7 +30,7 @@ recipe:
     - "Serve with applesauce, sour cream and more salt on the side."
 ---
 
-<a href="/images/2008/12/Hannukah-Latkes.jpg"><img class="alignnone size-large wp-image-3481" title="Hannukah Latkes" src="/images/2008/12/Hannukah-Latkes-626x415.jpg" alt="" width="626" height="415" /></a>
+<a href="/images/2008/12/Hannukah-Latkes.webp"><img class="alignnone size-large wp-image-3481" title="Hannukah Latkes" src="/images/2008/12/Hannukah-Latkes-626x415.webp" alt="" width="626" height="415" /></a>
 <span style="font-size: 12px; font-family: Arial;">Now that's a crispy latke!</span>
 
 <em></em>

@@ -30,4 +30,4 @@ For my friends in the media and fellow bloggers who may want to write about the 
 	<li><a href="http://pinterest.com/herbivoracious/" target="_blank">My boards on pinterest</a></li>
 </ul>
 <h3>Publicity Still</h3>
-<a href="/images/2012/03/Michael-Natkin-Publicity-Photo-Kitchen.jpg" target="_blank" rel="nolightbox" ><img class="alignnone size-medium wp-image-1682" title="Michael Natkin Publicity Photo Kitchen" src="/images/2012/03/Michael-Natkin-Publicity-Photo-Kitchen-199x265.jpg" alt="" width="199" style="margin-right: 10px;" rel="nolightbox"/></a>
+<a href="/images/2012/03/Michael-Natkin-Publicity-Photo-Kitchen.webp" target="_blank" rel="nolightbox" ><img class="alignnone size-medium wp-image-1682" title="Michael Natkin Publicity Photo Kitchen" src="/images/2012/03/Michael-Natkin-Publicity-Photo-Kitchen-199x265.webp" alt="" width="199" style="margin-right: 10px;" rel="nolightbox"/></a>

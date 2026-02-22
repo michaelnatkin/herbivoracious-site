@@ -6,7 +6,7 @@ description: "Yeast-raised Belgian waffles with an irresistibly crunchy, caramel
 categories: ["Recipes", "Breakfast and Brunch"]
 aliases: ["/crunchy-crusted-yeast-raised-belgian-waffles-recipe/", "/2012/04/crunchy-crusted-yeast-raised-belgian-waffles-recipe.html"]
 cover:
-  image: "/images/cookbook/crunchy-crusted-yeast-raised-belgian-waffles.jpg"
+  image: "/images/cookbook/crunchy-crusted-yeast-raised-belgian-waffles.webp"
   hidden: true
 recipe:
   name: "Crunchy Crusted Yeast-Raised Belgian Waffles"
@@ -27,14 +27,14 @@ recipe:
     - "Stir in the all-purpose flour, rice flour, salt and malt powder (if using). Mix well. The batter will be thinner than typical waffle batter. Cover with plastic wrap and refrigerate overnight."
     - "In the morning, give the batter a stir. Preheat your waffle iron and cook the waffles according to the manufacturer’s instructions, being certain to bake them until quite brown for maximum flavor and the best crunchy exterior. As always, the first waffle is usually not the best, but pay close attention and adjust the time and temperature to achieve perfection."
 ---
-<a href="/images/cookbook/crunchy-crusted-yeast-raised-belgian-waffles.jpg"><img src="/images/cookbook/crunchy-crusted-yeast-raised-belgian-waffles.jpg" alt="Crunchy Crusted Yeast-Raised Belgian Waffles" /></a>
+<a href="/images/cookbook/crunchy-crusted-yeast-raised-belgian-waffles.webp"><img src="/images/cookbook/crunchy-crusted-yeast-raised-belgian-waffles.webp" alt="Crunchy Crusted Yeast-Raised Belgian Waffles" /></a>
 
 
 
 
-<a href="/images/cookbook/crunchy-crusted-yeast-raised-belgian-waffles-2.jpg"><img src="/images/cookbook/crunchy-crusted-yeast-raised-belgian-waffles-2.jpg" alt="Crunchy Crusted Yeast-Raised Belgian Waffles" /></a>
+<a href="/images/cookbook/crunchy-crusted-yeast-raised-belgian-waffles-2.webp"><img src="/images/cookbook/crunchy-crusted-yeast-raised-belgian-waffles-2.webp" alt="Crunchy Crusted Yeast-Raised Belgian Waffles" /></a>
 
-<a href="/images/cookbook/crunchy-crusted-yeast-raised-belgian-waffles-3.jpg"><img src="/images/cookbook/crunchy-crusted-yeast-raised-belgian-waffles-3.jpg" alt="Crunchy Crusted Yeast-Raised Belgian Waffles" /></a>
+<a href="/images/cookbook/crunchy-crusted-yeast-raised-belgian-waffles-3.webp"><img src="/images/cookbook/crunchy-crusted-yeast-raised-belgian-waffles-3.webp" alt="Crunchy Crusted Yeast-Raised Belgian Waffles" /></a>
 
 <div class="recipe-card">
 <p><strong>Crunchy Crusted Yeast-Raised Belgian Waffles</strong>

@@ -5,7 +5,7 @@ slug: "saffron-date-posset-a-dessert-you-should-know-recipe"
 categories: ["Desserts", "Gluten-Free or modifiable", "Recipes"]
 aliases: ["/saffron-date-posset-a-dessert-you-should-know-recipe/", "/2013/02/saffron-date-posset-a-dessert-you-should-know-recipe.html"]
 cover:
-  image: "/images/2013/02/Date-Posset-626x352.jpg"
+  image: "/images/2013/02/Date-Posset-626x352.webp"
   hidden: true
 recipe:
   name: "Saffron-Date Posset – A Dessert You Should Know – Recipe"
@@ -29,7 +29,7 @@ recipe:
     - "To serve, drizzle some pistachio oil on the posset. Drizzle with honey if using. Top with 5 pistachios, several pieces of date, a few slivers of candied preserved lemon, a few lemon thyme leaves and a few grains of salt."
 ---
 
-<a href="/images/2013/02/Date-Posset.jpg"><img class="alignnone size-large wp-image-3566" alt="Date Posset" src="/images/2013/02/Date-Posset-626x352.jpg" width="626" height="352" /></a>
+<a href="/images/2013/02/Date-Posset.webp"><img class="alignnone size-large wp-image-3566" alt="Date Posset" src="/images/2013/02/Date-Posset-626x352.webp" width="626" height="352" /></a>
 <em>Saffron-Date Posset</em>
 
 One of the many great things about working at <a href="http://chefsteps.com" target="_blank">ChefSteps</a> is that at any given moment, <a href="https://www.amazon.com/dp/B007P4W0OI?tag=herb-hugo-20" target="_blank">amazingly delicious things</a> are subject to appear on top of the staff-food fridge, which means "come 'n get it." A few weeks ago, Grant or Ben or Nick, I'm not sure, put up posset.

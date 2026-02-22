@@ -6,7 +6,7 @@ description: "Buttery scones studded with caramelized pears and fresh ginger. A 
 categories: ["Recipes", "Breakfast and Brunch"]
 aliases: ["/caramelized-pear-and-ginger-scones-recipe/", "/2012/04/caramelized-pear-and-ginger-scones-recipe.html"]
 cover:
-  image: "/images/cookbook/caramelized-pear-and-ginger-scones.jpg"
+  image: "/images/cookbook/caramelized-pear-and-ginger-scones.webp"
   hidden: true
 recipe:
   name: "Caramelized Pear and Ginger Scones"
@@ -36,16 +36,16 @@ recipe:
     - "Flatten the dough into a rectangle about 24” x 4 ½”. Brush the top with melted butter and sprinkle with the remaining 3 tablespoons of sugar. Cut into 6 even rectangles and then divide each rectangle into two triangles. Transfer to the baking sheets, leaving two inches between scones."
     - "Bake until quite golden brown, about 22 minutes. Allow to cool for 5 minutes and serve with butter and jam."
 ---
-<a href="/images/cookbook/caramelized-pear-and-ginger-scones.jpg"><img src="/images/cookbook/caramelized-pear-and-ginger-scones.jpg" alt="Caramelized Pear and Ginger Scones" /></a>
+<a href="/images/cookbook/caramelized-pear-and-ginger-scones.webp"><img src="/images/cookbook/caramelized-pear-and-ginger-scones.webp" alt="Caramelized Pear and Ginger Scones" /></a>
 
 
 
 
-<a href="/images/cookbook/caramelized-pear-and-ginger-scones-2.jpg"><img src="/images/cookbook/caramelized-pear-and-ginger-scones-2.jpg" alt="Caramelized Pear and Ginger Scones" /></a>
+<a href="/images/cookbook/caramelized-pear-and-ginger-scones-2.webp"><img src="/images/cookbook/caramelized-pear-and-ginger-scones-2.webp" alt="Caramelized Pear and Ginger Scones" /></a>
 
-<a href="/images/cookbook/caramelized-pear-and-ginger-scones-3.jpg"><img src="/images/cookbook/caramelized-pear-and-ginger-scones-3.jpg" alt="Caramelized Pear and Ginger Scones" /></a>
+<a href="/images/cookbook/caramelized-pear-and-ginger-scones-3.webp"><img src="/images/cookbook/caramelized-pear-and-ginger-scones-3.webp" alt="Caramelized Pear and Ginger Scones" /></a>
 
-<a href="/images/cookbook/caramelized-pear-and-ginger-scones-4.jpg"><img src="/images/cookbook/caramelized-pear-and-ginger-scones-4.jpg" alt="Caramelized Pear and Ginger Scones" /></a>
+<a href="/images/cookbook/caramelized-pear-and-ginger-scones-4.webp"><img src="/images/cookbook/caramelized-pear-and-ginger-scones-4.webp" alt="Caramelized Pear and Ginger Scones" /></a>
 
 <div class="recipe-card">
 <p><strong>Caramelized Pear and Ginger Scones</strong>

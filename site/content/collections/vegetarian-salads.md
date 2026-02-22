@@ -4,7 +4,7 @@ subtitle: "Well beyond lettuce and dressing"
 slug: "vegetarian-salads"
 description: "Creative vegetarian salad recipes that go far beyond the side dish. Lentil salads, grain salads, composed plates, and bright dressings for every occasion."
 cover:
-  image: "/images/2012/09/Black-Lentils-with-Arugula-and-Crispy-Shallots-626x415.jpg"
+  image: "/images/2012/09/Black-Lentils-with-Arugula-and-Crispy-Shallots-626x415.webp"
 recipes:
   - "caviar-lentil-salad-with-arugula-crispy-shallots-and-roasted-garlic-recipe"
   - "insalata-capres"

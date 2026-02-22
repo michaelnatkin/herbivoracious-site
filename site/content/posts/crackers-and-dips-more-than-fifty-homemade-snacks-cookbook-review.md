@@ -5,7 +5,7 @@ slug: "crackers-and-dips-more-than-fifty-homemade-snacks-cookbook-review"
 categories: ["Baking", "Books", "Kid Friendly", "My Kitchen", "Recipes"]
 aliases: ["/crackers-and-dips-more-than-fifty-homemade-snacks-cookbook-review/", "/2013/07/crackers-and-dips-more-than-fifty-homemade-snacks-cookbook-review.html"]
 cover:
-  image: "/images/2013/07/Crackers-and-Dips.jpg"
+  image: "/images/2013/07/Crackers-and-Dips.webp"
   hidden: true
 recipe:
   name: "For the peanut butter filling"
@@ -15,7 +15,7 @@ recipe:
     - "3/4 cup/80 g confectioners’ sugar, sifted"
 ---
 
-<a href="/images/2013/07/Crackers-and-Dips.jpg"><img class="alignnone size-full wp-image-3806" alt="Crackers and Dips - Ivy Manning" src="/images/2013/07/Crackers-and-Dips.jpg" width="600" height="880" />
+<a href="/images/2013/07/Crackers-and-Dips.webp"><img class="alignnone size-full wp-image-3806" alt="Crackers and Dips - Ivy Manning" src="/images/2013/07/Crackers-and-Dips.webp" width="600" height="880" />
 </a><em>Ritzy Peanut Butter Sandwich Crackers - Photo by Jen Altman</em>
 
 There is much to be said for a good single-subject cookbook. As much as I value my collection of general cookbooks, I probably reach for the more specific tomes more than any other, because I know they will have both the recipes and inspiration I'm looking for, and more importantly, the detailed techniques I'm going to need for success. Heck, I still sometimes thumb through my shelves ruefully looking for a great, thin little volume of vegetarian North Indian curries that I'm pretty sure I lost in college.

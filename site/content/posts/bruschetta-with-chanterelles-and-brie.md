@@ -6,7 +6,7 @@ slug: "bruschetta-with-chanterelles-and-brie"
 categories: ["Appetizers", "Recipes"]
 aliases: ["/bruschetta-with-chanterelles-and-brie/", "/2008/12/bruschetta-with-chanterelles-and-brie.html"]
 cover:
-  image: "/images/old/6a00e008d618bb88340105362984ef970c-500wi.jpg"
+  image: "/images/old/6a00e008d618bb88340105362984ef970c-500wi.webp"
   hidden: true
 ---
   

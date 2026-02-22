@@ -6,7 +6,7 @@ description: "Gnudi are like gnocchi made with ricotta instead of potato, or lik
 categories: ["Recipes", "Main Courses"]
 aliases: ["/basil-gnudi-with-summer-squash-recipe/", "/2011/08/basil-gnudi-with-summer-squash-recipe.html"]
 cover:
-  image: "/images/cookbook/basil-gnudi-with-summer-squash.jpg"
+  image: "/images/cookbook/basil-gnudi-with-summer-squash.webp"
   hidden: true
 recipe:
   name: "Basil Gnudi with Summer Squash"
@@ -39,7 +39,7 @@ recipe:
     - "To cook the gnudi, gently add half of the batch to the water and simmer for about 5 minutes, until they rise to the top and stay there for about 1 minute. (You may have to give them a very gentle nudge off the bottom). Remove with a slotted spoon to a plate while you cook the second batch. Test one to make sure it is done to your liking after it has sat for a moment."
     - "To serve: have ready 4 warm pasta bowls. Warm the sauce back up over low heat. Add the gnudi and the zucchini blossoms to the sauce and raise heat slightly. Cook for about 1 minute. Divide the gnudi and vegetables and some of the sauce between the bowls. Add the additional half cup of wine to the pan, raise heat to medium and scrape the bottom of the pan. Whisk in the butter, cook for just a minute or so until slightly thickened and spoon over the four bowls. Garnish with the small basil leaves, a few grains of salt, and a grind of black pepper and serve immediately."
 ---
-<a href="/images/cookbook/basil-gnudi-with-summer-squash.jpg"><img src="/images/cookbook/basil-gnudi-with-summer-squash.jpg" alt="Basil Gnudi with Summer Squash" /></a>
+<a href="/images/cookbook/basil-gnudi-with-summer-squash.webp"><img src="/images/cookbook/basil-gnudi-with-summer-squash.webp" alt="Basil Gnudi with Summer Squash" /></a>
 
 
 <p>Gnudi are like gnocchi made with ricotta instead of potato, or like a ricotta ravioli filling without the pasta. At their best, they are light and pillowy. They pair well with a delicate sauce that allows your handiwork with the dumplings to shine through. This simple sauté of summer squash and cherry tomatoes flavored with white wine and garlic fits the bill.</p>
@@ -48,9 +48,9 @@ recipe:
 <p>The trick to this recipe is getting the right amount of flour into the dough; you want enough to hold the dumplings together, but not so much that they get heavy, and that can vary depending on the ricotta and eggs. You may want to cook a test dumpling before shaping the rest of them.</p>
 
 
-<a href="/images/cookbook/basil-gnudi-with-summer-squash-2.jpg"><img src="/images/cookbook/basil-gnudi-with-summer-squash-2.jpg" alt="Basil Gnudi with Summer Squash" /></a>
+<a href="/images/cookbook/basil-gnudi-with-summer-squash-2.webp"><img src="/images/cookbook/basil-gnudi-with-summer-squash-2.webp" alt="Basil Gnudi with Summer Squash" /></a>
 
-<a href="/images/cookbook/basil-gnudi-with-summer-squash-3.jpg"><img src="/images/cookbook/basil-gnudi-with-summer-squash-3.jpg" alt="Basil Gnudi with Summer Squash" /></a>
+<a href="/images/cookbook/basil-gnudi-with-summer-squash-3.webp"><img src="/images/cookbook/basil-gnudi-with-summer-squash-3.webp" alt="Basil Gnudi with Summer Squash" /></a>
 
 <div class="recipe-card">
 <p><strong>Basil Gnudi with Summer Squash</strong>

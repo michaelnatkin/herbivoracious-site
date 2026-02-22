@@ -5,11 +5,11 @@ slug: "applecelery-sorbet-a-refreshing-recipe-with-many-coauthors"
 categories: ["Desserts", "Experiments", "Gluten-Free or modifiable", "Side Dishes", "Vegan or Modifiable", "Weblogs"]
 aliases: ["/applecelery-sorbet-a-refreshing-recipe-with-many-coauthors/", "/2009/01/applecelery-sorbet-a-refreshing-recipe-with-many-coauthors.html"]
 cover:
-  image: "/images/old/6a00e008d618bb8834010536ed2996970b-500wi.jpg"
+  image: "/images/old/6a00e008d618bb8834010536ed2996970b-500wi.webp"
   hidden: true
 ---
 
-<a style="display: inline;" href="/images/old/6a00e008d618bb8834010536ed2996970b-800wi.jpg" rel="lightbox"><img class="at-xid-6a00e008d618bb8834010536ed2996970b "  src="/images/old/6a00e008d618bb8834010536ed2996970b-500wi.jpg" alt="Apple_Celery_Sorbet" /></a>
+<a style="display: inline;" href="/images/old/6a00e008d618bb8834010536ed2996970b-800wi.webp" rel="lightbox"><img class="at-xid-6a00e008d618bb8834010536ed2996970b "  src="/images/old/6a00e008d618bb8834010536ed2996970b-500wi.webp" alt="Apple_Celery_Sorbet" /></a>
 <span style="font-size: 12px; font-family: Arial;">Apple-Celery Sorbet</span>
 
 I was trying to decide on a sorbet flavor for an upcoming dinner party, and I ran across this <a href="http://mlaiskonis.typepad.com/files/apple-celery.pdf" target="_blank">Apple-Celery</a> combination from <a href="http://mlaiskonis.typepad.com/workbook/2009/01/planning-ahead.html">Michael Laiskonis</a>. That sounded like a good fit with the other flavors I had planned, and the apples are both seasonally appropriate (from storage) and local here in the Pacific Northwest. Read on to find out just how many amazing chefs helped me work out the details.

@@ -29,7 +29,7 @@ As of March 2012, I've left the world of software and am fully committed to food
 </div>
 
 
-<a style="margin: 0px 10px 5px 0px; float: left;" href="/images/old/6a00e008d618bb88340133f0d044cf970b-800wi.jpg" rel="lightbox"><img class="asset asset-image at-xid-6a00e008d618bb88340133f0d044cf970b" style="margin: 0px 5px 5px 0px;" src="/images/old/6a00e008d618bb88340133f0d044cf970b-500wi.jpg" alt="Cooking With Kids at QAFM" /></a>
+<a style="margin: 0px 10px 5px 0px; float: left;" href="/images/old/6a00e008d618bb88340133f0d044cf970b-800wi.webp" rel="lightbox"><img class="asset asset-image at-xid-6a00e008d618bb88340133f0d044cf970b" style="margin: 0px 5px 5px 0px;" src="/images/old/6a00e008d618bb88340133f0d044cf970b-500wi.webp" alt="Cooking With Kids at QAFM" /></a>
 
 I've been a vegetarian since 1984. <a href="/2009/07/why-im-a-vegetarian-dammit/">Here's why</a>. I'm passionate about bringing big flavors and good culinary technique to vegetarian cooking. Not to say I don't also love a big plate of Waffle House hashbrowns.
 

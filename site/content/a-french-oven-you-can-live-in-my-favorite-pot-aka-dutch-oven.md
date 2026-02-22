@@ -4,7 +4,7 @@ date: 2012-10-18T15:32:44
 slug: "a-french-oven-you-can-live-in-my-favorite-pot-aka-dutch-oven"
 ---
 
-<a href="https://www.amazon.com/dp/B00VA5HG0Q?tag=herb-hugo-20"><img title="L2501-2612_hd.jpeg" src="/images/2012/10/L2501-2612_hd.jpeg" alt="L2501 2612 hd" width="626" height="491" border="0" /></a>
+<a href="https://www.amazon.com/dp/B00VA5HG0Q?tag=herb-hugo-20"><img title="L2501-2612_hd.jpeg" src="/images/2012/10/L2501-2612_hd.webp" alt="L2501 2612 hd" width="626" height="491" border="0" /></a>
 
 Just as my <a href="/2009/11/my-skillet/">cast iron skillet</a> is my go-to pan for all kinds of frying and sautéeing, this <a href="https://www.amazon.com/dp/B00VA5HG0Q?tag=herb-hugo-20">Le Creuset 5.5 quart French Oven</a> is the pot I turn to first for <strong>soups, stews, braises, chili</strong>, etc. It isn't quite big enough for boiling a full pound of pasta, but for anything else that involves sizable volumes of liquid, it is game-on.
 

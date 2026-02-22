@@ -5,7 +5,7 @@ slug: "aji-amarillo-hot-sauce-from-peruvian-chile-peppers-recipe"
 categories: ["Gluten-Free or modifiable", "Recipes", "Sauces and Condiments", "Vegan or Modifiable"]
 aliases: ["/aji-amarillo-hot-sauce-from-peruvian-chile-peppers-recipe/", "/2009/11/aji-amarillo-hot-sauce-from-peruvian-chile-peppers-recipe.html"]
 cover:
-  image: "/images/old/6a00e008d618bb8834012875ea2fd8970c-500wi.jpg"
+  image: "/images/old/6a00e008d618bb8834012875ea2fd8970c-500wi.webp"
   hidden: true
 recipe:
   name: "(can be made with other dried chiles)"
@@ -24,7 +24,7 @@ recipe:
     - "Taste (carefully!) and adjust the seasonings to your preference."
 ---
 
-<a style="display: inline;" href="/images/old/6a00e008d618bb8834012875ea2fd8970c-800wi.jpg" rel="lightbox"><img class="asset asset-image at-xid-6a00e008d618bb8834012875ea2fd8970c " src="/images/old/6a00e008d618bb8834012875ea2fd8970c-500wi.jpg" alt="Aji_Amarillo_Hot_Sauce" /></a>
+<a style="display: inline;" href="/images/old/6a00e008d618bb8834012875ea2fd8970c-800wi.webp" rel="lightbox"><img class="asset asset-image at-xid-6a00e008d618bb8834012875ea2fd8970c " src="/images/old/6a00e008d618bb8834012875ea2fd8970c-500wi.webp" alt="Aji_Amarillo_Hot_Sauce" /></a>
 <em><a href="https://www.amazon.com/dp/B092L7JRRC?tag=herb-hugo-20">Aji Amarillo</a> hot sauce</em>
 
 I was unfamiliar with <strong>Aji Amarillo</strong> chile peppers, but when I saw these beautiful specimens from Terra Dolce at our co-cop, I was entranced and knew immediately they would be coming home with me. Searching the web, I learned that they are one of the most important ingredients in Peruvian cuisine. The fresh pepper is used to make <em>huancaina</em>, a cheese sauce that is popular on many dishes including the classic <em>papa a la huancaina</em> with cold potatoes and eggs.

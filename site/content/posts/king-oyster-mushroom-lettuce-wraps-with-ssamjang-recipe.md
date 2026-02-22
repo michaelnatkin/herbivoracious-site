@@ -6,7 +6,7 @@ description: "Vegetarian Korean-inspired lettuce wraps with meaty king oyster mu
 categories: ["Recipes", "Appetizers"]
 aliases: ["/king-oyster-mushroom-lettuce-wraps-with-ssamjang-recipe/", "/2011/07/king-oyster-mushroom-lettuce-wraps-with-ssamjang-recipe.html"]
 cover:
-  image: "/images/cookbook/king-oyster-mushroom-lettuce-wraps-with-ssamjang.jpg"
+  image: "/images/cookbook/king-oyster-mushroom-lettuce-wraps-with-ssamjang.webp"
   hidden: true
 recipe:
   name: "King Oyster Mushroom Lettuce Wraps with Ssamjang"
@@ -27,12 +27,12 @@ recipe:
     - "Whisk the remaining ssamjang with a little water if needed to reach a dipping sauce consistency."
     - "To serve, place ¼ cup of the rice in the middle of a lettuce leaf. Top with one oyster mushroom half, a small handful of kaiware, and a couple teaspoons of minced kimchi. Let diners roll up the leaves and dip in the ssamjang."
 ---
-<a href="/images/cookbook/king-oyster-mushroom-lettuce-wraps-with-ssamjang.jpg"><img src="/images/cookbook/king-oyster-mushroom-lettuce-wraps-with-ssamjang.jpg" alt="King Oyster Mushroom Lettuce Wraps with Ssamjang" /></a>
+<a href="/images/cookbook/king-oyster-mushroom-lettuce-wraps-with-ssamjang.webp"><img src="/images/cookbook/king-oyster-mushroom-lettuce-wraps-with-ssamjang.webp" alt="King Oyster Mushroom Lettuce Wraps with Ssamjang" /></a>
 
 
 
 
-<a href="/images/cookbook/king-oyster-mushroom-lettuce-wraps-with-ssamjang-2.jpg"><img src="/images/cookbook/king-oyster-mushroom-lettuce-wraps-with-ssamjang-2.jpg" alt="King Oyster Mushroom Lettuce Wraps with Ssamjang" /></a>
+<a href="/images/cookbook/king-oyster-mushroom-lettuce-wraps-with-ssamjang-2.webp"><img src="/images/cookbook/king-oyster-mushroom-lettuce-wraps-with-ssamjang-2.webp" alt="King Oyster Mushroom Lettuce Wraps with Ssamjang" /></a>
 
 <div class="recipe-card">
 <p><strong>King Oyster Mushroom Lettuce Wraps with <a href="https://www.amazon.com/Ssamjang-Soybean-Lettuce-Vegetables-Authentic/dp/B07BFQPCM6?tag=herb-hugo-20">Ssamjang</a></strong>

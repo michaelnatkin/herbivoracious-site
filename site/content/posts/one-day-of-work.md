@@ -5,7 +5,7 @@ slug: "one-day-of-work"
 categories: ["Main Courses", "Miscellany", "Recipes", "Vegan or Modifiable"]
 aliases: ["/one-day-of-work/", "/2007/10/one-day-of-work.html"]
 cover:
-  image: "/images/2007-small/10/20/cornmealpancakes.jpg"
+  image: "/images/2007-small/10/20/cornmealpancakes.webp"
   hidden: true
 recipe:
   name: "Spicy Angel Hair Pasta"
@@ -33,7 +33,7 @@ recipe:
     - "Serve piping hot in big bowls, garnished with a generous amount of more parm, a few more grains of sea salt, fresh ground pepper, and parsley"
 ---
 
-<a href="/images/2007/10/20/cornmealpancakes.jpg" rel="lightbox"><img title="Cornmealpancakes" src="/images/2007-small/10/20/cornmealpancakes.jpg" alt="Cornmealpancakes" width="455" height="302" border="0" /></a>
+<a href="/images/2007/10/20/cornmealpancakes.webp" rel="lightbox"><img title="Cornmealpancakes" src="/images/2007-small/10/20/cornmealpancakes.webp" alt="Cornmealpancakes" width="455" height="302" border="0" /></a>
 <span style="font-size: 0.8em;">Cornmeal Pancakes From Joy of Cooking</span>
 
 Friday night, put in a <a href="/2007/10/my-first-week-w/">good day of work at Cafe Flora</a>. When I got home around 9, Sarina hadn't really eaten dinner and was in the mood for pasta. You know you love to cook when that sounds like good fun! I made her a spicy angel hair pasta with breadcrumbs that comes together in about the time it takes the water to boil (recipe below).

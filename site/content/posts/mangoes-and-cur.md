@@ -5,7 +5,7 @@ slug: "mangoes-and-cur"
 categories: ["Books", "Gluten-Free or modifiable", "Recipes", "Side Dishes", "Vegan or Modifiable"]
 aliases: ["/mangoes-and-cur/", "/2008/09/mangoes-and-cur.html"]
 cover:
-  image: "/images/2008-small/09/15/zucchinialford.jpg"
+  image: "/images/2008-small/09/15/zucchinialford.webp"
   hidden: true
 recipe:
   name: "Bangla-Flavored Fried Zucchini"
@@ -25,7 +25,7 @@ recipe:
     - "Remove from the skillet, season with salt to taste and serve."
 ---
 
-<a href="/images/2008/09/15/zucchinialford.jpg" rel="lightbox"><img title="Bangladeshi-Style Fried Zucchini" src="/images/2008-small/09/15/zucchinialford.jpg" alt="Fried zucchini, Bangladeshi style" width="455" height="302" border="0" /></a>
+<a href="/images/2008/09/15/zucchinialford.webp" rel="lightbox"><img title="Bangladeshi-Style Fried Zucchini" src="/images/2008-small/09/15/zucchinialford.webp" alt="Fried zucchini, Bangladeshi style" width="455" height="302" border="0" /></a>
 Bangladeshi-Style Fried Zucchini
 
 Jeffrey Alford and Naomi Duguid are one of the greatest cookbook writing teams alive today. Their ability to travel the world and fully engage with the people they meet allows them to bring back incredible stories, photos and recipes.

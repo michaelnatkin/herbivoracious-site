@@ -6,7 +6,7 @@ description: "Modernist recipe for a \"fruit salad\" with unusual ingredients an
 categories: ["Experiments", "Gluten-Free or modifiable", "Recipes", "Salads", "Vegan or Modifiable"]
 aliases: ["/fruit-salad/", "/2011/04/fruit-salad.html"]
 cover:
-  image: "/images/old/6a00e008d618bb8834014e604fd274970c-500wi.jpg"
+  image: "/images/old/6a00e008d618bb8834014e604fd274970c-500wi.webp"
   hidden: true
 recipe:
   name: "Fruit Salad"
@@ -39,14 +39,14 @@ recipe:
 ---
 
 <div itemscope itemtype="http://data-vocabulary.org/Recipe">
-<a style="display: inline;" href="/images/old/6a00e008d618bb8834014e604fd274970c-800wi.jpg" rel="lightbox"><img itemprop="image" class="asset  asset-image at-xid-6a00e008d618bb8834014e604fd274970c" title="Fruit Salad" src="/images/old/6a00e008d618bb8834014e604fd274970c-500wi.jpg" alt="Fruit Salad" />
+<a style="display: inline;" href="/images/old/6a00e008d618bb8834014e604fd274970c-800wi.webp" rel="lightbox"><img itemprop="image" class="asset  asset-image at-xid-6a00e008d618bb8834014e604fd274970c" title="Fruit Salad" src="/images/old/6a00e008d618bb8834014e604fd274970c-500wi.webp" alt="Fruit Salad" />
 </a><em>Fruit salad</em>
 
 I don't remember exactly what got me on the idea of reimagining fruit salad, but like a culinary <a href="http://en.wikipedia.org/wiki/Earworm" target="_blank">earworm</a>, I couldn't get it out of my head for a few days. I kept daydreaming about possible components, and picking up a few inspirations when I visited the co-op. I knew that I wanted <strong>everything on the plate to be fruit</strong>, and that I wanted to play with the idea, using some ingredients that are technically fruit but are thought of more as vegetable (olives, tomatoes, avocado).
 
 The thing I like about the combination of ingredients I landed on is that you can eat them "safe" (the avocado with the lime, tomatoes with olives, ....), or you can take the invitation to play a little bit. How do grape and avocado taste together? <strong>Blood orange and tomato gel?</strong>
 
-<a style="float: left; padding-right: 10px;" href="/images/old/6a00e008d618bb88340147e3ab0655970b-800wi.jpg" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb88340147e3ab0655970b" style="width: 200px; margin: 0px 5px 5px 0px;" title="Fruit Salad Small" src="/images/old/6a00e008d618bb88340147e3ab0655970b-200wi.jpg" alt="Fruit Salad Small" /></a>Red globe grapes are a beautiful thing. They are enormous, and if you take the peel off, they are pale green, cool, and sweet, and offer a couple little <strong>tannic seeds</strong>.
+<a style="float: left; padding-right: 10px;" href="/images/old/6a00e008d618bb88340147e3ab0655970b-800wi.webp" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb88340147e3ab0655970b" style="width: 200px; margin: 0px 5px 5px 0px;" title="Fruit Salad Small" src="/images/old/6a00e008d618bb88340147e3ab0655970b-200wi.webp" alt="Fruit Salad Small" /></a>Red globe grapes are a beautiful thing. They are enormous, and if you take the peel off, they are pale green, cool, and sweet, and offer a couple little <strong>tannic seeds</strong>.
 
 I was in the break room at work and saw packets of instant apple cider mix, which I always sneer at. After all, the stuff doesn't even contain apples, it is just sugar and <a href="https://www.amazon.com/dp/B00D4SBI3I?tag=herb-hugo-20">malic acid</a>. <strong>Wait a second... malic acid</strong>... didn't <a href="http://amzn.to/hxFfup" target="_blank">Heston Blumenthal</a> say that stuff was super mouthwatering? Let me taste it. Yes indeed, like slightly <strong>puckery apple candy</strong>. Terrible drink, delicious powder. I tried rolling the peeled grapes in the powder, and it was terrific, but the powder gets moist quickly, so that wouldn't work on the salad. Instead, I serve them on a small pile of the powder, inviting the diner to dip them like Lik-M-Aid. Fun.
 

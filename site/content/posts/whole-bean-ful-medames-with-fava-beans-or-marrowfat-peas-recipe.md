@@ -5,7 +5,7 @@ slug: "whole-bean-ful-medames-with-fava-beans-or-marrowfat-peas-recipe"
 categories: ["Breakfast", "Gluten-Free or modifiable", "Main Courses", "Recipes", "Vegan or Modifiable"]
 aliases: ["/whole-bean-ful-medames-with-fava-beans-or-marrowfat-peas-recipe/", "/2013/07/whole-bean-ful-medames-with-fava-beans-or-marrowfat-peas-recipe.html"]
 cover:
-  image: "/images/2013/07/Marrowfat-Peas-626x415.jpg"
+  image: "/images/2013/07/Marrowfat-Peas-626x415.webp"
   hidden: true
 recipe:
   name: "Whole Bean Ful Medames - With Fava Beans or Marrowfat Peas"
@@ -26,7 +26,7 @@ recipe:
     - "Spoon the beans into serving bowls and ladle some, but not too much, of the hot broth over the top. If you like, you could mash some of the beans. Drizzle lots more olive oil over the top. Garnish with a generous squeeze of lemon juice, the oregano or parsley, and several grinds of black pepper. Serve hot."
 ---
 
-<a href="/images/2013/07/Marrowfat-Peas.jpg"><img class="alignnone size-large wp-image-3817" alt="Whole Bean Ful Medames" src="/images/2013/07/Marrowfat-Peas-626x415.jpg" width="626" height="415" /></a>
+<a href="/images/2013/07/Marrowfat-Peas.webp"><img class="alignnone size-large wp-image-3817" alt="Whole Bean Ful Medames" src="/images/2013/07/Marrowfat-Peas-626x415.webp" width="626" height="415" /></a>
 <em>Whole Bean Ful Medames - With Fava Beans or <a href="https://www.amazon.com/dp/B002ONM3J2?tag=herb-hugo-20">Marrowfat Peas</a></em>
 
 Ful medames is sort of the national breakfast of Egpyt, though it has spread far and wide from there. I've published an <a href="/2010/08/ethiopian-ful-mudammas-recipe/" target="_blank">Ethiopian version</a> before. I've never been to Egypt, but it sounds like the most common kind there is at least partially mashed. The one I'm showing you today is more reminiscent of the first ful I ever had, at a terrific Armenian restaurant that I used to haunt in East Providence, Rhode Island, almost 30 years ago. The beans there were served whole, in their own broth, doctored up with plenty of garlic, olive oil, and lemon juice.

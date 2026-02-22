@@ -5,7 +5,7 @@ slug: "zucchini-chickpea-tagine-recipe"
 categories: ["Gluten-Free or modifiable", "Recipes", "Vegan or Modifiable"]
 aliases: ["/zucchini-chickpea-tagine-recipe/", "/2012/08/zucchini-chickpea-tagine-recipe.html"]
 cover:
-  image: "/images/2012/08/Zucchini-and-Chickpea-Tagine-626x415.jpg"
+  image: "/images/2012/08/Zucchini-and-Chickpea-Tagine-626x415.webp"
   hidden: true
 recipe:
   name: "Zucchini and Chickpea Tagine"
@@ -31,7 +31,7 @@ recipe:
     - "Taste and adjust seasoning. It will probably need more salt, and you may want to amp up the spices, depending on your taste. Serve hot, garnishing with parsley if you desire."
 ---
 
-<a href="/images/2012/08/Zucchini-and-Chickpea-Tagine.jpg"><img class="alignnone size-large wp-image-2563" title="Zucchini and Chickpea Tagine" src="/images/2012/08/Zucchini-and-Chickpea-Tagine-626x415.jpg" alt="Zucchini and Chickpea Tagine" width="626" height="415" /></a>
+<a href="/images/2012/08/Zucchini-and-Chickpea-Tagine.webp"><img class="alignnone size-large wp-image-2563" title="Zucchini and Chickpea Tagine" src="/images/2012/08/Zucchini-and-Chickpea-Tagine-626x415.webp" alt="Zucchini and Chickpea Tagine" width="626" height="415" /></a>
 <em>Zucchini and Chickpea Tagine</em>
 
 The name of this recipe is misleading. A tagine is the <a href="https://www.amazon.com/dp/B0BF29GK5Z?tag=herb-hugo-20" target="_blank">Moroccan clay pot with a conical lid</a>, typically used for slow-braised stews, as well as the dishes cooked in those beautiful vessels. However, there is nothing in this particular dish that really needs a long braise, so it is quite feasible to make it in a skillet or Dutch-oven. I still call it a tagine because the flavorings are very typical of that genre.

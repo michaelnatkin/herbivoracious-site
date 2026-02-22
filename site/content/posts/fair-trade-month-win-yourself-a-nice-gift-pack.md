@@ -5,11 +5,11 @@ slug: "fair-trade-month-win-yourself-a-nice-gift-pack"
 categories: ["Contests"]
 aliases: ["/fair-trade-month-win-yourself-a-nice-gift-pack/", "/2012/10/fair-trade-month-win-yourself-a-nice-gift-pack.html"]
 cover:
-  image: "/images/2012/09/Fair-Trade-Giveaway-626x415.jpg"
+  image: "/images/2012/09/Fair-Trade-Giveaway-626x415.webp"
   hidden: true
 ---
 
-<img class="size-large wp-image-2860 alignnone" title="Fair Trade Giveaway" src="/images/2012/09/Fair-Trade-Giveaway-626x415.jpg" alt="Fair Trade Giveaway" width="626" height="415" />
+<img class="size-large wp-image-2860 alignnone" title="Fair Trade Giveaway" src="/images/2012/09/Fair-Trade-Giveaway-626x415.webp" alt="Fair Trade Giveaway" width="626" height="415" />
 
 Fair trade is the idea of marketing products with a primary goal of improving the lives of the those who grow (and sometimes process) the raw materials. I knew that it involved paying ethical, above-market prices for the food, instead of pressuring poor communities to produce food as cheaply as possible.  I didn't realize the it also includes a commitment of community development funds that the farmers can use for environmental protection, health care, or women's empowerment among other great things.
 

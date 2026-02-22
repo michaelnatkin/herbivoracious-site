@@ -6,7 +6,7 @@ description: "The traditional recipe for arroz verde involves cooking your rice 
 categories: ["Recipes", "Side Dishes", "Vegan or Modifiable", "Gluten-Free"]
 aliases: ["/non-traditional-arroz-verde-recipe/", "/2012/02/non-traditional-arroz-verde-recipe.html"]
 cover:
-  image: "/images/cookbook/non-traditional-arroz-verde.jpg"
+  image: "/images/cookbook/non-traditional-arroz-verde.webp"
   hidden: true
 recipe:
   name: "Non-Traditional Arroz Verde"
@@ -25,7 +25,7 @@ recipe:
     - "In a food processor, combine the herbs, garlic, and olive oil. Process until thoroughly pureed."
     - "Just before serving, stir the herb mixture and salt into the rice. Taste and add more salt as needed."
 ---
-<a href="/images/cookbook/non-traditional-arroz-verde.jpg"><img src="/images/cookbook/non-traditional-arroz-verde.jpg" alt="Non-Traditional Arroz Verde" /></a>
+<a href="/images/cookbook/non-traditional-arroz-verde.webp"><img src="/images/cookbook/non-traditional-arroz-verde.webp" alt="Non-Traditional Arroz Verde" /></a>
 
 
 <p>The traditional recipe for arroz verde involves cooking your rice with a puree of poblano peppers and herbs. It is truly delicious, and I'd choose it in a heartbeat over the typical red rice you find universally at America’s Mexican restaurants.</p>

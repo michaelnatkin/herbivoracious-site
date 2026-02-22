@@ -6,7 +6,7 @@ description: "If you have had the foresight to make extra polenta, you can fry i
 categories: ["Recipes", "Main Courses", "Vegan or Modifiable", "Gluten-Free"]
 aliases: ["/crispy-polenta-cakes-with-white-beans-and-morels-recipe/", "/2011/12/crispy-polenta-cakes-with-white-beans-and-morels-recipe.html"]
 cover:
-  image: "/images/cookbook/crispy-polenta-cakes-with-white-beans-and-morels.jpg"
+  image: "/images/cookbook/crispy-polenta-cakes-with-white-beans-and-morels.webp"
   hidden: true
 recipe:
   name: "Crispy Polenta Cakes with White Beans and Morels"
@@ -28,7 +28,7 @@ recipe:
     - "Put ¼ cup of extra-virgin olive oil in your largest skillet, preferably cast iron over medium-high heat. Take ½ cup of the chilled polenta and form it into a patty, about 3/8” thick. Repeat with 3 more patties. Fry on one side until quite golden-brown, then flip and brown the other side. Repeat for a second batch of 4 patties."
     - "To serve, divide the beans with some of the broth and the morels among the plates. Top with 2 polenta cakes each, and finish with a few leaves of parsley, fresh ground black pepper, and a generous scattering of flaky sea salt."
 ---
-<a href="/images/cookbook/crispy-polenta-cakes-with-white-beans-and-morels.jpg"><img src="/images/cookbook/crispy-polenta-cakes-with-white-beans-and-morels.jpg" alt="Crispy Polenta Cakes with White Beans and Morels" /></a>
+<a href="/images/cookbook/crispy-polenta-cakes-with-white-beans-and-morels.webp"><img src="/images/cookbook/crispy-polenta-cakes-with-white-beans-and-morels.webp" alt="Crispy Polenta Cakes with White Beans and Morels" /></a>
 
 
 <p>If you have had the foresight to make extra polenta, you can fry it up into cakes with a savory side of white beans and morel mushrooms in just half an hour. You can do this with polenta that already has cheese, etc. in it as long as it has set up firm enough to squish into a patty. If you haven’t already made polenta, you can make it by lunchtime and it will be plenty firm for dinner. In this case, you don’t need to add anything more than salt.</p>
@@ -36,7 +36,7 @@ recipe:
 <p>These cakes are especially good with the Red Wine Braised Cabbage on .</p>
 
 
-<a href="/images/cookbook/crispy-polenta-cakes-with-white-beans-and-morels-2.jpg"><img src="/images/cookbook/crispy-polenta-cakes-with-white-beans-and-morels-2.jpg" alt="Crispy Polenta Cakes with White Beans and Morels" /></a>
+<a href="/images/cookbook/crispy-polenta-cakes-with-white-beans-and-morels-2.webp"><img src="/images/cookbook/crispy-polenta-cakes-with-white-beans-and-morels-2.webp" alt="Crispy Polenta Cakes with White Beans and Morels" /></a>
 
 <div class="recipe-card">
 <p><strong>Crispy Polenta Cakes with White Beans and Morels</strong>

@@ -5,7 +5,7 @@ slug: "savory-churros-and-morel-chocolate-recipe"
 categories: ["Appetizers", "Experiments", "Gluten-Free or modifiable", "Recipes"]
 aliases: ["/savory-churros-and-morel-chocolate-recipe/", "/2009/01/savory-churros-and-morel-chocolate-recipe.html"]
 cover:
-  image: "/images/old/6a00e008d618bb8834010536a29b22970b-500wi.jpg"
+  image: "/images/old/6a00e008d618bb8834010536a29b22970b-500wi.webp"
   hidden: true
 recipe:
   name: "Morel \"Hot Chocolate\" Soup"
@@ -25,7 +25,7 @@ recipe:
     - "To serve, reheat and then carefully froth with a handheld blender."
 ---
 
-<a style="display: inline;" href="/images/old/6a00e008d618bb8834010536a29b22970b-800wi.jpg" rel="lightbox"><img class="at-xid-6a00e008d618bb8834010536a29b22970b "  src="/images/old/6a00e008d618bb8834010536a29b22970b-500wi.jpg" alt="Savory_Churros_And_Morel_Chocolate" /></a>
+<a style="display: inline;" href="/images/old/6a00e008d618bb8834010536a29b22970b-800wi.webp" rel="lightbox"><img class="at-xid-6a00e008d618bb8834010536a29b22970b "  src="/images/old/6a00e008d618bb8834010536a29b22970b-500wi.webp" alt="Savory_Churros_And_Morel_Chocolate" /></a>
 
 This is one of the dishes I'm working on for my next <a href="/2008/05/dinner-party-1/" target="_blank">"underground" dinner party</a>. <a href="http://cafeflora.com/" target="_blank">Cafe Flora</a> (where I <a href="/cooking-internship/" target="_blank">previously interned</a>) has graciously agreed to host this time. The menu I'm working on will be Spanish, with both traditional and <strong>modern</strong> elements. (If you are interested in attending the dinner on Tue. 1/27, there might be a few spots left; drop me an email at <a href="mailto:herbivoracious@gmail.com">herbivoracious@gmail.com</a>, let me know how many in your party, and I'll be in touch).
 

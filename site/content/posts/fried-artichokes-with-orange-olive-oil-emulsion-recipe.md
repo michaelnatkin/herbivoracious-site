@@ -5,7 +5,7 @@ slug: "fried-artichokes-with-orange-olive-oil-emulsion-recipe"
 categories: ["Appetizers", "Gluten-Free or modifiable", "Recipes", "Vegan or Modifiable"]
 aliases: ["/fried-artichokes-with-orange-olive-oil-emulsion-recipe/", "/2012/11/fried-artichokes-with-orange-olive-oil-emulsion-recipe.html"]
 cover:
-  image: "/images/2012/12/Fried-Artichokes-with-Orange-Emulsion-626x415.jpg"
+  image: "/images/2012/12/Fried-Artichokes-with-Orange-Emulsion-626x415.webp"
   hidden: true
 recipe:
   name: "Fried Artichokes with Orange-Olive Oil Emulsion"
@@ -28,7 +28,7 @@ recipe:
     - "Serve very hot, either plated with the Orange-Olive Oil Emulsion or passing that on the side."
 ---
 
-<a href="/images/2012/12/Fried-Artichokes-with-Orange-Emulsion.jpg"><img class="alignnone size-large wp-image-3323" title="Fried Artichokes with Orange Olive Oil Emulsion" src="/images/2012/12/Fried-Artichokes-with-Orange-Emulsion-626x415.jpg" alt="" width="626" height="415" />
+<a href="/images/2012/12/Fried-Artichokes-with-Orange-Emulsion.webp"><img class="alignnone size-large wp-image-3323" title="Fried Artichokes with Orange Olive Oil Emulsion" src="/images/2012/12/Fried-Artichokes-with-Orange-Emulsion-626x415.webp" alt="" width="626" height="415" />
 </a><em>Fried Artichokes with Orange-Olive Oil Emulsion</em>
 
 The first time I had fried artichokes was at a little place in our neighborhood called Supreme; they went out of business shortly after we moved in, or I'd probably have the artichoke equivalent of a beer belly by now. Since then, I never pass up a chance to eat fried artichokes (including the classic Carciofi alla Giudia of Rome) but hadn't made them at home.
@@ -41,7 +41,7 @@ For frying the artichokes, you can go one of two ways. Actual deep-frying is pre
 
 Don't even think about doing this with canned artichoke hearts, it will be terrible.  There are instructions for how to trim the artichokes below, in case you haven't done it before. For this dish in particular, we want everything that you are serving to the guest to be fully edible, so be quite aggressive in removing the outer leaves and top of the artichoke. Here is how it should look before frying:
 
-<a href="/images/2012/12/Fried-Artichoke-Trimmed.jpg"><img class="alignnone  wp-image-3324" title="Fried Artichoke Trimmed" src="/images/2012/12/Fried-Artichoke-Trimmed-400x265.jpg" alt="" width="300" height="199" /></a><a href="/images/2012/12/Quartered.jpg"><img class="alignnone  wp-image-3325" title="Artichoke, Trimmed and Quartered" src="/images/2012/12/Quartered-400x265.jpg" alt="" width="300" /></a>
+<a href="/images/2012/12/Fried-Artichoke-Trimmed.webp"><img class="alignnone  wp-image-3324" title="Fried Artichoke Trimmed" src="/images/2012/12/Fried-Artichoke-Trimmed-400x265.webp" alt="" width="300" height="199" /></a><a href="/images/2012/12/Quartered.webp"><img class="alignnone  wp-image-3325" title="Artichoke, Trimmed and Quartered" src="/images/2012/12/Quartered-400x265.webp" alt="" width="300" /></a>
 
 <div class="recipe-card">
 <strong>Fried Artichokes with Orange-Olive Oil Emulsion</strong>

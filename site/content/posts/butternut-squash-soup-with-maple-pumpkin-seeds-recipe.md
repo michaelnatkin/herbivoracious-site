@@ -6,7 +6,7 @@ description: "Vegan-friendly butternut squash soup topped with sweet maple-glaze
 categories: ["Recipes", "Soups", "Vegan or Modifiable", "Gluten-Free"]
 aliases: ["/butternut-squash-soup-with-maple-pumpkin-seeds-recipe/", "/2011/03/butternut-squash-soup-with-maple-pumpkin-seeds-recipe.html"]
 cover:
-  image: "/images/cookbook/butternut-squash-soup-with-maple-pumpkin-seeds.jpg"
+  image: "/images/cookbook/butternut-squash-soup-with-maple-pumpkin-seeds.webp"
   hidden: true
 recipe:
   name: "Butternut Squash Soup with Maple Pumpkin Seeds"
@@ -34,12 +34,12 @@ recipe:
     - "Put serving bowls in the oven to warm up. Remove the soup from the heat and very carefully and thoroughly puree with a blender (working in batches) or stick blender. Be sure you know how to safely puree hot, thick liquids, or allow it to cool first. Add a little more soymilk if needed to reach a nice soup texture. Strain through a fine sieve and return to pot over medium low heat to come back to serving temperature. Taste and adjust seasoning."
     - "To serve, ladle the soup into warmed bowls. Garnish with a drizzle of the pomegranate molasses and a small handful of the pumpkin seed clusters, broken up if needed. Zest the orange directly over the soup so that the essential oils are released, allowing a few strands of zest to fall on each bowl. Finish with a few more grains of flaky sea salt and serve immediately."
 ---
-<a href="/images/cookbook/butternut-squash-soup-with-maple-pumpkin-seeds.jpg"><img src="/images/cookbook/butternut-squash-soup-with-maple-pumpkin-seeds.jpg" alt="Butternut Squash Soup with Maple Pumpkin Seeds" /></a>
+<a href="/images/cookbook/butternut-squash-soup-with-maple-pumpkin-seeds.webp"><img src="/images/cookbook/butternut-squash-soup-with-maple-pumpkin-seeds.webp" alt="Butternut Squash Soup with Maple Pumpkin Seeds" /></a>
 
 
 
 
-<a href="/images/cookbook/butternut-squash-soup-with-maple-pumpkin-seeds-2.jpg"><img src="/images/cookbook/butternut-squash-soup-with-maple-pumpkin-seeds-2.jpg" alt="Butternut Squash Soup with Maple Pumpkin Seeds" /></a>
+<a href="/images/cookbook/butternut-squash-soup-with-maple-pumpkin-seeds-2.webp"><img src="/images/cookbook/butternut-squash-soup-with-maple-pumpkin-seeds-2.webp" alt="Butternut Squash Soup with Maple Pumpkin Seeds" /></a>
 
 <div class="recipe-card">
 <p><strong>Butternut Squash Soup with Maple Pumpkin Seeds</strong>

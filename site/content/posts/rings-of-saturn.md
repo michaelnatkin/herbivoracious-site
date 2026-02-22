@@ -5,7 +5,7 @@ slug: "rings-of-saturn"
 categories: ["Desserts", "Recipes"]
 aliases: ["/rings-of-saturn/", "/2008/09/rings-of-saturn.html"]
 cover:
-  image: "/images/2008-small/08/30/rings_of_saturn_peach.jpg"
+  image: "/images/2008-small/08/30/rings_of_saturn_peach.webp"
   hidden: true
 recipe:
   name: "Rings Of Saturn On Challah French Toast"
@@ -37,7 +37,7 @@ recipe:
     - "Top the peach with a scoop of the ice cream and push it down into the cylinder where you removed the pit."
 ---
 
-<a href="/images/2008/08/30/rings_of_saturn_peach.jpg" rel="lightbox"><img title="Rings of Saturn French Toast" src="/images/2008-small/08/30/rings_of_saturn_peach.jpg" alt="French toast, Saturn peach, marionberry sauce, buttermilk sauce, and dulce de leche ice cream" width="455" height="302" border="0" /></a>
+<a href="/images/2008/08/30/rings_of_saturn_peach.webp" rel="lightbox"><img title="Rings of Saturn French Toast" src="/images/2008-small/08/30/rings_of_saturn_peach.webp" alt="French toast, Saturn peach, marionberry sauce, buttermilk sauce, and dulce de leche ice cream" width="455" height="302" border="0" /></a>
 <span style="font-size: 0.8em;">"Rings of Saturn" - Saturn peach with French Toast</span>
 
 I recently learned that donut peaches and Saturn peaches are the same thing. I picked up some beautiful specimens at Central Market the other day, perfectly ripe and sweet. They lack the acid backbone of most other varieties. Pure, addictive, three-bite candy.

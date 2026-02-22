@@ -4,7 +4,7 @@ date: 2012-10-26T06:54:44
 slug: "the-best-salad-spinner-because-wet-lettuce-is-terrible"
 ---
 
-<img src="/images/2012/10/Starfrit-Salad-Spinner1-611x415.jpeg" alt="Starfrit Salad Spinner" title="Starfrit Salad Spinner" width="611" height="415" class="alignnone size-large wp-image-3249" />
+<img src="/images/2012/10/Starfrit-Salad-Spinner1-611x415.webp" alt="Starfrit Salad Spinner" title="Starfrit Salad Spinner" width="611" height="415" class="alignnone size-large wp-image-3249" />
 
 The worst thing you can do to a potentially great salad is try and dress it with the leaves still wet from washing. The dressing runs right off, leaving a watery, unappetizing mess. 
 

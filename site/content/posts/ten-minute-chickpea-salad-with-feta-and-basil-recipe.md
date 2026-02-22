@@ -6,7 +6,7 @@ description: "This hearty salad was born out of desperation, when I arrived home
 categories: ["Recipes", "Salads", "Gluten-Free"]
 aliases: ["/ten-minute-chickpea-salad-with-feta-and-basil-recipe/", "/2011/03/ten-minute-chickpea-salad-with-feta-and-basil-recipe.html"]
 cover:
-  image: "/images/cookbook/ten-minute-chickpea-salad-with-feta-and-basil.jpg"
+  image: "/images/cookbook/ten-minute-chickpea-salad-with-feta-and-basil.webp"
   hidden: true
 recipe:
   name: "Ten-Minute Chickpea Salad with Feta and Basil"
@@ -27,7 +27,7 @@ recipe:
     - "Taste and add salt as needed. Depending on how salty your feta is, you might not need any."
     - "Serve right away, or refrigerate for up to a few hours."
 ---
-<a href="/images/cookbook/ten-minute-chickpea-salad-with-feta-and-basil.jpg"><img src="/images/cookbook/ten-minute-chickpea-salad-with-feta-and-basil.jpg" alt="Ten-Minute Chickpea Salad with Feta and Basil" /></a>
+<a href="/images/cookbook/ten-minute-chickpea-salad-with-feta-and-basil.webp"><img src="/images/cookbook/ten-minute-chickpea-salad-with-feta-and-basil.webp" alt="Ten-Minute Chickpea Salad with Feta and Basil" /></a>
 
 
 <p>This hearty salad was born out of desperation, when I arrived home at 5:30 and our annual block party potluck was due to start at 6:00. Two crazy kids meant that I would have to put something together fast, but I wasn’t about to settle for bland! Easy potluck recipes are a dime a dozen, but the challenge here was to deliver one with big flavors.</p>
@@ -36,7 +36,7 @@ recipe:
 <p>You could easily add or substitute other herbs (tarragon, dill or mint would be nice), olives, blanched green beans, or artichoke hearts. My wife also makes a delicious variation with a few cups of prepared <a href="https://www.amazon.com/dp/B078J37Y7K?tag=herb-hugo-20">Israeli couscous</a> added. (Israeli couscous is large pearls, not the tiny grains of traditional couscous).</p>
 
 
-<a href="/images/cookbook/ten-minute-chickpea-salad-with-feta-and-basil-2.jpg"><img src="/images/cookbook/ten-minute-chickpea-salad-with-feta-and-basil-2.jpg" alt="Ten-Minute Chickpea Salad with Feta and Basil" /></a>
+<a href="/images/cookbook/ten-minute-chickpea-salad-with-feta-and-basil-2.webp"><img src="/images/cookbook/ten-minute-chickpea-salad-with-feta-and-basil-2.webp" alt="Ten-Minute Chickpea Salad with Feta and Basil" /></a>
 
 <div class="recipe-card">
 <p><strong>Ten-Minute Chickpea Salad with Feta and Basil</strong>

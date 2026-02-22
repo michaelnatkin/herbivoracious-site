@@ -5,7 +5,7 @@ slug: "pan-fried-polenta-with-chickpea-stew-king-oyster-mushrooms-and-fig-puree"
 categories: ["Gluten-Free or modifiable", "Main Courses", "Recipes"]
 aliases: ["/pan-fried-polenta-with-chickpea-stew-king-oyster-mushrooms-and-fig-puree/", "/2012/11/pan-fried-polenta-with-chickpea-stew-king-oyster-mushrooms-and-fig-puree.html"]
 cover:
-  image: "/images/2012/11/Fried-Polenta-with-Chickpeas-and-Fig-Puree-626x415.jpg"
+  image: "/images/2012/11/Fried-Polenta-with-Chickpeas-and-Fig-Puree-626x415.webp"
   hidden: true
 recipe:
   name: "Pan-Fried Polenta with Chickpea Stew, King Oyster Mushrooms and Fig Puree"
@@ -24,7 +24,7 @@ recipe:
     - "Drizzle 1/4 cup of the fig puree on the plate. Top with two slabs of the polenta, one-quarter of the chickpea-peperonata stew, three halves of king oyster mushrooom, a few flakes of the Maldon (aka the world's greatest salt) , and a pinch of the minced parsley. Serve hot."
 ---
 
-<img class="alignnone size-large wp-image-3295" title="Fried Polenta with Chickpeas and Fig Puree" src="/images/2012/11/Fried-Polenta-with-Chickpeas-and-Fig-Puree-626x415.jpg" alt="" width="626" height="415" />
+<img class="alignnone size-large wp-image-3295" title="Fried Polenta with Chickpeas and Fig Puree" src="/images/2012/11/Fried-Polenta-with-Chickpeas-and-Fig-Puree-626x415.webp" alt="" width="626" height="415" />
 <em>Pan-Fried Polenta with Chickpea Stew, King Oyster Mushrooms and Fig Puree
 </em>
 

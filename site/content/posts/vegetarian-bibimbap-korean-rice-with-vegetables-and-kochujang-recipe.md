@@ -5,7 +5,7 @@ slug: "vegetarian-bibimbap-korean-rice-with-vegetables-and-kochujang-recipe"
 categories: ["Main Courses", "Recipes"]
 aliases: ["/vegetarian-bibimbap-korean-rice-with-vegetables-and-kochujang-recipe/", "/2012/12/vegetarian-bibimbap-korean-rice-with-vegetables-and-kochujang-recipe.html"]
 cover:
-  image: "/images/2012/12/Bibimbap-626x415.jpg"
+  image: "/images/2012/12/Bibimbap-626x415.webp"
   hidden: true
 recipe:
   name: "Vegetarian Bibimbap (Korean Mixed Rice)"
@@ -38,7 +38,7 @@ recipe:
     - "To serve, put a mound of steaming hot rice in a warm bowl. Arrange servings of the mushrooms, zucchini, bean sprouts, pea shoots, fried tofu and pickled cucumbers around the perimeter of the rice. Put an egg in the middle, and garnish with the scallions. Serve immediately, piping hot, with plenty of kochujang for diners to mix in as they please."
 ---
 
-<a href="/images/2012/12/Bibimbap.jpg"><img class="alignnone size-large wp-image-3504" title="Bibimbap" src="/images/2012/12/Bibimbap-626x415.jpg" alt="Vegetarian Bibimbap" width="626" height="415" /></a>
+<a href="/images/2012/12/Bibimbap.webp"><img class="alignnone size-large wp-image-3504" title="Bibimbap" src="/images/2012/12/Bibimbap-626x415.webp" alt="Vegetarian Bibimbap" width="626" height="415" /></a>
 <em>Vegetarian Bibimbap</em>
 
 Considering that I've posted a fair number of <a href="/" target="_blank">Korean recipes</a> over the years, it seems odd that I've never written down <strong>my favorite Korean dish of all</strong>: <em>bibimbap</em>. Pronounced "bee-bim-bop", bibimbap is simply a bowl of hot rice with a variety of cooked and raw vegetables. A raw, poached, or fried egg is served on top and <a href="https://www.amazon.com/dp/B013HB0CC4?tag=herb-hugo-20">kochujang</a> (Korean miso / chili paste) is passed on the side, and the egg yolk together with the kochujang is mixed into the rice before eating.

@@ -5,11 +5,11 @@ slug: "a-parenting-recipe-for-raising-healthy-eaters-guest-post-from-sarina-beha
 categories: ["Kid Friendly", "Theory and Rants", "Weblogs"]
 aliases: ["/a-parenting-recipe-for-raising-healthy-eaters-guest-post-from-sarina-behar-natkin-of-grow-parenting/", "/2012/04/a-parenting-recipe-for-raising-healthy-eaters-guest-post-from-sarina-behar-natkin-of-grow-parenting.html"]
 cover:
-  image: "/images/2012/04/Girl-Eating-622x415.jpg"
+  image: "/images/2012/04/Girl-Eating-622x415.webp"
   hidden: true
 ---
 
-<a href="/images/2012/04/Girl-Eating.jpg"><img class="alignnone size-large wp-image-1760" title="Girl Eating" src="/images/2012/04/Girl-Eating-622x415.jpg" alt="" width="622" height="415" /></a>
+<a href="/images/2012/04/Girl-Eating.webp"><img class="alignnone size-large wp-image-1760" title="Girl Eating" src="/images/2012/04/Girl-Eating-622x415.webp" alt="" width="622" height="415" /></a>
 <em>Nope, that's not one of my kids - but she is cute!</em>
 
 <strong>Today's guest post is something very special to me. It is by my amazing wife, Sarina Behar Natkin. Sarina is a Licensed Clinical Social Worker, and for the past few years has been devoting her professional energies to helping parents find more joy in the process of raising healthy, confident children. She's written a wonderful, thoughtful article about the big picture of how to help your children have a healthy relationship to food for their whole lives. If you have kids, I'm sure you'll find a lot of valuable thoughts here. Please pass it on to others who may benefit, and then go visit her <a href="https://www.sarinanatkin.com" target="_blank">website</a> and <a href="https://www.sarinanatkin.com/blog/" target="_blank">parent coaching blog</a>.</strong>

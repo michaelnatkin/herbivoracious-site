@@ -5,7 +5,7 @@ slug: "red-rice-and-avocado-with-crispy-burdock-chips-recipe"
 categories: ["Recipes", "Vegan or Modifiable"]
 aliases: ["/red-rice-and-avocado-with-crispy-burdock-chips-recipe/", "/2012/10/red-rice-and-avocado-with-crispy-burdock-chips-recipe.html"]
 cover:
-  image: "/images/2012/10/Red-Rice-and-Avocado-Terrine-626x415.jpg"
+  image: "/images/2012/10/Red-Rice-and-Avocado-Terrine-626x415.webp"
   hidden: true
 recipe:
   name: "Red Rice and Avocado with Crispy Burdock Chips"
@@ -28,7 +28,7 @@ recipe:
     - "To assemble the dish, place a 3 1/2\" ring mold (or biscuit cutter) on a plate. Put 1/2 cup of the rice in the mold and press down to form an even, solid layer. Dress with some of the miso dressing. Layer in one quarter of the avocado and more dressing. Add a thin layer of bell pepper and a bit more dressing. Top with a few leaves of the lettuce and 5 of the burdock chips. Sprinkle with a teaspoon of the gomashio. Carefully remove the ring mold and repeat with the remaining plates."
 ---
 
-<img class="alignnone size-large wp-image-2872" title="Red Rice and Avocado Terrine" src="/images/2012/10/Red-Rice-and-Avocado-Terrine-626x415.jpg" alt="Red Rice and Avocado Terrine" width="626" height="415" />
+<img class="alignnone size-large wp-image-2872" title="Red Rice and Avocado Terrine" src="/images/2012/10/Red-Rice-and-Avocado-Terrine-626x415.webp" alt="Red Rice and Avocado Terrine" width="626" height="415" />
 <em>Red Rice and Avocado with Crispy Burdock Chips</em>
 
 Here's another dish I made with those amazing <a href="/2012/09/avocado-and-tomatillo-salsa-recipe/" target="_blank">Reed avocados from ChefShop</a>. It looks a little bit fancy, but is very easy to do - just layers of red rice, avocado, shaved red pepper, baby lettuces, burdock chips, and <a href="/2010/03/gomashio-japanese-sesame-seed-salt-condiment-recipe/" target="_blank">gomashio</a>, flavored with a sesame/miso/yuzu dressing.

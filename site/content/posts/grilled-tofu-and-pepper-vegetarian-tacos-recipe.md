@@ -6,7 +6,7 @@ description: "Vegetarian recipe for flavorful tacos filled with grilled tofu and
 categories: ["Gluten-Free or modifiable", "Main Courses", "Recipes", "Vegan or Modifiable"]
 aliases: ["/grilled-tofu-and-pepper-vegetarian-tacos-recipe/", "/2010/05/grilled-tofu-and-pepper-vegetarian-tacos-recipe.html"]
 cover:
-  image: "/images/old/6a00e008d618bb883401348054dc7a970c-500wi.jpg"
+  image: "/images/old/6a00e008d618bb883401348054dc7a970c-500wi.webp"
   hidden: true
 recipe:
   name: "Grilled Tofu and Pepper Vegetarian Tacos"
@@ -32,7 +32,7 @@ recipe:
     - "To eat, lay down two tortillas. Top with a moderate scoop of the filling, a spoonfull of guacamole and the pineapple salsa. Pass more hot sauce for those who want it."
 ---
 
-<a style="display: inline;" href="/images/old/6a00e008d618bb883401348054dc7a970c-800wi.jpg" rel="lightbox"><img class="asset asset-image at-xid-6a00e008d618bb883401348054dc7a970c " title="Tofu_Achiote_Tacos" src="/images/old/6a00e008d618bb883401348054dc7a970c-500wi.jpg" alt="Vegetarian (and vegan) tacos filled with achiote flavore grilled tofu and peppers" /></a>
+<a style="display: inline;" href="/images/old/6a00e008d618bb883401348054dc7a970c-800wi.webp" rel="lightbox"><img class="asset asset-image at-xid-6a00e008d618bb883401348054dc7a970c " title="Tofu_Achiote_Tacos" src="/images/old/6a00e008d618bb883401348054dc7a970c-500wi.webp" alt="Vegetarian (and vegan) tacos filled with achiote flavore grilled tofu and peppers" /></a>
 <em>Vegetarian tacos filled with grilled tofu and peppers, flavored with achiote</em>
 
 The secret to delicious Mexican vegetarian food (or vegan, for that matter) is to amp up the flavors and use lots of contrasting textures. These vegetarian tacos have that serious street food flavor, filled with grilled tofu and sauteed peppers, all basted with tangy achiote. They are meant to be just two or three bites. Pick 'em up, lean over your plate, and get on in there or you'll be wearing some very tasty juices.

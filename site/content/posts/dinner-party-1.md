@@ -5,11 +5,11 @@ slug: "dinner-party-1"
 categories: ["Miscellany"]
 aliases: ["/dinner-party-1/", "/2008/05/dinner-party-1.html"]
 cover:
-  image: "/images/2008-small/05/21/buckwheatbliniwithasparaguscaviar_2.jpg"
+  image: "/images/2008-small/05/21/buckwheatbliniwithasparaguscaviar_2.webp"
   hidden: true
 ---
 
-<a href="/images/2008/05/21/buckwheatbliniwithasparaguscaviar_2.jpg" rel="lightbox"><img title="Buckwheatbliniwithasparaguscaviar_2" src="/images/2008-small/05/21/buckwheatbliniwithasparaguscaviar_2.jpg" alt="Buckwheatbliniwithasparaguscaviar_2" width="455" height="302" border="0" /></a>
+<a href="/images/2008/05/21/buckwheatbliniwithasparaguscaviar_2.webp" rel="lightbox"><img title="Buckwheatbliniwithasparaguscaviar_2" src="/images/2008-small/05/21/buckwheatbliniwithasparaguscaviar_2.webp" alt="Buckwheatbliniwithasparaguscaviar_2" width="455" height="302" border="0" /></a>
 <span style="font-size: 0.8em;">Buckwheat blini with creme fraiche, asparagus caviar, and black salt</span>
 
 Last Sunday was my first "popup" dinner party - a chance to bring together a group of friends who love food, to give me a chance to test dishes and practice this kind of service. I plan to do more of them in the future for a wider audience.
@@ -24,8 +24,8 @@ Keren at Savvy Savorer was there and <a href="http://franticfoodie.blogspot.com/
 
 If you are interested in being on the list for future events, drop me a line at herbivoracious  gmail.com.
 
-<a href="/images/2008/05/26/herbivoraciousmenucard_copy.jpg" rel="lightbox"><img title="Herbivoraciousmenucard_copy" src="/images/2008-small/05/26/herbivoraciousmenucard_copy.jpg" alt="Herbivoraciousmenucard_copy" width="455" height="819" border="0" /></a><span style="font-size: 0.8em;">
+<a href="/images/2008/05/26/herbivoraciousmenucard_copy.webp" rel="lightbox"><img title="Herbivoraciousmenucard_copy" src="/images/2008-small/05/26/herbivoraciousmenucard_copy.webp" alt="Herbivoraciousmenucard_copy" width="455" height="819" border="0" /></a><span style="font-size: 0.8em;">
 The menu</span>
 
-<a href="/images/2008/05/21/dinnerpartyroom.jpg" rel="lightbox"><img title="Dinnerpartyroom" src="/images/2008-small/05/21/dinnerpartyroom.jpg" alt="Dinnerpartyroom" width="455" height="606" border="0" /></a>
+<a href="/images/2008/05/21/dinnerpartyroom.webp" rel="lightbox"><img title="Dinnerpartyroom" src="/images/2008-small/05/21/dinnerpartyroom.webp" alt="Dinnerpartyroom" width="455" height="606" border="0" /></a>
 <span style="font-size: 0.8em;">The room looked beautiful</span>

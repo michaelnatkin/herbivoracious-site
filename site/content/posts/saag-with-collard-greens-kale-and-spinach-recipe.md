@@ -5,7 +5,7 @@ slug: "saag-with-collard-greens-kale-and-spinach-recipe"
 categories: ["Gluten-Free or modifiable", "Recipes", "Side Dishes"]
 aliases: ["/saag-with-collard-greens-kale-and-spinach-recipe/", "/2012/01/saag-with-collard-greens-kale-and-spinach-recipe.html"]
 cover:
-  image: "/images/2012/07/Saag-with-Collards-and-Kale-626x415.jpg"
+  image: "/images/2012/07/Saag-with-Collards-and-Kale-626x415.webp"
   hidden: true
 recipe:
   name: "Saag with Collard Greens, Kale and Spinach"
@@ -32,7 +32,7 @@ recipe:
     - "Turn off the heat, remove the lid, and allow to cool slightly. Stir in the yogurt. Taste and adjust seasoning. Gently reheat, but don't bring all the way up toward a simmer or the yogurt may break."
 ---
 
-<a href="/images/2012/07/Saag-with-Collards-and-Kale.jpg"><img class="size-large wp-image-1158" title="Saag with Collards and Kale" src="/images/2012/07/Saag-with-Collards-and-Kale-626x415.jpg" alt="Saag with Collards and Kale (Indian style long-cooked greens)" width="626" height="415" /></a>
+<a href="/images/2012/07/Saag-with-Collards-and-Kale.webp"><img class="size-large wp-image-1158" title="Saag with Collards and Kale" src="/images/2012/07/Saag-with-Collards-and-Kale-626x415.webp" alt="Saag with Collards and Kale (Indian style long-cooked greens)" width="626" height="415" /></a>
 <em>Saag with Collards and Kale</em>
 
 It is a depressing fact that 99% of Indian restaurants in America serve the same darn 10 items. Which is a crying shame because there must be 10,000 other terrific dishes that you'll only get to try if you make them yourself (or have an Indian friend that wants to hook you up with the good stuff) (or travel to India).

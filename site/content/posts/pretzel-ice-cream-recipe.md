@@ -6,7 +6,7 @@ description: "Recipe for pretzel ice cream - yep - the ice cream base is infused
 categories: ["Desserts", "Experiments", "Recipes"]
 aliases: ["/pretzel-ice-cream-recipe/", "/2010/10/pretzel-ice-cream-recipe.html"]
 cover:
-  image: "/images/old/6a00e008d618bb88340133f4c2d553970b-500wi.jpg"
+  image: "/images/old/6a00e008d618bb88340133f4c2d553970b-500wi.webp"
   hidden: true
 recipe:
   name: "Pretzel Ice Cream"
@@ -25,7 +25,7 @@ recipe:
     - "Process according to your ice cream maker's instructions. When it is done but not frozen hard, fold in flaky sea salt to taste."
 ---
 
-<a style="display: inline;" href="/images/old/6a00e008d618bb88340133f4c2d553970b-800wi.jpg" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb88340133f4c2d553970b" title="Pretzel Ice Cream" src="/images/old/6a00e008d618bb88340133f4c2d553970b-500wi.jpg" alt="Pretzel Ice Cream" /></a>
+<a style="display: inline;" href="/images/old/6a00e008d618bb88340133f4c2d553970b-800wi.webp" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb88340133f4c2d553970b" title="Pretzel Ice Cream" src="/images/old/6a00e008d618bb88340133f4c2d553970b-500wi.webp" alt="Pretzel Ice Cream" /></a>
 <em>Pretzel Ice Cream</em>
 
 My wife ordered vanilla ice cream with pretzel pieces mixed in, and caramel sauce on top, and was enraptured. It made perfect sense; we all know salt and caramel go great together. The pretzels provide the salt along with a beautiful crunch and that warm, toasted flavor.

@@ -10,14 +10,14 @@ layout: cookbook
   <!-- Hero -->
   <div class="cb-hero">
     <div class="cb-hero__cover-wrap">
-      <img src="/images/2012/03/Standing-Cookbook-220.png" alt="Herbivoracious Cookbook" class="cb-hero__cover">
+      <img src="/images/2012/03/Standing-Cookbook-220.webp" alt="Herbivoracious Cookbook" class="cb-hero__cover">
     </div>
     <div class="cb-hero__text">
       <span class="cb-kicker">The Cookbook</span>
       <h1 class="cb-hero__title">Herbivoracious</h1>
       <p class="cb-hero__subtitle">A Flavor Revolution, with 150 Vibrant and Original Vegetarian Recipes</p>
       <div class="cb-hero__badge">
-        <img src="/images/james-beard-medallion.png" alt="James Beard Award">
+        <img src="/images/james-beard-medallion.webp" alt="James Beard Award">
         <div>
           <strong>James Beard Award Finalist</strong>
           <span>Vegetable Focused & Vegetarian, 2013</span>
@@ -84,7 +84,7 @@ layout: cookbook
 
   <!-- Food Collage -->
   <div class="cb-collage">
-    <img src="/images/2012/03/Herbivoracious-Book-Collage2-1470.jpg" alt="Recipes from Herbivoracious — a visual sampling">
+    <img src="/images/2012/03/Herbivoracious-Book-Collage2-1470.webp" alt="Recipes from Herbivoracious — a visual sampling">
   </div>
 
   <!-- Testimonials -->

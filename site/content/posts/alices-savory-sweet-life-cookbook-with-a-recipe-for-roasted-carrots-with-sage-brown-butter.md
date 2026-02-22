@@ -5,7 +5,7 @@ slug: "alices-savory-sweet-life-cookbook-with-a-recipe-for-roasted-carrots-with-
 categories: ["Books", "Gluten-Free or modifiable", "Recipes", "Side Dishes"]
 aliases: ["/alices-savory-sweet-life-cookbook-with-a-recipe-for-roasted-carrots-with-sage-brown-butter/", "/2012/06/alices-savory-sweet-life-cookbook-with-a-recipe-for-roasted-carrots-with-sage-brown-butter.html"]
 cover:
-  image: "/images/2012/06/Carrots-with-Brown-Butter-Savory-Sweet-Life-626x415.jpg"
+  image: "/images/2012/06/Carrots-with-Brown-Butter-Savory-Sweet-Life-626x415.webp"
   hidden: true
 recipe:
   name: "Roasted Carrots with Sage Brown Butter"
@@ -24,10 +24,10 @@ recipe:
     - "Toss the carrots in the sage brown butter and season them with salt and pepper to taste before serving."
 ---
 
-<a href="/images/2012/06/Carrots-with-Brown-Butter-Savory-Sweet-Life.jpg"><img class="size-large wp-image-2003 alignnone" title="Roasted Carrots with Sage Brown Butter from the Savory Sweet Life Cookbook" src="/images/2012/06/Carrots-with-Brown-Butter-Savory-Sweet-Life-626x415.jpg" alt="Roasted Carrots with Sage Brown Butter from the Savory Sweet Life Cookbook" width="626" height="415" /></a>
+<a href="/images/2012/06/Carrots-with-Brown-Butter-Savory-Sweet-Life.webp"><img class="size-large wp-image-2003 alignnone" title="Roasted Carrots with Sage Brown Butter from the Savory Sweet Life Cookbook" src="/images/2012/06/Carrots-with-Brown-Butter-Savory-Sweet-Life-626x415.webp" alt="Roasted Carrots with Sage Brown Butter from the Savory Sweet Life Cookbook" width="626" height="415" /></a>
 <em>Roasted Carrots with Sage Brown Butter from the Savory Sweet Life Cookbook</em>
 
-<a href="http://www.amazon.com/dp/0062064053/?tag=herb-hugo-20"><img class="alignright size-full wp-image-2006" style="border: none;" title="SSL Cover" src="/images/2012/06/SSL-Cover.jpg" alt="" width="300" height="300" /></a>I first met Alice a few years back, when she was just starting her first blog, <a href="http://savorysweetlife.com/" target="_blank">Savory Sweet Life</a>. I knew right away that she wasn't going to be one of these bloggers that start out with a burst of enthusiasm, and then tail off until they are only posting every three months, mostly about their pet parakeet. It was easy to see that Alice had the energy, personality, and persistence to be successful at anything she tried.
+<a href="http://www.amazon.com/dp/0062064053/?tag=herb-hugo-20"><img class="alignright size-full wp-image-2006" style="border: none;" title="SSL Cover" src="/images/2012/06/SSL-Cover.webp" alt="" width="300" height="300" /></a>I first met Alice a few years back, when she was just starting her first blog, <a href="http://savorysweetlife.com/" target="_blank">Savory Sweet Life</a>. I knew right away that she wasn't going to be one of these bloggers that start out with a burst of enthusiasm, and then tail off until they are only posting every three months, mostly about their pet parakeet. It was easy to see that Alice had the energy, personality, and persistence to be successful at anything she tried.
 
 Sure enough, Savory Sweet Life became a big hit; she's added a second <a href="http://everydayalice.savorysweetlife.com/" target="_blank">personal blog</a>, writes for <a href="http://www.pbs.org/parents/kitchenexplorers/" target="_blank">PBS Kids</a>, and her first cookbook, <a href="http://www.amazon.com/dp/0062064053/?tag=herb-hugo-20" target="_blank">Savory Sweet Life: 100 Simply Delicious Recipes for Every Family Occasion</a>, has just come out. She was kind enough to send me a review copy a few weeks back, and I knew from the second I laid eyes on it that she had a <strong>hit on her hands</strong>.
 

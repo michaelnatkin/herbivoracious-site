@@ -5,11 +5,11 @@ slug: "chimichurri-argentine-parsley-sauce-recipe"
 categories: ["Favorites", "Gluten-Free or modifiable", "Recipes", "Sauces and Condiments", "Vegan or Modifiable"]
 aliases: ["/chimichurri-argentine-parsley-sauce-recipe/", "/2009/02/chimichurri-argentine-parsley-sauce-recipe.html"]
 cover:
-  image: "/images/old/6a00e008d618bb88340111685f0a18970c-500wi.jpg"
+  image: "/images/old/6a00e008d618bb88340111685f0a18970c-500wi.webp"
   hidden: true
 ---
 
-<a style="display: inline;" href="/images/old/6a00e008d618bb88340111685f0a18970c-800wi.jpg" rel="lightbox"><img class="at-xid-6a00e008d618bb88340111685f0a18970c " title="Chimichurri Sauce, Served with Polenta and Tostones" src="/images/old/6a00e008d618bb88340111685f0a18970c-500wi.jpg" alt="Chimichurri Sauce, Served with Polenta and Tostones" width="500" height="332" /></a>
+<a style="display: inline;" href="/images/old/6a00e008d618bb88340111685f0a18970c-800wi.webp" rel="lightbox"><img class="at-xid-6a00e008d618bb88340111685f0a18970c " title="Chimichurri Sauce, Served with Polenta and Tostones" src="/images/old/6a00e008d618bb88340111685f0a18970c-500wi.webp" alt="Chimichurri Sauce, Served with Polenta and Tostones" width="500" height="332" /></a>
 <span style="font-size: 12px; font-family: Arial;">Chimichurri sauce served with polenta and tostones</span>
 
 <strong>Chimichurri</strong> (also spelled chimmichurri) is the quintessential sauce of Argentina, and deserves to be better known in the northerly climes. It is somewhat like an Italian pesto, but made from parsley, and without the cheese or nuts to thicken it. Like pesto, it comes together in a food processor with <strong>just a few minutes of work</strong>.

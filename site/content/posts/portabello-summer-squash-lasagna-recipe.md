@@ -6,7 +6,7 @@ description: "The two most common varieties of vegetarian lasagna are filled wit
 categories: ["Recipes", "Main Courses"]
 aliases: ["/portabello-summer-squash-lasagna-recipe/", "/2011/09/portabello-summer-squash-lasagna-recipe.html"]
 cover:
-  image: "/images/cookbook/portabello-summer-squash-lasagna.jpg"
+  image: "/images/cookbook/portabello-summer-squash-lasagna.webp"
   hidden: true
 recipe:
   name: "Portabello-Summer Squash Lasagna"
@@ -37,7 +37,7 @@ recipe:
     - "If the cheese isn't crispy and brown enough, finish judiciously with the broiler."
     - "Allow to rest at least 15 minutes before serving so it has time to set up a bit."
 ---
-<a href="/images/cookbook/portabello-summer-squash-lasagna.jpg"><img src="/images/cookbook/portabello-summer-squash-lasagna.jpg" alt="Portabello-Summer Squash Lasagna" /></a>
+<a href="/images/cookbook/portabello-summer-squash-lasagna.webp"><img src="/images/cookbook/portabello-summer-squash-lasagna.webp" alt="Portabello-Summer Squash Lasagna" /></a>
 
 
 <p>The two most common varieties of vegetarian lasagna are filled with spinach and ricotta, or with piles of watery vegetables. This version with portabello mushrooms and summer squash gives you a much more decisive flavor.</p>
@@ -45,11 +45,11 @@ recipe:
 <p>I often use <a href="https://www.amazon.com/dp/B000RUQPQQ?tag=herb-hugo-20">no-boil lasagna noodles</a>. They are the same as any other dried pasta, just cut a little thinner so that they can cook through right in the oven. You just need to be sure that they are surrounded with enough sauce to absorb as they cook. You can also use traditional lasagna noodles, par-boiling them until just barely al dente.</p>
 
 
-<a href="/images/cookbook/portabello-summer-squash-lasagna-2.jpg"><img src="/images/cookbook/portabello-summer-squash-lasagna-2.jpg" alt="Portabello-Summer Squash Lasagna" /></a>
+<a href="/images/cookbook/portabello-summer-squash-lasagna-2.webp"><img src="/images/cookbook/portabello-summer-squash-lasagna-2.webp" alt="Portabello-Summer Squash Lasagna" /></a>
 
-<a href="/images/cookbook/portabello-summer-squash-lasagna-3.jpg"><img src="/images/cookbook/portabello-summer-squash-lasagna-3.jpg" alt="Portabello-Summer Squash Lasagna" /></a>
+<a href="/images/cookbook/portabello-summer-squash-lasagna-3.webp"><img src="/images/cookbook/portabello-summer-squash-lasagna-3.webp" alt="Portabello-Summer Squash Lasagna" /></a>
 
-<a href="/images/cookbook/portabello-summer-squash-lasagna-4.jpg"><img src="/images/cookbook/portabello-summer-squash-lasagna-4.jpg" alt="Portabello-Summer Squash Lasagna" /></a>
+<a href="/images/cookbook/portabello-summer-squash-lasagna-4.webp"><img src="/images/cookbook/portabello-summer-squash-lasagna-4.webp" alt="Portabello-Summer Squash Lasagna" /></a>
 
 <div class="recipe-card">
 <p><strong>Portabello-Summer Squash Lasagna</strong>

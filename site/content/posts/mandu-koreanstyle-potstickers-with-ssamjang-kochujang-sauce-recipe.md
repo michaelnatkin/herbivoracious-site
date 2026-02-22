@@ -6,7 +6,7 @@ description: "Recipe for delicious vegetarian Korean-style potstickers (mandu or
 categories: ["Appetizers", "Kid Friendly", "Recipes"]
 aliases: ["/mandu-koreanstyle-potstickers-with-ssamjang-kochujang-sauce-recipe/", "/2010/06/mandu-koreanstyle-potstickers-with-ssamjang-kochujang-sauce-recipe.html"]
 cover:
-  image: "/images/old/6a00e008d618bb88340133f15ee68b970b-500wi.jpg"
+  image: "/images/old/6a00e008d618bb88340133f15ee68b970b-500wi.webp"
   hidden: true
 recipe:
   name: "Mandu - Korean-Style Potstickers with Ssamjang / Kochujang Sauce"
@@ -35,7 +35,7 @@ recipe:
     - "Serve immediately with the dipping sauce on the side."
 ---
 
-<a style="display: inline;" href="/images/old/6a00e008d618bb88340133f15ee68b970b-800wi.jpg" rel="lightbox"><img class="asset asset-image at-xid-6a00e008d618bb88340133f15ee68b970b " src="/images/old/6a00e008d618bb88340133f15ee68b970b-500wi.jpg" alt="Vegetarian Mandu (Korean potstickers)" /></a>
+<a style="display: inline;" href="/images/old/6a00e008d618bb88340133f15ee68b970b-800wi.webp" rel="lightbox"><img class="asset asset-image at-xid-6a00e008d618bb88340133f15ee68b970b " src="/images/old/6a00e008d618bb88340133f15ee68b970b-500wi.webp" alt="Vegetarian Mandu (Korean potstickers)" /></a>
 <em>Vegetarian Mandu (Korean potstickers)</em>
 
 I never grow tired of potstickers, but I thought it might be time to branch out from <a href="/2010/03/vegetarian-potstickers-gyoza-recipe/" target="_blank">my standard recipe</a>. My friend Hsiao-Ching had told me about about a sauce from the <a href="https://www.amazon.com/dp/030745195X?tag=herb-hugo-20" target="_blank">Momofuku cookbook</a> involving <a href="https://www.amazon.com/dp/B013HB0CC4?tag=herb-hugo-20">kochujang</a>, <a href="https://www.amazon.com/dp/B07BFQPCM6?tag=herb-hugo-20">ssamjang</a> (two standard Korean kitchen staples), oil, and sherry vinegar. So that put me onto the idea of Korean-style potstickers, and sure enough, there are many kinds.

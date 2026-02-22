@@ -5,7 +5,7 @@ slug: "kale-fried-rice-for-one-infinitely-adaptable-recipe"
 categories: ["Main Courses", "Recipes"]
 aliases: ["/kale-fried-rice-for-one-infinitely-adaptable-recipe/", "/2013/06/kale-fried-rice-for-one-infinitely-adaptable-recipe.html"]
 cover:
-  image: "/images/2013/10/Kale-Fried-Rice-622x415.jpg"
+  image: "/images/2013/10/Kale-Fried-Rice-622x415.webp"
   hidden: true
 recipe:
   name: "Kale Fried Rice for One"
@@ -25,7 +25,7 @@ recipe:
     - "Transfer the rice to a bowl and turn off the heat. Put the egg in the skillet and use the residual heat to cook it. Slide on top of the rice, garnish with the green onion, season with salt and pepper, and enjoy."
 ---
 
-<a href="/images/2013/10/Kale-Fried-Rice.jpg"><img class="alignnone size-large wp-image-3795" alt="Kale Fried Rice" src="/images/2013/10/Kale-Fried-Rice-622x415.jpg" width="622" height="415" /></a>
+<a href="/images/2013/10/Kale-Fried-Rice.webp"><img class="alignnone size-large wp-image-3795" alt="Kale Fried Rice" src="/images/2013/10/Kale-Fried-Rice-622x415.webp" width="622" height="415" /></a>
 <em>Kale Fried Rice for One</em>
 
 This is the kind of thing I make for myself when I'm the only one around or the only one hungry. It only works with leftover rice that has sat in the fridge for at least a few hours, but in my house that is usually available. And of course, you can make it for a larger group - you'll just need a bigger skillet or wok so there is plenty of surface area to crisp up the rice.

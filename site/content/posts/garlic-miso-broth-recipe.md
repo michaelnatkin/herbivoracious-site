@@ -6,7 +6,7 @@ description: "Every culture has a soup to which it attributes magical healing po
 categories: ["Recipes", "Soups", "Vegan or Modifiable"]
 aliases: ["/garlic-miso-broth-recipe/", "/2011/02/garlic-miso-broth-recipe.html"]
 cover:
-  image: "/images/cookbook/garlic-miso-broth.jpg"
+  image: "/images/cookbook/garlic-miso-broth.webp"
   hidden: true
 recipe:
   name: "Garlic Miso Broth"
@@ -24,7 +24,7 @@ recipe:
     - "Strain the soup to remove the garlic and any undissolved bits of miso. Return to the pot and reheat but do not boil. Taste and add more salt or soy sauce if needed."
     - "Ladle into serving bowls, add the tofu puffs if using, sprinkle on a few green onion slices and serve immediately."
 ---
-<a href="/images/cookbook/garlic-miso-broth.jpg"><img src="/images/cookbook/garlic-miso-broth.jpg" alt="Garlic Miso Broth" /></a>
+<a href="/images/cookbook/garlic-miso-broth.webp"><img src="/images/cookbook/garlic-miso-broth.webp" alt="Garlic Miso Broth" /></a>
 
 
 <p>Every culture has a soup to which it attributes magical healing powers. I find this broth incredibly restorative when I’m coming back from a cold, or just want something quick and deeply warming. If you want to make it into some more substantial, add a few deep fried puffs of tofu (available at Asian groceries) or thinly sliced vegetables. Personally, I prefer the austere but fortifying broth.</p>
@@ -32,7 +32,7 @@ recipe:
 <p>A whole head of garlic sounds like a lot, but because it is simmered instead of fried, the flavor mellows rapidly into a sweetness that blends easily with the flavor of miso. I like to really taste the garlic, so I keep the amount of miso on the low side, but you could also boost the miso up to 2 or even 3 tablespoons.</p>
 
 
-<a href="/images/cookbook/garlic-miso-broth-2.jpg"><img src="/images/cookbook/garlic-miso-broth-2.jpg" alt="Garlic Miso Broth" /></a>
+<a href="/images/cookbook/garlic-miso-broth-2.webp"><img src="/images/cookbook/garlic-miso-broth-2.webp" alt="Garlic Miso Broth" /></a>
 
 <div class="recipe-card">
 <p><strong>Garlic Miso Broth</strong>

@@ -6,7 +6,7 @@ description: "The first rule of potstickers is that you can never make enough po
 categories: ["Recipes", "Appetizers", "Vegan or Modifiable"]
 aliases: ["/tempeh-filled-potstickers-gyoza-recipe/", "/2011/04/tempeh-filled-potstickers-gyoza-recipe.html"]
 cover:
-  image: "/images/cookbook/tempeh-filled-potstickers-gyoza.jpg"
+  image: "/images/cookbook/tempeh-filled-potstickers-gyoza.webp"
   hidden: true
 recipe:
   name: "Tempeh-Filled Potstickers (Gyoza)"
@@ -35,7 +35,7 @@ recipe:
     - "To cook the potstickers, heat that big skillet back up again to medium-high and add the remaining tablespoon of oil. Put the potstickers in in a single layer, flat side down, not touching but they can be close. (You will probably need to do two or more batches). Fry 1 to 2 minutes until they are dark golden brown on the bottom. Add 1/3 cup of water and cover the pan. Cook about 3 minutes. Remove the lid and keep cooking until the water is totally gone - otherwise they won't be crispy."
     - "Serve hot, with the dipping sauce."
 ---
-<a href="/images/cookbook/tempeh-filled-potstickers-gyoza.jpg"><img src="/images/cookbook/tempeh-filled-potstickers-gyoza.jpg" alt="Tempeh-Filled Potstickers (Gyoza)" /></a>
+<a href="/images/cookbook/tempeh-filled-potstickers-gyoza.webp"><img src="/images/cookbook/tempeh-filled-potstickers-gyoza.webp" alt="Tempeh-Filled Potstickers (Gyoza)" /></a>
 
 
 <p>The first rule of potstickers is that you can never make enough potstickers. At least in my family, we fight over the last few like seagulls over a spilled bag of kettle corn.</p>
@@ -45,11 +45,11 @@ recipe:
 <p>If for some reason you don't need the whole batch at once, quick freeze them without touching each other, then bag when solid. They can be cooked later without defrosting, just allow a little more time.</p>
 
 
-<a href="/images/cookbook/tempeh-filled-potstickers-gyoza-2.jpg"><img src="/images/cookbook/tempeh-filled-potstickers-gyoza-2.jpg" alt="Tempeh-Filled Potstickers (Gyoza)" /></a>
+<a href="/images/cookbook/tempeh-filled-potstickers-gyoza-2.webp"><img src="/images/cookbook/tempeh-filled-potstickers-gyoza-2.webp" alt="Tempeh-Filled Potstickers (Gyoza)" /></a>
 
-<a href="/images/cookbook/tempeh-filled-potstickers-gyoza-3.jpg"><img src="/images/cookbook/tempeh-filled-potstickers-gyoza-3.jpg" alt="Tempeh-Filled Potstickers (Gyoza)" /></a>
+<a href="/images/cookbook/tempeh-filled-potstickers-gyoza-3.webp"><img src="/images/cookbook/tempeh-filled-potstickers-gyoza-3.webp" alt="Tempeh-Filled Potstickers (Gyoza)" /></a>
 
-<a href="/images/cookbook/tempeh-filled-potstickers-gyoza-4.jpg"><img src="/images/cookbook/tempeh-filled-potstickers-gyoza-4.jpg" alt="Tempeh-Filled Potstickers (Gyoza)" /></a>
+<a href="/images/cookbook/tempeh-filled-potstickers-gyoza-4.webp"><img src="/images/cookbook/tempeh-filled-potstickers-gyoza-4.webp" alt="Tempeh-Filled Potstickers (Gyoza)" /></a>
 
 <div class="recipe-card">
 <p><strong>Tempeh-Filled Potstickers (Gyoza)</strong>

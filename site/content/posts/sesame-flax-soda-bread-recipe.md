@@ -5,7 +5,7 @@ slug: "sesame-flax-soda-bread-recipe"
 categories: ["Baking", "Recipes"]
 aliases: ["/sesame-flax-soda-bread-recipe/", "/2012/12/sesame-flax-soda-bread-recipe.html"]
 cover:
-  image: "/images/2013/12/Sesame-Flax-Quickbread-626x415.jpg"
+  image: "/images/2013/12/Sesame-Flax-Quickbread-626x415.webp"
   hidden: true
 recipe:
   name: "Sesame-Flax Soda Bread"
@@ -30,7 +30,7 @@ recipe:
     - "Allow to cool for a few minutes, and serve with swaths of sweet cream butter."
 ---
 
-<a href="/images/2013/12/Sesame-Flax-Quickbread.jpg"><img class="alignnone size-large wp-image-3472" title="Sesame-Flax Soda Bread" src="/images/2013/12/Sesame-Flax-Quickbread-626x415.jpg" alt="Sesame-Flax Soda Bread" width="626" height="415" />
+<a href="/images/2013/12/Sesame-Flax-Quickbread.webp"><img class="alignnone size-large wp-image-3472" title="Sesame-Flax Soda Bread" src="/images/2013/12/Sesame-Flax-Quickbread-626x415.webp" alt="Sesame-Flax Soda Bread" width="626" height="415" />
 </a><em>Sesame-Flax Soda Bread</em>
 
 Now I know this title might sound like the worst hippie food I've ever posted, but hear me out - because you could be having fresh, delicious bread on your dinner table tonight with about 10 minutes of work.

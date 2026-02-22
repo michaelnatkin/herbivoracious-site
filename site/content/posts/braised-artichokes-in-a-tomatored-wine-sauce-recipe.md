@@ -6,7 +6,7 @@ slug: "braised-artichokes-in-a-tomatored-wine-sauce-recipe"
 categories: ["Gluten-Free or modifiable", "Recipes", "Side Dishes", "Vegan or Modifiable"]
 aliases: ["/braised-artichokes-in-a-tomatored-wine-sauce-recipe/", "/2009/03/braised-artichokes-in-a-tomatored-wine-sauce-recipe.html"]
 cover:
-  image: "/images/old/6a00e008d618bb883401127905a74928a4-500wi.jpg"
+  image: "/images/old/6a00e008d618bb883401127905a74928a4-500wi.webp"
   hidden: true
 ---
 

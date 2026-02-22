@@ -5,7 +5,7 @@ slug: "hungry-ghost-moroccan-carrot-salad-recipe"
 categories: ["Books", "Events", "Gluten-Free or modifiable", "Recipes", "Vegan or Modifiable"]
 aliases: ["/hungry-ghost-moroccan-carrot-salad-recipe/", "/2013/05/hungry-ghost-moroccan-carrot-salad-recipe.html"]
 cover:
-  image: "/images/2013/05/Hungry-Ghost-Carrot-Salad-626x415.jpg"
+  image: "/images/2013/05/Hungry-Ghost-Carrot-Salad-626x415.webp"
   hidden: true
 recipe:
   name: "Hungry Ghost Moroccan Carrot Salad – Recipe"
@@ -26,7 +26,7 @@ recipe:
     - "Just before serving, gently stir in the parsley. Enjoy chilled but not gelid."
 ---
 
-<a href="/images/2013/05/Hungry-Ghost-Carrot-Salad.jpg"><img class="alignnone size-large wp-image-3728" alt="Hungry Ghost Moroccan Carrot Salad" src="/images/2013/05/Hungry-Ghost-Carrot-Salad-626x415.jpg" width="626" height="415" /></a>
+<a href="/images/2013/05/Hungry-Ghost-Carrot-Salad.webp"><img class="alignnone size-large wp-image-3728" alt="Hungry Ghost Moroccan Carrot Salad" src="/images/2013/05/Hungry-Ghost-Carrot-Salad-626x415.webp" width="626" height="415" /></a>
 <em>Hungry Ghost Moroccan Carrot Salad</em>
 
 Before we get into Ellen Kanner's lovely book, a quick note about the James Beard awards. My book didn't win. While it would have been great, it also would have been a pretty huge surprise as a first time author. To be a finalist was an entirely sufficient thrill. My wife, Sarina, and I had a fantastic trip to New York, enjoyed all of the parties and after-parties and spent time with a host of wonderful people. We ate ridiculously well, including stellar meals at <a href="http://www.delposto.com/" target="_blank">Del Posto</a>, <a href="http://www.abckitchennyc.com/" target="_blank">ABC Kitchen</a>, <a href="http://www.taimfalafel.com/" target="_blank">Taïm</a>, <a href="http://www.caracasarepabar.com/index_2.php" target="_blank">Caracas Arepas Bar</a> and <a href="http://missionchinesefood.com/" target="_blank">Mission Chinese Food</a>, and off the hook drinks at <a href="http://momofuku.com/new-york/booker-and-dax/" target="_blank">Booker &amp; Dax</a>. Also, if I may brag on a friend for a moment, my old Louisville pal <a href="http://adamsachs.org/Home.html" target="_blank">Adam Sachs</a> (<a href="https://twitter.com/sachsmo" target="_blank">@sachsmo</a>) took down 2 Beard awards on the same night and had a baby the next day. How great is that?

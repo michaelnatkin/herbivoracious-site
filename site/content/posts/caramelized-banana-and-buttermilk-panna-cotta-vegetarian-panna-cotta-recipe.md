@@ -5,7 +5,7 @@ slug: "caramelized-banana-and-buttermilk-panna-cotta-vegetarian-panna-cotta-reci
 categories: ["Desserts", "Gluten-Free or modifiable", "Recipes"]
 aliases: ["/caramelized-banana-and-buttermilk-panna-cotta-vegetarian-panna-cotta-recipe/", "/2012/10/caramelized-banana-and-buttermilk-panna-cotta-vegetarian-panna-cotta-recipe.html"]
 cover:
-  image: "/images/2012/10/Banana-Buttermilk-Panna-Cotta1-626x415.jpg"
+  image: "/images/2012/10/Banana-Buttermilk-Panna-Cotta1-626x415.webp"
   hidden: true
 recipe:
   name: "Caramelized Banana and Buttermilk Panna Cotta"
@@ -18,13 +18,13 @@ recipe:
     - "Bring all ingredients to a simmer in a small saucepan. Simmer 5 minutes. Strain and reserve in refrigerator."
 ---
 
-<a href="/images/2012/10/Banana-Buttermilk-Panna-Cotta1.jpg"><img class="alignnone size-large wp-image-3110" title="Banana Buttermilk Panna Cotta" src="/images/2012/10/Banana-Buttermilk-Panna-Cotta1-626x415.jpg" alt="Banana Buttermilk Panna Cotta (unmolded)" width="626" height="415" />
+<a href="/images/2012/10/Banana-Buttermilk-Panna-Cotta1.webp"><img class="alignnone size-large wp-image-3110" title="Banana Buttermilk Panna Cotta" src="/images/2012/10/Banana-Buttermilk-Panna-Cotta1-626x415.webp" alt="Banana Buttermilk Panna Cotta (unmolded)" width="626" height="415" />
 </a><em>Caramelized Banana and Buttermilk Panna Cotta</em>
 
 Panna cotta is a classic Italian dessert, traditionally made from cream and milk set with gelatin, which isn't vegetarian. The gelatin is what makes it different from flan (set with eggs) or pudding (set with starch and sometimes eggs). The best panna cotta is ultra-creamy and just barely set - it should have a <strong>distinct wiggle</strong> to it. So the challenge in making a vegetarian panna cotta is to replace the gelatin with something that doesn't make a brittle, crumbly, or over-firm gel.
 
 Agar-agar might not seem like the ideal choice here, because indeed it does have a tendency to make brittle gels that fracture when you bite into them, rather than seeming to melt. That problem becomes worse at higher concentrations though, so I figured if I could give it some help by starting with an already thickish flavor-base, I could use a lot less agar. In this case, using <strong>buttermilk, cream, and caramelized banana puree</strong> worked like a treat - I was able to use only 0.2% agar by weight, which resulted in a completely creamy, wiggly, delicious panna cotta.
-<a href="/images/2012/10/Banana-Buttermilk-Panna-Cotta-in-Glasses.jpg"><img class=" wp-image-3111 alignright" title="Banana Buttermilk Panna Cotta in Glasses" src="/images/2012/10/Banana-Buttermilk-Panna-Cotta-in-Glasses-400x265.jpg" alt="Banana Buttermilk Panna Cotta in Glasses" width="200" height="132" /></a>Since I was making caramelized banana panna cotta, I figured a <strong>bourbon and brown sugar syrup</strong> would make a perfect flavor pairing. You could also try replacing the dairy products with coconut milk and cream for a tropical (and vegan) version, and then maybe you would use a mango sauce instead. (I haven't tried any of that - please let me know if you do.)
+<a href="/images/2012/10/Banana-Buttermilk-Panna-Cotta-in-Glasses.webp"><img class=" wp-image-3111 alignright" title="Banana Buttermilk Panna Cotta in Glasses" src="/images/2012/10/Banana-Buttermilk-Panna-Cotta-in-Glasses-400x265.webp" alt="Banana Buttermilk Panna Cotta in Glasses" width="200" height="132" /></a>Since I was making caramelized banana panna cotta, I figured a <strong>bourbon and brown sugar syrup</strong> would make a perfect flavor pairing. You could also try replacing the dairy products with coconut milk and cream for a tropical (and vegan) version, and then maybe you would use a mango sauce instead. (I haven't tried any of that - please let me know if you do.)
 
 The other big benefit of agar is that it is relatively easy to find; other good options such as a mixture of carrageenans are probably too much trouble for most folks to source. The agar brand I like best is Telephone - it comes in little packets that you can find at Asian groceries or <a href="https://www.amazon.com/dp/B0CKKNKJR3?tag=herb-hugo-20">here on Amazon</a>. I find that this brand is completely flavorless, and the thickening strength is very reliable. If you try other brands, or agar flakes etc., you may have to experiment to find the equivalent amount.
 

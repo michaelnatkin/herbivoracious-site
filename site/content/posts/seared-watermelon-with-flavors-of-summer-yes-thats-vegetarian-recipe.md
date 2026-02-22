@@ -6,7 +6,7 @@ description: "Modernist vegetarian recipes for seared watermelon served with deh
 categories: ["Appetizers", "Experiments", "Gluten-Free or modifiable", "Recipes", "Vegan or Modifiable"]
 aliases: ["/seared-watermelon-with-flavors-of-summer-yes-thats-vegetarian-recipe/", "/2011/06/seared-watermelon-with-flavors-of-summer-yes-thats-vegetarian-recipe.html"]
 cover:
-  image: "/images/old/6a00e008d618bb8834015432e28c67970c-500wi.jpg"
+  image: "/images/old/6a00e008d618bb8834015432e28c67970c-500wi.webp"
   hidden: true
 recipe:
   name: "Seared Watermelon with Flavors of Summer"
@@ -27,7 +27,7 @@ recipe:
     - "Garnish each piece with a small amount of the olive paste, a few kernels of dehydrated corn, a few of the chive flowers, rosemary flowers, and oregano tips, and a final sprinkle of Maldon (aka the world's greatest salt) . Serve warm."
 ---
 
-<a style="display: inline;" href="/images/old/6a00e008d618bb8834015432e28c67970c-800wi.jpg" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb8834015432e28c67970c" title="Seared Watermelon with Summer Flavors" src="/images/old/6a00e008d618bb8834015432e28c67970c-500wi.jpg" alt="Seared Watermelon with Summer Flavors" /></a>
+<a style="display: inline;" href="/images/old/6a00e008d618bb8834015432e28c67970c-800wi.webp" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb8834015432e28c67970c" title="Seared Watermelon with Summer Flavors" src="/images/old/6a00e008d618bb8834015432e28c67970c-500wi.webp" alt="Seared Watermelon with Summer Flavors" /></a>
 <em>Seared Watermelon with Flavors of Summer - Yes, That's Vegetarian</em>
 
 A few days ago I was surfing my RSS reader for a few minutes before bed, when <a href="http://blog.ideasinfood.com/ideas_in_food/2011/06/breast-of-watermelon.html" target="_blank">this post from Alex and Aki</a> hit me like a <strong>ton of bricks</strong>. I've seen compressed watermelon before, but I don't think I've ever given any thought to searing it. Genius. I had to try this immediately, and fortunately I had a cut-up watermelon already in the refrigerator.

@@ -6,7 +6,7 @@ description: "If you have already made a batch of the Tomato Confit on , this re
 categories: ["Recipes", "Soups", "Gluten-Free"]
 aliases: ["/chilled-tomato-buttermilk-soup-recipe/", "/2011/02/chilled-tomato-buttermilk-soup-recipe.html"]
 cover:
-  image: "/images/cookbook/chilled-tomato-buttermilk-soup.jpg"
+  image: "/images/cookbook/chilled-tomato-buttermilk-soup.webp"
   hidden: true
 recipe:
   name: "Chilled Tomato Buttermilk Soup"
@@ -24,7 +24,7 @@ recipe:
     - "Finely chop the remaining 4 tomato halves."
     - "Divide the soup among the bowls; garnish each one with some chopped confit, chives, a drizzle of olive oil, and a few flakes of salt. Serve immediately."
 ---
-<a href="/images/cookbook/chilled-tomato-buttermilk-soup.jpg"><img src="/images/cookbook/chilled-tomato-buttermilk-soup.jpg" alt="Chilled Tomato Buttermilk Soup" /></a>
+<a href="/images/cookbook/chilled-tomato-buttermilk-soup.webp"><img src="/images/cookbook/chilled-tomato-buttermilk-soup.webp" alt="Chilled Tomato Buttermilk Soup" /></a>
 
 
 <p>If you have already made a batch of the Tomato Confit on , this refreshing soup is criminally easy to make. The concentrated tomatoes turn the buttermilk a beautiful pink color.</p>
@@ -32,9 +32,9 @@ recipe:
 <p>Also, taste your buttermilk first and be sure you like the flavor and texture. If it is too thick or too sour, dilute it with up to 25% milk.</p>
 
 
-<a href="/images/cookbook/chilled-tomato-buttermilk-soup-2.jpg"><img src="/images/cookbook/chilled-tomato-buttermilk-soup-2.jpg" alt="Chilled Tomato Buttermilk Soup" /></a>
+<a href="/images/cookbook/chilled-tomato-buttermilk-soup-2.webp"><img src="/images/cookbook/chilled-tomato-buttermilk-soup-2.webp" alt="Chilled Tomato Buttermilk Soup" /></a>
 
-<a href="/images/cookbook/chilled-tomato-buttermilk-soup-3.jpg"><img src="/images/cookbook/chilled-tomato-buttermilk-soup-3.jpg" alt="Chilled Tomato Buttermilk Soup" /></a>
+<a href="/images/cookbook/chilled-tomato-buttermilk-soup-3.webp"><img src="/images/cookbook/chilled-tomato-buttermilk-soup-3.webp" alt="Chilled Tomato Buttermilk Soup" /></a>
 
 <div class="recipe-card">
 <p><strong>Chilled Tomato Buttermilk Soup</strong>

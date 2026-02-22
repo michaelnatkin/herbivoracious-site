@@ -5,7 +5,7 @@ slug: "orecchiette-with-garlic-scapes-ricotta-and-gremolata-recipe"
 categories: ["Main Courses", "Recipes", "Seattle"]
 aliases: ["/orecchiette-with-garlic-scapes-ricotta-and-gremolata-recipe/", "/2012/06/orecchiette-with-garlic-scapes-ricotta-and-gremolata-recipe.html"]
 cover:
-  image: "/images/2012/06/Orecchitte-with-Garlic-Scapes-Ricotta-and-Gremolata-626x415.jpg"
+  image: "/images/2012/06/Orecchitte-with-Garlic-Scapes-Ricotta-and-Gremolata-626x415.webp"
   hidden: true
 recipe:
   name: "Orecchiette with Garlic Scapes, Ricotta, and Gremolata"
@@ -19,7 +19,7 @@ recipe:
     - "Pile these ingredients together on the chopping board, and give them an additional mincing and tossing together. Set aside in a bowl."
 ---
 
-<a href="/images/2012/06/Orecchitte-with-Garlic-Scapes-Ricotta-and-Gremolata.jpg"><img class="alignnone size-large wp-image-2257" title="Orecchiette with Garlic Scapes, Ricotta, and Gremolata" src="/images/2012/06/Orecchitte-with-Garlic-Scapes-Ricotta-and-Gremolata-626x415.jpg" alt="Orecchiette with Garlic Scapes, Ricotta, and Gremolata" width="626" height="415" />
+<a href="/images/2012/06/Orecchitte-with-Garlic-Scapes-Ricotta-and-Gremolata.webp"><img class="alignnone size-large wp-image-2257" title="Orecchiette with Garlic Scapes, Ricotta, and Gremolata" src="/images/2012/06/Orecchitte-with-Garlic-Scapes-Ricotta-and-Gremolata-626x415.webp" alt="Orecchiette with Garlic Scapes, Ricotta, and Gremolata" width="626" height="415" />
 </a><em>Orecchiette with Garlic Scapes, Ricotta, and Gremolata</em>
 
 Unlike tender <a href="/2012/06/green-garlic-and-mint-potato-salad-recipe/" target="_blank">green garlic</a>, garlic scapes are the firmer central flowering stem of the garlic plant. When fully cooked, they have a texture similar to asparagus, and a <strong>sweet flavor like slow-roasted garlic</strong>. In the past I've made the mistake of not trimming off enough of the hardest part and/or not cooking them fully, and then they can be unpleasantly woody, but when cooked until tender they are quite delicious. The most likely place to find garlic scapes is at a farmer's market, though I have seen them at Asian groceries and Whole Foods as well.

@@ -5,7 +5,7 @@ slug: "enchiladas-de-mole-recipe"
 categories: ["Main Courses", "Recipes", "Vegan or Modifiable"]
 aliases: ["/enchiladas-de-mole-recipe/", "/2013/03/enchiladas-de-mole-recipe.html"]
 cover:
-  image: "/images/2013/03/Enchiladas-De-Mole-2-626x415.jpg"
+  image: "/images/2013/03/Enchiladas-De-Mole-2-626x415.webp"
   hidden: true
 recipe:
   name: "Enchiladas de Mole with Zucchini and Mushrooms – Recipe"
@@ -39,7 +39,7 @@ recipe:
     - "Thin the mole a little with broth (or water), to a saucy consitency, and make sure it is piping hot. Ladle a generous amount over each plate, top with a few rings of white onion and a scattering of cotija, and serve immediately."
 ---
 
-<a href="/images/2013/03/Enchiladas-De-Mole-2.jpg"><img class="alignnone size-large wp-image-3631" alt="Vegetarian Enchiladas de Mole" src="/images/2013/03/Enchiladas-De-Mole-2-626x415.jpg" width="626" height="415" /></a>
+<a href="/images/2013/03/Enchiladas-De-Mole-2.webp"><img class="alignnone size-large wp-image-3631" alt="Vegetarian Enchiladas de Mole" src="/images/2013/03/Enchiladas-De-Mole-2-626x415.webp" width="626" height="415" /></a>
 <em>Vegetarian Enchiladas de Mole with Mushrooms and Zucchini</em>
 
 Mole (or, rather, moles, since there are many varieties) is <strong>shrouded in legend</strong>. The dried-chili based sauces, rich with chocolate, spices, herbs and nuts or seeds can contain up to 36 ingredients, each of which has to be individually ground and toasted over a period of days. Each family has its own secret recipe.

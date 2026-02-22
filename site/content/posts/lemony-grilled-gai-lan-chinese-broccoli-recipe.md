@@ -6,7 +6,7 @@ description: "Grilled gai lan (Chinese broccoli) brightened with lemon. A quick,
 categories: ["Recipes", "Side Dishes"]
 aliases: ["/lemony-grilled-gai-lan-chinese-broccoli-recipe/", "/2012/02/lemony-grilled-gai-lan-chinese-broccoli-recipe.html"]
 cover:
-  image: "/images/cookbook/lemony-grilled-gai-lan-chinese-broccoli.jpg"
+  image: "/images/cookbook/lemony-grilled-gai-lan-chinese-broccoli.webp"
   hidden: true
 recipe:
   name: "Lemony Grilled Gai Lan (Chinese Broccoli)"
@@ -31,12 +31,12 @@ recipe:
     - "Add the gai lan and thinly sliced lemon and toss to generously coat."
     - "Place the gai lan and lemons perpendicular to the grate of the grill, or on a rimmed sheet pan if using the broiler. Cook, turning just once or twice, until starting to brown in spots, about 12 minutes. You should be able to pierce the stems without too much resistance from a knife, but they will be distinctly crisp-tender, not fully tender. Season with a bit more salt and pepper and serve immediately."
 ---
-<a href="/images/cookbook/lemony-grilled-gai-lan-chinese-broccoli.jpg"><img src="/images/cookbook/lemony-grilled-gai-lan-chinese-broccoli.jpg" alt="Lemony Grilled Gai Lan (Chinese Broccoli)" /></a>
+<a href="/images/cookbook/lemony-grilled-gai-lan-chinese-broccoli.webp"><img src="/images/cookbook/lemony-grilled-gai-lan-chinese-broccoli.webp" alt="Lemony Grilled Gai Lan (Chinese Broccoli)" /></a>
 
 
 
 
-<a href="/images/cookbook/lemony-grilled-gai-lan-chinese-broccoli-2.jpg"><img src="/images/cookbook/lemony-grilled-gai-lan-chinese-broccoli-2.jpg" alt="Lemony Grilled Gai Lan (Chinese Broccoli)" /></a>
+<a href="/images/cookbook/lemony-grilled-gai-lan-chinese-broccoli-2.webp"><img src="/images/cookbook/lemony-grilled-gai-lan-chinese-broccoli-2.webp" alt="Lemony Grilled Gai Lan (Chinese Broccoli)" /></a>
 
 <div class="recipe-card">
 <p><strong>Lemony Grilled Gai Lan (Chinese Broccoli)</strong>

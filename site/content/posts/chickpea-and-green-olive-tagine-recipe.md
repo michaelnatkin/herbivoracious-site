@@ -6,7 +6,7 @@ description: "A tagine technically refers to a funnel-shaped clay pot traditiona
 categories: ["Recipes", "Main Courses", "Vegan or Modifiable"]
 aliases: ["/chickpea-and-green-olive-tagine-recipe/", "/2012/01/chickpea-and-green-olive-tagine-recipe.html"]
 cover:
-  image: "/images/cookbook/chickpea-and-green-olive-tagine.jpg"
+  image: "/images/cookbook/chickpea-and-green-olive-tagine.webp"
   hidden: true
 recipe:
   name: "Chickpea and Green Olive Tagine"
@@ -28,7 +28,7 @@ recipe:
     - "Stir in the green olives. Cook for 2 more minutes, then taste and adjust seasoning. You can add more minced preserved lemon if you like. Add a few tablespoons of water if needed to keep the dish moist, but not at all soupy."
     - "Serve over couscous, garnishing with the sumac powder and parsley."
 ---
-<a href="/images/cookbook/chickpea-and-green-olive-tagine.jpg"><img src="/images/cookbook/chickpea-and-green-olive-tagine.jpg" alt="Chickpea and Green Olive Tagine" /></a>
+<a href="/images/cookbook/chickpea-and-green-olive-tagine.webp"><img src="/images/cookbook/chickpea-and-green-olive-tagine.webp" alt="Chickpea and Green Olive Tagine" /></a>
 
 
 <p>A tagine technically refers to a funnel-shaped clay pot traditionally used in Morocco, but it also can be used to describe any moist, spicy stew made with the spices typical of that region. This version uses <a href="https://www.amazon.com/dp/B072N6RHSV?tag=herb-hugo-20">ras el hanout</a> (a mixture of up to 18 spices), pomegranate molasses, preserved lemon, and marinated olives to quickly build up big flavors.</p>
@@ -36,9 +36,9 @@ recipe:
 <p>Serve this dish family style over a big platter of steaming couscous for the most dramatic impact. You can add an oven-roasted vegetable such as a cauliflower or winter squash for more variety and to serve a larger group.</p>
 
 
-<a href="/images/cookbook/chickpea-and-green-olive-tagine-2.jpg"><img src="/images/cookbook/chickpea-and-green-olive-tagine-2.jpg" alt="Chickpea and Green Olive Tagine" /></a>
+<a href="/images/cookbook/chickpea-and-green-olive-tagine-2.webp"><img src="/images/cookbook/chickpea-and-green-olive-tagine-2.webp" alt="Chickpea and Green Olive Tagine" /></a>
 
-<a href="/images/cookbook/chickpea-and-green-olive-tagine-3.jpg"><img src="/images/cookbook/chickpea-and-green-olive-tagine-3.jpg" alt="Chickpea and Green Olive Tagine" /></a>
+<a href="/images/cookbook/chickpea-and-green-olive-tagine-3.webp"><img src="/images/cookbook/chickpea-and-green-olive-tagine-3.webp" alt="Chickpea and Green Olive Tagine" /></a>
 
 <div class="recipe-card">
 <p><strong>Chickpea and Green Olive Tagine</strong>

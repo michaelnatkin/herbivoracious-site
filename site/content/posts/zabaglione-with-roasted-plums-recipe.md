@@ -6,7 +6,7 @@ description: "Zabaglione (or the French sabayon) is similar to custard, but is m
 categories: ["Recipes", "Desserts", "Gluten-Free"]
 aliases: ["/zabaglione-with-roasted-plums-recipe/", "/2012/04/zabaglione-with-roasted-plums-recipe.html"]
 cover:
-  image: "/images/cookbook/zabaglione-with-roasted-plums.jpg"
+  image: "/images/cookbook/zabaglione-with-roasted-plums.webp"
   hidden: true
 recipe:
   name: "Zabaglione with Roasted Plums"
@@ -22,7 +22,7 @@ recipe:
     - "Bring water to a sbare immer in a double boiler, using a round-bottomed metal mixing bowl for the top half. In the top half of the double boiler, but off the heat, thoroughly whisk together the egg yolks, ¼ cup of sugar, plum brandy, water and a pinch of salt. Set on top of the boiling water and whisk continuously. The egg yolks will begin to froth, lighten, and grow greatly in volume. If you sense that the yolks are at risk of scrambling, quickly remove from the heat and whisk to cool slightly, then continue. When soft peaks from after, about 5 to10 minutes, the zabaglione is done. Remove to a clean bowl and refrigerate."
     - "To serve, place 6 plum halves in the bottom of each of 4 glasses. Give the zabaglione a quick whisk and spoon on top of the plums, then serve immediately."
 ---
-<a href="/images/cookbook/zabaglione-with-roasted-plums.jpg"><img src="/images/cookbook/zabaglione-with-roasted-plums.jpg" alt="Zabaglione with Roasted Plums" /></a>
+<a href="/images/cookbook/zabaglione-with-roasted-plums.webp"><img src="/images/cookbook/zabaglione-with-roasted-plums.webp" alt="Zabaglione with Roasted Plums" /></a>
 
 
 <p>Zabaglione (or the French sabayon) is similar to custard, but is made only with egg yolks, sugar, and flavoring; no milk or cream is used. The yolks are whisked over a double boiler and incorporate a lot of air, becoming creamy, rich and fluffy.</p>
@@ -32,9 +32,9 @@ recipe:
 <p>If you don’t have time to chill the zabaglione, it is perfectly appropriate to serve it at room temperature.</p>
 
 
-<a href="/images/cookbook/zabaglione-with-roasted-plums-2.jpg"><img src="/images/cookbook/zabaglione-with-roasted-plums-2.jpg" alt="Zabaglione with Roasted Plums" /></a>
+<a href="/images/cookbook/zabaglione-with-roasted-plums-2.webp"><img src="/images/cookbook/zabaglione-with-roasted-plums-2.webp" alt="Zabaglione with Roasted Plums" /></a>
 
-<a href="/images/cookbook/zabaglione-with-roasted-plums-3.jpg"><img src="/images/cookbook/zabaglione-with-roasted-plums-3.jpg" alt="Zabaglione with Roasted Plums" /></a>
+<a href="/images/cookbook/zabaglione-with-roasted-plums-3.webp"><img src="/images/cookbook/zabaglione-with-roasted-plums-3.webp" alt="Zabaglione with Roasted Plums" /></a>
 
 <div class="recipe-card">
 <p><strong>Zabaglione with Roasted Plums</strong>

@@ -6,7 +6,7 @@ description: "Brownies of course are one of those topics that cleave the populat
 categories: ["Recipes", "Desserts"]
 aliases: ["/spectacular-chocolate-espresso-brownies-recipe/", "/2012/05/spectacular-chocolate-espresso-brownies-recipe.html"]
 cover:
-  image: "/images/cookbook/spectacular-chocolate-espresso-brownies.jpg"
+  image: "/images/cookbook/spectacular-chocolate-espresso-brownies.webp"
   hidden: true
 recipe:
   name: "Spectacular Chocolate-Espresso Brownies"
@@ -30,7 +30,7 @@ recipe:
     - "Pour the batter into the prepared pan and spread evenly. Evenly distribute the remaining half of the chocolate chips over the surface."
     - "Bake for 20 minutes. Give the pan a rap to force out bubbles. Bake for 5-10 minutes more, until a toothpick comes out clean. Don't overbake! Allow to cool slightly before serving."
 ---
-<a href="/images/cookbook/spectacular-chocolate-espresso-brownies.jpg"><img src="/images/cookbook/spectacular-chocolate-espresso-brownies.jpg" alt="Spectacular Chocolate-Espresso Brownies" /></a>
+<a href="/images/cookbook/spectacular-chocolate-espresso-brownies.webp"><img src="/images/cookbook/spectacular-chocolate-espresso-brownies.webp" alt="Spectacular Chocolate-Espresso Brownies" /></a>
 
 
 <p>Brownies of course are one of those topics that cleave the population along multiple dimensions. Cakey or fudgy? Love the middle or the edges? Celtics or Lakers? For me, I like more of a cakey brownie, but it has to be very moist and dense cake. And the Celtics.</p>
@@ -38,7 +38,7 @@ recipe:
 <p>Instead of instant coffee, I use <a href="https://www.amazon.com/dp/B002BTI9B0?tag=herb-hugo-20">instant espresso</a>. I've always been loyal to the Medaglia D'Oro brand, which I used to drink 20 years ago at 4 AM, sneaking off between the first two sessions of meditation practice, when there wasn't enough time to make a real pot. Now it wouldn’t be my first choice to drink, but it tastes pretty great in baked goods. Another great option is 2 packets of Starbucks’ Via instant coffee (decaf or regular).</p>
 
 
-<a href="/images/cookbook/spectacular-chocolate-espresso-brownies-2.jpg"><img src="/images/cookbook/spectacular-chocolate-espresso-brownies-2.jpg" alt="Spectacular Chocolate-Espresso Brownies" /></a>
+<a href="/images/cookbook/spectacular-chocolate-espresso-brownies-2.webp"><img src="/images/cookbook/spectacular-chocolate-espresso-brownies-2.webp" alt="Spectacular Chocolate-Espresso Brownies" /></a>
 
 <div class="recipe-card">
 <p><strong>Spectacular Chocolate-Espresso Brownies</strong>

@@ -5,11 +5,11 @@ slug: "so-what-is-going-on-with-your-cookbook-and-other-life-changing-news"
 categories: ["Cookbook Project"]
 aliases: ["/so-what-is-going-on-with-your-cookbook-and-other-life-changing-news/", "/2012/01/so-what-is-going-on-with-your-cookbook-and-other-life-changing-news.html"]
 cover:
-  image: "/images/2012/01/Kimchi-Jigae-Spread-626x363.png"
+  image: "/images/2012/01/Kimchi-Jigae-Spread-626x363.webp"
   hidden: true
 ---
 
-<a href="/images/2012/01/Kimchi-Jigae-Spread.png"><img class="size-large wp-image-1125 alignnone" style="border-style: none; border-color: initial; border-image: initial; border-width: 0px;" title="Herbivoracious Cookbook page spread" src="/images/2012/01/Kimchi-Jigae-Spread-626x363.png" alt="" width="626" height="363" /></a>
+<a href="/images/2012/01/Kimchi-Jigae-Spread.webp"><img class="size-large wp-image-1125 alignnone" style="border-style: none; border-color: initial; border-image: initial; border-width: 0px;" title="Herbivoracious Cookbook page spread" src="/images/2012/01/Kimchi-Jigae-Spread-626x363.webp" alt="" width="626" height="363" /></a>
 <em>A page spread from the Herbivoracious cookbook</em>
 
 In journalism, they say "don't bury the lede", but today I've got three of them:

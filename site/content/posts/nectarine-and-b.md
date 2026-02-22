@@ -5,11 +5,11 @@ slug: "nectarine-and-b"
 categories: ["Desserts", "Kid Friendly", "Recipes"]
 aliases: ["/nectarine-and-b/", "/2008/08/nectarine-and-b.html"]
 cover:
-  image: "/images/2008-small/08/04/nectarineblueberrytart2.jpg"
+  image: "/images/2008-small/08/04/nectarineblueberrytart2.webp"
   hidden: true
 ---
 
-<a href="/images/2008/08/04/nectarineblueberrytart2.jpg" rel="lightbox"><img title="Nectarine and Blueberry Tart" src="/images/2008-small/08/04/nectarineblueberrytart2.jpg" alt="Nectarine and Blueberry Tart" width="455" height="302" border="0" /></a>
+<a href="/images/2008/08/04/nectarineblueberrytart2.webp" rel="lightbox"><img title="Nectarine and Blueberry Tart" src="/images/2008-small/08/04/nectarineblueberrytart2.webp" alt="Nectarine and Blueberry Tart" width="455" height="302" border="0" /></a>
 <span style="font-size: 0.8em;">Nectarine and Blueberry <a href="https://www.amazon.com/Wilton-Excelle-Non-Stick-Quiche-Removable/dp/B0000DIX7K?tag=herb-hugo-20">Tart</a></span>
 
 I made this tart with the idea that I'd write a post about how simple it is to make this beautiful and delicious dessert. It is, though it does take a bit of time. Just look up a recipe for a pâte sablée dough and pastry cream, use perfectly ripe fruit and it is going to be good.
@@ -48,6 +48,6 @@ Now I'm not saying all this because I want you to write in and say "don't be so 
 
 (B) Sweet or savory, I need to be this picky about the food I made if I eventually want to be serving it to the public. These details are the difference between ok and wow, between that was nice and gotta-tell-my-friends. More fundamentally, it is the difference between how good I am now, working off the cuff, and how high my internal standards are. If I'm not going to cook really, really well, then what is the point?
 
-<a href="/images/2008/08/04/nectarineblueberrytart3.jpg" rel="lightbox"><img title="Nectarineblueberrytart3" src="/images/2008-small/08/04/nectarineblueberrytart3.jpg" alt="Nectarineblueberrytart3" width="455" height="302" border="0" /></a>
+<a href="/images/2008/08/04/nectarineblueberrytart3.webp" rel="lightbox"><img title="Nectarineblueberrytart3" src="/images/2008-small/08/04/nectarineblueberrytart3.webp" alt="Nectarineblueberrytart3" width="455" height="302" border="0" /></a>
 
-<a href="/images/2008/08/04/nectarineblueberrytart1.jpg" rel="lightbox"><img title="Nectarineblueberrytart1" src="/images/2008-small/08/04/nectarineblueberrytart1.jpg" alt="Nectarineblueberrytart1" width="455" height="302" border="0" /></a>
+<a href="/images/2008/08/04/nectarineblueberrytart1.webp" rel="lightbox"><img title="Nectarineblueberrytart1" src="/images/2008-small/08/04/nectarineblueberrytart1.webp" alt="Nectarineblueberrytart1" width="455" height="302" border="0" /></a>

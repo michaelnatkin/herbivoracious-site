@@ -6,11 +6,11 @@ description: "Three basic cooking skills that will make every meal you prepare e
 categories: ["Miscellany", "Theory and Rants"]
 aliases: ["/three-ways-to-increase-your-confidence-in-the-kitchen/", "/2011/01/three-ways-to-increase-your-confidence-in-the-kitchen.html"]
 cover:
-  image: "/images/old/6a00e008d618bb88340148c7eef453970c-500wi.jpg"
+  image: "/images/old/6a00e008d618bb88340148c7eef453970c-500wi.webp"
   hidden: true
 ---
 
-<a style="display: inline;" href="/images/old/6a00e008d618bb88340148c7eef453970c-800wi.jpg" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb88340148c7eef453970c" title="Basic Knife Grip" src="/images/old/6a00e008d618bb88340148c7eef453970c-500wi.jpg" alt="Basic Knife Grip" /></a>
+<a style="display: inline;" href="/images/old/6a00e008d618bb88340148c7eef453970c-800wi.webp" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb88340148c7eef453970c" title="Basic Knife Grip" src="/images/old/6a00e008d618bb88340148c7eef453970c-500wi.webp" alt="Basic Knife Grip" /></a>
 <em>Basic knife grip</em>
 
 I've been cooking pretty seriously for 25 years now, and in the process I've had the opportunity to watch lots of other people in the kitchen. I've learned something from everyone I've ever cooked with, and also noticed certain patterns. The folks that are confident enough to relax and have fun in the kitchen have a degree of mastery over <strong>basic knife skills</strong>, know how to work with <strong>high heat</strong>, and are unafraid to <strong>salt their food</strong> until it tastes delicious.
@@ -25,7 +25,7 @@ Next, you'll need to keep your knife sharp. If you want to do that yourself, I c
 
 Ok, you've got a good knife with a sharp edge. Now what? You need to learn how to safely hold food with your other hand, tucking your finger tips under while guiding the blade with your knuckles. And you need to learn how to hold the knife itself with a proper overhand grip. No index finger extending along the blade!
 
-<a style="float: right;" href="/images/old/6a00e008d618bb88340147e1ef6475970b-800wi.jpg" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb88340147e1ef6475970b" style="width: 300px; margin: 0px 0px 5px 5px;" title="Basic Knife Grip 2" src="/images/old/6a00e008d618bb88340147e1ef6475970b-300wi.jpg" alt="Basic Knife Grip 2" /></a>
+<a style="float: right;" href="/images/old/6a00e008d618bb88340147e1ef6475970b-800wi.webp" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb88340147e1ef6475970b" style="width: 300px; margin: 0px 0px 5px 5px;" title="Basic Knife Grip 2" src="/images/old/6a00e008d618bb88340147e1ef6475970b-300wi.webp" alt="Basic Knife Grip 2" /></a>
 
 The best way to learn is from a competent instructor. In Seattle, there is a good, basic, single-evening, knife skills class at <a href="http://www.cooksworld.net/" target="_blank">Cook's World</a>. Maybe folks could add a comment if they know of something similar in other locations. You could also sign up for the <a href="http://rouxbe.com/cooking-school/overview/video_tour_of_rouxbe/?affiliate_tracking_code=7216e8e9adc5026">Rouxbe online cooking school</a>. I'm an affiliate for them because I've watched a lot of their videos and think the quality of instruction and close-up camerawork is excellent.
 

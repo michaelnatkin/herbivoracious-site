@@ -5,7 +5,7 @@ slug: "buckwheat-buttermilk-pancakes-recipe"
 categories: ["Breakfast", "Kid Friendly", "Recipes"]
 aliases: ["/buckwheat-buttermilk-pancakes-recipe/", "/2009/01/buckwheat-buttermilk-pancakes-recipe.html"]
 cover:
-  image: "/images/old/6a00e008d618bb8834010536aae41d970c-500wi.jpg"
+  image: "/images/old/6a00e008d618bb8834010536aae41d970c-500wi.webp"
   hidden: true
 recipe:
   name: "Buckwheat Buttermilk Pancakes"
@@ -28,7 +28,7 @@ recipe:
     - "Serve forth with plenty of soft butter and real maple syrup."
 ---
 
-<a style="display: inline;" href="/images/old/6a00e008d618bb8834010536aae41d970c-800wi.jpg" rel="lightbox"><img class="at-xid-6a00e008d618bb8834010536aae41d970c " alt="Buttermilk_Buckwheat_Pancakes" src="/images/old/6a00e008d618bb8834010536aae41d970c-500wi.jpg" /></a>
+<a style="display: inline;" href="/images/old/6a00e008d618bb8834010536aae41d970c-800wi.webp" rel="lightbox"><img class="at-xid-6a00e008d618bb8834010536aae41d970c " alt="Buttermilk_Buckwheat_Pancakes" src="/images/old/6a00e008d618bb8834010536aae41d970c-500wi.webp" /></a>
 <span style="font-size: 11px; font-family: Arial;">Buckwheat pancakes</span>
 
 Buckwheat pancakes have a place in the American imagination, but rarely at the breakfast table. When you do occasionally find them at restaurants, the percentage of buckwheat flour is so low that you can hardly taste it. Which is a shame, because the warm, toasty, nutty flavor is delicious.

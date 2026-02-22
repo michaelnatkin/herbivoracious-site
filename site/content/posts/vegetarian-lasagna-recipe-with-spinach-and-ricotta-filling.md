@@ -6,7 +6,7 @@ description: "Recipe for vegetarian lasagna filled with spinach and ricotta, inc
 categories: ["Favorites", "Kid Friendly", "Main Courses", "Recipes"]
 aliases: ["/vegetarian-lasagna-recipe-with-spinach-and-ricotta-filling/", "/2008/12/vegetarian-lasagna-recipe-with-spinach-and-ricotta-filling.html"]
 cover:
-  image: "/images/old/6a00e008d618bb8834010536979c48970b-500wi.jpg"
+  image: "/images/old/6a00e008d618bb8834010536979c48970b-500wi.webp"
   hidden: true
 recipe:
   name: "Vegetarian Lasagna Recipe with Spinach and Ricotta Filling for a Crowd, using No-Boil Noodles"
@@ -36,7 +36,7 @@ recipe:
     - "Allow to rest at least 15 minutes before serving so it has time to set up a bit."
 ---
 
-<a style="display: inline;" href="/images/old/6a00e008d618bb8834010536979c48970b-800wi.jpg" rel="lightbox"><img class="photo at-xid-6a00e008d618bb8834010536979c48970b"  alt="Vegetarian Lasagna With Ricotta And Spinach" src="/images/old/6a00e008d618bb8834010536979c48970b-500wi.jpg" /></a>
+<a style="display: inline;" href="/images/old/6a00e008d618bb8834010536979c48970b-800wi.webp" rel="lightbox"><img class="photo at-xid-6a00e008d618bb8834010536979c48970b"  alt="Vegetarian Lasagna With Ricotta And Spinach" src="/images/old/6a00e008d618bb8834010536979c48970b-500wi.webp" /></a>
 Vegetarian Lasagna Recipe with Spinach and Ricotta Filling
 
 <strong>Vegetarian lasagna</strong> (aka <strong>veggie lasagna</strong>) might be a bit of a cliche, but everyone loves it, and it has the great advantages that you can do it ahead for a crowd, and it finishes in the oven, so you can <strong>concentrate on your guests</strong>.

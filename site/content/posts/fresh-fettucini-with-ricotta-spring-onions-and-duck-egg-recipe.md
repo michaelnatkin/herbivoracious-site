@@ -6,7 +6,7 @@ description: "Recipe for a vegetarian pasta entree with fresh noodles, ricotta, 
 categories: ["Main Courses", "Recipes", "Seattle"]
 aliases: ["/fresh-fettucini-with-ricotta-spring-onions-and-duck-egg-recipe/", "/2009/05/fresh-fettucini-with-ricotta-spring-onions-and-duck-egg-recipe.html"]
 cover:
-  image: "/images/old/6a00e008d618bb8834011570a61a74970b-500wi.jpg"
+  image: "/images/old/6a00e008d618bb8834011570a61a74970b-500wi.webp"
   hidden: true
 ---
   

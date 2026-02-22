@@ -6,7 +6,7 @@ description: "Mujadara is simply a mixture of rice and perfectly cooked lentils,
 categories: ["Recipes", "Main Courses"]
 aliases: ["/mujadara-middle-eastern-rice-and-lentil-pilaf-recipe/", "/2011/07/mujadara-middle-eastern-rice-and-lentil-pilaf-recipe.html"]
 cover:
-  image: "/images/cookbook/mujadara-middle-eastern-rice-and-lentil-pilaf.jpg"
+  image: "/images/cookbook/mujadara-middle-eastern-rice-and-lentil-pilaf.webp"
   hidden: true
 recipe:
   name: "Mujadara – Middle Eastern Rice and Lentil Pilaf"
@@ -26,7 +26,7 @@ recipe:
     - "When the onions are cooked, fold the rice, lentils, spices, half of the onions, 1 more teaspoon of salt and several grinds of black pepper together in a large bowl. Taste and adjust seasonings."
     - "On a large serving platter, form a mound of the rice and lentil mixture, top with the remaining caramelized onions and chopped parsley, a grind of pepper and a few grains of sea salt."
 ---
-<a href="/images/cookbook/mujadara-middle-eastern-rice-and-lentil-pilaf.jpg"><img src="/images/cookbook/mujadara-middle-eastern-rice-and-lentil-pilaf.jpg" alt="Mujadara – Middle Eastern Rice and Lentil Pilaf" /></a>
+<a href="/images/cookbook/mujadara-middle-eastern-rice-and-lentil-pilaf.webp"><img src="/images/cookbook/mujadara-middle-eastern-rice-and-lentil-pilaf.webp" alt="Mujadara – Middle Eastern Rice and Lentil Pilaf" /></a>
 
 
 <p>Mujadara is simply a mixture of rice and perfectly cooked lentils, spiked with a big dose of caramelized onions and a bit of cumin and cinnamon. Nutritious, satisfying, inexpensive, and easy to make, it is a hearty one dish meal served with just some Greek yogurt and maybe a cucumber salad, or it can be part of a larger Middle Eastern feast. It is best close to room temperature, not piping hot.</p>
@@ -35,7 +35,7 @@ recipe:
 <p>You may wonder about the very small amounts of cinnamon and cumin. For my taste, mujadara is meant to be more earthy than spice heave, so I like them just as very subtle accents. Some of my blog readers agree, while others prefer to use much more. The choice is yours!</p>
 
 
-<a href="/images/cookbook/mujadara-middle-eastern-rice-and-lentil-pilaf-2.jpg"><img src="/images/cookbook/mujadara-middle-eastern-rice-and-lentil-pilaf-2.jpg" alt="Mujadara – Middle Eastern Rice and Lentil Pilaf" /></a>
+<a href="/images/cookbook/mujadara-middle-eastern-rice-and-lentil-pilaf-2.webp"><img src="/images/cookbook/mujadara-middle-eastern-rice-and-lentil-pilaf-2.webp" alt="Mujadara – Middle Eastern Rice and Lentil Pilaf" /></a>
 
 <div class="recipe-card">
 <p><strong>Mujadara – Middle Eastern Rice and Lentil Pilaf</strong>

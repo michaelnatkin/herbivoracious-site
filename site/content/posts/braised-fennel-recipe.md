@@ -6,7 +6,7 @@ description: "Recipe for fennel braised with vermouth and orange juice, includin
 categories: ["Gluten-Free or modifiable", "Recipes", "Side Dishes", "Vegan or Modifiable"]
 aliases: ["/braised-fennel-recipe/", "/2011/10/braised-fennel-recipe.html"]
 cover:
-  image: "/images/old/6a00e008d618bb88340154360e3c7c970c-500wi.jpg"
+  image: "/images/old/6a00e008d618bb88340154360e3c7c970c-500wi.webp"
   hidden: true
 recipe:
   name: "Braised Fennel"
@@ -31,7 +31,7 @@ recipe:
     - "To serve, transfer the fennel bulbs to a serving platter. Spoon the carrots, onions and sauce over the fennel. Garnish with a generous drizzle of good olive oil, more freshly ground pepper, some flaky salt, the fennel fronds, and the optional fennel pollen."
 ---
 
-<a style="display: inline;" href="/images/old/6a00e008d618bb88340154360e3c7c970c-800wi.jpg" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb88340154360e3c7c970c" title="Braised Fennel" src="/images/old/6a00e008d618bb88340154360e3c7c970c-500wi.jpg" alt="Braised Fennel" /></a>
+<a style="display: inline;" href="/images/old/6a00e008d618bb88340154360e3c7c970c-800wi.webp" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb88340154360e3c7c970c" title="Braised Fennel" src="/images/old/6a00e008d618bb88340154360e3c7c970c-500wi.webp" alt="Braised Fennel" /></a>
 <em>Braised Fennel</em>
 
 Braising is something of a lost art, which is a shame because it isn't at all difficult to do. Learn a couple of basic moves and you'll be rewarded with a succulent, richly flavored, rustic dish that will have you and your guests mopping up every last bit of sauce.

@@ -6,7 +6,7 @@ description: "These blintzes are a fair bit of work, but much of it can be done 
 categories: ["Recipes", "Breakfast and Brunch"]
 aliases: ["/manouri-cheese-blintzes-recipe/", "/2012/03/manouri-cheese-blintzes-recipe.html"]
 cover:
-  image: "/images/cookbook/manouri-cheese-blintzes.jpg"
+  image: "/images/cookbook/manouri-cheese-blintzes.webp"
   hidden: true
 recipe:
   name: "Manouri Cheese Blintzes"
@@ -37,7 +37,7 @@ recipe:
     - "At this point, you can either refrigerate all of the filled blintzes for up to 24 hours, or finish cooking and serving them. To finish the dish, heat up a large skillet over a medium flame and melt a generous amount of butter. Working in batches, fry the rolled crepes on each side until golden brown and crispy. Keep the flame low enough that the filling will be cooked by the time the wrapper is done."
     - "Serve them forth with sour cream and brown sugar or the rosemary-blueberry sauce."
 ---
-<a href="/images/cookbook/manouri-cheese-blintzes.jpg"><img src="/images/cookbook/manouri-cheese-blintzes.jpg" alt="Manouri Cheese Blintzes" /></a>
+<a href="/images/cookbook/manouri-cheese-blintzes.webp"><img src="/images/cookbook/manouri-cheese-blintzes.webp" alt="Manouri Cheese Blintzes" /></a>
 
 
 <p>These blintzes are a fair bit of work, but much of it can be done ahead, which makes them ideal when you are having friends over for brunch. You can make the pancakes, fill them and roll them, then refrigerate until you are ready to fry them in butter and serve them up.  Blintzes are very forgiving to make because they don’t need to be as thin as crepes, and rolling the pancakes up hides any little imperfections.</p>
@@ -45,13 +45,13 @@ recipe:
 <p>You can serve these crepes with sour cream and brown sugar, or for an extra-special touch, offer the rosemary-blueberry sauce on .</p>
 
 
-<a href="/images/cookbook/manouri-cheese-blintzes-2.jpg"><img src="/images/cookbook/manouri-cheese-blintzes-2.jpg" alt="Manouri Cheese Blintzes" /></a>
+<a href="/images/cookbook/manouri-cheese-blintzes-2.webp"><img src="/images/cookbook/manouri-cheese-blintzes-2.webp" alt="Manouri Cheese Blintzes" /></a>
 
-<a href="/images/cookbook/manouri-cheese-blintzes-3.jpg"><img src="/images/cookbook/manouri-cheese-blintzes-3.jpg" alt="Manouri Cheese Blintzes" /></a>
+<a href="/images/cookbook/manouri-cheese-blintzes-3.webp"><img src="/images/cookbook/manouri-cheese-blintzes-3.webp" alt="Manouri Cheese Blintzes" /></a>
 
-<a href="/images/cookbook/manouri-cheese-blintzes-4.jpg"><img src="/images/cookbook/manouri-cheese-blintzes-4.jpg" alt="Manouri Cheese Blintzes" /></a>
+<a href="/images/cookbook/manouri-cheese-blintzes-4.webp"><img src="/images/cookbook/manouri-cheese-blintzes-4.webp" alt="Manouri Cheese Blintzes" /></a>
 
-<a href="/images/cookbook/manouri-cheese-blintzes-5.jpg"><img src="/images/cookbook/manouri-cheese-blintzes-5.jpg" alt="Manouri Cheese Blintzes" /></a>
+<a href="/images/cookbook/manouri-cheese-blintzes-5.webp"><img src="/images/cookbook/manouri-cheese-blintzes-5.webp" alt="Manouri Cheese Blintzes" /></a>
 
 <div class="recipe-card">
 <p><strong>Manouri Cheese Blintzes</strong>

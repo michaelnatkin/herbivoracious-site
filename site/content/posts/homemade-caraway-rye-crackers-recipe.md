@@ -5,7 +5,7 @@ slug: "homemade-caraway-rye-crackers-recipe"
 categories: ["Baking", "Recipes", "Vegan or Modifiable"]
 aliases: ["/homemade-caraway-rye-crackers-recipe/", "/2012/02/homemade-caraway-rye-crackers-recipe.html"]
 cover:
-  image: "/images/2012/07/Rye-Crackers-2-626x415.jpg"
+  image: "/images/2012/07/Rye-Crackers-2-626x415.webp"
   hidden: true
 recipe:
   name: "Homemade Caraway Rye Crackers"
@@ -25,7 +25,7 @@ recipe:
     - "Bake until deep golden brown, about 8-10 minutes. Cool on a rack and then break up into random-sized crackers."
 ---
 
-<a href="/images/2012/07/Rye-Crackers-2.jpg"><img class="alignnone size-large wp-image-1271" title="Caraway Rye Crackers" src="/images/2012/07/Rye-Crackers-2-626x415.jpg" alt="" width="626" height="415" />
+<a href="/images/2012/07/Rye-Crackers-2.webp"><img class="alignnone size-large wp-image-1271" title="Caraway Rye Crackers" src="/images/2012/07/Rye-Crackers-2-626x415.webp" alt="" width="626" height="415" />
 </a><em>Homemade Caraway Rye Crackers</em>
 
 I've been obsessed with the flavor of rye lately. It had been on my mind and I ended up improvising a loaf of rye bread with a salt crust that came out amazing and I'm <strong>kicking myself</strong> because I didn't write anything down, so now I can neither reproduce it nor share it with you, at least until I have another try at it. Anyhow, I think rye has an amazing flavor that deserves to be more widely used. I've got in mind to try rye crepes, and maybe a <strong>rye crumble</strong> for an apple crisp. Those are experiments for another day, but for today let me show you how to make simple and flavorful rye crackers.

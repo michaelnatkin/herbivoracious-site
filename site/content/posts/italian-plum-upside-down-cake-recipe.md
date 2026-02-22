@@ -5,7 +5,7 @@ slug: "italian-plum-upside-down-cake-recipe"
 categories: ["Breakfast", "Desserts", "Kid Friendly", "Recipes"]
 aliases: ["/italian-plum-upside-down-cake-recipe/", "/2013/09/italian-plum-upside-down-cake-recipe.html"]
 cover:
-  image: "/images/2013/11/Italian-Plum-Upside-Down-Cake-626x415.jpg"
+  image: "/images/2013/11/Italian-Plum-Upside-Down-Cake-626x415.webp"
   hidden: true
 recipe:
   name: "Italian Plum Upside Down Cake"
@@ -35,7 +35,7 @@ recipe:
     - "Place the cake pan on a baking sheet and bake until golden brown and a toothpick inserted in the center comes out clean, about 35 - 40 minutes. Transfer to a cooling rack. After about 30 minutes, you can transfer the cake to a serving platter. With a regular cake pan, work a knife around the sides, then place the platter over the top of the cake pan and quickly and confidently invert it and give the bottom a rap to unmold. If you are using a springform pan, you can just unmold it, then invert and remove the bottom to reveal the plums."
 ---
 
-<a href="/images/2013/11/Italian-Plum-Upside-Down-Cake.jpg"><img class="alignnone size-large wp-image-3875" alt="Italian Plum Upside-Down Cake" src="/images/2013/11/Italian-Plum-Upside-Down-Cake-626x415.jpg" width="626" height="415" />
+<a href="/images/2013/11/Italian-Plum-Upside-Down-Cake.webp"><img class="alignnone size-large wp-image-3875" alt="Italian Plum Upside-Down Cake" src="/images/2013/11/Italian-Plum-Upside-Down-Cake-626x415.webp" width="626" height="415" />
 </a><em>Italian Plum Upside-Down Cake</em>
 
 I'm a an absolute sucker for Italian plums, to the point of being a bit heartbroken that my incredibly generous neighbors' tree seems not to have fruited this year. Picking them warm off her tree is a highlight of late summer around here. So I was happy as could be when, on vacation, I found a pile of them at a farmer's market near Lake Chelan, and for just $1 per pound. I bought a big bag, and then was promptly disappointed when the flavor and texture wasn't up to snuff.

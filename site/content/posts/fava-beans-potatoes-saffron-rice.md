@@ -5,7 +5,7 @@ slug: "fava-beans-potatoes-saffron-rice"
 categories: ["Gluten-Free or modifiable", "Kid Friendly", "Main Courses", "Recipes", "Vegan or Modifiable"]
 aliases: ["/fava-beans-potatoes-saffron-rice/", "/2009/04/fava-beans-potatoes-saffron-rice.html"]
 cover:
-  image: "/images/old/6a00e008d618bb883401156f9d003b970b-500wi.jpg"
+  image: "/images/old/6a00e008d618bb883401156f9d003b970b-500wi.webp"
   hidden: true
 recipe:
   name: "Fava Beans, Potatoes and Saffron Rice"
@@ -30,7 +30,7 @@ recipe:
     - "To serve, fill each bowl with 1 cup of rice, and top with 1/4 of the beans and 1/4 of the potatoes. Drizzle with a bit more of the extra-virgin olive oil if you like. Top with the feta and herbs."
 ---
 
-<a style="display: inline;" href="/images/old/6a00e008d618bb883401156f9d003b970b-800wi.jpg" rel="lightbox"><img class="at-xid-6a00e008d618bb883401156f9d003b970b " src="/images/old/6a00e008d618bb883401156f9d003b970b-500wi.jpg" alt="Fava_Beans_Potatoes" /></a>
+<a style="display: inline;" href="/images/old/6a00e008d618bb883401156f9d003b970b-800wi.webp" rel="lightbox"><img class="at-xid-6a00e008d618bb883401156f9d003b970b " src="/images/old/6a00e008d618bb883401156f9d003b970b-500wi.webp" alt="Fava_Beans_Potatoes" /></a>
 <em><span style="font-size: 12px;">Saffron rice, crispy potatoes, feta and fresh herbs</span></em>
 
 I'm a fool for <em>foul</em>. Not foul like "and now I get to shoot free throws".<em>Foul muddamas </em>prounced "fool", which is the word for fava beans throughout the Middle East and North Africa. Like most beans, the fresh and dried versions are radically different. Fresh favas are mild and sweet, tasting something like a cross between a baby pea and a lima bean. And they are a royal pain in the butt to peel.

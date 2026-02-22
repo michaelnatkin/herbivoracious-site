@@ -5,7 +5,7 @@ slug: "king-oyster-mus"
 categories: ["Gluten-Free or modifiable", "Main Courses", "Recipes"]
 aliases: ["/king-oyster-mus/", "/2008/07/king-oyster-mus.html"]
 cover:
-  image: "/images/2008-small/07/11/kingoystermushroomswithgrilledpolen.jpg"
+  image: "/images/2008-small/07/11/kingoystermushroomswithgrilledpolen.webp"
   hidden: true
 recipe:
   name: "King Oyster Mushrooms With Pesto, Grilled Polenta, and White Beans"
@@ -50,7 +50,7 @@ recipe:
     - "And finally add a generous dollop of pesto. Pass more at the table."
 ---
 
-<a href="/images/2008/07/11/kingoystermushroomswithgrilledpolen.jpg" rel="lightbox"><img title="Kingoystermushroomswithgrilledpolen" src="/images/2008-small/07/11/kingoystermushroomswithgrilledpolen.jpg" alt="Kingoystermushroomswithgrilledpolen" width="455" height="302" border="0" /></a>
+<a href="/images/2008/07/11/kingoystermushroomswithgrilledpolen.webp" rel="lightbox"><img title="Kingoystermushroomswithgrilledpolen" src="/images/2008-small/07/11/kingoystermushroomswithgrilledpolen.webp" alt="Kingoystermushroomswithgrilledpolen" width="455" height="302" border="0" /></a>
 
 When I saw "French Horn Mushrooms" at Whole Foods (for $19.99/lb), I thought they looked awfully familiar. In fact I would have sworn they were the same as the "King Oyster Mushrooms" for sale at $6-8/lb at our local Asian groceries. Sure enough, either one is <a href="http://en.wikipedia.org/wiki/Pleurotus_eryngii"><em>Pleurotus eryngii</em></a>. (Click over to see what they look like raw.)
 

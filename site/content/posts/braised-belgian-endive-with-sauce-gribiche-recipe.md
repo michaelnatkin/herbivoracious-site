@@ -6,7 +6,7 @@ description: "I first tasted the classic French sauce gribiche when I was intern
 categories: ["Recipes", "Appetizers"]
 aliases: ["/braised-belgian-endive-with-sauce-gribiche-recipe/", "/2011/06/braised-belgian-endive-with-sauce-gribiche-recipe.html"]
 cover:
-  image: "/images/cookbook/braised-belgian-endive-with-sauce-gribiche.jpg"
+  image: "/images/cookbook/braised-belgian-endive-with-sauce-gribiche.webp"
   hidden: true
 recipe:
   name: "Braised Belgian Endive with Sauce Gribiche"
@@ -33,7 +33,7 @@ recipe:
     - "Mix in the vinegar, cornichons, capers, parsley, tarragon, and diced egg white and a generous grind of black pepper. Taste and add salt if needed."
     - "To serve, place the chilled or room-temperature endive on a plate. Give the sauce a final stir, and spoon it over the endive."
 ---
-<a href="/images/cookbook/braised-belgian-endive-with-sauce-gribiche.jpg"><img src="/images/cookbook/braised-belgian-endive-with-sauce-gribiche.jpg" alt="Braised Belgian Endive with Sauce Gribiche" /></a>
+<a href="/images/cookbook/braised-belgian-endive-with-sauce-gribiche.webp"><img src="/images/cookbook/braised-belgian-endive-with-sauce-gribiche.webp" alt="Braised Belgian Endive with Sauce Gribiche" /></a>
 
 
 <p>I first tasted the classic French sauce gribiche when I was interning at Seattle’s landmark Canlis restaurant. Chef Franey serves it with asparagus, which is superb. I like it equally well with quickly braised Belgian endive, or steamed artichoke hearts.</p>
@@ -41,9 +41,9 @@ recipe:
 <p>This method for braising Belgian endive can be used without the sauce gribiche. In that case, try something flavorful such as fresh-squeezed orange juice in place of the water for the braising liquid.</p>
 
 
-<a href="/images/cookbook/braised-belgian-endive-with-sauce-gribiche-2.jpg"><img src="/images/cookbook/braised-belgian-endive-with-sauce-gribiche-2.jpg" alt="Braised Belgian Endive with Sauce Gribiche" /></a>
+<a href="/images/cookbook/braised-belgian-endive-with-sauce-gribiche-2.webp"><img src="/images/cookbook/braised-belgian-endive-with-sauce-gribiche-2.webp" alt="Braised Belgian Endive with Sauce Gribiche" /></a>
 
-<a href="/images/cookbook/braised-belgian-endive-with-sauce-gribiche-3.jpg"><img src="/images/cookbook/braised-belgian-endive-with-sauce-gribiche-3.jpg" alt="Braised Belgian Endive with Sauce Gribiche" /></a>
+<a href="/images/cookbook/braised-belgian-endive-with-sauce-gribiche-3.webp"><img src="/images/cookbook/braised-belgian-endive-with-sauce-gribiche-3.webp" alt="Braised Belgian Endive with Sauce Gribiche" /></a>
 
 <div class="recipe-card">
 <p><strong>Braised Belgian Endive with Sauce Gribiche</strong>

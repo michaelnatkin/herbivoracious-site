@@ -6,7 +6,7 @@ description: "Recipe for vegetarian frijoles charros (Mexican cowboy beans) flav
 categories: ["Gluten-Free or modifiable", "Recipes", "Side Dishes", "Vegan or Modifiable"]
 aliases: ["/vegetarian-frijoles-charros-mexican-cowboy-beans-with-smoked-onion-recipe/", "/2011/07/vegetarian-frijoles-charros-mexican-cowboy-beans-with-smoked-onion-recipe.html"]
 cover:
-  image: "/images/old/6a00e008d618bb8834015432bb4309970c-500wi.jpg"
+  image: "/images/old/6a00e008d618bb8834015432bb4309970c-500wi.webp"
   hidden: true
 recipe:
   name: "Vegetarian Frijoles Charros - Mexican Cowboy Beans with Smoked Onion"
@@ -28,7 +28,7 @@ recipe:
     - "Add the crushed tomato, the beans, and 1 cup of the bean liquid. Bring to a simmer and reduce heat to maintain. Cook for about 15 minutes, then taste and adjust seasoning. Add more of the bean liquid to find the desired brothy consistency. Serve hot."
 ---
 
-<a style="display: inline;" href="/images/old/6a00e008d618bb8834015432bb4309970c-800wi.jpg" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb8834015432bb4309970c" title="Frijoles Charros" src="/images/old/6a00e008d618bb8834015432bb4309970c-500wi.jpg" alt="Frijoles Charros" /></a>
+<a style="display: inline;" href="/images/old/6a00e008d618bb8834015432bb4309970c-800wi.webp" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb8834015432bb4309970c" title="Frijoles Charros" src="/images/old/6a00e008d618bb8834015432bb4309970c-500wi.webp" alt="Frijoles Charros" /></a>
 <em>Vegetarian Frijoles Charros - Mexican Cowboy Beans</em>
 
 <em>Frijoles charros </em>are a classic way of serving beans in Mexico. Unlike refried beans, the pinto beans are served whole, in a <strong>broth redolent of smoke and tomato</strong>. Traditionally, that smoke flavor comes from bacon.

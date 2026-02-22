@@ -6,7 +6,7 @@ description: "Recipe for an Indian beet curry (vegetarian, vegan and gluten-free
 categories: ["Gluten-Free or modifiable", "Main Courses", "Recipes", "Vegan or Modifiable"]
 aliases: ["/beet-curry-recipe-1/", "/2011/11/beet-curry-recipe-1.html"]
 cover:
-  image: "/images/old/6a00e008d618bb8834015392b86175970b-500wi.jpg"
+  image: "/images/old/6a00e008d618bb8834015392b86175970b-500wi.webp"
   hidden: true
 recipe:
   name: "Beet Curry"
@@ -31,7 +31,7 @@ recipe:
     - "Bring to a boil, reduce to a simmer, and put on a cover. It doesn't have to fit perfectly. Simmer until the beets are very tender, about 20-30 minutes. Remove the lid and simmer off any remaining water (or add more during the cook if needed). Stir in the garam masala. Taste and adjust seasoning. It may need more salt, tamarind, or cayenne to achieve the flavor that you like. Serve hot."
 ---
 
-<a style="display: inline;" href="/images/old/6a00e008d618bb8834015392b86175970b-800wi.jpg" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb8834015392b86175970b" title="Beet Curry" src="/images/old/6a00e008d618bb8834015392b86175970b-500wi.jpg" alt="Beet Curry" /></a>
+<a style="display: inline;" href="/images/old/6a00e008d618bb8834015392b86175970b-800wi.webp" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb8834015392b86175970b" title="Beet Curry" src="/images/old/6a00e008d618bb8834015392b86175970b-500wi.webp" alt="Beet Curry" /></a>
 <em>Beet Curry</em>
 
 As unlikely as it may sound, the first time I ever ate beet curry was over a campfire in Hot Springs, Arkansas. I was dubious, but my girlfriend at the time had lived in Tamil Nadu for a year and knew what she was doing. Granted, everything tastes good around a campfire after an arduous day of lounging around the hot springs, but this was eye-openingly delicious.

@@ -5,7 +5,7 @@ slug: "super-spicy-tofu-and-peppers-or-ok-fine-mild-if-you-prefer-recipe"
 categories: ["Gluten-Free or modifiable", "Recipes", "Vegan or Modifiable"]
 aliases: ["/super-spicy-tofu-and-peppers-or-ok-fine-mild-if-you-prefer-recipe/", "/2012/06/super-spicy-tofu-and-peppers-or-ok-fine-mild-if-you-prefer-recipe.html"]
 cover:
-  image: "/images/2012/05/Super-Spicy-Tofu-626x415.jpg"
+  image: "/images/2012/05/Super-Spicy-Tofu-626x415.webp"
   hidden: true
 recipe:
   name: "Super Spicy Tofu and Peppers (with Mild Variation)"
@@ -29,7 +29,7 @@ recipe:
     - "Add the jalapeno, bell pepper and scallion and stir fry over high heat until the colors brighten, about 1 minute. Add the tofu back in, then add the sauce. Quickly stir and fry just long enough to reheat the tofu and cook the cornstarch, about 30 seconds. Transfer to a serving bowl or platter and serve immediately."
 ---
 
-<a href="/images/2012/05/Super-Spicy-Tofu.jpg"><img class="alignnone size-large wp-image-2009" title="Super Spicy Tofu and Peppers" src="/images/2012/05/Super-Spicy-Tofu-626x415.jpg" alt="Super Spicy Tofu and Peppers" width="626" height="415" />
+<a href="/images/2012/05/Super-Spicy-Tofu.webp"><img class="alignnone size-large wp-image-2009" title="Super Spicy Tofu and Peppers" src="/images/2012/05/Super-Spicy-Tofu-626x415.webp" alt="Super Spicy Tofu and Peppers" width="626" height="415" />
 </a><em>Super Spicy Tofu and Peppers</em>
 
 After last week's <a href="/2012/05/how-to-make-tofu-really-freaking-delicious-tofu-101/">Tofu 101 post</a>, I thought I should share with you an easy way to use your new-found bean curd knowledge. I used to order this dish at a rather non-descript Chinese restaurant on Seattle's highway 99, and  they would make it so hot that I'd be <strong>practically hallucinating</strong> after a few bites. Equal measures of pleasure and agony!

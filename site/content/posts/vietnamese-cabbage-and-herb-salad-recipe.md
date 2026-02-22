@@ -5,7 +5,7 @@ slug: "vietnamese-cabbage-and-herb-salad-recipe"
 categories: ["Gluten-Free or modifiable", "Recipes", "Salads", "Vegan or Modifiable"]
 aliases: ["/vietnamese-cabbage-and-herb-salad-recipe/", "/2013/02/vietnamese-cabbage-and-herb-salad-recipe.html"]
 cover:
-  image: "/images/2013/08/Vietnamese-Cabbage-and-Herb-Salad-626x415.jpg"
+  image: "/images/2013/08/Vietnamese-Cabbage-and-Herb-Salad-626x415.webp"
   hidden: true
 recipe:
   name: "Vietnamese Cabbage, Tofu and Herb Salad – Gói Bắp Cải Dậu Phụ"
@@ -31,7 +31,7 @@ recipe:
     - "To serve, transfer the salad to platter. Garnish with the remaining fried shallots and peanuts."
 ---
 
-<a href="/images/2013/08/Vietnamese-Cabbage-and-Herb-Salad.jpg"><img class="alignnone size-large wp-image-3598" alt="Vietnamese Cabbage and Herb Salad - Recipe" src="/images/2013/08/Vietnamese-Cabbage-and-Herb-Salad-626x415.jpg" width="626" height="415" /></a>
+<a href="/images/2013/08/Vietnamese-Cabbage-and-Herb-Salad.webp"><img class="alignnone size-large wp-image-3598" alt="Vietnamese Cabbage and Herb Salad - Recipe" src="/images/2013/08/Vietnamese-Cabbage-and-Herb-Salad-626x415.webp" width="626" height="415" /></a>
 
 Have you ever had the experience of eating a dish once and finding it burning into your brain? As if there was a reserved area, a certain <em>tabula rasa</em> of neurons just waiting to be inscribed with this new combination of flavors? That's how I felt when I first tried this salad at Eric Banh's <a href="http://babarseattle.com/" target="_blank">Ba Bar</a>, one of our favorite Seattle restaurants. This general style of cabbage salad (gói) is fairly common, but what makes the Ba Bar version great is copious quantities of <strong>meticulously fried, ridiculously savory shallots</strong> playing against the fresh herbs and crunchy cabbage.
 

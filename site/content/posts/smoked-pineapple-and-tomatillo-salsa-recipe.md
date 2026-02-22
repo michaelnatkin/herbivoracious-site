@@ -6,7 +6,7 @@ description: "Recipe for a delicious salsa made with smoked pineapple and tomati
 categories: ["Gluten-Free or modifiable", "Recipes", "Sauces and Condiments", "Vegan or Modifiable"]
 aliases: ["/smoked-pineapple-and-tomatillo-salsa-recipe/", "/2011/07/smoked-pineapple-and-tomatillo-salsa-recipe.html"]
 cover:
-  image: "/images/old/6a00e008d618bb8834015432c00d13970c-500wi.jpg"
+  image: "/images/old/6a00e008d618bb8834015432c00d13970c-500wi.webp"
   hidden: true
 recipe:
   name: "Smoked Pineapple and Tomatillo Salsa"
@@ -28,7 +28,7 @@ recipe:
     - "Put the smoked pineapple, tomatillos, green onions, garlic, jalapeno, cilantro, salt, agave nectar, and a pinch of chile de arbol in a mini-food processor. Process until it forms a coarse puree. Taste and adjust seasoning. Serve at room temperature for best flavor. This salsa will keep for at least 3 days in the refrigerator."
 ---
 
-<a style="display: inline;" href="/images/old/6a00e008d618bb8834015432c00d13970c-800wi.jpg" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb8834015432c00d13970c" title="Smoked Pineapple Salsa" src="/images/old/6a00e008d618bb8834015432c00d13970c-500wi.jpg" alt="Smoked Pineapple Salsa" /></a>
+<a style="display: inline;" href="/images/old/6a00e008d618bb8834015432c00d13970c-800wi.webp" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb8834015432c00d13970c" title="Smoked Pineapple Salsa" src="/images/old/6a00e008d618bb8834015432c00d13970c-500wi.webp" alt="Smoked Pineapple Salsa" /></a>
 <em>Smoked Pineapple and Tomatillo Salsa</em>
 
 <i><b>NOTE:</b> I no longer recommend jury-rigged stovetop smoking. I've since learned that creating smoke in a low-oxygen sealed environment like this creates unnecessarily high levels of carcinogens. See my <a href="/2013/01/smoked-tofu-buns-recipe/">Smoked Tofu Buns</a> recipe for a safer alternative if you don't have your own method of smoking.</i>

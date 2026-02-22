@@ -4,7 +4,7 @@ subtitle: "From chilled summer soups to hearty winter stews"
 slug: "vegetarian-soups"
 description: "The best vegetarian soup recipes from Herbivoracious — hearty bean soups, silky purees, chilled summer soups, and warming broths. All meatless, many vegan and gluten-free."
 cover:
-  image: "/images/cookbook/butternut-squash-soup-with-maple-pumpkin-seeds.jpg"
+  image: "/images/cookbook/butternut-squash-soup-with-maple-pumpkin-seeds.webp"
 recipes:
   - "butternut-squash-soup-with-maple-pumpkin-seeds-recipe"
   - "white-bean-and-kale-soup-recipe"

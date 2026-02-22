@@ -5,7 +5,7 @@ slug: "rye-piroshki-with-roasted-onions-and-swiss-cheese-recipe"
 categories: ["Baking", "Main Courses", "Recipes"]
 aliases: ["/rye-piroshki-with-roasted-onions-and-swiss-cheese-recipe/", "/2012/08/rye-piroshki-with-roasted-onions-and-swiss-cheese-recipe.html"]
 cover:
-  image: "/images/2012/07/Swiss-and-Onions-in-Rye-626x415.jpg"
+  image: "/images/2012/07/Swiss-and-Onions-in-Rye-626x415.webp"
   hidden: true
 recipe:
   name: "Rye Piroshki with Roasted Onions and Swiss Cheese"
@@ -19,7 +19,7 @@ recipe:
     - "Put all ingredients in stand mixer and mix with paddle on medium-low speed until uniform, about 2 minutes. Allow to rest, loosely covered, at room temperature for 2 hours. (You can of course also mix this by hand.)"
 ---
 
-<a href="/images/2012/07/Swiss-and-Onions-in-Rye.jpg"><img class="alignnone size-large wp-image-2488" title="Rye Piroshki with Roasted Onions and Swiss Cheese" src="/images/2012/07/Swiss-and-Onions-in-Rye-626x415.jpg" alt="Rye Piroshki with Roasted Onions and Swiss Cheese" width="626" height="415" /></a>
+<a href="/images/2012/07/Swiss-and-Onions-in-Rye.webp"><img class="alignnone size-large wp-image-2488" title="Rye Piroshki with Roasted Onions and Swiss Cheese" src="/images/2012/07/Swiss-and-Onions-in-Rye-626x415.webp" alt="Rye Piroshki with Roasted Onions and Swiss Cheese" width="626" height="415" /></a>
 <em>Rye Piroshki with Roasted Onions, Caraway, and Swiss Cheese</em>
 
 Piroshki (not to be confused with pierogi) are individual yeast buns that are popular in Russia and all over Eastern Europe. They can be filled with anything from potatoes and cabbage to cottage cheese and jam. In Seattle, we have a shop called <a href="http://www.piroshkybakery.com/" target="_blank">Piroshky Piroshky</a> that does a really nice job with them. I used to live around the corner from one of their stores and loved to run in and grab one for a quick lunch.

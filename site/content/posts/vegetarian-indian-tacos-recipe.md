@@ -6,7 +6,7 @@ description: "Indian tacos (made with Navajo fry bread) are a food that came out
 categories: ["Kid Friendly", "Main Courses", "Recipes"]
 aliases: ["/vegetarian-indian-tacos-recipe/", "/2010/09/vegetarian-indian-tacos-recipe.html"]
 cover:
-  image: "/images/old/6a00e008d618bb88340133f3c66477970b-500wi.jpg"
+  image: "/images/old/6a00e008d618bb88340133f3c66477970b-500wi.webp"
   hidden: true
 recipe:
   name: "Indian Tacos (with Navajo fry bread)"
@@ -39,7 +39,7 @@ recipe:
     - "Put a fry bread on each plate, and top with generous portions of beans, the squash saute cheese, onion, tomatoes, lettuce, guacamole and hot sauce. Serve immediately."
 ---
 
-<a style="display: inline;" href="/images/old/6a00e008d618bb88340133f3c66477970b-800wi.jpg" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb88340133f3c66477970b" title="Vegetarian Indian Tacos (on Navajo fry bread)" src="/images/old/6a00e008d618bb88340133f3c66477970b-500wi.jpg" alt="Navajo Tacos" /></a>
+<a style="display: inline;" href="/images/old/6a00e008d618bb88340133f3c66477970b-800wi.webp" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb88340133f3c66477970b" title="Vegetarian Indian Tacos (on Navajo fry bread)" src="/images/old/6a00e008d618bb88340133f3c66477970b-500wi.webp" alt="Navajo Tacos" /></a>
 <em>Vegetarian Indian Tacos (on Navajo fry bread)</em>
 
 <strong>Navajo Fry Bread</strong>, and the <strong>Indian Tacos</strong> made with it, have a sad and storied past. They originated in Native American internment camps set up by the US government in the 1860s, as a way to use the very limited rations provided. Cynthia Detteric-Pineda has an excellent page with the <a href="http://whatscookingamerica.net/History/NavajoFryBread.htm" target="_blank" rel="noopener">details of that history</a> and a recipe for the bread (which I've adapted slightly, below).

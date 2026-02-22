@@ -5,7 +5,7 @@ slug: "bibim-naegnmyeon-joll-noodles-cold-and-spicy-korean-noodles-recipe"
 categories: ["Gluten-Free or modifiable", "Main Courses", "Recipes", "Vegan or Modifiable"]
 aliases: ["/bibim-naegnmyeon-joll-noodles-cold-and-spicy-korean-noodles-recipe/", "/2012/05/bibim-naegnmyeon-joll-noodles-cold-and-spicy-korean-noodles-recipe.html"]
 cover:
-  image: "/images/2012/05/Joll-Noodles-612x415.jpg"
+  image: "/images/2012/05/Joll-Noodles-612x415.webp"
   hidden: true
 recipe:
   name: "Jjolmyon or Bibim Naengmyeon"
@@ -21,7 +21,7 @@ recipe:
     - "In a small bowl, whisk together half of the kochujang and all of the mirin, rice vinegar, salt, and ginger. Whisk in enough ice cold water to reach a thin sauce consistency. Taste and adjust seasoning, adding the rest of the kochujang depending on your heat preference. Refrigerate, or if you want to serve soon, place in the freezer."
 ---
 
-<a href="/images/2012/05/Joll-Noodles.jpg"><img class="alignnone size-large wp-image-1917" title="Bibim Naengmyeon (Cold Korean Noodles)" alt="" src="/images/2012/05/Joll-Noodles-612x415.jpg" width="612" height="415" /></a>
+<a href="/images/2012/05/Joll-Noodles.webp"><img class="alignnone size-large wp-image-1917" title="Bibim Naengmyeon (Cold Korean Noodles)" alt="" src="/images/2012/05/Joll-Noodles-612x415.webp" width="612" height="415" /></a>
 
 Cold. <strong>Not cool</strong>. Cold, cold, cold. <strong>Ice cold</strong>. That's what makes these noodles great.
 

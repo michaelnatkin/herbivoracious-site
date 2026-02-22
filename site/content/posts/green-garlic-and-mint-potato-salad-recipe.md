@@ -5,7 +5,7 @@ slug: "green-garlic-and-mint-potato-salad-recipe"
 categories: ["Gluten-Free or modifiable", "Recipes", "Side Dishes", "Vegan or Modifiable"]
 aliases: ["/green-garlic-and-mint-potato-salad-recipe/", "/2012/06/green-garlic-and-mint-potato-salad-recipe.html"]
 cover:
-  image: "/images/2012/06/Green-Garlic-and-Mint-Potato-Salad-626x415.jpg"
+  image: "/images/2012/06/Green-Garlic-and-Mint-Potato-Salad-626x415.webp"
   hidden: true
 recipe:
   name: "Green Garlic and Mint Potato Salad"
@@ -30,7 +30,7 @@ recipe:
     - "Just before serving, thinly slice the mint and mix it into the potatoes."
 ---
 
-<a href="/images/2012/06/Green-Garlic-and-Mint-Potato-Salad.jpg"><img class="alignnone size-large wp-image-2072" title="Green Garlic and Mint Potato Salad" src="/images/2012/06/Green-Garlic-and-Mint-Potato-Salad-626x415.jpg" alt="Green Garlic and Mint Potato Salad" width="626" height="415" />
+<a href="/images/2012/06/Green-Garlic-and-Mint-Potato-Salad.webp"><img class="alignnone size-large wp-image-2072" title="Green Garlic and Mint Potato Salad" src="/images/2012/06/Green-Garlic-and-Mint-Potato-Salad-626x415.webp" alt="Green Garlic and Mint Potato Salad" width="626" height="415" />
 </a><em>Green Garlic and Mint Potato Salad</em>
 
 Green garlic is one of those wonderful farmer's market ingredients. At least in my neck of the woods, you don't often see it at grocery stores, but it is as at every market in the early summer months, where it overlaps with last year's storage potatoes. Green garlic is simply the shoot of an immature garlic plant. The kind I like to buy <strong>looks like oversized scallions</strong>, and it can be used in similar ways. The flavor, however, is distinctly of garlic, not onion.

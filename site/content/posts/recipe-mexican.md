@@ -5,7 +5,7 @@ slug: "recipe-mexican"
 categories: ["Breakfast", "Recipes"]
 aliases: ["/recipe-mexican/", "/2008/02/recipe-mexican.html"]
 cover:
-  image: "/images/2008-small/02/10/mexicanmatzobrei.jpg"
+  image: "/images/2008-small/02/10/mexicanmatzobrei.webp"
   hidden: true
 recipe:
   name: "Mexican Matzo Brei or Jewish Chilaquiles"
@@ -24,7 +24,7 @@ recipe:
     - "Serve with your favorite hot sauce. I've been enjoying Bullard's Louisana Habanero lately."
 ---
 
-<span style="font-size: 0.8em;"><a href="/images/2008/02/10/mexicanmatzobrei.jpg" rel="lightbox"><img title="Mexicanmatzobrei" src="/images/2008-small/02/10/mexicanmatzobrei.jpg" alt="Mexicanmatzobrei" width="455" height="302" border="0" /></a>
+<span style="font-size: 0.8em;"><a href="/images/2008/02/10/mexicanmatzobrei.webp" rel="lightbox"><img title="Mexicanmatzobrei" src="/images/2008-small/02/10/mexicanmatzobrei.webp" alt="Mexicanmatzobrei" width="455" height="302" border="0" /></a>
 Mexican Matzo Brei or Jewish Chilaquiles</span>
 
 Matzo Brei is a classic Jewish egg dish, often eaten during Passover when leavened bread is forbidden. (Matza can also be spelled Matzo, Matzoh, or Matzah). Everyone has their own preferred technique. Some like to soak the matza in water first and the drain it, some soak it in the egg like French toast. Some break it up large and some small. Some fry it up like an omelette in a solid cake and others break it up like scrambled eggs.

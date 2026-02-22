@@ -5,7 +5,7 @@ slug: "five-minute-ind"
 categories: ["Favorites", "Gluten-Free or modifiable", "Recipes", "Side Dishes", "Vegan or Modifiable"]
 aliases: ["/five-minute-ind/", "/2008/10/five-minute-ind.html"]
 cover:
-  image: "/images/2008-small/10/03/indian_cabbage.jpg"
+  image: "/images/2008-small/10/03/indian_cabbage.webp"
   hidden: true
 recipe:
   name: "Five-Minute Indian-style Cabbage"
@@ -27,7 +27,7 @@ recipe:
     - "Garnish with cilantro and/or lemon juice."
 ---
 
-<a href="/images/2008/10/03/indian_cabbage.jpg" rel="lightbox"><img title="Five-minute Indian-style cabbage" src="/images/2008-small/10/03/indian_cabbage.jpg" alt="Indian_cabbage" width="455" height="302" border="0" /></a>
+<a href="/images/2008/10/03/indian_cabbage.webp" rel="lightbox"><img title="Five-minute Indian-style cabbage" src="/images/2008-small/10/03/indian_cabbage.webp" alt="Indian_cabbage" width="455" height="302" border="0" /></a>
 <span style="font-size: 0.8em;">Indian-style cabbage you can make in 5 minutes</span>
 
 This cabbage side dish is great to have in your arsenal, because it comes together in 5 minutes flat, and makes a big and flavorful addition to an Indian meal. I break out some variation of it when I'm making a curry, rice and raita and feel the need for one more dish to round out the meal.

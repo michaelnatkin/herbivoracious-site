@@ -5,7 +5,7 @@ slug: "sicilian-spaghetti-with-pan-roasted-cauliflower-recipe-from-my-cookbook"
 categories: ["Cookbook Project", "Favorites", "Main Courses", "Recipes", "Vegan or Modifiable"]
 aliases: ["/sicilian-spaghetti-with-pan-roasted-cauliflower-recipe-from-my-cookbook/", "/2012/02/sicilian-spaghetti-with-pan-roasted-cauliflower-recipe-from-my-cookbook.html"]
 cover:
-  image: "/images/2012/02/Sicilian-Spaghetti-with-Pan-Roasted-Cauliflower-626x415.jpg"
+  image: "/images/2012/02/Sicilian-Spaghetti-with-Pan-Roasted-Cauliflower-626x415.webp"
   hidden: true
 recipe:
   name: "Sicilian Spaghetti with Pan-Roasted Cauliflower"
@@ -34,7 +34,7 @@ recipe:
     - "To serve, divide the pasta among four bowls. The cauliflower will not mix in well, so you will probably need to distribute it with tongs. Garnish with a drizzle of extra-virgin olive oil, the remaining orange zest, the pine nuts, fresh ground black pepper, parsley, and freshly grated Parmesan cheese."
 ---
 
-<a href="/images/2012/02/Sicilian-Spaghetti-with-Pan-Roasted-Cauliflower.jpg"><img class="alignnone size-large wp-image-1387" title="Sicilian Spaghetti with Pan Roasted Cauliflower" src="/images/2012/02/Sicilian-Spaghetti-with-Pan-Roasted-Cauliflower-626x415.jpg" alt="" width="626" height="415" />
+<a href="/images/2012/02/Sicilian-Spaghetti-with-Pan-Roasted-Cauliflower.webp"><img class="alignnone size-large wp-image-1387" title="Sicilian Spaghetti with Pan Roasted Cauliflower" src="/images/2012/02/Sicilian-Spaghetti-with-Pan-Roasted-Cauliflower-626x415.webp" alt="" width="626" height="415" />
 </a><em>Sicilian Spaghetti with Pan-Roasted Cauliflower</em>
 
 <em>Here's one of my favorite recipes from my <a title="Herbivoracious Cookbook" href="/2012/01/so-what-is-going-on-with-your-cookbook-and-other-life-changing-news/" target="_blank">upcoming cookbook</a>. It is a good one for this time of the year, when spring vegetables haven't started to show up in much of the country, but good cauliflower is widely available.</em>

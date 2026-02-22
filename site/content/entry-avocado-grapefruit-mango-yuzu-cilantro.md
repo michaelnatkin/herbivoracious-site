@@ -4,7 +4,7 @@ date: 2010-05-07T20:08:30
 slug: "entry-avocado-grapefruit-mango-yuzu-cilantro"
 ---
 
-<a style="display: inline;" href="/images/old/6a00e008d618bb88340133ec3a7bf3970b-800wi.jpg" rel="lightbox"><img class="asset asset-image at-xid-6a00e008d618bb88340133ec3a7bf3970b " src="/images/old/6a00e008d618bb88340133ec3a7bf3970b-500wi.jpg" alt="Avocado_Grapefruit_Tartare" /></a>
+<a style="display: inline;" href="/images/old/6a00e008d618bb88340133ec3a7bf3970b-800wi.webp" rel="lightbox"><img class="asset asset-image at-xid-6a00e008d618bb88340133ec3a7bf3970b " src="/images/old/6a00e008d618bb88340133ec3a7bf3970b-500wi.webp" alt="Avocado_Grapefruit_Tartare" /></a>
 <em>Avocado with grapefruit tartare</em>
 
 Apparently these are among my favorite ingredients for late-night culinary experiments, probably because there is so much that can be done with them raw. By playing with different cuts, you can achieve suprising and pleasing textures. The flavors are so automatically compatible, it is hard to do anything wrong.

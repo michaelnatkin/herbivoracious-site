@@ -5,7 +5,7 @@ slug: "making-your-own-kimchi-recipe"
 categories: ["Gluten-Free or modifiable", "Recipes", "Sauces and Condiments", "Vegan or Modifiable"]
 aliases: ["/making-your-own-kimchi-recipe/", "/2013/05/making-your-own-kimchi-recipe.html"]
 cover:
-  image: "/images/2013/05/Homemade-Kimchi1-626x415.jpg"
+  image: "/images/2013/05/Homemade-Kimchi1-626x415.webp"
   hidden: true
 recipe:
   name: "Homemade Kimchi"
@@ -31,7 +31,7 @@ recipe:
     - "Place the cabbage in a very clean container, packing it down tightly. Cover, but allow a little airflow. (Nick rigged up an airlock on a cambro, pretty fancy!). Don't put on a tight lid or it will get blown off by CO2. Store in a cool, dark place. Taste and toss daily. Depending on temperature, it will start to develop a pleasing acidity. When it is ripe to your taste (which could be anywhere from 3 days up to a couple of weeks), transfer to clean jars and refrigerate to maximize its life."
 ---
 
-<a href="/images/2013/05/Homemade-Kimchi1.jpg"><img class="alignnone size-large wp-image-3763" alt="Homemade Kimchi" src="/images/2013/05/Homemade-Kimchi1-626x415.jpg" width="626" height="415" /></a>
+<a href="/images/2013/05/Homemade-Kimchi1.webp"><img class="alignnone size-large wp-image-3763" alt="Homemade Kimchi" src="/images/2013/05/Homemade-Kimchi1-626x415.webp" width="626" height="415" /></a>
 <em>Homemade Vegetarian Won Bok Kimchi</em>
 
 I've resisted making my own fermented foods for, well, decades at this point. I'm not sure exactly why - maybe a little fear that they might not be safe, or that the smell would be overpowering, or just a lack of patience to wait for them to mature. But lately I've fallen more and more in love with fermented vegetables in particular, and I finally took the plunge with this kimchi. One of my coworkers at <a href="http://chefsteps.com">ChefSteps</a>, development chef Nick Gavin, was psyched to work on it too, so we made a rather enormous 10-liter batch last week and it is happily fermenting away in the back of our office space. Yes, I'm tasting it every day.

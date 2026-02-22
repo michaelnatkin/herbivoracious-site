@@ -5,7 +5,7 @@ slug: "irish-soda-bread-recipe"
 categories: ["Baking", "Breakfast", "Kid Friendly", "Recipes", "Side Dishes"]
 aliases: ["/irish-soda-bread-recipe/", "/2008/11/irish-soda-bread-recipe.html"]
 cover:
-  image: "/images/old/6a00e008d618bb8834010535dc7ab4970b-500wi.jpg"
+  image: "/images/old/6a00e008d618bb8834010535dc7ab4970b-500wi.webp"
   hidden: true
 recipe:
   name: "Irish Soda Bread"
@@ -29,7 +29,7 @@ recipe:
     - "Allow to cool for a few minutes, and serve with swaths of sweet cream butter."
 ---
 
-<a style="display: inline;" href="/images/old/6a00e008d618bb8834010535dc7ab4970b-800wi.jpg" rel="lightbox"><img class="at-xid-6a00e008d618bb8834010535dc7ab4970b "  src="/images/old/6a00e008d618bb8834010535dc7ab4970b-500wi.jpg" alt="Irish Soda Bread" /></a>
+<a style="display: inline;" href="/images/old/6a00e008d618bb8834010535dc7ab4970b-800wi.webp" rel="lightbox"><img class="at-xid-6a00e008d618bb8834010535dc7ab4970b "  src="/images/old/6a00e008d618bb8834010535dc7ab4970b-500wi.webp" alt="Irish Soda Bread" /></a>
 <span style="font-size: 10px; font-family: Arial;">Irish Soda Bread </span>
 
 <strong>Irish soda bread</strong> is great to have in your arsenal. It it is leavened with baking soda and buttermilk instead of yeast, so you can go from conception to hot bread on the table in under an hour, with only a few minutes of active work. It adapts beautifully to being made with half whole wheat flour to boost the nutritional value, and it is fun to make with <strong>kids</strong>. You can add raisins or currants or caraway seeds, or just leave it plain, to suit your mood or menu.

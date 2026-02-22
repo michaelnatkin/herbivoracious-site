@@ -5,11 +5,11 @@ slug: "vegetarian-thanksgiving-recipes-2012"
 categories: ["Events", "Miscellany", "Recipes"]
 aliases: ["/vegetarian-thanksgiving-recipes-2012/", "/2012/11/vegetarian-thanksgiving-recipes-2012.html"]
 cover:
-  image: "/images/2012/12/6a00e008d618bb88340134828a761a970c-800wi-626x415.jpeg"
+  image: "/images/2012/12/6a00e008d618bb88340134828a761a970c-800wi-626x415.webp"
   hidden: true
 ---
 
-<img class="size-large wp-image-3381 alignnone" title="Crisp Polenta Cakes with Braised Cabbage and Beans" src="/images/2012/12/6a00e008d618bb88340134828a761a970c-800wi-626x415.jpeg" alt="Crisp Polenta Cakes with Braised Cabbage and Beans" width="626" height="415" />
+<img class="size-large wp-image-3381 alignnone" title="Crisp Polenta Cakes with Braised Cabbage and Beans" src="/images/2012/12/6a00e008d618bb88340134828a761a970c-800wi-626x415.webp" alt="Crisp Polenta Cakes with Braised Cabbage and Beans" width="626" height="415" />
 
 The $64,000 question for Thanksgiving with vegetarians is what to do about the main course. There are two schools of thought:
 <ol>

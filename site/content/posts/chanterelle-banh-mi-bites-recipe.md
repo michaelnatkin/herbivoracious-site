@@ -6,7 +6,7 @@ description: "Bánh mì  are Vietnamese sandwiches that have taken the West Coas
 categories: ["Recipes", "Appetizers", "Vegan or Modifiable"]
 aliases: ["/chanterelle-banh-mi-bites-recipe/", "/2011/05/chanterelle-banh-mi-bites-recipe.html"]
 cover:
-  image: "/images/cookbook/chanterelle-bnh-mi-bites.jpg"
+  image: "/images/cookbook/chanterelle-bnh-mi-bites.webp"
   hidden: true
 recipe:
   name: "Chanterelle Bánh Mi Bites"
@@ -40,14 +40,14 @@ recipe:
     - "Gather all of your ingredients. (There are a lot of things to put on each crostini, so it will be more efficient if you first do all of the mayo, then all of the daikon and so forth._"
     - "Spread each piece of baguette with 1 teaspoon of the seasoned mayonnaise. Top with 1 slice of the pickled daikon and 1 slice of cucumber, followed by a few pickled carrots. Top that with 1 mushroom, a sprig of cilantro, a slice of jalapeno, and a few flakes of sea salt and serve immediately."
 ---
-<a href="/images/cookbook/chanterelle-bnh-mi-bites.jpg"><img src="/images/cookbook/chanterelle-bnh-mi-bites.jpg" alt="Chanterelle Bánh Mi Bites" /></a>
+<a href="/images/cookbook/chanterelle-bnh-mi-bites.webp"><img src="/images/cookbook/chanterelle-bnh-mi-bites.webp" alt="Chanterelle Bánh Mi Bites" /></a>
 
 
 <p>Bánh mì  are Vietnamese sandwiches that have taken the West Coast by storm. They are served on a crusty baguette, spread with a little mayo and stuffed with pickled vegetables and a filling of your choice. Tofu is usually on the menu, though vegetarians still have to watch out for fish sauce.</p>
 <p>I’ve adapted the traditional bánh mì into a little two-bite crostini that makes a great appetizer. It will really wake up your palate with bright flavors and crunchy textures. If you can’t find chanterelle or other wild mushrooms, a thin slab of well-fried tofu would also be delicious, or you could use portobello mushrooms, cut into pieces that will sit nicely atop your baguette slices.</p>
 
 
-<a href="/images/cookbook/chanterelle-bnh-mi-bites-2.jpg"><img src="/images/cookbook/chanterelle-bnh-mi-bites-2.jpg" alt="Chanterelle Bánh Mi Bites" /></a>
+<a href="/images/cookbook/chanterelle-bnh-mi-bites-2.webp"><img src="/images/cookbook/chanterelle-bnh-mi-bites-2.webp" alt="Chanterelle Bánh Mi Bites" /></a>
 
 <div class="recipe-card">
 <p><strong>Chanterelle Bánh Mi Bites</strong>

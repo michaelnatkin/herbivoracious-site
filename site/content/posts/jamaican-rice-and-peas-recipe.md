@@ -6,7 +6,7 @@ description: "Rice and Peas is a classic Jamaican dish, traditionally served on 
 categories: ["Recipes", "Side Dishes", "Vegan or Modifiable", "Gluten-Free"]
 aliases: ["/jamaican-rice-and-peas-recipe/", "/2012/02/jamaican-rice-and-peas-recipe.html"]
 cover:
-  image: "/images/cookbook/jamaican-rice-and-peas.jpg"
+  image: "/images/cookbook/jamaican-rice-and-peas.webp"
   hidden: true
 recipe:
   name: "Jamaican Rice and Peas"
@@ -27,7 +27,7 @@ recipe:
     - "If using the rice cooker, turn on and run a normal cycle. If using the stove, bring to a boil, cover, and reduce to a bare simmer, then cook until all of the water is absorbed."
     - "To serve, remove the whole green onions, thyme sprigs, and chile if using. Fluff the rice and turn out into a bowl. Garnish with the remaining green onion, finely sliced, and serve immediately."
 ---
-<a href="/images/cookbook/jamaican-rice-and-peas.jpg"><img src="/images/cookbook/jamaican-rice-and-peas.jpg" alt="Jamaican Rice and Peas" /></a>
+<a href="/images/cookbook/jamaican-rice-and-peas.webp"><img src="/images/cookbook/jamaican-rice-and-peas.webp" alt="Jamaican Rice and Peas" /></a>
 
 
 <p>Rice and Peas is a classic Jamaican dish, traditionally served on Sundays. Peas in this case actually refer to kidney beans, pigeon peas or cowpeas. The rice is richly flavored with coconut milk, garlic, crushed green onions, thyme, and, if you dare, a Scotch Bonnet or habanero pepper.</p>
@@ -36,9 +36,9 @@ recipe:
 <p>If you make the beans from scratch, you can substitute 1 cup of the bean liquid for part of the water in the recipe for a “dirty rice” look with a slightly earthier flavor.</p>
 
 
-<a href="/images/cookbook/jamaican-rice-and-peas-2.jpg"><img src="/images/cookbook/jamaican-rice-and-peas-2.jpg" alt="Jamaican Rice and Peas" /></a>
+<a href="/images/cookbook/jamaican-rice-and-peas-2.webp"><img src="/images/cookbook/jamaican-rice-and-peas-2.webp" alt="Jamaican Rice and Peas" /></a>
 
-<a href="/images/cookbook/jamaican-rice-and-peas-3.jpg"><img src="/images/cookbook/jamaican-rice-and-peas-3.jpg" alt="Jamaican Rice and Peas" /></a>
+<a href="/images/cookbook/jamaican-rice-and-peas-3.webp"><img src="/images/cookbook/jamaican-rice-and-peas-3.webp" alt="Jamaican Rice and Peas" /></a>
 
 <div class="recipe-card">
 <p><strong>Jamaican Rice and Peas</strong>

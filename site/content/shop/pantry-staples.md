@@ -5,6 +5,6 @@ type: "shop"
 params:
   category_slug: "pantry-staples"
   description: "Salt, canned tomatoes, panko, broth, and dried mushrooms"
-  image: "/images/shop/pantry-staples.jpg"
+  image: "/images/shop/pantry-staples.webp"
   product_count: 61
 ---

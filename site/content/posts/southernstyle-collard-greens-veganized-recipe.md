@@ -5,7 +5,7 @@ slug: "southernstyle-collard-greens-veganized-recipe"
 categories: ["Gluten-Free or modifiable", "Recipes", "Side Dishes", "Vegan or Modifiable"]
 aliases: ["/southernstyle-collard-greens-veganized-recipe/", "/2009/10/southernstyle-collard-greens-veganized-recipe.html"]
 cover:
-  image: "/images/old/6a00e008d618bb88340120a5c2c43b970b-500wi.jpg"
+  image: "/images/old/6a00e008d618bb88340120a5c2c43b970b-500wi.webp"
   hidden: true
 recipe:
   name: "Southern-Style Collard Greens, Veganized"
@@ -26,7 +26,7 @@ recipe:
     - "When the greens are fully cooked, remove the lid and cook off the water. Taste and adjust the seasonings; they will probably want more salt or soy sauce, and maybe more of the smoked paprika."
 ---
 
-<a style="display: inline;" href="/images/old/6a00e008d618bb88340120a5c2c43b970b-800wi.jpg" rel="lightbox"><img class="asset asset-image at-xid-6a00e008d618bb88340120a5c2c43b970b " src="/images/old/6a00e008d618bb88340120a5c2c43b970b-500wi.jpg" alt="CollardGreens" /></a>
+<a style="display: inline;" href="/images/old/6a00e008d618bb88340120a5c2c43b970b-800wi.webp" rel="lightbox"><img class="asset asset-image at-xid-6a00e008d618bb88340120a5c2c43b970b " src="/images/old/6a00e008d618bb88340120a5c2c43b970b-500wi.webp" alt="CollardGreens" /></a>
 <em>Veganized Southern-Style Collard Greens</em>
 
 So my brother and sister-in-law were browsing their farmer's market in Greensboro, North Carolina a few years ago when they spotted a pile of unfamiliar leafy greens. They asked the farmer how to prepare them, and her answer was simple: "well, you just <strong>boil them three</strong> times. Just like you would with any other <strong>salad</strong>."

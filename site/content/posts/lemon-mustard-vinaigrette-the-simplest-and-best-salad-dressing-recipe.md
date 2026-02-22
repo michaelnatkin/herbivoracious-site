@@ -6,7 +6,7 @@ description: "Recipe for the easiest and most delicious salad dressing in the wo
 categories: ["Favorites", "Recipes", "Salads"]
 aliases: ["/lemon-mustard-vinaigrette-the-simplest-and-best-salad-dressing-recipe/", "/2009/05/lemon-mustard-vinaigrette-the-simplest-and-best-salad-dressing-recipe.html"]
 cover:
-  image: "/images/old/6a00e008d618bb8834011570985d44970b-500wi.jpg"
+  image: "/images/old/6a00e008d618bb8834011570985d44970b-500wi.webp"
   hidden: true
 recipe:
   name: "Lemon-Mustard Vinaigrette – The Simplest and Best Salad Dressing – Recipe"
@@ -21,7 +21,7 @@ recipe:
     - "Taste and adjust the salt, and add more lemon juice or olive oil to achieve a pleasing balance of acidity."
 ---
 
-<a style="display: inline;" href="/images/old/6a00e008d618bb8834011570985d44970b-800wi.jpg" rel="lightbox"><img class="at-xid-6a00e008d618bb8834011570985d44970b " alt="Lemon_Mustard_Vinaigrette" src="/images/old/6a00e008d618bb8834011570985d44970b-500wi.jpg" /></a>
+<a style="display: inline;" href="/images/old/6a00e008d618bb8834011570985d44970b-800wi.webp" rel="lightbox"><img class="at-xid-6a00e008d618bb8834011570985d44970b " alt="Lemon_Mustard_Vinaigrette" src="/images/old/6a00e008d618bb8834011570985d44970b-500wi.webp" /></a>
 <em>Salad greens with lemon-mustard vinaigrette</em>
 
 I've never understood why people buy salad dressing, when an infinitely more delicious, fresher, healthier homemade vinaigrette is only 30 seconds away.

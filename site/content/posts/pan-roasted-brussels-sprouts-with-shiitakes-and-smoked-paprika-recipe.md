@@ -5,7 +5,7 @@ slug: "pan-roasted-brussels-sprouts-with-shiitakes-and-smoked-paprika-recipe"
 categories: ["Gluten-Free or modifiable", "Recipes", "Side Dishes", "Vegan or Modifiable"]
 aliases: ["/pan-roasted-brussels-sprouts-with-shiitakes-and-smoked-paprika-recipe/", "/2012/01/pan-roasted-brussels-sprouts-with-shiitakes-and-smoked-paprika-recipe.html"]
 cover:
-  image: "/images/2011/12/Pan-Roasted-Brussels-Sprouts-with-Shiitakes-and-Smoked-Paprika-626x415.jpg"
+  image: "/images/2011/12/Pan-Roasted-Brussels-Sprouts-with-Shiitakes-and-Smoked-Paprika-626x415.webp"
   hidden: true
 recipe:
   name: "Pan Roasted Brussels Sprouts with Shiitakes and Smoked Paprika"
@@ -24,7 +24,7 @@ recipe:
     - "Add the smoked paprika, 1/2 teaspoon of Kosher salt and the reserved shiitakes. Toss, then taste and adjust seasoning. Transfer to a serving platter, finish with black pepper and a few grains of flaky salt and serve."
 ---
 
-<a href="/images/2011/12/Pan-Roasted-Brussels-Sprouts-with-Shiitakes-and-Smoked-Paprika.jpg"><img class="alignnone size-large wp-image-911" title="Pan Roasted Brussels Sprouts with Shiitakes and Smoked Paprika" src="/images/2011/12/Pan-Roasted-Brussels-Sprouts-with-Shiitakes-and-Smoked-Paprika-626x415.jpg" alt="Pan Roasted Brussels Sprouts with Shiitakes and Smoked Paprika" width="626" height="415" /></a>
+<a href="/images/2011/12/Pan-Roasted-Brussels-Sprouts-with-Shiitakes-and-Smoked-Paprika.webp"><img class="alignnone size-large wp-image-911" title="Pan Roasted Brussels Sprouts with Shiitakes and Smoked Paprika" src="/images/2011/12/Pan-Roasted-Brussels-Sprouts-with-Shiitakes-and-Smoked-Paprika-626x415.webp" alt="Pan Roasted Brussels Sprouts with Shiitakes and Smoked Paprika" width="626" height="415" /></a>
 <em>Pan Roasted Brussels Sprouts with Shiitakes and Smoked Paprika</em>
 
 Brussels sprouts are oddly fashionable these past couple of years. They have two things going for them:

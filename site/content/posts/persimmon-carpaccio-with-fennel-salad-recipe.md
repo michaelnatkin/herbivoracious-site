@@ -5,7 +5,7 @@ slug: "persimmon-carpaccio-with-fennel-salad-recipe"
 categories: ["Appetizers", "Gluten-Free or modifiable", "Recipes", "Salads", "Vegan or Modifiable"]
 aliases: ["/persimmon-carpaccio-with-fennel-salad-recipe/", "/2011/12/persimmon-carpaccio-with-fennel-salad-recipe.html"]
 cover:
-  image: "/images/2011/12/Persimmon-Carpaccio-626x415.jpg"
+  image: "/images/2011/12/Persimmon-Carpaccio-626x415.webp"
   hidden: true
 recipe:
   name: "Persimmon Carpaccio with Fennel Salad"
@@ -25,7 +25,7 @@ recipe:
     - "Arrange 7 persimmon slices in a circle on each plate. Top with 1/4 of the salad, keeping it centered and as tall as possible on top of the persimmons. Garnish with a few of the reserved fennel fronds and the pepitas and serve."
 ---
 
-<a href="/images/2011/12/Persimmon-Carpaccio.jpg"><img class="alignnone size-large wp-image-859" title="Persimmon Carpaccio with Fennel Salad and Pepitas" src="/images/2011/12/Persimmon-Carpaccio-626x415.jpg" alt="" width="626" height="415" /></a>
+<a href="/images/2011/12/Persimmon-Carpaccio.webp"><img class="alignnone size-large wp-image-859" title="Persimmon Carpaccio with Fennel Salad and Pepitas" src="/images/2011/12/Persimmon-Carpaccio-626x415.webp" alt="" width="626" height="415" /></a>
 <em>Persimmon Carpaccio with Fennel Salad</em>
 
 Persimmons are in season right now, and I love them. For those of you not intimately familiar with this fruit, the most important thing to know is that there are two general types: fuyu persimmons (which I use in this salad) are short and squat, resembling an orange tomato. They are eaten while still firm.

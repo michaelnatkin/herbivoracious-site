@@ -4,7 +4,7 @@ date: 2012-11-02T15:23:08
 slug: "my-favorite-citrus-juicer"
 ---
 
-<img src="/images/2012/10/Citrus-Juicer-626x415.jpg" alt="" title="Citrus Juicer" width="626" height="415" class="alignnone size-large wp-image-3306" />
+<img src="/images/2012/10/Citrus-Juicer-626x415.webp" alt="" title="Citrus Juicer" width="626" height="415" class="alignnone size-large wp-image-3306" />
 
 I use a lot of lemon and lime juice in my cooking, so I've tried quite a few ways to get that juice over the years. I've tried wooden reamers (ugh, my hand is covered in juice!), one-piece counter models (rarely strain well), and electrics (only really worthwhile if you need to do dozens of lemons at a time). For my money, this simple citrus squeezer is the way to go.
 

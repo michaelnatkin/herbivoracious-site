@@ -5,7 +5,7 @@ slug: "caviar-lentil-salad-with-arugula-crispy-shallots-and-roasted-garlic-recip
 categories: ["Recipes", "Salads", "Vegan or Modifiable"]
 aliases: ["/caviar-lentil-salad-with-arugula-crispy-shallots-and-roasted-garlic-recipe/", "/2012/09/caviar-lentil-salad-with-arugula-crispy-shallots-and-roasted-garlic-recipe.html"]
 cover:
-  image: "/images/2012/09/Black-Lentils-with-Arugula-and-Crispy-Shallots-626x415.jpg"
+  image: "/images/2012/09/Black-Lentils-with-Arugula-and-Crispy-Shallots-626x415.webp"
   hidden: true
 recipe:
   name: "\"Caviar\" Lentil Salad with Arugula, Crispy Shallots and Roasted Garlic"
@@ -31,7 +31,7 @@ recipe:
     - "To serve: toast the bread and spread each piece with a generous portion of the roasted garlic. Divide the (room temperature) lentils among 4 serving plates. Toss the arugula, cherry tomatoes and crispy shallots with the remaining dressing and pile atop the lentils. Put a piece of the bread on each plate, finish with a few flakes of sea salt and grinds of blacks pepper and serve immediately (before the arugula wilts)."
 ---
 
-<a href="/images/2012/09/Black-Lentils-with-Arugula-and-Crispy-Shallots.jpg"><img class="size-large wp-image-2700 alignnone" title="Black Lentils with Arugula and Crispy Shallots" src="/images/2012/09/Black-Lentils-with-Arugula-and-Crispy-Shallots-626x415.jpg" alt="Black Lentils with Arugula and Crispy Shallots" width="626" height="415" />
+<a href="/images/2012/09/Black-Lentils-with-Arugula-and-Crispy-Shallots.webp"><img class="size-large wp-image-2700 alignnone" title="Black Lentils with Arugula and Crispy Shallots" src="/images/2012/09/Black-Lentils-with-Arugula-and-Crispy-Shallots-626x415.webp" alt="Black Lentils with Arugula and Crispy Shallots" width="626" height="415" />
 </a><em>Black Lentils with Arugula and Crispy Shallots</em>
 
 Kim Davidson from <a href="http://www.davidsoncommodities.com/pnw-coop-specialty-foods">Pacific Northwest Farmers Cooperative</a> is doing amazing work supporting real family farms that are growing non-GMO grains, beans and lentils on the <strong>Palouse Prarie</strong>. So when he offered to send me a sample of their new crop of "caviar" lentils, grown by PNW Co-op Farmer Ambassador, <a href="http://www.davidsoncommodities.com/meet-our-pnw-co-op-farmer-ambassador" target="_blank">Jim Hermann</a>, it wasn't hard to say yes.

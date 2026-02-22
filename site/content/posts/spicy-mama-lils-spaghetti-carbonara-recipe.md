@@ -5,7 +5,7 @@ slug: "spicy-mama-lils-spaghetti-carbonara-recipe"
 categories: ["Main Courses", "Recipes"]
 aliases: ["/spicy-mama-lils-spaghetti-carbonara-recipe/", "/2011/11/spicy-mama-lils-spaghetti-carbonara-recipe.html"]
 cover:
-  image: "/images/2011/11/Mama-Lils-Carbonara-2-626x415.jpg"
+  image: "/images/2011/11/Mama-Lils-Carbonara-2-626x415.webp"
   hidden: true
 recipe:
   name: "Spicy Mama Lil's Spaghetti alla Carbonara"
@@ -27,7 +27,7 @@ recipe:
     - "Divide the pasta among the serving bowls, garnish with the toasted pine nuts and parsley and serve immediately."
 ---
 
-<a href="/images/2011/11/Mama-Lils-Carbonara-2.jpg"><img class="alignnone size-large wp-image-793" title="Vegetarian Spaghetti Carbonara with Mama Lil's Spicy Peppers" src="/images/2011/11/Mama-Lils-Carbonara-2-626x415.jpg" alt="Vegetarian Spaghetti Carbonara with Mama Lil's Spicy Peppers" width="626" height="415" /></a>
+<a href="/images/2011/11/Mama-Lils-Carbonara-2.webp"><img class="alignnone size-large wp-image-793" title="Vegetarian Spaghetti Carbonara with Mama Lil's Spicy Peppers" src="/images/2011/11/Mama-Lils-Carbonara-2-626x415.webp" alt="Vegetarian Spaghetti Carbonara with Mama Lil's Spicy Peppers" width="626" height="415" /></a>
 <em>Spicy Mama Lil's Spaghetti alla Carbonara</em>
 
 Spaghetti alla carbonara is one of those great Italian dishes that comes with <strong>multiple-choice apocryphal explanations</strong> for the name. Possibly it is in the style favored by a group of charcoal makers, or coal miners, or maybe it was named after the charcoal burner it was cooked on. In any case, the traditional version is made by frying some pig bits with garlic and chili flakes, tossing your mostly cooked pasta through that pan, and then into a bowl with beaten eggs, cheese and black pepper. The hot pasta lightly cooks the egg, turning it into a rich and creamy sauce.
@@ -36,7 +36,7 @@ I've made slapdash vegetarian versions of carbonara for years. The other night I
 
 I've since made it again, elaborating with some <strong><a href="https://www.amazon.com/dp/B074H6811H?tag=herb-hugo-20">toasted pine nuts</a> for crunch</strong>, and a shower of parsley for an herbal top note. I'm seriously obsessed... it is pretty much killing me not to jump up and make a bowl for myself right now.
 
-<a href="/images/2011/11/Mama-Lils-Carbonara-Small.jpg"><img class="alignright size-full wp-image-799" title="Mama Lils Carbonara Small" src="/images/2011/11/Mama-Lils-Carbonara-Small.jpg" alt="" width="250" height="250" /></a>If you haven't had Mama Lil's before, you are <strong>missing out big time</strong>. They are made here in Seattle and therefore widely available, but outside of Seattle you may be able to find them at Whole Foods, or you can pick them up <a href="http://www.amazon.com/dp/B001L106KQ/?tag=poeticlicen07-20" target="_blank">on Amazon</a>. The version I linked to is the mildly spicy version, which is actually quite hot when cooked. They also make a "kick butt" version that is more than I could personally handle in this dish.
+<a href="/images/2011/11/Mama-Lils-Carbonara-Small.webp"><img class="alignright size-full wp-image-799" title="Mama Lils Carbonara Small" src="/images/2011/11/Mama-Lils-Carbonara-Small.webp" alt="" width="250" height="250" /></a>If you haven't had Mama Lil's before, you are <strong>missing out big time</strong>. They are made here in Seattle and therefore widely available, but outside of Seattle you may be able to find them at Whole Foods, or you can pick them up <a href="http://www.amazon.com/dp/B001L106KQ/?tag=poeticlicen07-20" target="_blank">on Amazon</a>. The version I linked to is the mildly spicy version, which is actually quite hot when cooked. They also make a "kick butt" version that is more than I could personally handle in this dish.
 
 The critical move in making creamy carbonara comes when you dump the pasta into the eggs. You must be ready with your tongs and really go at the mixing, otherwise the eggs will scramble. There is no need to be scared of this step, it is easy to do right as long as you have everything prepared.
 

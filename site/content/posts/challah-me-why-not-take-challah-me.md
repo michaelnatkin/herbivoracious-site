@@ -5,11 +5,11 @@ slug: "challah-me-why-not-take-challah-me"
 categories: ["Baking", "Kid Friendly", "Recipes"]
 aliases: ["/challah-me-why-not-take-challah-me/", "/2008/12/challah-me-why-not-take-challah-me.html"]
 cover:
-  image: "/images/old/6a00e008d618bb88340105368db6a7970b-500wi.jpg"
+  image: "/images/old/6a00e008d618bb88340105368db6a7970b-500wi.webp"
   hidden: true
 ---
 
-<a style="display: inline;" href="/images/old/6a00e008d618bb88340105368db6a7970b-800wi.jpg" rel="lightbox"><img class="at-xid-6a00e008d618bb88340105368db6a7970b "  src="/images/old/6a00e008d618bb88340105368db6a7970b-500wi.jpg" alt="Challah" /></a>
+<a style="display: inline;" href="/images/old/6a00e008d618bb88340105368db6a7970b-800wi.webp" rel="lightbox"><img class="at-xid-6a00e008d618bb88340105368db6a7970b "  src="/images/old/6a00e008d618bb88340105368db6a7970b-500wi.webp" alt="Challah" /></a>
 <span style="font-size: 12px; font-family: Arial;">Cleverly braided challah</span>
 
 The year draws towards a close with lots of family coming and going, and <strong>Hannukah</strong> to celebrate. There have been latkes and more to come, but I haven't baked challah in a while. The snowy streets gave us a good reason to make our own instead of buying from one of Seattle's excellent bakeries.

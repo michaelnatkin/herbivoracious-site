@@ -5,7 +5,7 @@ slug: "tomato-and-nectarine-salad-with-a-korean-dressing-recipe"
 categories: ["Gluten-Free or modifiable", "Recipes", "Salads", "Sauces and Condiments", "Vegan or Modifiable"]
 aliases: ["/tomato-and-nectarine-salad-with-a-korean-dressing-recipe/", "/2012/08/tomato-and-nectarine-salad-with-a-korean-dressing-recipe.html"]
 cover:
-  image: "/images/2012/08/Nectarine-and-Tomato-Salad-Foofy-626x415.jpg"
+  image: "/images/2012/08/Nectarine-and-Tomato-Salad-Foofy-626x415.webp"
   hidden: true
 recipe:
   name: "Tomato and Nectarine Salad with a Korean Dressing"
@@ -20,7 +20,7 @@ recipe:
     - "In a small bowl, whisk together the grapeseed oil, sesame oil, salt and gochugaru (start with the smaller amount). Whisking continuously, drizzle in the sherry vinegar. Taste and adjust seasoning."
 ---
 
-<a href="/images/2012/08/Nectarine-and-Tomato-Salad-Foofy.jpg"><img class="size-large wp-image-2630 alignnone" title="Nectarine and Tomato Salad with Korean Dressing" src="/images/2012/08/Nectarine-and-Tomato-Salad-Foofy-626x415.jpg" alt="Nectarine and Tomato Salad with Korean Dressing" width="626" height="415" />
+<a href="/images/2012/08/Nectarine-and-Tomato-Salad-Foofy.webp"><img class="size-large wp-image-2630 alignnone" title="Nectarine and Tomato Salad with Korean Dressing" src="/images/2012/08/Nectarine-and-Tomato-Salad-Foofy-626x415.webp" alt="Nectarine and Tomato Salad with Korean Dressing" width="626" height="415" />
 </a><em>Tomato and Nectarine Salad with a Korean Dressing</em>
 
 Here's a simple, delicious and surprising salad. Oh, one thing - it is <strong>only worth doing</strong> if you have spectacular heirloom tomatoes and nectarines. It will be completely tasteless and sad if you make it with hard pink tomatoes and underripe, sour nectarines. You'l be <strong>very on trend</strong> if you make it; I've seen variations of stone fruit &amp; tomato salads on a bunch of great restaurant menus lately.
@@ -29,7 +29,7 @@ Quick aside: <strong>if you live in Seattle or are planning a visit</strong>, I'
 
 Tomato season really has two halves. The first half is <strong>"don't waste my time"</strong>, and the second half <strong>"good lord that is delicious"</strong>. I like to celebrate the latter by eating as many great tomatoes as humanly possible, almost all without any cooking at all. Pairing them with fruit is an interesting way to play on the fact that tomatoes are, of course, a fruit and not a vegetable. It tends to emphasize the sweetness and complex flavors and make you not take them for granted.
 
-<img class="alignright size-full wp-image-2633" title="Nectarine and Tomato Salad Homey with Korean Dressing Family Style" src="/images/2012/08/Nectarine-and-Tomato-Salad-Homey-Small.jpg" alt="Nectarine and Tomato Salad Homey with Korean Dressing Family Style" width="250" height="166" />
+<img class="alignright size-full wp-image-2633" title="Nectarine and Tomato Salad Homey with Korean Dressing Family Style" src="/images/2012/08/Nectarine-and-Tomato-Salad-Homey-Small.webp" alt="Nectarine and Tomato Salad Homey with Korean Dressing Family Style" width="250" height="166" />
 
 The idea for this dressing was based on wanting to find a simple first course to serve before these <a href="/2012/05/bibim-naegnmyeon-joll-noodles-cold-and-spicy-korean-noodles-recipe/">icy cold Korean noodles (jjolmyeon)</a>. It uses fine <a href="https://www.amazon.com/dp/B0BZ65ZD79?tag=herb-hugo-20" target="_blank">gochugaru, a Korean chili powder</a>. The one I have is fruity/sour and not particularly spicy. <strong>Taste yours first and dial it back</strong> if it is too hot. If you don't have gochugaru, you could try ancho chili powder as a substitute, or just use a pinch of cayenne and not worry about it. But I would recommend picking up gochugaru if you can, I've fallen in love with it and will be showing you other ways to use it soon.
 

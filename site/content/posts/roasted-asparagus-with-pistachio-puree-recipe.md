@@ -5,7 +5,7 @@ slug: "roasted-asparagus-with-pistachio-puree-recipe"
 categories: ["Appetizers", "Gluten-Free or modifiable", "Kid Friendly", "Recipes", "Side Dishes", "Vegan or Modifiable"]
 aliases: ["/roasted-asparagus-with-pistachio-puree-recipe/", "/2013/04/roasted-asparagus-with-pistachio-puree-recipe.html"]
 cover:
-  image: "/images/2013/04/Asparagus-with-Pistachio-Puree-626x415.jpg"
+  image: "/images/2013/04/Asparagus-with-Pistachio-Puree-626x415.webp"
   hidden: true
 recipe:
   name: "Roasted Asparagus with Pistachio Puree – Recipe"
@@ -32,7 +32,7 @@ recipe:
     - "To serve, spoon the pistachio puree on a plate and place the asparagus on top. Garnish with the balsamic vinegar, chopped pistachios, Maldon salt and tarragon leaves."
 ---
 
-<a href="/images/2013/04/Asparagus-with-Pistachio-Puree.jpg"><img class="alignnone size-large wp-image-3704" alt="Asparagus with Pistachio Puree" src="/images/2013/04/Asparagus-with-Pistachio-Puree-626x415.jpg" width="626" height="415" /></a>
+<a href="/images/2013/04/Asparagus-with-Pistachio-Puree.webp"><img class="alignnone size-large wp-image-3704" alt="Asparagus with Pistachio Puree" src="/images/2013/04/Asparagus-with-Pistachio-Puree-626x415.webp" width="626" height="415" /></a>
 
 At <a href="http://sitkaandspruce.com/">Sitka and Spruce and Bar Sajor</a>, Matt Dillon serves quite a few salads and small plates with a base of various ridiculously good nut purees. Though really, puree isn't quite the right word. They eat more like a sort of nut-based hummus: rich, creamy, slightly fluffy, but packed full of the flavor of roasted nuts.
 

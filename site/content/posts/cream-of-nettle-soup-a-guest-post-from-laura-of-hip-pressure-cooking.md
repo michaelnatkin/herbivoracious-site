@@ -5,11 +5,11 @@ slug: "cream-of-nettle-soup-a-guest-post-from-laura-of-hip-pressure-cooking"
 categories: ["Gluten-Free or modifiable", "Soups", "Weblogs"]
 aliases: ["/cream-of-nettle-soup-a-guest-post-from-laura-of-hip-pressure-cooking/", "/2012/01/cream-of-nettle-soup-a-guest-post-from-laura-of-hip-pressure-cooking.html"]
 cover:
-  image: "/images/2012/01/nettle-soup-resized-550x415.jpg"
+  image: "/images/2012/01/nettle-soup-resized-550x415.webp"
   hidden: true
 ---
 
-<a href="/images/2012/01/nettle-soup-resized.jpg"><img class="alignnone size-large wp-image-1110" title="nettle soup resized" src="/images/2012/01/nettle-soup-resized-550x415.jpg" alt="Stinging nettle soup made in the pressure cooker" width="550" height="415" />
+<a href="/images/2012/01/nettle-soup-resized.webp"><img class="alignnone size-large wp-image-1110" title="nettle soup resized" src="/images/2012/01/nettle-soup-resized-550x415.webp" alt="Stinging nettle soup made in the pressure cooker" width="550" height="415" />
 </a><em>Cream of Stinging Nettle Soup</em>
 
 <em>Today I'm excited to bring you a guest post from Laura of <a href="http://www.hip-cooking.com/" target="_blank">Hip Pressure Cooking</a>. I've fallen in love with my pressure cooker over the past couple of years, and I've come to rely on Laura's site as the definitive resource for how to use it. She doesn't make pressure cooker recipes simply to speed things up. For her, it isn't a useful recipe unless the dish comes out as good or better than it would on the stovetop or in the oven. Laura is Italian, and you can imagine an Italian woman would take a lot of heat for suggesting that traditional foods like <a href="http://www.hip-cooking.com/2010/08/polenta-five-ways.html" target="_blank">polenta</a> can be made successfully in a non-traditional way! So you can be sure assured that her recipes don't just work, they knock it out of the park.</em>
@@ -50,7 +50,7 @@ You can use a pressure cooker to cook vegetables, fruits, dessert, grains (meat 
 <h4>Show Me!</h4>
 Though the recipe below does not require a pressure cooker - you will find that once you discover the taste and speed at which your food is ready that you won't ant to put it down.  Making this recipe "the regular no pressure way" would have you use a stock you made beforehand (instead of making it on the fly), boiling the potatoes for 30 minutes and tossing in the nettles during the last 10 minutes.
 <h4>Picking &amp; Washing Stinging Nettles</h4>
-<a href="/images/2012/01/young-old-nettles-resized.jpg"><img class="alignleft size-medium wp-image-1113" title="young old nettles resized" src="/images/2012/01/young-old-nettles-resized-264x265.jpg" alt="Stinging nettles, young and old" width="264" height="265" /></a>A web search will yield a host of bloggers picking nettles with tongs, gloves and anything possible to avoid getting stung.  The reality is that if you're getting stung, the nettle is really too old to be picked and cooked.  The soft, young nettles which have not yet bloomed will not prick you and.. if you are brave enough to stick one in your mouth they have a very strong and refreshing flavor of cucumber - just taste it though, stinging nettles are not a raw food.  There may still be some traces of "formic acid" which is the "sting" one would get from red fire ants which is destroyed during cooking.
+<a href="/images/2012/01/young-old-nettles-resized.webp"><img class="alignleft size-medium wp-image-1113" title="young old nettles resized" src="/images/2012/01/young-old-nettles-resized-264x265.webp" alt="Stinging nettles, young and old" width="264" height="265" /></a>A web search will yield a host of bloggers picking nettles with tongs, gloves and anything possible to avoid getting stung.  The reality is that if you're getting stung, the nettle is really too old to be picked and cooked.  The soft, young nettles which have not yet bloomed will not prick you and.. if you are brave enough to stick one in your mouth they have a very strong and refreshing flavor of cucumber - just taste it though, stinging nettles are not a raw food.  There may still be some traces of "formic acid" which is the "sting" one would get from red fire ants which is destroyed during cooking.
 
 The youngest pieces can be picked and the leaves and stalks can be used... though the slightly older will have slightly more woody stems that will need to be separated from the leaves.
 

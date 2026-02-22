@@ -5,7 +5,7 @@ slug: "sopes-with-plantain-and-zucchini-and-two-sauces-recipe"
 categories: ["Kid Friendly", "Main Courses", "Recipes", "Vegan or Modifiable"]
 aliases: ["/sopes-with-plantain-and-zucchini-and-two-sauces-recipe/", "/2012/02/sopes-with-plantain-and-zucchini-and-two-sauces-recipe.html"]
 cover:
-  image: "/images/2012/04/Sopes-with-Plantains-and-Two-Sauces-626x415.jpg"
+  image: "/images/2012/04/Sopes-with-Plantains-and-Two-Sauces-626x415.webp"
   hidden: true
 recipe:
   name: "Sopes with Plantain, Zucchini and Two Sauces"
@@ -21,7 +21,7 @@ recipe:
     - "Peel the garlic. Combine the chiles, garlic, tomatoes, salt, and sugar in a blender and whiz on high speed until smooth. Taste and adjust seasoning. Reserve."
 ---
 
-<a href="/images/2012/04/Sopes-with-Plantains-and-Two-Sauces.jpg"><img class="alignnone size-large wp-image-1213" title="Sopes with Plantains and Two Sauces" src="/images/2012/04/Sopes-with-Plantains-and-Two-Sauces-626x415.jpg" alt="" width="626" height="415" />
+<a href="/images/2012/04/Sopes-with-Plantains-and-Two-Sauces.webp"><img class="alignnone size-large wp-image-1213" title="Sopes with Plantains and Two Sauces" src="/images/2012/04/Sopes-with-Plantains-and-Two-Sauces-626x415.webp" alt="" width="626" height="415" />
 </a><em>Sopes with Plantain, Zucchini and Two Sauces</em>
 
 In Mexico, there are a whole class of dishes called <em>antojitos </em>that are generally thought of as street food, though they may also be offered in smaller sizes as appetizers at restaurants. Most (all?) antojitos include a corn masa component, which may be <strong>thick or thin, topped, rolled or stuff, baked or fried</strong>, and can include a wide range of toppings. Sopes are  a classic antojito made by first griddling a thick tortilla, then reshaping it to have a rim and finally shallow frying to crisp it up.

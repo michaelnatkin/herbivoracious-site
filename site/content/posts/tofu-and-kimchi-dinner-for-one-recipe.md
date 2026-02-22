@@ -6,7 +6,7 @@ description: "Recipe for a delicious nutritious vegetarian dinner for one that y
 categories: ["Gluten-Free or modifiable", "Kid Friendly", "Main Courses", "Recipes", "Vegan or Modifiable"]
 aliases: ["/tofu-and-kimchi-dinner-for-one-recipe/", "/2010/06/tofu-and-kimchi-dinner-for-one-recipe.html"]
 cover:
-  image: "/images/old/6a00e008d618bb88340134850961fb970c-500wi.jpg"
+  image: "/images/old/6a00e008d618bb88340134850961fb970c-500wi.webp"
   hidden: true
 recipe:
   name: "Tofu and Kimchi Dinner for One"
@@ -27,7 +27,7 @@ recipe:
     - "Mound the tofu into a bowl. Drizzle on a little sesame oil, and garnish heavily with the green onions and sesame seeds. Add a nice pile of kimchi and the hot sauce of your choice. I really love ssamjang because it is only moderately spicy, with a lot of flavor complexity, so you can use quite a bit of it."
 ---
 
-<a style="display: inline;" href="/images/old/6a00e008d618bb88340134850961fb970c-800wi.jpg" rel="lightbox"><img class="asset asset-image at-xid-6a00e008d618bb88340134850961fb970c " title="Vegetarian Korean tofu dinner for one" src="/images/old/6a00e008d618bb88340134850961fb970c-500wi.jpg" alt="" /></a>
+<a style="display: inline;" href="/images/old/6a00e008d618bb88340134850961fb970c-800wi.webp" rel="lightbox"><img class="asset asset-image at-xid-6a00e008d618bb88340134850961fb970c " title="Vegetarian Korean tofu dinner for one" src="/images/old/6a00e008d618bb88340134850961fb970c-500wi.webp" alt="" /></a>
 <em>Tofu, kimchi and lots of garnish - dinner for one in no time flat</em>
 
 <strong> You could be eating this in less than ten minutes and using only one pot. </strong>We had one of those nights where the kids just needed to go to bed early (know how that goes?) and I ended up making this just for myself. It took me right back to my bachelor days, when I took a lot of pleasure in making a tasty dinner for one. Much of the joy in cooking is social, but when you are the only guest, you can take advantage of cooking exactly to your own taste.

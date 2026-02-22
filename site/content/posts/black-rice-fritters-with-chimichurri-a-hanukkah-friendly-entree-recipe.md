@@ -5,7 +5,7 @@ slug: "black-rice-fritters-with-chimichurri-a-hanukkah-friendly-entree-recipe"
 categories: ["Gluten-Free or modifiable", "Main Courses", "Recipes", "Sauces and Condiments"]
 aliases: ["/black-rice-fritters-with-chimichurri-a-hanukkah-friendly-entree-recipe/", "/2012/11/black-rice-fritters-with-chimichurri-a-hanukkah-friendly-entree-recipe.html"]
 cover:
-  image: "/images/2012/11/Black-Rice-Fritters-with-Chimichurri-626x415.jpg"
+  image: "/images/2012/11/Black-Rice-Fritters-with-Chimichurri-626x415.webp"
   hidden: true
 recipe:
   name: "Hinode Black Rice Fritters with Chimichurri"
@@ -37,14 +37,14 @@ recipe:
     - "Serve hot with the chimichurri sauce on the side."
 ---
 
-<a href="/images/2012/11/Black-Rice-Fritters-with-Chimichurri.jpg"><img class="alignnone size-large wp-image-3338" title="Black Rice Fritters with Chimichurri" src="/images/2012/11/Black-Rice-Fritters-with-Chimichurri-626x415.jpg" alt="Black Rice Fritters with Chimichurri" width="626" height="415" />
+<a href="/images/2012/11/Black-Rice-Fritters-with-Chimichurri.webp"><img class="alignnone size-large wp-image-3338" title="Black Rice Fritters with Chimichurri" src="/images/2012/11/Black-Rice-Fritters-with-Chimichurri-626x415.webp" alt="Black Rice Fritters with Chimichurri" width="626" height="415" />
 </a><em>Black Rice Fritters with Chimichurri</em>
 
 It is traditional for Hanukkah to eat foods cooked in oil, but after a few days of <a href="/2008/12/latkes-crispy-for-hannukah/">killer latkes</a> and <a href="/2010/11/bunuelos-bimuelos-donuts-hanukkah-sephardic/">bunuelos</a>, I think we all feel the need to lighten things up a bit. These black rice fritters are pan fried, creating a crispy, satisfying chew, but without absorbing too much fat. The brightly flavored chimichurri (an Argentine parsley sauce) adds a bright, acidic counterpoint.
 
 I developed this recipe for Hinode, which brings in a lovely black rice from Thailand that is has a longer grain and lighter texture than the "forbidden rice" you might be familiar with. It was a neat opportunity for me to work with a brand that I like very much to go through the whole process of deciding on a recipe that uses their products, developing and testing it, and then taking the photographs.
 
-<a href="/images/2012/11/Black-Rice-Fritter-Ingredients.jpg"><img class="alignleft  wp-image-3341" title="Black Rice Fritter Ingredients" src="/images/2012/11/Black-Rice-Fritter-Ingredients-400x265.jpg" alt="" width="320" height="212" /></a>The recipe calls for <a href="https://www.amazon.com/dp/B003QI7QDM?tag=herb-hugo-20" target="_blank">smoked paprika</a>, which is one of my favorite ways to incorporate complex, smoky flavors into meatless meals. If you don't have it, you can omit it, or substitute a few pinches of plain paprika and cayenne, but I really recommend picking up the smoked Spanish kind if at all possible.
+<a href="/images/2012/11/Black-Rice-Fritter-Ingredients.webp"><img class="alignleft  wp-image-3341" title="Black Rice Fritter Ingredients" src="/images/2012/11/Black-Rice-Fritter-Ingredients-400x265.webp" alt="" width="320" height="212" /></a>The recipe calls for <a href="https://www.amazon.com/dp/B003QI7QDM?tag=herb-hugo-20" target="_blank">smoked paprika</a>, which is one of my favorite ways to incorporate complex, smoky flavors into meatless meals. If you don't have it, you can omit it, or substitute a few pinches of plain paprika and cayenne, but I really recommend picking up the smoked Spanish kind if at all possible.
 
 <br clear="both" /><div class="recipe-card">
 <strong>Hinode Black Rice Fritters with Chimichurri</strong>

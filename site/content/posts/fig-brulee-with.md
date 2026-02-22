@@ -5,11 +5,11 @@ slug: "fig-brulee-with"
 categories: ["Desserts", "Recipes", "Vegan or Modifiable"]
 aliases: ["/fig-brulee-with/", "/2007/08/fig-brulee-with.html"]
 cover:
-  image: "/images/2007-small/07/31/dsc_7461.jpg"
+  image: "/images/2007-small/07/31/dsc_7461.webp"
   hidden: true
 ---
 
-<a href="/images/2007/07/31/dsc_7461.jpg" rel="lightbox"><img title="Dsc_7461" src="/images/2007-small/07/31/dsc_7461.jpg" alt="Dsc_7461" width="455" height="302" border="0" /></a>
+<a href="/images/2007/07/31/dsc_7461.webp" rel="lightbox"><img title="Dsc_7461" src="/images/2007-small/07/31/dsc_7461.webp" alt="Dsc_7461" width="455" height="302" border="0" /></a>
 
 I have to make this every year when fresh figs appear. If you have a blowtorch, it takes all of 30 seconds, looks really cool, and tastes great. Also delicious served over vanilla ice cream.
 

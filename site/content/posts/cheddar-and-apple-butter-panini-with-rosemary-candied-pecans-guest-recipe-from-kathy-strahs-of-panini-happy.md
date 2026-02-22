@@ -5,7 +5,7 @@ slug: "cheddar-and-apple-butter-panini-with-rosemary-candied-pecans-guest-recipe
 categories: ["Recipes", "Weblogs"]
 aliases: ["/cheddar-and-apple-butter-panini-with-rosemary-candied-pecans-guest-recipe-from-kathy-strahs-of-panini-happy/", "/2011/12/cheddar-and-apple-butter-panini-with-rosemary-candied-pecans-guest-recipe-from-kathy-strahs-of-panini-happy.html"]
 cover:
-  image: "/images/2011/12/Panini-800.jpg"
+  image: "/images/2011/12/Panini-800.webp"
   hidden: true
 recipe:
   name: "Cheddar and Apple Butter Panini with Rosemary Candied Pecans"
@@ -31,7 +31,7 @@ recipe:
     - "Brush a little melted butter over the top of the sandwich and transfer it to the panini grill. Grill until the cheese is melted and the bread is toasted, 4 to 5 minutes. Slice the sandwich in half and serve it immediately."
 ---
 
-<a href="/images/2011/12/Panini-800.jpg"><img class="alignnone size-full wp-image-929" title="Panini 800" src="/images/2011/12/Panini-800.jpg" alt="" width="800" height="1200" /></a>
+<a href="/images/2011/12/Panini-800.webp"><img class="alignnone size-full wp-image-929" title="Panini 800" src="/images/2011/12/Panini-800.webp" alt="" width="800" height="1200" /></a>
 
 <em>Today's guest post is by my friend Kathy Strahs of <a href="http://paninihappy.com/" target="_blank">Panini Happy</a>. Last week, she hosted my <a href="http://paninihappy.com/spicy-caponata-panini-a-guest-post-from-michael-natkin-of-herbivoracious/" target="_blank">Spicy Caponata Panini</a>, and this week she's brought us a delicious sounding panini filled with cheddar, <a href="https://www.amazon.com/dp/B001NH57LQ?tag=herb-hugo-20">apple butter</a> and rosemary candied pecans. There are a couple of things I immediately like about this recipe. First of all, she's added the rosemary in two different ways, which is a smart way to develop complex and intense flavor. Second, the pecans add a crunchy element that makes the sandwich much more interesting. Take it away, Kathy...</em>
 

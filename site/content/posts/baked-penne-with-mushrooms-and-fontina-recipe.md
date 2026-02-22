@@ -6,7 +6,7 @@ description: "This baked penne is a nice alternative to macaroni and cheese. It 
 categories: ["Recipes", "Main Courses"]
 aliases: ["/baked-penne-with-mushrooms-and-fontina-recipe/", "/2012/10/baked-penne-with-mushrooms-and-fontina-recipe.html"]
 cover:
-  image: "/images/cookbook/baked-penne-with-mushrooms-and-fontina.jpg"
+  image: "/images/cookbook/baked-penne-with-mushrooms-and-fontina.webp"
   hidden: true
 recipe:
   name: "Baked Penne with Mushrooms and Fontina"
@@ -33,7 +33,7 @@ recipe:
     - "Add the fontina cheese and several grinds of black pepper to the lasgana pan. Stir everything around thoroughly. If this is too difficult, move some back temporarily to the skillet to make room for stirring. Taste and add more salt if needed."
     - "Sprinkle the top with the parmesan cheese and bake until bubbly and browned, about 15 minutes. (Alternatively, you can prepare the casserole and then refrigerate for up to 24 hours, then bake when you are ready. When baked from cold it will take 45 minutes to an hour.)"
 ---
-<a href="/images/cookbook/baked-penne-with-mushrooms-and-fontina.jpg"><img src="/images/cookbook/baked-penne-with-mushrooms-and-fontina.jpg" alt="Baked Penne with Mushrooms and Fontina" /></a>
+<a href="/images/cookbook/baked-penne-with-mushrooms-and-fontina.webp"><img src="/images/cookbook/baked-penne-with-mushrooms-and-fontina.webp" alt="Baked Penne with Mushrooms and Fontina" /></a>
 
 
 <p>This baked penne is a nice alternative to macaroni and cheese. It is jam-packed with mushrooms and spinach. Because it is made with melted cheese instead of a béchamel sauce, the flavors of the mushroom and spinach come through more clearly.</p>
@@ -41,9 +41,9 @@ recipe:
 <p>You can use this recipe as a blueprint to make a wide variety of similar baked pastas. You can replace the <a href="https://www.amazon.com/dp/B0014CTCAW?tag=herb-hugo-20">penne rigate</a> with any other medium-sized extruded pasta; the cheese can be anything you fancy as long as it melts well, and the greens could be chard or kale.</p>
 
 
-<a href="/images/cookbook/baked-penne-with-mushrooms-and-fontina-2.jpg"><img src="/images/cookbook/baked-penne-with-mushrooms-and-fontina-2.jpg" alt="Baked Penne with Mushrooms and Fontina" /></a>
+<a href="/images/cookbook/baked-penne-with-mushrooms-and-fontina-2.webp"><img src="/images/cookbook/baked-penne-with-mushrooms-and-fontina-2.webp" alt="Baked Penne with Mushrooms and Fontina" /></a>
 
-<a href="/images/cookbook/baked-penne-with-mushrooms-and-fontina-3.jpg"><img src="/images/cookbook/baked-penne-with-mushrooms-and-fontina-3.jpg" alt="Baked Penne with Mushrooms and Fontina" /></a>
+<a href="/images/cookbook/baked-penne-with-mushrooms-and-fontina-3.webp"><img src="/images/cookbook/baked-penne-with-mushrooms-and-fontina-3.webp" alt="Baked Penne with Mushrooms and Fontina" /></a>
 
 <div class="recipe-card">
 <p><strong>Baked Penne with Mushrooms and Fontina</strong>

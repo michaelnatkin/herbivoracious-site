@@ -6,7 +6,7 @@ description: "Poke (pronounced POH-keh) is the Hawaiian equivalent of sashimi or
 categories: ["Recipes", "Appetizers", "Vegan or Modifiable", "Gluten-Free"]
 aliases: ["/seared-tofu-poke-recipe/", "/2011/04/seared-tofu-poke-recipe.html"]
 cover:
-  image: "/images/cookbook/seared-tofu-poke.jpg"
+  image: "/images/cookbook/seared-tofu-poke.webp"
   hidden: true
 recipe:
   name: "Seared Tofu Poke"
@@ -30,7 +30,7 @@ recipe:
     - "Whisk together the sesame oil, sweet soy sauce, shoyu, fresh ginger and sriracha. Toss the tofu in the sauce and let rest for 3 minutes. Remove with a slotted spoon, reserving the sauce, and toss the tofu with most of the green onions and jalapeno, reserving a little for garnish."
     - "To serve, divide the bean sprouts among 4 bowls. Drain and pat dry the seaweed and place a small mound atop the bean sprouts. Cover that with the tofu and drizzle on some of the remaining sauce. Garnish with the remaining green onion and jalapeno and a few grains of Hawaiian sea salt."
 ---
-<a href="/images/cookbook/seared-tofu-poke.jpg"><img src="/images/cookbook/seared-tofu-poke.jpg" alt="Seared Tofu Poke" /></a>
+<a href="/images/cookbook/seared-tofu-poke.webp"><img src="/images/cookbook/seared-tofu-poke.webp" alt="Seared Tofu Poke" /></a>
 
 
 <p>Poke (pronounced POH-keh) is the Hawaiian equivalent of sashimi or crudo. Poke is typically raw fish, seasoned with soy and onion, often on a bed of seaweed. This vegetarian version is made with seared tofu, which matches those Asian flavors perfectly.</p>
@@ -38,13 +38,13 @@ recipe:
 <p>You can serve this poke at room temperature or chilled.</p>
 
 
-<a href="/images/cookbook/seared-tofu-poke-2.jpg"><img src="/images/cookbook/seared-tofu-poke-2.jpg" alt="Seared Tofu Poke" /></a>
+<a href="/images/cookbook/seared-tofu-poke-2.webp"><img src="/images/cookbook/seared-tofu-poke-2.webp" alt="Seared Tofu Poke" /></a>
 
-<a href="/images/cookbook/seared-tofu-poke-3.jpg"><img src="/images/cookbook/seared-tofu-poke-3.jpg" alt="Seared Tofu Poke" /></a>
+<a href="/images/cookbook/seared-tofu-poke-3.webp"><img src="/images/cookbook/seared-tofu-poke-3.webp" alt="Seared Tofu Poke" /></a>
 
-<a href="/images/cookbook/seared-tofu-poke-4.jpg"><img src="/images/cookbook/seared-tofu-poke-4.jpg" alt="Seared Tofu Poke" /></a>
+<a href="/images/cookbook/seared-tofu-poke-4.webp"><img src="/images/cookbook/seared-tofu-poke-4.webp" alt="Seared Tofu Poke" /></a>
 
-<a href="/images/cookbook/seared-tofu-poke-5.jpg"><img src="/images/cookbook/seared-tofu-poke-5.jpg" alt="Seared Tofu Poke" /></a>
+<a href="/images/cookbook/seared-tofu-poke-5.webp"><img src="/images/cookbook/seared-tofu-poke-5.webp" alt="Seared Tofu Poke" /></a>
 
 <div class="recipe-card">
 <p><strong>Seared Tofu Poke</strong>

@@ -5,7 +5,7 @@ slug: "banana-buttermilk-and-brown-sugar-muffins-triple-b-muffins-recipe"
 categories: ["Baking", "Breakfast", "Kid Friendly", "Recipes"]
 aliases: ["/banana-buttermilk-and-brown-sugar-muffins-triple-b-muffins-recipe/", "/2012/03/banana-buttermilk-and-brown-sugar-muffins-triple-b-muffins-recipe.html"]
 cover:
-  image: "/images/2012/02/Banana-Buttermilk-Brown-Sugar-Muffins-626x415.jpg"
+  image: "/images/2012/02/Banana-Buttermilk-Brown-Sugar-Muffins-626x415.webp"
   hidden: true
 recipe:
   name: "Banana, Buttermilk and Brown Sugar Muffins"
@@ -33,7 +33,7 @@ recipe:
     - "Bake until golden brown, about 25 minutes."
 ---
 
-<a href="/images/2012/02/Banana-Buttermilk-Brown-Sugar-Muffins.jpg"><img class="alignnone size-large wp-image-1345" title="Banana, Buttermilk and Brown Sugar Muffins" src="/images/2012/02/Banana-Buttermilk-Brown-Sugar-Muffins-626x415.jpg" alt="Banana, Buttermilk and Brown Sugar Muffins" width="626" height="415" />
+<a href="/images/2012/02/Banana-Buttermilk-Brown-Sugar-Muffins.webp"><img class="alignnone size-large wp-image-1345" title="Banana, Buttermilk and Brown Sugar Muffins" src="/images/2012/02/Banana-Buttermilk-Brown-Sugar-Muffins-626x415.webp" alt="Banana, Buttermilk and Brown Sugar Muffins" width="626" height="415" />
 </a><em>Banana, Buttermilk and Brown Sugar Muffins</em>
 
 Bumble downstairs on a Saturday morning. <strong>Brew strong coffee</strong>. Look in fridge. See buttermilk left over from making <a href="/2009/04/best-cornbread-ever/" target="_blank">Brown Butter Cornbread</a>. Sounds like muffins to me.

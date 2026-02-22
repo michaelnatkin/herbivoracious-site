@@ -5,7 +5,7 @@ slug: "gorditas-with-roasted-mushrooms-recipe"
 categories: ["Gluten-Free or modifiable", "Main Courses", "Recipes", "Vegan or Modifiable"]
 aliases: ["/gorditas-with-roasted-mushrooms-recipe/", "/2013/04/gorditas-with-roasted-mushrooms-recipe.html"]
 cover:
-  image: "/images/2013/04/Gorditas-with-Roasted-Mushrooms-626x415.jpg"
+  image: "/images/2013/04/Gorditas-with-Roasted-Mushrooms-626x415.webp"
   hidden: true
 recipe:
   name: "Gorditas with Roasted Mushrooms – Recipe"
@@ -39,7 +39,7 @@ recipe:
     - "Allow the gorditas to cool enough to handle. If you so desire, use a paring knife to split in half or open up a pocket and stuff. Otherwise, just top with the mushrooms and your selections of the salsa, cheese, black beans, cabbage and cilantro."
 ---
 
-<a href="/images/2013/04/Gorditas-with-Roasted-Mushrooms.jpg"><img class="alignnone size-large wp-image-3682" src="/images/2013/04/Gorditas-with-Roasted-Mushrooms-626x415.jpg" alt="Gorditas with Roasted Mushrooms" width="626" height="415" /></a>
+<a href="/images/2013/04/Gorditas-with-Roasted-Mushrooms.webp"><img class="alignnone size-large wp-image-3682" src="/images/2013/04/Gorditas-with-Roasted-Mushrooms-626x415.webp" alt="Gorditas with Roasted Mushrooms" width="626" height="415" /></a>
 
 Gorditas: thick, delicious homemade corn tortillas that are shallow fried then split and topped with whatever moves you. Close cousins to the arepa and the pupusa.
 

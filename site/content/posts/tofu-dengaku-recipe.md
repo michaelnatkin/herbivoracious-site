@@ -6,7 +6,7 @@ description: "These broiled tofu skewers are a street food in Japan, grilled ove
 categories: ["Recipes", "Appetizers", "Vegan or Modifiable"]
 aliases: ["/tofu-dengaku-recipe/", "/2011/06/tofu-dengaku-recipe.html"]
 cover:
-  image: "/images/cookbook/tofu-dengaku.jpg"
+  image: "/images/cookbook/tofu-dengaku.webp"
   hidden: true
 recipe:
   name: "Tofu Dengaku"
@@ -28,7 +28,7 @@ recipe:
     - "If using the skewers, insert two into each piece."
     - "Sprinkle on the sesame seeds and serve immediately."
 ---
-<a href="/images/cookbook/tofu-dengaku.jpg"><img src="/images/cookbook/tofu-dengaku.jpg" alt="Tofu Dengaku" /></a>
+<a href="/images/cookbook/tofu-dengaku.webp"><img src="/images/cookbook/tofu-dengaku.webp" alt="Tofu Dengaku" /></a>
 
 
 <p>These broiled tofu skewers are a street food in Japan, grilled over wickedly hot charcoal. You can create a similar effect using your broiler. If you do it this way, it is still fun to add the skewers afterwards so diners can pick them up to eat. Of course if you have a grill going, go ahead and use it for the smoky flavor, just oil the tofu well so it doesn’t stick, and put in the skewers first.</p>
@@ -36,11 +36,11 @@ recipe:
 <p>If you are mainly familiar with miso in soup form, it might be a little bit of a surprise to experience the almost chocolaty intensity it packs when eaten practically straight.</p>
 
 
-<a href="/images/cookbook/tofu-dengaku-2.jpg"><img src="/images/cookbook/tofu-dengaku-2.jpg" alt="Tofu Dengaku" /></a>
+<a href="/images/cookbook/tofu-dengaku-2.webp"><img src="/images/cookbook/tofu-dengaku-2.webp" alt="Tofu Dengaku" /></a>
 
-<a href="/images/cookbook/tofu-dengaku-3.jpg"><img src="/images/cookbook/tofu-dengaku-3.jpg" alt="Tofu Dengaku" /></a>
+<a href="/images/cookbook/tofu-dengaku-3.webp"><img src="/images/cookbook/tofu-dengaku-3.webp" alt="Tofu Dengaku" /></a>
 
-<a href="/images/cookbook/tofu-dengaku-4.jpg"><img src="/images/cookbook/tofu-dengaku-4.jpg" alt="Tofu Dengaku" /></a>
+<a href="/images/cookbook/tofu-dengaku-4.webp"><img src="/images/cookbook/tofu-dengaku-4.webp" alt="Tofu Dengaku" /></a>
 
 <div class="recipe-card">
 <p><strong>Tofu Dengaku</strong>

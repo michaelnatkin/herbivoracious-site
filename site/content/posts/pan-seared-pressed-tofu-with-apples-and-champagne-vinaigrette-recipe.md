@@ -5,7 +5,7 @@ slug: "pan-seared-pressed-tofu-with-apples-and-champagne-vinaigrette-recipe"
 categories: ["Gluten-Free or modifiable", "Kid Friendly", "Main Courses", "Recipes", "Salads", "Sauces and Condiments", "Seattle", "Vegan or Modifiable"]
 aliases: ["/pan-seared-pressed-tofu-with-apples-and-champagne-vinaigrette-recipe/", "/2012/01/pan-seared-pressed-tofu-with-apples-and-champagne-vinaigrette-recipe.html"]
 cover:
-  image: "/images/2011/12/Seared-Tofu-and-Apples-with-Champagne-Vinaigrette-626x415.jpg"
+  image: "/images/2011/12/Seared-Tofu-and-Apples-with-Champagne-Vinaigrette-626x415.webp"
   hidden: true
 recipe:
   name: "Pan-Seared Pressed Tofu with Apples and Champagne Vinaigrette"
@@ -20,7 +20,7 @@ recipe:
     - "In a small bowl, stir together the vinegar, shallot, thyme and salt. Allow to stand for ten minutes. Drizzle in the olive oil while whisking to emulsify. Taste and adjust seasoning. Reserve."
 ---
 
-<a href="/images/2011/12/Seared-Tofu-and-Apples-with-Champagne-Vinaigrette.jpg"><img class="alignnone size-large wp-image-904" title="Seared Tofu and Apples with Champagne Vinaigrette" src="/images/2011/12/Seared-Tofu-and-Apples-with-Champagne-Vinaigrette-626x415.jpg" alt="" width="626" height="415" /></a>
+<a href="/images/2011/12/Seared-Tofu-and-Apples-with-Champagne-Vinaigrette.webp"><img class="alignnone size-large wp-image-904" title="Seared Tofu and Apples with Champagne Vinaigrette" src="/images/2011/12/Seared-Tofu-and-Apples-with-Champagne-Vinaigrette-626x415.webp" alt="" width="626" height="415" /></a>
 <em>Pan Seared Tofu and Apples with Champagne Vinaigrette and Pomegranate Seeds</em>
 
 I stopped by <a href="http://bcove.me/rsh55wgj" target="_blank">Northwest Tofu</a> the other day and came home with their beautiful pressed tofu, along with regular tofu (still warm) and <a href="/2011/12/crispy-yuba-tofu-skin-rolls-recipe/" target="_blank">fresh yuba</a>. Casting about for a lunch I could throw together in just minutes, I tossed the pressed tofu in <a href="/2009/11/my-skillet/" target="_blank">my skillet</a> and rummaged around in the fridge to see what would could join the party.

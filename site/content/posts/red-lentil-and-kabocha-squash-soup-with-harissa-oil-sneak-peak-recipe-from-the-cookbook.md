@@ -5,7 +5,7 @@ slug: "red-lentil-and-kabocha-squash-soup-with-harissa-oil-sneak-peak-recipe-fro
 categories: ["Cookbook Project", "Gluten-Free or modifiable", "Recipes", "Sauces and Condiments", "Soups", "Vegan or Modifiable"]
 aliases: ["/red-lentil-and-kabocha-squash-soup-with-harissa-oil-sneak-peak-recipe-from-the-cookbook/", "/2012/02/red-lentil-and-kabocha-squash-soup-with-harissa-oil-sneak-peak-recipe-from-the-cookbook.html"]
 cover:
-  image: "/images/2012/05/Red-Lentil-and-Kabocha-Squash-Soup-with-Harissa-Oil-626x415.jpg"
+  image: "/images/2012/05/Red-Lentil-and-Kabocha-Squash-Soup-with-Harissa-Oil-626x415.webp"
   hidden: true
 recipe:
   name: "Red Lentil and Kabocha Squash Soup with Harissa Oil"
@@ -24,7 +24,7 @@ recipe:
     - "Puree all of the ingredients with a stick blender or a mini food processor. Strain through a fine-mesh strainer. The oil is ready to use."
 ---
 
-<a href="/images/2012/05/Red-Lentil-and-Kabocha-Squash-Soup-with-Harissa-Oil.jpg"><img class="alignnone size-large wp-image-1279" title="Red Lentil and Kabocha Squash Soup with Harissa Oil" src="/images/2012/05/Red-Lentil-and-Kabocha-Squash-Soup-with-Harissa-Oil-626x415.jpg" alt="Red Lentil and Kabocha Squash Soup with Harissa Oil" width="626" height="415" /></a>
+<a href="/images/2012/05/Red-Lentil-and-Kabocha-Squash-Soup-with-Harissa-Oil.webp"><img class="alignnone size-large wp-image-1279" title="Red Lentil and Kabocha Squash Soup with Harissa Oil" src="/images/2012/05/Red-Lentil-and-Kabocha-Squash-Soup-with-Harissa-Oil-626x415.webp" alt="Red Lentil and Kabocha Squash Soup with Harissa Oil" width="626" height="415" /></a>
 <em>Red Lentil and Kabocha Squash Soup with Harissa Oil </em>
 
 <em>I'm going to start slipping you guys the occasional sneak peek at a recipe from <a href="/2012/01/so-what-is-going-on-with-your-cookbook-and-other-life-changing-news/" target="_blank">the upcoming cookbook</a>. This one is a two-fer: a warm and hearty soup, and a quick way to make spicy harissa oil with which to spike it. Stay tuned! In a few weeks, I'll also be able to share some of the videos we shot for the extended e-book. Sign up for my email list and I'll send you each new recipe as it comes out. </em>

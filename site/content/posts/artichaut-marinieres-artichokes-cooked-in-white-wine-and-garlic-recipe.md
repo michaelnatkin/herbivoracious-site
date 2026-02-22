@@ -6,7 +6,7 @@ description: "Artichokes cooked in white wine and garlic for a vegetarian take o
 categories: ["Recipes", "Seattle", "Side Dishes"]
 aliases: ["/artichaut-marinieres-artichokes-cooked-in-white-wine-and-garlic-recipe/", "/2011/05/artichaut-marinieres-artichokes-cooked-in-white-wine-and-garlic-recipe.html"]
 cover:
-  image: "/images/old/6a00e008d618bb883401543235f911970c-500wi.jpg"
+  image: "/images/old/6a00e008d618bb883401543235f911970c-500wi.webp"
   hidden: true
 recipe:
   name: "Artichaut Marinières - Artichokes Cooked in White Wine and Garlic"
@@ -30,7 +30,7 @@ recipe:
     - "Pour all of the contents of the pot into the serving bowl. Garnish with the remaining parsley and several grinds of pepper. Arrange the toasted bread around the outside of the bowl and serve immediately."
 ---
 
-<a style="display: inline;" href="/images/old/6a00e008d618bb883401543235f911970c-800wi.jpg" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb883401543235f911970c" title="Artichauds Mariniers" src="/images/old/6a00e008d618bb883401543235f911970c-500wi.jpg" alt="Artichauds Mariniers" /></a>
+<a style="display: inline;" href="/images/old/6a00e008d618bb883401543235f911970c-800wi.webp" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb883401543235f911970c" title="Artichauds Mariniers" src="/images/old/6a00e008d618bb883401543235f911970c-500wi.webp" alt="Artichauds Mariniers" /></a>
 <em>Artichaut Marinières - Artichokes Cooked in White Wine and Garlic</em>
 
 I found these stunning dark purple baby artichokes at <strong>Pike Place Market</strong>, and their appearance reminded me of mussels, which got me thinking of the bowls of <em>moules marinières</em> that I see folks eating at French restaurants. I figured the artichokes would gladly give themselves over to the same treatment: a steaming bath of white wine with shallot and garlic.

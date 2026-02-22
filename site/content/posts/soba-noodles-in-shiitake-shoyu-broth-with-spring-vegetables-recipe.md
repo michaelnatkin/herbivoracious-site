@@ -6,7 +6,7 @@ description: "I’m rarely jealous of meat eaters, but their Asian noodle soups 
 categories: ["Recipes", "Main Courses"]
 aliases: ["/soba-noodles-in-shiitake-shoyu-broth-with-spring-vegetables-recipe/", "/2011/08/soba-noodles-in-shiitake-shoyu-broth-with-spring-vegetables-recipe.html"]
 cover:
-  image: "/images/cookbook/soba-noodles-in-shiitake-shoyu-broth-with-spring-vegetables.jpg"
+  image: "/images/cookbook/soba-noodles-in-shiitake-shoyu-broth-with-spring-vegetables.webp"
   hidden: true
 recipe:
   name: "Soba Noodles in Shiitake Shoyu Broth with Spring Vegetables"
@@ -36,7 +36,7 @@ recipe:
     - "Bring the broth back to a simmer."
     - "To serve, put about 1 cup of noodles in each of 4 heated bowls. Cut the eggs in half. Top the noodles with the leeks, eggs, asparagus, sliced shiitake caps, tofu and green onions. Take your time to make an attractive arrangement. Ladle in about 1 1/2 cups of the broth. Drizzle in a few drops of the sesame oil and serve it forth."
 ---
-<a href="/images/cookbook/soba-noodles-in-shiitake-shoyu-broth-with-spring-vegetables.jpg"><img src="/images/cookbook/soba-noodles-in-shiitake-shoyu-broth-with-spring-vegetables.jpg" alt="Soba Noodles in Shiitake Shoyu Broth with Spring Vegetables" /></a>
+<a href="/images/cookbook/soba-noodles-in-shiitake-shoyu-broth-with-spring-vegetables.webp"><img src="/images/cookbook/soba-noodles-in-shiitake-shoyu-broth-with-spring-vegetables.webp" alt="Soba Noodles in Shiitake Shoyu Broth with Spring Vegetables" /></a>
 
 
 <p>I’m rarely jealous of meat eaters, but their Asian noodle soups do get my attention. I wanted to create a very full flavored broth with lots of umami intensity. I make it with dried shiitakes, kombu, and the best shoyu I have ever tasted.</p>
@@ -46,7 +46,7 @@ recipe:
 <p>The eggs are cooked using my favorite technique for boiled eggs. They are placed in a pan of cold water, brought to a boil and then the heat is turned off and they are covered. For soft-boiled, you use about 4 . For this dish I used 8 minutes, which gives a terrific texture. The whites and yolk are both set, but the yolk is ever so slightly underdone, bright yellow and translucent. The whites remain tender and unrubbery. Try it; I think you'll like it.</p>
 
 
-<a href="/images/cookbook/soba-noodles-in-shiitake-shoyu-broth-with-spring-vegetables-2.jpg"><img src="/images/cookbook/soba-noodles-in-shiitake-shoyu-broth-with-spring-vegetables-2.jpg" alt="Soba Noodles in Shiitake Shoyu Broth with Spring Vegetables" /></a>
+<a href="/images/cookbook/soba-noodles-in-shiitake-shoyu-broth-with-spring-vegetables-2.webp"><img src="/images/cookbook/soba-noodles-in-shiitake-shoyu-broth-with-spring-vegetables-2.webp" alt="Soba Noodles in Shiitake Shoyu Broth with Spring Vegetables" /></a>
 
 <div class="recipe-card">
 <p><strong>Soba Noodles in Shiitake Shoyu Broth with Spring Vegetables</strong>

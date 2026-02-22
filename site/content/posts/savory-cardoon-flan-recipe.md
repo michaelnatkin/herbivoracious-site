@@ -5,7 +5,7 @@ slug: "savory-cardoon-flan-recipe"
 categories: ["Gluten-Free or modifiable", "Recipes"]
 aliases: ["/savory-cardoon-flan-recipe/", "/2012/10/savory-cardoon-flan-recipe.html"]
 cover:
-  image: "/images/2012/10/Cardoon-Flan.jpg"
+  image: "/images/2012/10/Cardoon-Flan.webp"
   hidden: true
 recipe:
   name: "Savory Cardoon Flan"
@@ -29,7 +29,7 @@ recipe:
     - "Bake until just set; a toothpick inserted in the center should come out clean, about 25 minutes. Carefully remove the ramekins with tongs (you can take the water bath out later when it has cooled, I don't want you splashing boiling water on yourself.) Cool ramekins on a rack for about 15 minutes, then use a knife to release the custard and invert onto serving plates."
 ---
 
-<img title="Cardoon Flan.jpg" src="/images/2012/10/Cardoon-Flan.jpg" alt="Cardoon Flan" width="600" height="398" border="0" />
+<img title="Cardoon Flan.jpg" src="/images/2012/10/Cardoon-Flan.webp" alt="Cardoon Flan" width="600" height="398" border="0" />
 <em>Savory Cardoon Flan</em>
 
 Cardoon: Looks like celery, tastes like artichoke.

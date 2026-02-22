@@ -5,11 +5,11 @@ slug: "butterscotch-pudding-with-bittersweet-ganache-and-caramelize-white-chocol
 categories: ["Desserts", "Experiments", "Kid Friendly"]
 aliases: ["/butterscotch-pudding-with-bittersweet-ganache-and-caramelize-white-chocolate-crunchies-recipe/", "/2012/05/butterscotch-pudding-with-bittersweet-ganache-and-caramelize-white-chocolate-crunchies-recipe.html"]
 cover:
-  image: "/images/2012/03/Butterscotch-Pudding-2-626x415.jpg"
+  image: "/images/2012/03/Butterscotch-Pudding-2-626x415.webp"
   hidden: true
 ---
 
-<a href="/images/2012/03/Butterscotch-Pudding-2.jpg"><img class="alignnone size-large wp-image-1555" title="Butterscotch Pudding with Chocolate Ganache and Caramelized White Chocolate Crispies" src="/images/2012/03/Butterscotch-Pudding-2-626x415.jpg" alt="Butterscotch Pudding with Chocolate Ganache and Caramelized White Chocolate Crispies" width="626" height="415" /></a><a href="/images/2012/03/Butterscotch-Pudding.jpg">
+<a href="/images/2012/03/Butterscotch-Pudding-2.webp"><img class="alignnone size-large wp-image-1555" title="Butterscotch Pudding with Chocolate Ganache and Caramelized White Chocolate Crispies" src="/images/2012/03/Butterscotch-Pudding-2-626x415.webp" alt="Butterscotch Pudding with Chocolate Ganache and Caramelized White Chocolate Crispies" width="626" height="415" /></a><a href="/images/2012/03/Butterscotch-Pudding.webp">
 </a><em>Butterscotch Pudding with Bittersweet Ganache and Caramelize White Chocolate Crispies</em>
 
 Okay, I'm not going to kid you. <strong>This pudding is over the top</strong>, and it is also a significant amount of work and mess if you make all 3 components. It is also ridiculously delicious. If you want to simplify it, you could skip the crispies or not caramelize the white chocolate used to make them (in which case, use good milk chocolate so there is some flavor there). And even if you think you will never make the whole thing, <strong>all 3 components are versatile</strong> and can be used in other desserts.

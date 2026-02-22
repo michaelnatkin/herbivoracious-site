@@ -5,7 +5,7 @@ slug: "swiss-chard-with-garlic-and-yogurt-recipe"
 categories: ["Appetizers", "Gluten-Free or modifiable", "Recipes", "Side Dishes", "Vegan or Modifiable"]
 aliases: ["/swiss-chard-with-garlic-and-yogurt-recipe/", "/2012/07/swiss-chard-with-garlic-and-yogurt-recipe.html"]
 cover:
-  image: "/images/2012/07/Swiss-Chard-with-Garlic-and-Yogurt-2-626x415.jpg"
+  image: "/images/2012/07/Swiss-Chard-with-Garlic-and-Yogurt-2-626x415.webp"
   hidden: true
 recipe:
   name: "Swiss Chard with Garlic and Yogurt"
@@ -25,7 +25,7 @@ recipe:
     - "When you are ready to serve, mound the chard on a plate, and sprinkle with a few more flakes of salt. Spoon the yogurt next to the chard and sprinkle it with the toasted sesame seeds."
 ---
 
-<a href="/images/2012/07/Swiss-Chard-with-Garlic-and-Yogurt-2.jpg"><img class="alignnone size-large wp-image-2380" title="Swiss Chard with Garlic and Yogurt" src="/images/2012/07/Swiss-Chard-with-Garlic-and-Yogurt-2-626x415.jpg" alt="Swiss Chard with Garlic and Yogurt" width="626" height="415" />
+<a href="/images/2012/07/Swiss-Chard-with-Garlic-and-Yogurt-2.webp"><img class="alignnone size-large wp-image-2380" title="Swiss Chard with Garlic and Yogurt" src="/images/2012/07/Swiss-Chard-with-Garlic-and-Yogurt-2-626x415.webp" alt="Swiss Chard with Garlic and Yogurt" width="626" height="415" />
 </a><em>Swiss Chard with Garlic and Yogurt</em>
 
 Meze is the Mediterranean tradition of a meal made of several small plates. My family especially loves to eat meze-style in the summer, when no-one feels like heating up the kitchen or eating a heavy dinner. To make a nice meze, you can make a couple of items from scratch (maybe <a href="/2010/11/real-tabbouleh-recipe/" target="_blank">tabbouleh</a> or this <a href="/2011/04/warm-grapes-toasted-pita-bread-and-ricotta-salata-recipe/" target="_blank">warm grape and ricotta salata salad</a>) and fill out the spread with warm pita bread, <a href="/2012/01/quick-marinated-feta-recipe/" target="_blank">quick marinated feta</a>, good olives, good store-bought hummus or prepared tahina, and raw vegetables.

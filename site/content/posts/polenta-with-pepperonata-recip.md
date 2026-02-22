@@ -5,7 +5,7 @@ slug: "polenta-with-pepperonata-recip"
 categories: ["Gluten-Free or modifiable", "Main Courses", "Recipes", "Vegan or Modifiable"]
 aliases: ["/polenta-with-pepperonata-recip/", "/2012/03/polenta-with-pepperonata-recip.html"]
 cover:
-  image: "/images/2012/02/Polenta-Pepperonata-626x415.jpg"
+  image: "/images/2012/02/Polenta-Pepperonata-626x415.webp"
   hidden: true
 recipe:
   name: "Peperonata (delicious over polenta)"
@@ -28,7 +28,7 @@ recipe:
     - "Just before serving stir in the black pepper and parsley. Taste and adjust seasoning. Serve over polenta, finishing with a bit more extra-virgin olive oil."
 ---
 
-<a href="/images/2012/02/Polenta-Pepperonata.jpg"><img class="alignnone size-large wp-image-1363" title="Polenta with Pepperonata" src="/images/2012/02/Polenta-Pepperonata-626x415.jpg" alt="Polenta with Pepperonata" width="626" height="415" />
+<a href="/images/2012/02/Polenta-Pepperonata.webp"><img class="alignnone size-large wp-image-1363" title="Polenta with Pepperonata" src="/images/2012/02/Polenta-Pepperonata-626x415.webp" alt="Polenta with Pepperonata" width="626" height="415" />
 </a><em>Polenta with Peperonata</em>
 
 Peperonata is one of the most <strong>luscious</strong> things you can make from humble ingredients. First you slowly roast bell peppers, then stew them with sofrito and onions until you've got a meltingly rich sauce that goes anywhere from antipasto to panini, and it is phenomenal over polenta.

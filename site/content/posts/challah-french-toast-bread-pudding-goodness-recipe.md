@@ -5,7 +5,7 @@ slug: "challah-french-toast-bread-pudding-goodness-recipe"
 categories: ["Baking", "Breakfast", "Kid Friendly", "Recipes"]
 aliases: ["/challah-french-toast-bread-pudding-goodness-recipe/", "/2009/03/challah-french-toast-bread-pudding-goodness-recipe.html"]
 cover:
-  image: "/images/old/6a00e008d618bb883401127917950928a4-500wi.jpg"
+  image: "/images/old/6a00e008d618bb883401127917950928a4-500wi.webp"
   hidden: true
 recipe:
   name: "Challah French Toast Bread Pudding"
@@ -28,7 +28,7 @@ recipe:
     - "Optionally sprinkle with powdered sugar and serve. Maple syrup is good too."
 ---
 
-<p style="font-size: 12px; font-family: Arial;"><a style="display: inline;" href="/images/old/6a00e008d618bb883401127917950928a4-800wi.jpg" rel="lightbox"><img class="at-xid-6a00e008d618bb883401127917950928a4 " style="width: 500px;" src="/images/old/6a00e008d618bb883401127917950928a4-500wi.jpg" alt="Challah_French_Toast_Bread_Pudding" /></a>
+<p style="font-size: 12px; font-family: Arial;"><a style="display: inline;" href="/images/old/6a00e008d618bb883401127917950928a4-800wi.webp" rel="lightbox"><img class="at-xid-6a00e008d618bb883401127917950928a4 " style="width: 500px;" src="/images/old/6a00e008d618bb883401127917950928a4-500wi.webp" alt="Challah_French_Toast_Bread_Pudding" /></a>
 Challah French toast bread pudding</p>
 We've been more regular about celebrating Shabbat on Friday nights over the past year. My Friiday night menus rarely really go with challah though, so we often end up most of a loaf left over. This is no cause for sadness though, because challah (along with its kissing-cousin, brioche) makes the finest French toast imaginable. The bread is already eggy, so the addition of a custard takes it over the top.
 

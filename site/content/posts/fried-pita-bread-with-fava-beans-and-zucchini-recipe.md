@@ -5,7 +5,7 @@ slug: "fried-pita-bread-with-fava-beans-and-zucchini-recipe"
 categories: ["Main Courses", "Recipes", "Vegan or Modifiable"]
 aliases: ["/fried-pita-bread-with-fava-beans-and-zucchini-recipe/", "/2013/08/fried-pita-bread-with-fava-beans-and-zucchini-recipe.html"]
 cover:
-  image: "/images/2013/08/Fried-Pita-with-Fava-and-Zucchini-626x415.jpg"
+  image: "/images/2013/08/Fried-Pita-with-Fava-and-Zucchini-626x415.webp"
   hidden: true
 recipe:
   name: "Fried Pita Bread with Fava Beans and Zucchini"
@@ -29,7 +29,7 @@ recipe:
     - "Garnish with plenty of additional good olive oil, the cherry tomatoes, parsley, and the zucchini blossoms if using."
 ---
 
-<a href="/images/2013/08/Fried-Pita-with-Fava-and-Zucchini.jpg"><img class="alignnone size-large wp-image-3850" alt="Fried Pita Bread with Fava Beans and Zucchini" src="/images/2013/08/Fried-Pita-with-Fava-and-Zucchini-626x415.jpg" width="626" height="415" /></a>
+<a href="/images/2013/08/Fried-Pita-with-Fava-and-Zucchini.webp"><img class="alignnone size-large wp-image-3850" alt="Fried Pita Bread with Fava Beans and Zucchini" src="/images/2013/08/Fried-Pita-with-Fava-and-Zucchini-626x415.webp" width="626" height="415" /></a>
 <em>Fried Pita Bread with Fava Beans and Zucchini</em>
 
 Good pita bread (usually from Basson Bakery) is a staple in our house, which sometimes means we end up with a few stale loaves. I've gotten in the habit of tearing them into bite sized pieces, fry-toasting them in olive oil, then garnishing them with whatever is to hand for one of those late night snacks that an uncharitable person might call a good-sized meal.
