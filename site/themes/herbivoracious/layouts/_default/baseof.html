@@ -24,6 +24,7 @@
   {{ if and .IsPage .Params.recipe }}
     {{ partial "recipe-jsonld.html" . }}
   {{ end }}
+  {{ partial "breadcrumb-jsonld.html" . }}
   {{ if .IsHome }}
   <script type="application/ld+json">
   {

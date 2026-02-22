@@ -1,0 +1,61 @@
+{{- if not .IsHome -}}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "{{ .Site.BaseURL }}"
+    }
+    {{- if and .IsPage (eq .Section "shop") -}}
+    ,{
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Shop",
+      "item": "{{ "shop/" | absURL }}"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "{{ .Title }}"
+    }
+    {{- else if and (not .IsPage) (eq .Section "shop") -}}
+    ,{
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Shop"
+    }
+    {{- else if .IsPage -}}
+    {{- with index .Params.categories 0 -}}
+    ,{
+      "@type": "ListItem",
+      "position": 2,
+      "name": "{{ . }}",
+      "item": "{{ "categories/" | absURL }}{{ . | urlize }}/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "{{ $.Title }}"
+    }
+    {{- else -}}
+    ,{
+      "@type": "ListItem",
+      "position": 2,
+      "name": "{{ $.Title }}"
+    }
+    {{- end -}}
+    {{- else -}}
+    ,{
+      "@type": "ListItem",
+      "position": 2,
+      "name": "{{ .Title }}"
+    }
+    {{- end -}}
+  ]
+}
+</script>
+{{- end -}}
