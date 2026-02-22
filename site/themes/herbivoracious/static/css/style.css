@@ -518,6 +518,58 @@ a.as-seen-in:hover { text-decoration: none; }
   transform: translateX(3px);
 }
 
+/* Amazon Gateway */
+.sidebar-amazon-gateway { border-bottom: none; padding-bottom: 0; }
+
+.amazon-gateway-link {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 12px 14px;
+  border: 1.5px solid var(--border-light);
+  border-radius: var(--radius);
+  text-decoration: none;
+  color: var(--text);
+  transition: border-color 0.2s var(--ease), background 0.2s var(--ease);
+}
+
+.amazon-gateway-link:hover {
+  border-color: var(--accent);
+  background: var(--cream);
+  text-decoration: none;
+}
+
+.amazon-gateway-link__icon {
+  font-size: 18px;
+  flex-shrink: 0;
+}
+
+.amazon-gateway-link__text {
+  display: flex;
+  flex-direction: column;
+  font-family: var(--font-ui);
+  font-size: 12.5px;
+  line-height: 1.35;
+}
+
+.amazon-gateway-link__text strong {
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--text);
+}
+
+.amazon-gateway-link__arrow {
+  margin-left: auto;
+  font-size: 16px;
+  color: var(--text-muted);
+  transition: transform 0.2s var(--ease), color 0.2s var(--ease);
+}
+
+.amazon-gateway-link:hover .amazon-gateway-link__arrow {
+  transform: translateX(3px);
+  color: var(--accent);
+}
+
 /* Most Popular */
 .popular-post {
   display: flex;
