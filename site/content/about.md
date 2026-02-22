@@ -7,7 +7,7 @@ layout: "page"
 
 <div class="archive-content">
 
-Herbivoracious is all about reinvigorating <a href="/2009/07/why-im-a-vegetarian-dammit/" target="_blank" rel="noopener noreferrer">vegetarian</a> cuisine with modern techniques and bold, authentic flavors. If this is your first time on the site, you might want to <a href="/welcome-to-herbivoracious/">start here</a>.
+Herbivoracious is all about reinvigorating <a href="/2009/07/why-im-a-vegetarian-dammit/" target="_blank" rel="noopener noreferrer">vegetarian</a> cuisine with modern techniques and bold, authentic flavors. 
 
 My philosophy is: I don't care whether you call yourself a vegetarian, carnivore, pescetarian or flexitarian. Labels don't matter. I want to make sure that if you cook a meatless meal tonight, it is hearty and delicious. That is the philosophy I bring to this blog, and <a href="/get-the-herbivoracious-cookbook/" target="_blank" rel="noopener noreferrer">my cookbook</a>.
 
