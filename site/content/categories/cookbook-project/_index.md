@@ -1,4 +1,4 @@
 ---
 title: "Cookbook Project"
-aliases: ["/cookbook-project/"]
+aliases: ["/cookbook-project/", "/category/cookbook-project/"]
 ---

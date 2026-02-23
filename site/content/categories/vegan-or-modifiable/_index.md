@@ -1,4 +1,4 @@
 ---
 title: "Vegan or Modifiable"
-aliases: ["/vegan/"]
+aliases: ["/vegan/", "/category/vegan-or-modifiable/"]
 ---

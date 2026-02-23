@@ -1,4 +1,4 @@
 ---
 title: "Restaurants"
-aliases: ["/restaurants/"]
+aliases: ["/restaurants/", "/category/restaurants/"]
 ---

@@ -1,4 +1,4 @@
 ---
 title: "Cooking Videos"
-aliases: ["/videos/"]
+aliases: ["/videos/", "/category/cooking-videos/"]
 ---

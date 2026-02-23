@@ -1,4 +1,4 @@
 ---
 title: "Recipes"
-aliases: ["/recipes/"]
+aliases: ["/recipes/", "/category/recipes/"]
 ---

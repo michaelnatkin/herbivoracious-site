@@ -1,4 +1,4 @@
 ---
 title: "Cooking Internship"
-aliases: ["/cooking-internship/"]
+aliases: ["/cooking-internship/", "/category/cooking-internship/"]
 ---
