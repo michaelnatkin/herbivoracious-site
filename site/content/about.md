@@ -28,6 +28,11 @@ As of March 2012, I've left the world of software and am fully committed to food
   </ul>
 </div>
 
+<div style="border: 2px solid #c2ddb5; background: #f6fbf3; border-radius: 6px; padding: 18px 20px; margin: 22px 0; box-shadow: 0 1px 4px rgba(33, 64, 26, 0.04);">
+  <b>What I'm building</b>
+  <p style="margin-top: 10px;">Love South Indian food but get lost in the menu? I built <a href="https://dosadecoder.com" target="_blank" rel="noopener">The Dosa Decoder</a>, a little tool that breaks dosa names down into their building blocks — one grammar, hundreds of dosas. Crack the code and order anything with confidence.</p>
+</div>
+
 
 <a style="margin: 0px 10px 5px 0px; float: left;" href="/images/old/6a00e008d618bb88340133f0d044cf970b-800wi.webp" rel="lightbox"><img class="asset asset-image at-xid-6a00e008d618bb88340133f0d044cf970b" style="margin: 0px 5px 5px 0px;" src="/images/old/6a00e008d618bb88340133f0d044cf970b-500wi.webp" alt="Cooking With Kids at QAFM" /></a>
 

@@ -46,7 +46,7 @@ recipe:
 
 <p>Bocoloes are little pan-fried cake of masa and mashed black beans, typically served as anantojito (appetizer). I learned about them from Diana Kennedy's magnificient opus, My Mexico. For my version, I’ve replaced the pork filling with spiced up pan-fried sweet potatoes, and increase the portion to make them into a satisfying vegetarian entrée.</p>
 <p>There is a lot of confusion about sweet potatoes and yams, which aren’t even related. The sweet potatoes I want you to use for this have a dark orange-brown skin and orange flesh. You may well find them labeled yams in your grocery!</p>
-<p>The cakes fry up with a crispy exterior and somewhat creamy inside. If you have had an Indian dosa, which is made from a lentil batter, the crust is kind of like that. My kids love them too; the older one now calls them "yummy cakes".</p>
+<p>The cakes fry up with a crispy exterior and somewhat creamy inside. If you have had an Indian dosa, which is made from a lentil batter, the crust is kind of like that. (Curious about all the dosa varieties on a South Indian menu? I built <a href="https://dosadecoder.com" target="_blank" rel="noopener">The Dosa Decoder</a> to break down how those names work.) My kids love them too; the older one now calls them "yummy cakes".</p>
 <p>Serve the bocoles with Jicama, Orange and Radish Salad, guacamole, or the salsa of your choice.</p>
 <p>If you don’t have refried black beans, just cook ½ an onion and 2 cloves of garlic in a couple tablespoons of oil, add cooked black beans and a little oil and mash them to a smooth puree, adding water as needed. Season to taste.</p>
 
