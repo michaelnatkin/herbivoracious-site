@@ -17,6 +17,8 @@
         {{ with .Params.description }}<p class="shop-section__desc">{{ . }}</p>{{ end }}
       </header>
 
+      {{ partial "affiliate-disclosure.html" . }}
+
       {{ $slug := .Params.category_slug }}
       {{ $data := site.Data.products }}
       {{ range $data.categories }}

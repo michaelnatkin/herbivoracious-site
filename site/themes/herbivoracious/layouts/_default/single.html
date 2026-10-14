@@ -50,6 +50,9 @@
         {{ end }}
       </div>
       <div class="single-content">
+        {{ if findRE `tag=herb-hugo-20|amzn\.to|sovrn\.co|linksynergy\.com|shareasale\.com` .RawContent 1 }}
+        {{ partial "affiliate-disclosure.html" . }}
+        {{ end }}
         {{/* Wrap recipe title pattern: <strong>Title</strong><em>info</em> → classed spans */}}
         {{ $content = $content | replaceRE `<p>\s*<strong>([^<]+)\s*</strong>\s*<em>` `<p><span class="recipe-title">$1</span><em class="recipe-meta">` }}
         {{ $content | safeHTML }}

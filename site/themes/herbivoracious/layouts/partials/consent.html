@@ -1,0 +1,47 @@
+<div class="consent-banner" id="consent-banner" role="dialog" aria-label="Cookie consent" hidden>
+  <p>I use cookies to understand how this site is used. You can accept or decline analytics cookies; the site works either way. See the <a href="{{ "privacy-policy/" | relURL }}">privacy policy</a>.</p>
+  <div class="consent-banner__actions">
+    <button type="button" class="consent-btn" data-consent="denied">Decline</button>
+    <button type="button" class="consent-btn consent-btn--primary" data-consent="granted">Accept</button>
+  </div>
+</div>
+<script>
+(function () {
+  var KEY = 'hv-consent', GA = 'G-CWXB776C7R';
+  var banner = document.getElementById('consent-banner');
+  function stored() { try { return localStorage.getItem(KEY); } catch (e) { return null; } }
+  function store(v) { try { localStorage.setItem(KEY, v); } catch (e) {} }
+  function loadAnalytics() {
+    if (window.__hvGa) return;
+    window.__hvGa = true;
+    var s = document.createElement('script');
+    s.async = true;
+    s.src = 'https://www.googletagmanager.com/gtag/js?id=' + GA;
+    document.head.appendChild(s);
+    window.dataLayer = window.dataLayer || [];
+    window.gtag = function () { dataLayer.push(arguments); };
+    gtag('js', new Date());
+    gtag('config', GA);
+  }
+  function decide(v) {
+    store(v);
+    banner.hidden = true;
+    if (v === 'granted') loadAnalytics();
+  }
+  var choice = stored();
+  // Honor Global Privacy Control as a standing opt-out.
+  if (navigator.globalPrivacyControl && choice !== 'granted') choice = 'denied';
+  if (choice === 'granted') loadAnalytics();
+  else if (!choice) banner.hidden = false;
+  banner.addEventListener('click', function (e) {
+    var v = e.target.getAttribute && e.target.getAttribute('data-consent');
+    if (v) decide(v);
+  });
+  document.addEventListener('click', function (e) {
+    if (e.target.closest && e.target.closest('[data-cookie-settings]')) {
+      e.preventDefault();
+      banner.hidden = false;
+    }
+  });
+})();
+</script>

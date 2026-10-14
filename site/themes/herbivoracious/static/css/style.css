@@ -885,6 +885,70 @@ a.as-seen-in:hover { text-decoration: none; }
   font-family: var(--font-ui);
 }
 
+.footer-legal {
+  margin-top: 10px;
+  font-size: 13px;
+  line-height: 1.6;
+  color: var(--text-light);
+  font-family: var(--font-ui);
+}
+
+.footer-legal a { color: var(--text-secondary); text-decoration: underline; }
+
+.affiliate-disclosure {
+  font-size: 14px;
+  color: var(--text-light);
+  margin-bottom: 20px;
+}
+
+.affiliate-disclosure a { color: inherit; text-decoration: underline; }
+
+/* ---- Cookie consent ---- */
+.consent-banner {
+  position: fixed;
+  left: 16px;
+  right: 16px;
+  bottom: 16px;
+  max-width: 640px;
+  margin: 0 auto;
+  z-index: 1000;
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  padding: 14px 18px;
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  box-shadow: 0 4px 24px rgba(42, 32, 23, 0.14);
+  font-family: var(--font-ui);
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--text-secondary);
+}
+
+.consent-banner[hidden] { display: none; }
+.consent-banner p { margin: 0; }
+.consent-banner a { color: var(--accent); text-decoration: underline; }
+.consent-banner__actions { display: flex; gap: 8px; flex-shrink: 0; }
+
+.consent-btn {
+  font: inherit;
+  font-weight: 500;
+  padding: 8px 16px;
+  border-radius: var(--radius);
+  border: 1px solid var(--border);
+  background: var(--white);
+  color: var(--text);
+  cursor: pointer;
+}
+
+.consent-btn--primary { background: var(--text); border-color: var(--text); color: var(--white); }
+
+@media (max-width: 560px) {
+  .consent-banner { flex-direction: column; align-items: stretch; }
+  .consent-banner__actions { justify-content: flex-end; }
+}
+
 /* ---- Taxonomy / List Pages ---- */
 .taxonomy-header h1 {
   font-family: var(--font-display);
@@ -2454,6 +2518,7 @@ a.as-seen-in:hover { text-decoration: none; }
   .related-posts,
   .comments-section,
   .site-footer,
+  .consent-banner,
   .cookbook-cta,
   .single-cover,
   .single-categories,
