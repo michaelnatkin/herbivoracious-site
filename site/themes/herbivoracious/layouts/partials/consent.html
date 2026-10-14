@@ -1,5 +1,5 @@
 <div class="consent-banner" id="consent-banner" role="dialog" aria-label="Cookie consent" hidden>
-  <p>I use cookies to understand how this site is used. You can accept or decline analytics cookies; the site works either way. See the <a href="{{ "privacy-policy/" | relURL }}">privacy policy</a>.</p>
+  <p>I use cookies for analytics and to track affiliate links. You can accept or decline them; the site works either way. See the <a href="{{ "privacy-policy/" | relURL }}">privacy policy</a>.</p>
   <div class="consent-banner__actions">
     <button type="button" class="consent-btn" data-consent="denied">Decline</button>
     <button type="button" class="consent-btn consent-btn--primary" data-consent="granted">Accept</button>
@@ -11,13 +11,17 @@
   var banner = document.getElementById('consent-banner');
   function stored() { try { return localStorage.getItem(KEY); } catch (e) { return null; } }
   function store(v) { try { localStorage.setItem(KEY, v); } catch (e) {} }
-  function loadAnalytics() {
-    if (window.__hvGa) return;
-    window.__hvGa = true;
+  function loadTrackers() {
+    if (window.__hvTrackers) return;
+    window.__hvTrackers = true;
     var s = document.createElement('script');
     s.async = true;
     s.src = 'https://www.googletagmanager.com/gtag/js?id=' + GA;
     document.head.appendChild(s);
+    var sk = document.createElement('script');
+    sk.type = 'text/javascript';
+    sk.src = 'https://s.skimresources.com/js/311079X1799574.skimlinks.js';
+    document.head.appendChild(sk);
     window.dataLayer = window.dataLayer || [];
     window.gtag = function () { dataLayer.push(arguments); };
     gtag('js', new Date());
@@ -26,12 +30,12 @@
   function decide(v) {
     store(v);
     banner.hidden = true;
-    if (v === 'granted') loadAnalytics();
+    if (v === 'granted') loadTrackers();
   }
   var choice = stored();
   // Honor Global Privacy Control as a standing opt-out.
   if (navigator.globalPrivacyControl && choice !== 'granted') choice = 'denied';
-  if (choice === 'granted') loadAnalytics();
+  if (choice === 'granted') loadTrackers();
   else if (!choice) banner.hidden = false;
   banner.addEventListener('click', function (e) {
     var v = e.target.getAttribute && e.target.getAttribute('data-consent');
