@@ -143,12 +143,6 @@ CATEGORY_DESCRIPTIONS = {
 # Words that should stay lowercase in title case (unless first word)
 TITLE_CASE_LOWER = {"a", "an", "and", "at", "by", "for", "from", "in", "of", "on", "or", "the", "to", "with"}
 
-# Replacement URLs (e.g. other affiliate networks), keyed by Amazon ASIN.
-# Applied to the final output so they survive re-syncing from the posts.
-URL_OVERRIDES = {
-    "B000GBK2MO": "https://sovrn.co/1f7scrx",  # 6" cake ring
-}
-
 # Words/patterns that should keep specific casing
 CASING_OVERRIDES = {
     "oz": "oz",
@@ -773,10 +767,6 @@ def build_output(by_category):
         products = by_category[slug]
         if not products:
             continue
-        for p in products:
-            override = URL_OVERRIDES.get(extract_asin(p["url"]))
-            if override:
-                p["url"] = override
         products.sort(key=lambda p: p["name"].lower())
         output_categories.append({
             "name": CATEGORIES[slug],
