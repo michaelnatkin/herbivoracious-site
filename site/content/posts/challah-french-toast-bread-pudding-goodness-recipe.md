@@ -28,8 +28,7 @@ recipe:
     - "Optionally sprinkle with powdered sugar and serve. Maple syrup is good too."
 ---
 
-<p style="font-size: 12px; font-family: Arial;"><a style="display: inline;" href="/images/old/6a00e008d618bb883401127917950928a4-800wi.webp" rel="lightbox"><img class="at-xid-6a00e008d618bb883401127917950928a4 " style="width: 500px;" src="/images/old/6a00e008d618bb883401127917950928a4-500wi.webp" alt="Challah_French_Toast_Bread_Pudding" /></a>
-Challah French toast bread pudding</p>
+<p style="font-size: 12px; font-family: Arial;">Challah French toast bread pudding</p>
 We've been more regular about celebrating Shabbat on Friday nights over the past year. My Friiday night menus rarely really go with challah though, so we often end up most of a loaf left over. This is no cause for sadness though, because challah (along with its kissing-cousin, brioche) makes the finest French toast imaginable. The bread is already eggy, so the addition of a custard takes it over the top.
 
 I remembered reading about a variation of French toast where you slice the bread, soak it in the custard in a casserole or on a baking sheet, and then simply throw it in the over instead of cooking on a griddle. This is a great way to turn it into a do-ahead item for a brunch with guests. I made that a few times and loved it too, and that got me thinking that there really isn't much of a distinction between French toast and bread pudding, except that the bread is diced. So for the past few weeks, the challah has found itself cubed and soaked, baked off in the morning and devoured.

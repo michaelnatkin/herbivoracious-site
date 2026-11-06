@@ -40,9 +40,7 @@ recipe:
     - "Cook for 5 minutes, mixing well. Add garam masala and beans. Cover and simmer on low for 20 mins, stirring occasionally."
     - "Turn off heat, garnish with cilantro, and serve over rice, or with flatbread, parathas, or naan."
 ---
-
-<em><a href="/images/2012/01/Kala-Chana.webp"><img class="alignnone size-large wp-image-1173" title="Kala Chana" src="/images/2012/01/Kala-Chana-624x415.webp" alt="Kala Chana (Curried Black Chickpeas)" width="624" height="415" />
-</a></em><em>Kala Chana (Black Chickpea Curry)</em>
+<em>Kala Chana (Black Chickpea Curry)</em>
 
 <em>Today's guest post is from my friend Amee of <a href="http://www.rabbitfoodrocks.blogspot.com/" target="_blank">Rabbit Food Rocks</a>. We've been blog buddies for a couple years now. Amee is down in Dallas, Texas. She's Indian and today's recipe is one of those great homestyle Indian dishes that you almost never see in a restaurant, so you have to learn to make it yourself if you want to try it. But Amee's range is global. Check out her <a href="http://www.rabbitfoodrocks.blogspot.com/2011/10/scandinavian-kringler.html" target="_blank">Scandinavian Kringler</a> if your eyes can afford the calories! Take it away, Amee...</em>
 

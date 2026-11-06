@@ -15,8 +15,6 @@ Margarita, Carlos and Martha visited me this morning as part of their 12 day tri
 
 I thought I'd share a few pictures. Here are the bocoles the way I plated them, more or less - Margarita touched them up a little. (These aren't Carlos' shots, just a snap off my camera).
 
-<a style="display: inline;" href="/images/old/6a00e008d618bb88340134885e8e96970c-800wi.webp" rel="lightbox"><img class="asset noresize asset-image at-xid-6a00e008d618bb88340134885e8e96970c" title="MaSeCa Shoot-1" style="width:626px !important;" src="/images/old/6a00e008d618bb88340134885e8e96970c-500wi.webp" alt="MaSeCa Shoot-1" /></a>
-
 and this is what they look like after Margarita, who is MaSeCa's executive chef, styled them from the ground up:
 
 <a style="display: inline;" href="/images/old/6a00e008d618bb88340134885e90d4970c-800wi.webp" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb88340134885e90d4970c" title="MaSeCa Shoot-4" src="/images/old/6a00e008d618bb88340134885e90d4970c-500wi.webp" alt="MaSeCa Shoot-4" /></a>

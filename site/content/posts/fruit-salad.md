@@ -39,9 +39,6 @@ recipe:
 ---
 
 <div itemscope itemtype="http://data-vocabulary.org/Recipe">
-<a style="display: inline;" href="/images/old/6a00e008d618bb8834014e604fd274970c-800wi.webp" rel="lightbox"><img itemprop="image" class="asset  asset-image at-xid-6a00e008d618bb8834014e604fd274970c" title="Fruit Salad" src="/images/old/6a00e008d618bb8834014e604fd274970c-500wi.webp" alt="Fruit Salad" />
-</a><em>Fruit salad</em>
-
 I don't remember exactly what got me on the idea of reimagining fruit salad, but like a culinary <a href="http://en.wikipedia.org/wiki/Earworm" target="_blank">earworm</a>, I couldn't get it out of my head for a few days. I kept daydreaming about possible components, and picking up a few inspirations when I visited the co-op. I knew that I wanted <strong>everything on the plate to be fruit</strong>, and that I wanted to play with the idea, using some ingredients that are technically fruit but are thought of more as vegetable (olives, tomatoes, avocado).
 
 The thing I like about the combination of ingredients I landed on is that you can eat them "safe" (the avocado with the lime, tomatoes with olives, ....), or you can take the invitation to play a little bit. How do grape and avocado taste together? <strong>Blood orange and tomato gel?</strong>
