@@ -41,9 +41,6 @@ recipe:
     - "In a large bowl, toss together the noodles, dressing (reserving 2 tablespoons), sesame seeds (reserving 1 tablespoon), cucumber, eggplant and tofu."
     - "To serve, line a bowl or platter with the iceberg lettuce and mound the noodles on top. It can be hard to get the vegetables to mix in, so you may need to take your tongs and distribute them a bit. Garnish (in order) with: the remaining sauce, the green onions, the remaining sesame seeds, and a couple pinches of good sea salt and a grind of black pepper."
 ---
-<a href="/images/cookbook/loaded-otsu-noodles.webp"><img src="/images/cookbook/loaded-otsu-noodles.webp" alt="Loaded Otsu Noodles" /></a>
-
-
 <p>Cold Chinese sesame noodles include peanut butter in the sauce. Otsu, on the other hand, really is based on sesame paste. I like to make a Iively dressing with sweet and regular soy sauce, ginger, citrus, and spices, and load up the noodles up with tofu, eggplant and cucumbers. The result is a cold dish that is a huge hit with kids as well as adults, and is easy to make ahead for summer barbeques.</p>
 <p><a href="https://www.amazon.com/Herbs-Botanica-Organic-Peppercorns-Pippali/dp/B0BF5QY1Y2?tag=herb-hugo-20">Long pepper</a> is an unusual spice with a rich history. It grows primarily in Indonesia, and was used in Europe as early as the 5th century BC. It fell out of favor as black pepper became common, but has recently become available at better spice shops and grocery stores. You may find the Long Tree Farms brand from Bali, which is excellent.</p>
 <p>Long pepper has a floral aroma along with the heat, and numbs the tongue slightly, like Szechwan peppercorn. If you can’t find it, don’t let it stop you from making these noodles, just use ½ teaspoon of black pepper instead.</p>

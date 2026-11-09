@@ -8,8 +8,6 @@ cover:
   image: "/images/old/6a00e008d618bb88340120a8aa90ae970b-500wi.webp"
   hidden: true
 ---
-
-<a style="display: inline;" href="/images/old/6a00e008d618bb88340120a8aa90ae970b-800wi.webp" rel="lightbox"><img class="asset asset-image at-xid-6a00e008d618bb88340120a8aa90ae970b " src="/images/old/6a00e008d618bb88340120a8aa90ae970b-500wi.webp" alt="Black bean arepa" /></a>
 I've <a href="/2008/09/skillet-street/" target="_blank">written</a> <a href="/2009/07/marination-mobile-hawaiian-korean-curb-cuisine-restaurant-review-seattle-wa/" target="_blank">previously</a> <a href="/2008/11/flair-taco-street-food-with-good-vegetarian-options-seattle-wa/">about</a> how Seattle is experiencing a resurgence of food carts. They have taken our culinary scene by storm, cooking up everything from Korean-Hawaiian tacos to poutine. What I didn't understand until now is that comparing our food cart scene with Portland's is like comparing a takeover of the middle-school student council with the French revolution.
 
 While Seattle has slowly come around to allowing street food vendors under somewhat onerous regulations, Portland has been nurturing this scene for years, with a huge and obvious benefit to civic life. I'm hoping every city in America wakes up and takes notice.

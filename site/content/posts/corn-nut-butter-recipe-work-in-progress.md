@@ -9,9 +9,6 @@ cover:
   hidden: true
 ---
 
-<a href="/images/2012/06/Corn-Nut-Butter.webp"><img class="alignnone size-large wp-image-2316" title="Corn Nut Butter" src="/images/2012/06/Corn-Nut-Butter-626x415.webp" alt="Corn Nut Butter" width="626" height="415" />
-</a><em>Corn Nut Butter</em>
-
 Yep. Corn Nuts, ground up into a "nut" butter.
 
 I've had freeze-dried corn ground into powder many times, and I know Christina Tosi uses that to make her famous <a href="http://www.thekitchn.com/christina-tosis-162171" target="_blank">corn cookies</a>. I was in Chicago yesterday to do a taping at WGN, and managed to get a drink at Grant Achatz' <a href="http://theaviary.com/" target="_blank">The Aviary</a>. One of the snacks I ordered was a guacamole filled croquant that had a corn powder, but it tasted like the toasted flavor of Corn Nuts, not the pure sweet flavor of freeze-dried corn. Awesome.

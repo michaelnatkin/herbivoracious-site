@@ -31,8 +31,7 @@ recipe:
     - "Put the oil in a large skillet, either well-seasoned cast iron or non-stick, over medium-high heat. When the oil is shimmering, add the onion and ginger and fry until the onion begins to soften, about 3 minutes. Add the salt and mustard seeds. When the mustard seeds begin to change color, about 30 seconds, add the garam masala and turmeric. Stir in the drained poha and the coconut. Cook, stirring occasionally and gently for about 3 minutes. Squeeze in the lime juice. Taste and adjust seasoning."
     - "Serve hot, garnished with cilantro, and offering lime pickle on the side."
 ---
-
-<a href="/images/2012/02/Poha-with-Coconut-and-Cashews.webp"><img class="alignnone size-large wp-image-1355" title="Poha with Coconut and Cashews" src="/images/2012/02/Poha-with-Coconut-and-Cashews-626x415.webp" alt="Poha with Coconut and Cashews" width="626" height="415" /></a><br><em>Poha (Flattened Rice) with Coconut and Cashews</em>
+<br><em>Poha (Flattened Rice) with Coconut and Cashews</em>
 
 <a href="/images/2012/03/Poha-Small.webp"><img class="alignright size-full wp-image-1357" title="Poha Small" src="/images/2012/03/Poha-Small.webp" alt="" width="250" height="250" /></a>Poha is simply rice that has been flattened. It is a popular food in India, used in a whole range of dishes. In fact, I'd been eating it for years on thalis <strong>without really quite realizing what it was</strong>. It has become something of a minor obsession for me lately, because it cooks very quickly, produces a light, fluffy texture, and is quite neutral in flavor so it takes to a wide range of treatments.
 

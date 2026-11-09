@@ -37,9 +37,6 @@ recipe:
     - "If the cheese isn't crispy and brown enough, finish judiciously with the broiler."
     - "Allow to rest at least 15 minutes before serving so it has time to set up a bit."
 ---
-<a href="/images/cookbook/portabello-summer-squash-lasagna.webp"><img src="/images/cookbook/portabello-summer-squash-lasagna.webp" alt="Portabello-Summer Squash Lasagna" /></a>
-
-
 <p>The two most common varieties of vegetarian lasagna are filled with spinach and ricotta, or with piles of watery vegetables. This version with portabello mushrooms and summer squash gives you a much more decisive flavor.</p>
 <p>To slice the portabellos, pull off the stems and lay the caps flat on your cutting board. Hold your knife at an angle and carefully cut through them on the bias to make 1/8” thick slabs with as much surface area as possible.</p>
 <p>I often use <a href="https://www.amazon.com/dp/B000RUQPQQ?tag=herb-hugo-20">no-boil lasagna noodles</a>. They are the same as any other dried pasta, just cut a little thinner so that they can cook through right in the oven. You just need to be sure that they are surrounded with enough sauce to absorb as they cook. You can also use traditional lasagna noodles, par-boiling them until just barely al dente.</p>

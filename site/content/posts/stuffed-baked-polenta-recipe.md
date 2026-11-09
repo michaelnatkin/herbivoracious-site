@@ -31,9 +31,6 @@ recipe:
     - "Grease a 9x13” pan (at least 2” deep) with the remaining tablespoon of olive oil. Spread ½ of the polenta in the bottom of the pan. If the polenta has cooled and solidified, you may have to squish it into place. Top with the mushroom mixture, then the béchamel sauce, and the remaining polenta. Scatter the grated cheeses on top."
     - "Bake until hot all the way through and golden brown on top, about 30 minutes, then serve immediately."
 ---
-<a href="/images/cookbook/stuffed-baked-polenta.webp"><img src="/images/cookbook/stuffed-baked-polenta.webp" alt="Stuffed & Baked Polenta" /></a>
-
-
 <p>I love baked dishes when I’m entertaining or busy with kids, because they mind their own business in the oven while I take care of other things. This polenta is filled with a mixture of sautéed mushrooms and kale in a creamy, Tarragon Béchamel, with just enough cheese to make it seem rich without blowing your whole week’s calorie budget. It makes a great change of pace from baked pastas.</p>
 <p><a href="https://www.amazon.com/dp/B000HRZX6C?tag=herb-hugo-20">Quick-cooking polenta</a> will work just fine in this recipe. I particularly like the de la Estancia brand from Argentina, which has a pronounced corn flavor. But you can use any polenta that you like.</p>
 <p>You can prepare this dish and then immediately bake it, or refrigerate it and then bake it the next day. Just allow more time in the oven if it has to come up to temperature. Be sure and read the recipe in advance, as it calls for the sauce and the polenta to be pre-cooked.</p>

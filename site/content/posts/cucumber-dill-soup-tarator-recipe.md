@@ -30,9 +30,6 @@ recipe:
     - "Refrigerate for at least 1 hour. Chill serving bowls as well. Check soup texture. If it is very thick, stir in a little cold water. If it is too thin you can add a little more sour cream. Taste and adjust seasoning again."
     - "To serve, pour into serving bowls and garnish with the reserved dill."
 ---
-<a href="/images/cookbook/cucumber-dill-soup-tarator.webp"><img src="/images/cookbook/cucumber-dill-soup-tarator.webp" alt="Cucumber & Dill Soup (Tarator)" /></a>
-
-
 <p>The recipe for this refreshing, yogurt-based soup comes from our cousin Sabi, an Israeli whose family emigrated from Bulgaria, where it is known as tarator. Our branch of the family elaborates it with mint and chives in addition to the traditional dill. It is perfect for a hot summer day when you don’t want to heat up the kitchen.</p>
 <p>The original recipe calls for 4 cloves of garlic, but I find that 1 or 2 are just about right. If you are making it a day in advance, remember that the garlic will grow in strength.</p>
 <p>I prefer the traditional method, where the cucumbers are hand chopped, while my wife likes them peeled and pureed in the food processor. Try it both ways and decide for yourself!</p>

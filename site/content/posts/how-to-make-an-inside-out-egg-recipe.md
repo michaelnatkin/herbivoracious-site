@@ -26,9 +26,6 @@ recipe:
     - "Bring the second part of the water and agar to a boil, whisk and quickly brush it on the mango rim of both halves of each egg. Put a top half on each bottom and press gently to allow to bond. Refrigerate for 15 more minutes."
     - "Remove from the molds and serve."
 ---
-
-<a style="display: inline;" href="/images/old/6a00e008d618bb8834011168a2d2eb970c-800wi.webp" rel="lightbox"><img class="at-xid-6a00e008d618bb8834011168a2d2eb970c "  src="/images/old/6a00e008d618bb8834011168a2d2eb970c-500wi.webp" alt="Inside_Out_Egg_How_To" /></a>
-
 So, when I did the faux <a href="/2009/02/what-to-do-with-an-insideout-egg/" target="_blank">inside-out egg</a> post last week, I originally just planned to do it as a <a href="https://www.amazon.com/dp/1558327983?tag=herb-hugo-20" target="_blank">dessert recipe</a>. For some reason as I was writing it up, the urge make it look as real as possible and publish it as a joke was irresistible to me. From the comments, I see a few of you believed it or thought it was an unborn egg, etc. (The Japanese video link in the comments was great too.) My apologies if I took you in! Obviously it is hard to tell when all you can do is look at a single picture.
 
 The inside-out egg was actually made from mango (set with <a href="https://www.amazon.com/dp/B0CKKNKJR3?tag=herb-hugo-20" target="_blank">agar-agar</a>) and <a href="https://www.amazon.com/dp/B0000D16YH?tag=herb-hugo-20" target="_blank">coconut cream</a>, and molded in a plastic easter egg. Quite delicious if you like tropical flavors. I think Stefan made something similar on Top Chef, with panna cotta instead of coconut, and right-side out. And Michel Richard has a tomato and mozzarella version in his amazing <a href="https://www.amazon.com/dp/1579652999?tag=herb-hugo-20" target="_blank">Happy in the Kitchen</a>.

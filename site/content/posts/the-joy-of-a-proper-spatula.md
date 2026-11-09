@@ -8,9 +8,6 @@ cover:
   image: "/images/2012/07/Lamson-Sharp-Slotted-Turner.webp"
   hidden: true
 ---
-
-<a href="https://www.amazon.com/dp/B00004WGUM?tag=herb-hugo-20"><img style="border:none !important; " class="alignnone size-full wp-image-2583" title="LamsonSharp Slotted Turner" src="/images/2012/07/Lamson-Sharp-Slotted-Turner.webp" alt="LamsonSharp Slotted Turner" width="600" height="181" /></a>
-
 Most spatulas suck.
 
 <a href="https://www.amazon.com/dp/B00004WGUM?tag=herb-hugo-20">This spatula, from LamsonSharp</a>, emphatically <strong>does not suck</strong>.

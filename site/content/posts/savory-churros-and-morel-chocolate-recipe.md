@@ -24,9 +24,6 @@ recipe:
     - "Taste and adjust the salt."
     - "To serve, reheat and then carefully froth with a handheld blender."
 ---
-
-<a style="display: inline;" href="/images/old/6a00e008d618bb8834010536a29b22970b-800wi.webp" rel="lightbox"><img class="at-xid-6a00e008d618bb8834010536a29b22970b "  src="/images/old/6a00e008d618bb8834010536a29b22970b-500wi.webp" alt="Savory_Churros_And_Morel_Chocolate" /></a>
-
 This is one of the dishes I'm working on for my next <a href="/2008/05/dinner-party-1/" target="_blank">"underground" dinner party</a>. <a href="http://cafeflora.com/" target="_blank">Cafe Flora</a> (where I <a href="/cooking-internship/" target="_blank">previously interned</a>) has graciously agreed to host this time. The menu I'm working on will be Spanish, with both traditional and <strong>modern</strong> elements. (If you are interested in attending the dinner on Tue. 1/27, there might be a few spots left; drop me an email at <a href="mailto:herbivoracious@gmail.com">herbivoracious@gmail.com</a>, let me know how many in your party, and I'll be in touch).
 
 Churros and thick hot chocolate are popular throughout Spain and much of Latin America, often as a breakfast treat or street food. They can be made thick or thin, straight or knotted, and from a potato based dough or wheat flour, but they are always extruded and fried like a <strong>doughnut</strong>.

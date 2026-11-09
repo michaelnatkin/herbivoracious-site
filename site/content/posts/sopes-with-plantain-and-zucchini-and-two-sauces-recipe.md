@@ -21,9 +21,6 @@ recipe:
     - "Peel the garlic. Combine the chiles, garlic, tomatoes, salt, and sugar in a blender and whiz on high speed until smooth. Taste and adjust seasoning. Reserve."
 ---
 
-<a href="/images/2012/04/Sopes-with-Plantains-and-Two-Sauces.webp"><img class="alignnone size-large wp-image-1213" title="Sopes with Plantains and Two Sauces" src="/images/2012/04/Sopes-with-Plantains-and-Two-Sauces-626x415.webp" alt="" width="626" height="415" />
-</a><em>Sopes with Plantain, Zucchini and Two Sauces</em>
-
 In Mexico, there are a whole class of dishes called <em>antojitos </em>that are generally thought of as street food, though they may also be offered in smaller sizes as appetizers at restaurants. Most (all?) antojitos include a corn masa component, which may be <strong>thick or thin, topped, rolled or stuff, baked or fried</strong>, and can include a wide range of toppings. Sopes are  a classic antojito made by first griddling a thick tortilla, then reshaping it to have a rim and finally shallow frying to crisp it up.
 
 Sopes can work with just about any filling you would put in a taco, like refried beans with onions, cheese, and shredded lettuce or roasted poblano strips in cheese sauce (chile con queso). For today's version I used a simple saute of plantains, zucchini and onions, ramping up the flavor with a <strong>charred scallion and lime crema</strong> and a smoky guajillo chile salsa. I originally made this with green plantains which are starchy and neutral, kind of like a potato. However I would recommend doing it instead with ripe plantains, whose sweetness I feel would make the dish even better.

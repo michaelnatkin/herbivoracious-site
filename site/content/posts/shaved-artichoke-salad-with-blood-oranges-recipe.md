@@ -25,9 +25,6 @@ recipe:
     - "Trim a tiny bit off the artichoke stems. Peel the stems. Pull off all of the leaves (which you can steam and serve separately if you like). Use a spoon to remove the hairy choke. Quickly peel and pare around the outside of the artichoke bottom. You should be left with the peeled stem attached to a nicely trimmed heart with all of the leaves and choke gone. Working quickly, slice the artichoke very thinly on a mandoline and toss the shaved vegetable with the dressing."
     - "To serve, make a small mound of the dressed artichoke on each plate. Try to keep it centered and as high and fluffy as possible for a nice presentation. Garnish with the orange supremes, chives, flaky sea salt and fresh ground pepper and serve immediately."
 ---
-<a href="/images/cookbook/shaved-artichoke-salad-with-blood-oranges.webp"><img src="/images/cookbook/shaved-artichoke-salad-with-blood-oranges.webp" alt="Shaved Artichoke Salad with Blood Oranges" /></a>
-
-
 <p>Artichokes are almost always served cooked, but they can be delicious raw as well. They taste like a slightly astringent root vegetable. A lemony vinaigrette and shards of Parmigiano-Reggiano make for a nice treatment, or try this recipe, with a mayonnaise-based dressing that yields a salad reminiscent of celery root remoulade.</p>
 <p>To prevent the artichoke from browning, prepare the dressing first so that you can toss the shaved vegetable in it immediately. It is possible to make this salad with a knife, but a mandoline will give you thinner, better slices.</p>
 <p>Blood oranges are in season in the winter months. If you can’t find them, any other orange will work as well, you’ll only be missing the visual interest of the bright red segments. To learn how to cut citrus supremes</p>

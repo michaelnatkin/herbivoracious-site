@@ -8,8 +8,6 @@ cover:
   image: "/images/2008-small/05/21/buckwheatbliniwithasparaguscaviar_2.webp"
   hidden: true
 ---
-
-<a href="/images/2008/05/21/buckwheatbliniwithasparaguscaviar_2.webp" rel="lightbox"><img title="Buckwheatbliniwithasparaguscaviar_2" src="/images/2008-small/05/21/buckwheatbliniwithasparaguscaviar_2.webp" alt="Buckwheatbliniwithasparaguscaviar_2" width="455" height="302" border="0" /></a>
 <span style="font-size: 0.8em;">Buckwheat blini with creme fraiche, asparagus caviar, and black salt</span>
 
 Last Sunday was my first "popup" dinner party - a chance to bring together a group of friends who love food, to give me a chance to test dishes and practice this kind of service. I plan to do more of them in the future for a wider audience.

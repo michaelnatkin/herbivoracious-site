@@ -28,9 +28,6 @@ recipe:
     - "Just before serving stir in the black pepper and parsley. Taste and adjust seasoning. Serve over polenta, finishing with a bit more extra-virgin olive oil."
 ---
 
-<a href="/images/2012/02/Polenta-Pepperonata.webp"><img class="alignnone size-large wp-image-1363" title="Polenta with Pepperonata" src="/images/2012/02/Polenta-Pepperonata-626x415.webp" alt="Polenta with Pepperonata" width="626" height="415" />
-</a><em>Polenta with Peperonata</em>
-
 Peperonata is one of the most <strong>luscious</strong> things you can make from humble ingredients. First you slowly roast bell peppers, then stew them with sofrito and onions until you've got a meltingly rich sauce that goes anywhere from antipasto to panini, and it is phenomenal over polenta.
 
 If you aren't familiar with sofrito, it is simply a <a href="/2012/01/kala-chana-black-chickpea-curry/" target="_blank">long-cooked sauce of onions, garlic and tomatoes</a>. Actually, that is the definition in Spain. The same basic cooking method is used in many countries, with many variations. For example in Cuba, it would have green bell peppers, and in much of the rest of the Caribbean it would include annatto and pig. And really the method <strong>isn't much different</strong> than the one used in many <a href="/2012/01/kala-chana-black-chickpea-curry/" target="_blank">Indian recipes</a> where you start with a paste of onion and ginger mixed with spices.

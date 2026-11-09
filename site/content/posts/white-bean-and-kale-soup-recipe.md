@@ -31,11 +31,6 @@ recipe:
     - "Stove-top method: In a large pot, soak and cook the beans as usual, reserving 7 cups of the bean cooking liquid when finished. Saute the vegetables as above."
     - "Add the bean broth, bay leaves, rosemary and your choice of the parmesan rind, dried porcini, or broth powder. Bring to a simmer and cook for 30 minutes. Add the beans and then do step 4 above."
 ---
-<a href="/images/cookbook/white-bean-and-kale-soup.webp"><img src="/images/cookbook/white-bean-and-kale-soup.webp" alt="White Bean and Kale Soup" /></a>
-
-
-
-
 <a href="/images/cookbook/white-bean-and-kale-soup-2.webp"><img src="/images/cookbook/white-bean-and-kale-soup-2.webp" alt="White Bean and Kale Soup" /></a>
 
 <a href="/images/cookbook/white-bean-and-kale-soup-3.webp"><img src="/images/cookbook/white-bean-and-kale-soup-3.webp" alt="White Bean and Kale Soup" /></a>

@@ -49,9 +49,6 @@ recipe:
     - "Add 1/4 of the mushrooms."
     - "And finally add a generous dollop of pesto. Pass more at the table."
 ---
-
-<a href="/images/2008/07/11/kingoystermushroomswithgrilledpolen.webp" rel="lightbox"><img title="Kingoystermushroomswithgrilledpolen" src="/images/2008-small/07/11/kingoystermushroomswithgrilledpolen.webp" alt="Kingoystermushroomswithgrilledpolen" width="455" height="302" border="0" /></a>
-
 When I saw "French Horn Mushrooms" at Whole Foods (for $19.99/lb), I thought they looked awfully familiar. In fact I would have sworn they were the same as the "King Oyster Mushrooms" for sale at $6-8/lb at our local Asian groceries. Sure enough, either one is <a href="http://en.wikipedia.org/wiki/Pleurotus_eryngii"><em>Pleurotus eryngii</em></a>. (Click over to see what they look like raw.)
 
 One way to get a lot of umami flavors from these fungii is to slice them thinly and sear them. I was forced to correct the Wikipedia article that claimed they were tasteless. They brown beautifully, developing a meaty texture which can easily stand up to a flavorful sauce.

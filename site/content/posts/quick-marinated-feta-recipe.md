@@ -23,9 +23,6 @@ recipe:
     - "Serve at cool room temperature with the toasted pita."
 ---
 
-<a href="/images/2012/04/Quick-Marinated-Feta.webp"><img class="alignnone size-large wp-image-1081" title="Quick Marinated Feta" src="/images/2012/04/Quick-Marinated-Feta-626x415.webp" alt="" width="626" height="415" /></a>
-<em>Quick Marinated Feta with Orange Zest, Mint and Aleppo Pepper</em>
-
 Here's about as easy an appetizer as you could want for a Middle Eastern or Mediterranean meal or cocktail party spread.  We'll just make a quick marinade of good olive oil with garlic, Aleppo pepper, orange zest and fresh mint, pour it over the top of a block of feta cheese and serve it forth with lightly toasted pita bread.
 
 By the way, I'm calling this marinated because that seems to be the convention, but really it is more like "dressed". You can put the dressing on earlier if you want, but it doesn't really sink into the cheese and you don't need it to. Your diners will spread the cheese and dressing onto the pita and the flavors will all come together on their palate.

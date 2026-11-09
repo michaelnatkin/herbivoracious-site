@@ -38,9 +38,6 @@ recipe:
     - "Add the lime juice and cilantro or parsley, mix thoroughly, then taste and adjust seasoning. It will probably need more salt and possibly more chili powder."
     - "Serve immediately, passing the garnishes for each diner to customize the chile to their taste."
 ---
-<a href="/images/cookbook/chili-borracho.webp"><img src="/images/cookbook/chili-borracho.webp" alt="Chili Borracho" /></a>
-
-
 <p>I’m not a big believer in lots of vegetables or grains in chili. For me, it is all about the beans, complemented by a savory sauce and lots of tasty garnish. My version includes dark beer, dried chiles and unsweetened cocoa powder to create those deep bass notes, reminiscent of Oaxacan mole.</p>
 <p>The pressure cooker is my favorite way to make chile. It allows me to cook the beans from scratch and include the bean cooking liquid as part of the broth. The pressure cooker requires you to have about 8 cups of liquid for 1 pound of beans (consult your manual to be sure). That would give you a soup instead of chili, so I just drain off the sauce and quickly simmer it down to the right thickness, then add it back to the beans.</p>
 <p>If you have the time, make this chili a couple of hours in advance, or even the day before. The flavors only get better when they have time to rest.</p>

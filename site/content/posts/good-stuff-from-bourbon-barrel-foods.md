@@ -8,9 +8,6 @@ cover:
   image: "/images/old/6a00e008d618bb88340120a57d3817970b-500wi.webp"
   hidden: true
 ---
-
-<a style="display: block;" href="/images/old/6a00e008d618bb88340120a57d3817970b-800wi.webp" rel="lightbox"><img class="at-xid-6a00e008d618bb88340120a57d3817970b " style="margin: 0px;" src="/images/old/6a00e008d618bb88340120a57d3817970b-500wi.webp" alt="Bourbon_Barrel_Foods" /></a>
-
 I grew up in Louisville, Kentucky. In the 1970s. Not gonna lie to you. At that time it was pretty much a gastronomic wasteland, except for the not inconsiderable charms of Waffle House. Scattered, smothered and covered.. but I digress.
 
 Bourbon has always been one of Kentucky's greatest exports. Even in the dark days, there was Maker's Mark and a handful of others making quality whiskey. Now the big houses like Jim Beam have many single-barrel upmarket products, and smaller producers such as Bulleit are making superb bourbons.

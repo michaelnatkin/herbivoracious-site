@@ -24,9 +24,6 @@ recipe:
     - "Strain the soup to remove the garlic and any undissolved bits of miso. Return to the pot and reheat but do not boil. Taste and add more salt or soy sauce if needed."
     - "Ladle into serving bowls, add the tofu puffs if using, sprinkle on a few green onion slices and serve immediately."
 ---
-<a href="/images/cookbook/garlic-miso-broth.webp"><img src="/images/cookbook/garlic-miso-broth.webp" alt="Garlic Miso Broth" /></a>
-
-
 <p>Every culture has a soup to which it attributes magical healing powers. I find this broth incredibly restorative when I’m coming back from a cold, or just want something quick and deeply warming. If you want to make it into some more substantial, add a few deep fried puffs of tofu (available at Asian groceries) or thinly sliced vegetables. Personally, I prefer the austere but fortifying broth.</p>
 <p>I always have a couple of kinds of miso in the refrigerator. Sealed airtight, it lasts for a very long time and is standing by when I want it for soup or to add deep flavor to a sauce.</p>
 <p>A whole head of garlic sounds like a lot, but because it is simmered instead of fried, the flavor mellows rapidly into a sweetness that blends easily with the flavor of miso. I like to really taste the garlic, so I keep the amount of miso on the low side, but you could also boost the miso up to 2 or even 3 tablespoons.</p>

@@ -27,11 +27,6 @@ recipe:
     - "Whisk the remaining ssamjang with a little water if needed to reach a dipping sauce consistency."
     - "To serve, place ¼ cup of the rice in the middle of a lettuce leaf. Top with one oyster mushroom half, a small handful of kaiware, and a couple teaspoons of minced kimchi. Let diners roll up the leaves and dip in the ssamjang."
 ---
-<a href="/images/cookbook/king-oyster-mushroom-lettuce-wraps-with-ssamjang.webp"><img src="/images/cookbook/king-oyster-mushroom-lettuce-wraps-with-ssamjang.webp" alt="King Oyster Mushroom Lettuce Wraps with Ssamjang" /></a>
-
-
-
-
 <a href="/images/cookbook/king-oyster-mushroom-lettuce-wraps-with-ssamjang-2.webp"><img src="/images/cookbook/king-oyster-mushroom-lettuce-wraps-with-ssamjang-2.webp" alt="King Oyster Mushroom Lettuce Wraps with Ssamjang" /></a>
 
 <div class="recipe-card">

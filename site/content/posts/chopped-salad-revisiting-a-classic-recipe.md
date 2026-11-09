@@ -9,9 +9,6 @@ cover:
   hidden: true
 ---
 
-<a style="display: inline;" href="/images/old/6a00e008d618bb883401310ff1619b970c-800wi.webp" rel="lightbox"><img class="asset asset-image at-xid-6a00e008d618bb883401310ff1619b970c selected " title="Chopped Salad" src="/images/old/6a00e008d618bb883401310ff1619b970c-500wi.webp" alt="Chopped Salad" /></a>
-<em>Chopped salad, ready to be dressed and tossed</em>
-
 Chopped salad is just exactly what it sounds like: a salad whose ingredients have all been cut down to a fairly uniform size, around 1/2" cubes. It works well as a side dish and it shines as <strong>one of the all time great entree salads</strong> when you want a lighter meal. It is easy to eat because the diner doesn't have to take anything apart with a knife, which makes it particularly good for a dinner party.
 
 The classic leaf for a chopped salad is romaine lettuce hearts. You can use some of the dark greens as well, but the ribs provide the structure that keeps the salad in cubes with some airspace, instead of collapsing into a mass of slimy leaves. <strong>A fantastic way to cut romaine</strong> is to make some lengthwise incisions, leaving the base intact, before cutting across the leaves at 1/2" intervals. Three of these lengthwise cuts is great for a normal salad, but for a chopped salad try five.

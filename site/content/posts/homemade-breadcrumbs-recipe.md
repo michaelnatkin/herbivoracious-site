@@ -20,9 +20,6 @@ recipe:
     - "Put the oil in your largest skillet over medium-low heat. When the oil is hot, add the breadcrumbs and salt. Toast, stirring frequently until well browned and crispy, about 10 minutes."
     - "Set aside to cool and use as needed."
 ---
-<a href="/images/cookbook/homemade-breadcrumbs.webp"><img src="/images/cookbook/homemade-breadcrumbs.webp" alt="Homemade Breadcrumbs" /></a>
-
-
 <p>Homemade breadcrumbs are a completely different ballgame from the canned grocery store stuff. It is a very easy thing to grate dried-out bread in the <a href="https://www.amazon.com/dp/B089TP3K77?tag=herb-hugo-20">food processor</a> and then toast the crumbs with a little olive oil in a skillet. You’ll be rewarded with tasty, crunchy goodness that can top a gratin, add body to a filling, or bread a fritter.</p>
 <p>If you don’t have any stale bread, in a pinch you can make these with bread that is still soft. Just slice, toast moderately, and then allow to sit for 15 minutes or so to dry out so that it can be grated.</p>
 <p>Breadcrumbs keep very well in the freezer. Just give them a quick re-toast in a skillet or toaster oven to revive their crunch.</p>

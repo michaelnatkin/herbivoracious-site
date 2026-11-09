@@ -36,8 +36,6 @@ recipe:
     - "Make two concentric rings each of the sauces, either with a squeeze botttle or spoon, or brush the plate."
     - "Top the peach with a scoop of the ice cream and push it down into the cylinder where you removed the pit."
 ---
-
-<a href="/images/2008/08/30/rings_of_saturn_peach.webp" rel="lightbox"><img title="Rings of Saturn French Toast" src="/images/2008-small/08/30/rings_of_saturn_peach.webp" alt="French toast, Saturn peach, marionberry sauce, buttermilk sauce, and dulce de leche ice cream" width="455" height="302" border="0" /></a>
 <span style="font-size: 0.8em;">"Rings of Saturn" - Saturn peach with French Toast</span>
 
 I recently learned that donut peaches and Saturn peaches are the same thing. I picked up some beautiful specimens at Central Market the other day, perfectly ripe and sweet. They lack the acid backbone of most other varieties. Pure, addictive, three-bite candy.

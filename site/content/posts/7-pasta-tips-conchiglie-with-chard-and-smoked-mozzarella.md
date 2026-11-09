@@ -33,8 +33,6 @@ recipe:
     - "Return the pot to the a medium low flame, add the mozzarella cubes, and stir constantly for one minute. If it seems a little \"tight\", add some of the pasta water. Taste and adjust for salt."
     - "To serve, divide among the bowls, top with the pumpkin seeds and a grind of fresh black pepper."
 ---
-
-<a href="/images/2008/11/Conchiglie_Chard_Smoked_Mozarella.webp"><img class="alignnone size-large wp-image-750" title="Conchiglie_Chard_Smoked_Mozarella" src="/images/2008/11/Conchiglie_Chard_Smoked_Mozarella-626x415.webp" alt="Conchiglie with Chard and Smoked Mozzarella" width="626" height="415" /></a>
 <span style="font-size: 11px; font-family: Arial;">Conchiglie Pasta with Swiss Chard and Smoked Mozzarella</span>
 
 This dish is kind of a blast from the past for me. Not the specific ingredients, but it is so much the way I cooked for most of my adult life. Nothing complicated, just a simple pasta mixed with a bunch of flavorful and harmonious ingredients. No real sauce beyond the melting <strong><a href="https://www.amazon.com/dp/B079VL5BHN?tag=herb-hugo-20">smoked mozzarella</a></strong> and a little sherry.

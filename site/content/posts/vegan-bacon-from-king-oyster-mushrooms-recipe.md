@@ -22,9 +22,6 @@ recipe:
     - "Line a plate with paper towels. Heat a large skillet, preferably cast-iron over medium-high heat. Add a thin layer of vegetable oil. When it shimmers, add strips of mushroom in a single, sparse layer (working in batches as needed) and cook until golden brown (about 1 minute), then flip and brown the other side. Transfer to the paper towels. It will crisp up as it cools (just 20 seconds or so)."
 ---
 
-<a href="/images/2012/11/Mushroom-Bacon.webp"><img class="alignnone size-large wp-image-3330" title="Vegetarian &quot;Bacon&quot; From King Oyster Mushrooms" src="/images/2012/11/Mushroom-Bacon-626x415.webp" alt="Vegetarian &quot;Bacon&quot; From King Oyster Mushrooms" width="626" height="415" /></a>
-<em>Vegan "Bacon" From King Oyster Mushrooms (left: whole mushroom; middle: sliced mushroom; right: "bacon")</em>
-
 Let me say for the record: I have no desire to eat bacon. <strong>I prefer for pigs to keep their own bellies and backsides.</strong> However, I'm not at all opposed to having good ways of adding crispy, salty, savory, smoky goodness to my meals.
 
 I know I go on about <a href="/2012/11/pan-fried-polenta-with-chickpea-stew-king-oyster-mushrooms-and-fig-puree/" target="_blank">king oyster mushrooms</a> a lot. I think they are an underutilized cultivated mushroom. I was playing with an extra one a few weeks ago, and tried taking thin slices of it and pan-frying it until crispy. Delicious! But a little bit one-note. The idea went on the back burner, and then I realized what was missing: a dry rub.

@@ -24,9 +24,6 @@ recipe:
     - "Chill the dough for at least 30 minutes. Preheat oven to 375. Line baking sheets with parchment or silpats. Dish dough out into approximately 2-tablespoon balls. Flatten, then use the tines of a fork to make the traditional criss-cross pattern. Bake about 12 minutes until lightly browned. Cool on a rack for at least 10 minutes, then enjoy."
 ---
 
-<a href="/images/2012/12/Sunbutter-Cookies-2.webp"><img class="alignnone size-large wp-image-3493" title="Sunflower Butter Cookies" src="/images/2012/12/Sunbutter-Cookies-2-626x415.webp" alt="Sunflower Butter Cookies" width="626" height="415" />
-</a><em>Sunflower butter cookies (like peanut butter cookies for folks with peanut allergies)</em>
-
 My wife, Sarina, is severely allergic to both peanuts and every kind of tree nut. Like, <a href="/2009/02/understanding-deadly-food-allergies-this-post-could-save-a-life/" target="_blank">epipen and straight to the hospital allergic</a>. This meant that she has never tasted a peanut butter cookie, and neither have my kids. It seemed to me that this was a grave injustice that needed to be rectified.
 
 We long ago determined that sunflower butter was our favorite replacement for peanut butter. The flavor is much nicer than soy butter. I love tahini too, but tend to use it most often in Middle Eastern recipes, although I like it occasionally on toast as well. But sunflower butter is great - I'd happily eat it even if I could have peanut butter in the house. My favorite brand (and no,  they aren't a sponsor or anything) is Sunbutter - specifically the organic, unsweetened variety. Here is it <a href="http://www.amazon.com/dp/B002OK2FCA/?tag=poeticlicen07-20" target="_blank">on Amazon</a> in case you can't find it locally.

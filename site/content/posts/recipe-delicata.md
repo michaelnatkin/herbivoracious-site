@@ -31,8 +31,6 @@ recipe:
     - "Mound the orzo into the squash. At this point you can refrigerate them for later use, or serve immediately."
     - "To serve, sprinkle on a good layer of breadcrumbs and heat in oven. If reheating from cold, start covered with tinfoil and remove for the last few minutes. Garnish with the parsley and pomegranate seeds, a good finishing salt (such as Maldon (aka the world's greatest salt)), and a grind of black pepper."
 ---
-
-<a href="/images/2007/11/23/delicatasquashstuffedwithorzo.webp" rel="lightbox"><img title="Delicata Squash Stuffed with Orzo in a Sage Brown Butter Sauce" src="/images/2007-small/11/23/delicatasquashstuffedwithorzo.webp" alt="Delicata Squash Stuffed with Orzo in a Sage Brown Butter Sauce" width="455" height="302" border="0" /></a>
 <span style="font-size: 0.8em;">Delicata Squash Stuffed with Orzo in a Sage Brown Butter Sauce</span>
 
 This is the vegetarian entree I brought to our family Thanksgiving celebration at Sarina's folks' house. It was based on an early version of an entree that my friend Kit was testing at <a href="/cooking-internship/">Cafe Flora</a>. The first time I had a bite of it, it just said "Thanksgiving" to me, with the warm flavors of squash and brown butter. Kit's final dish ended up with an intensely flavored tomato sauce with lots of orange zest, which is also fantastic. I chose to do this one with sage, pumpkin seeds, and dried cranberries to maximize the late autumnal flavors.

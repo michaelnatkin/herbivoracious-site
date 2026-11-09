@@ -26,9 +26,6 @@ recipe:
     - "When the greens are fully cooked, remove the lid and cook off the water. Taste and adjust the seasonings; they will probably want more salt or soy sauce, and maybe more of the smoked paprika."
 ---
 
-<a style="display: inline;" href="/images/old/6a00e008d618bb88340120a5c2c43b970b-800wi.webp" rel="lightbox"><img class="asset asset-image at-xid-6a00e008d618bb88340120a5c2c43b970b " src="/images/old/6a00e008d618bb88340120a5c2c43b970b-500wi.webp" alt="CollardGreens" /></a>
-<em>Veganized Southern-Style Collard Greens</em>
-
 So my brother and sister-in-law were browsing their farmer's market in Greensboro, North Carolina a few years ago when they spotted a pile of unfamiliar leafy greens. They asked the farmer how to prepare them, and her answer was simple: "well, you just <strong>boil them three</strong> times. Just like you would with any other <strong>salad</strong>."
 
 Now I'm from Louisville, and I realize this is actually just a colloquial use of the word salad. But it does make a good point. In the American South, the standard treatment for bitter greens (collards, mustard greens, kale, beet greens, and so forth) is to boil the heck out of them, generally with some pig parts.

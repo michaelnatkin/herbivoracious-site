@@ -22,9 +22,6 @@ recipe:
     - "Bring water to a sbare immer in a double boiler, using a round-bottomed metal mixing bowl for the top half. In the top half of the double boiler, but off the heat, thoroughly whisk together the egg yolks, ¼ cup of sugar, plum brandy, water and a pinch of salt. Set on top of the boiling water and whisk continuously. The egg yolks will begin to froth, lighten, and grow greatly in volume. If you sense that the yolks are at risk of scrambling, quickly remove from the heat and whisk to cool slightly, then continue. When soft peaks from after, about 5 to10 minutes, the zabaglione is done. Remove to a clean bowl and refrigerate."
     - "To serve, place 6 plum halves in the bottom of each of 4 glasses. Give the zabaglione a quick whisk and spoon on top of the plums, then serve immediately."
 ---
-<a href="/images/cookbook/zabaglione-with-roasted-plums.webp"><img src="/images/cookbook/zabaglione-with-roasted-plums.webp" alt="Zabaglione with Roasted Plums" /></a>
-
-
 <p>Zabaglione (or the French sabayon) is similar to custard, but is made only with egg yolks, sugar, and flavoring; no milk or cream is used. The yolks are whisked over a double boiler and incorporate a lot of air, becoming creamy, rich and fluffy.</p>
 <p>The traditional flavoring for zabaglione is Marsala wine. When possible, I like to use a spirit made from the same fruit I will serve it with instead, to intensify the experience.</p>
 <p>This dish is spectacular when Italian plums are in season. Italian plums are a small oval shape that you can eat in two bites, and are firm enough to stand up to a little cooking. If you can’t find Italian plums, you can do this same dessert with peaches, pears or even apples.</p>

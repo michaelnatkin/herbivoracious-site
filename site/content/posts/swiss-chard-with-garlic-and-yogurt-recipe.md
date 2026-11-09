@@ -25,9 +25,6 @@ recipe:
     - "When you are ready to serve, mound the chard on a plate, and sprinkle with a few more flakes of salt. Spoon the yogurt next to the chard and sprinkle it with the toasted sesame seeds."
 ---
 
-<a href="/images/2012/07/Swiss-Chard-with-Garlic-and-Yogurt-2.webp"><img class="alignnone size-large wp-image-2380" title="Swiss Chard with Garlic and Yogurt" src="/images/2012/07/Swiss-Chard-with-Garlic-and-Yogurt-2-626x415.webp" alt="Swiss Chard with Garlic and Yogurt" width="626" height="415" />
-</a><em>Swiss Chard with Garlic and Yogurt</em>
-
 Meze is the Mediterranean tradition of a meal made of several small plates. My family especially loves to eat meze-style in the summer, when no-one feels like heating up the kitchen or eating a heavy dinner. To make a nice meze, you can make a couple of items from scratch (maybe <a href="/2010/11/real-tabbouleh-recipe/" target="_blank">tabbouleh</a> or this <a href="/2011/04/warm-grapes-toasted-pita-bread-and-ricotta-salata-recipe/" target="_blank">warm grape and ricotta salata salad</a>) and fill out the spread with warm pita bread, <a href="/2012/01/quick-marinated-feta-recipe/" target="_blank">quick marinated feta</a>, good olives, good store-bought hummus or prepared tahina, and raw vegetables.
 
 Today's dish of room-temperature chard flavored with garlic and dukkah (which I'll explain in a moment) would be a great addition to your meze. It demonstrates a basic method for cooking greens so that they retain a bit of texture and color but are tender and enjoyable. You could use different greens (mustard greens, spinach, even dandelion greens if you enjoy their bitter punch) or different spices, and you could certainly add a squeeze of lemon if you'd like a splash of acidity.

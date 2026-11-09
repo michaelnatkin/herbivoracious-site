@@ -24,8 +24,6 @@ recipe:
     - "Cool to room temp, puree until smooth, press through a strainer."
     - "Chill according to your ice-cream maker manufacturer's instructions."
 ---
-
-<a style="display: inline;" href="/images/old/6a00e008d618bb8834010536a299d3970b-800wi.webp" rel="lightbox"><img class="at-xid-6a00e008d618bb8834010536a299d3970b " src="/images/old/6a00e008d618bb8834010536a299d3970b-500wi.webp" alt="Caramelized_Pear_Ice_Cream" /></a>
 <span style="font-size: 12px; font-family: Arial;">Pear-caramel ice cream from <em>The Perfect Scoop</em></span>
 
 I bought <a href="https://www.amazon.com/dp/1580088082?tag=herb-hugo-20" target="_blank">The Perfect Scoop</a>, only a few months after I started blogging, back in the fall of 2007. David Lebovitz was already well established as a food blogger, living in Paris. The idea that a blogger could launch a book was pretty amazing to me. Of course, I later realized he'd published three previous books and worked for more than a decade at a little place called Chez Panisse, but still, I was impressed!

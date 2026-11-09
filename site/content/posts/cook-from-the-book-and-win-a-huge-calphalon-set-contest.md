@@ -9,9 +9,6 @@ cover:
   hidden: true
 ---
 
-<a href="/images/2012/05/Calphalon-Set-2.webp"><img class="alignnone size-large wp-image-1908" title="Calphalon Set 2" src="/images/2012/05/Calphalon-Set-2-622x415.webp" alt="" width="622" height="415" /></a>
-<em>Win me?</em>
-
 My whole dream <a href="/get-the-herbivoracious-cookbook/" target="_blank">with the cookbook</a> is that it is one people will use on a regular basis. I wanted to share recipes with you that are <strong>manageable to make, and delicious enough to keep making</strong>. So I get really excited when people write back to tell me what they've made and how they liked it.
 
 I thought it would be fun to turn that into a contest. All you have to do is cook something, anything, from my book and take a picture of it. Then jump over to the <a href="https://www.facebook.com/herbivoracious/app_95936962634">Contests tab</a> on my facebook page and follow the steps to upload your photo. This is <strong>not a photography contest, so don't worry about taking a beautiful photo.</strong> There will be voting for which dish people would most like to try, not which is the technically best picture, and then I'll pick the winner at random from the top 10 vote getters.

@@ -37,9 +37,6 @@ recipe:
     - "At this point, you can either refrigerate all of the filled blintzes for up to 24 hours, or finish cooking and serving them. To finish the dish, heat up a large skillet over a medium flame and melt a generous amount of butter. Working in batches, fry the rolled crepes on each side until golden brown and crispy. Keep the flame low enough that the filling will be cooked by the time the wrapper is done."
     - "Serve them forth with sour cream and brown sugar or the rosemary-blueberry sauce."
 ---
-<a href="/images/cookbook/manouri-cheese-blintzes.webp"><img src="/images/cookbook/manouri-cheese-blintzes.webp" alt="Manouri Cheese Blintzes" /></a>
-
-
 <p>These blintzes are a fair bit of work, but much of it can be done ahead, which makes them ideal when you are having friends over for brunch. You can make the pancakes, fill them and roll them, then refrigerate until you are ready to fry them in butter and serve them up.  Blintzes are very forgiving to make because they don’t need to be as thin as crepes, and rolling the pancakes up hides any little imperfections.</p>
 <p>Manouri cheese is a sheep’s milk cheese from Greece, with a sweet clean, dairy taste and texture very similar to a drained ricotta. If you can’t get your hands on it, use ricotta and reduce or eliminate the milk.</p>
 <p>You can serve these crepes with sour cream and brown sugar, or for an extra-special touch, offer the rosemary-blueberry sauce on .</p>

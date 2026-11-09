@@ -24,8 +24,6 @@ recipe:
     - "Quickly add the zucchini and toss to coat with the oil and spices. Lower heat a bit, and continue to turn occasionally until tender but not mushy, 3-5 minutes."
     - "Remove from the skillet, season with salt to taste and serve."
 ---
-
-<a href="/images/2008/09/15/zucchinialford.webp" rel="lightbox"><img title="Bangladeshi-Style Fried Zucchini" src="/images/2008-small/09/15/zucchinialford.webp" alt="Fried zucchini, Bangladeshi style" width="455" height="302" border="0" /></a>
 Bangladeshi-Style Fried Zucchini
 
 Jeffrey Alford and Naomi Duguid are one of the greatest cookbook writing teams alive today. Their ability to travel the world and fully engage with the people they meet allows them to bring back incredible stories, photos and recipes.

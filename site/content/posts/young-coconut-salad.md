@@ -23,9 +23,6 @@ recipe:
     - "Serve immediately, with the coconut water in glasses on the side."
 ---
 
-<a style="display: inline;" href="/images/old/6a00e008d618bb88340148c7a4e76b970c-800wi.webp" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb88340148c7a4e76b970c" title="Young Coconut Salad" src="/images/old/6a00e008d618bb88340148c7a4e76b970c-500wi.webp" alt="Young Coconut Salad" /></a>
-<em>Young Coconut Salad</em>
-
 Young coconuts are very different from the mature brown-husked specimens you may be familiar with. The edible interior flesh is tender, thin and custard-like, with the purest coconut flavor imaginable. Seek them out at Asian markets or in health-food stores that cater to raw foodists. Keep young coconuts refrigerated until just before serving.
 
 I’m not generally a big fan of gimmicky bowls made from food, but in this case it makes perfect sense. The coconut flesh is so delicate that it is a pleasure to scrape it out with a spoon.

@@ -9,9 +9,6 @@ cover:
   hidden: true
 ---
 
-<a style="display: inline;" href="/images/old/6a00e008d618bb88340120a69d1999970b-800wi.webp" rel="lightbox"><img class="asset asset-image at-xid-6a00e008d618bb88340120a69d1999970b " src="/images/old/6a00e008d618bb88340120a69d1999970b-500wi.webp" alt="Cast_Iron_Skillet" /></a>
-<em>Cast iron skillet</em>
-
 This is <strong>my skillet</strong>. Sure, I have lots of others pots - small saute pans, sauciers, stock pots, paella pans, a beloved <a href="https://www.amazon.com/dp/B000LEXR0K?tag=herb-hugo-20">Dutch oven</a>, griddles, you name it. But this <a href="https://www.amazon.com/dp/B00006JSUB?tag=herb-hugo-20">big cast-iron skillet</a> is the absolute workhorse in my kitchen. I've had it for at least 20 years, and I'd say it has been the central figure in thousands of meals.
 
 This 12-inch skillet has pride of place in my kitchen. All of the other pots gets hung up, but this one lives on my stove, ready to leap into action when I am. I'm a big believer in mise-en-place, but there are also plenty of meals where the first thing I do is heat up the skillet, the second thing I do is break down some vegetables, and the third thing is figure out what the heck I'm making.

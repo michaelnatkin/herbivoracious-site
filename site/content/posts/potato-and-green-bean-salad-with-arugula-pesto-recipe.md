@@ -30,9 +30,6 @@ recipe:
     - "For the pesto: Combine all ingredients in a mini food processor. Process until it forms a fairly smooth paste with some texture left. Alternatively you can use an immersion blender, or a regular blender if you make a double batch. Taste and adjust seasoning."
     - "To complete the salad: Toss the potatoes and green beans with the arugula pesto, several grinds of black pepper, and the walnut pieces if using. Taste and add more salt if needed."
 ---
-<a href="/images/cookbook/potato-and-green-bean-salad-with-arugula-pesto.webp"><img src="/images/cookbook/potato-and-green-bean-salad-with-arugula-pesto.webp" alt="Potato and Green Bean Salad with Arugula Pesto" /></a>
-
-
 <p>This potato salad will really grab attention on a buffet table. The arugula pesto is a bright emerald green that holds its color much better than basil-based pesto. You should still make the sauce as close to serving time as possible because the fresh flavors begin to dissipate, emphasizing the bitter aspect of the arugula.</p>
 <p>It is always best to start potatoes in cold water. That allows the interior a chance to cook before the outside has gone to mush.</p>
 

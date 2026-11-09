@@ -24,9 +24,6 @@ recipe:
     - "Taste and add salt and more lime juice if needed."
 ---
 
-<a style="display: inline;" href="/images/old/6a00e008d618bb88340120a651ba17970b-800wi.webp" rel="lightbox"><img class="photo asset asset-image at-xid-6a00e008d618bb88340120a651ba17970b " src="/images/old/6a00e008d618bb88340120a651ba17970b-500wi.webp" alt="Guacamole" /></a>
-<em>Legendary Guacamole</em>
-
 I've never understood why people buy pre-made guacamole. The store-bought stuff ranges from barely ok to green glue. The real thing takes all of five minutes to make and <strong>tastes spectacular</strong>. I'll show you how. I usually make a four-avocado batch and it is just enough to satisfy four adults and a couple of munchkins, so you can tell how popular it is at my house.
 
 First of all, what goes in to great guacamole? Rich, sweet, unctuous avocado set off by bright lime juice, a little sharp bite of garlic and onion, herbacious cilantro and of course a bit of salt is all it takes. If you want to gild the lily with tomato or jalapeno, that can be nice too.

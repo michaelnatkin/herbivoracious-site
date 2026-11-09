@@ -9,9 +9,6 @@ cover:
   hidden: true
 ---
 
-<a href="/images/2012/09/Asparagus.webp"><img title="Asparagus" src="/images/2012/09/Asparagus-626x415.webp" alt="" width="626" height="415" />
-</a><em>Asparagus with Sauce Gribiche, Quinoa "Tabouli" and Warm Egg Yolk</em>
-
 Back in 2010, I had the <a href="/2010/04/what-i-learned-staging-at-canlis/" target="_blank">wonderful experience</a> of staging at Canlis for a couple of weeks. For those of you who haven't had the pleasure of dining there, <a href="http://canlis.com/" target="_blank">Canlis</a> is a legendary fine-dining institution in Seattle. It boasts spectacular views high above Lake Union, unmatched service that is always as friendly as it is accurate, and a wine list I can't begin to describe. It is <strong>the </strong>place that Seattleites go to dress up, feel special, and celebrate important events in their lives.
 
 A few years ago, the third generation owners, brothers Brian and Mark Canlis, brought in Chef Jason Franey from New York's Eleven Madison Park, and challenged him to <strong>completely modernize the menu</strong> while maintaining the classic dishes that decades of customers have come to expect. I'd been lucky enough to eat at Canlis a few times, both before and after the change, and was thrilled that Chef Franey had obviously put a lot of effort into the vegetarian tasting menu, which could have easily been given short shrift.

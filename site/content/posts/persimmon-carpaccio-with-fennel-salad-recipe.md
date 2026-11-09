@@ -25,9 +25,6 @@ recipe:
     - "Arrange 7 persimmon slices in a circle on each plate. Top with 1/4 of the salad, keeping it centered and as tall as possible on top of the persimmons. Garnish with a few of the reserved fennel fronds and the pepitas and serve."
 ---
 
-<a href="/images/2011/12/Persimmon-Carpaccio.webp"><img class="alignnone size-large wp-image-859" title="Persimmon Carpaccio with Fennel Salad and Pepitas" src="/images/2011/12/Persimmon-Carpaccio-626x415.webp" alt="" width="626" height="415" /></a>
-<em>Persimmon Carpaccio with Fennel Salad</em>
-
 Persimmons are in season right now, and I love them. For those of you not intimately familiar with this fruit, the most important thing to know is that there are two general types: fuyu persimmons (which I use in this salad) are short and squat, resembling an orange tomato. They are eaten while still firm.
 
 Hachiya persimmons, on the other hand, can only be eaten when they are incredibly soft, practically turning into pudding, otherwise they are inedibly astringent. So needless to say, don't try to make this carpaccio with hachiya persimmons or you'll have a frightful mess on your hands. But do buy some hachiyas and scoop 'em out with a spoon, or make <a href="http://chezpim.com/bake/lizzies-persimmon-pudding" target="_blank">persimmon pudding</a>.

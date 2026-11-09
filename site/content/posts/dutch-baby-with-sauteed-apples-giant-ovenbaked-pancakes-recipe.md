@@ -29,9 +29,6 @@ recipe:
     - "Meanwhile, in a saute pan, melt the remaining 2 tablespoons of butter over medium-high heat. Add the apples and saute for 5 minutes. Add the brown sugar, cinnamon, and a pinch of salt, and saute until tender and glazed."
     - "When the Dutch Baby is done, carefully remove it from the oven. Pad off any excess butter on top with a paper towel. Top with the apples and a generous sprinkle of powdered sugar. Since you have it in a really hot skillet, you might want to serve it directly on to plates rather than bring that to the table. Offer lemon wedges on the side, they add a nice counterpoint to the sweetness."
 ---
-
-<a style="display: inline;" href="/images/old/6a00e008d618bb88340115707ccfcb970b-800wi.webp" rel="lightbox"><img class="at-xid-6a00e008d618bb88340115707ccfcb970b " src="/images/old/6a00e008d618bb88340115707ccfcb970b-500wi.webp" alt="Dutch_Baby_With_Sauteed_Apples" /></a>
-
 I happened to see Allen of <a href="http://www.eatingoutloud.com/2009/04/dutch-baby-pancake-recipe.html" target="_blank">Eating Out Loud's</a> post on Dutch Babies the other day, and I was reminded that my wife, Sarina, had fond childhood memories of them. I'd never had one before, but the recipe looked easy enough that I could pull it off while watching the kids so we could surprise her for Mother's Day. I'm glad I did, it was delicious.
 
 If you have had <a href="http://www.foodbeam.com/2008/03/26/hoping-for-happy-accidents-le-clafoutis-de-ma-grand-mere/" target="_blank">clafoutis</a> before, Dutch Babies bear a lot of similarity. The batter has a bit less flour and more milk so it is a little more like a custardy than eggy. I think I might even like it a little better because there is less risk of getting an overcooked egg flavor.

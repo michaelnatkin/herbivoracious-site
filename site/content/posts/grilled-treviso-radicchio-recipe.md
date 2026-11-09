@@ -25,9 +25,6 @@ recipe:
     - "Brush the cut sides of the radicchio with olive oil. Place on the grill, cut side down and press down firmly to maximize contact area. Cook for about 2-3 minutes, until nicely seared and starting to wilt."
     - "Remove from the grill and place on serving platter. Garnish with a generous drizzle of the aged balsamic, the cheese, walnuts, a sprinkle of sea salt and freshly ground pepper. Cut into bite sized pieces and serve immediately."
 ---
-<a href="/images/cookbook/grilled-treviso-radicchio.webp"><img src="/images/cookbook/grilled-treviso-radicchio.webp" alt="Grilled Treviso Radicchio" /></a>
-
-
 <p>Treviso is a type of radicchio that is hugely popular in Italy, and is becoming easier to find at farmer’s markets in America.  Treviso, like all radicchio, is quite bitter. I find a few bites of it invigorating but it might be too much for some folks. A milder alternative is to use a small head of Romaine lettuce for this dish, removing the coarse outer leaves first.</p>
 <p>Grilled treviso a great first course when you already have a grill fired up for your entrees. You can serve it as is, or with grilled bread for an unusual bruschetta. A few toasted walnuts make a spectacular addition.</p>
 <p>If you don’t have a grill going, a grill pan on the stovetop can work as well.</p>

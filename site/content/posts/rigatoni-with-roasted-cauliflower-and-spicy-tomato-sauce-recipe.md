@@ -32,9 +32,6 @@ recipe:
     - "Divide the pasta among the serving bowls (or place in a large family-sized bowl). Add several thin shavings of ricotta salata and serve immediately."
 ---
 
-<a href="/images/2012/08/Rigatoni-with-Spicy-Tomato-Sauce.webp"><img class="size-large wp-image-2683 alignnone" title="Rigatoni with Spicy Tomato Sauce" src="/images/2012/08/Rigatoni-with-Spicy-Tomato-Sauce-626x415.webp" alt="Rigatoni with Spicy Tomato Sauce" width="626" height="415" /></a>
-<em>Rigatoni with Roasted Cauliflower and Spicy Tomato Sauce</em>
-
 I've had rigatoni on the brain recently. KitchenAid was kind enough to send me this <a href="https://www.amazon.com/dp/B003GWZ9ZK?tag=herb-hugo-20" target="_blank">pasta-extruder attachment</a> for review and I had in mind to use it to make saffron rigatoni and then serve it with cauliflower in several textures. Unfortunately, the day got away from me and I had to settle for a simpler dish with dried rigatoni, one way of cooking the cauliflower, and a spicy tomato sauce that takes just a few minutes to make. (Yes, the extruder review will be coming soon though - I'm sure looking forward to it!)
 
 As it is, the dish I came up with is somewhat of a cross between two classics - Penne alla Vodka (which inspired the tomato-cream sauce spiked with a bit of vodka) and Pasta alla Norma, but with cauliflower instead of eggplant. The cauliflower is roasted until it is meltingly tender and full of browned flavor.

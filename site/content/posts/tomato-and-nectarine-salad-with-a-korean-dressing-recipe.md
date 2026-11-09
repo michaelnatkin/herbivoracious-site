@@ -20,9 +20,6 @@ recipe:
     - "In a small bowl, whisk together the grapeseed oil, sesame oil, salt and gochugaru (start with the smaller amount). Whisking continuously, drizzle in the sherry vinegar. Taste and adjust seasoning."
 ---
 
-<a href="/images/2012/08/Nectarine-and-Tomato-Salad-Foofy.webp"><img class="size-large wp-image-2630 alignnone" title="Nectarine and Tomato Salad with Korean Dressing" src="/images/2012/08/Nectarine-and-Tomato-Salad-Foofy-626x415.webp" alt="Nectarine and Tomato Salad with Korean Dressing" width="626" height="415" />
-</a><em>Tomato and Nectarine Salad with a Korean Dressing</em>
-
 Here's a simple, delicious and surprising salad. Oh, one thing - it is <strong>only worth doing</strong> if you have spectacular heirloom tomatoes and nectarines. It will be completely tasteless and sad if you make it with hard pink tomatoes and underripe, sour nectarines. You'l be <strong>very on trend</strong> if you make it; I've seen variations of stone fruit &amp; tomato salads on a bunch of great restaurant menus lately.
 
 Quick aside: <strong>if you live in Seattle or are planning a visit</strong>, I'm giving away three copies of my <a href="/2012/08/herbivoracious-seattle-restaurant-guide-app/" target="_blank">Seattle Foodie Guide App</a>. Jump on <a href="http:/" target="_blank">over to Facebook</a> to enter!

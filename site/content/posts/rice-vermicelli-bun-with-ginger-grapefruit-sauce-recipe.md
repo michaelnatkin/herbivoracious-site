@@ -41,11 +41,6 @@ recipe:
     - "Combine the carrot, daikon, rice wine vinegar and sesame seeds and set aside to pickle a bit."
     - "To assemble, divide the lettuce among 4 large bowls. Top each with a big handful of the rice noodles. Then top with an attractive arrangement of the remaining ingredients: tofu, grapefruit supremes, mango, carrot / daikon salad, chile pepper, cucumber and finally the shallot rings, green onion, cilantro and lime zest. You can either pour on the sauce yourself or divide into individual bowls for your guests to add as they see fit. Offer Sriracha-type hot sauce on the side."
 ---
-<a href="/images/cookbook/rice-vermicelli-bn-with-ginger-grapefruit-sauce.webp"><img src="/images/cookbook/rice-vermicelli-bn-with-ginger-grapefruit-sauce.webp" alt="Rice Vermicelli (Bún) with Ginger-Grapefruit Sauce" /></a>
-
-
-
-
 <a href="/images/cookbook/rice-vermicelli-bn-with-ginger-grapefruit-sauce-2.webp"><img src="/images/cookbook/rice-vermicelli-bn-with-ginger-grapefruit-sauce-2.webp" alt="Rice Vermicelli (Bún) with Ginger-Grapefruit Sauce" /></a>
 
 <a href="/images/cookbook/rice-vermicelli-bn-with-ginger-grapefruit-sauce-3.webp"><img src="/images/cookbook/rice-vermicelli-bn-with-ginger-grapefruit-sauce-3.webp" alt="Rice Vermicelli (Bún) with Ginger-Grapefruit Sauce" /></a>

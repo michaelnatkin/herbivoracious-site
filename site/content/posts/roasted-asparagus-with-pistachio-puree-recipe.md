@@ -31,9 +31,6 @@ recipe:
     - "Preheat oven to 400. Toss the asparagus with a bit of olive oil and kosher salt. Roast on a baking sheet until tender, about 10 minutes. Turn on broiler (or use a blowtorch) and cook until blackened in spots."
     - "To serve, spoon the pistachio puree on a plate and place the asparagus on top. Garnish with the balsamic vinegar, chopped pistachios, Maldon salt and tarragon leaves."
 ---
-
-<a href="/images/2013/04/Asparagus-with-Pistachio-Puree.webp"><img class="alignnone size-large wp-image-3704" alt="Asparagus with Pistachio Puree" src="/images/2013/04/Asparagus-with-Pistachio-Puree-626x415.webp" width="626" height="415" /></a>
-
 At <a href="http://sitkaandspruce.com/">Sitka and Spruce and Bar Sajor</a>, Matt Dillon serves quite a few salads and small plates with a base of various ridiculously good nut purees. Though really, puree isn't quite the right word. They eat more like a sort of nut-based hummus: rich, creamy, slightly fluffy, but packed full of the flavor of roasted nuts.
 
 At <a href="http://www.chefsteps.com/activities/dairy-free-pistachio-gelato">ChefSteps</a>, the kitchen recently did some development work with the American Pistachio Growers, and so we've had vast quantities of great pistachios around. Which is basically kryptonite for me, if kryptonite was really delicious and made you super happy when you ate it.

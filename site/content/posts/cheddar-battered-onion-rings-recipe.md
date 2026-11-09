@@ -27,9 +27,6 @@ recipe:
     - "Whisk together 75 grams (about 3 ounces) of the cheese powder, the egg yolk, 2 tablespoons of oil, salt, xanthan gum (if using), flour and seltzer. It should be rather thin, the consistency of crepe batter, not thick pancake batter. Add more seltzer as needed."
     - "Heat oil for deep frying to 360 degrees. Working in small batches, dredge each onion ring in flour, shake off the excess, dip in the batter, drip off the excess and add to the fryer. I find this easiest to do with chopsticks. Cook until golden brown and remove to paper towels to drain. Pat lightly to remove excess oil. Season with sea salt."
 ---
-<a href="/images/cookbook/cheddar-battered-onion-rings.webp"><img src="/images/cookbook/cheddar-battered-onion-rings.webp" alt="Cheddar-Battered Onion Rings" /></a>
-
-
 <p>The idea for these rings came from a daydream on the way home from work. What if I could make perfect tempura-battered onion rings, and somehow get them to taste like aged cheddar? I didn't want to create a melty mess and ruin the crunch though.</p>
 <p>I ended up broiling the cheese like you would for a frico (cheese crisp), and then grinding it into a powder to add to an otherwise standard tempura batter. The broiling is pretty cool to watch; it looks like a boiling alien planet as all of the moisture cooks off and the fat separates.</p>
 <p>The basic batter is based on Chef Morimoto's small-batch tempura, with a pinch of <a href="https://www.amazon.com/dp/B00IZDIMCM?tag=herb-hugo-20">xanthan gum</a> added. That is optional but really helps with cling.</p>

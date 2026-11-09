@@ -27,9 +27,6 @@ recipe:
     - "Add the vegetable base, the tomatoes, the oregano, the cocoa powder and salt. Cover the blender and process on high speed for 1 minute. The result should be a thick sauce. If it is too thick, add a bit more water. Taste and adjust seasoning, then use to make tamales."
 ---
 
-<a style="display: inline;" href="/images/old/6a00e008d618bb8834014e8a846a38970d-800wi.webp" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb8834014e8a846a38970d" title="Tofu and Red Chili Tamales" src="/images/old/6a00e008d618bb8834014e8a846a38970d-500wi.webp" alt="Tofu and Red Chili Tamales" /></a>
-<em>Tofu and Red Chili Tamales wrapped in Banana Leaves</em>
-
 I love tamales.
 
 I love that they are a project, not something you simply throw together for a weeknight dinner. A project best done with friends and family, beating the masa and making fillings and sauces and forming the tamales together, before sitting down to a celebratory meal.

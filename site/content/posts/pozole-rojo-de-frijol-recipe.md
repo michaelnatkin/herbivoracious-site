@@ -31,9 +31,6 @@ recipe:
     - "Add half of the pureed chiles and all of the lime juice and stir. Taste and adjust seasoning, adding salt and more lime juice or tomatoes as needed to produce a piquant broth. Add more of the chile paste to reach your preferred heat level and pass the rest as a condiment."
     - "Serve it forth, with a good selection of garnishes."
 ---
-<a href="/images/cookbook/pozole-rojo-de-frijol.webp"><img src="/images/cookbook/pozole-rojo-de-frijol.webp" alt="Pozole Rojo de Frijol" /></a>
-
-
 <p>Pozole is a soup or thin stew made all over Mexico, dating back to pre-Columbian times. Vegetarian pozole is almost a non-sequitur, because the original is heavy on the pig, but this version is delicious and filling so I don't think you will miss the meat. It makes a terrific one-pot meal on a cold day. The broth is mildly spicy and sour, which whets your appetite for the hearty beans and hominy corn.</p>
 <p>There are more variations of pozole rojo than you can count, but as long as it has hominy and some kind of red chile in it, you are in the ballpark. (There is another version, pozole verde which includes ground pumpkin seeds.)</p>
 <p>Much of the fun comes with the accompaniments, which you can put out on a big platter and let everyone choose for themselves. Popular options include: avocado slices, cilantro, lime wedges, tortilla chips, shredded cabbage or lettuce, onions and radishes</p>

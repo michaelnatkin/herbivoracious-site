@@ -32,9 +32,6 @@ recipe:
     - "If the peanuts are raw, toast them until lightly browned and fragrant in a toaster oven or a dry skillet over medium-low heat."
     - "Just before serving, stir in the peanuts. Garnish with the cilantro and green onion."
 ---
-<a href="/images/cookbook/spicy-tamarind-glazed-potatoes.webp"><img src="/images/cookbook/spicy-tamarind-glazed-potatoes.webp" alt="Spicy Tamarind-Glazed Potatoes" /></a>
-
-
 <p>There is a famous Thai dish known as Son-in-law Eggs. You’ll get the joke if you realize that eggs in Thai refer to the same part of the male anatomy as huevos in Spanish. To make Son-in-law Eggs, peeled hardboiled eggs are pan-fried or deep-fried until the outside gets wrinkled and brown, and then they are halved and served with a spicy tamarind sauce.</p>
 <p>My vegan variation uses small potatoes instead. The sauce is quite fiery, but the creamy flesh of the potatoes mitigates your pain. Be sure and warn your guests not to eat the whole dried chiles, or remove them before serving.</p>
 <p>These potatoes are great as a side dish in an Indian meal. Or, this might sound like crazy fusion-food talk, but my wife and I have also been known to wrap them up in a burrito with refried beans and sour cream.</p>

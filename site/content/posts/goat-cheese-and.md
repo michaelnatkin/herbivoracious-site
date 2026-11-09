@@ -8,9 +8,6 @@ cover:
   image: "/images/2008-small/09/09/goat_cheese_and_fig_towers.webp"
   hidden: true
 ---
-
-<a href="/images/2008/09/09/goat_cheese_and_fig_towers.webp" rel="lightbox"><img title="Goat_cheese_and_fig_towers" src="/images/2008-small/09/09/goat_cheese_and_fig_towers.webp" alt="Goat_cheese_and_fig_towers" width="455" height="302" border="0" /></a>
-
 I don't really even know what to call these, and I'll be the first to admit that is one sloppy plate. I was just hell-bent on trying out an idea, and since we have a new baby and aren't getting much sleep, sometimes all I can do is to try and make an approximation and file it away for later.
 
 Disclaimers aside, this was pretty darn tasty. I got the idea from an episode of Iron Chef America, Battle Brain Freeze (which was really Battle Melon). I believe it was Flay's side (not Garces) that set some goat cheese with agar, then laid it in a rectangular mold with a piece of melon in the center, and sliced it into cubes.

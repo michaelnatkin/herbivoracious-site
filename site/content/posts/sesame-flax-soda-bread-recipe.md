@@ -30,9 +30,6 @@ recipe:
     - "Allow to cool for a few minutes, and serve with swaths of sweet cream butter."
 ---
 
-<a href="/images/2013/12/Sesame-Flax-Quickbread.webp"><img class="alignnone size-large wp-image-3472" title="Sesame-Flax Soda Bread" src="/images/2013/12/Sesame-Flax-Quickbread-626x415.webp" alt="Sesame-Flax Soda Bread" width="626" height="415" />
-</a><em>Sesame-Flax Soda Bread</em>
-
 Now I know this title might sound like the worst hippie food I've ever posted, but hear me out - because you could be having fresh, delicious bread on your dinner table tonight with about 10 minutes of work.
 
 I'm no whole-grain obsessive. In fact, I love white flour. Whole-grain breads have a coarser texture and totally different flavors than those based on white flour. White flour is primarily a neutral-sweet background that allows other flavors from yeast and fermentation to shine through, while the various whole grains have their own distinct flavors. The key is to work with those flavors, not just substitute them blindly for white flour.

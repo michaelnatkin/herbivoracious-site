@@ -27,9 +27,6 @@ recipe:
     - "Put about 1/4 cup of the heated salsa in each bowl. Spoon in half of the egg and tortilla mixture. Pour the remaining salsa over the eggs. Sprinkle on a bit more salt. Add the reserved fried tortillas on top, and finish with some or all of the suggested garnishes (or offer them at the table.)"
 ---
 
-<a href="/images/2012/05/Chilaquiles.webp"><img class="alignnone size-large wp-image-1936" title="Chilaquiles Verdes" src="/images/2012/05/Chilaquiles-626x415.webp" alt="Chilaquiles Verdes" width="626" height="415" />
-</a><em>Chilaquiles Verdes</em>
-
 First: You didn't forget to enter the contest for a <a href="/2012/05/cook-from-the-book-and-win-a-huge-calphalon-set-contest/" target="_blank">full set of Calphalon pots and pans</a>, did you? You have until 12:01 AM PDT on Monday the 4th.
 
 Now, on to today's dish. There are certain kinds of evenings that imply the need for certain kinds of breakfasts the next morning. If you've had one of <strong>those</strong> evenings,  the kind that demands a sizable dose of protein, salt, and a bit of grease the next day, I can commend you no better breakfast than these chilaquiles. Although there are many variations, the basic idea is that we are going to pan-fry some corn tortillas until they are crispy, then scramble some eggs in with them and serve the whole thing in a mess of hot salsa verde.

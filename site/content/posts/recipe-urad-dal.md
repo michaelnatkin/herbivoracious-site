@@ -26,8 +26,6 @@ recipe:
     - "Heat a frying pan with enough oil or ghee to fill about 1/2\" deep to a temperature of about 340 F."
     - "Carefully drop in portions of the dal mixture and lightly press with a spatula to form patties. About 1/4 c. will do fine. Put as many as you can in your pan without crowding them to close. Fry until golden brown on one side (maybe 4 minutes), then flip and brown the other side. Remove from the pan, drain on a paper towel, and hit it with some finishing salt. Hold hot while you fry the rest and serve them forth. Like anything fried, they are at their best minutes after leaving the oil and deteriorate rapidly, so be ready to chow!"
 ---
-
-<a href="/images/2008/03/23/uraddalbada.webp" rel="lightbox"><img title="Urad Dal Patties (Vada) with Black Pepper" src="/images/2008-small/03/23/uraddalbada.webp" alt="Urad Dal Patties (Vada) with Black Pepper" width="455" height="302" border="0" /></a>
 <span style="font-size: 0.8em;">Urad Dal Patties (Vada) with Black Pepper</span>
 
 Vada (also spelled Bada) are a species of Indian fritter or cake made with various types of lentils (dals). This particular dish is made with urad dal, which is readily available at any Indian market. While you are there, stock up on chana dal, toor dal, moong dal and all the other delicious pulses that aren't used enough in Western cuisine. If you can't find them locally, you can also <a href="https://www.amazon.com/dp/B00RENFSDU?tag=herb-hugo-20">order them from Amazon</a>.

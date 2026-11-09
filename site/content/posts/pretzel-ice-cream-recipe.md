@@ -25,9 +25,6 @@ recipe:
     - "Process according to your ice cream maker's instructions. When it is done but not frozen hard, fold in flaky sea salt to taste."
 ---
 
-<a style="display: inline;" href="/images/old/6a00e008d618bb88340133f4c2d553970b-800wi.webp" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb88340133f4c2d553970b" title="Pretzel Ice Cream" src="/images/old/6a00e008d618bb88340133f4c2d553970b-500wi.webp" alt="Pretzel Ice Cream" /></a>
-<em>Pretzel Ice Cream</em>
-
 My wife ordered vanilla ice cream with pretzel pieces mixed in, and caramel sauce on top, and was enraptured. It made perfect sense; we all know salt and caramel go great together. The pretzels provide the salt along with a beautiful crunch and that warm, toasted flavor.
 
 <strong>So I thought, why not go one better? </strong>Let's make the ice cream itself taste like pretzels. I remembered that Alex and Aki had made <a href="http://ideasinfood.typepad.com/ideas_in_food/2007/02/pumpernickel_ic.html" target="_blank">pumpernickel ice cream</a>, so I was pretty sure it would be possible.

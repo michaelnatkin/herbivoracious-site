@@ -28,9 +28,6 @@ recipe:
     - "Put the smoked pineapple, tomatillos, green onions, garlic, jalapeno, cilantro, salt, agave nectar, and a pinch of chile de arbol in a mini-food processor. Process until it forms a coarse puree. Taste and adjust seasoning. Serve at room temperature for best flavor. This salsa will keep for at least 3 days in the refrigerator."
 ---
 
-<a style="display: inline;" href="/images/old/6a00e008d618bb8834015432c00d13970c-800wi.webp" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb8834015432c00d13970c" title="Smoked Pineapple Salsa" src="/images/old/6a00e008d618bb8834015432c00d13970c-500wi.webp" alt="Smoked Pineapple Salsa" /></a>
-<em>Smoked Pineapple and Tomatillo Salsa</em>
-
 <i><b>NOTE:</b> I no longer recommend jury-rigged stovetop smoking. I've since learned that creating smoke in a low-oxygen sealed environment like this creates unnecessarily high levels of carcinogens. See my <a href="/2013/01/smoked-tofu-buns-recipe/">Smoked Tofu Buns</a> recipe for a safer alternative if you don't have your own method of smoking.</i>
 
 You might notice I've been on a bit of a stovetop-smoking kick, what with last week's <a href="/2011/07/vegetarian-frijoles-charros-mexican-cowboy-beans-with-smoked-onion-recipe.html" target="_blank">frijoles charros</a>. This pineapple and tomatillo salsa uses the exact same method. If you are making both, don't try to get enough smoke from one batch of wood chips; you won't get the best flavor if you run them too long.

@@ -9,9 +9,6 @@ cover:
   hidden: true
 ---
 
-<a href="/images/2012/05/Tofu-101-Done.webp"><img class="alignnone size-large wp-image-1961" title="Crispy Pan Fried Tofu" src="/images/2012/05/Tofu-101-Done-626x415.webp" alt="Crispy Pan Fried Tofu" width="626" height="415" /></a>
-<em>Crispy Pan-Fried Tofu</em>
-
 When I talk with folks about meatless meals, the conversation always comes around to tofu. I find people in two camps: (1) those who hate it and are sure it is always <strong>bland</strong> (2) those who want to like it, but aren't really sure how to work with it to make it delicious.
 
 <strong>I'm here to help.</strong>

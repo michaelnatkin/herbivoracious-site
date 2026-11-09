@@ -32,9 +32,6 @@ recipe:
     - "Turn off the heat, remove the lid, and allow to cool slightly. Stir in the yogurt. Taste and adjust seasoning. Gently reheat, but don't bring all the way up toward a simmer or the yogurt may break."
 ---
 
-<a href="/images/2012/07/Saag-with-Collards-and-Kale.webp"><img class="size-large wp-image-1158" title="Saag with Collards and Kale" src="/images/2012/07/Saag-with-Collards-and-Kale-626x415.webp" alt="Saag with Collards and Kale (Indian style long-cooked greens)" width="626" height="415" /></a>
-<em>Saag with Collards and Kale</em>
-
 It is a depressing fact that 99% of Indian restaurants in America serve the same darn 10 items. Which is a crying shame because there must be 10,000 other terrific dishes that you'll only get to try if you make them yourself (or have an Indian friend that wants to hook you up with the good stuff) (or travel to India).
 
 One of those 10 dishes you always see is <em>saag paneer</em>, spinach cooked with cream and cubes of fresh cheese. It is delicious, but often so rich with cream that you might feel a bit sick if you eat a whole plate, and it also tends to obscure the  flavors of the greens and spices. <em>Saag</em> (also sometimes transliterated as <em>sak</em> or <em>sag</em>) is actually the whole family of dishes made of long cooked leafy greens. In the Punjab and Pakistan, which is where these dishes apparently originated, it can be made with any kind of dark leafy green. Also, the cream can be replaced with other dairy products, as long as you are careful not to bring it back to a boil once you add it.

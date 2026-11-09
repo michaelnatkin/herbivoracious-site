@@ -15,9 +15,6 @@ recipe:
     - "3/4 cup/80 g confectioners’ sugar, sifted"
 ---
 
-<a href="/images/2013/07/Crackers-and-Dips.webp"><img class="alignnone size-full wp-image-3806" alt="Crackers and Dips - Ivy Manning" src="/images/2013/07/Crackers-and-Dips.webp" width="600" height="880" />
-</a><em>Ritzy Peanut Butter Sandwich Crackers - Photo by Jen Altman</em>
-
 There is much to be said for a good single-subject cookbook. As much as I value my collection of general cookbooks, I probably reach for the more specific tomes more than any other, because I know they will have both the recipes and inspiration I'm looking for, and more importantly, the detailed techniques I'm going to need for success. Heck, I still sometimes thumb through my shelves ruefully looking for a great, thin little volume of vegetarian North Indian curries that I'm pretty sure I lost in college.
 
 Ivy Manning's latest, <a href="http://www.amazon.com/gp/product/1452109508/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=1452109508&amp;linkCode=as2&amp;tag=poeticlicen07-20">Crackers &amp; Dips: More than 50 Handmade Snacks</a> is exactly that sort of book. She's got classic crackers, global crackers, healthy crackers, quick crackers and sweet crackers, not to mention a terrific selection of dips and spreads to eat them with. But more importantly, she sets you up to win with detailed tips on how to mix the doughs, which ones can be made ahead, and how to roll them out to the perfect thickness. (Spoiler: a hand-cranked pasta maker is an awesome choice for many crackers.)

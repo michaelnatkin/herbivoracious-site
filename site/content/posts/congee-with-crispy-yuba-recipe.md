@@ -30,9 +30,6 @@ recipe:
     - "Close to serving time, so it stays crispy, pat the yuba skin dry again and then fry in the same skillet. You may need to work in two batches. It will brown quickly, and stick together somewhat like an egg. When it is golden brown, remove to paper towels and sprinkle with a bit of salt."
     - "To serve the congee, divide the porridge among 4 bowls. Top each with one one quarter of the yuba, one quarter of the shallot, one quarter of the cabbage (drained), two sprigs of cilantro and a teaspoon of toasted sesame oil. Add a generous sprinkle of flaky sea salt and serve immediately."
 ---
-<a href="/images/cookbook/congee-with-crispy-yuba.webp"><img src="/images/cookbook/congee-with-crispy-yuba.webp" alt="Congee with Crispy Yuba" /></a>
-
-
 <p>Wherever rice is a staple, from China to India and all points in between, some form of congee is a beloved dish. Congee is simply rice that is cooked in copious amounts of water until it falls apart into porridge. It is often a breakfast dish, and is also considered an excellent recuperative and restorative meal.</p>
 <p>Congee is a blank palette that can be topped by a vast range of accompaniments. It is usually best to include something crunchy, something green, something salty, and a small but substantial hit of protein. Besides my suggestions below, you might consider sliced hardboiled egg, toasted and crushed peanuts, thinly sliced green onions, kimchi (see note on ), tofu, pickled ginger.</p>
 <p>You can also experiment with using less water and shorter cooking times for a congee that is thicker and less broken down. This approach is more common in Japan, where it is known as okayu.</p>

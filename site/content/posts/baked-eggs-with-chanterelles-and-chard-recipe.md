@@ -33,9 +33,6 @@ recipe:
     - "Top with the grated parmesan. Bake for about 50 minutes, until well browned and a toothpick in the center comes out completely dry. Allow to cool at least 15 minutes, then slice and serve."
 ---
 
-<a style="display: inline;" href="/images/old/6a00e008d618bb88340133f5345f90970b-800wi.webp" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb88340133f5345f90970b" title="Chanterelle Chard Baked Eggs" src="/images/old/6a00e008d618bb88340133f5345f90970b-500wi.webp" alt="Chanterelle Chard Baked Eggs" /></a>
-<em>Chanterelle and Chard Baked Eggs</em>
-
 Baked egg dishes are ideal for brunches with friends, especially if you have munchkins that might not wait around patiently while you cook off 30 pancakes!
 
 I hope it is still <a href="https://www.amazon.com/dp/B0BK2VSP7N?tag=herb-hugo-20">chanterelle</a> season in your neck of the woods, as this is a delicious way to serve them. If not, you can substitute another wild mushroom of your choice, or even cultivated mushrooms. If the latter, just be sure to cook off all of the liquid.

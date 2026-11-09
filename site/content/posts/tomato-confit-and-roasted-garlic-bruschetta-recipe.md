@@ -25,9 +25,6 @@ recipe:
     - "Heat a grill or a grill pan to medium high (or use a toaster oven as a last resort). Brush the bread generously on one side with extra-virgin olive oil. Toast until well browned and nice grill marks have formed."
     - "Divide the topping among the four pieces of bread, season with a few flakes of sea salt and serve immediately."
 ---
-<a href="/images/cookbook/tomato-confit-and-roasted-garlic-bruschetta.webp"><img src="/images/cookbook/tomato-confit-and-roasted-garlic-bruschetta.webp" alt="Tomato Confit and Roasted Garlic Bruschetta" /></a>
-
-
 <p>Have you ever wondered what the difference between crostini and bruschetta is? A crostini is generally a hard, crispy toast, while bruschetta is rustic bread that has been brushed with olive oil and grilled.</p>
 <p>When I make the Tomato Confit on , I like to throw a couple of heads of garlic in for the first part of the roasting. See below for how to do it.</p>
 <p>The mint adds an unexpected twist to this topping, but feel free to switch it to oregano, basil, or parsley if you prefer. A few chopped black olives can be added as well.</p>

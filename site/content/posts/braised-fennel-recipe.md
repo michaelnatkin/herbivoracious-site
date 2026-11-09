@@ -31,9 +31,6 @@ recipe:
     - "To serve, transfer the fennel bulbs to a serving platter. Spoon the carrots, onions and sauce over the fennel. Garnish with a generous drizzle of good olive oil, more freshly ground pepper, some flaky salt, the fennel fronds, and the optional fennel pollen."
 ---
 
-<a style="display: inline;" href="/images/old/6a00e008d618bb88340154360e3c7c970c-800wi.webp" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb88340154360e3c7c970c" title="Braised Fennel" src="/images/old/6a00e008d618bb88340154360e3c7c970c-500wi.webp" alt="Braised Fennel" /></a>
-<em>Braised Fennel</em>
-
 Braising is something of a lost art, which is a shame because it isn't at all difficult to do. Learn a couple of basic moves and you'll be rewarded with a succulent, richly flavored, rustic dish that will have you and your guests mopping up every last bit of sauce.
 
 A proper braise is composed of even more basic cooking methods. First you sear the heck out of your main ingredient to develop those beautiful browned flavors. Then you remove it from the pot, quickly sweat your other vegetables, and return the main ingredient along with a small amount of flavorful liquid. With the lid on and the heat lowered, everything steams until tender while the flavors marry and the sauce emulsifies into silky goodness.

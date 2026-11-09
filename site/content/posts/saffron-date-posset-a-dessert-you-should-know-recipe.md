@@ -29,9 +29,6 @@ recipe:
     - "To serve, drizzle some pistachio oil on the posset. Drizzle with honey if using. Top with 5 pistachios, several pieces of date, a few slivers of candied preserved lemon, a few lemon thyme leaves and a few grains of salt."
 ---
 
-<a href="/images/2013/02/Date-Posset.webp"><img class="alignnone size-large wp-image-3566" alt="Date Posset" src="/images/2013/02/Date-Posset-626x352.webp" width="626" height="352" /></a>
-<em>Saffron-Date Posset</em>
-
 One of the many great things about working at <a href="http://chefsteps.com" target="_blank">ChefSteps</a> is that at any given moment, <a href="https://www.amazon.com/dp/B007P4W0OI?tag=herb-hugo-20" target="_blank">amazingly delicious things</a> are subject to appear on top of the staff-food fridge, which means "come 'n get it." A few weeks ago, Grant or Ben or Nick, I'm not sure, put up posset.
 
 Poss-what? Believe me, I had to ask. Posset. It is a classic English dessert, made simply of cream set into a pudding, but with acid instead of starch or egg. Starch and eggs both have a tendency to <strong>suck up flavor</strong>, and egg adds a flavor of its own, so the nice thing about posset is that it tastes only of cream and whatever you flavor it with, plus the tartness from the citric acid. (Traditionally, posset was set with wine or ale, but the citric acid is much easier and more predictable.)

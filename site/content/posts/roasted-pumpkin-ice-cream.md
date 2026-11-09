@@ -22,9 +22,6 @@ recipe:
     - "Churn ice cream however you see fit - with a home ice cream maker, dry ice, liquid nitrogen, or PacoJet if you have one handy."
 ---
 
-<a href="/images/2013/11/Roasted-Pumpkin-Ice-Cream.webp"><img class="alignnone size-large wp-image-3899" alt="Roasted Pumpkin Ice Cream" src="/images/2013/11/Roasted-Pumpkin-Ice-Cream-624x415.webp" width="624" height="415" /></a>
-<em>Roasted Pumpkin Ice Cream</em>
-
 The ultimate plan for this roasted pumpkin ice cream is a plated dessert with grilled mochi, <a href="https://www.amazon.com/dp/B005258AZU?tag=herb-hugo-20">miso</a> butterscotch, and a <a href="https://www.amazon.com/dp/B07TWRT98L?tag=herb-hugo-20">black sesame</a> crumble; I haven't finished the other components yet, but thought I would go ahead and share the ice cream recipe with you. Because it is intended for a dessert with Japanese flavors, I didn't add any of the pumpkin pie spice flavors you might expect, and kept the pumpkin itself a bit subtle.
 
 Although I'm calling this "roasted" pumpkin, I actually use a pressure-cooker technique cribbed from the <a href="http://www.amazon.com/gp/product/0982761007/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0982761007&amp;linkCode=as2&amp;tag=poeticlicen07-20" target="_blank">Modernist Cuisine</a> caramelized carrot soup. Cooking the pumpkin with a bit of baking soda increases the pH and encourages the Maillard reactions that add so much complexity to the flavor. If that doesn't appeal to you, feel free to roast it in the oven instead (but don't use the baking soda in that case, just roast plain pumpkin chunks.) Or if you want an even bigger shortcut, you could use  plain canned pumpkin puree.

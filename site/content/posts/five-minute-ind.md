@@ -26,8 +26,6 @@ recipe:
     - "Add the cabbage and salt, and stir-fry until crisp-tender or tender, your preference. Taste and adjust seasoning."
     - "Garnish with cilantro and/or lemon juice."
 ---
-
-<a href="/images/2008/10/03/indian_cabbage.webp" rel="lightbox"><img title="Five-minute Indian-style cabbage" src="/images/2008-small/10/03/indian_cabbage.webp" alt="Indian_cabbage" width="455" height="302" border="0" /></a>
 <span style="font-size: 0.8em;">Indian-style cabbage you can make in 5 minutes</span>
 
 This cabbage side dish is great to have in your arsenal, because it comes together in 5 minutes flat, and makes a big and flavorful addition to an Indian meal. I break out some variation of it when I'm making a curry, rice and raita and feel the need for one more dish to round out the meal.

@@ -23,9 +23,6 @@ recipe:
     - "For each taco, spread on a couple of tablespoons of refried beans, and top with 4 potato halves. Spoon in some of the scrambled eggs, then a bit of salsa and a sprinkle of cilantro and onions. Serve right away, while still hot, and pass the hot sauce at the table."
 ---
 
-<a href="/images/2013/11/Breakfast-Tacos.webp"><img class="alignnone size-large wp-image-3916" alt="Austin-Style Breakfast Tacos" src="/images/2013/11/Breakfast-Tacos-624x415.webp" width="624" height="415" />
-</a><em>Austin-Style Breakfast Tacos</em>
-
 I've had the good fortune to travel to Austin a couple of times in the last year or so, and it is always good fun. Like Portland, Milwaukee, or Brooklyn, it is a place where people understand that work is important, but having a beer and a bite with friends, listening to music, or just kicking back on the front porch is just as important.
 
 Austin might be most famous for barbeque, but breakfast tacos seem to be a close second. Ask five Austinites where to get the best breakfast tacos and you'll get six opinions. One time I had a flight out to catch at 6 AM, and several friends got into a 15 minute discussion of where I could ask the cab driver to stop at 4:30. (I wasn't quite that committed, but I probably should have been - the options at the airport were dismal indeed.)

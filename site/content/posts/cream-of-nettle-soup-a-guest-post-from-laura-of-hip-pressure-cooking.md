@@ -9,9 +9,6 @@ cover:
   hidden: true
 ---
 
-<a href="/images/2012/01/nettle-soup-resized.webp"><img class="alignnone size-large wp-image-1110" title="nettle soup resized" src="/images/2012/01/nettle-soup-resized-550x415.webp" alt="Stinging nettle soup made in the pressure cooker" width="550" height="415" />
-</a><em>Cream of Stinging Nettle Soup</em>
-
 <em>Today I'm excited to bring you a guest post from Laura of <a href="http://www.hip-cooking.com/" target="_blank">Hip Pressure Cooking</a>. I've fallen in love with my pressure cooker over the past couple of years, and I've come to rely on Laura's site as the definitive resource for how to use it. She doesn't make pressure cooker recipes simply to speed things up. For her, it isn't a useful recipe unless the dish comes out as good or better than it would on the stovetop or in the oven. Laura is Italian, and you can imagine an Italian woman would take a lot of heat for suggesting that traditional foods like <a href="http://www.hip-cooking.com/2010/08/polenta-five-ways.html" target="_blank">polenta</a> can be made successfully in a non-traditional way! So you can be sure assured that her recipes don't just work, they knock it out of the park.</em>
 
 <em>For today's guest post, she shows us how to make a cream of stinging nettle soup, which is perfect timing because nettle season is just about to get going, at least in my part of the country. If you don't forage for them yourself, check out your local farmer's market, as nettles don't typically appear in grocery stores. Take it away, Laura...</em>

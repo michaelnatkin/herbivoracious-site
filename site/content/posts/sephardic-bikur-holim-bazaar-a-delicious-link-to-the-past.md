@@ -8,10 +8,6 @@ cover:
   image: "/images/2012/08/Travathos-Pleating-Ellie1-626x415.webp"
   hidden: true
 ---
-
-<a href="/images/2012/08/Travathos-Pleating-Ellie1.webp"><img class="size-large wp-image-2654 alignnone" title="Repulgo - Pleating the Edge of a Travatho" src="/images/2012/08/Travathos-Pleating-Ellie1-626x415.webp" alt="Repulgo - Pleating the Edge of a Travatho" width="626" height="415" />
-</a>
-
 I'm Jewish, from the Ashkenazi tradition - the group you probably associate with Judaism, emanating from Eastern Europe. When you think of bagels and latkes and schmalz, you are thinking of Ashkenazi. The other major group of jews, called Sephardic, are from Southern Europe and North Africa. <a href="/2008/04/review-nonis-ki/" target="_blank">As</a> <a href="/2009/01/boyikos-aka-boyos-de-queso-sephardic-style-cheese-biscuits-the-greatest-snack-with-a-martini-ever-re/" target="_blank">I've</a> <a href="/2011/02/sephardic-style-breaded-cauliflower-in-lemony-tomato-sauce-recipe/" target="_blank">mentioned</a> <a href="/2012/04/kouftikes-de-prasa-sandwiches-recipe/" target="_blank">before</a>, I had the great fortune to marry into a Sephardic family that has deep roots (over 100 years) in Seattle but maintains many traditions from the old country.
 
 <a href="/images/2012/08/SBH-Bazaar-Prep-Whole-Group.webp"><img class="alignright size-medium wp-image-2658" title="SBH Bazaar Prep - Whole Group" src="/images/2012/08/SBH-Bazaar-Prep-Whole-Group-400x265.webp" alt="" width="400" height="265" /></a>Like most immigrant communities, food is integral to those traditions. Sephardic cuisine, at least in my family, incorporates many of the ingredients and flavors that you would associate with Spain, Turkey, and Greece but without a lot of spicing. The most famous dishes are pastries and breads, both savory and sweet. There are a variety of doughs that are used to make delights such as <em>bulemas</em>, <em>burekas</em>, <em>boyikos</em>, <em>panderas</em>, <em>filas</em>, etc. Fillings range from feta and spinach to potato to pumpkin.

@@ -24,9 +24,6 @@ recipe:
     - "Toast hazelnuts in a skillet over medium heat until lightly browned and fragrant."
     - "Put hazelnuts in a blender and process at medium speed until powdered. Squeeze garlic cloves out of skin and add to blender. Add bell pepper, tomatoes, salt, vinegar and smoked paprika and process to a paste. With blender running on low speed, drizzle in the the hazelnut oil. Taste and adjust seasoning."
 ---
-
-<a href="/images/2013/01/Gigandes-Beans-With-Romesco-and-Saffron-Broth-626x383.webp" target="_blank"><img class="alignnone size-large wp-image-3552" alt="Gigandes Beans With Romesco and Saffron Broth" src="/images/2013/01/Gigandes-Beans-With-Romesco-and-Saffron-Broth-626x383.webp" width="626" height="383" /></a>
-
 Romesco is a wonderful Spanish sauce made from roasted red peppers, tomatoes, roasted garlic and toasted nuts. It can be used as a party dip or spread, served as part of a tapas-style meal, stirred into mayonaise, slathered onto a sandwich...
 
 Romesco is typically thickened with bread, but I wanted a thinner consistency for the dish you see in the picture (with gigandes beans, saffron broth, potatoes and leeks), so I omitted it. If you want thicker romesco, toast or pan-fry one slice of rustic bread and include it with the rest of the ingredients in the blender. (That dish was my contribution to our weekly culinary challenge over on the <a href="http://forum.chefsteps.com/discussion/206/culinary-challenge-2-vegetarian-main-course/p1" target="_blank">ChefSteps forums</a>.) 

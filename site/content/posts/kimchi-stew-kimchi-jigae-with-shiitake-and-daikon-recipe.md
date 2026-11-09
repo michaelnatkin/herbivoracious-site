@@ -31,9 +31,6 @@ recipe:
     - "Add the soy sauce and 3 cups of water. Bring to a boil, reduce to a simmer, and cook, stirring occasionally for 15 minutes. Taste and adjust seasoning. If you’d like it to be spicier, you can add more kimchi, kochujang, or powdered chili pepper (kochugaru), or even chili flakes. Gently stir in the tofu and simmer 5 more minutes."
     - "Divide among the serving bowls, garnish with an additional drizzle of sesame oil and the green onions, and serve immediately."
 ---
-<a href="/images/cookbook/kimchi-stew-kimchi-jigae-with-shiitake-and-daikon.webp"><img src="/images/cookbook/kimchi-stew-kimchi-jigae-with-shiitake-and-daikon.webp" alt="Kimchi Stew (Kimchi Jigae) with Shiitake and Daikon" /></a>
-
-
 <p>Kimchi jigae is classic Korean home cooking that is simple enough to make for a weeknight dinner. The body of the stew comes from chopped kimchi, spiked with chili paste (kochujang, also spelled <a href="https://www.amazon.com/Gochujang-Cholesterol-Calories-Fermented-Marinades/dp/B013HB0CC4?tag=herb-hugo-20">gochujang</a>) and miso. This version is made with daikon, shiitake mushroom caps and tofu, but you can adapt the stew to just about any ingredients you have on hand.</p>
 <p>Daikon is delicious in salads and pickles, but don’t underestimate its value as a cooked vegetable as well. Heat brings out a sweet, tender side that is easy to like.</p>
 <p>Serve this stew with rice and more kimchi for a simple meal, or add a collection of Korean side-dishes (banchan) for a full feast. One easy banchan item is mung bean sprouts, blanched in boiling water and then seasoned with sesame oil and sea salt,</p>

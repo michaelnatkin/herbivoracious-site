@@ -10,9 +10,6 @@ cover:
   hidden: true
 ---
 
-<a style="display: inline;" href="/images/old/6a00e008d618bb8834014e86ad2296970d-800wi.webp" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb8834014e86ad2296970d" title="Dirt Candy - Chef Amanda Cohen" src="/images/old/6a00e008d618bb8834014e86ad2296970d-500wi.webp" alt="Dirt Candy - Chef Amanda Cohen" /></a>
-<em>Amanda Cohen, chef of Dirt Candy in New York's East Village</em>
-
 On Sundays, when <a href="http://www.dirtcandynyc.com/" target="_blank">Dirt Candy</a> is closed, Chef Amanda Cohen rents the restaurant out to a group of World War II submarine veterans. They say it reminds them of old times, though they find it a little claustrophobic. She charges them by the square foot. The bill comes to $1.75.
 
 Just kidding, but Dirt Candy really is unbelievably small. So small that if there are more than three cooks working during the day, you have to set up prep stations in the dining room. So small that to get in the refrigerators in the basement, you have to move around a puzzle of crates, chairs, backpacks and hotel pans, then move them back again to get in the freezer. In most restaurant kitchens, you say "behind" whenever you are moving behind someone's back, so they know not to make any sudden moves with a hot pan or knife. At Dirt Candy, there isn't much point in saying "behind", because you are *always* behind someone.

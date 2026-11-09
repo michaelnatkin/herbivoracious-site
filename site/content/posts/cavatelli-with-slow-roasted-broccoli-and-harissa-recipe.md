@@ -28,9 +28,6 @@ recipe:
     - "Bring a large pot of well-salted water to a rolling boil. Cook the pasta until al dente. Transfer to the skillet with the broccoli, reserving a cup of the pasta water. Raise the heat to medium-high. Toss the pasta with the broccoli. If it seems a little dry, drizzle in some of the pasta water to develop a bit of moistness and shine. Taste and adjust seasoning; it will probably need more salt."
     - "Stir in the parsley and mint. Divide the pasta among the preheated bowls, hit with a few flakes of Maldon salt and some freshly ground pepper, and serve immediately, passing the Parmesan cheese at the table if using."
 ---
-
-<a href="/images/2013/02/Cavatelli-with-Broccoli-and-Harissa.webp"><img class="alignnone size-large wp-image-3586" alt="Cavatelli with Slow Roasted Broccoli and Harissa" src="/images/2013/02/Cavatelli-with-Broccoli-and-Harissa-626x415.webp" width="626" height="415" /></a>
-
 Hopefully we are at a point now where it is no longer considered a faux pas to, you know, actually <strong>cook</strong> a vegetable. I know there was a time when all vegetables were indiscriminately boiled to death. Then came the rebellion, and all vegetables had to be served just lightly waved over steam. Your jaw got a good workout in those years.
 
 The truth is many vegetables can yield different pleasures depending on the time, temperature, and technique by which they are cooked. Broccoli that is steamed or boiled for a long time is horrible gray, sulfurous stuff. But broccoli that is slowly, slowly pan-roasted in a good amount of olive oil becomes meltingly tender and luscious. It makes a perfect condiment for the al dente chew of properly cooked cavatelli.

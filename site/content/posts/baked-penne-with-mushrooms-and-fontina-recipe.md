@@ -33,9 +33,6 @@ recipe:
     - "Add the fontina cheese and several grinds of black pepper to the lasgana pan. Stir everything around thoroughly. If this is too difficult, move some back temporarily to the skillet to make room for stirring. Taste and add more salt if needed."
     - "Sprinkle the top with the parmesan cheese and bake until bubbly and browned, about 15 minutes. (Alternatively, you can prepare the casserole and then refrigerate for up to 24 hours, then bake when you are ready. When baked from cold it will take 45 minutes to an hour.)"
 ---
-<a href="/images/cookbook/baked-penne-with-mushrooms-and-fontina.webp"><img src="/images/cookbook/baked-penne-with-mushrooms-and-fontina.webp" alt="Baked Penne with Mushrooms and Fontina" /></a>
-
-
 <p>This baked penne is a nice alternative to macaroni and cheese. It is jam-packed with mushrooms and spinach. Because it is made with melted cheese instead of a béchamel sauce, the flavors of the mushroom and spinach come through more clearly.</p>
 <p>I like to cut the mushrooms in quarters instead of thin slices for this dish. That allows them to brown nicely on the outside while retaining a satisfying a chew.</p>
 <p>You can use this recipe as a blueprint to make a wide variety of similar baked pastas. You can replace the <a href="https://www.amazon.com/dp/B0014CTCAW?tag=herb-hugo-20">penne rigate</a> with any other medium-sized extruded pasta; the cheese can be anything you fancy as long as it melts well, and the greens could be chard or kale.</p>

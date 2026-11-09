@@ -28,9 +28,6 @@ recipe:
     - "To serve, transfer to a bowl and garnish with the reserved parsley and squash blossoms."
 ---
 
-<a href="/images/2013/07/Zucchini-Sofrito.webp"><img class="alignnone size-large wp-image-3825" alt="Baby Zucchini with Sofrito" src="/images/2013/07/Zucchini-Sofrito-626x415.webp" width="626" height="415" /></a>
-<em>Baby Zucchini and Blossoms with Sofrito</em>
-
 Every gardener loves to lament that they get overrun with zucchini and have to resort to baking too much zucchini bread or, worse, ringing the doorbell, dashing and leaving them on people's doorsteps. Well, let me tell you: you're doing it wrong.
 
 The way to avoid being overrun with zucchini is pick them when they are tiny and delicious. This recipe can easily use a dozen of them, along with most of the blossoms! Using up a dozen woody, pithy, flavorless giant zucchini is an unpleasant chore indeed. So get out there, grab a bunch of baby zukes and cook them up into this delicious side dish, flavored with with "cheater sofrito" that uses <a href="https://www.amazon.com/dp/B00EHDWTB4?tag=herb-hugo-20">tomato paste</a> to reduce the cooking time.

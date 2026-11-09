@@ -28,9 +28,6 @@ recipe:
     - "Cut each roll in half and pull out some of the soft bread to make more room for the filling. Lightly toast the rolls."
     - "To assemble, line up the bottom halves of the four rolls. Top each one with one quarter of the refried beans and scrambled eggs (or avocado). If using the avocado, season it with a generous sprinkle of salt. Add one half of a poblano pepper, some of the red cabbage mixture, a generous sprinkle of the cotija cheese, and a few sprigs of cilantro. Cut in half if desired and serve immediately, offering hot sauce at the table."
 ---
-<a href="/images/cookbook/mexican-breakfast-torta.webp"><img src="/images/cookbook/mexican-breakfast-torta.webp" alt="Mexican Breakfast Torta" /></a>
-
-
 <p>Tortas are Mexican sandwiches. They generally have a base of refried beans which can be topped with just about anything – in this case, scrambled eggs (or avocado, for a vegan version), a roasted poblano pepper, and a simple cabbage slaw.</p>
 <p>The traditional roll for a tortas is a bolillo or telera, either of which you may find at any Mexican market. If you are vegetarian, you’ll want to double-check the ingredients to make sure no lard is involved. Otherwise, you can use an American sandwich roll. It can have a thin, crispy crust or a soft crust, but the interior must be light and soft. Whatever you choose, it should not be hard to bite through.</p>
 <p>You always want to remove some of the interior to make a sort of trough to help keep the fillings in place.</p>

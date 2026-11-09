@@ -18,9 +18,6 @@ recipe:
     - "Bring all ingredients to a simmer in a small saucepan. Simmer 5 minutes. Strain and reserve in refrigerator."
 ---
 
-<a href="/images/2012/10/Banana-Buttermilk-Panna-Cotta1.webp"><img class="alignnone size-large wp-image-3110" title="Banana Buttermilk Panna Cotta" src="/images/2012/10/Banana-Buttermilk-Panna-Cotta1-626x415.webp" alt="Banana Buttermilk Panna Cotta (unmolded)" width="626" height="415" />
-</a><em>Caramelized Banana and Buttermilk Panna Cotta</em>
-
 Panna cotta is a classic Italian dessert, traditionally made from cream and milk set with gelatin, which isn't vegetarian. The gelatin is what makes it different from flan (set with eggs) or pudding (set with starch and sometimes eggs). The best panna cotta is ultra-creamy and just barely set - it should have a <strong>distinct wiggle</strong> to it. So the challenge in making a vegetarian panna cotta is to replace the gelatin with something that doesn't make a brittle, crumbly, or over-firm gel.
 
 Agar-agar might not seem like the ideal choice here, because indeed it does have a tendency to make brittle gels that fracture when you bite into them, rather than seeming to melt. That problem becomes worse at higher concentrations though, so I figured if I could give it some help by starting with an already thickish flavor-base, I could use a lot less agar. In this case, using <strong>buttermilk, cream, and caramelized banana puree</strong> worked like a treat - I was able to use only 0.2% agar by weight, which resulted in a completely creamy, wiggly, delicious panna cotta.

@@ -29,9 +29,6 @@ recipe:
     - "To serve, open the bag of rice, empty into a bowl, and stir in boiling water from a kettle until it is at a pleasing consistency, somewhere on the soupy side of oatmeal. Divide among four hot bowls. Crack an egg and put in each bowl, followed by 3 of the yuba rolls and a couple of tablespoons of the pickled cabbage."
 ---
 
-<a href="/images/2013/05/Sous-Vide-Shiitake-Congee.webp"><img class="alignnone size-large wp-image-3542" alt="Sous Vide Shiitake Congee" src="/images/2013/05/Sous-Vide-Shiitake-Congee-622x415.webp" width="622" height="415" />
-</a><em>Shiitake Congee</em>
-
 In the next paragraph, I'm going to use a <strong>potentially scary word</strong>. After all, it is French, and it also might make you think you are going to need expensive new kitchen gear to do it (you won't). Please remain calm, because as you'll see, I need your help.
 
 And that word is: <em>sous vide</em>. <strong>(Fine, it is two words.)</strong> If you aren't familiar with it, in short it literally means cooking food that has been sealed in a vacuum, but in practical terms it means cooking food with precise control of the final internal temperature, usually sealed in a plastic bag in a water bath. In November I started working at <a href="http://chefsteps.com" target="_blank">ChefSteps.com</a>. We've made it our mission to show the world that sous vide isn't just for professional chefs, isn't expensive, and doesn't have to be scary. In fact, it is <a href="http://blog.chefsteps.com/2012/12/why-sous-vide-is-the-best-bargain-in-cooking/" target="_blank">eminently practical</a> for straightforward home cooking - and you can do it without any new equipment at all if you don't mind <a href="http://www.chefsteps.com/courses/accelerated-sous-vide-cooking-course/improvised-sous-vide-cooking-pot-on-a-stove-method" target="_blank">improvising a bit</a>.

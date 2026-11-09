@@ -20,9 +20,6 @@ recipe:
   instructions:
     - "In a small bowl, whisk together half of the kochujang and all of the mirin, rice vinegar, salt, and ginger. Whisk in enough ice cold water to reach a thin sauce consistency. Taste and adjust seasoning, adding the rest of the kochujang depending on your heat preference. Refrigerate, or if you want to serve soon, place in the freezer."
 ---
-
-<a href="/images/2012/05/Joll-Noodles.webp"><img class="alignnone size-large wp-image-1917" title="Bibim Naengmyeon (Cold Korean Noodles)" alt="" src="/images/2012/05/Joll-Noodles-612x415.webp" width="612" height="415" /></a>
-
 Cold. <strong>Not cool</strong>. Cold, cold, cold. <strong>Ice cold</strong>. That's what makes these noodles great.
 
 I first had <em>bibim naengmyeon </em>at a restaurant named Mandoo Bar in the New York's Koreatown, although they call it Joll Noodles. Perhaps there is a difference, but google has failed to set me straight, so if any of you can shed more light on the subject, I'm all ears. I see that some folks make them with buckwheat (soba) noodles, but the version I had used sweet potato starch noodles (like in <a href="/2010/04/vegetarian-japchae-a-guest-recipe-by-alice-of-savory-sweet-life/" target="_blank">Alice's japchae</a>) which are slippery and very chewy and altogether delightful. You might like to offer your diners <a href="https://www.amazon.com/dp/B0000CFLH7?tag=herb-hugo-20">kitchen shears</a> to cut the noodles in their bowls before eating.

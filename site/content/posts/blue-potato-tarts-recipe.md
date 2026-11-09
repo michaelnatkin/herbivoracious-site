@@ -29,9 +29,6 @@ recipe:
     - "Whisk together the cream, chevre, garlic and ¼ teaspoon truffle salt or Kosher salt. Brush the tart crusts with olive oil and then spread the chevre mixture evenly over the tarts. Lay the potato slices over the tarts neatly, overlapping so about 1/8” of each potato is revealed. (You’ll have more than you need; this allows for a few slices to break). Brush the potatoes with more olive oil and sprinkle on a bit more salt."
     - "Bake to heat through, about 10 minutes. Remove from the oven, allow to cool slightly, then garnish with the aged balsamic vinegar and parsley. Cut each tart into five slices and serve immediately."
 ---
-<a href="/images/cookbook/blue-potato-tarts.webp"><img src="/images/cookbook/blue-potato-tarts.webp" alt="Blue Potato Tarts" /></a>
-
-
 <p>I love to make this tart using a variety of potato that is blue all the way through. The presentation really shows off this beautiful vegetable. You can of course use other varieties. It is nice if they are small enough to arrange whole slices on these rectangular pies.</p>
 <p>If you happen to have <a href="https://www.amazon.com/dp/B0BG9BNZDW?tag=herb-hugo-20">truffle salt</a>, you can use it throughout this recipe to add an extra dimension of flavor; it will still be perfectly delicious if you use regular Kosher salt. (Of course if you happen to have an actual black truffle on hand, you can shave it into the cream and on top of the finished dish, and then call me for dinner.)</p>
 

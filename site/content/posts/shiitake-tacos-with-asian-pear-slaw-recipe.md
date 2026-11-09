@@ -35,9 +35,6 @@ recipe:
     - "Put the lime juice in a small bowl. Using a mandoline or a knife, julienne the Asian pear, tossing frequently with the lime juice so that it doesn’t brown. Add the red onion, cilantro and kosher salt."
     - "Wrap the corn tortillas in a lightly moistened towel and microwave until soft and steaming, about 2 minutes. To serve, make 8 stacks of two tortillas each. Top each pair of tortillas with a big spoonful of the shiitakes, and a smaller spoonful of the slaw, and serve immediately."
 ---
-<a href="/images/cookbook/shiitake-tacos-with-asian-pear-slaw.webp"><img src="/images/cookbook/shiitake-tacos-with-asian-pear-slaw.webp" alt="Shiitake Tacos with Asian Pear Slaw" /></a>
-
-
 <p>I love to make up taco combinations using a substantial component like shiitake mushrooms, contrasted with a bright fresh slaw. Serve these up with big plates of refried beans, Mexican rice (or the Non-Traditional Arroz Verde on ), and homemade guacamole for a feast that is only a bit more work than ordinary “taco night”, but a lot more interesting.</p>
 <p>The technique of dry-roasting the jalapeno peppers and garlic for these tacos is very typical in Mexican cuisine. It is a quick way of both mellowing and concentrating the flavors. I highly recommend wearing disposable rubber gloves when seeding and chopping the jalapenos, to avoid the risk of having your hands burn later.</p>
 <p>The bok choy in this recipe is the full-grown vegetable, usually about 10-12” long, with dark green leaves, not baby bok choy.</p>

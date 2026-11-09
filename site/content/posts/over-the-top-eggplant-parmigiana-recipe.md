@@ -34,11 +34,6 @@ recipe:
     - "Bake in the oven for about 20 minutes, until the cheese it thoroughly melted."
     - "To serve, toss the heirloom tomatoes with the remaining basil. Put an eggplant stack on each plate, and top with 1/4 cup of the heirloom tomato mixture and a grind of fresh black pepper."
 ---
-<a href="/images/cookbook/over-the-top-eggplant-parmigiana.webp"><img src="/images/cookbook/over-the-top-eggplant-parmigiana.webp" alt="Over the Top Eggplant Parmigiana" /></a>
-
-
-
-
 <a href="/images/cookbook/over-the-top-eggplant-parmigiana-2.webp"><img src="/images/cookbook/over-the-top-eggplant-parmigiana-2.webp" alt="Over the Top Eggplant Parmigiana" /></a>
 
 <a href="/images/cookbook/over-the-top-eggplant-parmigiana-3.webp"><img src="/images/cookbook/over-the-top-eggplant-parmigiana-3.webp" alt="Over the Top Eggplant Parmigiana" /></a>

@@ -20,9 +20,6 @@ recipe:
     - "In a small bowl, stir together the vinegar, shallot, thyme and salt. Allow to stand for ten minutes. Drizzle in the olive oil while whisking to emulsify. Taste and adjust seasoning. Reserve."
 ---
 
-<a href="/images/2011/12/Seared-Tofu-and-Apples-with-Champagne-Vinaigrette.webp"><img class="alignnone size-large wp-image-904" title="Seared Tofu and Apples with Champagne Vinaigrette" src="/images/2011/12/Seared-Tofu-and-Apples-with-Champagne-Vinaigrette-626x415.webp" alt="" width="626" height="415" /></a>
-<em>Pan Seared Tofu and Apples with Champagne Vinaigrette and Pomegranate Seeds</em>
-
 I stopped by <a href="http://bcove.me/rsh55wgj" target="_blank">Northwest Tofu</a> the other day and came home with their beautiful pressed tofu, along with regular tofu (still warm) and <a href="/2011/12/crispy-yuba-tofu-skin-rolls-recipe/" target="_blank">fresh yuba</a>. Casting about for a lunch I could throw together in just minutes, I tossed the pressed tofu in <a href="/2009/11/my-skillet/" target="_blank">my skillet</a> and rummaged around in the fridge to see what would could join the party.
 
 Now normally I use tofu almost exclusively in Asian dishes. I'm not inclined to go pureeing it into milkshakes or stuffing it into lasagna. But when I saw a container of leftover pomegranate seeds (well, arils if you want to be technical) marinating in champagne vinaigrette, flavored with lots of fresh thyme, it just jumped out at me that it would be delicious with the super-fresh, well browned tofu. Then I thought of the Braeburn apples that <a href="http://www.fullcircle.com/" target="_blank">Full Circle</a> had brought, and five minutes later, this salad was born.

@@ -9,9 +9,6 @@ cover:
   hidden: true
 ---
 
-<a href="/images/2013/01/Smoked-Tofu-Buns.webp"><img class="alignnone size-large wp-image-3509" title="Smoked Tofu Buns" src="/images/2013/01/Smoked-Tofu-Buns-626x415.webp" alt="" width="626" height="415" /></a>
-<em>Smoked Tofu Buns</em>
-
 Yes, this is directly inspired by David Chang's legendary pork buns. I just did them with smoked tofu instead of pig, and my pickle is a little different, and I kinda like <a href="https://www.amazon.com/dp/B013HB0CC4?tag=herb-hugo-20">kochujang</a> (Korean miso/chili paste) on them instead of hoisin sauce. Next time I think I might swap out the pickle in favor of some thinly sliced kimchi, because I ate some leftover <strong>smoked tofu with kimchi</strong> and it was delicious.
 
 These buns are nominally an appetizer, but they are pretty filling - a couple of them and you won't necessarily want a huge main course.

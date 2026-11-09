@@ -34,11 +34,6 @@ recipe:
     - "Put serving bowls in the oven to warm up. Remove the soup from the heat and very carefully and thoroughly puree with a blender (working in batches) or stick blender. Be sure you know how to safely puree hot, thick liquids, or allow it to cool first. Add a little more soymilk if needed to reach a nice soup texture. Strain through a fine sieve and return to pot over medium low heat to come back to serving temperature. Taste and adjust seasoning."
     - "To serve, ladle the soup into warmed bowls. Garnish with a drizzle of the pomegranate molasses and a small handful of the pumpkin seed clusters, broken up if needed. Zest the orange directly over the soup so that the essential oils are released, allowing a few strands of zest to fall on each bowl. Finish with a few more grains of flaky sea salt and serve immediately."
 ---
-<a href="/images/cookbook/butternut-squash-soup-with-maple-pumpkin-seeds.webp"><img src="/images/cookbook/butternut-squash-soup-with-maple-pumpkin-seeds.webp" alt="Butternut Squash Soup with Maple Pumpkin Seeds" /></a>
-
-
-
-
 <a href="/images/cookbook/butternut-squash-soup-with-maple-pumpkin-seeds-2.webp"><img src="/images/cookbook/butternut-squash-soup-with-maple-pumpkin-seeds-2.webp" alt="Butternut Squash Soup with Maple Pumpkin Seeds" /></a>
 
 <div class="recipe-card">

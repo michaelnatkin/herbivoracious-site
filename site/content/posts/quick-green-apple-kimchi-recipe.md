@@ -23,9 +23,6 @@ recipe:
     - "Reserve in refrigerator until ready to use. Use within a couple of hours or it can become too soggy."
 ---
 
-<a href="/images/2012/09/Green-Apple-Kimchi.webp"><img class="alignnone size-large wp-image-2774" title="Green Apple Kimchi" src="/images/2012/09/Green-Apple-Kimchi-626x415.webp" alt="Green Apple Kimchi" width="626" height="415" /></a>
-<em>Green Apple Kimchi, shown here with Tofu Lettuce Wrap and Hatcho Miso Sauce</em>
-
 As I mentioned in the <a href="/2012/08/tomato-and-nectarine-salad-with-a-korean-dressing-recipe/" target="_blank">Tomato and Nectarine Salad</a>, I've fallen in love with <a href="http://www.amazon.com/dp/B004W71CJU/?tag=poeticlicen07-20" rel="nofollow" target="_blank">gochugaru (Korean chili powder</a>). It is spicy, but not so spicy that you can't use enough of it to also appreciate its fruity, tart notes. I like using it to make quick "kimchi". I'm putting the "kimchi" in quotes because there is no fermentation at all. I'm <strong>not</strong> putting it in quotes because this is apple, not cabbage - Koreans make kimchi from all sorts of things besides those familiar leaves.
 
 You can take this same blueprint and make a quick, spicy pickle out of just about anything - cucumbers, peaches, daikon. Use your imagination! You can even add a little bit of juice from fermented kimchi to get some of that lactic acid punch in there. Otherwise, I include a bit of rice vinegar.  These kinds of pickles make a great <a href="/2011/06/three-easy-banchan-korean-side-dishes-recipes/" target="_blank">banchan</a> for any Korean meal, or just eat it on rice (maybe with a fried egg), or on a sandwich, or ... the possibilities are endless, because almost any dish is better with a bit of heat, fresh crunch, acid and salt.

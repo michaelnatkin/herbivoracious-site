@@ -28,9 +28,6 @@ recipe:
     - "If using the skewers, insert two into each piece."
     - "Sprinkle on the sesame seeds and serve immediately."
 ---
-<a href="/images/cookbook/tofu-dengaku.webp"><img src="/images/cookbook/tofu-dengaku.webp" alt="Tofu Dengaku" /></a>
-
-
 <p>These broiled tofu skewers are a street food in Japan, grilled over wickedly hot charcoal. You can create a similar effect using your broiler. If you do it this way, it is still fun to add the skewers afterwards so diners can pick them up to eat. Of course if you have a grill going, go ahead and use it for the smoky flavor, just oil the tofu well so it doesn’t stick, and put in the skewers first.</p>
 <p>Be sure to use the firmest tofu you can find and work hard to dry the surface, otherwise it will keep leaching out water and refuse to brown properly.</p>
 <p>If you are mainly familiar with miso in soup form, it might be a little bit of a surprise to experience the almost chocolaty intensity it packs when eaten practically straight.</p>

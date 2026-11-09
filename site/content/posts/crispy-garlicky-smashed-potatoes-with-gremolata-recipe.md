@@ -26,9 +26,6 @@ recipe:
     - "Spoon the garlic and oil over the potatoes, distributing as evenly as possible. Sprinkle with Kosher salt. Return the tray to the oven, raise heat to 500, and cook until the skins are crispy in many spots. This will take at least 20 minutes."
     - "Mince the parsley and lemon zest together to make the gremolata. Put the potatoes in a serving bowl, being sure to gather up all the crispy bits garlic. Sprinkle the gremolata over the top, add a generous amount of flaky sea salt and serve immediately."
 ---
-
-<a style="display: inline;" href="/images/old/6a00e008d618bb88340147e2b4a5ca970b-800wi.webp" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb88340147e2b4a5ca970b" title="Crispy Roasted Potatoes with Garlic and Gremolata 2" src="/images/old/6a00e008d618bb88340147e2b4a5ca970b-500wi.webp" alt="Crispy Roasted Potatoes with Garlic and Gremolata 2" /></a>
-
 A whole head of garlic.
 
 This is one of those recipes you can become famous for with your friends and family. It is very easy to make, you just have to have the nerve to use a whole head of fresh garlic and plenty of good olive oil, and the patience to roast the potatoes until the skins crisp up. Check the <a href="http://www.shopbot.com.au/large-kitchen-appliances/appliances/australia/mc/747" target="_blank">oven</a> frequently to make sure you aren't burning the garlic.

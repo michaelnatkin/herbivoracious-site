@@ -32,9 +32,6 @@ recipe:
     - "Fold the wrapper over first in one direction and then the other, rolling the lip to make a firm seal, moderately tight around the ingredients, but leave a bit of room for steam. Secure with two toothpicks. Place on a baking sheet in the oven and cook for about 20 minutes. If you are using parchment paper, it will turn quite brown, which is normal."
     - "To serve, place each packet on an individual plate. Tell the diners to open it carefully and enjoy the aromatic steam. Pass the lime wedges."
 ---
-<a href="/images/cookbook/aromatic-tofu-en-papillote.webp"><img src="/images/cookbook/aromatic-tofu-en-papillote.webp" alt="Aromatic Tofu En Papillote" /></a>
-
-
 <p>Imagine opening a present at the table, and being greeted with a rush of aromatic steam full of lemongrass and ginger that makes you close your eyes with pleasure.  Baking your food in <a href="https://www.amazon.com/dp/B07H79KX8W?tag=herb-hugo-20">parchment paper</a> or banana leaves is just the ticket to that experience.</p>
 <p>Rather than pre-marinating the tofu, for this recipe we score it in both directions to open up lots of surface area for the seasoning to penetrate. This also creates an interesting look, somewhat similar to fish.</p>
 <p>One nice thing about making individual packets is that you can customize the spice level for each person if necessary. For children, leave out the jalapeno and long pepper and add their favorite vegetables.</p>

@@ -20,9 +20,6 @@ recipe:
     - "To serve, put a healthy stack on each plate, and top with about 1/4 cup of the diced heirloom tomatoes, any remaining basil, and a grind of fresh pepper."
 ---
 
-<a style="display: inline;" href="/images/old/6a00e008d618bb88340134874f99a5970c-800wi.webp" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb88340134874f99a5970c" title="Eggplant Parmigiana" src="/images/old/6a00e008d618bb88340134874f99a5970c-500wi.webp" alt="Eggplant Parmigiana" /></a>
-<em>Eggplant Parmigiana</em>
-
 This eggplant parmigiana is one of my favorite celebratory dishes for late summer, when the eggplants and tomatoes are at their very best. I use canned tomatoes for the sauce, and a dice of fresh heirloom cherry tomatoes and basil on top, after it comes out of the oven. The combination of fresh and cooked tomato flavor is unbeatable.
 
 At the market, look for eggplants that are very dense. When you pick one up, you should feel surprised at how heavy it is. I don't bother with salting and draining eggplants for most dishes, but for this one it makes a big difference. You don't want a bunch of liquid coming off of the eggplant when it is in the oven, making the breading soggy.

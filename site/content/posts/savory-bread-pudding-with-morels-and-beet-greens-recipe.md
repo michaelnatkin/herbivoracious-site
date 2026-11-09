@@ -36,9 +36,6 @@ recipe:
     - "Remove from the oven, let cool for at least 15 minutes, garnish with a sprinkle of flaky sea salt, fresh ground black pepper and minced chives and serve it forth."
 ---
 
-<a style="display: inline;" href="/images/old/6a00e008d618bb8834014e8a482c36970d-800wi.webp" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb8834014e8a482c36970d" title="Savory Morel Bread Pudding" src="/images/old/6a00e008d618bb8834014e8a482c36970d-500wi.webp" alt="Savory Morel Bread Pudding" /></a>
-<em>Savory Bread Pudding with Morel Mushrooms and Beet Greens</em>
-
 <strong>I wish you could smell this.</strong>
 
 It is one of those dishes where you take a deep whiff of wild mushrooms, garlic, rosemary, and butter and you get a little bit dizzy for a second.

@@ -35,9 +35,6 @@ recipe:
     - "To serve, you may either divide the rice among four bowls and top with the plantains, beans, avocado, mango, cilantro and sauce, or serve all of the ingredients separately and let diners make their own. Pass the lime quarters to squeeze over the finished plate as desired."
 ---
 
-<a style="display: inline;" href="/images/old/6a00e008d618bb8834015432781119970c-800wi.webp" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb8834015432781119970c" title="Coconut Rice with Black Beans, Plantains, and Mango Salsa" src="/images/old/6a00e008d618bb8834015432781119970c-500wi.webp" alt="Coconut Rice with Black Beans, Plantains, and Mango Salsa" /></a>
-<em>Coconut Rice with Black Beans, Plantains, and Mango Salsa</em>
-
 At my house, we eat food in styles from all over the world, but <strong>rice is far and away our most popular substrate</strong>. I'm always experimenting with new ways to cook rice as well as new things to serve with it.
 
 Today's dish is <strong>Caribbean inspired</strong>, with coconut milk-scented rice, black beans, plantains, avocado, mango, and a mango salsa. It is especially good for serving to kids, because they can easily pick and choose the ingredients they enjoy. The mango salsa is moderately spicy, adding some extra interest for adults. (And that same salsa could be applied to a wide variety of other meals, ranging from Mexican to southeast Asian).

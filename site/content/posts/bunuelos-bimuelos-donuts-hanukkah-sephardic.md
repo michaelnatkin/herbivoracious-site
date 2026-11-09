@@ -27,9 +27,6 @@ recipe:
     - "Drizzle with honey (or offer honey for dipping, or dust with powdered sugar) and serve immediately."
 ---
 
-<a style="display: inline;" href="/images/old/6a00e008d618bb8834013488983680970c-800wi.webp" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb8834013488983680970c" title="Bunuelos (or Bimuelos) with Honey - Sephardic Hanukkah Donuts" src="/images/old/6a00e008d618bb8834013488983680970c-500wi.webp" alt="Bunuelos (or Bimuelos) with Honey - Sephardic Hanukkah Donuts" /></a>
-<em>Bunuelos (or Bimuelos) with Honey - Sephardic Hanukkah Donuts</em>
-
 When my friend <a href="http://www.laraferroni.com/" target="_blank">Lara Ferroni</a> sent me a review copy of her new book, <a href="https://www.amazon.com/dp/1570616418?tag=herb-hugo-20" target="_blank">Doughnuts: Simple and Delicious Recipes to Make at Home</a>, my kiddo and I spent a fun hour on the couch, leafing through and dog-earing the pages of all of the delicious desserts we want to make. When we were done, pretty much every page was bent!
 
 If you enjoy making treats at home, you definitely want to own this book. Lara has managed to pack a tremendous amount of solid, basic information about how to make a wide variety of doughnuts into this approachable and beautifully photographed volume. There are fundamental recipes for everything from classic raised to gluten-free cake doughnuts, as well as lots of specialty items like Hawaiian malasadas, and every flavor from German Chocolate to Brandied Eggnog.

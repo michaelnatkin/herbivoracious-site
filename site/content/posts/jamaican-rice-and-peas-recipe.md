@@ -27,9 +27,6 @@ recipe:
     - "If using the rice cooker, turn on and run a normal cycle. If using the stove, bring to a boil, cover, and reduce to a bare simmer, then cook until all of the water is absorbed."
     - "To serve, remove the whole green onions, thyme sprigs, and chile if using. Fluff the rice and turn out into a bowl. Garnish with the remaining green onion, finely sliced, and serve immediately."
 ---
-<a href="/images/cookbook/jamaican-rice-and-peas.webp"><img src="/images/cookbook/jamaican-rice-and-peas.webp" alt="Jamaican Rice and Peas" /></a>
-
-
 <p>Rice and Peas is a classic Jamaican dish, traditionally served on Sundays. Peas in this case actually refer to kidney beans, pigeon peas or cowpeas. The rice is richly flavored with coconut milk, garlic, crushed green onions, thyme, and, if you dare, a Scotch Bonnet or habanero pepper.</p>
 <p>Even though the pepper is left whole, it will still infuse the dish with a subtle bit of heat if you choose to use it. For a bit more spice, cut a slit in the pepper, and if you are really crazy you can cut it up – wearing rubber gloves!</p>
 <p>I prefer to make Rice and Peas in a <a href="https://www.amazon.com/dp/B007WQ9YNO?tag=herb-hugo-20">rice cooker</a>, but if you want to do it on the stovetop, the recipe below offers both options.</p>

@@ -39,9 +39,6 @@ recipe:
     - "Thin the mole a little with broth (or water), to a saucy consitency, and make sure it is piping hot. Ladle a generous amount over each plate, top with a few rings of white onion and a scattering of cotija, and serve immediately."
 ---
 
-<a href="/images/2013/03/Enchiladas-De-Mole-2.webp"><img class="alignnone size-large wp-image-3631" alt="Vegetarian Enchiladas de Mole" src="/images/2013/03/Enchiladas-De-Mole-2-626x415.webp" width="626" height="415" /></a>
-<em>Vegetarian Enchiladas de Mole with Mushrooms and Zucchini</em>
-
 Mole (or, rather, moles, since there are many varieties) is <strong>shrouded in legend</strong>. The dried-chili based sauces, rich with chocolate, spices, herbs and nuts or seeds can contain up to 36 ingredients, each of which has to be individually ground and toasted over a period of days. Each family has its own secret recipe.
 
 This is all completely valid, but you can make a basic version that is about <strong>90% as tasty in an hour</strong>. The only unusual ingredients you'll need are a couple of varieties of dried chili pepper - pasilla and ancho to be specific, and they can be found in many well-stocked groceries these days, although they are much less expensive at Mexican markets.

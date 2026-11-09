@@ -23,9 +23,6 @@ recipe:
     - "Cook until lightly browned on one side, about 1 minute or a bit more, then flip and cook for just about 30 seconds on the other side. I usually perform the flip by lifting the edge with a silicone spatula and then using my fingers to rapidly turn it over. I have asbestos fingers though, so only try it this way if you feel comfortable that you won't hurt yoursellf. Otherwise, try using two spatulas."
 ---
 
-<a href="/images/2012/08/Crepes-with-Sage-Roasted-Plums-and-Yogurt.webp"><img class="alignnone size-large wp-image-2598" title="Crepes with Sage Roasted Plums and Yogurt" src="/images/2012/08/Crepes-with-Sage-Roasted-Plums-and-Yogurt-626x415.webp" alt="Crepes with Sage Roasted Plums and Yogurt" width="626" height="415" />
-</a><em>Crepes with Roasted French Plums, Yogurt and Honey</em>
-
 Julia Child's 100th birthday is coming up on 8/15/12, and PBS has been doing this very fun <a href="http://www.pbs.org/food/julia-child-100-birthday/" target="_blank">#cookforjulia</a> event to commemorate her. When they asked me to contribute a recipe, I knew right away that I wanted to do something with crepes. Julia and I go back a long way. I only have two <strong>cookbooks from my Mom</strong>. <a href="http://www.amazon.com/dp/0375413405/?tag=poeticlicen07-20" target="_blank">Mastering the Art of French Cooking, Volume 1</a> is one of them, and the other is an enormous Chinese cookbook that I've never found very usable.
 
 I read <em>Mastering</em> cover-to-cover many times when I was just starting out in the kitchen. Julia’s fanatical attention to detail in her recipes was fascinating. It wasn’t always easy to sort out which of the fine points were crucial and which were just niceties, but she taught me to scrutinize every aspect and not be satisfied with “adequate” food – an impact that I still feel, 30 years later.

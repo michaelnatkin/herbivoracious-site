@@ -36,9 +36,6 @@ recipe:
     - "Divide among the serving plates, garnish with the ricotta salata, and serve immediately."
 ---
 
-<a style="display: inline;" href="/images/old/6a00e008d618bb8834014e60d72305970c-800wi.webp" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb8834014e60d72305970c" title="Gnocchi with Ricchio, Leeks and Ricotta Salata" src="/images/old/6a00e008d618bb8834014e60d72305970c-500wi.webp" alt="Gnocchi with Ricchio, Leeks and Ricotta Salata" /></a>
-<em>Pan-Fried Gnocchi with Radicchio, Leeks and Ricotta Salata</em>
-
 When I <a href="/2008/02/what-i-learned/" target="_blank">worked at Cafe Flora</a>, we had gnocchi on the menu for a few months, so I had the opportunity to make, oh, a thousand of them by hand most days. Knocking out a few servings for my family seems like a walk in the park by comparison - and it really is easy once you get the hang of the few simple tips I'll share with you.
 
 Gnocchi are fantastic when simply boiled, buttered and bathed in a basic tomato sauce. Pan-frying the boiled gnocchi is another favorite method; it adds a layer of crispy textural contrast to the creamy interior, and some delicious toasty flavor notes as well. Here I've paired the crispy gnocchi with melted leeks, slightly bitter radicchio, and <a href="https://www.amazon.com/dp/B0787VWCF3?tag=herb-hugo-20">ricotta salata</a> (made from regular ricotta that has been pressed and salted.)

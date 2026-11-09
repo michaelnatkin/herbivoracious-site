@@ -19,9 +19,6 @@ recipe:
     - "Pile these ingredients together on the chopping board, and give them an additional mincing and tossing together. Set aside in a bowl."
 ---
 
-<a href="/images/2012/06/Orecchitte-with-Garlic-Scapes-Ricotta-and-Gremolata.webp"><img class="alignnone size-large wp-image-2257" title="Orecchiette with Garlic Scapes, Ricotta, and Gremolata" src="/images/2012/06/Orecchitte-with-Garlic-Scapes-Ricotta-and-Gremolata-626x415.webp" alt="Orecchiette with Garlic Scapes, Ricotta, and Gremolata" width="626" height="415" />
-</a><em>Orecchiette with Garlic Scapes, Ricotta, and Gremolata</em>
-
 Unlike tender <a href="/2012/06/green-garlic-and-mint-potato-salad-recipe/" target="_blank">green garlic</a>, garlic scapes are the firmer central flowering stem of the garlic plant. When fully cooked, they have a texture similar to asparagus, and a <strong>sweet flavor like slow-roasted garlic</strong>. In the past I've made the mistake of not trimming off enough of the hardest part and/or not cooking them fully, and then they can be unpleasantly woody, but when cooked until tender they are quite delicious. The most likely place to find garlic scapes is at a farmer's market, though I have seen them at Asian groceries and Whole Foods as well.
 
 The idea for this pasta is a riff on a terrific ravioli that Mike Easton served at Seattle's <a href="http://ilcorvopasta.com/" target="_blank">Il Corvo</a>, a lunchtime-only pasta restaurant that lives inside Procopio Gelateria behind Pike Place Market. His fresh pasta is outstanding, but I didn't have time for that project today, so I made this variation using a good <a href="https://www.amazon.com/dp/B00060O7H6?tag=herb-hugo-20">dried orecchiette</a>. I'm inspired by his ability to create an <strong>atypical restaurant-within-a-restaurant</strong>, as I want to do something equally non-standard.

@@ -28,11 +28,6 @@ recipe:
     - "Turn off the heat and stir in the lemon juice and shoyu. Taste and adjust seasoning."
     - "Divide the soup among the 4 bowls. Top with a sprinkle of grated cheese, the raw celery, the celery leaves, and a grind of black pepper. Serve immediately."
 ---
-<a href="/images/cookbook/celery-soup-with-fregola-sarda-or-israeli-couscous.webp"><img src="/images/cookbook/celery-soup-with-fregola-sarda-or-israeli-couscous.webp" alt="Celery Soup with Fregola Sarda or Israeli Couscous" /></a>
-
-
-
-
 <a href="/images/cookbook/celery-soup-with-fregola-sarda-or-israeli-couscous-2.webp"><img src="/images/cookbook/celery-soup-with-fregola-sarda-or-israeli-couscous-2.webp" alt="Celery Soup with Fregola Sarda or Israeli Couscous" /></a>
 
 <div class="recipe-card">

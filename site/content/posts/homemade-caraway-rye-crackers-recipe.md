@@ -25,9 +25,6 @@ recipe:
     - "Bake until deep golden brown, about 8-10 minutes. Cool on a rack and then break up into random-sized crackers."
 ---
 
-<a href="/images/2012/07/Rye-Crackers-2.webp"><img class="alignnone size-large wp-image-1271" title="Caraway Rye Crackers" src="/images/2012/07/Rye-Crackers-2-626x415.webp" alt="" width="626" height="415" />
-</a><em>Homemade Caraway Rye Crackers</em>
-
 I've been obsessed with the flavor of rye lately. It had been on my mind and I ended up improvising a loaf of rye bread with a salt crust that came out amazing and I'm <strong>kicking myself</strong> because I didn't write anything down, so now I can neither reproduce it nor share it with you, at least until I have another try at it. Anyhow, I think rye has an amazing flavor that deserves to be more widely used. I've got in mind to try rye crepes, and maybe a <strong>rye crumble</strong> for an apple crisp. Those are experiments for another day, but for today let me show you how to make simple and flavorful rye crackers.
 
 Now oddly, I've never made crackers before. I remember a friend saying they had been making their own, and another friend saying, basically that there are perfectly fine crackers at the supermarket and they can't imagine why any <strong>right thinking person</strong> would do it themselves. Naturally I took that as a challenge! And I think there are good reasons to make them yourself, at least occasionally. They taste fresher and better than most anything you can buy. And compared to the price of the best grocery store crackers, you certainly save a lot of money.

@@ -30,8 +30,6 @@ recipe:
     - "Bake for about 40-50 minutes, until the crust is nicely golden brown."
     - "Slice and serve. Probably with vanilla ice cream."
 ---
-
-<a style="display: inline;" href="/images/old/6a00e008d618bb88340115716086c0970c-800wi.webp" rel="lightbox"><img class="at-xid-6a00e008d618bb88340115716086c0970c " src="/images/old/6a00e008d618bb88340115716086c0970c-500wi.webp" alt="Peach and Nectarine Crostata" /></a>
 Peach and Nectarine Crostata
 
 Crostata: pie without the fuss. With a pie (or tart), it can be hard to make one as pretty as the picture I have in my mind, either cooling on Grandma's window sill or on the cover of Gourmet. Crostata takes my inability to make a precise pie and makes a rustic virtue of it!

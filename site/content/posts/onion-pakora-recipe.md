@@ -31,9 +31,6 @@ recipe:
     - "Remove with a slotted spoon or spatula to the paper towels. Season with a few flakes of sea salt. Serve garnished with a few leaves of cilantro and pass tamarind, mint, or other chutney at the table."
 ---
 
-<a href="/images/2012/12/Onion-Pakora.webp"><img class="alignnone size-large wp-image-2910" title="Onion Pakora" src="/images/2012/12/Onion-Pakora-626x415.webp" alt="" width="626" height="415" />
-</a><em>Onion Pakora</em>
-
 Pakora are a classic Indian snack food or appetizer, made by coating just about any vegetable (or sometimes fruit) with a chickpea flour batter and deep frying. They can be made from whole slices of vegetable or smaller pieces spooned together, and the batter can be thick or thin, crispy or puffy. I've seen pakora made with anything from spinach to raw banana, but <strong>my heart will always belong to onion pakora</strong>. I'm an onion ring kinda guy too, and onion pakora basically scratches that same itch.
 
 The batter I use is adapted from the basic one in <a href="https://www.amazon.com/dp/0525245642?tag=herb-hugo-20" target="_blank">Lord Krishna's Cuisine</a>, which as far as I'm concerned is one of the all-time great cookbooks. Just to give you an idea of the level of detail, just on this one food, pakora, she's got a multi-page introduction explaining how it is made in different parts of the country, what the different variables are in fine tuning your batter, optimum frying technique and so-on. <strong>Good stuff. </strong>

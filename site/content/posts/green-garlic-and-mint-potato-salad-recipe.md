@@ -30,9 +30,6 @@ recipe:
     - "Just before serving, thinly slice the mint and mix it into the potatoes."
 ---
 
-<a href="/images/2012/06/Green-Garlic-and-Mint-Potato-Salad.webp"><img class="alignnone size-large wp-image-2072" title="Green Garlic and Mint Potato Salad" src="/images/2012/06/Green-Garlic-and-Mint-Potato-Salad-626x415.webp" alt="Green Garlic and Mint Potato Salad" width="626" height="415" />
-</a><em>Green Garlic and Mint Potato Salad</em>
-
 Green garlic is one of those wonderful farmer's market ingredients. At least in my neck of the woods, you don't often see it at grocery stores, but it is as at every market in the early summer months, where it overlaps with last year's storage potatoes. Green garlic is simply the shoot of an immature garlic plant. The kind I like to buy <strong>looks like oversized scallions</strong>, and it can be used in similar ways. The flavor, however, is distinctly of garlic, not onion.
 
 To prepare green garlic, you want to cut off the frizzly roots and the tough, dark green tops. Then peel off the tough outermost leaf, and you should be left with a sizable, relatively tender length of white to pale green shoot.

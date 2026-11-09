@@ -21,9 +21,6 @@ recipe:
     - "If you have a dehydrator available, dehydrate at 145 F until very dry and leathery, about 4 hours. Otherwise, place in a single layer on a parchment-lined baking sheet in your oven at the lowest possible temperature. That will probably be about 170 F, so you'll have to keep a closer eye on them. I'd expect it will take about 2 hours. Use convection if available to maximize airflow."
     - "If you have a chamber vacuum available, seal the beets with a minimal amount of water at maximum vacuum to quickly rehydrate. Otherwise, put them in a covered bowl in the refrigerator with just enough water to cover, and check them every half-hour or so until pleasantly chewy. Drain off excess water. The beets are now ready to use."
 ---
-
-<a href="/images/2013/06/Pastrami-Beets.webp"><img class="alignnone size-large wp-image-3619" alt="Beets Cooked Pastrami Style" src="/images/2013/06/Pastrami-Beets-626x415.webp" width="626" height="415" /></a>
-
 Corned beets. It started out <strong>more as a pun</strong> then anything else, but I figured beets cooked with the spices typically associated with corned beef would be good. Then I tried an iteration with the ChefSteps <a href="http://creations.chefsteps.com/chefsteps-house-rub-01/" target="_blank">House Rub 01</a> and that was also fantastic.
 
 In any case, it is the texture that makes these beets delightful. They are completely cooked, yet they have a <strong>satisfying chew</strong>. First I cook them in the brine, then dehydrate them. On the first try, I dehydrated for far too long and they turned into dry, salty chips. I was just about to throw them in the compost when <a href="http://www.chefsteps.com/about" target="_blank">Grant</a> suggested I try rehydrating them. Voila! The excess salt washed away, there was still a nice bite from the spices, and the texture was awesome.

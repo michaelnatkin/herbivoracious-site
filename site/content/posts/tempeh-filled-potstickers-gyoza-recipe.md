@@ -35,9 +35,6 @@ recipe:
     - "To cook the potstickers, heat that big skillet back up again to medium-high and add the remaining tablespoon of oil. Put the potstickers in in a single layer, flat side down, not touching but they can be close. (You will probably need to do two or more batches). Fry 1 to 2 minutes until they are dark golden brown on the bottom. Add 1/3 cup of water and cover the pan. Cook about 3 minutes. Remove the lid and keep cooking until the water is totally gone - otherwise they won't be crispy."
     - "Serve hot, with the dipping sauce."
 ---
-<a href="/images/cookbook/tempeh-filled-potstickers-gyoza.webp"><img src="/images/cookbook/tempeh-filled-potstickers-gyoza.webp" alt="Tempeh-Filled Potstickers (Gyoza)" /></a>
-
-
 <p>The first rule of potstickers is that you can never make enough potstickers. At least in my family, we fight over the last few like seagulls over a spilled bag of kettle corn.</p>
 <p>If you haven't had them, potstickers are Chinese or Japanese pan-fried dumplings with a savory filling, dipped in a soy, vinegar and sesame oil sauce. What is not to like? Plan on making a minimum of 4 per person as an appetizer, but really you could make a whole meal of a big plate of potstickers along with a salad or two and a beer and I bet you wouldn't get any complaints.</p>
 <p>Where most vegetarian potstickers go wrong is by trying to use too many vegetables in the filling. I've had terrible versions stuffed with spinach, or lots of water chestnuts and so forth. This is not the place for a distracting crunch, and you certainly don't want it leaching water. My filling of choice is tempeh. I sauté it first to develop the flavor, and then crumble it and mash it with the other ingredients. It gives just the right bite.</p>

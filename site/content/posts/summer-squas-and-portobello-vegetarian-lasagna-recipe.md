@@ -36,9 +36,6 @@ recipe:
     - "If the cheese isn't crispy and brown enough, finish judiciously with the broiler."
     - "Allow to rest at least 15 minutes before serving so it has time to set up a bit."
 ---
-
-<a style="display: inline;" href="/images/old/6a00e008d618bb88340120a550be16970b-800wi.webp" rel="lightbox"><img class="at-xid-6a00e008d618bb88340120a550be16970b " alt="Summer_Squash_And_Portabello_Vegetarian_Lasagna" src="/images/old/6a00e008d618bb88340120a550be16970b-500wi.webp" /></a>
-
 My previous <a href="/2008/12/vegetarian-lasagna-recipe-with-spinach-and-ricotta-filling/" target="_blank">spinach and ricotta vegetarian lasagna recipe</a> has consistently been one of the most popular on the site, so I thought I'd share another variation with you. This versions adds layers of thinly sliced summer squash (or zucchini) and portobello (aka portabella, portabello) mushrooms.
 
 <a style="float: right;" href="/images/old/6a00e008d618bb88340120a550bf00970b-800wi.webp" rel="lightbox"><img class="at-xid-6a00e008d618bb88340120a550bf00970b " style="margin: 3px; width: 250px;" title="Summer_Squash" alt="Summer_Squash" src="/images/old/6a00e008d618bb88340120a550bf00970b-pi.webp" /></a>

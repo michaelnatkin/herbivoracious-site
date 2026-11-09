@@ -30,9 +30,6 @@ recipe:
     - "In a small skillet, toast the coriander and cumin seeds over a medium-low flame until fragrant but not burned, about 1 minute. Grind in a mortar and pestle or spice grinder and add to the potato mixture. Mix everything thoroughly. Your hands are the easiest way to do this."
     - "Heat oil in a large skillet to a depth of about 1/8” over a medium-high flame. Moisten your hands. Form patties by taking a golf-ball sized piece of the potato mixture, and patting it flat and about 2 ½” around, ¾” thick. Go ahead and press fairly firmly so they don’t fall apart when frying. Fry until golden brown, about 2 minutes on each side. Remove to paper towels and finish with flaky sea salt."
 ---
-<a href="/images/cookbook/aloo-tikki-indian-potato-fritters.webp"><img src="/images/cookbook/aloo-tikki-indian-potato-fritters.webp" alt="Aloo Tikki (Indian Potato Fritters)" /></a>
-
-
 <p>Aloo tikki are one of the classic street foods of India. Walking around Delhi, you will find vendors setting up shop on any street corner to sell these simple mashed potato fritters. Each aloo tikki walla has his own special technique, and loyal customers who will swear that this is the only one worth eating. I live for the day that America’s street food scene catches up to the rest of the world!</p>
 <p>In the meantime, here is my version of this dish. Crispy on the outside, creamy on the inside, these little guys are just two bites of pure goodness. Try them with the Banana Raita on  for an incredible combination of tastes.</p>
 

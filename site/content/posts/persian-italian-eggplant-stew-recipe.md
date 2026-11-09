@@ -36,9 +36,6 @@ recipe:
     - "Garnish with parsley leaves and sumac and serve."
 ---
 
-<a style="display: inline;" href="/images/old/6a00e008d618bb8834013480a274c0970c-800wi.webp" rel="lightbox"><img class="asset asset-image at-xid-6a00e008d618bb8834013480a274c0970c " title="Persian-Italian Eggplant Stew (Vegetarian, Vegan, and Gluten-Free)" src="/images/old/6a00e008d618bb8834013480a274c0970c-500wi.webp" alt="Persian-Italian Eggplant Stew (Vegetarian, Vegan, and Gluten-Free)" /></a>
-<em>Persian-Italian Eggplant Stew</em>
-
 Yes, I said Persian-Italian. Bear with me here for a second. I was looking for some sort of moist eggplant dish to serve with Persian rice (a wonderful basmati pilaf with a crunchy crust; I'll tell you about that soon). I came across several recipes for a Persian dish named <em>Fesenjan-e Bademjan</em>, which is eggplant braised in a sauce of walnuts, <a href="https://www.amazon.com/dp/B0CRL8HR8S?tag=herb-hugo-20">pomegranate molasses</a>, and honey.
 
 This sounded amazing, but I had two problems: I had no pomegranate molasses in the house, and I <a href="/2009/02/understanding-deadly-food-allergies-this-post-could-save-a-life/" target="_blank">can't serve walnuts</a>. I scanned my pantry for something that might replace the pomegranate, and hit upon <a href="https://www.amazon.com/dp/B0F1Z5JM79?tag=herb-hugo-20" target="_blank">mosto cotto (aka saba)</a>, which is the cooked grape must that would become balsamic vinegar if it was aged.

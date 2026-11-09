@@ -25,9 +25,6 @@ recipe:
     - "To serve, heat 4 bowls and make sure all ingredients are piping hot. Divide the broth among the bowls. Place 3 smashed potatoes in each bowl. Cut the mushrooms into 3 or 4 chunks each, leaving the head whole, and arrange over the potatoes. Drizzle with a bit of olive oil. Add a few slices of apple tucked in between the mushrooms pieces. Finish with a few leaves of parsley and a generous sprinkle of Maldon salt and serve immediately."
 ---
 
-<a href="/images/2013/10/Porcini-Potato-Apple.webp"><img class="alignnone size-large wp-image-3905" src="/images/2013/10/Porcini-Potato-Apple-624x415.webp" alt="Porcini, Potato, Apple" width="624" height="415" /></a>
-<em>Porcini, Potato, Apple</em>
-
 When you have beautiful ingredients like the fresh porcini mushrooms (aka cèpes or king bolete) that I found at Pike Place Market the other day, it isn't necessary or desirable to do much to them. In this case, all that is needed is cook them through thoroughly  to concentrate the flavor and then brown their exterior, collecting the juices to make a profoundly umami-rich broth. The crispy  potatoes give way to a fluffy interior that is perfect for sopping up that broth, and the sweet crunch of apples adds color and a textural counterpoint. It is a nice change of pace from vegetarian entrees that are heavy on grains or dairy.
 
 This would also be delicious with big chunks of <a href="/2008/10/lobster-mushroo/" target="_blank" rel="noopener">lobster mushroom</a>.

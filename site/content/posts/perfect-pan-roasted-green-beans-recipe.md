@@ -23,8 +23,7 @@ recipe:
     - "Leave the skillet on high heat. Add a couple of tablespoons of the vegetable oil to the skillet and immediately add the beans, using tongs so as to leave any water behind in the bowl. Add a big pinch of Kosher salt and toss the beans, then spread them out evenly in the pan. Cook, tossing only occasionally, until there are many browned spots on the beans, about 3 minutes"
     - "Transfer your beautifully caramelized green beans to a serving platter and finish with a drizzle of extra-virgin olive oil and a nice scattering of sea salt."
 ---
-
-<a href="/images/2013/11/Perfect-Pan-Roasted-Green-Beans.webp"><img class="alignnone size-large wp-image-3863" alt="Perfect Pan-Roasted Green Beans" src="/images/2013/11/Perfect-Pan-Roasted-Green-Beans-626x415.webp" width="626" height="415" /></a><br><em>Perfect Roasted Green Beans</em>
+<br><em>Perfect Roasted Green Beans</em>
 
 The problem with roasted green beans, whether you do them in the oven or in a hot skillet, is to get those <strong>beautiful, caramelized brown spots</strong> on the surface of most of the beans without either over- or under-cooking the insides. Run the heat too high and you'll burn the outside before the inside is done; run it too low and you'll end up with mush.
 

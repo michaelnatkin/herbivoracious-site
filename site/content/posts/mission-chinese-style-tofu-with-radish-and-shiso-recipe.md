@@ -31,9 +31,6 @@ recipe:
     - "Quickly, transfer to a serving bowl (or individual bowls), garnish with the green onion, and serve. Warn guests not to eat the chili pods!"
 ---
 
-<a href="/images/2013/08/Mission-Chinese-Style-Tofu-with-Radish-and-Shiso.webp"><img class="alignnone size-large wp-image-3841" alt="Mission Chinese Style Tofu with Radish and Shiso" src="/images/2013/08/Mission-Chinese-Style-Tofu-with-Radish-and-Shiso-626x415.webp" width="626" height="415" /></a>
-<em>Mission Chinese Food-Style Tofu with Radish and Shiso</em>
-
 When my wife and I were in New York for the James Beard awards a few months ago, we were wandering around the Lower East Side, and I was hungry (as usual). We turned a corner, and I spotted Mission Chinese Food's New York outpost and I knew my life was about to get a lot better. I'd eaten at Danny Bowien's San Francisco location a year ago and had been depressed because I was by myself and could only try a couple of dishes, so stumbling into a chance to eat his food again was a happy moment indeed.
 
 One thing that stands out on the Mission Chinese menus is that a lot of unlikely sounding dishes are marked with a * indicating that a vegetarian version is available. Sure enough, I spotted and chose the vegetarian rendition of Stir Fried Pork Jowl and Radishes with Fermented Black Bean, Shiso, and Mint. It was terrific on several levels.

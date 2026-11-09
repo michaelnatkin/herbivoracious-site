@@ -34,9 +34,6 @@ recipe:
     - "Add 1 tablespoon of olive oil to the hot wok and add minced garlic. Allow garlic to cook for a few seconds and add the entire bowl of mix noodles and vegetables to the wok/pan. Stir-fry everything for 2-3 minutes and turn off heat. Gently add tofu and transfer noodles to a large serving platter. Sprinkle toasted sesame seeds on top. Serve warm or cold. Enjoy!."
 ---
 
-<a style="display: inline;" href="/images/old/6a00e008d618bb88340133eca2b5ae970b-800wi.webp" rel="lightbox"><img class="asset asset-image at-xid-6a00e008d618bb88340133eca2b5ae970b " src="/images/old/6a00e008d618bb88340133eca2b5ae970b-500wi.webp" alt="Japchae in a dish" /></a>
-<em>Vegetarian Jap Chae (Korean Glass Noodle Stir-Fry)</em>
-
 <em></em>
 
 <a style="float: left;" href="/images/old/6a00e008d618bb883401347fd2acf5970c-800wi.webp" rel="lightbox"><img class="asset asset-image at-xid-6a00e008d618bb883401347fd2acf5970c " style="margin: 0px 15px 5px 0px; width: 150px;" title="Japchae ingredients" src="/images/old/6a00e008d618bb883401347fd2acf5970c-250wi.webp" alt="Japchae ingredients" /> </a>When a friend and well respected blogger like Michael Natkin invites you to guest post for his amazing food blog, <em>it’s a big deal and great honor</em>.  When I first started Savory Sweet Life, <span style="color: #000000;"><span style="font-family: arial,helvetica,clean,sans-serif;">H</span></span>erbivoracious.com was one of the first blogs I frequently visited for inspiration, beautiful photos, and amazing vegetarian recipes.  Since then we’ve become friends.   Today, I am thrilled to share with you a vegetarian version of Korean jap chae, a very popular stir-fried noodle dish.

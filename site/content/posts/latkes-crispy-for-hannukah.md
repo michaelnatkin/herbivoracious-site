@@ -29,8 +29,6 @@ recipe:
     - "Try not to eat all of them yourself."
     - "Serve with applesauce, sour cream and more salt on the side."
 ---
-
-<a href="/images/2008/12/Hannukah-Latkes.webp"><img class="alignnone size-large wp-image-3481" title="Hannukah Latkes" src="/images/2008/12/Hannukah-Latkes-626x415.webp" alt="" width="626" height="415" /></a>
 <span style="font-size: 12px; font-family: Arial;">Now that's a crispy latke!</span>
 
 <em></em>

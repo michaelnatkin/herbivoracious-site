@@ -10,9 +10,6 @@ cover:
   hidden: true
 ---
 
-<a style="display: inline;" href="/images/old/6a00e008d618bb88340148c7eef453970c-800wi.webp" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb88340148c7eef453970c" title="Basic Knife Grip" src="/images/old/6a00e008d618bb88340148c7eef453970c-500wi.webp" alt="Basic Knife Grip" /></a>
-<em>Basic knife grip</em>
-
 I've been cooking pretty seriously for 25 years now, and in the process I've had the opportunity to watch lots of other people in the kitchen. I've learned something from everyone I've ever cooked with, and also noticed certain patterns. The folks that are confident enough to relax and have fun in the kitchen have a degree of mastery over <strong>basic knife skills</strong>, know how to work with <strong>high heat</strong>, and are unafraid to <strong>salt their food</strong> until it tastes delicious.
 
 The good news is, the basics of these skills are not especially difficult to learn! You will probably prepare many thousands of meals in your lifetime. I guarantee that a small investment of your time on fundamentals will be repaid many times over, both in efficiency and deliciousness.

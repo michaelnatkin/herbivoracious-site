@@ -8,8 +8,6 @@ cover:
   image: "/images/2008-small/09/01/madelines.webp"
   hidden: true
 ---
-
-<a href="/images/2008/09/01/madelines.webp" rel="lightbox"><img title="Madeleine cookies - or really, teacakes" src="/images/2008-small/09/01/madelines.webp" alt="Madeleines" width="455" height="302" border="0" /></a>
 <span style="font-size: 0.8em;">Madeleine cookies - or really, teacakes</span>
 
 My goal for this post is to write about madeleines without mentioning Proust (again).

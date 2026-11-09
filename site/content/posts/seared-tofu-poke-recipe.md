@@ -30,9 +30,6 @@ recipe:
     - "Whisk together the sesame oil, sweet soy sauce, shoyu, fresh ginger and sriracha. Toss the tofu in the sauce and let rest for 3 minutes. Remove with a slotted spoon, reserving the sauce, and toss the tofu with most of the green onions and jalapeno, reserving a little for garnish."
     - "To serve, divide the bean sprouts among 4 bowls. Drain and pat dry the seaweed and place a small mound atop the bean sprouts. Cover that with the tofu and drizzle on some of the remaining sauce. Garnish with the remaining green onion and jalapeno and a few grains of Hawaiian sea salt."
 ---
-<a href="/images/cookbook/seared-tofu-poke.webp"><img src="/images/cookbook/seared-tofu-poke.webp" alt="Seared Tofu Poke" /></a>
-
-
 <p>Poke (pronounced POH-keh) is the Hawaiian equivalent of sashimi or crudo. Poke is typically raw fish, seasoned with soy and onion, often on a bed of seaweed. This vegetarian version is made with seared tofu, which matches those Asian flavors perfectly.</p>
 <p>For the seaweed, the best option is any fresh variety that is thin enough to eat raw. Keep your eye out for Sea Tangle brand in the refrigerator section of health food or Asian groceries; they make a delicious fresh mixed seaweed that is packed in salt; you simply rinse it and enjoy. The other option is dried hijiki, which must be rehydrated.</p>
 <p>You can serve this poke at room temperature or chilled.</p>

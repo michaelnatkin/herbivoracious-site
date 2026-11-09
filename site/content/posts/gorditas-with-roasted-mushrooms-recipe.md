@@ -38,9 +38,6 @@ recipe:
     - "For the second cooking, heat enough oil in a large skillet to be more than 1/2 the thickness of a gordita. Aim for about 360 degrees - you don't want the oil smoking. Working in batches, fry the gorditas until golden brown, about 45 seconds on each side. Be very careful when flipping to avoid splashing hot oil on your hands! I find it safer to do with tongs than a spatula. Remove to paper towel-lined racks."
     - "Allow the gorditas to cool enough to handle. If you so desire, use a paring knife to split in half or open up a pocket and stuff. Otherwise, just top with the mushrooms and your selections of the salsa, cheese, black beans, cabbage and cilantro."
 ---
-
-<a href="/images/2013/04/Gorditas-with-Roasted-Mushrooms.webp"><img class="alignnone size-large wp-image-3682" src="/images/2013/04/Gorditas-with-Roasted-Mushrooms-626x415.webp" alt="Gorditas with Roasted Mushrooms" width="626" height="415" /></a>
-
 Gorditas: thick, delicious homemade corn tortillas that are shallow fried then split and topped with whatever moves you. Close cousins to the arepa and the pupusa.
 
 I'm not going to kid you, gorditas are a bit of a project. You have to make and shape the dough, then toast them on a dry skillet first, then fry them in a good bit of oil. This isn't a weeknight meal unless you are some sort of superhero. But they make a fun weekend dinner, and if you have kids around you can get them involved in shaping the dough.

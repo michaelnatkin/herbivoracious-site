@@ -19,9 +19,6 @@ recipe:
     - "Preheat oven to 400 degrees. Toss the mushroom caps with the syrup, salt and paprika. Spread in a single layer on a baking sheet lined with a silicone mat or parchment paper. Roast, turning a couple of times, until tender, glazed, and wrinkled. Taste and adjust seasoning. Serve hot."
 ---
 
-<a href="/images/2012/04/Maple-Roasted-Shiitake.webp"><img class="alignnone size-large wp-image-1845" title="Maple Roasted Shiitake Mushrooms" src="/images/2012/04/Maple-Roasted-Shiitake-626x415.webp" alt="Maple Roasted Shiitake Mushrooms" width="626" height="415" />
-</a><em>Maple-roasted Shiitake Mushrooms</em>
-
 When I was a kid, I would see my uncle Irv mix together his breakfast plate full of waffles, eggs, bacon and syrup, taking bites of everything together, and I thought it was horrifying. The idea of mixing <strong>sweet, smoky, savory and salty</strong> items together wasn't something I would even consider. Now I realize he was absolutely right, and I look for any opportunity to create that kind of contrast and complexity.
 
 These maple-roasted shiitakes are a perfect example. All you have to do is toss the mushroom caps with real maple syrup, a healthy dose of salt, a pinch of <a href="https://www.amazon.com/dp/B000NO943C?tag=herb-hugo-20">smoked paprika</a> and a bit of oil and roast them in the oven until they are tender and glazed. I did a popup dinner a few weeks ago where I did basically the same thing using King Oyster mushrooms. The plate you see in the picture is similar to the one I served there: the mushrooms are served with cheesy grits and a <strong>5:10 egg</strong> (more below), and garnished with radishes, parsley salt and rosemary flowers.

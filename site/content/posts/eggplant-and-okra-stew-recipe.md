@@ -33,9 +33,6 @@ recipe:
     - "Add the summer squash, okra, and the tomatoes with their juice. Break up the tomatoes. Bring to a simmer and then reduce heat to maintain. Cook for 15 minutes, until the vegetables are tender. Add the eggplant when it is ready. Taste and adjust salt and spices."
     - "Two minutes before you are ready to serve, add the corn kernels and the remaining tablespoon of fresh ginger. Divide into bowls over rice, finish with several grinds of black pepper and some torn or cut leaves of parsley and bring to the table immediately."
 ---
-<a href="/images/cookbook/eggplant-and-okra-stew.webp"><img src="/images/cookbook/eggplant-and-okra-stew.webp" alt="Eggplant and Okra Stew" /></a>
-
-
 <p>This West African-style stew, redolent with ginger and black pepper, is great made with tiny eggplants, just a little bigger than a golf ball. You may find them at a farmer’s market in late summer, or at a store that specializes in Thai or Indian ingredients. Otherwise, use a regular globe eggplant and just cut it into bite-sized pieces.</p>
 <p>For a richer variation, you can mix ½ cup of unsweetened peanut butter or sunflower butter into the broth, or add ½ cup of shelled, roasted peanuts.</p>
 <p>Serve this stew over a bowl of rice for a satisfying one-dish meal.</p>

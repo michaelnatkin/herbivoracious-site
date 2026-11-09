@@ -24,9 +24,6 @@ recipe:
     - "Puree all of the ingredients with a stick blender or a mini food processor. Strain through a fine-mesh strainer. The oil is ready to use."
 ---
 
-<a href="/images/2012/05/Red-Lentil-and-Kabocha-Squash-Soup-with-Harissa-Oil.webp"><img class="alignnone size-large wp-image-1279" title="Red Lentil and Kabocha Squash Soup with Harissa Oil" src="/images/2012/05/Red-Lentil-and-Kabocha-Squash-Soup-with-Harissa-Oil-626x415.webp" alt="Red Lentil and Kabocha Squash Soup with Harissa Oil" width="626" height="415" /></a>
-<em>Red Lentil and Kabocha Squash Soup with Harissa Oil </em>
-
 <em>I'm going to start slipping you guys the occasional sneak peek at a recipe from <a href="/2012/01/so-what-is-going-on-with-your-cookbook-and-other-life-changing-news/" target="_blank">the upcoming cookbook</a>. This one is a two-fer: a warm and hearty soup, and a quick way to make spicy harissa oil with which to spike it. Stay tuned! In a few weeks, I'll also be able to share some of the videos we shot for the extended e-book. Sign up for my email list and I'll send you each new recipe as it comes out. </em>
 
 This is a great soup to serve when there are kids at the table, because it is quite mild if you leave the harissa oil off their portions. With the garnish, the flavors come alive, and you’ll want to mop up every bit with a good artisanal bread or toasted pita. Red lentils are nice for soups and purees because they basically dissolve when cooked, leaving a silky smooth texture. Don’t try to make this recipe with green or black lentils! If you don’t have kabocha squash, you can make this with a cooking pumpkin (such as a sugar pie pumpkin) or butternut or acorn squash. You won’t need a whole squash, so it is also a good way to use leftovers from an earlier meal. If using previously cooked squash, simply heat it through in the first step.

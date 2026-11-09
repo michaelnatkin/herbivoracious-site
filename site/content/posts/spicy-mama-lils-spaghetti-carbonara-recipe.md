@@ -27,9 +27,6 @@ recipe:
     - "Divide the pasta among the serving bowls, garnish with the toasted pine nuts and parsley and serve immediately."
 ---
 
-<a href="/images/2011/11/Mama-Lils-Carbonara-2.webp"><img class="alignnone size-large wp-image-793" title="Vegetarian Spaghetti Carbonara with Mama Lil's Spicy Peppers" src="/images/2011/11/Mama-Lils-Carbonara-2-626x415.webp" alt="Vegetarian Spaghetti Carbonara with Mama Lil's Spicy Peppers" width="626" height="415" /></a>
-<em>Spicy Mama Lil's Spaghetti alla Carbonara</em>
-
 Spaghetti alla carbonara is one of those great Italian dishes that comes with <strong>multiple-choice apocryphal explanations</strong> for the name. Possibly it is in the style favored by a group of charcoal makers, or coal miners, or maybe it was named after the charcoal burner it was cooked on. In any case, the traditional version is made by frying some pig bits with garlic and chili flakes, tossing your mostly cooked pasta through that pan, and then into a bowl with beaten eggs, cheese and black pepper. The hot pasta lightly cooks the egg, turning it into a rich and creamy sauce.
 
 I've made slapdash vegetarian versions of carbonara for years. The other night I happened to have a jar of <a href="http://www.amazon.com/dp/B006HWTYT8/?tag=poeticlicen07-20" target="_blank">Mama Lil's spicy peppers</a> open and added them in, and a whole new vista opened up for me. The kick from those pickled peppers took the dish to <strong>a whole new level</strong>.

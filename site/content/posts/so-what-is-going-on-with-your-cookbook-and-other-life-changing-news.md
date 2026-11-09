@@ -9,9 +9,6 @@ cover:
   hidden: true
 ---
 
-<a href="/images/2012/01/Kimchi-Jigae-Spread.webp"><img class="size-large wp-image-1125 alignnone" style="border-style: none; border-color: initial; border-image: initial; border-width: 0px;" title="Herbivoracious Cookbook page spread" src="/images/2012/01/Kimchi-Jigae-Spread-626x363.webp" alt="" width="626" height="363" /></a>
-<em>A page spread from the Herbivoracious cookbook</em>
-
 In journalism, they say "don't bury the lede", but today I've got three of them:
 <ul class="NormalBullets">
 	<li>The cookbook will hit stores on May 8th, 2012 (if you are new here and thinking "what cookbook?" <a href="/cookbook-project/" target="_blank">look here</a>)</li>

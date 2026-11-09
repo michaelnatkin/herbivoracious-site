@@ -41,9 +41,6 @@ recipe:
     - "Drain and squeeze most of the liquid out of the pickled vegetable. Boil the noodles according to the package directions; cook until they are tender but still have a bit of bite. Drain and divide among the serving bowls. Top each serving of noodles with one-quarter of the sauce and tofu, a squeeze of lime juice, a handful of the pickled vegetable, one-quarter of the crispy noodles, and a few cilantro leaves. Serve immediately, passing the thinly sliced shallots, remaining limes, and curry paste for each diner to apply."
 ---
 
-<a href="/images/2013/04/Khao-Soi.webp"><img class="alignnone size-large wp-image-3718" alt="Khao Soi - Chiang Mai Curry Noodles" src="/images/2013/04/Khao-Soi-626x415.webp" width="626" height="415" /></a>
-<em>Khao Soi - Thai Curry Noodles from Chiang Mai</em>
-
 <em>Well.. here we go off to the James Beard awards! <a href="http://www.amazon.com/gp/product/1558327452/ref=as_li_ss_tl?ie=UTF8&amp;tag=herb-book-sales-page-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=1558327452" target="_blank" rel="noopener noreferrer">Herbivoracious</a> is a finalist in the Vegetable Focused and Vegetarian category. The award ceremony is this Friday, May 3rd. Win, lose, or draw I'm thrilled to be a part of it, and looking forward to some time in New York. This is one of my very favorite recipes from the book.</em>
 
 Khao soi is an iconic dish from the Chiang Mai region of northern Thailand, though its roots are thought to be Burmese or Chinese Muslim. It inspires cultlike devotion among initiates.

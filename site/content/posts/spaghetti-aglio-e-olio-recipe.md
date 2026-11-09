@@ -26,9 +26,6 @@ recipe:
     - "Turn the heat on your skillet to medium-high, and add the pasta to the oil along with ½ cup of the pasta water. Toss thoroughly with tongs, adding more of the reserved liquid if it seems dry."
     - "Divide the pasta among the serving bowls and garnish with the parsley and the optional breadcrumbs and cheese. Serve immediately."
 ---
-<a href="/images/cookbook/spaghetti-aglio-e-olio.webp"><img src="/images/cookbook/spaghetti-aglio-e-olio.webp" alt="Spaghetti Aglio e Olio" /></a>
-
-
 <p>Spaghetti aglio e olio (garlic and oil) is just about the simplest way to eat pasta other than just tossing the noodles with butter and cheese. You can have this ready two minutes after the pasta is done boiling, so it makes a perfect meal when the day gets away from you but you still want to eat something home-cooked.</p>
 <p>While very simple to make, there are still a couple of elements of technique required to achieve perfection.</p>
 <p>The clean and direct flavors of extra virgin olive oil and garlic, spiked up with a few chile flakes are all it takes to make this dish outstanding. I often gild the lilly with a handful of Parmesan cheese and fresh breadcrumbs, but there are others who will insist this is sacrilege. The choice is yours.</p>

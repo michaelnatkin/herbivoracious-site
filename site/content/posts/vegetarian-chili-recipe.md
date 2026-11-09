@@ -40,8 +40,6 @@ recipe:
     - "Now taste. If it needs more heat or a smoke, add the rest of the adobo sauce. If it needs a lot more heat, you can puree the chipotle peppers and add them. Add salt as needed. You shouldn't be tasting a lemon flavor, but there should be a subtle hint of acidity that wakes up the sauce. If the whole thing is too thick, you can dilute it with some of the reserved bean-cooking liquid."
     - "Serve your vegetarian chili forth with the garnishes listed above."
 ---
-
-<a style="display: inline;" href="/images/old/6a00e008d618bb883401156f9cf5ce970b-800wi.webp" rel="lightbox"><img class="photo at-xid-6a00e008d618bb883401156f9cf5ce970b " src="/images/old/6a00e008d618bb883401156f9cf5ce970b-500wi.webp" alt="Vegetarian_Chili" /></a>
 <span style="font-size: 12px;"><em>Vegetarian chili with all the fixins'</em></span>
 
 Vegetarian chili is one of the first veggie entrees that pop into people's minds (along with <a href="/2008/12/vegetarian-lasagna-recipe-with-spinach-and-ricotta-filling/" target="_blank">vegetarian lasagna</a> of course). It is a delicious, easy and very nutritious meal-in-a-bowl. Add some tortillas or <a href="/2009/04/best-cornbread-ever/" target="_blank">brown-butter cornbread</a> and a salad and you'll feel like a king. It also can be made ahead; it just gets better over the course of a couple of days, and it freezes well.

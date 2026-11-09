@@ -35,9 +35,6 @@ recipe:
     - "Stir the macaroni into the sauce. Pour the macaroni into the prepared baking dish."
     - "Bake for about 30 minutes, until you can see bubbling around the sides and the breadcrumbs are nicely browned. Let stand for 5-10 minutes (to set) and serve."
 ---
-<a href="/images/cookbook/triple-smoky-mac-and-cheese.webp"><img src="/images/cookbook/triple-smoky-mac-and-cheese.webp" alt="Triple-Smoky Mac and Cheese" /></a>
-
-
 <p>This grownup macaroni and cheese was inspired by an incredible oak-smoked cheddar that I found at Seattle’s historic Pike Place Market. We reinforce that flavor with <a href="https://www.amazon.com/dp/B00LX21KVW?tag=herb-hugo-20">smoked paprika</a> and chipotle pepper. If you can't get the smoked cheddar, use a regular cheddar and smoked mozzarella instead.</p>
 <p>You can also make this macaroni and cheese ahead, and refrigerate it, which makes it very convenient for dinner parties. Just wait to top with the breadcrumbs until the last minute, and allow additional baking time to come up to temperature.</p>
 

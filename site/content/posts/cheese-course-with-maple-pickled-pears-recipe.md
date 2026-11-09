@@ -21,9 +21,6 @@ recipe:
     - "Mix the vinegar, syrup, salt and pepper in a small bowl and microwave for 1 minute. Toss with the pears and set aside at room temperature for at least 15 minutes, or they can be refrigerated overnight."
     - "Drain off the pickling liquid and serve the pears with your cheeses and bread or crackers. Leftovers can be used in grilled cheese sandwiches."
 ---
-<a href="/images/cookbook/cheese-course-with-maple-pickled-pears.webp"><img src="/images/cookbook/cheese-course-with-maple-pickled-pears.webp" alt="Cheese Course with Maple Pickled Pears" /></a>
-
-
 <p>This isn’t so much a recipe as a reminder, that a cheese course can be a fitting end to any meal. The opportunity to linger over small portions of a couple of beautiful cheeses with a thoughtfully made condiment and maybe a glass of port or sherry can feel much more intimate than a sweet dessert.</p>
 <p>The most important thing you can do to make your cheese course delicious is serve it at room temperature. This means that the cheese needs to sit out of the refrigerator, covered, for 1 to 2 hours depending on size. When good cheese is served cold, it lacks the complex flavor that you paid for!</p>
 <p>Whole books have been written about choosing cheeses. For small dinner parties, I suggest you keep it to two or three options, choosing quality over quantity. Three ounces total per person is sufficient, though you may need to buy more just to have a respectable looking chunk. It is nice to have contrast between soft, semi-soft and hard cheese, and between cow, sheep or goat milk. The best advice is to find a cheesemonger that you trust, ask for advice, and taste lots of samples.</p>

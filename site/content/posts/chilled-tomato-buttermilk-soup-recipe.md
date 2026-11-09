@@ -24,9 +24,6 @@ recipe:
     - "Finely chop the remaining 4 tomato halves."
     - "Divide the soup among the bowls; garnish each one with some chopped confit, chives, a drizzle of olive oil, and a few flakes of salt. Serve immediately."
 ---
-<a href="/images/cookbook/chilled-tomato-buttermilk-soup.webp"><img src="/images/cookbook/chilled-tomato-buttermilk-soup.webp" alt="Chilled Tomato Buttermilk Soup" /></a>
-
-
 <p>If you have already made a batch of the Tomato Confit on , this refreshing soup is criminally easy to make. The concentrated tomatoes turn the buttermilk a beautiful pink color.</p>
 <p>This soup lends itself to improvisation. You could make a vegan version using part vegan sour cream and part soy (rice, hemp, …) milk. A little bit of lemon zest added to the puree is great. You could garnish with cherry tomato halves or diced cucumber instead of additional confit, or use a different herb, such as tiny leaves of oregano or thyme.</p>
 <p>Also, taste your buttermilk first and be sure you like the flavor and texture. If it is too thick or too sour, dilute it with up to 25% milk.</p>

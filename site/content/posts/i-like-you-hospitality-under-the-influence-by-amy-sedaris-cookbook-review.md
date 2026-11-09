@@ -26,8 +26,6 @@ recipe:
     - "Shape by taking a tablespoon or two of dough and rolling into 7\" ropes. Fold the rope in half and twist together."
     - "Place the koulourakia on a foil-lined cookie sheet, brush with egg whites, top with sesame seeds, and bake 25 minutes or until light brown."
 ---
-
-<a style="display: inline;" href="/images/old/6a00e008d618bb8834010535f35007970c-800wi.webp" rel="lightbox"><img class="at-xid-6a00e008d618bb8834010535f35007970c "  src="/images/old/6a00e008d618bb8834010535f35007970c-500wi.webp" alt="Koulourakis (Greek cookies with cardamom)" /></a>
 <span style="font-size: 10px; font-family: Arial;">Koulourakis (Greek cookies with cardamom)</span>
 
 For those of you who aren't familiar with her work (most famously <a href="http://en.wikipedia.org/wiki/Strangers_with_Candy">Strangers With Candy</a>), <strong>Amy Sedaris</strong> is crazy. <strong>Bug f'ing nuts</strong>. Mad as a hatter.

@@ -41,9 +41,6 @@ recipe:
     - "Heat 1/8\" of oil in a large skillet over a medium-high flame. Make golf-ball sized balls of the dough and pat them between your hands into a pancake about 1/4\" thick. Fry for about 3 minutes on each side until brown on the outside and cooked but still soft on the inside."
     - "Serve immediately, on a bed of shredded lettuce, topped with a generous amount of the sweet potato filling, and garnished with the crema and optional pomegranate seeds. Pass the salad, salsa, or guacamole on the side."
 ---
-<a href="/images/cookbook/bocoles-with-spicy-sweet-potatoes.webp"><img src="/images/cookbook/bocoles-with-spicy-sweet-potatoes.webp" alt="Bocoles with Spicy Sweet Potatoes" /></a>
-
-
 <p>Bocoloes are little pan-fried cake of masa and mashed black beans, typically served as anantojito (appetizer). I learned about them from Diana Kennedy's magnificient opus, My Mexico. For my version, I’ve replaced the pork filling with spiced up pan-fried sweet potatoes, and increase the portion to make them into a satisfying vegetarian entrée.</p>
 <p>There is a lot of confusion about sweet potatoes and yams, which aren’t even related. The sweet potatoes I want you to use for this have a dark orange-brown skin and orange flesh. You may well find them labeled yams in your grocery!</p>
 <p>The cakes fry up with a crispy exterior and somewhat creamy inside. If you have had an Indian dosa, which is made from a lentil batter, the crust is kind of like that. (Curious about all the dosa varieties on a South Indian menu? I built <a href="https://dosadecoder.com" target="_blank" rel="noopener">The Dosa Decoder</a> to break down how those names work.) My kids love them too; the older one now calls them "yummy cakes".</p>

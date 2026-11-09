@@ -28,8 +28,6 @@ recipe:
     - "Bake for about 40 minutes until golden brown, and sounds hollow when rapped on the bottom. Better yet, use an instant read thermometer to look for an internal temperature of 180 degrees. That is a much more reliable way to gauge doneness. If the bread browns too fast, cover it with a tinfoil tent until it is done."
     - "Allow to cool for a few minutes, and serve with swaths of sweet cream butter."
 ---
-
-<a style="display: inline;" href="/images/old/6a00e008d618bb8834010535dc7ab4970b-800wi.webp" rel="lightbox"><img class="at-xid-6a00e008d618bb8834010535dc7ab4970b "  src="/images/old/6a00e008d618bb8834010535dc7ab4970b-500wi.webp" alt="Irish Soda Bread" /></a>
 <span style="font-size: 10px; font-family: Arial;">Irish Soda Bread </span>
 
 <strong>Irish soda bread</strong> is great to have in your arsenal. It it is leavened with baking soda and buttermilk instead of yeast, so you can go from conception to hot bread on the table in under an hour, with only a few minutes of active work. It adapts beautifully to being made with half whole wheat flour to boost the nutritional value, and it is fun to make with <strong>kids</strong>. You can add raisins or currants or caraway seeds, or just leave it plain, to suit your mood or menu.

@@ -24,9 +24,6 @@ recipe:
     - "Drizzle olive oil on plate and fruit."
     - "Add a few grains of sea salt and a grind of black pepper to each slice."
 ---
-<a href="/images/cookbook/grapefruit-and-avocado-crudo.webp"><img src="/images/cookbook/grapefruit-and-avocado-crudo.webp" alt="Grapefruit and Avocado Crudo" /></a>
-
-
 <p>To cut the grapefruit, use an extremely sharp chef's knife. Remove about a 1/2" or so slice from the top and bottom. Resting on the bottom, make four vertical cuts to produce a rough cube, removing all of the skin and pith. Now slice vertically into 1/3" thick slabs, avoiding the core. If you get just a little bit of core, you can put that side down on the plate. Slicing grapefruit in this way produces a lot of waste material, so be sure and juice the rest for a cook's treat.</p>
 <p>If you don’t care so much about creating the thin slices, you can also simply cut the grapefruit into supremes ( Remove the top, bottom, and skin with a knife, then working carefully over a bowl, insert the knife next to each membrane to free the segments.</p>
 <p>Don’t put this dish together in advance! The grapefruit will start to break down into a juicy mess on your plate. You can cut the grapefruit ahead of time, but wait to assemble the platter at the last minute.</p>

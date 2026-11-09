@@ -42,11 +42,6 @@ recipe:
     - "To serve: Peel the cucumber, and then use the peeler to shave it into long, thin sheets, avoiding the seeds. Toss the cucumber with the rice vinegar and a pinch of salt."
     - "Divide the sushi rice among 4 bowls. Carefully arrange portions of all of the ingredients around the rice, making sure that wasabi is visible so that it isn’t eaten accidentally."
 ---
-<a href="/images/cookbook/chirashi-sushi.webp"><img src="/images/cookbook/chirashi-sushi.webp" alt="Chirashi Sushi" /></a>
-
-
-
-
 <a href="/images/cookbook/chirashi-sushi-2.webp"><img src="/images/cookbook/chirashi-sushi-2.webp" alt="Chirashi Sushi" /></a>
 
 <a href="/images/cookbook/chirashi-sushi-3.webp"><img src="/images/cookbook/chirashi-sushi-3.webp" alt="Chirashi Sushi" /></a>

@@ -30,9 +30,6 @@ recipe:
     - "Garnish with the jalapeno, sweet onion, cilantro, and finishing salt. Serve hot."
 ---
 
-<a href="/images/2013/09/Chanterelle-Tostadas-Top.webp"><img class="alignnone size-large wp-image-3885" src="/images/2013/09/Chanterelle-Tostadas-Top-624x415.webp" alt="Chanterelle Tostadas" width="624" height="415" /></a>
-<em>Chanterelle Tostada</em>
-
 These tostadas had a very simple inspiration: wildly inexpensive chanterelles. Although they grow prolifically in the Pacific Northwest, I've never learned how to hunt them, so I'm typically stuck paying retail when I want my fix - unless, I'm hanging around with my friend <a href="http://fat-of-the-land.blogspot.com/" target="_blank" rel="noopener">Lang</a>, whose new book <a href="http://www.amazon.com/gp/product/0345536258/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0345536258&amp;linkCode=as2&amp;tag=poeticlicen07-20" target="_blank" rel="noopener">The Mushroom Hunters</a> just came out. And retail price can easily be $20 or even $30 per pound. So I kind of freaked out when I saw them for under $10/pound at a few local markets, and snatched up several pounds. Not only were they cheap, but they are beautifully plump and dry, not the soggy or woody leftovers you sometimes see.
 
 When you think of wild mushrooms, you might be inclined towards European dishes: pasta, risotto, omelettes and so forth. But chanterelles and other wild mushrooms are used throughout the world - we just don't often get to see those uses when those cuisines travel to the US. Chanterelles are enjoyed from Mexico to the Himalayas and back. The only challenge is to use them in a way where their unique flavor and texture isn't overwhelmed by the big flavors of the supporting ingredients. For that reason, I made these tostadas without any intense salsa, just a scattering of tomatoes, onions, radish and jalapeno.

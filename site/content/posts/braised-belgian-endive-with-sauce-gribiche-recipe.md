@@ -33,9 +33,6 @@ recipe:
     - "Mix in the vinegar, cornichons, capers, parsley, tarragon, and diced egg white and a generous grind of black pepper. Taste and add salt if needed."
     - "To serve, place the chilled or room-temperature endive on a plate. Give the sauce a final stir, and spoon it over the endive."
 ---
-<a href="/images/cookbook/braised-belgian-endive-with-sauce-gribiche.webp"><img src="/images/cookbook/braised-belgian-endive-with-sauce-gribiche.webp" alt="Braised Belgian Endive with Sauce Gribiche" /></a>
-
-
 <p>I first tasted the classic French sauce gribiche when I was interning at Seattle’s landmark Canlis restaurant. Chef Franey serves it with asparagus, which is superb. I like it equally well with quickly braised Belgian endive, or steamed artichoke hearts.</p>
 <p>The method for making the sauce is similar to homemade mayonnaise, but it isn’t necessary to achieve a perfect emulsion; it is just fine for the olive oil to be partially separated. Gribiche is powerfully flavored with mustard, vinegar, <a href="https://www.amazon.com/dp/B00112IYZ4?tag=herb-hugo-20">cornichons</a>, capers, and a lot of fresh herbs. You’ll want to have a good bread on hand to mop up the extras.</p>
 <p>This method for braising Belgian endive can be used without the sauce gribiche. In that case, try something flavorful such as fresh-squeezed orange juice in place of the water for the braising liquid.</p>

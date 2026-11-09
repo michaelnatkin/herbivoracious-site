@@ -26,9 +26,6 @@ recipe:
     - "Bake until just barely set, about 20 minutes. A toothpick should come out nearly clean, but there should still be a visible jiggle if you move the pan. Err on the side of undercooking them. Remove the ramekins carefully to a cooling rack. I usually do this using tongs, but you have to be careful not to drop one back in the pan of hot water and splash yourself!"
 ---
 
-<a href="/images/2012/07/Basic-Baked-Custard.webp"><img class="alignnone size-large wp-image-2408" title="Basic Baked Custard" src="/images/2012/07/Basic-Baked-Custard-626x415.webp" alt="Basic Baked Custard" width="626" height="415" />
-</a><em>Basic Baked Custard Recipe - An Easy, Comforting Dessert with Many Options</em>
-
 A simple custard, baked in ramekins, is one of those recipes that <strong>every cook should have in their arsenal</strong>. It isn't at all hard to make, but there are a few ways you can go wrong that leave you with grainy bowls of scrambled eggs instead of the silky-smooth result you are looking for. Follow the method below and you'll feel like a custard master in no time.
 
 Speaking of ramekins, I've got a few favorites. The blue ones you see in the picture are these <a href="https://www.amazon.com/dp/B01AO0XTWQ?tag=herb-hugo-20" target="_blank">lovely, if pricey ones from Emily Henry</a>. But I also like traditional custard cups, and recently I've been using and loving <a href="https://www.amazon.com/dp/B001HIAD2Y?tag=herb-hugo-20" target="_blank">a set like this that has covers</a>. This makes them doubly useful as prep bowls that can also go in the refrigerator.

@@ -42,9 +42,6 @@ recipe:
     - "When ready to fry the breads (just before serving, they are best fresh), bring a skillet filled with 3/4\" of oil to 365 degrees F. Divide the dough into 4 balls and roll each one out to about 9\" in diameter. Fry one at a time until medium golden brown, flipping to cook both sides. Be careful when flipping - they are big enough that if you just flop over with a spatula it can cause a dangerous splash. I use a spatula and a spoon to control them. Remove to paper towels to drain."
     - "Put a fry bread on each plate, and top with generous portions of beans, the squash saute cheese, onion, tomatoes, lettuce, guacamole and salsa. Serve immediately."
 ---
-<a href="/images/cookbook/indian-fry-bread-tacos.webp"><img src="/images/cookbook/indian-fry-bread-tacos.webp" alt="Indian Fry Bread Tacos" /></a>
-
-
 <p>Navajo Fry Bread, and the Indian Tacos made with it, have a sad and storied past. They originated in Native American internment camps set up by the US government in the 1860s, as a way to use the very limited rations provided. Today, fry bread and Indian tacos are a proud part of the culture, served at virtually every pow-wow. And with good reason; besides the history, they are delicious.</p>
 <p>(Although Native American may be considered a more diplomatic term, it is never applied to this dish. The folks that make them and eat them universally refer to them as Indian tacos.)</p>
 <p>Fry bread is so much more filling than a corn tortilla that a single one of these, loaded up with flavorful toppings, makes a whole meal. If you have any dough left over, it is a treat fried up and served with powdered sugar or honey.</p>

@@ -22,8 +22,6 @@ recipe:
     - "Add the salt, sugar and spices of your choice. Shake well."
     - "Refrigerate. I don't know officially how long they are safe to keep but I use them for at least a few days."
 ---
-
-<a href="/images/2008/06/02/tacowithpickledonions.webp" rel="lightbox"><img title="Adobo Tofu Taco with Pickled Onions" src="/images/2008-small/06/02/tacowithpickledonions.webp" alt="Adobo Tofu Taco with Pickled Onions" width="455" height="302" border="0" /></a>
 <span style="font-size: 0.8em;">Adobo Tofu Taco with Pickled Onions</span>
 
 Pickled onions are one of my favorite condiments. I do this almost automatically if I find myself with half of an onion left on my cutting board from some other dish. It takes all of two minutes and then you have this little jar of tastiness waiting in your fridge for a few days.

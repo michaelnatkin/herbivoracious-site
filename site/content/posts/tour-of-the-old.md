@@ -8,9 +8,6 @@ cover:
   image: "/images/2007-small/09/06/persimmonjuice.webp"
   hidden: true
 ---
-
-<a href="/images/2007/09/06/persimmonjuice.webp" rel="lightbox"><img title="Fresh Persimmon Juice In The Old City of Jerusalem" src="/images/2007-small/09/06/persimmonjuice.webp" alt="Fresh Persimmon Juice In The Old City of Jerusalem" width="455" height="302" border="0" /></a>
-
 When we met our tour guide for the Old City of Jerusalem, Nurit Lessem, she was surprised to hear that we hadn't had lunch yet, but was more than happy to take us to one of her favorite falafel places for a break. I knew right away we'd found the right chaperone!
 
 SP and I wouldn't normally go in for a guided tour, but the historical complexity of the Old City made it seem a shame to go around with our nose stuck in a  guidebook. Nurit wasn't the type of guide where you felt as if she was simply going through the same old script. She clearly has a passion for the history of Jerusalem and has learned about it from many angles. She shared her depth of knowledge everywhere we stopped and engaged with us in lots of fascinating discussion and speculation. She also knew well hidden viewpoints and out of the way nooks and crannies that we wouldn't have found ourselves. So I can highly recommend her services. You can reach her at 972-54-654-3006 or <a href="mailto:nurit_lessem@yahoo.com">nurit_lessem@yahoo.com</a>. She speaks fluent English, French, and of course Hebrew.

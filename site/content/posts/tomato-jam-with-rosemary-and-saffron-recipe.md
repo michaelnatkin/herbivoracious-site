@@ -24,8 +24,6 @@ recipe:
   instructions:
     - "How about this for easy? Bring all ingredients to a simmer (the liquid will all come out of the tomatoes, you don't need to add any). Cook for about an hour, until thick and syrupy. Taste and adjust seasonings."
 ---
-
-<a style="display: inline;" href="/images/old/6a00e008d618bb883401348576c8f3970c-800wi.webp" rel="lightbox"><img class="asset asset-image at-xid-6a00e008d618bb883401348576c8f3970c " title="Tomato Jam With Rosemary and Saffron" src="/images/old/6a00e008d618bb883401348576c8f3970c-500wi.webp" alt="Grilled_Cheese_With_Tomato_Jam" /></a>
 <em>Tomato Jam With Rosemary and <a href="https://www.amazon.com/dp/B07J29JF27?tag=herb-hugo-20">Saffron</a> (on a Grilled Cheese Sandwich)
 </em>
 

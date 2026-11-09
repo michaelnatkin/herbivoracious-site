@@ -19,9 +19,6 @@ recipe:
     - "Put all ingredients in stand mixer and mix with paddle on medium-low speed until uniform, about 2 minutes. Allow to rest, loosely covered, at room temperature for 2 hours. (You can of course also mix this by hand.)"
 ---
 
-<a href="/images/2012/07/Swiss-and-Onions-in-Rye.webp"><img class="alignnone size-large wp-image-2488" title="Rye Piroshki with Roasted Onions and Swiss Cheese" src="/images/2012/07/Swiss-and-Onions-in-Rye-626x415.webp" alt="Rye Piroshki with Roasted Onions and Swiss Cheese" width="626" height="415" /></a>
-<em>Rye Piroshki with Roasted Onions, Caraway, and Swiss Cheese</em>
-
 Piroshki (not to be confused with pierogi) are individual yeast buns that are popular in Russia and all over Eastern Europe. They can be filled with anything from potatoes and cabbage to cottage cheese and jam. In Seattle, we have a shop called <a href="http://www.piroshkybakery.com/" target="_blank">Piroshky Piroshky</a> that does a really nice job with them. I used to live around the corner from one of their stores and loved to run in and grab one for a quick lunch.
 
 As far as I know, piroshki are generally made with white flour. I had made a rye pizza dough that I ended up unhappy with - as pizza dough. I had some left over the next day, and was just messing around with what to do with them. Free association - rye ... Swiss ... onions ... caraway. So I figured I'd just roll that up and bake it while I worked on something else. Turned out to be delicious, so I wanted to share it with you. At first I thought I'd call it a Jewish deli calzone, but then I figured piroshki is a closer match.

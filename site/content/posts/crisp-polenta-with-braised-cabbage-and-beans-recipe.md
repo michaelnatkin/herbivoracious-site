@@ -33,9 +33,6 @@ recipe:
     - "To serve, drizzle the sauce over the cabbage, allowing it to coat the plate as well. Spoon a few of the heated beans into the cabbage and sauce. Top the cabbage with two piping hot, crispy polenta cakes, and garnish with fennel fronds or other herbs."
 ---
 
-<a style="display: inline;" href="/images/old/6a00e008d618bb88340134828a761a970c-800wi.webp" rel="lightbox"><img class="asset asset-image at-xid-6a00e008d618bb88340134828a761a970c " src="/images/old/6a00e008d618bb88340134828a761a970c-500wi.webp" alt="Crispy_Polenta_Cabbage_Beans" /></a>
-<em>Crisp Polenta with Braised Cabbage and Beans</em>
-
 Cabbage doesn't get enough respect in America. True, if it is boiled to death, it produces some of the worst sulfurous smells imaginable. I lived upstairs from the <strong>craziest, meanest, nicest old woman in Milwaukee</strong> (RIP, Angie!), and you could tell when she was cooking cabbage from a mile away. But <em>slowly</em> braised with a little acid and it becomes superbly flavorful and tender.
 
 Crisp, pan-fried slices of polenta make the perfect counterpoint to the cabbage. The key is to cook the polenta long enough and hot enough to really develop a <a href="/2010/02/things-that-go-crunch-in-the-night-making-your-food-pop-part-4/" target="_blank">crunch</a>, otherwise you'll be eating soft-on-soft. <strong>Mush. Bad. </strong>You'll be using leftover chilled polenta, so make this <a href="/2008/02/recipe-polenta/" target="_blank">polenta with fennel and apples</a> today, and then you'll be ready to serve the cabbage dish tomorrow. To chill the polenta, pour the extra into a lightly oiled rectangular or square baking dish and cover with saran wrap. It will be easy to slice the next day.

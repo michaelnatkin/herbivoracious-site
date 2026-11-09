@@ -25,9 +25,6 @@ recipe:
     - "Taste and adjust the seasoning. Allow to stand for at least an hour. Toss again just before serving."
 ---
 
-<a style="display: inline;" href="/images/old/6a00e008d618bb88340120a9614a86970b-800wi.webp" rel="lightbox"><img class="asset asset-image at-xid-6a00e008d618bb88340120a9614a86970b " src="/images/old/6a00e008d618bb88340120a9614a86970b-500wi.webp" alt="Pupusas_De_Queso_Con_Curtido" /></a>
-<em>Pupusas de queso</em>
-
 Pupusas are El Salvador's best known national delicacy. The concept is simple, just corn masa with a savory filling and flattened into a thick disc, then baked on a lightly-greased griddle or in a <a href="https://www.amazon.com/dp/B00006JSUB?tag=herb-hugo-20">cast-iron skillet</a>. Essentially like a quesadilla, though there is something different about the taste when the filling is cooked at the same time as the dough instead of in a second pass. They are also quite similar to the arepas of South America.
 
 The most common vegetarian fillings for pupusas are cheese, refried beans (if they don't contain lard), and loroco (a flower bud which can be hard to find in America.) For cheese pupusas, a soft, fresh quesillo would be most traditional. If you can't find that, any mild, meltable cheese can work well. While not traditional, fresh goat cheese (chevre) is also delicious.

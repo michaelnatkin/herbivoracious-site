@@ -34,9 +34,6 @@ recipe:
     - "Every 3 minutes, remove the top and toss. The total cooking time will be about 8-12 minutes. Towards the end, taste a noodle each time you remove the top to see if it is done. If not, and there isn't any moisture left on the bottom, add a bit more wine or water, about 1/3 cup."
     - "When the noodles are done to your liking, make any final adjustments to the seasoning and transfer to serving bowls. Garnish with the remaining uncooked cherry tomatoes and parsley, and another grind of fresh black pepper and serve immediately."
 ---
-<a href="/images/cookbook/absorption-cooked-peppery-red-wine-capellini.webp"><img src="/images/cookbook/absorption-cooked-peppery-red-wine-capellini.webp" alt="Absorption-Cooked Peppery Red-Wine Capellini" /></a>
-
-
 <p>Cooking pasta by the absorption method instead of boiling in a gallon of salted water may seem fearful to those of us that grew up with noodle orthodoxy, but it actually works great and can be a big time saver. You don't have to wait for water to boil, and you don't necessarily have two pots to clean at the end, if you design your sauce and condiment to be built in with the pasta.</p>
 <p>For this recipe, I toast the capellini in the oven first. This is characteristic of how noodles are handled in Spain and Mexico (where they are called fideos) and the Middle East. I enjoy the additional browned flavors. You can do this while prepping and sauteeing your vegetables.</p>
 <p>The flavor of this dish is quite assertive, with substantial quantities of red wine, black pepper, smoked paprika and garlic. It isn't one I would necessarily recommend for young children or those who prefer milder tastes.</p>

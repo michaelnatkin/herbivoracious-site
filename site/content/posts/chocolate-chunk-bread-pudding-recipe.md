@@ -29,9 +29,6 @@ recipe:
     - "Let rest ten minutes and serve it forth. A bit of whipped cream, a drizzle of heavy cream, or a scoop of vanilla ice cream are all very welcome. If you want to whisk a bit of good bourbon into that cream, don't let me stop you."
 ---
 
-<a href="/images/2009/11/Chocolate-Chunk-Bread-Pudding.webp"><img class="alignnone size-large wp-image-933" title="Chocolate Chunk Bread Pudding" src="/images/2009/11/Chocolate-Chunk-Bread-Pudding-622x415.webp" alt="Chocolate Chunk Bread Pudding" width="622" height="415" /></a>
-<em>Bread pudding with molten pockets of bittersweet chocolate</em>
-
 I love to make sweet bread puddings with leftover challah or brioche, because they are already rich. Today's version is filled with molten chunks of <strong><a href="https://www.amazon.com/dp/B01MY07VS5?tag=herb-hugo-20">bittersweet chocolate</a></strong>. Let's just say I find myself eating less challah on Friday night because I'm hoping there will be enough left to make this for dessert the next day.
 
 The critical understanding of bread pudding is that it is a custard, albeit heavily garnished with bread. Once you realize that, and treat it appropriately in terms of ratios and temperatures, you have a lot of <strong>freedom to tweak</strong> the components and be assured of making a great dessert.

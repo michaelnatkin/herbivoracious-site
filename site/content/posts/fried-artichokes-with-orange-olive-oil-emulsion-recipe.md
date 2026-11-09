@@ -28,9 +28,6 @@ recipe:
     - "Serve very hot, either plated with the Orange-Olive Oil Emulsion or passing that on the side."
 ---
 
-<a href="/images/2012/12/Fried-Artichokes-with-Orange-Emulsion.webp"><img class="alignnone size-large wp-image-3323" title="Fried Artichokes with Orange Olive Oil Emulsion" src="/images/2012/12/Fried-Artichokes-with-Orange-Emulsion-626x415.webp" alt="" width="626" height="415" />
-</a><em>Fried Artichokes with Orange-Olive Oil Emulsion</em>
-
 The first time I had fried artichokes was at a little place in our neighborhood called Supreme; they went out of business shortly after we moved in, or I'd probably have the artichoke equivalent of a beer belly by now. Since then, I never pass up a chance to eat fried artichokes (including the classic Carciofi alla Giudia of Rome) but hadn't made them at home.
 
 Last week when I was working on the <a href="/2012/11/pan-fried-polenta-with-chickpea-stew-king-oyster-mushrooms-and-fig-puree/" target="_blank">City Fruit dinner</a>, I was also reading Yotam Ottolenghi and Sami Tamimi's new <a href="https://www.amazon.com/dp/1607743949?tag=herb-hugo-20" target="_blank">Jersualem cookbook</a>. It isn't at all vegetarian, unlike Ottolenghi's previous offering (<a href="https://www.amazon.com/dp/1452101248?tag=herb-hugo-20" target="_blank">Plenty</a>), but is absolutely stunning and makes me wish to make another trip to Israel as soon as possible. In one of his recipes, he mentions simmering an unpeeled orange and then blitzing it in the blender and incorporating it into a sauce (for salmon, if I remember right).

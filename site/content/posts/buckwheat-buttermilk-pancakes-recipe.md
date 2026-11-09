@@ -27,8 +27,6 @@ recipe:
     - "Cook in the usual way. In case you are from Mars: heat a griddle over a medium high flame. Rub it with a bit of oil on a paper towel. Ladle out pancake batter to about 5\" circles. Allow to cook until bubbles form on top and peek underneath reveals a nice dark brown. Flip and cook until the other side is done."
     - "Serve forth with plenty of soft butter and real maple syrup."
 ---
-
-<a style="display: inline;" href="/images/old/6a00e008d618bb8834010536aae41d970c-800wi.webp" rel="lightbox"><img class="at-xid-6a00e008d618bb8834010536aae41d970c " alt="Buttermilk_Buckwheat_Pancakes" src="/images/old/6a00e008d618bb8834010536aae41d970c-500wi.webp" /></a>
 <span style="font-size: 11px; font-family: Arial;">Buckwheat pancakes</span>
 
 Buckwheat pancakes have a place in the American imagination, but rarely at the breakfast table. When you do occasionally find them at restaurants, the percentage of buckwheat flour is so low that you can hardly taste it. Which is a shame, because the warm, toasty, nutty flavor is delicious.

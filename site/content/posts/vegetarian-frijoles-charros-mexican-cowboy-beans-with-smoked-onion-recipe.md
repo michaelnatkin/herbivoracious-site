@@ -28,9 +28,6 @@ recipe:
     - "Add the crushed tomato, the beans, and 1 cup of the bean liquid. Bring to a simmer and reduce heat to maintain. Cook for about 15 minutes, then taste and adjust seasoning. Add more of the bean liquid to find the desired brothy consistency. Serve hot."
 ---
 
-<a style="display: inline;" href="/images/old/6a00e008d618bb8834015432bb4309970c-800wi.webp" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb8834015432bb4309970c" title="Frijoles Charros" src="/images/old/6a00e008d618bb8834015432bb4309970c-500wi.webp" alt="Frijoles Charros" /></a>
-<em>Vegetarian Frijoles Charros - Mexican Cowboy Beans</em>
-
 <em>Frijoles charros </em>are a classic way of serving beans in Mexico. Unlike refried beans, the pinto beans are served whole, in a <strong>broth redolent of smoke and tomato</strong>. Traditionally, that smoke flavor comes from bacon.
 
 <i><b>NOTE:</b> I no longer recommend jury-rigged stovetop smoking. I've since learned that creating smoke in a low-oxygen sealed environment like this creates unnecessarily high levels of carcinogens. See my <a href="/2013/01/smoked-tofu-buns-recipe/">Smoked Tofu Buns</a> recipe for a safer alternative if you don't have your own method of smoking.</i>

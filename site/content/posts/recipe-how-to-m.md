@@ -17,8 +17,6 @@ recipe:
     - "1 teaspoon salt"
     - "1 tablespoon olive oil"
 ---
-
-<a href="/images/2007/11/07/fluffycouscous.webp" rel="lightbox"><img class="photo" title="Fluffy Couscous - just steam it in a casserole instead of a pot" src="/images/2007/11/07/fluffycouscous.webp" alt="Fluffy Couscous - just steam it in a casserole instead of a pot" width="455" height="302" border="0" /></a>
 <span style="font-size: 0.8em;">Fluffy Couscous - just steam it in a casserole instead of a pot</span>
 
 I make <a href="https://www.amazon.com/dp/B001HTINWA?tag=herb-hugo-20">couscous</a> all the time, whenever I want a break from rice or pasta, or when I just need something that cooks super quick with minimal attention. I know there is a proper way that it is prepared in its native lands, involving multiple steamings in a basket over boiling water, followed by breaking up with your fingers and steaming some more. I'm sure this is fantastic but I've always contented myself with the quick "package directions" version where you simply add the couscous to boiling water, turn off the heat, cover, wait 5 minutes and fluff. It isn't bad but it isn't all that fluffy or delicious either.

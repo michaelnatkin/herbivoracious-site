@@ -8,9 +8,6 @@ cover:
   image: "/images/old/6a00e008d618bb8834010537079a5a970b-500wi.webp"
   hidden: true
 ---
-
-<a style="display: inline;" href="/images/old/6a00e008d618bb8834010537079a5a970b-800wi.webp" rel="lightbox"><img class="at-xid-6a00e008d618bb8834010537079a5a970b "  src="/images/old/6a00e008d618bb8834010537079a5a970b-500wi.webp" alt="Nuts" /></a>
-
 When I was a sophomore in college, a woman in my class named Katherine <span class="misspell">Brodsky</span> died because she never imagined that a bowl of chili at a local pub would have peanut butter as a "secret ingredient". She had the most severe form of food allergy, known as <strong>anaphylaxis</strong>. Her airway closed, and she died a couple of hours later. Although I didn't know Katherine personally, her tragedy stuck in my head.
 
 Almost two decades later, I met my wife Sarina, and she has the same type of allergy. Peanuts and every type of tree nut are poison to her. Although we eat out frequently and with pleasure, there is <strong>always</strong> an element of fear. Will this be a normal meal, or one of those horrible nights we spend at the emergency room? Or, god forbid, worse. In the 5 years, I've known her, we've had far too many instances where she has ingested nuts at a restaurant or catered event.

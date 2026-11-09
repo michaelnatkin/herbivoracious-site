@@ -38,9 +38,6 @@ recipe:
     - "Same as above."
 ---
 
-<a style="display: inline;" href="/images/old/6a00e008d618bb883401538ea01c40970b-800wi.webp" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb883401538ea01c40970b" title="Mushroom Risotto With Asparagus and Fava Beans" alt="Mushroom Risotto With Asparagus and Fava Beans" src="/images/old/6a00e008d618bb883401538ea01c40970b-500wi.webp" /></a>
-<em>Mushroom Risotto With Asparagus and Fava Beans</em>
-
 This risotto packs a powerful mushroom intensity. I finely chop a whole pound of mushrooms in a food processor, then saute them in olive oil until they give up all of their liquid and develop deep flavor. This is similar to the French method for mushroom <em>duxelles. </em>Then the mushrooms are cooked along with the rice. I use water instead of broth to allow the mushroom flavor to shine.
 
 I made this with cultivated mushrooms, but if you happen to have fresh porcini on hand, they would be incredible in this dish.

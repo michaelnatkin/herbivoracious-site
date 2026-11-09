@@ -29,9 +29,6 @@ recipe:
     - "To serve, arrange two slices of cooked apple on each crostini. Top with ½ teaspoon of the blue cheese, a speck of the crushed tarragon, two whole tarragon leaves, and a few grains of sea salt."
 ---
 
-<a href="/images/2012/04/Caramelized-Apple-and-Blue-Cheese-Crostini.webp"><img class="alignnone size-large wp-image-1747" title="Caramelized Apple and Blue Cheese Crostini" src="/images/2012/04/Caramelized-Apple-and-Blue-Cheese-Crostini-626x415.webp" alt="Caramelized Apple and Blue Cheese Crostini" width="626" height="415" />
-</a><em>Caramelized Apple and Blue Cheese Crostini</em>
-
 <em>Here's a sneak peek at one of my favorite new appetizers <a href="/get-the-herbivoracious-cookbook/">in the cookbook</a>. I'll probably serve this a lot at book signing events because it is easy to do and pops with lots of flavor. The key is to use a good, crisp cooking apple and then really caramelize is deeply, like you see in the picture above. Using both a quickly-made tarragon oil and the fresh leaves is a good trick to amp up the flavor.</em>
 
 These crostini are a cinch to make, and they will surprise your guests with the unexpected combination of caramelized apple, blue cheese, and tarragon. Serve them with a crisp, dry white wine for an elegant pre-dinner snack.

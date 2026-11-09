@@ -26,9 +26,6 @@ recipe:
     - "In a small skillet, heat the vegetable oil over a medium flame. Add the mustard seeds and cook for about 30 seconds, until they begin to pop and turn gray. Add the cumin powder, and cayenne powder, and ten seconds later (before the cumin can burn) add the tomato paste, vinegar and salt."
     - "Drain the onion thoroughly, then stir the tomato mixture into it. Stir in the food coloring if using. Taste and adjust seasoning. You may like a little more vinegar, salt, or cayenne."
 ---
-<a href="/images/cookbook/onion-chutney.webp"><img src="/images/cookbook/onion-chutney.webp" alt="Onion Chutney" /></a>
-
-
 <p>When I was a freshman in college, I ate lunch at the many fine Indian restaurants in Providence, Rhode Island almost every day. This style of raw onion chutney was always on offer. Unfortunately, I’ve rarely seen it outside of the Northeast, and I didn’t see it at all when I was in Delhi.</p>
 <p>If you don’t care for raw onions, you aren’t going to like this. But if you are like me, and crave that sweet, pungent crunch, this stuff is addictive.  It goes well with curries, and even better with fritters and pakora.</p>
 

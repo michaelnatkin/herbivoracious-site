@@ -25,9 +25,6 @@ recipe:
     - "Fold the seasoning mixture into the rice. Taste and adjust the seasoning. It might need more salt or more black pepper."
 ---
 
-<a href="/images/2012/06/Ginger-Black-Pepper-Rice.webp"><img class="alignnone size-large wp-image-2091" title="Ginger and Black Pepper Basmati Rice" src="/images/2012/06/Ginger-Black-Pepper-Rice-626x415.webp" alt="Ginger and Black Pepper Basmati Rice" width="626" height="415" />
-</a><em>Ginger and Black Pepper Rice Pilaf</em>
-
 <strong></strong>Flavoring your basmati rice is an easy way to add variety to an <a href="/2012/01/saag-with-collard-greens-kale-and-spinach-recipe/" target="_blank">Indian</a> <a href="/2011/04/gobi-masala-cauliflower-curry-recipe/" target="_blank">menu</a>. The possibilities are endless. Today's version, with ample quantities of grated ginger root and freshly ground pepper is one of my favorites.
 
 You don't need a special ginger grating tool. Just use the same microplane you already use for cheese, chocolate and nutmeg. Wait, you don't own a microplane? Seriously, <a href="https://www.amazon.com/dp/B001VGS1M6?tag=herb-hugo-20" target="_blank">get one right now</a>, it will be among the best twelve bucks you ever spent in the kitchen, or <strong>I'll eat my hat (*)</strong>. I find that you don't even have to peel ginger if you are using the microplane, it cuts it so finely that the skin becomes unnoticeable.

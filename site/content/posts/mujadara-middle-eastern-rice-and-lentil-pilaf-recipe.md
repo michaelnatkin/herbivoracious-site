@@ -26,9 +26,6 @@ recipe:
     - "When the onions are cooked, fold the rice, lentils, spices, half of the onions, 1 more teaspoon of salt and several grinds of black pepper together in a large bowl. Taste and adjust seasonings."
     - "On a large serving platter, form a mound of the rice and lentil mixture, top with the remaining caramelized onions and chopped parsley, a grind of pepper and a few grains of sea salt."
 ---
-<a href="/images/cookbook/mujadara-middle-eastern-rice-and-lentil-pilaf.webp"><img src="/images/cookbook/mujadara-middle-eastern-rice-and-lentil-pilaf.webp" alt="Mujadara – Middle Eastern Rice and Lentil Pilaf" /></a>
-
-
 <p>Mujadara is simply a mixture of rice and perfectly cooked lentils, spiked with a big dose of caramelized onions and a bit of cumin and cinnamon. Nutritious, satisfying, inexpensive, and easy to make, it is a hearty one dish meal served with just some Greek yogurt and maybe a cucumber salad, or it can be part of a larger Middle Eastern feast. It is best close to room temperature, not piping hot.</p>
 <p>While the onions are caramelizing, you can cook the rice and lentils. If you don’t have time to slowly caramelize the onions, a hotter and faster fry can also give you delicious results, with a sweet brown surface and a little remaining crunch.</p>
 <p>Many folks cook the rice and lentils together, but I find that doesn’t give enough control over their relative textures. Mujadara is best when the lentils are tender but not falling apart into soup.</p>

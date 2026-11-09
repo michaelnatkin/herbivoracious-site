@@ -27,8 +27,6 @@ recipe:
     - "When everything is cooked, fold the rice, lentils, spices, half of the onions, and more salt and pepper together in a large bowl. Taste and adjust seasonings."
     - "To serve, form a large mound, top with the remaining caramelized onions and chopped parsley, a grind of pepper and a few grains of sea salt. Pass a bowl of thick Greek yogurt to mix in as desired. It is really good at room temperature, and just gets better after a day in the refrigerator."
 ---
-
-<a href="/images/2007/10/07/mujadara.webp" rel="lightbox"><img class="photo noresize" title="Mujadara (Rice, Lentils and Caramelized Onion Pilaf)" alt="Mujadara (Rice, Lentils and Caramelized Onion Pilaf)" src="/images/2007/10/07/mujadara.webp"/></a>
 <span style="font-size: 0.8em;">Mujadara (Rice, Lentils and Caramelized Onion Pilaf)</span>
 
 Mujadara (also spelled Mujadarah, Megadarra or several other variations) is delicious, inexpensive, simple to make, and one of my wife's favorite foods. Since she got us this beautiful new serving platter I felt a batch was overdue. It is simply a mixture of rice and perfectly cooked lentils, spiked with a big dose of caramelized onions and a bit of cumin and cinnamon. It makes a hearty vegetarian one dish meal served with just some Greek yogurt and maybe a cucumber salad, or it can be part of a larger Middle Eastern feast.

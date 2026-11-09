@@ -29,9 +29,6 @@ recipe:
     - "When the mushrooms are ready, place one portion in each bowl. Place the bok choy dice around the maitake. Reheat the tea in the microwave and divide among the 4 bowls. Garnish each bowl with a drizzle of toasted sesame oil, a pinch of flaky sea salt, and the scallions. Serve piping hot."
 ---
 
-<a href="/images/2013/04/Roasted-Maitake-In-Smoky-Tea-Broth.webp"><img class="alignnone size-large wp-image-3694" alt="Roasted Maitake Mushroom In Smoky Tea Broth" src="/images/2013/04/Roasted-Maitake-In-Smoky-Tea-Broth-626x415.webp" width="626" height="415" /></a>
-<em>Roasted Maitake Mushroom In Smoky Tea Broth</em>
-
 <em>I've been traveling this week, so I thought I'd take the opportunity to share one of my favorite recipes from <a href="https://www.amazon.com/dp/1558327452?tag=herb-hugo-20" target="_blank">the Herbivoracious cookbook</a>. I saw some beautiful maitake mushrooms at Pike Place Market recently, so this should be a good time of year to seek them out and try this soup.</em>
 
 Maitakes, also known as hen-of-the-woods (not to be confused with chicken-of-the-woods, which is completely different!), are a wild mushroom well worth seeking out at farmers’ markets or gourmet grocers. Maitakes are rather expensive, and their dramatic ruffled appearance and rich flavor are unusual, so when I use them, I like to make them the focus of a dish.

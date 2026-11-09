@@ -29,8 +29,6 @@ recipe:
     - "Add the remaining tablespoon of butter to the mushrooms and stir. Add the pasta to the mushrooms and mix thoroughly, being sure to scrape the browned bits from the bottom of the pan in. Add the pasta water, a little at a time until the pasta is quite lightly sauced, but there is a little sheen. You probably won't need all of the pasta water."
     - "Serve the pasta family style in a big bowl, or plate individually. Be sure and get all those delicious mushrooms onto the pasta. Finish with parmigiano-reggiano, fresh ground black pepper, and lots of flat-leaf parsley."
 ---
-
-<a style="display: inline;" href="/images/old/6a00e008d618bb88340120a80925c0970b-800wi.webp" rel="lightbox"><img class="asset asset-image at-xid-6a00e008d618bb88340120a80925c0970b " src="/images/old/6a00e008d618bb88340120a80925c0970b-500wi.webp" alt="Stringozzi_Con_Funghi" /></a>
 <a href="https://www.amazon.com/dp/B07BWN5RLH?tag=herb-hugo-20">Stringozzi</a> con funghi (pasta with mushrooms)
 
 Living in Seattle, we get some of the best wild mushrooms in the country at our markets, often within hours of being foraged. The bounty of morels, chanterelles, porcini, maitake, and dozens of other varieties is astonishing. Sometimes I forget <strong>how delicious cultivated button mushrooms can be</strong>.

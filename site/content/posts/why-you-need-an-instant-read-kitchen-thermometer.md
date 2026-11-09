@@ -8,9 +8,6 @@ cover:
   image: "/images/2012/09/Digital-Thermometer-626x415.webp"
   hidden: true
 ---
-
-<a href="https://www.amazon.com/dp/B00009WE45?tag=herb-hugo-20"><img class="alignnone size-large wp-image-2782" title="Digital Kitchen Thermometer" src="/images/2012/09/Digital-Thermometer-626x415.webp" alt="Digital Kitchen Thermometer" width="626" height="415" /></a>
-
 An instant-read thermometer might seem like one of those kitchen gadgets you don't really need. <strong>Most of us cook by the seat of our pants anyhow, right?</strong> Maybe it seems a little too "cheffy?" But I think you'll find that if you get one, even a <a href="https://www.amazon.com/dp/B00009WE45?tag=herb-hugo-20">basic $12 model</a> like I have pictured above, you'll use it a lot, and it will increase your confidence in a wide range of kitchen tasks. See below for reasons you might want to get an even better one.
 
 Here are some of the things I use an instant-read thermometer for:

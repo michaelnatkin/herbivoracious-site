@@ -8,8 +8,6 @@ cover:
   image: "/images/old/6a00e008d618bb8834011168671133970c-500wi.webp"
   hidden: true
 ---
-
-<a style="display: inline;" href="/images/old/6a00e008d618bb8834011168671133970c-800wi.webp" rel="lightbox"><img class="at-xid-6a00e008d618bb8834011168671133970c "  src="/images/old/6a00e008d618bb8834011168671133970c-500wi.webp" alt="Beater_Blade" /></a>
 I love baking, and I love our KitchenAid Mixer. I *hate* stopping the mixer every 30 seconds to scrape down the sides of the bowl. And it also annoys me that the attachments can't go in the dishwasher. Apparently I'm not the only one!
 
 This new BeaterBlade is fantastic. It looks just like the normal paddle attachment, but is made out of heavy duty plastic. The brilliant part is that the edges are lined with a slightly softer plastic that acts like a squeegee on the bowl. So it continuously scrapes the edge and pushes the batter back down. No more stopping. It even scrapes the little dimple at the bottom of the bowl!

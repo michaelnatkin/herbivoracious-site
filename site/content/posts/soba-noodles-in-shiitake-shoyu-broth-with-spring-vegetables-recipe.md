@@ -36,9 +36,6 @@ recipe:
     - "Bring the broth back to a simmer."
     - "To serve, put about 1 cup of noodles in each of 4 heated bowls. Cut the eggs in half. Top the noodles with the leeks, eggs, asparagus, sliced shiitake caps, tofu and green onions. Take your time to make an attractive arrangement. Ladle in about 1 1/2 cups of the broth. Drizzle in a few drops of the sesame oil and serve it forth."
 ---
-<a href="/images/cookbook/soba-noodles-in-shiitake-shoyu-broth-with-spring-vegetables.webp"><img src="/images/cookbook/soba-noodles-in-shiitake-shoyu-broth-with-spring-vegetables.webp" alt="Soba Noodles in Shiitake Shoyu Broth with Spring Vegetables" /></a>
-
-
 <p>I’m rarely jealous of meat eaters, but their Asian noodle soups do get my attention. I wanted to create a very full flavored broth with lots of umami intensity. I make it with dried shiitakes, kombu, and the best shoyu I have ever tasted.</p>
 <p>Soba are Japanese noodles made from buckwheat flour. Soba are often served cold with a dipping sauce, but are equally great in soup. The buckwheat flavor is distinctively nutty and earthy. It has a peculiar resonance for me because it reminds me of the kasha that my eastern European Jewish family served growing up. Funny how the same flavor can appear successfully in such different contexts. The same soup could be made with ramen or udon noodles and still be delicious.</p>
 <p>The toppings for this soup are a nice transition from winter to spring. We have the leeks and dried mushrooms that are a mainstay of the cold weather months, and asparagus and eggs that have always symbolized spring. A few green onions add a bright top note, and the soft tofu brings another texture and some protein. I'm not sure I can think of anything I'd rather eat on a rainy day. Of course you can vary the toppings to suit your mood and the contents of your vegetable drawer.</p>

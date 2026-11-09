@@ -23,9 +23,6 @@ recipe:
     - "Cooking option 2: bring a very large pot of salted water to a boil. Boil the green beans until just barely tender and still bright green, working in two batches if necessary. Shock in the ice water."
     - "When the beans are well chilled, transfer to serving bowl. If cooked using option 2, add the olive oil and salt now and toss well. Garnish with the feta, black olives, pepper and marjoram. Toss just before serving, as it looks beautiful before tossing."
 ---
-
-<a href="/images/2013/05/Greek-Green-Bean-Salad.webp"><img class="alignnone size-large wp-image-3577" alt="Greek Green Bean Salad" src="/images/2013/05/Greek-Green-Bean-Salad-626x415.webp" width="626" height="415" /></a>
-
 These green beans are <strong>perfect for a potluck</strong>; the beans themselves are blanched and shocked and you can then hold them cold a day in advance and dress them close to serving time. They can be cooked traditionally in a big pot, or in a simple sous vide setup if you are so inclined - I've offered both options in the recipe.
 
 I've been on a big <strong><a href="https://www.amazon.com/dp/B08LCKK4WV?tag=herb-hugo-20">fresh marjoram</a></strong> kick lately. It is in the same family as oregano, but I think the flavor is more complex and resinous and interesting. It is especially well loved in Greek cuisine and pairs beautifully with feta and olives. If you can't find fresh marjoram, use fresh oregano and/or thyme.

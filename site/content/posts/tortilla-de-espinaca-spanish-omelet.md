@@ -9,9 +9,6 @@ cover:
   hidden: true
 ---
 
-<a href="/images/2012/06/Tortilla-De-Espinaca.webp"><img class="alignnone size-large wp-image-1304" title="Tortilla De Espinacas" src="/images/2012/06/Tortilla-De-Espinaca-626x415.webp" alt="Tortilla De Espinacas - Spanish Omelet with Spinach" width="626" height="415" />
-</a><em>Tortilla de Espinacas - Spanish Omelet with Spinach</em>
-
 When we had our first kiddo, family and friends helped out by bringing over food, doing laundry, and generally making it so we could stay in our pajamas and <strong>figure out how the heck to be parents</strong>. It was wonderful. Seriously, if you have the opportunity to do that for a someone you know, they will never forget it.
 
 Our neighbor Catherine brought over her tortilla, and it was so good that we asked for the recipe and have made it many times since. If you haven't had it, a Spanish tortilla is <strong>nothing like a Mexican tortilla</strong>. In Spain, a tortilla is a thick potato and egg omelet, usually served at room temperature or cool as an appetizer (tapa). It also makes a fine light meal, much like a quiche or fritatta.

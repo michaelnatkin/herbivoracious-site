@@ -9,9 +9,6 @@ cover:
   hidden: true
 ---
 
-<a href="/images/2012/07/King-Oyster-Mushroom-Roasted-Cherry-Sage.webp"><img class="alignnone size-large wp-image-2455" title="King Oyster Mushroom with Roasted Cherries and Sage" src="/images/2012/07/King-Oyster-Mushroom-Roasted-Cherry-Sage-626x415.webp" alt="King Oyster Mushroom with Roasted Cherries and Sage" width="626" height="415" />
-</a><em>King Oyster Mushroom with Roasted Cherries and Sage</em>
-
 I'm often asked "where do you get your inspiration for the recipes?" I love this question because it gives me a chance to talk about all of the different places that ideas come from, but <strong>often in generalities</strong>. So today, I thought it might be interesting to focus on the specifics of how a particular dish came about.
 
 Last week, the amazing <a href="http://franticfoodie.com/">Keren Brown</a> put together an event at <a href="http://emmerandrye.com/" target="_blank">Emmer and Rye</a> to give me a chance to talk with the Seattle food blogger community about <a href="/get-the-herbivoracious-cookbook/" target="_blank">my cookbook</a>. <strong>Chef Seth Caswell</strong> put together a bunch of nice appetizers for us to enjoy on E&amp;R's new upstairs deck. One of my favorites was little squares of French toast topped with roasted cherries. I don't think I'd ever had a roasted cherry before; these made a big impression on me. I was surprised at how well they maintained their structure when cooked. They didn't break down into jam, but the texture and flavor was completely transformed. I knew right away that I wanted to play with that idea.

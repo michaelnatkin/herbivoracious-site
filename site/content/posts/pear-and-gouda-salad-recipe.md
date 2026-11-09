@@ -24,9 +24,6 @@ recipe:
     - "Put the lettuce, toasted pumpkin seeds, gouda, pear slices and pickled onions in a salad bowl."
     - "Give the dressing one last whisk and dress the salad; start with half of the dressing and add more as needed so that the leaves are nicely coated but not drenched."
 ---
-<a href="/images/cookbook/pear-and-gouda-salad.webp"><img src="/images/cookbook/pear-and-gouda-salad.webp" alt="Pear and Gouda Salad" /></a>
-
-
 <p>This salad takes advantage of the easy and unusual method for Cryo-Pickled Onions on . The onions go right in the salad, and the pickling liquid is used to make the vinaigrette. (You’ll have to make the onions at least a day in advance of when you want to serve the salad). I love how the subtle flavor of fresh ginger works with the pear.</p>
 <p>For a more elegant presentation, refrigerate four salad plates and served this as an arranged salad instead of in a family-style bowl.</p>
 <p>Buy the best <a href="https://www.amazon.com/dp/B00HYMWPRS?tag=herb-hugo-20">aged gouda</a> you can afford for this salad. The good stuff is at least one year old and has a slightly crystalline texture and prounounced nutty flavor.</p>

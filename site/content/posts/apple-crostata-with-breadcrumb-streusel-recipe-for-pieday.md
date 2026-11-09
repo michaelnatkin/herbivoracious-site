@@ -27,9 +27,6 @@ recipe:
     - "Allow to cool, cut into squares and serve."
 ---
 
-<a href="/images/2012/06/Apple-Crostata-with-Breadcrumb-Streusel.webp"><img class="size-large wp-image-2199 alignnone" title="Apple Crostata with Breadcrumb Streusel" src="/images/2012/06/Apple-Crostata-with-Breadcrumb-Streusel-626x415.webp" alt="Apple Crostata with Breadcrumb Streusel" width="626" height="415" />
-</a><em>Apple Crostata with Breadcrumb Streusel</em>
-
 I love pie as much as the next person, but often I can't be bothered with the decorative aspect of making a nicely crimped edge, latticework, etc. (Where by "can't be bothered" I mean "I'm completely incompetent at".) That's where crostata comes in. It is fussless pie, made on a baking sheet instead of in a pie dish. I've posted about crostata before, so I'll refer you back to the previous recipe as to <a href="/2009/08/rustic-peach-and-nectarine-crostata-recipe/">how to make the dough</a>. We'll do a double batch and it will completely fill a half sheet pan, which makes it nice for brunch for, say, 12 people.
 
 Today's variation is sort of a mashup with this <a href="/2007/10/strudel-from-fo/">amazing strudel</a> I had at Forno Marco Roscioli in Rome. The idea of breadcrumbs in a pastry appealed to me, so for this crostata, I use the crumbs to make a variation of a streusel topping. I wasn't sure it would work out, but I ended up liking the result quite a bit. It is less sweet than a typical pie, making it a nice match for a cup of strong coffee and a plate of scrambled eggs.

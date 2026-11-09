@@ -26,9 +26,6 @@ recipe:
     - "Add the Brussels sprouts, a big pinch of salt, the sage, and rosemary, and cook, stirring occasionally, until sprouts are wilted and well browned, about 10 minutes."
     - "Add the champagne vinegar and honey and toss to coast, scraping any delicious browned bits from the bottom of the pan. Taste and adjust the seasonings; it will likely need more salt, and you may also want to add more honey or vinegar to suit your taste. Serve hot."
 ---
-
-<a href="/images/2013/01/Brussels-Sprout-and-Apple-Hash.webp"><img class="alignnone size-full wp-image-3524" title="Brussels Sprout and Apple Hash" src="/images/2013/01/Brussels-Sprout-and-Apple-Hash.webp" alt="Brussels Sprout and Apple Hash" width="626" height="693" /></a>
-
 I demo'ed this Brussels sprout and apple hash from <a href="https://www.amazon.com/dp/1558327452?tag=herb-hugo-20">my cookbook</a> on <a href="http://video.kcts9.org/video/2301973547" target="_blank">KCTS</a> recently, and a reader pointed out that the recipe isn't anywhere on the site. So here you go! Although I think of it as a side dish that goes well with mac &amp; cheese or a rustic soup and salad, I’ve also been known to <strong>fry up a plate just for myself</strong>, add a slice of toasted artisanal wheat bread, and call it dinner.
 
 Many variations are possible. You could add <strong>toasted pecans, hazelnuts, or dried cherries</strong>; change the champagne vinegar to apple cider vinegar, sherry vinegar, or orange juice; or even replace the apple with a crisp pear.

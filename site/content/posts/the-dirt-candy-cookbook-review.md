@@ -8,9 +8,6 @@ cover:
   image: "/images/2012/10/Dirt-Candy-1.webp"
   hidden: true
 ---
-
-<a href="http://www.amazon.com/dp/0307952177/?tag=herb-hugo-20"><img class="alignnone size-full wp-image-3120" title="The Dirt Candy Cookbook" src="/images/2012/10/Dirt-Candy-1.webp" alt="The Dirt Candy Cookbook" width="599" height="395" /></a>
-
 Amanda Cohen is a bad-ass chef. I had the terrific experience of staging (interning) with her for a few days last year. You should <a href="/2011/03/three-days-at-dirt-candy-nyc/">read about that first</a>.
 
 Short-version: Amanda owns and runs the tiny, edgy, imaginative and incredibly cool Dirt Candy in New York's East Village. As far as I know, she's the only vegetarian chef to have appeared on Iron Chef. And she called out Morimoto. How ballsy is that?

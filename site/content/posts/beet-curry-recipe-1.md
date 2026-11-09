@@ -31,9 +31,6 @@ recipe:
     - "Bring to a boil, reduce to a simmer, and put on a cover. It doesn't have to fit perfectly. Simmer until the beets are very tender, about 20-30 minutes. Remove the lid and simmer off any remaining water (or add more during the cook if needed). Stir in the garam masala. Taste and adjust seasoning. It may need more salt, tamarind, or cayenne to achieve the flavor that you like. Serve hot."
 ---
 
-<a style="display: inline;" href="/images/old/6a00e008d618bb8834015392b86175970b-800wi.webp" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb8834015392b86175970b" title="Beet Curry" src="/images/old/6a00e008d618bb8834015392b86175970b-500wi.webp" alt="Beet Curry" /></a>
-<em>Beet Curry</em>
-
 As unlikely as it may sound, the first time I ever ate beet curry was over a campfire in Hot Springs, Arkansas. I was dubious, but my girlfriend at the time had lived in Tamil Nadu for a year and knew what she was doing. Granted, everything tastes good around a campfire after an arduous day of lounging around the hot springs, but this was eye-openingly delicious.
 
 I've made this dish a few times since, relying on my own instincts rather than a recipe, but I figured it was time to write it down and share. I use <a href="https://www.amazon.com/dp/B08W4PP6W2?tag=herb-hugo-20">mustard oil</a> and mustard seed because those flavors go so well with beets. If you don't have mustard oil, just use all vegetable oil and maybe add more seeds. I also like to add some <a href="https://www.amazon.com/dp/B002OKNOA2?tag=herb-hugo-20">tamarind concentrate</a> to provide a bit of acid balance against the sweet earthiness of the beets.

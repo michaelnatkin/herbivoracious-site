@@ -32,9 +32,6 @@ recipe:
     - "Bake for 20 minutes. Give the pan a rap to force out bubbles. Bake for 5-10 minutes more, until a toothpick comes out clean. Don't overbake! Allow to cool slightly. Don't eat them all at once. Unless you want to."
 ---
 
-<a style="display: inline;" href="/images/old/6a00e008d618bb88340148c714801e970c-800wi.webp" rel="lightbox"><img class="asset  asset-image at-xid-6a00e008d618bb88340148c714801e970c" title="Spectacular Chocolate-Espresso Brownies" alt="Spectacular Chocolate-Espresso Brownies" src="/images/old/6a00e008d618bb88340148c714801e970c-500wi.webp" /></a>
-<em>Spectacular Chocolate-Espresso Brownies</em>
-
 Brownies of course are one of those topics that cleave the population along multiple dimensions. Cakey or fudgy? Love the middle or the edges? Celtics or Lakers? Nuts or no nuts?
 
 For me, I like more of a cakey brownie, but it has to be very moist and dense cake. Middle. Celtics!!! I like nuts, but we live in a nut-allergy family, so none in these.

@@ -35,8 +35,6 @@ recipe:
     - "Wrap the tortillas in a moistened towl and microwave for 90 seconds."
     - "Bring everything to the table and let everyone roll tacos to their own taste. Use two overlapped tortillas per taco to make a structurally sound dining device."
 ---
-
-<a href="/images/2008/09/20/butternut_squash_taco_filling.webp" rel="lightbox"><img title="Filling for achiote-rubbed butternut squash tacos" src="/images/2008-small/09/20/butternut_squash_taco_filling.webp" alt="Grilled butternut squash taco filling" width="455" height="303" border="0" /></a>
 <span style="font-size: 0.8em;">Grilled butternut squash taco filling</span>
 
 Last week was Sarina's birthday, and she requested a Mexican feast for her celebration. These tacos, filled with achiote-rubbed butternut squash were the highlight. I grilled both the squash and some poblanos, then tossed them with crema and cilantro and served them on soft corn tortillas with red onions, <a href="http://en.wikipedia.org/wiki/Queso_Panela">queso panela</a>, and Tapatio hot sauce. I think this is one of the tastiest vegetarian tacos I've ever had (if I do say so myself).

@@ -31,9 +31,6 @@ recipe:
     - "To serve: toast the bread and spread each piece with a generous portion of the roasted garlic. Divide the (room temperature) lentils among 4 serving plates. Toss the arugula, cherry tomatoes and crispy shallots with the remaining dressing and pile atop the lentils. Put a piece of the bread on each plate, finish with a few flakes of sea salt and grinds of blacks pepper and serve immediately (before the arugula wilts)."
 ---
 
-<a href="/images/2012/09/Black-Lentils-with-Arugula-and-Crispy-Shallots.webp"><img class="size-large wp-image-2700 alignnone" title="Black Lentils with Arugula and Crispy Shallots" src="/images/2012/09/Black-Lentils-with-Arugula-and-Crispy-Shallots-626x415.webp" alt="Black Lentils with Arugula and Crispy Shallots" width="626" height="415" />
-</a><em>Black Lentils with Arugula and Crispy Shallots</em>
-
 Kim Davidson from <a href="http://www.davidsoncommodities.com/pnw-coop-specialty-foods">Pacific Northwest Farmers Cooperative</a> is doing amazing work supporting real family farms that are growing non-GMO grains, beans and lentils on the <strong>Palouse Prarie</strong>. So when he offered to send me a sample of their new crop of "caviar" lentils, grown by PNW Co-op Farmer Ambassador, <a href="http://www.davidsoncommodities.com/meet-our-pnw-co-op-farmer-ambassador" target="_blank">Jim Hermann</a>, it wasn't hard to say yes.
 
 Kim asked me to develop a new recipe that they could use to highlight this wonderful product. I wanted to leave the lentils alone, with a simple <a href="https://www.amazon.com/dp/B0058DO1SG?tag=herb-hugo-20">sherry vinegar</a> dressing that highlights their sweet, earthy flavor. The same dressing goes on the salad of arugula and crispy shallots <strong>(which I cribbed from the classic Vietnamese garnish)</strong>. A nice slice of artisan toast spread thick with roasted garlic can be used to hoist the lentils or mop up the dressing.
