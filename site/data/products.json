@@ -52,7 +52,8 @@
     "original_url": "https://www.amazon.com/dp/B000IV6LHW?tag=herb-hugo-20",
     "asins": [
       "B000IV6LHW"
-    ]
+    ],
+    "hidden": true
   },
   "8-chef-s-knife": {
     "name": "8\" Chef's Knife",
@@ -69,7 +70,8 @@
     "original_url": "https://www.amazon.com/dp/B0028SEOOU?tag=herb-hugo-20",
     "asins": [
       "B0028SEOOU"
-    ]
+    ],
+    "hidden": true
   },
   "91-costa-rica-bar": {
     "name": "91% Costa Rica Bar",
@@ -95,7 +97,8 @@
     "original_url": "https://www.amazon.com/dp/B001HIAD2Y?tag=herb-hugo-20",
     "asins": [
       "B001HIAD2Y"
-    ]
+    ],
+    "hidden": true
   },
   "abc-kecap-manis-indonesian-special-sweet-soy": {
     "name": "ABC Kecap Manis Indonesian Special Sweet Soy Sauce",
@@ -160,7 +163,8 @@
     "original_url": "https://www.amazon.com/dp/B000E60G2W?tag=herb-hugo-20",
     "asins": [
       "B000E60G2W"
-    ]
+    ],
+    "hidden": true
   },
   "aji-amarillo-chili": {
     "name": "Aji Amarillo Chili",
@@ -177,7 +181,8 @@
     "original_url": "https://www.amazon.com/dp/B000LRH9FQ?tag=herb-hugo-20",
     "asins": [
       "B000LRH9FQ"
-    ]
+    ],
+    "hidden": true
   },
   "aleppo-pepper": {
     "name": "Aleppo pepper",
@@ -185,7 +190,8 @@
     "original_url": "https://www.amazon.com/dp/B003GU1AE6?tag=herb-hugo-20",
     "asins": [
       "B003GU1AE6"
-    ]
+    ],
+    "hidden": true
   },
   "aleppo-pepper-2": {
     "name": "Aleppo Pepper",
@@ -204,7 +210,8 @@
     "original_url": "https://www.amazon.com/dp/B0000CNU2X?tag=herb-hugo-20",
     "asins": [
       "B0000CNU2X"
-    ]
+    ],
+    "hidden": true
   },
   "amazon-b0006bddi4": {
     "name": "Amazon item B0006BDDI4",
@@ -212,7 +219,8 @@
     "original_url": "https://www.amazon.com/dp/B0006BDDI4?tag=herb-hugo-20",
     "asins": [
       "B0006BDDI4"
-    ]
+    ],
+    "hidden": true
   },
   "amazon-b000jsm27m": {
     "name": "Amazon item B000JSM27M",
@@ -220,7 +228,8 @@
     "original_url": "https://www.amazon.com/dp/B000JSM27M?tag=herb-hugo-20",
     "asins": [
       "B000JSM27M"
-    ]
+    ],
+    "hidden": true
   },
   "amazon-b000ofredc": {
     "name": "Amazon item B000OFREDC",
@@ -228,7 +237,8 @@
     "original_url": "https://www.amazon.com/dp/B000OFREDC?tag=herb-hugo-20",
     "asins": [
       "B000OFREDC"
-    ]
+    ],
+    "hidden": true
   },
   "amazon-b000vnz7uy": {
     "name": "Amazon item B000VNZ7UY",
@@ -236,7 +246,8 @@
     "original_url": "https://www.amazon.com/dp/B000VNZ7UY?tag=herb-hugo-20",
     "asins": [
       "B000VNZ7UY"
-    ]
+    ],
+    "hidden": true
   },
   "amazon-b001l106kq": {
     "name": "Amazon item B001L106KQ",
@@ -244,7 +255,8 @@
     "original_url": "https://www.amazon.com/dp/B001L106KQ?tag=herb-hugo-20",
     "asins": [
       "B001L106KQ"
-    ]
+    ],
+    "hidden": true
   },
   "amazon-b002ok2fca": {
     "name": "Amazon item B002OK2FCA",
@@ -252,7 +264,8 @@
     "original_url": "https://www.amazon.com/dp/B002OK2FCA?tag=herb-hugo-20",
     "asins": [
       "B002OK2FCA"
-    ]
+    ],
+    "hidden": true
   },
   "amazon-b00428m7k2": {
     "name": "Amazon item B00428M7K2",
@@ -260,7 +273,8 @@
     "original_url": "https://www.amazon.com/dp/B00428M7K2?tag=herb-hugo-20",
     "asins": [
       "B00428M7K2"
-    ]
+    ],
+    "hidden": true
   },
   "amazon-b012pnlh42": {
     "name": "Amazon item B012PNLH42",
@@ -268,7 +282,8 @@
     "original_url": "https://www.amazon.com/dp/B012PNLH42?tag=herb-hugo-20",
     "asins": [
       "B012PNLH42"
-    ]
+    ],
+    "hidden": true
   },
   "amazon-b08hmxmg2h": {
     "name": "Amazon item B08HMXMG2H",
@@ -276,7 +291,8 @@
     "original_url": "https://www.amazon.com/dp/B08HMXMG2H?tag=herb-hugo-20",
     "asins": [
       "B08HMXMG2H"
-    ]
+    ],
+    "hidden": true
   },
   "amazon-b0fmjw45cf": {
     "name": "Amazon item B0FMJW45CF",
@@ -284,7 +300,8 @@
     "original_url": "https://www.amazon.com/dp/B0FMJW45CF?tag=herb-hugo-20",
     "asins": [
       "B0FMJW45CF"
-    ]
+    ],
+    "hidden": true
   },
   "amchoor-dried-mango-powder": {
     "name": "Amchoor (dried Mango Powder)",
@@ -497,7 +514,8 @@
     "original_url": "https://www.amazon.com/dp/B00009WE45?tag=herb-hugo-20",
     "asins": [
       "B00009WE45"
-    ]
+    ],
+    "hidden": true
   },
   "basmati-rice": {
     "name": "Basmati Rice",
@@ -588,7 +606,8 @@
     "original_url": "https://www.amazon.com/dp/0743235274?tag=herb-hugo-20",
     "asins": [
       "0743235274"
-    ]
+    ],
+    "hidden": true
   },
   "big-steamer": {
     "name": "Big Steamer",
@@ -614,7 +633,8 @@
     "original_url": "https://www.amazon.com/dp/1400034477?tag=herb-hugo-20",
     "asins": [
       "1400034477"
-    ]
+    ],
+    "hidden": true
   },
   "bittersweet-chocolate": {
     "name": "Bittersweet Chocolate",
@@ -705,7 +725,8 @@
     "original_url": "https://www.amazon.com/dp/B08FBLK53S?tag=herb-hugo-20",
     "asins": [
       "B08FBLK53S"
-    ]
+    ],
+    "hidden": true
   },
   "bleu-d-auvergne": {
     "name": "Bleu d'Auvergne",
@@ -810,7 +831,8 @@
     "original_url": "https://www.amazon.com/dp/B0050ILALA?tag=herb-hugo-20",
     "asins": [
       "B0050ILALA"
-    ]
+    ],
+    "hidden": true
   },
   "caballo-de-oros-rey-de-la-vera-sweet-smoked": {
     "name": "Caballo de Oros Rey de La Vera Sweet Smoked Paprika (Pimenton Dulce)",
@@ -1098,7 +1120,8 @@
     "original_url": "https://www.amazon.com/dp/B0B2TMFT6D?tag=herb-hugo-20",
     "asins": [
       "B0B2TMFT6D"
-    ]
+    ],
+    "hidden": true
   },
   "chervil": {
     "name": "Chervil",
@@ -1243,7 +1266,8 @@
     "original_url": "https://www.amazon.com/dp/B003BS4856?tag=herb-hugo-20",
     "asins": [
       "B003BS4856"
-    ]
+    ],
+    "hidden": true
   },
   "climbing-the-mango-trees": {
     "name": "Climbing the Mango Trees",
@@ -1328,7 +1352,8 @@
     "original_url": "https://www.amazon.com/dp/B00005B8JM?tag=herb-hugo-20",
     "asins": [
       "B00005B8JM"
-    ]
+    ],
+    "hidden": true
   },
   "cotija-cheese": {
     "name": "Cotija Cheese",
@@ -1364,7 +1389,8 @@
     "original_url": "https://www.amazon.com/dp/0609610503?tag=herb-hugo-20",
     "asins": [
       "0609610503"
-    ]
+    ],
+    "hidden": true
   },
   "cream-whipper": {
     "name": "Cream Whipper",
@@ -1418,7 +1444,8 @@
     "original_url": "https://www.amazon.com/dp/0465007775?tag=herb-hugo-20",
     "asins": [
       "0465007775"
-    ]
+    ],
+    "hidden": true
   },
   "dark-chocolate": {
     "name": "Dark Chocolate",
@@ -1508,7 +1535,8 @@
     "original_url": "https://www.amazon.com/dp/1558327983?tag=herb-hugo-20",
     "asins": [
       "1558327983"
-    ]
+    ],
+    "hidden": true
   },
   "diamond-crystal": {
     "name": "Diamond Crystal",
@@ -1759,7 +1787,8 @@
     "original_url": "https://www.amazon.com/dp/B0014BQR74?tag=herb-hugo-20",
     "asins": [
       "B0014BQR74"
-    ]
+    ],
+    "hidden": true
   },
   "el-mexicano-achiote-paste-3-5-oz": {
     "name": "El Mexicano Achiote Paste, 3.5 oz",
@@ -1822,7 +1851,8 @@
     "original_url": "https://www.amazon.com/dp/B0027FXE7C?tag=herb-hugo-20",
     "asins": [
       "B0027FXE7C"
-    ]
+    ],
+    "hidden": true
   },
   "extra-virgin-olive-oil": {
     "name": "Extra-Virgin Olive Oil",
@@ -1848,7 +1878,8 @@
     "original_url": "https://www.amazon.com/dp/B07XLQ13WY?tag=herb-hugo-20",
     "asins": [
       "B07XLQ13WY"
-    ]
+    ],
+    "hidden": true
   },
   "fava-or-garbanzo-beans": {
     "name": "Fava or Garbanzo Beans",
@@ -1959,7 +1990,8 @@
     "original_url": "https://www.amazon.com/dp/0060837764?tag=herb-hugo-20",
     "asins": [
       "0060837764"
-    ]
+    ],
+    "hidden": true
   },
   "flax-plus-cereal": {
     "name": "Flax Plus Cereal",
@@ -1985,7 +2017,8 @@
     "original_url": "https://www.amazon.com/dp/B07XKDR6HN?tag=herb-hugo-20",
     "asins": [
       "B07XKDR6HN"
-    ]
+    ],
+    "hidden": true
   },
   "food-dehydrator": {
     "name": "Food Dehydrator",
@@ -2020,7 +2053,8 @@
     "original_url": "https://www.amazon.com/dp/B00005NINY?tag=herb-hugo-20",
     "asins": [
       "B00005NINY"
-    ]
+    ],
+    "hidden": true
   },
   "frantoia": {
     "name": "Frantoia",
@@ -2028,7 +2062,8 @@
     "original_url": "https://www.amazon.com/dp/B0006MKY1W?tag=herb-hugo-20",
     "asins": [
       "B0006MKY1W"
-    ]
+    ],
+    "hidden": true
   },
   "freekeh": {
     "name": "Freekeh",
@@ -2118,7 +2153,8 @@
     "original_url": "https://www.amazon.com/dp/B000LQJDTC?tag=herb-hugo-20",
     "asins": [
       "B000LQJDTC"
-    ]
+    ],
+    "hidden": true
   },
   "from-chefshop-on-amazon": {
     "name": "from ChefShop on Amazon",
@@ -2126,7 +2162,8 @@
     "original_url": "https://www.amazon.com/dp/B0013TMTZQ?tag=herb-hugo-20",
     "asins": [
       "B0013TMTZQ"
-    ]
+    ],
+    "hidden": true
   },
   "galil-pickled-mango-amba": {
     "name": "Galil Pickled Mango Amba",
@@ -2180,7 +2217,8 @@
     "original_url": "https://www.amazon.com/dp/B001VGS1M6?tag=herb-hugo-20",
     "asins": [
       "B001VGS1M6"
-    ]
+    ],
+    "hidden": true
   },
   "ghee": {
     "name": "ghee",
@@ -2188,7 +2226,8 @@
     "original_url": "https://www.amazon.com/dp/B00VXQGY28?tag=herb-hugo-20",
     "asins": [
       "B00VXQGY28"
-    ]
+    ],
+    "hidden": true
   },
   "ghiradelli-semi-sweet-chocolate-chips": {
     "name": "Ghiradelli Semi-Sweet Chocolate Chips",
@@ -2290,7 +2329,8 @@
     "original_url": "https://www.amazon.com/dp/B00004OCKT?tag=herb-hugo-20",
     "asins": [
       "B00004OCKT"
-    ]
+    ],
+    "hidden": true
   },
   "grill-pan": {
     "name": "Grill Pan",
@@ -2504,7 +2544,8 @@
     "original_url": "https://www.amazon.com/dp/B002OH6CO0?tag=herb-hugo-20",
     "asins": [
       "B002OH6CO0"
-    ]
+    ],
+    "hidden": true
   },
   "herbivoracious-cookbook": {
     "name": "Herbivoracious: a Flavor Revolution, Michael Natkin",
@@ -2522,7 +2563,8 @@
     "original_url": "https://www.amazon.com/dp/B0CKKNKJR3?tag=herb-hugo-20",
     "asins": [
       "B0CKKNKJR3"
-    ]
+    ],
+    "hidden": true
   },
   "hickory-or-mesquite-wood-chips": {
     "name": "Hickory or Mesquite Wood Chips",
@@ -2576,7 +2618,8 @@
     "original_url": "https://www.amazon.com/dp/B00CMQD282?tag=herb-hugo-20",
     "asins": [
       "B00CMQD282"
-    ]
+    ],
+    "hidden": true
   },
   "honey-2": {
     "name": "honey",
@@ -2584,7 +2627,8 @@
     "original_url": "https://www.amazon.com/dp/B07MG95VFP?tag=herb-hugo-20",
     "asins": [
       "B07MG95VFP"
-    ]
+    ],
+    "hidden": true
   },
   "honey-3": {
     "name": "honey",
@@ -2592,7 +2636,8 @@
     "original_url": "https://www.amazon.com/dp/B0874XJ5DT?tag=herb-hugo-20",
     "asins": [
       "B0874XJ5DT"
-    ]
+    ],
+    "hidden": true
   },
   "hot-sauce": {
     "name": "Hot Sauce",
@@ -2610,7 +2655,8 @@
     "original_url": "https://www.amazon.com/dp/0446696773?tag=herb-hugo-20",
     "asins": [
       "0446696773"
-    ]
+    ],
+    "hidden": true
   },
   "ice-cream-freezers-like-they-have-on-iron-chef": {
     "name": "Ice Cream Freezers Like They Have on Iron Chef",
@@ -2713,7 +2759,8 @@
     "original_url": "https://www.amazon.com/dp/0544657497?tag=herb-hugo-20",
     "asins": [
       "0544657497"
-    ]
+    ],
+    "hidden": true
   },
   "jar-of-harissa": {
     "name": "Jar of Harissa",
@@ -2780,7 +2827,8 @@
     "original_url": "https://www.amazon.com/dp/B0007M2BN0?tag=herb-hugo-20",
     "asins": [
       "B0007M2BN0"
-    ]
+    ],
+    "hidden": true
   },
   "kakukyu-hatcho-miso-paste": {
     "name": "Kakukyu Hatcho Miso Paste",
@@ -2807,7 +2855,8 @@
     "original_url": "https://www.amazon.com/dp/0471152099?tag=herb-hugo-20",
     "asins": [
       "0471152099"
-    ]
+    ],
+    "hidden": true
   },
   "kevlar-glove": {
     "name": "Kevlar Glove",
@@ -2907,7 +2956,8 @@
     "original_url": "https://www.amazon.com/dp/B000638D32?tag=herb-hugo-20",
     "asins": [
       "B000638D32"
-    ]
+    ],
+    "hidden": true
   },
   "knife-bag": {
     "name": "Knife Bag",
@@ -2991,7 +3041,8 @@
     "original_url": "https://www.amazon.com/dp/B08B3XFW1C?tag=herb-hugo-20",
     "asins": [
       "B08B3XFW1C"
-    ]
+    ],
+    "hidden": true
   },
   "lime-pickle": {
     "name": "Lime Pickle",
@@ -3070,7 +3121,8 @@
     "original_url": "https://www.amazon.com/dp/B01AO0XTWQ?tag=herb-hugo-20",
     "asins": [
       "B01AO0XTWQ"
-    ]
+    ],
+    "hidden": true
   },
   "madhur-jaffrey-s-world-vegetarian": {
     "name": "Madhur Jaffrey&#39;s World Vegetarian",
@@ -3192,7 +3244,8 @@
     "original_url": "https://www.amazon.com/dp/B00E1DFU52?tag=herb-hugo-20",
     "asins": [
       "B00E1DFU52"
-    ]
+    ],
+    "hidden": true
   },
   "marcona-almonds": {
     "name": "Marcona Almonds",
@@ -3362,7 +3415,8 @@
     "original_url": "https://www.amazon.com/dp/B000QSTJTE?tag=herb-hugo-20",
     "asins": [
       "B000QSTJTE"
-    ]
+    ],
+    "hidden": true
   },
   "mirin-2": {
     "name": "mirin",
@@ -3370,7 +3424,8 @@
     "original_url": "https://www.amazon.com/dp/B0BWGLQ4MT?tag=herb-hugo-20",
     "asins": [
       "B0BWGLQ4MT"
-    ]
+    ],
+    "hidden": true
   },
   "mirin-3": {
     "name": "mirin",
@@ -3378,7 +3433,8 @@
     "original_url": "https://www.amazon.com/dp/B0FNPP74FQ?tag=herb-hugo-20",
     "asins": [
       "B0FNPP74FQ"
-    ]
+    ],
+    "hidden": true
   },
   "mission-street-food-recipes-and-ideas-from-an": {
     "name": "Mission Street Food: Recipes and Ideas from an Improbable Restaurant",
@@ -3442,7 +3498,8 @@
     "original_url": "https://www.amazon.com/dp/B003P601S2?tag=herb-hugo-20",
     "asins": [
       "B003P601S2"
-    ]
+    ],
+    "hidden": true
   },
   "morimoto-the-new-art-of-japanese-cooking": {
     "name": "Morimoto: the New Art of Japanese Cooking",
@@ -3578,7 +3635,8 @@
     "original_url": "https://www.amazon.com/dp/B0042X9LC4?tag=herb-hugo-20",
     "asins": [
       "B0042X9LC4"
-    ]
+    ],
+    "hidden": true
   },
   "no-boil-lasagna-noodles": {
     "name": "No-Boil Lasagna Noodles",
@@ -3614,7 +3672,8 @@
     "original_url": "https://www.amazon.com/dp/B079Z2XFNL?tag=herb-hugo-20",
     "asins": [
       "B079Z2XFNL"
-    ]
+    ],
+    "hidden": true
   },
   "nori-seaweed": {
     "name": "Nori Seaweed",
@@ -3631,7 +3690,8 @@
     "original_url": "https://www.amazon.com/dp/B0047YZYW4?tag=herb-hugo-20",
     "asins": [
       "B0047YZYW4"
-    ]
+    ],
+    "hidden": true
   },
   "nutmeg-grater-with-whole-nutmegs": {
     "name": "Nutmeg Grater with Whole Nutmegs",
@@ -3714,7 +3774,8 @@
     "original_url": "https://www.amazon.com/dp/B0000CNU5B?tag=herb-hugo-20",
     "asins": [
       "B0000CNU5B"
-    ]
+    ],
+    "hidden": true
   },
   "orange-infused-olive-oil": {
     "name": "Orange-Infused Olive Oil",
@@ -3798,7 +3859,8 @@
     "original_url": "https://www.amazon.com/dp/B00NU1O7T6?tag=herb-hugo-20",
     "asins": [
       "B00NU1O7T6"
-    ]
+    ],
+    "hidden": true
   },
   "pastry-bag": {
     "name": "Pastry Bag",
@@ -3920,7 +3982,8 @@
     "original_url": "https://www.amazon.com/dp/1452101248?tag=herb-hugo-20",
     "asins": [
       "1452101248"
-    ]
+    ],
+    "hidden": true
   },
   "polenta": {
     "name": "polenta",
@@ -3928,7 +3991,8 @@
     "original_url": "https://www.amazon.com/dp/B07XLD2L6M?tag=herb-hugo-20",
     "asins": [
       "B07XLD2L6M"
-    ]
+    ],
+    "hidden": true
   },
   "polyscience-smoking-gun": {
     "name": "Polyscience Smoking Gun",
@@ -4216,7 +4280,8 @@
     "original_url": "https://www.amazon.com/dp/0061191981?tag=herb-hugo-20",
     "asins": [
       "0061191981"
-    ]
+    ],
+    "hidden": true
   },
   "rogov-s-guide-to-kosher-wines": {
     "name": "Rogov's Guide to Kosher Wines",
@@ -4499,7 +4564,8 @@
     "original_url": "https://www.amazon.com/dp/B000M8O0ME?tag=herb-hugo-20",
     "asins": [
       "B000M8O0ME"
-    ]
+    ],
+    "hidden": true
   },
   "shichimi-togarashi": {
     "name": "Shichimi Togarashi",
@@ -4518,7 +4584,8 @@
     "original_url": "https://www.amazon.com/dp/B0DS1928RM?tag=herb-hugo-20",
     "asins": [
       "B0DS1928RM"
-    ]
+    ],
+    "hidden": true
   },
   "short-grained-spanish-rice": {
     "name": "Short-Grained Spanish Rice",
@@ -4535,7 +4602,8 @@
     "original_url": "https://www.amazon.com/dp/B0000Y7KNQ?tag=herb-hugo-20",
     "asins": [
       "B0000Y7KNQ"
-    ]
+    ],
+    "hidden": true
   },
   "sichuan-peppercorns": {
     "name": "Sichuan Peppercorns",
@@ -4553,7 +4621,8 @@
     "original_url": "https://www.amazon.com/dp/B00005AXJ9?tag=herb-hugo-20",
     "asins": [
       "B00005AXJ9"
-    ]
+    ],
+    "hidden": true
   },
   "silpat-2": {
     "name": "silpat",
@@ -4561,7 +4630,8 @@
     "original_url": "https://www.amazon.com/dp/B0001RT42C?tag=herb-hugo-20",
     "asins": [
       "B0001RT42C"
-    ]
+    ],
+    "hidden": true
   },
   "silpat-premium-non-stick-silicone-baking-mat": {
     "name": "Silpat Premium Non-Stick Silicone Baking Mat",
@@ -4579,7 +4649,8 @@
     "original_url": "https://www.amazon.com/dp/B09NLWBHCG?tag=herb-hugo-20",
     "asins": [
       "B09NLWBHCG"
-    ]
+    ],
+    "hidden": true
   },
   "skillet": {
     "name": "Skillet",
@@ -4605,7 +4676,8 @@
     "original_url": "https://www.amazon.com/dp/B002YFR66U?tag=herb-hugo-20",
     "asins": [
       "B002YFR66U"
-    ]
+    ],
+    "hidden": true
   },
   "smoked-mozzarella": {
     "name": "Smoked Mozzarella",
@@ -4791,7 +4863,8 @@
     "original_url": "https://www.amazon.com/dp/B00VEJX49U?tag=herb-hugo-20",
     "asins": [
       "B00VEJX49U"
-    ]
+    ],
+    "hidden": true
   },
   "sumac": {
     "name": "sumac",
@@ -4799,7 +4872,8 @@
     "original_url": "https://www.amazon.com/dp/B00886NHDK?tag=herb-hugo-20",
     "asins": [
       "B00886NHDK"
-    ]
+    ],
+    "hidden": true
   },
   "sundae-cup": {
     "name": "Sundae Cup",
@@ -4940,7 +5014,8 @@
     "original_url": "https://www.amazon.com/dp/B0000DIX7K?tag=herb-hugo-20",
     "asins": [
       "B0000DIX7K"
-    ]
+    ],
+    "hidden": true
   },
   "tawny-port": {
     "name": "Tawny Port",
@@ -4976,7 +5051,8 @@
     "original_url": "https://www.amazon.com/dp/B004QTPK0G?tag=herb-hugo-20",
     "asins": [
       "B004QTPK0G"
-    ]
+    ],
+    "hidden": true
   },
   "thai-pure-palm-sugar": {
     "name": "Thai Pure Palm Sugar",
@@ -5182,7 +5258,8 @@
     "original_url": "https://www.amazon.com/dp/B001AEOAXS?tag=herb-hugo-20",
     "asins": [
       "B001AEOAXS"
-    ]
+    ],
+    "hidden": true
   },
   "this-one-from-beaufor": {
     "name": "this one from Beaufor",
@@ -5190,7 +5267,8 @@
     "original_url": "https://www.amazon.com/dp/B000SR5VOU?tag=herb-hugo-20",
     "asins": [
       "B000SR5VOU"
-    ]
+    ],
+    "hidden": true
   },
   "this-spatula-from-lamsonsharp": {
     "name": "This Spatula, from LamsonSharp",
@@ -5207,7 +5285,8 @@
     "original_url": "https://www.amazon.com/dp/B0006GT586?tag=herb-hugo-20",
     "asins": [
       "B0006GT586"
-    ]
+    ],
+    "hidden": true
   },
   "toasted-fennel-seeds": {
     "name": "Toasted Fennel Seeds",
@@ -5318,7 +5397,8 @@
     "original_url": "https://www.amazon.com/dp/0811864308?tag=herb-hugo-20",
     "asins": [
       "0811864308"
-    ]
+    ],
+    "hidden": true
   },
   "tortilla-press": {
     "name": "Tortilla Press",
@@ -5344,7 +5424,8 @@
     "original_url": "https://www.amazon.com/dp/B001FB4W0W?tag=herb-hugo-20",
     "asins": [
       "B001FB4W0W"
-    ]
+    ],
+    "hidden": true
   },
   "truff-black-truffle-salt-fine-and-coarse-sea": {
     "name": "Truff Black Truffle Salt, Fine and Coarse Sea Salt",
@@ -5371,7 +5452,8 @@
     "original_url": "https://www.amazon.com/dp/B0BDJ79T97?tag=herb-hugo-20",
     "asins": [
       "B0BDJ79T97"
-    ]
+    ],
+    "hidden": true
   },
   "truffle-salt": {
     "name": "Truffle Salt",
@@ -5705,7 +5787,8 @@
     "original_url": "https://www.amazon.com/dp/B00WDYGNIG?tag=herb-hugo-20",
     "asins": [
       "B00WDYGNIG"
-    ]
+    ],
+    "hidden": true
   },
   "yuquan-sichuan-zha-cai-preserved-vegetable": {
     "name": "Yuquan Sichuan Zha Cai Preserved Vegetable",
@@ -5723,7 +5806,8 @@
     "original_url": "https://www.amazon.com/dp/B0C2GMHVJZ?tag=herb-hugo-20",
     "asins": [
       "B0C2GMHVJZ"
-    ]
+    ],
+    "hidden": true
   },
   "yuzu-kosho": {
     "name": "Yuzu Kosho",
@@ -5759,7 +5843,8 @@
     "original_url": "https://www.amazon.com/dp/B004PBZJF6?tag=herb-hugo-20",
     "asins": [
       "B004PBZJF6"
-    ]
+    ],
+    "hidden": true
   },
   "zyliss-soft-skin-peeler": {
     "name": "Zyliss Soft Skin Peeler",

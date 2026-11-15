@@ -12,7 +12,8 @@ This script:
   1. Converts raw affiliate links in content into product shortcodes, creating catalog entries for
      new products (Amazon links, and links to merchants listed in merchant_domains.txt
      or already present in the catalog).
-  2. Categorizes new products with Claude (needs ANTHROPIC_API_KEY; otherwise left uncategorized).
+  2. Categorizes new products with Claude (needs ANTHROPIC_API_KEY; errors out if it can't).
+     A product with no category must be marked "hidden": true to stay out of the shop.
   3. Fails if any shortcode refers to a product id that is not in the catalog.
 """
 import glob
@@ -65,13 +66,11 @@ def categorize_with_llm(uncategorized_products):
     try:
         import anthropic
     except ImportError:
-        print("  WARNING: anthropic package not installed, cannot categorize")
-        return {}
+        raise RuntimeError("the 'anthropic' package is not installed (pip install anthropic)")
 
     api_key = os.environ.get("ANTHROPIC_API_KEY")
     if not api_key:
-        print("  WARNING: ANTHROPIC_API_KEY not set, cannot categorize")
-        return {}
+        raise RuntimeError("ANTHROPIC_API_KEY is not set")
 
     client = anthropic.Anthropic()
 
@@ -137,8 +136,10 @@ Return ONLY the JSON object, no other text."""
             if slug in CATEGORIES:
                 result[pid] = slug
             else:
-                print(f"  WARNING: Unknown category '{slug}' for '{uncategorized_products[pid]['name']}', using pantry-staples")
-                result[pid] = "pantry-staples"
+                raise RuntimeError(f"model returned unknown category '{slug}' for '{uncategorized_products[pid]['name']}'")
+    missing = [uncategorized_products[k]["name"] for k in id_list if k not in result]
+    if missing:
+        raise RuntimeError(f"model did not categorize: {', '.join(missing)}")
     return result
 
 
@@ -249,15 +250,17 @@ def main():
         for pid in SHORTCODE_ID.findall(new_body):
             used.setdefault(pid, set()).add(os.path.relpath(f, ROOT))
 
-    # categorize new products
-    if new_products:
-        uncat = {pid: p for pid, p in new_products.items() if not p.get("category")}
-        if uncat:
-            try:
-                for pid, cat in categorize_with_llm(uncat).items():
-                    catalog[pid]["category"] = cat
-            except Exception as e:  # keep going; uncategorized products simply don't appear in the shop
-                print(f"  WARNING: categorization failed ({e}); new products left uncategorized")
+    # Every product needs a category, or must be explicitly hidden from the shop ("hidden": true).
+    errors = []
+    pending = {pid: p for pid, p in catalog.items() if not p.get("category") and not p.get("hidden")}
+    if pending:
+        try:
+            for pid, cat in categorize_with_llm(pending).items():
+                catalog[pid]["category"] = cat
+        except Exception as e:
+            errors.append(f"cannot categorize {len(pending)} product(s) ({e}): {', '.join(sorted(pending))}. "
+                          f'Fix the cause and re-run, or set "hidden": true on them in site/data/products.json.')
+    if new_products or pending:
         with open(CATALOG, "w") as f:
             json.dump(dict(sorted(catalog.items())), f, indent=2)
             f.write("\n")
@@ -265,12 +268,14 @@ def main():
     # validate
     missing = {pid: sorted(fs) for pid, fs in used.items() if pid not in catalog}
     for pid, fs in missing.items():
-        print(f"ERROR: unknown product id \"{pid}\" used in: {', '.join(fs)}")
+        errors.append(f'unknown product id "{pid}" used in: {", ".join(fs)}')
     print(f"sync_products: {converted} link(s) converted in {len(edited)} file(s); {len(new_products)} new product(s); "
           f"{len(catalog)} products in catalog")
     for pid, p in new_products.items():
-        print(f"  + {pid}: {p['name']} ({p.get('category', 'uncategorized')})")
-    return 1 if missing else 0
+        print(f"  + {pid}: {p['name']} ({catalog[pid].get('category', 'UNCATEGORIZED')})")
+    for e in errors:
+        print(f"ERROR: {e}", file=sys.stderr)
+    return 1 if errors else 0
 
 
 if __name__ == "__main__":
