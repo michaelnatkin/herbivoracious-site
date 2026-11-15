@@ -301,28 +301,16 @@
    "example_post": "gorditas-with-roasted-mushrooms-recipe"
   },
   "primary": {
-   "merchant": "Nuts.com",
-   "product": "Dried De Arbol Peppers (Stemless)",
-   "url": "https://nuts.com/cookingbaking/mexican/dried-de-arbol-peppers-without-stem.html",
-   "epc": 0.38,
-   "rate": 20,
-   "price": "$14.99",
-   "verified": false,
-   "broken": true
+   "merchant": "ChefShop.com",
+   "product": "Dried Chile de \u00c1rbol Pods",
+   "url": "https://www.chefshop.com/products/chile-de-arbol-dried-pods",
+   "epc": null,
+   "rate": 7,
+   "price": "$4.95",
+   "verified": true
   },
-  "alternatives": [
-   {
-    "merchant": "The Spice House",
-    "product": "Chile de Arbol Peppers",
-    "url": "https://www.thespicehouse.com/chile-de-arbol-peppers",
-    "epc": 0.21,
-    "rate": 15,
-    "price": null,
-    "verified": false,
-    "broken": true
-   }
-  ],
-  "note": "Whole dried stemless chiles de arbol, like the Amazon item but a different brand and size; pages 429 to curl."
+  "alternatives": [],
+  "note": "Whole dried stemless chiles de arbol, like the Amazon item but a different brand and size; pages 429 to curl. (Updated: the first-choice page was dead; this is the merchant's current product page.)"
  },
  {
   "id": "dried-ancho-chilis",

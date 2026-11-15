@@ -295,16 +295,15 @@
   },
   "primary": {
    "merchant": "Nuts.com",
-   "product": "Organic Adzuki Beans",
-   "url": "https://nuts.com/cookingbaking/beans/adzuki/organic.html",
+   "product": "Adzuki Beans",
+   "url": "https://www.nuts.com/products/adzuki-beans",
    "epc": 0.38,
-   "rate": 20.0,
-   "price": null,
-   "verified": false,
-   "broken": true
+   "rate": 20,
+   "price": "$4.49",
+   "verified": true
   },
   "alternatives": [],
-  "note": "Organic adzuki beans from Nuts.com rather than Hunza's 2 lb bag; the site rate-limited the check (429)."
+  "note": "Organic adzuki beans from Nuts.com rather than Hunza's 2 lb bag; the site rate-limited the check (429). (Updated: the first-choice page was dead; this is the merchant's current product page.)"
  },
  {
   "id": "agar-agar-powder",

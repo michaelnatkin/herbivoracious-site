@@ -142,11 +142,12 @@
   "adzuki-beans": {
     "name": "Adzuki Beans",
     "category": "grains-pasta-legumes",
-    "url": "https://www.amazon.com/dp/B00TOETLDA?tag=herb-hugo-20",
+    "url": "https://www.nuts.com/products/adzuki-beans",
     "original_url": "https://www.amazon.com/dp/B00TOETLDA?tag=herb-hugo-20",
     "asins": [
       "B00TOETLDA"
-    ]
+    ],
+    "merchant": "Nuts.com"
   },
   "agar-agar-powder": {
     "name": "Agar Agar Powder",
@@ -1170,11 +1171,12 @@
   "chili-de-arbol": {
     "name": "Chili de Arbol",
     "category": "mexican-latin-pantry",
-    "url": "https://www.amazon.com/dp/B07TYNF3ND?tag=herb-hugo-20",
+    "url": "https://www.chefshop.com/products/chile-de-arbol-dried-pods",
     "original_url": "https://www.amazon.com/dp/B07TYNF3ND?tag=herb-hugo-20",
     "asins": [
       "B07TYNF3ND"
-    ]
+    ],
+    "merchant": "ChefShop.com"
   },
   "chili-flakes": {
     "name": "Chili Flakes",
