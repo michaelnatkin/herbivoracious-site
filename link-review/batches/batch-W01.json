@@ -1,0 +1,568 @@
+[
+ {
+  "id": "savory-sweet-life-100-simply-delicious-recipes",
+  "name": "Savory Sweet Life: 100 Simply Delicious Recipes for Every Family Occasion",
+  "status": "match",
+  "kind": "book",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "0062064053"
+   ],
+   "title": "Savory Sweet Life: 100 Simply Delicious Recipes for Every Family Occasion",
+   "anchors": [
+    "Savory Sweet Life: 100 Simply Delicious Recipes for Every Family Occasion"
+   ],
+   "links": 4,
+   "posts": 1,
+   "example_post": "alices-savory-sweet-life-cookbook-with-a-recipe-for-roasted-carrots-with-sage-brown-butter"
+  },
+  "primary": {
+   "merchant": "Barnes & Noble",
+   "product": "Savory Sweet Life (Alice Currah)",
+   "url": "https://www.barnesandnoble.com/w/savory-sweet-life-alice-currah/1110766562",
+   "epc": 0.01,
+   "rate": 5.15,
+   "price": null,
+   "verified": false
+  },
+  "alternatives": [],
+  "note": "URL surfaced by search but not confirmed against the page; same book."
+ },
+ {
+  "id": "lou-s-first-book",
+  "name": "Lou's First Book",
+  "status": "match",
+  "kind": "book",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "0307720497",
+    "1592008208"
+   ],
+   "title": "Amazon.com: Digital Food Photography: 9781592008209: Manna, Lou: Books",
+   "anchors": [
+    "Lou's first book",
+    "Momofuku Milk Bar cookbook"
+   ],
+   "links": 3,
+   "posts": 2,
+   "example_post": "strawberries-and-cream-birthday-cake-momofuku-style"
+  },
+  "primary": {
+   "merchant": "Barnes & Noble",
+   "product": "Momofuku Milk Bar: A Cookbook (Christina Tosi), hardcover",
+   "url": "https://www.barnesandnoble.com/w/momofuku-milk-bar-christina-tosi/1102675480?ean=9780307720498",
+   "epc": 0.01,
+   "rate": 5.15,
+   "price": "$29.75",
+   "verified": false
+  },
+  "alternatives": [],
+  "note": "Matches ASIN 0307720497 (Milk Bar). The other link, Lou Manna's Digital Food Photography (1592008208), was not found at B&N, so only Milk Bar is matched."
+ },
+ {
+  "id": "mexican-everyday",
+  "name": "Mexican Everyday",
+  "status": "match",
+  "kind": "book",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "039306154X",
+    "068484186X"
+   ],
+   "title": "Mexican Everyday: Bayless, Rick, Bayless, Deann Groen, Hirsheimer, Christopher: 9780393061543: Amazon.com: Books",
+   "anchors": [
+    "Mexican Everyday",
+    "Rick Bayless"
+   ],
+   "links": 3,
+   "posts": 3,
+   "example_post": "swiss-chard-enchiladas-in-a-tomatillo-sauce-recipe"
+  },
+  "primary": {
+   "merchant": "Barnes & Noble",
+   "product": "Mexican Everyday (Rick Bayless), hardcover",
+   "url": "https://www.barnesandnoble.com/w/mexican-everyday-rick-bayless/1100872034?ean=9780393061543",
+   "epc": 0.01,
+   "rate": 5.15,
+   "price": "$29.95",
+   "verified": false
+  },
+  "alternatives": [
+   {
+    "merchant": "Barnes & Noble",
+    "product": "Mexico One Plate at a Time (Rick Bayless), hardcover",
+    "url": "https://www.barnesandnoble.com/w/mexico-one-plate-at-a-time-rick-bayless/1104302932?ean=9780684841861",
+    "epc": 0.01,
+    "rate": 5.15,
+    "price": "$36.00",
+    "verified": false
+   }
+  ],
+  "note": "Same ISBN 9780393061543. B&N shows it out of stock online. The second link (Mexico One Plate at a Time) is offered as an alternative."
+ },
+ {
+  "id": "the-art-of-indian-vegetarian-cooking",
+  "name": "The Art of Indian Vegetarian Cooking",
+  "status": "match",
+  "kind": "book",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "0525245642",
+    "B0762JPC9N"
+   ],
+   "title": "Lord Krishna's Cuisine: The Art of Indian Vegetarian Cooking: Devi, Yamuna, Baird, David: 9780525245643: Amazon.com: Books",
+   "anchors": [
+    "Lord Krishna's Cuisine",
+    "Lord Krishna's Cuisine: The Art of Indian Vegetarian Cooking",
+    "The Art of Indian Vegetarian Cooking"
+   ],
+   "links": 3,
+   "posts": 3,
+   "example_post": "eatyourbookscom-and-gobbledybookcom-two-sites-for-indexing-your-cookbooks"
+  },
+  "primary": {
+   "merchant": "Barnes & Noble",
+   "product": "Lord Krishna's Cuisine: The Art of Indian Vegetarian Cooking (Yamuna Devi)",
+   "url": "https://www.barnesandnoble.com/w/lord-krishnas-cuisine-yamuna-devi/1103215056",
+   "epc": 0.01,
+   "rate": 5.15,
+   "price": null,
+   "verified": false
+  },
+  "alternatives": [],
+  "note": "Same book; B&N lists hardcover and paperback, check the edition."
+ },
+ {
+  "id": "the-perfect-scoop",
+  "name": "The Perfect Scoop",
+  "status": "match",
+  "kind": "book",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "1580088082"
+   ],
+   "title": "Perfect Scoop: Ice Creams, Sorbets, Granitas, and Sweet Accompaniments: Lebovitz, David, Hata, Lara: 9781580088084: Amazon.com: Books",
+   "anchors": [
+    "The Perfect Scoop",
+    "please pick up the book"
+   ],
+   "links": 3,
+   "posts": 1,
+   "example_post": "caramelized-pear-ice-cream-from-the-perfect-scoop-by-david-lebovitz-recipe-and-cookbook-review"
+  },
+  "primary": {
+   "merchant": "Barnes & Noble",
+   "product": "The Perfect Scoop, Revised and Updated (David Lebovitz), hardcover",
+   "url": "https://www.barnesandnoble.com/w/the-perfect-scoop-revised-and-updated-david-lebovitz/1126683499?ean=9780399580314",
+   "epc": 0.01,
+   "rate": 5.15,
+   "price": "$28.99",
+   "verified": false
+  },
+  "alternatives": [],
+  "note": "B&N carries the revised 2018 edition rather than the original 2007 one the blog linked."
+ },
+ {
+  "id": "best-food-writing-2007-by-holly-hughes",
+  "name": "Best Food Writing 2007 by Holly Hughes",
+  "status": "no_match",
+  "reason": "Search found B&N pages for other years only; 2007 edition not located within budget. Needs a web lookup.",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "1600940390"
+   ],
+   "title": "Best Food Writing 2007: Hughes, Holly: 9781600940392: Amazon.com: Books",
+   "anchors": [
+    "buy this year's",
+    "new edition"
+   ],
+   "links": 2,
+   "posts": 1,
+   "example_post": "book-review-bes"
+  }
+ },
+ {
+  "id": "culinary-artistry",
+  "name": "Culinary Artistry",
+  "status": "match",
+  "kind": "book",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "0471287857"
+   ],
+   "title": "Culinary Artistry: Dornenburg, Andrew, Page, Karen: 9780471287858: Amazon.com: Books",
+   "anchors": [
+    "Culinary Artistry"
+   ],
+   "links": 2,
+   "posts": 2,
+   "example_post": "recipe-reconstr"
+  },
+  "primary": {
+   "merchant": "Barnes & Noble",
+   "product": "Culinary Artistry (Dornenburg and Page)",
+   "url": "https://www.barnesandnoble.com/w/culinary-artistry-andrew-dornenburg/1102591823",
+   "epc": 0.01,
+   "rate": 5.15,
+   "price": "$31.95",
+   "verified": false
+  },
+  "alternatives": [],
+  "note": "Same book (paperback at B&N; Amazon link was hardcover ISBN 0471287857)."
+ },
+ {
+  "id": "happy-in-the-kitchen",
+  "name": "Happy in the Kitchen",
+  "status": "no_match",
+  "reason": "No B&N product page found in search budget. Needs a web lookup.",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "1579652999"
+   ],
+   "title": "Happy in the Kitchen: Michel Richard: 9781579652999: Amazon.com: Books",
+   "anchors": [
+    "Happy in the Kitchen"
+   ],
+   "links": 2,
+   "posts": 2,
+   "example_post": "how-to-make-an-inside-out-egg-recipe"
+  }
+ },
+ {
+  "id": "what-to-drink-with-what-you-eat",
+  "name": "What to Drink with What You Eat",
+  "status": "match",
+  "kind": "book",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "0316118400",
+    "0821257188"
+   ],
+   "title": "What to Drink with What You Eat",
+   "anchors": [
+    "The Flavor Bible",
+    "What to Drink with What You Eat"
+   ],
+   "links": 2,
+   "posts": 2,
+   "example_post": "the-flavor-bibl"
+  },
+  "primary": {
+   "merchant": "Barnes & Noble",
+   "product": "What to Drink with What You Eat (Dornenburg and Page)",
+   "url": "https://www.barnesandnoble.com/w/what-to-drink-with-what-you-eat-andrew-dornenburg/1012382733?ean=9780821257180",
+   "epc": 0.01,
+   "rate": 5.15,
+   "price": "$45.00",
+   "verified": false
+  },
+  "alternatives": [
+   {
+    "merchant": "Barnes & Noble",
+    "product": "The Flavor Bible (Dornenburg and Page)",
+    "url": "https://www.barnesandnoble.com/w/flavor-bible-andrew-dornenburg/1100163990",
+    "epc": 0.01,
+    "rate": 5.15,
+    "price": "$45.00",
+    "verified": false
+   }
+  ],
+  "note": "ISBN 0821257188 matches. The Flavor Bible (0316118400) is listed as an alternative."
+ },
+ {
+  "id": "better-ideas",
+  "name": "better ideas",
+  "status": "no_match",
+  "reason": "Could not identify the book from ASIN 0743235274 within budget. Needs a web lookup.",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "0743235274"
+   ],
+   "title": "better ideas",
+   "anchors": [
+    "better ideas"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "what-to-do-with-an-insideout-egg"
+  }
+ },
+ {
+  "id": "bill-buford",
+  "name": "Bill Buford",
+  "status": "match",
+  "kind": "book",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "1400034477"
+   ],
+   "title": "Bill Buford",
+   "anchors": [
+    "Bill Buford"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "so-you-want-to-stage-intern-at-a-restaurant"
+  },
+  "primary": {
+   "merchant": "Barnes & Noble",
+   "product": "Heat (Bill Buford), paperback",
+   "url": "https://www.barnesandnoble.com/w/heat-bill-buford/1100991561?ean=9781400034475",
+   "epc": 0.01,
+   "rate": 5.15,
+   "price": null,
+   "verified": false
+  },
+  "alternatives": [],
+  "note": "ASIN 1400034477 is Heat; same ISBN."
+ },
+ {
+  "id": "feeding-the-hungry-ghost",
+  "name": "Feeding the Hungry Ghost",
+  "status": "no_match",
+  "reason": "No B&N product page found in search budget (other Ellen Kanner titles only). Needs a web lookup.",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "1608681645"
+   ],
+   "title": "Feeding the Hungry Ghost",
+   "anchors": [
+    "Feeding the Hungry Ghost"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "hungry-ghost-moroccan-carrot-salad-recipe"
+  }
+ },
+ {
+  "id": "flat-stanleyish",
+  "name": "flat-stanleyish",
+  "status": "no_match",
+  "reason": "Could not identify the book from ASIN 0060837764 within budget. Needs a web lookup.",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "0060837764"
+   ],
+   "title": "flat-stanleyish",
+   "anchors": [
+    "flat-stanleyish"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "buckwheat-buttermilk-pancakes-recipe"
+  }
+ },
+ {
+  "id": "climbing-the-mango-trees",
+  "name": "Climbing the Mango Trees",
+  "status": "match",
+  "kind": "book",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "1400078202"
+   ],
+   "title": "Climbing the Mango Trees",
+   "anchors": [
+    "Climbing the Mango Trees"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "book-review-bes"
+  },
+  "primary": {
+   "merchant": "Barnes & Noble",
+   "product": "Climbing the Mango Trees (Madhur Jaffrey), paperback",
+   "url": "https://www.barnesandnoble.com/w/climbing-the-mango-trees-madhur-jaffrey/1100618681",
+   "epc": 0.01,
+   "rate": 5.15,
+   "price": "$15.95",
+   "verified": false
+  },
+  "alternatives": [],
+  "note": "Same title; B&N paperback reprint, the Amazon ASIN edition may differ."
+ },
+ {
+  "id": "crackers-dips-more-than-50-handmade-snacks",
+  "name": "Crackers & Dips: More Than 50 Handmade Snacks",
+  "status": "match",
+  "kind": "book",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "1452109508"
+   ],
+   "title": "Crackers & Dips: More Than 50 Handmade Snacks",
+   "anchors": [
+    "Crackers &amp",
+    "Dips: More than 50 Handmade Snacks"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "crackers-and-dips-more-than-fifty-homemade-snacks-cookbook-review"
+  },
+  "primary": {
+   "merchant": "Barnes & Noble",
+   "product": "Crackers & Dips: More than 50 Handmade Snacks (Ivy Manning)",
+   "url": "https://www.barnesandnoble.com/w/crackers-dips-ivy-manning/1114034111",
+   "epc": 0.01,
+   "rate": 5.15,
+   "price": null,
+   "verified": false
+  },
+  "alternatives": [],
+  "note": "Same book."
+ },
+ {
+  "id": "craft",
+  "name": "Craft",
+  "status": "match",
+  "kind": "book",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "0609610503"
+   ],
+   "title": "Craft",
+   "anchors": [
+    "Craft"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "battle-of-the-n"
+  },
+  "primary": {
+   "merchant": "Barnes & Noble",
+   "product": "Craft of Cooking (Tom Colicchio), hardcover",
+   "url": "https://www.barnesandnoble.com/w/craft-of-cooking-tom-colicchio/1111611962?ean=9780609610503",
+   "epc": 0.01,
+   "rate": 5.15,
+   "price": "$33.75",
+   "verified": false
+  },
+  "alternatives": [],
+  "note": "ASIN 0609610503 is Craft of Cooking; the anchor 'Craft' is a guess at the book (could refer to the restaurant), so review the post."
+ },
+ {
+  "id": "daniel-boulud",
+  "name": "Daniel Boulud",
+  "status": "match",
+  "kind": "book",
+  "confidence": "low",
+  "amazon": {
+   "asins": [
+    "0465007775"
+   ],
+   "title": "Daniel Boulud",
+   "anchors": [
+    "Daniel Boulud"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "so-you-want-to-stage-intern-at-a-restaurant"
+  },
+  "primary": {
+   "merchant": "Barnes & Noble",
+   "product": "Letters to a Young Chef (Daniel Boulud)",
+   "url": "https://www.barnesandnoble.com/w/letters-to-a-young-chef-daniel-boulud/1100922938",
+   "epc": 0.01,
+   "rate": 5.15,
+   "price": "$17.99",
+   "verified": false
+  },
+  "alternatives": [],
+  "note": "ASIN 0465007775 is believed to be Letters to a Young Chef but I could not confirm the title; B&N has the 2017 paperback reprint."
+ },
+ {
+  "id": "dessert-recipe",
+  "name": "dessert recipe",
+  "status": "no_match",
+  "reason": "Could not identify the book from ASIN 1558327983 within budget. Needs a web lookup.",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "1558327983"
+   ],
+   "title": "dessert recipe",
+   "anchors": [
+    "dessert recipe"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "how-to-make-an-inside-out-egg-recipe"
+  }
+ },
+ {
+  "id": "doughnuts-simple-and-delicious-recipes-to-make",
+  "name": "Doughnuts: Simple and Delicious Recipes to Make at Home",
+  "status": "match",
+  "kind": "book",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "1570616418"
+   ],
+   "title": "Doughnuts: Simple and Delicious Recipes to Make at Home",
+   "anchors": [
+    "Doughnuts: Simple and Delicious Recipes to Make at Home"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "bunuelos-bimuelos-donuts-hanukkah-sephardic"
+  },
+  "primary": {
+   "merchant": "Barnes & Noble",
+   "product": "Doughnuts: 90 Simple and Delicious Recipes to Make at Home (Lara Ferroni)",
+   "url": "https://www.barnesandnoble.com/w/doughnuts-lara-ferroni/1127085451",
+   "epc": 0.01,
+   "rate": 5.15,
+   "price": "$19.95",
+   "verified": false
+  },
+  "alternatives": [],
+  "note": "Same book; B&N shows it out of stock online."
+ },
+ {
+  "id": "andrea-nguyen-s-book-asian-tofu",
+  "name": "Andrea Nguyen's Book, Asian Tofu",
+  "status": "match",
+  "kind": "book",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "1607740257"
+   ],
+   "title": "Andrea Nguyen's Book, Asian Tofu",
+   "anchors": [
+    "Andrea Nguyen's book, Asian Tofu"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "how-to-make-tofu-really-freaking-delicious-tofu-101"
+  },
+  "primary": {
+   "merchant": "Barnes & Noble",
+   "product": "Asian Tofu (Andrea Nguyen), hardcover",
+   "url": "https://www.barnesandnoble.com/w/asian-tofu-andrea-nguyen/1102839266",
+   "epc": 0.01,
+   "rate": 5.15,
+   "price": "$30.00",
+   "verified": false
+  },
+  "alternatives": [],
+  "note": "Same book, ISBN 9781607740254."
+ }
+]

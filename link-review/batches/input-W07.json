@@ -1,0 +1,100 @@
+[
+ {
+  "id": "kitchenaid-pasta-extruder-attachment",
+  "name": "KitchenAid Pasta Extruder Attachment",
+  "current_amazon_url": "https://www.amazon.com/dp/B003GWZ9ZK?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "pasta-extruder attachment"
+  ],
+  "asins": [
+   "B003GWZ9ZK"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "rigatoni-with-roasted-cauliflower-and-spicy-tomato-sauce-recipe"
+ },
+ {
+  "id": "kitchenaid-pasta-roller-attachment",
+  "name": "KitchenAid Pasta Roller Attachment",
+  "current_amazon_url": "https://www.amazon.com/dp/B000TTCK64?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "pasta roller attachment for my Kitchen-Aid mixer"
+  ],
+  "asins": [
+   "B000TTCK64"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "pappardelle-with-eggplant-ragu-and-fresh-ricotta-recipe"
+ },
+ {
+  "id": "knife",
+  "name": "knife",
+  "current_amazon_url": "https://www.amazon.com/dp/B000638D32?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "knife"
+  ],
+  "asins": [
+   "B000638D32"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "how-to-cut-mint-chiffonade-tiny-ribbons-video"
+ },
+ {
+  "id": "knife-bag",
+  "name": "Knife Bag",
+  "current_amazon_url": "https://www.amazon.com/dp/B0BRTH7Y23?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com: ELIZO Leather Knife Roll Bag Professional Chef Knife Case, Durable Knife Sheath Holder, Cooks & Culinary Tools Carrying Storage, Portable Knife Wrap - 4 Slots : Home & Kitchen"
+  ],
+  "anchors": [
+   "knife bag"
+  ],
+  "asins": [
+   "B0BRTH7Y23"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "so-you-want-to-stage-intern-at-a-restaurant"
+ },
+ {
+  "id": "lime-pickle",
+  "name": "Lime Pickle",
+  "current_amazon_url": "https://www.amazon.com/dp/B00BHFHAUK?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "lime pickle"
+  ],
+  "asins": [
+   "B00BHFHAUK"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "mangoes-and-cur"
+ },
+ {
+  "id": "lovely-if-pricey-ones-from-emily-henry",
+  "name": "lovely, if pricey ones from Emily Henry",
+  "current_amazon_url": "https://www.amazon.com/dp/B01AO0XTWQ?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "lovely, if pricey ones from Emily Henry"
+  ],
+  "asins": [
+   "B01AO0XTWQ"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "basic-baked-custard-recipe-an-easy-comforting-dessert-with-many-options"
+ }
+]

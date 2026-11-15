@@ -2244,5 +2244,159 @@
    "price": "$11.50",
    "verified": true
   }
+ },
+ "freekeh": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "ChefShop.com",
+   "product": "Whole Grain Freekeh",
+   "url": "https://www.chefshop.com/products/whole-grain-freekeh",
+   "epc": null,
+   "rate": null,
+   "price": "$21.95",
+   "verified": true
+  }
+ },
+ "freeze-dried-corn": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "Nuts.com",
+   "product": "Freeze-Dried Sweet Corn",
+   "url": "https://www.nuts.com/products/freeze-dried-sweet-corn",
+   "epc": 0.38,
+   "rate": null,
+   "price": "$8.99",
+   "verified": true
+  }
+ },
+ "freeze-dried-raspberries": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "Nuts.com",
+   "product": "Freeze-Dried Raspberries",
+   "url": "https://www.nuts.com/products/freeze-dried-raspberries",
+   "epc": 0.38,
+   "rate": null,
+   "price": "$12.99",
+   "verified": true
+  }
+ },
+ "fresh-marjoram": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "Savory Spice Shop, LLC",
+   "product": "Marjoram",
+   "url": "https://www.savoryspiceshop.com/products/marjoram",
+   "epc": 0.33,
+   "rate": null,
+   "price": "$3.85",
+   "verified": true
+  }
+ },
+ "ground-cinnamon": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "Nuts.com",
+   "product": "Ground Cinnamon",
+   "url": "https://www.nuts.com/products/ground-cinnamon",
+   "epc": 0.38,
+   "rate": null,
+   "price": "$10.49",
+   "verified": true
+  }
+ },
+ "ground-coriander": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "Savory Spice Shop, LLC",
+   "product": "Ground Coriander Seeds",
+   "url": "https://www.savoryspiceshop.com/products/ground-coriander-seeds",
+   "epc": 0.33,
+   "rate": null,
+   "price": "$4.55",
+   "verified": true
+  }
+ },
+ "ground-cumin": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "Savory Spice Shop, LLC",
+   "product": "Ground Cumin Seeds",
+   "url": "https://www.savoryspiceshop.com/products/ground-cumin-seeds",
+   "epc": 0.33,
+   "rate": null,
+   "price": "$9.50",
+   "verified": true
+  }
+ },
+ "ground-turmeric": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "Nuts.com",
+   "product": "Organic Turmeric Powder",
+   "url": "https://www.nuts.com/products/organic-turmeric-powder",
+   "epc": 0.38,
+   "rate": null,
+   "price": "$7.49",
+   "verified": true
+  }
+ },
+ "microplane-classic-zester-grater": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "Sur La Table",
+   "product": "Microplane Soft-Handle Zester Grater, 12\"",
+   "url": "https://www.surlatable.com/product/microplane-soft-handle-zester-grater-12/9081654",
+   "epc": 0.06,
+   "rate": 9,
+   "price": "$18.95",
+   "verified": true
+  }
+ },
+ "oxo-good-grips": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "Sur La Table",
+   "product": "OXO Good Grips Salad Spinner 4.0",
+   "url": "https://www.surlatable.com/product/oxo-good-grips-salad-spinner-4-0/3710761",
+   "epc": 0.06,
+   "rate": 9,
+   "price": "$32.95",
+   "verified": true
+  }
+ },
+ "sriracha-sauce": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "SayWeee.com",
+   "product": "Huy Fong Foods Sriracha Hot Chili Sauce 17 oz",
+   "url": "https://www.sayweee.com/en/product/Huy-Fong-Foods-Sriracha-Hot-Chili-Sauce-481g/79895",
+   "epc": null,
+   "rate": 10,
+   "price": "$5.99",
+   "verified": true
+  }
  }
 }

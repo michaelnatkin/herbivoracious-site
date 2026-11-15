@@ -2154,29 +2154,32 @@
   "freekeh": {
     "name": "Freekeh",
     "category": "grains-pasta-legumes",
-    "url": "https://www.amazon.com/dp/B003VI0IWI?tag=herb-hugo-20",
+    "url": "https://www.chefshop.com/products/whole-grain-freekeh",
     "original_url": "https://www.amazon.com/dp/B003VI0IWI?tag=herb-hugo-20",
     "asins": [
       "B003VI0IWI"
-    ]
+    ],
+    "merchant": "ChefShop.com"
   },
   "freeze-dried-corn": {
     "name": "Freeze-Dried Corn",
     "category": "pantry-staples",
-    "url": "https://www.amazon.com/dp/B003SLQG5G?tag=herb-hugo-20",
+    "url": "https://www.nuts.com/products/freeze-dried-sweet-corn",
     "original_url": "https://www.amazon.com/dp/B003SLQG5G?tag=herb-hugo-20",
     "asins": [
       "B003SLQG5G"
-    ]
+    ],
+    "merchant": "Nuts.com"
   },
   "freeze-dried-raspberries": {
     "name": "Freeze-Dried Raspberries",
     "category": "pantry-staples",
-    "url": "https://www.amazon.com/dp/B0DBR33M8L?tag=herb-hugo-20",
+    "url": "https://www.nuts.com/products/freeze-dried-raspberries",
     "original_url": "https://www.amazon.com/dp/B0DBR33M8L?tag=herb-hugo-20",
     "asins": [
       "B0DBR33M8L"
-    ]
+    ],
+    "merchant": "Nuts.com"
   },
   "fresh-chevre": {
     "name": "Fresh Chevre",
@@ -2191,11 +2194,12 @@
   "fresh-marjoram": {
     "name": "Fresh Marjoram",
     "category": "spices-seasonings",
-    "url": "https://www.amazon.com/dp/B08LCKK4WV?tag=herb-hugo-20",
+    "url": "https://www.savoryspiceshop.com/products/marjoram",
     "original_url": "https://www.amazon.com/dp/B08LCKK4WV?tag=herb-hugo-20",
     "asins": [
       "B08LCKK4WV"
-    ]
+    ],
+    "merchant": "Savory Spice Shop, LLC"
   },
   "fresh-pappardelle-noodles": {
     "name": "Fresh Pappardelle Noodles",
@@ -2441,38 +2445,42 @@
   "ground-cinnamon": {
     "name": "Ground Cinnamon",
     "category": "spices-seasonings",
-    "url": "https://www.amazon.com/dp/B074ZP9VWB?tag=herb-hugo-20",
+    "url": "https://www.nuts.com/products/ground-cinnamon",
     "original_url": "https://www.amazon.com/dp/B074ZP9VWB?tag=herb-hugo-20",
     "asins": [
       "B074ZP9VWB"
-    ]
+    ],
+    "merchant": "Nuts.com"
   },
   "ground-coriander": {
     "name": "Ground Coriander",
     "category": "spices-seasonings",
-    "url": "https://www.amazon.com/dp/B082ZSG1KK?tag=herb-hugo-20",
+    "url": "https://www.savoryspiceshop.com/products/ground-coriander-seeds",
     "original_url": "https://www.amazon.com/dp/B082ZSG1KK?tag=herb-hugo-20",
     "asins": [
       "B082ZSG1KK"
-    ]
+    ],
+    "merchant": "Savory Spice Shop, LLC"
   },
   "ground-cumin": {
     "name": "Ground Cumin",
     "category": "spices-seasonings",
-    "url": "https://www.amazon.com/dp/B001PQOAOA?tag=herb-hugo-20",
+    "url": "https://www.savoryspiceshop.com/products/ground-cumin-seeds",
     "original_url": "https://www.amazon.com/dp/B001PQOAOA?tag=herb-hugo-20",
     "asins": [
       "B001PQOAOA"
-    ]
+    ],
+    "merchant": "Savory Spice Shop, LLC"
   },
   "ground-turmeric": {
     "name": "Ground Turmeric",
     "category": "middle-eastern-indian-pantry",
-    "url": "https://www.amazon.com/dp/B07C9KGHLZ?tag=herb-hugo-20",
+    "url": "https://www.nuts.com/products/organic-turmeric-powder",
     "original_url": "https://www.amazon.com/dp/B07C9KGHLZ?tag=herb-hugo-20",
     "asins": [
       "B07C9KGHLZ"
-    ]
+    ],
+    "merchant": "Nuts.com"
   },
   "guajillo-chiles-peppers-dried-whole-4-oz": {
     "name": "Guajillo Chiles Peppers Dried Whole, 4 oz",
@@ -3504,12 +3512,13 @@
   "microplane-classic-zester-grater": {
     "name": "Microplane Classic Zester Grater",
     "category": "kitchen-gadgets",
-    "url": "https://www.amazon.com/dp/B00004S7V8?tag=herb-hugo-20",
+    "url": "https://www.surlatable.com/product/microplane-soft-handle-zester-grater-12/9081654",
     "original_url": "https://www.amazon.com/dp/B00004S7V8?tag=herb-hugo-20",
     "asins": [
       "B00004S7V8",
       "B00151WA06"
-    ]
+    ],
+    "merchant": "Sur La Table"
   },
   "mina-preserved-lemons-authentic-moroccan-12-5-oz": {
     "name": "Mina Preserved Lemons, Authentic Moroccan, 12.5 oz",
@@ -3940,11 +3949,12 @@
   "oxo-good-grips": {
     "name": "OXO Good Grips",
     "category": "kitchen-gadgets",
-    "url": "https://www.amazon.com/dp/B00004OCKR?tag=herb-hugo-20",
+    "url": "https://www.surlatable.com/product/oxo-good-grips-salad-spinner-4-0/3710761",
     "original_url": "https://www.amazon.com/dp/B00004OCKR?tag=herb-hugo-20",
     "asins": [
       "B00004OCKR"
-    ]
+    ],
+    "merchant": "Sur La Table"
   },
   "parchment": {
     "name": "Parchment",
@@ -4958,12 +4968,13 @@
   "sriracha-sauce": {
     "name": "Sriracha Sauce",
     "category": "condiments-sauces",
-    "url": "https://www.amazon.com/dp/B07KSMML5P?tag=herb-hugo-20",
+    "url": "https://www.sayweee.com/en/product/Huy-Fong-Foods-Sriracha-Hot-Chili-Sauce-481g/79895",
     "original_url": "https://www.amazon.com/dp/B07KSMML5P?tag=herb-hugo-20",
     "asins": [
       "B0014E4G0Q",
       "B07KSMML5P"
-    ]
+    ],
+    "merchant": "SayWeee.com"
   },
   "star-anise": {
     "name": "Star Anise",

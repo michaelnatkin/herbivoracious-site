@@ -1,0 +1,343 @@
+[
+ {
+  "id": "double-boiler",
+  "name": "Double Boiler",
+  "current_amazon_url": "https://www.amazon.com/dp/B01N2LVGH0?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com: Stainless Steel Double Boiler Pot for Melting Chocolate,Candle Making 480ML | Melting Pot for Candle,Soap Making 2 Cup Capacity: Home & Kitchen",
+   "Amazon.com: Farberware Classic Series Double Boiler and Saucepan with Lid, 2 Qt | Stainless steel, fast even heating, steamer pot with double boiler insert, stainless steel steamer pot, induction compatible: Home & Kitchen"
+  ],
+  "anchors": [
+   "double boiler"
+  ],
+  "asins": [
+   "B00004RGB7",
+   "B01N2LVGH0"
+  ],
+  "links": 2,
+  "posts": 2,
+  "example_post": "zabaglione-with-roasted-plums-recipe"
+ },
+ {
+  "id": "dried-beancurd-sticks-non-gmo-soybean-curd-skin",
+  "name": "Dried Beancurd Sticks, Non-GMO Soybean Curd Skin",
+  "current_amazon_url": "https://www.amazon.com/dp/B08J42X9B7?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com: Dried Beancurd Sticks, Non-Gmo Soybean Curd Skin, Natural Asian Tofu, Dried Yuba for Vegan, Good Source Of Protein (17.6oz/500g) (17.6) : Grocery & Gourmet Food"
+  ],
+  "anchors": [
+   "Yuba (Tofu Skin)",
+   "yuba (tofu skin)"
+  ],
+  "asins": [
+   "B08J42X9B7"
+  ],
+  "links": 2,
+  "posts": 2,
+  "example_post": "congee-with-crispy-yuba-recipe"
+ },
+ {
+  "id": "mini-muffin-tin",
+  "name": "Mini-Muffin Tin",
+  "current_amazon_url": "https://www.amazon.com/dp/B0D9YCT6GQ?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com: Bake Choice Mini Muffin Pan with 200 Cupcake Liners, Mini Cupcake Pans | Nonstick 24 Cup, Muffin Tin, Carbon Steel Baking Supplies: Home & Kitchen"
+  ],
+  "anchors": [
+   "mini-cupcake tins",
+   "mini-muffin tin"
+  ],
+  "asins": [
+   "B004EBS16G",
+   "B0D9YCT6GQ"
+  ],
+  "links": 2,
+  "posts": 2,
+  "example_post": "sugar-high-frid"
+ },
+ {
+  "id": "ohsawa-organic-unpasteurized-nama-shoyu",
+  "name": "Ohsawa Organic Unpasteurized Nama Shoyu",
+  "current_amazon_url": "https://www.amazon.com/dp/B0018PUIVW?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "Nama Shoyu",
+   "Ohsawa Organic Unpasteurized Nama Shoyu"
+  ],
+  "asins": [
+   "B0018PUIVW",
+   "B001A4DV88"
+  ],
+  "links": 2,
+  "posts": 2,
+  "example_post": "soba-in-shoyu-broth-with-asparagus-leeks-and-tofu-recipe"
+ },
+ {
+  "id": "saffron-shores-jewish-cooking-of-the-southern",
+  "name": "Saffron Shores: Jewish Cooking of the Southern Mediterranean",
+  "current_amazon_url": "https://www.amazon.com/dp/B000B16SRW?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "Saffron Shores",
+   "Saffron Shores: Jewish Cooking of the Southern Mediterranean"
+  ],
+  "asins": [
+   "B000B16SRW"
+  ],
+  "links": 2,
+  "posts": 1,
+  "example_post": "recipe-how-to-m"
+ },
+ {
+  "id": "sensarte-nonstick-crepe-pan-10-inch",
+  "name": "Sensarte Nonstick Crepe Pan 10-Inch",
+  "current_amazon_url": "https://www.amazon.com/dp/B08RMXBJNQ?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "crepe pan",
+   "crepe pans"
+  ],
+  "asins": [
+   "B08RMXBJNQ"
+  ],
+  "links": 2,
+  "posts": 2,
+  "example_post": "manouri-cheese-blintzes-recipe"
+ },
+ {
+  "id": "tamarind-chutney",
+  "name": "Tamarind Chutney",
+  "current_amazon_url": "https://www.amazon.com/dp/B00BUXM4X2?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "tamarind chutney"
+  ],
+  "asins": [
+   "B00BUXM4X2"
+  ],
+  "links": 2,
+  "posts": 2,
+  "example_post": "gobi-masala-cauliflower-curry-recipe"
+ },
+ {
+  "id": "tempeh",
+  "name": "Tempeh",
+  "current_amazon_url": "https://www.amazon.com/dp/B000YN1JY4?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "tempeh"
+  ],
+  "asins": [
+   "B000YN1JY4"
+  ],
+  "links": 2,
+  "posts": 2,
+  "example_post": "recipe-rice-bow"
+ },
+ {
+  "id": "theo-chocolate-pure-organic-dark-chocolate-bar",
+  "name": "Theo Chocolate Pure Organic Dark Chocolate Bar 70% Cacao 6 Pack - Vegan, Fair Trade",
+  "current_amazon_url": "https://www.amazon.com/dp/B07WCQNP33?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "chocolate"
+  ],
+  "asins": [
+   "B002HFWQR6",
+   "B07WCQNP33"
+  ],
+  "links": 2,
+  "posts": 2,
+  "example_post": "amazing-chocola"
+ },
+ {
+  "id": "tortilla-press-2",
+  "name": "Tortilla Press",
+  "current_amazon_url": "https://www.amazon.com/dp/B00HWEIKZO?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "tortilla press"
+  ],
+  "asins": [
+   "B00HWEIKZO"
+  ],
+  "links": 2,
+  "posts": 2,
+  "example_post": "gorditas-with-roasted-mushrooms-recipe"
+ },
+ {
+  "id": "unsweetened-chocolate",
+  "name": "Unsweetened Chocolate",
+  "current_amazon_url": "https://www.amazon.com/dp/B00IEIHQB6?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "Scharffen-Berger unsweetened bar chocolate",
+   "unsweetened chocolate"
+  ],
+  "asins": [
+   "B000B1RHJU",
+   "B00IEIHQB6"
+  ],
+  "links": 2,
+  "posts": 2,
+  "example_post": "chocolate-cupca"
+ },
+ {
+  "id": "yuquan-sichuan-zha-cai-preserved-vegetable",
+  "name": "Yuquan Sichuan Zha Cai Preserved Vegetable",
+  "current_amazon_url": "https://www.amazon.com/dp/B079C5V5VX?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "Sichuan preserved vegetable"
+  ],
+  "asins": [
+   "B00OOVDBPW",
+   "B079C5V5VX"
+  ],
+  "links": 2,
+  "posts": 2,
+  "example_post": "sichuan-dry-fried-green-beans-and-tofu-recipe"
+ },
+ {
+  "id": "big-steamer",
+  "name": "Big Steamer",
+  "current_amazon_url": "https://www.amazon.com/dp/B0FKGWVLT6?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "big steamer"
+  ],
+  "asins": [
+   "B0FKGWVLT6"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "nuevo-leon-style-tamales-adapted-to-be-vegetarian-recipe"
+ },
+ {
+  "id": "black-rice",
+  "name": "Black Rice",
+  "current_amazon_url": "https://www.amazon.com/dp/B01NAGDHZR?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "black rice"
+  ],
+  "asins": [
+   "B01NAGDHZR"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "black-rice-fritter-with-turnips-and-horseradish-cream-recipe"
+ },
+ {
+  "id": "blackstrap-molasses",
+  "name": "Blackstrap Molasses",
+  "current_amazon_url": "https://www.amazon.com/dp/B00MFBVY2U?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "blackstrap molasses"
+  ],
+  "asins": [
+   "B00MFBVY2U"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "bran-muffins"
+ },
+ {
+  "id": "bourbon-barrel-maple-syrup",
+  "name": "Bourbon-Barrel Maple Syrup",
+  "current_amazon_url": "https://www.amazon.com/dp/B012M6PUHC?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "bourbon-barrel maple syrup"
+  ],
+  "asins": [
+   "B012M6PUHC"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "maple-roasted-shiitake-mushrooms-recipe"
+ },
+ {
+  "id": "cake-tester",
+  "name": "Cake Tester",
+  "current_amazon_url": "https://www.amazon.com/dp/B0018AHVSU?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "cake tester"
+  ],
+  "asins": [
+   "B0018AHVSU"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "saffron-chickpea-stew-with-grilled-porcini-mushroom-recipe"
+ },
+ {
+  "id": "epazote",
+  "name": "Epazote",
+  "current_amazon_url": "https://www.amazon.com/dp/B0BQ8PF6MC?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com : 2oz Dried Cut Epazote Leaves, Hojas de Epazote Cortadas | Hojas de Epazote Cortadas : Grocery & Gourmet Food"
+  ],
+  "anchors": [
+   "epazote"
+  ],
+  "asins": [
+   "B0BQ8PF6MC"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "spicy-tomatillo-salsa-recipe"
+ },
+ {
+  "id": "fideos",
+  "name": "Fideos",
+  "current_amazon_url": "https://www.amazon.com/dp/B00FR6XI9W?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "fideos"
+  ],
+  "asins": [
+   "B00FR6XI9W"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "ilans-top-chef-fideos-vegetarian-style-with-a-review-of-the-top-chef-cookbook"
+ },
+ {
+  "id": "field-roast-spicy-mexican-chipotle-plant-based",
+  "name": "Field Roast Spicy Mexican Chipotle Plant-Based Sausage, 12.95 oz",
+  "current_amazon_url": "https://www.amazon.com/dp/B002DQIZRE?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "Field Roast Mexican Chipotle vegetarian sausage"
+  ],
+  "asins": [
+   "B002DQIZRE"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "recipe-veggie-c"
+ }
+]

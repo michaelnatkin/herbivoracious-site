@@ -1,0 +1,324 @@
+[
+ {
+  "id": "fine-mesh-chinois-strainer",
+  "name": "Fine Mesh Chinois Strainer",
+  "current_amazon_url": "https://www.amazon.com/dp/B002JPJI7K?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "badass professional fine chinois"
+  ],
+  "asins": [
+   "B002JPJI7K"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "cold-sorrel-and-coconut-milk-soup-recipe"
+ },
+ {
+  "id": "flax-plus-cereal",
+  "name": "Flax Plus Cereal",
+  "current_amazon_url": "https://www.amazon.com/dp/B000VK7YAI?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com: Nature's Path Organic Flax Multibran Flakes Cereal, 13.25 oz (Pack of 1) | ALA Omega-3 & 7g Fiber: Whole grain flakes with flax seed, wheat bran and oat bran, no artificial flavors or colors"
+  ],
+  "anchors": [
+   "Flax Plus cereal"
+  ],
+  "asins": [
+   "B000VK7YAI"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "how-do-you-get-your-protein-is-vegetarian-protein-a-problem"
+ },
+ {
+  "id": "flour",
+  "name": "flour",
+  "current_amazon_url": "https://www.amazon.com/dp/B07XKDR6HN?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "flour"
+  ],
+  "asins": [
+   "B07XKDR6HN"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "eat-ethiopian-t"
+ },
+ {
+  "id": "food-dehydrator",
+  "name": "Food Dehydrator",
+  "current_amazon_url": "https://www.amazon.com/dp/B004Z915M4?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "fancy-pants dehydrator"
+  ],
+  "asins": [
+   "B004Z915M4"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "corned-beets-recipe"
+ },
+ {
+  "id": "food-mill",
+  "name": "Food Mill",
+  "current_amazon_url": "https://www.amazon.com/dp/B08BKKQ2NL?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "food mill"
+  ],
+  "asins": [
+   "B08BKKQ2NL"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "pumpkin-ravio-1"
+ },
+ {
+  "id": "from-chefshop-on-amazon",
+  "name": "from ChefShop on Amazon",
+  "current_amazon_url": "https://www.amazon.com/dp/B0013TMTZQ?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "from ChefShop on Amazon"
+  ],
+  "asins": [
+   "B0013TMTZQ"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "caviar-lentil-salad-with-arugula-crispy-shallots-and-roasted-garlic-recipe"
+ },
+ {
+  "id": "galil-pickled-mango-amba",
+  "name": "Galil Pickled Mango Amba",
+  "current_amazon_url": "https://www.amazon.com/dp/B00P8FCMIU?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "mango pickle"
+  ],
+  "asins": [
+   "B00P8FCMIU"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "recipe-sabich"
+ },
+ {
+  "id": "garcima-15-inch-carbon-steel-paella-pan",
+  "name": "Garcima 15-Inch Carbon Steel Paella Pan",
+  "current_amazon_url": "https://www.amazon.com/dp/B000QYKK3W?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "paella pan"
+  ],
+  "asins": [
+   "B000QYKK3W"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "new-paella-pan-from-the-spanish-table"
+ },
+ {
+  "id": "genmaicha-tea",
+  "name": "Genmaicha Tea",
+  "current_amazon_url": "https://www.amazon.com/dp/B000SSNFEW?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "genmaicha tea"
+  ],
+  "asins": [
+   "B000SSNFEW"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "tea-smoked-lych"
+ },
+ {
+  "id": "glucose-powder",
+  "name": "Glucose Powder",
+  "current_amazon_url": "https://www.amazon.com/dp/B019HN8KW0?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "glucose powder"
+  ],
+  "asins": [
+   "B019HN8KW0"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "applecelery-sorbet-a-refreshing-recipe-with-many-coauthors"
+ },
+ {
+  "id": "grant-achatz",
+  "name": "Grant Achatz",
+  "current_amazon_url": "https://www.amazon.com/dp/B004T4UZ6C?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "Grant Achatz"
+  ],
+  "asins": [
+   "B004T4UZ6C"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "so-you-want-to-stage-intern-at-a-restaurant"
+ },
+ {
+  "id": "great-item",
+  "name": "great item",
+  "current_amazon_url": "https://www.amazon.com/dp/B00004OCKT?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "great item"
+  ],
+  "asins": [
+   "B00004OCKT"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "apple-crostata-with-breadcrumb-streusel-recipe-for-pieday"
+ },
+ {
+  "id": "cake-tester-2",
+  "name": "Cake Tester",
+  "current_amazon_url": "https://www.amazon.com/dp/B07FCL1ZXC?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "cake tester"
+  ],
+  "asins": [
+   "B07FCL1ZXC"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "tomato-and-beet-salad-recipe"
+ },
+ {
+  "id": "calphalon-12-inch-non-stick-omelet-pan",
+  "name": "Calphalon 12-Inch Non-Stick Omelet Pan",
+  "current_amazon_url": "https://www.amazon.com/dp/B0000936JK?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "Calphalon 12-inch non-stick omelet pan"
+  ],
+  "asins": [
+   "B0000936JK"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "crepes-with-roasted-french-plums-yogurt-and-honey"
+ },
+ {
+  "id": "ceramic-sharpening-steel",
+  "name": "Ceramic Sharpening Steel",
+  "current_amazon_url": "https://www.amazon.com/dp/B002YK1RAQ?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "ceramic sharpening steel"
+  ],
+  "asins": [
+   "B002YK1RAQ"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "sharpening-steels-kitchen-tools-hand-tools"
+ },
+ {
+  "id": "champagne-flutes-that-are-etched",
+  "name": "Champagne Flutes That Are Etched",
+  "current_amazon_url": "https://www.amazon.com/dp/B0BZ3VXQ1R?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "champagne flutes that are etched"
+  ],
+  "asins": [
+   "B0BZ3VXQ1R"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "foraging-in-bel"
+ },
+ {
+  "id": "cheap-simple-little-dumpling-press",
+  "name": "Cheap, Simple Little Dumpling Press",
+  "current_amazon_url": "https://www.amazon.com/dp/B000PLUIIS?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "cheap, simple little dumpling press"
+  ],
+  "asins": [
+   "B000PLUIIS"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "mandu-koreanstyle-potstickers-with-ssamjang-kochujang-sauce-recipe"
+ },
+ {
+  "id": "cheapo-little-gnocchi-board",
+  "name": "Cheapo Little Gnocchi Board",
+  "current_amazon_url": "https://www.amazon.com/dp/B0019R7SPS?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "cheapo little gnocchi board"
+  ],
+  "asins": [
+   "B0019R7SPS"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "gnocchi-with-radicchio-leeks-and-ricotta-salata-vegetarian-recipe"
+ },
+ {
+  "id": "chef-craft-serrated-grapefruit-spoon-2-piece-set",
+  "name": "Chef Craft Serrated Grapefruit Spoon, 2-Piece Set",
+  "current_amazon_url": "https://www.amazon.com/dp/B00IH5X9BC?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "grapefruit spoons"
+  ],
+  "asins": [
+   "B00IH5X9BC"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "artichoke-spagh"
+ },
+ {
+  "id": "chinese-pickled-mustard-greens",
+  "name": "Chinese Pickled Mustard Greens",
+  "current_amazon_url": "https://www.amazon.com/dp/B00IR5HVH0?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "Chinese pickled mustard greens"
+  ],
+  "asins": [
+   "B00IR5HVH0"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "khao-soi-thai-curry-noodles-from-chiang-mai"
+ }
+]

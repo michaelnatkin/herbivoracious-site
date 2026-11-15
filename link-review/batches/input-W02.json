@@ -1,0 +1,392 @@
+[
+ {
+  "id": "jaques-pepin",
+  "name": "Jaques Pepin",
+  "current_amazon_url": "https://www.amazon.com/dp/0544657497?tag=herb-hugo-20",
+  "is_book": true,
+  "amazon_titles": [],
+  "anchors": [
+   "Jaques Pepin"
+  ],
+  "asins": [
+   "0544657497"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "so-you-want-to-stage-intern-at-a-restaurant"
+ },
+ {
+  "id": "karen-and-andrew",
+  "name": "Karen and Andrew",
+  "current_amazon_url": "https://www.amazon.com/dp/0471152099?tag=herb-hugo-20",
+  "is_book": true,
+  "amazon_titles": [],
+  "anchors": [
+   "Karen and Andrew"
+  ],
+  "asins": [
+   "0471152099"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "so-you-want-to-stage-intern-at-a-restaurant"
+ },
+ {
+  "id": "microplane-classic-zester-grater",
+  "name": "Microplane Classic Zester Grater",
+  "current_amazon_url": "https://www.amazon.com/dp/B00004S7V8?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com: Microplane Classic Zester Grater, Black: Cheese Graters: Home & Kitchen",
+   "Amazon.com: Microplane Premium Classic Series Zester 18/8, Black - Lemon Zester & Cheese Grater & Vegetable Grater - Citrus, Parmesan Cheese, Garlic, Ginger, Nutmeg, Chocolate - Stainless Steel Grater : Microplane: Home & Kitchen"
+  ],
+  "anchors": [
+   "grater",
+   "microplane"
+  ],
+  "asins": [
+   "B00004S7V8",
+   "B00151WA06"
+  ],
+  "links": 3,
+  "posts": 3,
+  "example_post": "four-thousand-d"
+ },
+ {
+  "id": "no-boil-lasagna-noodles",
+  "name": "No-Boil Lasagna Noodles",
+  "current_amazon_url": "https://www.amazon.com/dp/B000RUQPQQ?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com : Barilla \"Oven Ready\" Lasagne Pasta, Non-GMO Kosher Pasta, 9oz. | Classic Blue Box pasta made with Durum Wheat Semolina, Made with Non-GMO ingredients : Grocery & Gourmet Food",
+   "Amazon.com : Barilla Pasta, Oven-Ready Lasagne, 9 Ounce (Pack of 4) : Lasagna Pasta : Grocery & Gourmet Food"
+  ],
+  "anchors": [
+   "no-boil lasagna noodles"
+  ],
+  "asins": [
+   "B000RUQPQQ",
+   "B003EXVM66"
+  ],
+  "links": 3,
+  "posts": 3,
+  "example_post": "portabello-summer-squash-lasagna-recipe"
+ },
+ {
+  "id": "old-stone-oven-pizza-baking-stone",
+  "name": "Old Stone Oven Pizza Baking Stone",
+  "current_amazon_url": "https://www.amazon.com/dp/B0000E1FDA?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com: Old Stone Pizza Kitchen Rectangular Pizza Stone for Oven and Grill, 14x16-Inch : Patio, Lawn & Garden",
+   "Amazon.com : Unicook 15 x 12 Inch Rectangular Pizza Stone for Oven and Grill, 6.8 Lbs | Heavy Duty, Even Heating & Consistent Heat Retention, Creates Crispy Crust for Pizzas, Bread, Cookies, Includes Dough Scraper : Patio, Lawn & Garden"
+  ],
+  "anchors": [
+   "baking stone",
+   "pizza stone"
+  ],
+  "asins": [
+   "B0000E1FDA",
+   "B06XGV3RS4"
+  ],
+  "links": 3,
+  "posts": 3,
+  "example_post": "double-crust-pizza-with-broccoli-raab-ricotta-and-caramelized-onions-recipe"
+ },
+ {
+  "id": "oxo-good-grips",
+  "name": "OXO Good Grips",
+  "current_amazon_url": "https://www.amazon.com/dp/B00004OCKR?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com: OXO Good Grips 6.22 Qt Salad Spinner, Vegetable Washer with Bowl & Strainer | Spin-dry Lettuce, Herbs, Fruit, Vegetables, Non-Slip Base, Large Capacity Bowl, Easy One-Touch Press Pump, Meal Prep: Home & Kitchen"
+  ],
+  "anchors": [
+   "OXO Good Grips",
+   "OXO Good Grips Salad Spinner"
+  ],
+  "asins": [
+   "B00004OCKR"
+  ],
+  "links": 3,
+  "posts": 2,
+  "example_post": "chopped-salad-revisiting-a-classic-recipe"
+ },
+ {
+  "id": "pastry-brush",
+  "name": "Pastry Brush",
+  "current_amazon_url": "https://www.amazon.com/dp/B000JPSI8C?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com: OXO Good Grips Silicone Pastry Brush | OXO Good Grips Silicone Basting & Pastry Brush - Small, 7.6 in: Home & Kitchen"
+  ],
+  "anchors": [
+   "Silicone pastry brushes",
+   "pastry brush"
+  ],
+  "asins": [
+   "B000JPSI8C"
+  ],
+  "links": 3,
+  "posts": 3,
+  "example_post": "block-party-emp"
+ },
+ {
+  "id": "prioritychef-large-15oz-stainless-steel-potato",
+  "name": "PriorityChef Large 15oz Stainless Steel Potato Ricer",
+  "current_amazon_url": "https://www.amazon.com/dp/B00MUEHPGQ?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com: PriorityChef Large 15oz Potato Ricer, Heavy Duty Stainless Steel Potato Masher and Ricer Kitchen Tool, Press and Mash Kitchen Gadget For Perfect Mashed Potatoes - Everytime: Home & Kitchen"
+  ],
+  "anchors": [
+   "heavy-duty potato ricer",
+   "potato ricer"
+  ],
+  "asins": [
+   "B00MUEHPGQ"
+  ],
+  "links": 3,
+  "posts": 3,
+  "example_post": "aloo-tikki-indian-potato-fritters-recipe"
+ },
+ {
+  "id": "ricotta-salata",
+  "name": "Ricotta Salata",
+  "current_amazon_url": "https://www.amazon.com/dp/B0787VWCF3?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com: Mitica, Ricotta Salata : Grocery & Gourmet Food"
+  ],
+  "anchors": [
+   "Ricotta salata",
+   "ricotta salata"
+  ],
+  "asins": [
+   "B0787VWCF3"
+  ],
+  "links": 3,
+  "posts": 3,
+  "example_post": "gnocchi-with-radicchio-leeks-and-ricotta-salata-vegetarian-recipe"
+ },
+ {
+  "id": "ring-mold",
+  "name": "Ring Mold",
+  "current_amazon_url": "https://www.amazon.com/dp/B0861D8DTN?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com: HULISEN 3\u201d Round Cake Ring Mold, Stainless Steel Cooking Crumpet Rings | 4 Food Forms & 1 Pusher, Dishwasher Safe, Home Cooks and Bakers, Tuna Tartare, Pancakes, Salads and Mousse : Home & Kitchen",
+   "Amazon.com: Lurch Stainless Steel Food Rings with Pusher and Lifter, Set of 6 | Perfect for risotto and tartlets. 6 rings, a tamper and a tray. Ring size: Diameter 2.9 inches, height 2.1 inches: Home & Kitchen"
+  ],
+  "anchors": [
+   "ring mold"
+  ],
+  "asins": [
+   "B00IVFJDKY",
+   "B01IO57N0W",
+   "B0861D8DTN"
+  ],
+  "links": 3,
+  "posts": 3,
+  "example_post": "risotto-cake-with-crispy-ramps-recipe"
+ },
+ {
+  "id": "sriracha-sauce",
+  "name": "Sriracha Sauce",
+  "current_amazon_url": "https://www.amazon.com/dp/B07KSMML5P?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Page Not Found",
+   "Amazon.com: Huy Fong, Sriracha Hot Chili Sauce, 17 Ounce Bottle : Books"
+  ],
+  "anchors": [
+   "Sriracha sauce",
+   "sriracha"
+  ],
+  "asins": [
+   "B0014E4G0Q",
+   "B07KSMML5P"
+  ],
+  "links": 3,
+  "posts": 3,
+  "example_post": "kale-fried-rice-for-one-infinitely-adaptable-recipe"
+ },
+ {
+  "id": "taylors-of-harrogate-lapsang-souchong-loose",
+  "name": "Taylors of Harrogate Lapsang Souchong Loose Leaf Tea",
+  "current_amazon_url": "https://www.amazon.com/dp/B002JP6H2O?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com : Taylors of Harrogate Lapsang Souchong Loose Leaf Tin, 4.41 oz : Smoky Lapsang Souchong Tea : Grocery & Gourmet Food",
+   "Amazon.com : Taylors of Harrogate Lapsang Souchong, 50 Teabags : Grocery Tea Sampler : Grocery & Gourmet Food"
+  ],
+  "anchors": [
+   "lapsang souchong",
+   "lapsang souchong tea"
+  ],
+  "asins": [
+   "B000MNNELC",
+   "B002JP6H2O"
+  ],
+  "links": 3,
+  "posts": 3,
+  "example_post": "maitake-mushrooms-in-smoky-tea-broth"
+ },
+ {
+  "id": "ancho-guajillo-pasilla-cascabel-de-arbol",
+  "name": "Ancho, Guajillo, Pasilla, Cascabel, de Arbol, ...",
+  "current_amazon_url": "https://www.amazon.com/dp/B07BZW6DSC?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com : Dried Chile Peppers Variety 3x4oz Ancho Guajillo Pasilla Mexican Chili | Ancho: sweet smoky. Guajillo: fruity. Pasilla: earthy tangy. Whole pods for mole, birria & tamales. Resealable bulk bag. : Grocery & Gourmet Food"
+  ],
+  "anchors": [
+   "ancho, guajillo, pasilla, cascabel, de arbol, ...",
+   "whole dried chili peppers"
+  ],
+  "asins": [
+   "B07BZW6DSC"
+  ],
+  "links": 2,
+  "posts": 1,
+  "example_post": "vegetarian-chili-recipe"
+ },
+ {
+  "id": "beaterblade-for-kitchenaid-tilt-head-bowl-lift",
+  "name": "BeaterBlade for KitchenAid Tilt-Head & Bowl-Lift Mixers",
+  "current_amazon_url": "https://www.amazon.com/dp/B001F29N50?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Page Not Found",
+   "Amazon.com: 1305 Ultra Offset Spatula with 4.25 by .75-Inch Stainless Steel Blade, Plastic Handle, Dishwasher Safe: Home & Kitchen"
+  ],
+  "anchors": [
+   "BeaterBlade for KitchenAid Tilt-Head &amp",
+   "Bowl-Lift Mixers",
+   "the Ateco model"
+  ],
+  "asins": [
+   "B001F29N50",
+   "B07MJL6FPC"
+  ],
+  "links": 2,
+  "posts": 2,
+  "example_post": "stop-scraping-your-stand-mixer-bowl"
+ },
+ {
+  "id": "blowtorch",
+  "name": "Blowtorch",
+  "current_amazon_url": "https://www.amazon.com/dp/B01LYN1C7P?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Page Not Found",
+   "Amazon.com: Kollea Culinary Torch, Refillable Butane Kitchen Torch with Lock, Red | Adjustable Flame, Ideal Torch for Creme Brulee, Baking, Cooking, and Food Prep with Easy Ignition, Gas Not Included: Home & Kitchen"
+  ],
+  "anchors": [
+   "blowtorch"
+  ],
+  "asins": [
+   "B01LYN1C7P",
+   "B07RKVHJH6"
+  ],
+  "links": 2,
+  "posts": 2,
+  "example_post": "crostini-with-young-pecorino-grilled-figs-and-arugula-mint-pesto-recipe"
+ },
+ {
+  "id": "champion-juicer",
+  "name": "Champion Juicer",
+  "current_amazon_url": "https://www.amazon.com/dp/B000H6UYVC?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Page Not Found",
+   "Page Not Found"
+  ],
+  "anchors": [
+   "Champion Juicer",
+   "Champion juicer"
+  ],
+  "asins": [
+   "B000E48LHQ",
+   "B000H6UYVC"
+  ],
+  "links": 2,
+  "posts": 2,
+  "example_post": "corn-nut-butter-recipe-work-in-progress"
+ },
+ {
+  "id": "cheesecloth",
+  "name": "Cheesecloth",
+  "current_amazon_url": "https://www.amazon.com/dp/B08FXSD575?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com: Cotton Farm Grade 100 XL Cheese Cloths - Straining & More; 36x36 Inch; 100% Unbleached Cotton Cheesecloth; Reusable with Hemmed 2 Edges; Ultra-Dense (the finest) Butter Muslin: Home & Kitchen",
+   "Amazon.com: Organic Cheese Cloths, GOTS Certified, 36x36Inch, Reusable Cheese Cloth | Grade 100 Closed Edges Fabric Fine Mesh Cloth, Unbleached Cotton Muslin Cheesecloth for Straining, Cooking, Crafts - 9 Sq.Ft: Home & Kitchen"
+  ],
+  "anchors": [
+   "cheesecloth"
+  ],
+  "asins": [
+   "B08FXSD575",
+   "B0DKC8JD52"
+  ],
+  "links": 2,
+  "posts": 2,
+  "example_post": "latkes-crispy-for-hannukah"
+ },
+ {
+  "id": "chervil",
+  "name": "Chervil",
+  "current_amazon_url": "https://www.amazon.com/dp/B0DCG5973B?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com : GranAroma, Chervil Flakes, 0.28 Oz | For seasoning, garnishing, and enhancing flavor : Grocery & Gourmet Food"
+  ],
+  "anchors": [
+   "chervil"
+  ],
+  "asins": [
+   "B0DCG5973B"
+  ],
+  "links": 2,
+  "posts": 2,
+  "example_post": "grapefruit-and-avocado-crudo"
+ },
+ {
+  "id": "circle-cutters",
+  "name": "Circle Cutters",
+  "current_amazon_url": "https://www.amazon.com/dp/B08BWL2TR5?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com: Bukuwa 12 Pcs Round Cookie Biscuit Cutter Set, Graduated Circle Cutters | 18/8 Stainless Steel, Pastry Cookie Cutters, Donut Cutter Ring Molds for Baking, Cooking, Gift: Home & Kitchen"
+  ],
+  "anchors": [
+   "circle cutter",
+   "circle cutters"
+  ],
+  "asins": [
+   "B08BWL2TR5"
+  ],
+  "links": 2,
+  "posts": 2,
+  "example_post": "caramelized-pea"
+ },
+ {
+  "id": "cotija-cheese",
+  "name": "Cotija Cheese",
+  "current_amazon_url": "https://www.amazon.com/dp/B07BM98393?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com: QUESO CAMPESINO Cotija, 12 OZ : Grocery & Gourmet Food"
+  ],
+  "anchors": [
+   "cotija cheese"
+  ],
+  "asins": [
+   "B07BM98393"
+  ],
+  "links": 2,
+  "posts": 2,
+  "example_post": "mexican-breakfast-torta-recipe"
+ }
+]

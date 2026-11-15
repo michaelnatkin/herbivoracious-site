@@ -1,0 +1,324 @@
+[
+ {
+  "id": "digital-one",
+  "name": "Digital One",
+  "current_amazon_url": "https://www.amazon.com/dp/B000S1P3XU?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "digital one"
+  ],
+  "asins": [
+   "B000S1P3XU"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "foodbeam-sables"
+ },
+ {
+  "id": "dispensing-scoop",
+  "name": "Dispensing Scoop",
+  "current_amazon_url": "https://www.amazon.com/dp/B0BWXSH3Z3?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "dispensing scoop"
+  ],
+  "asins": [
+   "B0BWXSH3Z3"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "thick-and-cakey-chocolate-chip-cookies-recipe"
+ },
+ {
+  "id": "eden-umeboshi-paste-pickled-ume-plum-puree",
+  "name": "Eden Umeboshi Paste, Pickled Ume Plum Puree",
+  "current_amazon_url": "https://www.amazon.com/dp/B0013JLOHA?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "umeboshi plum paste"
+  ],
+  "asins": [
+   "B0013JLOHA"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "chirashi-sushi-recipe"
+ },
+ {
+  "id": "edward-espe-brown",
+  "name": "Edward Espe Brown",
+  "current_amazon_url": "https://www.amazon.com/dp/B0014BQR74?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com: How To Cook Your Life : Doris D\u00f6rrie: Movies & TV"
+  ],
+  "anchors": [
+   "Edward Espe Brown"
+  ],
+  "asins": [
+   "B0014BQR74"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "complete-tassajara-cookbook-tassajara-bread-book"
+ },
+ {
+  "id": "emile-henry",
+  "name": "Emile Henry",
+  "current_amazon_url": "https://www.amazon.com/dp/B00WRIJ0UY?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "Emile Henry"
+  ],
+  "asins": [
+   "B00WRIJ0UY"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "strawberry-rhubarb-crisp-with-pumpkin-seed-topping-recipe"
+ },
+ {
+  "id": "emile-henry-lasagna-pan",
+  "name": "Emile Henry Lasagna Pan",
+  "current_amazon_url": "https://www.amazon.com/dp/B00022O6YM?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "Emile Henry lasagna pan"
+  ],
+  "asins": [
+   "B00022O6YM"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "vegetarian-lasagna-recipe-with-spinach-and-ricotta-filling"
+ },
+ {
+  "id": "amazon-b00428m7k2",
+  "name": "Amazon item B00428M7K2",
+  "current_amazon_url": "https://www.amazon.com/dp/B00428M7K2?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "wok"
+  ],
+  "asins": [
+   "B00428M7K2"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "stir-fried-winged-beans-kacang-botol-with-tomato-and-garlic-recipe"
+ },
+ {
+  "id": "amazon-b012pnlh42",
+  "name": "Amazon item B012PNLH42",
+  "current_amazon_url": "https://www.amazon.com/dp/B012PNLH42?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "kit"
+  ],
+  "asins": [
+   "B012PNLH42"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "making-mozare-1"
+ },
+ {
+  "id": "amazon-b08hmxmg2h",
+  "name": "Amazon item B08HMXMG2H",
+  "current_amazon_url": "https://www.amazon.com/dp/B08HMXMG2H?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "wok"
+  ],
+  "asins": [
+   "B08HMXMG2H"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "red-curry-fried-rice-with-seared-pineapple-recipe"
+ },
+ {
+  "id": "amazon-b0fmjw45cf",
+  "name": "Amazon item B0FMJW45CF",
+  "current_amazon_url": "https://www.amazon.com/dp/B0FMJW45CF?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "wok"
+  ],
+  "asins": [
+   "B0FMJW45CF"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "mission-chinese-style-tofu-with-radish-and-shiso-recipe"
+ },
+ {
+  "id": "animal-vegetable-miracle",
+  "name": "Animal, Vegetable, Miracle",
+  "current_amazon_url": "https://www.amazon.com/dp/B000Q66GCY?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "Animal, Vegetable, Miracle"
+  ],
+  "asins": [
+   "B000Q66GCY"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "book-review-bes"
+ },
+ {
+  "id": "aroy-d-jackfruit-in-syrup",
+  "name": "Aroy-D Jackfruit in Syrup",
+  "current_amazon_url": "https://www.amazon.com/dp/B00581KTE8?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "jackfruit in syrup"
+  ],
+  "asins": [
+   "B00581KTE8"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "jack-of-all-cakes-a-guest-post-from-lemonpi"
+ },
+ {
+  "id": "aroy-d-young-green-jackfruit-in-brine",
+  "name": "Aroy-D Young Green Jackfruit in Brine",
+  "current_amazon_url": "https://www.amazon.com/dp/B005QBCT4S?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "Green jackfruit"
+  ],
+  "asins": [
+   "B005QBCT4S"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "larb-jackfruit-laotian-thai-salad-recipe"
+ },
+ {
+  "id": "ateco-plain-edge-round-cutters-graduated-sizes",
+  "name": "Ateco Plain Edge Round Cutters, Graduated Sizes, 11 Pc Set",
+  "current_amazon_url": "https://www.amazon.com/dp/B00004S1CI?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "cutters"
+  ],
+  "asins": [
+   "B00004S1CI"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "recipe-pie-doug"
+ },
+ {
+  "id": "bamboo-steamer",
+  "name": "Bamboo Steamer",
+  "current_amazon_url": "https://www.amazon.com/dp/B0001VQIYU?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "bamboo steamer"
+  ],
+  "asins": [
+   "B0001VQIYU"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "smoked-tofu-buns-recipe"
+ },
+ {
+  "id": "isi-cream-profi-whip-professional-cream-whipper",
+  "name": "ISi Cream Profi Whip Professional Cream Whipper",
+  "current_amazon_url": "https://www.amazon.com/dp/B0001MRZWI?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "whip cream dispenser"
+  ],
+  "asins": [
+   "B0001MRZWI"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "you-have-mousse"
+ },
+ {
+  "id": "just-soft-boiled",
+  "name": "just soft-boiled",
+  "current_amazon_url": "https://www.amazon.com/dp/B0007M2BN0?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "just soft-boiled"
+  ],
+  "asins": [
+   "B0007M2BN0"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "what-to-do-with-an-insideout-egg"
+ },
+ {
+  "id": "kakukyu-hatcho-miso-paste",
+  "name": "Kakukyu Hatcho Miso Paste",
+  "current_amazon_url": "https://www.amazon.com/dp/B0DNQ4Y74Y?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "Hatcho miso"
+  ],
+  "asins": [
+   "B0DNQ4Y74Y"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "korean-yakisoba-with-french-horn-mushroom-tofu-and-510-egg-recipe"
+ },
+ {
+  "id": "kevlar-glove",
+  "name": "Kevlar Glove",
+  "current_amazon_url": "https://www.amazon.com/dp/B001QXZORE?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "kevlar glove"
+  ],
+  "asins": [
+   "B001QXZORE"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "goat-cheese-asparagus-and-beet-salad-with-herb-flowers-recipe"
+ },
+ {
+  "id": "kevlar-kitchen-glove",
+  "name": "Kevlar Kitchen Glove",
+  "current_amazon_url": "https://www.amazon.com/dp/B00IVM1TKO?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "Kevlar kitchen glove"
+  ],
+  "asins": [
+   "B00IVM1TKO"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "mandoline-preferably-an-inexpensive-japanese-model"
+ }
+]

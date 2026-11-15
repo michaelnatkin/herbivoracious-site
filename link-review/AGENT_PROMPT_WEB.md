@@ -1,0 +1,8 @@
+Follow `link-review/AGENT_PROMPT.md` (read it first: goal, in-network rule, EPC rule, output format, books rule) for batch NN=<given>, input `link-review/batches/input-WNN.json`, output `link-review/batches/batch-WNN.json`, with these OVERRIDES because web access is scarce:
+
+- **WebSearch budget is shared and tiny: use at most 25 WebSearch calls in total.** Spend them on books and on high-link-count items first. Never loop on a failed search.
+- **Books** (`is_book`): one WebSearch each, query like `barnesandnoble.com <title> <author> hardcover` — take the `https://www.barnesandnoble.com/w/...` URL from the results. Verify nothing by curl (B&N blocks it): set `verified: false`. B&N is the only merchant for books (never Bookshop). If the right edition isn't found, no_match.
+- **Gear**: use WebFetch on Sur La Table's search page, which works and costs no search budget: `https://www.surlatable.com/search?q=<terms>` (returns product names, prices, URLs). OXO blocks fetches (403) — only suggest OXO for OXO-branded items and mark `verified: false`. Only use other merchants confirmed in-network with `python3 link-review/merchants.py search "<name>"`.
+- **Groceries**: try `python3 link-review/shop_search.py <domain> "<terms>"` once per product at most (Savory Spice, Spice House, ChefShop, Nuts.com) with a `sleep 8` between calls to the same host, and stop immediately on any 429.
+- Anything you can't resolve within budget: `status: "no_match"`, `reason` saying so, `needs_web: true`.
+- Be conservative with `confidence: "high"`: the owner auto-approves high only when the page is confirmed loading, and Sur La Table URLs from the search page count as verified.

@@ -1,0 +1,351 @@
+[
+ {
+  "id": "savory-sweet-life-100-simply-delicious-recipes",
+  "name": "Savory Sweet Life: 100 Simply Delicious Recipes for Every Family Occasion",
+  "current_amazon_url": "https://www.amazon.com/dp/0062064053?tag=herb-hugo-20",
+  "is_book": true,
+  "amazon_titles": [],
+  "anchors": [
+   "Savory Sweet Life: 100 Simply Delicious Recipes for Every Family Occasion"
+  ],
+  "asins": [
+   "0062064053"
+  ],
+  "links": 4,
+  "posts": 1,
+  "example_post": "alices-savory-sweet-life-cookbook-with-a-recipe-for-roasted-carrots-with-sage-brown-butter"
+ },
+ {
+  "id": "lou-s-first-book",
+  "name": "Lou's First Book",
+  "current_amazon_url": "https://www.amazon.com/dp/1592008208?tag=herb-hugo-20",
+  "is_book": true,
+  "amazon_titles": [
+   "Amazon.com: Digital Food Photography: 9781592008209: Manna, Lou: Books",
+   "Momofuku Milk Bar: A Cookbook: Tosi, Christina, Chang, David: 8601420483255: Amazon.com: Books"
+  ],
+  "anchors": [
+   "Lou's first book",
+   "Momofuku Milk Bar cookbook"
+  ],
+  "asins": [
+   "0307720497",
+   "1592008208"
+  ],
+  "links": 3,
+  "posts": 2,
+  "example_post": "strawberries-and-cream-birthday-cake-momofuku-style"
+ },
+ {
+  "id": "mexican-everyday",
+  "name": "Mexican Everyday",
+  "current_amazon_url": "https://www.amazon.com/dp/039306154X?tag=herb-hugo-20",
+  "is_book": true,
+  "amazon_titles": [
+   "Mexican Everyday: Bayless, Rick, Bayless, Deann Groen, Hirsheimer, Christopher: 9780393061543: Amazon.com: Books",
+   "Rick Bayless Mexico One Plate At A Time: Bayless, Rick: 9780684841861: Amazon.com: Books"
+  ],
+  "anchors": [
+   "Mexican Everyday",
+   "Rick Bayless"
+  ],
+  "asins": [
+   "039306154X",
+   "068484186X"
+  ],
+  "links": 3,
+  "posts": 3,
+  "example_post": "swiss-chard-enchiladas-in-a-tomatillo-sauce-recipe"
+ },
+ {
+  "id": "the-art-of-indian-vegetarian-cooking",
+  "name": "The Art of Indian Vegetarian Cooking",
+  "current_amazon_url": "https://www.amazon.com/dp/0525245642?tag=herb-hugo-20",
+  "is_book": true,
+  "amazon_titles": [
+   "Lord Krishna's Cuisine: The Art of Indian Vegetarian Cooking: Devi, Yamuna, Baird, David: 9780525245643: Amazon.com: Books",
+   "Lord Krishna\u2019s Cuisine: The Art of Indian Vegetarian Cooking - Kindle edition by Devi, Yamuna. Cookbooks, Food & Wine Kindle eBooks @ Amazon.com."
+  ],
+  "anchors": [
+   "Lord Krishna's Cuisine",
+   "Lord Krishna's Cuisine: The Art of Indian Vegetarian Cooking",
+   "The Art of Indian Vegetarian Cooking"
+  ],
+  "asins": [
+   "0525245642",
+   "B0762JPC9N"
+  ],
+  "links": 3,
+  "posts": 3,
+  "example_post": "eatyourbookscom-and-gobbledybookcom-two-sites-for-indexing-your-cookbooks"
+ },
+ {
+  "id": "the-perfect-scoop",
+  "name": "The Perfect Scoop",
+  "current_amazon_url": "https://www.amazon.com/dp/1580088082?tag=herb-hugo-20",
+  "is_book": true,
+  "amazon_titles": [
+   "Perfect Scoop: Ice Creams, Sorbets, Granitas, and Sweet Accompaniments: Lebovitz, David, Hata, Lara: 9781580088084: Amazon.com: Books"
+  ],
+  "anchors": [
+   "The Perfect Scoop",
+   "please pick up the book"
+  ],
+  "asins": [
+   "1580088082"
+  ],
+  "links": 3,
+  "posts": 1,
+  "example_post": "caramelized-pear-ice-cream-from-the-perfect-scoop-by-david-lebovitz-recipe-and-cookbook-review"
+ },
+ {
+  "id": "best-food-writing-2007-by-holly-hughes",
+  "name": "Best Food Writing 2007 by Holly Hughes",
+  "current_amazon_url": "https://www.amazon.com/dp/1600940390?tag=herb-hugo-20",
+  "is_book": true,
+  "amazon_titles": [
+   "Best Food Writing 2007: Hughes, Holly: 9781600940392: Amazon.com: Books"
+  ],
+  "anchors": [
+   "buy this year's",
+   "new edition"
+  ],
+  "asins": [
+   "1600940390"
+  ],
+  "links": 2,
+  "posts": 1,
+  "example_post": "book-review-bes"
+ },
+ {
+  "id": "culinary-artistry",
+  "name": "Culinary Artistry",
+  "current_amazon_url": "https://www.amazon.com/dp/0471287857?tag=herb-hugo-20",
+  "is_book": true,
+  "amazon_titles": [
+   "Culinary Artistry: Dornenburg, Andrew, Page, Karen: 9780471287858: Amazon.com: Books"
+  ],
+  "anchors": [
+   "Culinary Artistry"
+  ],
+  "asins": [
+   "0471287857"
+  ],
+  "links": 2,
+  "posts": 2,
+  "example_post": "recipe-reconstr"
+ },
+ {
+  "id": "happy-in-the-kitchen",
+  "name": "Happy in the Kitchen",
+  "current_amazon_url": "https://www.amazon.com/dp/1579652999?tag=herb-hugo-20",
+  "is_book": true,
+  "amazon_titles": [
+   "Happy in the Kitchen: Michel Richard: 9781579652999: Amazon.com: Books"
+  ],
+  "anchors": [
+   "Happy in the Kitchen"
+  ],
+  "asins": [
+   "1579652999"
+  ],
+  "links": 2,
+  "posts": 2,
+  "example_post": "how-to-make-an-inside-out-egg-recipe"
+ },
+ {
+  "id": "what-to-drink-with-what-you-eat",
+  "name": "What to Drink with What You Eat",
+  "current_amazon_url": "https://www.amazon.com/dp/0821257188?tag=herb-hugo-20",
+  "is_book": true,
+  "amazon_titles": [],
+  "anchors": [
+   "The Flavor Bible",
+   "What to Drink with What You Eat"
+  ],
+  "asins": [
+   "0316118400",
+   "0821257188"
+  ],
+  "links": 2,
+  "posts": 2,
+  "example_post": "the-flavor-bibl"
+ },
+ {
+  "id": "better-ideas",
+  "name": "better ideas",
+  "current_amazon_url": "https://www.amazon.com/dp/0743235274?tag=herb-hugo-20",
+  "is_book": true,
+  "amazon_titles": [],
+  "anchors": [
+   "better ideas"
+  ],
+  "asins": [
+   "0743235274"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "what-to-do-with-an-insideout-egg"
+ },
+ {
+  "id": "bill-buford",
+  "name": "Bill Buford",
+  "current_amazon_url": "https://www.amazon.com/dp/1400034477?tag=herb-hugo-20",
+  "is_book": true,
+  "amazon_titles": [],
+  "anchors": [
+   "Bill Buford"
+  ],
+  "asins": [
+   "1400034477"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "so-you-want-to-stage-intern-at-a-restaurant"
+ },
+ {
+  "id": "feeding-the-hungry-ghost",
+  "name": "Feeding the Hungry Ghost",
+  "current_amazon_url": "https://www.amazon.com/dp/1608681645?tag=herb-hugo-20",
+  "is_book": true,
+  "amazon_titles": [],
+  "anchors": [
+   "Feeding the Hungry Ghost"
+  ],
+  "asins": [
+   "1608681645"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "hungry-ghost-moroccan-carrot-salad-recipe"
+ },
+ {
+  "id": "flat-stanleyish",
+  "name": "flat-stanleyish",
+  "current_amazon_url": "https://www.amazon.com/dp/0060837764?tag=herb-hugo-20",
+  "is_book": true,
+  "amazon_titles": [],
+  "anchors": [
+   "flat-stanleyish"
+  ],
+  "asins": [
+   "0060837764"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "buckwheat-buttermilk-pancakes-recipe"
+ },
+ {
+  "id": "climbing-the-mango-trees",
+  "name": "Climbing the Mango Trees",
+  "current_amazon_url": "https://www.amazon.com/dp/1400078202?tag=herb-hugo-20",
+  "is_book": true,
+  "amazon_titles": [],
+  "anchors": [
+   "Climbing the Mango Trees"
+  ],
+  "asins": [
+   "1400078202"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "book-review-bes"
+ },
+ {
+  "id": "crackers-dips-more-than-50-handmade-snacks",
+  "name": "Crackers & Dips: More Than 50 Handmade Snacks",
+  "current_amazon_url": "https://www.amazon.com/dp/1452109508?tag=herb-hugo-20",
+  "is_book": true,
+  "amazon_titles": [],
+  "anchors": [
+   "Crackers &amp",
+   "Dips: More than 50 Handmade Snacks"
+  ],
+  "asins": [
+   "1452109508"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "crackers-and-dips-more-than-fifty-homemade-snacks-cookbook-review"
+ },
+ {
+  "id": "craft",
+  "name": "Craft",
+  "current_amazon_url": "https://www.amazon.com/dp/0609610503?tag=herb-hugo-20",
+  "is_book": true,
+  "amazon_titles": [],
+  "anchors": [
+   "Craft"
+  ],
+  "asins": [
+   "0609610503"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "battle-of-the-n"
+ },
+ {
+  "id": "daniel-boulud",
+  "name": "Daniel Boulud",
+  "current_amazon_url": "https://www.amazon.com/dp/0465007775?tag=herb-hugo-20",
+  "is_book": true,
+  "amazon_titles": [],
+  "anchors": [
+   "Daniel Boulud"
+  ],
+  "asins": [
+   "0465007775"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "so-you-want-to-stage-intern-at-a-restaurant"
+ },
+ {
+  "id": "dessert-recipe",
+  "name": "dessert recipe",
+  "current_amazon_url": "https://www.amazon.com/dp/1558327983?tag=herb-hugo-20",
+  "is_book": true,
+  "amazon_titles": [],
+  "anchors": [
+   "dessert recipe"
+  ],
+  "asins": [
+   "1558327983"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "how-to-make-an-inside-out-egg-recipe"
+ },
+ {
+  "id": "doughnuts-simple-and-delicious-recipes-to-make",
+  "name": "Doughnuts: Simple and Delicious Recipes to Make at Home",
+  "current_amazon_url": "https://www.amazon.com/dp/1570616418?tag=herb-hugo-20",
+  "is_book": true,
+  "amazon_titles": [],
+  "anchors": [
+   "Doughnuts: Simple and Delicious Recipes to Make at Home"
+  ],
+  "asins": [
+   "1570616418"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "bunuelos-bimuelos-donuts-hanukkah-sephardic"
+ },
+ {
+  "id": "andrea-nguyen-s-book-asian-tofu",
+  "name": "Andrea Nguyen's Book, Asian Tofu",
+  "current_amazon_url": "https://www.amazon.com/dp/1607740257?tag=herb-hugo-20",
+  "is_book": true,
+  "amazon_titles": [],
+  "anchors": [
+   "Andrea Nguyen's book, Asian Tofu"
+  ],
+  "asins": [
+   "1607740257"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "how-to-make-tofu-really-freaking-delicious-tofu-101"
+ }
+]
