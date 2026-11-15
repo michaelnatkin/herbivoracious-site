@@ -2204,12 +2204,13 @@
   },
   "food-wine": {
     "name": "Food &amp; Wine",
-    "url": "https://www.amazon.com/dp/B00005NINY?tag=herb-hugo-20",
+    "url": "https://www.magazine-agent.com/Food-and-Wine/Magazines/",
     "original_url": "https://www.amazon.com/dp/B00005NINY?tag=herb-hugo-20",
     "asins": [
       "B00005NINY"
     ],
-    "hidden": true
+    "hidden": true,
+    "merchant": "Magazine-Agent.com"
   },
   "frantoia": {
     "name": "Frantoia",
@@ -2607,15 +2608,6 @@
     "original_url": "https://www.amazon.com/dp/1579652999?tag=herb-hugo-20",
     "asins": [
       "1579652999"
-    ]
-  },
-  "hatch-chiles": {
-    "name": "Hatch Chiles",
-    "category": "mexican-latin-pantry",
-    "url": "https://www.amazon.com/dp/B074LGRD5K?tag=herb-hugo-20",
-    "original_url": "https://www.amazon.com/dp/B074LGRD5K?tag=herb-hugo-20",
-    "asins": [
-      "B074LGRD5K"
     ]
   },
   "hawaiian-black-sea-salt": {
@@ -3052,12 +3044,13 @@
   },
   "karen-and-andrew": {
     "name": "Karen and Andrew",
-    "url": "https://www.amazon.com/dp/0471152099?tag=herb-hugo-20",
+    "url": "https://www.barnesandnoble.com/w/becoming-a-chef-andrew-dornenburg/1102542298",
     "original_url": "https://www.amazon.com/dp/0471152099?tag=herb-hugo-20",
     "asins": [
       "0471152099"
     ],
-    "hidden": true
+    "hidden": true,
+    "merchant": "Barnes & Noble"
   },
   "kevlar-glove": {
     "name": "Kevlar Glove",
@@ -3513,11 +3506,12 @@
   "marsala-wine": {
     "name": "Marsala Wine",
     "category": "oils-vinegars",
-    "url": "https://www.amazon.com/dp/B00E0N8CB2?tag=herb-hugo-20",
+    "url": "https://www.totalwine.com/wine/dessert-fortified-wine/marsala/carlo-martinez-marsala-semi-dry-doc/p/349272750",
     "original_url": "https://www.amazon.com/dp/B00E0N8CB2?tag=herb-hugo-20",
     "asins": [
       "B00E0N8CB2"
-    ]
+    ],
+    "merchant": "Total Wine"
   },
   "masa-harina": {
     "name": "Masa Harina",
@@ -4792,11 +4786,12 @@
   "seductions-of-rice": {
     "name": "Seductions of Rice",
     "category": "books",
-    "url": "https://www.amazon.com/dp/1579652344?tag=herb-hugo-20",
+    "url": "https://www.barnesandnoble.com/w/seductions-of-rice-jeffrey-alford/1002993427",
     "original_url": "https://www.amazon.com/dp/1579652344?tag=herb-hugo-20",
     "asins": [
       "1579652344"
-    ]
+    ],
+    "merchant": "Barnes & Noble"
   },
   "seitan": {
     "name": "Seitan",
@@ -5533,11 +5528,12 @@
   "the-mushroom-hunters": {
     "name": "The Mushroom Hunters",
     "category": "books",
-    "url": "https://www.amazon.com/dp/0345536258?tag=herb-hugo-20",
+    "url": "https://www.barnesandnoble.com/w/the-mushroom-hunters-langdon-cook/1142951753",
     "original_url": "https://www.amazon.com/dp/0345536258?tag=herb-hugo-20",
     "asins": [
       "0345536258"
-    ]
+    ],
+    "merchant": "Barnes & Noble"
   },
   "the-nasty-bits": {
     "name": "The Nasty Bits",
@@ -5804,12 +5800,13 @@
   },
   "true-blood": {
     "name": "True Blood",
-    "url": "https://www.amazon.com/dp/B001FB4W0W?tag=herb-hugo-20",
+    "url": "https://www.barnesandnoble.com/w/dvd-true-blood-the-complete-series-michael-lehmann/35563098",
     "original_url": "https://www.amazon.com/dp/B001FB4W0W?tag=herb-hugo-20",
     "asins": [
       "B001FB4W0W"
     ],
-    "hidden": true
+    "hidden": true,
+    "merchant": "Barnes & Noble"
   },
   "truff-black-truffle-salt-fine-and-coarse-sea": {
     "name": "Truff Black Truffle Salt, Fine and Coarse Sea Salt",
@@ -6127,22 +6124,24 @@
   "wine-aerator": {
     "name": "Wine Aerator",
     "category": "kitchen-gadgets",
-    "url": "https://www.amazon.com/dp/B00T1F5CSU?tag=herb-hugo-20",
+    "url": "https://www.surlatable.com/product/sur-la-table-pourer-aerator/7258411",
     "original_url": "https://www.amazon.com/dp/B00T1F5CSU?tag=herb-hugo-20",
     "asins": [
       "B00T1F5CSU"
     ],
-    "review_url": "/best-kosher-for-passover-wines/"
+    "review_url": "/best-kosher-for-passover-wines/",
+    "merchant": "Sur La Table"
   },
   "wine-decanter": {
     "name": "Wine Decanter",
     "category": "kitchen-gadgets",
-    "url": "https://www.amazon.com/dp/B01AVTQ1D4?tag=herb-hugo-20",
+    "url": "https://www.surlatable.com/product/bormioli-rocco-sublime-decanter/7158298",
     "original_url": "https://www.amazon.com/dp/B01AVTQ1D4?tag=herb-hugo-20",
     "asins": [
       "B01AVTQ1D4"
     ],
-    "review_url": "/best-kosher-for-passover-wines/"
+    "review_url": "/best-kosher-for-passover-wines/",
+    "merchant": "Sur La Table"
   },
   "wolff-s-is-a-common-brand": {
     "name": "Wolff's Is a Common Brand",

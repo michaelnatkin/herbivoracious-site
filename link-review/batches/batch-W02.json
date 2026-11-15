@@ -35,7 +35,7 @@
   "name": "Karen and Andrew",
   "status": "match",
   "kind": "book",
-  "confidence": "medium",
+  "confidence": "high",
   "amazon": {
    "asins": [
     "0471152099"
@@ -50,16 +50,16 @@
   },
   "primary": {
    "merchant": "Barnes & Noble",
-   "product": "Becoming a Chef, Revised Edition (Andrew Dornenburg, Karen Page)",
-   "url": "https://www.barnesandnoble.com/w/becoming-a-chef-andrew-dornenburg/1130204700",
+   "product": "Becoming a Chef",
+   "url": "https://www.barnesandnoble.com/w/becoming-a-chef-andrew-dornenburg/1102542298",
    "epc": 0.01,
    "rate": 5.15,
-   "price": "$31.00",
-   "verified": false,
-   "broken": true
+   "price": null,
+   "verified": true,
+   "verified_by": "browser search page"
   },
   "alternatives": [],
-  "note": "Amazon ISBN 9780471152095 is the Wiley revised paperback; same ISBN on B&N, not fetch-verified. (Browser check: Barnes & Noble page returned a 404.)"
+  "note": "Found by title search; the page shows Becoming a Chef by Karen Page and Andrew Dornenburg (edition not confirmed)."
  },
  {
   "id": "microplane-classic-zester-grater",
@@ -417,7 +417,7 @@
   "name": "Ancho, Guajillo, Pasilla, Cascabel, de Arbol, ...",
   "status": "match",
   "kind": "equivalent",
-  "confidence": "low",
+  "confidence": "medium",
   "amazon": {
    "asins": [
     "B07BZW6DSC"
@@ -432,26 +432,28 @@
    "example_post": "vegetarian-chili-recipe"
   },
   "primary": {
-   "merchant": "Savory Spice Shop",
-   "product": "Ancho Chile Powder",
-   "url": "https://www.savoryspiceshop.com/products/ancho-chile-powder",
-   "epc": 0.33,
-   "rate": 15,
-   "price": "$10.50",
-   "verified": true
+   "merchant": "Weee!",
+   "product": "Tadin Pasilla Ancho Chili, Dry, 2 oz",
+   "url": "https://www.weee.com/en/product/Tadin-Pasilla-Ancho-Chili-Dry/111453",
+   "epc": null,
+   "rate": null,
+   "price": "$2.79",
+   "verified": true,
+   "verified_by": "browser search page"
   },
   "alternatives": [
    {
-    "merchant": "Savory Spice Shop",
-    "product": "Guajillo Chile Powder",
-    "url": "https://www.savoryspiceshop.com/products/guajillo-chile-powder",
-    "epc": 0.33,
-    "rate": 15,
-    "price": "$9.50",
-    "verified": true
+    "merchant": "Weee!",
+    "product": "Tadin Guajillo Chili, Dry, 2 oz",
+    "url": "https://www.weee.com/en/product/Tadin-Guajillo-chili-Dry/111448",
+    "epc": null,
+    "rate": null,
+    "price": "$2.79",
+    "verified": true,
+    "verified_by": "browser search page"
    }
   ],
-  "note": "No whole dried pods found in-network; these are ground versions, so only a loose substitute."
+  "note": "Whole dried pods at Weee, as you suspected (Tadin brand). They are separate chiles, not an assortment, so pick the one your recipe wants."
  },
  {
   "id": "beaterblade-for-kitchenaid-tilt-head-bowl-lift",

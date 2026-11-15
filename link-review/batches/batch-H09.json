@@ -1,585 +1,586 @@
 [
-  {
-    "id": "dispensing-scoop",
-    "name": "Dispensing Scoop",
-    "status": "no_match",
-    "reason": "No scoop or similar tool in the saved results (only spice measuring spoons).",
-    "needs_web": true,
-    "amazon": {
-      "asins": [
-        "B0BWXSH3Z3"
-      ],
-      "title": "Dispensing Scoop",
-      "anchors": [
-        "dispensing scoop"
-      ],
-      "links": 1,
-      "posts": 1,
-      "example_post": "thick-and-cakey-chocolate-chip-cookies-recipe"
-    }
-  },
-  {
-    "id": "double-concentrated-tomato-paste",
-    "name": "Double-Concentrated Tomato Paste",
-    "status": "match",
-    "kind": "same",
-    "confidence": "high",
-    "amazon": {
-      "asins": [
-        "B07KYWQ22X"
-      ],
-      "title": "Double-Concentrated Tomato Paste",
-      "anchors": [
-        "double-concentrated tomato paste"
-      ],
-      "links": 1,
-      "posts": 1,
-      "example_post": "saffron-chickpea-stew-with-grilled-porcini-mushroom-recipe"
-    },
-    "primary": {
-      "merchant": "ChefShop.com",
-      "product": "Mutti Tomato Paste in Tube",
-      "url": "https://www.chefshop.com/products/tomato-paste-in-tube",
-      "epc": null,
-      "rate": null,
-      "price": "$5.95",
-      "verified": true
-    },
-    "alternatives": [
-      {
-        "merchant": "ChefShop.com",
-        "product": "Tomato Paste, Organic (Spain)",
-        "url": "https://www.chefshop.com/products/tomato-paste-organic-spain",
-        "epc": null,
-        "rate": null,
-        "price": "$7.95",
-        "verified": true
-      }
-    ],
-    "note": "Mutti double-concentrated tomato paste in a tube, the standard double-concentrated product."
-  },
-  {
-    "id": "doughnuts-simple-and-delicious-recipes-to-make",
-    "name": "Doughnuts: Simple and Delicious Recipes to Make at Home",
-    "status": "no_match",
-    "reason": "Book; no matching result in the merchants' catalogs.",
-    "needs_web": true,
-    "amazon": {
-      "asins": [
-        "1570616418"
-      ],
-      "title": "Doughnuts: Simple and Delicious Recipes to Make at Home",
-      "anchors": [
-        "Doughnuts: Simple and Delicious Recipes to Make at Home"
-      ],
-      "links": 1,
-      "posts": 1,
-      "example_post": "bunuelos-bimuelos-donuts-hanukkah-sephardic"
-    }
-  },
-  {
-    "id": "dried-aji-amarillo-pepper-2-oz",
-    "name": "Dried Aji Amarillo Pepper, 2 oz",
-    "status": "match",
-    "kind": "same",
-    "confidence": "high",
-    "amazon": {
-      "asins": [
-        "B092L7JRRC"
-      ],
-      "title": "Dried Aji Amarillo Pepper, 2 oz",
-      "anchors": [
-        "Aji Amarillo"
-      ],
-      "links": 1,
-      "posts": 1,
-      "example_post": "aji-amarillo-hot-sauce-from-peruvian-chile-peppers-recipe"
-    },
-    "primary": {
-      "merchant": "ChefShop.com",
-      "product": "Zocalo Organic Peruvian Aji Amarillo Chili Pods",
-      "url": "https://www.chefshop.com/products/zocalo-organic-peruvian-aji-amarillo-chili-pods",
-      "epc": null,
-      "rate": null,
-      "price": "$6.95",
-      "verified": true
-    },
-    "alternatives": [],
-    "note": "Dried whole aji amarillo pods; brand and pack size may differ from the Amazon 2 oz bag."
-  },
-  {
-    "id": "dried-chipotle-morita-peppers",
-    "name": "Dried Chipotle Morita Peppers",
-    "status": "match",
-    "kind": "equivalent",
-    "confidence": "medium",
-    "amazon": {
-      "asins": [
-        "B00NF1P470"
-      ],
-      "title": "Dried Chipotle Morita Peppers",
-      "anchors": [
-        "morita peppers"
-      ],
-      "links": 1,
-      "posts": 1,
-      "example_post": "creamy-grits-with-crispy-leeks-leek-jus-and-cilantro-pesto-recipe"
-    },
-    "primary": {
-      "merchant": "ChefShop.com",
-      "product": "Villa Jerada Chile Morita Whole Pods - 1 pound",
-      "url": "https://www.chefshop.com/products/villa-jerada-chile-morita-whole-pods-1-pound",
-      "epc": null,
-      "rate": null,
-      "price": "$18.95",
-      "verified": true
-    },
-    "alternatives": [],
-    "note": "Whole dried morita chiles, but sold as a 1 pound bag, larger than a typical Amazon pack."
-  },
-  {
-    "id": "dried-oregano",
-    "name": "Dried Oregano",
-    "status": "match",
-    "kind": "equivalent",
-    "confidence": "high",
-    "amazon": {
-      "asins": [
-        "B000WS3APW"
-      ],
-      "title": "Amazon.com : Simply Organic Oregano, .75 oz | Great On Pizza, Italian & Mexican Fare, Kosher : Oregano Spices And Herbs : Everything Else",
-      "anchors": [
-        "dried oregano"
-      ],
-      "links": 1,
-      "posts": 1,
-      "example_post": "baked-penne-with-mushrooms-and-fontina-recipe"
-    },
-    "primary": {
-      "merchant": "Savory Spice Shop, LLC",
-      "product": "Greek Oregano",
-      "url": "https://www.savoryspiceshop.com/products/mediterranean-greek-oregano",
-      "epc": 0.33,
-      "rate": null,
-      "price": "$3.25",
-      "verified": true
-    },
-    "alternatives": [
-      {
-        "merchant": "The Spice House",
-        "product": "Oregano, Greek",
-        "url": "https://www.thespicehouse.com/products/greek-oregano",
-        "epc": 0.21,
-        "rate": null,
-        "price": "$5.79",
-        "verified": true
-      }
-    ],
-    "note": "Dried oregano from a spice specialist (Greek variety) instead of Simply Organic; same form and use."
-  },
-  {
-    "id": "dried-pasilla-chile-peppers",
-    "name": "Dried Pasilla Chile Peppers",
-    "status": "match",
-    "kind": "same",
-    "confidence": "high",
-    "amazon": {
-      "asins": [
-        "B08LCGX3W7"
-      ],
-      "title": "Dried Pasilla Chile Peppers",
-      "anchors": [
-        "dried pasilla peppers"
-      ],
-      "links": 1,
-      "posts": 1,
-      "example_post": "enchiladas-de-mole-recipe"
-    },
-    "primary": {
-      "merchant": "ChefShop.com",
-      "product": "Dried Pasilla Negro Chili Pods",
-      "url": "https://www.chefshop.com/products/dried-pasilla-negro-chili-pods",
-      "epc": null,
-      "rate": null,
-      "price": "$7.95",
-      "verified": true
-    },
-    "alternatives": [
-      {
-        "merchant": "ChefShop.com",
-        "product": "Villa Jerada Pasilla Chile Whole Pods - 1 pound",
-        "url": "https://www.chefshop.com/products/villa-jerada-pasilla-chile-whole-pods-1-pound",
-        "epc": null,
-        "rate": null,
-        "price": "$20.95",
-        "verified": true
-      }
-    ],
-    "note": "Whole dried pasilla negro pods; the alternative is a 1 pound bag."
-  },
-  {
-    "id": "dried-red-chiles",
-    "name": "Dried Red Chiles",
-    "status": "match",
-    "kind": "equivalent",
-    "confidence": "medium",
-    "amazon": {
-      "asins": [
-        "B079SRQHH3"
-      ],
-      "title": "Dried Red Chiles",
-      "anchors": [
-        "dried red chiles"
-      ],
-      "links": 1,
-      "posts": 1,
-      "example_post": "stir-fried-winged-beans-kacang-botol-with-tomato-and-garlic-recipe"
-    },
-    "primary": {
-      "merchant": "ChefShop.com",
-      "product": "Dried New Mexico Chili Pods",
-      "url": "https://www.chefshop.com/products/dried-new-mexico-chili-pods",
-      "epc": null,
-      "rate": null,
-      "price": "$5.95",
-      "verified": true
-    },
-    "alternatives": [],
-    "note": "Whole dried New Mexico red chile pods as a generic dried red chile; the Amazon item was unspecified so heat may differ."
-  },
-  {
-    "id": "dry-harissa-mix",
-    "name": "Dry Harissa Mix",
-    "status": "match",
-    "kind": "equivalent",
-    "confidence": "high",
-    "amazon": {
-      "asins": [
-        "B005WDVR0W"
-      ],
-      "title": "Amazon.com : Frontier Co-op Organic Harissa Seasoning, 1.9 Ounce Bottle, N. African Heat with Chili Peppers, Cayenne, Paprika & Coriader : Mixed Spices And Seasonings : Grocery & Gourmet Food",
-      "anchors": [
-        "dry harissa mix"
-      ],
-      "links": 1,
-      "posts": 1,
-      "example_post": "grape-honey-yogurt-recipe"
-    },
-    "primary": {
-      "merchant": "Savory Spice Shop, LLC",
-      "product": "Harissa Spice Mix",
-      "url": "https://www.savoryspiceshop.com/products/harissa-spice-mix-powder",
-      "epc": 0.33,
-      "rate": null,
-      "price": "$10.50",
-      "verified": true
-    },
-    "alternatives": [
-      {
-        "merchant": "The Spice House",
-        "product": "Red Harissa Seasoning",
-        "url": "https://www.thespicehouse.com/products/harissa-seasoning",
-        "epc": 0.21,
-        "rate": null,
-        "price": "$9.79",
-        "verified": true
-      },
-      {
-        "merchant": "ChefShop.com",
-        "product": "Kitchen Imp Harissa Dried Spice Blend",
-        "url": "https://www.chefshop.com/products/kitchen-imp-harissa-dried-spice-blend",
-        "epc": null,
-        "rate": null,
-        "price": "$12.95",
-        "verified": true
-      }
-    ],
-    "note": "Dry harissa spice blend like the Frontier Co-op one, from a different brand."
-  },
-  {
-    "id": "dry-yeast",
-    "name": "Dry Yeast",
-    "status": "match",
-    "kind": "equivalent",
-    "confidence": "medium",
-    "amazon": {
-      "asins": [
-        "B001EQ5770"
-      ],
-      "title": "Dry Yeast",
-      "anchors": [
-        "dry yeast"
-      ],
-      "links": 1,
-      "posts": 1,
-      "example_post": "bunuelos-bimuelos-donuts-hanukkah-sephardic"
-    },
-    "primary": {
-      "merchant": "ChefShop.com",
-      "product": "Saf-Instant RED Instant Yeast",
-      "url": "https://www.chefshop.com/products/saf-instant-red-instant-yeast",
-      "epc": null,
-      "rate": null,
-      "price": "$5.95",
-      "verified": true
-    },
-    "alternatives": [],
-    "note": "SAF instant dry yeast rather than the Amazon brand; instant rather than possibly active dry, but interchangeable in most recipes."
-  },
-  {
-    "id": "dry-yeast-2",
-    "name": "Dry Yeast",
-    "status": "match",
-    "kind": "equivalent",
-    "confidence": "medium",
-    "amazon": {
-      "asins": [
-        "B09JN4JKL1"
-      ],
-      "title": "Dry Yeast",
-      "anchors": [
-        "dry yeast"
-      ],
-      "links": 1,
-      "posts": 1,
-      "example_post": "bunuelos-sephardic-doughnuts-recipe"
-    },
-    "primary": {
-      "merchant": "ChefShop.com",
-      "product": "Saf-Instant RED Instant Yeast",
-      "url": "https://www.chefshop.com/products/saf-instant-red-instant-yeast",
-      "epc": null,
-      "rate": null,
-      "price": "$5.95",
-      "verified": true
-    },
-    "alternatives": [],
-    "note": "SAF instant dry yeast rather than the Amazon brand; instant rather than possibly active dry, but interchangeable in most recipes."
-  },
-  {
-    "id": "dukkah",
-    "name": "Dukkah",
-    "status": "match",
-    "kind": "equivalent",
-    "confidence": "high",
-    "amazon": {
-      "asins": [
-        "B07GVPN9BK"
-      ],
-      "title": "Dukkah",
-      "anchors": [
-        "dukkah"
-      ],
-      "links": 1,
-      "posts": 1,
-      "example_post": "cold-carrot-soup-myhrvold-recipe"
-    },
-    "primary": {
-      "merchant": "ChefShop.com",
-      "product": "Villa Jerada Egyptian Dukkah Spice Blend",
-      "url": "https://www.chefshop.com/products/villa-jerada-egyptian-dukkah-spice-blend",
-      "epc": null,
-      "rate": null,
-      "price": "$8.95",
-      "verified": true
-    },
-    "alternatives": [],
-    "note": "Egyptian dukkah nut-and-spice blend; brand differs from the Amazon item."
-  },
-  {
-    "id": "dukkah-2",
-    "name": "Dukkah",
-    "status": "match",
-    "kind": "equivalent",
-    "confidence": "high",
-    "amazon": {
-      "asins": [
-        "B0B88NVJC1"
-      ],
-      "title": "Dukkah",
-      "anchors": [
-        "dukkah"
-      ],
-      "links": 1,
-      "posts": 1,
-      "example_post": "grape-honey-yogurt-recipe"
-    },
-    "primary": {
-      "merchant": "ChefShop.com",
-      "product": "Villa Jerada Egyptian Dukkah Spice Blend",
-      "url": "https://www.chefshop.com/products/villa-jerada-egyptian-dukkah-spice-blend",
-      "epc": null,
-      "rate": null,
-      "price": "$8.95",
-      "verified": true
-    },
-    "alternatives": [],
-    "note": "Egyptian dukkah nut-and-spice blend; brand differs from the Amazon item."
-  },
-  {
-    "id": "dulce-de-leche",
-    "name": "Dulce de Leche",
-    "status": "match",
-    "kind": "equivalent",
-    "confidence": "high",
-    "amazon": {
-      "asins": [
-        "B000SRJLSW"
-      ],
-      "title": "Dulce de Leche",
-      "anchors": [
-        "dulce de leche"
-      ],
-      "links": 1,
-      "posts": 1,
-      "example_post": "gateaux-de-crepes-recipe"
-    },
-    "primary": {
-      "merchant": "ChefShop.com",
-      "product": "San Ignacio Dulce de Leche",
-      "url": "https://www.chefshop.com/products/san-ignacio-dulce-de-leche",
-      "epc": null,
-      "rate": null,
-      "price": "$13.95",
-      "verified": true
-    },
-    "alternatives": [],
-    "note": "Dulce de leche jar; brand may differ from the Amazon item."
-  },
-  {
-    "id": "eden-foods-ume-plum-vinegar-10-fl-oz",
-    "name": "Eden Foods Ume Plum Vinegar, 10 Fl oz",
-    "status": "match",
-    "kind": "equivalent",
-    "confidence": "medium",
-    "amazon": {
-      "asins": [
-        "B0013JNMWA"
-      ],
-      "title": "Eden Foods Ume Plum Vinegar, 10 Fl oz",
-      "anchors": [
-        "umeboshi vinegar"
-      ],
-      "links": 1,
-      "posts": 1,
-      "example_post": "beer-battered-maitake-mushroom-with-japanese-tartar-sauce-recipe"
-    },
-    "primary": {
-      "merchant": "ChefShop.com",
-      "product": "Ohsawa Ume Vinegar",
-      "url": "https://www.chefshop.com/products/ohsawa-ume-vinegar",
-      "epc": null,
-      "rate": null,
-      "price": "$15.95",
-      "verified": true
-    },
-    "alternatives": [],
-    "note": "Ohsawa ume (umeboshi) vinegar instead of Eden Foods; same product type, different brand and size."
-  },
-  {
-    "id": "eden-umeboshi-paste-pickled-ume-plum-puree",
-    "name": "Eden Umeboshi Paste, Pickled Ume Plum Puree",
-    "status": "no_match",
-    "reason": "No umeboshi paste in results (only whole umeboshi at $159 and furikake).",
-    "needs_web": true,
-    "amazon": {
-      "asins": [
-        "B0013JLOHA"
-      ],
-      "title": "Eden Umeboshi Paste, Pickled Ume Plum Puree",
-      "anchors": [
-        "umeboshi plum paste"
-      ],
-      "links": 1,
-      "posts": 1,
-      "example_post": "chirashi-sushi-recipe"
-    }
-  },
-  {
-    "id": "edward-espe-brown",
-    "name": "Edward Espe Brown",
-    "status": "no_match",
-    "reason": "The Amazon link is the DVD 'How To Cook Your Life'; no match in results.",
-    "needs_web": true,
-    "amazon": {
-      "asins": [
-        "B0014BQR74"
-      ],
-      "title": "Amazon.com: How To Cook Your Life : Doris D\u00f6rrie: Movies & TV",
-      "anchors": [
-        "Edward Espe Brown"
-      ],
-      "links": 1,
-      "posts": 1,
-      "example_post": "complete-tassajara-cookbook-tassajara-bread-book"
-    }
-  },
-  {
-    "id": "el-mexicano-achiote-paste-3-5-oz",
-    "name": "El Mexicano Achiote Paste, 3.5 oz",
-    "status": "match",
-    "kind": "equivalent",
-    "confidence": "high",
-    "amazon": {
-      "asins": [
-        "B00169V7TW"
-      ],
-      "title": "El Mexicano Achiote Paste, 3.5 oz",
-      "anchors": [
-        "achiote paste"
-      ],
-      "links": 1,
-      "posts": 1,
-      "example_post": "achiote-rubbed"
-    },
-    "primary": {
-      "merchant": "Savory Spice Shop, LLC",
-      "product": "Achiote Paste",
-      "url": "https://www.savoryspiceshop.com/products/achiote-paste",
-      "epc": 0.33,
-      "rate": null,
-      "price": "$4.99",
-      "verified": true
-    },
-    "alternatives": [],
-    "note": "Achiote paste from Savory Spice instead of El Mexicano; same ingredient and form."
-  },
-  {
-    "id": "emile-henry",
-    "name": "Emile Henry",
-    "status": "no_match",
-    "reason": "No candidates returned for Emile Henry.",
-    "needs_web": true,
-    "amazon": {
-      "asins": [
-        "B00WRIJ0UY"
-      ],
-      "title": "Emile Henry",
-      "anchors": [
-        "Emile Henry"
-      ],
-      "links": 1,
-      "posts": 1,
-      "example_post": "strawberry-rhubarb-crisp-with-pumpkin-seed-topping-recipe"
-    }
-  },
-  {
-    "id": "emile-henry-lasagna-pan",
-    "name": "Emile Henry Lasagna Pan",
-    "status": "no_match",
-    "reason": "No bakeware in results (only seasonings).",
-    "needs_web": true,
-    "amazon": {
-      "asins": [
-        "B00022O6YM"
-      ],
-      "title": "Emile Henry Lasagna Pan",
-      "anchors": [
-        "Emile Henry lasagna pan"
-      ],
-      "links": 1,
-      "posts": 1,
-      "example_post": "vegetarian-lasagna-recipe-with-spinach-and-ricotta-filling"
-    }
+ {
+  "id": "dispensing-scoop",
+  "name": "Dispensing Scoop",
+  "status": "no_match",
+  "reason": "No scoop or similar tool in the saved results (only spice measuring spoons).",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "B0BWXSH3Z3"
+   ],
+   "title": "Dispensing Scoop",
+   "anchors": [
+    "dispensing scoop"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "thick-and-cakey-chocolate-chip-cookies-recipe"
   }
+ },
+ {
+  "id": "double-concentrated-tomato-paste",
+  "name": "Double-Concentrated Tomato Paste",
+  "status": "match",
+  "kind": "same",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B07KYWQ22X"
+   ],
+   "title": "Double-Concentrated Tomato Paste",
+   "anchors": [
+    "double-concentrated tomato paste"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "saffron-chickpea-stew-with-grilled-porcini-mushroom-recipe"
+  },
+  "primary": {
+   "merchant": "ChefShop.com",
+   "product": "Mutti Tomato Paste in Tube",
+   "url": "https://www.chefshop.com/products/tomato-paste-in-tube",
+   "epc": null,
+   "rate": null,
+   "price": "$5.95",
+   "verified": true
+  },
+  "alternatives": [
+   {
+    "merchant": "ChefShop.com",
+    "product": "Tomato Paste, Organic (Spain)",
+    "url": "https://www.chefshop.com/products/tomato-paste-organic-spain",
+    "epc": null,
+    "rate": null,
+    "price": "$7.95",
+    "verified": true
+   }
+  ],
+  "note": "Mutti double-concentrated tomato paste in a tube, the standard double-concentrated product."
+ },
+ {
+  "id": "doughnuts-simple-and-delicious-recipes-to-make",
+  "name": "Doughnuts: Simple and Delicious Recipes to Make at Home",
+  "status": "no_match",
+  "reason": "Book; no matching result in the merchants' catalogs.",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "1570616418"
+   ],
+   "title": "Doughnuts: Simple and Delicious Recipes to Make at Home",
+   "anchors": [
+    "Doughnuts: Simple and Delicious Recipes to Make at Home"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "bunuelos-bimuelos-donuts-hanukkah-sephardic"
+  }
+ },
+ {
+  "id": "dried-aji-amarillo-pepper-2-oz",
+  "name": "Dried Aji Amarillo Pepper, 2 oz",
+  "status": "match",
+  "kind": "same",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B092L7JRRC"
+   ],
+   "title": "Dried Aji Amarillo Pepper, 2 oz",
+   "anchors": [
+    "Aji Amarillo"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "aji-amarillo-hot-sauce-from-peruvian-chile-peppers-recipe"
+  },
+  "primary": {
+   "merchant": "ChefShop.com",
+   "product": "Zocalo Organic Peruvian Aji Amarillo Chili Pods",
+   "url": "https://www.chefshop.com/products/zocalo-organic-peruvian-aji-amarillo-chili-pods",
+   "epc": null,
+   "rate": null,
+   "price": "$6.95",
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Dried whole aji amarillo pods; brand and pack size may differ from the Amazon 2 oz bag."
+ },
+ {
+  "id": "dried-chipotle-morita-peppers",
+  "name": "Dried Chipotle Morita Peppers",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B00NF1P470"
+   ],
+   "title": "Dried Chipotle Morita Peppers",
+   "anchors": [
+    "morita peppers"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "creamy-grits-with-crispy-leeks-leek-jus-and-cilantro-pesto-recipe"
+  },
+  "primary": {
+   "merchant": "ChefShop.com",
+   "product": "Villa Jerada Chile Morita Whole Pods - 1 pound",
+   "url": "https://www.chefshop.com/products/villa-jerada-chile-morita-whole-pods-1-pound",
+   "epc": null,
+   "rate": null,
+   "price": "$18.95",
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Whole dried morita chiles, but sold as a 1 pound bag, larger than a typical Amazon pack."
+ },
+ {
+  "id": "dried-oregano",
+  "name": "Dried Oregano",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B000WS3APW"
+   ],
+   "title": "Amazon.com : Simply Organic Oregano, .75 oz | Great On Pizza, Italian & Mexican Fare, Kosher : Oregano Spices And Herbs : Everything Else",
+   "anchors": [
+    "dried oregano"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "baked-penne-with-mushrooms-and-fontina-recipe"
+  },
+  "primary": {
+   "merchant": "Savory Spice Shop, LLC",
+   "product": "Greek Oregano",
+   "url": "https://www.savoryspiceshop.com/products/mediterranean-greek-oregano",
+   "epc": 0.33,
+   "rate": null,
+   "price": "$3.25",
+   "verified": true
+  },
+  "alternatives": [
+   {
+    "merchant": "The Spice House",
+    "product": "Oregano, Greek",
+    "url": "https://www.thespicehouse.com/products/greek-oregano",
+    "epc": 0.21,
+    "rate": null,
+    "price": "$5.79",
+    "verified": true
+   }
+  ],
+  "note": "Dried oregano from a spice specialist (Greek variety) instead of Simply Organic; same form and use."
+ },
+ {
+  "id": "dried-pasilla-chile-peppers",
+  "name": "Dried Pasilla Chile Peppers",
+  "status": "match",
+  "kind": "same",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B08LCGX3W7"
+   ],
+   "title": "Dried Pasilla Chile Peppers",
+   "anchors": [
+    "dried pasilla peppers"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "enchiladas-de-mole-recipe"
+  },
+  "primary": {
+   "merchant": "ChefShop.com",
+   "product": "Dried Pasilla Negro Chili Pods",
+   "url": "https://www.chefshop.com/products/dried-pasilla-negro-chili-pods",
+   "epc": null,
+   "rate": null,
+   "price": "$7.95",
+   "verified": true
+  },
+  "alternatives": [
+   {
+    "merchant": "ChefShop.com",
+    "product": "Villa Jerada Pasilla Chile Whole Pods - 1 pound",
+    "url": "https://www.chefshop.com/products/villa-jerada-pasilla-chile-whole-pods-1-pound",
+    "epc": null,
+    "rate": null,
+    "price": "$20.95",
+    "verified": true
+   }
+  ],
+  "note": "Whole dried pasilla negro pods; the alternative is a 1 pound bag."
+ },
+ {
+  "id": "dried-red-chiles",
+  "name": "Dried Red Chiles",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B079SRQHH3"
+   ],
+   "title": "Dried Red Chiles",
+   "anchors": [
+    "dried red chiles"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "stir-fried-winged-beans-kacang-botol-with-tomato-and-garlic-recipe"
+  },
+  "primary": {
+   "merchant": "Weee!",
+   "product": "Medium-hot red dried chili peppers, 100 g",
+   "url": "https://www.weee.com/en/product/Medium-hot-red-dried-chili-peppers-100-grams/3009137",
+   "epc": null,
+   "rate": null,
+   "price": "$11.10",
+   "verified": true,
+   "verified_by": "browser search page"
+  },
+  "alternatives": [],
+  "note": "Chinese-style dried red chilies, closer to the kind your recipe uses than the New Mexico pods I'd proposed."
+ },
+ {
+  "id": "dry-harissa-mix",
+  "name": "Dry Harissa Mix",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B005WDVR0W"
+   ],
+   "title": "Amazon.com : Frontier Co-op Organic Harissa Seasoning, 1.9 Ounce Bottle, N. African Heat with Chili Peppers, Cayenne, Paprika & Coriader : Mixed Spices And Seasonings : Grocery & Gourmet Food",
+   "anchors": [
+    "dry harissa mix"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "grape-honey-yogurt-recipe"
+  },
+  "primary": {
+   "merchant": "Savory Spice Shop, LLC",
+   "product": "Harissa Spice Mix",
+   "url": "https://www.savoryspiceshop.com/products/harissa-spice-mix-powder",
+   "epc": 0.33,
+   "rate": null,
+   "price": "$10.50",
+   "verified": true
+  },
+  "alternatives": [
+   {
+    "merchant": "The Spice House",
+    "product": "Red Harissa Seasoning",
+    "url": "https://www.thespicehouse.com/products/harissa-seasoning",
+    "epc": 0.21,
+    "rate": null,
+    "price": "$9.79",
+    "verified": true
+   },
+   {
+    "merchant": "ChefShop.com",
+    "product": "Kitchen Imp Harissa Dried Spice Blend",
+    "url": "https://www.chefshop.com/products/kitchen-imp-harissa-dried-spice-blend",
+    "epc": null,
+    "rate": null,
+    "price": "$12.95",
+    "verified": true
+   }
+  ],
+  "note": "Dry harissa spice blend like the Frontier Co-op one, from a different brand."
+ },
+ {
+  "id": "dry-yeast",
+  "name": "Dry Yeast",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B001EQ5770"
+   ],
+   "title": "Dry Yeast",
+   "anchors": [
+    "dry yeast"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "bunuelos-bimuelos-donuts-hanukkah-sephardic"
+  },
+  "primary": {
+   "merchant": "ChefShop.com",
+   "product": "Saf-Instant RED Instant Yeast",
+   "url": "https://www.chefshop.com/products/saf-instant-red-instant-yeast",
+   "epc": null,
+   "rate": null,
+   "price": "$5.95",
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "SAF instant dry yeast rather than the Amazon brand; instant rather than possibly active dry, but interchangeable in most recipes."
+ },
+ {
+  "id": "dry-yeast-2",
+  "name": "Dry Yeast",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B09JN4JKL1"
+   ],
+   "title": "Dry Yeast",
+   "anchors": [
+    "dry yeast"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "bunuelos-sephardic-doughnuts-recipe"
+  },
+  "primary": {
+   "merchant": "ChefShop.com",
+   "product": "Saf-Instant RED Instant Yeast",
+   "url": "https://www.chefshop.com/products/saf-instant-red-instant-yeast",
+   "epc": null,
+   "rate": null,
+   "price": "$5.95",
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "SAF instant dry yeast rather than the Amazon brand; instant rather than possibly active dry, but interchangeable in most recipes."
+ },
+ {
+  "id": "dukkah",
+  "name": "Dukkah",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B07GVPN9BK"
+   ],
+   "title": "Dukkah",
+   "anchors": [
+    "dukkah"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "cold-carrot-soup-myhrvold-recipe"
+  },
+  "primary": {
+   "merchant": "ChefShop.com",
+   "product": "Villa Jerada Egyptian Dukkah Spice Blend",
+   "url": "https://www.chefshop.com/products/villa-jerada-egyptian-dukkah-spice-blend",
+   "epc": null,
+   "rate": null,
+   "price": "$8.95",
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Egyptian dukkah nut-and-spice blend; brand differs from the Amazon item."
+ },
+ {
+  "id": "dukkah-2",
+  "name": "Dukkah",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B0B88NVJC1"
+   ],
+   "title": "Dukkah",
+   "anchors": [
+    "dukkah"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "grape-honey-yogurt-recipe"
+  },
+  "primary": {
+   "merchant": "ChefShop.com",
+   "product": "Villa Jerada Egyptian Dukkah Spice Blend",
+   "url": "https://www.chefshop.com/products/villa-jerada-egyptian-dukkah-spice-blend",
+   "epc": null,
+   "rate": null,
+   "price": "$8.95",
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Egyptian dukkah nut-and-spice blend; brand differs from the Amazon item."
+ },
+ {
+  "id": "dulce-de-leche",
+  "name": "Dulce de Leche",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B000SRJLSW"
+   ],
+   "title": "Dulce de Leche",
+   "anchors": [
+    "dulce de leche"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "gateaux-de-crepes-recipe"
+  },
+  "primary": {
+   "merchant": "ChefShop.com",
+   "product": "San Ignacio Dulce de Leche",
+   "url": "https://www.chefshop.com/products/san-ignacio-dulce-de-leche",
+   "epc": null,
+   "rate": null,
+   "price": "$13.95",
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Dulce de leche jar; brand may differ from the Amazon item."
+ },
+ {
+  "id": "eden-foods-ume-plum-vinegar-10-fl-oz",
+  "name": "Eden Foods Ume Plum Vinegar, 10 Fl oz",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B0013JNMWA"
+   ],
+   "title": "Eden Foods Ume Plum Vinegar, 10 Fl oz",
+   "anchors": [
+    "umeboshi vinegar"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "beer-battered-maitake-mushroom-with-japanese-tartar-sauce-recipe"
+  },
+  "primary": {
+   "merchant": "ChefShop.com",
+   "product": "Ohsawa Ume Vinegar",
+   "url": "https://www.chefshop.com/products/ohsawa-ume-vinegar",
+   "epc": null,
+   "rate": null,
+   "price": "$15.95",
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Ohsawa ume (umeboshi) vinegar instead of Eden Foods; same product type, different brand and size."
+ },
+ {
+  "id": "eden-umeboshi-paste-pickled-ume-plum-puree",
+  "name": "Eden Umeboshi Paste, Pickled Ume Plum Puree",
+  "status": "no_match",
+  "reason": "No umeboshi paste in results (only whole umeboshi at $159 and furikake).",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "B0013JLOHA"
+   ],
+   "title": "Eden Umeboshi Paste, Pickled Ume Plum Puree",
+   "anchors": [
+    "umeboshi plum paste"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "chirashi-sushi-recipe"
+  }
+ },
+ {
+  "id": "edward-espe-brown",
+  "name": "Edward Espe Brown",
+  "status": "no_match",
+  "reason": "The Amazon link is the DVD 'How To Cook Your Life'; no match in results.",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "B0014BQR74"
+   ],
+   "title": "Amazon.com: How To Cook Your Life : Doris D\u00f6rrie: Movies & TV",
+   "anchors": [
+    "Edward Espe Brown"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "complete-tassajara-cookbook-tassajara-bread-book"
+  }
+ },
+ {
+  "id": "el-mexicano-achiote-paste-3-5-oz",
+  "name": "El Mexicano Achiote Paste, 3.5 oz",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B00169V7TW"
+   ],
+   "title": "El Mexicano Achiote Paste, 3.5 oz",
+   "anchors": [
+    "achiote paste"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "achiote-rubbed"
+  },
+  "primary": {
+   "merchant": "Savory Spice Shop, LLC",
+   "product": "Achiote Paste",
+   "url": "https://www.savoryspiceshop.com/products/achiote-paste",
+   "epc": 0.33,
+   "rate": null,
+   "price": "$4.99",
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Achiote paste from Savory Spice instead of El Mexicano; same ingredient and form."
+ },
+ {
+  "id": "emile-henry",
+  "name": "Emile Henry",
+  "status": "no_match",
+  "reason": "No candidates returned for Emile Henry.",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "B00WRIJ0UY"
+   ],
+   "title": "Emile Henry",
+   "anchors": [
+    "Emile Henry"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "strawberry-rhubarb-crisp-with-pumpkin-seed-topping-recipe"
+  }
+ },
+ {
+  "id": "emile-henry-lasagna-pan",
+  "name": "Emile Henry Lasagna Pan",
+  "status": "no_match",
+  "reason": "No bakeware in results (only seasonings).",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "B00022O6YM"
+   ],
+   "title": "Emile Henry Lasagna Pan",
+   "anchors": [
+    "Emile Henry lasagna pan"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "vegetarian-lasagna-recipe-with-spinach-and-ricotta-filling"
+  }
+ }
 ]

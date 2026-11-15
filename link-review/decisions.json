@@ -4472,20 +4472,6 @@
    "verified": true
   }
  },
- "dried-red-chiles": {
-  "comment": "find something closer to a chinese chili",
-  "status": "rejected",
-  "choice": 0,
-  "chosen": {
-   "merchant": "ChefShop.com",
-   "product": "Dried New Mexico Chili Pods",
-   "url": "https://www.chefshop.com/products/dried-new-mexico-chili-pods",
-   "epc": null,
-   "rate": null,
-   "price": "$5.95",
-   "verified": true
-  }
- },
  "dry-yeast": {
   "status": "approved",
   "choice": 0,
@@ -4754,20 +4740,6 @@
    "price": "$28.99",
    "verified": true,
    "verified_by": "browser"
-  }
- },
- "ancho-guajillo-pasilla-cascabel-de-arbol": {
-  "comment": "double check that you really cant find whole pods, that surprises me - maybe weee?",
-  "status": "rejected",
-  "choice": 0,
-  "chosen": {
-   "merchant": "Savory Spice Shop",
-   "product": "Ancho Chile Powder",
-   "url": "https://www.savoryspiceshop.com/products/ancho-chile-powder",
-   "epc": 0.33,
-   "rate": 15,
-   "price": "$10.50",
-   "verified": true
   }
  },
  "blowtorch": {
@@ -5129,21 +5101,6 @@
    "verified_by": "browser search page"
   }
  },
- "calphalon-12-inch-non-stick-omelet-pan": {
-  "comment": "find a nonstick of the right size",
-  "status": "rejected",
-  "choice": 0,
-  "chosen": {
-   "merchant": "Sur La Table",
-   "product": "de Buyer Carbon Steel Omelet Pan, 9.5\"",
-   "url": "https://www.surlatable.com/product/de-buyer-carbon-steel-omelet-pan-9-5/7849870",
-   "epc": 0.06,
-   "rate": 9,
-   "price": null,
-   "verified": true,
-   "verified_by": "browser search page"
-  }
- },
  "magnetic-block": {
   "status": "approved",
   "choice": 0,
@@ -5179,21 +5136,6 @@
    "merchant": "Sur La Table",
    "product": "Victorinox Swiss Classic Chef's Knife",
    "url": "https://www.surlatable.com/product/victorinox-swiss-classic-chef-s-knife/7476237",
-   "epc": 0.06,
-   "rate": 9,
-   "price": null,
-   "verified": true,
-   "verified_by": "browser search page"
-  }
- },
- "emile-henry-lasagna-pan": {
-  "comment": "try harder to find a larger one",
-  "status": "rejected",
-  "choice": 0,
-  "chosen": {
-   "merchant": "Sur La Table",
-   "product": "Emile Henry Modern Classics Rectangular Baker, 13\"",
-   "url": "https://www.surlatable.com/product/emile-henry-modern-classics-rectangular-baker-13-x-9/8864381",
    "epc": 0.06,
    "rate": 9,
    "price": null,
@@ -5543,21 +5485,6 @@
    "rate": null,
    "price": "$13.49",
    "verified": true
-  }
- },
- "karen-and-andrew": {
-  "comment": "search by title",
-  "status": "rejected",
-  "choice": 0,
-  "chosen": {
-   "merchant": "Barnes & Noble",
-   "product": "Becoming a Chef, Revised Edition (Andrew Dornenburg, Karen Page)",
-   "url": "https://www.barnesandnoble.com/w/becoming-a-chef-andrew-dornenburg/1130204700",
-   "epc": 0.01,
-   "rate": 5.15,
-   "price": "$31.00",
-   "verified": false,
-   "broken": true
   }
  },
  "mexican-chiles-3-pack-guajillo-ancho-and": {
@@ -6124,6 +6051,21 @@
    "epc": 0.06,
    "rate": 9,
    "price": "$19.95",
+   "verified": true,
+   "verified_by": "browser search page"
+  }
+ },
+ "karen-and-andrew": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "Barnes & Noble",
+   "product": "Becoming a Chef",
+   "url": "https://www.barnesandnoble.com/w/becoming-a-chef-andrew-dornenburg/1102542298",
+   "epc": 0.01,
+   "rate": 5.15,
+   "price": null,
    "verified": true,
    "verified_by": "browser search page"
   }
