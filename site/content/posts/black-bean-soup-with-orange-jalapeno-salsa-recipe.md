@@ -2,6 +2,7 @@
 title: "Black Bean Soup With Orange-Jalapeno Salsa - Recipe"
 date: 2011-01-20T06:15:00
 slug: "black-bean-soup-with-orange-jalapeno-salsa-recipe"
+water_note: "beans"
 description: "I developed this black bean soup so that it will satisfy those who prefer mild dishes (including kids) as well as those of us who prefer a bolder spice. The main soup is very straightforward, and on..."
 categories: ["Recipes", "Soups", "Vegan or Modifiable", "Gluten-Free"]
 aliases: ["/black-bean-soup-with-orange-jalapeno-salsa-recipe/", "/2011/01/black-bean-soup-with-orange-jalapeno-salsa-recipe.html"]

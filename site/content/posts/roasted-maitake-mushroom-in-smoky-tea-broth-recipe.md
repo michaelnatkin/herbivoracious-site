@@ -2,6 +2,7 @@
 title: "Roasted Maitake Mushroom in Smoky Tea Broth - Recipe"
 date: 2011-03-05T07:30:00
 slug: "roasted-maitake-mushroom-in-smoky-tea-broth-recipe"
+water_note: "broth"
 description: "Maitake mushrooms are very popular in Japan. In the US, they are known as Hen-of-the-woods (not to be confused with chicken-of-the-woods, which is completely different!). Maitakes are rather..."
 categories: ["Recipes", "Soups", "Vegan or Modifiable"]
 aliases: ["/roasted-maitake-mushroom-in-smoky-tea-broth-recipe/", "/2011/03/roasted-maitake-mushroom-in-smoky-tea-broth-recipe.html"]

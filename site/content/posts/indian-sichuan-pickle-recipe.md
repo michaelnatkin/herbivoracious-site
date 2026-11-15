@@ -2,6 +2,7 @@
 title: "Indian-Sichuan Pickle - Recipe"
 date: 2012-06-24T08:45:00
 slug: "indian-sichuan-pickle-recipe"
+water_note: "ferment"
 description: "A cross-cultural vegetarian pickle recipe combining Indian spices like mustard seeds, cumin, and fennel with Sichuan flavors. A bold, tangy condiment."
 categories: ["Recipes", "Sauces and Condiments"]
 aliases: ["/indian-sichuan-pickle-recipe/", "/2012/06/indian-sichuan-pickle-recipe.html"]

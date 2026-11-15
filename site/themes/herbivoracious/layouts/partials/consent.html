@@ -31,12 +31,17 @@
     store(v);
     banner.hidden = true;
     if (v === 'granted') loadTrackers();
+    else if (window.__hvTrackers) location.reload();  // stop trackers that already loaded on this page
   }
+  // Opt-in (ask first) for visitors whose browser timezone is in or near Europe (EU/EEA/UK/CH) or unknown.
+  // Elsewhere, tracking is on by default and visitors can opt out (footer "Cookie settings"; GPC is honored).
+  var tz = '';
+  try { tz = Intl.DateTimeFormat().resolvedOptions().timeZone || ''; } catch (e) {}
+  var optIn = !tz || /^(Europe\/|Atlantic\/(Reykjavik|Madeira|Azores|Canary|Faroe)|Africa\/Ceuta|Asia\/(Nicosia|Famagusta))/.test(tz);
   var choice = stored();
-  // Honor Global Privacy Control as a standing opt-out.
   if (navigator.globalPrivacyControl && choice !== 'granted') choice = 'denied';
   if (choice === 'granted') loadTrackers();
-  else if (!choice) banner.hidden = false;
+  else if (!choice) { if (optIn) banner.hidden = false; else loadTrackers(); }
   banner.addEventListener('click', function (e) {
     var v = e.target.getAttribute && e.target.getAttribute('data-consent');
     if (v) decide(v);

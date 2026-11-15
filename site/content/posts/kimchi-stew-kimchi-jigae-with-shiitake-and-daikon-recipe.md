@@ -2,6 +2,7 @@
 title: "Kimchi Stew (Kimchi Jigae) with Shiitake and Daikon - Recipe"
 date: 2012-09-29T08:00:00
 slug: "kimchi-stew-kimchi-jigae-with-shiitake-and-daikon-recipe"
+water_note: "ferment"
 description: "Kimchi jigae is classic Korean home cooking that is simple enough to make for a weeknight dinner. The body of the stew comes from chopped kimchi, spiked with chili paste (kochujang, also spelled..."
 categories: ["Recipes", "Main Courses", "Vegan or Modifiable"]
 aliases: ["/kimchi-stew-kimchi-jigae-with-shiitake-and-daikon-recipe/", "/2012/09/kimchi-stew-kimchi-jigae-with-shiitake-and-daikon-recipe.html"]

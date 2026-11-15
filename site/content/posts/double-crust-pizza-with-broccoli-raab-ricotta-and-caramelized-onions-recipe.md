@@ -2,6 +2,7 @@
 title: "Double Crust Pizza with Broccoli Raab, Ricotta and Caramelized Onions - Recipe"
 date: 2011-06-13T07:08:00
 slug: "double-crust-pizza-with-broccoli-raab-ricotta-and-caramelized-onions-recipe"
+water_note: "dough"
 description: "Recipe for a double-crust pizza pie filled with fresh ricotta, caramelized onions and broccoli raab, inspired by Mario Batali."
 categories: ["Baking", "Main Courses", "Recipes"]
 aliases: ["/double-crust-pizza-with-broccoli-raab-ricotta-and-caramelized-onions-recipe/", "/2011/06/double-crust-pizza-with-broccoli-raab-ricotta-and-caramelized-onions-recipe.html"]

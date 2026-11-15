@@ -2804,3 +2804,52 @@ a.as-seen-in:hover { text-decoration: none; }
     font-size: 28px;
   }
 }
+
+/* ---- Water feature ---- */
+.water-note {
+  margin: 40px 0 0;
+  padding: 18px 22px;
+  background: #f1f8fa;
+  border-left: 4px solid var(--accent);
+  border-radius: var(--radius);
+}
+.water-note__kicker, .water-box__kicker, .shop-feature__kicker {
+  display: block;
+  font-family: var(--font-ui);
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin-bottom: 6px;
+}
+.water-note__text { margin: 0; font-size: 16px; line-height: 1.6; color: var(--text); }
+.water-note__text a { color: var(--accent); text-decoration: underline; }
+.water-box {
+  display: block;
+  padding: 20px;
+  background: #f1f8fa;
+  border: 1px solid #cfe6ec;
+  border-radius: var(--radius-lg);
+  text-decoration: none;
+  color: var(--text);
+}
+.water-box:hover { border-color: var(--accent); }
+.water-box__title { display: block; font-family: var(--font-display); font-size: 19px; font-weight: 600; line-height: 1.25; margin-bottom: 6px; }
+.water-box__desc { display: block; font-size: 14px; line-height: 1.5; color: var(--text-secondary); margin-bottom: 10px; }
+.water-box__cta { font-family: var(--font-ui); font-size: 13px; font-weight: 600; color: var(--accent); }
+.shop-feature {
+  margin: 0 0 32px;
+  padding: 24px 28px;
+  background: #f1f8fa;
+  border: 1px solid #cfe6ec;
+  border-radius: var(--radius-lg);
+}
+.shop-feature__title { font-family: var(--font-display); font-size: 24px; margin: 0 0 8px; }
+.shop-feature__text { margin: 0 0 12px; color: var(--text-secondary); }
+.shop-feature__links { margin: 0; font-family: var(--font-ui); font-size: 14px; font-weight: 600; }
+.shop-feature__links a { color: var(--accent); }
+@media print { .water-note, .water-box { display: none !important; } }
+.water-cta__icon { flex-shrink: 0; border-radius: var(--radius); }
+.water-cta__note { display: block; margin-top: 8px; font-family: var(--font-ui); font-size: 12px; color: var(--text-light); }
+@media (max-width: 600px) { .water-cta__icon { width: 72px; height: 72px; } }

@@ -2,6 +2,7 @@
 title: "Chana Dal in the Style of Puri Jagannath Temple - Recipe"
 date: 2009-02-23T06:36:00
 slug: "chana-dal-in-the-style-of-puri-jagannath-temple-recipe"
+water_note: "beans"
 categories: ["Gluten-Free or modifiable", "Kid Friendly", "Recipes", "Side Dishes", "Soups", "Vegan or Modifiable"]
 aliases: ["/chana-dal-in-the-style-of-puri-jagannath-temple-recipe/", "/2009/02/chana-dal-in-the-style-of-puri-jagannath-temple-recipe.html"]
 cover:

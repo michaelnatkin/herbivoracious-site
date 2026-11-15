@@ -2,6 +2,7 @@
 title: "Make Your Own Kimchi - Recipe"
 date: 2013-05-30T05:45:05
 slug: "making-your-own-kimchi-recipe"
+water_note: "ferment"
 categories: ["Gluten-Free or modifiable", "Recipes", "Sauces and Condiments", "Vegan or Modifiable"]
 aliases: ["/making-your-own-kimchi-recipe/", "/2013/05/making-your-own-kimchi-recipe.html"]
 cover:

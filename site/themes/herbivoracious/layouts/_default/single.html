@@ -58,7 +58,9 @@
         {{ $content | safeHTML }}
       </div>
 
-      {{ partial "cookbook-cta.html" . }}
+      {{ partial "water-note.html" . }}
+
+      {{ if eq .Params.cta "water" }}{{ partial "water-cta.html" . }}{{ else }}{{ partial "cookbook-cta.html" . }}{{ end }}
 
       {{ $related := first 3 (.Site.RegularPages.Related .) }}
       {{ if $related }}

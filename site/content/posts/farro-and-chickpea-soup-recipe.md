@@ -2,6 +2,7 @@
 title: "Farro and Chickpea Soup - Recipe"
 date: 2011-12-12T07:07:08
 slug: "farro-and-chickpea-soup-recipe"
+water_note: "beans"
 categories: ["Kid Friendly", "Recipes", "Soups"]
 aliases: ["/farro-and-chickpea-soup-recipe/", "/2011/12/farro-and-chickpea-soup-recipe.html"]
 cover:

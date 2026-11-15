@@ -2,6 +2,7 @@
 title: "Chickpea, Spinach and Tomato Soup - Recipe"
 date: 2011-03-28T07:05:00
 slug: "chickpea-spinach-and-tomato-soup-recipe"
+water_note: "beans"
 description: "Recipe for a simple, hearty & healthy soup made from chickpeas, tomatoes and spinach. Vegan and gluten-free."
 categories: ["Gluten-Free or modifiable", "Kid Friendly", "Recipes", "Soups", "Vegan or Modifiable"]
 aliases: ["/chickpea-spinach-and-tomato-soup-recipe/", "/2011/03/chickpea-spinach-and-tomato-soup-recipe.html"]

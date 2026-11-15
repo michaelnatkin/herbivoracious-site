@@ -1,0 +1,15 @@
+{{- $cloud := index site.Data.products "cloud-ro-water-filter" -}}
+<aside class="cookbook-cta water-cta" data-pagefind-ignore>
+  <svg class="water-cta__icon" viewBox="0 0 64 64" width="100" height="100" role="img" aria-label="Water drop">
+    <rect width="64" height="64" rx="10" fill="#e8f4f8"/>
+    <path d="M32 11c-9 12-15 19-15 27a15 15 0 0 0 30 0c0-8-6-15-15-27z" fill="#00a6c7"/>
+    <path d="M25 40a8 8 0 0 0 7 8" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round" opacity=".7"/>
+  </svg>
+  <div class="cookbook-cta__body">
+    <span class="cookbook-cta__kicker">From My Kitchen</span>
+    <p class="cookbook-cta__title">{{ $cloud.name }}</p>
+    <p class="cookbook-cta__desc">The reverse osmosis system I use for cooking and drinking.</p>
+    <a href="{{ $cloud.url }}" class="cookbook-cta__button" target="_blank" rel="noopener noreferrer nofollow sponsored">See {{ $cloud.merchant }}</a>
+    <span class="water-cta__note">Affiliate link</span>
+  </div>
+</aside>

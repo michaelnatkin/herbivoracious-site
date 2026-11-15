@@ -11,6 +11,14 @@
         <p class="shop-disclosure"><em>Disclosure: These are affiliate links. If you purchase through them, I earn a small commission at no extra cost to you. I only recommend products I genuinely use and love.</em></p>
       </div>
 
+      {{ $cloud := index site.Data.products "cloud-ro-water-filter" }}
+      <aside class="shop-feature">
+        <span class="shop-feature__kicker">Featured</span>
+        <h2 class="shop-feature__title">The water I cook with</h2>
+        <p class="shop-feature__text">Water is the most-used ingredient in the kitchen. I use a reverse osmosis system for cooking and drinking, and I wrote up why.</p>
+        <p class="shop-feature__links"><a href="{{ "water-for-cooking/" | relURL }}">Read: Water for cooking</a> <span aria-hidden="true">·</span> <a href="{{ $cloud.url }}" target="_blank" rel="nofollow sponsored noopener">See {{ $cloud.merchant }} <span aria-hidden="true">→</span></a></p>
+      </aside>
+
       <div class="shop-category-grid">
         {{ range .Pages }}
         <a href="{{ .RelPermalink }}" class="shop-category-card">

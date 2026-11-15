@@ -2,6 +2,7 @@
 title: "\"Caviar\" Lentil Salad with Arugula, Crispy Shallots and Roasted Garlic - Recipe"
 date: 2012-09-06T06:00:36
 slug: "caviar-lentil-salad-with-arugula-crispy-shallots-and-roasted-garlic-recipe"
+water_note: "beans"
 categories: ["Recipes", "Salads", "Vegan or Modifiable"]
 aliases: ["/caviar-lentil-salad-with-arugula-crispy-shallots-and-roasted-garlic-recipe/", "/2012/09/caviar-lentil-salad-with-arugula-crispy-shallots-and-roasted-garlic-recipe.html"]
 cover:

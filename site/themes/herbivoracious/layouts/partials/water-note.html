@@ -1,0 +1,13 @@
+{{- /* Opt-in per post: front matter `water_note: beans|dough|ferment|broth`. */ -}}
+{{- with .Params.water_note -}}
+{{- $copy := dict
+  "beans" "Dried beans, lentils and chickpeas are mostly water and time. Very hard water can keep them from softening, and chlorinated tap water can come through in a simple pot of beans."
+  "dough" "Some bakers filter their water because chlorine and chloramine can affect yeast and add an off flavor to a simple dough."
+  "ferment" "Fermenting works best with chlorine-free water, since chlorine and chloramine can slow down the microbes you want."
+  "broth" "When a dish is mostly water, whether a broth, a soup or a pot of tea, you taste the water."
+-}}
+<aside class="water-note" data-pagefind-ignore>
+  <span class="water-note__kicker">A note on water</span>
+  <p class="water-note__text">{{ index $copy . }} I cook with filtered water. <a href="{{ "water-for-cooking/" | relURL }}">Here is what I use and why</a>.</p>
+</aside>
+{{- end -}}

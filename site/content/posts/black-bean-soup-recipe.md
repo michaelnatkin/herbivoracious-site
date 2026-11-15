@@ -2,6 +2,7 @@
 title: "Black Bean Soup Recipe - With Mild and Intense Variations"
 date: 2009-12-17T06:55:00
 slug: "black-bean-soup-recipe"
+water_note: "beans"
 categories: ["Gluten-Free or modifiable", "Kid Friendly", "Recipes", "Soups", "Vegan or Modifiable"]
 aliases: ["/black-bean-soup-recipe/", "/2009/12/black-bean-soup-recipe.html"]
 cover:

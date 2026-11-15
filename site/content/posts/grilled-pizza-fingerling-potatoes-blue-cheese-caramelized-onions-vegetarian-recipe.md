@@ -2,6 +2,7 @@
 title: "Grilled Pizza with Fingerling Potatoes, Blue Cheese and Caramelized Onions - Vegetarian Recipe"
 date: 2010-08-16T07:46:00
 slug: "grilled-pizza-fingerling-potatoes-blue-cheese-caramelized-onions-vegetarian-recipe"
+water_note: "dough"
 description: "Recipe for a traditional Neapolitan style pizza with a vegetarian topping of caramelized onions, blue cheese, and fingerling potatoes."
 categories: ["Baking", "Main Courses", "Recipes"]
 aliases: ["/grilled-pizza-fingerling-potatoes-blue-cheese-caramelized-onions-vegetarian-recipe/", "/2010/08/grilled-pizza-fingerling-potatoes-blue-cheese-caramelized-onions-vegetarian-recipe.html"]

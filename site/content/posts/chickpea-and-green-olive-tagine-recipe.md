@@ -2,6 +2,7 @@
 title: "Chickpea and Green Olive Tagine - Recipe"
 date: 2012-01-13T06:00:00
 slug: "chickpea-and-green-olive-tagine-recipe"
+water_note: "beans"
 description: "A tagine technically refers to a funnel-shaped clay pot traditionally used in Morocco, but it also can be used to describe any moist, spicy stew made with the spices typical of that region. This..."
 categories: ["Recipes", "Main Courses", "Vegan or Modifiable"]
 aliases: ["/chickpea-and-green-olive-tagine-recipe/", "/2012/01/chickpea-and-green-olive-tagine-recipe.html"]

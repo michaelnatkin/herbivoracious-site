@@ -2,6 +2,7 @@
 title: "Turkish Chickpea and Potato Stew with Baharat - Recipe"
 date: 2011-06-27T07:05:00
 slug: "chickpea-and-potato-stew-with-baharat-recipe"
+water_note: "beans"
 description: "Recipe for a vegetarian stew of chickpeas and potatoes flavored with Turkish baharat. Gluten-free and optionally vegan."
 categories: ["Gluten-Free or modifiable", "Main Courses", "Recipes", "Vegan or Modifiable"]
 aliases: ["/chickpea-and-potato-stew-with-baharat-recipe/", "/2011/06/chickpea-and-potato-stew-with-baharat-recipe.html"]

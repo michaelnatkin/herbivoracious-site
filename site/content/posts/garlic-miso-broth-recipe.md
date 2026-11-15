@@ -2,6 +2,7 @@
 title: "Garlic Miso Broth - Recipe"
 date: 2011-02-17T06:00:00
 slug: "garlic-miso-broth-recipe"
+water_note: "broth"
 description: "Every culture has a soup to which it attributes magical healing powers. I find this broth incredibly restorative when I’m coming back from a cold, or just want something quick and deeply warming. If..."
 categories: ["Recipes", "Soups", "Vegan or Modifiable"]
 aliases: ["/garlic-miso-broth-recipe/", "/2011/02/garlic-miso-broth-recipe.html"]

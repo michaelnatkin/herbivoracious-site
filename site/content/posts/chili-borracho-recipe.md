@@ -2,6 +2,7 @@
 title: "Chili Borracho - Recipe"
 date: 2011-11-25T08:45:00
 slug: "chili-borracho-recipe"
+water_note: "beans"
 description: "I’m not a big believer in lots of vegetables or grains in chili. For me, it is all about the beans, complemented by a savory sauce and lots of tasty garnish. My version includes dark beer, dried..."
 categories: ["Recipes", "Main Courses", "Vegan or Modifiable"]
 aliases: ["/chili-borracho-recipe/", "/2011/11/chili-borracho-recipe.html"]
