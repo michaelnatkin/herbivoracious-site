@@ -1,0 +1,468 @@
+[
+  {
+    "id": "magnetic-block",
+    "name": "Magnetic Block",
+    "status": "no_match",
+    "reason": "Candidates are unrelated (spices, bonito block); a magnetic knife block is kitchen gear.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B0BV6B6QY3"
+      ],
+      "title": "Magnetic Block",
+      "anchors": [
+        "magnetic block"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "knives-for-the"
+    }
+  },
+  {
+    "id": "malic-acid",
+    "name": "Malic Acid",
+    "status": "match",
+    "kind": "same",
+    "confidence": "high",
+    "amazon": {
+      "asins": [
+        "B00D4SBI3I"
+      ],
+      "title": "Malic Acid",
+      "anchors": [
+        "malic acid"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "fruit-salad"
+    },
+    "primary": {
+      "merchant": "Nuts.com",
+      "product": "Malic Acid",
+      "url": "https://www.nuts.com/products/malic-acid",
+      "epc": 0.38,
+      "rate": null,
+      "price": "$10.49",
+      "verified": true
+    },
+    "alternatives": [],
+    "note": "Same ingredient, food-grade malic acid powder from Nuts.com."
+  },
+  {
+    "id": "manchego",
+    "name": "Manchego",
+    "status": "no_match",
+    "reason": "No Manchego cheese in results (membrillo only).",
+    "needs_web": false,
+    "amazon": {
+      "asins": [
+        "B075JN8RCZ"
+      ],
+      "title": "Manchego",
+      "anchors": [
+        "manchego"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "holiday-shopping-for-gourmets-or-gourmands-chefshopcom"
+    }
+  },
+  {
+    "id": "mandarin-olive-oil",
+    "name": "Mandarin Olive Oil",
+    "status": "no_match",
+    "reason": "No mandarin-flavored olive oil among results.",
+    "needs_web": false,
+    "amazon": {
+      "asins": [
+        "B093KF9DSQ"
+      ],
+      "title": "Mandarin Olive Oil",
+      "anchors": [
+        "Mandarin olive oil"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "when-it-all-goes-wrong-making-your-food-pop-part-3andahalf"
+    }
+  },
+  {
+    "id": "maple",
+    "name": "maple",
+    "status": "no_match",
+    "reason": "Likely maple syrup; results only have maple sugar/extract/seasonings, which are different forms.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B00E1DFU52"
+      ],
+      "title": "maple",
+      "anchors": [
+        "maple"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "maple-pudding-with-spiced-pecans-video-recipe"
+    }
+  },
+  {
+    "id": "marcona-almonds",
+    "name": "Marcona Almonds",
+    "status": "match",
+    "kind": "same",
+    "confidence": "high",
+    "amazon": {
+      "asins": [
+        "B0DYDFVG12"
+      ],
+      "title": "Marcona Almonds",
+      "anchors": [
+        "marcona almonds"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "review-360-roun"
+    },
+    "primary": {
+      "merchant": "Nuts.com",
+      "product": "Marcona Almonds",
+      "url": "https://www.nuts.com/products/marcona-almonds",
+      "epc": 0.38,
+      "rate": null,
+      "price": "$9.99",
+      "verified": true
+    },
+    "alternatives": [
+      {
+        "merchant": "ChefShop.com",
+        "product": "Marcona Almonds - Spain",
+        "url": "https://www.chefshop.com/products/marcona-almonds-spain",
+        "epc": null,
+        "rate": null,
+        "price": "$32.95",
+        "verified": true
+      }
+    ],
+    "note": "Same ingredient, Marcona almonds from Nuts.com; ChefShop's Spanish Marcona is a pricier alternative."
+  },
+  {
+    "id": "marieke-aged-gouda-cheese-16-oz",
+    "name": "Marieke Aged Gouda Cheese (16 Oz)",
+    "status": "no_match",
+    "reason": "No gouda or comparable aged cheese in results.",
+    "needs_web": false,
+    "amazon": {
+      "asins": [
+        "B00HYMWPRS"
+      ],
+      "title": "Marieke Aged Gouda Cheese (16 Oz)",
+      "anchors": [
+        "aged gouda"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "pear-and-gouda-salad-recipe"
+    }
+  },
+  {
+    "id": "marmite",
+    "name": "Marmite",
+    "status": "match",
+    "kind": "same",
+    "confidence": "high",
+    "amazon": {
+      "asins": [
+        "B00014VTNW"
+      ],
+      "title": "Marmite",
+      "anchors": [
+        "marmite"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "umami-packed-vegetarian-broth-recipe-also-vegan"
+    },
+    "primary": {
+      "merchant": "ChefShop.com",
+      "product": "Marmite Yeast Extract",
+      "url": "https://www.chefshop.com/products/marmite-yeast-extract",
+      "epc": null,
+      "rate": null,
+      "price": "$8.35",
+      "verified": true
+    },
+    "alternatives": [],
+    "note": "Same product, Marmite yeast extract."
+  },
+  {
+    "id": "marsala-wine",
+    "name": "Marsala Wine",
+    "status": "no_match",
+    "reason": "No Marsala wine in results.",
+    "needs_web": false,
+    "amazon": {
+      "asins": [
+        "B00E0N8CB2"
+      ],
+      "title": "Marsala Wine",
+      "anchors": [
+        "Marsala wine"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "zabaglione-with-roasted-plums-recipe"
+    }
+  },
+  {
+    "id": "mccutcheon-s-home-recipe-apple-butter",
+    "name": "McCutcheon's Home Recipe Apple Butter",
+    "status": "no_match",
+    "reason": "No apple butter in results (nut butters only).",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B001NH57LQ"
+      ],
+      "title": "McCutcheon's Home Recipe Apple Butter",
+      "anchors": [
+        "apple butter"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "cheddar-and-apple-butter-panini-with-rosemary-candied-pecans-guest-recipe-from-kathy-strahs-of-panini-happy"
+    }
+  },
+  {
+    "id": "metal-honing-steel",
+    "name": "Metal Honing Steel",
+    "status": "no_match",
+    "reason": "No honing steel in results; knife gear sold by Sur La Table/Williams-Sonoma type merchants.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B071FC4GYN"
+      ],
+      "title": "Metal Honing Steel",
+      "anchors": [
+        "metal honing steel"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "sharpening-steels-kitchen-tools-hand-tools"
+    }
+  },
+  {
+    "id": "mexican-chiles-3-pack-guajillo-ancho-and",
+    "name": "Mexican Chiles 3 Pack - Guajillo, Ancho and Pasilla Dried Whole Peppers",
+    "status": "match",
+    "kind": "equivalent",
+    "confidence": "medium",
+    "amazon": {
+      "asins": [
+        "B08GYPQRSW"
+      ],
+      "title": "Mexican Chiles 3 Pack - Guajillo, Ancho and Pasilla Dried Whole Peppers",
+      "anchors": [
+        "guajillo chilis"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "vegetarian-pozole-de-frijol-quick-and-hearty-soup-with-hominy-and-pinto-beans-recipe"
+    },
+    "primary": {
+      "merchant": "ChefShop.com",
+      "product": "Dried Guajillo Chili Pods",
+      "url": "https://www.chefshop.com/products/dried-guajillo-chili-pods",
+      "epc": null,
+      "rate": null,
+      "price": "$5.95",
+      "verified": true
+    },
+    "alternatives": [
+      {
+        "merchant": "ChefShop.com",
+        "product": "Villa Jerada Chile Guajillo Whole Pods - 1 pound",
+        "url": "https://www.chefshop.com/products/villa-jerada-chile-guajillo-whole-pods-1-pound",
+        "epc": null,
+        "rate": null,
+        "price": "$17.95",
+        "verified": true
+      }
+    ],
+    "note": "Whole dried guajillo pods (the ingredient the post links to) rather than the Amazon 3-chile assortment with ancho and pasilla."
+  },
+  {
+    "id": "mirin",
+    "name": "mirin",
+    "status": "match",
+    "kind": "equivalent",
+    "confidence": "medium",
+    "amazon": {
+      "asins": [
+        "B000QSTJTE"
+      ],
+      "title": "mirin",
+      "anchors": [
+        "mirin"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "asparagus-with-nori-butter-recipe"
+    },
+    "primary": {
+      "merchant": "ChefShop.com",
+      "product": "Ohsawa Organic Sweet Rice Seasoning",
+      "url": "https://www.chefshop.com/products/ohsawa-organic-sweet-rice-seasoning",
+      "epc": null,
+      "rate": null,
+      "price": "$22.55",
+      "verified": true
+    },
+    "alternatives": [],
+    "note": "Ohsawa sweet rice seasoning is a mirin-style (aji-mirin) product, not a branded match for the Amazon item."
+  },
+  {
+    "id": "mirin-2",
+    "name": "mirin",
+    "status": "match",
+    "kind": "equivalent",
+    "confidence": "medium",
+    "amazon": {
+      "asins": [
+        "B0BWGLQ4MT"
+      ],
+      "title": "mirin",
+      "anchors": [
+        "mirin"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "bibim-naegnmyeon-joll-noodles-cold-and-spicy-korean-noodles-recipe"
+    },
+    "primary": {
+      "merchant": "ChefShop.com",
+      "product": "Ohsawa Organic Sweet Rice Seasoning",
+      "url": "https://www.chefshop.com/products/ohsawa-organic-sweet-rice-seasoning",
+      "epc": null,
+      "rate": null,
+      "price": "$22.55",
+      "verified": true
+    },
+    "alternatives": [],
+    "note": "Ohsawa sweet rice seasoning is a mirin-style (aji-mirin) product, not a branded match for the Amazon item."
+  },
+  {
+    "id": "mission-street-food-recipes-and-ideas-from-an",
+    "name": "Mission Street Food: Recipes and Ideas from an Improbable Restaurant",
+    "status": "no_match",
+    "reason": "Book; not in candidate catalogs.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "1936365154"
+      ],
+      "title": "Mission Street Food: Recipes and Ideas from an Improbable Restaurant: Myint, Anthony, Leibowitz, Karen: 9781936365159: Amazon.com: Books",
+      "anchors": [
+        "Mission Street Food: Recipes and Ideas from an Improbable Restaurant"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "mission-chinese-style-tofu-with-radish-and-shiso-recipe"
+    }
+  },
+  {
+    "id": "miu-france-stainless-steel-magnetic-knife-holder",
+    "name": "MIU France Stainless Steel Magnetic Knife Holder",
+    "status": "no_match",
+    "reason": "No knife holder in results; kitchen gear merchant needed.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B0006IVY7E"
+      ],
+      "title": "MIU France Stainless Steel Magnetic Knife Holder",
+      "anchors": [
+        "MIU France Stainless Steel Magnetic Knife Holder"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "chefs-knife-kitchen-tools-hand-tools"
+    }
+  },
+  {
+    "id": "model-from-gir",
+    "name": "Model from GIR",
+    "status": "no_match",
+    "reason": "No GIR spatula in results; likely sold by Sur La Table/Williams-Sonoma type merchants.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B00BJT61FE"
+      ],
+      "title": "Model from GIR",
+      "anchors": [
+        "model from GIR"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "heatproof-silicone-spatulas"
+    }
+  },
+  {
+    "id": "modernist-cuisine",
+    "name": "Modernist Cuisine",
+    "status": "no_match",
+    "reason": "Book; results are unrelated spices/hydrocolloids.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "1734386142"
+      ],
+      "title": "Modernist Cuisine",
+      "anchors": [
+        "Modernist Cuisine"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "vegetarian-frijoles-charros-mexican-cowboy-beans-with-smoked-onion-recipe"
+    }
+  },
+  {
+    "id": "moosewood",
+    "name": "Moosewood",
+    "status": "no_match",
+    "reason": "Book; no candidates found.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "1607747391"
+      ],
+      "title": "Moosewood",
+      "anchors": [
+        "Moosewood"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "introduction-to"
+    }
+  },
+  {
+    "id": "morimoto-the-new-art-of-japanese-cooking",
+    "name": "Morimoto: the New Art of Japanese Cooking",
+    "status": "no_match",
+    "reason": "Book; only a Morimoto spice gift box, not the cookbook.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "0756631238"
+      ],
+      "title": "Morimoto: the New Art of Japanese Cooking",
+      "anchors": [
+        "Morimoto: The New Art of Japanese Cooking"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "lychee-tempura"
+    }
+  }
+]

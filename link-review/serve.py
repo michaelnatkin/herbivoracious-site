@@ -1,6 +1,7 @@
 """Tiny local server for the link review page. Saves decisions to decisions.json.
 Run: python3 serve.py   then open http://localhost:8123/"""
 import http.server, json, os
+import auto_approve
 
 DIR = os.path.dirname(os.path.abspath(__file__))
 DEC = os.path.join(DIR, "decisions.json")
@@ -9,6 +10,8 @@ class H(http.server.SimpleHTTPRequestHandler):
     def __init__(self, *a, **k): super().__init__(*a, directory=DIR, **k)
     def do_GET(self):
         if self.path.startswith("/batches.json"):
+            try: auto_approve.run()    # standing rule: high confidence + page loads
+            except Exception: pass
             names = sorted(f for f in os.listdir(os.path.join(DIR, "batches")) if f.startswith("batch-") and f.endswith(".json"))
             self.send_response(200); self.send_header("Content-Type", "application/json"); self.end_headers()
             self.wfile.write(json.dumps(names).encode()); return

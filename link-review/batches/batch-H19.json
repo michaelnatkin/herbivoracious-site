@@ -1,0 +1,498 @@
+[
+ {
+  "id": "soy-sauce",
+  "name": "Soy Sauce",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B000RYBYZ4"
+   ],
+   "title": "Soy Sauce",
+   "anchors": [
+    "soy sauce"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "kale-fried-rice-for-one-infinitely-adaptable-recipe"
+  },
+  "primary": {
+   "merchant": "ChefShop.com",
+   "product": "Yugeta Organic Shoyu (Soy Sauce)",
+   "url": "https://www.chefshop.com/products/yugeta-organic-shoyu-soy-sauce",
+   "epc": null,
+   "rate": null,
+   "price": "$17.95",
+   "verified": true
+  },
+  "alternatives": [
+   {
+    "merchant": "ChefShop.com",
+    "product": "Yamaki Jozo Organic Shoyu (Soy Sauce)",
+    "url": "https://www.chefshop.com/products/yamaki-jozo-organic-shoyu-soy-sauce",
+    "epc": null,
+    "rate": null,
+    "price": "$31.95",
+    "verified": true
+   }
+  ],
+  "note": "A Japanese organic shoyu rather than the specific Amazon brand, which could not be identified; same ingredient."
+ },
+ {
+  "id": "soy-sauce-2",
+  "name": "Soy Sauce",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "low",
+  "amazon": {
+   "asins": [
+    "B0079VJGL2"
+   ],
+   "title": "Soy Sauce",
+   "anchors": [
+    "soy sauce"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "good-stuff-from-bourbon-barrel-foods"
+  },
+  "primary": {
+   "merchant": "ChefShop.com",
+   "product": "Yugeta Organic Shoyu (Soy Sauce)",
+   "url": "https://www.chefshop.com/products/yugeta-organic-shoyu-soy-sauce",
+   "epc": null,
+   "rate": null,
+   "price": "$17.95",
+   "verified": true
+  },
+  "alternatives": [
+   {
+    "merchant": "ChefShop.com",
+    "product": "Yamaki Jozo Organic Shoyu (Soy Sauce)",
+    "url": "https://www.chefshop.com/products/yamaki-jozo-organic-shoyu-soy-sauce",
+    "epc": null,
+    "rate": null,
+    "price": "$31.95",
+    "verified": true
+   }
+  ],
+  "note": "The original was likely a specialty (Bourbon Barrel) soy sauce; this is a generic Japanese organic shoyu, so the brand differs."
+ },
+ {
+  "id": "spicy-world-black-salt-kala-namak",
+  "name": "Spicy World Black Salt (Kala Namak)",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B07CTW5NJX"
+   ],
+   "title": "Spicy World Black Salt (Kala Namak)",
+   "anchors": [
+    "black salt"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "recipe-grapefru"
+  },
+  "primary": {
+   "merchant": "ChefShop.com",
+   "product": "Kala Namak (Himalayan Black Salt) - Coarse",
+   "url": "https://www.chefshop.com/products/himalayan-black-salt-kala-namak-coarse",
+   "epc": null,
+   "rate": null,
+   "price": "$11.95",
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Same ingredient (kala namak) but a different brand and a coarse grind rather than Spicy World's."
+ },
+ {
+  "id": "springform-pan",
+  "name": "Springform Pan",
+  "status": "no_match",
+  "reason": "No springform pan among candidates.",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "B07L8S4PM5"
+   ],
+   "title": "Springform Pan",
+   "anchors": [
+    "springform pan"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "italian-plum-upside-down-cake-recipe"
+  }
+ },
+ {
+  "id": "squeeze-bottle",
+  "name": "Squeeze Bottle",
+  "status": "no_match",
+  "reason": "No squeeze bottle among candidates; only sauces.",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "B076PT3BD9"
+   ],
+   "title": "Squeeze Bottle",
+   "anchors": [
+    "squeeze bottle"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "roasted-potato-and-asparagus-tacos-with-kohlrabi-slaw-recipe"
+  }
+ },
+ {
+  "id": "stonewall-kitchen-roasted-garlic-onion-jam",
+  "name": "Stonewall Kitchen Roasted Garlic Onion Jam",
+  "status": "no_match",
+  "reason": "No Stonewall or comparable savory onion jam in candidates.",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "B000069KQW"
+   ],
+   "title": "Stonewall Kitchen Roasted Garlic Onion Jam",
+   "anchors": [
+    "Onion Savory Jam",
+    "Stonewall Kitchen Roasted Garlic &amp"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "quesadilla"
+  }
+ },
+ {
+  "id": "storebought",
+  "name": "Storebought",
+  "status": "no_match",
+  "reason": "No gnocchi among candidates (DeLallo potato gnocchi).",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "B004TSUXEM"
+   ],
+   "title": "Amazon.com : DeLallo Traditional Italian Potato Gnocchi, 1lb : Gnocchi Pasta : Grocery & Gourmet Food",
+   "anchors": [
+    "storebought"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "panfried-gnocchi-with-arugula-recipe"
+  }
+ },
+ {
+  "id": "stringozzi-pasta-17-6-oz-pack-of-3",
+  "name": "Stringozzi Pasta 17.6 oz (pack of 3)",
+  "status": "no_match",
+  "reason": "No stringozzi; bigoli is a different, thicker shape.",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "B07BWN5RLH"
+   ],
+   "title": "Stringozzi Pasta 17.6 oz (pack of 3)",
+   "anchors": [
+    "Stringozzi"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "stringozzi-or-linguini-con-funghi-simple-pasta-with-mushrooms-recipe"
+  }
+ },
+ {
+  "id": "strozzapetti",
+  "name": "Strozzapetti",
+  "status": "no_match",
+  "reason": "No strozzapetti pasta in candidates.",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "B00527VNMK"
+   ],
+   "title": "Strozzapetti",
+   "anchors": [
+    "strozzapetti"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "pasta-with-eggp"
+  }
+ },
+ {
+  "id": "sugar",
+  "name": "sugar",
+  "status": "no_match",
+  "reason": "Amazon sugar type unknown and candidates are flavored or different sugars; no safe equivalent.",
+  "needs_web": false,
+  "amazon": {
+   "asins": [
+    "B00VEJX49U"
+   ],
+   "title": "sugar",
+   "anchors": [
+    "sugar"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "disaster-recove"
+  }
+ },
+ {
+  "id": "sumac",
+  "name": "sumac",
+  "status": "match",
+  "kind": "same",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B00886NHDK"
+   ],
+   "title": "sumac",
+   "anchors": [
+    "sumac"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "middle-eastern-panzanella-recipe"
+  },
+  "primary": {
+   "merchant": "Nuts.com",
+   "product": "Ground Sumac",
+   "url": "https://www.nuts.com/products/ground-sumac",
+   "epc": 0.38,
+   "rate": null,
+   "price": "$16.99",
+   "verified": true
+  },
+  "alternatives": [
+   {
+    "merchant": "Savory Spice Shop, LLC",
+    "product": "Ground Sumac Berries",
+    "url": "https://www.savoryspiceshop.com/products/ground-sumac-berries-spice",
+    "epc": 0.33,
+    "rate": null,
+    "price": "$10.50",
+    "verified": true
+   },
+   {
+    "merchant": "The Spice House",
+    "product": "Sumac",
+    "url": "https://www.thespicehouse.com/products/sumac",
+    "epc": 0.21,
+    "rate": null,
+    "price": "$9.79",
+    "verified": true
+   }
+  ],
+  "note": "Ground sumac from a reputable spice seller; same ingredient, brand and pack size differ."
+ },
+ {
+  "id": "sundae-cup",
+  "name": "Sundae Cup",
+  "status": "no_match",
+  "reason": "No sundae cups among candidates; only candy.",
+  "needs_web": false,
+  "amazon": {
+   "asins": [
+    "B0D5DBF7LC"
+   ],
+   "title": "Sundae Cup",
+   "anchors": [
+    "sundae cup"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "caramelized-raisin-sundae-recipe"
+  }
+ },
+ {
+  "id": "suribachi-japanese-ridged-ceramic-mortar-and",
+  "name": "Suribachi (Japanese Ridged Ceramic Mortar and Pestle)",
+  "status": "no_match",
+  "reason": "No suribachi or mortar in candidates.",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "B000UEYXL8"
+   ],
+   "title": "Suribachi (Japanese Ridged Ceramic Mortar and Pestle)",
+   "anchors": [
+    "suribachi (Japanese ridged ceramic mortar and pestle)"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "gomashio-japanese-sesame-seed-salt-condiment-recipe"
+  }
+ },
+ {
+  "id": "swad-chana-dal-split-desi-chickpeas-4-lb",
+  "name": "Swad Chana Dal (Split Desi Chickpeas), 4 lb",
+  "status": "no_match",
+  "reason": "No chana dal in candidates.",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "B005ZEMHVG"
+   ],
+   "title": "Swad Chana Dal (Split Desi Chickpeas), 4 lb",
+   "anchors": [
+    "Chana Dal"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "chana-dal-in-the-style-of-puri-jagannath-temple-recipe"
+  }
+ },
+ {
+  "id": "swad-poha-thick-flattened-rice-2-lb",
+  "name": "Swad Poha Thick Flattened Rice, 2 lb",
+  "status": "no_match",
+  "reason": "No poha or flattened rice in candidates.",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "B004XTDSB2"
+   ],
+   "title": "Amazon.com : Spicy World Swad Poha THICK (Flattened Rice), 32 Ounce, 2 pound (pack of 1) : Indian Food : Grocery & Gourmet Food",
+   "anchors": [
+    "thick poha"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "poha-flattened-rice-with-coconut-and-cashews-recipe"
+  }
+ },
+ {
+  "id": "taggiascas",
+  "name": "Taggiascas",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B07HY8DW8L"
+   ],
+   "title": "Taggiascas",
+   "anchors": [
+    "Taggiascas"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "greek-green-bean-salad-recipe"
+  },
+  "primary": {
+   "merchant": "ChefShop.com",
+   "product": "Petricor 100% Taggiasca Olives in Brine",
+   "url": "https://www.chefshop.com/products/petricor-100-taggiasca-olives-in-brine",
+   "epc": null,
+   "rate": null,
+   "price": "$14.55",
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Taggiasca olives in brine from a different brand; Amazon listing details were not available."
+ },
+ {
+  "id": "tamales-101",
+  "name": "Tamales 101",
+  "status": "no_match",
+  "reason": "Book with no candidate (only Hot Tamales candy).",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "1580084281"
+   ],
+   "title": "Tamales 101",
+   "anchors": [
+    "Tamales 101"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "red-chili-sauce-for-tamales"
+  }
+ },
+ {
+  "id": "tamicon-brand",
+  "name": "Tamicon Brand",
+  "status": "no_match",
+  "reason": "No tamarind concentrate in candidates.",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "B000JSQDT0"
+   ],
+   "title": "Tamicon Brand",
+   "anchors": [
+    "Tamicon brand"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "fava-bean-ful-salad-with-tamarind-dressing-recipe"
+  }
+ },
+ {
+  "id": "tarragon",
+  "name": "Tarragon",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B0001M10LU"
+   ],
+   "title": "Tarragon",
+   "anchors": [
+    "tarragon"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "pappardelle-wit"
+  },
+  "primary": {
+   "merchant": "Savory Spice Shop, LLC",
+   "product": "French Tarragon",
+   "url": "https://www.savoryspiceshop.com/products/french-tarragon",
+   "epc": 0.33,
+   "rate": null,
+   "price": "$5.20",
+   "verified": true
+  },
+  "alternatives": [
+   {
+    "merchant": "The Spice House",
+    "product": "Tarragon",
+    "url": "https://www.thespicehouse.com/products/french-tarragon",
+    "epc": 0.21,
+    "rate": null,
+    "price": "$7.29",
+    "verified": true
+   }
+  ],
+  "note": "Dried French tarragon; assumes the Amazon item was dried tarragon, brand and size differ."
+ },
+ {
+  "id": "tart",
+  "name": "Tart",
+  "status": "no_match",
+  "reason": "Likely a tart pan; no bakeware among candidates.",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "B0000DIX7K"
+   ],
+   "title": "Tart",
+   "anchors": [
+    "Tart"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "nectarine-and-b"
+  }
+ }
+]

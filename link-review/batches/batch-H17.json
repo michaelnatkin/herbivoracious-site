@@ -1,0 +1,459 @@
+[
+  {
+    "id": "ratio-the-simple-codes-behind-the-craft-of",
+    "name": "Ratio: the Simple Codes Behind the Craft of Everyday Cooking",
+    "status": "no_match",
+    "reason": "Book; no book candidates in the searched catalogs.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "1416566112"
+      ],
+      "title": "Ratio: the Simple Codes Behind the Craft of Everyday Cooking",
+      "anchors": [
+        "Ratio: The Simple Codes Behind the Craft of Everyday Cooking"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "chocolate-chunk-bread-pudding-recipe"
+    }
+  },
+  {
+    "id": "raw-food-100-recipes-to-get-the-glow",
+    "name": "Raw Food / 100 Recipes to Get the Glow",
+    "status": "no_match",
+    "reason": "Book; no book candidates in the searched catalogs.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "0060793554"
+      ],
+      "title": "Raw Food / 100 Recipes to Get the Glow",
+      "anchors": [
+        "Raw Food / 100 Recipes To Get The Glow"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "to-play-video-m"
+    }
+  },
+  {
+    "id": "raw-sesame-seeds",
+    "name": "Raw Sesame Seeds",
+    "status": "match",
+    "kind": "same",
+    "confidence": "high",
+    "amazon": {
+      "asins": [
+        "B00B8DTH2K"
+      ],
+      "title": "Raw Sesame Seeds",
+      "anchors": [
+        "raw sesame seeds"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "gomashio-japanese-sesame-seed-salt-condiment-recipe"
+    },
+    "primary": {
+      "merchant": "Nuts.com",
+      "product": "Organic Sesame Seeds (Natural, Unhulled, Raw)",
+      "url": "https://www.nuts.com/products/organic-sesame-seeds-natural-unhulled-raw",
+      "epc": 0.38,
+      "rate": null,
+      "price": "$6.49",
+      "verified": true
+    },
+    "alternatives": [
+      {
+        "merchant": "Nuts.com",
+        "product": "Sesame Seeds (Hulled)",
+        "url": "https://www.nuts.com/products/sesame-seeds-hulled",
+        "epc": 0.38,
+        "rate": null,
+        "price": "$5.49",
+        "verified": true
+      }
+    ],
+    "note": "Raw (unhulled, organic) sesame seeds from Nuts.com; same ingredient, brand and size may differ."
+  },
+  {
+    "id": "red-curry-paste",
+    "name": "Red Curry Paste",
+    "status": "no_match",
+    "reason": "Only Thai red curry powder blends found, not a paste; Madras paste is a different cuisine.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B000SRMB3O"
+      ],
+      "title": "Red Curry Paste",
+      "anchors": [
+        "red curry paste"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "red-curry-fried-rice-with-seared-pineapple-recipe"
+    }
+  },
+  {
+    "id": "red-rice",
+    "name": "Red Rice",
+    "status": "no_match",
+    "reason": "No red rice in results (only vinegars, spices, other rice).",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B00198C8BG"
+      ],
+      "title": "Red Rice",
+      "anchors": [
+        "red rice"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "red-rice-and-avocado-with-crispy-burdock-chips-recipe"
+    }
+  },
+  {
+    "id": "rice-vermicelli",
+    "name": "Rice Vermicelli",
+    "status": "no_match",
+    "reason": "No rice noodles in results (only risotto/rice and chocolate vermicelli).",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B084YHJ2G7"
+      ],
+      "title": "Amazon.com : Rice Vermicelli Noodles (Authentic) | 2.6 lbs | Pack of 3 | Tasty For Ramen Noodles, Vietnamese Rice Noodles & Spring Rolls | Non-GMO & Gluten-Free | Four Elephants Brand : Grocery & Gourmet Food",
+      "anchors": [
+        "rice vermicelli"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "vietnamese-salad-rolls-goi-cuon-recipe"
+    }
+  },
+  {
+    "id": "roasted-red-or-yellow-peppers",
+    "name": "Roasted Red or Yellow Peppers",
+    "status": "match",
+    "kind": "equivalent",
+    "confidence": "medium",
+    "amazon": {
+      "asins": [
+        "B000SRI2HI"
+      ],
+      "title": "Roasted Red or Yellow Peppers",
+      "anchors": [
+        "roasted red or yellow peppers"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "ten-minute-chickpea-salad-with-feta-and-basil-recipe"
+    },
+    "primary": {
+      "merchant": "ChefShop.com",
+      "product": "Matiz Piquillo Peppers - Peru",
+      "url": "https://www.chefshop.com/products/matiz-piquillo-peppers-peru",
+      "epc": null,
+      "rate": null,
+      "price": "$7.95",
+      "verified": true
+    },
+    "alternatives": [],
+    "note": "Jarred roasted piquillo peppers, a close stand-in for roasted red peppers, though smaller and slightly sweeter."
+  },
+  {
+    "id": "roasting-in-hell-s-kitchen-temper-tantrums-f",
+    "name": "Roasting in Hell's Kitchen: Temper Tantrums, F Words, and the Pursuit of Perfection",
+    "status": "no_match",
+    "reason": "Book; no book candidates in the searched catalogs.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "0061191981"
+      ],
+      "title": "Roasting in Hell's Kitchen: Temper Tantrums, F Words, and the Pursuit of Perfection",
+      "anchors": [
+        "Roasting in Hell's Kitchen: Temper Tantrums, F Words, and the Pursuit of Perfection"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "battle-of-the-n"
+    }
+  },
+  {
+    "id": "rogov-s-guide-to-kosher-wines",
+    "name": "Rogov's Guide to Kosher Wines",
+    "status": "no_match",
+    "reason": "Book; no book candidates in the searched catalogs.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "1592642616"
+      ],
+      "title": "Rogov's Guide to Kosher Wines 2010: The World's 500 Best Kosher Wines: Rogov, Daniel: 9781592642618: Amazon.com: Books",
+      "anchors": [
+        "Rogov's Guide to Kosher Wines"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "best-kosher-for-passover-wines"
+    }
+  },
+  {
+    "id": "rolling-pin",
+    "name": "Rolling Pin",
+    "status": "no_match",
+    "reason": "No rolling pins in results.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B082WF6MG2"
+      ],
+      "title": "Rolling Pin",
+      "anchors": [
+        "rolling pin"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "rustic-peach-and-nectarine-crostata-recipe"
+    }
+  },
+  {
+    "id": "ruhlman",
+    "name": "Ruhlman",
+    "status": "no_match",
+    "reason": "Book; no book candidates in the searched catalogs.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "080508939X"
+      ],
+      "title": "Ruhlman",
+      "anchors": [
+        "Ruhlman"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "so-you-want-to-stage-intern-at-a-restaurant"
+    }
+  },
+  {
+    "id": "s-b-la-yu-chili-oil",
+    "name": "S&B La-Yu Chili Oil",
+    "status": "match",
+    "kind": "equivalent",
+    "confidence": "medium",
+    "amazon": {
+      "asins": [
+        "B0002YGS96"
+      ],
+      "title": "S&B La-Yu Chili Oil",
+      "anchors": [
+        "hot-chile sesame oil"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "tempeh-filled-potstickers-gyoza-recipe"
+    },
+    "primary": {
+      "merchant": "ChefShop.com",
+      "product": "Wadaman Rayu (Chili Sesame Oil)",
+      "url": "https://www.chefshop.com/products/wadaman-rayu-chili-sesame-oil",
+      "epc": null,
+      "rate": null,
+      "price": "$30.95",
+      "verified": true
+    },
+    "alternatives": [],
+    "note": "Wadaman rayu is a Japanese chili sesame oil, the same style as S&B La-Yu but a different brand and likely larger/pricier."
+  },
+  {
+    "id": "saco-buttermilk-powder",
+    "name": "Saco Buttermilk Powder",
+    "status": "no_match",
+    "reason": "No buttermilk powder in results (only pancake mix, milk powder, ranch seasoning).",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B0DXM6LYRX"
+      ],
+      "title": "Saco Buttermilk Powder",
+      "anchors": [
+        "Saco buttermilk powder"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "recipe-sesame-c-1"
+    }
+  },
+  {
+    "id": "sadaf-dried-mint-leaves-2-oz",
+    "name": "Sadaf Dried Mint Leaves (2 Oz)",
+    "status": "match",
+    "kind": "equivalent",
+    "confidence": "medium",
+    "amazon": {
+      "asins": [
+        "B00GUU6DX2"
+      ],
+      "title": "Sadaf Dried Mint Leaves (2 Oz)",
+      "anchors": [
+        "dried mint"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "persian-baked-zucchini-recipe"
+    },
+    "primary": {
+      "merchant": "Nuts.com",
+      "product": "Spearmint Leaves",
+      "url": "https://www.nuts.com/products/spearmint-leaves",
+      "epc": 0.38,
+      "rate": null,
+      "price": "$4.99",
+      "verified": true
+    },
+    "alternatives": [],
+    "note": "Dried spearmint leaves from Nuts.com instead of Sadaf brand dried mint; same ingredient, different brand."
+  },
+  {
+    "id": "salted-a-manifesto-on-the-world-s-most",
+    "name": "Salted: a Manifesto on the World's Most Essential Mineral, with Recipes",
+    "status": "no_match",
+    "reason": "Book; no book candidates in the searched catalogs.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "1580082629"
+      ],
+      "title": "Salted: a Manifesto on the World's Most Essential Mineral, with Recipes",
+      "anchors": [
+        "Salted: A Manifesto on the World&#39",
+        "s Most Essential Mineral, with Recipes"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "interview-with-mark-bitterman-leading-expert-on-culinary-salts"
+    }
+  },
+  {
+    "id": "sanding-sugar",
+    "name": "Sanding Sugar",
+    "status": "match",
+    "kind": "same",
+    "confidence": "high",
+    "amazon": {
+      "asins": [
+        "B0D9HM7XHK"
+      ],
+      "title": "Sanding Sugar",
+      "anchors": [
+        "sanding sugar"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "rustic-peach-and-nectarine-crostata-recipe"
+    },
+    "primary": {
+      "merchant": "Nuts.com",
+      "product": "Sanding Sugar (White)",
+      "url": "https://www.nuts.com/products/sanding-sugar-white",
+      "epc": 0.38,
+      "rate": null,
+      "price": "$10.49",
+      "verified": true
+    },
+    "alternatives": [],
+    "note": "White sanding sugar from Nuts.com; same product type, brand may differ."
+  },
+  {
+    "id": "saveur",
+    "name": "Saveur",
+    "status": "no_match",
+    "reason": "Magazine; nothing relevant in results.",
+    "needs_web": false,
+    "amazon": {
+      "asins": [
+        "B00005N7SL"
+      ],
+      "title": "Saveur",
+      "anchors": [
+        "Saveur"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "book-review-bes"
+    }
+  },
+  {
+    "id": "scharffen-berger",
+    "name": "Scharffen-Berger",
+    "status": "no_match",
+    "reason": "No candidates returned for this chocolate brand.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B005XCYFDI"
+      ],
+      "title": "Scharffen-Berger",
+      "anchors": [
+        "Scharffen-Berger"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "recipe-valentin"
+    }
+  },
+  {
+    "id": "scotch-bonnet",
+    "name": "Scotch Bonnet",
+    "status": "no_match",
+    "reason": "No fresh or dried scotch bonnet peppers in results (only hot sauce, chocolate, habanero powder).",
+    "needs_web": false,
+    "amazon": {
+      "asins": [
+        "B00U9W5YFK"
+      ],
+      "title": "Scotch Bonnet",
+      "anchors": [
+        "scotch bonnet"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "island-style-sweet-and-spicy-cabbage-recipe"
+    }
+  },
+  {
+    "id": "scratch-diastatic-malt-powder-for-baking",
+    "name": "Scratch Diastatic Malt Powder for Baking",
+    "status": "match",
+    "kind": "equivalent",
+    "confidence": "high",
+    "amazon": {
+      "asins": [
+        "B0CBW3D9T7"
+      ],
+      "title": "Scratch Diastatic Malt Powder for Baking",
+      "anchors": [
+        "malt powder"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "crunchy-crusted-yeast-raised-belgian-waffles-recipe"
+    },
+    "primary": {
+      "merchant": "ChefShop.com",
+      "product": "Diastatic Barley Malt Powder",
+      "url": "https://www.chefshop.com/products/barley-malt-powder-diastatic-dry",
+      "epc": null,
+      "rate": null,
+      "price": "$6.95",
+      "verified": true
+    },
+    "alternatives": [],
+    "note": "Diastatic barley malt powder for baking, same ingredient as Scratch brand but a different brand."
+  }
+]

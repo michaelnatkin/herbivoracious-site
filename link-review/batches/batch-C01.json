@@ -1,0 +1,158 @@
+[
+ {
+  "id": "tortilla-press-2",
+  "name": "Tortilla Press",
+  "status": "match",
+  "kind": "same",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B00HWEIKZO"
+   ],
+   "title": "Tortilla Press",
+   "anchors": [
+    "tortilla press"
+   ],
+   "links": 2,
+   "posts": 2,
+   "example_post": "gorditas-with-roasted-mushrooms-recipe"
+  },
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "Cast Iron Tortilla Press, 8\"",
+   "url": "https://www.surlatable.com/product/cast-iron-tortilla-press-8/2921047",
+   "epc": 0.06,
+   "rate": 9,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser search page"
+  },
+  "alternatives": [],
+  "note": "Cast iron tortilla press; same kind of tool as the Amazon item."
+ },
+ {
+  "id": "double-boiler",
+  "name": "Double Boiler",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B00004RGB7",
+    "B01N2LVGH0"
+   ],
+   "title": "Amazon.com: Stainless Steel Double Boiler Pot for Melting Chocolate,Candle Making 480ML | Melting Pot for Candle,Soap Making 2 Cup Capacity: Home & Kitchen",
+   "anchors": [
+    "double boiler"
+   ],
+   "links": 2,
+   "posts": 2,
+   "example_post": "zabaglione-with-roasted-plums-recipe"
+  },
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "Sur La Table Signature Stainless Steel Double Boiler, 2 qt.",
+   "url": "https://www.surlatable.com/product/sur-la-table-signature-stainless-steel-double-boiler-2-qt/7312788",
+   "epc": 0.06,
+   "rate": 9,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser search page"
+  },
+  "alternatives": [],
+  "note": "Stainless double boiler for melting chocolate; a different brand and size than the Amazon pot."
+ },
+ {
+  "id": "mini-muffin-tin",
+  "name": "Mini-Muffin Tin",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B004EBS16G",
+    "B0D9YCT6GQ"
+   ],
+   "title": "Amazon.com: Bake Choice Mini Muffin Pan with 200 Cupcake Liners, Mini Cupcake Pans | Nonstick 24 Cup, Muffin Tin, Carbon Steel Baking Supplies: Home & Kitchen",
+   "anchors": [
+    "mini-cupcake tins",
+    "mini-muffin tin"
+   ],
+   "links": 2,
+   "posts": 2,
+   "example_post": "sugar-high-frid"
+  },
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "Sur La Table Platinum Pro Mini Muffin Pan, 24 Count",
+   "url": "https://www.surlatable.com/product/sur-la-table-platinum-pro-mini-muffin-pan/685404",
+   "epc": 0.06,
+   "rate": 9,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser search page"
+  },
+  "alternatives": [],
+  "note": "Mini muffin pan; a different brand than the Amazon item (which bundled liners)."
+ },
+ {
+  "id": "sensarte-nonstick-crepe-pan-10",
+  "name": "sensarte-nonstick-crepe-pan-10",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [],
+   "title": "sensarte-nonstick-crepe-pan-10",
+   "anchors": [],
+   "links": 0,
+   "posts": 0,
+   "example_post": ""
+  },
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "Le Creuset Toughened Nonstick PRO Cr\u00eape Pan, 11\"",
+   "url": "https://www.surlatable.com/product/le-creuset-toughened-nonstick-pro-crepe-pan-11/6573372",
+   "epc": 0.06,
+   "rate": 9,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser search page"
+  },
+  "alternatives": [],
+  "note": "Nonstick cr\u00eape pan, far pricier than the Amazon pan. Sur La Table's own carbon steel cr\u00eape pan is a cheaper but non-nonstick option."
+ },
+ {
+  "id": "ring-mold",
+  "name": "Ring Mold",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "low",
+  "amazon": {
+   "asins": [
+    "B00IVFJDKY",
+    "B01IO57N0W",
+    "B0861D8DTN"
+   ],
+   "title": "Amazon.com: HULISEN 3\u201d Round Cake Ring Mold, Stainless Steel Cooking Crumpet Rings | 4 Food Forms & 1 Pusher, Dishwasher Safe, Home Cooks and Bakers, Tuna Tartare, Pancakes, Salads and Mousse : Home & Kitchen",
+   "anchors": [
+    "ring mold"
+   ],
+   "links": 3,
+   "posts": 3,
+   "example_post": "risotto-cake-with-crispy-ramps-recipe"
+  },
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "Ateco Expandable Cake Ring (6.25\" to 8.5\")",
+   "url": "https://www.surlatable.com/product/ateco-expandable-cake-ring/7896012",
+   "epc": 0.06,
+   "rate": 9,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser search page"
+  },
+  "alternatives": [],
+  "note": "The Amazon item was a small 3-inch ring mold; this is a larger adjustable cake ring, so check it suits."
+ }
+]

@@ -3338,11 +3338,12 @@
   "malic-acid": {
     "name": "Malic Acid",
     "category": "pantry-staples",
-    "url": "https://www.amazon.com/dp/B00D4SBI3I?tag=herb-hugo-20",
+    "url": "https://www.nuts.com/products/malic-acid",
     "original_url": "https://www.amazon.com/dp/B00D4SBI3I?tag=herb-hugo-20",
     "asins": [
       "B00D4SBI3I"
-    ]
+    ],
+    "merchant": "Nuts.com"
   },
   "mama-lil-s-spicy-peppers": {
     "name": "Mama Lil's Spicy Peppers",
@@ -3409,11 +3410,12 @@
   "marcona-almonds": {
     "name": "Marcona Almonds",
     "category": "pantry-staples",
-    "url": "https://www.amazon.com/dp/B0DYDFVG12?tag=herb-hugo-20",
+    "url": "https://www.nuts.com/products/marcona-almonds",
     "original_url": "https://www.amazon.com/dp/B0DYDFVG12?tag=herb-hugo-20",
     "asins": [
       "B0DYDFVG12"
-    ]
+    ],
+    "merchant": "Nuts.com"
   },
   "marieke-aged-gouda-cheese-16-oz": {
     "name": "Marieke Aged Gouda Cheese (16 Oz)",
@@ -3427,11 +3429,12 @@
   "marmite": {
     "name": "Marmite",
     "category": "condiments-sauces",
-    "url": "https://www.amazon.com/dp/B00014VTNW?tag=herb-hugo-20",
+    "url": "https://www.chefshop.com/products/marmite-yeast-extract",
     "original_url": "https://www.amazon.com/dp/B00014VTNW?tag=herb-hugo-20",
     "asins": [
       "B00014VTNW"
-    ]
+    ],
+    "merchant": "ChefShop.com"
   },
   "marsala-wine": {
     "name": "Marsala Wine",
@@ -3569,12 +3572,13 @@
   "mini-muffin-tin": {
     "name": "Mini-Muffin Tin",
     "category": "bakeware-tools",
-    "url": "https://www.amazon.com/dp/B0D9YCT6GQ?tag=herb-hugo-20",
+    "url": "https://www.surlatable.com/product/sur-la-table-platinum-pro-mini-muffin-pan/685404",
     "original_url": "https://www.amazon.com/dp/B0D9YCT6GQ?tag=herb-hugo-20",
     "asins": [
       "B004EBS16G",
       "B0D9YCT6GQ"
-    ]
+    ],
+    "merchant": "Sur La Table"
   },
   "mirin": {
     "name": "mirin",
@@ -4361,11 +4365,12 @@
   "raw-sesame-seeds": {
     "name": "Raw Sesame Seeds",
     "category": "spices-seasonings",
-    "url": "https://www.amazon.com/dp/B00B8DTH2K?tag=herb-hugo-20",
+    "url": "https://www.nuts.com/products/organic-sesame-seeds-natural-unhulled-raw",
     "original_url": "https://www.amazon.com/dp/B00B8DTH2K?tag=herb-hugo-20",
     "asins": [
       "B00B8DTH2K"
-    ]
+    ],
+    "merchant": "Nuts.com"
   },
   "real-maple-syrup": {
     "name": "Real Maple Syrup",
@@ -4612,11 +4617,12 @@
   "sanding-sugar": {
     "name": "Sanding Sugar",
     "category": "sweeteners-chocolate",
-    "url": "https://www.amazon.com/dp/B0D9HM7XHK?tag=herb-hugo-20",
+    "url": "https://www.nuts.com/products/sanding-sugar-white",
     "original_url": "https://www.amazon.com/dp/B0D9HM7XHK?tag=herb-hugo-20",
     "asins": [
       "B0D9HM7XHK"
-    ]
+    ],
+    "merchant": "Nuts.com"
   },
   "saveur": {
     "name": "Saveur",
@@ -4657,11 +4663,12 @@
   "scratch-diastatic-malt-powder-for-baking": {
     "name": "Scratch Diastatic Malt Powder for Baking",
     "category": "pantry-staples",
-    "url": "https://www.amazon.com/dp/B0CBW3D9T7?tag=herb-hugo-20",
+    "url": "https://www.chefshop.com/products/barley-malt-powder-diastatic-dry",
     "original_url": "https://www.amazon.com/dp/B0CBW3D9T7?tag=herb-hugo-20",
     "asins": [
       "B0CBW3D9T7"
-    ]
+    ],
+    "merchant": "ChefShop.com"
   },
   "seductions-of-rice": {
     "name": "Seductions of Rice",
@@ -5073,12 +5080,13 @@
   },
   "sumac": {
     "name": "sumac",
-    "url": "https://www.amazon.com/dp/B00886NHDK?tag=herb-hugo-20",
+    "url": "https://www.nuts.com/products/ground-sumac",
     "original_url": "https://www.amazon.com/dp/B00886NHDK?tag=herb-hugo-20",
     "asins": [
       "B00886NHDK"
     ],
-    "hidden": true
+    "hidden": true,
+    "merchant": "Nuts.com"
   },
   "sundae-cup": {
     "name": "Sundae Cup",
@@ -5633,11 +5641,12 @@
   "tortilla-press-2": {
     "name": "Tortilla Press",
     "category": "kitchen-gadgets",
-    "url": "https://www.amazon.com/dp/B00HWEIKZO?tag=herb-hugo-20",
+    "url": "https://www.surlatable.com/product/cast-iron-tortilla-press-8/2921047",
     "original_url": "https://www.amazon.com/dp/B00HWEIKZO?tag=herb-hugo-20",
     "asins": [
       "B00HWEIKZO"
-    ]
+    ],
+    "merchant": "Sur La Table"
   },
   "true-blood": {
     "name": "True Blood",

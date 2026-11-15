@@ -1,0 +1,78 @@
+[
+  {
+    "id": "shaved-black-truffle",
+    "name": "shaved black truffle",
+    "status": "match",
+    "kind": "equivalent",
+    "confidence": "medium",
+    "amazon": {
+      "asins": [
+        "B000M8O0ME"
+      ],
+      "title": "shaved black truffle (title unknown)",
+      "anchors": [],
+      "links": 0,
+      "posts": 0,
+      "example_post": ""
+    },
+    "primary": {
+      "merchant": "ChefShop.com",
+      "product": "Tartuflanghe Summer Truffle Slices in Olive Oil",
+      "url": "https://www.chefshop.com/products/tartuflanghe-summer-truffle-slices-in-olive-oil",
+      "epc": null,
+      "rate": null,
+      "price": "$41.55",
+      "verified": true
+    },
+    "alternatives": [
+      {
+        "merchant": "ChefShop.com",
+        "product": "Black Truffle Caviar",
+        "url": "https://www.chefshop.com/products/black-truffle-caviar",
+        "epc": null,
+        "rate": null,
+        "price": "$41.95",
+        "verified": true
+      }
+    ],
+    "note": "Sliced summer black truffles preserved in olive oil, a close equivalent to shaved black truffle; no fresh or exact-form match in the in-network catalogs, and the merchant has no EPC data."
+  },
+  {
+    "id": "truffle-oil-2",
+    "name": "truffle oil",
+    "status": "match",
+    "kind": "equivalent",
+    "confidence": "medium",
+    "amazon": {
+      "asins": [
+        "B0BDJ79T97"
+      ],
+      "title": "truffle oil (title unknown)",
+      "anchors": [],
+      "links": 0,
+      "posts": 0,
+      "example_post": ""
+    },
+    "primary": {
+      "merchant": "ChefShop.com",
+      "product": "Tartuflanghe White Truffle Olive Oil",
+      "url": "https://www.chefshop.com/products/tartuflanghe-white-truffle-olive-oil",
+      "epc": null,
+      "rate": null,
+      "price": "$48.95",
+      "verified": true
+    },
+    "alternatives": [
+      {
+        "merchant": "ChefShop.com",
+        "product": "Tartuflanghe Summer Black Truffle Olive Oil",
+        "url": "https://www.chefshop.com/products/tartuflanghe-summer-black-truffle-olive-oil",
+        "epc": null,
+        "rate": null,
+        "price": "$47.95",
+        "verified": true
+      }
+    ],
+    "note": "Real truffle-infused olive oil from a reputable Italian producer; the Amazon brand, size and white vs black variety are unknown, so this is an equivalent rather than the same item."
+  }
+]

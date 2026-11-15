@@ -2206,5 +2206,133 @@
    "price": null,
    "verified": true
   }
+ },
+ "tortilla-press-2": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "Sur La Table",
+   "product": "Cast Iron Tortilla Press, 8\"",
+   "url": "https://www.surlatable.com/product/cast-iron-tortilla-press-8/2921047",
+   "epc": 0.06,
+   "rate": 9,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser search page"
+  }
+ },
+ "mini-muffin-tin": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "Sur La Table",
+   "product": "Sur La Table Platinum Pro Mini Muffin Pan, 24 Count",
+   "url": "https://www.surlatable.com/product/sur-la-table-platinum-pro-mini-muffin-pan/685404",
+   "epc": 0.06,
+   "rate": 9,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser search page"
+  }
+ },
+ "malic-acid": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "Nuts.com",
+   "product": "Malic Acid",
+   "url": "https://www.nuts.com/products/malic-acid",
+   "epc": 0.38,
+   "rate": null,
+   "price": "$10.49",
+   "verified": true
+  }
+ },
+ "marcona-almonds": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "Nuts.com",
+   "product": "Marcona Almonds",
+   "url": "https://www.nuts.com/products/marcona-almonds",
+   "epc": 0.38,
+   "rate": null,
+   "price": "$9.99",
+   "verified": true
+  }
+ },
+ "marmite": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "ChefShop.com",
+   "product": "Marmite Yeast Extract",
+   "url": "https://www.chefshop.com/products/marmite-yeast-extract",
+   "epc": null,
+   "rate": null,
+   "price": "$8.35",
+   "verified": true
+  }
+ },
+ "raw-sesame-seeds": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "Nuts.com",
+   "product": "Organic Sesame Seeds (Natural, Unhulled, Raw)",
+   "url": "https://www.nuts.com/products/organic-sesame-seeds-natural-unhulled-raw",
+   "epc": 0.38,
+   "rate": null,
+   "price": "$6.49",
+   "verified": true
+  }
+ },
+ "sanding-sugar": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "Nuts.com",
+   "product": "Sanding Sugar (White)",
+   "url": "https://www.nuts.com/products/sanding-sugar-white",
+   "epc": 0.38,
+   "rate": null,
+   "price": "$10.49",
+   "verified": true
+  }
+ },
+ "scratch-diastatic-malt-powder-for-baking": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "ChefShop.com",
+   "product": "Diastatic Barley Malt Powder",
+   "url": "https://www.chefshop.com/products/barley-malt-powder-diastatic-dry",
+   "epc": null,
+   "rate": null,
+   "price": "$6.95",
+   "verified": true
+  }
+ },
+ "sumac": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "Nuts.com",
+   "product": "Ground Sumac",
+   "url": "https://www.nuts.com/products/ground-sumac",
+   "epc": 0.38,
+   "rate": null,
+   "price": "$16.99",
+   "verified": true
+  }
  }
 }
