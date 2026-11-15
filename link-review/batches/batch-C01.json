@@ -309,5 +309,71 @@
   },
   "alternatives": [],
   "note": "Hand citrus juicer; the Amazon item wasn't identified, so check it suits."
+ },
+ {
+  "id": "cream-whipper",
+  "name": "Cream Whipper",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B000A3L60U",
+    "B001U83TWW"
+   ],
+   "title": "Cream Whipper",
+   "anchors": [
+    "cream whipper"
+   ],
+   "links": 3,
+   "posts": 2,
+   "example_post": "compressed-cucumber-shiso-sake-infusion"
+  },
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "iSi Gourmet Whip Plus, 1 Pint",
+   "url": "https://www.surlatable.com/product/isi-r-stainless-steel-gourmet-non-aerosol-whipper-pint/634113",
+   "epc": 0.06,
+   "rate": 9,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser search page"
+  },
+  "alternatives": [],
+  "note": "Standard iSi cream whipper; the exact Amazon model wasn't identified."
+ },
+ {
+  "id": "chicago-metallic-half-sheet-pans",
+  "name": "Chicago Metallic Half-Sheet Pans",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B000RYPHRK",
+    "B003YKGRPK"
+   ],
+   "title": "Chicago Metallic Half-Sheet Pans",
+   "anchors": [
+    "Chicago Metallic half-sheet pans",
+    "Quarter sheet pan",
+    "sheet pan"
+   ],
+   "links": 3,
+   "posts": 3,
+   "example_post": "strawberries-and-cream-birthday-cake-momofuku-style"
+  },
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "Sur La Table Platinum Pro Heavy Duty Half Sheet Pan",
+   "url": "https://www.surlatable.com/product/sur-la-table-platinum-pro-heavy-duty-half-sheet-pan/5774617",
+   "epc": 0.06,
+   "rate": 9,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser search page"
+  },
+  "alternatives": [],
+  "note": "Heavy-duty half sheet pan; a different brand than Chicago Metallic."
  }
 ]
