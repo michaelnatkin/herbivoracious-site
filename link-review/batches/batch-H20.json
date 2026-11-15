@@ -1,0 +1,455 @@
+[
+  {
+    "id": "tawny-port",
+    "name": "Tawny Port",
+    "status": "no_match",
+    "reason": "Only foie gras pates returned; no port wine in network results.",
+    "needs_web": false,
+    "amazon": {
+      "asins": [
+        "B078HH75QH"
+      ],
+      "title": "Tawny Port",
+      "anchors": [
+        "tawny port"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "caramelized-raisin-sundae-recipe"
+    }
+  },
+  {
+    "id": "terex-al-5l-led-light-tower",
+    "name": "Terex AL-5L LED Light Tower",
+    "status": "no_match",
+    "reason": "No acceptable candidate in results",
+    "needs_web": false,
+    "amazon": {
+      "asins": [
+        "B004QTPK0G"
+      ],
+      "title": "Terex AL-5L LED Light Tower",
+      "anchors": [
+        "Terex AL-5L LED Light Tower"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "transparency-and-support"
+    }
+  },
+  {
+    "id": "the-adaptable-feast",
+    "name": "The Adaptable Feast",
+    "status": "no_match",
+    "reason": "Book; no book in candidate results",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "1570615837"
+      ],
+      "title": "The Adaptable Feast",
+      "anchors": [
+        "The Adaptable Feast"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "the-adaptable-feast-cookbook-review-and-a-chance-to-win-a-copy"
+    }
+  },
+  {
+    "id": "the-art-of-fermentation",
+    "name": "The Art of Fermentation",
+    "status": "no_match",
+    "reason": "Book; no book in candidate results",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "160358286X"
+      ],
+      "title": "The Art of Fermentation",
+      "anchors": [
+        "The Art of Fermentation"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "making-your-own-kimchi-recipe"
+    }
+  },
+  {
+    "id": "the-book",
+    "name": "The Book",
+    "status": "no_match",
+    "reason": "Book; no book in candidate results",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "0897166159"
+      ],
+      "title": "The Book",
+      "anchors": [
+        "the book"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "espresso-vivace-seattle-wa-capitol-hill-south-lake-union-capsule-review"
+    }
+  },
+  {
+    "id": "the-curious-cook-more-kitchen-science-and-lore",
+    "name": "The Curious Cook: More Kitchen Science and Lore by Harold McGee",
+    "status": "no_match",
+    "reason": "Book; no book in candidate results",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "0020098014"
+      ],
+      "title": "The Curious Cook: More Kitchen Science and Lore by Harold McGee",
+      "anchors": [
+        "The Curious Cook: More Kitchen Science and Lore"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "recipe-fresh-sp"
+    }
+  },
+  {
+    "id": "the-farm-to-table-cookbook-the-art-of-eating",
+    "name": "The Farm to Table Cookbook: the Art of Eating Locally",
+    "status": "no_match",
+    "reason": "Book; no book in candidate results",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "1570615292"
+      ],
+      "title": "The Farm to Table Cookbook: the Art of Eating Locally",
+      "anchors": [
+        "The Farm to Table Cookbook: The Art of Eating Locally"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "cherry-pumpkin"
+    }
+  },
+  {
+    "id": "the-fat-duck-cookbook",
+    "name": "The Fat Duck Cookbook",
+    "status": "no_match",
+    "reason": "Book; no book in candidate results",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "160819020X"
+      ],
+      "title": "The Fat Duck Cookbook",
+      "anchors": [
+        "The Fat Duck Cookbook"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "umami-packed-vegetarian-broth-recipe-also-vegan"
+    }
+  },
+  {
+    "id": "the-improvisational-cook",
+    "name": "The Improvisational Cook",
+    "status": "no_match",
+    "reason": "Book; no book in candidate results",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "0060731648"
+      ],
+      "title": "The Improvisational Cook",
+      "anchors": [
+        "The Improvisational Cook"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "recipe-double-c"
+    }
+  },
+  {
+    "id": "the-mushroom-hunters",
+    "name": "The Mushroom Hunters",
+    "status": "no_match",
+    "reason": "Book; no book in candidate results",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "0345536258"
+      ],
+      "title": "The Mushroom Hunters",
+      "anchors": [
+        "The Mushroom Hunters"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "chanterelle-tostadas-recipes"
+    }
+  },
+  {
+    "id": "the-nasty-bits",
+    "name": "The Nasty Bits",
+    "status": "no_match",
+    "reason": "Book; no book in candidate results",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B002UM5BHS"
+      ],
+      "title": "The Nasty Bits",
+      "anchors": [
+        "The Nasty Bits"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "winter-food-b-1"
+    }
+  },
+  {
+    "id": "the-spice-lab-cyprus-black-flake-sea-salt-4-oz",
+    "name": "The Spice Lab Cyprus Black Flake Sea Salt 4 oz",
+    "status": "match",
+    "kind": "equivalent",
+    "confidence": "medium",
+    "amazon": {
+      "asins": [
+        "B00IQW7UFW"
+      ],
+      "title": "The Spice Lab Cyprus Black Flake Sea Salt 4 oz",
+      "anchors": [
+        "flaky black sea salt"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "tomato-sushi-yes-thats-vegetarian-recipe"
+    },
+    "primary": {
+      "merchant": "ChefShop.com",
+      "product": "Fossil River Black Flake Salt",
+      "url": "https://www.chefshop.com/products/fossil-river-black-flake-salt",
+      "epc": null,
+      "rate": null,
+      "price": "$12.95",
+      "verified": true
+    },
+    "alternatives": [],
+    "note": "Fossil River Black Flake Salt is a different brand of black flake finishing salt than the Spice Lab Cyprus one; size may differ."
+  },
+  {
+    "id": "think-like-a-chef",
+    "name": "Think Like a Chef",
+    "status": "no_match",
+    "reason": "Book; no book in candidate results",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "0307406954"
+      ],
+      "title": "Think Like a Chef",
+      "anchors": [
+        "Think Like a Chef"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "roasted-tomato-and-corn-risotto-recipe"
+    }
+  },
+  {
+    "id": "this-enormous-roll",
+    "name": "this enormous roll",
+    "status": "no_match",
+    "reason": "No acceptable candidate in results",
+    "needs_web": false,
+    "amazon": {
+      "asins": [
+        "B001AEOAXS"
+      ],
+      "title": "this enormous roll",
+      "anchors": [
+        "this enormous roll"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "strawberries-and-cream-birthday-cake-momofuku-style"
+    }
+  },
+  {
+    "id": "this-one-from-beaufor",
+    "name": "this one from Beaufor",
+    "status": "no_match",
+    "reason": "Beaufor is a whole grain mustard; only Beaufort cheese returned, a different product",
+    "needs_web": false,
+    "amazon": {
+      "asins": [
+        "B000SR5VOU"
+      ],
+      "title": "this one from Beaufor",
+      "anchors": [
+        "this one from Beaufor"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "black-rice-fritter-with-turnips-and-horseradish-cream-recipe"
+    }
+  },
+  {
+    "id": "this-spatula-from-lamsonsharp",
+    "name": "This Spatula, from LamsonSharp",
+    "status": "no_match",
+    "reason": "Lamson fish spatula; no spatula candidates",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B00004WGUM"
+      ],
+      "title": "Amazon.com: Lamson Fish Spatula, Slotted Metal Turner, 3 x 6 In, Right Hand | Ultra Durable composite handle, dishwasher safe; flexible stainless blade; a dedicated left-handed model is available: Spatulas: Home & Kitchen",
+      "anchors": [
+        "This spatula, from LamsonSharp"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "the-joy-of-a-proper-spatula"
+    }
+  },
+  {
+    "id": "this-version",
+    "name": "this version",
+    "status": "no_match",
+    "reason": "Likely a spatula (post: the-joy-of-a-proper-spatula); candidates are spices/nuts",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B0006GT586"
+      ],
+      "title": "this version",
+      "anchors": [
+        "this version"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "the-joy-of-a-proper-spatula"
+    }
+  },
+  {
+    "id": "toasted-fennel-seeds",
+    "name": "Toasted Fennel Seeds",
+    "status": "match",
+    "kind": "equivalent",
+    "confidence": "medium",
+    "amazon": {
+      "asins": [
+        "B07HWYXTNQ"
+      ],
+      "title": "Toasted Fennel Seeds",
+      "anchors": [
+        "toasted fennel seeds"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "goat-cheese-asparagus-and-beet-salad-with-herb-flowers-recipe"
+    },
+    "primary": {
+      "merchant": "Savory Spice Shop, LLC",
+      "product": "Fennel Seeds",
+      "url": "https://www.savoryspiceshop.com/products/fennel-seeds",
+      "epc": 0.33,
+      "rate": null,
+      "price": "$4.40",
+      "verified": true
+    },
+    "alternatives": [
+      {
+        "merchant": "The Spice House",
+        "product": "Fennel, Whole Seeds",
+        "url": "https://www.thespicehouse.com/products/fennel-seeds",
+        "epc": 0.21,
+        "rate": null,
+        "price": "$6.29",
+        "verified": true
+      },
+      {
+        "merchant": "ChefShop.com",
+        "product": "Fennel Seeds",
+        "url": "https://www.chefshop.com/products/fennel-seeds",
+        "epc": null,
+        "rate": null,
+        "price": "$4.95",
+        "verified": true
+      }
+    ],
+    "note": "Whole fennel seeds, not pre-toasted like the Amazon item; toast them at home."
+  },
+  {
+    "id": "toasted-hazelnuts",
+    "name": "Toasted Hazelnuts",
+    "status": "match",
+    "kind": "equivalent",
+    "confidence": "high",
+    "amazon": {
+      "asins": [
+        "B0797CV511"
+      ],
+      "title": "Toasted Hazelnuts",
+      "anchors": [
+        "toasted hazelnuts"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "warm-frisee-salad-with-brown-butter-vinaigrette-recipe"
+    },
+    "primary": {
+      "merchant": "Nuts.com",
+      "product": "Roasted Hazelnuts / Filberts (Unsalted)",
+      "url": "https://www.nuts.com/products/roasted-hazelnuts-filberts-unsalted",
+      "epc": 0.38,
+      "rate": null,
+      "price": "$20.99",
+      "verified": true
+    },
+    "alternatives": [
+      {
+        "merchant": "Nuts.com",
+        "product": "Roasted Hazelnuts / Filberts (Salted)",
+        "url": "https://www.nuts.com/products/roasted-hazelnuts-filberts-salted",
+        "epc": 0.38,
+        "rate": null,
+        "price": "$20.99",
+        "verified": true
+      }
+    ],
+    "note": "Unsalted roasted hazelnuts from Nuts.com in place of the Amazon roasted hazelnuts; brand and pack size may differ."
+  },
+  {
+    "id": "toasted-walnut-halves",
+    "name": "Toasted Walnut Halves",
+    "status": "match",
+    "kind": "equivalent",
+    "confidence": "medium",
+    "amazon": {
+      "asins": [
+        "B08KRC5Q4M"
+      ],
+      "title": "Toasted Walnut Halves",
+      "anchors": [
+        "toasted walnut halves"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "watermelon-radish-and-watercress-salad-recipe"
+    },
+    "primary": {
+      "merchant": "Nuts.com",
+      "product": "English Walnut Halves (Raw, No Shell)",
+      "url": "https://www.nuts.com/products/english-walnut-halves-raw-no-shell",
+      "epc": 0.38,
+      "rate": null,
+      "price": "$11.99",
+      "verified": true
+    },
+    "alternatives": [],
+    "note": "Raw walnut halves, not pre-toasted like the Amazon item; toast them at home."
+  }
+]

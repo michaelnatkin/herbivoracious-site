@@ -1,0 +1,517 @@
+[
+  {
+    "id": "toaster-oven",
+    "name": "Toaster Oven",
+    "status": "no_match",
+    "reason": "Appliance; candidates are unrelated toasted foods.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B004JMZGM2"
+      ],
+      "title": "Toaster Oven",
+      "anchors": [
+        "toaster oven"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "hatch-chiles-stuffed-with-cilantro-scrambled-egg-recipe"
+    }
+  },
+  {
+    "id": "tomatillos",
+    "name": "Tomatillos",
+    "status": "no_match",
+    "reason": "Candidates are unrelated; fresh/canned tomatillos not found.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B0046GX63M"
+      ],
+      "title": "Tomatillos",
+      "anchors": [
+        "tomatillos"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "swiss-chard-enchiladas-in-a-tomatillo-sauce-recipe"
+    }
+  },
+  {
+    "id": "tomato-paste",
+    "name": "Tomato Paste",
+    "status": "match",
+    "kind": "equivalent",
+    "confidence": "medium",
+    "amazon": {
+      "asins": [
+        "B00EHDWTB4"
+      ],
+      "title": "Tomato Paste",
+      "anchors": [
+        "tomato paste"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "baby-zucchini-and-blossoms-with-sofrito-recipe"
+    },
+    "primary": {
+      "merchant": "ChefShop.com",
+      "product": "Mutti Tomato Paste in Tube",
+      "url": "https://www.chefshop.com/products/tomato-paste-in-tube",
+      "epc": null,
+      "rate": null,
+      "price": "$5.95",
+      "verified": true
+    },
+    "alternatives": [
+      {
+        "merchant": "ChefShop.com",
+        "product": "Tomato Paste, Organic (Spain)",
+        "url": "https://www.chefshop.com/products/tomato-paste-organic-spain",
+        "epc": null,
+        "rate": null,
+        "price": "$7.95",
+        "verified": true
+      }
+    ],
+    "note": "Mutti tomato paste in a tube rather than the Amazon can/brand; same ingredient."
+  },
+  {
+    "id": "tortilla-press",
+    "name": "Tortilla Press",
+    "status": "no_match",
+    "reason": "No press among candidates (only masa harina and seasonings).",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B0000CF4N9"
+      ],
+      "title": "Tortilla Press",
+      "anchors": [
+        "tortilla press"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "pupusas-de-queso-salvadoran-cheese-filled-tortillas-recipe"
+    }
+  },
+  {
+    "id": "true-blood",
+    "name": "True Blood",
+    "status": "no_match",
+    "reason": "Pop-culture reference (True Blood); no sensible product in candidates.",
+    "needs_web": false,
+    "amazon": {
+      "asins": [
+        "B001FB4W0W"
+      ],
+      "title": "True Blood",
+      "anchors": [
+        "True Blood"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "potatoes-alioli"
+    }
+  },
+  {
+    "id": "truff-black-truffle-salt-fine-and-coarse-sea",
+    "name": "Truff Black Truffle Salt, Fine and Coarse Sea Salt",
+    "status": "match",
+    "kind": "equivalent",
+    "confidence": "medium",
+    "amazon": {
+      "asins": [
+        "B0BG9BNZDW"
+      ],
+      "title": "Truff Black Truffle Salt, Fine and Coarse Sea Salt",
+      "anchors": [
+        "truffle salt"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "blue-potato-tarts-recipe"
+    },
+    "primary": {
+      "merchant": "Savory Spice Shop, LLC",
+      "product": "Italian Black Truffle Sea Salt",
+      "url": "https://www.savoryspiceshop.com/products/italian-black-truffle-sea-salt",
+      "epc": 0.33,
+      "rate": null,
+      "price": "$13.99",
+      "verified": true
+    },
+    "alternatives": [],
+    "note": "Savory Spice black truffle sea salt instead of the Truff brand; same type of finishing salt."
+  },
+  {
+    "id": "truffle-salt",
+    "name": "Truffle Salt",
+    "status": "match",
+    "kind": "equivalent",
+    "confidence": "high",
+    "amazon": {
+      "asins": [
+        "B000ELVPSG"
+      ],
+      "title": "Truffle Salt",
+      "anchors": [
+        "Truffle Salt"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "salt-crazy-my-f"
+    },
+    "primary": {
+      "merchant": "Savory Spice Shop, LLC",
+      "product": "Italian Black Truffle Sea Salt",
+      "url": "https://www.savoryspiceshop.com/products/italian-black-truffle-sea-salt",
+      "epc": 0.33,
+      "rate": null,
+      "price": "$13.99",
+      "verified": true
+    },
+    "alternatives": [
+      {
+        "merchant": "The Spice House",
+        "product": "Salt, Truffle White",
+        "url": "https://www.thespicehouse.com/products/white-truffle-salt",
+        "epc": 0.21,
+        "rate": null,
+        "price": "$34.99",
+        "verified": true
+      }
+    ],
+    "note": "Black truffle sea salt from Savory Spice; same ingredient as generic truffle salt, brand may differ."
+  },
+  {
+    "id": "truffled-popcorn",
+    "name": "Truffled Popcorn",
+    "status": "no_match",
+    "reason": "Only truffle seasonings/salts, not ready-made truffled popcorn.",
+    "needs_web": false,
+    "amazon": {
+      "asins": [
+        "B0BNLYXVHJ"
+      ],
+      "title": "Truffled Popcorn",
+      "anchors": [
+        "truffled popcorn"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "foraging-in-bel"
+    }
+  },
+  {
+    "id": "try-this-one",
+    "name": "Try This One",
+    "status": "no_match",
+    "reason": "Link text is not a product name and Amazon title is unknown; candidates are random.",
+    "needs_web": false,
+    "amazon": {
+      "asins": [
+        "B00DPREMEK"
+      ],
+      "title": "Try This One",
+      "anchors": [
+        "try this one"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "mandu-koreanstyle-potstickers-with-ssamjang-kochujang-sauce-recipe"
+    }
+  },
+  {
+    "id": "ultra-tex-3",
+    "name": "Ultra-Tex 3",
+    "status": "no_match",
+    "reason": "No candidates returned for this modernist starch thickener.",
+    "needs_web": false,
+    "amazon": {
+      "asins": [
+        "B00BTI833I"
+      ],
+      "title": "Ultra-Tex 3",
+      "anchors": [
+        "Ultra-Tex 3"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "antigriddle-pudding-pop-bruleed-mango-black-sesame-tuile-recipe"
+    }
+  },
+  {
+    "id": "umeboshi-plums",
+    "name": "Umeboshi Plums",
+    "status": "match",
+    "kind": "equivalent",
+    "confidence": "low",
+    "amazon": {
+      "asins": [
+        "B001ASEUTI"
+      ],
+      "title": "Umeboshi Plums",
+      "anchors": [
+        "umeboshi plums"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "introduction-to"
+    },
+    "primary": {
+      "merchant": "ChefShop.com",
+      "product": "Yuasa Noen Organic Umeboshi (Uminosei)",
+      "url": "https://www.chefshop.com/products/yuasa-noen-organic-umeboshi-uminosei",
+      "epc": null,
+      "rate": null,
+      "price": "$159.00",
+      "verified": true
+    },
+    "alternatives": [],
+    "note": "Organic umeboshi from ChefShop, but priced at $159 so likely a large bulk size; check before approving."
+  },
+  {
+    "id": "unsalted-roasted-pistachio-kernels",
+    "name": "Unsalted, Roasted Pistachio Kernels",
+    "status": "match",
+    "kind": "same",
+    "confidence": "high",
+    "amazon": {
+      "asins": [
+        "B09TM34CD3"
+      ],
+      "title": "Unsalted, Roasted Pistachio Kernels",
+      "anchors": [
+        "unsalted, roasted pistachio kernels"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "roasted-asparagus-with-pistachio-puree-recipe"
+    },
+    "primary": {
+      "merchant": "Nuts.com",
+      "product": "Dry-Roasted Pistachios (Unsalted, No Shell)",
+      "url": "https://www.nuts.com/products/dry-roasted-pistachios-unsalted-no-shell",
+      "epc": 0.38,
+      "rate": null,
+      "price": "$1.97",
+      "verified": true
+    },
+    "alternatives": [],
+    "note": "Nuts.com dry-roasted unsalted shelled pistachios; same ingredient and form."
+  },
+  {
+    "id": "unsweetened-shredded-coconut",
+    "name": "Unsweetened Shredded Coconut",
+    "status": "match",
+    "kind": "equivalent",
+    "confidence": "medium",
+    "amazon": {
+      "asins": [
+        "B00LNURL94"
+      ],
+      "title": "Unsweetened Shredded Coconut",
+      "anchors": [
+        "unsweetened shredded coconut"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "five-minute-ind"
+    },
+    "primary": {
+      "merchant": "Nuts.com",
+      "product": "Organic Coconut (Shredded)",
+      "url": "https://www.nuts.com/products/organic-coconut-shredded",
+      "epc": 0.38,
+      "rate": null,
+      "price": "$9.99",
+      "verified": true
+    },
+    "alternatives": [
+      {
+        "merchant": "Nuts.com",
+        "product": "Coconut - Shredded",
+        "url": "https://www.nuts.com/products/coconut-shredded",
+        "epc": 0.38,
+        "rate": null,
+        "price": "$8.99",
+        "verified": true
+      },
+      {
+        "merchant": "ChefShop.com",
+        "product": "Dried Unsweetened Coconut - Wide Cut",
+        "url": "https://www.chefshop.com/products/dried-unsweetened-coconut-wide-cut",
+        "epc": null,
+        "rate": null,
+        "price": "$8.95",
+        "verified": true
+      }
+    ],
+    "note": "Nuts.com shredded coconut (organic); listing does not say unsweetened, so confirm; ChefShop alternative is explicitly unsweetened."
+  },
+  {
+    "id": "vanilla-bean",
+    "name": "Vanilla Bean",
+    "status": "match",
+    "kind": "same",
+    "confidence": "high",
+    "amazon": {
+      "asins": [
+        "B00PMUNF5A"
+      ],
+      "title": "Vanilla Bean",
+      "anchors": [
+        "vanilla bean"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "basic-baked-custard-recipe-an-easy-comforting-dessert-with-many-options"
+    },
+    "primary": {
+      "merchant": "Nuts.com",
+      "product": "Vanilla Beans",
+      "url": "https://www.nuts.com/products/vanilla-beans",
+      "epc": 0.38,
+      "rate": null,
+      "price": "$14.99",
+      "verified": true
+    },
+    "alternatives": [
+      {
+        "merchant": "Savory Spice Shop, LLC",
+        "product": "Madagascar Vanilla Beans",
+        "url": "https://www.savoryspiceshop.com/products/madagascar-vanilla-beans",
+        "epc": 0.33,
+        "rate": null,
+        "price": "$11.99",
+        "verified": true
+      },
+      {
+        "merchant": "The Spice House",
+        "product": "Vanilla Beans, Madagascar",
+        "url": "https://www.thespicehouse.com/products/madagascar-vanilla-beans",
+        "epc": 0.21,
+        "rate": null,
+        "price": "$9.99",
+        "verified": true
+      }
+    ],
+    "note": "Whole vanilla beans from Nuts.com; same ingredient and form."
+  },
+  {
+    "id": "vegan-mayonnaise",
+    "name": "Vegan Mayonnaise",
+    "status": "no_match",
+    "reason": "No vegan mayonnaise in candidates (ChefShop mayo is not vegan).",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B07B3PYTKN"
+      ],
+      "title": "Vegan Mayonnaise",
+      "anchors": [
+        "vegan mayonnaise"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "mexican-breakfast-torta-recipe"
+    }
+  },
+  {
+    "id": "vegenaise-which-is-quite-tasty",
+    "name": "Vegenaise, Which Is Quite Tasty",
+    "status": "no_match",
+    "reason": "Vegenaise not found in candidates.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B000QJAFY6"
+      ],
+      "title": "Vegenaise, Which Is Quite Tasty",
+      "anchors": [
+        "Vegenaise, which is quite tasty"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "green-garlic-and-mint-potato-salad-recipe"
+    }
+  },
+  {
+    "id": "vegetable-peeler",
+    "name": "Vegetable Peeler",
+    "status": "no_match",
+    "reason": "Tool; candidates are only foods and spices.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B00004OCIU"
+      ],
+      "title": "Vegetable Peeler",
+      "anchors": [
+        "vegetable peeler"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "recipe-white-as"
+    }
+  },
+  {
+    "id": "vermouth",
+    "name": "Vermouth",
+    "status": "no_match",
+    "reason": "Alcohol; no candidates are vermouth.",
+    "needs_web": false,
+    "amazon": {
+      "asins": [
+        "B005J0KRG8"
+      ],
+      "title": "Vermouth",
+      "anchors": [
+        "vermouth"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "braised-baby-artichoke-with-fennel-and-cherry-tomatoes-recipe"
+    }
+  },
+  {
+    "id": "w-sthof-classic-3-5-paring-knife",
+    "name": "W\u00fcsthof Classic 3.5\" Paring Knife",
+    "status": "no_match",
+    "reason": "No candidates returned for this knife.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B085V5Q2JR"
+      ],
+      "title": "W\u00fcsthof Classic 3.5\" Paring Knife",
+      "anchors": [
+        "W\u00dcSTHOF Classic 3.5\" Paring Knife"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "other-knives-kitchen-tools-hand-tools"
+    }
+  },
+  {
+    "id": "w-sthof-classic-8-bread-knife",
+    "name": "W\u00fcsthof Classic 8\" Bread Knife",
+    "status": "no_match",
+    "reason": "No candidates returned for this knife.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B00005MEGZ"
+      ],
+      "title": "W\u00fcsthof Classic 8\" Bread Knife",
+      "anchors": [
+        "W\u00dcSTHOF Classic 8\" Bread Knife"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "other-knives-kitchen-tools-hand-tools"
+    }
+  }
+]

@@ -1,0 +1,543 @@
+[
+  {
+    "id": "orange-infused-olive-oil",
+    "name": "Orange-Infused Olive Oil",
+    "status": "no_match",
+    "reason": "Only lemon and bergamot infused oils found; no orange-infused olive oil in candidates.",
+    "needs_web": false,
+    "amazon": {
+      "asins": [
+        "B000UA3H2S"
+      ],
+      "title": "Orange-Infused Olive Oil",
+      "anchors": [
+        "orange-infused olive oil (from ChefShop)"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "roasted-cauliflower-and-white-bean-salad-recipe"
+    }
+  },
+  {
+    "id": "order-them-from-amazon",
+    "name": "Order Them from Amazon",
+    "status": "no_match",
+    "reason": "Anchor text is generic; no identifiable product to match.",
+    "needs_web": false,
+    "amazon": {
+      "asins": [
+        "B00RENFSDU"
+      ],
+      "title": "Order Them from Amazon",
+      "anchors": [
+        "order them from Amazon"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "recipe-urad-dal"
+    }
+  },
+  {
+    "id": "pasilla-ancho-or-new-mexico",
+    "name": "Pasilla, Ancho, or New Mexico",
+    "status": "match",
+    "kind": "equivalent",
+    "confidence": "medium",
+    "amazon": {
+      "asins": [
+        "B07VGSD7L7"
+      ],
+      "title": "Pasilla, Ancho, or New Mexico",
+      "anchors": [
+        "pasilla, ancho, or New Mexico"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "khao-soi-thai-curry-noodles-from-chiang-mai"
+    },
+    "primary": {
+      "merchant": "ChefShop.com",
+      "product": "Dried Pasilla Negro Chili Pods",
+      "url": "https://www.chefshop.com/products/dried-pasilla-negro-chili-pods",
+      "epc": null,
+      "rate": null,
+      "price": "$7.95",
+      "verified": true
+    },
+    "alternatives": [
+      {
+        "merchant": "ChefShop.com",
+        "product": "Villa Jerada Pasilla Chile Whole Pods - 1 pound",
+        "url": "https://www.chefshop.com/products/villa-jerada-pasilla-chile-whole-pods-1-pound",
+        "epc": null,
+        "rate": null,
+        "price": "$20.95",
+        "verified": true
+      }
+    ],
+    "note": "Whole dried pasilla negro pods; the Amazon link covers pasilla, ancho or New Mexico chiles, so this matches only the pasilla option."
+  },
+  {
+    "id": "pasilla-oaxaca-or-other-whole-dried-chiles",
+    "name": "Pasilla Oaxaca or Other Whole Dried Chiles",
+    "status": "match",
+    "kind": "equivalent",
+    "confidence": "medium",
+    "amazon": {
+      "asins": [
+        "B081BX642W"
+      ],
+      "title": "Pasilla Oaxaca or Other Whole Dried Chiles",
+      "anchors": [
+        "pasilla oaxaca or other whole dried chiles"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "vegetarian-frijoles-charros-mexican-cowboy-beans-with-smoked-onion-recipe"
+    },
+    "primary": {
+      "merchant": "ChefShop.com",
+      "product": "Villa Jerada Pasilla Chile Whole Pods - 1 pound",
+      "url": "https://www.chefshop.com/products/villa-jerada-pasilla-chile-whole-pods-1-pound",
+      "epc": null,
+      "rate": null,
+      "price": "$20.95",
+      "verified": true
+    },
+    "alternatives": [
+      {
+        "merchant": "ChefShop.com",
+        "product": "Dried Pasilla Negro Chili Pods",
+        "url": "https://www.chefshop.com/products/dried-pasilla-negro-chili-pods",
+        "epc": null,
+        "rate": null,
+        "price": "$7.95",
+        "verified": true
+      }
+    ],
+    "note": "Whole dried pasilla chiles (not the Oaxaca variety specifically), same form as the Amazon item."
+  },
+  {
+    "id": "paste",
+    "name": "paste",
+    "status": "no_match",
+    "reason": "Anchor is just \"paste\"; product unidentifiable and candidates are unrelated.",
+    "needs_web": false,
+    "amazon": {
+      "asins": [
+        "B00NU1O7T6"
+      ],
+      "title": "paste",
+      "anchors": [
+        "paste"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "grilled-tofu-and-pepper-vegetarian-tacos-recipe"
+    }
+  },
+  {
+    "id": "pastry-flour",
+    "name": "Pastry Flour",
+    "status": "match",
+    "kind": "equivalent",
+    "confidence": "high",
+    "amazon": {
+      "asins": [
+        "B0D8RMQJX6"
+      ],
+      "title": "Pastry Flour",
+      "anchors": [
+        "pastry flour"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "madelines-with"
+    },
+    "primary": {
+      "merchant": "ChefShop.com",
+      "product": "Shepherd's Grain Pastry Flour - 2 pounds",
+      "url": "https://www.chefshop.com/products/shepherds-grain-pastry-flour-2-pounds",
+      "epc": null,
+      "rate": null,
+      "price": "$6.95",
+      "verified": true
+    },
+    "alternatives": [
+      {
+        "merchant": "ChefShop.com",
+        "product": "Shepherd's Grain Pastry Flour - 5 lb Bag",
+        "url": "https://www.chefshop.com/products/shepherds-grain-pastry-flour-5-pound-bag",
+        "epc": null,
+        "rate": null,
+        "price": "$10.95",
+        "verified": true
+      }
+    ],
+    "note": "Same ingredient (pastry flour); Shepherd's Grain brand, 2 lb bag (5 lb also available)."
+  },
+  {
+    "id": "penne-rigate",
+    "name": "Penne Rigate",
+    "status": "match",
+    "kind": "equivalent",
+    "confidence": "high",
+    "amazon": {
+      "asins": [
+        "B0014CTCAW"
+      ],
+      "title": "Penne Rigate",
+      "anchors": [
+        "penne rigate"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "baked-penne-with-mushrooms-and-fontina-recipe"
+    },
+    "primary": {
+      "merchant": "ChefShop.com",
+      "product": "Sgambaro Penne Rigate Pasta",
+      "url": "https://www.chefshop.com/products/sgambaro-penne-rigate-pasta",
+      "epc": null,
+      "rate": null,
+      "price": "$8.55",
+      "verified": true
+    },
+    "alternatives": [],
+    "note": "Same pasta shape (penne rigate), Sgambaro brand dried Italian pasta."
+  },
+  {
+    "id": "pepperoncini",
+    "name": "Pepperoncini",
+    "status": "no_match",
+    "reason": "Amazon item is presumably jarred pickled pepperoncini; candidates are dried hot chili flakes, a different form.",
+    "needs_web": false,
+    "amazon": {
+      "asins": [
+        "B000R49GTK"
+      ],
+      "title": "Pepperoncini",
+      "anchors": [
+        "pepperoncini"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "summer-leftover"
+    }
+  },
+  {
+    "id": "piment-d-espellete",
+    "name": "Piment D&#39;espellete",
+    "status": "match",
+    "kind": "equivalent",
+    "confidence": "high",
+    "amazon": {
+      "asins": [
+        "B002J6ARK6"
+      ],
+      "title": "Piment D&#39;espellete",
+      "anchors": [
+        "espellete",
+        "piment d&#39"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "herbivoracious-dinner-2"
+    },
+    "primary": {
+      "merchant": "ChefShop.com",
+      "product": "Biperduna Piment d'Espelette AOP",
+      "url": "https://www.chefshop.com/products/biperduna-piment-pepper-espelette-aop",
+      "epc": null,
+      "rate": null,
+      "price": "$16.95",
+      "verified": true
+    },
+    "alternatives": [],
+    "note": "Same ingredient, AOP Piment d'Espelette (Biperduna brand)."
+  },
+  {
+    "id": "pistachio-oil",
+    "name": "Pistachio Oil",
+    "status": "match",
+    "kind": "equivalent",
+    "confidence": "high",
+    "amazon": {
+      "asins": [
+        "B001PNYKLG"
+      ],
+      "title": "Pistachio Oil",
+      "anchors": [
+        "pistachio oil"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "saffron-date-posset-a-dessert-you-should-know-recipe"
+    },
+    "primary": {
+      "merchant": "ChefShop.com",
+      "product": "La Tourangelle Roasted Pistachio Oil",
+      "url": "https://www.chefshop.com/products/la-tourangelle-roasted-pistachio-oil",
+      "epc": null,
+      "rate": null,
+      "price": "$16.95",
+      "verified": true
+    },
+    "alternatives": [],
+    "note": "Same ingredient: La Tourangelle roasted pistachio oil."
+  },
+  {
+    "id": "pizza-peel",
+    "name": "Pizza Peel",
+    "status": "no_match",
+    "reason": "No pizza peel in candidates (only citrus peel and seasonings).",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B009LPDMUA"
+      ],
+      "title": "Pizza Peel",
+      "anchors": [
+        "pizza peel"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "grilled-pizza-fingerling-potatoes-blue-cheese-caramelized-onions-vegetarian-recipe"
+    }
+  },
+  {
+    "id": "plenty",
+    "name": "Plenty",
+    "status": "no_match",
+    "reason": "Book; not in searchable catalogs. Try Barnes & Noble.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "1452101248"
+      ],
+      "title": "Plenty",
+      "anchors": [
+        "Plenty"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "fried-artichokes-with-orange-olive-oil-emulsion-recipe"
+    }
+  },
+  {
+    "id": "polyscience-smoking-gun",
+    "name": "Polyscience Smoking Gun",
+    "status": "no_match",
+    "reason": "No smoking gun or similar tool in candidates.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B0082DNCHU"
+      ],
+      "title": "Polyscience Smoking Gun",
+      "anchors": [
+        "Polyscience smoking gun"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "smoked-tofu-buns-recipe"
+    }
+  },
+  {
+    "id": "press-weight-your-tofu",
+    "name": "Press (weight) Your Tofu",
+    "status": "no_match",
+    "reason": "No tofu press in candidates.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B01698J0RU"
+      ],
+      "title": "Press (weight) Your Tofu",
+      "anchors": [
+        "press (weight) your tofu"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "how-to-make-tofu-really-freaking-delicious-tofu-101"
+    }
+  },
+  {
+    "id": "pride-of-india-amchur-dry-mango-powder",
+    "name": "Pride of India Amchur Dry Mango Powder",
+    "status": "match",
+    "kind": "equivalent",
+    "confidence": "high",
+    "amazon": {
+      "asins": [
+        "B00QWROIYY"
+      ],
+      "title": "Amazon.com : Pride of India Dry Mango Powder 8 oz | Gourmet Amchur Powder Ground Spice | Aromatic, Tangy & Savory Mango Seasoning for Cooking, Baking, Marinades, Curry, Sauces & Chutney | No Fillers, Easy to Use : Grocery & Gourmet Food",
+      "anchors": [
+        "amchoor powder"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "the-value-of-acid-making-your-food-pop-part-2"
+    },
+    "primary": {
+      "merchant": "The Spice House",
+      "product": "Amchoor Powder",
+      "url": "https://www.thespicehouse.com/products/amchoor-powder",
+      "epc": 0.21,
+      "rate": null,
+      "price": "$9.79",
+      "verified": true
+    },
+    "alternatives": [
+      {
+        "merchant": "ChefShop.com",
+        "product": "Alphonso Mango Amchur (Dried Mango Powder)",
+        "url": "https://www.chefshop.com/products/alphonso-mango-amchur-amchoor",
+        "epc": null,
+        "rate": null,
+        "price": "$10.95",
+        "verified": true
+      }
+    ],
+    "note": "Same ingredient (amchoor dried mango powder), different brand."
+  },
+  {
+    "id": "pure-indian-foods-organic-jaggery-sugar-2-pack",
+    "name": "Pure Indian Foods Organic Jaggery Sugar, 2-Pack (1kg Total)",
+    "status": "match",
+    "kind": "equivalent",
+    "confidence": "medium",
+    "amazon": {
+      "asins": [
+        "B07RL3HYHS"
+      ],
+      "title": "Pure Indian Foods Organic Jaggery Sugar, 2-Pack (1kg Total)",
+      "anchors": [
+        "jaggery"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "recipe-brussel"
+    },
+    "primary": {
+      "merchant": "ChefShop.com",
+      "product": "Jaipur Avenue Unrefined Jaggery Powder",
+      "url": "https://www.chefshop.com/products/jaipur-avenue-unrefined-jaggery-powder",
+      "epc": null,
+      "rate": null,
+      "price": "$16.95",
+      "verified": true
+    },
+    "alternatives": [],
+    "note": "Unrefined jaggery powder from Jaipur Avenue; different brand and form/size than the 2-pack organic jaggery."
+  },
+  {
+    "id": "quiche-dish",
+    "name": "Quiche Dish",
+    "status": "no_match",
+    "reason": "No quiche dish or bakeware in candidates.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B09TDJCLJ2"
+      ],
+      "title": "Quiche Dish",
+      "anchors": [
+        "quiche dish"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "baked-eggs-with-chanterelles-and-chard-recipe"
+    }
+  },
+  {
+    "id": "raisins",
+    "name": "Raisins",
+    "status": "match",
+    "kind": "equivalent",
+    "confidence": "high",
+    "amazon": {
+      "asins": [
+        "B01GXPRIQY"
+      ],
+      "title": "Raisins",
+      "anchors": [
+        "raisins"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "caramelized-raisin-sauce-ala-michael-laiskonis"
+    },
+    "primary": {
+      "merchant": "Nuts.com",
+      "product": "Organic Raisins",
+      "url": "https://www.nuts.com/products/organic-raisins",
+      "epc": 0.38,
+      "rate": null,
+      "price": "$0.64",
+      "verified": true
+    },
+    "alternatives": [
+      {
+        "merchant": "ChefShop.com",
+        "product": "Organic Thompson Raisins",
+        "url": "https://www.chefshop.com/products/organic-thompson-raisins",
+        "epc": null,
+        "rate": null,
+        "price": "$8.95",
+        "verified": true
+      }
+    ],
+    "note": "Plain raisins; Nuts.com organic raisins."
+  },
+  {
+    "id": "rambutan",
+    "name": "Rambutan",
+    "status": "no_match",
+    "reason": "No rambutan in candidates; may be at Weee.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B00E65Z8G6"
+      ],
+      "title": "Rambutan",
+      "anchors": [
+        "rambutan"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "how-many-rams-c"
+    }
+  },
+  {
+    "id": "rani-fenugreek-leaves-dried-kasoori-methi",
+    "name": "Rani Fenugreek Leaves Dried (Kasoori Methi)",
+    "status": "match",
+    "kind": "equivalent",
+    "confidence": "high",
+    "amazon": {
+      "asins": [
+        "B018PUTG24"
+      ],
+      "title": "Rani Fenugreek Leaves Dried (Kasoori Methi)",
+      "anchors": [
+        "fenugreek leaves"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "indian-lentil-soup-with-fenugreek-or-methi-dal-guest-post-recipe"
+    },
+    "primary": {
+      "merchant": "The Spice House",
+      "product": "Fenugreek Leaves",
+      "url": "https://www.thespicehouse.com/products/fenugreek-leaves-dried",
+      "epc": 0.21,
+      "rate": null,
+      "price": "$6.49",
+      "verified": true
+    },
+    "alternatives": [],
+    "note": "Same ingredient (dried fenugreek leaves / kasoori methi), different brand."
+  }
+]

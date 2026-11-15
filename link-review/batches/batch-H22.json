@@ -1,0 +1,537 @@
+[
+  {
+    "id": "wheat-berries",
+    "name": "Wheat Berries",
+    "status": "no_match",
+    "reason": "Candidates are other berries or wheat germ; no whole wheat berries found.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B00A6TKLRC"
+      ],
+      "title": "Wheat Berries",
+      "anchors": [
+        "wheat berries"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "introduction-to"
+    }
+  },
+  {
+    "id": "wheat-bran",
+    "name": "Wheat Bran",
+    "status": "match",
+    "kind": "same",
+    "confidence": "high",
+    "amazon": {
+      "asins": [
+        "B083X4G99C"
+      ],
+      "title": "Wheat Bran",
+      "anchors": [
+        "wheat bran"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "bran-muffins"
+    },
+    "primary": {
+      "merchant": "Nuts.com",
+      "product": "Wheat Bran",
+      "url": "https://www.nuts.com/products/wheat-bran",
+      "epc": 0.38,
+      "rate": null,
+      "price": "$2.99",
+      "verified": true
+    },
+    "alternatives": [],
+    "note": "Plain wheat bran from Nuts.com; same ingredient as the Amazon item, brand and package size may differ."
+  },
+  {
+    "id": "white-asparagus",
+    "name": "White Asparagus",
+    "status": "no_match",
+    "reason": "No white asparagus (jarred or canned) in results.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B096BL9292"
+      ],
+      "title": "Amazon.com : Heaven & Earth White Asparagus Spears 12.5oz (6 Pack) | All Natural, Zero Fat, Low Calorie, Perfect for Snacking : Grocery & Gourmet Food",
+      "anchors": [
+        "white asparagus"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "recipe-white-as"
+    }
+  },
+  {
+    "id": "whopper-cake",
+    "name": "Whopper Cake",
+    "status": "no_match",
+    "reason": "Book; no book candidates.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "0689838441"
+      ],
+      "title": "Whopper Cake",
+      "anchors": [
+        "Whopper Cake"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "whopper-cake-book-review"
+    }
+  },
+  {
+    "id": "wilton-excelle-elite-non-stick-tart-pan-11-inch",
+    "name": "Wilton Excelle Elite Non-Stick Tart Pan, 11-Inch",
+    "status": "no_match",
+    "reason": "Results are food items only; no bakeware.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B0000DIX7Y"
+      ],
+      "title": "Wilton Excelle Elite Non-Stick Tart Pan, 11-Inch",
+      "anchors": [
+        "tart pan"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "heirloom-tomato-tart-recipe"
+    }
+  },
+  {
+    "id": "wine-aerator",
+    "name": "Wine Aerator",
+    "status": "no_match",
+    "reason": "Results are food items only; no wine accessories.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B00T1F5CSU"
+      ],
+      "title": "Wine Aerator",
+      "anchors": [
+        "wine aerator"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "best-kosher-for-passover-wines"
+    }
+  },
+  {
+    "id": "wine-decanter",
+    "name": "Wine Decanter",
+    "status": "no_match",
+    "reason": "Results are food items only; no wine accessories.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B01AVTQ1D4"
+      ],
+      "title": "Amazon.com | Le Chateau Wine Decanter - 100% Hand Blown Lead-free Crystal Glass, Red Wine Carafe, Wine Gift, Wine Accessories: Wine Decanters",
+      "anchors": [
+        "wine decanter"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "best-kosher-for-passover-wines"
+    }
+  },
+  {
+    "id": "wolff-s-is-a-common-brand",
+    "name": "Wolff's Is a Common Brand",
+    "status": "no_match",
+    "reason": "No kasha (buckwheat groats) in results.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B0005ZIWV4"
+      ],
+      "title": "Wolff's Is a Common Brand",
+      "anchors": [
+        "Wolff's is a common brand"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "kasha-pilaf-with-dates-pistachios-and-baharat-recipe"
+    }
+  },
+  {
+    "id": "wonton-wrappers",
+    "name": "Wonton Wrappers",
+    "status": "no_match",
+    "reason": "Results are unrelated spice blends.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B0F54QT5K8"
+      ],
+      "title": "Wonton Wrappers",
+      "anchors": [
+        "wonton wrappers"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "winter-green-du"
+    }
+  },
+  {
+    "id": "written-a-cookbook",
+    "name": "Written a Cookbook",
+    "status": "no_match",
+    "reason": "Book; no matching title in results.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "0786886129"
+      ],
+      "title": "Written a Cookbook",
+      "anchors": [
+        "written a cookbook"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "battle-of-the-n"
+    }
+  },
+  {
+    "id": "you-can-jump-right-over-to-amazon-and-get-it",
+    "name": "you can jump right over to Amazon and get it",
+    "status": "no_match",
+    "reason": "Anchor is generic and product cannot be identified from the files; no relevant candidate.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B00WDYGNIG"
+      ],
+      "title": "you can jump right over to Amazon and get it",
+      "anchors": [
+        "you can jump right over to Amazon and get it"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "dutch-baby-with-sauteed-apples-my-first-video-recipe"
+    }
+  },
+  {
+    "id": "yuzu",
+    "name": "yuzu",
+    "status": "no_match",
+    "reason": "Amazon product form unclear and no fresh/bottled yuzu juice in results; only unrelated citrus rubs, syrup, peel or kosho.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B0C2GMHVJZ"
+      ],
+      "title": "yuzu",
+      "anchors": [
+        "yuzu"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "new-years-feast"
+    }
+  },
+  {
+    "id": "yuzu-kosho",
+    "name": "Yuzu Kosho",
+    "status": "match",
+    "kind": "equivalent",
+    "confidence": "medium",
+    "amazon": {
+      "asins": [
+        "B08GHB829K"
+      ],
+      "title": "Yuzu Kosho",
+      "anchors": [
+        "Yuzu kosho"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "red-rice-and-avocado-with-crispy-burdock-chips-recipe"
+    },
+    "primary": {
+      "merchant": "ChefShop.com",
+      "product": "Yuzu Kosho - Green",
+      "url": "https://www.chefshop.com/products/yuzu-kosho-green",
+      "epc": null,
+      "rate": null,
+      "price": "$8.95",
+      "verified": true
+    },
+    "alternatives": [
+      {
+        "merchant": "ChefShop.com",
+        "product": "Yuzu Kosho - Red",
+        "url": "https://www.chefshop.com/products/yuzu-kosho-red",
+        "epc": null,
+        "rate": null,
+        "price": "$7.95",
+        "verified": true
+      },
+      {
+        "merchant": "The Spice House",
+        "product": "Yuzu Kosho Powder",
+        "url": "https://www.thespicehouse.com/products/yuzu-kosho-powder",
+        "epc": 0.21,
+        "rate": null,
+        "price": "$14.99",
+        "verified": true
+      }
+    ],
+    "note": "Yuzu kosho paste from ChefShop (green; red is the alternate); brand and heat level may differ from the Amazon item, and the Spice House alternate is a powder."
+  },
+  {
+    "id": "zaatar",
+    "name": "Zaatar",
+    "status": "match",
+    "kind": "same",
+    "confidence": "high",
+    "amazon": {
+      "asins": [
+        "B0CQMTLDF3"
+      ],
+      "title": "Zaatar",
+      "anchors": [
+        "Zaatar"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "warm-grapes-toasted-pita-bread-and-ricotta-salata-recipe"
+    },
+    "primary": {
+      "merchant": "Nuts.com",
+      "product": "Zaatar",
+      "url": "https://www.nuts.com/products/zaatar",
+      "epc": 0.38,
+      "rate": null,
+      "price": "$24.99",
+      "verified": true
+    },
+    "alternatives": [
+      {
+        "merchant": "Savory Spice Shop, LLC",
+        "product": "Za'atar",
+        "url": "https://www.savoryspiceshop.com/products/zaatar",
+        "epc": 0.33,
+        "rate": null,
+        "price": "$3.50",
+        "verified": true
+      },
+      {
+        "merchant": "The Spice House",
+        "product": "Za'atar",
+        "url": "https://www.thespicehouse.com/products/zaatar",
+        "epc": 0.21,
+        "rate": null,
+        "price": "$9.59",
+        "verified": true
+      }
+    ],
+    "note": "Za'atar blend; same ingredient as the Amazon item, brand and jar size may differ."
+  },
+  {
+    "id": "zatar",
+    "name": "Zatar",
+    "status": "match",
+    "kind": "same",
+    "confidence": "high",
+    "amazon": {
+      "asins": [
+        "B004PBZJF6"
+      ],
+      "title": "Zatar",
+      "anchors": [
+        "Zatar"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "phyllo-wrapped"
+    },
+    "primary": {
+      "merchant": "Nuts.com",
+      "product": "Zaatar",
+      "url": "https://www.nuts.com/products/zaatar",
+      "epc": 0.38,
+      "rate": null,
+      "price": "$24.99",
+      "verified": true
+    },
+    "alternatives": [
+      {
+        "merchant": "Savory Spice Shop, LLC",
+        "product": "Za'atar",
+        "url": "https://www.savoryspiceshop.com/products/zaatar",
+        "epc": 0.33,
+        "rate": null,
+        "price": "$3.50",
+        "verified": true
+      },
+      {
+        "merchant": "The Spice House",
+        "product": "Za'atar",
+        "url": "https://www.thespicehouse.com/products/zaatar",
+        "epc": 0.21,
+        "rate": null,
+        "price": "$9.59",
+        "verified": true
+      }
+    ],
+    "note": "Za'atar blend (alternate spelling); same ingredient as the Amazon item, brand and jar size may differ."
+  },
+  {
+    "id": "zyliss-soft-skin-peeler",
+    "name": "Zyliss Soft Skin Peeler",
+    "status": "no_match",
+    "reason": "No kitchen tools in results.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B078YNXVFT"
+      ],
+      "title": "Zyliss Soft Skin Peeler",
+      "anchors": [
+        "Zyliss Soft Skin Peeler"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "persimmon-parsley-and-olive-salad"
+    }
+  },
+  {
+    "id": "bucatini",
+    "name": "bucatini",
+    "status": "match",
+    "kind": "equivalent",
+    "confidence": "medium",
+    "amazon": {
+      "asins": [
+        "B0050ILALA"
+      ],
+      "title": "bucatini",
+      "anchors": [],
+      "links": 0,
+      "posts": 0,
+      "example_post": ""
+    },
+    "primary": {
+      "merchant": "ChefShop.com",
+      "product": "Bucatini Pasta - Rustichella",
+      "url": "https://www.chefshop.com/products/bucatini-pasta-rustichella",
+      "epc": null,
+      "rate": null,
+      "price": "$9.95",
+      "verified": true
+    },
+    "alternatives": [
+      {
+        "merchant": "ChefShop.com",
+        "product": "Gentile Organic Bucatini Pasta",
+        "url": "https://www.chefshop.com/products/gentile-organic-bucatini-pasta",
+        "epc": null,
+        "rate": null,
+        "price": "$10.95",
+        "verified": true
+      }
+    ],
+    "note": "Dried bucatini from a different (Italian artisan) brand than the Amazon item; no EPC data for ChefShop."
+  },
+  {
+    "id": "cherry-wood",
+    "name": "cherry wood",
+    "status": "no_match",
+    "reason": "Likely smoking wood; only a cherry-wood-smoked rice and cherry fruit in results.",
+    "needs_web": false,
+    "amazon": {
+      "asins": [
+        "B0B2TMFT6D"
+      ],
+      "title": "cherry wood",
+      "anchors": [],
+      "links": 0,
+      "posts": 0,
+      "example_post": ""
+    }
+  },
+  {
+    "id": "herbes-de-provence-2",
+    "name": "herbes de Provence",
+    "status": "match",
+    "kind": "same",
+    "confidence": "high",
+    "amazon": {
+      "asins": [
+        "B002OH6CO0"
+      ],
+      "title": "herbes de Provence",
+      "anchors": [],
+      "links": 0,
+      "posts": 0,
+      "example_post": ""
+    },
+    "primary": {
+      "merchant": "Savory Spice Shop, LLC",
+      "product": "Herbes de Provence",
+      "url": "https://www.savoryspiceshop.com/products/herbes-de-provence",
+      "epc": 0.33,
+      "rate": null,
+      "price": "$9.50",
+      "verified": true
+    },
+    "alternatives": [
+      {
+        "merchant": "The Spice House",
+        "product": "Herbes de Provence",
+        "url": "https://www.thespicehouse.com/products/herbes-de-provence",
+        "epc": 0.21,
+        "rate": null,
+        "price": "$8.29",
+        "verified": true
+      },
+      {
+        "merchant": "ChefShop.com",
+        "product": "Herbs de Provence",
+        "url": "https://www.chefshop.com/products/herbs-de-provence",
+        "epc": null,
+        "rate": null,
+        "price": "$6.95",
+        "verified": true
+      }
+    ],
+    "note": "Herbes de Provence blend; same ingredient as the Amazon item, brand and size may differ."
+  },
+  {
+    "id": "polenta",
+    "name": "polenta",
+    "status": "match",
+    "kind": "equivalent",
+    "confidence": "medium",
+    "amazon": {
+      "asins": [
+        "B07XLD2L6M"
+      ],
+      "title": "polenta",
+      "anchors": [],
+      "links": 0,
+      "posts": 0,
+      "example_post": ""
+    },
+    "primary": {
+      "merchant": "ChefShop.com",
+      "product": "Moretti Bramata Polenta Coarse Yellow",
+      "url": "https://www.chefshop.com/products/moretti-bramata-polenta-coarse-yellow",
+      "epc": null,
+      "rate": null,
+      "price": "$6.95",
+      "verified": true
+    },
+    "alternatives": [],
+    "note": "Coarse yellow Italian polenta; brand and grind may differ from the Amazon item, and no EPC data for ChefShop."
+  }
+]

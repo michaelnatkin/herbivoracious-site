@@ -895,20 +895,22 @@
   "cake-tester": {
     "name": "Cake Tester",
     "category": "bakeware-tools",
-    "url": "https://www.amazon.com/dp/B0018AHVSU?tag=herb-hugo-20",
+    "url": "https://www.surlatable.com/product/ateco-r-cake-tester-blue/654442",
     "original_url": "https://www.amazon.com/dp/B0018AHVSU?tag=herb-hugo-20",
     "asins": [
       "B0018AHVSU"
-    ]
+    ],
+    "merchant": "Sur La Table"
   },
   "cake-tester-2": {
     "name": "Cake Tester",
     "category": "kitchen-gadgets",
-    "url": "https://www.amazon.com/dp/B07FCL1ZXC?tag=herb-hugo-20",
+    "url": "https://www.surlatable.com/product/ateco-r-cake-tester-blue/654442",
     "original_url": "https://www.amazon.com/dp/B07FCL1ZXC?tag=herb-hugo-20",
     "asins": [
       "B07FCL1ZXC"
-    ]
+    ],
+    "merchant": "Sur La Table"
   },
   "calabro-whole-milk-ricotta-32-oz": {
     "name": "Calabro Whole Milk Ricotta, 32 oz",
@@ -2050,11 +2052,12 @@
   "fine-mesh-chinois-strainer": {
     "name": "Fine Mesh Chinois Strainer",
     "category": "kitchen-gadgets",
-    "url": "https://www.amazon.com/dp/B002JPJI7K?tag=herb-hugo-20",
+    "url": "https://www.surlatable.com/product/sur-la-table-fine-mesh-stainless-steel-chinois/2750438",
     "original_url": "https://www.amazon.com/dp/B002JPJI7K?tag=herb-hugo-20",
     "asins": [
       "B002JPJI7K"
-    ]
+    ],
+    "merchant": "Sur La Table"
   },
   "fine-mesh-sieve": {
     "name": "Fine Mesh Sieve",
@@ -2660,12 +2663,13 @@
   },
   "herbes-de-provence-2": {
     "name": "herbes de Provence",
-    "url": "https://www.amazon.com/dp/B002OH6CO0?tag=herb-hugo-20",
+    "url": "https://www.savoryspiceshop.com/products/herbes-de-provence",
     "original_url": "https://www.amazon.com/dp/B002OH6CO0?tag=herb-hugo-20",
     "asins": [
       "B002OH6CO0"
     ],
-    "hidden": true
+    "hidden": true,
+    "merchant": "Savory Spice Shop, LLC"
   },
   "herbivoracious-cookbook": {
     "name": "Herbivoracious: a Flavor Revolution, Michael Natkin",
@@ -4079,11 +4083,12 @@
   "pastry-flour": {
     "name": "Pastry Flour",
     "category": "grains-pasta-legumes",
-    "url": "https://www.amazon.com/dp/B0D8RMQJX6?tag=herb-hugo-20",
+    "url": "https://www.chefshop.com/products/shepherds-grain-pastry-flour-2-pounds",
     "original_url": "https://www.amazon.com/dp/B0D8RMQJX6?tag=herb-hugo-20",
     "asins": [
       "B0D8RMQJX6"
-    ]
+    ],
+    "merchant": "ChefShop.com"
   },
   "pecorino-romano": {
     "name": "Pecorino Romano",
@@ -4100,11 +4105,12 @@
   "penne-rigate": {
     "name": "Penne Rigate",
     "category": "grains-pasta-legumes",
-    "url": "https://www.amazon.com/dp/B0014CTCAW?tag=herb-hugo-20",
+    "url": "https://www.chefshop.com/products/sgambaro-penne-rigate-pasta",
     "original_url": "https://www.amazon.com/dp/B0014CTCAW?tag=herb-hugo-20",
     "asins": [
       "B0014CTCAW"
-    ]
+    ],
+    "merchant": "ChefShop.com"
   },
   "pepitas-green-hulled-pumpkin-seeds": {
     "name": "Pepitas (green, Hulled Pumpkin Seeds)",
@@ -4129,11 +4135,12 @@
   "piment-d-espellete": {
     "name": "Piment D&#39;espellete",
     "category": "spices-seasonings",
-    "url": "https://www.amazon.com/dp/B002J6ARK6?tag=herb-hugo-20",
+    "url": "https://www.chefshop.com/products/biperduna-piment-pepper-espelette-aop",
     "original_url": "https://www.amazon.com/dp/B002J6ARK6?tag=herb-hugo-20",
     "asins": [
       "B002J6ARK6"
-    ]
+    ],
+    "merchant": "ChefShop.com"
   },
   "pine-nuts": {
     "name": "Pine Nuts",
@@ -4148,11 +4155,12 @@
   "pistachio-oil": {
     "name": "Pistachio Oil",
     "category": "oils-vinegars",
-    "url": "https://www.amazon.com/dp/B001PNYKLG?tag=herb-hugo-20",
+    "url": "https://www.chefshop.com/products/la-tourangelle-roasted-pistachio-oil",
     "original_url": "https://www.amazon.com/dp/B001PNYKLG?tag=herb-hugo-20",
     "asins": [
       "B001PNYKLG"
-    ]
+    ],
+    "merchant": "ChefShop.com"
   },
   "pizza-peel": {
     "name": "Pizza Peel",
@@ -4246,11 +4254,12 @@
   "pride-of-india-amchur-dry-mango-powder": {
     "name": "Pride of India Amchur Dry Mango Powder",
     "category": "middle-eastern-indian-pantry",
-    "url": "https://www.amazon.com/dp/B00QWROIYY?tag=herb-hugo-20",
+    "url": "https://www.thespicehouse.com/products/amchoor-powder",
     "original_url": "https://www.amazon.com/dp/B00QWROIYY?tag=herb-hugo-20",
     "asins": [
       "B00QWROIYY"
-    ]
+    ],
+    "merchant": "The Spice House"
   },
   "prioritychef-large-15oz-stainless-steel-potato": {
     "name": "PriorityChef Large 15oz Stainless Steel Potato Ricer",
@@ -4294,11 +4303,12 @@
   "raisins": {
     "name": "Raisins",
     "category": "pantry-staples",
-    "url": "https://www.amazon.com/dp/B01GXPRIQY?tag=herb-hugo-20",
+    "url": "https://www.nuts.com/products/organic-raisins",
     "original_url": "https://www.amazon.com/dp/B01GXPRIQY?tag=herb-hugo-20",
     "asins": [
       "B01GXPRIQY"
-    ]
+    ],
+    "merchant": "Nuts.com"
   },
   "rambutan": {
     "name": "Rambutan",
@@ -4338,11 +4348,12 @@
   "rani-fenugreek-leaves-dried-kasoori-methi": {
     "name": "Rani Fenugreek Leaves Dried (Kasoori Methi)",
     "category": "middle-eastern-indian-pantry",
-    "url": "https://www.amazon.com/dp/B018PUTG24?tag=herb-hugo-20",
+    "url": "https://www.thespicehouse.com/products/fenugreek-leaves-dried",
     "original_url": "https://www.amazon.com/dp/B018PUTG24?tag=herb-hugo-20",
     "asins": [
       "B018PUTG24"
-    ]
+    ],
+    "merchant": "The Spice House"
   },
   "ratio-the-simple-codes-behind-the-craft-of": {
     "name": "Ratio: the Simple Codes Behind the Craft of Everyday Cooking",
@@ -4691,11 +4702,12 @@
   "sel-gris": {
     "name": "Sel Gris",
     "category": "spices-seasonings",
-    "url": "https://www.amazon.com/dp/B0002FYPMM?tag=herb-hugo-20",
+    "url": "https://www.chefshop.com/products/sel-gris-gray-salt-guerande-fine",
     "original_url": "https://www.amazon.com/dp/B0002FYPMM?tag=herb-hugo-20",
     "asins": [
       "B0002FYPMM"
-    ]
+    ],
+    "merchant": "ChefShop.com"
   },
   "sensarte-nonstick-crepe-pan-10-inch": {
     "name": "Sensarte Nonstick Crepe Pan 10-Inch",
@@ -4746,11 +4758,12 @@
   "sesame-seeds": {
     "name": "Sesame Seeds",
     "category": "spices-seasonings",
-    "url": "https://www.amazon.com/dp/B07VYPWBQ8?tag=herb-hugo-20",
+    "url": "https://www.nuts.com/products/sesame-seeds",
     "original_url": "https://www.amazon.com/dp/B07VYPWBQ8?tag=herb-hugo-20",
     "asins": [
       "B07VYPWBQ8"
-    ]
+    ],
+    "merchant": "Nuts.com"
   },
   "sesame-seeds-2": {
     "name": "Sesame Seeds",
@@ -5523,11 +5536,12 @@
   "toasted-hazelnuts": {
     "name": "Toasted Hazelnuts",
     "category": "pantry-staples",
-    "url": "https://www.amazon.com/dp/B0797CV511?tag=herb-hugo-20",
+    "url": "https://www.nuts.com/products/roasted-hazelnuts-filberts-unsalted",
     "original_url": "https://www.amazon.com/dp/B0797CV511?tag=herb-hugo-20",
     "asins": [
       "B0797CV511"
-    ]
+    ],
+    "merchant": "Nuts.com"
   },
   "toasted-pine-nuts": {
     "name": "Toasted Pine Nuts",
@@ -5688,11 +5702,12 @@
   "truffle-salt": {
     "name": "Truffle Salt",
     "category": "spices-seasonings",
-    "url": "https://www.amazon.com/dp/B000ELVPSG?tag=herb-hugo-20",
+    "url": "https://www.savoryspiceshop.com/products/italian-black-truffle-sea-salt",
     "original_url": "https://www.amazon.com/dp/B000ELVPSG?tag=herb-hugo-20",
     "asins": [
       "B000ELVPSG"
-    ]
+    ],
+    "merchant": "Savory Spice Shop, LLC"
   },
   "truffled-popcorn": {
     "name": "Truffled Popcorn",
@@ -5743,11 +5758,12 @@
   "unsalted-roasted-pistachio-kernels": {
     "name": "Unsalted, Roasted Pistachio Kernels",
     "category": "pantry-staples",
-    "url": "https://www.amazon.com/dp/B09TM34CD3?tag=herb-hugo-20",
+    "url": "https://www.nuts.com/products/dry-roasted-pistachios-unsalted-no-shell",
     "original_url": "https://www.amazon.com/dp/B09TM34CD3?tag=herb-hugo-20",
     "asins": [
       "B09TM34CD3"
-    ]
+    ],
+    "merchant": "Nuts.com"
   },
   "unsweetened-chocolate": {
     "name": "Unsweetened Chocolate",
@@ -5771,11 +5787,12 @@
   "vanilla-bean": {
     "name": "Vanilla Bean",
     "category": "sweeteners-chocolate",
-    "url": "https://www.amazon.com/dp/B00PMUNF5A?tag=herb-hugo-20",
+    "url": "https://www.nuts.com/products/vanilla-beans",
     "original_url": "https://www.amazon.com/dp/B00PMUNF5A?tag=herb-hugo-20",
     "asins": [
       "B00PMUNF5A"
-    ]
+    ],
+    "merchant": "Nuts.com"
   },
   "vegan-mayonnaise": {
     "name": "Vegan Mayonnaise",
@@ -5882,11 +5899,12 @@
   "wheat-bran": {
     "name": "Wheat Bran",
     "category": "grains-pasta-legumes",
-    "url": "https://www.amazon.com/dp/B083X4G99C?tag=herb-hugo-20",
+    "url": "https://www.nuts.com/products/wheat-bran",
     "original_url": "https://www.amazon.com/dp/B083X4G99C?tag=herb-hugo-20",
     "asins": [
       "B083X4G99C"
-    ]
+    ],
+    "merchant": "Nuts.com"
   },
   "white-asparagus": {
     "name": "White Asparagus",
@@ -6058,11 +6076,12 @@
   "zaatar": {
     "name": "Zaatar",
     "category": "middle-eastern-indian-pantry",
-    "url": "https://www.amazon.com/dp/B0CQMTLDF3?tag=herb-hugo-20",
+    "url": "https://www.nuts.com/products/zaatar",
     "original_url": "https://www.amazon.com/dp/B0CQMTLDF3?tag=herb-hugo-20",
     "asins": [
       "B0CQMTLDF3"
-    ]
+    ],
+    "merchant": "Nuts.com"
   },
   "zaran-saffron-superior-saffron-threads-super": {
     "name": "Zaran Saffron Superior Saffron Threads (Super Negin) 2g",
@@ -6077,12 +6096,13 @@
   },
   "zatar": {
     "name": "Zatar",
-    "url": "https://www.amazon.com/dp/B004PBZJF6?tag=herb-hugo-20",
+    "url": "https://www.nuts.com/products/zaatar",
     "original_url": "https://www.amazon.com/dp/B004PBZJF6?tag=herb-hugo-20",
     "asins": [
       "B004PBZJF6"
     ],
-    "hidden": true
+    "hidden": true,
+    "merchant": "Nuts.com"
   },
   "zyliss-soft-skin-peeler": {
     "name": "Zyliss Soft Skin Peeler",

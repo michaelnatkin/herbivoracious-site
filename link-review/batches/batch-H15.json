@@ -1,0 +1,520 @@
+[
+  {
+    "id": "morita-chilis",
+    "name": "Morita Chilis",
+    "status": "match",
+    "kind": "equivalent",
+    "confidence": "medium",
+    "amazon": {
+      "asins": [
+        "B08FMVL41J"
+      ],
+      "title": "Morita Chilis",
+      "anchors": [
+        "morita chilis"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "red-chili-sauce-for-tamales"
+    },
+    "primary": {
+      "merchant": "ChefShop.com",
+      "product": "Villa Jerada Chile Morita Whole Pods - 1 pound",
+      "url": "https://www.chefshop.com/products/villa-jerada-chile-morita-whole-pods-1-pound",
+      "epc": null,
+      "rate": null,
+      "price": "$18.95",
+      "verified": true
+    },
+    "alternatives": [
+      {
+        "merchant": "ChefShop.com",
+        "product": "Dried Chipotle Chili Pods",
+        "url": "https://www.chefshop.com/products/dried-chipotle-chili-pods",
+        "epc": null,
+        "rate": null,
+        "price": "$5.95",
+        "verified": true
+      }
+    ],
+    "note": "Whole dried morita chile pods from Villa Jerada (1 lb); the Amazon item size is unknown, so this may be a larger quantity."
+  },
+  {
+    "id": "moroccan-clay-pot-with-a-conical-lid",
+    "name": "Moroccan Clay Pot with a Conical Lid",
+    "status": "no_match",
+    "reason": "No tagine or clay pot in these catalogs; a cookware merchant (Sur La Table, Williams-Sonoma) may carry one.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B0BF29GK5Z"
+      ],
+      "title": "Moroccan Clay Pot with a Conical Lid",
+      "anchors": [
+        "Moroccan clay pot with a conical lid"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "zucchini-chickpea-tagine-recipe"
+    }
+  },
+  {
+    "id": "muffin-cupcake-liners",
+    "name": "Muffin/cupcake Liners",
+    "status": "no_match",
+    "reason": "No baking liners in the candidates; try Sur La Table, King Arthur or Williams-Sonoma.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B0BLGZTM6P"
+      ],
+      "title": "Muffin/cupcake Liners",
+      "anchors": [
+        "muffin/cupcake liners"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "onebowl-banana-muffins-great-for-baking-with-kids-recipe"
+    }
+  },
+  {
+    "id": "muffins-tin",
+    "name": "Muffins Tin",
+    "status": "no_match",
+    "reason": "No muffin pans in the candidates (only food tins); try Sur La Table, King Arthur or Williams-Sonoma.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B0026RHI9Q"
+      ],
+      "title": "Muffins Tin",
+      "anchors": [
+        "muffins tin"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "onebowl-banana-muffins-great-for-baking-with-kids-recipe"
+    }
+  },
+  {
+    "id": "muscovado-sugar",
+    "name": "Muscovado Sugar",
+    "status": "match",
+    "kind": "equivalent",
+    "confidence": "medium",
+    "amazon": {
+      "asins": [
+        "B000H7LXRK"
+      ],
+      "title": "Muscovado Sugar",
+      "anchors": [
+        "muscovado sugar"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "italian-plum-upside-down-cake-recipe"
+    },
+    "primary": {
+      "merchant": "ChefShop.com",
+      "product": "India Tree Dark Muscovado Sugar - 1 lb",
+      "url": "https://www.chefshop.com/products/india-tree-dark-muscovado-sugar-1-lb",
+      "epc": null,
+      "rate": null,
+      "price": "$7.95",
+      "verified": true
+    },
+    "alternatives": [
+      {
+        "merchant": "ChefShop.com",
+        "product": "India Tree Light Muscovado Sugar - 1 lb",
+        "url": "https://www.chefshop.com/products/india-tree-light-muscovado-sugar-1-lb",
+        "epc": null,
+        "rate": null,
+        "price": "$7.95",
+        "verified": true
+      }
+    ],
+    "note": "India Tree muscovado sugar, 1 lb; the Amazon listing did not say light or dark, so the light version is offered as an alternative."
+  },
+  {
+    "id": "my-mexico",
+    "name": "My Mexico",
+    "status": "no_match",
+    "reason": "Cookbook; no book candidates. Try Barnes & Noble.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "0609602470"
+      ],
+      "title": "My Mexico",
+      "anchors": [
+        "My Mexico"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "bocoles-masa-and-black-bean-cakes-with-spicy-yams-recipe"
+    }
+  },
+  {
+    "id": "nature-s-path-smart-bran-cereal",
+    "name": "Nature&#39;s Path Smart Bran Cereal",
+    "status": "no_match",
+    "reason": "No cereal in the candidates; try Thrive Market or iHerb.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B0010C4KCQ"
+      ],
+      "title": "Nature&#39;s Path Smart Bran Cereal",
+      "anchors": [
+        "Nature&#39",
+        "s Path Smart Bran cereal"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "bran-muffins"
+    }
+  },
+  {
+    "id": "new-mexico-chili-powder-1-lb-by-amazing-chiles",
+    "name": "New Mexico Chili Powder 1 lb by Amazing Chiles & Spices",
+    "status": "match",
+    "kind": "equivalent",
+    "confidence": "medium",
+    "amazon": {
+      "asins": [
+        "B09RQHNJ19"
+      ],
+      "title": "New Mexico Chili Powder 1 lb by Amazing Chiles & Spices",
+      "anchors": [
+        "New Mexico chile powder"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "spicy-corn-and-potato-stew-recipe"
+    },
+    "primary": {
+      "merchant": "Savory Spice Shop, LLC",
+      "product": "Mild Red New Mexican Chile Powder",
+      "url": "https://www.savoryspiceshop.com/products/mild-red-new-mexican-chile-powder",
+      "epc": 0.33,
+      "rate": null,
+      "price": "$3.90",
+      "verified": true
+    },
+    "alternatives": [
+      {
+        "merchant": "Savory Spice Shop, LLC",
+        "product": "Hot Red New Mexican Chile Powder",
+        "url": "https://www.savoryspiceshop.com/products/hot-red-new-mexican-chile-powder",
+        "epc": 0.33,
+        "rate": null,
+        "price": "$5.20",
+        "verified": true
+      },
+      {
+        "merchant": "The Spice House",
+        "product": "Chiles, New Mexican Red Ground",
+        "url": "https://www.thespicehouse.com/products/ground-red-new-mexico-chiles",
+        "epc": 0.21,
+        "rate": null,
+        "price": "$9.79",
+        "verified": true
+      }
+    ],
+    "note": "Same ingredient (ground red New Mexican chile) in a small spice jar instead of a 1 lb bag; the mild version, with hot as an alternative."
+  },
+  {
+    "id": "newlywed-kitchen-delicious-meals-for-couples",
+    "name": "Newlywed Kitchen: Delicious Meals for Couples Cooking Together",
+    "status": "no_match",
+    "reason": "Cookbook; no book candidates. Try Barnes & Noble.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "1570616329"
+      ],
+      "title": "Newlywed Kitchen: Delicious Meals for Couples Cooking Together",
+      "anchors": [
+        "Newlywed Kitchen: Delicious Meals for Couples Cooking Together"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "the-newlywed-kitchen-book-review-with-a-recipe-for-zucchini-fritters"
+    }
+  },
+  {
+    "id": "nikon-d7000",
+    "name": "Nikon D7000",
+    "status": "no_match",
+    "reason": "Camera; no relevant in-network candidates, and the camera is discontinued.",
+    "needs_web": false,
+    "amazon": {
+      "asins": [
+        "B0042X9LC4"
+      ],
+      "title": "Nikon D7000",
+      "anchors": [
+        "Nikon D7000"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "transparency-and-support"
+    }
+  },
+  {
+    "id": "non-stick",
+    "name": "Non-Stick",
+    "status": "no_match",
+    "reason": "Cookware; irrelevant candidates only. Try Sur La Table or Williams-Sonoma.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B009HBKQR0"
+      ],
+      "title": "Non-Stick",
+      "anchors": [
+        "non-stick"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "caramelized-caulifower-fritatta-recipe"
+    }
+  },
+  {
+    "id": "non-stick-or-well-seasoned-skillet",
+    "name": "Non-Stick or Well Seasoned Skillet",
+    "status": "no_match",
+    "reason": "Skillet; irrelevant candidates only. Try Sur La Table or Williams-Sonoma.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B0732NXYNS"
+      ],
+      "title": "Non-Stick or Well Seasoned Skillet",
+      "anchors": [
+        "non-stick or well seasoned skillet"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "hatch-chiles-stuffed-with-cilantro-scrambled-egg-recipe"
+    }
+  },
+  {
+    "id": "nori",
+    "name": "nori",
+    "status": "match",
+    "kind": "equivalent",
+    "confidence": "medium",
+    "amazon": {
+      "asins": [
+        "B079Z2XFNL"
+      ],
+      "title": "nori",
+      "anchors": [
+        "nori"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "spicy-nori-popcorn-recipe"
+    },
+    "primary": {
+      "merchant": "ChefShop.com",
+      "product": "Motoi Nori Yakinori Zenkai (Roasted Seaweed) - 10 Full Sheets",
+      "url": "https://www.chefshop.com/products/moito-nori-yakinori-zenkai-roasted-seaweed-10-full-sheets",
+      "epc": null,
+      "rate": null,
+      "price": "$24.55",
+      "verified": true
+    },
+    "alternatives": [
+      {
+        "merchant": "ChefShop.com",
+        "product": "Motoi Nori Yakinori Zenkai (Roasted Seaweed) - 50 Full Sheets",
+        "url": "https://www.chefshop.com/products/moito-nori-yakinori-zenkai-roasted-seaweed-50-full-sheets",
+        "epc": null,
+        "rate": null,
+        "price": "$99.55",
+        "verified": true
+      }
+    ],
+    "note": "Roasted nori sheets from Motoi (10 full sheets); a different brand and pack size than the Amazon item."
+  },
+  {
+    "id": "nori-seaweed",
+    "name": "Nori Seaweed",
+    "status": "match",
+    "kind": "equivalent",
+    "confidence": "medium",
+    "amazon": {
+      "asins": [
+        "B00I01ZXYE"
+      ],
+      "title": "Nori Seaweed",
+      "anchors": [
+        "nori seaweed"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "asparagus-with-nori-butter-recipe"
+    },
+    "primary": {
+      "merchant": "ChefShop.com",
+      "product": "Motoi Nori Yakinori Zenkai (Roasted Seaweed) - 10 Full Sheets",
+      "url": "https://www.chefshop.com/products/moito-nori-yakinori-zenkai-roasted-seaweed-10-full-sheets",
+      "epc": null,
+      "rate": null,
+      "price": "$24.55",
+      "verified": true
+    },
+    "alternatives": [
+      {
+        "merchant": "ChefShop.com",
+        "product": "Motoi Nori Yakinori Zenkai (Roasted Seaweed) - 50 Full Sheets",
+        "url": "https://www.chefshop.com/products/moito-nori-yakinori-zenkai-roasted-seaweed-50-full-sheets",
+        "epc": null,
+        "rate": null,
+        "price": "$99.55",
+        "verified": true
+      }
+    ],
+    "note": "Roasted nori sheets from Motoi (10 full sheets); a different brand and pack size than the Amazon item."
+  },
+  {
+    "id": "novelty-beer-cozy",
+    "name": "novelty beer cozy",
+    "status": "no_match",
+    "reason": "Novelty gift item; no relevant in-network candidates.",
+    "needs_web": false,
+    "amazon": {
+      "asins": [
+        "B0047YZYW4"
+      ],
+      "title": "novelty beer cozy",
+      "anchors": [
+        "novelty beer cozy"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "transparency-and-support"
+    }
+  },
+  {
+    "id": "nutmeg-grater-with-whole-nutmegs",
+    "name": "Nutmeg Grater with Whole Nutmegs",
+    "status": "match",
+    "kind": "equivalent",
+    "confidence": "medium",
+    "amazon": {
+      "asins": [
+        "B005WUN500"
+      ],
+      "title": "Nutmeg Grater with Whole Nutmegs",
+      "anchors": [
+        "freshly ground nutmeg"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "brussels-sprout-gratin-with-heretical-technique-recipe"
+    },
+    "primary": {
+      "merchant": "Savory Spice Shop, LLC",
+      "product": "Whole Nutmeg",
+      "url": "https://www.savoryspiceshop.com/products/whole-nutmeg",
+      "epc": 0.33,
+      "rate": null,
+      "price": "$4.99",
+      "verified": true
+    },
+    "alternatives": [
+      {
+        "merchant": "The Spice House",
+        "product": "Nutmeg, Whole",
+        "url": "https://www.thespicehouse.com/products/whole-nutmeg",
+        "epc": 0.21,
+        "rate": null,
+        "price": "$8.29",
+        "verified": true
+      }
+    ],
+    "note": "Whole nutmegs only (no grater included), which fits the \"freshly ground nutmeg\" anchor text."
+  },
+  {
+    "id": "o-blood-orange-olive-oil",
+    "name": "\"O\" Blood Orange Olive Oil",
+    "status": "no_match",
+    "reason": "No candidates were returned (search term was garbled by HTML entities); a gourmet oil seller such as Williams-Sonoma might carry it.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B0000W2SZS"
+      ],
+      "title": "\"O\" Blood Orange Olive Oil",
+      "anchors": [
+        "&quot",
+        "O&quot",
+        "brand California Blood Orange flavored olive oil"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "cucumber-zucchi"
+    }
+  },
+  {
+    "id": "oil-cured-black-olives",
+    "name": "Oil-Cured Black Olives",
+    "status": "no_match",
+    "reason": "No oil-cured olives in the candidates; Cerignola olives are a different style. A specialty grocer (Thrive Market, Weee) may carry them.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B07PP3WM2K"
+      ],
+      "title": "Oil-Cured Black Olives",
+      "anchors": [
+        "oil-cured black olives"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "fruit-salad"
+    }
+  },
+  {
+    "id": "one-from-matiz",
+    "name": "One from Matiz",
+    "status": "no_match",
+    "reason": "The specific Matiz product is unclear and no clear equivalent was found; a gourmet Spanish-foods merchant may carry it.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B000LUP6D0"
+      ],
+      "title": "One from Matiz",
+      "anchors": [
+        "one from Matiz"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "vegetarian-pael"
+    }
+  },
+  {
+    "id": "or-you-can-find-it-on-amazon",
+    "name": "or you can find it on Amazon",
+    "status": "no_match",
+    "reason": "Generic anchor text with no identifiable product; candidates are irrelevant.",
+    "needs_web": false,
+    "amazon": {
+      "asins": [
+        "B0000CNU5B"
+      ],
+      "title": "or you can find it on Amazon",
+      "anchors": [
+        "or you can find it on Amazon"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "asparagus-and-tofu-with-guilin-chili-sauce"
+    }
+  }
+]

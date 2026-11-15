@@ -2334,5 +2334,288 @@
    "price": "$16.99",
    "verified": true
   }
+ },
+ "pastry-flour": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "ChefShop.com",
+   "product": "Shepherd's Grain Pastry Flour - 2 pounds",
+   "url": "https://www.chefshop.com/products/shepherds-grain-pastry-flour-2-pounds",
+   "epc": null,
+   "rate": null,
+   "price": "$6.95",
+   "verified": true
+  }
+ },
+ "penne-rigate": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "ChefShop.com",
+   "product": "Sgambaro Penne Rigate Pasta",
+   "url": "https://www.chefshop.com/products/sgambaro-penne-rigate-pasta",
+   "epc": null,
+   "rate": null,
+   "price": "$8.55",
+   "verified": true
+  }
+ },
+ "piment-d-espellete": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "ChefShop.com",
+   "product": "Biperduna Piment d'Espelette AOP",
+   "url": "https://www.chefshop.com/products/biperduna-piment-pepper-espelette-aop",
+   "epc": null,
+   "rate": null,
+   "price": "$16.95",
+   "verified": true
+  }
+ },
+ "pistachio-oil": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "ChefShop.com",
+   "product": "La Tourangelle Roasted Pistachio Oil",
+   "url": "https://www.chefshop.com/products/la-tourangelle-roasted-pistachio-oil",
+   "epc": null,
+   "rate": null,
+   "price": "$16.95",
+   "verified": true
+  }
+ },
+ "pride-of-india-amchur-dry-mango-powder": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "The Spice House",
+   "product": "Amchoor Powder",
+   "url": "https://www.thespicehouse.com/products/amchoor-powder",
+   "epc": 0.21,
+   "rate": null,
+   "price": "$9.79",
+   "verified": true
+  }
+ },
+ "raisins": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "Nuts.com",
+   "product": "Organic Raisins",
+   "url": "https://www.nuts.com/products/organic-raisins",
+   "epc": 0.38,
+   "rate": null,
+   "price": "$0.64",
+   "verified": true
+  }
+ },
+ "rani-fenugreek-leaves-dried-kasoori-methi": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "The Spice House",
+   "product": "Fenugreek Leaves",
+   "url": "https://www.thespicehouse.com/products/fenugreek-leaves-dried",
+   "epc": 0.21,
+   "rate": null,
+   "price": "$6.49",
+   "verified": true
+  }
+ },
+ "sel-gris": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "ChefShop.com",
+   "product": "Sel Gris (Gray Salt) Guerande - Fine",
+   "url": "https://www.chefshop.com/products/sel-gris-gray-salt-guerande-fine",
+   "epc": null,
+   "rate": null,
+   "price": "$13.95",
+   "verified": true
+  }
+ },
+ "sesame-seeds": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "Nuts.com",
+   "product": "Sesame Seeds",
+   "url": "https://www.nuts.com/products/sesame-seeds",
+   "epc": 0.38,
+   "rate": null,
+   "price": "$5.49",
+   "verified": true
+  }
+ },
+ "toasted-hazelnuts": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "Nuts.com",
+   "product": "Roasted Hazelnuts / Filberts (Unsalted)",
+   "url": "https://www.nuts.com/products/roasted-hazelnuts-filberts-unsalted",
+   "epc": 0.38,
+   "rate": null,
+   "price": "$20.99",
+   "verified": true
+  }
+ },
+ "truffle-salt": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "Savory Spice Shop, LLC",
+   "product": "Italian Black Truffle Sea Salt",
+   "url": "https://www.savoryspiceshop.com/products/italian-black-truffle-sea-salt",
+   "epc": 0.33,
+   "rate": null,
+   "price": "$13.99",
+   "verified": true
+  }
+ },
+ "unsalted-roasted-pistachio-kernels": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "Nuts.com",
+   "product": "Dry-Roasted Pistachios (Unsalted, No Shell)",
+   "url": "https://www.nuts.com/products/dry-roasted-pistachios-unsalted-no-shell",
+   "epc": 0.38,
+   "rate": null,
+   "price": "$1.97",
+   "verified": true
+  }
+ },
+ "vanilla-bean": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "Nuts.com",
+   "product": "Vanilla Beans",
+   "url": "https://www.nuts.com/products/vanilla-beans",
+   "epc": 0.38,
+   "rate": null,
+   "price": "$14.99",
+   "verified": true
+  }
+ },
+ "wheat-bran": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "Nuts.com",
+   "product": "Wheat Bran",
+   "url": "https://www.nuts.com/products/wheat-bran",
+   "epc": 0.38,
+   "rate": null,
+   "price": "$2.99",
+   "verified": true
+  }
+ },
+ "zaatar": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "Nuts.com",
+   "product": "Zaatar",
+   "url": "https://www.nuts.com/products/zaatar",
+   "epc": 0.38,
+   "rate": null,
+   "price": "$24.99",
+   "verified": true
+  }
+ },
+ "zatar": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "Nuts.com",
+   "product": "Zaatar",
+   "url": "https://www.nuts.com/products/zaatar",
+   "epc": 0.38,
+   "rate": null,
+   "price": "$24.99",
+   "verified": true
+  }
+ },
+ "herbes-de-provence-2": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "Savory Spice Shop, LLC",
+   "product": "Herbes de Provence",
+   "url": "https://www.savoryspiceshop.com/products/herbes-de-provence",
+   "epc": 0.33,
+   "rate": null,
+   "price": "$9.50",
+   "verified": true
+  }
+ },
+ "cake-tester": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "Sur La Table",
+   "product": "Ateco Cake Tester, Blue",
+   "url": "https://www.surlatable.com/product/ateco-r-cake-tester-blue/654442",
+   "epc": 0.06,
+   "rate": 9,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser search page"
+  }
+ },
+ "cake-tester-2": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "Sur La Table",
+   "product": "Ateco Cake Tester, Blue",
+   "url": "https://www.surlatable.com/product/ateco-r-cake-tester-blue/654442",
+   "epc": 0.06,
+   "rate": 9,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser search page"
+  }
+ },
+ "fine-mesh-chinois-strainer": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "Sur La Table",
+   "product": "Sur La Table Fine Mesh Stainless Steel Chinois",
+   "url": "https://www.surlatable.com/product/sur-la-table-fine-mesh-stainless-steel-chinois/2750438",
+   "epc": 0.06,
+   "rate": 9,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser search page"
+  }
  }
 }

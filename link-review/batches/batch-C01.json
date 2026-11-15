@@ -154,5 +154,160 @@
   },
   "alternatives": [],
   "note": "The Amazon item was a small 3-inch ring mold; this is a larger adjustable cake ring, so check it suits."
+ },
+ {
+  "id": "cake-tester",
+  "name": "Cake Tester",
+  "status": "match",
+  "kind": "same",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B0018AHVSU"
+   ],
+   "title": "Cake Tester",
+   "anchors": [
+    "cake tester"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "saffron-chickpea-stew-with-grilled-porcini-mushroom-recipe"
+  },
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "Ateco Cake Tester, Blue",
+   "url": "https://www.surlatable.com/product/ateco-r-cake-tester-blue/654442",
+   "epc": 0.06,
+   "rate": 9,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser search page"
+  },
+  "alternatives": [],
+  "note": "Metal cake tester; same kind of tool."
+ },
+ {
+  "id": "cake-tester-2",
+  "name": "Cake Tester",
+  "status": "match",
+  "kind": "same",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B07FCL1ZXC"
+   ],
+   "title": "Cake Tester",
+   "anchors": [
+    "cake tester"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "tomato-and-beet-salad-recipe"
+  },
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "Ateco Cake Tester, Blue",
+   "url": "https://www.surlatable.com/product/ateco-r-cake-tester-blue/654442",
+   "epc": 0.06,
+   "rate": 9,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser search page"
+  },
+  "alternatives": [],
+  "note": "Metal cake tester; same kind of tool."
+ },
+ {
+  "id": "fine-mesh-chinois-strainer",
+  "name": "Fine Mesh Chinois Strainer",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B002JPJI7K"
+   ],
+   "title": "Fine Mesh Chinois Strainer",
+   "anchors": [
+    "badass professional fine chinois"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "cold-sorrel-and-coconut-milk-soup-recipe"
+  },
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "Sur La Table Fine Mesh Stainless Steel Chinois",
+   "url": "https://www.surlatable.com/product/sur-la-table-fine-mesh-stainless-steel-chinois/2750438",
+   "epc": 0.06,
+   "rate": 9,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser search page"
+  },
+  "alternatives": [],
+  "note": "Fine-mesh stainless chinois; same type of tool, different brand."
+ },
+ {
+  "id": "food-mill",
+  "name": "Food Mill",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B08BKKQ2NL"
+   ],
+   "title": "Food Mill",
+   "anchors": [
+    "food mill"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "pumpkin-ravio-1"
+  },
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "OXO Food Mill",
+   "url": "https://www.surlatable.com/product/oxo-food-mill/580332",
+   "epc": 0.06,
+   "rate": 9,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser search page"
+  },
+  "alternatives": [],
+  "note": "Classic food mill; the Amazon item's brand wasn't known."
+ },
+ {
+  "id": "citrus-juicer",
+  "name": "Citrus Juicer",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B0002BFZ16"
+   ],
+   "title": "Citrus Juicer",
+   "anchors": [
+    "citrus juicer"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "my-favorite-citrus-juicer"
+  },
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "Sur La Table Twist Action Lemon & Lime Juicer",
+   "url": "https://www.surlatable.com/product/sur-la-table-twist-action-lemon-lime-juicer/5939145",
+   "epc": 0.06,
+   "rate": 9,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser search page"
+  },
+  "alternatives": [],
+  "note": "Hand citrus juicer; the Amazon item wasn't identified, so check it suits."
  }
 ]

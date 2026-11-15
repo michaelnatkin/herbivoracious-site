@@ -1,0 +1,506 @@
+[
+  {
+    "id": "seductions-of-rice",
+    "name": "Seductions of Rice",
+    "status": "no_match",
+    "reason": "Cookbook; no book candidates.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "1579652344"
+      ],
+      "title": "Seductions of Rice",
+      "anchors": [
+        "Seductions of Rice"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "mangoes-and-cur"
+    }
+  },
+  {
+    "id": "seitan",
+    "name": "Seitan",
+    "status": "no_match",
+    "reason": "Seitan/vital wheat gluten not in candidates (only seeds/salts).",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B075JLYFBC"
+      ],
+      "title": "Seitan",
+      "anchors": [
+        "seitan"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "recipe-rice-bow"
+    }
+  },
+  {
+    "id": "sel-gris",
+    "name": "Sel Gris",
+    "status": "match",
+    "kind": "same",
+    "confidence": "high",
+    "amazon": {
+      "asins": [
+        "B0002FYPMM"
+      ],
+      "title": "Sel Gris",
+      "anchors": [
+        "sel gris"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "interview-with-mark-bitterman-leading-expert-on-culinary-salts"
+    },
+    "primary": {
+      "merchant": "ChefShop.com",
+      "product": "Sel Gris (Gray Salt) Guerande - Fine",
+      "url": "https://www.chefshop.com/products/sel-gris-gray-salt-guerande-fine",
+      "epc": null,
+      "rate": null,
+      "price": "$13.95",
+      "verified": true
+    },
+    "alternatives": [
+      {
+        "merchant": "ChefShop.com",
+        "product": "Le Guerandais Fine Gray Sea Salt from Guerande",
+        "url": "https://www.chefshop.com/products/le-guerandais-fine-gray-sea-salt-from-guerande",
+        "epc": null,
+        "rate": null,
+        "price": "$8.95",
+        "verified": true
+      }
+    ],
+    "note": "Same ingredient (Guerande gray salt, sel gris); brand and grind may differ from the Amazon item."
+  },
+  {
+    "id": "serrano-chilis",
+    "name": "Serrano Chilis",
+    "status": "no_match",
+    "reason": "Fresh serranos are produce; only dried/ground chiles in candidates.",
+    "needs_web": false,
+    "amazon": {
+      "asins": [
+        "B000RHSZ6W"
+      ],
+      "title": "Serrano Chilis",
+      "anchors": [
+        "serrano chilis"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "spicy-tomatillo-salsa-recipe"
+    }
+  },
+  {
+    "id": "serrated-peelers",
+    "name": "Serrated Peelers",
+    "status": "no_match",
+    "reason": "Kitchen tool; no candidates.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B0DBVMXMLX"
+      ],
+      "title": "Serrated Peelers",
+      "anchors": [
+        "serrated peelers"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "grilled-peaches"
+    }
+  },
+  {
+    "id": "serrated-tomato-knife",
+    "name": "Serrated Tomato Knife",
+    "status": "no_match",
+    "reason": "Kitchen knife; candidates are only sun-dried tomatoes.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B0DXPTCFT5"
+      ],
+      "title": "Amazon.com: Yunletwood Tomato Knife 3rd Gen 2-Pack, Serrated Stainless Steel Blade, Ergonomic Handle, Precise Cuts for Tomatoes/Fruits/Veggies (White): Home & Kitchen",
+      "anchors": [
+        "serrated tomato knife"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "entry-avocado-grapefruit-mango-yuzu-cilantro"
+    }
+  },
+  {
+    "id": "serrated-vegetable-peeler",
+    "name": "Serrated Vegetable Peeler",
+    "status": "no_match",
+    "reason": "Kitchen tool; no candidates.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B0007VO0CG"
+      ],
+      "title": "Serrated Vegetable Peeler",
+      "anchors": [
+        "serrated vegetable peeler"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "spicy-mango-salad-with-togarashi-recipe"
+    }
+  },
+  {
+    "id": "sesame-seeds",
+    "name": "Sesame Seeds",
+    "status": "match",
+    "kind": "same",
+    "confidence": "high",
+    "amazon": {
+      "asins": [
+        "B07VYPWBQ8"
+      ],
+      "title": "Sesame Seeds",
+      "anchors": [
+        "sesame seeds"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "i-like-you-hospitality-under-the-influence-by-amy-sedaris-cookbook-review"
+    },
+    "primary": {
+      "merchant": "Nuts.com",
+      "product": "Sesame Seeds",
+      "url": "https://www.nuts.com/products/sesame-seeds",
+      "epc": 0.38,
+      "rate": null,
+      "price": "$5.49",
+      "verified": true
+    },
+    "alternatives": [
+      {
+        "merchant": "Nuts.com",
+        "product": "Sesame Seeds (Hulled)",
+        "url": "https://www.nuts.com/products/sesame-seeds-hulled",
+        "epc": 0.38,
+        "rate": null,
+        "price": "$5.49",
+        "verified": true
+      },
+      {
+        "merchant": "Savory Spice Shop, LLC",
+        "product": "White Sesame Seeds",
+        "url": "https://www.savoryspiceshop.com/products/white-sesame-seeds",
+        "epc": 0.33,
+        "rate": null,
+        "price": "$5.20",
+        "verified": true
+      }
+    ],
+    "note": "Plain sesame seeds from a reputable nut and seed seller; brand and package size differ."
+  },
+  {
+    "id": "sesame-seeds-2",
+    "name": "Sesame Seeds",
+    "status": "match",
+    "kind": "same",
+    "confidence": "medium",
+    "amazon": {
+      "asins": [
+        "B08HQX3YJG"
+      ],
+      "title": "Sesame Seeds",
+      "anchors": [
+        "sesame seeds"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "recipe-sesame-c-1"
+    },
+    "primary": {
+      "merchant": "Nuts.com",
+      "product": "Sesame Seeds",
+      "url": "https://www.nuts.com/products/sesame-seeds",
+      "epc": 0.38,
+      "rate": null,
+      "price": "$5.49",
+      "verified": true
+    },
+    "alternatives": [
+      {
+        "merchant": "Nuts.com",
+        "product": "Sesame Seeds (Hulled)",
+        "url": "https://www.nuts.com/products/sesame-seeds-hulled",
+        "epc": 0.38,
+        "rate": null,
+        "price": "$5.49",
+        "verified": true
+      },
+      {
+        "merchant": "Savory Spice Shop, LLC",
+        "product": "White Sesame Seeds",
+        "url": "https://www.savoryspiceshop.com/products/white-sesame-seeds",
+        "epc": 0.33,
+        "rate": null,
+        "price": "$5.20",
+        "verified": true
+      }
+    ],
+    "note": "Plain sesame seeds; the exact Amazon variety (white, toasted, black) is unknown, so this may differ."
+  },
+  {
+    "id": "shiso",
+    "name": "shiso",
+    "status": "no_match",
+    "reason": "Fresh/dried shiso not in candidates; only shiso tea and furikake, which are different products.",
+    "needs_web": false,
+    "amazon": {
+      "asins": [
+        "B0DS1928RM"
+      ],
+      "title": "shiso",
+      "anchors": [
+        "shiso"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "vietnamese-cabbage-and-herb-salad-recipe"
+    }
+  },
+  {
+    "id": "short-grained-spanish-rice",
+    "name": "Short-Grained Spanish Rice",
+    "status": "match",
+    "kind": "equivalent",
+    "confidence": "medium",
+    "amazon": {
+      "asins": [
+        "B001HNU87O"
+      ],
+      "title": "Short-Grained Spanish Rice",
+      "anchors": [
+        "short-grained Spanish rice"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "paella-cakes-with-manchego-and-candied-seville-orange-peel-recipe"
+    },
+    "primary": {
+      "merchant": "ChefShop.com",
+      "product": "Paella Bomba Rice - Matiz",
+      "url": "https://www.chefshop.com/products/paella-bomba-rice-matiz",
+      "epc": null,
+      "rate": null,
+      "price": "$25.95",
+      "verified": true
+    },
+    "alternatives": [],
+    "note": "Bomba is a Spanish short-grain paella rice; the Amazon brand is unknown and this is likely pricier."
+  },
+  {
+    "id": "shun",
+    "name": "Shun",
+    "status": "no_match",
+    "reason": "Shun knife brand; no knife candidates.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B0000Y7KNQ"
+      ],
+      "title": "Shun",
+      "anchors": [
+        "Shun"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "three-ways-to-increase-your-confidence-in-the-kitchen"
+    }
+  },
+  {
+    "id": "silpat",
+    "name": "silpat",
+    "status": "no_match",
+    "reason": "Silpat baking mat; no candidates.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B00005AXJ9"
+      ],
+      "title": "silpat",
+      "anchors": [
+        "silpat"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "block-party-emp"
+    }
+  },
+  {
+    "id": "silpat-2",
+    "name": "silpat",
+    "status": "no_match",
+    "reason": "Silpat baking mat; no candidates.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B0001RT42C"
+      ],
+      "title": "silpat",
+      "anchors": [
+        "silpat"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "warm-fennel-salad-with-pears-and-candied-pumpkin-seeds-recipe"
+    }
+  },
+  {
+    "id": "simple-and-inexpensive",
+    "name": "simple and inexpensive",
+    "status": "no_match",
+    "reason": "Anchor text is generic; no matching product.",
+    "needs_web": false,
+    "amazon": {
+      "asins": [
+        "B09NLWBHCG"
+      ],
+      "title": "simple and inexpensive",
+      "anchors": [
+        "simple and inexpensive"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "cherry-pumpkin"
+    }
+  },
+  {
+    "id": "skillet",
+    "name": "Skillet",
+    "status": "no_match",
+    "reason": "Cookware; candidates are unrelated food items.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B00008CM6B"
+      ],
+      "title": "Skillet",
+      "anchors": [
+        "skillet"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "braised-baby-artichoke-with-fennel-and-cherry-tomatoes-recipe"
+    }
+  },
+  {
+    "id": "sliced-marinated-green-olives",
+    "name": "Sliced Marinated Green Olives",
+    "status": "match",
+    "kind": "equivalent",
+    "confidence": "low",
+    "amazon": {
+      "asins": [
+        "B07813GRYD"
+      ],
+      "title": "Amazon.com: MEDITERRANEAN MARKET BY DIVINA Pitted Marinated Lemon Garlic Olives, 8.1 OZ : Grocery & Gourmet Food",
+      "anchors": [
+        "sliced marinated green olives"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "fried-pita-bread-with-fava-beans-and-zucchini-recipe"
+    },
+    "primary": {
+      "merchant": "The Spice House",
+      "product": "Kosterina Coriander and Pink Pepper Green Olives",
+      "url": "https://www.thespicehouse.com/products/coriander-and-pink-pepper-green-olives",
+      "epc": 0.21,
+      "rate": null,
+      "price": "$8.50",
+      "verified": true
+    },
+    "alternatives": [],
+    "note": "Marinated green olives, but not sliced or lemon-garlic like the Amazon item; a stretch."
+  },
+  {
+    "id": "smaller-quantities",
+    "name": "smaller quantities",
+    "status": "no_match",
+    "reason": "Anchor text is generic; no matching product.",
+    "needs_web": false,
+    "amazon": {
+      "asins": [
+        "B002YFR66U"
+      ],
+      "title": "smaller quantities",
+      "anchors": [
+        "smaller quantities"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "strawberries-and-cream-birthday-cake-momofuku-style"
+    }
+  },
+  {
+    "id": "soeos-sichuan-peppercorn-powder",
+    "name": "Soeos Sichuan Peppercorn Powder",
+    "status": "match",
+    "kind": "equivalent",
+    "confidence": "medium",
+    "amazon": {
+      "asins": [
+        "B07P96X6YB"
+      ],
+      "title": "Soeos Sichuan Peppercorn Powder",
+      "anchors": [
+        "Szechwan peppercorn"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "iced-lychee-wit"
+    },
+    "primary": {
+      "merchant": "Savory Spice Shop, LLC",
+      "product": "Szechuan Peppercorns",
+      "url": "https://www.savoryspiceshop.com/products/szechuan-peppercorn",
+      "epc": 0.33,
+      "rate": null,
+      "price": "$12.50",
+      "verified": true
+    },
+    "alternatives": [
+      {
+        "merchant": "The Spice House",
+        "product": "Peppercorns, Sichuan",
+        "url": "https://www.thespicehouse.com/products/sichuan-peppercorns",
+        "epc": 0.21,
+        "rate": null,
+        "price": "$10.59",
+        "verified": true
+      }
+    ],
+    "note": "Same spice, but whole peppercorns rather than the pre-ground powder on Amazon; grind before use."
+  },
+  {
+    "id": "sous-vide",
+    "name": "Sous Vide",
+    "status": "no_match",
+    "reason": "Sous vide device; no candidates.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B07C7PW3PC"
+      ],
+      "title": "Sous Vide",
+      "anchors": [
+        "sous vide"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "sichuan-spicy-cauliflower-recipe"
+    }
+  }
+]
