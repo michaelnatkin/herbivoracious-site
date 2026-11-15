@@ -117,8 +117,8 @@ def make_image(src, title, out, tag="VEGETARIAN RECIPE"):
     canvas.save(out, "JPEG", quality=86, optimize=True)
 
 
-BOARDS = [("Desserts", "Vegetarian Desserts"), ("Salads", "Vegetarian Salads"), ("Appetizers", "Vegetarian Appetizers & Snacks"),
-          ("Side Dishes", "Vegetarian Side Dishes"), ("Baking", "Vegetarian Baking")]
+BOARDS = [("Desserts", "Dessert Recipes"), ("Salads", "Vegetarian Salads"), ("Appetizers", "Vegetarian Appetizers & Snacks"),
+          ("Side Dishes", "Vegetarian Side Dishes"), ("Baking", "Baking Recipes")]
 
 
 def board_for(fm):
@@ -128,7 +128,7 @@ def board_for(fm):
         if cat in fm["cats"]: return name
     if "Vegan or Modifiable" in fm["cats"]: return "Vegan & Vegan-Friendly Recipes"
     if "Main Courses" in fm["cats"]: return "Vegetarian Dinner Recipes"
-    return "Vegetarian Recipes"
+    return "Vegetarian Dinner Recipes"
 
 
 def description_for(fm, title):

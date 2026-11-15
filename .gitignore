@@ -3,3 +3,5 @@ uploads/
 site/public/
 link-review/.cache/
 link-review/__pycache__/
+analytics/.venv/
+analytics/out/
