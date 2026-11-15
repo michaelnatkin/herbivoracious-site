@@ -389,11 +389,12 @@
   "aromas-of-aleppo-the-legendary-cuisine-of": {
     "name": "Aromas of Aleppo: the Legendary Cuisine of Syrian Jews",
     "category": "books",
-    "url": "https://www.amazon.com/dp/0060888180?tag=herb-hugo-20",
+    "url": "https://www.barnesandnoble.com/w/aromas-of-aleppo-poopa-dweck/1111667070",
     "original_url": "https://www.amazon.com/dp/0060888180?tag=herb-hugo-20",
     "asins": [
       "0060888180"
-    ]
+    ],
+    "merchant": "Barnes & Noble"
   },
   "aroy-d-jackfruit-in-syrup": {
     "name": "Aroy-D Jackfruit in Syrup",
@@ -1629,11 +1630,12 @@
   "dried-ancho-chilis": {
     "name": "Dried Ancho Chilis",
     "category": "mexican-latin-pantry",
-    "url": "https://www.amazon.com/dp/B07SLFM6W7?tag=herb-hugo-20",
+    "url": "https://nuts.com/cookingbaking/mexican/dried-ancho-chile-peppers.html",
     "original_url": "https://www.amazon.com/dp/B07SLFM6W7?tag=herb-hugo-20",
     "asins": [
       "B07SLFM6W7"
-    ]
+    ],
+    "merchant": "Nuts.com"
   },
   "dried-beancurd-sticks-non-gmo-soybean-curd-skin": {
     "name": "Dried Beancurd Sticks, Non-GMO Soybean Curd Skin",
@@ -1656,13 +1658,14 @@
   "dried-kaffir-lime-leaves": {
     "name": "Dried Kaffir Lime Leaves",
     "category": "asian-pantry",
-    "url": "https://www.amazon.com/dp/B00TZ8BK5W?tag=herb-hugo-20",
+    "url": "https://www.sayweee.com/en/product/Nirav-Dry-Kaffir-Lime-Leaves-Bai-Makrut-1-3-oz-pack/2067088",
     "original_url": "https://www.amazon.com/dp/B00TZ8BK5W?tag=herb-hugo-20",
     "asins": [
       "B00PKRTNF6",
       "B00TZ8BK5W",
       "B0CY8JH83F"
-    ]
+    ],
+    "merchant": "SayWeee.com"
   },
   "dried-oregano": {
     "name": "Dried Oregano",
@@ -1984,12 +1987,13 @@
   "fine-mesh-sieve": {
     "name": "Fine Mesh Sieve",
     "category": "kitchen-gadgets",
-    "url": "https://www.amazon.com/dp/B007TUQF9O?tag=herb-hugo-20",
+    "url": "https://www.oxo.com/oxo-good-grips-3-piece-strainer-set.html",
     "original_url": "https://www.amazon.com/dp/B007TUQF9O?tag=herb-hugo-20",
     "asins": [
       "B0000CFN5C",
       "B007TUQF9O"
-    ]
+    ],
+    "merchant": "OXO"
   },
   "flaky-sea-salt": {
     "name": "Flaky Sea Salt",
@@ -2021,11 +2025,12 @@
   "fleur-de-sel-de-ile-de-re": {
     "name": "Fleur de Sel de Ile de Re",
     "category": "spices-seasonings",
-    "url": "https://www.amazon.com/dp/B0002FGY9O?tag=herb-hugo-20",
+    "url": "https://www.savoryspiceshop.com/products/french-fleur-de-sel-sea-salt",
     "original_url": "https://www.amazon.com/dp/B0002FGY9O?tag=herb-hugo-20",
     "asins": [
       "B0002FGY9O"
-    ]
+    ],
+    "merchant": "Savory Spice Shop"
   },
   "flour": {
     "name": "flour",
@@ -2194,11 +2199,12 @@
   "garam-masala": {
     "name": "Garam Masala",
     "category": "middle-eastern-indian-pantry",
-    "url": "https://www.amazon.com/dp/B00309S13Q?tag=herb-hugo-20",
+    "url": "https://www.savoryspiceshop.com/garam-masala",
     "original_url": "https://www.amazon.com/dp/B00309S13Q?tag=herb-hugo-20",
     "asins": [
       "B00309S13Q"
-    ]
+    ],
+    "merchant": "Savory Spice Shop"
   },
   "garcima-15-inch-carbon-steel-paella-pan": {
     "name": "Garcima 15-Inch Carbon Steel Paella Pan",
@@ -2239,12 +2245,13 @@
   },
   "ghee": {
     "name": "ghee",
-    "url": "https://www.amazon.com/dp/B00VXQGY28?tag=herb-hugo-20",
+    "url": "https://thrivemarket.com/p/fourth-and-heart-grass-fed-original-ghee",
     "original_url": "https://www.amazon.com/dp/B00VXQGY28?tag=herb-hugo-20",
     "asins": [
       "B00VXQGY28"
     ],
-    "hidden": true
+    "hidden": true,
+    "merchant": "Thrive Market"
   },
   "ghiradelli-semi-sweet-chocolate-chips": {
     "name": "Ghiradelli Semi-Sweet Chocolate Chips",
@@ -2306,13 +2313,14 @@
   "gochugaru-a-korean-chili-powder": {
     "name": "Gochugaru, a Korean Chili Powder",
     "category": "asian-pantry",
-    "url": "https://www.amazon.com/dp/B0BZ65ZD79?tag=herb-hugo-20",
+    "url": "https://chefshop.com/products/gochugaru-korean-chili-flakes",
     "original_url": "https://www.amazon.com/dp/B0BZ65ZD79?tag=herb-hugo-20",
     "asins": [
       "B004W71CJU",
       "B005G8IDTQ",
       "B0BZ65ZD79"
-    ]
+    ],
+    "merchant": "ChefShop.com"
   },
   "gorgonzola-dolce": {
     "name": "Gorgonzola Dolce",
@@ -2710,13 +2718,14 @@
   "immersion-blender": {
     "name": "Immersion Blender",
     "category": "cookware-appliances",
-    "url": "https://www.amazon.com/dp/B0CPLVLFK2?tag=herb-hugo-20",
+    "url": "https://www.vitamix.com/us/en_us/products/5-speed-immersion-blender",
     "original_url": "https://www.amazon.com/dp/B0CPLVLFK2?tag=herb-hugo-20",
     "asins": [
       "B08F2SS6T2",
       "B09X27HV7X",
       "B0CPLVLFK2"
-    ]
+    ],
+    "merchant": "Vitamix"
   },
   "immersion-circulator": {
     "name": "Immersion Circulator",
@@ -2901,11 +2910,12 @@
   "kikkoman-panko-japanese-style-bread-crumbs": {
     "name": "Kikkoman Panko Japanese Style Bread Crumbs",
     "category": "grains-pasta-legumes",
-    "url": "https://www.amazon.com/dp/B000WD3PZM?tag=herb-hugo-20",
+    "url": "https://nuts.com/cookingbaking/flours/panko-bread-crumbs.html",
     "original_url": "https://www.amazon.com/dp/B000WD3PZM?tag=herb-hugo-20",
     "asins": [
       "B000WD3PZM"
-    ]
+    ],
+    "merchant": "Nuts.com"
   },
   "kimchi": {
     "name": "Kimchi",
@@ -3328,11 +3338,12 @@
   "mastering-the-art-of-french-cooking-vol-1-50th": {
     "name": "Mastering the Art of French Cooking, Vol. 1 (50th Anniversary Edition)",
     "category": "books",
-    "url": "https://www.amazon.com/dp/0375413405?tag=herb-hugo-20",
+    "url": "https://www.barnesandnoble.com/w/mastering-the-art-of-french-cooking-volume-1/julia-child/1017372212",
     "original_url": "https://www.amazon.com/dp/0375413405?tag=herb-hugo-20",
     "asins": [
       "0375413405"
-    ]
+    ],
+    "merchant": "Barnes & Noble"
   },
   "mccutcheon-s-home-recipe-apple-butter": {
     "name": "McCutcheon's Home Recipe Apple Butter",
@@ -4040,14 +4051,15 @@
   "pomegranate-molasses": {
     "name": "Pomegranate Molasses",
     "category": "middle-eastern-indian-pantry",
-    "url": "https://www.amazon.com/dp/B000LRKO9E?tag=herb-hugo-20",
+    "url": "https://savoryspiceshop.com/collections/all-recipes/products/pomegranate-molasses",
     "original_url": "https://www.amazon.com/dp/B000LRKO9E?tag=herb-hugo-20",
     "asins": [
       "B000LRKO9E",
       "B0014ET3OA",
       "B004A6ET3O",
       "B0CRL8HR8S"
-    ]
+    ],
+    "merchant": "Savory Spice Shop"
   },
   "potato-masher": {
     "name": "Potato Masher",
@@ -4118,13 +4130,14 @@
   "pure-vanilla-extract": {
     "name": "Pure Vanilla Extract",
     "category": "sweeteners-chocolate",
-    "url": "https://www.amazon.com/dp/B0000VLU0I?tag=herb-hugo-20",
+    "url": "https://www.savoryspiceshop.com/products/pure-madagascar-vanilla-extract",
     "original_url": "https://www.amazon.com/dp/B0000VLU0I?tag=herb-hugo-20",
     "asins": [
       "B0000VLU0I",
       "B000V8DHEC",
       "B005MIWPGC"
-    ]
+    ],
+    "merchant": "Savory Spice Shop"
   },
   "quiche-dish": {
     "name": "Quiche Dish",
@@ -4246,13 +4259,14 @@
   "rice-cooker": {
     "name": "Rice Cooker",
     "category": "cookware-appliances",
-    "url": "https://www.amazon.com/dp/B00007J5U7?tag=herb-hugo-20",
+    "url": "https://www.surlatable.com/zojirushi-neuro-fuzzy-rice-cooker-warmer-10-cup/PRO-581603.html",
     "original_url": "https://www.amazon.com/dp/B00007J5U7?tag=herb-hugo-20",
     "asins": [
       "B00007J5U7",
       "B007WQ9YNO",
       "B016Y8JSK4"
-    ]
+    ],
+    "merchant": "Sur La Table"
   },
   "rice-vermicelli": {
     "name": "Rice Vermicelli",
@@ -5242,12 +5256,13 @@
   "the-spice-way-pure-ground-sumac-spice-4-oz": {
     "name": "The Spice Way Pure Ground Sumac Spice, 4 oz",
     "category": "middle-eastern-indian-pantry",
-    "url": "https://www.amazon.com/dp/B07R4LL17V?tag=herb-hugo-20",
+    "url": "https://nuts.com/cookingbaking/herbsspices/spices/ground-sumac.html",
     "original_url": "https://www.amazon.com/dp/B07R4LL17V?tag=herb-hugo-20",
     "asins": [
       "B07NVVT8DF",
       "B07R4LL17V"
-    ]
+    ],
+    "merchant": "Nuts.com"
   },
   "the-spice-way-ras-el-hanout-moroccan-spice-blend": {
     "name": "The Spice Way Ras El Hanout Moroccan Spice Blend",
@@ -5357,12 +5372,13 @@
   "toasted-sesame-oil": {
     "name": "Toasted Sesame Oil",
     "category": "oils-vinegars",
-    "url": "https://www.amazon.com/dp/B00QGWLZ3C?tag=herb-hugo-20",
+    "url": "https://www.surlatable.com/la-tourangelle-toasted-sesame-oil/PRO-3619699.html",
     "original_url": "https://www.amazon.com/dp/B00QGWLZ3C?tag=herb-hugo-20",
     "asins": [
       "B002HMN6SC",
       "B00QGWLZ3C"
-    ]
+    ],
+    "merchant": "Sur La Table"
   },
   "toasted-sesame-paste-tahini": {
     "name": "Toasted Sesame Paste (tahini)",
