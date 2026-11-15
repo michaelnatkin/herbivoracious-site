@@ -1,0 +1,488 @@
+[
+  {
+    "id": "clean-dishtowel",
+    "name": "clean dishtowel",
+    "status": "match",
+    "kind": "equivalent",
+    "confidence": "low",
+    "amazon": {
+      "asins": [
+        "B003BS4856"
+      ],
+      "title": "clean dishtowel",
+      "anchors": [
+        "clean dishtowel"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "how-to-make-tofu-really-freaking-delicious-tofu-101"
+    },
+    "primary": {
+      "merchant": "ChefShop.com",
+      "product": "Torchons & Bouchons Tea Towel - Dinner Time",
+      "url": "https://www.chefshop.com/products/torchons-bouchons-tea-towel-dinner-time",
+      "epc": null,
+      "rate": null,
+      "price": "26.95",
+      "verified": true
+    },
+    "alternatives": [],
+    "note": "A decorative tea towel stands in for a generic dishtowel; likely much pricier and patterned."
+  },
+  {
+    "id": "climbing-the-mango-trees",
+    "name": "Climbing the Mango Trees",
+    "status": "no_match",
+    "reason": "Book; no book merchants in the results.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "1400078202"
+      ],
+      "title": "Climbing the Mango Trees",
+      "anchors": [
+        "Climbing the Mango Trees"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "book-review-bes"
+    }
+  },
+  {
+    "id": "conchiglie",
+    "name": "Conchiglie",
+    "status": "no_match",
+    "reason": "Only a gluten-free conchiglie (Farabella) turned up, which would surprise readers expecting Montebello organic semolina pasta.",
+    "needs_web": false,
+    "amazon": {
+      "asins": [
+        "B005SY3OJC"
+      ],
+      "title": "Amazon.com : Montebello, Organic Conchiglie Premium Italian Pasta, 16 oz. : Italian Pasta : Everything Else",
+      "anchors": [
+        "conchiglie"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "7-pasta-tips-conchiglie-with-chard-and-smoked-mozzarella"
+    }
+  },
+  {
+    "id": "cookie-sheet-with-a-rim",
+    "name": "Cookie Sheet with a Rim",
+    "status": "no_match",
+    "reason": "No bakeware in the results; all hits are cookies or spices.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B0049C2S32"
+      ],
+      "title": "Cookie Sheet with a Rim",
+      "anchors": [
+        "cookie sheet with a rim"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "flaky-biscuits"
+    }
+  },
+  {
+    "id": "coriander-seeds",
+    "name": "Coriander Seeds",
+    "status": "match",
+    "kind": "same",
+    "confidence": "high",
+    "amazon": {
+      "asins": [
+        "B0CP8ZKYY7"
+      ],
+      "title": "Coriander Seeds",
+      "anchors": [
+        "coriander seeds"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "chana-mushroom-masala-recipe"
+    },
+    "primary": {
+      "merchant": "Savory Spice Shop, LLC",
+      "product": "Coriander Seeds",
+      "url": "https://www.savoryspiceshop.com/products/coriander-seeds",
+      "epc": 0.33,
+      "rate": null,
+      "price": "5.20",
+      "verified": true
+    },
+    "alternatives": [
+      {
+        "merchant": "The Spice House",
+        "product": "Coriander, Moroccan Seeds",
+        "url": "https://www.thespicehouse.com/products/moroccan-coriander-seeds",
+        "epc": 0.21,
+        "rate": null,
+        "price": "5.79",
+        "verified": true
+      },
+      {
+        "merchant": "ChefShop.com",
+        "product": "Villa Jerada Whole Coriander - 1 lb",
+        "url": "https://www.chefshop.com/products/villa-jerada-whole-coriander-1-pound",
+        "epc": null,
+        "rate": null,
+        "price": "14.95",
+        "verified": true
+      }
+    ],
+    "note": "Whole coriander seeds, same ingredient and form; different seller and jar size."
+  },
+  {
+    "id": "corkscrew",
+    "name": "Corkscrew",
+    "status": "no_match",
+    "reason": "No barware in the results.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B086Q53TG7"
+      ],
+      "title": "Corkscrew",
+      "anchors": [
+        "corkscrew"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "best-kosher-for-passover-wines"
+    }
+  },
+  {
+    "id": "corningware",
+    "name": "CorningWare",
+    "status": "no_match",
+    "reason": "No cookware in the results.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B00005B8JM"
+      ],
+      "title": "Amazon.com: CorningWare FS5 1.5-Qt/1.4L French White Dish with G-5C & F-5-PC Lids | Round Shape | Fluted Glass Cover | BPA-Free Plastic | Versatile Food Storage | Oven-To-Table Use: Home & Kitchen",
+      "anchors": [
+        "CorningWare"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "burnt-sugar-flan-recipe"
+    }
+  },
+  {
+    "id": "crackers-dips-more-than-50-handmade-snacks",
+    "name": "Crackers & Dips: More Than 50 Handmade Snacks",
+    "status": "no_match",
+    "reason": "Book; results are unrelated crackers and spices.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "1452109508"
+      ],
+      "title": "Crackers & Dips: More Than 50 Handmade Snacks",
+      "anchors": [
+        "Crackers &amp",
+        "Dips: More than 50 Handmade Snacks"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "crackers-and-dips-more-than-fifty-homemade-snacks-cookbook-review"
+    }
+  },
+  {
+    "id": "craft",
+    "name": "Craft",
+    "status": "no_match",
+    "reason": "Book (Tom Colicchio's Craft); no book merchants in the results.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "0609610503"
+      ],
+      "title": "Craft",
+      "anchors": [
+        "Craft"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "battle-of-the-n"
+    }
+  },
+  {
+    "id": "creme-fraiche",
+    "name": "Creme Fraiche",
+    "status": "no_match",
+    "reason": "No creme fraiche in the results.",
+    "needs_web": false,
+    "amazon": {
+      "asins": [
+        "B007NK0P3C"
+      ],
+      "title": "Creme Fraiche",
+      "anchors": [
+        "creme fraiche"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "baked-eggs-with-chanterelles-and-chard-recipe"
+    }
+  },
+  {
+    "id": "currants",
+    "name": "Currants",
+    "status": "match",
+    "kind": "same",
+    "confidence": "high",
+    "amazon": {
+      "asins": [
+        "B07Z5M4RQ6"
+      ],
+      "title": "Currants",
+      "anchors": [
+        "currants"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "welsh-cakes-fro"
+    },
+    "primary": {
+      "merchant": "Nuts.com",
+      "product": "Currants",
+      "url": "https://www.nuts.com/products/currants",
+      "epc": 0.38,
+      "rate": null,
+      "price": "6.99",
+      "verified": true
+    },
+    "alternatives": [
+      {
+        "merchant": "ChefShop.com",
+        "product": "Dried Zante Currants",
+        "url": "https://www.chefshop.com/products/dried-zante-currants",
+        "epc": null,
+        "rate": null,
+        "price": "13.95",
+        "verified": true
+      }
+    ],
+    "note": "Dried currants (as used in Welsh cakes), same ingredient and form; different seller."
+  },
+  {
+    "id": "daikon-radish",
+    "name": "Daikon Radish",
+    "status": "no_match",
+    "reason": "No daikon in the results; an Asian grocer like Weee might carry it.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B0019JRLC6"
+      ],
+      "title": "Daikon Radish",
+      "anchors": [
+        "daikon radish"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "recipe-vietname"
+    }
+  },
+  {
+    "id": "daniel-boulud",
+    "name": "Daniel Boulud",
+    "status": "no_match",
+    "reason": "Book; no book merchants in the results.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "0465007775"
+      ],
+      "title": "Daniel Boulud",
+      "anchors": [
+        "Daniel Boulud"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "so-you-want-to-stage-intern-at-a-restaurant"
+    }
+  },
+  {
+    "id": "dark-chocolate",
+    "name": "Dark Chocolate",
+    "status": "match",
+    "kind": "equivalent",
+    "confidence": "low",
+    "amazon": {
+      "asins": [
+        "B01ID73TR2"
+      ],
+      "title": "Dark Chocolate",
+      "anchors": [
+        "dark chocolate"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "gateaux-de-crepes-recipe"
+    },
+    "primary": {
+      "merchant": "ChefShop.com",
+      "product": "Ara Chocolat 74% Ocumare Dark Chocolate Bar",
+      "url": "https://www.chefshop.com/products/ara-chocolat-74-ocumare-dark-chocolate-bar",
+      "epc": null,
+      "rate": null,
+      "price": "18.95",
+      "verified": true
+    },
+    "alternatives": [
+      {
+        "merchant": "ChefShop.com",
+        "product": "SOMA Green Tangerine 70% Dark Chocolate Bar",
+        "url": "https://www.chefshop.com/products/soma-green-tangerine-70-percent-dark-chocolate-bar",
+        "epc": null,
+        "rate": null,
+        "price": "13.95",
+        "verified": true
+      }
+    ],
+    "note": "The Amazon product title is unknown; this is a generic dark chocolate bar (74%), possibly a different brand and pricier than the original."
+  },
+  {
+    "id": "date-sugar",
+    "name": "Date Sugar",
+    "status": "match",
+    "kind": "equivalent",
+    "confidence": "medium",
+    "amazon": {
+      "asins": [
+        "B085ZR9GX6"
+      ],
+      "title": "Amazon.com: Date Sugar, Organic Sugar Substitute for Baking, 1 lb \u2013 Date Lady | Made From 100% Organic Whole Dates; Vegan, Paleo, Gluten Free and Kosher; Ideal for Baking; Does Not Dissolve in Drinks : Grocery & Gourmet Food",
+      "anchors": [
+        "date sugar"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "saffron-date-posset-a-dessert-you-should-know-recipe"
+    },
+    "primary": {
+      "merchant": "Nuts.com",
+      "product": "Organic Date Powder",
+      "url": "https://www.nuts.com/products/organic-date-powder",
+      "epc": 0.38,
+      "rate": null,
+      "price": "9.99",
+      "verified": true
+    },
+    "alternatives": [],
+    "note": "Date sugar is ground dried dates; Nuts.com sells it as organic date powder, a different brand and name for the same thing."
+  },
+  {
+    "id": "de-cecco-orecchiette-no-91-pasta-16-oz",
+    "name": "De Cecco Orecchiette No. 91 Pasta (16 Oz)",
+    "status": "match",
+    "kind": "equivalent",
+    "confidence": "medium",
+    "amazon": {
+      "asins": [
+        "B00060O7H6"
+      ],
+      "title": "De Cecco Orecchiette No. 91 Pasta (16 Oz)",
+      "anchors": [
+        "dried orecchiette"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "orecchiette-with-garlic-scapes-ricotta-and-gremolata-recipe"
+    },
+    "primary": {
+      "merchant": "ChefShop.com",
+      "product": "Orecchiette del Prete Pasta - Rustichella d'Abruzzo",
+      "url": "https://www.chefshop.com/products/orecchiette-del-prete-pasta-rustichella-dabruzzo",
+      "epc": null,
+      "rate": null,
+      "price": "14.95",
+      "verified": true
+    },
+    "alternatives": [],
+    "note": "Dried orecchiette from a different Italian brand (Rustichella d'Abruzzo instead of De Cecco), and pricier."
+  },
+  {
+    "id": "de-la-estancia",
+    "name": "De La Estancia",
+    "status": "no_match",
+    "reason": "Product unclear and nothing relevant in the results.",
+    "needs_web": false,
+    "amazon": {
+      "asins": [
+        "B0046LDY5M"
+      ],
+      "title": "De La Estancia",
+      "anchors": [
+        "de la Estancia"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "king-oyster-mus"
+    }
+  },
+  {
+    "id": "dedicated-paella-pan",
+    "name": "Dedicated Paella Pan",
+    "status": "no_match",
+    "reason": "No paella pan in the results (only rice, sofrito and spices); cookware merchants may carry one.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B000QYNSRC"
+      ],
+      "title": "Dedicated Paella Pan",
+      "anchors": [
+        "dedicated paella pan"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "vegetarian-pael"
+    }
+  },
+  {
+    "id": "dessert-recipe",
+    "name": "dessert recipe",
+    "status": "no_match",
+    "reason": "Book; results are unrelated baking ingredients.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "1558327983"
+      ],
+      "title": "dessert recipe",
+      "anchors": [
+        "dessert recipe"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "how-to-make-an-inside-out-egg-recipe"
+    }
+  },
+  {
+    "id": "digital-one",
+    "name": "Digital One",
+    "status": "no_match",
+    "reason": "Unclear product, probably a kitchen gadget; results are irrelevant.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B000S1P3XU"
+      ],
+      "title": "Digital One",
+      "anchors": [
+        "digital one"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "foodbeam-sables"
+    }
+  }
+]

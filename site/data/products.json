@@ -1384,11 +1384,12 @@
   "coriander-seeds": {
     "name": "Coriander Seeds",
     "category": "spices-seasonings",
-    "url": "https://www.amazon.com/dp/B0CP8ZKYY7?tag=herb-hugo-20",
+    "url": "https://www.savoryspiceshop.com/products/coriander-seeds",
     "original_url": "https://www.amazon.com/dp/B0CP8ZKYY7?tag=herb-hugo-20",
     "asins": [
       "B0CP8ZKYY7"
-    ]
+    ],
+    "merchant": "Savory Spice Shop, LLC"
   },
   "corkscrew": {
     "name": "Corkscrew",
@@ -1478,11 +1479,12 @@
   "currants": {
     "name": "Currants",
     "category": "pantry-staples",
-    "url": "https://www.amazon.com/dp/B07Z5M4RQ6?tag=herb-hugo-20",
+    "url": "https://www.nuts.com/products/currants",
     "original_url": "https://www.amazon.com/dp/B07Z5M4RQ6?tag=herb-hugo-20",
     "asins": [
       "B07Z5M4RQ6"
-    ]
+    ],
+    "merchant": "Nuts.com"
   },
   "daikon-radish": {
     "name": "Daikon Radish",
@@ -1644,11 +1646,12 @@
   "double-concentrated-tomato-paste": {
     "name": "Double-Concentrated Tomato Paste",
     "category": "pantry-staples",
-    "url": "https://www.amazon.com/dp/B07KYWQ22X?tag=herb-hugo-20",
+    "url": "https://www.chefshop.com/products/tomato-paste-in-tube",
     "original_url": "https://www.amazon.com/dp/B07KYWQ22X?tag=herb-hugo-20",
     "asins": [
       "B07KYWQ22X"
-    ]
+    ],
+    "merchant": "ChefShop.com"
   },
   "doughnuts-simple-and-delicious-recipes-to-make": {
     "name": "Doughnuts: Simple and Delicious Recipes to Make at Home",
@@ -1662,11 +1665,12 @@
   "dried-aji-amarillo-pepper-2-oz": {
     "name": "Dried Aji Amarillo Pepper, 2 oz",
     "category": "mexican-latin-pantry",
-    "url": "https://www.amazon.com/dp/B092L7JRRC?tag=herb-hugo-20",
+    "url": "https://www.chefshop.com/products/zocalo-organic-peruvian-aji-amarillo-chili-pods",
     "original_url": "https://www.amazon.com/dp/B092L7JRRC?tag=herb-hugo-20",
     "asins": [
       "B092L7JRRC"
-    ]
+    ],
+    "merchant": "ChefShop.com"
   },
   "dried-ancho-chilis": {
     "name": "Dried Ancho Chilis",
@@ -1711,20 +1715,22 @@
   "dried-oregano": {
     "name": "Dried Oregano",
     "category": "spices-seasonings",
-    "url": "https://www.amazon.com/dp/B000WS3APW?tag=herb-hugo-20",
+    "url": "https://www.savoryspiceshop.com/products/mediterranean-greek-oregano",
     "original_url": "https://www.amazon.com/dp/B000WS3APW?tag=herb-hugo-20",
     "asins": [
       "B000WS3APW"
-    ]
+    ],
+    "merchant": "Savory Spice Shop, LLC"
   },
   "dried-pasilla-chile-peppers": {
     "name": "Dried Pasilla Chile Peppers",
     "category": "mexican-latin-pantry",
-    "url": "https://www.amazon.com/dp/B08LCGX3W7?tag=herb-hugo-20",
+    "url": "https://www.chefshop.com/products/dried-pasilla-negro-chili-pods",
     "original_url": "https://www.amazon.com/dp/B08LCGX3W7?tag=herb-hugo-20",
     "asins": [
       "B08LCGX3W7"
-    ]
+    ],
+    "merchant": "ChefShop.com"
   },
   "dried-porcini-mushrooms": {
     "name": "Dried Porcini Mushrooms",
@@ -1760,11 +1766,12 @@
   "dry-harissa-mix": {
     "name": "Dry Harissa Mix",
     "category": "middle-eastern-indian-pantry",
-    "url": "https://www.amazon.com/dp/B005WDVR0W?tag=herb-hugo-20",
+    "url": "https://www.savoryspiceshop.com/products/harissa-spice-mix-powder",
     "original_url": "https://www.amazon.com/dp/B005WDVR0W?tag=herb-hugo-20",
     "asins": [
       "B005WDVR0W"
-    ]
+    ],
+    "merchant": "Savory Spice Shop, LLC"
   },
   "dry-yeast": {
     "name": "Dry Yeast",
@@ -1787,29 +1794,32 @@
   "dukkah": {
     "name": "Dukkah",
     "category": "middle-eastern-indian-pantry",
-    "url": "https://www.amazon.com/dp/B07GVPN9BK?tag=herb-hugo-20",
+    "url": "https://www.chefshop.com/products/villa-jerada-egyptian-dukkah-spice-blend",
     "original_url": "https://www.amazon.com/dp/B07GVPN9BK?tag=herb-hugo-20",
     "asins": [
       "B07GVPN9BK"
-    ]
+    ],
+    "merchant": "ChefShop.com"
   },
   "dukkah-2": {
     "name": "Dukkah",
     "category": "middle-eastern-indian-pantry",
-    "url": "https://www.amazon.com/dp/B0B88NVJC1?tag=herb-hugo-20",
+    "url": "https://www.chefshop.com/products/villa-jerada-egyptian-dukkah-spice-blend",
     "original_url": "https://www.amazon.com/dp/B0B88NVJC1?tag=herb-hugo-20",
     "asins": [
       "B0B88NVJC1"
-    ]
+    ],
+    "merchant": "ChefShop.com"
   },
   "dulce-de-leche": {
     "name": "Dulce de Leche",
     "category": "sweeteners-chocolate",
-    "url": "https://www.amazon.com/dp/B000SRJLSW?tag=herb-hugo-20",
+    "url": "https://www.chefshop.com/products/san-ignacio-dulce-de-leche",
     "original_url": "https://www.amazon.com/dp/B000SRJLSW?tag=herb-hugo-20",
     "asins": [
       "B000SRJLSW"
-    ]
+    ],
+    "merchant": "ChefShop.com"
   },
   "dutch-oven": {
     "name": "Dutch Oven",
@@ -1853,11 +1863,12 @@
   "el-mexicano-achiote-paste-3-5-oz": {
     "name": "El Mexicano Achiote Paste, 3.5 oz",
     "category": "mexican-latin-pantry",
-    "url": "https://www.amazon.com/dp/B00169V7TW?tag=herb-hugo-20",
+    "url": "https://www.savoryspiceshop.com/products/achiote-paste",
     "original_url": "https://www.amazon.com/dp/B00169V7TW?tag=herb-hugo-20",
     "asins": [
       "B00169V7TW"
-    ]
+    ],
+    "merchant": "Savory Spice Shop, LLC"
   },
   "electric-cuisinart-model": {
     "name": "Electric Cuisinart Model",

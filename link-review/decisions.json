@@ -1838,5 +1838,159 @@
    "price": "$11.50",
    "verified": true
   }
+ },
+ "coriander-seeds": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "Savory Spice Shop, LLC",
+   "product": "Coriander Seeds",
+   "url": "https://www.savoryspiceshop.com/products/coriander-seeds",
+   "epc": 0.33,
+   "rate": null,
+   "price": "5.20",
+   "verified": true
+  }
+ },
+ "currants": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "Nuts.com",
+   "product": "Currants",
+   "url": "https://www.nuts.com/products/currants",
+   "epc": 0.38,
+   "rate": null,
+   "price": "6.99",
+   "verified": true
+  }
+ },
+ "double-concentrated-tomato-paste": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "ChefShop.com",
+   "product": "Mutti Tomato Paste in Tube",
+   "url": "https://www.chefshop.com/products/tomato-paste-in-tube",
+   "epc": null,
+   "rate": null,
+   "price": "$5.95",
+   "verified": true
+  }
+ },
+ "dried-aji-amarillo-pepper-2-oz": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "ChefShop.com",
+   "product": "Zocalo Organic Peruvian Aji Amarillo Chili Pods",
+   "url": "https://www.chefshop.com/products/zocalo-organic-peruvian-aji-amarillo-chili-pods",
+   "epc": null,
+   "rate": null,
+   "price": "$6.95",
+   "verified": true
+  }
+ },
+ "dried-oregano": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "Savory Spice Shop, LLC",
+   "product": "Greek Oregano",
+   "url": "https://www.savoryspiceshop.com/products/mediterranean-greek-oregano",
+   "epc": 0.33,
+   "rate": null,
+   "price": "$3.25",
+   "verified": true
+  }
+ },
+ "dried-pasilla-chile-peppers": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "ChefShop.com",
+   "product": "Dried Pasilla Negro Chili Pods",
+   "url": "https://www.chefshop.com/products/dried-pasilla-negro-chili-pods",
+   "epc": null,
+   "rate": null,
+   "price": "$7.95",
+   "verified": true
+  }
+ },
+ "dry-harissa-mix": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "Savory Spice Shop, LLC",
+   "product": "Harissa Spice Mix",
+   "url": "https://www.savoryspiceshop.com/products/harissa-spice-mix-powder",
+   "epc": 0.33,
+   "rate": null,
+   "price": "$10.50",
+   "verified": true
+  }
+ },
+ "dukkah": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "ChefShop.com",
+   "product": "Villa Jerada Egyptian Dukkah Spice Blend",
+   "url": "https://www.chefshop.com/products/villa-jerada-egyptian-dukkah-spice-blend",
+   "epc": null,
+   "rate": null,
+   "price": "$8.95",
+   "verified": true
+  }
+ },
+ "dukkah-2": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "ChefShop.com",
+   "product": "Villa Jerada Egyptian Dukkah Spice Blend",
+   "url": "https://www.chefshop.com/products/villa-jerada-egyptian-dukkah-spice-blend",
+   "epc": null,
+   "rate": null,
+   "price": "$8.95",
+   "verified": true
+  }
+ },
+ "dulce-de-leche": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "ChefShop.com",
+   "product": "San Ignacio Dulce de Leche",
+   "url": "https://www.chefshop.com/products/san-ignacio-dulce-de-leche",
+   "epc": null,
+   "rate": null,
+   "price": "$13.95",
+   "verified": true
+  }
+ },
+ "el-mexicano-achiote-paste-3-5-oz": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "Savory Spice Shop, LLC",
+   "product": "Achiote Paste",
+   "url": "https://www.savoryspiceshop.com/products/achiote-paste",
+   "epc": 0.33,
+   "rate": null,
+   "price": "$4.99",
+   "verified": true
+  }
  }
 }
