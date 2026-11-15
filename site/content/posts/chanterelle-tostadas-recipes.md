@@ -1,5 +1,7 @@
 ---
 title: "Chanterelle Tostadas - Recipe"
+description: "How to cook chanterelles on crisp tostadas, a simple recipe for wild mushroom season."
+seo_title: "Chanterelle Recipes: Chanterelle Tostadas"
 date: 2014-06-20T09:06:03
 slug: "chanterelle-tostadas-recipes"
 categories: ["Gluten-Free or modifiable", "Main Courses", "Recipes", "Vegan or Modifiable"]

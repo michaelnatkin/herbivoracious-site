@@ -1,5 +1,7 @@
 ---
 title: "Potatoes with Crispy Curry Leaves - Recipe"
+description: "How to fry curry leaves until crispy, and a potato dish that shows them off."
+seo_title: "Crispy Fried Curry Leaves: Potatoes Recipe"
 date: 2012-10-17T06:00:14
 slug: "potatoes-with-crispy-curry-leaves-recipe"
 categories: ["Gluten-Free or modifiable", "Recipes", "Side Dishes"]

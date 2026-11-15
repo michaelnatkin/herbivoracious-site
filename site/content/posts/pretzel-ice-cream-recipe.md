@@ -1,8 +1,9 @@
 ---
 title: "Pretzel Ice Cream - Yeah, You Heard Me, It Tastes Like Pretzels - Recipe"
+description: "Homemade pretzel ice cream with a custard base infused with toasted pretzel flavor, plus crunchy pretzel pieces. A salty-sweet scoop worth the effort."
+seo_title: "Pretzel Ice Cream Recipe (Homemade, Salty-Sweet)"
 date: 2010-10-06T09:00:00
 slug: "pretzel-ice-cream-recipe"
-description: "Recipe for pretzel ice cream - yep - the ice cream base is infused with the warm, toasted flavor of pretzels. Unusual and delicious."
 categories: ["Desserts", "Experiments", "Recipes"]
 aliases: ["/pretzel-ice-cream-recipe/", "/2010/10/pretzel-ice-cream-recipe.html"]
 cover:

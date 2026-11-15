@@ -1,9 +1,10 @@
 ---
 title: "Indian Lentil Soup with Fenugreek (Methi Dal) - Guest Post Recipe"
+description: "A simple, delicious Indian red lentil soup with fresh fenugreek (methi). Vegetarian, vegan and gluten-free."
+seo_title: "Methi Dal: Indian Lentil Soup with Fenugreek"
 date: 2011-05-16T07:00:00
 slug: "indian-lentil-soup-with-fenugreek-or-methi-dal-guest-post-recipe"
 water_note: "beans"
-description: "Vegetarian, vegan, and gluten-free recipe for a simple, delicious Indian soup made with red lentils and fresh fenugreek or spinach."
 categories: ["Gluten-Free or modifiable", "Recipes", "Soups", "Vegan or Modifiable"]
 aliases: ["/indian-lentil-soup-with-fenugreek-or-methi-dal-guest-post-recipe/", "/2011/05/indian-lentil-soup-with-fenugreek-or-methi-dal-guest-post-recipe.html"]
 cover:

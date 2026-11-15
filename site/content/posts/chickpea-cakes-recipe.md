@@ -1,8 +1,9 @@
 ---
 title: "Savory Chickpea Cakes - Recipe"
+description: "Savory pan-fried chickpea cakes flavored with garlic and sesame seeds."
+seo_title: "Chickpea Cakes Recipe (Pan-Fried, Vegetarian)"
 date: 2010-07-26T07:05:00
 slug: "chickpea-cakes-recipe"
-description: "Vegetarian recipe for savory pan-fried chickpea fritters, flavored with garlic and sesame seeds. Delicious with homemade tomato jam."
 categories: ["Appetizers", "Kid Friendly", "Recipes"]
 aliases: ["/chickpea-cakes-recipe/", "/2010/07/chickpea-cakes-recipe.html"]
 cover:

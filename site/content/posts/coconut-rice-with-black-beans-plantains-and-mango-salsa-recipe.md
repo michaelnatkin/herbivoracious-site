@@ -1,8 +1,9 @@
 ---
 title: "Coconut Rice with Black Beans, Plantains, and Mango Salsa - Recipe"
+description: "Caribbean-style coconut rice with black beans, plantains, avocado and mango salsa. A vegetarian entree."
+seo_title: "Coconut Rice and Black Beans with Plantains"
 date: 2011-06-20T07:07:00
 slug: "coconut-rice-with-black-beans-plantains-and-mango-salsa-recipe"
-description: "Recipe for a Caribbean-style vegetarian entree of coconut-milk scented rice with black beans, plantains, avocado, mango and a spicy mango salsa."
 categories: ["Favorites", "Gluten-Free or modifiable", "Kid Friendly", "Main Courses", "Recipes", "Sauces and Condiments", "Vegan or Modifiable"]
 aliases: ["/coconut-rice-with-black-beans-plantains-and-mango-salsa-recipe/", "/2011/06/coconut-rice-with-black-beans-plantains-and-mango-salsa-recipe.html"]
 cover:

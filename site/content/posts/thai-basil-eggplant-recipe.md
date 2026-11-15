@@ -1,5 +1,7 @@
 ---
 title: "Thai Basil Eggplant - Recipe"
+description: "Thai basil eggplant, a quick vegetarian stir-fry. Includes how Thai basil differs from holy basil and Italian basil."
+seo_title: "Thai Basil Eggplant Recipe (Vegetarian)"
 date: 2012-07-09T06:00:31
 slug: "thai-basil-eggplant-recipe"
 categories: ["Gluten-Free or modifiable", "Main Courses", "Recipes", "Side Dishes", "Vegan or Modifiable"]

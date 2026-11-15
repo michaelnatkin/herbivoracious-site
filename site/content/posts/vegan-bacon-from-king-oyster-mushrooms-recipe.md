@@ -1,5 +1,7 @@
 ---
 title: "Vegan \"Bacon\" From King Oyster Mushrooms - Recipe"
+description: "Crispy, salty, smoky vegan bacon made from thin-sliced king oyster mushrooms."
+seo_title: "Vegan Bacon from King Oyster Mushrooms"
 date: 2012-11-07T07:00:26
 slug: "vegan-bacon-from-king-oyster-mushrooms-recipe"
 categories: ["Breakfast", "Gluten-Free or modifiable", "Recipes", "Sauces and Condiments", "Vegan or Modifiable"]

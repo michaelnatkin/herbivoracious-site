@@ -1,5 +1,7 @@
 ---
 title: "Homemade Caraway Rye Crackers - Recipe"
+description: "Crisp homemade rye crackers with caraway seeds, easy to make and great with cheese or spreads."
+seo_title: "Homemade Rye Crackers Recipe (Caraway)"
 date: 2012-02-20T07:05:10
 slug: "homemade-caraway-rye-crackers-recipe"
 categories: ["Baking", "Recipes", "Vegan or Modifiable"]

@@ -1,5 +1,7 @@
 ---
 title: "Basic Baked Custard Recipe - An Easy, Comforting Dessert with Many Options"
+description: "A simple baked custard in ramekins, with the method that keeps it silky instead of grainy. Easy to flavor many ways."
+seo_title: "Easy Baked Custard Recipe (Silky, Never Grainy)"
 date: 2012-07-30T06:00:11
 slug: "basic-baked-custard-recipe-an-easy-comforting-dessert-with-many-options"
 categories: ["Desserts", "Gluten-Free or modifiable", "Recipes"]

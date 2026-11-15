@@ -1,5 +1,7 @@
 ---
 title: "Kala Chana (Black Chickpea Curry) - A Guest Post from Amee of Rabbit Food Rocks"
+description: "Kala chana, a black chickpea curry, from a guest post by Amee of Rabbit Food Rocks. A hearty Indian vegetarian main."
+seo_title: "Kala Chana (Black Chickpea) Curry Recipe"
 date: 2012-01-25T07:02:40
 slug: "kala-chana-black-chickpea-curry"
 categories: ["Gluten-Free or modifiable", "Main Courses", "Recipes", "Vegan or Modifiable", "Weblogs"]

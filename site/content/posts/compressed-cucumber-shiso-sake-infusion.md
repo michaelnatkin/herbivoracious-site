@@ -1,8 +1,9 @@
 ---
 title: "Compressed Cantaloupe and Cucumber Salad with Shiso Infused Sake - Two Modern Techniques You Can Easily Use in a Home Kitchen - Recipe"
+description: "How to make compressed cucumber and cantaloupe, and shiso-infused sake, two modern techniques you can do in a home kitchen."
+seo_title: "Compressed Cucumber (and Cantaloupe) with Shiso Sake"
 date: 2010-09-20T07:00:00
 slug: "compressed-cucumber-shiso-sake-infusion"
-description: "Modern culinary techniques for infusing flavors and compressing melons adapted to the home kitchen and used to make a beautiful shiso sake first course."
 categories: ["Experiments", "Gluten-Free or modifiable", "Recipes", "Salads", "Vegan or Modifiable"]
 aliases: ["/compressed-cucumber-shiso-sake-infusion/", "/2010/09/compressed-cucumber-shiso-sake-infusion.html"]
 cover:

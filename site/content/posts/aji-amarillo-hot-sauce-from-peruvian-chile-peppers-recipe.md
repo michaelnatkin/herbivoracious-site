@@ -1,5 +1,7 @@
 ---
 title: "Aji Amarillo Hot Sauce (from Peruvian Chile Peppers) - Recipe"
+description: "A fruity, spicy hot sauce made from Peruvian aji amarillo chile peppers."
+seo_title: "Aji Amarillo Hot Sauce Recipe"
 date: 2009-11-30T06:49:00
 slug: "aji-amarillo-hot-sauce-from-peruvian-chile-peppers-recipe"
 categories: ["Gluten-Free or modifiable", "Recipes", "Sauces and Condiments", "Vegan or Modifiable"]

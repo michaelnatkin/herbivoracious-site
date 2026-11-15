@@ -1,5 +1,7 @@
 ---
 title: "Bocoles (Masa and Black Bean Cakes) with Spicy Yams - Recipe"
+description: "Bocoles are fried masa cakes stuffed with black beans, here topped with spicy yams."
+seo_title: "Bocoles Recipe: Masa and Black Bean Cakes"
 date: 2009-11-12T06:55:00
 slug: "bocoles-masa-and-black-bean-cakes-with-spicy-yams-recipe"
 categories: ["Appetizers", "Books", "Gluten-Free or modifiable", "Kid Friendly", "Main Courses", "Recipes", "Vegan or Modifiable"]

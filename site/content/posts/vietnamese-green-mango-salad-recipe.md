@@ -1,8 +1,9 @@
 ---
 title: "Vietnamese Green Mango Salad - Recipe"
+description: "A vegetarian Vietnamese green mango salad with bright, bold flavors. Easy to make with a handful of fresh ingredients."
+seo_title: "Vietnamese Green Mango Salad Recipe"
 date: 2009-11-19T06:47:00
 slug: "vietnamese-green-mango-salad-recipe"
-description: "Easy recipe for a vegetarian Vietnamese green mango salad with bright, bold flavors."
 categories: ["Gluten-Free or modifiable", "Kid Friendly", "Recipes", "Salads", "Vegan or Modifiable"]
 aliases: ["/vietnamese-green-mango-salad-recipe/", "/2009/11/vietnamese-green-mango-salad-recipe.html"]
 cover:

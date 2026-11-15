@@ -1,8 +1,9 @@
 ---
 title: "Mandu - Korean-Style Potstickers with Ssamjang / Kochujang Sauce - Recipe"
+description: "Vegetarian Korean-style potstickers (mandu) with an unusual dipping sauce made with ssamjang and kochujang."
+seo_title: "Korean Potstickers (Mandu) with Ssamjang Sauce"
 date: 2010-06-18T07:02:00
 slug: "mandu-koreanstyle-potstickers-with-ssamjang-kochujang-sauce-recipe"
-description: "Recipe for delicious vegetarian Korean-style potstickers (mandu or gunmandu) with an unusual dipping sauce."
 categories: ["Appetizers", "Kid Friendly", "Recipes"]
 aliases: ["/mandu-koreanstyle-potstickers-with-ssamjang-kochujang-sauce-recipe/", "/2010/06/mandu-koreanstyle-potstickers-with-ssamjang-kochujang-sauce-recipe.html"]
 cover:

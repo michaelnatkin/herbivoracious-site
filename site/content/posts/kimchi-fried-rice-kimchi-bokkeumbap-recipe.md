@@ -1,8 +1,9 @@
 ---
 title: "Kimchi Fried Rice (Kimchi Bokkeumbap) - Recipe"
+description: "Kimchi fried rice, or kimchi bokkeumbap, is a classic Korean way to use up leftover rice. A fast, savory vegetarian version."
+seo_title: "Kimchi Fried Rice (Kimchi Bokkeumbap) Recipe"
 date: 2011-01-03T07:05:00
 slug: "kimchi-fried-rice-kimchi-bokkeumbap-recipe"
-description: "Kimchi fried rice (kimchi bokkeumbap) is a classic, delicious Korean way to use up leftover rice, vegetables and kimchi."
 categories: ["Favorites", "Gluten-Free or modifiable", "Kid Friendly", "Main Courses", "Recipes", "Vegan or Modifiable"]
 aliases: ["/kimchi-fried-rice-kimchi-bokkeumbap-recipe/", "/2011/01/kimchi-fried-rice-kimchi-bokkeumbap-recipe.html"]
 cover:

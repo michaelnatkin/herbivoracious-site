@@ -1,5 +1,7 @@
 ---
 title: "Quickie Amba (Pickled Mango Condiment) - Recipe"
+description: "What is amba? A tangy pickled mango condiment used on sabich, the Iraqi-Jewish eggplant sandwich. This is the quick version."
+seo_title: "Quick Amba (Pickled Mango Sauce) Recipe"
 date: 2012-09-18T06:00:28
 slug: "quickie-amba-pickled-mango-condiment-recipe"
 categories: ["Gluten-Free or modifiable", "Recipes", "Sauces and Condiments", "Vegan or Modifiable", "Weblogs"]

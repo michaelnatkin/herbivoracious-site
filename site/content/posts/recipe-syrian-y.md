@@ -1,5 +1,7 @@
 ---
 title: "Recipe: Syrian Vegetarian Red Lentil Soup (Shurbat Addes)"
+description: "Syrian red lentil soup (shurbat addes), a vegetarian Aleppo-style recipe adapted from Poopa Dweck's Aromas of Aleppo."
+seo_title: "Syrian Red Lentil Soup (Shurbat Addes) Recipe"
 date: 2008-04-13T22:20:53
 slug: "recipe-syrian-y"
 categories: ["Books", "Favorites", "Kid Friendly", "Recipes", "Soups", "Vegan or Modifiable"]

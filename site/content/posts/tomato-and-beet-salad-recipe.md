@@ -1,8 +1,9 @@
 ---
 title: "Tomato and Beet Salad - Recipe"
+description: "An easy summer salad of fresh tomatoes and beets with feta and mint. Vegetarian and gluten-free."
+seo_title: "Beet and Tomato Salad with Feta and Mint"
 date: 2010-08-09T07:01:00
 slug: "tomato-and-beet-salad-recipe"
-description: "Easy and amazing summer salad of fresh tomatoes and beets with feta cheese and mint. Vegetarian and gluten-free."
 categories: ["Recipes", "Salads"]
 aliases: ["/tomato-and-beet-salad-recipe/", "/2010/08/tomato-and-beet-salad-recipe.html"]
 cover:

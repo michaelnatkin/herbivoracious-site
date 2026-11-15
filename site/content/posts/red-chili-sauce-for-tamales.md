@@ -1,8 +1,9 @@
 ---
 title: "Red Chili Sauce for Tamales, and a Great Tamale Book - Recipe"
+description: "A red chili sauce for tamales, plus a great tamale book. Make the sauce ahead and use it for fillings or dipping."
+seo_title: "Red Chili Sauce for Tamales Recipe"
 date: 2011-11-07T07:03:00
 slug: "red-chili-sauce-for-tamales"
-description: "Recipe for a red chili sauce suitable for use in tamales."
 categories: ["Recipes", "Sauces and Condiments", "Vegan or Modifiable"]
 aliases: ["/red-chili-sauce-for-tamales/", "/2011/11/red-chili-sauce-for-tamales.html"]
 cover:

@@ -1,8 +1,9 @@
 ---
 title: "Vegetarian Frijoles Charros - Mexican Cowboy Beans with Smoked Onion - Recipe"
+description: "Vegetarian frijoles charros, Mexican cowboy beans, flavored with smoked onions instead of meat. Vegan-friendly."
+seo_title: "Vegetarian Cowboy Beans (Frijoles Charros) Recipe"
 date: 2011-07-11T07:35:07
 slug: "vegetarian-frijoles-charros-mexican-cowboy-beans-with-smoked-onion-recipe"
-description: "Recipe for vegetarian frijoles charros (Mexican cowboy beans) flavored with smoked onions."
 categories: ["Gluten-Free or modifiable", "Recipes", "Side Dishes", "Vegan or Modifiable"]
 aliases: ["/vegetarian-frijoles-charros-mexican-cowboy-beans-with-smoked-onion-recipe/", "/2011/07/vegetarian-frijoles-charros-mexican-cowboy-beans-with-smoked-onion-recipe.html"]
 cover:

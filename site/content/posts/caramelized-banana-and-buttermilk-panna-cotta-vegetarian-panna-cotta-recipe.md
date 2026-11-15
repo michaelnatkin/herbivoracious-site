@@ -1,5 +1,7 @@
 ---
 title: "Caramelized Banana and Buttermilk Panna Cotta - Vegetarian Panna Cotta Recipe"
+description: "Traditional panna cotta uses gelatin, so it isn't vegetarian. This caramelized banana and buttermilk version is set with agar instead."
+seo_title: "Is Panna Cotta Vegetarian? Banana Panna Cotta Recipe"
 date: 2012-10-22T06:00:22
 slug: "caramelized-banana-and-buttermilk-panna-cotta-vegetarian-panna-cotta-recipe"
 categories: ["Desserts", "Gluten-Free or modifiable", "Recipes"]

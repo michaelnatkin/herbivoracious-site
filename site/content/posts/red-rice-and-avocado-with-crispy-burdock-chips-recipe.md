@@ -1,5 +1,7 @@
 ---
 title: "Red Rice and Avocado with Crispy Burdock Chips - Recipe"
+description: "How to make crispy burdock root (gobo) chips, served here on red rice with avocado."
+seo_title: "Crispy Burdock (Gobo) Chips Recipe"
 date: 2012-10-03T06:00:28
 slug: "red-rice-and-avocado-with-crispy-burdock-chips-recipe"
 categories: ["Recipes", "Vegan or Modifiable"]

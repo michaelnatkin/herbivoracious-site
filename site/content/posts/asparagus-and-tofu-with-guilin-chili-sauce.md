@@ -1,5 +1,7 @@
 ---
 title: "Asparagus and Tofu with Guilin Chili Sauce"
+description: "A stir-fry of asparagus and tofu with Guilin chili sauce, the Chinese chili condiment."
+seo_title: "Guilin Chili Sauce: Asparagus and Tofu Stir-Fry"
 date: 2009-03-26T06:43:00
 slug: "asparagus-and-tofu-with-guilin-chili-sauce"
 categories: ["Main Courses", "Recipes", "Vegan or Modifiable"]
