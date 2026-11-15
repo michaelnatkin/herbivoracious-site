@@ -10,8 +10,7 @@ To change where a product links, edit its "url" in the catalog. Nothing in the p
 
 This script:
   1. Converts raw affiliate links in content into product shortcodes, creating catalog entries for
-     new products (Amazon links, and links to merchants listed in merchant_domains.txt
-     or already present in the catalog).
+     new products (Amazon links, and links to merchants opted in via merchant_domains.txt).
   2. Categorizes new products with Claude (needs ANTHROPIC_API_KEY; errors out if it can't).
      A product with no category must be marked "hidden": true to stay out of the shop.
   3. Fails if any shortcode refers to a product id that is not in the catalog.
@@ -183,9 +182,11 @@ def main():
         catalog = json.load(f)
     by_asin = {a: pid for pid, p in catalog.items() for a in p.get("asins", [])}
     by_url = {p["url"].split("?")[0].lower(): pid for pid, p in catalog.items()}
-    domains = {host_of(p["url"]) for p in catalog.values()} - {"amazon.com"}
+    # Non-Amazon links are only converted for merchants explicitly opted in via merchant_domains.txt,
+    # so editorial links (restaurants, blogs, a merchant you merely mention) are never swept up.
+    domains = set()
     if os.path.exists(EXTRA_DOMAINS):
-        domains |= {l.strip().lower() for l in open(EXTRA_DOMAINS) if l.strip() and not l.startswith("#")}
+        domains = {l.strip().lower() for l in open(EXTRA_DOMAINS) if l.strip() and not l.startswith("#")}
 
     new_products, edited, converted = {}, [], 0
 

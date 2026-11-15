@@ -1,0 +1,114 @@
+[
+ {
+  "id": 1,
+  "asins": [
+   "B000NO943C"
+  ],
+  "merchant": "Savory Spice Shop",
+  "url": "https://www.savoryspiceshop.com/products/smoked-spanish-sweet-paprika",
+  "links": 74,
+  "user_status": "approved",
+  "comment": null
+ },
+ {
+  "id": 2,
+  "asins": [
+   "B00017028M",
+   "B0006FS4TI",
+   "B0019ZHXQE"
+  ],
+  "merchant": "Savory Spice Shop",
+  "url": "https://www.savoryspiceshop.com/products/maldon-sea-salt",
+  "links": 100,
+  "user_status": "approved",
+  "comment": null
+ },
+ {
+  "id": 3,
+  "asins": [
+   "1558327452"
+  ],
+  "merchant": "Barnes & Noble",
+  "url": "https://www.barnesandnoble.com/w/herbivoracious-michael-natkin/1110790362?ean=9781558327788",
+  "links": 15,
+  "user_status": "approved",
+  "comment": "correct B&N link is https://www.barnesandnoble.com/w/herbivoracious-michael-natkin/1110790362?ean=9781558327788"
+ },
+ {
+  "id": 4,
+  "asins": [
+   "B00006JSUB"
+  ],
+  "merchant": "Lodge Cast Iron",
+  "url": "https://www.lodgecastiron.com/products/round-cast-iron-classic-skillet",
+  "links": 11,
+  "user_status": "approved",
+  "comment": null
+ },
+ {
+  "id": 5,
+  "asins": [
+   "B00008T960"
+  ],
+  "merchant": "Sur La Table",
+  "url": "https://www.surlatable.com/silpat-half-sheet-baking-mat/PRO-5521158.html",
+  "links": 11,
+  "user_status": "approved",
+  "comment": null
+ },
+ {
+  "id": 6,
+  "asins": [
+   "B013HB0CC4"
+  ],
+  "merchant": "Weee! (SayWeee)",
+  "url": "https://www.sayweee.com/en/product/Premium-Gochujang-Red-Chili-Paste-500g-/2072369",
+  "links": 10,
+  "user_status": "approved",
+  "comment": null
+ },
+ {
+  "id": 7,
+  "asins": [
+   "B0058DO1SG"
+  ],
+  "merchant": "ChefShop.com",
+  "url": "https://chefshop.com/products/sanchez-romate-sherry-vinegar-750ml",
+  "links": 10,
+  "user_status": "approved",
+  "comment": null
+ },
+ {
+  "id": 8,
+  "asins": [
+   "B000YDO2LG"
+  ],
+  "merchant": "OXO",
+  "url": "https://www.oxo.com/oxo-good-grips-hand-held-mandoline-slicer.html",
+  "links": 7,
+  "user_status": "approved",
+  "comment": null
+ },
+ {
+  "id": 9,
+  "asins": [
+   "0061373265"
+  ],
+  "merchant": "Barnes & Noble",
+  "url": "https://www.barnesandnoble.com/w/authentic-mexican-20th-anniversary-ed/rick-bayless/1115137731",
+  "links": 7,
+  "user_status": "approved",
+  "comment": "prefer B&N to bookshop"
+ },
+ {
+  "id": 10,
+  "asins": [
+   "B0000645YM"
+  ],
+  "merchant": "Sur La Table",
+  "url": "https://www.surlatable.com/cuisinart-3-cup-mini-prep-plus-food-processor/PRO-961938.html",
+  "links": 7,
+  "user_status": "approved",
+  "comment": null
+ }
+]

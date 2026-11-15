@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Link Review</title>
+<style>
+  :root { --bg:#faf7f2; --card:#fff; --ink:#2a2017; --mute:#7a6f62; --line:#e4ddd3; --ok:#1e7a4c; --okbg:#e6f4ec; --no:#b3392b; --nobg:#fbeae7; --acc:#00a6c7; --warn:#9a6a00; --warnbg:#fdf3d8; }
+  * { box-sizing:border-box; }
+  body { margin:0; background:var(--bg); color:var(--ink); font:15px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; padding:0 16px 80px; }
+  .wrap { max-width:980px; margin:0 auto; }
+  header { position:sticky; top:0; z-index:5; background:var(--bg); padding:16px 0 12px; border-bottom:1px solid var(--line); }
+  h1 { margin:0 0 4px; font-size:22px; }
+  .sub { color:var(--mute); font-size:13px; }
+  .bar { display:flex; gap:12px; align-items:center; flex-wrap:wrap; margin-top:10px; }
+  .progress { flex:1; min-width:180px; height:8px; background:var(--line); border-radius:99px; overflow:hidden; display:flex; }
+  .progress i { display:block; height:100%; }
+  .progress .a { background:var(--ok); } .progress .r { background:var(--no); }
+  .counts { font-size:13px; color:var(--mute); white-space:nowrap; }
+  .filters button, .bulk button { font:inherit; font-size:13px; padding:5px 11px; border:1px solid var(--line); background:var(--card); border-radius:99px; cursor:pointer; color:var(--ink); }
+  .filters button.on { background:var(--ink); color:#fff; border-color:var(--ink); }
+  .saved { font-size:12px; color:var(--mute); min-width:70px; text-align:right; }
+  .card { background:var(--card); border:1px solid var(--line); border-radius:12px; margin:16px 0; display:grid; grid-template-columns:1fr 1.25fr; overflow:hidden; border-left:5px solid var(--line); }
+  .card.approved { border-left-color:var(--ok); } .card.rejected { border-left-color:var(--no); }
+  .col { padding:16px 18px; } .from { background:#fbf9f5; border-right:1px solid var(--line); }
+  .lbl { font-size:11px; letter-spacing:.06em; text-transform:uppercase; color:var(--mute); margin-bottom:6px; font-weight:600; }
+  .title { font-weight:600; margin:0 0 6px; }
+  .meta { font-size:13px; color:var(--mute); }
+  .chips { display:flex; gap:6px; flex-wrap:wrap; margin:8px 0; }
+  .chip { font-size:12px; padding:2px 9px; border-radius:99px; background:#efe9e0; color:#5a5046; }
+  .chip.same { background:var(--okbg); color:var(--ok); } .chip.equivalent { background:var(--warnbg); color:var(--warn); } .chip.book { background:#e5eefb; color:#2b5aa0; }
+  .chip.unv { background:var(--nobg); color:var(--no); }
+  .opt { display:block; border:1px solid var(--line); border-radius:9px; padding:10px 12px; margin:8px 0; cursor:pointer; }
+  .opt:has(input:checked) { border-color:var(--acc); background:#f2fbfd; }
+  .opt input { margin-right:8px; }
+  .opt .m { font-weight:600; } .opt a { font-size:13px; word-break:break-all; color:#0b7d96; }
+  .opt .n { font-size:13px; color:var(--mute); margin-top:2px; }
+  .note { font-size:13px; background:#f6f2ea; border-radius:8px; padding:8px 10px; margin:10px 0; color:#4d4337; }
+  .actions { display:flex; gap:8px; align-items:center; flex-wrap:wrap; margin-top:10px; }
+  .actions button { font:inherit; font-weight:600; padding:8px 18px; border-radius:8px; border:1px solid var(--line); background:var(--card); cursor:pointer; }
+  .actions .yes:hover, .card.approved .yes { background:var(--ok); color:#fff; border-color:var(--ok); }
+  .actions .no:hover, .card.rejected .no { background:var(--no); color:#fff; border-color:var(--no); }
+  .actions input { flex:1; min-width:160px; font:inherit; font-size:13px; padding:8px 10px; border:1px solid var(--line); border-radius:8px; }
+  .kbd { font-size:12px; color:var(--mute); margin-top:6px; }
+  @media (max-width:720px) { .card { grid-template-columns:1fr; } .from { border-right:0; border-bottom:1px solid var(--line); } }
+</style>
+</head>
+<body>
+<div class="wrap">
+<header>
+  <h1>Link Review</h1>
+  <div class="sub">Approve or reject each Amazon replacement. Decisions save automatically to <code>decisions.json</code>.</div>
+  <div class="bar">
+    <div class="progress"><i class="a" id="pa"></i><i class="r" id="pr"></i></div>
+    <div class="counts" id="counts"></div>
+    <div class="filters" id="filters"></div>
+    <div class="saved" id="saved"></div>
+  </div>
+</header>
+<div id="list"></div>
+</div>
+<script>
+let items = [], dec = {}, filter = 'all';
+const $ = s => document.querySelector(s);
+const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const kindLabel = {same:'Same product', equivalent:'Equivalent / similar', book:'Book (by ISBN)'};
+
+async function init() {
+  items = await (await fetch('matches.json')).json();
+  try { dec = await (await fetch('decisions.json')).json(); } catch (e) { dec = {}; }
+  render();
+}
+function status(id) { return (dec[id] && dec[id].status) || 'pending'; }
+function epcText(m) { return m.epc == null ? 'EPC: no data' : 'EPC $' + m.epc.toFixed(2); }
+function optHtml(it, m, idx) {
+  const d = dec[it.id] || {}, sel = (d.choice ?? 0) === idx;
+  return `<label class="opt"><input type="radio" name="c${it.id}" ${sel?'checked':''} onchange="choose(${it.id},${idx})">
+    <span class="m">${esc(m.merchant)}</span> — ${esc(m.product)}<br>
+    <a href="${esc(m.url)}" target="_blank" rel="noopener">${esc(m.url)}</a>
+    <div class="n">${epcText(m)}${m.rate!=null?' · '+m.rate+'% commission':''}${m.price?' · '+esc(m.price):''} ${m.verified?'· ✓ page loads':'<span class="chip unv">not auto-verified</span>'}</div></label>`;
+}
+function card(it) {
+  const st = status(it.id), d = dec[it.id] || {};
+  const opts = [it.primary, ...it.alternatives].map((m, i) => optHtml(it, m, i)).join('');
+  return `<div class="card ${st==='approved'?'approved':st==='rejected'?'rejected':''}" id="card${it.id}">
+    <div class="col from">
+      <div class="lbl">Currently links to Amazon</div>
+      <p class="title">${esc(it.amazon_title)}</p>
+      <div class="meta">Anchor text: ${it.anchors.map(a=>'“'+esc(a)+'”').join(', ')}</div>
+      <div class="chips"><span class="chip">${it.links} links</span><span class="chip">${it.posts} pages</span><span class="chip">${it.asins.length} Amazon ID${it.asins.length>1?'s':''}</span></div>
+      <div class="meta">Example: <a href="http://localhost:1314/${esc(it.example_post)}/" target="_blank" style="color:inherit">${esc(it.example_post)}</a></div>
+    </div>
+    <div class="col">
+      <div class="lbl">Proposed replacement ${it.alternatives.length ? '(highest EPC first; pick another if you prefer)' : ''}</div>
+      <div class="chips"><span class="chip ${it.kind}">${kindLabel[it.kind]}</span><span class="chip">${esc(it.confidence)} confidence</span></div>
+      ${opts}
+      <div class="note">${esc(it.note)}</div>
+      <div class="actions">
+        <button class="yes" onclick="setStatus(${it.id},'approved')">Approve</button>
+        <button class="no" onclick="setStatus(${it.id},'rejected')">Reject</button>
+        <input placeholder="Comment (optional)" value="${esc(d.comment||'')}" onchange="comment(${it.id}, this.value)">
+      </div>
+    </div></div>`;
+}
+function render() {
+  const n = items.length, a = items.filter(i=>status(i.id)==='approved').length, r = items.filter(i=>status(i.id)==='rejected').length;
+  $('#pa').style.width = (a/n*100)+'%'; $('#pr').style.width = (r/n*100)+'%';
+  $('#counts').textContent = `${a} approved · ${r} rejected · ${n-a-r} pending`;
+  $('#filters').innerHTML = ['all','pending','approved','rejected'].map(f=>`<button class="${filter===f?'on':''}" onclick="setFilter('${f}')">${f}</button>`).join('');
+  $('#list').innerHTML = items.filter(i => filter==='all' || status(i.id)===filter).map(card).join('') || '<p class="sub">Nothing here.</p>';
+}
+function setFilter(f) { filter = f; render(); }
+function touch(id) { dec[id] = dec[id] || {}; return dec[id]; }
+function setStatus(id, s) { const d = touch(id); d.status = d.status === s ? 'pending' : s; d.choice = d.choice ?? 0; save(); render(); }
+function choose(id, idx) { touch(id).choice = idx; save(); }
+function comment(id, v) { touch(id).comment = v; save(); }
+let t;
+function save() {
+  const out = {}; for (const k in dec) { const it = items.find(i => i.id == k); out[k] = {...dec[k], asins: it && it.asins, chosen: it && [it.primary, ...it.alternatives][dec[k].choice ?? 0]}; }
+  clearTimeout(t); $('#saved').textContent = 'saving…';
+  t = setTimeout(async () => { try { await fetch('/save', {method:'POST', body: JSON.stringify(out)}); $('#saved').textContent = 'saved ✓'; } catch (e) { $('#saved').textContent = 'save failed'; } }, 250);
+}
+document.addEventListener('keydown', e => {
+  if (e.target.tagName === 'INPUT' && e.target.type !== 'radio') return;
+  const first = items.find(i => status(i.id) === 'pending'); if (!first) return;
+  if (e.key === 'a') { setStatus(first.id, 'approved'); }
+  if (e.key === 'r') { setStatus(first.id, 'rejected'); }
+});
+init();
+</script>
+</body>
+</html>

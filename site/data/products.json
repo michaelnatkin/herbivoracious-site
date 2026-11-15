@@ -442,14 +442,15 @@
   "authentic-mexican": {
     "name": "Authentic Mexican",
     "category": "books",
-    "url": "https://www.amazon.com/dp/0061373265?tag=herb-hugo-20",
+    "url": "https://www.barnesandnoble.com/w/authentic-mexican-20th-anniversary-ed/rick-bayless/1115137731",
     "original_url": "https://www.amazon.com/dp/0061373265?tag=herb-hugo-20",
     "asins": [
       "0061373265",
       "0307383253",
       "030758772X",
       "0609603558"
-    ]
+    ],
+    "merchant": "Barnes & Noble"
   },
   "bacon-salt": {
     "name": "Bacon Salt",
@@ -1252,13 +1253,14 @@
   "cj-haechandle-gochujang-korean-red-pepper-paste": {
     "name": "CJ Haechandle Gochujang Korean Red Pepper Paste",
     "category": "asian-pantry",
-    "url": "https://www.amazon.com/dp/B07BDRMFDZ?tag=herb-hugo-20",
+    "url": "https://www.sayweee.com/en/product/Premium-Gochujang-Red-Chili-Paste-500g-/2072369",
     "original_url": "https://www.amazon.com/dp/B07BDRMFDZ?tag=herb-hugo-20",
     "asins": [
       "B002WTE0MQ",
       "B013HB0CC4",
       "B07BDRMFDZ"
-    ]
+    ],
+    "merchant": "Weee! (SayWeee)"
   },
   "clean-dishtowel": {
     "name": "clean dishtowel",
@@ -1292,13 +1294,14 @@
   "columela-classic-sherry-vinegar-12-7-fl-oz": {
     "name": "Columela Classic Sherry Vinegar, 12.7 Fl oz",
     "category": "oils-vinegars",
-    "url": "https://www.amazon.com/dp/B0058DO1SG?tag=herb-hugo-20",
+    "url": "https://chefshop.com/products/sanchez-romate-sherry-vinegar-750ml",
     "original_url": "https://www.amazon.com/dp/B0058DO1SG?tag=herb-hugo-20",
     "asins": [
       "B004S4OCVW",
       "B0058DO1SG",
       "B07FY1CYRY"
-    ]
+    ],
+    "merchant": "ChefShop.com"
   },
   "conchiglie": {
     "name": "Conchiglie",
@@ -2550,12 +2553,13 @@
   "herbivoracious-cookbook": {
     "name": "Herbivoracious: a Flavor Revolution, Michael Natkin",
     "category": "books",
-    "url": "https://www.amazon.com/dp/1558327452?tag=herb-hugo-20",
+    "url": "https://www.barnesandnoble.com/w/herbivoracious-michael-natkin/1110790362?ean=9781558327788",
     "original_url": "https://www.amazon.com/dp/1558327452?tag=herb-hugo-20",
     "asins": [
       "1558327452"
     ],
-    "review_url": "/get-the-herbivoracious-cookbook/"
+    "review_url": "/get-the-herbivoracious-cookbook/",
+    "merchant": "Barnes & Noble"
   },
   "here-on-amazon": {
     "name": "here on Amazon",
@@ -3077,14 +3081,15 @@
   "lodge-12-inch-cast-iron-pre-seasoned-skillet": {
     "name": "Lodge 12 Inch Cast Iron Pre-Seasoned Skillet",
     "category": "cookware-appliances",
-    "url": "https://www.amazon.com/dp/B00006JSUB?tag=herb-hugo-20",
+    "url": "https://www.lodgecastiron.com/products/round-cast-iron-classic-skillet",
     "original_url": "https://www.amazon.com/dp/B00006JSUB?tag=herb-hugo-20",
     "asins": [
       "B00006JSUA",
       "B00006JSUB",
       "B00G2XGC88",
       "B0714CXBTF"
-    ]
+    ],
+    "merchant": "Lodge Cast Iron"
   },
   "lodge-5-quart-cast-iron-dutch-oven": {
     "name": "Lodge 5-Quart Cast Iron Dutch Oven",
@@ -3157,7 +3162,7 @@
   "maldon-aka-the-world-s-greatest-salt-sea-salt": {
     "name": "Maldon (aka the World's Greatest Salt) Sea Salt",
     "category": "spices-seasonings",
-    "url": "https://www.amazon.com/dp/B0042ZO8CK?tag=herb-hugo-20",
+    "url": "https://www.savoryspiceshop.com/products/maldon-sea-salt",
     "original_url": "https://www.amazon.com/dp/B0042ZO8CK?tag=herb-hugo-20",
     "asins": [
       "B000231DLA",
@@ -3166,18 +3171,20 @@
       "B0042ZO8CK",
       "B086XGH24W"
     ],
-    "review_url": "/grapefruit-and-avocado-crudo/"
+    "review_url": "/grapefruit-and-avocado-crudo/",
+    "merchant": "Savory Spice Shop"
   },
   "maldon-salt-sea-salt-flakes-8-5-oz": {
     "name": "Maldon Salt, Sea Salt Flakes, 8.5 oz",
     "category": "pantry-staples",
-    "url": "https://www.amazon.com/dp/B00017028M?tag=herb-hugo-20",
+    "url": "https://www.savoryspiceshop.com/products/maldon-sea-salt",
     "original_url": "https://www.amazon.com/dp/B00017028M?tag=herb-hugo-20",
     "asins": [
       "B00017028M",
       "B0006FS4TI",
       "B001XVW3DC"
-    ]
+    ],
+    "merchant": "Savory Spice Shop"
   },
   "malic-acid": {
     "name": "Malic Acid",
@@ -3219,7 +3226,7 @@
   "mandoline": {
     "name": "Mandoline",
     "category": "kitchen-gadgets",
-    "url": "https://www.amazon.com/dp/B000YDO2LG?tag=herb-hugo-20",
+    "url": "https://www.oxo.com/oxo-good-grips-hand-held-mandoline-slicer.html",
     "original_url": "https://www.amazon.com/dp/B000YDO2LG?tag=herb-hugo-20",
     "asins": [
       "B0000VZ57C",
@@ -3227,7 +3234,8 @@
       "B000BI8EDG",
       "B000YDO2LG"
     ],
-    "review_url": "/mandoline-preferably-an-inexpensive-japanese-model/"
+    "review_url": "/mandoline-preferably-an-inexpensive-japanese-model/",
+    "merchant": "OXO"
   },
   "mangoes-curry-leaves-culinary-travels-through": {
     "name": "Mangoes & Curry Leaves: Culinary Travels Through the Great Subcontinent",
@@ -3392,12 +3400,13 @@
   "mini-food-processor": {
     "name": "Mini Food Processor",
     "category": "cookware-appliances",
-    "url": "https://www.amazon.com/dp/B06Y2GZWCJ?tag=herb-hugo-20",
+    "url": "https://www.surlatable.com/cuisinart-3-cup-mini-prep-plus-food-processor/PRO-961938.html",
     "original_url": "https://www.amazon.com/dp/B06Y2GZWCJ?tag=herb-hugo-20",
     "asins": [
       "B0000645YM",
       "B06Y2GZWCJ"
-    ]
+    ],
+    "merchant": "Sur La Table"
   },
   "mini-muffin-tin": {
     "name": "Mini-Muffin Tin",
@@ -4636,12 +4645,13 @@
   "silpat-premium-non-stick-silicone-baking-mat": {
     "name": "Silpat Premium Non-Stick Silicone Baking Mat",
     "category": "bakeware-tools",
-    "url": "https://www.amazon.com/dp/B00008T960?tag=herb-hugo-20",
+    "url": "https://www.surlatable.com/silpat-half-sheet-baking-mat/PRO-5521158.html",
     "original_url": "https://www.amazon.com/dp/B00008T960?tag=herb-hugo-20",
     "asins": [
       "B00008T960",
       "B0725GYNG6"
-    ]
+    ],
+    "merchant": "Sur La Table"
   },
   "simple-and-inexpensive": {
     "name": "simple and inexpensive",
@@ -4691,14 +4701,15 @@
   "smoked-paprika": {
     "name": "Smoked Paprika",
     "category": "spices-seasonings",
-    "url": "https://www.amazon.com/dp/B000NO943C?tag=herb-hugo-20",
+    "url": "https://www.savoryspiceshop.com/products/smoked-spanish-sweet-paprika",
     "original_url": "https://www.amazon.com/dp/B000NO943C?tag=herb-hugo-20",
     "asins": [
       "B000NO5CRY",
       "B000NO943C",
       "B003QI7QDM",
       "B00ZK8YJ5O"
-    ]
+    ],
+    "merchant": "Savory Spice Shop"
   },
   "soba-japanese-buckwheat-noodles": {
     "name": "Soba (Japanese Buckwheat Noodles)",

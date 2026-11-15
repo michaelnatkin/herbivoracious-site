@@ -1,0 +1,324 @@
+[
+ {
+  "id": 1,
+  "asins": [
+   "B000NO943C"
+  ],
+  "amazon_title": "Chiquil\u00edn Smoked Paprika, Spanish Piment\u00f3n Ahumado, Oak-Smoked, 2.64 oz Tin",
+  "anchors": [
+   "smoked paprika"
+  ],
+  "links": 74,
+  "posts": 35,
+  "example_post": "battle-of-the-n",
+  "kind": "equivalent",
+  "confidence": "high",
+  "primary": {
+   "merchant": "Savory Spice Shop",
+   "product": "Smoked Spanish Sweet Paprika",
+   "url": "https://www.savoryspiceshop.com/products/smoked-spanish-sweet-paprika",
+   "epc": 0.33,
+   "rate": 15,
+   "price": "$10.95",
+   "verified": true
+  },
+  "alternatives": [
+   {
+    "merchant": "The Spice House",
+    "product": "Smoked Spanish Paprika, Sweet (Piment\u00f3n de la Vera)",
+    "url": "https://www.thespicehouse.com/smoked-spanish-paprika-sweet",
+    "epc": 0.21,
+    "rate": 15,
+    "price": null,
+    "verified": true
+   }
+  ],
+  "note": "Different brand, same style (Spanish oak-smoked piment\u00f3n de la Vera). The recipes just call for smoked paprika."
+ },
+ {
+  "id": 2,
+  "asins": [
+   "B00017028M",
+   "B0006FS4TI",
+   "B0019ZHXQE"
+  ],
+  "amazon_title": "Maldon Sea Salt Flakes (three Amazon listings, different sizes)",
+  "anchors": [
+   "Flaky sea salt",
+   "Maldon",
+   "Maldon (aka the world's greatest salt)",
+   "Maldon (aka the world's greatest salt) salt"
+  ],
+  "links": 100,
+  "posts": 91,
+  "example_post": "antigriddle-pudding-pop-bruleed-mango-black-sesame-tuile-recipe",
+  "kind": "same",
+  "confidence": "high",
+  "primary": {
+   "merchant": "Savory Spice Shop",
+   "product": "Maldon Sea Salt",
+   "url": "https://www.savoryspiceshop.com/products/maldon-sea-salt",
+   "epc": 0.33,
+   "rate": 15,
+   "price": null,
+   "verified": true
+  },
+  "alternatives": [
+   {
+    "merchant": "The Spice House",
+    "product": "Maldon English Sea Salt",
+    "url": "https://thespicehouse.com/products/maldon-english-sea-salt",
+    "epc": 0.21,
+    "rate": 15,
+    "price": null,
+    "verified": true
+   }
+  ],
+  "note": "Same product. Merges 3 Amazon listings (2 of them no longer load on Amazon, matched by anchor text)."
+ },
+ {
+  "id": 3,
+  "asins": [
+   "1558327452"
+  ],
+  "amazon_title": "Herbivoracious: A Flavor Revolution with 150 Vegetarian Recipes (your cookbook)",
+  "anchors": [
+   "Amazon",
+   "Herbivoracious",
+   "Herbivoracious cookbook",
+   "See Inside on Amazon.com"
+  ],
+  "links": 15,
+  "posts": 13,
+  "example_post": "site/content/get-the-herbivoracious-cookbook",
+  "kind": "book",
+  "confidence": "high",
+  "primary": {
+   "merchant": "Bookshop",
+   "product": "Herbivoracious (ISBN 9781558327450)",
+   "url": "https://bookshop.org/book/9781558327450",
+   "epc": 0.01,
+   "rate": 10,
+   "price": null,
+   "verified": false
+  },
+  "alternatives": [
+   {
+    "merchant": "Barnes & Noble",
+    "product": "Herbivoracious (ISBN 9781558327450)",
+    "url": "https://www.barnesandnoble.com/w/?ean=9781558327450",
+    "epc": 0.01,
+    "rate": 5.15,
+    "price": null,
+    "verified": false
+   }
+  ],
+  "note": "Link built from the ISBN. Bookshop blocks my automated check (403), so please click it to confirm."
+ },
+ {
+  "id": 4,
+  "asins": [
+   "B00006JSUB"
+  ],
+  "amazon_title": "Lodge Pre-Seasoned Cast Iron Skillet, 12 Inches",
+  "anchors": [
+   "12\" cast iron skillet",
+   "Lodge 12-Inch Cast Iron Skillet",
+   "big cast-iron skillet",
+   "cast iron"
+  ],
+  "links": 11,
+  "posts": 9,
+  "example_post": "brown-butter-cornbread-video-recipe",
+  "kind": "same",
+  "confidence": "high",
+  "primary": {
+   "merchant": "Lodge Cast Iron",
+   "product": "Classic Cast Iron Skillet, 12\" (L10SK3)",
+   "url": "https://www.lodgecastiron.com/products/round-cast-iron-classic-skillet",
+   "epc": 0.02,
+   "rate": 3,
+   "price": "$29.90",
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Same product on Lodge's own site; the page lists several sizes, and 12\" is one of the options."
+ },
+ {
+  "id": 5,
+  "asins": [
+   "B00008T960"
+  ],
+  "amazon_title": "Silpat Premium Non-Stick Silicone Baking Mat, Half Sheet Size",
+  "anchors": [
+   "Silpat",
+   "Silpats (reusable silicone liners)",
+   "silicone mat",
+   "silpat"
+  ],
+  "links": 11,
+  "posts": 11,
+  "example_post": "apple-crostata-with-breadcrumb-streusel-recipe-for-pieday",
+  "kind": "same",
+  "confidence": "high",
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "Silpat Half Sheet Baking Mat",
+   "url": "https://www.surlatable.com/silpat-half-sheet-baking-mat/PRO-5521158.html",
+   "epc": 0.06,
+   "rate": 9,
+   "price": "$27.95",
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Same product. Sur La Table is the only in-network seller I found."
+ },
+ {
+  "id": 6,
+  "asins": [
+   "B013HB0CC4"
+  ],
+  "amazon_title": "Gochujang, Premium Korean Red Chili Paste, 1.1 lb",
+  "anchors": [
+   "gochujang",
+   "gochujang (Korean chili paste)",
+   "kochujang",
+   "kochujang chili paste"
+  ],
+  "links": 10,
+  "posts": 10,
+  "example_post": "bibim-naegnmyeon-joll-noodles-cold-and-spicy-korean-noodles-recipe",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "primary": {
+   "merchant": "Weee! (SayWeee)",
+   "product": "Premium Gochujang Red Chili Paste, 500g",
+   "url": "https://www.sayweee.com/en/product/Premium-Gochujang-Red-Chili-Paste-500g-/2072369",
+   "epc": null,
+   "rate": null,
+   "price": "$18.68/lb",
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Different brand and size (500 g vs 1.1 lb). The Weee! merchant has no EPC data yet. Your posts spell it 'kochujang'."
+ },
+ {
+  "id": 7,
+  "asins": [
+   "B0058DO1SG"
+  ],
+  "amazon_title": "Columela Classic Sherry Vinegar, 12.7 fl oz",
+  "anchors": [
+   "sherry vinegar"
+  ],
+  "links": 10,
+  "posts": 10,
+  "example_post": "apricot-and-sweet-onion-mostarda-recipe",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "primary": {
+   "merchant": "ChefShop.com",
+   "product": "Sanchez Romate Sherry Vinegar, 750 ml",
+   "url": "https://chefshop.com/products/sanchez-romate-sherry-vinegar-750ml",
+   "epc": null,
+   "rate": 7,
+   "price": null,
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Different brand (a well-regarded Spanish one). ChefShop shows no EPC data. Nothing in the higher-EPC shops carries sherry vinegar."
+ },
+ {
+  "id": 8,
+  "asins": [
+   "B000YDO2LG"
+  ],
+  "amazon_title": "OXO Good Grips Handheld Mandoline Slicer",
+  "anchors": [
+   "mandoline"
+  ],
+  "links": 7,
+  "posts": 7,
+  "example_post": "bocoles-masa-and-black-bean-cakes-with-spicy-yams-recipe",
+  "kind": "same",
+  "confidence": "high",
+  "primary": {
+   "merchant": "OXO",
+   "product": "Good Grips Hand-Held Mandoline Slicer",
+   "url": "https://www.oxo.com/oxo-good-grips-hand-held-mandoline-slicer.html",
+   "epc": 0.04,
+   "rate": 15,
+   "price": "~$22",
+   "verified": false
+  },
+  "alternatives": [],
+  "note": "Same product, direct from the maker. The URL came from search results and oxo.com blocks my check (403), so please click it to confirm."
+ },
+ {
+  "id": 9,
+  "asins": [
+   "0061373265"
+  ],
+  "amazon_title": "Authentic Mexican, 20th Anniversary Edition (Rick Bayless)",
+  "anchors": [
+   "Authentic Mexican",
+   "Mr. Bayless&#39",
+   "Rick Bayless",
+   "Rick Bayless&#39"
+  ],
+  "links": 7,
+  "posts": 6,
+  "example_post": "burnt-sugar-flan-recipe",
+  "kind": "book",
+  "confidence": "high",
+  "primary": {
+   "merchant": "Bookshop",
+   "product": "Authentic Mexican (ISBN 9780061373268)",
+   "url": "https://bookshop.org/book/9780061373268",
+   "epc": 0.01,
+   "rate": 10,
+   "price": null,
+   "verified": false
+  },
+  "alternatives": [
+   {
+    "merchant": "Barnes & Noble",
+    "product": "Authentic Mexican (ISBN 9780061373268)",
+    "url": "https://www.barnesandnoble.com/w/?ean=9780061373268",
+    "epc": 0.01,
+    "rate": 5.15,
+    "price": null,
+    "verified": false
+   }
+  ],
+  "note": "Link built from the ISBN (unverified; Bookshop blocks my check)."
+ },
+ {
+  "id": 10,
+  "asins": [
+   "B0000645YM"
+  ],
+  "amazon_title": "Cuisinart Mini Food Processor, 3-Cup, Reversible Blade",
+  "anchors": [
+   "mini food processor",
+   "mini-food processor",
+   "small food processor"
+  ],
+  "links": 7,
+  "posts": 7,
+  "example_post": "black-rice-fritters-with-chimichurri-a-hanukkah-friendly-entree-recipe",
+  "kind": "equivalent",
+  "confidence": "high",
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "Cuisinart 3-Cup Mini-Prep Plus Food Processor",
+   "url": "https://www.surlatable.com/cuisinart-3-cup-mini-prep-plus-food-processor/PRO-961938.html",
+   "epc": 0.06,
+   "rate": 9,
+   "price": "$49.95",
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Same line, current model name (Mini-Prep Plus)."
+ }
+]
