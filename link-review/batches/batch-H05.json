@@ -1,0 +1,466 @@
+[
+  {
+    "id": "amazon-b00428m7k2",
+    "name": "Amazon item B00428M7K2",
+    "status": "no_match",
+    "reason": "Unknown wok (no title); a cookware retailer may carry a wok.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B00428M7K2"
+      ],
+      "title": "Amazon item B00428M7K2",
+      "anchors": [
+        "wok"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "stir-fried-winged-beans-kacang-botol-with-tomato-and-garlic-recipe"
+    }
+  },
+  {
+    "id": "amazon-b012pnlh42",
+    "name": "Amazon item B012PNLH42",
+    "status": "no_match",
+    "reason": "Unknown kit (likely a cheese-making kit); no candidate fits.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B012PNLH42"
+      ],
+      "title": "Amazon item B012PNLH42",
+      "anchors": [
+        "kit"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "making-mozare-1"
+    }
+  },
+  {
+    "id": "amazon-b08hmxmg2h",
+    "name": "Amazon item B08HMXMG2H",
+    "status": "no_match",
+    "reason": "Unknown wok (no title); no candidate is cookware.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B08HMXMG2H"
+      ],
+      "title": "Amazon item B08HMXMG2H",
+      "anchors": [
+        "wok"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "red-curry-fried-rice-with-seared-pineapple-recipe"
+    }
+  },
+  {
+    "id": "amazon-b0fmjw45cf",
+    "name": "Amazon item B0FMJW45CF",
+    "status": "no_match",
+    "reason": "Unknown wok (no title); no candidate is cookware.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B0FMJW45CF"
+      ],
+      "title": "Amazon item B0FMJW45CF",
+      "anchors": [
+        "wok"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "mission-chinese-style-tofu-with-radish-and-shiso-recipe"
+    }
+  },
+  {
+    "id": "amchoor-dried-mango-powder",
+    "name": "Amchoor (dried Mango Powder)",
+    "status": "match",
+    "kind": "same",
+    "confidence": "high",
+    "amazon": {
+      "asins": [
+        "B00309S1AY"
+      ],
+      "title": "Amchoor (dried Mango Powder)",
+      "anchors": [
+        "amchoor (dried mango powder)"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "wacky-chana-chaat-spicy-chickpea-snack-recipe"
+    },
+    "primary": {
+      "merchant": "The Spice House",
+      "product": "Amchoor Powder",
+      "url": "https://www.thespicehouse.com/products/amchoor-powder",
+      "epc": 0.21,
+      "rate": null,
+      "price": "$9.79",
+      "verified": true
+    },
+    "alternatives": [
+      {
+        "merchant": "ChefShop.com",
+        "product": "Alphonso Mango Amchur (Dried Mango Powder)",
+        "url": "https://www.chefshop.com/products/alphonso-mango-amchur-amchoor",
+        "epc": null,
+        "rate": null,
+        "price": "$10.95",
+        "verified": true
+      }
+    ],
+    "note": "Same ingredient (ground dried green mango powder) from a different brand."
+  },
+  {
+    "id": "ancho-chile-pepper-powder-ground",
+    "name": "Ancho Chile Pepper Powder Ground",
+    "status": "match",
+    "kind": "same",
+    "confidence": "high",
+    "amazon": {
+      "asins": [
+        "B08PPD8B3W"
+      ],
+      "title": "Ancho Chile Pepper Powder Ground",
+      "anchors": [
+        "chili powder"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "mexican-panzane"
+    },
+    "primary": {
+      "merchant": "The Spice House",
+      "product": "Chiles, Ancho Ground",
+      "url": "https://www.thespicehouse.com/products/ancho-style-dark-chile-powder",
+      "epc": 0.21,
+      "rate": null,
+      "price": "$8.29",
+      "verified": true
+    },
+    "alternatives": [],
+    "note": "Same ingredient, ground ancho chile, from a different brand."
+  },
+  {
+    "id": "andrea-nguyen-s-book-asian-tofu",
+    "name": "Andrea Nguyen's Book, Asian Tofu",
+    "status": "no_match",
+    "reason": "Book; no catalog result.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "1607740257"
+      ],
+      "title": "Andrea Nguyen's Book, Asian Tofu",
+      "anchors": [
+        "Andrea Nguyen's book, Asian Tofu"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "how-to-make-tofu-really-freaking-delicious-tofu-101"
+    }
+  },
+  {
+    "id": "animal-vegetable-miracle",
+    "name": "Animal, Vegetable, Miracle",
+    "status": "no_match",
+    "reason": "Book (Kingsolver); candidates are unrelated.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B000Q66GCY"
+      ],
+      "title": "Animal, Vegetable, Miracle",
+      "anchors": [
+        "Animal, Vegetable, Miracle"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "book-review-bes"
+    }
+  },
+  {
+    "id": "argentinian-polenta",
+    "name": "Argentinian Polenta",
+    "status": "match",
+    "kind": "equivalent",
+    "confidence": "medium",
+    "amazon": {
+      "asins": [
+        "B0045VYH4A"
+      ],
+      "title": "Argentinian Polenta",
+      "anchors": [
+        "Argentinian polenta"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "chimichurri-argentine-parsley-sauce-recipe"
+    },
+    "primary": {
+      "merchant": "ChefShop.com",
+      "product": "Moretti Bramata Polenta Coarse Yellow",
+      "url": "https://www.chefshop.com/products/moretti-bramata-polenta-coarse-yellow",
+      "epc": null,
+      "rate": null,
+      "price": "$6.95",
+      "verified": true
+    },
+    "alternatives": [
+      {
+        "merchant": "ChefShop.com",
+        "product": "Moretti Bramata Bianca (Coarse White Corn Polenta)",
+        "url": "https://www.chefshop.com/products/moretti-bramata-coarse-bianca-white-corn-polenta",
+        "epc": null,
+        "rate": null,
+        "price": "$7.95",
+        "verified": true
+      }
+    ],
+    "note": "Coarse yellow polenta, but an Italian brand rather than Argentinian."
+  },
+  {
+    "id": "aroy-d-jackfruit-in-syrup",
+    "name": "Aroy-D Jackfruit in Syrup",
+    "status": "no_match",
+    "reason": "Canned jackfruit in syrup; only dried jackfruit offered, which is a different form.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B00581KTE8"
+      ],
+      "title": "Aroy-D Jackfruit in Syrup",
+      "anchors": [
+        "jackfruit in syrup"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "jack-of-all-cakes-a-guest-post-from-lemonpi"
+    }
+  },
+  {
+    "id": "aroy-d-young-green-jackfruit-in-brine",
+    "name": "Aroy-D Young Green Jackfruit in Brine",
+    "status": "no_match",
+    "reason": "Canned young green jackfruit; only dried jackfruit offered, which is a different form.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B005QBCT4S"
+      ],
+      "title": "Aroy-D Young Green Jackfruit in Brine",
+      "anchors": [
+        "Green jackfruit"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "larb-jackfruit-laotian-thai-salad-recipe"
+    }
+  },
+  {
+    "id": "artisan-spanish-piment-n-de-la-vera-hot-sweet-2",
+    "name": "Artisan Spanish Piment\u00f3n de La Vera, Hot & Sweet 2-Tin Set",
+    "status": "match",
+    "kind": "equivalent",
+    "confidence": "medium",
+    "amazon": {
+      "asins": [
+        "B000O9X8VU"
+      ],
+      "title": "Artisan Spanish Piment\u00f3n de La Vera, Hot & Sweet 2-Tin Set",
+      "anchors": [
+        "smoked paprika (pimenton de la vera)"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "absorption-cooked-peppery-red-wine-capellini-recipe"
+    },
+    "primary": {
+      "merchant": "Savory Spice Shop, LLC",
+      "product": "Smoked Spanish Sweet Paprika",
+      "url": "https://www.savoryspiceshop.com/products/smoked-spanish-sweet-paprika",
+      "epc": 0.33,
+      "rate": null,
+      "price": "$11.50",
+      "verified": true
+    },
+    "alternatives": [
+      {
+        "merchant": "The Spice House",
+        "product": "Paprika, Smoked Sweet",
+        "url": "https://www.thespicehouse.com/products/smoked-spanish-sweet-paprika-pimenton-de-la-vera-dulce",
+        "epc": 0.21,
+        "rate": null,
+        "price": "$9.29",
+        "verified": true
+      },
+      {
+        "merchant": "ChefShop.com",
+        "product": "Pimenton De La Vera (Sweet Smoked Paprika) - Spain",
+        "url": "https://www.chefshop.com/products/pimenton-de-la-vera-sweet-smoked-paprika-spain",
+        "epc": null,
+        "rate": null,
+        "price": "$8.55",
+        "verified": true
+      }
+    ],
+    "note": "Smoked Spanish paprika, but a single sweet jar rather than the hot and sweet 2-tin set; the hot version is a separate listing."
+  },
+  {
+    "id": "asiago-cheese",
+    "name": "Asiago Cheese",
+    "status": "no_match",
+    "reason": "Only snacks and seasonings returned; no actual Asiago.",
+    "needs_web": false,
+    "amazon": {
+      "asins": [
+        "B00OFLWIHI"
+      ],
+      "title": "Asiago Cheese",
+      "anchors": [
+        "asiago cheese"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "lobster-mushroo"
+    }
+  },
+  {
+    "id": "ateco-plain-edge-round-cutters-graduated-sizes",
+    "name": "Ateco Plain Edge Round Cutters, Graduated Sizes, 11 Pc Set",
+    "status": "no_match",
+    "reason": "Cutter set; candidates are unrelated food items.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B00004S1CI"
+      ],
+      "title": "Ateco Plain Edge Round Cutters, Graduated Sizes, 11 Pc Set",
+      "anchors": [
+        "cutters"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "recipe-pie-doug"
+    }
+  },
+  {
+    "id": "bacon-salt",
+    "name": "Bacon Salt",
+    "status": "no_match",
+    "reason": "Candidates are other salts or imitation bacon bits, not Bacon Salt.",
+    "needs_web": false,
+    "amazon": {
+      "asins": [
+        "B000SYOEJ6"
+      ],
+      "title": "Page Not Found",
+      "anchors": [
+        "Bacon Salt"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "recipe-farro-wi"
+    }
+  },
+  {
+    "id": "bamboo-steamer",
+    "name": "Bamboo Steamer",
+    "status": "no_match",
+    "reason": "No bamboo steamer in results.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B0001VQIYU"
+      ],
+      "title": "Bamboo Steamer",
+      "anchors": [
+        "bamboo steamer"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "smoked-tofu-buns-recipe"
+    }
+  },
+  {
+    "id": "batchelors-bigga-dried-marrowfat-peas-250g",
+    "name": "Batchelors Bigga Dried Marrowfat Peas 250g",
+    "status": "no_match",
+    "reason": "No marrowfat peas; other peas and beans are different.",
+    "needs_web": false,
+    "amazon": {
+      "asins": [
+        "B002ONM3J2"
+      ],
+      "title": "Amazon.com : Batchelors Bigga Dried Peas - 250g : Dried Marrowfat Peas : Everything Else",
+      "anchors": [
+        "Marrowfat Peas"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "whole-bean-ful-medames-with-fava-beans-or-marrowfat-peas-recipe"
+    }
+  },
+  {
+    "id": "beaterblade-for-5-quart-kitchenaid-bowl-lift",
+    "name": "BeaterBlade for 5-Quart KitchenAid Bowl Lift Mixers, White",
+    "status": "no_match",
+    "reason": "No results; specialty mixer accessory.",
+    "needs_web": false,
+    "amazon": {
+      "asins": [
+        "B0015TMHSI"
+      ],
+      "title": "BeaterBlade for 5-Quart KitchenAid Bowl Lift Mixers, White",
+      "anchors": [
+        "BeaterBlade for 5-Quart KitchenAid Bowl Lift Mixers, White"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "stop-scraping-your-stand-mixer-bowl"
+    }
+  },
+  {
+    "id": "beaterblade-for-cuisinart-delonghi-viking-7",
+    "name": "BeaterBlade for Cuisinart, DeLonghi, &amp; Viking 7-Quart Mixers, White",
+    "status": "no_match",
+    "reason": "Results unrelated; specialty mixer accessory.",
+    "needs_web": false,
+    "amazon": {
+      "asins": [
+        "B0015TYOT8"
+      ],
+      "title": "BeaterBlade for Cuisinart, DeLonghi, &amp; Viking 7-Quart Mixers, White",
+      "anchors": [
+        "BeaterBlade for Cuisinart, DeLonghi, &amp",
+        "Viking 7-Quart Mixers, White"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "stop-scraping-your-stand-mixer-bowl"
+    }
+  },
+  {
+    "id": "beaterblade-for-kitchenaid-6-quart-mixers-white",
+    "name": "BeaterBlade for KitchenAid 6-Quart Mixers, White",
+    "status": "no_match",
+    "reason": "No results; specialty mixer accessory.",
+    "needs_web": false,
+    "amazon": {
+      "asins": [
+        "B0015TMI28"
+      ],
+      "title": "BeaterBlade for KitchenAid 6-Quart Mixers, White",
+      "anchors": [
+        "BeaterBlade for KitchenAid 6-Quart Mixers, White"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "stop-scraping-your-stand-mixer-bowl"
+    }
+  }
+]

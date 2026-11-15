@@ -1,0 +1,486 @@
+[
+  {
+    "id": "truffle-oil",
+    "name": "Truffle Oil",
+    "status": "match",
+    "kind": "equivalent",
+    "confidence": "medium",
+    "amazon": {
+      "asins": [
+        "B000Q9SEZS",
+        "B07W379F4Y"
+      ],
+      "title": "Truffle Oil",
+      "anchors": [
+        "truffle oil"
+      ],
+      "links": 2,
+      "posts": 2,
+      "example_post": "caviar-lentil-salad-with-arugula-crispy-shallots-and-roasted-garlic-recipe"
+    },
+    "primary": {
+      "merchant": "ChefShop.com",
+      "product": "Tartuflanghe White Truffle Olive Oil",
+      "url": "https://www.chefshop.com/products/tartuflanghe-white-truffle-olive-oil",
+      "epc": null,
+      "rate": null,
+      "price": "$48.95",
+      "verified": true
+    },
+    "alternatives": [
+      {
+        "merchant": "ChefShop.com",
+        "product": "Tartuflanghe Summer Black Truffle Olive Oil",
+        "url": "https://www.chefshop.com/products/tartuflanghe-summer-black-truffle-olive-oil",
+        "epc": null,
+        "rate": null,
+        "price": "$47.95",
+        "verified": true
+      }
+    ],
+    "note": "Only truffle oil found in-network (ChefShop, no EPC data); a specific brand and larger price than a typical supermarket truffle oil."
+  },
+  {
+    "id": "unsweetened-chocolate",
+    "name": "Unsweetened Chocolate",
+    "status": "no_match",
+    "reason": "No unsweetened (Scharffen Berger) bar chocolate among candidates.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B000B1RHJU",
+        "B00IEIHQB6"
+      ],
+      "title": "Unsweetened Chocolate",
+      "anchors": [
+        "Scharffen-Berger unsweetened bar chocolate",
+        "unsweetened chocolate"
+      ],
+      "links": 2,
+      "posts": 2,
+      "example_post": "chocolate-cupca"
+    }
+  },
+  {
+    "id": "what-to-drink-with-what-you-eat",
+    "name": "What to Drink with What You Eat",
+    "status": "no_match",
+    "reason": "Book; no matching title in candidates.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "0316118400",
+        "0821257188"
+      ],
+      "title": "What to Drink with What You Eat",
+      "anchors": [
+        "The Flavor Bible",
+        "What to Drink with What You Eat"
+      ],
+      "links": 2,
+      "posts": 2,
+      "example_post": "the-flavor-bibl"
+    }
+  },
+  {
+    "id": "willpowder-isomalt-powder",
+    "name": "WillPowder Isomalt Powder",
+    "status": "match",
+    "kind": "equivalent",
+    "confidence": "medium",
+    "amazon": {
+      "asins": [
+        "B00DJPW678",
+        "B00PKR1ZZW"
+      ],
+      "title": "WillPowder Isomalt Powder",
+      "anchors": [
+        "isomalt",
+        "isomalt powder"
+      ],
+      "links": 2,
+      "posts": 2,
+      "example_post": "fun-with-isomal"
+    },
+    "primary": {
+      "merchant": "ChefShop.com",
+      "product": "Isomalt - Magic Pearls",
+      "url": "https://www.chefshop.com/products/isomalt-magic-pearls",
+      "epc": null,
+      "rate": null,
+      "price": "$23.95",
+      "verified": true
+    },
+    "alternatives": [],
+    "note": "Same ingredient (isomalt) but sold as Magic Pearls granules rather than powder; suited to the same sugar-work use."
+  },
+  {
+    "id": "yakami-orchard-100-pure-japanese-yuzu-juice-12",
+    "name": "Yakami Orchard 100% Pure Japanese Yuzu Juice, 12 oz",
+    "status": "match",
+    "kind": "equivalent",
+    "confidence": "medium",
+    "amazon": {
+      "asins": [
+        "B002ACC8II",
+        "B07PDQ8VGT"
+      ],
+      "title": "Amazon.com : Yakami Orchard 100 % Pure Japanese Yuzu Juice 12 oz. / 350 ml : Fruit Juices : Grocery & Gourmet Food",
+      "anchors": [
+        "yuzu juice"
+      ],
+      "links": 2,
+      "posts": 2,
+      "example_post": "avocado-grapefruit-mango-yuzu-cilantro"
+    },
+    "primary": {
+      "merchant": "ChefShop.com",
+      "product": "Margot Shibori 100% Pure First-Press Yuzu Juice - 750 ml",
+      "url": "https://www.chefshop.com/products/yuzu-juice-100-pure-first-press-750-ml",
+      "epc": null,
+      "rate": null,
+      "price": "$71.95",
+      "verified": true
+    },
+    "alternatives": [],
+    "note": "Same 100% pure yuzu juice but a different brand and a much larger, pricier 750 ml bottle instead of 12 oz."
+  },
+  {
+    "id": "yuquan-sichuan-zha-cai-preserved-vegetable",
+    "name": "Yuquan Sichuan Zha Cai Preserved Vegetable",
+    "status": "no_match",
+    "reason": "No Sichuan zha cai preserved vegetable among candidates.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B00OOVDBPW",
+        "B079C5V5VX"
+      ],
+      "title": "Yuquan Sichuan Zha Cai Preserved Vegetable",
+      "anchors": [
+        "Sichuan preserved vegetable"
+      ],
+      "links": 2,
+      "posts": 2,
+      "example_post": "sichuan-dry-fried-green-beans-and-tofu-recipe"
+    }
+  },
+  {
+    "id": "45-milk-chocolate",
+    "name": "45% Milk Chocolate",
+    "status": "match",
+    "kind": "equivalent",
+    "confidence": "medium",
+    "amazon": {
+      "asins": [
+        "B002HFUM36"
+      ],
+      "title": "Amazon.com : Theo Chocolate Organic Milk Chocolate Bar, 45% Cacao, 12 Count | Fair Trade : Fair Trade Chocolate Bars : Everything Else",
+      "anchors": [
+        "45% milk chocolate"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "seattle-chocolate-salon-theo-chocolopolis"
+    },
+    "primary": {
+      "merchant": "ChefShop.com",
+      "product": "Grand Cru Couverture - Wild Cocoa Baking Chocolate 45% - Milk",
+      "url": "https://www.chefshop.com/products/grand-cru-couverture-wild-cocoa-baking-chocolate-45-milk",
+      "epc": null,
+      "rate": null,
+      "price": "$39.95",
+      "verified": true
+    },
+    "alternatives": [],
+    "note": "45% milk chocolate, but a Grand Cru baking couverture rather than Theo's eating bars."
+  },
+  {
+    "id": "5-pastry-cutter",
+    "name": "5\" Pastry Cutter",
+    "status": "no_match",
+    "reason": "No pastry/biscuit cutter among candidates.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B09XVJX6F3"
+      ],
+      "title": "Amazon.com: Large Round Cookie Cutter 5\", Biscuit Cutter, Circle Cookie Cutter for Baking, Small Cake Cutter, Dough Cutter, Coated with Soft PVC for Protection: Home & Kitchen",
+      "anchors": [
+        "5\" pastry cutter"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "block-party-emp"
+    }
+  },
+  {
+    "id": "activa-rm-transglutaminase",
+    "name": "Activa RM Transglutaminase",
+    "status": "no_match",
+    "reason": "No transglutaminase; Amazon link is a dead page.",
+    "needs_web": false,
+    "amazon": {
+      "asins": [
+        "B0F5Z55TH5"
+      ],
+      "title": "Page Not Found",
+      "anchors": [
+        "transglutaminase"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "greatest-veggie-burger"
+    }
+  },
+  {
+    "id": "airlock",
+    "name": "airlock",
+    "status": "no_match",
+    "reason": "No brewing/fermenting airlock among candidates.",
+    "needs_web": false,
+    "amazon": {
+      "asins": [
+        "B000E60G2W"
+      ],
+      "title": "Amazon.com: SocalHomeBrew Plastic 3 Piece Airlock (Pack of 3): Brewing And Venting Airlocks: Home & Kitchen",
+      "anchors": [
+        "airlock"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "making-your-own-kimchi-recipe"
+    }
+  },
+  {
+    "id": "aji-amarillo-chili",
+    "name": "Aji Amarillo Chili",
+    "status": "match",
+    "kind": "equivalent",
+    "confidence": "low",
+    "amazon": {
+      "asins": [
+        "B09S6V3QC8"
+      ],
+      "title": "Aji Amarillo Chili",
+      "anchors": [
+        "aji amarillo chili"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "red-chili-sauce-for-tamales"
+    },
+    "primary": {
+      "merchant": "ChefShop.com",
+      "product": "Zocalo Peru Organic Peruvian Aji Amarillo Chili Paste",
+      "url": "https://www.chefshop.com/products/zocalo-peru-organic-peruvian-aji-amarillo-chili-paste",
+      "epc": null,
+      "rate": null,
+      "price": "$11.55",
+      "verified": true
+    },
+    "alternatives": [],
+    "note": "Aji amarillo as a paste; the Amazon listing's form (dried vs paste) is unknown, so the form may differ."
+  },
+  {
+    "id": "ajvar",
+    "name": "ajvar",
+    "status": "no_match",
+    "reason": "No candidates for ajvar (Podravka Mild Ajvar); an international grocer like Weee might carry it.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B000LRH9FQ"
+      ],
+      "title": "Amazon.com : Podravka Mild Ajvar 690 gram jar : Grocery & Gourmet Food",
+      "anchors": [
+        "ajvar"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "easy-eggplant-and-ricotta-rolls-with-ajvar-or-tomato-sauce"
+    }
+  },
+  {
+    "id": "aleppo-pepper",
+    "name": "Aleppo pepper",
+    "status": "match",
+    "kind": "same",
+    "confidence": "high",
+    "amazon": {
+      "asins": [
+        "B003GU1AE6"
+      ],
+      "title": "Aleppo pepper",
+      "anchors": [
+        "Aleppo pepper"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "quick-marinated-feta-recipe"
+    },
+    "primary": {
+      "merchant": "Savory Spice Shop, LLC",
+      "product": "Crushed Aleppo Chiles",
+      "url": "https://www.savoryspiceshop.com/products/crushed-aleppo-peppers",
+      "epc": 0.33,
+      "rate": null,
+      "price": "$10.50",
+      "verified": true
+    },
+    "alternatives": [
+      {
+        "merchant": "The Spice House",
+        "product": "Chiles, Aleppo Peppers",
+        "url": "https://www.thespicehouse.com/products/aleppo-peppers",
+        "epc": 0.21,
+        "rate": null,
+        "price": "$8.59",
+        "verified": true
+      },
+      {
+        "merchant": "ChefShop.com",
+        "product": "Aleppo Pepper - Turkey",
+        "url": "https://www.chefshop.com/products/aleppo-pepper-turkey",
+        "epc": null,
+        "rate": null,
+        "price": "$7.95",
+        "verified": true
+      }
+    ],
+    "note": "Same ingredient, crushed Aleppo chiles, from a reputable spice seller."
+  },
+  {
+    "id": "amazon-b0000cnu2x",
+    "name": "Amazon item B0000CNU2X",
+    "status": "no_match",
+    "reason": "Product unidentifiable (anchor 'like this') and candidates are irrelevant.",
+    "needs_web": false,
+    "amazon": {
+      "asins": [
+        "B0000CNU2X"
+      ],
+      "title": "Amazon item B0000CNU2X",
+      "anchors": [
+        "like this"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "vietnamese-salad-rolls-goi-cuon-recipe"
+    }
+  },
+  {
+    "id": "amazon-b0006bddi4",
+    "name": "Amazon item B0006BDDI4",
+    "status": "no_match",
+    "reason": "Product unidentifiable (anchor 'basic', madeleines post, possibly a pan); candidates irrelevant.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B0006BDDI4"
+      ],
+      "title": "Amazon item B0006BDDI4",
+      "anchors": [
+        "basic"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "madelines-with"
+    }
+  },
+  {
+    "id": "amazon-b000jsm27m",
+    "name": "Amazon item B000JSM27M",
+    "status": "no_match",
+    "reason": "Product unidentifiable (anchor 'buy it'); candidates irrelevant.",
+    "needs_web": false,
+    "amazon": {
+      "asins": [
+        "B000JSM27M"
+      ],
+      "title": "Amazon item B000JSM27M",
+      "anchors": [
+        "buy it"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "wacky-chana-chaat-spicy-chickpea-snack-recipe"
+    }
+  },
+  {
+    "id": "amazon-b000ofredc",
+    "name": "Amazon item B000OFREDC",
+    "status": "no_match",
+    "reason": "Wok; no cookware among candidates.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B000OFREDC"
+      ],
+      "title": "Amazon item B000OFREDC",
+      "anchors": [
+        "wok"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "thai-basil-eggplant-recipe"
+    }
+  },
+  {
+    "id": "amazon-b000vnz7uy",
+    "name": "Amazon item B000VNZ7UY",
+    "status": "no_match",
+    "reason": "No Spanish saffron among this product's candidates.",
+    "needs_web": false,
+    "amazon": {
+      "asins": [
+        "B000VNZ7UY"
+      ],
+      "title": "Amazon.com : Saffroman Spanish Superior Grade Saffron 1 Gr (Antonio Sotos Brand) : Saffron Spices And Herbs : Grocery & Gourmet Food",
+      "anchors": [
+        "this one"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "vegetarian-pael"
+    }
+  },
+  {
+    "id": "amazon-b001l106kq",
+    "name": "Amazon item B001L106KQ",
+    "status": "no_match",
+    "reason": "Product unidentifiable (anchor 'on Amazon'); candidates irrelevant.",
+    "needs_web": false,
+    "amazon": {
+      "asins": [
+        "B001L106KQ"
+      ],
+      "title": "Amazon item B001L106KQ",
+      "anchors": [
+        "on Amazon"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "spicy-mama-lils-spaghetti-carbonara-recipe"
+    }
+  },
+  {
+    "id": "amazon-b002ok2fca",
+    "name": "Amazon item B002OK2FCA",
+    "status": "no_match",
+    "reason": "Product unidentifiable (anchor 'on Amazon'); candidates irrelevant.",
+    "needs_web": false,
+    "amazon": {
+      "asins": [
+        "B002OK2FCA"
+      ],
+      "title": "Amazon item B002OK2FCA",
+      "anchors": [
+        "on Amazon"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "sunflower-butter-cookies-recipe"
+    }
+  }
+]

@@ -199,12 +199,13 @@
   },
   "aleppo-pepper": {
     "name": "Aleppo pepper",
-    "url": "https://www.amazon.com/dp/B003GU1AE6?tag=herb-hugo-20",
+    "url": "https://www.savoryspiceshop.com/products/crushed-aleppo-peppers",
     "original_url": "https://www.amazon.com/dp/B003GU1AE6?tag=herb-hugo-20",
     "asins": [
       "B003GU1AE6"
     ],
-    "hidden": true
+    "hidden": true,
+    "merchant": "Savory Spice Shop, LLC"
   },
   "aleppo-pepper-2": {
     "name": "Aleppo Pepper",
@@ -320,20 +321,22 @@
   "amchoor-dried-mango-powder": {
     "name": "Amchoor (dried Mango Powder)",
     "category": "middle-eastern-indian-pantry",
-    "url": "https://www.amazon.com/dp/B00309S1AY?tag=herb-hugo-20",
+    "url": "https://www.thespicehouse.com/products/amchoor-powder",
     "original_url": "https://www.amazon.com/dp/B00309S1AY?tag=herb-hugo-20",
     "asins": [
       "B00309S1AY"
-    ]
+    ],
+    "merchant": "The Spice House"
   },
   "ancho-chile-pepper-powder-ground": {
     "name": "Ancho Chile Pepper Powder Ground",
     "category": "mexican-latin-pantry",
-    "url": "https://www.amazon.com/dp/B08PPD8B3W?tag=herb-hugo-20",
+    "url": "https://www.thespicehouse.com/products/ancho-style-dark-chile-powder",
     "original_url": "https://www.amazon.com/dp/B08PPD8B3W?tag=herb-hugo-20",
     "asins": [
       "B08PPD8B3W"
-    ]
+    ],
+    "merchant": "The Spice House"
   },
   "ancho-chili-powder": {
     "name": "Ancho Chili Powder",
@@ -720,11 +723,12 @@
   "black-sesame": {
     "name": "Black Sesame",
     "category": "asian-pantry",
-    "url": "https://www.amazon.com/dp/B07TWRT98L?tag=herb-hugo-20",
+    "url": "https://www.nuts.com/products/black-sesame-seeds",
     "original_url": "https://www.amazon.com/dp/B07TWRT98L?tag=herb-hugo-20",
     "asins": [
       "B07TWRT98L"
-    ]
+    ],
+    "merchant": "Nuts.com"
   },
   "black-vinegar": {
     "name": "Black Vinegar",
@@ -847,11 +851,12 @@
   "brown-or-green-lentils": {
     "name": "Brown or Green Lentils",
     "category": "grains-pasta-legumes",
-    "url": "https://www.amazon.com/dp/B001PEZLCW?tag=herb-hugo-20",
+    "url": "https://www.nuts.com/products/organic-green-lentils",
     "original_url": "https://www.amazon.com/dp/B001PEZLCW?tag=herb-hugo-20",
     "asins": [
       "B001PEZLCW"
-    ]
+    ],
+    "merchant": "Nuts.com"
   },
   "bucatini": {
     "name": "bucatini",
@@ -865,11 +870,12 @@
   "caballo-de-oros-rey-de-la-vera-sweet-smoked": {
     "name": "Caballo de Oros Rey de La Vera Sweet Smoked Paprika (Pimenton Dulce)",
     "category": "mexican-latin-pantry",
-    "url": "https://www.amazon.com/dp/B00I5PVVKA?tag=herb-hugo-20",
+    "url": "https://www.savoryspiceshop.com/products/smoked-spanish-sweet-paprika",
     "original_url": "https://www.amazon.com/dp/B00I5PVVKA?tag=herb-hugo-20",
     "asins": [
       "B00I5PVVKA"
-    ]
+    ],
+    "merchant": "Savory Spice Shop, LLC"
   },
   "caciocavallo": {
     "name": "Caciocavallo",
@@ -1013,11 +1019,12 @@
   "carnaroli": {
     "name": "Carnaroli",
     "category": "grains-pasta-legumes",
-    "url": "https://www.amazon.com/dp/B07GQD9LCX?tag=herb-hugo-20",
+    "url": "https://www.chefshop.com/products/carnaroli-rice",
     "original_url": "https://www.amazon.com/dp/B07GQD9LCX?tag=herb-hugo-20",
     "asins": [
       "B07GQD9LCX"
-    ]
+    ],
+    "merchant": "ChefShop.com"
   },
   "carnation-original-malted-milk-powder": {
     "name": "Carnation Original Malted Milk Powder",
@@ -1239,12 +1246,13 @@
   "chipotle-pepper-canned-in-adobo-sauce": {
     "name": "Chipotle Pepper (canned in Adobo Sauce)",
     "category": "mexican-latin-pantry",
-    "url": "https://www.amazon.com/dp/B0000GGQD4?tag=herb-hugo-20",
+    "url": "https://www.savoryspiceshop.com/products/chipotle-chiles-in-adobo-sauce",
     "original_url": "https://www.amazon.com/dp/B0000GGQD4?tag=herb-hugo-20",
     "asins": [
       "B0000GGQD4",
       "B002N3XZ6I"
-    ]
+    ],
+    "merchant": "Savory Spice Shop, LLC"
   },
   "chipotles": {
     "name": "Chipotles",
@@ -1588,11 +1596,12 @@
   "diamond-crystal": {
     "name": "Diamond Crystal",
     "category": "spices-seasonings",
-    "url": "https://www.amazon.com/dp/B0011BPMUK?tag=herb-hugo-20",
+    "url": "https://www.thespicehouse.com/products/diamond-crystal-kosher-salt",
     "original_url": "https://www.amazon.com/dp/B0011BPMUK?tag=herb-hugo-20",
     "asins": [
       "B0011BPMUK"
-    ]
+    ],
+    "merchant": "The Spice House"
   },
   "digital-one": {
     "name": "Digital One",
@@ -1967,12 +1976,13 @@
   "fennel-seeds": {
     "name": "Fennel Seeds",
     "category": "spices-seasonings",
-    "url": "https://www.amazon.com/dp/B074H7Y7ZJ?tag=herb-hugo-20",
+    "url": "https://www.savoryspiceshop.com/products/fennel-seeds",
     "original_url": "https://www.amazon.com/dp/B074H7Y7ZJ?tag=herb-hugo-20",
     "asins": [
       "B074H7Y7ZJ",
       "B088QMPBC6"
-    ]
+    ],
+    "merchant": "Savory Spice Shop, LLC"
   },
   "feta-cheese": {
     "name": "Feta Cheese",
@@ -3281,12 +3291,13 @@
   "mama-lil-s-spicy-peppers": {
     "name": "Mama Lil's Spicy Peppers",
     "category": "condiments-sauces",
-    "url": "https://www.amazon.com/dp/B006HWTYT8?tag=herb-hugo-20",
+    "url": "https://www.chefshop.com/products/mama-lils-original-pepper",
     "original_url": "https://www.amazon.com/dp/B006HWTYT8?tag=herb-hugo-20",
     "asins": [
       "B006HWTYT8",
       "B007BH3TPI"
-    ]
+    ],
+    "merchant": "ChefShop.com"
   },
   "manchego": {
     "name": "Manchego",
@@ -3826,11 +3837,12 @@
   "o-food-ssamjang-korean-seasoned-soybean-paste": {
     "name": "O'Food Ssamjang Korean Seasoned Soybean Paste",
     "category": "asian-pantry",
-    "url": "https://www.amazon.com/dp/B07BFQPCM6?tag=herb-hugo-20",
+    "url": "https://www.chefshop.com/products/bombom-ssamjang-korean-soybean-sauce",
     "original_url": "https://www.amazon.com/dp/B07BFQPCM6?tag=herb-hugo-20",
     "asins": [
       "B07BFQPCM6"
-    ]
+    ],
+    "merchant": "ChefShop.com"
   },
   "ohsawa-organic-unpasteurized-nama-shoyu": {
     "name": "Ohsawa Organic Unpasteurized Nama Shoyu",
@@ -4372,11 +4384,12 @@
   "roasted-hazelnut-oil": {
     "name": "Roasted Hazelnut Oil",
     "category": "oils-vinegars",
-    "url": "https://www.amazon.com/dp/B0000D9MRC?tag=herb-hugo-20",
+    "url": "https://www.chefshop.com/products/la-tourangelle-roasted-hazelnut-oil",
     "original_url": "https://www.amazon.com/dp/B0000D9MRC?tag=herb-hugo-20",
     "asins": [
       "B0000D9MRC"
-    ]
+    ],
+    "merchant": "ChefShop.com"
   },
   "roasted-red-or-yellow-peppers": {
     "name": "Roasted Red or Yellow Peppers",
@@ -4831,11 +4844,12 @@
   "sodium-alginate": {
     "name": "Sodium Alginate",
     "category": "pantry-staples",
-    "url": "https://www.amazon.com/dp/B00BLPNHLW?tag=herb-hugo-20",
+    "url": "https://www.chefshop.com/products/sodium-alginate",
     "original_url": "https://www.amazon.com/dp/B00BLPNHLW?tag=herb-hugo-20",
     "asins": [
       "B00BLPNHLW"
-    ]
+    ],
+    "merchant": "ChefShop.com"
   },
   "soeos-sichuan-peppercorn-powder": {
     "name": "Soeos Sichuan Peppercorn Powder",
@@ -5489,12 +5503,13 @@
   "toasted-walnut-oil": {
     "name": "Toasted Walnut Oil",
     "category": "oils-vinegars",
-    "url": "https://www.amazon.com/dp/B0000D9MRD?tag=herb-hugo-20",
+    "url": "https://www.chefshop.com/products/la-tourangelle-roasted-walnut-oil",
     "original_url": "https://www.amazon.com/dp/B0000D9MRD?tag=herb-hugo-20",
     "asins": [
       "B0000D9MRD",
       "B004V7JXFG"
-    ]
+    ],
+    "merchant": "ChefShop.com"
   },
   "toaster-oven": {
     "name": "Toaster Oven",

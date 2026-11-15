@@ -1,0 +1,547 @@
+[
+  {
+    "id": "double-boiler",
+    "name": "Double Boiler",
+    "status": "no_match",
+    "reason": "Candidates are unrelated spice/food items.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B00004RGB7",
+        "B01N2LVGH0"
+      ],
+      "title": "Amazon.com: Stainless Steel Double Boiler Pot for Melting Chocolate,Candle Making 480ML | Melting Pot for Candle,Soap Making 2 Cup Capacity: Home & Kitchen",
+      "anchors": [
+        "double boiler"
+      ],
+      "links": 2,
+      "posts": 2,
+      "example_post": "zabaglione-with-roasted-plums-recipe"
+    }
+  },
+  {
+    "id": "dried-beancurd-sticks-non-gmo-soybean-curd-skin",
+    "name": "Dried Beancurd Sticks, Non-GMO Soybean Curd Skin",
+    "status": "no_match",
+    "reason": "No yuba or dried tofu skin among candidates.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B08J42X9B7"
+      ],
+      "title": "Amazon.com: Dried Beancurd Sticks, Non-Gmo Soybean Curd Skin, Natural Asian Tofu, Dried Yuba for Vegan, Good Source Of Protein (17.6oz/500g) (17.6) : Grocery & Gourmet Food",
+      "anchors": [
+        "Yuba (Tofu Skin)",
+        "yuba (tofu skin)"
+      ],
+      "links": 2,
+      "posts": 2,
+      "example_post": "congee-with-crispy-yuba-recipe"
+    }
+  },
+  {
+    "id": "fennel-seeds",
+    "name": "Fennel Seeds",
+    "status": "match",
+    "kind": "same",
+    "confidence": "high",
+    "amazon": {
+      "asins": [
+        "B074H7Y7ZJ",
+        "B088QMPBC6"
+      ],
+      "title": "Amazon.com : 365 by Whole Foods Market, Fennel Seed, 1.09 oz : Grocery & Gourmet Food",
+      "anchors": [
+        "fennel seeds"
+      ],
+      "links": 2,
+      "posts": 2,
+      "example_post": "sicilian-spaghetti-with-pan-roasted-cauliflower-recipe-from-my-cookbook"
+    },
+    "primary": {
+      "merchant": "Savory Spice Shop, LLC",
+      "product": "Fennel Seeds",
+      "url": "https://www.savoryspiceshop.com/products/fennel-seeds",
+      "epc": 0.33,
+      "rate": null,
+      "price": "$4.40",
+      "verified": true
+    },
+    "alternatives": [
+      {
+        "merchant": "The Spice House",
+        "product": "Fennel, Whole Seeds",
+        "url": "https://www.thespicehouse.com/products/fennel-seeds",
+        "epc": 0.21,
+        "rate": null,
+        "price": "$6.29",
+        "verified": true
+      },
+      {
+        "merchant": "ChefShop.com",
+        "product": "Fennel Seeds",
+        "url": "https://www.chefshop.com/products/fennel-seeds",
+        "epc": null,
+        "rate": null,
+        "price": "$4.95",
+        "verified": true
+      }
+    ],
+    "note": "Same ingredient (whole fennel seed) from Savory Spice Shop in a jar size rather than the Amazon brand."
+  },
+  {
+    "id": "happy-in-the-kitchen",
+    "name": "Happy in the Kitchen",
+    "status": "no_match",
+    "reason": "Book; no candidate is the book.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "1579652999"
+      ],
+      "title": "Happy in the Kitchen: Michel Richard: 9781579652999: Amazon.com: Books",
+      "anchors": [
+        "Happy in the Kitchen"
+      ],
+      "links": 2,
+      "posts": 2,
+      "example_post": "how-to-make-an-inside-out-egg-recipe"
+    }
+  },
+  {
+    "id": "mama-lil-s-spicy-peppers",
+    "name": "Mama Lil's Spicy Peppers",
+    "status": "match",
+    "kind": "same",
+    "confidence": "high",
+    "amazon": {
+      "asins": [
+        "B006HWTYT8",
+        "B007BH3TPI"
+      ],
+      "title": "Page Not Found",
+      "anchors": [
+        "Mama Lil's spicy peppers",
+        "Mama Lil\u2019s peppers"
+      ],
+      "links": 2,
+      "posts": 2,
+      "example_post": "spicy-mama-lils-spaghetti-carbonara-recipe"
+    },
+    "primary": {
+      "merchant": "ChefShop.com",
+      "product": "Mama Lils Original Pepper",
+      "url": "https://www.chefshop.com/products/mama-lils-original-pepper",
+      "epc": null,
+      "rate": null,
+      "price": "$13.95",
+      "verified": true
+    },
+    "alternatives": [
+      {
+        "merchant": "ChefShop.com",
+        "product": "Mama Lils Kick Butt Peppers",
+        "url": "https://www.chefshop.com/products/mama-lils-kick-butt-peppers",
+        "epc": null,
+        "rate": null,
+        "price": "$13.95",
+        "verified": true
+      }
+    ],
+    "note": "Same brand and product line (Mama Lil's pickled goathorn peppers in oil) at ChefShop; Kick Butt is the hotter version."
+  },
+  {
+    "id": "mini-muffin-tin",
+    "name": "Mini-Muffin Tin",
+    "status": "no_match",
+    "reason": "No bakeware candidates, only food.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B004EBS16G",
+        "B0D9YCT6GQ"
+      ],
+      "title": "Amazon.com: Bake Choice Mini Muffin Pan with 200 Cupcake Liners, Mini Cupcake Pans | Nonstick 24 Cup, Muffin Tin, Carbon Steel Baking Supplies: Home & Kitchen",
+      "anchors": [
+        "mini-cupcake tins",
+        "mini-muffin tin"
+      ],
+      "links": 2,
+      "posts": 2,
+      "example_post": "sugar-high-frid"
+    }
+  },
+  {
+    "id": "morita",
+    "name": "Morita",
+    "status": "match",
+    "kind": "equivalent",
+    "confidence": "medium",
+    "amazon": {
+      "asins": [
+        "B0821P2R3G"
+      ],
+      "title": "Morita",
+      "anchors": [
+        "morita"
+      ],
+      "links": 2,
+      "posts": 2,
+      "example_post": "spicy-nori-popcorn-recipe"
+    },
+    "primary": {
+      "merchant": "ChefShop.com",
+      "product": "Villa Jerada Chile Morita Whole Pods - 1 pound",
+      "url": "https://www.chefshop.com/products/villa-jerada-chile-morita-whole-pods-1-pound",
+      "epc": null,
+      "rate": null,
+      "price": "$18.95",
+      "verified": true
+    },
+    "alternatives": [],
+    "note": "Whole dried morita chile pods in a 1 lb bag; no Amazon title on file so the original form is assumed to be whole dried chiles."
+  },
+  {
+    "id": "ohsawa-organic-unpasteurized-nama-shoyu",
+    "name": "Ohsawa Organic Unpasteurized Nama Shoyu",
+    "status": "no_match",
+    "reason": "Only different-brand pasteurized-style soy sauces at ChefShop; no nama shoyu.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B0018PUIVW",
+        "B001A4DV88"
+      ],
+      "title": "Ohsawa Organic Unpasteurized Nama Shoyu",
+      "anchors": [
+        "Nama Shoyu",
+        "Ohsawa Organic Unpasteurized Nama Shoyu"
+      ],
+      "links": 2,
+      "posts": 2,
+      "example_post": "soba-in-shoyu-broth-with-asparagus-leeks-and-tofu-recipe"
+    }
+  },
+  {
+    "id": "rice-vinegar",
+    "name": "Rice Vinegar",
+    "status": "match",
+    "kind": "equivalent",
+    "confidence": "medium",
+    "amazon": {
+      "asins": [
+        "B000VM2KY6"
+      ],
+      "title": "Rice Vinegar",
+      "anchors": [
+        "rice vinegar"
+      ],
+      "links": 2,
+      "posts": 2,
+      "example_post": "bibim-naegnmyeon-joll-noodles-cold-and-spicy-korean-noodles-recipe"
+    },
+    "primary": {
+      "merchant": "ChefShop.com",
+      "product": "Iio Jozo Junmai Pure Rice Vinegar - 900 ml",
+      "url": "https://www.chefshop.com/products/iio-jozo-pure-rice-vinegar-900-ml",
+      "epc": null,
+      "rate": null,
+      "price": "$43.55",
+      "verified": true
+    },
+    "alternatives": [
+      {
+        "merchant": "ChefShop.com",
+        "product": "Iio Jozo Fujisu Premium Pure Rice Vinegar",
+        "url": "https://www.chefshop.com/products/iio-jozo-fujisu-premium-pure-rice-vinegar",
+        "epc": null,
+        "rate": null,
+        "price": "$42.95",
+        "verified": true
+      }
+    ],
+    "note": "Plain unseasoned Japanese rice vinegar, but a premium and much pricier 900 ml bottle than typical supermarket rice vinegar."
+  },
+  {
+    "id": "roasted-hazelnut-oil",
+    "name": "Roasted Hazelnut Oil",
+    "status": "match",
+    "kind": "same",
+    "confidence": "high",
+    "amazon": {
+      "asins": [
+        "B0000D9MRC"
+      ],
+      "title": "Roasted Hazelnut Oil",
+      "anchors": [
+        "hazelnut oil",
+        "roasted hazelnut oil"
+      ],
+      "links": 2,
+      "posts": 2,
+      "example_post": "caviar-lentil-salad-with-arugula-crispy-shallots-and-roasted-garlic-recipe"
+    },
+    "primary": {
+      "merchant": "ChefShop.com",
+      "product": "La Tourangelle Roasted Hazelnut Oil",
+      "url": "https://www.chefshop.com/products/la-tourangelle-roasted-hazelnut-oil",
+      "epc": null,
+      "rate": null,
+      "price": "$13.95",
+      "verified": true
+    },
+    "alternatives": [
+      {
+        "merchant": "ChefShop.com",
+        "product": "Abel 1898 French Hazelnut Oil",
+        "url": "https://www.chefshop.com/products/abel-1898-french-hazelnut-oil",
+        "epc": null,
+        "rate": null,
+        "price": "$14.55",
+        "verified": true
+      }
+    ],
+    "note": "Same ingredient (roasted hazelnut oil) from La Tourangelle; brand may differ from the original Amazon item."
+  },
+  {
+    "id": "rustichella-d-abruzzo-fregola-sarda",
+    "name": "Rustichella D'Abruzzo Fregola Sarda",
+    "status": "match",
+    "kind": "equivalent",
+    "confidence": "medium",
+    "amazon": {
+      "asins": [
+        "B000B38C6A",
+        "B078J37Y7K"
+      ],
+      "title": "Rustichella D'Abruzzo Fregola Sarda",
+      "anchors": [
+        "Fregola Sarda",
+        "Israeli couscous"
+      ],
+      "links": 2,
+      "posts": 2,
+      "example_post": "celery-soup-with-fregola-sarda-or-israeli-couscous-recipe"
+    },
+    "primary": {
+      "merchant": "ChefShop.com",
+      "product": "Fregula Sarda Couscous",
+      "url": "https://www.chefshop.com/products/fregula-sarda-couscous",
+      "epc": null,
+      "rate": null,
+      "price": "$11.95",
+      "verified": true
+    },
+    "alternatives": [],
+    "note": "Same pasta (Sardinian fregola) but the brand is not stated and may not be Rustichella d'Abruzzo."
+  },
+  {
+    "id": "saffron-shores-jewish-cooking-of-the-southern",
+    "name": "Saffron Shores: Jewish Cooking of the Southern Mediterranean",
+    "status": "no_match",
+    "reason": "Book; candidates are saffron products, not the cookbook.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B000B16SRW"
+      ],
+      "title": "Saffron Shores: Jewish Cooking of the Southern Mediterranean",
+      "anchors": [
+        "Saffron Shores",
+        "Saffron Shores: Jewish Cooking of the Southern Mediterranean"
+      ],
+      "links": 2,
+      "posts": 1,
+      "example_post": "recipe-how-to-m"
+    }
+  },
+  {
+    "id": "sensarte-nonstick-crepe-pan-10-inch",
+    "name": "Sensarte Nonstick Crepe Pan 10-Inch",
+    "status": "no_match",
+    "reason": "No cookware candidates, only food.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B08RMXBJNQ"
+      ],
+      "title": "Sensarte Nonstick Crepe Pan 10-Inch",
+      "anchors": [
+        "crepe pan",
+        "crepe pans"
+      ],
+      "links": 2,
+      "posts": 2,
+      "example_post": "manouri-cheese-blintzes-recipe"
+    }
+  },
+  {
+    "id": "sodium-alginate",
+    "name": "Sodium Alginate",
+    "status": "match",
+    "kind": "same",
+    "confidence": "high",
+    "amazon": {
+      "asins": [
+        "B00BLPNHLW"
+      ],
+      "title": "Sodium Alginate",
+      "anchors": [
+        "sodium alginate"
+      ],
+      "links": 2,
+      "posts": 2,
+      "example_post": "blini-with-aspa"
+    },
+    "primary": {
+      "merchant": "ChefShop.com",
+      "product": "Sodium Alginate",
+      "url": "https://www.chefshop.com/products/sodium-alginate",
+      "epc": null,
+      "rate": null,
+      "price": "$16.95",
+      "verified": true
+    },
+    "alternatives": [],
+    "note": "Same ingredient: food-grade sodium alginate for spherification."
+  },
+  {
+    "id": "tamarind-chutney",
+    "name": "Tamarind Chutney",
+    "status": "no_match",
+    "reason": "No tamarind chutney; candidates are other chutneys or unrelated.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B00BUXM4X2"
+      ],
+      "title": "Tamarind Chutney",
+      "anchors": [
+        "tamarind chutney"
+      ],
+      "links": 2,
+      "posts": 2,
+      "example_post": "gobi-masala-cauliflower-curry-recipe"
+    }
+  },
+  {
+    "id": "tapioca-maltodextrin",
+    "name": "Tapioca Maltodextrin",
+    "status": "no_match",
+    "reason": "No tapioca maltodextrin found; tapioca flour/pearls are different products.",
+    "needs_web": false,
+    "amazon": {
+      "asins": [
+        "B00250U9BI",
+        "B00C3HL6VK"
+      ],
+      "title": "Tapioca Maltodextrin",
+      "anchors": [
+        "tapioca maltodextrin"
+      ],
+      "links": 2,
+      "posts": 2,
+      "example_post": "experimenting-with-tapioca-maltodextrin-recipe"
+    }
+  },
+  {
+    "id": "tempeh",
+    "name": "Tempeh",
+    "status": "no_match",
+    "reason": "No tempeh among candidates (refrigerated product).",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B000YN1JY4"
+      ],
+      "title": "Tempeh",
+      "anchors": [
+        "tempeh"
+      ],
+      "links": 2,
+      "posts": 2,
+      "example_post": "recipe-rice-bow"
+    }
+  },
+  {
+    "id": "theo-chocolate-pure-organic-dark-chocolate-bar",
+    "name": "Theo Chocolate Pure Organic Dark Chocolate Bar 70% Cacao 6 Pack - Vegan, Fair Trade",
+    "status": "no_match",
+    "reason": "No Theo or comparable organic dark chocolate bar among candidates.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B002HFWQR6",
+        "B07WCQNP33"
+      ],
+      "title": "Theo Chocolate Pure Organic Dark Chocolate Bar 70% Cacao 6 Pack - Vegan, Fair Trade",
+      "anchors": [
+        "chocolate"
+      ],
+      "links": 2,
+      "posts": 2,
+      "example_post": "amazing-chocola"
+    }
+  },
+  {
+    "id": "toasted-walnut-oil",
+    "name": "Toasted Walnut Oil",
+    "status": "match",
+    "kind": "same",
+    "confidence": "high",
+    "amazon": {
+      "asins": [
+        "B0000D9MRD",
+        "B004V7JXFG"
+      ],
+      "title": "Toasted Walnut Oil",
+      "anchors": [
+        "toasted walnut oil",
+        "walnut oil"
+      ],
+      "links": 2,
+      "posts": 2,
+      "example_post": "caviar-lentil-salad-with-arugula-crispy-shallots-and-roasted-garlic-recipe"
+    },
+    "primary": {
+      "merchant": "ChefShop.com",
+      "product": "La Tourangelle Roasted Walnut Oil",
+      "url": "https://www.chefshop.com/products/la-tourangelle-roasted-walnut-oil",
+      "epc": null,
+      "rate": null,
+      "price": "$8.95",
+      "verified": true
+    },
+    "alternatives": [
+      {
+        "merchant": "ChefShop.com",
+        "product": "Abel 1898 Huile de Noix (French Walnut Oil)",
+        "url": "https://www.chefshop.com/products/abel-1898-huile-de-noix-walnut-oil",
+        "epc": null,
+        "rate": null,
+        "price": "$13.95",
+        "verified": true
+      }
+    ],
+    "note": "Same ingredient (roasted/toasted walnut oil) from La Tourangelle; the Abel 1898 alternative is a French walnut oil not labeled roasted."
+  },
+  {
+    "id": "tortilla-press-2",
+    "name": "Tortilla Press",
+    "status": "no_match",
+    "reason": "No tortilla press; only masa harina and spices.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B00HWEIKZO"
+      ],
+      "title": "Tortilla Press",
+      "anchors": [
+        "tortilla press"
+      ],
+      "links": 2,
+      "posts": 2,
+      "example_post": "gorditas-with-roasted-mushrooms-recipe"
+    }
+  }
+]

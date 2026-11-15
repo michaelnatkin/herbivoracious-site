@@ -1,0 +1,516 @@
+[
+ {
+  "id": "beecher-s-handmade-flagship-cheese-1-lb",
+  "name": "Beecher's Handmade Flagship Cheese 1 lb",
+  "status": "no_match",
+  "reason": "No cheese candidates; results are cheese snacks/seasonings.",
+  "needs_web": false,
+  "amazon": {
+   "asins": [
+    "B0039OINH6"
+   ],
+   "title": "Beecher's Handmade Flagship Cheese 1 lb",
+   "anchors": [
+    "Flagship Cheddar"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "superfrico-grilled-cheese-sandwich-recipe"
+  }
+ },
+ {
+  "id": "better-ideas",
+  "name": "better ideas",
+  "status": "no_match",
+  "reason": "Book; no book merchant in candidates.",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "0743235274"
+   ],
+   "title": "better ideas",
+   "anchors": [
+    "better ideas"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "what-to-do-with-an-insideout-egg"
+  }
+ },
+ {
+  "id": "big-steamer",
+  "name": "Big Steamer",
+  "status": "no_match",
+  "reason": "Cookware; only spice results found.",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "B0FKGWVLT6"
+   ],
+   "title": "Big Steamer",
+   "anchors": [
+    "big steamer"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "nuevo-leon-style-tamales-adapted-to-be-vegetarian-recipe"
+  }
+ },
+ {
+  "id": "big-tree-farms-salt",
+  "name": "Big Tree Farms Salt",
+  "status": "no_match",
+  "reason": "Brand-specific Bali salt; no equivalent in results.",
+  "needs_web": false,
+  "amazon": {
+   "asins": [
+    "B000RRA9BG"
+   ],
+   "title": "Big Tree Farms Salt",
+   "anchors": [
+    "Big Tree Farms salt"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "figs-and-ricotta"
+  }
+ },
+ {
+  "id": "bill-buford",
+  "name": "Bill Buford",
+  "status": "no_match",
+  "reason": "Book; no book merchant in candidates.",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "1400034477"
+   ],
+   "title": "Bill Buford",
+   "anchors": [
+    "Bill Buford"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "so-you-want-to-stage-intern-at-a-restaurant"
+  }
+ },
+ {
+  "id": "bittersweet-chocolate",
+  "name": "Bittersweet Chocolate",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "low",
+  "amazon": {
+   "asins": [
+    "B00GR7F9GA"
+   ],
+   "title": "Bittersweet Chocolate",
+   "anchors": [
+    "bittersweet chocolate"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "butterscotch-pudding-with-bittersweet-ganache-and-caramelize-white-chocolate-crunchies-recipe"
+  },
+  "primary": {
+   "merchant": "ChefShop.com",
+   "product": "Cru Sauvage - Wild Cocoa Baking Chocolate 68% - Bittersweet",
+   "url": "https://www.chefshop.com/products/cru-sauvage-wild-cocoa-baking-chocolate-68-bittersweet",
+   "epc": null,
+   "rate": null,
+   "price": "$48.95",
+   "verified": true
+  },
+  "alternatives": [
+   {
+    "merchant": "ChefShop.com",
+    "product": "Grand Cru Dark Chocolate - Arriba Bittersweet - 72%",
+    "url": "https://www.chefshop.com/products/grand-cru-dark-chocolate-arriba-bittersweet-72",
+    "epc": null,
+    "rate": null,
+    "price": "$46.95",
+    "verified": true
+   }
+  ],
+  "note": "Premium 68% bittersweet baking chocolate at a much higher price than a typical supermarket bar; the only real bittersweet chocolate in the results."
+ },
+ {
+  "id": "bittersweet-chocolate-2",
+  "name": "Bittersweet Chocolate",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "low",
+  "amazon": {
+   "asins": [
+    "B01MY07VS5"
+   ],
+   "title": "Bittersweet Chocolate",
+   "anchors": [
+    "bittersweet chocolate"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "chocolate-chunk-bread-pudding-recipe"
+  },
+  "primary": {
+   "merchant": "ChefShop.com",
+   "product": "Cru Sauvage - Wild Cocoa Baking Chocolate 68% - Bittersweet",
+   "url": "https://www.chefshop.com/products/cru-sauvage-wild-cocoa-baking-chocolate-68-bittersweet",
+   "epc": null,
+   "rate": null,
+   "price": "$48.95",
+   "verified": true
+  },
+  "alternatives": [
+   {
+    "merchant": "ChefShop.com",
+    "product": "Grand Cru Dark Chocolate - Arriba Bittersweet - 72%",
+    "url": "https://www.chefshop.com/products/grand-cru-dark-chocolate-arriba-bittersweet-72",
+    "epc": null,
+    "rate": null,
+    "price": "$46.95",
+    "verified": true
+   }
+  ],
+  "note": "Premium 68% bittersweet baking chocolate at a much higher price than a typical supermarket bar; the only real bittersweet chocolate in the results."
+ },
+ {
+  "id": "black-crocs-the-kind-with-no-holes-on-top",
+  "name": "Black Crocs, the Kind with No Holes on Top",
+  "status": "no_match",
+  "reason": "Footwear; no relevant results.",
+  "needs_web": false,
+  "amazon": {
+   "asins": [
+    "B0014JLYPQ"
+   ],
+   "title": "Black Crocs, the Kind with No Holes on Top",
+   "anchors": [
+    "black Crocs, the kind with no holes on top"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "so-you-want-to-stage-intern-at-a-restaurant"
+  }
+ },
+ {
+  "id": "black-rice",
+  "name": "Black Rice",
+  "status": "no_match",
+  "reason": "No black/forbidden rice in results.",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "B01NAGDHZR"
+   ],
+   "title": "Black Rice",
+   "anchors": [
+    "black rice"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "black-rice-fritter-with-turnips-and-horseradish-cream-recipe"
+  }
+ },
+ {
+  "id": "black-sesame",
+  "name": "Black Sesame",
+  "status": "match",
+  "kind": "same",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B07TWRT98L"
+   ],
+   "title": "Black Sesame",
+   "anchors": [
+    "black sesame"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "roasted-pumpkin-ice-cream"
+  },
+  "primary": {
+   "merchant": "Nuts.com",
+   "product": "Black Sesame Seeds",
+   "url": "https://www.nuts.com/products/black-sesame-seeds",
+   "epc": 0.38,
+   "rate": null,
+   "price": "$3.49",
+   "verified": true
+  },
+  "alternatives": [
+   {
+    "merchant": "Savory Spice Shop, LLC",
+    "product": "Black Sesame Seeds",
+    "url": "https://www.savoryspiceshop.com/products/black-sesame-seeds",
+    "epc": 0.33,
+    "rate": null,
+    "price": "$7.50",
+    "verified": true
+   },
+   {
+    "merchant": "The Spice House",
+    "product": "Sesame, Black Seeds",
+    "url": "https://www.thespicehouse.com/products/black-sesame-seeds",
+    "epc": 0.21,
+    "rate": null,
+    "price": "$7.79",
+    "verified": true
+   }
+  ],
+  "note": "Same ingredient: whole black sesame seeds."
+ },
+ {
+  "id": "black-vinegar",
+  "name": "Black Vinegar",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B0BD3F4XNK"
+   ],
+   "title": "Black Vinegar",
+   "anchors": [
+    "black vinegar"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "mandu-koreanstyle-potstickers-with-ssamjang-kochujang-sauce-recipe"
+  },
+  "primary": {
+   "merchant": "ChefShop.com",
+   "product": "Taiwanese Black Vinegar",
+   "url": "https://www.chefshop.com/products/taiwanese-black-vinegar",
+   "epc": null,
+   "rate": null,
+   "price": "$18.55",
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Taiwanese black vinegar, a Chinese-style black vinegar; may differ slightly in flavor from the Chinkiang kind."
+ },
+ {
+  "id": "blackstrap-molasses",
+  "name": "Blackstrap Molasses",
+  "status": "no_match",
+  "reason": "No blackstrap molasses; only pomegranate molasses, black treacle and a mild molasses.",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "B00MFBVY2U"
+   ],
+   "title": "Blackstrap Molasses",
+   "anchors": [
+    "blackstrap molasses"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "bran-muffins"
+  }
+ },
+ {
+  "id": "blend",
+  "name": "blend",
+  "status": "no_match",
+  "reason": "Anchor text too generic to identify a product.",
+  "needs_web": false,
+  "amazon": {
+   "asins": [
+    "B08FBLK53S"
+   ],
+   "title": "blend",
+   "anchors": [
+    "blend"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "mesir-wat-ethiopian-red-lentils-recipe"
+  }
+ },
+ {
+  "id": "bleu-d-auvergne",
+  "name": "Bleu d'Auvergne",
+  "status": "no_match",
+  "reason": "No cheese in results.",
+  "needs_web": false,
+  "amazon": {
+   "asins": [
+    "B079NQVXQX"
+   ],
+   "title": "Bleu d'Auvergne",
+   "anchors": [
+    "Bleu D'Auvergne"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "gougeres-chee"
+  }
+ },
+ {
+  "id": "bourbon-barrel-maple-syrup",
+  "name": "Bourbon-Barrel Maple Syrup",
+  "status": "no_match",
+  "reason": "No bourbon-barrel-aged maple syrup in results.",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "B012M6PUHC"
+   ],
+   "title": "Bourbon-Barrel Maple Syrup",
+   "anchors": [
+    "bourbon-barrel maple syrup"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "maple-roasted-shiitake-mushrooms-recipe"
+  }
+ },
+ {
+  "id": "bourbon-vanilla-sorghum",
+  "name": "Bourbon-Vanilla Sorghum",
+  "status": "no_match",
+  "reason": "No flavored sorghum syrup in results.",
+  "needs_web": false,
+  "amazon": {
+   "asins": [
+    "B0018GD1NI"
+   ],
+   "title": "Bourbon-Vanilla Sorghum",
+   "anchors": [
+    "bourbon-vanilla sorghum"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "good-stuff-from-bourbon-barrel-foods"
+  }
+ },
+ {
+  "id": "brown-or-green-lentils",
+  "name": "Brown or Green Lentils",
+  "status": "match",
+  "kind": "same",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B001PEZLCW"
+   ],
+   "title": "Brown or Green Lentils",
+   "anchors": [
+    "brown or green lentils"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "mujadara-middle-eastern-rice-and-lentil-pilaf-recipe"
+  },
+  "primary": {
+   "merchant": "Nuts.com",
+   "product": "Organic Green Lentils",
+   "url": "https://www.nuts.com/products/organic-green-lentils",
+   "epc": 0.38,
+   "rate": null,
+   "price": "$5.49",
+   "verified": true
+  },
+  "alternatives": [
+   {
+    "merchant": "ChefShop.com",
+    "product": "Green Lentils - A.O.C. Le Puy France",
+    "url": "https://www.chefshop.com/products/green-lentils-a-o-c-le-puy-france",
+    "epc": null,
+    "rate": null,
+    "price": "$19.95",
+    "verified": true
+   }
+  ],
+  "note": "Dried green lentils, matching the 'green' option; organic and sold in a standard bag."
+ },
+ {
+  "id": "caballo-de-oros-rey-de-la-vera-sweet-smoked",
+  "name": "Caballo de Oros Rey de La Vera Sweet Smoked Paprika (Pimenton Dulce)",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B00I5PVVKA"
+   ],
+   "title": "Caballo de Oros Rey de La Vera Sweet Smoked Paprika (Pimenton Dulce)",
+   "anchors": [
+    "smoked paprika"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "spanish-lentil-and-mushroom-stew-recipe"
+  },
+  "primary": {
+   "merchant": "Savory Spice Shop, LLC",
+   "product": "Smoked Spanish Sweet Paprika",
+   "url": "https://www.savoryspiceshop.com/products/smoked-spanish-sweet-paprika",
+   "epc": 0.33,
+   "rate": null,
+   "price": "$11.50",
+   "verified": true
+  },
+  "alternatives": [
+   {
+    "merchant": "The Spice House",
+    "product": "Paprika, Smoked Sweet",
+    "url": "https://www.thespicehouse.com/products/smoked-spanish-sweet-paprika-pimenton-de-la-vera-dulce",
+    "epc": 0.21,
+    "rate": null,
+    "price": "$9.29",
+    "verified": true
+   },
+   {
+    "merchant": "ChefShop.com",
+    "product": "Pimenton De La Vera (Sweet Smoked Paprika) - Spain",
+    "url": "https://www.chefshop.com/products/pimenton-de-la-vera-sweet-smoked-paprika-spain",
+    "epc": null,
+    "rate": null,
+    "price": "$8.55",
+    "verified": true
+   }
+  ],
+  "note": "Same type of product (Spanish sweet smoked paprika, pimenton dulce) but a different brand than Caballo de Oros."
+ },
+ {
+  "id": "caciocavallo",
+  "name": "Caciocavallo",
+  "status": "no_match",
+  "reason": "No cheese in results.",
+  "needs_web": false,
+  "amazon": {
+   "asins": [
+    "B01J67VUTM"
+   ],
+   "title": "Caciocavallo",
+   "anchors": [
+    "caciocavallo"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "molto-mario-bat"
+  }
+ },
+ {
+  "id": "cake-tester",
+  "name": "Cake Tester",
+  "status": "no_match",
+  "reason": "Baking tool; only food results.",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "B0018AHVSU"
+   ],
+   "title": "Cake Tester",
+   "anchors": [
+    "cake tester"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "saffron-chickpea-stew-with-grilled-porcini-mushroom-recipe"
+  }
+ }
+]

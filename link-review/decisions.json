@@ -1628,5 +1628,215 @@
    "price": null,
    "verified": true
   }
+ },
+ "o-food-ssamjang-korean-seasoned-soybean-paste": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "ChefShop.com",
+   "product": "BomBom Ssamjang Korean Soybean Sauce",
+   "url": "https://www.chefshop.com/products/bombom-ssamjang-korean-soybean-sauce",
+   "epc": null,
+   "rate": null,
+   "price": "$17.95",
+   "verified": true
+  }
+ },
+ "chipotle-pepper-canned-in-adobo-sauce": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "Savory Spice Shop, LLC",
+   "product": "Chipotle Chiles in Adobo Sauce",
+   "url": "https://www.savoryspiceshop.com/products/chipotle-chiles-in-adobo-sauce",
+   "epc": 0.33,
+   "rate": null,
+   "price": "$4.99",
+   "verified": true
+  }
+ },
+ "diamond-crystal": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "The Spice House",
+   "product": "Salt, Diamond Kosher",
+   "url": "https://www.thespicehouse.com/products/diamond-crystal-kosher-salt",
+   "epc": 0.21,
+   "rate": null,
+   "price": "$14.49",
+   "verified": true
+  }
+ },
+ "carnaroli": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "ChefShop.com",
+   "product": "Carnaroli Rice",
+   "url": "https://www.chefshop.com/products/carnaroli-rice",
+   "epc": null,
+   "rate": null,
+   "price": "$13.95",
+   "verified": true
+  }
+ },
+ "fennel-seeds": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "Savory Spice Shop, LLC",
+   "product": "Fennel Seeds",
+   "url": "https://www.savoryspiceshop.com/products/fennel-seeds",
+   "epc": 0.33,
+   "rate": null,
+   "price": "$4.40",
+   "verified": true
+  }
+ },
+ "mama-lil-s-spicy-peppers": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "ChefShop.com",
+   "product": "Mama Lils Original Pepper",
+   "url": "https://www.chefshop.com/products/mama-lils-original-pepper",
+   "epc": null,
+   "rate": null,
+   "price": "$13.95",
+   "verified": true
+  }
+ },
+ "roasted-hazelnut-oil": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "ChefShop.com",
+   "product": "La Tourangelle Roasted Hazelnut Oil",
+   "url": "https://www.chefshop.com/products/la-tourangelle-roasted-hazelnut-oil",
+   "epc": null,
+   "rate": null,
+   "price": "$13.95",
+   "verified": true
+  }
+ },
+ "sodium-alginate": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "ChefShop.com",
+   "product": "Sodium Alginate",
+   "url": "https://www.chefshop.com/products/sodium-alginate",
+   "epc": null,
+   "rate": null,
+   "price": "$16.95",
+   "verified": true
+  }
+ },
+ "toasted-walnut-oil": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "ChefShop.com",
+   "product": "La Tourangelle Roasted Walnut Oil",
+   "url": "https://www.chefshop.com/products/la-tourangelle-roasted-walnut-oil",
+   "epc": null,
+   "rate": null,
+   "price": "$8.95",
+   "verified": true
+  }
+ },
+ "aleppo-pepper": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "Savory Spice Shop, LLC",
+   "product": "Crushed Aleppo Chiles",
+   "url": "https://www.savoryspiceshop.com/products/crushed-aleppo-peppers",
+   "epc": 0.33,
+   "rate": null,
+   "price": "$10.50",
+   "verified": true
+  }
+ },
+ "amchoor-dried-mango-powder": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "The Spice House",
+   "product": "Amchoor Powder",
+   "url": "https://www.thespicehouse.com/products/amchoor-powder",
+   "epc": 0.21,
+   "rate": null,
+   "price": "$9.79",
+   "verified": true
+  }
+ },
+ "ancho-chile-pepper-powder-ground": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "The Spice House",
+   "product": "Chiles, Ancho Ground",
+   "url": "https://www.thespicehouse.com/products/ancho-style-dark-chile-powder",
+   "epc": 0.21,
+   "rate": null,
+   "price": "$8.29",
+   "verified": true
+  }
+ },
+ "black-sesame": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "Nuts.com",
+   "product": "Black Sesame Seeds",
+   "url": "https://www.nuts.com/products/black-sesame-seeds",
+   "epc": 0.38,
+   "rate": null,
+   "price": "$3.49",
+   "verified": true
+  }
+ },
+ "brown-or-green-lentils": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "Nuts.com",
+   "product": "Organic Green Lentils",
+   "url": "https://www.nuts.com/products/organic-green-lentils",
+   "epc": 0.38,
+   "rate": null,
+   "price": "$5.49",
+   "verified": true
+  }
+ },
+ "caballo-de-oros-rey-de-la-vera-sweet-smoked": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "Savory Spice Shop, LLC",
+   "product": "Smoked Spanish Sweet Paprika",
+   "url": "https://www.savoryspiceshop.com/products/smoked-spanish-sweet-paprika",
+   "epc": 0.33,
+   "rate": null,
+   "price": "$11.50",
+   "verified": true
+  }
  }
 }

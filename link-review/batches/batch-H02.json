@@ -1,0 +1,561 @@
+[
+  {
+    "id": "chipotle-pepper-canned-in-adobo-sauce",
+    "name": "Chipotle Pepper (canned in Adobo Sauce)",
+    "status": "match",
+    "kind": "equivalent",
+    "confidence": "high",
+    "amazon": {
+      "asins": [
+        "B0000GGQD4",
+        "B002N3XZ6I"
+      ],
+      "title": "Amazon.com : La Morena Chipotle peppers In Adobo sauce 7 oz (Packaging may vary) : Chile Peppers Produce : Grocery & Gourmet Food",
+      "anchors": [
+        "chipotle pepper (canned in adobo sauce)",
+        "chipotle pepper in adobo"
+      ],
+      "links": 2,
+      "posts": 2,
+      "example_post": "smoky-macaroni-and-cheese-recipe"
+    },
+    "primary": {
+      "merchant": "Savory Spice Shop, LLC",
+      "product": "Chipotle Chiles in Adobo Sauce",
+      "url": "https://www.savoryspiceshop.com/products/chipotle-chiles-in-adobo-sauce",
+      "epc": 0.33,
+      "rate": null,
+      "price": "$4.99",
+      "verified": true
+    },
+    "alternatives": [
+      {
+        "merchant": "ChefShop.com",
+        "product": "Chipotle Peppers in Adobo Sauce",
+        "url": "https://www.chefshop.com/products/chipotle-peppers-in-adobo-sauce",
+        "epc": null,
+        "rate": null,
+        "price": "$4.95",
+        "verified": true
+      }
+    ],
+    "note": "Same canned chipotles in adobo sauce, different brand than La Morena."
+  },
+  {
+    "id": "diamond-crystal",
+    "name": "Diamond Crystal",
+    "status": "match",
+    "kind": "same",
+    "confidence": "high",
+    "amazon": {
+      "asins": [
+        "B0011BPMUK"
+      ],
+      "title": "Amazon.com : Diamond Crystal Kosher Salt \u2013 Full Flavor, No Additives - Pure and Natural Since 1886 (Restaurant Pack) - 3 Pound Box : Grocery & Gourmet Food",
+      "anchors": [
+        "Diamond Crystal",
+        "Kosher salt"
+      ],
+      "links": 2,
+      "posts": 2,
+      "example_post": "latkes-crispy-for-hannukah"
+    },
+    "primary": {
+      "merchant": "The Spice House",
+      "product": "Salt, Diamond Kosher",
+      "url": "https://www.thespicehouse.com/products/diamond-crystal-kosher-salt",
+      "epc": 0.21,
+      "rate": null,
+      "price": "$14.49",
+      "verified": true
+    },
+    "alternatives": [],
+    "note": "Same Diamond Crystal kosher salt; package size may differ from the 3 lb box."
+  },
+  {
+    "id": "dijon-mustard",
+    "name": "Dijon Mustard",
+    "status": "match",
+    "kind": "equivalent",
+    "confidence": "medium",
+    "amazon": {
+      "asins": [
+        "B000RK4BFI",
+        "B00EENE82A"
+      ],
+      "title": "Amazon.com : Grey Poupon Mustard, Dijon, 10 oz. Squeeze Bottle | Creamy & Smooth from the French Recipe Since 1777, White Wine & #1 Grade Mustard Seeds, Great for Sandwiches, Meats & Dipping : Yellow Mustard : Grocery & Gourmet Food",
+      "anchors": [
+        "Dijon mustard"
+      ],
+      "links": 2,
+      "posts": 2,
+      "example_post": "island-style-sweet-and-spicy-cabbage-recipe"
+    },
+    "primary": {
+      "merchant": "ChefShop.com",
+      "product": "Fallot Dijon Mustard",
+      "url": "https://www.chefshop.com/products/fallot-dijon-mustard",
+      "epc": null,
+      "rate": null,
+      "price": "$6.95",
+      "verified": true
+    },
+    "alternatives": [
+      {
+        "merchant": "ChefShop.com",
+        "product": "Kozliks Canadian Dijon Classic Mustard",
+        "url": "https://www.chefshop.com/products/kozliks-canadian-dijon-classic-mustard",
+        "epc": null,
+        "rate": null,
+        "price": "$9.55",
+        "verified": true
+      }
+    ],
+    "note": "Fallot is a French Dijon mustard rather than Grey Poupon; same type of product."
+  },
+  {
+    "id": "carnaroli",
+    "name": "Carnaroli",
+    "status": "match",
+    "kind": "same",
+    "confidence": "high",
+    "amazon": {
+      "asins": [
+        "B07GQD9LCX"
+      ],
+      "title": "Amazon.com : Colavita Carnaroli Rice (2 Pound) Box : Grocery & Gourmet Food",
+      "anchors": [
+        "carnaroli"
+      ],
+      "links": 2,
+      "posts": 2,
+      "example_post": "roasted-tomato-and-corn-risotto-recipe"
+    },
+    "primary": {
+      "merchant": "ChefShop.com",
+      "product": "Carnaroli Rice",
+      "url": "https://www.chefshop.com/products/carnaroli-rice",
+      "epc": null,
+      "rate": null,
+      "price": "$13.95",
+      "verified": true
+    },
+    "alternatives": [
+      {
+        "merchant": "ChefShop.com",
+        "product": "Acquerello Aged Carnaroli Rice - aged 1 year",
+        "url": "https://www.chefshop.com/products/acquerello-aged-carnaroli-rice-aged-1-year",
+        "epc": null,
+        "rate": null,
+        "price": "$9.95",
+        "verified": true
+      }
+    ],
+    "note": "Carnaroli risotto rice, same ingredient as the Colavita box but a different brand."
+  },
+  {
+    "id": "capers",
+    "name": "Capers",
+    "status": "match",
+    "kind": "equivalent",
+    "confidence": "medium",
+    "amazon": {
+      "asins": [
+        "B074H61RBF"
+      ],
+      "title": "Amazon.com : 365 by Whole Foods Market, Organic Nonpareil Capers, 2 Ounce : Grocery & Gourmet Food",
+      "anchors": [
+        "capers"
+      ],
+      "links": 2,
+      "posts": 2,
+      "example_post": "golden-beet-tartare-recipe"
+    },
+    "primary": {
+      "merchant": "ChefShop.com",
+      "product": "Large Pantescan Capers in Salt",
+      "url": "https://www.chefshop.com/products/large-pantescan-capers-in-salt",
+      "epc": null,
+      "rate": null,
+      "price": "$7.95",
+      "verified": true
+    },
+    "alternatives": [
+      {
+        "merchant": "ChefShop.com",
+        "product": "Organic Salted Wild Mountain Capers",
+        "url": "https://www.chefshop.com/products/organic-salted-wild-mountain-capers",
+        "epc": null,
+        "rate": null,
+        "price": "$14.95",
+        "verified": true
+      }
+    ],
+    "note": "Salt-packed capers rather than brined nonpareils; same ingredient but larger and need rinsing."
+  },
+  {
+    "id": "chili-flavored-sesame-oil",
+    "name": "Chili-Flavored Sesame Oil",
+    "status": "match",
+    "kind": "equivalent",
+    "confidence": "medium",
+    "amazon": {
+      "asins": [
+        "B00514F08C"
+      ],
+      "title": "Amazon.com : Eden Foods Sesame Oil, Hot Pepper, 5-Ounce : Grocery & Gourmet Food",
+      "anchors": [
+        "chili-flavored sesame oil",
+        "hot-chili sesame oil"
+      ],
+      "links": 2,
+      "posts": 2,
+      "example_post": "recipe-vietname"
+    },
+    "primary": {
+      "merchant": "ChefShop.com",
+      "product": "Wadaman Rayu (Chili Sesame Oil)",
+      "url": "https://www.chefshop.com/products/wadaman-rayu-chili-sesame-oil",
+      "epc": null,
+      "rate": null,
+      "price": "$30.95",
+      "verified": true
+    },
+    "alternatives": [],
+    "note": "Wadaman rayu is a Japanese chili sesame oil, pricier than the Eden hot pepper sesame oil but the same kind of product."
+  },
+  {
+    "id": "dashi-kombu-dried-kelp-from-hokkaido-japan",
+    "name": "Dashi Kombu Dried Kelp from Hokkaido Japan",
+    "status": "match",
+    "kind": "equivalent",
+    "confidence": "medium",
+    "amazon": {
+      "asins": [
+        "B0BWHB7TZL"
+      ],
+      "title": "Amazon.com : Dried Kelp 3.52oz(100g) Dried Kombu Seaweed From Hokkaido Japan For Soup Stock : Grocery & Gourmet Food",
+      "anchors": [
+        "dried kombu",
+        "kombu seaweed"
+      ],
+      "links": 2,
+      "posts": 2,
+      "example_post": "kinoko-gohan-japanese-mushroom-rice-recipe"
+    },
+    "primary": {
+      "merchant": "ChefShop.com",
+      "product": "Uneno Rishiri Konbu -Dried Kelp",
+      "url": "https://www.chefshop.com/products/uneno-rishiri-konbu-dried-kelp",
+      "epc": null,
+      "rate": null,
+      "price": "$34.55",
+      "verified": true
+    },
+    "alternatives": [],
+    "note": "Rishiri konbu is dried kelp from Hokkaido suited to dashi; a premium, pricier version of the Amazon item."
+  },
+  {
+    "id": "de-la-estancia-organic-polenta-1-lb-pack-of-6",
+    "name": "De La Estancia Organic Polenta, 1 lb (Pack of 6)",
+    "status": "match",
+    "kind": "equivalent",
+    "confidence": "low",
+    "amazon": {
+      "asins": [
+        "B000HRZX6C"
+      ],
+      "title": "Amazon.com : De la Estancia Organic Polenta, 1-Pound Bags (Pack of 6) : Polenta Meals : Grocery & Gourmet Food",
+      "anchors": [
+        "Polenta",
+        "Quick-cooking polenta"
+      ],
+      "links": 2,
+      "posts": 2,
+      "example_post": "polenta-with-as"
+    },
+    "primary": {
+      "merchant": "ChefShop.com",
+      "product": "Moretti Bramata Polenta Coarse Yellow",
+      "url": "https://www.chefshop.com/products/moretti-bramata-polenta-coarse-yellow",
+      "epc": null,
+      "rate": null,
+      "price": "$6.95",
+      "verified": true
+    },
+    "alternatives": [
+      {
+        "merchant": "ChefShop.com",
+        "product": "Moretti Bramata Bianca (Coarse White Corn Polenta)",
+        "url": "https://www.chefshop.com/products/moretti-bramata-coarse-bianca-white-corn-polenta",
+        "epc": null,
+        "rate": null,
+        "price": "$7.95",
+        "verified": true
+      }
+    ],
+    "note": "Coarse Italian yellow polenta, not organic or quick-cooking, and sold as a single bag rather than a 6-pack."
+  },
+  {
+    "id": "de-nigris-aged-balsamic-vinegar-of-modena",
+    "name": "De Nigris Aged Balsamic Vinegar of Modena",
+    "status": "match",
+    "kind": "equivalent",
+    "confidence": "medium",
+    "amazon": {
+      "asins": [
+        "B0000CFY4F",
+        "B004UB692I"
+      ],
+      "title": "Amazon.com : De Nigris Balsamic Vinegar Of Modena 8,5 Oz (250ml) | Balsamic Vinegar From Modena Italy Aged For 3 Years In Antique Wooden Casks : Grocery & Gourmet Food",
+      "anchors": [
+        "aged balsamic vinegar",
+        "balsamico"
+      ],
+      "links": 2,
+      "posts": 2,
+      "example_post": "puntarelle-and-tiny-potato-salad-recipe"
+    },
+    "primary": {
+      "merchant": "The Spice House",
+      "product": "Kosterina Original Balsamic Vinegar",
+      "url": "https://www.thespicehouse.com/products/original-balsamic-vinegar",
+      "epc": 0.21,
+      "rate": null,
+      "price": "$20.00",
+      "verified": true
+    },
+    "alternatives": [
+      {
+        "merchant": "ChefShop.com",
+        "product": "La Vecchia Dispensa Organic Balsamic",
+        "url": "https://www.chefshop.com/products/la-vecchia-dispensa-organic-balsamic",
+        "epc": null,
+        "rate": null,
+        "price": "$24.95",
+        "verified": true
+      }
+    ],
+    "note": "Kosterina is a Greek balsamic, not De Nigris from Modena; a comparable everyday balsamic at a higher price."
+  },
+  {
+    "id": "the-perfect-scoop",
+    "name": "The Perfect Scoop",
+    "status": "no_match",
+    "reason": "Book; none of the in-network catalogs searched carry it.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "1580088082"
+      ],
+      "title": "Perfect Scoop: Ice Creams, Sorbets, Granitas, and Sweet Accompaniments: Lebovitz, David, Hata, Lara: 9781580088084: Amazon.com: Books",
+      "anchors": [
+        "The Perfect Scoop",
+        "please pick up the book"
+      ],
+      "links": 3,
+      "posts": 1,
+      "example_post": "caramelized-pear-ice-cream-from-the-perfect-scoop-by-david-lebovitz-recipe-and-cookbook-review"
+    }
+  },
+  {
+    "id": "best-food-writing-2007-by-holly-hughes",
+    "name": "Best Food Writing 2007 by Holly Hughes",
+    "status": "no_match",
+    "reason": "Book; none of the in-network catalogs searched carry it.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "1600940390"
+      ],
+      "title": "Best Food Writing 2007: Hughes, Holly: 9781600940392: Amazon.com: Books",
+      "anchors": [
+        "buy this year's",
+        "new edition"
+      ],
+      "links": 2,
+      "posts": 1,
+      "example_post": "book-review-bes"
+    }
+  },
+  {
+    "id": "culinary-artistry",
+    "name": "Culinary Artistry",
+    "status": "no_match",
+    "reason": "Book; none of the in-network catalogs searched carry it.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "0471287857"
+      ],
+      "title": "Culinary Artistry: Dornenburg, Andrew, Page, Karen: 9780471287858: Amazon.com: Books",
+      "anchors": [
+        "Culinary Artistry"
+      ],
+      "links": 2,
+      "posts": 2,
+      "example_post": "recipe-reconstr"
+    }
+  },
+  {
+    "id": "ancho-guajillo-pasilla-cascabel-de-arbol",
+    "name": "Ancho, Guajillo, Pasilla, Cascabel, de Arbol, ...",
+    "status": "no_match",
+    "reason": "Only ground ancho powder found; the Amazon item is a variety pack of whole dried chiles, a different form.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B07BZW6DSC"
+      ],
+      "title": "Amazon.com : Dried Chile Peppers Variety 3x4oz Ancho Guajillo Pasilla Mexican Chili | Ancho: sweet smoky. Guajillo: fruity. Pasilla: earthy tangy. Whole pods for mole, birria & tamales. Resealable bulk bag. : Grocery & Gourmet Food",
+      "anchors": [
+        "ancho, guajillo, pasilla, cascabel, de arbol, ...",
+        "whole dried chili peppers"
+      ],
+      "links": 2,
+      "posts": 1,
+      "example_post": "vegetarian-chili-recipe"
+    }
+  },
+  {
+    "id": "beaterblade-for-kitchenaid-tilt-head-bowl-lift",
+    "name": "BeaterBlade for KitchenAid Tilt-Head & Bowl-Lift Mixers",
+    "status": "no_match",
+    "reason": "No candidate is a mixer paddle or kitchen tool; results are unrelated spice blends.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B001F29N50",
+        "B07MJL6FPC"
+      ],
+      "title": "BeaterBlade for KitchenAid Tilt-Head & Bowl-Lift Mixers",
+      "anchors": [
+        "BeaterBlade for KitchenAid Tilt-Head &amp",
+        "Bowl-Lift Mixers",
+        "the Ateco model"
+      ],
+      "links": 2,
+      "posts": 2,
+      "example_post": "stop-scraping-your-stand-mixer-bowl"
+    }
+  },
+  {
+    "id": "blowtorch",
+    "name": "Blowtorch",
+    "status": "no_match",
+    "reason": "Only unrelated candy (tongue torchers); no kitchen torch found.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B01LYN1C7P",
+        "B07RKVHJH6"
+      ],
+      "title": "Blowtorch",
+      "anchors": [
+        "blowtorch"
+      ],
+      "links": 2,
+      "posts": 2,
+      "example_post": "crostini-with-young-pecorino-grilled-figs-and-arugula-mint-pesto-recipe"
+    }
+  },
+  {
+    "id": "champion-juicer",
+    "name": "Champion Juicer",
+    "status": "no_match",
+    "reason": "No juicer in results; only unrelated foods.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B000E48LHQ",
+        "B000H6UYVC"
+      ],
+      "title": "Champion Juicer",
+      "anchors": [
+        "Champion Juicer",
+        "Champion juicer"
+      ],
+      "links": 2,
+      "posts": 2,
+      "example_post": "corn-nut-butter-recipe-work-in-progress"
+    }
+  },
+  {
+    "id": "cheesecloth",
+    "name": "Cheesecloth",
+    "status": "no_match",
+    "reason": "No cheesecloth in results; only cheese snacks and seasonings.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B08FXSD575",
+        "B0DKC8JD52"
+      ],
+      "title": "Amazon.com: Cotton Farm Grade 100 XL Cheese Cloths - Straining & More; 36x36 Inch; 100% Unbleached Cotton Cheesecloth; Reusable with Hemmed 2 Edges; Ultra-Dense (the finest) Butter Muslin: Home & Kitchen",
+      "anchors": [
+        "cheesecloth"
+      ],
+      "links": 2,
+      "posts": 2,
+      "example_post": "latkes-crispy-for-hannukah"
+    }
+  },
+  {
+    "id": "chervil",
+    "name": "Chervil",
+    "status": "no_match",
+    "reason": "No dried chervil found; results are cherries and tarragon.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B0DCG5973B"
+      ],
+      "title": "Amazon.com : GranAroma, Chervil Flakes, 0.28 Oz | For seasoning, garnishing, and enhancing flavor : Grocery & Gourmet Food",
+      "anchors": [
+        "chervil"
+      ],
+      "links": 2,
+      "posts": 2,
+      "example_post": "grapefruit-and-avocado-crudo"
+    }
+  },
+  {
+    "id": "circle-cutters",
+    "name": "Circle Cutters",
+    "status": "no_match",
+    "reason": "No cutters in results; only unrelated spice blends.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B08BWL2TR5"
+      ],
+      "title": "Amazon.com: Bukuwa 12 Pcs Round Cookie Biscuit Cutter Set, Graduated Circle Cutters | 18/8 Stainless Steel, Pastry Cookie Cutters, Donut Cutter Ring Molds for Baking, Cooking, Gift: Home & Kitchen",
+      "anchors": [
+        "circle cutter",
+        "circle cutters"
+      ],
+      "links": 2,
+      "posts": 2,
+      "example_post": "caramelized-pea"
+    }
+  },
+  {
+    "id": "cotija-cheese",
+    "name": "Cotija Cheese",
+    "status": "no_match",
+    "reason": "No cotija in results; only cheese crisps, seasonings and parmesan.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B07BM98393"
+      ],
+      "title": "Amazon.com: QUESO CAMPESINO Cotija, 12 OZ : Grocery & Gourmet Food",
+      "anchors": [
+        "cotija cheese"
+      ],
+      "links": 2,
+      "posts": 2,
+      "example_post": "mexican-breakfast-torta-recipe"
+    }
+  }
+]
