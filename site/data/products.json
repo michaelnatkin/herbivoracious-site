@@ -142,7 +142,7 @@
   "adzuki-beans": {
     "name": "Adzuki Beans",
     "category": "grains-pasta-legumes",
-    "url": "https://nuts.com/cookingbaking/beans/adzuki/organic.html",
+    "url": "https://www.nuts.com/products/adzuki-beans",
     "original_url": "https://www.amazon.com/dp/B00TOETLDA?tag=herb-hugo-20",
     "asins": [
       "B00TOETLDA"
@@ -825,12 +825,13 @@
   "bourbon-smoked-paprika": {
     "name": "Bourbon-Smoked Paprika",
     "category": "spices-seasonings",
-    "url": "https://www.amazon.com/dp/B0035R8O12?tag=herb-hugo-20",
+    "url": "https://www.savoryspiceshop.com/products/smoked-spanish-sweet-paprika",
     "original_url": "https://www.amazon.com/dp/B0035R8O12?tag=herb-hugo-20",
     "asins": [
       "B000LULFJ4",
       "B0035R8O12"
-    ]
+    ],
+    "merchant": "Savory Spice Shop"
   },
   "bourbon-vanilla-sorghum": {
     "name": "Bourbon-Vanilla Sorghum",
@@ -912,12 +913,13 @@
   "calabro-whole-milk-ricotta-32-oz": {
     "name": "Calabro Whole Milk Ricotta, 32 oz",
     "category": "cheese-dairy",
-    "url": "https://www.amazon.com/dp/B07D7H4626?tag=herb-hugo-20",
+    "url": "https://thrivemarket.com/p/belgioioso-ricotta-con-latte-whole-milk",
     "original_url": "https://www.amazon.com/dp/B07D7H4626?tag=herb-hugo-20",
     "asins": [
       "B00Q7IMYBM",
       "B07D7H4626"
-    ]
+    ],
+    "merchant": "Thrive Market"
   },
   "calcium-chloride": {
     "name": "Calcium Chloride",
@@ -1196,12 +1198,12 @@
   "chili-de-arbol": {
     "name": "Chili de Arbol",
     "category": "mexican-latin-pantry",
-    "url": "https://nuts.com/cookingbaking/mexican/dried-de-arbol-peppers-without-stem.html",
+    "url": "https://www.chefshop.com/products/chile-de-arbol-dried-pods",
     "original_url": "https://www.amazon.com/dp/B07TYNF3ND?tag=herb-hugo-20",
     "asins": [
       "B07TYNF3ND"
     ],
-    "merchant": "Nuts.com"
+    "merchant": "ChefShop.com"
   },
   "chili-flakes": {
     "name": "Chili Flakes",
@@ -1770,11 +1772,12 @@
   "dried-tarragon": {
     "name": "Dried Tarragon",
     "category": "spices-seasonings",
-    "url": "https://www.amazon.com/dp/B08LCKFBMW?tag=herb-hugo-20",
+    "url": "https://www.savoryspiceshop.com/products/french-tarragon",
     "original_url": "https://www.amazon.com/dp/B08LCKFBMW?tag=herb-hugo-20",
     "asins": [
       "B08LCKFBMW"
-    ]
+    ],
+    "merchant": "Savory Spice Shop"
   },
   "dry-harissa-mix": {
     "name": "Dry Harissa Mix",
@@ -2190,12 +2193,13 @@
   "fresh-chevre": {
     "name": "Fresh Chevre",
     "category": "cheese-dairy",
-    "url": "https://www.amazon.com/dp/B002CY2WRQ?tag=herb-hugo-20",
+    "url": "https://murrayscheese.com/goat-plain-log-small",
     "original_url": "https://www.amazon.com/dp/B002CY2WRQ?tag=herb-hugo-20",
     "asins": [
       "B002CXTOIM",
       "B002CY2WRQ"
-    ]
+    ],
+    "merchant": "Murray's Cheese"
   },
   "fresh-marjoram": {
     "name": "Fresh Marjoram",
@@ -2210,11 +2214,12 @@
   "fresh-pappardelle-noodles": {
     "name": "Fresh Pappardelle Noodles",
     "category": "grains-pasta-legumes",
-    "url": "https://www.amazon.com/dp/B0095F92HS?tag=herb-hugo-20",
+    "url": "https://chefshop.com/Marilungo-Campofilone-Pappardelle-Egg-Pasta-P9945.aspx",
     "original_url": "https://www.amazon.com/dp/B0095F92HS?tag=herb-hugo-20",
     "asins": [
       "B0095F92HS"
-    ]
+    ],
+    "merchant": "ChefShop.com"
   },
   "fresh-shiitake-mushroom-caps": {
     "name": "Fresh Shiitake Mushroom Caps",
@@ -2675,22 +2680,24 @@
   },
   "here-on-amazon": {
     "name": "here on Amazon",
-    "url": "https://www.amazon.com/dp/B0CKKNKJR3?tag=herb-hugo-20",
+    "url": "https://www.iherb.com/pr/now-foods-agar-powder-5-oz-142-g/77859",
     "original_url": "https://www.amazon.com/dp/B0CKKNKJR3?tag=herb-hugo-20",
     "asins": [
       "B0CKKNKJR3"
     ],
-    "hidden": true
+    "hidden": true,
+    "merchant": "iHerb.com"
   },
   "hickory-or-mesquite-wood-chips": {
     "name": "Hickory or Mesquite Wood Chips",
     "category": "pantry-staples",
-    "url": "https://www.amazon.com/dp/B0044WVDME?tag=herb-hugo-20",
+    "url": "https://www.bbqguys.com/i/2869752/western/hickory-bbq-smoking-chips-180-cu-in",
     "original_url": "https://www.amazon.com/dp/B0044WVDME?tag=herb-hugo-20",
     "asins": [
       "B0044WVDME",
       "B01M0J88TD"
-    ]
+    ],
+    "merchant": "BBQGuys"
   },
   "high-quality-cocoa-powder": {
     "name": "High Quality Cocoa Powder",
@@ -3038,21 +3045,23 @@
   "kitchen-scale-that-works-in-grams": {
     "name": "Kitchen Scale That Works in Grams",
     "category": "kitchen-gadgets",
-    "url": "https://www.amazon.com/dp/B0113UZJE2?tag=herb-hugo-20",
+    "url": "https://etekcity.com/products/digital-kitchen-scale-ek3551",
     "original_url": "https://www.amazon.com/dp/B0113UZJE2?tag=herb-hugo-20",
     "asins": [
       "B0113UZJE2"
-    ]
+    ],
+    "merchant": "Etekcity"
   },
   "kitchen-shears": {
     "name": "Kitchen Shears",
     "category": "kitchen-gadgets",
-    "url": "https://www.amazon.com/dp/B07PZF3QS3?tag=herb-hugo-20",
+    "url": "https://www.oxo.com/kitchen-and-herb-scissors-361.html",
     "original_url": "https://www.amazon.com/dp/B07PZF3QS3?tag=herb-hugo-20",
     "asins": [
       "B0000CFLH7",
       "B07PZF3QS3"
-    ]
+    ],
+    "merchant": "OXO"
   },
   "kitchenaid-mixer": {
     "name": "KitchenAid Mixer",
@@ -3103,21 +3112,23 @@
   "kombu-seaweed": {
     "name": "Kombu Seaweed",
     "category": "asian-pantry",
-    "url": "https://www.amazon.com/dp/B00ZB13JHO?tag=herb-hugo-20",
+    "url": "https://www.sayweee.com/en/product/Dried-Seaweed-Dashi-Konbu/2017560",
     "original_url": "https://www.amazon.com/dp/B00ZB13JHO?tag=herb-hugo-20",
     "asins": [
       "B00ZB13JHO"
-    ]
+    ],
+    "merchant": "SayWeee.com"
   },
   "korean-sweet-potato-starch-noodles": {
     "name": "Korean Sweet Potato Starch Noodles",
     "category": "asian-pantry",
-    "url": "https://www.amazon.com/dp/B092BS2HL6?tag=herb-hugo-20",
+    "url": "https://www.sayweee.com/en/grocery-near-me/lang-en/explore/korean-sweet-potato-noodle",
     "original_url": "https://www.amazon.com/dp/B092BS2HL6?tag=herb-hugo-20",
     "asins": [
       "B01MCVZR8G",
       "B092BS2HL6"
-    ]
+    ],
+    "merchant": "SayWeee.com"
   },
   "kosher-salt": {
     "name": "Kosher Salt",
@@ -3132,13 +3143,14 @@
   "kuhn-rikon-peelers": {
     "name": "Kuhn Rikon Peelers",
     "category": "kitchen-gadgets",
-    "url": "https://www.amazon.com/dp/B001AQI3IO?tag=herb-hugo-20",
+    "url": "https://www.oxo.com/y-peeler.html",
     "original_url": "https://www.amazon.com/dp/B001AQI3IO?tag=herb-hugo-20",
     "asins": [
       "B0000DAQ5E",
       "B001AQI3IO"
     ],
-    "review_url": "/y-vegetable-peeler/"
+    "review_url": "/y-vegetable-peeler/",
+    "merchant": "OXO"
   },
   "la-chinata-sweet-smoked-paprika-powder-70g": {
     "name": "La Chinata Sweet Smoked Paprika Powder 70g",
@@ -3164,11 +3176,12 @@
   "large-skillet-or-wok": {
     "name": "Large Skillet or Wok",
     "category": "cookware-appliances",
-    "url": "https://www.amazon.com/dp/B09GRXQGRN?tag=herb-hugo-20",
+    "url": "https://madeincookware.com/products/carbon-steel-wok/13-inch",
     "original_url": "https://www.amazon.com/dp/B09GRXQGRN?tag=herb-hugo-20",
     "asins": [
       "B09GRXQGRN"
-    ]
+    ],
+    "merchant": "Made In Cookware"
   },
   "lentils-du-puy": {
     "name": "Lentils Du Puy",
@@ -3377,11 +3390,12 @@
   "mangoes-curry-leaves-culinary-travels-through": {
     "name": "Mangoes & Curry Leaves: Culinary Travels Through the Great Subcontinent",
     "category": "books",
-    "url": "https://www.amazon.com/dp/1579652522?tag=herb-hugo-20",
+    "url": "https://www.barnesandnoble.com/w/mangoes-curry-leaves-jeffrey-alford/1111373604",
     "original_url": "https://www.amazon.com/dp/1579652522?tag=herb-hugo-20",
     "asins": [
       "1579652522"
-    ]
+    ],
+    "merchant": "Barnes & Noble"
   },
   "maple": {
     "name": "maple",
@@ -3466,12 +3480,13 @@
   "medaglia-d-oro-instant-espresso-coffee-2-oz": {
     "name": "Medaglia D'Oro Instant Espresso Coffee, 2 oz",
     "category": "sweeteners-chocolate",
-    "url": "https://www.amazon.com/dp/B002BTI9B0?tag=herb-hugo-20",
+    "url": "https://www.kingarthurbaking.com/node/8421",
     "original_url": "https://www.amazon.com/dp/B002BTI9B0?tag=herb-hugo-20",
     "asins": [
       "B000QJW2KG",
       "B002BTI9B0"
-    ]
+    ],
+    "merchant": "King Arthur Baking"
   },
   "metal-honing-steel": {
     "name": "Metal Honing Steel",
@@ -3967,22 +3982,24 @@
   "parchment": {
     "name": "Parchment",
     "category": "bakeware-tools",
-    "url": "https://www.amazon.com/dp/B09NQGXJ5C?tag=herb-hugo-20",
+    "url": "https://shop.kingarthurbaking.com/items/half-sheet-baking-parchment-paper",
     "original_url": "https://www.amazon.com/dp/B09NQGXJ5C?tag=herb-hugo-20",
     "asins": [
       "B07H79KX8W",
       "B09NQGXJ5C"
-    ]
+    ],
+    "merchant": "King Arthur Baking"
   },
   "paring-knife": {
     "name": "Paring Knife",
     "category": "knives-sharpening",
-    "url": "https://www.amazon.com/dp/B0DZJHRSF8?tag=herb-hugo-20",
+    "url": "https://www.misen.com/products/paring-knife-acuto-black",
     "original_url": "https://www.amazon.com/dp/B0DZJHRSF8?tag=herb-hugo-20",
     "asins": [
       "B09RTFBBQM",
       "B0DZJHRSF8"
-    ]
+    ],
+    "merchant": "Misen"
   },
   "parmigiano-reggiano-cheese": {
     "name": "Parmigiano-Reggiano Cheese",
@@ -4026,12 +4043,13 @@
   "pastry-bag": {
     "name": "Pastry Bag",
     "category": "bakeware-tools",
-    "url": "https://www.amazon.com/dp/B0C6SSH4LK?tag=herb-hugo-20",
+    "url": "https://shop.kingarthurbaking.com/items/pastry-bags-and-tips-set",
     "original_url": "https://www.amazon.com/dp/B0C6SSH4LK?tag=herb-hugo-20",
     "asins": [
       "B0C6SSH4LK",
       "B0CGNZ7BGR"
-    ]
+    ],
+    "merchant": "King Arthur Baking"
   },
   "pastry-blender": {
     "name": "Pastry Blender",
@@ -4116,11 +4134,12 @@
   "pine-nuts": {
     "name": "Pine Nuts",
     "category": "pantry-staples",
-    "url": "https://www.amazon.com/dp/B0DZ1FGKN2?tag=herb-hugo-20",
+    "url": "https://nuts.com/nuts/pinenuts/mediterranean.html",
     "original_url": "https://www.amazon.com/dp/B0DZ1FGKN2?tag=herb-hugo-20",
     "asins": [
       "B0DZ1FGKN2"
-    ]
+    ],
+    "merchant": "Nuts.com"
   },
   "pistachio-oil": {
     "name": "Pistachio Oil",
@@ -4497,11 +4516,12 @@
   "rye-flour": {
     "name": "Rye Flour",
     "category": "grains-pasta-legumes",
-    "url": "https://www.amazon.com/dp/B08HZJJ61J?tag=herb-hugo-20",
+    "url": "https://nuts.com/cookingbaking/grains/rye/flour.html",
     "original_url": "https://www.amazon.com/dp/B08HZJJ61J?tag=herb-hugo-20",
     "asins": [
       "B08HZJJ61J"
-    ]
+    ],
+    "merchant": "Nuts.com"
   },
   "s-b-la-yu-chili-oil": {
     "name": "S&B La-Yu Chili Oil",
@@ -4998,12 +5018,13 @@
   "starfrit-salad-spinner": {
     "name": "Starfrit Salad Spinner",
     "category": "kitchen-gadgets",
-    "url": "https://www.amazon.com/dp/B00BMCJCUO?tag=herb-hugo-20",
+    "url": "https://www.oxo.com/salad-spinner.html",
     "original_url": "https://www.amazon.com/dp/B00BMCJCUO?tag=herb-hugo-20",
     "asins": [
       "B00BMCJCUO"
     ],
-    "review_url": "/the-best-salad-spinner-because-wet-lettuce-is-terrible/"
+    "review_url": "/the-best-salad-spinner-because-wet-lettuce-is-terrible/",
+    "merchant": "OXO"
   },
   "stonewall-kitchen-roasted-garlic-onion-jam": {
     "name": "Stonewall Kitchen Roasted Garlic Onion Jam",
@@ -5244,11 +5265,12 @@
   "thai-pure-palm-sugar": {
     "name": "Thai Pure Palm Sugar",
     "category": "sweeteners-chocolate",
-    "url": "https://www.amazon.com/dp/B000PDRANM?tag=herb-hugo-20",
+    "url": "https://www.nuts.com/products/organic-coconut-palm-sugar",
     "original_url": "https://www.amazon.com/dp/B000PDRANM?tag=herb-hugo-20",
     "asins": [
       "B000PDRANM"
-    ]
+    ],
+    "merchant": "Nuts.com"
   },
   "the-adaptable-feast": {
     "name": "The Adaptable Feast",
@@ -5301,12 +5323,13 @@
   "the-complete-tassajara-cookbook": {
     "name": "The Complete Tassajara Cookbook",
     "category": "books",
-    "url": "https://www.amazon.com/dp/1590306724?tag=herb-hugo-20",
+    "url": "https://www.barnesandnoble.com/w/the-complete-tassajara-cookbook-edward-espe-brown/1100643197",
     "original_url": "https://www.amazon.com/dp/1590306724?tag=herb-hugo-20",
     "asins": [
       "1590306724",
       "1590307046"
-    ]
+    ],
+    "merchant": "Barnes & Noble"
   },
   "the-curious-cook-more-kitchen-science-and-lore": {
     "name": "The Curious Cook: More Kitchen Science and Lore by Harold McGee",
@@ -5501,11 +5524,12 @@
   "toasted-pine-nuts": {
     "name": "Toasted Pine Nuts",
     "category": "pantry-staples",
-    "url": "https://www.amazon.com/dp/B074H6811H?tag=herb-hugo-20",
+    "url": "https://www.nuts.com/products/pine-nuts",
     "original_url": "https://www.amazon.com/dp/B074H6811H?tag=herb-hugo-20",
     "asins": [
       "B074H6811H"
-    ]
+    ],
+    "merchant": "Nuts.com"
   },
   "toasted-sesame-oil": {
     "name": "Toasted Sesame Oil",
@@ -5589,12 +5613,13 @@
   },
   "top-chef": {
     "name": "Top Chef",
-    "url": "https://www.amazon.com/dp/0811864308?tag=herb-hugo-20",
+    "url": "https://www.barnesandnoble.com/w/top-chef-top-chef/1141873719",
     "original_url": "https://www.amazon.com/dp/0811864308?tag=herb-hugo-20",
     "asins": [
       "0811864308"
     ],
-    "hidden": true
+    "hidden": true,
+    "merchant": "Barnes & Noble"
   },
   "tortilla-press": {
     "name": "Tortilla Press",

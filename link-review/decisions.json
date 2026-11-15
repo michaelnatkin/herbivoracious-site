@@ -328,14 +328,13 @@
   "status": "approved",
   "choice": 0,
   "chosen": {
-   "merchant": "Nuts.com",
-   "product": "Dried De Arbol Peppers (Stemless)",
-   "url": "https://nuts.com/cookingbaking/mexican/dried-de-arbol-peppers-without-stem.html",
-   "epc": 0.38,
-   "rate": 20,
-   "price": "$14.99",
-   "verified": false,
-   "broken": true
+   "merchant": "ChefShop.com",
+   "product": "Dried Chile de \u00c1rbol Pods",
+   "url": "https://www.chefshop.com/products/chile-de-arbol-dried-pods",
+   "epc": null,
+   "rate": 7,
+   "price": "$4.95",
+   "verified": true
   }
  },
  "dried-ancho-chilis": {
@@ -1112,13 +1111,12 @@
   "choice": 0,
   "chosen": {
    "merchant": "Nuts.com",
-   "product": "Organic Adzuki Beans",
-   "url": "https://nuts.com/cookingbaking/beans/adzuki/organic.html",
+   "product": "Adzuki Beans",
+   "url": "https://www.nuts.com/products/adzuki-beans",
    "epc": 0.38,
    "rate": 20,
-   "price": null,
-   "verified": false,
-   "broken": true
+   "price": "$4.49",
+   "verified": true
   }
  },
  "agar-agar-powder": {
@@ -1313,7 +1311,7 @@
    "epc": 0.38,
    "rate": 20,
    "price": null,
-   "verified": false
+   "verified": true
   }
  },
  "turmeric-powder": {
@@ -1326,7 +1324,7 @@
    "epc": 0.33,
    "rate": 15,
    "price": null,
-   "verified": false
+   "verified": true
   }
  },
  "vita-prep": {
@@ -1352,7 +1350,7 @@
    "epc": 0.06,
    "rate": 45,
    "price": null,
-   "verified": false
+   "verified": true
   }
  },
  "ancho-chili-powder": {
@@ -1365,7 +1363,7 @@
    "epc": 0.33,
    "rate": 15,
    "price": null,
-   "verified": false
+   "verified": true
   }
  },
  "arborio-rice": {
@@ -1391,7 +1389,7 @@
    "epc": 0.33,
    "rate": 15,
    "price": null,
-   "verified": false
+   "verified": true
   }
  },
  "barefoot-contessa": {
@@ -1417,7 +1415,7 @@
    "epc": 0.33,
    "rate": 15,
    "price": null,
-   "verified": false
+   "verified": true
   }
  },
  "basic-12-model": {
@@ -1430,1123 +1428,783 @@
    "epc": 0.31,
    "rate": 10,
    "price": null,
-   "verified": false
+   "verified": true
   }
  },
  "citric-acid-sour-salt": {
   "status": "approved",
   "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "Nuts.com",
-   "product": "Citric Acid",
-   "url": "https://www.nuts.com/products/citric-acid",
-   "epc": 0.38,
-   "rate": 20,
-   "price": "$8.49",
-   "verified": true
-  }
+  "auto": true
  },
  "gelpro-mats": {
   "status": "approved",
   "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "GelPro",
-   "product": "GelPro Elite Mat: Woven",
-   "url": "https://www.gelpro.com/gelpro-elite-mat-woven/",
-   "epc": 0.04,
-   "rate": 5,
-   "price": "$159.95",
-   "verified": true
-  }
+  "auto": true
  },
  "get-one-right-now": {
   "status": "approved",
   "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "Sur La Table",
-   "product": "Microplane Soft-Handle Zester Grater, 12\"",
-   "url": "https://www.surlatable.com/product/microplane-soft-handle-zester-grater-12/622035",
-   "epc": 0.06,
-   "rate": 9,
-   "price": "$18.95",
-   "verified": true
-  }
+  "auto": true
  },
  "i-like-you-hospitality-under-the-influence": {
   "status": "approved",
   "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "Barnes & Noble",
-   "product": "I Like You: Hospitality Under the Influence (Paperback, ISBN 9780446696777)",
-   "url": "https://www.barnesandnoble.com/w/i-like-you-amy-sedaris/1100298170",
-   "epc": 0.01,
-   "rate": 5.15,
-   "price": "$20.00",
-   "verified": true
-  }
+  "auto": true
  },
  "kitchen-confidential": {
   "status": "approved",
   "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "Barnes & Noble",
-   "product": "Kitchen Confidential: Adventures in the Culinary Underbelly (Paperback, ISBN 9780060899226)",
-   "url": "https://www.barnesandnoble.com/w/kitchen-confidential-anthony-bourdain/1100390361",
-   "epc": 0.01,
-   "rate": 5.15,
-   "price": "$14.44",
-   "verified": true
-  }
+  "auto": true
  },
  "madhur-jaffrey-s-world-vegetarian": {
   "status": "approved",
   "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "Barnes & Noble",
-   "product": "Madhur Jaffrey's World Vegetarian (Paperback)",
-   "url": "https://www.barnesandnoble.com/w/madhur-jaffreys-world-vegetarian-madhur-jaffrey/1138713746",
-   "epc": 0.01,
-   "rate": 5.15,
-   "price": "$35.00",
-   "verified": true
-  }
+  "auto": true
  },
  "momofuku-by-david-chang": {
   "status": "approved",
   "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "Barnes & Noble",
-   "product": "Momofuku: A Cookbook (Hardcover)",
-   "url": "https://www.barnesandnoble.com/w/momofuku-david-chang/1137656659",
-   "epc": 0.01,
-   "rate": 5.15,
-   "price": "$34.00",
-   "verified": true
-  }
+  "auto": true
  },
  "more-expensive-thermapen-model": {
   "status": "approved",
   "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "ThermoWorks",
-   "product": "Thermapen ONE",
-   "url": "https://www.thermoworks.com/products/thermapen-one",
-   "epc": 0.31,
-   "rate": 10.0,
-   "price": "$74.00",
-   "verified": true
-  }
+  "auto": true
  },
  "saffron": {
   "status": "approved",
   "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "Savory Spice Shop",
-   "product": "Spanish Coupe Saffron",
-   "url": "https://www.savoryspiceshop.com/products/spanish-coupe-saffron",
-   "epc": 0.33,
-   "rate": 15,
-   "price": "$16.95",
-   "verified": true
-  }
+  "auto": true
  },
  "saffron-threads": {
   "status": "approved",
   "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "Savory Spice Shop",
-   "product": "Spanish Coupe Saffron",
-   "url": "https://www.savoryspiceshop.com/products/spanish-coupe-saffron",
-   "epc": 0.33,
-   "rate": 15,
-   "price": "$16.95",
-   "verified": true
-  }
+  "auto": true
  },
  "star-anise": {
   "status": "approved",
   "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "Nuts.com",
-   "product": "Star Anise",
-   "url": "https://www.nuts.com/products/star-anise",
-   "epc": 0.38,
-   "rate": 20,
-   "price": "$25.99",
-   "verified": true
-  }
+  "auto": true
  },
  "sunflower-seed-butter": {
   "status": "approved",
   "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "Nuts.com",
-   "product": "Organic Sunflower Butter",
-   "url": "https://www.nuts.com/products/organic-sunflower-butter",
-   "epc": 0.38,
-   "rate": 20,
-   "price": "$9.49",
-   "verified": true
-  }
+  "auto": true
  },
  "the-art-of-simple-food-by-alice-waters": {
   "status": "approved",
   "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "Barnes & Noble",
-   "product": "The Art of Simple Food: Notes, Lessons, and Recipes from a Delicious Revolution",
-   "url": "https://www.barnesandnoble.com/w/the-art-of-simple-food-alice-waters/1138089471",
-   "epc": 0.01,
-   "rate": 5.15,
-   "price": null,
-   "verified": true
-  }
+  "auto": true
  },
  "the-man-who-ate-everything": {
   "status": "approved",
   "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "Barnes & Noble",
-   "product": "The Man Who Ate Everything (paperback)",
-   "url": "https://www.barnesandnoble.com/w/man-who-ate-everything-jeffrey-steingarten/1100095426",
-   "epc": 0.01,
-   "rate": 5.15,
-   "price": null,
-   "verified": true
-  }
+  "auto": true
  },
  "o-food-ssamjang-korean-seasoned-soybean-paste": {
   "status": "approved",
   "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "ChefShop.com",
-   "product": "BomBom Ssamjang Korean Soybean Sauce",
-   "url": "https://www.chefshop.com/products/bombom-ssamjang-korean-soybean-sauce",
-   "epc": null,
-   "rate": null,
-   "price": "$17.95",
-   "verified": true
-  }
+  "auto": true
  },
  "chipotle-pepper-canned-in-adobo-sauce": {
   "status": "approved",
   "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "Savory Spice Shop, LLC",
-   "product": "Chipotle Chiles in Adobo Sauce",
-   "url": "https://www.savoryspiceshop.com/products/chipotle-chiles-in-adobo-sauce",
-   "epc": 0.33,
-   "rate": null,
-   "price": "$4.99",
-   "verified": true
-  }
+  "auto": true
  },
  "diamond-crystal": {
   "status": "approved",
   "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "The Spice House",
-   "product": "Salt, Diamond Kosher",
-   "url": "https://www.thespicehouse.com/products/diamond-crystal-kosher-salt",
-   "epc": 0.21,
-   "rate": null,
-   "price": "$14.49",
-   "verified": true
-  }
+  "auto": true
  },
  "carnaroli": {
   "status": "approved",
   "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "ChefShop.com",
-   "product": "Carnaroli Rice",
-   "url": "https://www.chefshop.com/products/carnaroli-rice",
-   "epc": null,
-   "rate": null,
-   "price": "$13.95",
-   "verified": true
-  }
+  "auto": true
  },
  "fennel-seeds": {
   "status": "approved",
   "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "Savory Spice Shop, LLC",
-   "product": "Fennel Seeds",
-   "url": "https://www.savoryspiceshop.com/products/fennel-seeds",
-   "epc": 0.33,
-   "rate": null,
-   "price": "$4.40",
-   "verified": true
-  }
+  "auto": true
  },
  "mama-lil-s-spicy-peppers": {
   "status": "approved",
   "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "ChefShop.com",
-   "product": "Mama Lils Original Pepper",
-   "url": "https://www.chefshop.com/products/mama-lils-original-pepper",
-   "epc": null,
-   "rate": null,
-   "price": "$13.95",
-   "verified": true
-  }
+  "auto": true
  },
  "roasted-hazelnut-oil": {
   "status": "approved",
   "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "ChefShop.com",
-   "product": "La Tourangelle Roasted Hazelnut Oil",
-   "url": "https://www.chefshop.com/products/la-tourangelle-roasted-hazelnut-oil",
-   "epc": null,
-   "rate": null,
-   "price": "$13.95",
-   "verified": true
-  }
+  "auto": true
  },
  "sodium-alginate": {
   "status": "approved",
   "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "ChefShop.com",
-   "product": "Sodium Alginate",
-   "url": "https://www.chefshop.com/products/sodium-alginate",
-   "epc": null,
-   "rate": null,
-   "price": "$16.95",
-   "verified": true
-  }
+  "auto": true
  },
  "toasted-walnut-oil": {
   "status": "approved",
   "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "ChefShop.com",
-   "product": "La Tourangelle Roasted Walnut Oil",
-   "url": "https://www.chefshop.com/products/la-tourangelle-roasted-walnut-oil",
-   "epc": null,
-   "rate": null,
-   "price": "$8.95",
-   "verified": true
-  }
+  "auto": true
  },
  "aleppo-pepper": {
   "status": "approved",
   "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "Savory Spice Shop, LLC",
-   "product": "Crushed Aleppo Chiles",
-   "url": "https://www.savoryspiceshop.com/products/crushed-aleppo-peppers",
-   "epc": 0.33,
-   "rate": null,
-   "price": "$10.50",
-   "verified": true
-  }
+  "auto": true
  },
  "amchoor-dried-mango-powder": {
   "status": "approved",
   "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "The Spice House",
-   "product": "Amchoor Powder",
-   "url": "https://www.thespicehouse.com/products/amchoor-powder",
-   "epc": 0.21,
-   "rate": null,
-   "price": "$9.79",
-   "verified": true
-  }
+  "auto": true
  },
  "ancho-chile-pepper-powder-ground": {
   "status": "approved",
   "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "The Spice House",
-   "product": "Chiles, Ancho Ground",
-   "url": "https://www.thespicehouse.com/products/ancho-style-dark-chile-powder",
-   "epc": 0.21,
-   "rate": null,
-   "price": "$8.29",
-   "verified": true
-  }
+  "auto": true
  },
  "black-sesame": {
   "status": "approved",
   "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "Nuts.com",
-   "product": "Black Sesame Seeds",
-   "url": "https://www.nuts.com/products/black-sesame-seeds",
-   "epc": 0.38,
-   "rate": null,
-   "price": "$3.49",
-   "verified": true
-  }
+  "auto": true
  },
  "brown-or-green-lentils": {
   "status": "approved",
   "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "Nuts.com",
-   "product": "Organic Green Lentils",
-   "url": "https://www.nuts.com/products/organic-green-lentils",
-   "epc": 0.38,
-   "rate": null,
-   "price": "$5.49",
-   "verified": true
-  }
+  "auto": true
  },
  "caballo-de-oros-rey-de-la-vera-sweet-smoked": {
   "status": "approved",
   "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "Savory Spice Shop, LLC",
-   "product": "Smoked Spanish Sweet Paprika",
-   "url": "https://www.savoryspiceshop.com/products/smoked-spanish-sweet-paprika",
-   "epc": 0.33,
-   "rate": null,
-   "price": "$11.50",
-   "verified": true
-  }
+  "auto": true
  },
  "coriander-seeds": {
   "status": "approved",
   "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "Savory Spice Shop, LLC",
-   "product": "Coriander Seeds",
-   "url": "https://www.savoryspiceshop.com/products/coriander-seeds",
-   "epc": 0.33,
-   "rate": null,
-   "price": "5.20",
-   "verified": true
-  }
+  "auto": true
  },
  "currants": {
   "status": "approved",
   "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "Nuts.com",
-   "product": "Currants",
-   "url": "https://www.nuts.com/products/currants",
-   "epc": 0.38,
-   "rate": null,
-   "price": "6.99",
-   "verified": true
-  }
+  "auto": true
  },
  "double-concentrated-tomato-paste": {
   "status": "approved",
   "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "ChefShop.com",
-   "product": "Mutti Tomato Paste in Tube",
-   "url": "https://www.chefshop.com/products/tomato-paste-in-tube",
-   "epc": null,
-   "rate": null,
-   "price": "$5.95",
-   "verified": true
-  }
+  "auto": true
  },
  "dried-aji-amarillo-pepper-2-oz": {
   "status": "approved",
   "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "ChefShop.com",
-   "product": "Zocalo Organic Peruvian Aji Amarillo Chili Pods",
-   "url": "https://www.chefshop.com/products/zocalo-organic-peruvian-aji-amarillo-chili-pods",
-   "epc": null,
-   "rate": null,
-   "price": "$6.95",
-   "verified": true
-  }
+  "auto": true
  },
  "dried-oregano": {
   "status": "approved",
   "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "Savory Spice Shop, LLC",
-   "product": "Greek Oregano",
-   "url": "https://www.savoryspiceshop.com/products/mediterranean-greek-oregano",
-   "epc": 0.33,
-   "rate": null,
-   "price": "$3.25",
-   "verified": true
-  }
+  "auto": true
  },
  "dried-pasilla-chile-peppers": {
   "status": "approved",
   "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "ChefShop.com",
-   "product": "Dried Pasilla Negro Chili Pods",
-   "url": "https://www.chefshop.com/products/dried-pasilla-negro-chili-pods",
-   "epc": null,
-   "rate": null,
-   "price": "$7.95",
-   "verified": true
-  }
+  "auto": true
  },
  "dry-harissa-mix": {
   "status": "approved",
   "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "Savory Spice Shop, LLC",
-   "product": "Harissa Spice Mix",
-   "url": "https://www.savoryspiceshop.com/products/harissa-spice-mix-powder",
-   "epc": 0.33,
-   "rate": null,
-   "price": "$10.50",
-   "verified": true
-  }
+  "auto": true
  },
  "dukkah": {
   "status": "approved",
   "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "ChefShop.com",
-   "product": "Villa Jerada Egyptian Dukkah Spice Blend",
-   "url": "https://www.chefshop.com/products/villa-jerada-egyptian-dukkah-spice-blend",
-   "epc": null,
-   "rate": null,
-   "price": "$8.95",
-   "verified": true
-  }
+  "auto": true
  },
  "dukkah-2": {
   "status": "approved",
   "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "ChefShop.com",
-   "product": "Villa Jerada Egyptian Dukkah Spice Blend",
-   "url": "https://www.chefshop.com/products/villa-jerada-egyptian-dukkah-spice-blend",
-   "epc": null,
-   "rate": null,
-   "price": "$8.95",
-   "verified": true
-  }
+  "auto": true
  },
  "dulce-de-leche": {
   "status": "approved",
   "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "ChefShop.com",
-   "product": "San Ignacio Dulce de Leche",
-   "url": "https://www.chefshop.com/products/san-ignacio-dulce-de-leche",
-   "epc": null,
-   "rate": null,
-   "price": "$13.95",
-   "verified": true
-  }
+  "auto": true
  },
  "el-mexicano-achiote-paste-3-5-oz": {
   "status": "approved",
   "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "Savory Spice Shop, LLC",
-   "product": "Achiote Paste",
-   "url": "https://www.savoryspiceshop.com/products/achiote-paste",
-   "epc": 0.33,
-   "rate": null,
-   "price": "$4.99",
-   "verified": true
-  }
+  "auto": true
  },
  "berbere-4-0-oz-by-zamouri-spices": {
   "status": "approved",
   "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "The Spice House",
-   "product": "Berbere, Ethiopian Spice Blend",
-   "url": "https://www.thespicehouse.com/products/berbere",
-   "epc": 0.21,
-   "rate": 15,
-   "price": null,
-   "verified": true
-  }
+  "auto": true
  },
  "black-beluga-lentils": {
   "status": "approved",
   "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "Nuts.com",
-   "product": "Organic Black Lentils",
-   "url": "https://nuts.com/cookingbaking/beans/lentils/black-lentil.html",
-   "epc": 0.38,
-   "rate": 20,
-   "price": null,
-   "verified": true
-  }
+  "auto": true
  },
  "cannellini": {
   "status": "approved",
   "choice": 0,
-  "auto": true,
+  "auto": true
+ },
+ "instant-read-thermometer": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true
+ },
+ "lodge-5-quart-cast-iron-dutch-oven": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true
+ },
+ "saba-syrupy-grape-must": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true
+ },
+ "calcium-chloride": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true
+ },
+ "capellini": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true
+ },
+ "caraway-seeds-2": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true
+ },
+ "chaat-masala": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true
+ },
+ "flaky-sea-salt": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true
+ },
+ "hawaiian-red-salt": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true
+ },
+ "herbes-de-provence": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true
+ },
+ "high-quality-cocoa-powder": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true
+ },
+ "high-quality-spaghetti-noodles": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true
+ },
+ "jasmine-rice": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true
+ },
+ "kosher-salt": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true
+ },
+ "la-chinata-sweet-smoked-paprika-powder-70g": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true
+ },
+ "freekeh": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true
+ },
+ "freeze-dried-corn": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true
+ },
+ "freeze-dried-raspberries": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true
+ },
+ "fresh-marjoram": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true
+ },
+ "ground-cinnamon": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true
+ },
+ "ground-coriander": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true
+ },
+ "ground-cumin": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true
+ },
+ "ground-turmeric": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true
+ },
+ "microplane-classic-zester-grater": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true
+ },
+ "oxo-good-grips": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true
+ },
+ "sriracha-sauce": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true
+ },
+ "bob-s-red-mill": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true
+ },
+ "kitchenaid-mixer": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true
+ },
+ "potato-masher": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true
+ },
+ "mexican-everyday": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true
+ },
+ "culinary-artistry": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true
+ },
+ "what-to-drink-with-what-you-eat": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true
+ },
+ "bill-buford": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true
+ },
+ "crackers-dips-more-than-50-handmade-snacks": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true
+ },
+ "doughnuts-simple-and-delicious-recipes-to-make": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true
+ },
+ "andrea-nguyen-s-book-asian-tofu": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true
+ },
+ "bourbon-smoked-paprika": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "Savory Spice Shop",
+   "product": "Smoked Spanish Sweet Paprika",
+   "url": "https://www.savoryspiceshop.com/products/smoked-spanish-sweet-paprika",
+   "epc": 0.33,
+   "rate": 15,
+   "price": null,
+   "verified": true
+  }
+ },
+ "calabro-whole-milk-ricotta-32-oz": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "Thrive Market",
+   "product": "BelGioioso Whole Milk Ricotta",
+   "url": "https://thrivemarket.com/p/belgioioso-ricotta-con-latte-whole-milk",
+   "epc": 0.06,
+   "rate": 45,
+   "price": null,
+   "verified": true
+  }
+ },
+ "dried-tarragon": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "Savory Spice Shop",
+   "product": "French Dried Tarragon",
+   "url": "https://www.savoryspiceshop.com/products/french-tarragon",
+   "epc": 0.33,
+   "rate": 15,
+   "price": "$6.95",
+   "verified": false
+  }
+ },
+ "fresh-chevre": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "Murray's Cheese",
+   "product": "Vermont Creamery Small Goat Log",
+   "url": "https://murrayscheese.com/goat-plain-log-small",
+   "epc": 0.06,
+   "rate": 6,
+   "price": null,
+   "verified": false
+  }
+ },
+ "fresh-pappardelle-noodles": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "ChefShop.com",
+   "product": "Marilungo Campofilone Pappardelle Egg Pasta",
+   "url": "https://chefshop.com/Marilungo-Campofilone-Pappardelle-Egg-Pasta-P9945.aspx",
+   "epc": null,
+   "rate": 7,
+   "price": null,
+   "verified": true
+  }
+ },
+ "halvah": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "Goldbelly",
+   "product": "Halvah - Marble by Russ & Daughters",
+   "url": "https://russanddaughters.goldbelly.com/18845-halvah-marble",
+   "epc": 0.03,
+   "rate": 1,
+   "price": null,
+   "verified": false,
+   "broken": true
+  }
+ },
+ "here-on-amazon": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "iHerb.com",
+   "product": "NOW Foods Agar Powder, 5 oz",
+   "url": "https://www.iherb.com/pr/now-foods-agar-powder-5-oz-142-g/77859",
+   "epc": 0.13,
+   "rate": 15,
+   "price": "$17.00",
+   "verified": false
+  }
+ },
+ "hickory-or-mesquite-wood-chips": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "BBQGuys",
+   "product": "Western Hickory BBQ Smoking Chips (180 cu. in.)",
+   "url": "https://www.bbqguys.com/i/2869752/western/hickory-bbq-smoking-chips-180-cu-in",
+   "epc": 0.85,
+   "rate": 8,
+   "price": "$14.99",
+   "verified": false
+  }
+ },
+ "kalamata": {
+  "status": "approved",
+  "choice": 0,
   "chosen": {
    "merchant": "Nuts.com",
-   "product": "Organic Cannellini Beans",
-   "url": "https://nuts.com/cookingbaking/beans/greatnortherncannellini/cannellini.html",
+   "product": "Kalamata Olives (250 g)",
+   "url": "https://nuts.com/snacks/olives/kalamata.html",
+   "epc": 0.38,
+   "rate": 20,
+   "price": "$5.99",
+   "verified": false,
+   "broken": true
+  }
+ },
+ "kimchi": {
+  "comment": "not vegan, doesn't work",
+  "status": "rejected",
+  "choice": 0,
+  "chosen": {
+   "merchant": "SayWeee.com",
+   "product": "Mommy Original Sliced Napa Cabbage Kimchi 32 oz",
+   "url": "https://www.sayweee.com/en/product/Mommy-Original-Sliced-Napa-Cabbage-Kimchi/106184",
+   "epc": null,
+   "rate": 10,
+   "price": null,
+   "verified": true
+  },
+  "auto": false
+ },
+ "kitchen-scale-that-works-in-grams": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "Etekcity",
+   "product": "Etekcity EK3551 Digital Kitchen Scale",
+   "url": "https://etekcity.com/products/digital-kitchen-scale-ek3551",
+   "epc": 0.02,
+   "rate": 10,
+   "price": null,
+   "verified": true
+  }
+ },
+ "kitchen-shears": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "OXO",
+   "product": "Good Grips Kitchen & Herb Scissors",
+   "url": "https://www.oxo.com/kitchen-and-herb-scissors-361.html",
+   "epc": 0.04,
+   "rate": 15,
+   "price": "$21.99",
+   "verified": false
+  }
+ },
+ "kombu-seaweed": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "SayWeee.com",
+   "product": "Dried Seaweed (Dashi Konbu) 100g",
+   "url": "https://www.sayweee.com/en/product/Dried-Seaweed-Dashi-Konbu/2017560",
+   "epc": null,
+   "rate": 10,
+   "price": "$3.99",
+   "verified": true
+  }
+ },
+ "korean-sweet-potato-starch-noodles": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "SayWeee.com",
+   "product": "Korean sweet potato starch noodles (dangmyeon)",
+   "url": "https://www.sayweee.com/en/grocery-near-me/lang-en/explore/korean-sweet-potato-noodle",
+   "epc": null,
+   "rate": 10,
+   "price": null,
+   "verified": true
+  }
+ },
+ "kuhn-rikon-peelers": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "OXO",
+   "product": "Good Grips Y-Peeler",
+   "url": "https://www.oxo.com/y-peeler.html",
+   "epc": 0.04,
+   "rate": 15,
+   "price": "$13.99",
+   "verified": false
+  }
+ },
+ "large-skillet-or-wok": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "Made In Cookware",
+   "product": "Carbon Steel Wok, 13 inch",
+   "url": "https://madeincookware.com/products/carbon-steel-wok/13-inch",
+   "epc": 0.37,
+   "rate": 10,
+   "price": "$119.99",
+   "verified": true
+  }
+ },
+ "mangoes-curry-leaves-culinary-travels-through": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "Barnes & Noble",
+   "product": "Mangoes & Curry Leaves: Culinary Travels Through the Great Subcontinent",
+   "url": "https://www.barnesandnoble.com/w/mangoes-curry-leaves-jeffrey-alford/1111373604",
+   "epc": 0.01,
+   "rate": 5.15,
+   "price": "$17.99",
+   "verified": true
+  }
+ },
+ "medaglia-d-oro-instant-espresso-coffee-2-oz": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "King Arthur Baking",
+   "product": "Espresso Powder",
+   "url": "https://www.kingarthurbaking.com/node/8421",
+   "epc": 0.08,
+   "rate": 5,
+   "price": "$9.95",
+   "verified": true
+  }
+ },
+ "parchment": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "King Arthur Baking",
+   "product": "Half-Sheet Baking Parchment Paper",
+   "url": "https://shop.kingarthurbaking.com/items/half-sheet-baking-parchment-paper",
+   "epc": 0.08,
+   "rate": 5,
+   "price": null,
+   "verified": true
+  }
+ },
+ "paring-knife": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "Misen",
+   "product": "3.5\" Paring Knife (ACUTO440)",
+   "url": "https://www.misen.com/products/paring-knife-acuto-black",
+   "epc": 0.67,
+   "rate": 10,
+   "price": "$59.00",
+   "verified": true
+  }
+ },
+ "pastry-bag": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "King Arthur Baking",
+   "product": "Pastry Bags and Tips Set",
+   "url": "https://shop.kingarthurbaking.com/items/pastry-bags-and-tips-set",
+   "epc": 0.08,
+   "rate": 5,
+   "price": null,
+   "verified": true
+  }
+ },
+ "pine-nuts": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "Nuts.com",
+   "product": "Mediterranean Pine Nuts (Pignolias)",
+   "url": "https://nuts.com/nuts/pinenuts/mediterranean.html",
+   "epc": 0.38,
+   "rate": 20,
+   "price": "$46.49 / 8 oz",
+   "verified": true
+  }
+ },
+ "rye-flour": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "Nuts.com",
+   "product": "Organic Dark Rye Flour",
+   "url": "https://nuts.com/cookingbaking/grains/rye/flour.html",
    "epc": 0.38,
    "rate": 20,
    "price": null,
    "verified": true
   }
  },
- "instant-read-thermometer": {
+ "sadaf-natural-rose-water": {
   "status": "approved",
   "choice": 0,
-  "auto": true,
   "chosen": {
-   "merchant": "ThermoWorks",
-   "product": "Thermapen ONE",
-   "url": "https://www.thermoworks.com/products/thermapen-one",
-   "epc": 0.31,
-   "rate": 10,
-   "price": "$74.00",
-   "verified": true
-  }
- },
- "lodge-5-quart-cast-iron-dutch-oven": {
-  "status": "approved",
-  "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "Lodge Cast Iron",
-   "product": "5 Quart Cast Iron Dutch Oven With Bail Handle",
-   "url": "https://www.lodgecastiron.com/products/dutch-oven-with-bail",
-   "epc": 0.02,
-   "rate": 3.0,
-   "price": "$69.95",
-   "verified": true
-  }
- },
- "saba-syrupy-grape-must": {
-  "status": "approved",
-  "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "ChefShop.com",
-   "product": "San Giacomo Saba 750ml",
-   "url": "https://chefshop.com/San-Giacomo-Saba-750ml-P7473.aspx",
-   "epc": null,
-   "rate": 7.0,
-   "price": null,
-   "verified": true
-  }
- },
- "calcium-chloride": {
-  "status": "approved",
-  "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "ChefShop.com",
-   "product": "Calcium Chloride - 50 grams",
-   "url": "https://www.chefshop.com/products/calcium-chloride-50-grams",
-   "epc": null,
-   "rate": null,
-   "price": "$6.55",
-   "verified": true
-  }
- },
- "capellini": {
-  "status": "approved",
-  "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "ChefShop.com",
-   "product": "Rustichella Capellini Pasta",
-   "url": "https://www.chefshop.com/products/rustichella-capellini-pasta",
-   "epc": null,
-   "rate": null,
-   "price": "$9.95",
-   "verified": true
-  }
- },
- "caraway-seeds-2": {
-  "status": "approved",
-  "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "Savory Spice Shop, LLC",
-   "product": "Dutch Caraway Seeds",
-   "url": "https://www.savoryspiceshop.com/products/dutch-caraway-seeds",
+   "merchant": "Savory Spice Shop",
+   "product": "Rose Water",
+   "url": "https://www.savoryspiceshop.com/extracts/rose-water",
    "epc": 0.33,
-   "rate": null,
-   "price": "$5.20",
-   "verified": true
+   "rate": 15,
+   "price": "$4.50",
+   "verified": false
   }
  },
- "chaat-masala": {
+ "starfrit-salad-spinner": {
   "status": "approved",
   "choice": 0,
-  "auto": true,
   "chosen": {
-   "merchant": "ChefShop.com",
-   "product": "Kitchen Imp Chaat Masala (Indian Spice Blend)",
-   "url": "https://www.chefshop.com/products/kitchen-imp-chaat-masala-spice-blend",
-   "epc": null,
-   "rate": null,
-   "price": "$14.95",
-   "verified": true
+   "merchant": "OXO",
+   "product": "Good Grips Salad Spinner",
+   "url": "https://www.oxo.com/salad-spinner.html",
+   "epc": 0.04,
+   "rate": 15,
+   "price": "$32.99",
+   "verified": false
   }
  },
- "flaky-sea-salt": {
+ "thai-pure-palm-sugar": {
   "status": "approved",
   "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "Savory Spice Shop, LLC",
-   "product": "Maldon Sea Salt",
-   "url": "https://www.savoryspiceshop.com/products/maldon-sea-salt",
-   "epc": 0.33,
-   "rate": null,
-   "price": "$10.99",
-   "verified": true
-  }
- },
- "hawaiian-red-salt": {
-  "status": "approved",
-  "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "Savory Spice Shop, LLC",
-   "product": "Hawaiian Red Gold Sea Salt",
-   "url": "https://www.savoryspiceshop.com/products/hawaiian-red-gold-sea-salt",
-   "epc": 0.33,
-   "rate": null,
-   "price": "$10.50",
-   "verified": true
-  }
- },
- "herbes-de-provence": {
-  "status": "approved",
-  "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "Savory Spice Shop, LLC",
-   "product": "Herbes de Provence",
-   "url": "https://www.savoryspiceshop.com/products/herbes-de-provence",
-   "epc": 0.33,
-   "rate": null,
-   "price": "$9.50",
-   "verified": true
-  }
- },
- "high-quality-cocoa-powder": {
-  "status": "approved",
-  "choice": 0,
-  "auto": true,
   "chosen": {
    "merchant": "Nuts.com",
-   "product": "Premium Dutch Cocoa Powder",
-   "url": "https://www.nuts.com/products/premium-dutch-cocoa-powder",
+   "product": "Organic Coconut (Palm) Sugar",
+   "url": "https://www.nuts.com/products/organic-coconut-palm-sugar",
    "epc": 0.38,
-   "rate": null,
-   "price": "$18.99",
-   "verified": true
-  }
- },
- "high-quality-spaghetti-noodles": {
-  "status": "approved",
-  "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "ChefShop.com",
-   "product": "Spaghetti #5 (Sgambaro) Pasta",
-   "url": "https://www.chefshop.com/products/spaghetti-5-sgambaro-pasta",
-   "epc": null,
-   "rate": null,
-   "price": "$8.55",
-   "verified": true
-  }
- },
- "jasmine-rice": {
-  "status": "approved",
-  "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "Nuts.com",
-   "product": "Thai Jasmine Rice",
-   "url": "https://www.nuts.com/products/thai-jasmine-rice",
-   "epc": 0.38,
-   "rate": null,
-   "price": "$5.49",
-   "verified": true
-  }
- },
- "kosher-salt": {
-  "status": "approved",
-  "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "Savory Spice Shop, LLC",
-   "product": "Kosher Salt",
-   "url": "https://www.savoryspiceshop.com/products/kosher-salt",
-   "epc": 0.33,
-   "rate": null,
-   "price": "$6.99",
-   "verified": true
-  }
- },
- "la-chinata-sweet-smoked-paprika-powder-70g": {
-  "status": "approved",
-  "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "Savory Spice Shop, LLC",
-   "product": "Smoked Spanish Sweet Paprika",
-   "url": "https://www.savoryspiceshop.com/products/smoked-spanish-sweet-paprika",
-   "epc": 0.33,
-   "rate": null,
-   "price": "$11.50",
-   "verified": true
-  }
- },
- "freekeh": {
-  "status": "approved",
-  "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "ChefShop.com",
-   "product": "Whole Grain Freekeh",
-   "url": "https://www.chefshop.com/products/whole-grain-freekeh",
-   "epc": null,
-   "rate": null,
-   "price": "$21.95",
-   "verified": true
-  }
- },
- "freeze-dried-corn": {
-  "status": "approved",
-  "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "Nuts.com",
-   "product": "Freeze-Dried Sweet Corn",
-   "url": "https://www.nuts.com/products/freeze-dried-sweet-corn",
-   "epc": 0.38,
-   "rate": null,
-   "price": "$8.99",
-   "verified": true
-  }
- },
- "freeze-dried-raspberries": {
-  "status": "approved",
-  "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "Nuts.com",
-   "product": "Freeze-Dried Raspberries",
-   "url": "https://www.nuts.com/products/freeze-dried-raspberries",
-   "epc": 0.38,
-   "rate": null,
-   "price": "$12.99",
-   "verified": true
-  }
- },
- "fresh-marjoram": {
-  "status": "approved",
-  "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "Savory Spice Shop, LLC",
-   "product": "Marjoram",
-   "url": "https://www.savoryspiceshop.com/products/marjoram",
-   "epc": 0.33,
-   "rate": null,
-   "price": "$3.85",
-   "verified": true
-  }
- },
- "ground-cinnamon": {
-  "status": "approved",
-  "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "Nuts.com",
-   "product": "Ground Cinnamon",
-   "url": "https://www.nuts.com/products/ground-cinnamon",
-   "epc": 0.38,
-   "rate": null,
-   "price": "$10.49",
-   "verified": true
-  }
- },
- "ground-coriander": {
-  "status": "approved",
-  "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "Savory Spice Shop, LLC",
-   "product": "Ground Coriander Seeds",
-   "url": "https://www.savoryspiceshop.com/products/ground-coriander-seeds",
-   "epc": 0.33,
-   "rate": null,
-   "price": "$4.55",
-   "verified": true
-  }
- },
- "ground-cumin": {
-  "status": "approved",
-  "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "Savory Spice Shop, LLC",
-   "product": "Ground Cumin Seeds",
-   "url": "https://www.savoryspiceshop.com/products/ground-cumin-seeds",
-   "epc": 0.33,
-   "rate": null,
-   "price": "$9.50",
-   "verified": true
-  }
- },
- "ground-turmeric": {
-  "status": "approved",
-  "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "Nuts.com",
-   "product": "Organic Turmeric Powder",
-   "url": "https://www.nuts.com/products/organic-turmeric-powder",
-   "epc": 0.38,
-   "rate": null,
+   "rate": 20,
    "price": "$7.49",
    "verified": true
   }
  },
- "microplane-classic-zester-grater": {
+ "the-complete-tassajara-cookbook": {
   "status": "approved",
   "choice": 0,
-  "auto": true,
   "chosen": {
-   "merchant": "Sur La Table",
-   "product": "Microplane Soft-Handle Zester Grater, 12\"",
-   "url": "https://www.surlatable.com/product/microplane-soft-handle-zester-grater-12/9081654",
-   "epc": 0.06,
-   "rate": 9,
-   "price": "$18.95",
+   "merchant": "Barnes & Noble",
+   "product": "The Complete Tassajara Cookbook (paperback)",
+   "url": "https://www.barnesandnoble.com/w/the-complete-tassajara-cookbook-edward-espe-brown/1100643197",
+   "epc": 0.01,
+   "rate": 5.15,
+   "price": null,
    "verified": true
   }
  },
- "oxo-good-grips": {
+ "toasted-pine-nuts": {
   "status": "approved",
   "choice": 0,
-  "auto": true,
   "chosen": {
-   "merchant": "Sur La Table",
-   "product": "OXO Good Grips Salad Spinner 4.0",
-   "url": "https://www.surlatable.com/product/oxo-good-grips-salad-spinner-4-0/3710761",
-   "epc": 0.06,
-   "rate": 9,
-   "price": "$32.95",
+   "merchant": "Nuts.com",
+   "product": "Pine Nuts (Pignolias)",
+   "url": "https://www.nuts.com/products/pine-nuts",
+   "epc": 0.38,
+   "rate": 20,
+   "price": "$22.79",
    "verified": true
   }
  },
- "sriracha-sauce": {
+ "top-chef": {
   "status": "approved",
   "choice": 0,
-  "auto": true,
   "chosen": {
-   "merchant": "SayWeee.com",
-   "product": "Huy Fong Foods Sriracha Hot Chili Sauce 17 oz",
-   "url": "https://www.sayweee.com/en/product/Huy-Fong-Foods-Sriracha-Hot-Chili-Sauce-481g/79895",
-   "epc": null,
-   "rate": 10,
-   "price": "$5.99",
+   "merchant": "Barnes & Noble",
+   "product": "Top Chef: The Cookbook",
+   "url": "https://www.barnesandnoble.com/w/top-chef-top-chef/1141873719",
+   "epc": 0.01,
+   "rate": 5.15,
+   "price": null,
    "verified": true
-  }
- },
- "bob-s-red-mill": {
-  "status": "approved",
-  "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "iHerb.com",
-   "product": "Bob's Red Mill Organic Golden Flaxseed Meal, 16 oz",
-   "url": "https://www.iherb.com/pr/bob-s-red-mill-organic-golden-flaxseed-meal-16-oz-453-g/77011",
-   "epc": 0.13,
-   "rate": 15,
-   "price": null,
-   "verified": true,
-   "verified_by": "browser"
-  }
- },
- "kitchenaid-mixer": {
-  "status": "approved",
-  "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "Kitchenaid US",
-   "product": "Classic Series 4.5 Quart Tilt-Head Stand Mixer, Onyx Black K45SSOB",
-   "url": "https://www.kitchenaid.com/p.K45SSOB.html",
-   "epc": 0.01,
-   "rate": 1,
-   "price": null,
-   "verified": true,
-   "verified_by": "browser"
-  }
- },
- "potato-masher": {
-  "status": "approved",
-  "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "OXO",
-   "product": "Good Grips Wire Potato Masher",
-   "url": "https://www.oxo.com/wire-potato-masher.html",
-   "epc": 0.04,
-   "rate": 15.0,
-   "price": "$16.99",
-   "verified": true,
-   "verified_by": "browser"
-  }
- },
- "mexican-everyday": {
-  "status": "approved",
-  "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "Barnes & Noble",
-   "product": "Mexican Everyday (Rick Bayless), hardcover",
-   "url": "https://www.barnesandnoble.com/w/mexican-everyday-rick-bayless/1100872034?ean=9780393061543",
-   "epc": 0.01,
-   "rate": 5.15,
-   "price": "$29.95",
-   "verified": true,
-   "verified_by": "browser"
-  }
- },
- "culinary-artistry": {
-  "status": "approved",
-  "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "Barnes & Noble",
-   "product": "Culinary Artistry (Dornenburg and Page)",
-   "url": "https://www.barnesandnoble.com/w/culinary-artistry-andrew-dornenburg/1102591823",
-   "epc": 0.01,
-   "rate": 5.15,
-   "price": "$31.95",
-   "verified": true,
-   "verified_by": "browser"
-  }
- },
- "what-to-drink-with-what-you-eat": {
-  "status": "approved",
-  "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "Barnes & Noble",
-   "product": "What to Drink with What You Eat (Dornenburg and Page)",
-   "url": "https://www.barnesandnoble.com/w/what-to-drink-with-what-you-eat-andrew-dornenburg/1012382733?ean=9780821257180",
-   "epc": 0.01,
-   "rate": 5.15,
-   "price": "$45.00",
-   "verified": true,
-   "verified_by": "browser"
-  }
- },
- "bill-buford": {
-  "status": "approved",
-  "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "Barnes & Noble",
-   "product": "Heat (Bill Buford), paperback",
-   "url": "https://www.barnesandnoble.com/w/heat-bill-buford/1100991561?ean=9781400034475",
-   "epc": 0.01,
-   "rate": 5.15,
-   "price": null,
-   "verified": true,
-   "verified_by": "browser"
-  }
- },
- "crackers-dips-more-than-50-handmade-snacks": {
-  "status": "approved",
-  "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "Barnes & Noble",
-   "product": "Crackers & Dips: More than 50 Handmade Snacks (Ivy Manning)",
-   "url": "https://www.barnesandnoble.com/w/crackers-dips-ivy-manning/1114034111",
-   "epc": 0.01,
-   "rate": 5.15,
-   "price": null,
-   "verified": true,
-   "verified_by": "browser"
-  }
- },
- "doughnuts-simple-and-delicious-recipes-to-make": {
-  "status": "approved",
-  "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "Barnes & Noble",
-   "product": "Doughnuts: 90 Simple and Delicious Recipes to Make at Home (Lara Ferroni)",
-   "url": "https://www.barnesandnoble.com/w/doughnuts-lara-ferroni/1127085451",
-   "epc": 0.01,
-   "rate": 5.15,
-   "price": "$19.95",
-   "verified": true,
-   "verified_by": "browser"
-  }
- },
- "andrea-nguyen-s-book-asian-tofu": {
-  "status": "approved",
-  "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "Barnes & Noble",
-   "product": "Asian Tofu (Andrea Nguyen), hardcover",
-   "url": "https://www.barnesandnoble.com/w/asian-tofu-andrea-nguyen/1102839266",
-   "epc": 0.01,
-   "rate": 5.15,
-   "price": "$30.00",
-   "verified": true,
-   "verified_by": "browser"
   }
  }
 }
