@@ -38,7 +38,7 @@ Kim asked me to develop a new recipe that they could use to highlight this wonde
 
 Speaking of the dressing, I made it with a nice extra-virgin olive oil, but it would also be <strong>spectacular</strong> with {{% product id="toasted-walnut-oil" target="_blank" %}}toasted walnut oil{{% /product %}} or {{% product id="roasted-hazelnut-oil" target="_blank" %}}hazelnut oil{{% /product %}}. I would have used one of them myself, but that's a <a href="/2009/02/understanding-deadly-food-allergies-this-post-could-save-a-life/" target="_blank">non-starter in my house</a>. Another nice option would be {{% product id="truffle-oil" target="_blank" %}}truffle oil{{% /product %}}.
 
-<strong>You might be wondering about the name</strong>, "caviar" lentils. They are very similar to the ones you may see marketed as beluga lentils or simply black lentils. Kim and Jim's black lentils will be available in Seattle area stores in a couple of months, and probably from the wonderful <a href="http://chefshop.com?afid=10" target="_blank">ChefShop.com</a> as well. (You can also find another variety of black lentils {{% product id="from-chefshop-on-amazon" target="_blank" %}}from ChefShop on Amazon{{% /product %}}.)
+<strong>You might be wondering about the name</strong>, "caviar" lentils. They are very similar to the ones you may see marketed as beluga lentils or simply black lentils. Kim and Jim's black lentils will be available in Seattle area stores in a couple of months, and probably from the wonderful <a href="http://chefshop.com?afid=10" target="_blank">ChefShop.com</a> as well.
 
 To turn this salad into a light entree, you could add a dollop of <strong>Greek yogurt, a piece of ripe cheese, or a fried egg</strong>.
 

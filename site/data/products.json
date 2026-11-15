@@ -679,20 +679,22 @@
   "bittersweet-chocolate": {
     "name": "Bittersweet Chocolate",
     "category": "sweeteners-chocolate",
-    "url": "https://www.amazon.com/dp/B00GR7F9GA?tag=herb-hugo-20",
+    "url": "https://www.chefshop.com/products/grand-cru-dark-chocolate-arriba-bittersweet-72",
     "original_url": "https://www.amazon.com/dp/B00GR7F9GA?tag=herb-hugo-20",
     "asins": [
       "B00GR7F9GA"
-    ]
+    ],
+    "merchant": "ChefShop.com"
   },
   "bittersweet-chocolate-2": {
     "name": "Bittersweet Chocolate",
     "category": "sweeteners-chocolate",
-    "url": "https://www.amazon.com/dp/B01MY07VS5?tag=herb-hugo-20",
+    "url": "https://www.chefshop.com/products/grand-cru-dark-chocolate-arriba-bittersweet-72",
     "original_url": "https://www.amazon.com/dp/B01MY07VS5?tag=herb-hugo-20",
     "asins": [
       "B01MY07VS5"
-    ]
+    ],
+    "merchant": "ChefShop.com"
   },
   "black-beluga-lentils": {
     "name": "Black &quot;beluga&quot; Lentils",
@@ -728,12 +730,12 @@
   "black-rice": {
     "name": "Black Rice",
     "category": "grains-pasta-legumes",
-    "url": "https://www.iherb.com/pr/lotus-foods-heirloom-forbidden-rice-15-oz-426-g/34194",
+    "url": "https://www.chefshop.com/products/forbidden-black-rice-hei-mey",
     "original_url": "https://www.amazon.com/dp/B01NAGDHZR?tag=herb-hugo-20",
     "asins": [
       "B01NAGDHZR"
     ],
-    "merchant": "iHerb.com"
+    "merchant": "ChefShop.com"
   },
   "black-sesame": {
     "name": "Black Sesame",
@@ -748,11 +750,12 @@
   "black-vinegar": {
     "name": "Black Vinegar",
     "category": "oils-vinegars",
-    "url": "https://www.amazon.com/dp/B0BD3F4XNK?tag=herb-hugo-20",
+    "url": "https://www.chefshop.com/products/taiwanese-black-vinegar",
     "original_url": "https://www.amazon.com/dp/B0BD3F4XNK?tag=herb-hugo-20",
     "asins": [
       "B0BD3F4XNK"
-    ]
+    ],
+    "merchant": "ChefShop.com"
   },
   "blackstrap-molasses": {
     "name": "Blackstrap Molasses",
@@ -957,20 +960,22 @@
   "candied-fruit": {
     "name": "Candied Fruit",
     "category": "pantry-staples",
-    "url": "https://www.amazon.com/dp/B0FXM1W58D?tag=herb-hugo-20",
+    "url": "https://www.chefshop.com/products/french-candied-orange-peel",
     "original_url": "https://www.amazon.com/dp/B0FXM1W58D?tag=herb-hugo-20",
     "asins": [
       "B0FXM1W58D"
-    ]
+    ],
+    "merchant": "ChefShop.com"
   },
   "candied-seville-orange-peel": {
     "name": "Candied Seville Orange Peel",
     "category": "pantry-staples",
-    "url": "https://www.amazon.com/dp/B0199C8W6S?tag=herb-hugo-20",
+    "url": "https://www.chefshop.com/products/french-candied-orange-peel",
     "original_url": "https://www.amazon.com/dp/B0199C8W6S?tag=herb-hugo-20",
     "asins": [
       "B0199C8W6S"
-    ]
+    ],
+    "merchant": "ChefShop.com"
   },
   "candy-deep-fry-thermometer": {
     "name": "Candy/deep Fry Thermometer",
@@ -1036,11 +1041,12 @@
   "cardamom": {
     "name": "Cardamom",
     "category": "spices-seasonings",
-    "url": "https://www.amazon.com/dp/B00AJRKO8M?tag=herb-hugo-20",
+    "url": "https://www.nuts.com/products/cardamom-pods",
     "original_url": "https://www.amazon.com/dp/B00AJRKO8M?tag=herb-hugo-20",
     "asins": [
       "B00AJRKO8M"
-    ]
+    ],
+    "merchant": "Nuts.com"
   },
   "carnaroli": {
     "name": "Carnaroli",
@@ -1055,11 +1061,12 @@
   "carnation-original-malted-milk-powder": {
     "name": "Carnation Original Malted Milk Powder",
     "category": "pantry-staples",
-    "url": "https://www.amazon.com/dp/B01MCZGBCQ?tag=herb-hugo-20",
+    "url": "https://www.nuts.com/products/malted-milk-powder",
     "original_url": "https://www.amazon.com/dp/B01MCZGBCQ?tag=herb-hugo-20",
     "asins": [
       "B01MCZGBCQ"
-    ]
+    ],
+    "merchant": "Nuts.com"
   },
   "cento-san-marzano-tomatoes": {
     "name": "Cento San Marzano Tomatoes",
@@ -1250,11 +1257,12 @@
   "chili-oil": {
     "name": "Chili Oil",
     "category": "asian-pantry",
-    "url": "https://www.amazon.com/dp/B001NI726S?tag=herb-hugo-20",
+    "url": "https://www.chefshop.com/products/wadaman-rayu-chili-sesame-oil",
     "original_url": "https://www.amazon.com/dp/B001NI726S?tag=herb-hugo-20",
     "asins": [
       "B001NI726S"
-    ]
+    ],
+    "merchant": "ChefShop.com"
   },
   "chinese-pickled-mustard-greens": {
     "name": "Chinese Pickled Mustard Greens",
@@ -1289,11 +1297,12 @@
   "chipotles": {
     "name": "Chipotles",
     "category": "mexican-latin-pantry",
-    "url": "https://www.amazon.com/dp/B0014CVT6C?tag=herb-hugo-20",
+    "url": "https://www.savoryspiceshop.com/products/chipotle-chiles-in-adobo-sauce",
     "original_url": "https://www.amazon.com/dp/B0014CVT6C?tag=herb-hugo-20",
     "asins": [
       "B0014CVT6C"
-    ]
+    ],
+    "merchant": "Savory Spice Shop, LLC"
   },
   "circle-cutters": {
     "name": "Circle Cutters",
@@ -1340,12 +1349,13 @@
   },
   "clean-dishtowel": {
     "name": "clean dishtowel",
-    "url": "https://www.amazon.com/dp/B003BS4856?tag=herb-hugo-20",
+    "url": "https://www.chefshop.com/products/torchons-bouchons-tea-towel-dinner-time",
     "original_url": "https://www.amazon.com/dp/B003BS4856?tag=herb-hugo-20",
     "asins": [
       "B003BS4856"
     ],
-    "hidden": true
+    "hidden": true,
+    "merchant": "ChefShop.com"
   },
   "climbing-the-mango-trees": {
     "name": "Climbing the Mango Trees",
@@ -1366,14 +1376,14 @@
   "coconut-milk": {
     "name": "Coconut Milk",
     "category": "pantry-staples",
-    "url": "https://www.weee.com/en/product/Savoy-Coconut-Cream/83471",
+    "url": "https://www.chefshop.com/products/ayam-premium-coconut-cream",
     "original_url": "https://www.amazon.com/dp/B000SRKCGM?tag=herb-hugo-20",
     "asins": [
       "B0000D16YH",
       "B000GG1OTO",
       "B000SRKCGM"
     ],
-    "merchant": "Weee!"
+    "merchant": "ChefShop.com"
   },
   "columela-classic-sherry-vinegar-12-7-fl-oz": {
     "name": "Columela Classic Sherry Vinegar, 12.7 Fl oz",
@@ -1545,11 +1555,12 @@
   "dark-chocolate": {
     "name": "Dark Chocolate",
     "category": "sweeteners-chocolate",
-    "url": "https://www.amazon.com/dp/B01ID73TR2?tag=herb-hugo-20",
+    "url": "https://www.chefshop.com/products/ara-chocolat-74-ocumare-dark-chocolate-bar",
     "original_url": "https://www.amazon.com/dp/B01ID73TR2?tag=herb-hugo-20",
     "asins": [
       "B01ID73TR2"
-    ]
+    ],
+    "merchant": "ChefShop.com"
   },
   "dashi-kombu-dried-kelp-from-hokkaido-japan": {
     "name": "Dashi Kombu Dried Kelp from Hokkaido Japan",
@@ -1564,20 +1575,22 @@
   "date-sugar": {
     "name": "Date Sugar",
     "category": "sweeteners-chocolate",
-    "url": "https://www.amazon.com/dp/B085ZR9GX6?tag=herb-hugo-20",
+    "url": "https://www.nuts.com/products/organic-date-powder",
     "original_url": "https://www.amazon.com/dp/B085ZR9GX6?tag=herb-hugo-20",
     "asins": [
       "B085ZR9GX6"
-    ]
+    ],
+    "merchant": "Nuts.com"
   },
   "de-cecco-orecchiette-no-91-pasta-16-oz": {
     "name": "De Cecco Orecchiette No. 91 Pasta (16 Oz)",
     "category": "grains-pasta-legumes",
-    "url": "https://www.amazon.com/dp/B00060O7H6?tag=herb-hugo-20",
+    "url": "https://www.chefshop.com/products/orecchiette-del-prete-pasta-rustichella-dabruzzo",
     "original_url": "https://www.amazon.com/dp/B00060O7H6?tag=herb-hugo-20",
     "asins": [
       "B00060O7H6"
-    ]
+    ],
+    "merchant": "ChefShop.com"
   },
   "de-la-estancia": {
     "name": "De La Estancia",
@@ -1629,12 +1642,13 @@
   },
   "dessert-recipe": {
     "name": "dessert recipe",
-    "url": "https://www.amazon.com/dp/1558327983?tag=herb-hugo-20",
+    "url": "https://www.barnesandnoble.com/w/desserts-in-jars-shaina-olmanson/1111013738",
     "original_url": "https://www.amazon.com/dp/1558327983?tag=herb-hugo-20",
     "asins": [
       "1558327983"
     ],
-    "hidden": true
+    "hidden": true,
+    "merchant": "Barnes & Noble"
   },
   "diamond-crystal": {
     "name": "Diamond Crystal",
@@ -1645,15 +1659,6 @@
       "B0011BPMUK"
     ],
     "merchant": "The Spice House"
-  },
-  "digital-one": {
-    "name": "Digital One",
-    "category": "kitchen-gadgets",
-    "url": "https://www.amazon.com/dp/B000S1P3XU?tag=herb-hugo-20",
-    "original_url": "https://www.amazon.com/dp/B000S1P3XU?tag=herb-hugo-20",
-    "asins": [
-      "B000S1P3XU"
-    ]
   },
   "dijon-mustard": {
     "name": "Dijon Mustard",
@@ -1738,11 +1743,12 @@
   "dried-chipotle-morita-peppers": {
     "name": "Dried Chipotle Morita Peppers",
     "category": "mexican-latin-pantry",
-    "url": "https://www.amazon.com/dp/B00NF1P470?tag=herb-hugo-20",
+    "url": "https://www.chefshop.com/products/villa-jerada-chile-morita-whole-pods-1-pound",
     "original_url": "https://www.amazon.com/dp/B00NF1P470?tag=herb-hugo-20",
     "asins": [
       "B00NF1P470"
-    ]
+    ],
+    "merchant": "ChefShop.com"
   },
   "dried-kaffir-lime-leaves": {
     "name": "Dried Kaffir Lime Leaves",
@@ -1821,20 +1827,22 @@
   "dry-yeast": {
     "name": "Dry Yeast",
     "category": "bakeware-tools",
-    "url": "https://www.amazon.com/dp/B001EQ5770?tag=herb-hugo-20",
+    "url": "https://www.chefshop.com/products/saf-instant-red-instant-yeast",
     "original_url": "https://www.amazon.com/dp/B001EQ5770?tag=herb-hugo-20",
     "asins": [
       "B001EQ5770"
-    ]
+    ],
+    "merchant": "ChefShop.com"
   },
   "dry-yeast-2": {
     "name": "Dry Yeast",
     "category": "bakeware-tools",
-    "url": "https://www.amazon.com/dp/B09JN4JKL1?tag=herb-hugo-20",
+    "url": "https://www.chefshop.com/products/saf-instant-red-instant-yeast",
     "original_url": "https://www.amazon.com/dp/B09JN4JKL1?tag=herb-hugo-20",
     "asins": [
       "B09JN4JKL1"
-    ]
+    ],
+    "merchant": "ChefShop.com"
   },
   "dukkah": {
     "name": "Dukkah",
@@ -1881,11 +1889,12 @@
   "eden-foods-ume-plum-vinegar-10-fl-oz": {
     "name": "Eden Foods Ume Plum Vinegar, 10 Fl oz",
     "category": "asian-pantry",
-    "url": "https://www.amazon.com/dp/B0013JNMWA?tag=herb-hugo-20",
+    "url": "https://www.chefshop.com/products/ohsawa-ume-vinegar",
     "original_url": "https://www.amazon.com/dp/B0013JNMWA?tag=herb-hugo-20",
     "asins": [
       "B0013JNMWA"
-    ]
+    ],
+    "merchant": "ChefShop.com"
   },
   "eden-umeboshi-paste-pickled-ume-plum-puree": {
     "name": "Eden Umeboshi Paste, Pickled Ume Plum Puree",
@@ -1958,20 +1967,12 @@
   "essentials-of-classic-italian-cooking": {
     "name": "Essentials of Classic Italian Cooking",
     "category": "books",
-    "url": "https://www.amazon.com/dp/039458404X?tag=herb-hugo-20",
+    "url": "https://www.chefshop.com/products/signed-book-only-marcella-hazan-essentials-of-classic-italian-cooking-30th-anniversary-edition",
     "original_url": "https://www.amazon.com/dp/039458404X?tag=herb-hugo-20",
     "asins": [
       "039458404X"
-    ]
-  },
-  "expensive-paraphenalia": {
-    "name": "expensive paraphenalia",
-    "url": "https://www.amazon.com/dp/B0027FXE7C?tag=herb-hugo-20",
-    "original_url": "https://www.amazon.com/dp/B0027FXE7C?tag=herb-hugo-20",
-    "asins": [
-      "B0027FXE7C"
     ],
-    "hidden": true
+    "merchant": "ChefShop.com"
   },
   "extra-virgin-olive-oil": {
     "name": "Extra-Virgin Olive Oil",
@@ -2139,13 +2140,13 @@
   },
   "flour": {
     "name": "flour",
-    "url": "https://www.iherb.com/pr/bob-s-red-mill-teff-flour-whole-grain-gluten-free-20-oz-567-g/103993",
+    "url": "https://www.chefshop.com/products/essential-pantry-brown-teff-flour",
     "original_url": "https://www.amazon.com/dp/B07XKDR6HN?tag=herb-hugo-20",
     "asins": [
       "B07XKDR6HN"
     ],
     "hidden": true,
-    "merchant": "iHerb.com"
+    "merchant": "ChefShop.com"
   },
   "food-dehydrator": {
     "name": "Food Dehydrator",
@@ -2258,12 +2259,12 @@
   "fresh-shiitake-mushroom-caps": {
     "name": "Fresh Shiitake Mushroom Caps",
     "category": "asian-pantry",
-    "url": "https://www.weee.com/en/product/Jayone-Sliced-Dried-Shiitake-Mushroom/87775",
+    "url": "https://www.chefshop.com/products/dried-shiitake-mushroom-donko",
     "original_url": "https://www.amazon.com/dp/B0CK1D8ZGT?tag=herb-hugo-20",
     "asins": [
       "B0CK1D8ZGT"
     ],
-    "merchant": "Weee!"
+    "merchant": "ChefShop.com"
   },
   "fresh-tarragon-leaves": {
     "name": "Fresh Tarragon Leaves",
@@ -2290,15 +2291,6 @@
     "original_url": "https://www.amazon.com/dp/B000LQJDTC?tag=herb-hugo-20",
     "asins": [
       "B000LQJDTC"
-    ],
-    "hidden": true
-  },
-  "from-chefshop-on-amazon": {
-    "name": "from ChefShop on Amazon",
-    "url": "https://www.amazon.com/dp/B0013TMTZQ?tag=herb-hugo-20",
-    "original_url": "https://www.amazon.com/dp/B0013TMTZQ?tag=herb-hugo-20",
-    "asins": [
-      "B0013TMTZQ"
     ],
     "hidden": true
   },
@@ -2562,11 +2554,12 @@
   "halvah": {
     "name": "Halvah",
     "category": "sweeteners-chocolate",
-    "url": "https://www.amazon.com/dp/B005UO7H6Q?tag=herb-hugo-20",
+    "url": "https://russanddaughters.goldbelly.com/18845-halvah-marble",
     "original_url": "https://www.amazon.com/dp/B005UO7H6Q?tag=herb-hugo-20",
     "asins": [
       "B005UO7H6Q"
-    ]
+    ],
+    "merchant": "Goldbelly"
   },
   "hand-cranked-cavatelli-maker": {
     "name": "Hand-Cranked Cavatelli Maker",
@@ -3017,12 +3010,13 @@
   "kalamata": {
     "name": "Kalamata",
     "category": "condiments-sauces",
-    "url": "https://www.amazon.com/dp/B074H7L7F1?tag=herb-hugo-20",
+    "url": "https://nuts.com/snacks/olives/kalamata.html",
     "original_url": "https://www.amazon.com/dp/B074H7L7F1?tag=herb-hugo-20",
     "asins": [
       "B00CJ5QQ6Q",
       "B074H7L7F1"
-    ]
+    ],
+    "merchant": "Nuts.com"
   },
   "karen-and-andrew": {
     "name": "Karen and Andrew",
@@ -3653,11 +3647,12 @@
   "mission-street-food-recipes-and-ideas-from-an": {
     "name": "Mission Street Food: Recipes and Ideas from an Improbable Restaurant",
     "category": "books",
-    "url": "https://www.amazon.com/dp/1936365154?tag=herb-hugo-20",
+    "url": "https://www.barnesandnoble.com/w/mission-street-food-anthony-myint/1110796044",
     "original_url": "https://www.amazon.com/dp/1936365154?tag=herb-hugo-20",
     "asins": [
       "1936365154"
-    ]
+    ],
+    "merchant": "Barnes & Noble"
   },
   "miu-france-stainless-steel-magnetic-knife-holder": {
     "name": "MIU France Stainless Steel Magnetic Knife Holder",
@@ -5705,11 +5700,12 @@
   "tortilla-press": {
     "name": "Tortilla Press",
     "category": "kitchen-gadgets",
-    "url": "https://www.amazon.com/dp/B0000CF4N9?tag=herb-hugo-20",
+    "url": "https://www.surlatable.com/product/cast-iron-tortilla-press-8/2921047",
     "original_url": "https://www.amazon.com/dp/B0000CF4N9?tag=herb-hugo-20",
     "asins": [
       "B0000CF4N9"
-    ]
+    ],
+    "merchant": "Sur La Table"
   },
   "tortilla-press-2": {
     "name": "Tortilla Press",
@@ -5916,6 +5912,16 @@
     ],
     "merchant": "Vitamix"
   },
+  "vitamix-blenders": {
+    "name": "Vitamix blenders",
+    "url": "https://www.vitamix.com/us/en_us/shop/blenders",
+    "original_url": "https://www.amazon.com/dp/B00WDYGNIG?tag=herb-hugo-20",
+    "asins": [
+      "B00WDYGNIG"
+    ],
+    "merchant": "Vitamix",
+    "hidden": true
+  },
   "w-sthof-classic-3-5-paring-knife": {
     "name": "W\u00fcsthof Classic 3.5\" Paring Knife",
     "category": "knives-sharpening",
@@ -6098,15 +6104,6 @@
     ],
     "review_url": "/entry-avocado-grapefruit-mango-yuzu-cilantro/",
     "merchant": "ChefShop.com"
-  },
-  "you-can-jump-right-over-to-amazon-and-get-it": {
-    "name": "you can jump right over to Amazon and get it",
-    "url": "https://www.amazon.com/dp/B00WDYGNIG?tag=herb-hugo-20",
-    "original_url": "https://www.amazon.com/dp/B00WDYGNIG?tag=herb-hugo-20",
-    "asins": [
-      "B00WDYGNIG"
-    ],
-    "hidden": true
   },
   "yuquan-sichuan-zha-cai-preserved-vegetable": {
     "name": "Yuquan Sichuan Zha Cai Preserved Vegetable",

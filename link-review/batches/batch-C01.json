@@ -1541,7 +1541,7 @@
   "id": "dessert-express",
   "name": "Dessert Express",
   "status": "no_match",
-  "reason": "not found at Barnes & Noble by ISBN",
+  "reason": "No Barnes & Noble page found for Dessert Express in search",
   "needs_web": false,
   "amazon": {
    "asins": [
@@ -1559,9 +1559,9 @@
  {
   "id": "dessert-recipe",
   "name": "dessert recipe",
-  "status": "no_match",
-  "reason": "not found at Barnes & Noble by ISBN",
-  "needs_web": false,
+  "status": "match",
+  "kind": "book",
+  "confidence": "high",
   "amazon": {
    "asins": [
     "1558327983"
@@ -1573,13 +1573,25 @@
    "links": 1,
    "posts": 1,
    "example_post": "how-to-make-an-inside-out-egg-recipe"
-  }
+  },
+  "primary": {
+   "merchant": "Barnes & Noble",
+   "product": "Desserts in Jars: 50 Sweet Treats that Shine",
+   "url": "https://www.barnesandnoble.com/w/desserts-in-jars-shaina-olmanson/1111013738",
+   "epc": 0.01,
+   "rate": 5.15,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser search page"
+  },
+  "alternatives": [],
+  "note": "Same title (Shaina Olmanson, Desserts in Jars: 50 Sweet Treats that Shine) as the Amazon book."
  },
  {
   "id": "feeding-the-hungry-ghost",
   "name": "Feeding the Hungry Ghost",
   "status": "no_match",
-  "reason": "not found at Barnes & Noble by ISBN",
+  "reason": "No Barnes & Noble page found in search",
   "needs_web": false,
   "amazon": {
    "asins": [
@@ -1833,9 +1845,9 @@
  {
   "id": "my-mexico",
   "name": "My Mexico",
-  "status": "no_match",
-  "reason": "not found at Barnes & Noble by ISBN",
-  "needs_web": false,
+  "status": "match",
+  "kind": "book",
+  "confidence": "medium",
   "amazon": {
    "asins": [
     "0609602470"
@@ -1847,7 +1859,19 @@
    "links": 1,
    "posts": 1,
    "example_post": "bocoles-masa-and-black-bean-cakes-with-spicy-yams-recipe"
-  }
+  },
+  "primary": {
+   "merchant": "Barnes & Noble",
+   "product": "My Mexico: A Culinary Odyssey with Recipes",
+   "url": "https://www.barnesandnoble.com/w/my-mexico-diana-kennedy/1115226228",
+   "epc": 0.01,
+   "rate": 5.15,
+   "price": "$17.99",
+   "verified": true,
+   "verified_by": "browser search page"
+  },
+  "alternatives": [],
+  "note": "Same book (Diana Kennedy), but the page I verified lists the eBook/reissue edition first, not necessarily the original print edition Amazon linked."
  },
  {
   "id": "newlywed-kitchen-delicious-meals-for-couples",
@@ -2155,9 +2179,9 @@
  {
   "id": "flat-stanleyish",
   "name": "flat-stanleyish",
-  "status": "no_match",
-  "reason": "not found at Barnes & Noble by ISBN",
-  "needs_web": false,
+  "status": "match",
+  "kind": "book",
+  "confidence": "medium",
   "amazon": {
    "asins": [
     "0060837764"
@@ -2169,7 +2193,19 @@
    "links": 1,
    "posts": 1,
    "example_post": "buckwheat-buttermilk-pancakes-recipe"
-  }
+  },
+  "primary": {
+   "merchant": "Barnes & Noble",
+   "product": "The Flat Stanley Collection (Flat Stanley Series)",
+   "url": "https://www.barnesandnoble.com/w/the-flat-stanley-collection-jeff-brown/1100661397",
+   "epc": 0.01,
+   "rate": 5.15,
+   "price": "$27.96",
+   "verified": true,
+   "verified_by": "browser search page"
+  },
+  "alternatives": [],
+  "note": "Barnes & Noble lists the Flat Stanley Collection, a 4-paperback box set by Jeff Brown; it may be a different printing than the Amazon box set."
  },
  {
   "id": "food-wine",
@@ -2767,5 +2803,149 @@
    "posts": 1,
    "example_post": "recipe-sabich"
   }
+ },
+ {
+  "id": "best-food-writing-2007-by-holly-hughes",
+  "name": "Best Food Writing 2007 by Holly Hughes",
+  "status": "no_match",
+  "reason": "Best Food Writing 2007 not listed at Barnes & Noble (only 2016/2017 editions found)",
+  "needs_web": false,
+  "amazon": {
+   "asins": [
+    "1600940390"
+   ],
+   "title": "Best Food Writing 2007: Hughes, Holly: 9781600940392: Amazon.com: Books",
+   "anchors": [
+    "buy this year's",
+    "new edition"
+   ],
+   "links": 2,
+   "posts": 1,
+   "example_post": "book-review-bes"
+  }
+ },
+ {
+  "id": "mission-street-food-recipes-and-ideas-from-an",
+  "name": "Mission Street Food: Recipes and Ideas from an Improbable Restaurant",
+  "status": "match",
+  "kind": "book",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "1936365154"
+   ],
+   "title": "Mission Street Food: Recipes and Ideas from an Improbable Restaurant: Myint, Anthony, Leibowitz, Karen: 9781936365159: Amazon.com: Books",
+   "anchors": [
+    "Mission Street Food: Recipes and Ideas from an Improbable Restaurant"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "mission-chinese-style-tofu-with-radish-and-shiso-recipe"
+  },
+  "primary": {
+   "merchant": "Barnes & Noble",
+   "product": "Mission Street Food: Recipes and Ideas from an Improbable Restaurant",
+   "url": "https://www.barnesandnoble.com/w/mission-street-food-anthony-myint/1110796044",
+   "epc": 0.01,
+   "rate": 5.15,
+   "price": "$44.32",
+   "verified": true,
+   "verified_by": "browser search page"
+  },
+  "alternatives": [],
+  "note": "Same title (Anthony Myint), hardcover at Barnes & Noble."
+ },
+ {
+  "id": "tortilla-press",
+  "name": "Tortilla Press",
+  "status": "match",
+  "kind": "same",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B0000CF4N9"
+   ],
+   "title": "Tortilla Press",
+   "anchors": [
+    "tortilla press"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "pupusas-de-queso-salvadoran-cheese-filled-tortillas-recipe"
+  },
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "Cast Iron Tortilla Press, 8\"",
+   "url": "https://www.surlatable.com/product/cast-iron-tortilla-press-8/2921047",
+   "epc": 0.06,
+   "rate": 9,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser search page"
+  },
+  "alternatives": [],
+  "note": "Cast iron tortilla press; same kind of tool (the Amazon page no longer exists)."
+ },
+ {
+  "id": "polyscience-smoking-gun",
+  "name": "Polyscience Smoking Gun",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B0082DNCHU"
+   ],
+   "title": "Polyscience Smoking Gun",
+   "anchors": [
+    "Polyscience smoking gun"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "smoked-tofu-buns-recipe"
+  },
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "The Smoking Gun by Breville",
+   "url": "https://www.surlatable.com/product/the-smoking-gun-by-breville/3217601",
+   "epc": 0.06,
+   "rate": 9,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser search page"
+  },
+  "alternatives": [],
+  "note": "A handheld smoking gun of the same kind; Breville rather than PolyScience (the Amazon page no longer exists)."
+ },
+ {
+  "id": "indian-lime-pickle",
+  "name": "Indian Lime Pickle",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B000JSSOCY"
+   ],
+   "title": "Indian Lime Pickle",
+   "anchors": [
+    "Indian lime pickle"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "ginger-and-black-pepper-rice-pilafrecipe"
+  },
+  "primary": {
+   "merchant": "Weee!",
+   "product": "Patak's Hot Lime Pickle 10 oz",
+   "url": "https://www.weee.com/en/product/PatakS-Hot-Lime-Pickle/2977438",
+   "epc": null,
+   "rate": null,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser search page"
+  },
+  "alternatives": [],
+  "note": "A standard Indian lime pickle; the exact original brand is unknown because the Amazon page is gone."
  }
 ]

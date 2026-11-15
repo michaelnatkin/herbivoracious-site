@@ -2092,8 +2092,18 @@
   }
  },
  "sadaf-natural-rose-water": {
-  "status": "rejected",
-  "comment": "no culinary rose water in the network; stays on Amazon"
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "Savory Spice Shop",
+   "product": "Rose Water",
+   "url": "https://www.savoryspiceshop.com/extracts/rose-water",
+   "epc": 0.33,
+   "rate": 15,
+   "price": "$4.50",
+   "verified": false,
+   "broken": true
+  }
  },
  "starfrit-salad-spinner": {
   "status": "approved",
@@ -2656,544 +2666,246 @@
  "amazon-b000ofredc": {
   "status": "approved",
   "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "Sur La Table",
-   "product": "Sur La Table Carbon Steel Wok",
-   "url": "https://www.surlatable.com/product/sur-la-table-carbon-steel-wok/8343030",
-   "epc": 0.06,
-   "rate": 9,
-   "price": null,
-   "verified": true,
-   "verified_by": "browser search page"
-  }
+  "auto": true
  },
  "amazon-b00428m7k2": {
   "status": "approved",
   "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "Sur La Table",
-   "product": "Sur La Table Carbon Steel Wok",
-   "url": "https://www.surlatable.com/product/sur-la-table-carbon-steel-wok/8343030",
-   "epc": 0.06,
-   "rate": 9,
-   "price": null,
-   "verified": true,
-   "verified_by": "browser search page"
-  }
+  "auto": true
  },
  "amazon-b08hmxmg2h": {
   "status": "approved",
   "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "Sur La Table",
-   "product": "Sur La Table Carbon Steel Wok",
-   "url": "https://www.surlatable.com/product/sur-la-table-carbon-steel-wok/8343030",
-   "epc": 0.06,
-   "rate": 9,
-   "price": null,
-   "verified": true,
-   "verified_by": "browser search page"
-  }
+  "auto": true
  },
  "amazon-b0fmjw45cf": {
   "status": "approved",
   "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "Sur La Table",
-   "product": "Sur La Table Carbon Steel Wok",
-   "url": "https://www.surlatable.com/product/sur-la-table-carbon-steel-wok/8343030",
-   "epc": 0.06,
-   "rate": 9,
-   "price": null,
-   "verified": true,
-   "verified_by": "browser search page"
-  }
+  "auto": true
  },
  "bamboo-steamer": {
   "status": "approved",
   "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "Sur La Table",
-   "product": "Sur La Table Bamboo Steamers",
-   "url": "https://www.surlatable.com/product/sur-la-table-bamboo-steamer-6/565705",
-   "epc": 0.06,
-   "rate": 9,
-   "price": null,
-   "verified": true,
-   "verified_by": "browser search page"
-  }
+  "auto": true
  },
  "cheap-simple-little-dumpling-press": {
   "status": "approved",
   "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "Sur La Table",
-   "product": "Sur La Table Dumpling & Empanada Presses, Set of 2",
-   "url": "https://www.surlatable.com/product/sur-la-table-dumpling-empanada-presses-set-of-2/9743162",
-   "epc": 0.06,
-   "rate": 9,
-   "price": null,
-   "verified": true,
-   "verified_by": "browser search page"
-  }
+  "auto": true
  },
  "cheapo-little-gnocchi-board": {
   "status": "approved",
   "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "Sur La Table",
-   "product": "Sur La Table Gnocchi Board",
-   "url": "https://www.surlatable.com/product/sur-la-table-gnocchi-board/8798589",
-   "epc": 0.06,
-   "rate": 9,
-   "price": null,
-   "verified": true,
-   "verified_by": "browser search page"
-  }
+  "auto": true
  },
  "metal-honing-steel": {
   "status": "approved",
   "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "Sur La Table",
-   "product": "Sur la table 10\" Honing Steel",
-   "url": "https://www.surlatable.com/product/sur-la-table-10-honing-steel/10548071",
-   "epc": 0.06,
-   "rate": 9,
-   "price": null,
-   "verified": true,
-   "verified_by": "browser search page"
-  }
+  "auto": true
  },
  "immersion-circulator": {
   "status": "approved",
   "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "Sur La Table",
-   "product": "Anova Precision Cooker 3.0",
-   "url": "https://www.surlatable.com/product/anova-precision-r-cooker-3-0/7781776",
-   "epc": 0.06,
-   "rate": 9,
-   "price": null,
-   "verified": true,
-   "verified_by": "browser search page"
-  }
+  "auto": true
  },
  "heatproof-spatula": {
   "status": "approved",
   "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "Sur La Table",
-   "product": "Sur la table Flex-Core Silicone Spatula",
-   "url": "https://www.surlatable.com/product/sur-la-table-flex-core-silicone-spatula/10073328",
-   "epc": 0.06,
-   "rate": 9,
-   "price": null,
-   "verified": true,
-   "verified_by": "browser search page"
-  }
+  "auto": true
  },
  "emile-henry": {
   "status": "approved",
   "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "Sur La Table",
-   "product": "Emile Henry Modern Classics Pie Dish, 9\"",
-   "url": "https://www.surlatable.com/product/emile-henry-modern-classics-pie-dish-9/8864399",
-   "epc": 0.06,
-   "rate": 9,
-   "price": null,
-   "verified": true,
-   "verified_by": "browser search page"
-  }
+  "auto": true
  },
  "kevlar-glove": {
   "status": "approved",
   "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "Sur La Table",
-   "product": "Microplane Cut-Resistant Glove",
-   "url": "https://www.surlatable.com/product/microplane-cut-resistant-glove/2114098",
-   "epc": 0.06,
-   "rate": 9,
-   "price": null,
-   "verified": true,
-   "verified_by": "browser search page"
-  }
+  "auto": true
  },
  "kevlar-kitchen-glove": {
   "status": "approved",
   "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "Sur La Table",
-   "product": "Microplane Cut-Resistant Glove",
-   "url": "https://www.surlatable.com/product/microplane-cut-resistant-glove/2114098",
-   "epc": 0.06,
-   "rate": 9,
-   "price": null,
-   "verified": true,
-   "verified_by": "browser search page"
-  }
+  "auto": true
  },
  "corkscrew": {
   "status": "approved",
   "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "Sur La Table",
-   "product": "OXO Steel Double Lever Waiter's Corkscrew",
-   "url": "https://www.surlatable.com/product/oxo-steel-double-lever-waiters-corkscrew/6833156",
-   "epc": 0.06,
-   "rate": 9,
-   "price": null,
-   "verified": true,
-   "verified_by": "browser search page"
-  }
+  "auto": true
  },
  "moosewood": {
   "status": "approved",
   "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "Barnes & Noble",
-   "product": "The Moosewood Cookbook: 40th Anniversary Edition",
-   "url": "https://www.barnesandnoble.com/w/the-moosewood-cookbook-mollie-katzen/1117794998?ean=9781607747390",
-   "epc": 0.01,
-   "rate": 5.15,
-   "price": null,
-   "verified": true,
-   "verified_by": "browser search page"
-  }
+  "auto": true
  },
  "plenty": {
   "status": "approved",
   "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "Barnes & Noble",
-   "product": "Plenty: Vibrant Vegetable Recipes from London's Ottolenghi",
-   "url": "https://www.barnesandnoble.com/w/plenty-yotam-ottolenghi/1102580859?ean=9781452101248",
-   "epc": 0.01,
-   "rate": 5.15,
-   "price": null,
-   "verified": true,
-   "verified_by": "browser search page"
-  }
+  "auto": true
  },
  "modernist-cuisine": {
   "status": "approved",
   "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "Barnes & Noble",
-   "product": "Modernist Cuisine: The Art & Science of Cooking",
-   "url": "https://www.barnesandnoble.com/w/modernist-cuisine-nathan-myhrvold/1146584093?ean=9781734386141",
-   "epc": 0.01,
-   "rate": 5.15,
-   "price": null,
-   "verified": true,
-   "verified_by": "browser search page"
-  }
+  "auto": true
  },
  "ratio-the-simple-codes-behind-the-craft-of": {
   "status": "approved",
   "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "Barnes & Noble",
-   "product": "Ratio: The Simple Codes Behind the Craft of Everyday Cooking",
-   "url": "https://www.barnesandnoble.com/w/ratio-michael-ruhlman/1100331071?ean=9781416566113",
-   "epc": 0.01,
-   "rate": 5.15,
-   "price": null,
-   "verified": true,
-   "verified_by": "browser search page"
-  }
+  "auto": true
  },
  "the-art-of-fermentation": {
   "status": "approved",
   "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "Barnes & Noble",
-   "product": "The Art of Fermentation",
-   "url": "https://www.barnesandnoble.com/w/the-art-of-fermentation-sandor-ellix-katz/1110790411?ean=9781603582865",
-   "epc": 0.01,
-   "rate": 5.15,
-   "price": null,
-   "verified": true,
-   "verified_by": "browser search page"
-  }
+  "auto": true
  },
  "raw-food-100-recipes-to-get-the-glow": {
   "status": "approved",
   "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "Barnes & Noble",
-   "product": "Raw Food/Real World: 100 Recipes to Get the Glow",
-   "url": "https://www.barnesandnoble.com/w/raw-food-real-world-matthew-kenney/1111668204?ean=9780060793555",
-   "epc": 0.01,
-   "rate": 5.15,
-   "price": null,
-   "verified": true,
-   "verified_by": "browser search page"
-  }
+  "auto": true
  },
  "roasting-in-hell-s-kitchen-temper-tantrums-f": {
   "status": "approved",
   "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "Barnes & Noble",
-   "product": "Roasting in Hell's Kitchen",
-   "url": "https://www.barnesandnoble.com/w/roasting-in-hells-kitchen-gordon-ramsay/1128004739?ean=9780061191985",
-   "epc": 0.01,
-   "rate": 5.15,
-   "price": null,
-   "verified": true,
-   "verified_by": "browser search page"
-  }
+  "auto": true
  },
  "ruhlman": {
   "status": "approved",
   "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "Barnes & Noble",
-   "product": "The Making of a Chef: Mastering Heat at the Culinary Institute of America",
-   "url": "https://www.barnesandnoble.com/w/the-making-of-a-chef-michael-ruhlman/1100558786?ean=9780805089394",
-   "epc": 0.01,
-   "rate": 5.15,
-   "price": null,
-   "verified": true,
-   "verified_by": "browser search page"
-  }
+  "auto": true
  },
  "tamales-101": {
   "status": "approved",
   "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "Barnes & Noble",
-   "product": "Tamales 101: A Beginner's Guide to Making Traditional Tamales",
-   "url": "https://www.barnesandnoble.com/w/tamales-101-alice-guadalupe-tapp/1111896507?ean=9781580084284",
-   "epc": 0.01,
-   "rate": 5.15,
-   "price": null,
-   "verified": true,
-   "verified_by": "browser search page"
-  }
+  "auto": true
  },
  "think-like-a-chef": {
   "status": "approved",
   "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "Barnes & Noble",
-   "product": "Think Like a Chef: A Cookbook",
-   "url": "https://www.barnesandnoble.com/w/think-like-a-chef-tom-colicchio/1139078502?ean=9780307406958",
-   "epc": 0.01,
-   "rate": 5.15,
-   "price": null,
-   "verified": true,
-   "verified_by": "browser search page"
-  }
+  "auto": true
  },
  "better-ideas": {
   "status": "approved",
   "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "Barnes & Noble",
-   "product": "The Creative Habit: Learn It and Use It for Life",
-   "url": "https://www.barnesandnoble.com/w/the-creative-habit-twyla-tharp/1100623171?ean=9780743235273",
-   "epc": 0.01,
-   "rate": 5.15,
-   "price": null,
-   "verified": true,
-   "verified_by": "browser search page"
-  }
+  "auto": true
  },
  "whopper-cake": {
   "status": "approved",
   "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "Barnes & Noble",
-   "product": "Whopper Cake",
-   "url": "https://www.barnesandnoble.com/w/whopper-cake-karma-wilson/1100630760?ean=9780689838446",
-   "epc": 0.01,
-   "rate": 5.15,
-   "price": null,
-   "verified": true,
-   "verified_by": "browser search page"
-  }
+  "auto": true
  },
  "black-rice": {
   "status": "approved",
   "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "iHerb.com",
-   "product": "Lotus Foods, Heirloom Forbidden Rice, 15 oz",
-   "url": "https://www.iherb.com/pr/lotus-foods-heirloom-forbidden-rice-15-oz-426-g/34194",
-   "epc": 0.13,
-   "rate": 15.0,
-   "price": null,
-   "verified": true,
-   "verified_by": "browser search page"
-  }
+  "auto": true
  },
  "eden-umeboshi-paste-pickled-ume-plum-puree": {
   "status": "approved",
   "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "iHerb.com",
-   "product": "Eden Foods, Umeboshi Paste, Pickled Ume Plum Puree, 7 oz",
-   "url": "https://www.iherb.com/pr/eden-foods-umeboshi-paste-pickled-ume-plum-puree-7-oz-200-g/15506",
-   "epc": 0.13,
-   "rate": 15.0,
-   "price": null,
-   "verified": true,
-   "verified_by": "browser search page"
-  }
+  "auto": true
  },
  "flour": {
   "status": "approved",
   "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "iHerb.com",
-   "product": "Bob's Red Mill, Teff Flour, Whole Grain, 20 oz",
-   "url": "https://www.iherb.com/pr/bob-s-red-mill-teff-flour-whole-grain-gluten-free-20-oz-567-g/103993",
-   "epc": 0.13,
-   "rate": 15.0,
-   "price": null,
-   "verified": true,
-   "verified_by": "browser search page"
-  }
+  "auto": true
  },
  "blackstrap-molasses": {
   "status": "approved",
   "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "iHerb.com",
-   "product": "Swanson Vitamins, Certified Organic Blackstrap Molasses, 16 fl oz",
-   "url": "https://www.iherb.com/pr/swanson-vitamins-certified-organic-blackstrap-molasses-unsulfured-16-fl-oz-473-ml/118528",
-   "epc": 0.13,
-   "rate": 15.0,
-   "price": null,
-   "verified": true,
-   "verified_by": "browser search page"
-  }
+  "auto": true
  },
  "coconut-milk": {
   "status": "approved",
   "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "Weee!",
-   "product": "Savoy Coconut Cream 14 oz",
-   "url": "https://www.weee.com/en/product/Savoy-Coconut-Cream/83471",
-   "epc": null,
-   "rate": null,
-   "price": "$3.99",
-   "verified": true,
-   "verified_by": "browser search page"
-  }
+  "auto": true
  },
  "fresh-shiitake-mushroom-caps": {
   "status": "approved",
   "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "Weee!",
-   "product": "Jayone Sliced Dried Shiitake Mushroom",
-   "url": "https://www.weee.com/en/product/Jayone-Sliced-Dried-Shiitake-Mushroom/87775",
-   "epc": null,
-   "rate": null,
-   "price": "$7.79",
-   "verified": true,
-   "verified_by": "browser search page"
-  }
+  "auto": true
  },
  "yuquan-sichuan-zha-cai-preserved-vegetable": {
   "status": "approved",
   "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "Weee!",
-   "product": "Wujiang Hot Spicy Flavor Mustard Tuber",
-   "url": "https://www.weee.com/en/product/Wujiang-Hot-Spicy-Flavor-Mustard-Tuber/106497",
-   "epc": null,
-   "rate": null,
-   "price": "$2.79",
-   "verified": true,
-   "verified_by": "browser search page"
-  }
+  "auto": true
  },
  "aroy-d-young-green-jackfruit-in-brine": {
   "status": "approved",
   "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "Weee!",
-   "product": "Aroy-D Young Green Jackfruit in Brine",
-   "url": "https://www.weee.com/en/product/Aroy-D-Young-Green-Jackfruit-in-Brine-Drain-Wt-10-oz-/2180914",
-   "epc": null,
-   "rate": null,
-   "price": "$6.39",
-   "verified": true,
-   "verified_by": "browser search page"
-  }
+  "auto": true
  },
  "chinese-rice-wine": {
   "status": "approved",
   "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "Weee!",
-   "product": "NPG Premium Shaoxing Cooking Wine 1000ml",
-   "url": "https://www.weee.com/en/product/NPG-Premium-Shaoxing-Cooking-Wine-1000ml/2253912",
-   "epc": null,
-   "rate": null,
-   "price": "$7.99",
-   "verified": true,
-   "verified_by": "browser search page"
-  }
+  "auto": true
  },
  "tamarind-chutney": {
   "status": "approved",
   "choice": 0,
-  "auto": true,
-  "chosen": {
-   "merchant": "Weee!",
-   "product": "Laxmi Tamarind Date Chutney 226 g",
-   "url": "https://www.weee.com/en/product/Laxmi-Tamarind-Date-Chutney/93132",
-   "epc": null,
-   "rate": null,
-   "price": "$5.79",
-   "verified": true,
-   "verified_by": "browser search page"
-  }
+  "auto": true
  },
  "sensarte-nonstick-crepe-pan-10-inch": {
+  "status": "approved",
+  "choice": 0
+ },
+ "glucose-powder": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true
+ },
+ "one-from-matiz": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true
+ },
+ "sugar": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true
+ },
+ "halvah": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "Goldbelly",
+   "product": "Halvah - Marble by Russ & Daughters",
+   "url": "https://russanddaughters.goldbelly.com/18845-halvah-marble",
+   "epc": 0.03,
+   "rate": 1,
+   "price": null,
+   "verified": false,
+   "broken": true
+  }
+ },
+ "kalamata": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "Nuts.com",
+   "product": "Kalamata Olives (250 g)",
+   "url": "https://nuts.com/snacks/olives/kalamata.html",
+   "epc": 0.38,
+   "rate": 20,
+   "price": "$5.99",
+   "verified": false,
+   "broken": true
+  }
+ },
+ "kimchi": {
+  "comment": "not vegan, doesn't work",
+  "status": "rejected",
+  "choice": 0,
+  "chosen": {
+   "merchant": "SayWeee.com",
+   "product": "Mommy Original Sliced Napa Cabbage Kimchi 32 oz",
+   "url": "https://www.sayweee.com/en/product/Mommy-Original-Sliced-Napa-Cabbage-Kimchi/106184",
+   "epc": null,
+   "rate": 10,
+   "price": null,
+   "verified": true
+  },
+  "auto": false
+ },
+ "sensarte-nonstick-crepe-pan-10": {
   "status": "approved",
   "choice": 0,
   "chosen": {
@@ -3207,45 +2919,309 @@
    "verified_by": "browser search page"
   }
  },
- "glucose-powder": {
+ "bittersweet-chocolate": {
+  "choice": 1,
   "status": "approved",
-  "choice": 0,
-  "auto": true,
   "chosen": {
    "merchant": "ChefShop.com",
-   "product": "Essential Pantry Glucose Powder",
-   "url": "https://www.chefshop.com/products/essential-pantry-glucose-powder",
+   "product": "Grand Cru Dark Chocolate - Arriba Bittersweet - 72%",
+   "url": "https://www.chefshop.com/products/grand-cru-dark-chocolate-arriba-bittersweet-72",
+   "epc": null,
+   "rate": null,
+   "price": "$46.95",
+   "verified": true
+  }
+ },
+ "bittersweet-chocolate-2": {
+  "choice": 1,
+  "status": "approved",
+  "chosen": {
+   "merchant": "ChefShop.com",
+   "product": "Grand Cru Dark Chocolate - Arriba Bittersweet - 72%",
+   "url": "https://www.chefshop.com/products/grand-cru-dark-chocolate-arriba-bittersweet-72",
+   "epc": null,
+   "rate": null,
+   "price": "$46.95",
+   "verified": true
+  }
+ },
+ "black-vinegar": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "ChefShop.com",
+   "product": "Taiwanese Black Vinegar",
+   "url": "https://www.chefshop.com/products/taiwanese-black-vinegar",
+   "epc": null,
+   "rate": null,
+   "price": "$18.55",
+   "verified": true
+  }
+ },
+ "candied-fruit": {
+  "choice": 1,
+  "status": "approved",
+  "chosen": {
+   "merchant": "ChefShop.com",
+   "product": "French Candied Orange Peel",
+   "url": "https://www.chefshop.com/products/french-candied-orange-peel",
+   "epc": null,
+   "rate": null,
+   "price": "$26.95",
+   "verified": true
+  }
+ },
+ "candied-seville-orange-peel": {
+  "choice": 1,
+  "status": "approved",
+  "chosen": {
+   "merchant": "ChefShop.com",
+   "product": "French Candied Orange Peel",
+   "url": "https://www.chefshop.com/products/french-candied-orange-peel",
+   "epc": null,
+   "rate": null,
+   "price": "$26.95",
+   "verified": true
+  }
+ },
+ "cardamom": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "Nuts.com",
+   "product": "Cardamom Pods",
+   "url": "https://www.nuts.com/products/cardamom-pods",
+   "epc": 0.38,
+   "rate": null,
+   "price": "$24.99",
+   "verified": true
+  }
+ },
+ "carnation-original-malted-milk-powder": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "Nuts.com",
+   "product": "Malted Milk Powder",
+   "url": "https://www.nuts.com/products/malted-milk-powder",
+   "epc": 0.38,
+   "rate": null,
+   "price": "$10.49",
+   "verified": true
+  }
+ },
+ "chili-oil": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "ChefShop.com",
+   "product": "Wadaman Rayu (Chili Sesame Oil)",
+   "url": "https://www.chefshop.com/products/wadaman-rayu-chili-sesame-oil",
+   "epc": null,
+   "rate": null,
+   "price": "$30.95",
+   "verified": true
+  }
+ },
+ "chipotles": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "Savory Spice Shop, LLC",
+   "product": "Chipotle Chiles in Adobo Sauce",
+   "url": "https://www.savoryspiceshop.com/products/chipotle-chiles-in-adobo-sauce",
+   "epc": 0.33,
+   "rate": null,
+   "price": "$4.99",
+   "verified": true
+  }
+ },
+ "clean-dishtowel": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "ChefShop.com",
+   "product": "Torchons & Bouchons Tea Towel - Dinner Time",
+   "url": "https://www.chefshop.com/products/torchons-bouchons-tea-towel-dinner-time",
+   "epc": null,
+   "rate": null,
+   "price": "26.95",
+   "verified": true
+  }
+ },
+ "dark-chocolate": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "ChefShop.com",
+   "product": "Ara Chocolat 74% Ocumare Dark Chocolate Bar",
+   "url": "https://www.chefshop.com/products/ara-chocolat-74-ocumare-dark-chocolate-bar",
+   "epc": null,
+   "rate": null,
+   "price": "18.95",
+   "verified": true
+  }
+ },
+ "date-sugar": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "Nuts.com",
+   "product": "Organic Date Powder",
+   "url": "https://www.nuts.com/products/organic-date-powder",
+   "epc": 0.38,
+   "rate": null,
+   "price": "9.99",
+   "verified": true
+  }
+ },
+ "de-cecco-orecchiette-no-91-pasta-16-oz": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "ChefShop.com",
+   "product": "Orecchiette del Prete Pasta - Rustichella d'Abruzzo",
+   "url": "https://www.chefshop.com/products/orecchiette-del-prete-pasta-rustichella-dabruzzo",
+   "epc": null,
+   "rate": null,
+   "price": "14.95",
+   "verified": true
+  }
+ },
+ "dried-chipotle-morita-peppers": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "ChefShop.com",
+   "product": "Villa Jerada Chile Morita Whole Pods - 1 pound",
+   "url": "https://www.chefshop.com/products/villa-jerada-chile-morita-whole-pods-1-pound",
+   "epc": null,
+   "rate": null,
+   "price": "$18.95",
+   "verified": true
+  }
+ },
+ "dried-red-chiles": {
+  "comment": "find something closer to a chinese chili",
+  "status": "rejected",
+  "choice": 0,
+  "chosen": {
+   "merchant": "ChefShop.com",
+   "product": "Dried New Mexico Chili Pods",
+   "url": "https://www.chefshop.com/products/dried-new-mexico-chili-pods",
    "epc": null,
    "rate": null,
    "price": "$5.95",
    "verified": true
   }
  },
- "one-from-matiz": {
+ "dry-yeast": {
   "status": "approved",
   "choice": 0,
-  "auto": true,
   "chosen": {
    "merchant": "ChefShop.com",
-   "product": "Paella Bomba Rice - Matiz",
-   "url": "https://www.chefshop.com/products/paella-bomba-rice-matiz",
+   "product": "Saf-Instant RED Instant Yeast",
+   "url": "https://www.chefshop.com/products/saf-instant-red-instant-yeast",
    "epc": null,
    "rate": null,
-   "price": "$25.95",
+   "price": "$5.95",
    "verified": true
   }
  },
- "sugar": {
+ "dry-yeast-2": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "ChefShop.com",
+   "product": "Saf-Instant RED Instant Yeast",
+   "url": "https://www.chefshop.com/products/saf-instant-red-instant-yeast",
+   "epc": null,
+   "rate": null,
+   "price": "$5.95",
+   "verified": true
+  }
+ },
+ "eden-foods-ume-plum-vinegar-10-fl-oz": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "ChefShop.com",
+   "product": "Ohsawa Ume Vinegar",
+   "url": "https://www.chefshop.com/products/ohsawa-ume-vinegar",
+   "epc": null,
+   "rate": null,
+   "price": "$15.95",
+   "verified": true
+  }
+ },
+ "essentials-of-classic-italian-cooking": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "ChefShop.com",
+   "product": "Marcella Hazan Essentials of Classic Italian Cooking - 30th Anniversary Edition (Book)",
+   "url": "https://www.chefshop.com/products/signed-book-only-marcella-hazan-essentials-of-classic-italian-cooking-30th-anniversary-edition",
+   "epc": null,
+   "rate": null,
+   "price": "$40.00",
+   "verified": true
+  }
+ },
+ "dessert-recipe": {
   "status": "approved",
   "choice": 0,
   "auto": true,
   "chosen": {
-   "merchant": "Nuts.com",
-   "product": "Demerara Sugar",
-   "url": "https://www.nuts.com/products/demerara-sugar",
-   "epc": 0.38,
+   "merchant": "Barnes & Noble",
+   "product": "Desserts in Jars: 50 Sweet Treats that Shine",
+   "url": "https://www.barnesandnoble.com/w/desserts-in-jars-shaina-olmanson/1111013738",
+   "epc": 0.01,
+   "rate": 5.15,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser search page"
+  }
+ },
+ "mission-street-food-recipes-and-ideas-from-an": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "Barnes & Noble",
+   "product": "Mission Street Food: Recipes and Ideas from an Improbable Restaurant",
+   "url": "https://www.barnesandnoble.com/w/mission-street-food-anthony-myint/1110796044",
+   "epc": 0.01,
+   "rate": 5.15,
+   "price": "$44.32",
+   "verified": true,
+   "verified_by": "browser search page"
+  }
+ },
+ "tortilla-press": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "Sur La Table",
+   "product": "Cast Iron Tortilla Press, 8\"",
+   "url": "https://www.surlatable.com/product/cast-iron-tortilla-press-8/2921047",
+   "epc": 0.06,
+   "rate": 9,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser search page"
+  }
+ },
+ "extra-virgin-olive-oil": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "The Spice House",
+   "product": "Kosterina Organic Everyday Extra Virgin Olive Oil",
+   "url": "https://www.thespicehouse.com/products/organic-everyday-extra-virgin-olive-oil",
+   "epc": 0.21,
    "rate": null,
-   "price": "$4.49",
+   "price": "$26.00",
    "verified": true
   }
  }
