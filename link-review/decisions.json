@@ -1893,20 +1893,6 @@
    "verified": true
   }
  },
- "halvah": {
-  "status": "approved",
-  "choice": 0,
-  "chosen": {
-   "merchant": "Goldbelly",
-   "product": "Halvah - Marble by Russ & Daughters",
-   "url": "https://russanddaughters.goldbelly.com/18845-halvah-marble",
-   "epc": 0.03,
-   "rate": 1,
-   "price": null,
-   "verified": false,
-   "broken": true
-  }
- },
  "here-on-amazon": {
   "status": "approved",
   "choice": 0,
@@ -1933,35 +1919,6 @@
    "price": "$14.99",
    "verified": false
   }
- },
- "kalamata": {
-  "status": "approved",
-  "choice": 0,
-  "chosen": {
-   "merchant": "Nuts.com",
-   "product": "Kalamata Olives (250 g)",
-   "url": "https://nuts.com/snacks/olives/kalamata.html",
-   "epc": 0.38,
-   "rate": 20,
-   "price": "$5.99",
-   "verified": false,
-   "broken": true
-  }
- },
- "kimchi": {
-  "comment": "not vegan, doesn't work",
-  "status": "rejected",
-  "choice": 0,
-  "chosen": {
-   "merchant": "SayWeee.com",
-   "product": "Mommy Original Sliced Napa Cabbage Kimchi 32 oz",
-   "url": "https://www.sayweee.com/en/product/Mommy-Original-Sliced-Napa-Cabbage-Kimchi/106184",
-   "epc": null,
-   "rate": 10,
-   "price": null,
-   "verified": true
-  },
-  "auto": false
  },
  "kitchen-scale-that-works-in-grams": {
   "status": "approved",
@@ -2135,18 +2092,8 @@
   }
  },
  "sadaf-natural-rose-water": {
-  "status": "approved",
-  "choice": 0,
-  "chosen": {
-   "merchant": "Savory Spice Shop",
-   "product": "Rose Water",
-   "url": "https://www.savoryspiceshop.com/extracts/rose-water",
-   "epc": 0.33,
-   "rate": 15,
-   "price": "$4.50",
-   "verified": false,
-   "broken": true
-  }
+  "status": "rejected",
+  "comment": "no culinary rose water in the network; stays on Amazon"
  },
  "starfrit-salad-spinner": {
   "status": "approved",
@@ -2366,20 +2313,6 @@
    "merchant": "Sur La Table",
    "product": "Sur La Table Signature Stainless Steel Double Boiler, 2 qt.",
    "url": "https://www.surlatable.com/product/sur-la-table-signature-stainless-steel-double-boiler-2-qt/7312788",
-   "epc": 0.06,
-   "rate": 9,
-   "price": null,
-   "verified": true,
-   "verified_by": "browser search page"
-  }
- },
- "sensarte-nonstick-crepe-pan-10": {
-  "status": "approved",
-  "choice": 0,
-  "chosen": {
-   "merchant": "Sur La Table",
-   "product": "Le Creuset Toughened Nonstick PRO Cr\u00eape Pan, 11\"",
-   "url": "https://www.surlatable.com/product/le-creuset-toughened-nonstick-pro-crepe-pan-11/6573372",
    "epc": 0.06,
    "rate": 9,
    "price": null,
@@ -3256,6 +3189,20 @@
    "epc": null,
    "rate": null,
    "price": "$5.79",
+   "verified": true,
+   "verified_by": "browser search page"
+  }
+ },
+ "sensarte-nonstick-crepe-pan-10-inch": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "Sur La Table",
+   "product": "Le Creuset Toughened Nonstick PRO Cr\u00eape Pan, 11\"",
+   "url": "https://www.surlatable.com/product/le-creuset-toughened-nonstick-pro-crepe-pan-11/6573372",
+   "epc": 0.06,
+   "rate": 9,
+   "price": null,
    "verified": true,
    "verified_by": "browser search page"
   }

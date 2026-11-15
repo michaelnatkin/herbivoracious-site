@@ -96,22 +96,27 @@
   "note": "Mini muffin pan; a different brand than the Amazon item (which bundled liners)."
  },
  {
-  "id": "sensarte-nonstick-crepe-pan-10",
-  "name": "sensarte-nonstick-crepe-pan-10",
+  "id": "sensarte-nonstick-crepe-pan-10-inch",
+  "name": "Sensarte Nonstick Crepe Pan 10-Inch",
   "status": "match",
   "kind": "equivalent",
   "confidence": "medium",
   "amazon": {
-   "asins": [],
-   "title": "sensarte-nonstick-crepe-pan-10",
-   "anchors": [],
-   "links": 0,
-   "posts": 0,
-   "example_post": ""
+   "asins": [
+    "B08RMXBJNQ"
+   ],
+   "title": "Sensarte Nonstick Crepe Pan 10-Inch",
+   "anchors": [
+    "crepe pan",
+    "crepe pans"
+   ],
+   "links": 2,
+   "posts": 2,
+   "example_post": "manouri-cheese-blintzes-recipe"
   },
   "primary": {
    "merchant": "Sur La Table",
-   "product": "Le Creuset Toughened Nonstick PRO Cr\u00eape Pan, 11\"",
+   "product": "Le Creuset Toughened Nonstick PRO Crepe Pan, 11\"",
    "url": "https://www.surlatable.com/product/le-creuset-toughened-nonstick-pro-crepe-pan-11/6573372",
    "epc": 0.06,
    "rate": 9,
@@ -120,7 +125,7 @@
    "verified_by": "browser search page"
   },
   "alternatives": [],
-  "note": "Nonstick cr\u00eape pan, far pricier than the Amazon pan. Sur La Table's own carbon steel cr\u00eape pan is a cheaper but non-nonstick option."
+  "note": "Same kind of nonstick crepe pan but a premium Le Creuset at 11 inches instead of the 10-inch granite-coated Sensarte."
  },
  {
   "id": "ring-mold",
@@ -375,38 +380,6 @@
   },
   "alternatives": [],
   "note": "Heavy-duty half sheet pan; a different brand than Chicago Metallic."
- },
- {
-  "id": "sensarte-nonstick-crepe-pan-10-inch",
-  "name": "Sensarte Nonstick Crepe Pan 10-Inch",
-  "status": "match",
-  "kind": "equivalent",
-  "confidence": "medium",
-  "amazon": {
-   "asins": [
-    "B08RMXBJNQ"
-   ],
-   "title": "Sensarte Nonstick Crepe Pan 10-Inch",
-   "anchors": [
-    "crepe pan",
-    "crepe pans"
-   ],
-   "links": 2,
-   "posts": 2,
-   "example_post": "manouri-cheese-blintzes-recipe"
-  },
-  "primary": {
-   "merchant": "Sur La Table",
-   "product": "Le Creuset Toughened Nonstick PRO Crepe Pan, 11\"",
-   "url": "https://www.surlatable.com/product/le-creuset-toughened-nonstick-pro-crepe-pan-11/6573372",
-   "epc": 0.06,
-   "rate": 9,
-   "price": null,
-   "verified": true,
-   "verified_by": "browser search page"
-  },
-  "alternatives": [],
-  "note": "Same kind of nonstick crepe pan but a premium Le Creuset at 11 inches instead of the 10-inch granite-coated Sensarte."
  },
  {
   "id": "amazon-b0006bddi4",

@@ -129,7 +129,7 @@
   "name": "Halvah",
   "status": "match",
   "kind": "equivalent",
-  "confidence": "low",
+  "confidence": "medium",
   "amazon": {
    "asins": [
     "B005UO7H6Q"
@@ -143,17 +143,17 @@
    "example_post": "breakfast-in-is"
   },
   "primary": {
-   "merchant": "Goldbelly",
-   "product": "Halvah - Marble by Russ & Daughters",
-   "url": "https://russanddaughters.goldbelly.com/18845-halvah-marble",
-   "epc": 0.03,
-   "rate": 1,
+   "merchant": "iHerb.com",
+   "product": "Seed + Mill, Halva, Toasted Sesame, 8 oz (227 g)",
+   "url": "https://www.iherb.com/pr/seed-mill-halva-toasted-sesame-8-oz-227-g/157093",
+   "epc": 0.13,
+   "rate": 15,
    "price": null,
-   "verified": false,
-   "broken": true
+   "verified": true,
+   "verified_by": "browser search page"
   },
   "alternatives": [],
-  "note": "Joyva marble halvah was not found in-network; this is a marble halvah from Russ & Daughters (low commission rate, 1%)."
+  "note": "Sesame halva, but not the Joyva marble halvah; a different brand and flavor."
  },
  {
   "id": "happy-in-the-kitchen",
@@ -317,17 +317,17 @@
    "example_post": "savory-cardoon-flan-recipe"
   },
   "primary": {
-   "merchant": "Nuts.com",
-   "product": "Kalamata Olives (250 g)",
-   "url": "https://nuts.com/snacks/olives/kalamata.html",
-   "epc": 0.38,
-   "rate": 20,
-   "price": "$5.99",
-   "verified": false,
-   "broken": true
+   "merchant": "iHerb.com",
+   "product": "Gaea, Organic Pitted Kalamata Olives, 10.2 oz (290 g)",
+   "url": "https://www.iherb.com/pr/gaea-organic-pitted-kalamata-olives-10-2-oz-290-g/32990",
+   "epc": 0.13,
+   "rate": 15,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser search page"
   },
   "alternatives": [],
-  "note": "Whole (pitted not offered) Kalamata olives, not the organic pitted jars on Amazon; Nuts.com rate-limits checks."
+  "note": "Organic pitted Kalamata olives; a specific brand and jar size, since the original Nuts.com page no longer exists."
  },
  {
   "id": "kimchi",
@@ -348,16 +348,17 @@
    "example_post": "kimchi-fried-rice-kimchi-bokkeumbap-recipe"
   },
   "primary": {
-   "merchant": "SayWeee.com",
-   "product": "Mommy Original Sliced Napa Cabbage Kimchi 32 oz",
-   "url": "https://www.sayweee.com/en/product/Mommy-Original-Sliced-Napa-Cabbage-Kimchi/106184",
-   "epc": null,
-   "rate": 10,
+   "merchant": "iHerb.com",
+   "product": "Eden Foods, Organic Kimchi Sauerkraut, 18 oz (510 g)",
+   "url": "https://www.iherb.com/pr/eden-foods-organic-kimchi-sauerkraut-18-oz-510-g/156998",
+   "epc": 0.13,
+   "rate": 15,
    "price": null,
-   "verified": true
+   "verified": true,
+   "verified_by": "browser search page"
   },
   "alternatives": [],
-  "note": "Different brand of napa cabbage kimchi (Amazon item was vegan Mother in Law's); check it suits recipes that need vegan kimchi."
+  "note": "The Amazon item was a vegan napa cabbage kimchi. Eden's kimchi sauerkraut should be vegan, but it is a milder sauerkraut-style kimchi; please check it suits."
  },
  {
   "id": "kitchen-confidential",

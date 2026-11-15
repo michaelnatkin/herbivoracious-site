@@ -4761,11 +4761,12 @@
   "sensarte-nonstick-crepe-pan-10-inch": {
     "name": "Sensarte Nonstick Crepe Pan 10-Inch",
     "category": "cookware-appliances",
-    "url": "https://www.amazon.com/dp/B08RMXBJNQ?tag=herb-hugo-20",
+    "url": "https://www.surlatable.com/product/le-creuset-toughened-nonstick-pro-crepe-pan-11/6573372",
     "original_url": "https://www.amazon.com/dp/B08RMXBJNQ?tag=herb-hugo-20",
     "asins": [
       "B08RMXBJNQ"
-    ]
+    ],
+    "merchant": "Sur La Table"
   },
   "serrano-chilis": {
     "name": "Serrano Chilis",
