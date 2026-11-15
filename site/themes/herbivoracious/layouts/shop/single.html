@@ -27,6 +27,7 @@
       {{ end }}
       <ul class="shop-list shop-grid">
         {{ range sort $items "name" }}
+        {{ $p := . }}
         <li class="shop-item">
           <a href="{{ .url }}" class="shop-item__link" target="_blank" rel="noopener noreferrer nofollow sponsored">{{ .name }}</a>
           {{ with .review_url }}
@@ -35,7 +36,8 @@
           {{ with index $usage .id }}
           <span class="shop-item__featured">
             Featured in:
-            {{ range $i, $item := . }}{{ if $i }}, {{ end }}<a href="{{ $item.url }}">{{ $item.title }}</a>{{ end }}
+            {{ range $i, $item := first 5 . }}{{ if $i }}, {{ end }}<a href="{{ $item.url }}">{{ $item.title }}</a>{{ end }}
+            {{ if gt (len .) 5 }}{{ $term := index (split (index (split (or $p.search $p.name) ",") 0) " (") 0 }}, <a href="{{ "search/" | relURL }}?q={{ $term | urlquery }}">&hellip; and {{ sub (len .) 5 }} more</a>{{ end }}
           </span>
           {{ end }}
         </li>
