@@ -328,13 +328,14 @@
   "status": "approved",
   "choice": 0,
   "chosen": {
-   "merchant": "ChefShop.com",
-   "product": "Dried Chile de \u00c1rbol Pods",
-   "url": "https://www.chefshop.com/products/chile-de-arbol-dried-pods",
-   "epc": null,
-   "rate": 7,
-   "price": "$4.95",
-   "verified": true
+   "merchant": "Nuts.com",
+   "product": "Dried De Arbol Peppers (Stemless)",
+   "url": "https://nuts.com/cookingbaking/mexican/dried-de-arbol-peppers-without-stem.html",
+   "epc": 0.38,
+   "rate": 20,
+   "price": "$14.99",
+   "verified": false,
+   "broken": true
   }
  },
  "dried-ancho-chilis": {
@@ -1111,12 +1112,13 @@
   "choice": 0,
   "chosen": {
    "merchant": "Nuts.com",
-   "product": "Adzuki Beans",
-   "url": "https://www.nuts.com/products/adzuki-beans",
+   "product": "Organic Adzuki Beans",
+   "url": "https://nuts.com/cookingbaking/beans/adzuki/organic.html",
    "epc": 0.38,
    "rate": 20,
-   "price": "$4.49",
-   "verified": true
+   "price": null,
+   "verified": false,
+   "broken": true
   }
  },
  "agar-agar-powder": {
@@ -1130,6 +1132,501 @@
    "rate": 15,
    "price": "$17.00",
    "verified": false
+  }
+ },
+ "candy-deep-fry-thermometer": {
+  "choice": 1,
+  "status": "approved",
+  "chosen": {
+   "merchant": "ThermoWorks",
+   "product": "ThermoPop 2",
+   "url": "https://www.thermoworks.com/products/thermopop-2",
+   "epc": 0.31,
+   "rate": 10,
+   "price": "$39.00",
+   "verified": true
+  }
+ },
+ "caraway-seeds": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "Savory Spice Shop",
+   "product": "Dutch Caraway Seeds",
+   "url": "https://www.savoryspiceshop.com/products/dutch-caraway-seeds",
+   "epc": 0.33,
+   "rate": 15,
+   "price": "$5.20",
+   "verified": true
+  }
+ },
+ "chef-schoice-130-professional-electric-knife": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "Sur La Table",
+   "product": "Chef'sChoice Professional Sharpening Station 130",
+   "url": "https://www.surlatable.com/chef146schoice-professional-sharpening-station153-130/PRO-546440.html",
+   "epc": 0.06,
+   "rate": 9,
+   "price": null,
+   "verified": true
+  }
+ },
+ "couscous": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "ChefShop.com",
+   "product": "North African Couscous - organic",
+   "url": "https://www.chefshop.com/products/north-african-couscous-organic",
+   "epc": null,
+   "rate": 7,
+   "price": "$14.55",
+   "verified": true
+  }
+ },
+ "dutch-oven": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "Le Creuset",
+   "product": "Signature Round Dutch Oven 5.5 qt",
+   "url": "https://www.lecreuset.com/signature-round-dutch-oven-flame-5-5-qt/21177026090511.html",
+   "epc": 0.07,
+   "rate": 10,
+   "price": "$455.00",
+   "verified": true
+  }
+ },
+ "farro": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "Nuts.com",
+   "product": "Organic Pearled Farro",
+   "url": "https://www.nuts.com/products/organic-pearled-farro",
+   "epc": 0.38,
+   "rate": 20,
+   "price": "$5.49",
+   "verified": true
+  }
+ },
+ "ghiradelli-semi-sweet-chocolate-chips": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "Nuts.com",
+   "product": "Semi-Sweet Chocolate Chips",
+   "url": "https://www.nuts.com/products/semi-sweet-chocolate-chips",
+   "epc": 0.38,
+   "rate": 20,
+   "price": "$12.99",
+   "verified": true
+  }
+ },
+ "grill-pan": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "Lodge Cast Iron",
+   "product": "10.5 Inch Square Cast Iron Grill Pan",
+   "url": "https://www.lodgecastiron.com/products/square-cast-iron-grill-pan",
+   "epc": 0.02,
+   "rate": 3,
+   "price": "$24.90",
+   "verified": false
+  }
+ },
+ "hawaiian-red-alaea-salt": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "The Spice House",
+   "product": "Hawaiian Red Alaea Sea Salt",
+   "url": "https://www.thespicehouse.com/products/hawaiian-red-alaea-sea-salt",
+   "epc": 0.21,
+   "rate": 15,
+   "price": null,
+   "verified": false
+  }
+ },
+ "just-get-one": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "SodaStream USA",
+   "product": "SodaStream Classic Sparkling Water Maker starter kit",
+   "url": "https://sodastream.com/products/classic",
+   "epc": 0.13,
+   "rate": 0,
+   "price": "$69.99",
+   "verified": false
+  }
+ },
+ "lm-pectin": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "iHerb",
+   "product": "Pomona's Universal Pectin, 1.1 oz",
+   "url": "https://www.iherb.com/pr/pomona-s-universal-pectin-pectin-1-1-oz-31-g/109849",
+   "epc": 0.13,
+   "rate": 15,
+   "price": "$6.86",
+   "verified": false
+  }
+ },
+ "look-inside-on-amazon": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "Barnes & Noble",
+   "product": "Dirt Candy: A Cookbook",
+   "url": "https://www.barnesandnoble.com/w/dirt-candy-amanda-cohen/1111343501",
+   "epc": 0.01,
+   "rate": 5.15,
+   "price": "$22.00",
+   "verified": true
+  }
+ },
+ "maille-pickles-cornichons-original": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "ChefShop.com",
+   "product": "Cornichons - France",
+   "url": "https://www.chefshop.com/products/cornichons-france",
+   "epc": null,
+   "rate": 7,
+   "price": "$12.95",
+   "verified": true
+  }
+ },
+ "toasted-sesame-paste-tahini": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "Nuts.com",
+   "product": "Soom Tahini",
+   "url": "https://nuts.com/cookingbaking/condiments/nut-butters-oils/soom-tahini",
+   "epc": 0.38,
+   "rate": 20,
+   "price": null,
+   "verified": false
+  }
+ },
+ "turmeric-powder": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "Savory Spice Shop",
+   "product": "Ground Turmeric Powder",
+   "url": "https://www.savoryspiceshop.com/products/ground-turmeric-powder",
+   "epc": 0.33,
+   "rate": 15,
+   "price": null,
+   "verified": false
+  }
+ },
+ "vita-prep": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "Vitamix",
+   "product": "Vita-Prep 3",
+   "url": "https://www.vitamix.com/us/en_us/products/commercial/vita-prep-3",
+   "epc": 0.24,
+   "rate": 15,
+   "price": "$697.95",
+   "verified": true
+  }
+ },
+ "white-miso": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "Thrive Market",
+   "product": "Organic White Miso Paste",
+   "url": "https://thrivemarket.com/p/thrive-market-organic-white-miso-paste",
+   "epc": 0.06,
+   "rate": 45,
+   "price": null,
+   "verified": false
+  }
+ },
+ "ancho-chili-powder": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "Savory Spice Shop",
+   "product": "Ancho Chile Powder",
+   "url": "https://www.savoryspiceshop.com/products/ancho-chile-powder",
+   "epc": 0.33,
+   "rate": 15,
+   "price": null,
+   "verified": false
+  }
+ },
+ "arborio-rice": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "Thrive Market",
+   "product": "Lundberg Family Farms Sustainable White Arborio Rice",
+   "url": "https://thrivemarket.com/p/lundberg-family-farms-sustainable-white-arborio-rice",
+   "epc": 0.06,
+   "rate": 45,
+   "price": null,
+   "verified": true
+  }
+ },
+ "baharat": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "Savory Spice Shop",
+   "product": "Baharat Spice Blend",
+   "url": "https://www.savoryspiceshop.com/products/baharat",
+   "epc": 0.33,
+   "rate": 15,
+   "price": null,
+   "verified": false
+  }
+ },
+ "barefoot-contessa": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "Barnes & Noble",
+   "product": "The Barefoot Contessa Cookbook",
+   "url": "https://www.barnesandnoble.com/w/the-barefoot-contessa-cookbook-ina-garten/1101967733",
+   "epc": 0.01,
+   "rate": 5.15,
+   "price": null,
+   "verified": true
+  }
+ },
+ "barker-s-hot-red-chili-pods-from-hatch-new": {
+  "status": "rejected",
+  "choice": 0,
+  "chosen": {
+   "merchant": "Savory Spice Shop",
+   "product": "Hot Red New Mexican Chile Powder",
+   "url": "https://www.savoryspiceshop.com/products/hot-red-new-mexican-chile-powder",
+   "epc": 0.33,
+   "rate": 15,
+   "price": null,
+   "verified": false
+  }
+ },
+ "basic-12-model": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "ThermoWorks",
+   "product": "ThermoPop 2",
+   "url": "https://www.thermoworks.com/products/thermopop-2",
+   "epc": 0.31,
+   "rate": 10,
+   "price": null,
+   "verified": false
+  }
+ },
+ "citric-acid-sour-salt": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "Nuts.com",
+   "product": "Citric Acid",
+   "url": "https://www.nuts.com/products/citric-acid",
+   "epc": 0.38,
+   "rate": 20,
+   "price": "$8.49",
+   "verified": true
+  }
+ },
+ "gelpro-mats": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "GelPro",
+   "product": "GelPro Elite Mat: Woven",
+   "url": "https://www.gelpro.com/gelpro-elite-mat-woven/",
+   "epc": 0.04,
+   "rate": 5,
+   "price": "$159.95",
+   "verified": true
+  }
+ },
+ "get-one-right-now": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "Sur La Table",
+   "product": "Microplane Soft-Handle Zester Grater, 12\"",
+   "url": "https://www.surlatable.com/product/microplane-soft-handle-zester-grater-12/622035",
+   "epc": 0.06,
+   "rate": 9,
+   "price": "$18.95",
+   "verified": true
+  }
+ },
+ "i-like-you-hospitality-under-the-influence": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "Barnes & Noble",
+   "product": "I Like You: Hospitality Under the Influence (Paperback, ISBN 9780446696777)",
+   "url": "https://www.barnesandnoble.com/w/i-like-you-amy-sedaris/1100298170",
+   "epc": 0.01,
+   "rate": 5.15,
+   "price": "$20.00",
+   "verified": true
+  }
+ },
+ "kitchen-confidential": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "Barnes & Noble",
+   "product": "Kitchen Confidential: Adventures in the Culinary Underbelly (Paperback, ISBN 9780060899226)",
+   "url": "https://www.barnesandnoble.com/w/kitchen-confidential-anthony-bourdain/1100390361",
+   "epc": 0.01,
+   "rate": 5.15,
+   "price": "$14.44",
+   "verified": true
+  }
+ },
+ "madhur-jaffrey-s-world-vegetarian": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "Barnes & Noble",
+   "product": "Madhur Jaffrey's World Vegetarian (Paperback)",
+   "url": "https://www.barnesandnoble.com/w/madhur-jaffreys-world-vegetarian-madhur-jaffrey/1138713746",
+   "epc": 0.01,
+   "rate": 5.15,
+   "price": "$35.00",
+   "verified": true
+  }
+ },
+ "momofuku-by-david-chang": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "Barnes & Noble",
+   "product": "Momofuku: A Cookbook (Hardcover)",
+   "url": "https://www.barnesandnoble.com/w/momofuku-david-chang/1137656659",
+   "epc": 0.01,
+   "rate": 5.15,
+   "price": "$34.00",
+   "verified": true
+  }
+ },
+ "more-expensive-thermapen-model": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "ThermoWorks",
+   "product": "Thermapen ONE",
+   "url": "https://www.thermoworks.com/products/thermapen-one",
+   "epc": 0.31,
+   "rate": 10.0,
+   "price": "$74.00",
+   "verified": true
+  }
+ },
+ "saffron": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "Savory Spice Shop",
+   "product": "Spanish Coupe Saffron",
+   "url": "https://www.savoryspiceshop.com/products/spanish-coupe-saffron",
+   "epc": 0.33,
+   "rate": 15,
+   "price": "$16.95",
+   "verified": true
+  }
+ },
+ "saffron-threads": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "Savory Spice Shop",
+   "product": "Spanish Coupe Saffron",
+   "url": "https://www.savoryspiceshop.com/products/spanish-coupe-saffron",
+   "epc": 0.33,
+   "rate": 15,
+   "price": "$16.95",
+   "verified": true
+  }
+ },
+ "star-anise": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "Nuts.com",
+   "product": "Star Anise",
+   "url": "https://www.nuts.com/products/star-anise",
+   "epc": 0.38,
+   "rate": 20,
+   "price": "$25.99",
+   "verified": true
+  }
+ },
+ "sunflower-seed-butter": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "Nuts.com",
+   "product": "Organic Sunflower Butter",
+   "url": "https://www.nuts.com/products/organic-sunflower-butter",
+   "epc": 0.38,
+   "rate": 20,
+   "price": "$9.49",
+   "verified": true
+  }
+ },
+ "the-art-of-simple-food-by-alice-waters": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "Barnes & Noble",
+   "product": "The Art of Simple Food: Notes, Lessons, and Recipes from a Delicious Revolution",
+   "url": "https://www.barnesandnoble.com/w/the-art-of-simple-food-alice-waters/1138089471",
+   "epc": 0.01,
+   "rate": 5.15,
+   "price": null,
+   "verified": true
+  }
+ },
+ "the-man-who-ate-everything": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "Barnes & Noble",
+   "product": "The Man Who Ate Everything (paperback)",
+   "url": "https://www.barnesandnoble.com/w/man-who-ate-everything-jeffrey-steingarten/1100095426",
+   "epc": 0.01,
+   "rate": 5.15,
+   "price": null,
+   "verified": true
   }
  }
 }

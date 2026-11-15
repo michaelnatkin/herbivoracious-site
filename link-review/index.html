@@ -79,16 +79,19 @@ async function init() {
 // Pick up batches that finish while the page is open (no refresh needed)
 setInterval(async () => {
   try {
+    try { const remote = await (await fetch('decisions.json')).json(); for (const k in remote) if (!(k in dec)) dec[k] = remote[k]; } catch (e) {}
     const names = await (await fetch('batches.json')).json();
     const fresh = names.filter(n => !(n in batches));
-    if (!fresh.length) return;
+    if (!fresh.length) { render(); return; }
     for (const f of names) if (!(f in batches)) batches[f] = await (await fetch('batches/' + f)).json();
     order = names; render();
     $('#saved').textContent = fresh.length + ' new batch' + (fresh.length > 1 ? 'es' : '') + ' loaded';
   } catch (e) {}
 }, 30000);
 const status = id => (dec[id] && dec[id].status) || 'pending';
-const matches = f => (batches[f] || []).filter(i => i.status === 'match');
+const isAuto = id => !!(dec[id] && dec[id].auto && dec[id].status === 'approved');
+const matches = f => (batches[f] || []).filter(i => i.status === 'match' && !isAuto(i.id));
+const autoItems = f => (batches[f] || []).filter(i => i.status === 'match' && isAuto(i.id));
 const epcText = m => m.epc == null ? 'EPC: no data' : 'EPC $' + m.epc.toFixed(2);
 function pickBatch(f) { current = f; confirmBulk = false; render(); }
 function counts(items) { const a = items.filter(i => status(i.id) === 'approved').length, r = items.filter(i => status(i.id) === 'rejected').length; return {a, r, p: items.length - a - r, n: items.length}; }
@@ -130,16 +133,19 @@ function render() {
   $('#pa').style.width = (c.n ? c.a/c.n*100 : 0)+'%'; $('#pr').style.width = (c.n ? c.r/c.n*100 : 0)+'%';
   $('#counts').textContent = `${c.a} approved · ${c.r} rejected · ${c.p} pending`;
   $('#filters').innerHTML = ['pending','approved','rejected','all'].map(f=>`<button class="pill ${filter===f?'on':''}" onclick="setFilter('${f}')">${f}</button>`).join(' ');
-  const all = order.flatMap(matches), t = counts(all), links = all.filter(i=>status(i.id)==='approved').reduce((s,i)=>s+i.amazon.links,0);
-  $('#overall').textContent = `All batches: ${t.a} approved (${links} links) · ${t.r} rejected · ${t.p} pending, of ${t.n} proposed matches.`;
+  const all = order.flatMap(f => (batches[f]||[]).filter(i => i.status === 'match')), t = counts(all), links = all.filter(i=>status(i.id)==='approved').reduce((s,i)=>s+i.amazon.links,0);
+  $('#overall').textContent = `All batches: ${t.a} approved incl. auto (${links} links) · ${t.r} rejected · ${t.p} pending, of ${t.n} proposed matches.`;
   const shown = items.filter(i => filter==='all' || status(i.id)===filter);
   const hi = items.filter(i => status(i.id)==='pending' && i.confidence==='high' && i.kind==='same');
   let html = shown.map(card).join('') || `<p class="sub">Nothing ${filter==='all'?'':filter+' '}in this batch.</p>`;
   if (hi.length) html += `<div class="bulk">${confirmBulk ? `Approve ${hi.length} pending “same product, high confidence” items as proposed? <button onclick="bulkApprove()">Yes, approve ${hi.length}</button> <button onclick="confirmBulk=false;render()">Cancel</button>` : `<button onclick="confirmBulk=true;render()">Approve all ${hi.length} pending same-product / high-confidence items…</button>`}</div>`;
+  const au = autoItems(current);
+  if (au.length) html += `<details><summary>${au.length} auto-approved (high confidence, page loads) — click to review or undo</summary>${au.map(i=>`<div class="nomatch"><b>${esc((i.amazon&&i.amazon.title)||i.name)}</b> → ${esc(i.primary.merchant)}: <a href="${esc(i.primary.url)}" target="_blank" rel="noopener">${esc(i.primary.product)}</a> · ${i.amazon.links} links <button class="pill" onclick='undoAuto(${JSON.stringify(i.id)})'>Undo</button></div>`).join('')}</details>`;
   const nm = (batches[current]||[]).filter(i => i.status !== 'match');
   if (nm.length) html += `<details><summary>${nm.length} products with no in-network match (they stay on Amazon)</summary>${nm.map(i=>`<div class="nomatch"><b>${esc((i.amazon&&i.amazon.title)||i.name)}</b> · ${i.amazon?i.amazon.links:''} links — ${esc(i.reason||'no match found')}</div>`).join('')}</details>`;
   $('#list').innerHTML = html;
 }
+function undoAuto(id) { const d = touch(id); d.status = 'pending'; d.auto = false; save(); render(); }
 function setFilter(f) { filter = f; render(); }
 function touch(id) { dec[id] = dec[id] || {}; return dec[id]; }
 function setStatus(id, s) { const d = touch(id); d.status = d.status === s ? 'pending' : s; d.choice = d.choice ?? 0; save(); render(); }

@@ -142,7 +142,7 @@
   "adzuki-beans": {
     "name": "Adzuki Beans",
     "category": "grains-pasta-legumes",
-    "url": "https://www.nuts.com/products/adzuki-beans",
+    "url": "https://nuts.com/cookingbaking/beans/adzuki/organic.html",
     "original_url": "https://www.amazon.com/dp/B00TOETLDA?tag=herb-hugo-20",
     "asins": [
       "B00TOETLDA"
@@ -338,11 +338,12 @@
   "ancho-chili-powder": {
     "name": "Ancho Chili Powder",
     "category": "mexican-latin-pantry",
-    "url": "https://www.amazon.com/dp/B006NIPC5Q?tag=herb-hugo-20",
+    "url": "https://www.savoryspiceshop.com/products/ancho-chile-powder",
     "original_url": "https://www.amazon.com/dp/B006NIPC5Q?tag=herb-hugo-20",
     "asins": [
       "B006NIPC5Q"
-    ]
+    ],
+    "merchant": "Savory Spice Shop"
   },
   "ancho-guajillo-pasilla-cascabel-de-arbol": {
     "name": "Ancho, Guajillo, Pasilla, Cascabel, de Arbol, ...",
@@ -385,11 +386,12 @@
   "arborio-rice": {
     "name": "Arborio Rice",
     "category": "grains-pasta-legumes",
-    "url": "https://www.amazon.com/dp/B00112UBOG?tag=herb-hugo-20",
+    "url": "https://thrivemarket.com/p/lundberg-family-farms-sustainable-white-arborio-rice",
     "original_url": "https://www.amazon.com/dp/B00112UBOG?tag=herb-hugo-20",
     "asins": [
       "B00112UBOG"
-    ]
+    ],
+    "merchant": "Thrive Market"
   },
   "argentinian-polenta": {
     "name": "Argentinian Polenta",
@@ -480,11 +482,12 @@
   "baharat": {
     "name": "Baharat",
     "category": "middle-eastern-indian-pantry",
-    "url": "https://www.amazon.com/dp/B0CZY27RNZ?tag=herb-hugo-20",
+    "url": "https://www.savoryspiceshop.com/products/baharat",
     "original_url": "https://www.amazon.com/dp/B0CZY27RNZ?tag=herb-hugo-20",
     "asins": [
       "B0CZY27RNZ"
-    ]
+    ],
+    "merchant": "Savory Spice Shop"
   },
   "balinese-long-pepper": {
     "name": "Balinese Long Pepper",
@@ -511,11 +514,12 @@
   "barefoot-contessa": {
     "name": "Barefoot Contessa",
     "category": "books",
-    "url": "https://www.amazon.com/dp/0609602195?tag=herb-hugo-20",
+    "url": "https://www.barnesandnoble.com/w/the-barefoot-contessa-cookbook-ina-garten/1101967733",
     "original_url": "https://www.amazon.com/dp/0609602195?tag=herb-hugo-20",
     "asins": [
       "0609602195"
-    ]
+    ],
+    "merchant": "Barnes & Noble"
   },
   "barker-s-hot-red-chili-pods-from-hatch-new": {
     "name": "Barker's Hot Red Chili Pods from Hatch, New Mexico, 8 oz",
@@ -528,12 +532,13 @@
   },
   "basic-12-model": {
     "name": "basic $12 model",
-    "url": "https://www.amazon.com/dp/B00009WE45?tag=herb-hugo-20",
+    "url": "https://www.thermoworks.com/products/thermopop-2",
     "original_url": "https://www.amazon.com/dp/B00009WE45?tag=herb-hugo-20",
     "asins": [
       "B00009WE45"
     ],
-    "hidden": true
+    "hidden": true,
+    "merchant": "ThermoWorks"
   },
   "basmati-rice": {
     "name": "Basmati Rice",
@@ -942,11 +947,12 @@
   "candy-deep-fry-thermometer": {
     "name": "Candy/deep Fry Thermometer",
     "category": "kitchen-gadgets",
-    "url": "https://www.amazon.com/dp/B00004XSC9?tag=herb-hugo-20",
+    "url": "https://www.thermoworks.com/products/thermopop-2",
     "original_url": "https://www.amazon.com/dp/B00004XSC9?tag=herb-hugo-20",
     "asins": [
       "B00004XSC9"
-    ]
+    ],
+    "merchant": "ThermoWorks"
   },
   "cannellini": {
     "name": "Cannellini",
@@ -979,11 +985,12 @@
   "caraway-seeds": {
     "name": "Caraway Seeds",
     "category": "spices-seasonings",
-    "url": "https://www.amazon.com/dp/B00MOZCJG2?tag=herb-hugo-20",
+    "url": "https://www.savoryspiceshop.com/products/dutch-caraway-seeds",
     "original_url": "https://www.amazon.com/dp/B00MOZCJG2?tag=herb-hugo-20",
     "asins": [
       "B00MOZCJG2"
-    ]
+    ],
+    "merchant": "Savory Spice Shop"
   },
   "caraway-seeds-2": {
     "name": "Caraway Seeds",
@@ -1133,11 +1140,12 @@
   "chef-schoice-130-professional-electric-knife": {
     "name": "Chef'sChoice 130 Professional Electric Knife Sharpener",
     "category": "knives-sharpening",
-    "url": "https://www.amazon.com/dp/B000CSG9BE?tag=herb-hugo-20",
+    "url": "https://www.surlatable.com/chef146schoice-professional-sharpening-station153-130/PRO-546440.html",
     "original_url": "https://www.amazon.com/dp/B000CSG9BE?tag=herb-hugo-20",
     "asins": [
       "B000CSG9BE"
-    ]
+    ],
+    "merchant": "Sur La Table"
   },
   "cherry-wood": {
     "name": "cherry wood",
@@ -1171,12 +1179,12 @@
   "chili-de-arbol": {
     "name": "Chili de Arbol",
     "category": "mexican-latin-pantry",
-    "url": "https://www.chefshop.com/products/chile-de-arbol-dried-pods",
+    "url": "https://nuts.com/cookingbaking/mexican/dried-de-arbol-peppers-without-stem.html",
     "original_url": "https://www.amazon.com/dp/B07TYNF3ND?tag=herb-hugo-20",
     "asins": [
       "B07TYNF3ND"
     ],
-    "merchant": "ChefShop.com"
+    "merchant": "Nuts.com"
   },
   "chili-flakes": {
     "name": "Chili Flakes",
@@ -1259,12 +1267,13 @@
   "citric-acid-sour-salt": {
     "name": "Citric Acid (sour Salt)",
     "category": "pantry-staples",
-    "url": "https://www.amazon.com/dp/B017BTLYE8?tag=herb-hugo-20",
+    "url": "https://www.nuts.com/products/citric-acid",
     "original_url": "https://www.amazon.com/dp/B017BTLYE8?tag=herb-hugo-20",
     "asins": [
       "B017BTLYE8",
       "B0C5NQM8S1"
-    ]
+    ],
+    "merchant": "Nuts.com"
   },
   "citrus-juicer": {
     "name": "Citrus Juicer",
@@ -1404,12 +1413,13 @@
   "couscous": {
     "name": "Couscous",
     "category": "grains-pasta-legumes",
-    "url": "https://www.amazon.com/dp/B001HTINWA?tag=herb-hugo-20",
+    "url": "https://www.chefshop.com/products/north-african-couscous-organic",
     "original_url": "https://www.amazon.com/dp/B001HTINWA?tag=herb-hugo-20",
     "asins": [
       "B001HTINWA",
       "B01IRD2VYE"
-    ]
+    ],
+    "merchant": "ChefShop.com"
   },
   "crackers-dips-more-than-50-handmade-snacks": {
     "name": "Crackers & Dips: More Than 50 Handmade Snacks",
@@ -1795,13 +1805,14 @@
   "dutch-oven": {
     "name": "Dutch Oven",
     "category": "cookware-appliances",
-    "url": "https://www.amazon.com/dp/B000LEXR0K?tag=herb-hugo-20",
+    "url": "https://www.lecreuset.com/signature-round-dutch-oven-flame-5-5-qt/21177026090511.html",
     "original_url": "https://www.amazon.com/dp/B000LEXR0K?tag=herb-hugo-20",
     "asins": [
       "B000LEXR0K",
       "B000N4WN08",
       "B004QM8SK2"
-    ]
+    ],
+    "merchant": "Le Creuset"
   },
   "eden-foods-ume-plum-vinegar-10-fl-oz": {
     "name": "Eden Foods Ume Plum Vinegar, 10 Fl oz",
@@ -1915,12 +1926,13 @@
   },
   "farro": {
     "name": "farro",
-    "url": "https://www.amazon.com/dp/B07XLQ13WY?tag=herb-hugo-20",
+    "url": "https://www.nuts.com/products/organic-pearled-farro",
     "original_url": "https://www.amazon.com/dp/B07XLQ13WY?tag=herb-hugo-20",
     "asins": [
       "B07XLQ13WY"
     ],
-    "hidden": true
+    "hidden": true,
+    "merchant": "Nuts.com"
   },
   "fava-or-garbanzo-beans": {
     "name": "Fava or Garbanzo Beans",
@@ -2242,12 +2254,13 @@
   "gelpro-mats": {
     "name": "GelPro Mats",
     "category": "kitchen-gadgets",
-    "url": "https://www.amazon.com/dp/B016M6KL68?tag=herb-hugo-20",
+    "url": "https://www.gelpro.com/gelpro-elite-mat-woven/",
     "original_url": "https://www.amazon.com/dp/B016M6KL68?tag=herb-hugo-20",
     "asins": [
       "B016M6KL68"
     ],
-    "review_url": "/gelpro-mat-your-tired-feet-will-thank-you/"
+    "review_url": "/gelpro-mat-your-tired-feet-will-thank-you/",
+    "merchant": "GelPro"
   },
   "genmaicha-tea": {
     "name": "Genmaicha Tea",
@@ -2260,12 +2273,13 @@
   },
   "get-one-right-now": {
     "name": "get one right now",
-    "url": "https://www.amazon.com/dp/B001VGS1M6?tag=herb-hugo-20",
+    "url": "https://www.surlatable.com/product/microplane-soft-handle-zester-grater-12/622035",
     "original_url": "https://www.amazon.com/dp/B001VGS1M6?tag=herb-hugo-20",
     "asins": [
       "B001VGS1M6"
     ],
-    "hidden": true
+    "hidden": true,
+    "merchant": "Sur La Table"
   },
   "ghee": {
     "name": "ghee",
@@ -2280,13 +2294,14 @@
   "ghiradelli-semi-sweet-chocolate-chips": {
     "name": "Ghiradelli Semi-Sweet Chocolate Chips",
     "category": "sweeteners-chocolate",
-    "url": "https://www.amazon.com/dp/B000VK7PMK?tag=herb-hugo-20",
+    "url": "https://www.nuts.com/products/semi-sweet-chocolate-chips",
     "original_url": "https://www.amazon.com/dp/B000VK7PMK?tag=herb-hugo-20",
     "asins": [
       "B000VK7PMK",
       "B0014E1B7C",
       "B087HWZ348"
-    ]
+    ],
+    "merchant": "Nuts.com"
   },
   "ghost-chile-sea-salt-caramels": {
     "name": "Ghost Chile &amp; Sea Salt Caramels",
@@ -2386,12 +2401,13 @@
   "grill-pan": {
     "name": "Grill Pan",
     "category": "cookware-appliances",
-    "url": "https://www.amazon.com/dp/B0000CF66W?tag=herb-hugo-20",
+    "url": "https://www.lodgecastiron.com/products/square-cast-iron-grill-pan",
     "original_url": "https://www.amazon.com/dp/B0000CF66W?tag=herb-hugo-20",
     "asins": [
       "B00008GKDQ",
       "B0000CF66W"
-    ]
+    ],
+    "merchant": "Lodge Cast Iron"
   },
   "ground-cinnamon": {
     "name": "Ground Cinnamon",
@@ -2520,12 +2536,13 @@
   "hawaiian-red-alaea-salt": {
     "name": "Hawaiian Red Alaea Salt",
     "category": "spices-seasonings",
-    "url": "https://www.amazon.com/dp/B017GFKX0I?tag=herb-hugo-20",
+    "url": "https://www.thespicehouse.com/products/hawaiian-red-alaea-sea-salt",
     "original_url": "https://www.amazon.com/dp/B017GFKX0I?tag=herb-hugo-20",
     "asins": [
       "B000CC5EVG",
       "B017GFKX0I"
-    ]
+    ],
+    "merchant": "The Spice House"
   },
   "hawaiian-red-salt": {
     "name": "Hawaiian Red Salt",
@@ -2706,12 +2723,13 @@
   },
   "i-like-you-hospitality-under-the-influence": {
     "name": "I Like You: Hospitality Under the Influence",
-    "url": "https://www.amazon.com/dp/0446696773?tag=herb-hugo-20",
+    "url": "https://www.barnesandnoble.com/w/i-like-you-amy-sedaris/1100298170",
     "original_url": "https://www.amazon.com/dp/0446696773?tag=herb-hugo-20",
     "asins": [
       "0446696773"
     ],
-    "hidden": true
+    "hidden": true,
+    "merchant": "Barnes & Noble"
   },
   "ice-cream-freezers-like-they-have-on-iron-chef": {
     "name": "Ice Cream Freezers Like They Have on Iron Chef",
@@ -2876,11 +2894,12 @@
   "just-get-one": {
     "name": "Just Get One",
     "category": "kitchen-gadgets",
-    "url": "https://www.amazon.com/dp/B0BWK6XK7G?tag=herb-hugo-20",
+    "url": "https://sodastream.com/products/classic",
     "original_url": "https://www.amazon.com/dp/B0BWK6XK7G?tag=herb-hugo-20",
     "asins": [
       "B0BWK6XK7G"
-    ]
+    ],
+    "merchant": "SodaStream USA"
   },
   "just-soft-boiled": {
     "name": "just soft-boiled",
@@ -2960,11 +2979,12 @@
   "kitchen-confidential": {
     "name": "Kitchen Confidential",
     "category": "books",
-    "url": "https://www.amazon.com/dp/0060899220?tag=herb-hugo-20",
+    "url": "https://www.barnesandnoble.com/w/kitchen-confidential-anthony-bourdain/1100390361",
     "original_url": "https://www.amazon.com/dp/0060899220?tag=herb-hugo-20",
     "asins": [
       "0060899220"
-    ]
+    ],
+    "merchant": "Barnes & Noble"
   },
   "kitchen-scale-that-works-in-grams": {
     "name": "Kitchen Scale That Works in Grams",
@@ -3119,14 +3139,15 @@
   "lm-pectin": {
     "name": "LM Pectin",
     "category": "pantry-staples",
-    "url": "https://www.amazon.com/dp/B0009XBJCG?tag=herb-hugo-20",
+    "url": "https://www.iherb.com/pr/pomona-s-universal-pectin-pectin-1-1-oz-31-g/109849",
     "original_url": "https://www.amazon.com/dp/B0009XBJCG?tag=herb-hugo-20",
     "asins": [
       "B0009XBJCG",
       "B001HTIU96",
       "B0096UW1CK"
     ],
-    "review_url": "/entry-avocado-grapefruit-mango-yuzu-cilantro/"
+    "review_url": "/entry-avocado-grapefruit-mango-yuzu-cilantro/",
+    "merchant": "iHerb"
   },
   "lobster-mushroom": {
     "name": "Lobster Mushroom",
@@ -3163,11 +3184,12 @@
   "look-inside-on-amazon": {
     "name": "Look Inside on Amazon",
     "category": "books",
-    "url": "https://www.amazon.com/dp/0307952177?tag=herb-hugo-20",
+    "url": "https://www.barnesandnoble.com/w/dirt-candy-amanda-cohen/1111343501",
     "original_url": "https://www.amazon.com/dp/0307952177?tag=herb-hugo-20",
     "asins": [
       "0307952177"
-    ]
+    ],
+    "merchant": "Barnes & Noble"
   },
   "lou-s-first-book": {
     "name": "Lou's First Book",
@@ -3191,12 +3213,13 @@
   "madhur-jaffrey-s-world-vegetarian": {
     "name": "Madhur Jaffrey&#39;s World Vegetarian",
     "category": "books",
-    "url": "https://www.amazon.com/dp/0609809237?tag=herb-hugo-20",
+    "url": "https://www.barnesandnoble.com/w/madhur-jaffreys-world-vegetarian-madhur-jaffrey/1138713746",
     "original_url": "https://www.amazon.com/dp/0609809237?tag=herb-hugo-20",
     "asins": [
       "0609809237",
       "1579652077"
-    ]
+    ],
+    "merchant": "Barnes & Noble"
   },
   "magnetic-block": {
     "name": "Magnetic Block",
@@ -3210,13 +3233,14 @@
   "maille-pickles-cornichons-original": {
     "name": "Maille Pickles Cornichons Original",
     "category": "condiments-sauces",
-    "url": "https://www.amazon.com/dp/B00112IYZ4?tag=herb-hugo-20",
+    "url": "https://www.chefshop.com/products/cornichons-france",
     "original_url": "https://www.amazon.com/dp/B00112IYZ4?tag=herb-hugo-20",
     "asins": [
       "B00112IYZ4",
       "B0B8T8K2TC"
     ],
-    "review_url": "/grapefruit-and-avocado-crudo/"
+    "review_url": "/grapefruit-and-avocado-crudo/",
+    "merchant": "ChefShop.com"
   },
   "maldon-aka-the-world-s-greatest-salt-sea-salt": {
     "name": "Maldon (aka the World's Greatest Salt) Sea Salt",
@@ -3549,11 +3573,12 @@
   "momofuku-by-david-chang": {
     "name": "Momofuku by David Chang",
     "category": "books",
-    "url": "https://www.amazon.com/dp/030745195X?tag=herb-hugo-20",
+    "url": "https://www.barnesandnoble.com/w/momofuku-david-chang/1137656659",
     "original_url": "https://www.amazon.com/dp/030745195X?tag=herb-hugo-20",
     "asins": [
       "030745195X"
-    ]
+    ],
+    "merchant": "Barnes & Noble"
   },
   "moosewood": {
     "name": "Moosewood",
@@ -3566,12 +3591,13 @@
   },
   "more-expensive-thermapen-model": {
     "name": "more expensive Thermapen model",
-    "url": "https://www.amazon.com/dp/B003P601S2?tag=herb-hugo-20",
+    "url": "https://www.thermoworks.com/products/thermapen-one",
     "original_url": "https://www.amazon.com/dp/B003P601S2?tag=herb-hugo-20",
     "asins": [
       "B003P601S2"
     ],
-    "hidden": true
+    "hidden": true,
+    "merchant": "ThermoWorks"
   },
   "morimoto-the-new-art-of-japanese-cooking": {
     "name": "Morimoto: the New Art of Japanese Cooking",
@@ -4467,11 +4493,12 @@
   "saffron": {
     "name": "Saffron",
     "category": "middle-eastern-indian-pantry",
-    "url": "https://www.amazon.com/dp/B007P4W0OI?tag=herb-hugo-20",
+    "url": "https://www.savoryspiceshop.com/products/spanish-coupe-saffron",
     "original_url": "https://www.amazon.com/dp/B007P4W0OI?tag=herb-hugo-20",
     "asins": [
       "B007P4W0OI"
-    ]
+    ],
+    "merchant": "Savory Spice Shop"
   },
   "saffron-shores-jewish-cooking-of-the-southern": {
     "name": "Saffron Shores: Jewish Cooking of the Southern Mediterranean",
@@ -4485,11 +4512,12 @@
   "saffron-threads": {
     "name": "Saffron Threads",
     "category": "middle-eastern-indian-pantry",
-    "url": "https://www.amazon.com/dp/B072K71972?tag=herb-hugo-20",
+    "url": "https://www.savoryspiceshop.com/products/spanish-coupe-saffron",
     "original_url": "https://www.amazon.com/dp/B072K71972?tag=herb-hugo-20",
     "asins": [
       "B072K71972"
-    ]
+    ],
+    "merchant": "Savory Spice Shop"
   },
   "salted-a-manifesto-on-the-world-s-most": {
     "name": "Salted: a Manifesto on the World's Most Essential Mineral, with Recipes",
@@ -4897,11 +4925,12 @@
   "star-anise": {
     "name": "Star Anise",
     "category": "asian-pantry",
-    "url": "https://www.amazon.com/dp/B08BXF9X52?tag=herb-hugo-20",
+    "url": "https://www.nuts.com/products/star-anise",
     "original_url": "https://www.amazon.com/dp/B08BXF9X52?tag=herb-hugo-20",
     "asins": [
       "B08BXF9X52"
-    ]
+    ],
+    "merchant": "Nuts.com"
   },
   "starfrit-salad-spinner": {
     "name": "Starfrit Salad Spinner",
@@ -4979,12 +5008,13 @@
   "sunflower-seed-butter": {
     "name": "Sunflower Seed Butter",
     "category": "pantry-staples",
-    "url": "https://www.amazon.com/dp/B008K4HTN4?tag=herb-hugo-20",
+    "url": "https://www.nuts.com/products/organic-sunflower-butter",
     "original_url": "https://www.amazon.com/dp/B008K4HTN4?tag=herb-hugo-20",
     "asins": [
       "B000VK84P2",
       "B008K4HTN4"
-    ]
+    ],
+    "merchant": "Nuts.com"
   },
   "suribachi-japanese-ridged-ceramic-mortar-and": {
     "name": "Suribachi (Japanese Ridged Ceramic Mortar and Pestle)",
@@ -5188,11 +5218,12 @@
   "the-art-of-simple-food-by-alice-waters": {
     "name": "The Art of Simple Food by Alice Waters",
     "category": "books",
-    "url": "https://www.amazon.com/dp/0307336794?tag=herb-hugo-20",
+    "url": "https://www.barnesandnoble.com/w/the-art-of-simple-food-alice-waters/1138089471",
     "original_url": "https://www.amazon.com/dp/0307336794?tag=herb-hugo-20",
     "asins": [
       "0307336794"
-    ]
+    ],
+    "merchant": "Barnes & Noble"
   },
   "the-book": {
     "name": "The Book",
@@ -5253,11 +5284,12 @@
   "the-man-who-ate-everything": {
     "name": "The Man Who Ate Everything",
     "category": "books",
-    "url": "https://www.amazon.com/dp/0375702024?tag=herb-hugo-20",
+    "url": "https://www.barnesandnoble.com/w/man-who-ate-everything-jeffrey-steingarten/1100095426",
     "original_url": "https://www.amazon.com/dp/0375702024?tag=herb-hugo-20",
     "asins": [
       "0375702024"
-    ]
+    ],
+    "merchant": "Barnes & Noble"
   },
   "the-mushroom-hunters": {
     "name": "The Mushroom Hunters",
@@ -5426,11 +5458,12 @@
   "toasted-sesame-paste-tahini": {
     "name": "Toasted Sesame Paste (tahini)",
     "category": "middle-eastern-indian-pantry",
-    "url": "https://www.amazon.com/dp/B0D82M5SWZ?tag=herb-hugo-20",
+    "url": "https://nuts.com/cookingbaking/condiments/nut-butters-oils/soom-tahini",
     "original_url": "https://www.amazon.com/dp/B0D82M5SWZ?tag=herb-hugo-20",
     "asins": [
       "B0D82M5SWZ"
-    ]
+    ],
+    "merchant": "Nuts.com"
   },
   "toasted-sesame-seeds": {
     "name": "Toasted Sesame Seeds",
@@ -5584,11 +5617,12 @@
   "turmeric-powder": {
     "name": "Turmeric Powder",
     "category": "middle-eastern-indian-pantry",
-    "url": "https://www.amazon.com/dp/B000VK49YM?tag=herb-hugo-20",
+    "url": "https://www.savoryspiceshop.com/products/ground-turmeric-powder",
     "original_url": "https://www.amazon.com/dp/B000VK49YM?tag=herb-hugo-20",
     "asins": [
       "B000VK49YM"
-    ]
+    ],
+    "merchant": "Savory Spice Shop"
   },
   "ultra-tex-3": {
     "name": "Ultra-Tex 3",
@@ -5698,13 +5732,14 @@
   "vita-prep": {
     "name": "Vita-Prep",
     "category": "cookware-appliances",
-    "url": "https://www.amazon.com/dp/B071P9FYDS?tag=herb-hugo-20",
+    "url": "https://www.vitamix.com/us/en_us/products/commercial/vita-prep-3",
     "original_url": "https://www.amazon.com/dp/B071P9FYDS?tag=herb-hugo-20",
     "asins": [
       "B000LQETHI",
       "B008H4SLV6",
       "B071P9FYDS"
-    ]
+    ],
+    "merchant": "Vitamix"
   },
   "w-sthof-classic-3-5-paring-knife": {
     "name": "W\u00fcsthof Classic 3.5\" Paring Knife",
@@ -5766,12 +5801,13 @@
   "white-miso": {
     "name": "White Miso",
     "category": "asian-pantry",
-    "url": "https://www.amazon.com/dp/B005258AZU?tag=herb-hugo-20",
+    "url": "https://thrivemarket.com/p/thrive-market-organic-white-miso-paste",
     "original_url": "https://www.amazon.com/dp/B005258AZU?tag=herb-hugo-20",
     "asins": [
       "B005258AZU",
       "B078HTGHH2"
-    ]
+    ],
+    "merchant": "Thrive Market"
   },
   "whole-wheat-pastry-flour": {
     "name": "Whole Wheat Pastry Flour",
