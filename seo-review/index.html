@@ -1,0 +1,21 @@
+<!doctype html><meta charset=utf-8><title>SEO title review</title>
+<style>body{font:14px system-ui;max-width:900px;margin:20px auto;padding:0 16px}.c{border:1px solid #ccc;border-radius:8px;padding:12px;margin:12px 0}.c.ok{background:#eefaf0}.c.no{background:#fdf0f0}
+.old{color:#888}.t{color:#1a0dab;font-size:18px}.d{color:#444}input,textarea{width:100%;font:inherit;box-sizing:border-box}button{margin-right:6px;padding:4px 12px}small{color:#666}</style>
+<h2>Title &amp; meta proposals</h2><div id=top></div><div id=l></div>
+<script>
+let P=[],D={};
+async function init(){P=await (await fetch('proposals.json')).json();D=await (await fetch('/decisions.json')).json().catch(()=>({}));render()}
+function save(){fetch('/save',{method:'POST',body:JSON.stringify(D)})}
+function set(id,s){D[id]=Object.assign(D[id]||{},{status:s});save();render()}
+function edit(id,k,v){D[id]=Object.assign(D[id]||{},{[k]:v});save()}
+function render(){
+ top.innerHTML=Object.values(D).filter(x=>x.status=='ok').length+' approved of '+P.length;
+ l.innerHTML=P.map(p=>{const d=D[p.id]||{},st=d.status||'';
+ return `<div class="c ${st}"><small>${p.url} · ${p.impressions} impr · ${p.clicks} clicks · CTR ${p.ctr}% · pos ${p.position}<br>queries: ${p.queries.map(q=>q.query||q[0]||q).join('; ')}</small>
+ <div class=old>Now: ${p.current_title}<br>${p.current_desc}</div>
+ <div class=t>${d.seo_title||p.seo_title}</div><div class=d>${d.description||p.description}</div>
+ <input value="${(d.seo_title||p.seo_title).replace(/"/g,'&quot;')}" onchange="edit('${p.id}','seo_title',this.value)">
+ <textarea rows=2 onchange="edit('${p.id}','description',this.value)">${d.description||p.description}</textarea>
+ <button onclick="set('${p.id}','ok')">Approve</button><button onclick="set('${p.id}','no')">Reject</button></div>`}).join('')}
+init()
+</script>

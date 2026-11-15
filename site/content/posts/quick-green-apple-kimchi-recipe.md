@@ -21,6 +21,8 @@ recipe:
     - "Cut the apples into 1/8\" thick slices, avoiding the core. You can leave the skin on. Cut the slices into 1/2\" wide strips. The easiest way to do this is on a mandoline - you can do the whole thing in one move with the wide julienne cutter."
     - "Put all ingredients in a bowl and use your hands to toss it thoroughly, working the gochugaru into the apple. Taste and adjust seasoning to your preference."
     - "Reserve in refrigerator until ready to use. Use within a couple of hours or it can become too soggy."
+description: "A quick green apple \"kimchi\" with the crunch and spice of the classic, made much faster. An easy vegetarian side dish."
+seo_title: "Quick Apple Kimchi Recipe (Green Apple Kimchi)"
 ---
 
 As I mentioned in the <a href="/2012/08/tomato-and-nectarine-salad-with-a-korean-dressing-recipe/" target="_blank">Tomato and Nectarine Salad</a>, I've fallen in love with {{% product id="gochugaru-a-korean-chili-powder" target="_blank" %}}gochugaru (Korean chili powder{{% /product %}}). It is spicy, but not so spicy that you can't use enough of it to also appreciate its fruity, tart notes. I like using it to make quick "kimchi". I'm putting the "kimchi" in quotes because there is no fermentation at all. I'm <strong>not</strong> putting it in quotes because this is apple, not cabbage - Koreans make kimchi from all sorts of things besides those familiar leaves.

@@ -23,6 +23,8 @@ recipe:
     - "Thoroughly blister red pepper with blowtorch; set in covered bowl for 5 mins. Rub off skin with a paper towel. Split and discard stem, seeds, and ribs. Roughly chop. (Alternatively, you can roast the red peppers under the broiler, or, very carefully, on a stove burner, and then proceed as directed.)"
     - "Toast hazelnuts in a skillet over medium heat until lightly browned and fragrant."
     - "Put hazelnuts in a blender and process at medium speed until powdered. Squeeze garlic cloves out of skin and add to blender. Add bell pepper, tomatoes, salt, vinegar and smoked paprika and process to a paste. With blender running on low speed, drizzle in the the hazelnut oil. Taste and adjust seasoning."
+description: "Romesco, the Spanish red pepper sauce, made with hazelnuts or almonds. A vegetarian recipe you can spoon over vegetables or serve as a dip."
+seo_title: "Hazelnut Romesco Sauce (Spanish Red Pepper Sauce)"
 ---
 Romesco is a wonderful Spanish sauce made from roasted red peppers, tomatoes, roasted garlic and toasted nuts. It can be used as a party dip or spread, served as part of a tapas-style meal, stirred into mayonaise, slathered onto a sandwich...
 

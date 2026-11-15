@@ -19,6 +19,8 @@ recipe:
     - "Up to 1/2 cup ice cold water"
   instructions:
     - "In a small bowl, whisk together half of the kochujang and all of the mirin, rice vinegar, salt, and ginger. Whisk in enough ice cold water to reach a thin sauce consistency. Taste and adjust seasoning, adding the rest of the kochujang depending on your heat preference. Refrigerate, or if you want to serve soon, place in the freezer."
+description: "A recipe for bibim naengmyeon and jjolmyeon, Korean cold noodles in a spicy, tangy sauce. A vegetarian take on a summer favorite."
+seo_title: "Bibim Naengmyeon: Cold, Spicy Korean Noodles"
 ---
 Cold. <strong>Not cool</strong>. Cold, cold, cold. <strong>Ice cold</strong>. That's what makes these noodles great.
 

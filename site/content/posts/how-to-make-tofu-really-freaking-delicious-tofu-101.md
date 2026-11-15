@@ -7,6 +7,8 @@ aliases: ["/how-to-make-tofu-really-freaking-delicious-tofu-101/", "/2012/05/how
 cover:
   image: "/images/2012/05/Tofu-101-Done-626x415.webp"
   hidden: true
+description: "A practical guide to cooking tofu so it's flavorful, crisp and never bland, from the basics to recipes that make tofu the star."
+seo_title: "How to Cook Tofu So It's Really Delicious (Tofu 101)"
 ---
 
 When I talk with folks about meatless meals, the conversation always comes around to tofu. I find people in two camps: (1) those who hate it and are sure it is always <strong>bland</strong> (2) those who want to like it, but aren't really sure how to work with it to make it delicious.

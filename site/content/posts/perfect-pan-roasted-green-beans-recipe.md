@@ -22,6 +22,8 @@ recipe:
     - "Rinse the green beans and leave a bit of water clinging to them. Place them in a microwave-safe bowl with a lid and microwave on high power for 1 minute, then carefully toss with tongs and return to the microwave. Repeat the covering, microwaving and tossing 1 minute or less at a time until the beans have turned a brighter shade of green, but with still have a noticeable firmness about them. In my microwave the total time is only about 2 minutes."
     - "Leave the skillet on high heat. Add a couple of tablespoons of the vegetable oil to the skillet and immediately add the beans, using tongs so as to leave any water behind in the bowl. Add a big pinch of Kosher salt and toss the beans, then spread them out evenly in the pan. Cook, tossing only occasionally, until there are many browned spots on the beans, about 3 minutes"
     - "Transfer your beautifully caramelized green beans to a serving platter and finish with a drizzle of extra-virgin olive oil and a nice scattering of sea salt."
+description: "The trick to green beans with real caramelized spots: microwave them first, then roast or pan-sear. Includes how long to microwave green beans."
+seo_title: "How to Cook Green Beans: Microwave, Then Roast"
 ---
 <br><em>Perfect Roasted Green Beans</em>
 

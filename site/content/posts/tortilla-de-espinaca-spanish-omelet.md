@@ -7,6 +7,8 @@ aliases: ["/tortilla-de-espinaca-spanish-omelet/", "/2012/02/tortilla-de-espinac
 cover:
   image: "/images/2012/06/Tortilla-De-Espinaca-626x415.webp"
   hidden: true
+description: "A vegetarian Spanish omelet with spinach, tortilla de espinacas, with step-by-step instructions."
+seo_title: "Spanish Spinach Omelet (Tortilla de Espinacas)"
 ---
 
 When we had our first kiddo, family and friends helped out by bringing over food, doing laundry, and generally making it so we could stay in our pajamas and <strong>figure out how the heck to be parents</strong>. It was wonderful. Seriously, if you have the opportunity to do that for a someone you know, they will never forget it.

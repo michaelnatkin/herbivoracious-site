@@ -23,6 +23,8 @@ recipe:
     - "In a large bowl, cover the cabbage and carrot with boiling water and allow to stand for a minute."
     - "Drain well, then combine all other ingredients."
     - "Taste and adjust the seasoning. Allow to stand for at least an hour. Toss again just before serving."
+description: "How to make pupusas de queso, El Salvador's national dish: corn masa stuffed with cheese, flattened and cooked on a griddle. A vegetarian recipe."
+seo_title: "Pupusas de Queso: Salvadoran Cheese-Filled Tortillas"
 ---
 
 Pupusas are El Salvador's best known national delicacy. The concept is simple, just corn masa with a savory filling and flattened into a thick disc, then baked on a lightly-greased griddle or in a {{% product id="lodge-12-inch-cast-iron-pre-seasoned-skillet" %}}cast-iron skillet{{% /product %}}. Essentially like a quesadilla, though there is something different about the taste when the filling is cooked at the same time as the dough instead of in a second pass. They are also quite similar to the arepas of South America.

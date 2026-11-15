@@ -3,12 +3,12 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
+  <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ with .Params.seo_title }}{{ . }}{{ else }}{{ .Title }}{{ end }} | {{ .Site.Title }}{{ end }}</title>
   <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
   <meta name="author" content="{{ .Site.Params.author }}">
   <link rel="canonical" href="{{ .Permalink }}">
   <link rel="alternate" type="application/rss+xml" href="{{ "index.xml" | absURL }}" title="{{ .Site.Title }}">
-  <meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }}{{ end }}">
+  <meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ with .Params.seo_title }}{{ . }}{{ else }}{{ .Title }}{{ end }}{{ end }}">
   <meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
   <meta property="og:url" content="{{ .Permalink }}">
   <meta property="og:site_name" content="{{ .Site.Title }}">
@@ -18,7 +18,7 @@
   {{- if not $ogImage }}{{ $ogImage = ("images/2013/08/Mission-Chinese-Style-Tofu-with-Radish-and-Shiso-626x415.jpg" | absURL) }}{{ end }}
   <meta property="og:image" content="{{ $ogImage }}">
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }}{{ end }}">
+  <meta name="twitter:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ with .Params.seo_title }}{{ . }}{{ else }}{{ .Title }}{{ end }}{{ end }}">
   <meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
   <meta name="twitter:image" content="{{ $ogImage }}">
   {{ if and .IsPage .Params.recipe }}

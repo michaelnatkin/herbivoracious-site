@@ -23,6 +23,8 @@ recipe:
     - "Finely grind the Sichuan peppercorns and coriander seed and combine with the ancho powder. Remove the seeds and stem from the guajillo chili and cut it lengthwise into 2 strips, and then slice those crosswise into the thinnest threads you can manage. Add to the spices."
     - "Cut strips of orange zest, being careful to avoid the pith, then use your knife to cut into threads similar to the chili threads. Add to the spices."
     - "Line a paper plate with towels. Heat the oil in a large skillet over medium heat. Add the spice mixture and cook until fragrant, but don't allow to burn. Add the peanuts and cook, tossing frequently, for 2 more minutes. Remove to the paper towels, including all of the spices. Allow to drain for a few minutes, then transfer to a bowl, toss with the salt, adjust seasoning, and serve (or they will keep for a few days)."
+description: "Crunchy peanuts tossed with Sichuan peppercorns for a tingly, savory snack that's made for beer. Easy to make at home."
+seo_title: "Sichuan Peppercorn Peanuts: A Snack That Wants a Beer"
 ---
 The idea for these came from a packaged Japanese snack that I find totally addictive. It is easy to make at home, and then you can adjust the ratio of heat, orange zest, salt, and the tongue-numbing zing of the Sichuan peppercorn to your own preference. These guys pretty much have "snack with a beer" written all over them. They would also be awesome tossed with crispy, pan-fried tofu for a spicy variation on kung pao.
 

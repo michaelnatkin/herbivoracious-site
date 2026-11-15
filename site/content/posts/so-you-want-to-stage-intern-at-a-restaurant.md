@@ -4,6 +4,8 @@ date: 2012-03-22T09:59:57
 slug: "so-you-want-to-stage-intern-at-a-restaurant"
 categories: ["Cooking Internship", "Theory and Rants"]
 aliases: ["/so-you-want-to-stage-intern-at-a-restaurant/", "/2012/03/so-you-want-to-stage-intern-at-a-restaurant.html"]
+description: "A stage is an unpaid kitchen internship. What it is, how to land one, and what to expect, from a home cook who staged at Canlis and Dirt Candy."
+seo_title: "What Is a Stage in a Restaurant? How to Get One"
 ---
 
 So... you are a middle manager in charge of filing reports in triplicate, but you are a good home cook, watch Top Chef and read Lucky Peach, and <strong>secretly fantasize about giving up your day job</strong> to work in a kitchen. You probably know enough to know that the restaurant world has a place for people like you, and that is called a stage (in French, so prounced stahzh), but you have no idea how to ask for one, or, if accepted what to expect when you get there.

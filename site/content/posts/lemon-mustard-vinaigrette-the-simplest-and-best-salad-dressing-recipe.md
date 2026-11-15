@@ -2,7 +2,7 @@
 title: "Lemon-Mustard Vinaigrette - The Simplest and Best Salad Dressing - Recipe"
 date: 2009-05-21T05:59:00
 slug: "lemon-mustard-vinaigrette-the-simplest-and-best-salad-dressing-recipe"
-description: "Recipe for the easiest and most delicious salad dressing in the world - lemon and mustard vinaigrette. You can use this every night and never tire of it."
+description: "The simplest and best salad dressing: a lemon mustard vinaigrette made with pantry staples. Vegetarian and easy to scale."
 categories: ["Favorites", "Recipes", "Salads"]
 aliases: ["/lemon-mustard-vinaigrette-the-simplest-and-best-salad-dressing-recipe/", "/2009/05/lemon-mustard-vinaigrette-the-simplest-and-best-salad-dressing-recipe.html"]
 cover:
@@ -19,6 +19,7 @@ recipe:
     - "Option 1: combine all ingredients in a small jar with a tight fitting lid. Shake vigorously for 30 seconds until emulsified."
     - "Option 2: Combine the lemon juice, mustard and salt in a bowl. Drizzle in the olive oil while whisking continuosly."
     - "Taste and adjust the salt, and add more lemon juice or olive oil to achieve a pleasing balance of acidity."
+seo_title: "Lemon Mustard Vinaigrette (Simple Salad Dressing)"
 ---
 
 I've never understood why people buy salad dressing, when an infinitely more delicious, fresher, healthier homemade vinaigrette is only 30 seconds away.

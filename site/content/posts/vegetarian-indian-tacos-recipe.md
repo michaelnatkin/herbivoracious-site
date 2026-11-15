@@ -2,7 +2,7 @@
 title: "Vegetarian Indian Tacos - Recipe"
 date: 2010-09-07T07:02:00
 slug: "vegetarian-indian-tacos-recipe"
-description: "Indian tacos (made with Navajo fry bread) are a food that came out of poverty and internment, but are now a huge symbol of Native American culture. Here is a recipe for a spicy, delicious vegetarian version."
+description: "Make Indian tacos with homemade Navajo fry bread and a spicy vegetarian topping, plus the history of this iconic Native American food."
 categories: ["Kid Friendly", "Main Courses", "Recipes"]
 aliases: ["/vegetarian-indian-tacos-recipe/", "/2010/09/vegetarian-indian-tacos-recipe.html"]
 cover:
@@ -37,6 +37,7 @@ recipe:
     - "When ready to fry (just before serving, they are best fresh), bring a skillet filled with 3/4\" of oil to 365 degrees F. Divide the dough into 4 balls and roll each one out to about 9\" in diameter. Fry one at a time until medium golden brown (not as dark as the photograph), flipping to cook both sides. Be careful when flipping - they are big enough that if you just flop over with a spatula it can cause a dangerous splash. I used a spatula and a spoon to control them. Remove to paper towels to drain."
     - "Heat the oil in a big skillet over a medium-high flame. Fry the the onion and garlic for 1 minute, then add the summer squash and 3/4 teaspoon of salt. Cook, tossing occasionally, until browned; add the corn and cook 2 minutes; add the poblanos and oregano and heat through. Taste and adjust seasoning."
     - "Put a fry bread on each plate, and top with generous portions of beans, the squash saute cheese, onion, tomatoes, lettuce, guacamole and hot sauce. Serve immediately."
+seo_title: "Vegetarian Indian Tacos Recipe (Navajo Fry Bread)"
 ---
 
 <strong>Navajo Fry Bread</strong>, and the <strong>Indian Tacos</strong> made with it, have a sad and storied past. They originated in Native American internment camps set up by the US government in the 1860s, as a way to use the very limited rations provided. Cynthia Detteric-Pineda has an excellent page with the <a href="http://whatscookingamerica.net/History/NavajoFryBread.htm" target="_blank" rel="noopener">details of that history</a> and a recipe for the bread (which I've adapted slightly, below).
