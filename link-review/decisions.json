@@ -4995,7 +4995,7 @@
    "product": "Bistro Work Clog",
    "url": "https://www.crocs.com/p/bistro-work-clog/10075.html",
    "epc": 0.09,
-   "rate": 15.0,
+   "rate": 15,
    "price": null,
    "verified": true,
    "verified_by": "browser search page"
@@ -5010,7 +5010,7 @@
    "product": "Croft Reserve Tawny Porto 750ml",
    "url": "https://www.totalwine.com/wine/dessert-fortified-wine/port/tawny-port/croft-reserve-tawny-porto/p/148153750",
    "epc": 0.02,
-   "rate": 5.0,
+   "rate": 5,
    "price": "$24.99",
    "verified": true,
    "verified_by": "browser search page"
@@ -5025,8 +5025,1105 @@
    "product": "Martini & Rossi Dry Vermouth 750ml",
    "url": "https://www.totalwine.com/spirits/amaro-aperitif-vermouth/vermouth/dry/martini-rossi-dry-vermouth/p/3619750",
    "epc": 0.02,
-   "rate": 5.0,
+   "rate": 5,
    "price": "$13.99",
+   "verified": true,
+   "verified_by": "browser search page"
+  }
+ },
+ "amazon-b0006bddi4": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "Sur La Table",
+   "product": "Sur La Table Madeleine Pan",
+   "url": "https://www.surlatable.com/product/sur-la-table-madeleine-pan/9547571",
+   "epc": 0.06,
+   "rate": 9,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser search page"
+  }
+ },
+ "dedicated-paella-pan": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "Sur La Table",
+   "product": "Spanish Paella Pans",
+   "url": "https://www.surlatable.com/product/spanish-paella-pan-161-2-serves-10/506659",
+   "epc": 0.06,
+   "rate": 9,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser search page"
+  }
+ },
+ "garcima-15-inch-carbon-steel-paella-pan": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "Sur La Table",
+   "product": "Spanish Paella Pans",
+   "url": "https://www.surlatable.com/product/spanish-paella-pan-161-2-serves-10/506659",
+   "epc": 0.06,
+   "rate": 9,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser search page"
+  }
+ },
+ "ceramic-sharpening-steel": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "Sur La Table",
+   "product": "Kyocera Ceramic Sharpening Steel, 9\"",
+   "url": "https://www.surlatable.com/product/kyocera-ceramic-sharpening-steel-9/869636",
+   "epc": 0.06,
+   "rate": 9,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser search page"
+  }
+ },
+ "kitchenaid-pasta-roller-attachment": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "Sur La Table",
+   "product": "KitchenAid 3-in-1 Metal Pasta Attachment",
+   "url": "https://www.surlatable.com/product/kitchenaid-3-in-1-metal-pasta-attachment/9958042",
+   "epc": 0.06,
+   "rate": 9,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser search page"
+  }
+ },
+ "kitchenaid-pasta-extruder-attachment": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "Sur La Table",
+   "product": "KitchenAid Gourmet Pasta Press",
+   "url": "https://www.surlatable.com/product/kitchenaid-r-gourmet-pasta-press/706457",
+   "epc": 0.06,
+   "rate": 9,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser search page"
+  }
+ },
+ "great-item": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "Sur La Table",
+   "product": "Sur La Table Apple Slicer",
+   "url": "https://www.surlatable.com/product/sur-la-table-apple-slicer/3420361",
+   "epc": 0.06,
+   "rate": 9,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser search page"
+  }
+ },
+ "calphalon-12-inch-non-stick-omelet-pan": {
+  "comment": "find a nonstick of the right size",
+  "status": "rejected",
+  "choice": 0,
+  "chosen": {
+   "merchant": "Sur La Table",
+   "product": "de Buyer Carbon Steel Omelet Pan, 9.5\"",
+   "url": "https://www.surlatable.com/product/de-buyer-carbon-steel-omelet-pan-9-5/7849870",
+   "epc": 0.06,
+   "rate": 9,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser search page"
+  }
+ },
+ "magnetic-block": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "Sur La Table",
+   "product": "Sur La Table Bar Magnet",
+   "url": "https://www.surlatable.com/product/sur-la-table-bar-magnet-17-5/2267912",
+   "epc": 0.06,
+   "rate": 9,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser search page"
+  }
+ },
+ "miu-france-stainless-steel-magnetic-knife-holder": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "Sur La Table",
+   "product": "Sur La Table Bar Magnet",
+   "url": "https://www.surlatable.com/product/sur-la-table-bar-magnet-17-5/2267912",
+   "epc": 0.06,
+   "rate": 9,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser search page"
+  }
+ },
+ "knife": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "Sur La Table",
+   "product": "Victorinox Swiss Classic Chef's Knife",
+   "url": "https://www.surlatable.com/product/victorinox-swiss-classic-chef-s-knife/7476237",
+   "epc": 0.06,
+   "rate": 9,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser search page"
+  }
+ },
+ "emile-henry-lasagna-pan": {
+  "comment": "try harder to find a larger one",
+  "status": "rejected",
+  "choice": 0,
+  "chosen": {
+   "merchant": "Sur La Table",
+   "product": "Emile Henry Modern Classics Rectangular Baker, 13\"",
+   "url": "https://www.surlatable.com/product/emile-henry-modern-classics-rectangular-baker-13-x-9/8864381",
+   "epc": 0.06,
+   "rate": 9,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser search page"
+  }
+ },
+ "lovely-if-pricey-ones-from-emily-henry": {
+  "comment": "approve but fix the anchor text",
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "Sur La Table",
+   "product": "Le Creuset Straight-Wall Stoneware Ramekins, 6.75-oz, Set of 2",
+   "url": "https://www.surlatable.com/product/le-creuset-straight-wall-stoneware-ramekins-6-75-oz-set-of-2/8671323",
+   "epc": 0.06,
+   "rate": 9,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser search page"
+  }
+ },
+ "dispensing-scoop": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "Sur La Table",
+   "product": "Zeroll Ice Cream Scoop",
+   "url": "https://www.surlatable.com/product/zeroll-ice-cream-scoop/6823587",
+   "epc": 0.06,
+   "rate": 9,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser search page"
+  }
+ },
+ "ice-cream-freezers-like-they-have-on-iron-chef": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "Sur La Table",
+   "product": "Lello Lussino Ice Cream Machine",
+   "url": "https://www.surlatable.com/product/lello-lussino-ice-cream-machine/23833",
+   "epc": 0.06,
+   "rate": 9,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser search page"
+  }
+ },
+ "ateco-plain-edge-round-cutters-graduated-sizes": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "Sur La Table",
+   "product": "Sur La Table Round Cookie Cutters, Set of 10",
+   "url": "https://www.surlatable.com/product/sur-la-table-round-cookie-cutters-set-of-10/7314156",
+   "epc": 0.06,
+   "rate": 9,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser search page"
+  }
+ },
+ "cookie-sheet-with-a-rim": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "Sur La Table",
+   "product": "Sur La Table Platinum Pro Heavy Duty Half Sheet Pan",
+   "url": "https://www.surlatable.com/product/sur-la-table-platinum-pro-heavy-duty-half-sheet-pan/5774617",
+   "epc": 0.06,
+   "rate": 9,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser search page"
+  }
+ },
+ "my-mexico": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "Barnes & Noble",
+   "product": "My Mexico: A Culinary Odyssey with Recipes",
+   "url": "https://www.barnesandnoble.com/w/my-mexico-diana-kennedy/1115226228",
+   "epc": 0.01,
+   "rate": 5.15,
+   "price": "$17.99",
+   "verified": true,
+   "verified_by": "browser search page"
+  }
+ },
+ "flat-stanleyish": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "Barnes & Noble",
+   "product": "The Flat Stanley Collection (Flat Stanley Series)",
+   "url": "https://www.barnesandnoble.com/w/the-flat-stanley-collection-jeff-brown/1100661397",
+   "epc": 0.01,
+   "rate": 5.15,
+   "price": "$27.96",
+   "verified": true,
+   "verified_by": "browser search page"
+  }
+ },
+ "genmaicha-tea": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "iHerb.com",
+   "product": "The Tao of Tea, Organic Brown Rice Tea, Genmaicha, 3.5 oz",
+   "url": "https://www.iherb.com/pr/the-tao-of-tea-organic-brown-rice-tea-genmaicha-3-5-oz-100-g/45568",
+   "epc": 0.13,
+   "rate": 15,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser search page"
+  }
+ },
+ "hazelnut-butter": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "iHerb.com",
+   "product": "Dastony, Organic Hazelnut Butter, Ultra Smooth, 8 oz",
+   "url": "https://www.iherb.com/pr/dastony-organic-hazelnut-butter-ultra-smooth-8-oz-227-g/102096",
+   "epc": 0.13,
+   "rate": 15,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser search page"
+  }
+ },
+ "aroy-d-jackfruit-in-syrup": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "Weee!",
+   "product": "Aroy-D Toddy Palm and Jackfruit in Syrup",
+   "url": "https://www.weee.com/en/product/Aroy-D-Toddy-Palm-and-Jackfruit-in-Syrup/82438",
+   "epc": null,
+   "rate": null,
+   "price": "$5.79",
+   "verified": true,
+   "verified_by": "browser search page"
+  }
+ },
+ "amazon-b0000cnu2x": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "Weee!",
+   "product": "Spring Roll Wrapper 25 cm in Box (Banh Trang)",
+   "url": "https://www.weee.com/en/product/Spring-Roll-Wrapper-25-cm-in-Box-Banh-Trang-Thuong-Hang-25-cm/2150687",
+   "epc": null,
+   "rate": null,
+   "price": "$4.95",
+   "verified": true,
+   "verified_by": "browser search page"
+  }
+ },
+ "lime-pickle": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "Weee!",
+   "product": "Patak's Hot Lime Pickle 10 oz",
+   "url": "https://www.weee.com/en/product/PatakS-Hot-Lime-Pickle/2977438",
+   "epc": null,
+   "rate": null,
+   "price": "$11.29",
+   "verified": true,
+   "verified_by": "browser search page"
+  }
+ },
+ "polyscience-smoking-gun": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "Sur La Table",
+   "product": "The Smoking Gun by Breville",
+   "url": "https://www.surlatable.com/product/the-smoking-gun-by-breville/3217601",
+   "epc": 0.06,
+   "rate": 9,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser search page"
+  }
+ },
+ "indian-lime-pickle": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "Weee!",
+   "product": "Patak's Hot Lime Pickle 10 oz",
+   "url": "https://www.weee.com/en/product/PatakS-Hot-Lime-Pickle/2977438",
+   "epc": null,
+   "rate": null,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser search page"
+  }
+ },
+ "amazon-b001l106kq": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "ChefShop.com",
+   "product": "Mama Lils Original Pepper",
+   "url": "https://www.chefshop.com/products/mama-lils-original-pepper",
+   "epc": null,
+   "rate": null,
+   "price": "$13.95",
+   "verified": true
+  }
+ },
+ "amazon-b002ok2fca": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "Nuts.com",
+   "product": "Organic Sunflower Butter",
+   "url": "https://www.nuts.com/products/organic-sunflower-butter",
+   "epc": 0.38,
+   "rate": null,
+   "price": "$9.49",
+   "verified": true
+  }
+ },
+ "blend": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "Savory Spice Shop, LLC",
+   "product": "Berbere Ethiopian Seasoning",
+   "url": "https://www.savoryspiceshop.com/products/berbere-ethiopian-seasoning",
+   "epc": 0.33,
+   "rate": null,
+   "price": "$9.50",
+   "verified": true
+  }
+ },
+ "climbing-the-mango-trees": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "Barnes & Noble",
+   "product": "Climbing the Mango Trees (Madhur Jaffrey), paperback",
+   "url": "https://www.barnesandnoble.com/w/climbing-the-mango-trees-madhur-jaffrey/1100618681",
+   "epc": 0.01,
+   "rate": 5.15,
+   "price": "$15.95",
+   "verified": true,
+   "verified_by": "browser"
+  }
+ },
+ "craft": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "Barnes & Noble",
+   "product": "Craft of Cooking (Tom Colicchio), hardcover",
+   "url": "https://www.barnesandnoble.com/w/craft-of-cooking-tom-colicchio/1111611962?ean=9780609610503",
+   "epc": 0.01,
+   "rate": 5.15,
+   "price": "$33.75",
+   "verified": true,
+   "verified_by": "browser"
+  }
+ },
+ "hain-s-iodized-sea-salt": {
+  "comment": "get rid of link",
+  "status": "rejected",
+  "choice": 0,
+  "chosen": {
+   "merchant": "Nuts.com",
+   "product": "Sea Salt",
+   "url": "https://www.nuts.com/products/sea-salt",
+   "epc": 0.38,
+   "rate": null,
+   "price": "$4.49",
+   "verified": true
+  }
+ },
+ "himalayan-sulfur-salt": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "ChefShop.com",
+   "product": "Kala Namak (Himalayan Black Salt) - Coarse",
+   "url": "https://www.chefshop.com/products/himalayan-black-salt-kala-namak-coarse",
+   "epc": null,
+   "rate": null,
+   "price": "$11.95",
+   "verified": true
+  }
+ },
+ "japanese-black-sesame-paste": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "ChefShop.com",
+   "product": "Wadaman Black Sesame Paste - Organic",
+   "url": "https://www.chefshop.com/products/wadaman-black-sesame-paste-organic",
+   "epc": null,
+   "rate": null,
+   "price": "$13.95",
+   "verified": true
+  }
+ },
+ "japanese-black-sesame-paste-no-additives": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "ChefShop.com",
+   "product": "Nouka Black Sesame Paste",
+   "url": "https://www.chefshop.com/products/nouka-black-sesame-paste",
+   "epc": null,
+   "rate": null,
+   "price": "$17.95",
+   "verified": true
+  }
+ },
+ "jaques-pepin": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "Barnes & Noble",
+   "product": "The Apprentice: My Life in the Kitchen (Jacques Pepin)",
+   "url": "https://www.barnesandnoble.com/w/the-apprentice-jacques-pepin/1121677041",
+   "epc": 0.01,
+   "rate": 5.15,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser"
+  }
+ },
+ "joyva-sesame-tahini-15-oz": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "Nuts.com",
+   "product": "Organic Sesame Tahini",
+   "url": "https://www.nuts.com/products/organic-sesame-tahini",
+   "epc": 0.38,
+   "rate": null,
+   "price": "$13.49",
+   "verified": true
+  }
+ },
+ "karen-and-andrew": {
+  "comment": "search by title",
+  "status": "rejected",
+  "choice": 0,
+  "chosen": {
+   "merchant": "Barnes & Noble",
+   "product": "Becoming a Chef, Revised Edition (Andrew Dornenburg, Karen Page)",
+   "url": "https://www.barnesandnoble.com/w/becoming-a-chef-andrew-dornenburg/1130204700",
+   "epc": 0.01,
+   "rate": 5.15,
+   "price": "$31.00",
+   "verified": false,
+   "broken": true
+  }
+ },
+ "mexican-chiles-3-pack-guajillo-ancho-and": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "ChefShop.com",
+   "product": "Dried Guajillo Chili Pods",
+   "url": "https://www.chefshop.com/products/dried-guajillo-chili-pods",
+   "epc": null,
+   "rate": null,
+   "price": "$5.95",
+   "verified": true
+  }
+ },
+ "mirin": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "ChefShop.com",
+   "product": "Ohsawa Organic Sweet Rice Seasoning",
+   "url": "https://www.chefshop.com/products/ohsawa-organic-sweet-rice-seasoning",
+   "epc": null,
+   "rate": null,
+   "price": "$22.55",
+   "verified": true
+  }
+ },
+ "mirin-2": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "ChefShop.com",
+   "product": "Ohsawa Organic Sweet Rice Seasoning",
+   "url": "https://www.chefshop.com/products/ohsawa-organic-sweet-rice-seasoning",
+   "epc": null,
+   "rate": null,
+   "price": "$22.55",
+   "verified": true
+  }
+ },
+ "morita-chilis": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "ChefShop.com",
+   "product": "Villa Jerada Chile Morita Whole Pods - 1 pound",
+   "url": "https://www.chefshop.com/products/villa-jerada-chile-morita-whole-pods-1-pound",
+   "epc": null,
+   "rate": null,
+   "price": "$18.95",
+   "verified": true
+  }
+ },
+ "muscovado-sugar": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "ChefShop.com",
+   "product": "India Tree Dark Muscovado Sugar - 1 lb",
+   "url": "https://www.chefshop.com/products/india-tree-dark-muscovado-sugar-1-lb",
+   "epc": null,
+   "rate": null,
+   "price": "$7.95",
+   "verified": true
+  }
+ },
+ "new-mexico-chili-powder-1-lb-by-amazing-chiles": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "Savory Spice Shop, LLC",
+   "product": "Mild Red New Mexican Chile Powder",
+   "url": "https://www.savoryspiceshop.com/products/mild-red-new-mexican-chile-powder",
+   "epc": 0.33,
+   "rate": null,
+   "price": "$3.90",
+   "verified": true
+  }
+ },
+ "nori": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "ChefShop.com",
+   "product": "Motoi Nori Yakinori Zenkai (Roasted Seaweed) - 10 Full Sheets",
+   "url": "https://www.chefshop.com/products/moito-nori-yakinori-zenkai-roasted-seaweed-10-full-sheets",
+   "epc": null,
+   "rate": null,
+   "price": "$24.55",
+   "verified": true
+  }
+ },
+ "nori-seaweed": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "ChefShop.com",
+   "product": "Motoi Nori Yakinori Zenkai (Roasted Seaweed) - 10 Full Sheets",
+   "url": "https://www.chefshop.com/products/moito-nori-yakinori-zenkai-roasted-seaweed-10-full-sheets",
+   "epc": null,
+   "rate": null,
+   "price": "$24.55",
+   "verified": true
+  }
+ },
+ "nutmeg-grater-with-whole-nutmegs": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "Savory Spice Shop, LLC",
+   "product": "Whole Nutmeg",
+   "url": "https://www.savoryspiceshop.com/products/whole-nutmeg",
+   "epc": 0.33,
+   "rate": null,
+   "price": "$4.99",
+   "verified": true
+  }
+ },
+ "pasilla-ancho-or-new-mexico": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "ChefShop.com",
+   "product": "Dried Pasilla Negro Chili Pods",
+   "url": "https://www.chefshop.com/products/dried-pasilla-negro-chili-pods",
+   "epc": null,
+   "rate": null,
+   "price": "$7.95",
+   "verified": true
+  }
+ },
+ "pasilla-oaxaca-or-other-whole-dried-chiles": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "ChefShop.com",
+   "product": "Villa Jerada Pasilla Chile Whole Pods - 1 pound",
+   "url": "https://www.chefshop.com/products/villa-jerada-pasilla-chile-whole-pods-1-pound",
+   "epc": null,
+   "rate": null,
+   "price": "$20.95",
+   "verified": true
+  }
+ },
+ "paste": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "Savory Spice Shop, LLC",
+   "product": "Achiote Paste",
+   "url": "https://www.savoryspiceshop.com/products/achiote-paste",
+   "epc": 0.33,
+   "rate": null,
+   "price": "$4.99",
+   "verified": true
+  }
+ },
+ "pure-indian-foods-organic-jaggery-sugar-2-pack": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "ChefShop.com",
+   "product": "Jaipur Avenue Unrefined Jaggery Powder",
+   "url": "https://www.chefshop.com/products/jaipur-avenue-unrefined-jaggery-powder",
+   "epc": null,
+   "rate": null,
+   "price": "$16.95",
+   "verified": true
+  }
+ },
+ "roasted-red-or-yellow-peppers": {
+  "comment": "nothing on weee?",
+  "status": "rejected",
+  "choice": 0,
+  "chosen": {
+   "merchant": "ChefShop.com",
+   "product": "Matiz Piquillo Peppers - Peru",
+   "url": "https://www.chefshop.com/products/matiz-piquillo-peppers-peru",
+   "epc": null,
+   "rate": null,
+   "price": "$7.95",
+   "verified": true
+  }
+ },
+ "s-b-la-yu-chili-oil": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "ChefShop.com",
+   "product": "Wadaman Rayu (Chili Sesame Oil)",
+   "url": "https://www.chefshop.com/products/wadaman-rayu-chili-sesame-oil",
+   "epc": null,
+   "rate": null,
+   "price": "$30.95",
+   "verified": true
+  }
+ },
+ "sadaf-dried-mint-leaves-2-oz": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "Nuts.com",
+   "product": "Spearmint Leaves",
+   "url": "https://www.nuts.com/products/spearmint-leaves",
+   "epc": 0.38,
+   "rate": null,
+   "price": "$4.99",
+   "verified": true
+  }
+ },
+ "sesame-seeds-2": {
+  "choice": 1,
+  "status": "approved",
+  "chosen": {
+   "merchant": "Nuts.com",
+   "product": "Sesame Seeds (Hulled)",
+   "url": "https://www.nuts.com/products/sesame-seeds-hulled",
+   "epc": 0.38,
+   "rate": null,
+   "price": "$5.49",
+   "verified": true
+  }
+ },
+ "short-grained-spanish-rice": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "ChefShop.com",
+   "product": "Paella Bomba Rice - Matiz",
+   "url": "https://www.chefshop.com/products/paella-bomba-rice-matiz",
+   "epc": null,
+   "rate": null,
+   "price": "$25.95",
+   "verified": true
+  }
+ },
+ "soeos-sichuan-peppercorn-powder": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "Savory Spice Shop, LLC",
+   "product": "Szechuan Peppercorns",
+   "url": "https://www.savoryspiceshop.com/products/szechuan-peppercorn",
+   "epc": 0.33,
+   "rate": null,
+   "price": "$12.50",
+   "verified": true
+  }
+ },
+ "soy-sauce": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "ChefShop.com",
+   "product": "Yugeta Organic Shoyu (Soy Sauce)",
+   "url": "https://www.chefshop.com/products/yugeta-organic-shoyu-soy-sauce",
+   "epc": null,
+   "rate": null,
+   "price": "$17.95",
+   "verified": true
+  }
+ },
+ "spicy-world-black-salt-kala-namak": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "ChefShop.com",
+   "product": "Kala Namak (Himalayan Black Salt) - Coarse",
+   "url": "https://www.chefshop.com/products/himalayan-black-salt-kala-namak-coarse",
+   "epc": null,
+   "rate": null,
+   "price": "$11.95",
+   "verified": true
+  }
+ },
+ "taggiascas": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "ChefShop.com",
+   "product": "Petricor 100% Taggiasca Olives in Brine",
+   "url": "https://www.chefshop.com/products/petricor-100-taggiasca-olives-in-brine",
+   "epc": null,
+   "rate": null,
+   "price": "$14.55",
+   "verified": true
+  }
+ },
+ "tamicon-brand": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "ChefShop.com",
+   "product": "Tamarind Concentrate",
+   "url": "https://www.chefshop.com/products/tamarind-concentrate",
+   "epc": null,
+   "rate": null,
+   "price": "$6.95",
+   "verified": true
+  }
+ },
+ "tarragon": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "Savory Spice Shop, LLC",
+   "product": "French Tarragon",
+   "url": "https://www.savoryspiceshop.com/products/french-tarragon",
+   "epc": 0.33,
+   "rate": null,
+   "price": "$5.20",
+   "verified": true
+  }
+ },
+ "the-spice-lab-cyprus-black-flake-sea-salt-4-oz": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "ChefShop.com",
+   "product": "Fossil River Black Flake Salt",
+   "url": "https://www.chefshop.com/products/fossil-river-black-flake-salt",
+   "epc": null,
+   "rate": null,
+   "price": "$12.95",
+   "verified": true
+  }
+ },
+ "this-one-from-beaufor": {
+  "comment": "fix the anchor text",
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "ChefShop.com",
+   "product": "Fallot Whole Grain Mustard",
+   "url": "https://www.chefshop.com/products/fallot-whole-grain-mustard",
+   "epc": null,
+   "rate": null,
+   "price": "$7.95",
+   "verified": true
+  }
+ },
+ "toasted-fennel-seeds": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "Savory Spice Shop, LLC",
+   "product": "Fennel Seeds",
+   "url": "https://www.savoryspiceshop.com/products/fennel-seeds",
+   "epc": 0.33,
+   "rate": null,
+   "price": "$4.40",
+   "verified": true
+  }
+ },
+ "toasted-walnut-halves": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "Nuts.com",
+   "product": "English Walnut Halves (Raw, No Shell)",
+   "url": "https://www.nuts.com/products/english-walnut-halves-raw-no-shell",
+   "epc": 0.38,
+   "rate": null,
+   "price": "$11.99",
+   "verified": true
+  }
+ },
+ "tomato-paste": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "ChefShop.com",
+   "product": "Mutti Tomato Paste in Tube",
+   "url": "https://www.chefshop.com/products/tomato-paste-in-tube",
+   "epc": null,
+   "rate": null,
+   "price": "$5.95",
+   "verified": true
+  }
+ },
+ "truff-black-truffle-salt-fine-and-coarse-sea": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "Savory Spice Shop, LLC",
+   "product": "Italian Black Truffle Sea Salt",
+   "url": "https://www.savoryspiceshop.com/products/italian-black-truffle-sea-salt",
+   "epc": 0.33,
+   "rate": null,
+   "price": "$13.99",
+   "verified": true
+  }
+ },
+ "unsweetened-shredded-coconut": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "Nuts.com",
+   "product": "Organic Coconut (Shredded)",
+   "url": "https://www.nuts.com/products/organic-coconut-shredded",
+   "epc": 0.38,
+   "rate": null,
+   "price": "$9.99",
+   "verified": true
+  }
+ },
+ "yuzu-kosho": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "ChefShop.com",
+   "product": "Yuzu Kosho - Green",
+   "url": "https://www.chefshop.com/products/yuzu-kosho-green",
+   "epc": null,
+   "rate": null,
+   "price": "$8.95",
+   "verified": true
+  }
+ },
+ "bucatini": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "ChefShop.com",
+   "product": "Bucatini Pasta - Rustichella",
+   "url": "https://www.chefshop.com/products/bucatini-pasta-rustichella",
+   "epc": null,
+   "rate": null,
+   "price": "$9.95",
+   "verified": true
+  }
+ },
+ "polenta": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "ChefShop.com",
+   "product": "Moretti Bramata Polenta Coarse Yellow",
+   "url": "https://www.chefshop.com/products/moretti-bramata-polenta-coarse-yellow",
+   "epc": null,
+   "rate": null,
+   "price": "$6.95",
+   "verified": true
+  }
+ },
+ "shaved-black-truffle": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "ChefShop.com",
+   "product": "Tartuflanghe Summer Truffle Slices in Olive Oil",
+   "url": "https://www.chefshop.com/products/tartuflanghe-summer-truffle-slices-in-olive-oil",
+   "epc": null,
+   "rate": null,
+   "price": "$41.55",
+   "verified": true
+  }
+ },
+ "truffle-oil-2": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "ChefShop.com",
+   "product": "Tartuflanghe White Truffle Olive Oil",
+   "url": "https://www.chefshop.com/products/tartuflanghe-white-truffle-olive-oil",
+   "epc": null,
+   "rate": null,
+   "price": "$48.95",
+   "verified": true
+  }
+ },
+ "true-blood": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "Barnes & Noble",
+   "product": "True Blood: The Complete Series (DVD)",
+   "url": "https://www.barnesandnoble.com/w/dvd-true-blood-the-complete-series-michael-lehmann/35563098",
+   "epc": 0.01,
+   "rate": 5.15,
+   "price": "$70.69",
+   "verified": true,
+   "verified_by": "browser search page"
+  }
+ },
+ "seductions-of-rice": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "Barnes & Noble",
+   "product": "Seductions of Rice",
+   "url": "https://www.barnesandnoble.com/w/seductions-of-rice-jeffrey-alford/1002993427",
+   "epc": 0.01,
+   "rate": 5.15,
+   "price": "$17.99",
+   "verified": true,
+   "verified_by": "browser search page"
+  }
+ },
+ "the-mushroom-hunters": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "Barnes & Noble",
+   "product": "The Mushroom Hunters: A Hidden World of Food, Money, and (Mostly Legal) Adventure",
+   "url": "https://www.barnesandnoble.com/w/the-mushroom-hunters-langdon-cook/1142951753",
+   "epc": 0.01,
+   "rate": 5.15,
+   "price": "$21.00",
+   "verified": true,
+   "verified_by": "browser search page"
+  }
+ },
+ "food-wine": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "Magazine-Agent.com",
+   "product": "Food & Wine Magazine Subscription",
+   "url": "https://www.magazine-agent.com/Food-and-Wine/Magazines/",
+   "epc": 0.18,
+   "rate": 60,
+   "price": "$4.28",
+   "verified": true,
+   "verified_by": "browser search page"
+  }
+ },
+ "marsala-wine": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "Total Wine",
+   "product": "Carlo Martinez Marsala Semi Dry DOC 750ml",
+   "url": "https://www.totalwine.com/wine/dessert-fortified-wine/marsala/carlo-martinez-marsala-semi-dry-doc/p/349272750",
+   "epc": 0.02,
+   "rate": 5,
+   "price": "$10.99",
+   "verified": true,
+   "verified_by": "browser search page"
+  }
+ },
+ "wine-decanter": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "Sur La Table",
+   "product": "Bormioli Rocco Sublime Decanter",
+   "url": "https://www.surlatable.com/product/bormioli-rocco-sublime-decanter/7158298",
+   "epc": 0.06,
+   "rate": 9,
+   "price": "$64.95",
+   "verified": true,
+   "verified_by": "browser search page"
+  }
+ },
+ "wine-aerator": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "Sur La Table",
+   "product": "Sur La Table Pourer Aerator",
+   "url": "https://www.surlatable.com/product/sur-la-table-pourer-aerator/7258411",
+   "epc": 0.06,
+   "rate": 9,
+   "price": "$19.95",
    "verified": true,
    "verified_by": "browser search page"
   }

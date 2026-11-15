@@ -2,6 +2,7 @@
 title: "Recipe: Polenta With Asparagus And Olives"
 date: 2008-06-09T06:45:00
 slug: "polenta-with-as"
+draft: true
 categories: ["Main Courses", "Recipes", "Vegan or Modifiable"]
 aliases: ["/polenta-with-as/", "/2008/06/polenta-with-as.html"]
 cover:

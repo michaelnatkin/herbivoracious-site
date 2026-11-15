@@ -28,7 +28,7 @@ recipe:
 
 A simple custard, baked in ramekins, is one of those recipes that <strong>every cook should have in their arsenal</strong>. It isn't at all hard to make, but there are a few ways you can go wrong that leave you with grainy bowls of scrambled eggs instead of the silky-smooth result you are looking for. Follow the method below and you'll feel like a custard master in no time.
 
-Speaking of ramekins, I've got a few favorites. The blue ones you see in the picture are these {{% product id="lovely-if-pricey-ones-from-emily-henry" target="_blank" %}}lovely, if pricey ones from Emily Henry{{% /product %}}. But I also like traditional custard cups, and recently I've been using and loving {{% product id="a-set-like-this-that-has-covers" target="_blank" %}}a set like this that has covers{{% /product %}}. This makes them doubly useful as prep bowls that can also go in the refrigerator.
+Speaking of ramekins, I've got a few favorites. The blue ones you see in the picture are from Emile Henry, and these {{% product id="lovely-if-pricey-ones-from-emily-henry" target="_blank" %}}lovely, if pricey ones from Le Creuset{{% /product %}} are similar. But I also like traditional custard cups, and recently I've been using and loving {{% product id="a-set-like-this-that-has-covers" target="_blank" %}}a set like this that has covers{{% /product %}}. This makes them doubly useful as prep bowls that can also go in the refrigerator.
 
 The key steps to smooth custard are:
 <ol>

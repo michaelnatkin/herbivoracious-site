@@ -32,7 +32,7 @@ Reduced cream sauces, where you simmer heavy cream until it thickens, aren't muc
 
 I cooked the turnips using a method that works with many root vegetables. They get a roast in the oven to cook through, then a sear in a hot pan to caramelize the surface and add a bit of a crust. This can also be done in the other order.
 
-The whole grain mustard I used is {{% product id="this-one-from-beaufor" target="_blank" %}}this one from Beaufor{{% /product %}}. I haven't done any exhaustive comparison tests, but I think it has a nice, balanced heat and acidity and a lovely texture from the mustard seeds. (If there is another brand you think I should try, let me know.)
+The whole grain mustard I used is similar to {{% product id="this-one-from-beaufor" target="_blank" %}}this one from Fallot{{% /product %}}. I haven't done any exhaustive comparison tests, but I think it has a nice, balanced heat and acidity and a lovely texture from the mustard seeds. (If there is another brand you think I should try, let me know.)
 
 By the way, did you know I started an <a href="https://www.youtube.com/user/HerbivoraciousBlog/featured">Herbivoracious YouTube channel</a>? There will be more videos there over time, so press the subscribe button towards the top of the page!
 
