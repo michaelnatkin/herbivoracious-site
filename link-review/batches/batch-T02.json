@@ -1,0 +1,434 @@
+[
+ {
+  "id": "amazon-b08hmxmg2h",
+  "name": "Amazon item B08HMXMG2H",
+  "status": "no_match",
+  "reason": "Candidates are only spice blends; no wok. Sur La Table / Williams-Sonoma may carry carbon steel woks.",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "B08HMXMG2H"
+   ],
+   "title": "YOSUKATA 13.5\" Pre-Seasoned Flat Bottom Blue Carbon Steel Wok for Stir Fry",
+   "anchors": [
+    "wok"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "red-curry-fried-rice-with-seared-pineapple-recipe"
+  }
+ },
+ {
+  "id": "amazon-b0fmjw45cf",
+  "name": "Amazon item B0FMJW45CF",
+  "status": "no_match",
+  "reason": "Candidates are only spice blends; no wok. Sur La Table / Williams-Sonoma may carry carbon steel woks.",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "B0FMJW45CF"
+   ],
+   "title": "13.5\" Pre-Seasoned Flat Bottom Carbon Steel Wok with Lid Spatula",
+   "anchors": [
+    "wok"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "mission-chinese-style-tofu-with-radish-and-shiso-recipe"
+  }
+ },
+ {
+  "id": "animal-vegetable-miracle",
+  "name": "Animal, Vegetable, Miracle",
+  "status": "no_match",
+  "reason": "Book; no book candidates. Try Barnes & Noble.",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "B000Q66GCY"
+   ],
+   "title": "Animal, Vegetable, Miracle: A Year of Food Life",
+   "anchors": [
+    "Animal, Vegetable, Miracle"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "book-review-bes"
+  }
+ },
+ {
+  "id": "aroy-d-jackfruit-in-syrup",
+  "name": "Aroy-D Jackfruit in Syrup",
+  "status": "no_match",
+  "reason": "No canned jackfruit candidate (only dried jackfruit); try Weee.",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "B00581KTE8"
+   ],
+   "title": "AROY-D Jackfruit In Syrup 565g",
+   "anchors": [
+    "jackfruit in syrup"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "jack-of-all-cakes-a-guest-post-from-lemonpi"
+  }
+ },
+ {
+  "id": "aroy-d-young-green-jackfruit-in-brine",
+  "name": "Aroy-D Young Green Jackfruit in Brine",
+  "status": "no_match",
+  "reason": "No green jackfruit candidates; try Weee.",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "B005QBCT4S"
+   ],
+   "title": "Aroy D Young Green Jackfruit, 20 Ounces",
+   "anchors": [
+    "Green jackfruit"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "larb-jackfruit-laotian-thai-salad-recipe"
+  }
+ },
+ {
+  "id": "asiago-cheese",
+  "name": "Asiago Cheese",
+  "status": "no_match",
+  "reason": "No cheese candidates (only crisps and spice blends).",
+  "needs_web": false,
+  "amazon": {
+   "asins": [
+    "B00OFLWIHI"
+   ],
+   "title": "Belgioioso Cheese Wedge Asiago, 5 OZ",
+   "anchors": [
+    "asiago cheese"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "lobster-mushroo"
+  }
+ },
+ {
+  "id": "ateco-plain-edge-round-cutters-graduated-sizes",
+  "name": "Ateco Plain Edge Round Cutters, Graduated Sizes, 11 Pc Set",
+  "status": "no_match",
+  "reason": "No cutters in candidates; try Sur La Table / Williams-Sonoma.",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "B00004S1CI"
+   ],
+   "title": "Ateco Plain Edge Round Cutters in Graduated Sizes, Stainless Steel, 11 Pc Set",
+   "anchors": [
+    "cutters"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "recipe-pie-doug"
+  }
+ },
+ {
+  "id": "bamboo-steamer",
+  "name": "Bamboo Steamer",
+  "status": "no_match",
+  "reason": "No steamer in candidates; try Sur La Table / Weee.",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "B0001VQIYU"
+   ],
+   "title": "Joyce Chen 2-Tier Bamboo Steamer Baskets, 10-Inch",
+   "anchors": [
+    "bamboo steamer"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "smoked-tofu-buns-recipe"
+  }
+ },
+ {
+  "id": "beaterblade-for-5-quart-kitchenaid-bowl-lift",
+  "name": "BeaterBlade for 5-Quart KitchenAid Bowl Lift Mixers, White",
+  "status": "no_match",
+  "reason": "No relevant candidates; try Sur La Table / Williams-Sonoma.",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "B0015TMHSI"
+   ],
+   "title": "New Metro KA-5L Original Beater Blade Works w/ Most KitchenAid 5 Qt Bowl-Lift Stand Mixers",
+   "anchors": [
+    "BeaterBlade for 5-Quart KitchenAid Bowl Lift Mixers, White"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "stop-scraping-your-stand-mixer-bowl"
+  }
+ },
+ {
+  "id": "beaterblade-for-cuisinart-delonghi-viking-7",
+  "name": "BeaterBlade for Cuisinart, DeLonghi, &amp; Viking 7-Quart Mixers, White",
+  "status": "no_match",
+  "reason": "No relevant candidates; try Sur La Table / Williams-Sonoma.",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "B0015TYOT8"
+   ],
+   "title": "New Metro Design Beater Blade for Cuisinart, DeLonghi, & Viking 7-Quart Mixers",
+   "anchors": [
+    "BeaterBlade for Cuisinart, DeLonghi, &amp",
+    "Viking 7-Quart Mixers, White"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "stop-scraping-your-stand-mixer-bowl"
+  }
+ },
+ {
+  "id": "beaterblade-for-kitchenaid-6-quart-mixers-white",
+  "name": "BeaterBlade for KitchenAid 6-Quart Mixers, White",
+  "status": "no_match",
+  "reason": "No relevant candidates; try Sur La Table / Williams-Sonoma.",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "B0015TMI28"
+   ],
+   "title": "New Metro Design KA-6L Plastic Beater Blade works w/ most KitchenAid 6 Qt Bowl-Lift Stand Mixers",
+   "anchors": [
+    "BeaterBlade for KitchenAid 6-Quart Mixers, White"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "stop-scraping-your-stand-mixer-bowl"
+  }
+ },
+ {
+  "id": "beecher-s-handmade-flagship-cheese-1-lb",
+  "name": "Beecher's Handmade Flagship Cheese 1 lb",
+  "status": "no_match",
+  "reason": "No cheese candidates in any merchant results.",
+  "needs_web": false,
+  "amazon": {
+   "asins": [
+    "B0039OINH6"
+   ],
+   "title": "Beecher's Handmade Flagship Cheese Full 1 lb Loaf",
+   "anchors": [
+    "Flagship Cheddar"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "superfrico-grilled-cheese-sandwich-recipe"
+  }
+ },
+ {
+  "id": "better-ideas",
+  "name": "better ideas",
+  "status": "no_match",
+  "reason": "Book (The Creative Habit); no book candidates. Try Barnes & Noble.",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "0743235274"
+   ],
+   "title": "The Creative Habit: Learn It and Use It for Life",
+   "anchors": [
+    "better ideas"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "what-to-do-with-an-insideout-egg"
+  }
+ },
+ {
+  "id": "big-steamer",
+  "name": "Big Steamer",
+  "status": "no_match",
+  "reason": "Only unrelated candy/spices; large tamale steamer pot is a genuine gap.",
+  "needs_web": false,
+  "amazon": {
+   "asins": [
+    "B0FKGWVLT6"
+   ],
+   "title": "ROVSUN 20QT Stainless Steel Tamale Steamer Pot",
+   "anchors": [
+    "big steamer"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "nuevo-leon-style-tamales-adapted-to-be-vegetarian-recipe"
+  }
+ },
+ {
+  "id": "black-crocs-the-kind-with-no-holes-on-top",
+  "name": "Black Crocs, the Kind with No Holes on Top",
+  "status": "no_match",
+  "reason": "Footwear, not a kitchen/food product; skipped.",
+  "needs_web": false,
+  "amazon": {
+   "asins": [
+    "B0014JLYPQ"
+   ],
+   "title": "Crocs Unisex-Adult Bistro Work Clogs",
+   "anchors": [
+    "black Crocs, the kind with no holes on top"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "so-you-want-to-stage-intern-at-a-restaurant"
+  }
+ },
+ {
+  "id": "black-rice",
+  "name": "Black Rice",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B01NAGDHZR"
+   ],
+   "title": "Lotus Foods Organic Forbidden Rice, Black Rice - 15 Oz Bag",
+   "anchors": [
+    "black rice"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "black-rice-fritter-with-turnips-and-horseradish-cream-recipe"
+  },
+  "primary": {
+   "merchant": "ChefShop.com",
+   "product": "Forbidden Black Rice -  Hei Mey",
+   "url": "https://www.chefshop.com/products/forbidden-black-rice-hei-mey",
+   "epc": null,
+   "rate": null,
+   "price": "$19.95",
+   "verified": true
+  },
+  "alternatives": [
+   {
+    "merchant": "ChefShop.com",
+    "product": "Rue & Forsman California Black Rice",
+    "url": "https://www.chefshop.com/products/rue-forsman-california-black-rice",
+    "epc": null,
+    "rate": null,
+    "price": "$8.95",
+    "verified": true
+   }
+  ],
+  "note": "Forbidden black rice (Hei Mey) instead of Lotus Foods; same type of whole-grain black rice, but pricier and a different package size."
+ },
+ {
+  "id": "blackstrap-molasses",
+  "name": "Blackstrap Molasses",
+  "status": "no_match",
+  "reason": "No blackstrap molasses candidate (black treacle is a different product); try iHerb / Thrive Market.",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "B00MFBVY2U"
+   ],
+   "title": "Wholesome, Organic Blackstrap Molasses, 16 oz",
+   "anchors": [
+    "blackstrap molasses"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "bran-muffins"
+  }
+ },
+ {
+  "id": "blend",
+  "name": "blend",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B08FBLK53S"
+   ],
+   "title": "Spicy World Berbere Spice Blend",
+   "anchors": [
+    "blend"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "mesir-wat-ethiopian-red-lentils-recipe"
+  },
+  "primary": {
+   "merchant": "Savory Spice Shop, LLC",
+   "product": "Berbere Ethiopian Seasoning",
+   "url": "https://www.savoryspiceshop.com/products/berbere-ethiopian-seasoning",
+   "epc": 0.33,
+   "rate": null,
+   "price": "$9.50",
+   "verified": true
+  },
+  "alternatives": [
+   {
+    "merchant": "The Spice House",
+    "product": "Berbere, Ethiopian Blend",
+    "url": "https://www.thespicehouse.com/products/berbere",
+    "epc": 0.21,
+    "rate": null,
+    "price": "$8.29",
+    "verified": true
+   },
+   {
+    "merchant": "ChefShop.com",
+    "product": "Kitchen Imp Berbere Spice Blend",
+    "url": "https://www.chefshop.com/products/kitchen-imp-berbere-spice-blend",
+    "epc": null,
+    "rate": null,
+    "price": "$12.95",
+    "verified": true
+   }
+  ],
+  "note": "Berbere Ethiopian spice blend from Savory Spice Shop instead of the Spicy World brand; blend recipes vary slightly by maker."
+ },
+ {
+  "id": "bleu-d-auvergne",
+  "name": "Bleu d'Auvergne",
+  "status": "no_match",
+  "reason": "No cheese candidates; only spice blends.",
+  "needs_web": false,
+  "amazon": {
+   "asins": [
+    "B079NQVXQX"
+   ],
+   "title": "Livradois, Bleu D'Auvergne",
+   "anchors": [
+    "Bleu D'Auvergne"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "gougeres-chee"
+  }
+ },
+ {
+  "id": "bourbon-barrel-maple-syrup",
+  "name": "Bourbon-Barrel Maple Syrup",
+  "status": "no_match",
+  "reason": "No bourbon barrel maple syrup candidates; try Williams-Sonoma / Thrive Market.",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "B012M6PUHC"
+   ],
+   "title": "Crown Maple Organic Bourbon Barrel Aged Maple Syrup",
+   "anchors": [
+    "bourbon-barrel maple syrup"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "maple-roasted-shiitake-mushrooms-recipe"
+  }
+ }
+]

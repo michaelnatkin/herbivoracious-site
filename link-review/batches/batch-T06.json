@@ -1,0 +1,383 @@
+[
+ {
+  "id": "mandarin-olive-oil",
+  "name": "Mandarin Olive Oil",
+  "status": "no_match",
+  "reason": "No candidate is the same product or a sensible equivalent.",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "B093KF9DSQ"
+   ],
+   "title": "Caliendo Premium Mandarin Infused Extra Virgi",
+   "anchors": [
+    "Mandarin olive oil"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "when-it-all-goes-wrong-making-your-food-pop-part-3andahalf"
+  }
+ },
+ {
+  "id": "maple",
+  "name": "maple",
+  "status": "no_match",
+  "reason": "No candidate is the same product or a sensible equivalent.",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "B00E1DFU52"
+   ],
+   "title": "Coombs Family Farms Organic Maple Syrup, Grad",
+   "anchors": [
+    "maple"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "maple-pudding-with-spiced-pecans-video-recipe"
+  }
+ },
+ {
+  "id": "marieke-aged-gouda-cheese-16-oz",
+  "name": "Marieke Aged Gouda Cheese (16 Oz)",
+  "status": "no_match",
+  "reason": "No candidate is the same product or a sensible equivalent.",
+  "needs_web": false,
+  "amazon": {
+   "asins": [
+    "B00HYMWPRS"
+   ],
+   "title": "Gouda Cheese - Marieke Aged Gouda Cheese 16 o",
+   "anchors": [
+    "aged gouda"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "pear-and-gouda-salad-recipe"
+  }
+ },
+ {
+  "id": "marsala-wine",
+  "name": "Marsala Wine",
+  "status": "no_match",
+  "reason": "No candidate is the same product or a sensible equivalent.",
+  "needs_web": false,
+  "amazon": {
+   "asins": [
+    "B00E0N8CB2"
+   ],
+   "title": "Holland House Marsala Cooking Wine, Ideal for",
+   "anchors": [
+    "Marsala wine"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "zabaglione-with-roasted-plums-recipe"
+  }
+ },
+ {
+  "id": "mccutcheon-s-home-recipe-apple-butter",
+  "name": "McCutcheon's Home Recipe Apple Butter",
+  "status": "no_match",
+  "reason": "No candidate is the same product or a sensible equivalent.",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "B001NH57LQ"
+   ],
+   "title": "Mccutcheon, Spread Apple Butter, 19 Ounc",
+   "anchors": [
+    "apple butter"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "cheddar-and-apple-butter-panini-with-rosemary-candied-pecans-guest-recipe-from-kathy-strahs-of-panini-happy"
+  }
+ },
+ {
+  "id": "metal-honing-steel",
+  "name": "Metal Honing Steel",
+  "status": "no_match",
+  "reason": "No candidate is the same product or a sensible equivalent.",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "B071FC4GYN"
+   ],
+   "title": "Utopia Kitchen Knife Sharpener Rod 12 Inch Ho",
+   "anchors": [
+    "metal honing steel"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "sharpening-steels-kitchen-tools-hand-tools"
+  }
+ },
+ {
+  "id": "miu-france-stainless-steel-magnetic-knife-holder",
+  "name": "MIU France Stainless Steel Magnetic Knife Holder",
+  "status": "no_match",
+  "reason": "No candidate is the same product or a sensible equivalent.",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "B0006IVY7E"
+   ],
+   "title": "MIU France Stainless Steel Magnetic Knif",
+   "anchors": [
+    "MIU France Stainless Steel Magnetic Knife Holder"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "chefs-knife-kitchen-tools-hand-tools"
+  }
+ },
+ {
+  "id": "model-from-gir",
+  "name": "Model from GIR",
+  "status": "no_match",
+  "reason": "No candidate is the same product or a sensible equivalent.",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "B00BJT61FE"
+   ],
+   "title": "GIR Ultimate Silicone Spatula 11 Inch, H",
+   "anchors": [
+    "model from GIR"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "heatproof-silicone-spatulas"
+  }
+ },
+ {
+  "id": "modernist-cuisine",
+  "name": "Modernist Cuisine",
+  "status": "no_match",
+  "reason": "Book; no book candidate in searched merchants.",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "1734386142"
+   ],
+   "title": "Modernist Cuisine: The Art & Science",
+   "anchors": [
+    "Modernist Cuisine"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "vegetarian-frijoles-charros-mexican-cowboy-beans-with-smoked-onion-recipe"
+  }
+ },
+ {
+  "id": "moosewood",
+  "name": "Moosewood",
+  "status": "no_match",
+  "reason": "Book; no book candidate in searched merchants.",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "1607747391"
+   ],
+   "title": "The Moosewood Cookbook: 40th Anniversary",
+   "anchors": [
+    "Moosewood"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "introduction-to"
+  }
+ },
+ {
+  "id": "morimoto-the-new-art-of-japanese-cooking",
+  "name": "Morimoto: the New Art of Japanese Cooking",
+  "status": "no_match",
+  "reason": "Book; no book candidate in searched merchants.",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "0756631238"
+   ],
+   "title": "Morimoto: The New Art of Japanese Cookin",
+   "anchors": [
+    "Morimoto: The New Art of Japanese Cooking"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "lychee-tempura"
+  }
+ },
+ {
+  "id": "moroccan-clay-pot-with-a-conical-lid",
+  "name": "Moroccan Clay Pot with a Conical Lid",
+  "status": "no_match",
+  "reason": "No candidate is the same product or a sensible equivalent.",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "B0BF29GK5Z"
+   ],
+   "title": "Kook Moroccan Tagine, Enameled Cast Iron",
+   "anchors": [
+    "Moroccan clay pot with a conical lid"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "zucchini-chickpea-tagine-recipe"
+  }
+ },
+ {
+  "id": "muffin-cupcake-liners",
+  "name": "Muffin/cupcake Liners",
+  "status": "no_match",
+  "reason": "No candidate is the same product or a sensible equivalent.",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "B0BLGZTM6P"
+   ],
+   "title": "Bake Choice 200pcs Standard Cupcake Line",
+   "anchors": [
+    "muffin/cupcake liners"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "onebowl-banana-muffins-great-for-baking-with-kids-recipe"
+  }
+ },
+ {
+  "id": "muffins-tin",
+  "name": "Muffins Tin",
+  "status": "no_match",
+  "reason": "No candidate is the same product or a sensible equivalent.",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "B0026RHI9Q"
+   ],
+   "title": "GoodCook Everyday Nonstick Steel Muffin",
+   "anchors": [
+    "muffins tin"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "onebowl-banana-muffins-great-for-baking-with-kids-recipe"
+  }
+ },
+ {
+  "id": "my-mexico",
+  "name": "My Mexico",
+  "status": "no_match",
+  "reason": "Book; no book candidate in searched merchants.",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "0609602470"
+   ],
+   "title": "My Mexico: A Culinary Odyssey with More",
+   "anchors": [
+    "My Mexico"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "bocoles-masa-and-black-bean-cakes-with-spicy-yams-recipe"
+  }
+ },
+ {
+  "id": "nature-s-path-smart-bran-cereal",
+  "name": "Nature's Path Smart Bran Cereal",
+  "status": "no_match",
+  "reason": "No candidate is the same product or a sensible equivalent.",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "B0010C4KCQ"
+   ],
+   "title": "Nature's Path Organic Smart Bran Cer",
+   "anchors": [
+    "Nature&#39",
+    "s Path Smart Bran cereal"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "bran-muffins"
+  }
+ },
+ {
+  "id": "newlywed-kitchen-delicious-meals-for-couples",
+  "name": "Newlywed Kitchen: Delicious Meals for Couples Cooking Together",
+  "status": "no_match",
+  "reason": "Book; no book candidate in searched merchants.",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "1570616329"
+   ],
+   "title": "The Newlywed Kitchen: Delicious Meals fo",
+   "anchors": [
+    "Newlywed Kitchen: Delicious Meals for Couples Cooking Together"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "the-newlywed-kitchen-book-review-with-a-recipe-for-zucchini-fritters"
+  }
+ },
+ {
+  "id": "nikon-d7000",
+  "name": "Nikon D7000",
+  "status": "no_match",
+  "reason": "Camera, not a kitchen product.",
+  "needs_web": false,
+  "amazon": {
+   "asins": [
+    "B0042X9LC4"
+   ],
+   "title": "Nikon D7000 DSLR (Body Only) (OLD MODEL)",
+   "anchors": [
+    "Nikon D7000"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "transparency-and-support"
+  }
+ },
+ {
+  "id": "non-stick",
+  "name": "Non-Stick",
+  "status": "no_match",
+  "reason": "No candidate is the same product or a sensible equivalent.",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "B009HBKQR0"
+   ],
+   "title": "Tramontina Professional 12-Inch Non Stic",
+   "anchors": [
+    "non-stick"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "caramelized-caulifower-fritatta-recipe"
+  }
+ },
+ {
+  "id": "non-stick-or-well-seasoned-skillet",
+  "name": "Non-Stick or Well Seasoned Skillet",
+  "status": "no_match",
+  "reason": "No candidate is the same product or a sensible equivalent.",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "B0732NXYNS"
+   ],
+   "title": "CAROTE Nonstick Frying Pan, 8 Inch Class",
+   "anchors": [
+    "non-stick or well seasoned skillet"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "hatch-chiles-stuffed-with-cilantro-scrambled-egg-recipe"
+  }
+ }
+]

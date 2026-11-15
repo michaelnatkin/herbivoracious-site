@@ -3206,5 +3206,47 @@
    "verified": true,
    "verified_by": "browser search page"
   }
+ },
+ "glucose-powder": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "ChefShop.com",
+   "product": "Essential Pantry Glucose Powder",
+   "url": "https://www.chefshop.com/products/essential-pantry-glucose-powder",
+   "epc": null,
+   "rate": null,
+   "price": "$5.95",
+   "verified": true
+  }
+ },
+ "one-from-matiz": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "ChefShop.com",
+   "product": "Paella Bomba Rice - Matiz",
+   "url": "https://www.chefshop.com/products/paella-bomba-rice-matiz",
+   "epc": null,
+   "rate": null,
+   "price": "$25.95",
+   "verified": true
+  }
+ },
+ "sugar": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "Nuts.com",
+   "product": "Demerara Sugar",
+   "url": "https://www.nuts.com/products/demerara-sugar",
+   "epc": 0.38,
+   "rate": null,
+   "price": "$4.49",
+   "verified": true
+  }
  }
 }

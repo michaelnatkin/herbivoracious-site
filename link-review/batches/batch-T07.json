@@ -1,0 +1,406 @@
+[
+  {
+    "id": "novelty-beer-cozy",
+    "name": "novelty beer cozy",
+    "status": "no_match",
+    "reason": "Not a kitchen/food product",
+    "needs_web": false,
+    "amazon": {
+      "asins": [
+        "B0047YZYW4"
+      ],
+      "title": "The Simpsons - Duff Beer Can Label Cold",
+      "anchors": [
+        "novelty beer cozy"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "transparency-and-support"
+    }
+  },
+  {
+    "id": "o-blood-orange-olive-oil",
+    "name": "\"O\" Blood Orange Olive Oil",
+    "status": "no_match",
+    "reason": "No acceptable candidate in search results",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B0000W2SZS"
+      ],
+      "title": "O Olive California Blood Orange Olive Oi",
+      "anchors": [
+        "&quot",
+        "O&quot",
+        "brand California Blood Orange flavored olive oil"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "cucumber-zucchi"
+    }
+  },
+  {
+    "id": "oil-cured-black-olives",
+    "name": "Oil-Cured Black Olives",
+    "status": "no_match",
+    "reason": "No acceptable candidate in search results",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B07PP3WM2K"
+      ],
+      "title": "Mina Dry Cured Black Olives, 7 oz - Mo",
+      "anchors": [
+        "oil-cured black olives"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "fruit-salad"
+    }
+  },
+  {
+    "id": "one-from-matiz",
+    "name": "One from Matiz",
+    "status": "match",
+    "kind": "same",
+    "confidence": "high",
+    "amazon": {
+      "asins": [
+        "B000LUP6D0"
+      ],
+      "title": "Paella Rice",
+      "anchors": [
+        "one from Matiz"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "vegetarian-pael"
+    },
+    "primary": {
+      "merchant": "ChefShop.com",
+      "product": "Paella Bomba Rice - Matiz",
+      "url": "https://www.chefshop.com/products/paella-bomba-rice-matiz",
+      "epc": null,
+      "rate": null,
+      "price": "$25.95",
+      "verified": true
+    },
+    "alternatives": [],
+    "note": "Same Matiz paella (bomba) rice, sold by ChefShop."
+  },
+  {
+    "id": "or-you-can-find-it-on-amazon",
+    "name": "or you can find it on Amazon",
+    "status": "no_match",
+    "reason": "No acceptable candidate in search results",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B0000CNU5B"
+      ],
+      "title": "Lee Kum Kee Guilin Style Chili Sauce - 8",
+      "anchors": [
+        "or you can find it on Amazon"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "asparagus-and-tofu-with-guilin-chili-sauce"
+    }
+  },
+  {
+    "id": "order-them-from-amazon",
+    "name": "Order Them from Amazon",
+    "status": "no_match",
+    "reason": "No acceptable candidate in search results",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B00RENFSDU"
+      ],
+      "title": "Jiva USDA Organics Urad Dal (Split Mat",
+      "anchors": [
+        "order them from Amazon"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "recipe-urad-dal"
+    }
+  },
+  {
+    "id": "paste",
+    "name": "paste",
+    "status": "match",
+    "kind": "equivalent",
+    "confidence": "medium",
+    "amazon": {
+      "asins": [
+        "B00NU1O7T6"
+      ],
+      "title": "El Yucateco Paste Achiote, 3.5 oz",
+      "anchors": [
+        "paste"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "grilled-tofu-and-pepper-vegetarian-tacos-recipe"
+    },
+    "primary": {
+      "merchant": "Savory Spice Shop, LLC",
+      "product": "Achiote Paste",
+      "url": "https://www.savoryspiceshop.com/products/achiote-paste",
+      "epc": 0.33,
+      "rate": null,
+      "price": "$4.99",
+      "verified": true
+    },
+    "alternatives": [],
+    "note": "Achiote paste from Savory Spice rather than the El Yucateco brand."
+  },
+  {
+    "id": "pepperoncini",
+    "name": "Pepperoncini",
+    "status": "no_match",
+    "reason": "No acceptable candidate in search results",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B000R49GTK"
+      ],
+      "title": "Mezzetta Golden Greek Peperoncini, Who",
+      "anchors": [
+        "pepperoncini"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "summer-leftover"
+    }
+  },
+  {
+    "id": "pizza-peel",
+    "name": "Pizza Peel",
+    "status": "no_match",
+    "reason": "No acceptable candidate in search results",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B009LPDMUA"
+      ],
+      "title": "New Star Foodservice Wooden Pizza Peel",
+      "anchors": [
+        "pizza peel"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "grilled-pizza-fingerling-potatoes-blue-cheese-caramelized-onions-vegetarian-recipe"
+    }
+  },
+  {
+    "id": "plenty",
+    "name": "Plenty",
+    "status": "no_match",
+    "reason": "Book",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "1452101248"
+      ],
+      "title": "Plenty: Vibrant Vegetable Recipes from",
+      "anchors": [
+        "Plenty"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "fried-artichokes-with-orange-olive-oil-emulsion-recipe"
+    }
+  },
+  {
+    "id": "press-weight-your-tofu",
+    "name": "Press (weight) Your Tofu",
+    "status": "no_match",
+    "reason": "No acceptable candidate in search results",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B01698J0RU"
+      ],
+      "title": "Tofu Press | Patented Self-Contained |",
+      "anchors": [
+        "press (weight) your tofu"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "how-to-make-tofu-really-freaking-delicious-tofu-101"
+    }
+  },
+  {
+    "id": "quiche-dish",
+    "name": "Quiche Dish",
+    "status": "no_match",
+    "reason": "No acceptable candidate in search results",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B09TDJCLJ2"
+      ],
+      "title": "LOVECASA Porcelain Quiche Baking Dish,",
+      "anchors": [
+        "quiche dish"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "baked-eggs-with-chanterelles-and-chard-recipe"
+    }
+  },
+  {
+    "id": "rambutan",
+    "name": "Rambutan",
+    "status": "no_match",
+    "reason": "No acceptable candidate in search results",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B00E65Z8G6"
+      ],
+      "title": "Rambutan in Syrup 20oz (Pack of 3)",
+      "anchors": [
+        "rambutan"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "how-many-rams-c"
+    }
+  },
+  {
+    "id": "ratio-the-simple-codes-behind-the-craft-of",
+    "name": "Ratio: the Simple Codes Behind the Craft of Everyday Cooking",
+    "status": "no_match",
+    "reason": "Book",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "1416566112"
+      ],
+      "title": "Ratio: The Simple Codes Behind the Cra",
+      "anchors": [
+        "Ratio: The Simple Codes Behind the Craft of Everyday Cooking"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "chocolate-chunk-bread-pudding-recipe"
+    }
+  },
+  {
+    "id": "raw-food-100-recipes-to-get-the-glow",
+    "name": "Raw Food / 100 Recipes to Get the Glow",
+    "status": "no_match",
+    "reason": "Book",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "0060793554"
+      ],
+      "title": "Raw Food/Real World: 100 Recipes to Ge",
+      "anchors": [
+        "Raw Food / 100 Recipes To Get The Glow"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "to-play-video-m"
+    }
+  },
+  {
+    "id": "red-curry-paste",
+    "name": "Red Curry Paste",
+    "status": "no_match",
+    "reason": "No acceptable candidate in search results",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B000SRMB3O"
+      ],
+      "title": "Thai Kitchen Red Curry Paste, Gluten F",
+      "anchors": [
+        "red curry paste"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "red-curry-fried-rice-with-seared-pineapple-recipe"
+    }
+  },
+  {
+    "id": "red-rice",
+    "name": "Red Rice",
+    "status": "no_match",
+    "reason": "No acceptable candidate in search results",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B00198C8BG"
+      ],
+      "title": "Lotus Foods, Heirloom Bhutan Red Rice,",
+      "anchors": [
+        "red rice"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "red-rice-and-avocado-with-crispy-burdock-chips-recipe"
+    }
+  },
+  {
+    "id": "roasting-in-hell-s-kitchen-temper-tantrums-f",
+    "name": "Roasting in Hell's Kitchen: Temper Tantrums, F Words, and the Pursuit of Perfection",
+    "status": "no_match",
+    "reason": "Book",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "0061191981"
+      ],
+      "title": "Roasting in Hell's Kitchen: Temper",
+      "anchors": [
+        "Roasting in Hell's Kitchen: Temper Tantrums, F Words, and the Pursuit of Perfection"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "battle-of-the-n"
+    }
+  },
+  {
+    "id": "rolling-pin",
+    "name": "Rolling Pin",
+    "status": "no_match",
+    "reason": "No acceptable candidate in search results",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B082WF6MG2"
+      ],
+      "title": "French Rolling Pin (17 Inches) \u2013Wooden",
+      "anchors": [
+        "rolling pin"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "rustic-peach-and-nectarine-crostata-recipe"
+    }
+  },
+  {
+    "id": "ruhlman",
+    "name": "Ruhlman",
+    "status": "no_match",
+    "reason": "Book",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "080508939X"
+      ],
+      "title": "The Making of a Chef: Mastering Heat a",
+      "anchors": [
+        "Ruhlman"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "so-you-want-to-stage-intern-at-a-restaurant"
+    }
+  }
+]

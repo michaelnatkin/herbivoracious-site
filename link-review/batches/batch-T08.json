@@ -1,0 +1,383 @@
+[
+ {
+  "id": "saco-buttermilk-powder",
+  "name": "Saco Buttermilk Powder",
+  "status": "no_match",
+  "reason": "No candidate is buttermilk powder (only pancake mix and ranch seasoning).",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "B0DXM6LYRX"
+   ],
+   "title": "SACO Cultured Buttermilk Blend for Coo",
+   "anchors": [
+    "Saco buttermilk powder"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "recipe-sesame-c-1"
+  }
+ },
+ {
+  "id": "salted-a-manifesto-on-the-world-s-most",
+  "name": "Salted: a Manifesto on the World's Most Essential Mineral, with Recipes",
+  "status": "no_match",
+  "reason": "Book; no book candidates.",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "1580082629"
+   ],
+   "title": "Salted: A Manifesto on the World's",
+   "anchors": [
+    "Salted: A Manifesto on the World&#39",
+    "s Most Essential Mineral, with Recipes"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "interview-with-mark-bitterman-leading-expert-on-culinary-salts"
+  }
+ },
+ {
+  "id": "saveur",
+  "name": "Saveur",
+  "status": "no_match",
+  "reason": "Magazine subscription; no candidates.",
+  "needs_web": false,
+  "amazon": {
+   "asins": [
+    "B00005N7SL"
+   ],
+   "title": "Saveur",
+   "anchors": [
+    "Saveur"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "book-review-bes"
+  }
+ },
+ {
+  "id": "scharffen-berger",
+  "name": "Scharffen-Berger",
+  "status": "no_match",
+  "reason": "Only other-brand chocolate; no Scharffenberger 70% bar among candidates.",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "B005XCYFDI"
+   ],
+   "title": "SCHARFFEN BERGER 70% Cacao Bittersweet",
+   "anchors": [
+    "Scharffen-Berger"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "recipe-valentin"
+  }
+ },
+ {
+  "id": "scotch-bonnet",
+  "name": "Scotch Bonnet",
+  "status": "no_match",
+  "reason": "No crushed scotch bonnet pepper sauce/ingredient among candidates.",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "B00U9W5YFK"
+   ],
+   "title": "Spur Tree Jamaican Crushed Scotch Bonn",
+   "anchors": [
+    "scotch bonnet"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "island-style-sweet-and-spicy-cabbage-recipe"
+  }
+ },
+ {
+  "id": "seductions-of-rice",
+  "name": "Seductions of Rice",
+  "status": "no_match",
+  "reason": "Book; no book candidates.",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "1579652344"
+   ],
+   "title": "Seductions of Rice",
+   "anchors": [
+    "Seductions of Rice"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "mangoes-and-cur"
+  }
+ },
+ {
+  "id": "seitan",
+  "name": "Seitan",
+  "status": "no_match",
+  "reason": "No seitan among candidates.",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "B075JLYFBC"
+   ],
+   "title": "Upton's Natural, Traditional Seita",
+   "anchors": [
+    "seitan"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "recipe-rice-bow"
+  }
+ },
+ {
+  "id": "serrano-chilis",
+  "name": "Serrano Chilis",
+  "status": "no_match",
+  "reason": "No dried whole serrano chiles among candidates.",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "B000RHSZ6W"
+   ],
+   "title": "Whole Serrano Chiles, 1 lb \u2013 Dried Mex",
+   "anchors": [
+    "serrano chilis"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "spicy-tomatillo-salsa-recipe"
+  }
+ },
+ {
+  "id": "serrated-peelers",
+  "name": "Serrated Peelers",
+  "status": "no_match",
+  "reason": "Kitchen tool; no peeler candidates.",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "B0DBVMXMLX"
+   ],
+   "title": "Zyliss Soft Skin Peeler \u2013 Ultra-Sharp",
+   "anchors": [
+    "serrated peelers"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "grilled-peaches"
+  }
+ },
+ {
+  "id": "serrated-vegetable-peeler",
+  "name": "Serrated Vegetable Peeler",
+  "status": "no_match",
+  "reason": "OXO peeler; no peeler candidates.",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "B0007VO0CG"
+   ],
+   "title": "OXO Good Grips Serrated Vegetable Peel",
+   "anchors": [
+    "serrated vegetable peeler"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "spicy-mango-salad-with-togarashi-recipe"
+  }
+ },
+ {
+  "id": "shiso",
+  "name": "shiso",
+  "status": "no_match",
+  "reason": "Only shiso tea, not dried whole leaf for cooking; no fresh/dried shiso herb candidate.",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "B0DS1928RM"
+   ],
+   "title": "Natural Dried Whole Perilla Leaf, 2.0o",
+   "anchors": [
+    "shiso"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "vietnamese-cabbage-and-herb-salad-recipe"
+  }
+ },
+ {
+  "id": "shun",
+  "name": "Shun",
+  "status": "no_match",
+  "reason": "Knife; no knife candidates.",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "B0000Y7KNQ"
+   ],
+   "title": "Shun Classic 8\" Chef's Knife",
+   "anchors": [
+    "Shun"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "three-ways-to-increase-your-confidence-in-the-kitchen"
+  }
+ },
+ {
+  "id": "silpat",
+  "name": "silpat",
+  "status": "no_match",
+  "reason": "Baking mat; no candidates.",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "B00005AXJ9"
+   ],
+   "title": "Matfer Bourgeat Exopat Baking Mat, Non",
+   "anchors": [
+    "silpat"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "block-party-emp"
+  }
+ },
+ {
+  "id": "silpat-2",
+  "name": "silpat",
+  "status": "no_match",
+  "reason": "Baking mat; no candidates.",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "B0001RT42C"
+   ],
+   "title": "Silpat Premium Non-Stick Silicone Baki",
+   "anchors": [
+    "silpat"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "warm-fennel-salad-with-pears-and-candied-pumpkin-seeds-recipe"
+  }
+ },
+ {
+  "id": "simple-and-inexpensive",
+  "name": "simple and inexpensive",
+  "status": "no_match",
+  "reason": "Cherry/olive pitter; no tool candidates.",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "B09NLWBHCG"
+   ],
+   "title": "OXO Good Grips Cherry & Olive Pitt",
+   "anchors": [
+    "simple and inexpensive"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "cherry-pumpkin"
+  }
+ },
+ {
+  "id": "skillet",
+  "name": "Skillet",
+  "status": "no_match",
+  "reason": "Stainless skillet; no cookware candidates.",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "B00008CM6B"
+   ],
+   "title": "Cuisinart Chef's Classic Stainless",
+   "anchors": [
+    "skillet"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "braised-baby-artichoke-with-fennel-and-cherry-tomatoes-recipe"
+  }
+ },
+ {
+  "id": "smaller-quantities",
+  "name": "smaller quantities",
+  "status": "no_match",
+  "reason": "Acetate cake collars; no candidates.",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "B002YFR66U"
+   ],
+   "title": "Golda's Kitchen Acetate Cake Colla",
+   "anchors": [
+    "smaller quantities"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "strawberries-and-cream-birthday-cake-momofuku-style"
+  }
+ },
+ {
+  "id": "sous-vide",
+  "name": "Sous Vide",
+  "status": "no_match",
+  "reason": "Sous vide circulator; no candidates.",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "B07C7PW3PC"
+   ],
+   "title": "Anova Culinary Sous Vide Precision Coo",
+   "anchors": [
+    "sous vide"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "sichuan-spicy-cauliflower-recipe"
+  }
+ },
+ {
+  "id": "springform-pan",
+  "name": "Springform Pan",
+  "status": "no_match",
+  "reason": "Springform pan; no bakeware candidates.",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "B07L8S4PM5"
+   ],
+   "title": "HIWARE 8 Inch Non-stick Springform Pan",
+   "anchors": [
+    "springform pan"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "italian-plum-upside-down-cake-recipe"
+  }
+ },
+ {
+  "id": "squeeze-bottle",
+  "name": "Squeeze Bottle",
+  "status": "no_match",
+  "reason": "Squeeze bottles; no candidates.",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "B076PT3BD9"
+   ],
+   "title": "OXO Good Grips 2-Piece Chef's Squee",
+   "anchors": [
+    "squeeze bottle"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "roasted-potato-and-asparagus-tacos-with-kohlrabi-slaw-recipe"
+  }
+ }
+]

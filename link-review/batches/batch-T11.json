@@ -1,0 +1,133 @@
+[
+ {
+  "id": "wine-aerator",
+  "name": "Wine Aerator",
+  "status": "no_match",
+  "reason": "No wine aerator in candidates (spice results only).",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "B00T1F5CSU"
+   ],
+   "title": "Wine Aerator Pourer - Premium Aerati",
+   "anchors": [
+    "wine aerator"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "best-kosher-for-passover-wines"
+  }
+ },
+ {
+  "id": "wolff-s-is-a-common-brand",
+  "name": "Wolff's Is a Common Brand",
+  "status": "no_match",
+  "reason": "No kasha in candidates.",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "B0005ZIWV4"
+   ],
+   "title": "Wolffs Kasha Medium, 13 oz",
+   "anchors": [
+    "Wolff's is a common brand"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "kasha-pilaf-with-dates-pistachios-and-baharat-recipe"
+  }
+ },
+ {
+  "id": "wonton-wrappers",
+  "name": "Wonton Wrappers",
+  "status": "no_match",
+  "reason": "No wonton wrappers in candidates.",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "B0F54QT5K8"
+   ],
+   "title": "Wildwood, Organic Wonton Wraps, 12 Ounce",
+   "anchors": [
+    "wonton wrappers"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "winter-green-du"
+  }
+ },
+ {
+  "id": "written-a-cookbook",
+  "name": "Written a Cookbook",
+  "status": "no_match",
+  "reason": "Book; no candidate.",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "0786886129"
+   ],
+   "title": "Easy Exotic: Low-Fat Recipes from Around the",
+   "anchors": [
+    "written a cookbook"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "battle-of-the-n"
+  }
+ },
+ {
+  "id": "yuzu",
+  "name": "yuzu",
+  "status": "no_match",
+  "reason": "Amazon item is bottled yuzu juice; candidates are ponzu, syrup and furikake, not the same.",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "B0C2GMHVJZ"
+   ],
+   "title": "YUZUCO Japanese Yuzu Super Juice for Cocktail",
+   "anchors": [
+    "yuzu"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "new-years-feast"
+  }
+ },
+ {
+  "id": "zyliss-soft-skin-peeler",
+  "name": "Zyliss Soft Skin Peeler",
+  "status": "no_match",
+  "reason": "No peeler in candidates.",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "B078YNXVFT"
+   ],
+   "title": "Zyliss Soft Skin Fruit & Vegetable Peeler",
+   "anchors": [
+    "Zyliss Soft Skin Peeler"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "persimmon-parsley-and-olive-salad"
+  }
+ },
+ {
+  "id": "cherry-wood",
+  "name": "cherry wood",
+  "status": "no_match",
+  "reason": "No smoking wood chips in candidates.",
+  "needs_web": false,
+  "amazon": {
+   "asins": [
+    "B0B2TMFT6D"
+   ],
+   "title": "Fire & Flavor Cherry Wood Chips for Smoki",
+   "anchors": [],
+   "links": 0,
+   "posts": 0,
+   "example_post": ""
+  }
+ }
+]

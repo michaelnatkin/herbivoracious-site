@@ -1,0 +1,415 @@
+[
+ {
+  "id": "stonewall-kitchen-roasted-garlic-onion-jam",
+  "name": "Stonewall Kitchen Roasted Garlic Onion Jam",
+  "status": "no_match",
+  "reason": "No jam in candidates; Stonewall Kitchen may be at Williams-Sonoma-type merchants.",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "B000069KQW"
+   ],
+   "title": "Stonewall Kitchen Roasted Garlic Onion",
+   "anchors": [
+    "Onion Savory Jam",
+    "Stonewall Kitchen Roasted Garlic &amp"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "quesadilla"
+  }
+ },
+ {
+  "id": "stringozzi-pasta-17-6-oz-pack-of-3",
+  "name": "Stringozzi Pasta 17.6 oz (pack of 3)",
+  "status": "no_match",
+  "reason": "No stringozzi or similar long hand-rolled pasta in candidates.",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "B07BWN5RLH"
+   ],
+   "title": "Stringozzi Pasta 17.6 oz pack of 3",
+   "anchors": [
+    "Stringozzi"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "stringozzi-or-linguini-con-funghi-simple-pasta-with-mushrooms-recipe"
+  }
+ },
+ {
+  "id": "strozzapetti",
+  "name": "Strozzapetti",
+  "status": "no_match",
+  "reason": "No strozzapretti in candidates (only orecchiette, trofie, etc.).",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "B00527VNMK"
+   ],
+   "title": "Dal Raccolto Strozzapretti Pasta, 1 lb",
+   "anchors": [
+    "strozzapetti"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "pasta-with-eggp"
+  }
+ },
+ {
+  "id": "sugar",
+  "name": "sugar",
+  "status": "match",
+  "kind": "same",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B00VEJX49U"
+   ],
+   "title": "India Tree, Sugar Demerara, 16 Ounce",
+   "anchors": [
+    "sugar"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "disaster-recove"
+  },
+  "primary": {
+   "merchant": "Nuts.com",
+   "product": "Demerara Sugar",
+   "url": "https://www.nuts.com/products/demerara-sugar",
+   "epc": 0.38,
+   "rate": null,
+   "price": "$4.49",
+   "verified": true
+  },
+  "alternatives": [
+   {
+    "merchant": "ChefShop.com",
+    "product": "India Tree Demerara Sugar - 1 lb",
+    "url": "https://www.chefshop.com/products/india-tree-demerara-sugar-1-lb",
+    "epc": null,
+    "rate": null,
+    "price": "$7.95",
+    "verified": true
+   }
+  ],
+  "note": "Same ingredient (demerara sugar); Nuts.com sells its own brand, while the ChefShop alternative is the exact India Tree 1 lb from the Amazon listing."
+ },
+ {
+  "id": "sundae-cup",
+  "name": "Sundae Cup",
+  "status": "no_match",
+  "reason": "No glassware in candidates; possible at Sur La Table-type merchants.",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "B0D5DBF7LC"
+   ],
+   "title": "Glass Dessert Bowls Breakfast Cups,Des",
+   "anchors": [
+    "sundae cup"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "caramelized-raisin-sundae-recipe"
+  }
+ },
+ {
+  "id": "suribachi-japanese-ridged-ceramic-mortar-and",
+  "name": "Suribachi (Japanese Ridged Ceramic Mortar and Pestle)",
+  "status": "no_match",
+  "reason": "No mortar/suribachi in candidates.",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "B000UEYXL8"
+   ],
+   "title": "Helen's Asian Kitchen Classic Suri",
+   "anchors": [
+    "suribachi (Japanese ridged ceramic mortar and pestle)"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "gomashio-japanese-sesame-seed-salt-condiment-recipe"
+  }
+ },
+ {
+  "id": "swad-chana-dal-split-desi-chickpeas-4-lb",
+  "name": "Swad Chana Dal (Split Desi Chickpeas), 4 lb",
+  "status": "no_match",
+  "reason": "No chana dal in candidates; possibly Weee or iHerb.",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "B005ZEMHVG"
+   ],
+   "title": "Swad Chana Dal (Split Desi Chickpeas),",
+   "anchors": [
+    "Chana Dal"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "chana-dal-in-the-style-of-puri-jagannath-temple-recipe"
+  }
+ },
+ {
+  "id": "tamales-101",
+  "name": "Tamales 101",
+  "status": "no_match",
+  "reason": "Book; no match in candidates. Check Barnes & Noble.",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "1580084281"
+   ],
+   "title": "Tamales 101: A Beginner's Guide to",
+   "anchors": [
+    "Tamales 101"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "red-chili-sauce-for-tamales"
+  }
+ },
+ {
+  "id": "tamicon-brand",
+  "name": "Tamicon Brand",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B000JSQDT0"
+   ],
+   "title": "Tamicon Tamarind Concentrate | Sweet &",
+   "anchors": [
+    "Tamicon brand"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "fava-bean-ful-salad-with-tamarind-dressing-recipe"
+  },
+  "primary": {
+   "merchant": "ChefShop.com",
+   "product": "Tamarind Concentrate",
+   "url": "https://www.chefshop.com/products/tamarind-concentrate",
+   "epc": null,
+   "rate": null,
+   "price": "$6.95",
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Tamarind concentrate like the Tamicon bottle, but a different brand than Tamicon."
+ },
+ {
+  "id": "tart",
+  "name": "Tart",
+  "status": "no_match",
+  "reason": "Tart pan (Wilton); candidates are food items only.",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "B0000DIX7K"
+   ],
+   "title": "Wilton Excelle Elite Non-Stick - Non-S",
+   "anchors": [
+    "Tart"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "nectarine-and-b"
+  }
+ },
+ {
+  "id": "tawny-port",
+  "name": "Tawny Port",
+  "status": "no_match",
+  "reason": "Wine/port; not sold by candidate merchants.",
+  "needs_web": false,
+  "amazon": {
+   "asins": [
+    "B078HH75QH"
+   ],
+   "title": "Croft Porto Tawny Reserve, 750 ml",
+   "anchors": [
+    "tawny port"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "caramelized-raisin-sundae-recipe"
+  }
+ },
+ {
+  "id": "terex-al-5l-led-light-tower",
+  "name": "Terex AL-5L LED Light Tower",
+  "status": "no_match",
+  "reason": "Construction light tower, not a kitchen/food product.",
+  "needs_web": false,
+  "amazon": {
+   "asins": [
+    "B004QTPK0G"
+   ],
+   "title": "Terex AL5L Fuel Saving Portable LED Li",
+   "anchors": [
+    "Terex AL-5L LED Light Tower"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "transparency-and-support"
+  }
+ },
+ {
+  "id": "the-adaptable-feast",
+  "name": "The Adaptable Feast",
+  "status": "no_match",
+  "reason": "Book; no match in candidates. Check Barnes & Noble.",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "1570615837"
+   ],
+   "title": "The Adaptable Feast: Satisfying Meals",
+   "anchors": [
+    "The Adaptable Feast"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "the-adaptable-feast-cookbook-review-and-a-chance-to-win-a-copy"
+  }
+ },
+ {
+  "id": "the-art-of-fermentation",
+  "name": "The Art of Fermentation",
+  "status": "no_match",
+  "reason": "Book; no match in candidates. Check Barnes & Noble.",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "160358286X"
+   ],
+   "title": "The Art of Fermentation: With Practica",
+   "anchors": [
+    "The Art of Fermentation"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "making-your-own-kimchi-recipe"
+  }
+ },
+ {
+  "id": "the-book",
+  "name": "The Book",
+  "status": "no_match",
+  "reason": "Book; no match in candidates. Check Barnes & Noble.",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "0897166159"
+   ],
+   "title": "Espresso Coffee: Professional Techniqu",
+   "anchors": [
+    "the book"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "espresso-vivace-seattle-wa-capitol-hill-south-lake-union-capsule-review"
+  }
+ },
+ {
+  "id": "the-curious-cook-more-kitchen-science-and-lore",
+  "name": "The Curious Cook: More Kitchen Science and Lore by Harold McGee",
+  "status": "no_match",
+  "reason": "Book; no match in candidates. Check Barnes & Noble.",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "0020098014"
+   ],
+   "title": "The Curious Cook: More Kitchen Science",
+   "anchors": [
+    "The Curious Cook: More Kitchen Science and Lore"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "recipe-fresh-sp"
+  }
+ },
+ {
+  "id": "the-farm-to-table-cookbook-the-art-of-eating",
+  "name": "The Farm to Table Cookbook: the Art of Eating Locally",
+  "status": "no_match",
+  "reason": "Book; no match in candidates. Check Barnes & Noble.",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "1570615292"
+   ],
+   "title": "The Farm to Table Cookbook: The Art of",
+   "anchors": [
+    "The Farm to Table Cookbook: The Art of Eating Locally"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "cherry-pumpkin"
+  }
+ },
+ {
+  "id": "the-fat-duck-cookbook",
+  "name": "The Fat Duck Cookbook",
+  "status": "no_match",
+  "reason": "Book; no match in candidates. Check Barnes & Noble.",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "160819020X"
+   ],
+   "title": "The Fat Duck Cookbook",
+   "anchors": [
+    "The Fat Duck Cookbook"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "umami-packed-vegetarian-broth-recipe-also-vegan"
+  }
+ },
+ {
+  "id": "the-improvisational-cook",
+  "name": "The Improvisational Cook",
+  "status": "no_match",
+  "reason": "Book; no match in candidates. Check Barnes & Noble.",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "0060731648"
+   ],
+   "title": "The Improvisational Cook",
+   "anchors": [
+    "The Improvisational Cook"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "recipe-double-c"
+  }
+ },
+ {
+  "id": "the-mushroom-hunters",
+  "name": "The Mushroom Hunters",
+  "status": "no_match",
+  "reason": "Book; no match in candidates. Check Barnes & Noble.",
+  "needs_web": true,
+  "amazon": {
+   "asins": [
+    "0345536258"
+   ],
+   "title": "The Mushroom Hunters: On the Trail of",
+   "anchors": [
+    "The Mushroom Hunters"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "chanterelle-tostadas-recipes"
+  }
+ }
+]

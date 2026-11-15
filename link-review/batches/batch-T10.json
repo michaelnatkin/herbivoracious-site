@@ -1,0 +1,393 @@
+[
+  {
+    "id": "the-nasty-bits",
+    "name": "The Nasty Bits",
+    "status": "no_match",
+    "reason": "Book; no book in candidate catalogs.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B002UM5BHS"
+      ],
+      "title": "The Nasty Bits: Collected Varietal Cut",
+      "anchors": [
+        "The Nasty Bits"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "winter-food-b-1"
+    }
+  },
+  {
+    "id": "think-like-a-chef",
+    "name": "Think Like a Chef",
+    "status": "no_match",
+    "reason": "Book; no book in candidate catalogs.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "0307406954"
+      ],
+      "title": "Think Like a Chef: A Cookbook",
+      "anchors": [
+        "Think Like a Chef"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "roasted-tomato-and-corn-risotto-recipe"
+    }
+  },
+  {
+    "id": "this-enormous-roll",
+    "name": "this enormous roll",
+    "status": "no_match",
+    "reason": "Paracord adjusters; not a kitchen/food product.",
+    "needs_web": false,
+    "amazon": {
+      "asins": [
+        "B001AEOAXS"
+      ],
+      "title": "6-Pack Paracord Adjusters - Rope Adj",
+      "anchors": [
+        "this enormous roll"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "strawberries-and-cream-birthday-cake-momofuku-style"
+    }
+  },
+  {
+    "id": "this-one-from-beaufor",
+    "name": "this one from Beaufor",
+    "status": "match",
+    "kind": "equivalent",
+    "confidence": "medium",
+    "amazon": {
+      "asins": [
+        "B000SR5VOU"
+      ],
+      "title": "Maille Old Style Mustard 7.3 oz, Gla",
+      "anchors": [
+        "this one from Beaufor"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "black-rice-fritter-with-turnips-and-horseradish-cream-recipe"
+    },
+    "primary": {
+      "merchant": "ChefShop.com",
+      "product": "Fallot Whole Grain Mustard",
+      "url": "https://www.chefshop.com/products/fallot-whole-grain-mustard",
+      "epc": null,
+      "rate": null,
+      "price": "$7.95",
+      "verified": true
+    },
+    "alternatives": [],
+    "note": "Amazon item was Maille Old Style (whole grain) mustard; this is Fallot whole grain Dijon mustard, a different brand of the same style."
+  },
+  {
+    "id": "this-version",
+    "name": "this version",
+    "status": "no_match",
+    "reason": "Lamson left-hand slotted turner; no turner in candidates.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B0006GT586"
+      ],
+      "title": "Lamson Left Hand Slotted Turner, Che",
+      "anchors": [
+        "this version"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "the-joy-of-a-proper-spatula"
+    }
+  },
+  {
+    "id": "toaster-oven",
+    "name": "Toaster Oven",
+    "status": "no_match",
+    "reason": "Cuisinart toaster oven; candidates are spice shops only.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B004JMZGM2"
+      ],
+      "title": "Cuisinart Custom Classic Toaster Ove",
+      "anchors": [
+        "toaster oven"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "hatch-chiles-stuffed-with-cilantro-scrambled-egg-recipe"
+    }
+  },
+  {
+    "id": "tomatillos",
+    "name": "Tomatillos",
+    "status": "no_match",
+    "reason": "Canned tomatillos; no tomatillos in candidates.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B0046GX63M"
+      ],
+      "title": "La Costeña Canned Tomatillos for Sal",
+      "anchors": [
+        "tomatillos"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "swiss-chard-enchiladas-in-a-tomatillo-sauce-recipe"
+    }
+  },
+  {
+    "id": "true-blood",
+    "name": "True Blood",
+    "status": "no_match",
+    "reason": "TV DVD; not a kitchen/food product.",
+    "needs_web": false,
+    "amazon": {
+      "asins": [
+        "B001FB4W0W"
+      ],
+      "title": "True Blood: Season 1",
+      "anchors": [
+        "True Blood"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "potatoes-alioli"
+    }
+  },
+  {
+    "id": "truffled-popcorn",
+    "name": "Truffled Popcorn",
+    "status": "no_match",
+    "reason": "Microwave truffle popcorn; no truffle popcorn among candidates (salts, oils are different products).",
+    "needs_web": false,
+    "amazon": {
+      "asins": [
+        "B0BNLYXVHJ"
+      ],
+      "title": "Regalis Microwavable Black Truffle P",
+      "anchors": [
+        "truffled popcorn"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "foraging-in-bel"
+    }
+  },
+  {
+    "id": "try-this-one",
+    "name": "Try This One",
+    "status": "no_match",
+    "reason": "PrepWorks dough press set; no kitchen tools in candidates.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B00DPREMEK"
+      ],
+      "title": "PrepWorks 3pc Dough Press Set – Set",
+      "anchors": [
+        "try this one"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "mandu-koreanstyle-potstickers-with-ssamjang-kochujang-sauce-recipe"
+    }
+  },
+  {
+    "id": "ultra-tex-3",
+    "name": "Ultra-Tex 3",
+    "status": "no_match",
+    "reason": "Ultra-Tex 3 modified starch thickener; xanthan gum and GF flours are not equivalent.",
+    "needs_web": false,
+    "amazon": {
+      "asins": [
+        "B00BTI833I"
+      ],
+      "title": "Pure Ultra-tex 3 ⊘ Non-GMO Gluten-Fr",
+      "anchors": [
+        "Ultra-Tex 3"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "antigriddle-pudding-pop-bruleed-mango-black-sesame-tuile-recipe"
+    }
+  },
+  {
+    "id": "vegan-mayonnaise",
+    "name": "Vegan Mayonnaise",
+    "status": "no_match",
+    "reason": "Vegan avocado-oil mayo; no mayonnaise in candidates.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B07B3PYTKN"
+      ],
+      "title": "Chosen Foods Classic Vegan Avocado O",
+      "anchors": [
+        "vegan mayonnaise"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "mexican-breakfast-torta-recipe"
+    }
+  },
+  {
+    "id": "vegenaise-which-is-quite-tasty",
+    "name": "Vegenaise, Which Is Quite Tasty",
+    "status": "no_match",
+    "reason": "Vegenaise; no vegan mayo in candidates.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B000QJAFY6"
+      ],
+      "title": "Follow Your Heart, Vegenaise, 32 Oun",
+      "anchors": [
+        "Vegenaise, which is quite tasty"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "green-garlic-and-mint-potato-salad-recipe"
+    }
+  },
+  {
+    "id": "vegetable-peeler",
+    "name": "Vegetable Peeler",
+    "status": "no_match",
+    "reason": "OXO Y-peeler; no peelers in candidates.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B00004OCIU"
+      ],
+      "title": "OXO Good Grips Y-Peeler",
+      "anchors": [
+        "vegetable peeler"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "recipe-white-as"
+    }
+  },
+  {
+    "id": "vermouth",
+    "name": "Vermouth",
+    "status": "no_match",
+    "reason": "Dry vermouth (alcohol); no vermouth in candidates.",
+    "needs_web": false,
+    "amazon": {
+      "asins": [
+        "B005J0KRG8"
+      ],
+      "title": "Martini & Rossi Vermouth Extra D",
+      "anchors": [
+        "vermouth"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "braised-baby-artichoke-with-fennel-and-cherry-tomatoes-recipe"
+    }
+  },
+  {
+    "id": "w-sthof-classic-3-5-paring-knife",
+    "name": "Wüsthof Classic 3.5\" Paring Knife",
+    "status": "no_match",
+    "reason": "Wusthof paring knife; no knives in candidates.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B085V5Q2JR"
+      ],
+      "title": "WÜSTHOF Classic 3.5\" Paring Knif",
+      "anchors": [
+        "WÜSTHOF Classic 3.5\" Paring Knife"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "other-knives-kitchen-tools-hand-tools"
+    }
+  },
+  {
+    "id": "w-sthof-classic-8-bread-knife",
+    "name": "Wüsthof Classic 8\" Bread Knife",
+    "status": "no_match",
+    "reason": "Wusthof bread knife; no knives in candidates.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B00005MEGZ"
+      ],
+      "title": "WÜSTHOF Classic 8\" Bread Knife",
+      "anchors": [
+        "WÜSTHOF Classic 8\" Bread Knife"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "other-knives-kitchen-tools-hand-tools"
+    }
+  },
+  {
+    "id": "wheat-berries",
+    "name": "Wheat Berries",
+    "status": "no_match",
+    "reason": "Wheat berries; none in candidates.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B00A6TKLRC"
+      ],
+      "title": "Palouse Brand Certified Glyphosate F",
+      "anchors": [
+        "wheat berries"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "introduction-to"
+    }
+  },
+  {
+    "id": "whopper-cake",
+    "name": "Whopper Cake",
+    "status": "no_match",
+    "reason": "Book (Whopper Cake); no book in candidates.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "0689838441"
+      ],
+      "title": "Whopper Cake",
+      "anchors": [
+        "Whopper Cake"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "whopper-cake-book-review"
+    }
+  },
+  {
+    "id": "wilton-excelle-elite-non-stick-tart-pan-11-inch",
+    "name": "Wilton Excelle Elite Non-Stick Tart Pan, 11-Inch",
+    "status": "no_match",
+    "reason": "Wilton tart pan; no bakeware in candidates.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B0000DIX7Y"
+      ],
+      "title": "Wilton Excelle Elite Non-Stick Tart",
+      "anchors": [
+        "tart pan"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "heirloom-tomato-tart-recipe"
+    }
+  }
+]

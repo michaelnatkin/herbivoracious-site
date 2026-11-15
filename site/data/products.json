@@ -2423,11 +2423,12 @@
   "glucose-powder": {
     "name": "Glucose Powder",
     "category": "sweeteners-chocolate",
-    "url": "https://www.amazon.com/dp/B019HN8KW0?tag=herb-hugo-20",
+    "url": "https://www.chefshop.com/products/essential-pantry-glucose-powder",
     "original_url": "https://www.amazon.com/dp/B019HN8KW0?tag=herb-hugo-20",
     "asins": [
       "B019HN8KW0"
-    ]
+    ],
+    "merchant": "ChefShop.com"
   },
   "gochugaru-a-korean-chili-powder": {
     "name": "Gochugaru, a Korean Chili Powder",
@@ -3985,11 +3986,12 @@
   "one-from-matiz": {
     "name": "One from Matiz",
     "category": "pantry-staples",
-    "url": "https://www.amazon.com/dp/B000LUP6D0?tag=herb-hugo-20",
+    "url": "https://www.chefshop.com/products/paella-bomba-rice-matiz",
     "original_url": "https://www.amazon.com/dp/B000LUP6D0?tag=herb-hugo-20",
     "asins": [
       "B000LUP6D0"
-    ]
+    ],
+    "merchant": "ChefShop.com"
   },
   "or-you-can-find-it-on-amazon": {
     "name": "or you can find it on Amazon",
@@ -5135,12 +5137,13 @@
   },
   "sugar": {
     "name": "sugar",
-    "url": "https://www.amazon.com/dp/B00VEJX49U?tag=herb-hugo-20",
+    "url": "https://www.nuts.com/products/demerara-sugar",
     "original_url": "https://www.amazon.com/dp/B00VEJX49U?tag=herb-hugo-20",
     "asins": [
       "B00VEJX49U"
     ],
-    "hidden": true
+    "hidden": true,
+    "merchant": "Nuts.com"
   },
   "sumac": {
     "name": "sumac",

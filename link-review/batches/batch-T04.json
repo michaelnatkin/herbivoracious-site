@@ -1,0 +1,406 @@
+[
+  {
+    "id": "emile-henry-lasagna-pan",
+    "name": "Emile Henry Lasagna Pan",
+    "status": "no_match",
+    "reason": "No acceptable candidate in the saved results (hits are unrelated products).",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B00022O6YM"
+      ],
+      "title": "Emile Henry 15 x 10.2 x 2.8 Inch Lasagna Bake",
+      "anchors": [
+        "Emile Henry lasagna pan"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "vegetarian-lasagna-recipe-with-spinach-and-ricotta-filling"
+    }
+  },
+  {
+    "id": "feeding-the-hungry-ghost",
+    "name": "Feeding the Hungry Ghost",
+    "status": "no_match",
+    "reason": "No acceptable candidate in the saved results (hits are unrelated products).",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "1608681645"
+      ],
+      "title": "Feeding the Hungry Ghost: Life, Faith, and Wh",
+      "anchors": [
+        "Feeding the Hungry Ghost"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "hungry-ghost-moroccan-carrot-salad-recipe"
+    }
+  },
+  {
+    "id": "feta-cheese",
+    "name": "Feta Cheese",
+    "status": "no_match",
+    "reason": "No acceptable candidate in the saved results (hits are unrelated products).",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B0012FPTXU"
+      ],
+      "title": "Athenos Traditional Crumbled Feta Cheese (4 o",
+      "anchors": [
+        "feta cheese"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "chermoula-stuffed-eggplant-recipe"
+    }
+  },
+  {
+    "id": "fideos",
+    "name": "Fideos",
+    "status": "no_match",
+    "reason": "No acceptable candidate in the saved results (hits are unrelated products).",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B00FR6XI9W"
+      ],
+      "title": "Barilla Fideo Cut Spaghetti Pasta, 16 oz. Box",
+      "anchors": [
+        "fideos"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "ilans-top-chef-fideos-vegetarian-style-with-a-review-of-the-top-chef-cookbook"
+    }
+  },
+  {
+    "id": "field-roast-spicy-mexican-chipotle-plant-based",
+    "name": "Field Roast Spicy Mexican Chipotle Plant-Based Sausage, 12.95 oz",
+    "status": "no_match",
+    "reason": "No acceptable candidate in the saved results (hits are unrelated products).",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B002DQIZRE"
+      ],
+      "title": "Field Roast Spicy Mexican Chipotle Plant-Base",
+      "anchors": [
+        "Field Roast Mexican Chipotle vegetarian sausage"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "recipe-veggie-c"
+    }
+  },
+  {
+    "id": "flat-stanleyish",
+    "name": "flat-stanleyish",
+    "status": "no_match",
+    "reason": "No acceptable candidate in the saved results (hits are unrelated products).",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "0060837764"
+      ],
+      "title": "Flat Stanley Collection Box Set, The",
+      "anchors": [
+        "flat-stanleyish"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "buckwheat-buttermilk-pancakes-recipe"
+    }
+  },
+  {
+    "id": "flour",
+    "name": "flour",
+    "status": "match",
+    "kind": "equivalent",
+    "confidence": "medium",
+    "amazon": {
+      "asins": [
+        "B07XKDR6HN"
+      ],
+      "title": "Bob's Red Mill Teff Flour, 20oz",
+      "anchors": [
+        "flour"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "eat-ethiopian-t"
+    },
+    "primary": {
+      "merchant": "ChefShop.com",
+      "product": "Essential Pantry Brown Teff Flour",
+      "url": "https://www.chefshop.com/products/essential-pantry-brown-teff-flour",
+      "epc": null,
+      "rate": null,
+      "price": "$7.95",
+      "verified": true
+    },
+    "alternatives": [],
+    "note": "Teff flour from a different brand (Essential Pantry rather than Bob's Red Mill); package size not confirmed."
+  },
+  {
+    "id": "food-dehydrator",
+    "name": "Food Dehydrator",
+    "status": "no_match",
+    "reason": "No acceptable candidate in the saved results (hits are unrelated products).",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B004Z915M4"
+      ],
+      "title": "Excalibur Electric Food Dehydrator Machine 9-",
+      "anchors": [
+        "fancy-pants dehydrator"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "corned-beets-recipe"
+    }
+  },
+  {
+    "id": "food-wine",
+    "name": "Food &amp; Wine",
+    "status": "no_match",
+    "reason": "Magazine listing; not a product sold by any searched in-network merchant.",
+    "needs_web": false,
+    "amazon": {
+      "asins": [
+        "B00005NINY"
+      ],
+      "title": "Food & Wine",
+      "anchors": [
+        "Food &amp",
+        "Wine"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "can-a-vegetarian-eat-at-pike-street-fish-fry-restaurant-review-seattle-wa"
+    }
+  },
+  {
+    "id": "from-a-can",
+    "name": "from a can",
+    "status": "no_match",
+    "reason": "No acceptable candidate in the saved results (hits are unrelated products).",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B000LQJDTC"
+      ],
+      "title": "Foul Mudammas, Fava Beans (Sultan) 15.5oz",
+      "anchors": [
+        "from a can"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "fava-beans-potatoes-saffron-rice"
+    }
+  },
+  {
+    "id": "galil-pickled-mango-amba",
+    "name": "Galil Pickled Mango Amba",
+    "status": "no_match",
+    "reason": "No acceptable candidate in the saved results (hits are unrelated products).",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B00P8FCMIU"
+      ],
+      "title": "Galil - Pickled Mango, Amba, 22 Ounces (pack",
+      "anchors": [
+        "mango pickle"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "recipe-sabich"
+    }
+  },
+  {
+    "id": "garcima-15-inch-carbon-steel-paella-pan",
+    "name": "Garcima 15-Inch Carbon Steel Paella Pan",
+    "status": "no_match",
+    "reason": "No acceptable candidate in the saved results (hits are unrelated products).",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B000QYKK3W"
+      ],
+      "title": "Garcima 15-Inch Carbon Steel Paella Pan, 38cm",
+      "anchors": [
+        "paella pan"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "new-paella-pan-from-the-spanish-table"
+    }
+  },
+  {
+    "id": "genmaicha-tea",
+    "name": "Genmaicha Tea",
+    "status": "no_match",
+    "reason": "No acceptable candidate in the saved results (hits are unrelated products).",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B000SSNFEW"
+      ],
+      "title": "Takaokaya Genmai Cha, Japanese Brown Rice Tea",
+      "anchors": [
+        "genmaicha tea"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "tea-smoked-lych"
+    }
+  },
+  {
+    "id": "ghost-chile-sea-salt-caramels",
+    "name": "Ghost Chile &amp; Sea Salt Caramels",
+    "status": "no_match",
+    "reason": "No acceptable candidate in the saved results (hits are unrelated products).",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B007YNPJS4"
+      ],
+      "title": "Theo Sea Salt Organic Dark Chocolate Bar, 70%",
+      "anchors": [
+        "ghost chile &amp",
+        "sea salt caramels"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "seattle-chocolate-salon-theo-chocolopolis"
+    }
+  },
+  {
+    "id": "glucose-powder",
+    "name": "Glucose Powder",
+    "status": "match",
+    "kind": "same",
+    "confidence": "high",
+    "amazon": {
+      "asins": [
+        "B019HN8KW0"
+      ],
+      "title": "Pure Glucose Powder Vegan Gluten-Free OU Kosh",
+      "anchors": [
+        "glucose powder"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "applecelery-sorbet-a-refreshing-recipe-with-many-coauthors"
+    },
+    "primary": {
+      "merchant": "ChefShop.com",
+      "product": "Essential Pantry Glucose Powder",
+      "url": "https://www.chefshop.com/products/essential-pantry-glucose-powder",
+      "epc": null,
+      "rate": null,
+      "price": "$5.95",
+      "verified": true
+    },
+    "alternatives": [],
+    "note": "Same ingredient (pure glucose powder) from a different brand; check package size."
+  },
+  {
+    "id": "gorgonzola-dolce",
+    "name": "Gorgonzola Dolce",
+    "status": "no_match",
+    "reason": "No acceptable candidate in the saved results (hits are unrelated products).",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B07881ML7Z"
+      ],
+      "title": "Igor Gorgonzola Dolce",
+      "anchors": [
+        "Gorgonzola dolce"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "caramelized-apple-and-blue-cheese-crostini"
+    }
+  },
+  {
+    "id": "gourmet",
+    "name": "Gourmet",
+    "status": "no_match",
+    "reason": "Magazine listing; not a product sold by any searched in-network merchant.",
+    "needs_web": false,
+    "amazon": {
+      "asins": [
+        "B00005N7QH"
+      ],
+      "title": "Gourmet",
+      "anchors": [
+        "Gourmet"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "can-a-vegetarian-eat-at-pike-street-fish-fry-restaurant-review-seattle-wa"
+    }
+  },
+  {
+    "id": "grant-achatz",
+    "name": "Grant Achatz",
+    "status": "no_match",
+    "reason": "No acceptable candidate in the saved results (hits are unrelated products).",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B004T4UZ6C"
+      ],
+      "title": "Life, on the Line Publisher: Gotham",
+      "anchors": [
+        "Grant Achatz"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "so-you-want-to-stage-intern-at-a-restaurant"
+    }
+  },
+  {
+    "id": "great-item",
+    "name": "great item",
+    "status": "no_match",
+    "reason": "No acceptable candidate in the saved results (hits are unrelated products).",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B00004OCKT"
+      ],
+      "title": "OXO Good Grips Apple Slicer, Corer & Cutt",
+      "anchors": [
+        "great item"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "apple-crostata-with-breadcrumb-streusel-recipe-for-pieday"
+    }
+  },
+  {
+    "id": "hand-cranked-cavatelli-maker",
+    "name": "Hand-Cranked Cavatelli Maker",
+    "status": "no_match",
+    "reason": "No acceptable candidate in the saved results (hits are unrelated products).",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B009J9AE18"
+      ],
+      "title": "Fantes Cavatelli Maker Machine for Authentic",
+      "anchors": [
+        "hand-cranked cavatelli maker"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "cavatelli-with-slow-roasted-broccoli-and-harissa-recipe"
+    }
+  }
+]
