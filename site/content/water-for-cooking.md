@@ -2,7 +2,6 @@
 title: "Water for Cooking: What I Filter and Why"
 date: 2026-11-14T08:00:00
 slug: "water-for-cooking"
-draft: true
 cta: "water"
 description: "Why I filter the water I cook with, which system I use at home, and what to know before you buy one."
 ---

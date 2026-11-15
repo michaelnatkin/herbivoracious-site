@@ -2851,5 +2851,4 @@ a.as-seen-in:hover { text-decoration: none; }
 .shop-feature__links a { color: var(--accent); }
 @media print { .water-note, .water-box { display: none !important; } }
 .water-cta__icon { flex-shrink: 0; border-radius: var(--radius); }
-.water-cta__note { display: block; margin-top: 8px; font-family: var(--font-ui); font-size: 12px; color: var(--text-light); }
 @media (max-width: 600px) { .water-cta__icon { width: 72px; height: 72px; } }
