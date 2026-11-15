@@ -26,7 +26,7 @@
    "epc": 0.38,
    "rate": 20,
    "price": null,
-   "verified": false
+   "verified": true
   },
   "alternatives": [
    {
@@ -36,7 +36,7 @@
     "epc": 0.38,
     "rate": 20,
     "price": "$13.49",
-    "verified": false
+    "verified": true
    }
   ],
   "note": "Nuts.com carries the Soom brand tahini; its own organic tahini is a fallback."
@@ -68,7 +68,7 @@
    "epc": 0.33,
    "rate": 15,
    "price": null,
-   "verified": false
+   "verified": true
   },
   "alternatives": [],
   "note": "Same kind of ground turmeric, different brand than Simply Organic."
@@ -134,7 +134,7 @@
    "epc": 0.06,
    "rate": 45,
    "price": null,
-   "verified": false
+   "verified": true
   },
   "alternatives": [
    {
@@ -144,7 +144,7 @@
     "epc": null,
     "rate": 7,
     "price": null,
-    "verified": false
+    "verified": true
    }
   ],
   "note": "Different brand of white miso than Roland or Miso Master; Thrive's own organic label, and ChefShop's is a 1 kilo pouch."
@@ -174,7 +174,7 @@
    "epc": 0.33,
    "rate": 15,
    "price": null,
-   "verified": false
+   "verified": true
   },
   "alternatives": [
    {
@@ -184,7 +184,7 @@
     "epc": 0.21,
     "rate": 15,
     "price": null,
-    "verified": false
+    "verified": true
    }
   ],
   "note": "Pure ground ancho chile like the McCormick one, from a specialty spice shop."
@@ -264,7 +264,7 @@
    "epc": 0.33,
    "rate": 15,
    "price": null,
-   "verified": false
+   "verified": true
   },
   "alternatives": [
    {
@@ -274,7 +274,7 @@
     "epc": 0.21,
     "rate": 15,
     "price": null,
-    "verified": false
+    "verified": true
    }
   ],
   "note": "Different brand of baharat than Eastanbul; same Middle Eastern blend."
@@ -336,7 +336,7 @@
    "epc": 0.33,
    "rate": 15,
    "price": null,
-   "verified": false
+   "verified": true
   },
   "alternatives": [
    {
@@ -346,7 +346,7 @@
     "epc": 0.21,
     "rate": 15,
     "price": null,
-    "verified": false
+    "verified": true
    }
   ],
   "note": "These are ground New Mexico chile, not whole dried pods like the Amazon item; no in-network source for whole pods was found."
@@ -377,7 +377,7 @@
    "epc": 0.31,
    "rate": 10,
    "price": null,
-   "verified": false
+   "verified": true
   },
   "alternatives": [],
   "note": "Not a Taylor, but a similar low-priced waterproof instant-read thermometer from ThermoWorks, likely pricier than $12."
@@ -429,7 +429,7 @@
    "epc": 0.21,
    "rate": 15,
    "price": null,
-   "verified": false
+   "verified": true
   },
   "alternatives": [],
   "note": "Same Ethiopian blend from a different brand than Zamouri."
@@ -481,7 +481,7 @@
    "epc": 0.38,
    "rate": 20,
    "price": null,
-   "verified": false
+   "verified": true
   },
   "alternatives": [
    {
@@ -491,7 +491,7 @@
     "epc": null,
     "rate": 7,
     "price": null,
-    "verified": false
+    "verified": true
    }
   ],
   "note": "Black beluga-type lentils from a different brand than Clear Creek, in smaller sizes."
@@ -573,7 +573,7 @@
    "epc": 0.33,
    "rate": 15,
    "price": null,
-   "verified": false
+   "verified": true
   },
   "alternatives": [
    {
@@ -583,7 +583,7 @@
     "epc": 0.21,
     "rate": 15,
     "price": null,
-    "verified": false
+    "verified": true
    }
   ],
   "note": "No bourbon-smoked paprika found; this is a standard Spanish smoked sweet paprika like the Rey de la Vera option."
@@ -646,7 +646,7 @@
    "epc": 0.38,
    "rate": 20,
    "price": null,
-   "verified": false
+   "verified": true
   },
   "alternatives": [
    {
@@ -656,7 +656,7 @@
     "epc": null,
     "rate": 7,
     "price": null,
-    "verified": false
+    "verified": true
    }
   ],
   "note": "Dried cannellini beans from a different brand than Camellia."

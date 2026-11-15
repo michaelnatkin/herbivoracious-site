@@ -1,0 +1,498 @@
+[
+  {
+    "id": "epazote",
+    "name": "Epazote",
+    "status": "no_match",
+    "reason": "No dried epazote in results (Mexican oregano is a different herb).",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B0BQ8PF6MC"
+      ],
+      "title": "Amazon.com : 2oz Dried Cut Epazote Leaves, Hojas de Epazote Cortadas | Hojas de Epazote Cortadas : Grocery & Gourmet Food",
+      "anchors": [
+        "epazote"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "spicy-tomatillo-salsa-recipe"
+    }
+  },
+  {
+    "id": "essentials-of-classic-italian-cooking",
+    "name": "Essentials of Classic Italian Cooking",
+    "status": "match",
+    "kind": "equivalent",
+    "confidence": "medium",
+    "amazon": {
+      "asins": [
+        "039458404X"
+      ],
+      "title": "Essentials of Classic Italian Cooking",
+      "anchors": [
+        "Essentials of Classic Italian Cooking"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "minestrone"
+    },
+    "primary": {
+      "merchant": "ChefShop.com",
+      "product": "Marcella Hazan Essentials of Classic Italian Cooking - 30th Anniversary Edition (Book)",
+      "url": "https://www.chefshop.com/products/signed-book-only-marcella-hazan-essentials-of-classic-italian-cooking-30th-anniversary-edition",
+      "epc": null,
+      "rate": null,
+      "price": "$40.00",
+      "verified": true
+    },
+    "alternatives": [],
+    "note": "Same book, but ChefShop sells the signed 30th Anniversary Edition rather than the original paperback."
+  },
+  {
+    "id": "expensive-paraphenalia",
+    "name": "expensive paraphenalia",
+    "status": "no_match",
+    "reason": "Vague anchor for dry-ice equipment; no relevant candidate.",
+    "needs_web": false,
+    "amazon": {
+      "asins": [
+        "B0027FXE7C"
+      ],
+      "title": "expensive paraphenalia",
+      "anchors": [
+        "expensive paraphenalia"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "using-dry-ice-to-carry-scent-culinary-fog"
+    }
+  },
+  {
+    "id": "extra-virgin-olive-oil",
+    "name": "Extra-Virgin Olive Oil",
+    "status": "match",
+    "kind": "equivalent",
+    "confidence": "medium",
+    "amazon": {
+      "asins": [
+        "B002LZKGWY"
+      ],
+      "title": "Extra-Virgin Olive Oil",
+      "anchors": [
+        "tasty extra-virgin olive oil"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "lemon-mustard-vinaigrette-the-simplest-and-best-salad-dressing-recipe"
+    },
+    "primary": {
+      "merchant": "The Spice House",
+      "product": "Kosterina Organic Everyday Extra Virgin Olive Oil",
+      "url": "https://www.thespicehouse.com/products/organic-everyday-extra-virgin-olive-oil",
+      "epc": 0.21,
+      "rate": null,
+      "price": "$26.00",
+      "verified": true
+    },
+    "alternatives": [
+      {
+        "merchant": "ChefShop.com",
+        "product": "Giuliano Hazan's Frantoio Salvegno Venetian Extra Virgin Olive Oil",
+        "url": "https://www.chefshop.com/products/frantoio-salvegno-venetian-extra-virgin-olive-oil",
+        "epc": null,
+        "rate": null,
+        "price": "$36.95",
+        "verified": true
+      }
+    ],
+    "note": "Generic extra-virgin olive oil; Kosterina Organic Everyday is a reasonable everyday EVOO, brand differs from the Amazon item."
+  },
+  {
+    "id": "falafel",
+    "name": "Falafel",
+    "status": "match",
+    "kind": "equivalent",
+    "confidence": "medium",
+    "amazon": {
+      "asins": [
+        "B01N1ZZRIC"
+      ],
+      "title": "Falafel",
+      "anchors": [
+        "falafel"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "breakfast-in-is"
+    },
+    "primary": {
+      "merchant": "Nuts.com",
+      "product": "Falafel Mix",
+      "url": "https://www.nuts.com/products/falafel-mix",
+      "epc": 0.38,
+      "rate": null,
+      "price": "$11.49",
+      "verified": true
+    },
+    "alternatives": [],
+    "note": "Nuts.com falafel mix as a stand-in for the Amazon falafel item; exact brand not confirmed."
+  },
+  {
+    "id": "fava-or-garbanzo-beans",
+    "name": "Fava or Garbanzo Beans",
+    "status": "match",
+    "kind": "equivalent",
+    "confidence": "medium",
+    "amazon": {
+      "asins": [
+        "B00B0422F6"
+      ],
+      "title": "Fava or Garbanzo Beans",
+      "anchors": [
+        "fava or garbanzo beans"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "fried-pita-bread-with-fava-beans-and-zucchini-recipe"
+    },
+    "primary": {
+      "merchant": "Nuts.com",
+      "product": "Fava Beans (Giant)",
+      "url": "https://www.nuts.com/products/fava-beans-giant",
+      "epc": 0.38,
+      "rate": null,
+      "price": "$7.79",
+      "verified": true
+    },
+    "alternatives": [
+      {
+        "merchant": "ChefShop.com",
+        "product": "Garbanzo - 1209 York Street Beans - Dried",
+        "url": "https://www.chefshop.com/products/garbanzo-1209-york-street-beans-dried",
+        "epc": null,
+        "rate": null,
+        "price": "$9.95",
+        "verified": true
+      }
+    ],
+    "note": "Dried fava beans from Nuts.com; a dried garbanzo option is listed as an alternative since the anchor names either."
+  },
+  {
+    "id": "feeding-the-hungry-ghost",
+    "name": "Feeding the Hungry Ghost",
+    "status": "no_match",
+    "reason": "Book; not in candidate results.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "1608681645"
+      ],
+      "title": "Feeding the Hungry Ghost",
+      "anchors": [
+        "Feeding the Hungry Ghost"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "hungry-ghost-moroccan-carrot-salad-recipe"
+    }
+  },
+  {
+    "id": "feta-cheese",
+    "name": "Feta Cheese",
+    "status": "no_match",
+    "reason": "No feta among results (nuts, spices, other cheeses only).",
+    "needs_web": false,
+    "amazon": {
+      "asins": [
+        "B0012FPTXU"
+      ],
+      "title": "Feta Cheese",
+      "anchors": [
+        "feta cheese"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "chermoula-stuffed-eggplant-recipe"
+    }
+  },
+  {
+    "id": "fideos",
+    "name": "Fideos",
+    "status": "no_match",
+    "reason": "No fideos/thin short noodle candidate.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B00FR6XI9W"
+      ],
+      "title": "Fideos",
+      "anchors": [
+        "fideos"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "ilans-top-chef-fideos-vegetarian-style-with-a-review-of-the-top-chef-cookbook"
+    }
+  },
+  {
+    "id": "field-roast-spicy-mexican-chipotle-plant-based",
+    "name": "Field Roast Spicy Mexican Chipotle Plant-Based Sausage, 12.95 oz",
+    "status": "no_match",
+    "reason": "Branded vegan sausage; only chipotle spices returned.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B002DQIZRE"
+      ],
+      "title": "Field Roast Spicy Mexican Chipotle Plant-Based Sausage, 12.95 oz",
+      "anchors": [
+        "Field Roast Mexican Chipotle vegetarian sausage"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "recipe-veggie-c"
+    }
+  },
+  {
+    "id": "fig-spread",
+    "name": "Fig Spread",
+    "status": "match",
+    "kind": "equivalent",
+    "confidence": "medium",
+    "amazon": {
+      "asins": [
+        "B005GGUITQ"
+      ],
+      "title": "Fig Spread",
+      "anchors": [
+        "fig spread"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "pan-fried-polenta-with-chickpea-stew-king-oyster-mushrooms-and-fig-puree"
+    },
+    "primary": {
+      "merchant": "Nuts.com",
+      "product": "Fig Jam",
+      "url": "https://www.nuts.com/products/fig-jam",
+      "epc": 0.38,
+      "rate": null,
+      "price": "$6.99",
+      "verified": true
+    },
+    "alternatives": [
+      {
+        "merchant": "ChefShop.com",
+        "product": "La Trinquelinette Fig Jam",
+        "url": "https://www.chefshop.com/products/la-trinquelinette-fig-jam",
+        "epc": null,
+        "rate": null,
+        "price": "$17.95",
+        "verified": true
+      }
+    ],
+    "note": "Fig jam in place of a fig spread; different brand, same type of product."
+  },
+  {
+    "id": "fine-mesh-chinois-strainer",
+    "name": "Fine Mesh Chinois Strainer",
+    "status": "no_match",
+    "reason": "Cookware not carried by candidate merchants.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B002JPJI7K"
+      ],
+      "title": "Fine Mesh Chinois Strainer",
+      "anchors": [
+        "badass professional fine chinois"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "cold-sorrel-and-coconut-milk-soup-recipe"
+    }
+  },
+  {
+    "id": "flaky-sea-salt",
+    "name": "Flaky Sea Salt",
+    "status": "match",
+    "kind": "same",
+    "confidence": "high",
+    "amazon": {
+      "asins": [
+        "B001TO8YXC"
+      ],
+      "title": "Flaky Sea Salt",
+      "anchors": [
+        "flaky sea salt"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "puntarelle-and-tiny-potato-salad-recipe"
+    },
+    "primary": {
+      "merchant": "Savory Spice Shop, LLC",
+      "product": "Maldon Sea Salt",
+      "url": "https://www.savoryspiceshop.com/products/maldon-sea-salt",
+      "epc": 0.33,
+      "rate": null,
+      "price": "$10.99",
+      "verified": true
+    },
+    "alternatives": [
+      {
+        "merchant": "The Spice House",
+        "product": "Salt, Maldon Traditional",
+        "url": "https://www.thespicehouse.com/products/maldon-english-sea-salt",
+        "epc": 0.21,
+        "rate": null,
+        "price": "$11.49",
+        "verified": true
+      },
+      {
+        "merchant": "ChefShop.com",
+        "product": "Maldon Sea Salt Flakes - England",
+        "url": "https://www.chefshop.com/products/maldon-sea-salt-flakes-england",
+        "epc": null,
+        "rate": null,
+        "price": "$10.55",
+        "verified": true
+      }
+    ],
+    "note": "Maldon flaky sea salt, the standard flaky finishing salt; package size may differ from the Amazon item."
+  },
+  {
+    "id": "flat-stanleyish",
+    "name": "flat-stanleyish",
+    "status": "no_match",
+    "reason": "Book; not in candidate results.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "0060837764"
+      ],
+      "title": "flat-stanleyish",
+      "anchors": [
+        "flat-stanleyish"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "buckwheat-buttermilk-pancakes-recipe"
+    }
+  },
+  {
+    "id": "flax-plus-cereal",
+    "name": "Flax Plus Cereal",
+    "status": "no_match",
+    "reason": "Nature's Path flax cereal not in results (only granola and seeds).",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B000VK7YAI"
+      ],
+      "title": "Amazon.com: Nature's Path Organic Flax Multibran Flakes Cereal, 13.25 oz (Pack of 1) | ALA Omega-3 & 7g Fiber: Whole grain flakes with flax seed, wheat bran and oat bran, no artificial flavors or colors",
+      "anchors": [
+        "Flax Plus cereal"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "how-do-you-get-your-protein-is-vegetarian-protein-a-problem"
+    }
+  },
+  {
+    "id": "flour",
+    "name": "flour",
+    "status": "no_match",
+    "reason": "Unclear which flour (Ethiopian-cooking post, likely teff); no clear same-type candidate.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B07XKDR6HN"
+      ],
+      "title": "flour",
+      "anchors": [
+        "flour"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "eat-ethiopian-t"
+    }
+  },
+  {
+    "id": "food-dehydrator",
+    "name": "Food Dehydrator",
+    "status": "no_match",
+    "reason": "Appliance; no candidate.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B004Z915M4"
+      ],
+      "title": "Food Dehydrator",
+      "anchors": [
+        "fancy-pants dehydrator"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "corned-beets-recipe"
+    }
+  },
+  {
+    "id": "food-mill",
+    "name": "Food Mill",
+    "status": "no_match",
+    "reason": "Kitchen tool; no candidate.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B08BKKQ2NL"
+      ],
+      "title": "Food Mill",
+      "anchors": [
+        "food mill"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "pumpkin-ravio-1"
+    }
+  },
+  {
+    "id": "food-wine",
+    "name": "Food &amp; Wine",
+    "status": "no_match",
+    "reason": "Magazine; genuine gap.",
+    "needs_web": false,
+    "amazon": {
+      "asins": [
+        "B00005NINY"
+      ],
+      "title": "Food &amp; Wine",
+      "anchors": [
+        "Food &amp",
+        "Wine"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "can-a-vegetarian-eat-at-pike-street-fish-fry-restaurant-review-seattle-wa"
+    }
+  },
+  {
+    "id": "frantoia",
+    "name": "Frantoia",
+    "status": "no_match",
+    "reason": "Frantoia olive oil not found; Frantoio Grove is a different oil.",
+    "needs_web": false,
+    "amazon": {
+      "asins": [
+        "B0006MKY1W"
+      ],
+      "title": "Frantoia",
+      "anchors": [
+        "Frantoia"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "peeled-cherry-t"
+    }
+  }
+]

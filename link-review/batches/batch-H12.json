@@ -1,0 +1,620 @@
+[
+  {
+    "id": "hain-s-iodized-sea-salt",
+    "name": "Hain's Iodized Sea Salt",
+    "status": "match",
+    "kind": "equivalent",
+    "confidence": "medium",
+    "amazon": {
+      "asins": [
+        "B0769L2QG1"
+      ],
+      "title": "Hain's Iodized Sea Salt",
+      "anchors": [
+        "Hain's Iodized Sea Salt"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "salt-crazy-my-f"
+    },
+    "primary": {
+      "merchant": "Nuts.com",
+      "product": "Sea Salt",
+      "url": "https://www.nuts.com/products/sea-salt",
+      "epc": 0.38,
+      "rate": null,
+      "price": "$4.49",
+      "verified": true
+    },
+    "alternatives": [
+      {
+        "merchant": "The Spice House",
+        "product": "Sea Salt, Fine",
+        "url": "https://www.thespicehouse.com/products/salt-pacific-fine",
+        "epc": 0.21,
+        "rate": null,
+        "price": "$7.29",
+        "verified": true
+      }
+    ],
+    "note": "Plain fine sea salt rather than the iodized Hain brand; no iodized option in the network catalogs."
+  },
+  {
+    "id": "hand-cranked-cavatelli-maker",
+    "name": "Hand-Cranked Cavatelli Maker",
+    "status": "no_match",
+    "reason": "No cavatelli maker in the searched catalogs (only an unrelated spice blend).",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B009J9AE18"
+      ],
+      "title": "Hand-Cranked Cavatelli Maker",
+      "anchors": [
+        "hand-cranked cavatelli maker"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "cavatelli-with-slow-roasted-broccoli-and-harissa-recipe"
+    }
+  },
+  {
+    "id": "handcrafted-balinese-sea-salt",
+    "name": "Handcrafted Balinese Sea Salt",
+    "status": "match",
+    "kind": "equivalent",
+    "confidence": "low",
+    "amazon": {
+      "asins": [
+        "B000C023EE"
+      ],
+      "title": "Handcrafted Balinese Sea Salt",
+      "anchors": [
+        "Handcrafted Balinese Sea Salt"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "salt-crazy-my-f"
+    },
+    "primary": {
+      "merchant": "Nuts.com",
+      "product": "Sea Salt",
+      "url": "https://www.nuts.com/products/sea-salt",
+      "epc": 0.38,
+      "rate": null,
+      "price": "$4.49",
+      "verified": true
+    },
+    "alternatives": [
+      {
+        "merchant": "The Spice House",
+        "product": "Sea Salt, Coarse",
+        "url": "https://www.thespicehouse.com/products/salt-pacific-coarse",
+        "epc": 0.21,
+        "rate": null,
+        "price": "$7.29",
+        "verified": true
+      }
+    ],
+    "note": "Generic sea salt, not Balinese or handcrafted; a stretch substitute."
+  },
+  {
+    "id": "hatch-chiles",
+    "name": "Hatch Chiles",
+    "status": "match",
+    "kind": "equivalent",
+    "confidence": "low",
+    "amazon": {
+      "asins": [
+        "B074LGRD5K"
+      ],
+      "title": "Hatch Chiles",
+      "anchors": [
+        "Hatch chiles"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "hatch-chiles-stuffed-with-cilantro-scrambled-egg-recipe"
+    },
+    "primary": {
+      "merchant": "Savory Spice Shop, LLC",
+      "product": "Hatch Green Chile Powder",
+      "url": "https://www.savoryspiceshop.com/products/hatch-green-chile-powder",
+      "epc": 0.33,
+      "rate": null,
+      "price": "$10.50",
+      "verified": true
+    },
+    "alternatives": [],
+    "note": "Hatch green chile as a ground powder rather than whole or fresh chiles, so the form differs."
+  },
+  {
+    "id": "hawaiian-red-salt",
+    "name": "Hawaiian Red Salt",
+    "status": "match",
+    "kind": "same",
+    "confidence": "high",
+    "amazon": {
+      "asins": [
+        "B000K7644E"
+      ],
+      "title": "Hawaiian Red Salt",
+      "anchors": [
+        "Hawaiian Red Salt"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "cooked-carrot-and-radish-salad-recipe"
+    },
+    "primary": {
+      "merchant": "Savory Spice Shop, LLC",
+      "product": "Hawaiian Red Gold Sea Salt",
+      "url": "https://www.savoryspiceshop.com/products/hawaiian-red-gold-sea-salt",
+      "epc": 0.33,
+      "rate": null,
+      "price": "$10.50",
+      "verified": true
+    },
+    "alternatives": [
+      {
+        "merchant": "The Spice House",
+        "product": "Salt, Hawaiian Red",
+        "url": "https://www.thespicehouse.com/products/hawaiian-red-alaea-sea-salt",
+        "epc": 0.21,
+        "rate": null,
+        "price": "$10.79",
+        "verified": true
+      },
+      {
+        "merchant": "ChefShop.com",
+        "product": "Red Alaea Hawaiian Sea Salt",
+        "url": "https://www.chefshop.com/products/red-alaea-hawaiian-sea-salt",
+        "epc": null,
+        "rate": null,
+        "price": "$8.95",
+        "verified": true
+      }
+    ],
+    "note": "Same Hawaiian red (alaea) sea salt, from a different seller."
+  },
+  {
+    "id": "hazelnut-butter",
+    "name": "Hazelnut Butter",
+    "status": "no_match",
+    "reason": "Only whole hazelnuts, extract and unrelated items; no hazelnut butter or paste.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B0FHBXW8M8"
+      ],
+      "title": "Hazelnut Butter",
+      "anchors": [
+        "hazelnut butter"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "butterscotch-pudding-with-bittersweet-ganache-and-caramelize-white-chocolate-crunchies-recipe"
+    }
+  },
+  {
+    "id": "hearts-of-palm",
+    "name": "Hearts of Palm",
+    "status": "no_match",
+    "reason": "No hearts of palm in the searched catalogs.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B074H5M1BL"
+      ],
+      "title": "Hearts of Palm",
+      "anchors": [
+        "hearts of palm"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "vegetarian-ceviche-recipe"
+    }
+  },
+  {
+    "id": "heatproof-spatula",
+    "name": "Heatproof Spatula",
+    "status": "no_match",
+    "reason": "Only spice blends returned; no kitchen tools.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B084H89YLC"
+      ],
+      "title": "Heatproof Spatula",
+      "anchors": [
+        "heatproof spatula"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "caramelized-pear-ice-cream-from-the-perfect-scoop-by-david-lebovitz-recipe-and-cookbook-review"
+    }
+  },
+  {
+    "id": "henckels-forged-premio-serrated-utility-knife-5",
+    "name": "Henckels Forged Premio Serrated Utility Knife, 5-Inch",
+    "status": "no_match",
+    "reason": "No knives in the searched catalogs.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B00375MLNE"
+      ],
+      "title": "Henckels Forged Premio Serrated Utility Knife, 5-Inch",
+      "anchors": [
+        "HENCKELS Forged Premio Serrated Utility Knife, 5-inch"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "other-knives-kitchen-tools-hand-tools"
+    }
+  },
+  {
+    "id": "henckels-twin-pro-s-8-inch-high-carbon",
+    "name": "Henckels Twin Pro S 8-Inch High-Carbon Stainless-Steel Bread Knife",
+    "status": "no_match",
+    "reason": "No knives in the searched catalogs.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B00004RFLN"
+      ],
+      "title": "Henckels Twin Pro S 8-Inch High-Carbon Stainless-Steel Bread Knife",
+      "anchors": [
+        "Henckels Twin Pro S 8-Inch High-Carbon Stainless-Steel Bread Knife"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "knives-for-the"
+    }
+  },
+  {
+    "id": "herbes-de-provence",
+    "name": "Herbes de Provence",
+    "status": "match",
+    "kind": "same",
+    "confidence": "high",
+    "amazon": {
+      "asins": [
+        "B0001M10TM"
+      ],
+      "title": "Herbes de Provence",
+      "anchors": [
+        "herbes de Provence"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "savory-onion-and-aged-gouda-dutch-baby-recipe"
+    },
+    "primary": {
+      "merchant": "Savory Spice Shop, LLC",
+      "product": "Herbes de Provence",
+      "url": "https://www.savoryspiceshop.com/products/herbes-de-provence",
+      "epc": 0.33,
+      "rate": null,
+      "price": "$9.50",
+      "verified": true
+    },
+    "alternatives": [
+      {
+        "merchant": "The Spice House",
+        "product": "Herbes de Provence",
+        "url": "https://www.thespicehouse.com/products/herbes-de-provence",
+        "epc": 0.21,
+        "rate": null,
+        "price": "$8.29",
+        "verified": true
+      },
+      {
+        "merchant": "ChefShop.com",
+        "product": "Herbs de Provence",
+        "url": "https://www.chefshop.com/products/herbs-de-provence",
+        "epc": null,
+        "rate": null,
+        "price": "$6.95",
+        "verified": true
+      }
+    ],
+    "note": "Same herb blend in the same dried form, from a reputable spice seller."
+  },
+  {
+    "id": "high-quality-cocoa-powder",
+    "name": "High Quality Cocoa Powder",
+    "status": "match",
+    "kind": "equivalent",
+    "confidence": "high",
+    "amazon": {
+      "asins": [
+        "B07CJ83LRQ"
+      ],
+      "title": "High Quality Cocoa Powder",
+      "anchors": [
+        "high quality cocoa powder"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "savory-churros-and-morel-chocolate-recipe"
+    },
+    "primary": {
+      "merchant": "Nuts.com",
+      "product": "Premium Dutch Cocoa Powder",
+      "url": "https://www.nuts.com/products/premium-dutch-cocoa-powder",
+      "epc": 0.38,
+      "rate": null,
+      "price": "$18.99",
+      "verified": true
+    },
+    "alternatives": [
+      {
+        "merchant": "Savory Spice Shop, LLC",
+        "product": "Dutched Cocoa Powder",
+        "url": "https://www.savoryspiceshop.com/products/dutched-cocoa-powder",
+        "epc": 0.33,
+        "rate": null,
+        "price": "$10.99",
+        "verified": true
+      },
+      {
+        "merchant": "The Spice House",
+        "product": "Cocoa Powder, Dutched",
+        "url": "https://www.thespicehouse.com/products/dutched-cocoa-powder",
+        "epc": 0.21,
+        "rate": null,
+        "price": "$6.99",
+        "verified": true
+      }
+    ],
+    "note": "Premium Dutch-process cocoa powder; matches the generic \"high quality cocoa powder\" the post calls for."
+  },
+  {
+    "id": "high-quality-spaghetti-noodles",
+    "name": "High-Quality Spaghetti Noodles",
+    "status": "match",
+    "kind": "equivalent",
+    "confidence": "high",
+    "amazon": {
+      "asins": [
+        "B079NKSF12"
+      ],
+      "title": "High-Quality Spaghetti Noodles",
+      "anchors": [
+        "high-quality spaghetti noodles"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "kitchen-sink-pasta-recipe"
+    },
+    "primary": {
+      "merchant": "ChefShop.com",
+      "product": "Spaghetti #5 (Sgambaro) Pasta",
+      "url": "https://www.chefshop.com/products/spaghetti-5-sgambaro-pasta",
+      "epc": null,
+      "rate": null,
+      "price": "$8.55",
+      "verified": true
+    },
+    "alternatives": [
+      {
+        "merchant": "ChefShop.com",
+        "product": "Gentile Organic Spaghetti - Pasta di Gragnano IGP",
+        "url": "https://www.chefshop.com/products/pasta-di-gragnano-i-g-p-gentile-organic-spaghetti-pasta",
+        "epc": null,
+        "rate": null,
+        "price": "$10.95",
+        "verified": true
+      }
+    ],
+    "note": "Artisan Italian dried spaghetti, matching the \"high-quality spaghetti\" the post asks for; no EPC data for this merchant."
+  },
+  {
+    "id": "himalayan-sulfur-salt",
+    "name": "Himalayan Sulfur Salt",
+    "status": "match",
+    "kind": "equivalent",
+    "confidence": "medium",
+    "amazon": {
+      "asins": [
+        "B001O1Q0NA"
+      ],
+      "title": "Himalayan Sulfur Salt",
+      "anchors": [
+        "Himalayan sulfur salt"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "sichuan-peppercorn-peanuts-a-snack-that-wants-a-beer"
+    },
+    "primary": {
+      "merchant": "ChefShop.com",
+      "product": "Kala Namak (Himalayan Black Salt) - Coarse",
+      "url": "https://www.chefshop.com/products/himalayan-black-salt-kala-namak-coarse",
+      "epc": null,
+      "rate": null,
+      "price": "$11.95",
+      "verified": true
+    },
+    "alternatives": [],
+    "note": "Kala namak is the sulfurous Himalayan black salt; this one is coarse, the Amazon grind may differ."
+  },
+  {
+    "id": "honey",
+    "name": "honey",
+    "status": "match",
+    "kind": "equivalent",
+    "confidence": "low",
+    "amazon": {
+      "asins": [
+        "B00CMQD282"
+      ],
+      "title": "honey",
+      "anchors": [
+        "honey"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "bunuelos-bimuelos-donuts-hanukkah-sephardic"
+    },
+    "primary": {
+      "merchant": "The Spice House",
+      "product": "Brightland Orange Blossom Honey",
+      "url": "https://www.thespicehouse.com/products/orange-blossom-honey",
+      "epc": 0.21,
+      "rate": null,
+      "price": "$22.00",
+      "verified": true
+    },
+    "alternatives": [
+      {
+        "merchant": "ChefShop.com",
+        "product": "California Coriander Honey",
+        "url": "https://www.chefshop.com/products/california-coriander-honey",
+        "epc": null,
+        "rate": null,
+        "price": "$14.55",
+        "verified": true
+      }
+    ],
+    "note": "Generic honey in the post; this is a pricier specialty orange blossom honey, and the original Amazon product is unknown."
+  },
+  {
+    "id": "honey-2",
+    "name": "honey",
+    "status": "match",
+    "kind": "equivalent",
+    "confidence": "low",
+    "amazon": {
+      "asins": [
+        "B07MG95VFP"
+      ],
+      "title": "honey",
+      "anchors": [
+        "honey"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "calabro-the-b"
+    },
+    "primary": {
+      "merchant": "The Spice House",
+      "product": "Brightland Orange Blossom Honey",
+      "url": "https://www.thespicehouse.com/products/orange-blossom-honey",
+      "epc": 0.21,
+      "rate": null,
+      "price": "$22.00",
+      "verified": true
+    },
+    "alternatives": [
+      {
+        "merchant": "ChefShop.com",
+        "product": "Mieli Thun Italian French Honeysuckle Honey",
+        "url": "https://www.chefshop.com/products/mieli-thun-italian-french-honeysuckle-honey",
+        "epc": null,
+        "rate": null,
+        "price": "$18.95",
+        "verified": true
+      }
+    ],
+    "note": "Generic honey in the post; this is a pricier specialty orange blossom honey, and the original Amazon product is unknown."
+  },
+  {
+    "id": "honey-3",
+    "name": "honey",
+    "status": "match",
+    "kind": "equivalent",
+    "confidence": "low",
+    "amazon": {
+      "asins": [
+        "B0874XJ5DT"
+      ],
+      "title": "honey",
+      "anchors": [
+        "honey"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "bunuelos-sephardic-doughnuts-recipe"
+    },
+    "primary": {
+      "merchant": "The Spice House",
+      "product": "Brightland Orange Blossom Honey",
+      "url": "https://www.thespicehouse.com/products/orange-blossom-honey",
+      "epc": 0.21,
+      "rate": null,
+      "price": "$22.00",
+      "verified": true
+    },
+    "alternatives": [
+      {
+        "merchant": "ChefShop.com",
+        "product": "California Coriander Honey",
+        "url": "https://www.chefshop.com/products/california-coriander-honey",
+        "epc": null,
+        "rate": null,
+        "price": "$14.55",
+        "verified": true
+      }
+    ],
+    "note": "Generic honey in the post; this is a pricier specialty orange blossom honey, and the original Amazon product is unknown."
+  },
+  {
+    "id": "ice-cream-freezers-like-they-have-on-iron-chef",
+    "name": "Ice Cream Freezers Like They Have on Iron Chef",
+    "status": "no_match",
+    "reason": "Only freeze-dried ice cream snacks; no freezer equipment.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B0000DDX9U"
+      ],
+      "title": "Ice Cream Freezers Like They Have on Iron Chef",
+      "anchors": [
+        "ice cream freezers like they have on Iron Chef"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "chocolate-cupca"
+    }
+  },
+  {
+    "id": "immersion-circulator",
+    "name": "Immersion Circulator",
+    "status": "no_match",
+    "reason": "Only spice blends returned; no appliances.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B094921FYY"
+      ],
+      "title": "Immersion Circulator",
+      "anchors": [
+        "immersion circulator"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "greek-green-bean-salad-recipe"
+    }
+  },
+  {
+    "id": "indian-lime-pickle",
+    "name": "Indian Lime Pickle",
+    "status": "no_match",
+    "reason": "Only a sweet pepper pickle, not lime pickle; a different product.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B000JSSOCY"
+      ],
+      "title": "Indian Lime Pickle",
+      "anchors": [
+        "Indian lime pickle"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "ginger-and-black-pepper-rice-pilafrecipe"
+    }
+  }
+]

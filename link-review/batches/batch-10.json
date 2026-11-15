@@ -57,7 +57,7 @@
    "epc": null,
    "rate": 7,
    "price": null,
-   "verified": false
+   "verified": true
   },
   "alternatives": [],
   "note": "Amazon item was dried De Cecco egg pappardelle; this is an artisan Italian egg pappardelle, a more premium equivalent."
@@ -148,7 +148,8 @@
    "epc": 0.03,
    "rate": 1,
    "price": null,
-   "verified": false
+   "verified": false,
+   "broken": true
   },
   "alternatives": [],
   "note": "Joyva marble halvah was not found in-network; this is a marble halvah from Russ & Daughters (low commission rate, 1%)."
@@ -288,7 +289,7 @@
    "epc": 0.31,
    "rate": 10,
    "price": "$74.00",
-   "verified": false
+   "verified": true
   },
   "alternatives": [],
   "note": "Premium pro-grade instant-read, a step up from the Alpha Grillers on Amazon; ThermoWorks rate-limits checks."
@@ -320,7 +321,8 @@
    "epc": 0.38,
    "rate": 20,
    "price": "$5.99",
-   "verified": false
+   "verified": false,
+   "broken": true
   },
   "alternatives": [],
   "note": "Whole (pitted not offered) Kalamata olives, not the organic pitted jars on Amazon; Nuts.com rate-limits checks."
@@ -412,7 +414,7 @@
    "epc": 0.02,
    "rate": 10,
    "price": null,
-   "verified": false
+   "verified": true
   },
   "alternatives": [],
   "note": "Same brand, 11 lb grams/ounces scale; model may differ slightly from the Amazon one. Etekcity rate-limits checks."
@@ -537,7 +539,7 @@
    "epc": null,
    "rate": 10,
    "price": null,
-   "verified": false
+   "verified": true
   },
   "alternatives": [],
   "note": "Links to Weee's category listing (Assi, Otoki, etc.), not a single product page; pick a product before use."

@@ -1992,5 +1992,257 @@
    "price": "$4.99",
    "verified": true
   }
+ },
+ "berbere-4-0-oz-by-zamouri-spices": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "The Spice House",
+   "product": "Berbere, Ethiopian Spice Blend",
+   "url": "https://www.thespicehouse.com/products/berbere",
+   "epc": 0.21,
+   "rate": 15,
+   "price": null,
+   "verified": true
+  }
+ },
+ "black-beluga-lentils": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "Nuts.com",
+   "product": "Organic Black Lentils",
+   "url": "https://nuts.com/cookingbaking/beans/lentils/black-lentil.html",
+   "epc": 0.38,
+   "rate": 20,
+   "price": null,
+   "verified": true
+  }
+ },
+ "cannellini": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "Nuts.com",
+   "product": "Organic Cannellini Beans",
+   "url": "https://nuts.com/cookingbaking/beans/greatnortherncannellini/cannellini.html",
+   "epc": 0.38,
+   "rate": 20,
+   "price": null,
+   "verified": true
+  }
+ },
+ "instant-read-thermometer": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "ThermoWorks",
+   "product": "Thermapen ONE",
+   "url": "https://www.thermoworks.com/products/thermapen-one",
+   "epc": 0.31,
+   "rate": 10,
+   "price": "$74.00",
+   "verified": true
+  }
+ },
+ "lodge-5-quart-cast-iron-dutch-oven": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "Lodge Cast Iron",
+   "product": "5 Quart Cast Iron Dutch Oven With Bail Handle",
+   "url": "https://www.lodgecastiron.com/products/dutch-oven-with-bail",
+   "epc": 0.02,
+   "rate": 3.0,
+   "price": "$69.95",
+   "verified": true
+  }
+ },
+ "saba-syrupy-grape-must": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "ChefShop.com",
+   "product": "San Giacomo Saba 750ml",
+   "url": "https://chefshop.com/San-Giacomo-Saba-750ml-P7473.aspx",
+   "epc": null,
+   "rate": 7.0,
+   "price": null,
+   "verified": true
+  }
+ },
+ "calcium-chloride": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "ChefShop.com",
+   "product": "Calcium Chloride - 50 grams",
+   "url": "https://www.chefshop.com/products/calcium-chloride-50-grams",
+   "epc": null,
+   "rate": null,
+   "price": "$6.55",
+   "verified": true
+  }
+ },
+ "capellini": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "ChefShop.com",
+   "product": "Rustichella Capellini Pasta",
+   "url": "https://www.chefshop.com/products/rustichella-capellini-pasta",
+   "epc": null,
+   "rate": null,
+   "price": "$9.95",
+   "verified": true
+  }
+ },
+ "caraway-seeds-2": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "Savory Spice Shop, LLC",
+   "product": "Dutch Caraway Seeds",
+   "url": "https://www.savoryspiceshop.com/products/dutch-caraway-seeds",
+   "epc": 0.33,
+   "rate": null,
+   "price": "$5.20",
+   "verified": true
+  }
+ },
+ "chaat-masala": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "ChefShop.com",
+   "product": "Kitchen Imp Chaat Masala (Indian Spice Blend)",
+   "url": "https://www.chefshop.com/products/kitchen-imp-chaat-masala-spice-blend",
+   "epc": null,
+   "rate": null,
+   "price": "$14.95",
+   "verified": true
+  }
+ },
+ "flaky-sea-salt": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "Savory Spice Shop, LLC",
+   "product": "Maldon Sea Salt",
+   "url": "https://www.savoryspiceshop.com/products/maldon-sea-salt",
+   "epc": 0.33,
+   "rate": null,
+   "price": "$10.99",
+   "verified": true
+  }
+ },
+ "hawaiian-red-salt": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "Savory Spice Shop, LLC",
+   "product": "Hawaiian Red Gold Sea Salt",
+   "url": "https://www.savoryspiceshop.com/products/hawaiian-red-gold-sea-salt",
+   "epc": 0.33,
+   "rate": null,
+   "price": "$10.50",
+   "verified": true
+  }
+ },
+ "herbes-de-provence": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "Savory Spice Shop, LLC",
+   "product": "Herbes de Provence",
+   "url": "https://www.savoryspiceshop.com/products/herbes-de-provence",
+   "epc": 0.33,
+   "rate": null,
+   "price": "$9.50",
+   "verified": true
+  }
+ },
+ "high-quality-cocoa-powder": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "Nuts.com",
+   "product": "Premium Dutch Cocoa Powder",
+   "url": "https://www.nuts.com/products/premium-dutch-cocoa-powder",
+   "epc": 0.38,
+   "rate": null,
+   "price": "$18.99",
+   "verified": true
+  }
+ },
+ "high-quality-spaghetti-noodles": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "ChefShop.com",
+   "product": "Spaghetti #5 (Sgambaro) Pasta",
+   "url": "https://www.chefshop.com/products/spaghetti-5-sgambaro-pasta",
+   "epc": null,
+   "rate": null,
+   "price": "$8.55",
+   "verified": true
+  }
+ },
+ "jasmine-rice": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "Nuts.com",
+   "product": "Thai Jasmine Rice",
+   "url": "https://www.nuts.com/products/thai-jasmine-rice",
+   "epc": 0.38,
+   "rate": null,
+   "price": "$5.49",
+   "verified": true
+  }
+ },
+ "kosher-salt": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "Savory Spice Shop, LLC",
+   "product": "Kosher Salt",
+   "url": "https://www.savoryspiceshop.com/products/kosher-salt",
+   "epc": 0.33,
+   "rate": null,
+   "price": "$6.99",
+   "verified": true
+  }
+ },
+ "la-chinata-sweet-smoked-paprika-powder-70g": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "Savory Spice Shop, LLC",
+   "product": "Smoked Spanish Sweet Paprika",
+   "url": "https://www.savoryspiceshop.com/products/smoked-spanish-sweet-paprika",
+   "epc": 0.33,
+   "rate": null,
+   "price": "$11.50",
+   "verified": true
+  }
  }
 }

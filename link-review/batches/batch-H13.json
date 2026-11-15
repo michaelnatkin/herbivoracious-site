@@ -1,0 +1,526 @@
+[
+  {
+    "id": "isi-cream-profi-whip-professional-cream-whipper",
+    "name": "ISi Cream Profi Whip Professional Cream Whipper",
+    "status": "no_match",
+    "reason": "No cream whipper among the candidates; Sur La Table/Williams-Sonoma plausibly sell iSi whippers.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B0001MRZWI"
+      ],
+      "title": "ISi Cream Profi Whip Professional Cream Whipper",
+      "anchors": [
+        "whip cream dispenser"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "you-have-mousse"
+    }
+  },
+  {
+    "id": "japanese-black-sesame-paste",
+    "name": "Japanese Black Sesame Paste",
+    "status": "match",
+    "kind": "equivalent",
+    "confidence": "medium",
+    "amazon": {
+      "asins": [
+        "B07PB8Y21N"
+      ],
+      "title": "Japanese Black Sesame Paste",
+      "anchors": [
+        "Japanese black sesame paste"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "antigriddle-pudding-pop-bruleed-mango-black-sesame-tuile-recipe"
+    },
+    "primary": {
+      "merchant": "ChefShop.com",
+      "product": "Wadaman Black Sesame Paste - Organic",
+      "url": "https://www.chefshop.com/products/wadaman-black-sesame-paste-organic",
+      "epc": null,
+      "rate": null,
+      "price": "$13.95",
+      "verified": true
+    },
+    "alternatives": [
+      {
+        "merchant": "ChefShop.com",
+        "product": "Nouka Black Sesame Paste",
+        "url": "https://www.chefshop.com/products/nouka-black-sesame-paste",
+        "epc": null,
+        "rate": null,
+        "price": "$17.95",
+        "verified": true
+      }
+    ],
+    "note": "Japanese black sesame paste from Wadaman (organic), same product type though brand may differ from the Amazon item."
+  },
+  {
+    "id": "japanese-black-sesame-paste-no-additives",
+    "name": "Japanese Black Sesame Paste, No Additives",
+    "status": "match",
+    "kind": "equivalent",
+    "confidence": "medium",
+    "amazon": {
+      "asins": [
+        "B089KTTLFJ"
+      ],
+      "title": "Japanese Black Sesame Paste, No Additives",
+      "anchors": [
+        "Black sesame paste"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "mango-puffs-with-lemongrass-coconut-pudding-and-black-sesame-recipe"
+    },
+    "primary": {
+      "merchant": "ChefShop.com",
+      "product": "Nouka Black Sesame Paste",
+      "url": "https://www.chefshop.com/products/nouka-black-sesame-paste",
+      "epc": null,
+      "rate": null,
+      "price": "$17.95",
+      "verified": true
+    },
+    "alternatives": [
+      {
+        "merchant": "ChefShop.com",
+        "product": "Wadaman Black Sesame Paste - Organic",
+        "url": "https://www.chefshop.com/products/wadaman-black-sesame-paste-organic",
+        "epc": null,
+        "rate": null,
+        "price": "$13.95",
+        "verified": true
+      }
+    ],
+    "note": "Pure Japanese black sesame paste; brand may differ from the Amazon item, no additive claim verified from the listing."
+  },
+  {
+    "id": "jaques-pepin",
+    "name": "Jaques Pepin",
+    "status": "no_match",
+    "reason": "Book; candidates are unrelated spices and nuts. Barnes & Noble likely.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "0544657497"
+      ],
+      "title": "Jaques Pepin",
+      "anchors": [
+        "Jaques Pepin"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "so-you-want-to-stage-intern-at-a-restaurant"
+    }
+  },
+  {
+    "id": "jasmine-rice",
+    "name": "Jasmine Rice",
+    "status": "match",
+    "kind": "same",
+    "confidence": "high",
+    "amazon": {
+      "asins": [
+        "B00NM3J4E0"
+      ],
+      "title": "Jasmine Rice",
+      "anchors": [
+        "jasmine rice"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "thai-basil-eggplant-recipe"
+    },
+    "primary": {
+      "merchant": "Nuts.com",
+      "product": "Thai Jasmine Rice",
+      "url": "https://www.nuts.com/products/thai-jasmine-rice",
+      "epc": 0.38,
+      "rate": null,
+      "price": "$5.49",
+      "verified": true
+    },
+    "alternatives": [
+      {
+        "merchant": "ChefShop.com",
+        "product": "Rue & Forsman Sustainably-Grown White Jasmine Rice",
+        "url": "https://www.chefshop.com/products/rue-forsman-sustainably-grown-white-jasmine-rice",
+        "epc": null,
+        "rate": null,
+        "price": "$15.95",
+        "verified": true
+      }
+    ],
+    "note": "Plain Thai jasmine rice, same ingredient and form as the generic Amazon link."
+  },
+  {
+    "id": "joyva-sesame-tahini-15-oz",
+    "name": "Joyva Sesame Tahini, 15 oz",
+    "status": "match",
+    "kind": "equivalent",
+    "confidence": "medium",
+    "amazon": {
+      "asins": [
+        "B000VK484I"
+      ],
+      "title": "Joyva Sesame Tahini, 15 oz",
+      "anchors": [
+        "sesame tahini"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "quinoa-and-tahini-recipe"
+    },
+    "primary": {
+      "merchant": "Nuts.com",
+      "product": "Organic Sesame Tahini",
+      "url": "https://www.nuts.com/products/organic-sesame-tahini",
+      "epc": 0.38,
+      "rate": null,
+      "price": "$13.49",
+      "verified": true
+    },
+    "alternatives": [
+      {
+        "merchant": "Nuts.com",
+        "product": "Organic Sesame Tahini",
+        "url": "https://www.nuts.com/products/organic-sesame-tahini",
+        "epc": 0.38,
+        "rate": null,
+        "price": "$13.49",
+        "verified": true
+      },
+      {
+        "merchant": "ChefShop.com",
+        "product": "Soom Sesame Tahini",
+        "url": "https://www.chefshop.com/products/soom-sesame-tahini",
+        "epc": null,
+        "rate": null,
+        "price": "$14.95",
+        "verified": true
+      }
+    ],
+    "note": "Sesame tahini from a different brand (not Joyva) and possibly a different jar size."
+  },
+  {
+    "id": "just-soft-boiled",
+    "name": "just soft-boiled",
+    "status": "no_match",
+    "reason": "Anchor is generic text; Amazon item appears to be an egg-serving tool, nothing similar in candidates. Sur La Table/Williams-Sonoma plausible.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B0007M2BN0"
+      ],
+      "title": "just soft-boiled",
+      "anchors": [
+        "just soft-boiled"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "what-to-do-with-an-insideout-egg"
+    }
+  },
+  {
+    "id": "kakukyu-hatcho-miso-paste",
+    "name": "Kakukyu Hatcho Miso Paste",
+    "status": "no_match",
+    "reason": "No hatcho (dark soybean) miso among candidates; ChefShop only has white/red rice miso. Weee/iHerb/Thrive Market plausible.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B0DNQ4Y74Y"
+      ],
+      "title": "Kakukyu Hatcho Miso Paste",
+      "anchors": [
+        "Hatcho miso"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "korean-yakisoba-with-french-horn-mushroom-tofu-and-510-egg-recipe"
+    }
+  },
+  {
+    "id": "karen-and-andrew",
+    "name": "Karen and Andrew",
+    "status": "no_match",
+    "reason": "Book; no relevant candidates. Barnes & Noble likely.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "0471152099"
+      ],
+      "title": "Karen and Andrew",
+      "anchors": [
+        "Karen and Andrew"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "so-you-want-to-stage-intern-at-a-restaurant"
+    }
+  },
+  {
+    "id": "kevlar-glove",
+    "name": "Kevlar Glove",
+    "status": "no_match",
+    "reason": "No cut-resistant glove among candidates. Sur La Table/OXO/Williams-Sonoma plausible.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B001QXZORE"
+      ],
+      "title": "Kevlar Glove",
+      "anchors": [
+        "kevlar glove"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "goat-cheese-asparagus-and-beet-salad-with-herb-flowers-recipe"
+    }
+  },
+  {
+    "id": "kevlar-kitchen-glove",
+    "name": "Kevlar Kitchen Glove",
+    "status": "no_match",
+    "reason": "No cut-resistant glove among candidates. Sur La Table/OXO/Williams-Sonoma plausible.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B00IVM1TKO"
+      ],
+      "title": "Kevlar Kitchen Glove",
+      "anchors": [
+        "Kevlar kitchen glove"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "mandoline-preferably-an-inexpensive-japanese-model"
+    }
+  },
+  {
+    "id": "kitchenaid-pasta-extruder-attachment",
+    "name": "KitchenAid Pasta Extruder Attachment",
+    "status": "no_match",
+    "reason": "No stand-mixer attachments among candidates. Sur La Table/Williams-Sonoma plausible.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B003GWZ9ZK"
+      ],
+      "title": "KitchenAid Pasta Extruder Attachment",
+      "anchors": [
+        "pasta-extruder attachment"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "rigatoni-with-roasted-cauliflower-and-spicy-tomato-sauce-recipe"
+    }
+  },
+  {
+    "id": "kitchenaid-pasta-roller-attachment",
+    "name": "KitchenAid Pasta Roller Attachment",
+    "status": "no_match",
+    "reason": "No stand-mixer attachments among candidates. Sur La Table/Williams-Sonoma plausible.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B000TTCK64"
+      ],
+      "title": "KitchenAid Pasta Roller Attachment",
+      "anchors": [
+        "pasta roller attachment for my Kitchen-Aid mixer"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "pappardelle-with-eggplant-ragu-and-fresh-ricotta-recipe"
+    }
+  },
+  {
+    "id": "knife",
+    "name": "knife",
+    "status": "no_match",
+    "reason": "Generic knife; candidates are food only. Sur La Table/Williams-Sonoma plausible.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B000638D32"
+      ],
+      "title": "knife",
+      "anchors": [
+        "knife"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "how-to-cut-mint-chiffonade-tiny-ribbons-video"
+    }
+  },
+  {
+    "id": "knife-bag",
+    "name": "Knife Bag",
+    "status": "no_match",
+    "reason": "No knife roll among candidates. Sur La Table/Williams-Sonoma plausible.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B0BRTH7Y23"
+      ],
+      "title": "Amazon.com: ELIZO Leather Knife Roll Bag Professional Chef Knife Case, Durable Knife Sheath Holder, Cooks & Culinary Tools Carrying Storage, Portable Knife Wrap - 4 Slots : Home & Kitchen",
+      "anchors": [
+        "knife bag"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "so-you-want-to-stage-intern-at-a-restaurant"
+    }
+  },
+  {
+    "id": "kosher-salt",
+    "name": "Kosher Salt",
+    "status": "match",
+    "kind": "same",
+    "confidence": "high",
+    "amazon": {
+      "asins": [
+        "B0005YM5XG"
+      ],
+      "title": "Kosher Salt",
+      "anchors": [
+        "Kosher Salt"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "salt-crazy-my-f"
+    },
+    "primary": {
+      "merchant": "Savory Spice Shop, LLC",
+      "product": "Kosher Salt",
+      "url": "https://www.savoryspiceshop.com/products/kosher-salt",
+      "epc": 0.33,
+      "rate": null,
+      "price": "$6.99",
+      "verified": true
+    },
+    "alternatives": [
+      {
+        "merchant": "The Spice House",
+        "product": "Salt, Diamond Kosher",
+        "url": "https://www.thespicehouse.com/products/diamond-crystal-kosher-salt",
+        "epc": 0.21,
+        "rate": null,
+        "price": "$14.49",
+        "verified": true
+      }
+    ],
+    "note": "Kosher salt, same ingredient; different brand/package size than the Amazon item."
+  },
+  {
+    "id": "la-chinata-sweet-smoked-paprika-powder-70g",
+    "name": "La Chinata Sweet Smoked Paprika Powder 70g",
+    "status": "match",
+    "kind": "equivalent",
+    "confidence": "high",
+    "amazon": {
+      "asins": [
+        "B00LX21KVW"
+      ],
+      "title": "La Chinata Sweet Smoked Paprika Powder 70g",
+      "anchors": [
+        "smoked paprika"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "triple-smoky-mac-and-cheese-recipe"
+    },
+    "primary": {
+      "merchant": "Savory Spice Shop, LLC",
+      "product": "Smoked Spanish Sweet Paprika",
+      "url": "https://www.savoryspiceshop.com/products/smoked-spanish-sweet-paprika",
+      "epc": 0.33,
+      "rate": null,
+      "price": "$11.50",
+      "verified": true
+    },
+    "alternatives": [
+      {
+        "merchant": "Nuts.com",
+        "product": "Smoked Paprika",
+        "url": "https://www.nuts.com/products/smoked-paprika",
+        "epc": 0.38,
+        "rate": null,
+        "price": "$11.49",
+        "verified": true
+      },
+      {
+        "merchant": "ChefShop.com",
+        "product": "Pimenton De La Vera (Sweet Smoked Paprika) - Spain",
+        "url": "https://www.chefshop.com/products/pimenton-de-la-vera-sweet-smoked-paprika-spain",
+        "epc": null,
+        "rate": null,
+        "price": "$8.55",
+        "verified": true
+      }
+    ],
+    "note": "Spanish sweet smoked paprika (pimenton), same style as La Chinata but a different brand."
+  },
+  {
+    "id": "lime-pickle",
+    "name": "Lime Pickle",
+    "status": "no_match",
+    "reason": "No Indian lime pickle among candidates (only seasonings and other pickles). Weee/iHerb/Thrive Market plausible.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B00BHFHAUK"
+      ],
+      "title": "Lime Pickle",
+      "anchors": [
+        "lime pickle"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "mangoes-and-cur"
+    }
+  },
+  {
+    "id": "lobster-mushroom",
+    "name": "Lobster Mushroom",
+    "status": "no_match",
+    "reason": "Candidates are unrelated mushroom powders/porcini; no lobster mushrooms (fresh or dried) in network results.",
+    "needs_web": false,
+    "amazon": {
+      "asins": [
+        "B00ARMGHGC"
+      ],
+      "title": "Lobster Mushroom",
+      "anchors": [
+        "lobster mushroom"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "lobster-mushroo"
+    }
+  },
+  {
+    "id": "lovely-if-pricey-ones-from-emily-henry",
+    "name": "lovely, if pricey ones from Emily Henry",
+    "status": "no_match",
+    "reason": "Likely Emily Henry ceramic bakeware (ramekins/dishes); not in candidates. Williams-Sonoma/Sur La Table plausible.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B01AO0XTWQ"
+      ],
+      "title": "lovely, if pricey ones from Emily Henry",
+      "anchors": [
+        "lovely, if pricey ones from Emily Henry"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "basic-baked-custard-recipe-an-easy-comforting-dessert-with-many-options"
+    }
+  }
+]

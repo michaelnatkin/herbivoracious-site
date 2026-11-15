@@ -612,11 +612,12 @@
   "berbere-4-0-oz-by-zamouri-spices": {
     "name": "Berbere 4.0 oz by Zamouri Spices",
     "category": "middle-eastern-indian-pantry",
-    "url": "https://www.amazon.com/dp/B000QNR2WA?tag=herb-hugo-20",
+    "url": "https://www.thespicehouse.com/products/berbere",
     "original_url": "https://www.amazon.com/dp/B000QNR2WA?tag=herb-hugo-20",
     "asins": [
       "B000QNR2WA"
-    ]
+    ],
+    "merchant": "The Spice House"
   },
   "best-food-writing-2007-by-holly-hughes": {
     "name": "Best Food Writing 2007 by Holly Hughes",
@@ -684,11 +685,12 @@
   "black-beluga-lentils": {
     "name": "Black &quot;beluga&quot; Lentils",
     "category": "grains-pasta-legumes",
-    "url": "https://www.amazon.com/dp/B08BNPW71P?tag=herb-hugo-20",
+    "url": "https://nuts.com/cookingbaking/beans/lentils/black-lentil.html",
     "original_url": "https://www.amazon.com/dp/B08BNPW71P?tag=herb-hugo-20",
     "asins": [
       "B08BNPW71P"
-    ]
+    ],
+    "merchant": "Nuts.com"
   },
   "black-crocs-the-kind-with-no-holes-on-top": {
     "name": "Black Crocs, the Kind with No Holes on Top",
@@ -917,11 +919,12 @@
   "calcium-chloride": {
     "name": "Calcium Chloride",
     "category": "pantry-staples",
-    "url": "https://www.amazon.com/dp/B00BLPNJLK?tag=herb-hugo-20",
+    "url": "https://www.chefshop.com/products/calcium-chloride-50-grams",
     "original_url": "https://www.amazon.com/dp/B00BLPNJLK?tag=herb-hugo-20",
     "asins": [
       "B00BLPNJLK"
-    ]
+    ],
+    "merchant": "ChefShop.com"
   },
   "calphalon-12-inch-non-stick-omelet-pan": {
     "name": "Calphalon 12-Inch Non-Stick Omelet Pan",
@@ -963,20 +966,22 @@
   "cannellini": {
     "name": "Cannellini",
     "category": "grains-pasta-legumes",
-    "url": "https://www.amazon.com/dp/B08DW3MFXS?tag=herb-hugo-20",
+    "url": "https://nuts.com/cookingbaking/beans/greatnortherncannellini/cannellini.html",
     "original_url": "https://www.amazon.com/dp/B08DW3MFXS?tag=herb-hugo-20",
     "asins": [
       "B08DW3MFXS"
-    ]
+    ],
+    "merchant": "Nuts.com"
   },
   "capellini": {
     "name": "Capellini",
     "category": "grains-pasta-legumes",
-    "url": "https://www.amazon.com/dp/B08BB9LLYV?tag=herb-hugo-20",
+    "url": "https://www.chefshop.com/products/rustichella-capellini-pasta",
     "original_url": "https://www.amazon.com/dp/B08BB9LLYV?tag=herb-hugo-20",
     "asins": [
       "B08BB9LLYV"
-    ]
+    ],
+    "merchant": "ChefShop.com"
   },
   "capers": {
     "name": "Capers",
@@ -1001,11 +1006,12 @@
   "caraway-seeds-2": {
     "name": "Caraway Seeds",
     "category": "spices-seasonings",
-    "url": "https://www.amazon.com/dp/B08BY6J6KR?tag=herb-hugo-20",
+    "url": "https://www.savoryspiceshop.com/products/dutch-caraway-seeds",
     "original_url": "https://www.amazon.com/dp/B08BY6J6KR?tag=herb-hugo-20",
     "asins": [
       "B08BY6J6KR"
-    ]
+    ],
+    "merchant": "Savory Spice Shop, LLC"
   },
   "cardamom": {
     "name": "Cardamom",
@@ -1061,11 +1067,12 @@
   "chaat-masala": {
     "name": "Chaat Masala",
     "category": "middle-eastern-indian-pantry",
-    "url": "https://www.amazon.com/dp/B000MSQ9CS?tag=herb-hugo-20",
+    "url": "https://www.chefshop.com/products/kitchen-imp-chaat-masala-spice-blend",
     "original_url": "https://www.amazon.com/dp/B000MSQ9CS?tag=herb-hugo-20",
     "asins": [
       "B000MSQ9CS"
-    ]
+    ],
+    "merchant": "ChefShop.com"
   },
   "champagne-flutes-that-are-etched": {
     "name": "Champagne Flutes That Are Etched",
@@ -2054,11 +2061,12 @@
   "flaky-sea-salt": {
     "name": "Flaky Sea Salt",
     "category": "spices-seasonings",
-    "url": "https://www.amazon.com/dp/B001TO8YXC?tag=herb-hugo-20",
+    "url": "https://www.savoryspiceshop.com/products/maldon-sea-salt",
     "original_url": "https://www.amazon.com/dp/B001TO8YXC?tag=herb-hugo-20",
     "asins": [
       "B001TO8YXC"
-    ]
+    ],
+    "merchant": "Savory Spice Shop, LLC"
   },
   "flat-stanleyish": {
     "name": "flat-stanleyish",
@@ -2568,11 +2576,12 @@
   "hawaiian-red-salt": {
     "name": "Hawaiian Red Salt",
     "category": "pantry-staples",
-    "url": "https://www.amazon.com/dp/B000K7644E?tag=herb-hugo-20",
+    "url": "https://www.savoryspiceshop.com/products/hawaiian-red-gold-sea-salt",
     "original_url": "https://www.amazon.com/dp/B000K7644E?tag=herb-hugo-20",
     "asins": [
       "B000K7644E"
-    ]
+    ],
+    "merchant": "Savory Spice Shop, LLC"
   },
   "hazelnut-butter": {
     "name": "Hazelnut Butter",
@@ -2623,11 +2632,12 @@
   "herbes-de-provence": {
     "name": "Herbes de Provence",
     "category": "spices-seasonings",
-    "url": "https://www.amazon.com/dp/B0001M10TM?tag=herb-hugo-20",
+    "url": "https://www.savoryspiceshop.com/products/herbes-de-provence",
     "original_url": "https://www.amazon.com/dp/B0001M10TM?tag=herb-hugo-20",
     "asins": [
       "B0001M10TM"
-    ]
+    ],
+    "merchant": "Savory Spice Shop, LLC"
   },
   "herbes-de-provence-2": {
     "name": "herbes de Provence",
@@ -2671,20 +2681,22 @@
   "high-quality-cocoa-powder": {
     "name": "High Quality Cocoa Powder",
     "category": "sweeteners-chocolate",
-    "url": "https://www.amazon.com/dp/B07CJ83LRQ?tag=herb-hugo-20",
+    "url": "https://www.nuts.com/products/premium-dutch-cocoa-powder",
     "original_url": "https://www.amazon.com/dp/B07CJ83LRQ?tag=herb-hugo-20",
     "asins": [
       "B07CJ83LRQ"
-    ]
+    ],
+    "merchant": "Nuts.com"
   },
   "high-quality-spaghetti-noodles": {
     "name": "High-Quality Spaghetti Noodles",
     "category": "grains-pasta-legumes",
-    "url": "https://www.amazon.com/dp/B079NKSF12?tag=herb-hugo-20",
+    "url": "https://www.chefshop.com/products/spaghetti-5-sgambaro-pasta",
     "original_url": "https://www.amazon.com/dp/B079NKSF12?tag=herb-hugo-20",
     "asins": [
       "B079NKSF12"
-    ]
+    ],
+    "merchant": "ChefShop.com"
   },
   "himalayan-sulfur-salt": {
     "name": "Himalayan Sulfur Salt",
@@ -2817,11 +2829,12 @@
   "instant-read-thermometer": {
     "name": "Instant Read Thermometer",
     "category": "kitchen-gadgets",
-    "url": "https://www.amazon.com/dp/B00S93EQUK?tag=herb-hugo-20",
+    "url": "https://www.thermoworks.com/products/thermapen-one",
     "original_url": "https://www.amazon.com/dp/B00S93EQUK?tag=herb-hugo-20",
     "asins": [
       "B00S93EQUK"
-    ]
+    ],
+    "merchant": "ThermoWorks"
   },
   "isi-cream-profi-whip-professional-cream-whipper": {
     "name": "ISi Cream Profi Whip Professional Cream Whipper",
@@ -2875,11 +2888,12 @@
   "jasmine-rice": {
     "name": "Jasmine Rice",
     "category": "grains-pasta-legumes",
-    "url": "https://www.amazon.com/dp/B00NM3J4E0?tag=herb-hugo-20",
+    "url": "https://www.nuts.com/products/thai-jasmine-rice",
     "original_url": "https://www.amazon.com/dp/B00NM3J4E0?tag=herb-hugo-20",
     "asins": [
       "B00NM3J4E0"
-    ]
+    ],
+    "merchant": "Nuts.com"
   },
   "jerusalem-a-cookbook-by-ottolenghi-tamimi": {
     "name": "Jerusalem: a Cookbook by Ottolenghi & Tamimi",
@@ -3093,11 +3107,12 @@
   "kosher-salt": {
     "name": "Kosher Salt",
     "category": "spices-seasonings",
-    "url": "https://www.amazon.com/dp/B0005YM5XG?tag=herb-hugo-20",
+    "url": "https://www.savoryspiceshop.com/products/kosher-salt",
     "original_url": "https://www.amazon.com/dp/B0005YM5XG?tag=herb-hugo-20",
     "asins": [
       "B0005YM5XG"
-    ]
+    ],
+    "merchant": "Savory Spice Shop, LLC"
   },
   "kuhn-rikon-peelers": {
     "name": "Kuhn Rikon Peelers",
@@ -3113,11 +3128,12 @@
   "la-chinata-sweet-smoked-paprika-powder-70g": {
     "name": "La Chinata Sweet Smoked Paprika Powder 70g",
     "category": "mexican-latin-pantry",
-    "url": "https://www.amazon.com/dp/B00LX21KVW?tag=herb-hugo-20",
+    "url": "https://www.savoryspiceshop.com/products/smoked-spanish-sweet-paprika",
     "original_url": "https://www.amazon.com/dp/B00LX21KVW?tag=herb-hugo-20",
     "asins": [
       "B00LX21KVW"
-    ]
+    ],
+    "merchant": "Savory Spice Shop, LLC"
   },
   "la-tourangelle-toasted-sesame-oil-16-9-fl-oz": {
     "name": "La Tourangelle Toasted Sesame Oil, 16.9 Fl oz",
@@ -3195,12 +3211,13 @@
   "lodge-5-quart-cast-iron-dutch-oven": {
     "name": "Lodge 5-Quart Cast Iron Dutch Oven",
     "category": "cookware-appliances",
-    "url": "https://www.amazon.com/dp/B00004S9HE?tag=herb-hugo-20",
+    "url": "https://www.lodgecastiron.com/products/dutch-oven-with-bail",
     "original_url": "https://www.amazon.com/dp/B00004S9HE?tag=herb-hugo-20",
     "asins": [
       "B00004S9HE",
       "B00063RWYI"
-    ]
+    ],
+    "merchant": "Lodge Cast Iron"
   },
   "look-inside-on-amazon": {
     "name": "Look Inside on Amazon",
@@ -4479,12 +4496,13 @@
   "saba-syrupy-grape-must": {
     "name": "Saba (syrupy Grape Must)",
     "category": "oils-vinegars",
-    "url": "https://www.amazon.com/dp/B08381GTJF?tag=herb-hugo-20",
+    "url": "https://chefshop.com/San-Giacomo-Saba-750ml-P7473.aspx",
     "original_url": "https://www.amazon.com/dp/B08381GTJF?tag=herb-hugo-20",
     "asins": [
       "B08381GTJF",
       "B0F1Z5JM79"
-    ]
+    ],
+    "merchant": "ChefShop.com"
   },
   "saco-buttermilk-powder": {
     "name": "Saco Buttermilk Powder",

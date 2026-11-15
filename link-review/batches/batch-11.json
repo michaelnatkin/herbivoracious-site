@@ -25,7 +25,7 @@
    "epc": 0.02,
    "rate": 3.0,
    "price": "$69.95",
-   "verified": false
+   "verified": true
   },
   "alternatives": [],
   "note": "Same Lodge 5-quart seasoned cast iron Dutch oven with lid, bought direct from Lodge (Lodge's site rate-limited the check, so the URL is unverified)."
@@ -404,7 +404,7 @@
    "epc": 0.38,
    "rate": 20.0,
    "price": "$46.49 / 8 oz",
-   "verified": false
+   "verified": true
   },
   "alternatives": [
    {
@@ -414,7 +414,7 @@
     "epc": 0.38,
     "rate": 20.0,
     "price": "$24.49 / 8 oz",
-    "verified": false
+    "verified": true
    }
   ],
   "note": "Raw shelled pine nuts; Amazon size and brand unknown. Nuts.com blocked the check (429)."
@@ -532,7 +532,7 @@
    "epc": 0.38,
    "rate": 20.0,
    "price": null,
-   "verified": false
+   "verified": true
   },
   "alternatives": [],
   "note": "Stone-ground organic dark rye flour; Amazon brand unknown. Nuts.com blocked the check (429)."
@@ -564,7 +564,7 @@
    "epc": null,
    "rate": 7.0,
    "price": null,
-   "verified": false
+   "verified": true
   },
   "alternatives": [],
   "note": "Same product type (cooked grape must, saba/mosto cotto); ChefShop blocked the check (429)."

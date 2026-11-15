@@ -1,0 +1,569 @@
+[
+  {
+    "id": "cake-tester-2",
+    "name": "Cake Tester",
+    "status": "no_match",
+    "reason": "No cake testers in candidates (results are baked goods and vanilla).",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B07FCL1ZXC"
+      ],
+      "title": "Cake Tester",
+      "anchors": [
+        "cake tester"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "tomato-and-beet-salad-recipe"
+    }
+  },
+  {
+    "id": "calcium-chloride",
+    "name": "Calcium Chloride",
+    "status": "match",
+    "kind": "same",
+    "confidence": "high",
+    "amazon": {
+      "asins": [
+        "B00BLPNJLK"
+      ],
+      "title": "Calcium Chloride",
+      "anchors": [
+        "calcium chloride"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "blini-with-aspa"
+    },
+    "primary": {
+      "merchant": "ChefShop.com",
+      "product": "Calcium Chloride - 50 grams",
+      "url": "https://www.chefshop.com/products/calcium-chloride-50-grams",
+      "epc": null,
+      "rate": null,
+      "price": "$6.55",
+      "verified": true
+    },
+    "alternatives": [],
+    "note": "Same ingredient (calcium chloride, as used for spherification), sold as a 50 gram pack at ChefShop."
+  },
+  {
+    "id": "calphalon-12-inch-non-stick-omelet-pan",
+    "name": "Calphalon 12-Inch Non-Stick Omelet Pan",
+    "status": "no_match",
+    "reason": "No candidates returned for this cookware item.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B0000936JK"
+      ],
+      "title": "Calphalon 12-Inch Non-Stick Omelet Pan",
+      "anchors": [
+        "Calphalon 12-inch non-stick omelet pan"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "crepes-with-roasted-french-plums-yogurt-and-honey"
+    }
+  },
+  {
+    "id": "candied-fruit",
+    "name": "Candied Fruit",
+    "status": "match",
+    "kind": "equivalent",
+    "confidence": "medium",
+    "amazon": {
+      "asins": [
+        "B0FXM1W58D"
+      ],
+      "title": "Amazon.com : Candied Orange Peel Diced \u2013 17.64 oz for Baking & Cocktails | Sweet and zesty candied orange peel. A baking essential for cakes, cookies, scones, fruitcakes, and cocktail garnish. : Grocery & Gourmet Food",
+      "anchors": [
+        "candied fruit"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "holiday-shopping-for-gourmets-or-gourmands-chefshopcom"
+    },
+    "primary": {
+      "merchant": "Savory Spice Shop, LLC",
+      "product": "Candied Orange Peel Strips",
+      "url": "https://www.savoryspiceshop.com/products/candied-orange-peel-strips",
+      "epc": 0.33,
+      "rate": null,
+      "price": "$11.99",
+      "verified": true
+    },
+    "alternatives": [
+      {
+        "merchant": "ChefShop.com",
+        "product": "French Candied Orange Peel",
+        "url": "https://www.chefshop.com/products/french-candied-orange-peel",
+        "epc": null,
+        "rate": null,
+        "price": "$26.95",
+        "verified": true
+      }
+    ],
+    "note": "Candied orange peel in strips rather than the diced 17.64 oz Amazon item; same ingredient, different cut and size."
+  },
+  {
+    "id": "candied-seville-orange-peel",
+    "name": "Candied Seville Orange Peel",
+    "status": "match",
+    "kind": "equivalent",
+    "confidence": "medium",
+    "amazon": {
+      "asins": [
+        "B0199C8W6S"
+      ],
+      "title": "Candied Seville Orange Peel",
+      "anchors": [
+        "candied Seville orange peel"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "paella-cakes-with-manchego-and-candied-seville-orange-peel-recipe"
+    },
+    "primary": {
+      "merchant": "Nuts.com",
+      "product": "Glazed Orange Peel",
+      "url": "https://www.nuts.com/products/glazed-orange-peel",
+      "epc": 0.38,
+      "rate": null,
+      "price": "$9.99",
+      "verified": true
+    },
+    "alternatives": [
+      {
+        "merchant": "ChefShop.com",
+        "product": "French Candied Orange Peel",
+        "url": "https://www.chefshop.com/products/french-candied-orange-peel",
+        "epc": null,
+        "rate": null,
+        "price": "$26.95",
+        "verified": true
+      },
+      {
+        "merchant": "Savory Spice Shop, LLC",
+        "product": "Candied Orange Peel Strips",
+        "url": "https://www.savoryspiceshop.com/products/candied-orange-peel-strips",
+        "epc": 0.33,
+        "rate": null,
+        "price": "$11.99",
+        "verified": true
+      }
+    ],
+    "note": "Plain candied orange peel rather than specifically Seville orange; same use in the recipe."
+  },
+  {
+    "id": "capellini",
+    "name": "Capellini",
+    "status": "match",
+    "kind": "same",
+    "confidence": "high",
+    "amazon": {
+      "asins": [
+        "B08BB9LLYV"
+      ],
+      "title": "Capellini",
+      "anchors": [
+        "capellini"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "peppery-red-wine-capellini-cooked-by-the-absorption-method-recipe"
+    },
+    "primary": {
+      "merchant": "ChefShop.com",
+      "product": "Rustichella Capellini Pasta",
+      "url": "https://www.chefshop.com/products/rustichella-capellini-pasta",
+      "epc": null,
+      "rate": null,
+      "price": "$9.95",
+      "verified": true
+    },
+    "alternatives": [],
+    "note": "Capellini (angel hair-style thin pasta) from Rustichella d'Abruzzo; brand may differ from the Amazon item."
+  },
+  {
+    "id": "caraway-seeds-2",
+    "name": "Caraway Seeds",
+    "status": "match",
+    "kind": "same",
+    "confidence": "high",
+    "amazon": {
+      "asins": [
+        "B08BY6J6KR"
+      ],
+      "title": "Caraway Seeds",
+      "anchors": [
+        "caraway seeds"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "baby-turnip-salad-tip-to-tail-style-recipe"
+    },
+    "primary": {
+      "merchant": "Savory Spice Shop, LLC",
+      "product": "Dutch Caraway Seeds",
+      "url": "https://www.savoryspiceshop.com/products/dutch-caraway-seeds",
+      "epc": 0.33,
+      "rate": null,
+      "price": "$5.20",
+      "verified": true
+    },
+    "alternatives": [
+      {
+        "merchant": "The Spice House",
+        "product": "Caraway, Whole Seeds",
+        "url": "https://www.thespicehouse.com/products/caraway-seeds",
+        "epc": 0.21,
+        "rate": null,
+        "price": "$6.99",
+        "verified": true
+      }
+    ],
+    "note": "Whole caraway seeds from Savory Spice; Spice House whole caraway is the alternative."
+  },
+  {
+    "id": "cardamom",
+    "name": "Cardamom",
+    "status": "match",
+    "kind": "equivalent",
+    "confidence": "medium",
+    "amazon": {
+      "asins": [
+        "B00AJRKO8M"
+      ],
+      "title": "Cardamom",
+      "anchors": [
+        "cardamom"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "i-like-you-hospitality-under-the-influence-by-amy-sedaris-cookbook-review"
+    },
+    "primary": {
+      "merchant": "Nuts.com",
+      "product": "Cardamom Pods",
+      "url": "https://www.nuts.com/products/cardamom-pods",
+      "epc": 0.38,
+      "rate": null,
+      "price": "$24.99",
+      "verified": true
+    },
+    "alternatives": [
+      {
+        "merchant": "Savory Spice Shop, LLC",
+        "product": "Green Cardamom Pods",
+        "url": "https://www.savoryspiceshop.com/products/green-cardamom-pods",
+        "epc": 0.33,
+        "rate": null,
+        "price": "$19.50",
+        "verified": true
+      },
+      {
+        "merchant": "The Spice House",
+        "product": "Cardamom, Whole Green Pods",
+        "url": "https://www.thespicehouse.com/products/green-cardamom-pods",
+        "epc": 0.21,
+        "rate": null,
+        "price": "$14.79",
+        "verified": true
+      }
+    ],
+    "note": "Whole cardamom pods; the Amazon item's form (pods vs. ground) was not confirmed, so check against the post."
+  },
+  {
+    "id": "carnation-original-malted-milk-powder",
+    "name": "Carnation Original Malted Milk Powder",
+    "status": "match",
+    "kind": "equivalent",
+    "confidence": "medium",
+    "amazon": {
+      "asins": [
+        "B01MCZGBCQ"
+      ],
+      "title": "Amazon.com : Nestle Carnation Original Malted Milk Powder Mix, 13 OZ Canister : Grocery & Gourmet Food",
+      "anchors": [
+        "malted milk powder"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "malt-onion-rings"
+    },
+    "primary": {
+      "merchant": "Nuts.com",
+      "product": "Malted Milk Powder",
+      "url": "https://www.nuts.com/products/malted-milk-powder",
+      "epc": 0.38,
+      "rate": null,
+      "price": "$10.49",
+      "verified": true
+    },
+    "alternatives": [],
+    "note": "Generic malted milk powder from Nuts.com instead of the Carnation brand."
+  },
+  {
+    "id": "ceramic-sharpening-steel",
+    "name": "Ceramic Sharpening Steel",
+    "status": "no_match",
+    "reason": "Candidates are seasonings only; no sharpening steels.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B002YK1RAQ"
+      ],
+      "title": "Ceramic Sharpening Steel",
+      "anchors": [
+        "ceramic sharpening steel"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "sharpening-steels-kitchen-tools-hand-tools"
+    }
+  },
+  {
+    "id": "chaat-masala",
+    "name": "Chaat Masala",
+    "status": "match",
+    "kind": "same",
+    "confidence": "high",
+    "amazon": {
+      "asins": [
+        "B000MSQ9CS"
+      ],
+      "title": "Chaat Masala",
+      "anchors": [
+        "chaat masala"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "recipe-chana-ch"
+    },
+    "primary": {
+      "merchant": "ChefShop.com",
+      "product": "Kitchen Imp Chaat Masala (Indian Spice Blend)",
+      "url": "https://www.chefshop.com/products/kitchen-imp-chaat-masala-spice-blend",
+      "epc": null,
+      "rate": null,
+      "price": "$14.95",
+      "verified": true
+    },
+    "alternatives": [],
+    "note": "Chaat masala spice blend from Kitchen Imp at ChefShop (no EPC data, but the only true chaat masala found)."
+  },
+  {
+    "id": "champagne-flutes-that-are-etched",
+    "name": "Champagne Flutes That Are Etched",
+    "status": "no_match",
+    "reason": "No glassware in candidates.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B0BZ3VXQ1R"
+      ],
+      "title": "Champagne Flutes That Are Etched",
+      "anchors": [
+        "champagne flutes that are etched"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "foraging-in-bel"
+    }
+  },
+  {
+    "id": "cheap-simple-little-dumpling-press",
+    "name": "Cheap, Simple Little Dumpling Press",
+    "status": "no_match",
+    "reason": "No dumpling press in candidates.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B000PLUIIS"
+      ],
+      "title": "Cheap, Simple Little Dumpling Press",
+      "anchors": [
+        "cheap, simple little dumpling press"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "mandu-koreanstyle-potstickers-with-ssamjang-kochujang-sauce-recipe"
+    }
+  },
+  {
+    "id": "cheapo-little-gnocchi-board",
+    "name": "Cheapo Little Gnocchi Board",
+    "status": "no_match",
+    "reason": "No gnocchi board in candidates.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B0019R7SPS"
+      ],
+      "title": "Cheapo Little Gnocchi Board",
+      "anchors": [
+        "cheapo little gnocchi board"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "gnocchi-with-radicchio-leeks-and-ricotta-salata-vegetarian-recipe"
+    }
+  },
+  {
+    "id": "chef-craft-serrated-grapefruit-spoon-2-piece-set",
+    "name": "Chef Craft Serrated Grapefruit Spoon, 2-Piece Set",
+    "status": "no_match",
+    "reason": "No grapefruit spoons in candidates.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B00IH5X9BC"
+      ],
+      "title": "Chef Craft Serrated Grapefruit Spoon, 2-Piece Set",
+      "anchors": [
+        "grapefruit spoons"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "artichoke-spagh"
+    }
+  },
+  {
+    "id": "chili-oil",
+    "name": "Chili Oil",
+    "status": "match",
+    "kind": "equivalent",
+    "confidence": "medium",
+    "amazon": {
+      "asins": [
+        "B001NI726S"
+      ],
+      "title": "Chili Oil",
+      "anchors": [
+        "chili oil"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "sichuan-spicy-cauliflower-recipe"
+    },
+    "primary": {
+      "merchant": "ChefShop.com",
+      "product": "Wadaman Rayu (Chili Sesame Oil)",
+      "url": "https://www.chefshop.com/products/wadaman-rayu-chili-sesame-oil",
+      "epc": null,
+      "rate": null,
+      "price": "$30.95",
+      "verified": true
+    },
+    "alternatives": [],
+    "note": "Japanese chili sesame oil (rayu) instead of the Amazon brand; same type of condiment, and pricier."
+  },
+  {
+    "id": "chinese-pickled-mustard-greens",
+    "name": "Chinese Pickled Mustard Greens",
+    "status": "no_match",
+    "reason": "No pickled mustard greens in candidates.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B00IR5HVH0"
+      ],
+      "title": "Chinese Pickled Mustard Greens",
+      "anchors": [
+        "Chinese pickled mustard greens"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "khao-soi-thai-curry-noodles-from-chiang-mai"
+    }
+  },
+  {
+    "id": "chinese-rice-wine",
+    "name": "Chinese Rice Wine",
+    "status": "no_match",
+    "reason": "No Chinese rice wine (Shaoxing) in candidates.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B07K6VD6DL"
+      ],
+      "title": "Chinese Rice Wine",
+      "anchors": [
+        "Chinese rice wine"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "vegetarian-potstickers-gyoza-recipe"
+    }
+  },
+  {
+    "id": "chipotles",
+    "name": "Chipotles",
+    "status": "match",
+    "kind": "equivalent",
+    "confidence": "medium",
+    "amazon": {
+      "asins": [
+        "B0014CVT6C"
+      ],
+      "title": "Chipotles",
+      "anchors": [
+        "chipotles"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "spicy-tomatillo-salsa-recipe"
+    },
+    "primary": {
+      "merchant": "Savory Spice Shop, LLC",
+      "product": "Chipotle Chiles in Adobo Sauce",
+      "url": "https://www.savoryspiceshop.com/products/chipotle-chiles-in-adobo-sauce",
+      "epc": 0.33,
+      "rate": null,
+      "price": "$4.99",
+      "verified": true
+    },
+    "alternatives": [
+      {
+        "merchant": "ChefShop.com",
+        "product": "Chipotle Peppers in Adobo Sauce",
+        "url": "https://www.chefshop.com/products/chipotle-peppers-in-adobo-sauce",
+        "epc": null,
+        "rate": null,
+        "price": "$4.95",
+        "verified": true
+      },
+      {
+        "merchant": "ChefShop.com",
+        "product": "Dried Chipotle Chili Pods",
+        "url": "https://www.chefshop.com/products/dried-chipotle-chili-pods",
+        "epc": null,
+        "rate": null,
+        "price": "$5.95",
+        "verified": true
+      }
+    ],
+    "note": "Chipotle chiles in adobo sauce (assumed canned form); brand differs and the original form was not confirmed."
+  },
+  {
+    "id": "citrus-juicer",
+    "name": "Citrus Juicer",
+    "status": "no_match",
+    "reason": "No juicers in candidates.",
+    "needs_web": true,
+    "amazon": {
+      "asins": [
+        "B0002BFZ16"
+      ],
+      "title": "Citrus Juicer",
+      "anchors": [
+        "citrus juicer"
+      ],
+      "links": 1,
+      "posts": 1,
+      "example_post": "my-favorite-citrus-juicer"
+    }
+  }
+]
