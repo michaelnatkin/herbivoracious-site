@@ -898,7 +898,7 @@ a.as-seen-in:hover { text-decoration: none; }
 .affiliate-disclosure {
   font-size: 14px;
   color: var(--text-light);
-  margin-bottom: 20px;
+  margin: 28px 0 0;
 }
 
 .affiliate-disclosure a { color: inherit; text-decoration: underline; }
@@ -1562,6 +1562,7 @@ a.as-seen-in:hover { text-decoration: none; }
 .shop-disclosure {
   font-size: 14px;
   color: var(--text-light);
+  margin-top: 28px;
 }
 
 /* Shop index — category card grid */

@@ -17,8 +17,6 @@
         {{ with .Params.description }}<p class="shop-section__desc">{{ . }}</p>{{ end }}
       </header>
 
-      {{ partial "affiliate-disclosure.html" . }}
-
       {{ $slug := .Params.category_slug }}
       {{ $usage := partialCached "product-usage.html" "usage" }}
       {{ $items := slice }}
@@ -43,6 +41,8 @@
         </li>
         {{ end }}
       </ul>
+
+      {{ partial "affiliate-disclosure.html" . }}
 
       <div class="shop-back">
         <a href="/shop/">← Back to all categories</a>
