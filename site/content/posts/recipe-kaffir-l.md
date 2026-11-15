@@ -1,5 +1,6 @@
 ---
 title: "Recipe: Kaffir Lime Dipping Sauce"
+description: "Kaffir lime dipping sauce, a simple vegetarian cousin of nuoc cham for spring rolls or rice bowls."
 date: 2008-01-15T22:25:22
 slug: "recipe-kaffir-l"
 categories: ["Recipes", "Sauces and Condiments", "Vegan or Modifiable"]

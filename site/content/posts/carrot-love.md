@@ -1,5 +1,6 @@
 ---
 title: "Carrot Love"
+description: "Carrot love: romantic carrots at Cafe Flora, spotted on the prep table."
 date: 2007-12-09T09:45:16
 slug: "carrot-love"
 categories: ["Miscellany"]

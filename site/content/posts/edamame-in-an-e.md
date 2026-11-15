@@ -1,5 +1,6 @@
 ---
 title: "Edamame in an Edible Tofu Bowl"
+description: "Edamame in an edible tofu bowl, made with circle cutters, an ode to soy."
 date: 2007-08-16T06:37:00
 slug: "edamame-in-an-e"
 categories: ["Appetizers", "Recipes", "Vegan or Modifiable"]

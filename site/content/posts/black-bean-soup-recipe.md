@@ -1,5 +1,6 @@
 ---
 title: "Black Bean Soup Recipe - With Mild and Intense Variations"
+description: "Black bean soup recipe with mild and intense variations, a vegetarian take on the classic."
 date: 2009-12-17T06:55:00
 slug: "black-bean-soup-recipe"
 water_note: "beans"

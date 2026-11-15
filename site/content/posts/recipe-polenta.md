@@ -1,5 +1,6 @@
 ---
 title: "Recipe: Polenta with Blue Cheese, Grilled Fennel And Apples - Vegetarian"
+description: "Polenta with blue cheese, grilled fennel and apples: a vegetarian entree with creamy parmesan polenta."
 date: 2008-02-27T17:16:16
 slug: "recipe-polenta"
 categories: ["Main Courses", "Recipes"]

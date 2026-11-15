@@ -1,5 +1,6 @@
 ---
 title: "Molly Moon's Ice Cream - Seattle, WA - Review"
+description: "Review of Molly Moon's Ice Cream in Seattle's Wallingford neighborhood, which makes ice cream on site with mostly organic ingredients."
 date: 2008-08-13T22:21:08
 slug: "molly-moons-ice"
 categories: ["Restaurants", "Seattle"]

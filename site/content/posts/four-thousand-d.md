@@ -1,5 +1,6 @@
 ---
 title: "Four. Thousand. Dollars. A. Pound."
+description: "Four thousand dollars a pound: fresh white truffles arrive at DeLaurenti's in Seattle's Pike Place Market."
 date: 2007-11-12T22:29:51
 slug: "four-thousand-d"
 categories: ["Recipes", "Seattle"]

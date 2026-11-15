@@ -1,5 +1,6 @@
 ---
 title: "On \"On Vegetarians\""
+description: "A response to 'On Vegetarians' by GastroGnome, written after Taylor Clark's Slate article about vegetarians."
 date: 2008-05-22T16:14:42
 slug: "on-on-vegetaria"
 categories: ["Weblogs"]

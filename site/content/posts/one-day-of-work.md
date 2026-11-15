@@ -1,5 +1,6 @@
 ---
 title: "One Day Of Work, Two More Meals, Happy Campers (Including Recipe for Spicy Angel Hair Pasta)"
+description: "A day at Cafe Flora, plus a recipe for spicy angel hair pasta with breadcrumbs, ready in minutes."
 date: 2007-10-21T15:00:00
 slug: "one-day-of-work"
 categories: ["Main Courses", "Miscellany", "Recipes", "Vegan or Modifiable"]

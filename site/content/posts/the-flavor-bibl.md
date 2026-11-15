@@ -1,5 +1,6 @@
 ---
 title: "The Flavor Bible, by Karen Page and Andrew Dornenburg - Book Review"
+description: "Book review of The Flavor Bible by Karen Page and Andrew Dornenburg, the reference for pairing flavors."
 date: 2008-09-29T21:59:08
 slug: "the-flavor-bibl"
 categories: ["Books"]

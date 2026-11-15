@@ -1,5 +1,6 @@
 ---
 title: "Heatproof Silicone Spatulas"
+description: "Heatproof silicone spatulas: why to own several in different sizes for scraping, mixing and stirring."
 date: 2012-10-10T16:57:04
 slug: "heatproof-silicone-spatulas"
 ---

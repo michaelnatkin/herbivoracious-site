@@ -1,5 +1,6 @@
 ---
 title: "Recipe: Syrian Style Labneh (Spiced Yogurt Cheese) - Vegetarian"
+description: "Syrian-style labneh, a spiced yogurt cheese adapted from Poopa Dweck's Aromas of Aleppo."
 date: 2008-04-16T22:50:16
 slug: "recipe-syrian-s"
 categories: ["Appetizers", "Recipes"]

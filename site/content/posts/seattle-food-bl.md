@@ -1,5 +1,6 @@
 ---
 title: "Seattle Food Blogger Dinner (With Brief Review of Quinn's Pub)"
+description: "A Seattle food blogger dinner at Quinn's Pub on Capitol Hill, with a brief review of the pub."
 date: 2007-12-06T11:21:58
 slug: "seattle-food-bl"
 categories: ["Weblogs"]

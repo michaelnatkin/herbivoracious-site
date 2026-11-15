@@ -1,5 +1,6 @@
 ---
 title: "Vegetarian Ceviche - Recipe"
+description: "Vegetarian ceviche: a Latin American-style dish of vegetables marinated in citrus juices in place of raw fish."
 date: 2009-12-03T06:45:00
 slug: "vegetarian-ceviche-recipe"
 categories: ["Appetizers", "Experiments", "Gluten-Free or modifiable", "Recipes", "Salads", "Vegan or Modifiable"]

@@ -1,5 +1,6 @@
 ---
 title: "\"Lobster Mushroom\" Spaghetti - Recipe"
+description: "Lobster mushroom spaghetti, a pasta with an enormous lobster mushroom, a parasitic fungus with a seafood-like look and flavor."
 date: 2008-10-13T07:19:00
 slug: "lobster-mushroo"
 categories: ["Main Courses", "Recipes"]

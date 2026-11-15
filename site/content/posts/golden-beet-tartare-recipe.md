@@ -1,5 +1,6 @@
 ---
 title: "Golden Beet Tartare (Ok, Really, Diced Beet Salad) - Recipe"
+description: "Golden beet tartare, really a diced beet salad, for anyone who thinks they hate beets."
 date: 2009-05-07T10:27:30
 slug: "golden-beet-tartare-recipe"
 categories: ["Appetizers", "Salads"]

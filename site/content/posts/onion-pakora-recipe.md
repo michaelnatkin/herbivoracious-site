@@ -1,5 +1,6 @@
 ---
 title: "Onion Pakora - Recipe"
+description: "Onion pakora: crispy Indian onion fritters in a chickpea flour batter, a classic snack or appetizer."
 date: 2012-10-08T06:00:26
 slug: "onion-pakora-recipe"
 categories: ["Appetizers", "Gluten-Free or modifiable", "Recipes", "Vegan or Modifiable"]

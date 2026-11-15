@@ -1,5 +1,6 @@
 ---
 title: "Cherry / Tomato"
+description: "What happens when you glue a Sun Gold cherry tomato to a Rainier cherry? A modernist kitchen experiment."
 date: 2009-08-13T06:38:00
 slug: "cherry-tomato"
 categories: ["Appetizers", "Experiments"]

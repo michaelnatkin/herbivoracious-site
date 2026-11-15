@@ -1,5 +1,6 @@
 ---
 title: "Corned Beets - Recipe"
+description: "Corned beets: beets cooked with corned beef spices until completely tender, with a texture that makes them delightful."
 date: 2013-03-04T07:00:32
 slug: "corned-beets-recipe"
 categories: ["Experiments", "Gluten-Free or modifiable", "Recipes", "Vegan or Modifiable"]

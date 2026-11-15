@@ -1,5 +1,6 @@
 ---
 title: "Chocolate Eclairs - Recipe"
+description: "Chocolate eclairs, a Valentine's Day dessert recipe with homemade choux pastry and chocolate glaze."
 date: 2009-02-19T06:09:00
 slug: "chocolate-eclairs"
 categories: ["Baking", "Desserts", "Kid Friendly"]

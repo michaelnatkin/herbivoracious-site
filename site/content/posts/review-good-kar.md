@@ -1,5 +1,6 @@
 ---
 title: "Review: Good Karma in Park City, Utah"
+description: "Review of Good Karma in Park City, Utah, a really good restaurant near Prospector Square."
 date: 2008-03-03T04:22:00
 slug: "review-good-kar"
 categories: ["Restaurants", "Travel"]

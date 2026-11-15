@@ -1,5 +1,6 @@
 ---
 title: "Recipe: Spicy Chickpea Stew with Roasted Cauliflower"
+description: "Spicy chickpea stew with roasted cauliflower, a hearty dinner party dish served over fluffy couscous."
 date: 2007-11-28T08:46:25
 slug: "spicy-chickpea"
 categories: ["Main Courses", "Recipes"]

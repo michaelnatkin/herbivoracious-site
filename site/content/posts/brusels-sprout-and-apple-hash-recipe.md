@@ -1,5 +1,6 @@
 ---
 title: "Brussels Sprout and Apple Hash - Recipe"
+description: "Brussels sprout and apple hash, a side dish from the Herbivoracious cookbook that goes with mac and cheese or a rustic soup."
 date: 2013-01-14T07:00:05
 slug: "brusels-sprout-and-apple-hash-recipe"
 categories: ["Gluten-Free or modifiable", "Recipes", "Side Dishes"]

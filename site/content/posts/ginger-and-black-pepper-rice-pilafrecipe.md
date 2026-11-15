@@ -1,5 +1,6 @@
 ---
 title: "Ginger and Black Pepper Rice Pilaf - Recipe"
+description: "Ginger and black pepper rice pilaf, an easy way to add variety to basmati rice for an Indian menu."
 date: 2012-06-18T06:00:46
 slug: "ginger-and-black-pepper-rice-pilafrecipe"
 categories: ["Gluten-Free or modifiable", "Recipes", "Side Dishes", "Vegan or Modifiable"]

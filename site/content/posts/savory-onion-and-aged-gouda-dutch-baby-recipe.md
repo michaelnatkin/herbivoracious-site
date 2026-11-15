@@ -1,5 +1,6 @@
 ---
 title: "Savory Onion and Aged Gouda Dutch Baby - Recipe"
+description: "Savory onion and aged gouda Dutch baby, a light, custardy savory pancake like a quiche for brunch."
 date: 2009-10-08T06:53:00
 slug: "savory-onion-and-aged-gouda-dutch-baby-recipe"
 categories: ["Appetizers", "Recipes", "Weblogs"]

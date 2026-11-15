@@ -1,5 +1,6 @@
 ---
 title: "Anti-griddle Pudding Pop, Bruleed Mango, Black Sesame Tuile - Recipe"
+description: "Anti-griddle pudding pop with bruleed mango and black sesame tuile, the dish created for a MasterChef audition in Seattle."
 date: 2010-01-14T06:58:00
 slug: "antigriddle-pudding-pop-bruleed-mango-black-sesame-tuile-recipe"
 categories: ["Desserts", "Experiments", "Recipes"]

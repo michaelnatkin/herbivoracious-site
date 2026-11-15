@@ -1,5 +1,6 @@
 ---
 title: "Peeled Cherry Tomato Salad With Pan Fried Goat Cheese"
+description: "Peeled cherry tomato salad with pan-fried goat cheese: why peeling cherry tomatoes is worth the effort."
 date: 2008-10-09T06:58:00
 slug: "peeled-cherry-t"
 categories: ["Recipes", "Salads"]

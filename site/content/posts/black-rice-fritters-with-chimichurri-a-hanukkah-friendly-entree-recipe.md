@@ -1,5 +1,6 @@
 ---
 title: "Black Rice Fritters with Chimichurri - a Hanukkah Friendly Entree Recipe"
+description: "Black rice fritters with chimichurri, a lighter pan-fried entree for Hanukkah that won't absorb too much oil."
 date: 2012-11-26T07:00:33
 slug: "black-rice-fritters-with-chimichurri-a-hanukkah-friendly-entree-recipe"
 categories: ["Gluten-Free or modifiable", "Main Courses", "Recipes", "Sauces and Condiments"]

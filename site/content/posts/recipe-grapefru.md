@@ -1,5 +1,6 @@
 ---
 title: "Recipe: Grapefruit And Avocado Salad"
+description: "Grapefruit and avocado salad, with how to cut citrus supremes properly without pith or broken segments."
 date: 2008-01-21T20:21:19
 slug: "recipe-grapefru"
 categories: ["Recipes", "Salads", "Vegan or Modifiable"]

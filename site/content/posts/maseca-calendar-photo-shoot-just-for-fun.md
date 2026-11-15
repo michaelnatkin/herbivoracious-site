@@ -1,5 +1,6 @@
 ---
 title: "MaSeCa Calendar Photo Shoot (Just For Fun)"
+description: "The MaSeCa calendar photo shoot: posing for the masa harina company's 2011 calendar, just for fun."
 date: 2010-10-21T11:52:06
 slug: "maseca-calendar-photo-shoot-just-for-fun"
 categories: ["Miscellany"]

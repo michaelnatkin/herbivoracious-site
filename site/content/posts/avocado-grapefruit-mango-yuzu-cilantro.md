@@ -1,5 +1,6 @@
 ---
 title: "Avocado, Grapefruit, Mango, Yuzu, Cilantro"
+description: "Avocado, grapefruit, mango, yuzu and cilantro: raw ingredient experiments with surprising textures."
 date: 2010-03-29T07:00:00
 slug: "avocado-grapefruit-mango-yuzu-cilantro"
 categories: ["Appetizers", "Experiments", "Gluten-Free or modifiable", "Vegan or Modifiable"]

@@ -1,5 +1,6 @@
 ---
 title: "Roasted Tomato and Corn Risotto - Recipe"
+description: "Roasted tomato and corn risotto, with slow-roasted tomatoes that turn bland summer tomatoes into something special."
 date: 2009-08-24T06:40:00
 slug: "roasted-tomato-and-corn-risotto-recipe"
 categories: ["Gluten-Free or modifiable", "Kid Friendly", "Main Courses", "Recipes"]

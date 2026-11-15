@@ -1,5 +1,6 @@
 ---
 title: "Book Review: Best Food Writing 2007"
+description: "Book review of Best Food Writing 2007, edited by Holly Hughes, the annual collection of food writing."
 date: 2008-03-12T04:33:00
 slug: "book-review-bes"
 categories: ["Miscellany"]

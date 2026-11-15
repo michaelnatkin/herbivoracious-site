@@ -1,5 +1,6 @@
 ---
 title: "Baby Zucchini and Blossoms with Sofrito - Recipe"
+description: "Baby zucchini and blossoms with sofrito: pick zucchini when they're tiny and delicious for a better dish."
 date: 2013-07-24T06:05:10
 slug: "baby-zucchini-and-blossoms-with-sofrito-recipe"
 categories: ["Gluten-Free or modifiable", "Recipes", "Side Dishes", "Vegan or Modifiable"]

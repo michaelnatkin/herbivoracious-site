@@ -1,5 +1,6 @@
 ---
 title: "Puntarelle and Tiny Potato Salad - Recipe"
+description: "Puntarelle and tiny potato salad with teleme cheese, made with small potatoes from Olsen Farms."
 date: 2009-09-02T06:12:00
 slug: "puntarelle-and-tiny-potato-salad-recipe"
 categories: ["Gluten-Free or modifiable", "Salads", "Vegan or Modifiable"]

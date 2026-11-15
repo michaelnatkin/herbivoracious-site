@@ -1,5 +1,6 @@
 ---
 title: "Paring Knife, Bread Knife, Tomato Knife"
+description: "Paring knife, bread knife and tomato knife: the knives to own besides your chef's knife."
 date: 2012-10-06T17:13:17
 slug: "other-knives-kitchen-tools-hand-tools"
 ---

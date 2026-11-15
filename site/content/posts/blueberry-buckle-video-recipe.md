@@ -1,5 +1,6 @@
 ---
 title: "Blueberry Buckle - Video Recipe"
+description: "Blueberry buckle in a video recipe, a rustic American fruit dessert."
 date: 2012-04-02T06:02:40
 slug: "blueberry-buckle-video-recipe"
 categories: ["Baking", "Desserts", "Kid Friendly", "Recipes"]

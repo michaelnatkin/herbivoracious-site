@@ -1,5 +1,6 @@
 ---
 title: "My Favorite Citrus Juicer"
+description: "My favorite citrus juicer for lemon and lime juice, after trying reamers, counter models and electrics."
 date: 2012-11-02T15:23:08
 slug: "my-favorite-citrus-juicer"
 ---

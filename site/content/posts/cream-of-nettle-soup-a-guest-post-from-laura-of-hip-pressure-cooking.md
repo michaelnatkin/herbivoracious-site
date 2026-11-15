@@ -1,5 +1,6 @@
 ---
 title: "Cream of Stinging Nettle Soup - A Guest Post From Laura of Hip Pressure Cooking"
+description: "Cream of stinging nettle soup, a guest post from Laura of Hip Pressure Cooking made in a pressure cooker."
 date: 2012-01-11T07:00:17
 slug: "cream-of-nettle-soup-a-guest-post-from-laura-of-hip-pressure-cooking"
 categories: ["Gluten-Free or modifiable", "Soups", "Weblogs"]

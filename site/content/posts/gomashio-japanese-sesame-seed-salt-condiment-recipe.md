@@ -1,5 +1,6 @@
 ---
 title: "Gomashio - Japanese Sesame Seed and Salt Condiment - Recipe"
+description: "Gomashio, the Japanese sesame seed and salt condiment. Simple to make at home and delicious."
 date: 2010-03-25T06:55:00
 slug: "gomashio-japanese-sesame-seed-salt-condiment-recipe"
 categories: ["Gluten-Free or modifiable", "Kid Friendly", "Recipes", "Sauces and Condiments", "Vegan or Modifiable"]

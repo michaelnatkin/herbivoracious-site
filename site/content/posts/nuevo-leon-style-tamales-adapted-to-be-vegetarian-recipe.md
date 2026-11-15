@@ -1,5 +1,6 @@
 ---
 title: "Nuevo León Style Tamales, Adapted to be Vegetarian - Recipe"
+description: "Vegetarian Nuevo León style tamales with a red chile portabella filling, adapted from a traditional meat tamale."
 date: 2010-02-04T06:55:00
 slug: "nuevo-leon-style-tamales-adapted-to-be-vegetarian-recipe"
 categories: ["Gluten-Free or modifiable", "Kid Friendly", "Main Courses", "Recipes", "Vegan or Modifiable"]

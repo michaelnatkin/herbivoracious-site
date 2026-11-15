@@ -1,5 +1,6 @@
 ---
 title: "Persian Sweets, Allergy Cards, and Virtual Carnivals"
+description: "Persian sweets from Minoo Bakery, allergy cards and virtual carnivals: three unrelated topics in one post."
 date: 2007-08-15T04:19:00
 slug: "persian-sweets"
 categories: ["Miscellany", "Restaurants", "Seattle", "Weblogs"]

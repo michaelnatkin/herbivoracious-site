@@ -1,5 +1,6 @@
 ---
 title: "What I Learned Staging at Canlis"
+description: "What I learned staging at Canlis, Seattle's legendary fine-dining restaurant, during a couple of weeks in its kitchen."
 date: 2010-04-27T07:18:00
 slug: "what-i-learned-staging-at-canlis"
 categories: ["Cooking Internship", "Seattle"]

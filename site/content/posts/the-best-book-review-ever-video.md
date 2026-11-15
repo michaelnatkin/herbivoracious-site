@@ -1,5 +1,6 @@
 ---
 title: "The Best Book Review Ever - Video"
+description: "The best book review ever: a video of the author's nephew loving the Herbivoracious cookbook."
 date: 2012-05-30T08:15:16
 slug: "the-best-book-review-ever-video"
 categories: ["Cookbook Project", "Cooking Videos", "Kid Friendly", "Miscellany"]

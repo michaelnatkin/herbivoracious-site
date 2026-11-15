@@ -1,5 +1,6 @@
 ---
 title: "Black Rice Fritters with Turnips and Horseradish Cream - Recipe"
+description: "Black rice fritters with roasted turnips and horseradish cream, a vegetarian entree with caraway, horseradish and mustard flavors."
 date: 2012-10-05T06:00:34
 slug: "black-rice-fritter-with-turnips-and-horseradish-cream-recipe"
 categories: ["Gluten-Free or modifiable", "Main Courses", "Recipes"]

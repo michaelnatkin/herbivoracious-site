@@ -1,5 +1,6 @@
 ---
 title: "Seem Quiet Around Here? Not At My House :)"
+description: "Why the blog is quiet: a new baby, the author's second child."
 date: 2008-07-22T16:12:02
 slug: "seem-quiet-arou"
 categories: ["Miscellany"]

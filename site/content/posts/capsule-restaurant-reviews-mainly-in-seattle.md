@@ -1,5 +1,6 @@
 ---
 title: "Capsule Restaurant Reviews - Mainly In Seattle"
+description: "Capsule restaurant reviews, mainly in Seattle: short reviews that don't get a full post on the main blog."
 date: 2008-12-03T22:09:47
 slug: "capsule-restaurant-reviews-mainly-in-seattle"
 categories: ["Miscellany"]

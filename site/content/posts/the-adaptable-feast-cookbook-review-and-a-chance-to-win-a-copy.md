@@ -1,5 +1,6 @@
 ---
 title: "The Adaptable Feast - Cookbook Review and a Chance to Win a Copy"
+description: "Review of Ivy Manning's cookbook The Adaptable Feast, plus a chance to win a copy."
 date: 2009-10-28T19:58:20
 slug: "the-adaptable-feast-cookbook-review-and-a-chance-to-win-a-copy"
 categories: ["Books"]

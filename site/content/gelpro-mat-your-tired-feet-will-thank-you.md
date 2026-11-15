@@ -1,5 +1,6 @@
 ---
 title: "GelPro Mat - Your Tired Feet Will Thank You"
+description: "GelPro anti-fatigue mat: why a gel mat makes a home kitchen more comfortable for tired feet."
 date: 2013-01-11T20:27:59
 slug: "gelpro-mat-your-tired-feet-will-thank-you"
 ---

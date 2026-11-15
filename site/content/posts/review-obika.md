@@ -1,5 +1,6 @@
 ---
 title: "Review: Obika Mozzarella Bar, Rome, Italy"
+description: "Review of Obika Mozzarella Bar in Rome, a restaurant devoted to DOP buffalo mozzarella."
 date: 2007-09-24T04:41:00
 slug: "review-obika"
 categories: ["Restaurants", "Travel"]

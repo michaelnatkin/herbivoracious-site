@@ -1,5 +1,6 @@
 ---
 title: "When It All Goes Wrong - Making Your Food Pop Part 5"
+description: "When it all goes wrong, part 5 of Making Your Food Pop: an avocado, kumquat, green onion, jalapeno and mint amuse bouche."
 date: 2010-01-28T07:05:00
 slug: "when-it-all-goes-wrong-making-your-food-pop-part-3andahalf"
 categories: ["Miscellany", "Theory and Rants"]

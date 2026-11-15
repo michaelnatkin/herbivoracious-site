@@ -1,5 +1,6 @@
 ---
 title: "Recipe: Leftover Mujadara Becomes A Quick, Warming Soup"
+description: "Leftover mujadara becomes a quick, warming soup with rice, lentils, caramelized onions and shiitake broth."
 date: 2007-10-29T19:35:25
 slug: "recipe-leftover"
 categories: ["Recipes", "Soups", "Vegan or Modifiable"]

@@ -1,5 +1,6 @@
 ---
 title: "Vegetarian Thanksgiving Recipes 2012"
+description: "Vegetarian Thanksgiving recipes 2012: what to do about the main course, with ideas for a meatless table."
 date: 2012-11-12T14:14:29
 slug: "vegetarian-thanksgiving-recipes-2012"
 categories: ["Events", "Miscellany", "Recipes"]

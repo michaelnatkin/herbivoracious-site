@@ -1,5 +1,6 @@
 ---
 title: "Vietnamese Caramel Cooked Tofu - Video Recipe"
+description: "Vietnamese caramel cooked tofu in a video recipe: a rich, lacquered sauce, with the key of getting the caramel quite dark."
 date: 2012-04-09T06:00:43
 slug: "vietnamese-caramel-cooked-tofu-video-recipe"
 categories: ["Cooking Videos", "Kid Friendly", "Main Courses", "Recipes", "Vegan or Modifiable"]

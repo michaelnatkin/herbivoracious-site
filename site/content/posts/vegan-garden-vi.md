@@ -1,5 +1,6 @@
 ---
 title: "Review: Vegan Garden Vietnamese Restaurant, Seattle, WA"
+description: "Review of Vegan Garden, a Vietnamese vegan restaurant in Seattle with a menu of 110 choices."
 date: 2007-09-17T04:45:00
 slug: "vegan-garden-vi"
 categories: ["Restaurants", "Seattle", "Vegan or Modifiable"]

@@ -1,5 +1,6 @@
 ---
 title: "Pan-Seared Pressed Tofu with Apples and Champagne Vinaigrette - Recipe"
+description: "Pan-seared pressed tofu with apples and champagne vinaigrette, a quick lunch from the Northwest Tofu pressed tofu."
 date: 2012-01-02T07:05:05
 slug: "pan-seared-pressed-tofu-with-apples-and-champagne-vinaigrette-recipe"
 categories: ["Gluten-Free or modifiable", "Kid Friendly", "Main Courses", "Recipes", "Salads", "Sauces and Condiments", "Seattle", "Vegan or Modifiable"]

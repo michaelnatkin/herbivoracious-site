@@ -1,5 +1,6 @@
 ---
 title: "Tempeh and Japanese Eggplant with Crispy Rice - Recipe"
+description: "Tempeh and Japanese eggplant with crispy rice, a refrigerator cleanout dish that cuts food waste."
 date: 2009-04-23T06:41:00
 slug: "tempeh-and-japanese-eggplant-with-crispy-rice-recipe"
 categories: ["Gluten-Free or modifiable", "Main Courses", "Recipes", "Vegan or Modifiable"]

@@ -1,5 +1,6 @@
 ---
 title: "Restaurant Review: Jasmine Provincial Vietnamese Restaurant"
+description: "Review of Jasmine Provincial Vietnamese Restaurant in Seattle, for the Seattle Restaurant Review 360."
 date: 2008-05-19T06:43:00
 slug: "restaurant-revi"
 categories: ["Restaurants", "Seattle"]

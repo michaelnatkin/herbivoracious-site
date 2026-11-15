@@ -1,5 +1,6 @@
 ---
 title: "Cavatelli with Slow Roasted Broccoli and Harissa - Recipe"
+description: "Cavatelli with slow-roasted broccoli and harissa: broccoli cooked until well browned for deep flavor, tossed with spicy pasta."
 date: 2013-02-18T07:00:17
 slug: "cavatelli-with-slow-roasted-broccoli-and-harissa-recipe"
 categories: ["Main Courses", "Recipes", "Vegan or Modifiable"]

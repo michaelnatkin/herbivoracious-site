@@ -1,5 +1,6 @@
 ---
 title: "How to Cut Mint Chiffonade (Tiny Ribbons) - Video"
+description: "How to cut mint chiffonade (tiny ribbons), with a video showing the technique chefs use for neat, even strips."
 date: 2012-03-12T06:00:37
 slug: "how-to-cut-mint-chiffonade-tiny-ribbons-video"
 categories: ["Cooking Videos"]

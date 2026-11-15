@@ -1,5 +1,6 @@
 ---
 title: "Recipe: Seriously Molasses-Flavored Bran Muffins"
+description: "Seriously molasses-flavored bran muffins, a homemade bran muffin recipe (with a note about adjusting the liquid)."
 date: 2007-08-03T08:32:54
 slug: "bran-muffins"
 categories: ["Baking", "Breakfast", "Recipes"]

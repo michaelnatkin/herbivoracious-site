@@ -1,5 +1,6 @@
 ---
 title: "Caramelized Caulifower Frittata - Recipe"
+description: "Caramelized cauliflower frittata: cauliflower browned until luscious and savory, baked into a vegetarian frittata."
 date: 2009-12-10T06:45:00
 slug: "caramelized-caulifower-fritatta-recipe"
 categories: ["Appetizers", "Breakfast", "Gluten-Free or modifiable", "Main Courses", "Recipes"]

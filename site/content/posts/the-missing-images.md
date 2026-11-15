@@ -1,5 +1,6 @@
 ---
 title: "The Missing Images"
+description: "The missing images: photos of the dishes in the Herbivoracious cookbook that didn't get a picture in the book."
 date: 2012-07-27T06:00:27
 slug: "the-missing-images"
 categories: ["Cookbook Project", "Miscellany"]

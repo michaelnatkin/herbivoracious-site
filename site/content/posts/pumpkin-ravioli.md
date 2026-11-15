@@ -1,5 +1,6 @@
 ---
 title: "Cooking By Hand, by Paul Bertolli - Cookbook Review"
+description: "Cookbook review of Paul Bertolli's Cooking by Hand, an inspiring book about making food from scratch."
 date: 2008-10-16T21:24:21
 slug: "pumpkin-ravioli"
 categories: ["Books"]

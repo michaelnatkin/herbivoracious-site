@@ -1,5 +1,6 @@
 ---
 title: "Orecchiette with Garlic Scapes, Ricotta, and Gremolata - Recipe"
+description: "Orecchiette with garlic scapes, ricotta and gremolata, with tips on trimming and cooking garlic scapes until tender."
 date: 2012-06-25T06:00:49
 slug: "orecchiette-with-garlic-scapes-ricotta-and-gremolata-recipe"
 categories: ["Main Courses", "Recipes", "Seattle"]

@@ -1,5 +1,6 @@
 ---
 title: "The Sounds of A Restaurant Kitchen"
+description: "The sounds of a restaurant kitchen: a reflection from a long shift pureeing lentils, onions and pecans at Cafe Flora."
 date: 2007-12-29T17:03:40
 slug: "the-sounds-of-a"
 categories: ["Cooking Internship", "Miscellany", "Restaurants", "Theory and Rants"]

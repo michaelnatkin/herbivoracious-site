@@ -1,5 +1,6 @@
 ---
 title: "Costas Opa - Greek, Fremont, Seattle - Capsule Restaurant Review"
+description: "Capsule review of Costas Opa, a Greek restaurant in Fremont, Seattle, and its vegetarian lunch combo."
 date: 2009-04-09T13:42:24
 slug: "costas-opa-greek-fremont-seattle-capsule-restaurant-review"
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Recipe: Brussels Sprouts with Seeds and Toasted Coconut"
+description: "Brussels sprouts with seeds and toasted coconut: shredded sprouts pan-fried with black mustard, caraway and cumin. Vegan and gluten-free."
 date: 2007-12-18T15:58:12
 slug: "recipe-brussel"
 categories: ["Recipes", "Side Dishes", "Vegan or Modifiable"]

@@ -1,5 +1,6 @@
 ---
 title: "Enchiladas de Mole with Mushrooms and Zucchini - Recipe"
+description: "Enchiladas de mole with mushrooms and zucchini, a vegetarian take on the rich chile, chocolate and spice sauce."
 date: 2013-03-11T06:24:31
 slug: "enchiladas-de-mole-recipe"
 categories: ["Main Courses", "Recipes", "Vegan or Modifiable"]

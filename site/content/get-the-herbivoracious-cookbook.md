@@ -1,5 +1,6 @@
 ---
 title: "Get The Herbivoracious Cookbook"
+description: "Get the Herbivoracious cookbook: 150 vibrant and original vegetarian recipes, a 2013 James Beard Award finalist."
 date: 2012-03-13T10:22:22
 slug: "get-the-herbivoracious-cookbook"
 layout: cookbook

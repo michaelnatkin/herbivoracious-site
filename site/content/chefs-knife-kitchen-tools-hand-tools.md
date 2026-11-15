@@ -1,5 +1,6 @@
 ---
 title: "Chef's Knife"
+description: "The chef's knife: the most important and personal kitchen tool, and how to choose one that feels right in your hand."
 date: 2012-10-06T16:56:55
 slug: "chefs-knife-kitchen-tools-hand-tools"
 ---

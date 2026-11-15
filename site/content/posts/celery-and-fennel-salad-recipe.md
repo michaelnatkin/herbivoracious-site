@@ -1,5 +1,6 @@
 ---
 title: "Celery and Fennel Salad - Recipe"
+description: "Celery and fennel salad, a recipe posted when the Herbivoracious cookbook became a James Beard Award finalist."
 date: 2013-03-25T07:00:23
 slug: "celery-and-fennel-salad-recipe"
 categories: ["Experiments", "Salads"]

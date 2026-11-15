@@ -1,5 +1,6 @@
 ---
 title: "Butterscotch Pudding with Bittersweet Ganache and Caramelized White Chocolate Crispies - Recipe"
+description: "Butterscotch pudding with bittersweet ganache and caramelized white chocolate crispies, an over-the-top, ridiculously delicious dessert."
 date: 2012-05-14T06:13:20
 slug: "butterscotch-pudding-with-bittersweet-ganache-and-caramelize-white-chocolate-crunchies-recipe"
 categories: ["Desserts", "Experiments", "Kid Friendly"]

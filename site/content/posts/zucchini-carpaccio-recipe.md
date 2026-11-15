@@ -1,5 +1,6 @@
 ---
 title: "Zucchini Carpaccio - Recipe"
+description: "Zucchini carpaccio: lightly cooked, thin-sliced zucchini inspired by Paul Bertolli's Cooking by Hand, a fresh summer side."
 date: 2009-08-03T06:40:00
 slug: "zucchini-carpaccio-recipe"
 categories: ["Appetizers", "Gluten-Free or modifiable", "Salads", "Vegan or Modifiable"]

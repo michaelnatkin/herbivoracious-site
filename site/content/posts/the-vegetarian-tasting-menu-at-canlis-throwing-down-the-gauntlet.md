@@ -1,5 +1,6 @@
 ---
 title: "The Vegetarian Tasting Menu at Canlis - Throwing Down the Gauntlet"
+description: "A vegetarian tasting menu at Canlis, Seattle's legendary fine-dining restaurant, written by someone who staged in its kitchen in 2010."
 date: 2012-09-10T06:00:31
 slug: "the-vegetarian-tasting-menu-at-canlis-throwing-down-the-gauntlet"
 categories: ["Restaurants", "Seattle", "Theory and Rants"]

@@ -1,5 +1,6 @@
 ---
 title: "\"Panzanella\" Salad at Spaghettim, Jerusalem, Israel"
+description: "The panzanella salad at Spaghettim in Jerusalem, and why Israeli produce makes such good salads."
 date: 2007-09-06T04:43:00
 slug: "panzanella-sala"
 categories: ["Restaurants", "Travel"]

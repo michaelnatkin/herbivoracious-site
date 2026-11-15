@@ -1,5 +1,6 @@
 ---
 title: "You Aren't Still Using An Old School Vegetable Peeler Are You? Y-Shaped Peelers Win."
+description: "Why a Y-shaped vegetable peeler beats the old-fashioned kind, and which ones to buy."
 date: 2012-11-06T16:49:50
 slug: "y-vegetable-peeler"
 ---

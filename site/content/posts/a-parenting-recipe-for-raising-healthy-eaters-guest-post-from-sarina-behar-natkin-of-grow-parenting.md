@@ -1,5 +1,6 @@
 ---
 title: "A Parenting Recipe for Raising Healthy Eaters - Guest Post From Sarina Behar Natkin of Grow Parenting"
+description: "A parenting recipe for raising healthy eaters: a guest post by Sarina Behar Natkin of Grow Parenting."
 date: 2012-04-11T06:00:23
 slug: "a-parenting-recipe-for-raising-healthy-eaters-guest-post-from-sarina-behar-natkin-of-grow-parenting"
 categories: ["Kid Friendly", "Theory and Rants", "Weblogs"]

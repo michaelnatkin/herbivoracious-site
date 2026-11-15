@@ -1,5 +1,6 @@
 ---
 title: "An Honor, a Favor, and a Freebie (Win a Digital Kitchen Scale)"
+description: "Herbivoracious named a Saveur Best Food Blog Awards finalist in the Best Special Interest Blog category, plus a digital kitchen scale giveaway."
 date: 2010-03-03T07:00:00
 slug: "an-honor-a-favor-and-a-freebie-win-a-digital-kitchen-scale"
 categories: ["Contests", "Miscellany"]

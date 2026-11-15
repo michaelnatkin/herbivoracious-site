@@ -1,5 +1,6 @@
 ---
 title: "Fig Brulee with Balsamic Vinegar"
+description: "Fig brulee with balsamic vinegar: ripe figs torched in 30 seconds with sugar. Vegan, vegetarian and gluten-free."
 date: 2007-08-01T07:45:01
 slug: "fig-brulee-with"
 categories: ["Desserts", "Recipes", "Vegan or Modifiable"]

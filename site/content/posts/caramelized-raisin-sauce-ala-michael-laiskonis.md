@@ -1,5 +1,6 @@
 ---
 title: "Caramelized Raisin Sauce ala Michael Laiskonis"
+description: "Caramelized raisin sauce from Michael Laiskonis, executive pastry chef at Le Bernardin, a simple dessert sauce."
 date: 2009-01-13T22:29:04
 slug: "caramelized-raisin-sauce-ala-michael-laiskonis"
 categories: ["Desserts", "Experiments", "Gluten-Free or modifiable", "Sauces and Condiments", "Vegan or Modifiable", "Weblogs"]

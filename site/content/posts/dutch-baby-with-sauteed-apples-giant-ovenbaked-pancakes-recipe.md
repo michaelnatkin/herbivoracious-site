@@ -1,5 +1,6 @@
 ---
 title: "Dutch Baby With Sauteed Apples (Giant Oven-Baked Pancakes) - Recipe"
+description: "Dutch baby with sautéed apples: a giant oven-baked pancake that's easy enough to make with kids."
 date: 2009-05-11T06:39:00
 slug: "dutch-baby-with-sauteed-apples-giant-ovenbaked-pancakes-recipe"
 categories: ["Desserts", "Kid Friendly", "Recipes"]

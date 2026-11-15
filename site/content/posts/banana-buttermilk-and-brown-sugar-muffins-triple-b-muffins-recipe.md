@@ -1,5 +1,6 @@
 ---
 title: "Banana, Buttermilk and Brown Sugar Muffins (Triple B Muffins) - Recipe"
+description: "Banana, buttermilk and brown sugar muffins (Triple B muffins), a Saturday morning muffin recipe."
 date: 2012-03-07T07:00:47
 slug: "banana-buttermilk-and-brown-sugar-muffins-triple-b-muffins-recipe"
 categories: ["Baking", "Breakfast", "Kid Friendly", "Recipes"]

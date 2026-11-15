@@ -1,5 +1,6 @@
 ---
 title: "Ilan's Top Chef Fideos, Vegetarian Style - With A Review Of The Top Chef Cookbook"
+description: "Ilan Hall's Top Chef fideos, adapted vegetarian style, plus a review of the Top Chef cookbook."
 date: 2008-12-11T09:38:49
 slug: "ilans-top-chef-fideos-vegetarian-style-with-a-review-of-the-top-chef-cookbook"
 categories: ["Books", "Main Courses", "Recipes"]

@@ -1,5 +1,6 @@
 ---
 title: "SuperFrico Grilled Cheese Sandwich - Recipe"
+description: "The SuperFrico, a grilled cheese sandwich with a built-in frico (crispy cheese crust)."
 date: 2010-03-11T06:54:00
 slug: "superfrico-grilled-cheese-sandwich-recipe"
 categories: ["Main Courses", "Recipes", "Seattle"]

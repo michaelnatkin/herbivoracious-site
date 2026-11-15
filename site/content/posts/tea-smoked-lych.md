@@ -1,5 +1,6 @@
 ---
 title: "Tea-Smoked Lychee Amuse Bouche"
+description: "Fresh lychee smoked with genmaicha tea, the first of three lychee amuse bouche that also work as an appetizer trio."
 date: 2008-08-06T22:44:08
 slug: "tea-smoked-lych"
 categories: ["Appetizers", "Experiments", "Gluten-Free or modifiable", "Recipes", "Vegan or Modifiable"]

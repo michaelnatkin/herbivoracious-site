@@ -1,5 +1,6 @@
 ---
 title: "Rigatoni with Roasted Cauliflower and Spicy Tomato Sauce - Recipe"
+description: "Rigatoni with roasted cauliflower and spicy tomato sauce, a simple pasta dish with cauliflower in several textures."
 date: 2012-09-03T08:16:57
 slug: "rigatoni-with-roasted-cauliflower-and-spicy-tomato-sauce-recipe"
 categories: ["Main Courses", "Recipes"]

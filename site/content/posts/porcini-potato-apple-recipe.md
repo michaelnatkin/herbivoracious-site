@@ -1,5 +1,6 @@
 ---
 title: "Porcini, Potato, Apple - Recipe"
+description: "Porcini, potato, apple: simply cooked fresh porcini (cèpes) with potatoes and apple."
 date: 2013-10-22T06:45:18
 slug: "porcini-potato-apple-recipe"
 categories: ["Gluten-Free or modifiable", "Main Courses", "Recipes", "Vegan or Modifiable"]

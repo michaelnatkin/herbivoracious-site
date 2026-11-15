@@ -1,5 +1,6 @@
 ---
 title: "Recipe: Mexican Matzo Brei or Jewish Chilaquiles?"
+description: "Mexican matzo brei, or Jewish chilaquiles: a classic Passover egg dish with matzo."
 date: 2008-02-10T09:58:12
 slug: "recipe-mexican"
 categories: ["Breakfast", "Recipes"]

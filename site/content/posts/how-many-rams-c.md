@@ -1,5 +1,6 @@
 ---
 title: "How Many Rams Could a Rambutan Tan if a Rambutan Could Tan Rams?"
+description: "Meet the rambutan, a tropical fruit you can find at Asian markets and some Whole Foods."
 date: 2007-11-07T22:21:00
 slug: "how-many-rams-c"
 categories: ["Miscellany"]

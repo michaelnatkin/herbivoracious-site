@@ -1,5 +1,6 @@
 ---
 title: "Healthy Thai-Style Salad of Grilled Eggplant, Tofu, and Watermelon - Recipe"
+description: "Healthy Thai-style salad of grilled eggplant, tofu and watermelon with an oil-free dressing, low in calories."
 date: 2008-09-08T03:53:00
 slug: "thai-style-sala"
 categories: ["Gluten-Free or modifiable", "Recipes", "Salads", "Vegan or Modifiable"]

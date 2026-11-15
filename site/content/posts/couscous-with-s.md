@@ -1,5 +1,6 @@
 ---
 title: "Recipe: Couscous with Parsley Yogurt Sauce, Spicy Acorn Squash, Roasted Cauliflower and Chickpeas"
+description: "Couscous with parsley yogurt sauce, spicy acorn squash, roasted cauliflower and chickpeas, a recipe contest entry using Greek God's yogurt."
 date: 2008-01-27T08:41:34
 slug: "couscous-with-s"
 categories: ["Main Courses", "Recipes"]

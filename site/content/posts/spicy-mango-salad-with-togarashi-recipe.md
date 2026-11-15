@@ -1,5 +1,6 @@
 ---
 title: "Spicy Mango Salad with Shichimi Togarashi (Japanese Spice Mixture) - Recipe"
+description: "Spicy mango salad with a homemade shichimi togarashi-style seasoning of chiles, orange peel and sesame."
 date: 2010-03-01T06:48:00
 slug: "spicy-mango-salad-with-togarashi-recipe"
 categories: ["Gluten-Free or modifiable", "Recipes", "Salads", "Vegan or Modifiable"]

@@ -1,5 +1,6 @@
 ---
 title: "Why You Need an Instant-Read Kitchen Thermometer"
+description: "Why you need an instant-read kitchen thermometer: even a basic $12 model will get used often and boost your confidence."
 date: 2012-10-12T06:00:11
 slug: "why-you-need-an-instant-read-kitchen-thermometer"
 categories: ["Kitchen Utensils", "My Kitchen"]

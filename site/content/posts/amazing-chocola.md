@@ -1,5 +1,6 @@
 ---
 title: "Some Amazing Chocolates To Try - Seattle Luxury Chocolate Salon Wrap-Up"
+description: "Some amazing chocolates to try: a wrap-up of the first Seattle Luxury Chocolate Salon with 20+ chocolate artisans."
 date: 2008-07-23T15:35:47
 slug: "amazing-chocola"
 categories: ["Miscellany"]

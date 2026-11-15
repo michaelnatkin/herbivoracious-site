@@ -1,5 +1,6 @@
 ---
 title: "Harvest Vine - Basque Restaurant Review, Seattle, WA"
+description: "Review of Harvest Vine, Seattle's great Basque restaurant with chef Joseba Jimenez de Jimenez."
 date: 2009-06-04T06:34:00
 slug: "harvest-vine-basque-restaurant-review-seattle-wa"
 categories: ["Restaurants", "Seattle"]

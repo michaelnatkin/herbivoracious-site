@@ -1,5 +1,6 @@
 ---
 title: "Khao Soi - Thai Curry Noodles from Chiang Mai"
+description: "Khao soi, Thai curry noodles from Chiang Mai, one of the author's favorite recipes from the Herbivoracious cookbook."
 date: 2013-04-30T06:00:36
 slug: "khao-soi-thai-curry-noodles-from-chiang-mai"
 categories: ["Main Courses", "Recipes"]

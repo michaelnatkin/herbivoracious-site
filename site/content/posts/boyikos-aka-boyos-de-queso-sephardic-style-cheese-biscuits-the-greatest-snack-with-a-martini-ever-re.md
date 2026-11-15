@@ -1,5 +1,6 @@
 ---
 title: "Boyikos (aka Boyos de Queso) - Sephardic Style Cheese Biscuits - The Greatest Snack with a Martini Ever - Recipe"
+description: "Boyikos (boyos de queso): Sephardic cheese biscuits, savory, crispy and flaky, and the greatest snack with a martini."
 date: 2009-01-19T06:45:00
 slug: "boyikos-aka-boyos-de-queso-sephardic-style-cheese-biscuits-the-greatest-snack-with-a-martini-ever-re"
 categories: ["Appetizers", "Kid Friendly", "Recipes"]

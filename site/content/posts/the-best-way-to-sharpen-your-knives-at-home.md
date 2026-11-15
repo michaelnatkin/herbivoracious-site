@@ -1,5 +1,6 @@
 ---
 title: "The Best Way to Sharpen Your Knives at Home"
+description: "The best way to sharpen your knives at home, for faster, easier and safer cooking."
 date: 2012-10-24T06:00:04
 slug: "the-best-way-to-sharpen-your-knives-at-home"
 categories: ["My Kitchen", "Small Appliances"]

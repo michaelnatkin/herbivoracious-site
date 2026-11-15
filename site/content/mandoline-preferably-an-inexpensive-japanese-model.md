@@ -1,5 +1,6 @@
 ---
 title: "Mandoline - Preferably an Inexpensive Japanese Model"
+description: "Mandoline: why an inexpensive Japanese model like the Benriner is the one to buy for thin, consistent slices."
 date: 2012-10-10T16:43:16
 slug: "mandoline-preferably-an-inexpensive-japanese-model"
 ---

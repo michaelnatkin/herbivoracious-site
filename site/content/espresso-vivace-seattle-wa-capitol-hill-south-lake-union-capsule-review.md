@@ -1,5 +1,6 @@
 ---
 title: "Espresso Vivace, Seattle, WA (Capitol Hill & South Lake Union) - Capsule Review"
+description: "Capsule review of Espresso Vivace's Capitol Hill and South Lake Union cafés in Seattle."
 date: 2008-12-11T12:57:09
 slug: "espresso-vivace-seattle-wa-capitol-hill-south-lake-union-capsule-review"
 ---

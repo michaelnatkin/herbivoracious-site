@@ -1,5 +1,6 @@
 ---
 title: "How to Use a Sharpening Steel on Your Knives - Video"
+description: "How to use a sharpening steel on your kitchen knives, with a video demonstration of the technique."
 date: 2012-04-30T06:05:15
 slug: "how-to-use-a-sharpening-steel-on-your-knives-video"
 categories: ["Cooking Videos"]

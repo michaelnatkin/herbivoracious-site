@@ -1,5 +1,6 @@
 ---
 title: "How To Make A Delicious, Vegetarian Potluck Salad in Five Minutes"
+description: "How to make a delicious vegetarian potluck salad in five minutes, for a block party with no time to spare."
 date: 2008-08-17T06:03:00
 slug: "how-to-make-a-d"
 categories: ["Recipes", "Salads"]

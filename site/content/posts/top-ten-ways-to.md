@@ -1,5 +1,6 @@
 ---
 title: "Top Ten Ways to Get Yourself Baking More at Home"
+description: "Top ten ways to get yourself baking more at home, from storing flour with measuring cups to keeping ingredients accessible."
 date: 2007-08-05T21:10:19
 slug: "top-ten-ways-to"
 categories: ["Baking"]

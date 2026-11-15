@@ -1,5 +1,6 @@
 ---
 title: "Raspberry-Blueberry Buckle - Recipe"
+description: "Raspberry-blueberry buckle, a rustic American berry cake with a streusel-like topping."
 date: 2009-07-23T06:42:00
 slug: "raspberry-blueberry-buckle-recipe"
 categories: ["Desserts", "Recipes"]

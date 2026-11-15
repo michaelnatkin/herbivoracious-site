@@ -1,5 +1,6 @@
 ---
 title: "Sesame-Flax Soda Bread - Recipe"
+description: "Sesame-flax soda bread: fresh whole-grain bread with about 10 minutes of work, no yeast and no rising."
 date: 2012-12-10T07:01:17
 slug: "sesame-flax-soda-bread-recipe"
 categories: ["Baking", "Recipes"]

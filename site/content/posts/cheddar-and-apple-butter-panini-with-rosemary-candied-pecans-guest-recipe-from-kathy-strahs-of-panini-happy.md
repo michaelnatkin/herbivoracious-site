@@ -1,5 +1,6 @@
 ---
 title: "Cheddar and Apple Butter Panini with Rosemary Candied Pecans - Guest Recipe from Kathy Strahs of Panini Happy"
+description: "Cheddar and apple butter panini with rosemary candied pecans, a guest recipe from Kathy Strahs of Panini Happy."
 date: 2011-12-14T07:05:10
 slug: "cheddar-and-apple-butter-panini-with-rosemary-candied-pecans-guest-recipe-from-kathy-strahs-of-panini-happy"
 categories: ["Recipes", "Weblogs"]

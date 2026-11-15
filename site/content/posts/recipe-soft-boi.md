@@ -1,5 +1,6 @@
 ---
 title: "Recipe: Soft-boiled Egg With Shiso and Kochujang (Korean Hot Sauce)"
+description: "Soft-boiled egg with shiso and kochujang (Korean hot sauce), a simple dish dreamed up while sick with pneumonia."
 date: 2008-05-28T19:26:14
 slug: "recipe-soft-boi"
 categories: ["Experiments", "Recipes"]

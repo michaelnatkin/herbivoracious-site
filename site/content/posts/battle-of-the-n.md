@@ -1,5 +1,6 @@
 ---
 title: "Battle of the Network Food Battles"
+description: "Battle of the network food battles: a look at reality cooking shows like The Next Food Network Star."
 date: 2007-07-12T22:58:10
 slug: "battle-of-the-n"
 categories: ["Miscellany"]

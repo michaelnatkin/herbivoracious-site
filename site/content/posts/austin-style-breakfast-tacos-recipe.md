@@ -1,5 +1,6 @@
 ---
 title: "Austin-Style Breakfast Tacos - Recipe"
+description: "Austin-style breakfast tacos, a vegetarian recipe inspired by the author's trips to Austin."
 date: 2013-11-03T10:13:36
 slug: "austin-style-breakfast-tacos-recipe"
 categories: ["Breakfast", "Gluten-Free or modifiable", "Kid Friendly", "Main Courses", "Recipes", "Travel"]

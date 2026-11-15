@@ -1,5 +1,6 @@
 ---
 title: "Saffron Chickpea Stew with Grilled Porcini Mushrooms - Recipe"
+description: "Saffron chickpea stew with grilled porcini mushrooms, which also works with morels or cremini when porcini aren't available."
 date: 2012-06-13T06:02:20
 slug: "saffron-chickpea-stew-with-grilled-porcini-mushroom-recipe"
 categories: ["Gluten-Free or modifiable", "Main Courses", "Recipes", "Vegan or Modifiable"]

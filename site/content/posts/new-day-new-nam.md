@@ -1,5 +1,6 @@
 ---
 title: "New Day, New Name!"
+description: "New day, new name: how The Vegetarian Foodie became Herbivoracious."
 date: 2007-08-24T22:43:20
 slug: "new-day-new-nam"
 categories: ["Miscellany"]

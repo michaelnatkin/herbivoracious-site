@@ -1,5 +1,6 @@
 ---
 title: "Recipe: Warm Winter Greens and Bread Salad"
+description: "Warm winter greens and bread salad, made from braised greens left over from a Cafe Flora dish."
 date: 2007-11-18T20:06:58
 slug: "recipe-warm-win"
 categories: ["Recipes", "Salads", "Vegan or Modifiable"]

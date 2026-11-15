@@ -1,5 +1,6 @@
 ---
 title: "Foraging In Belltown and Downtown Seattle (With Mini-Reviews of Lola, Local Vine, Sazerac, and Wild Ginger)"
+description: "A date night foraging in Belltown and downtown Seattle, with mini-reviews of Lola, Local Vine, Sazerac and Wild Ginger."
 date: 2007-10-28T21:22:48
 slug: "foraging-in-bel"
 categories: ["Restaurants", "Seattle"]

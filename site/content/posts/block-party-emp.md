@@ -1,5 +1,6 @@
 ---
 title: "Block Party Empanadas"
+description: "Block party empanadas: a vegetarian empanada recipe good for neighborhood gatherings and a crowd."
 date: 2007-08-07T22:44:41
 slug: "block-party-emp"
 categories: ["Appetizers", "Recipes"]

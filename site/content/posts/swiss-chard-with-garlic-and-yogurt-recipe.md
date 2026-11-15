@@ -1,5 +1,6 @@
 ---
 title: "Swiss Chard with Garlic and Yogurt - Recipe"
+description: "Swiss chard with garlic and yogurt, an easy Mediterranean meze dish that works well for summer meals."
 date: 2012-07-16T06:00:11
 slug: "swiss-chard-with-garlic-and-yogurt-recipe"
 categories: ["Appetizers", "Gluten-Free or modifiable", "Recipes", "Side Dishes", "Vegan or Modifiable"]

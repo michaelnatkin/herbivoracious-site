@@ -1,5 +1,6 @@
 ---
 title: "Goat Cheese, Asparagus and Beet Salad with Herb Flowers - Recipe"
+description: "Goat cheese, asparagus and beet salad with herb flowers such as chive and rosemary blossoms."
 date: 2009-05-18T05:58:00
 slug: "goat-cheese-asparagus-and-beet-salad-with-herb-flowers-recipe"
 categories: ["Recipes", "Salads"]

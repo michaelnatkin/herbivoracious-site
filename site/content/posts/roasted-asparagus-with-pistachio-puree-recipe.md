@@ -1,5 +1,6 @@
 ---
 title: "Roasted Asparagus with Pistachio Puree - Recipe"
+description: "Roasted asparagus with pistachio puree, inspired by the creamy nut purees at Sitka and Spruce and Bar Sajor."
 date: 2013-04-22T07:00:51
 slug: "roasted-asparagus-with-pistachio-puree-recipe"
 categories: ["Appetizers", "Gluten-Free or modifiable", "Kid Friendly", "Recipes", "Side Dishes", "Vegan or Modifiable"]

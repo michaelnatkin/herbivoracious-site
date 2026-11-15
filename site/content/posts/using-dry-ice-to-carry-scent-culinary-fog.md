@@ -1,5 +1,6 @@
 ---
 title: "Using Dry Ice to Carry Scent - A Culinary Fog"
+description: "Using dry ice to carry scent: how to make a culinary fog, like lapsang souchong fog served with dishes."
 date: 2010-03-08T06:55:00
 slug: "using-dry-ice-to-carry-scent-culinary-fog"
 categories: ["Experiments", "Recipes"]

@@ -1,5 +1,6 @@
 ---
 title: "Recipe: Crostini with Spanish Green Olive Tapenade"
+description: "Crostini with Spanish green olive tapenade, made in a minute in a food processor with orange zest and smoked paprika."
 date: 2008-02-22T06:09:00
 slug: "recipe-crostini-2"
 categories: ["Appetizers", "Recipes", "Vegan or Modifiable"]

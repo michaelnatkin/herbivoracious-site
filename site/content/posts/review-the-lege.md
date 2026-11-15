@@ -1,5 +1,6 @@
 ---
 title: "Review: The Legendary Abulafia Bakery in Jaffa, Israel (near Tel Aviv)"
+description: "Review of Abulafia, the 24-hour streetside bakery in Jaffa near Tel Aviv, open since 1879, including its stuffed sambusac pastries."
 date: 2007-09-13T04:46:00
 slug: "review-the-lege"
 categories: ["Restaurants", "Travel"]

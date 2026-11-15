@@ -1,5 +1,6 @@
 ---
 title: "Korean Yakisoba with French Horn Mushroom, Tofu and 5:10 Egg - Recipe"
+description: "Korean yakisoba with French horn mushroom, tofu and a 5:10 egg: Japanese noodles cooked with Korean flavors."
 date: 2012-05-02T06:05:08
 slug: "korean-yakisoba-with-french-horn-mushroom-tofu-and-510-egg-recipe"
 categories: ["Main Courses", "Recipes"]

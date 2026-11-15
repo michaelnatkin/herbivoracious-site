@@ -1,5 +1,6 @@
 ---
 title: "Burnt Sugar Flan (aka Creme Caramel) - Recipe"
+description: "Burnt sugar flan (crème caramel) from a Rick Bayless classic, made as one large flan that unmolds with a waterfall of caramel."
 date: 2009-09-08T07:50:00
 slug: "burnt-sugar-flan-recipe"
 categories: ["Baking", "Desserts", "Gluten-Free or modifiable"]

@@ -1,5 +1,6 @@
 ---
 title: "Press Kit - Michael Natkin - Herbivoracious"
+description: "Press kit for Michael Natkin and the Herbivoracious cookbook: press release, author Q&A, clippings and sample recipes."
 date: 2012-03-23T11:59:32
 slug: "press-kit"
 ---

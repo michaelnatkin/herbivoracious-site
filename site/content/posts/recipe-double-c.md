@@ -1,5 +1,6 @@
 ---
 title: "Recipe: Double Crust Mac and Cheese"
+description: "Double crust mac and cheese: Sally Schneider's trick of baking half in a casserole and half in a thin layer for extra crunchy top."
 date: 2007-12-04T05:54:00
 slug: "recipe-double-c"
 categories: ["Main Courses", "Recipes"]

@@ -1,5 +1,6 @@
 ---
 title: "Easy Coconut Rice - Recipe"
+description: "Easy coconut rice made with coconut milk and unsweetened dried coconut, a side dish that steals the show."
 date: 2009-03-09T06:03:00
 slug: "coconut-rice-recipe"
 categories: ["Gluten-Free or modifiable", "Kid Friendly", "Recipes", "Side Dishes", "Vegan or Modifiable"]

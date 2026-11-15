@@ -1,5 +1,6 @@
 ---
 title: "Zucchini and Chickpea Tagine - Recipe"
+description: "Zucchini and chickpea tagine recipe, plus what a tagine is: the Moroccan clay pot and the slow-braised dishes cooked in it."
 date: 2012-08-20T06:00:37
 slug: "zucchini-chickpea-tagine-recipe"
 categories: ["Gluten-Free or modifiable", "Recipes", "Vegan or Modifiable"]

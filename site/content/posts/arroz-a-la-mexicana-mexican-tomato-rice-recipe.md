@@ -1,5 +1,6 @@
 ---
 title: "Arroz a la Mexicana (aka Arroz Mexicano, Arroz Rojo, Spanish Rice) - Mexican Tomato Rice - Recipe"
+description: "Arroz a la Mexicana (Mexican tomato rice, also called arroz rojo or Spanish rice), the classic side for Mexican meals."
 date: 2009-12-07T06:51:00
 slug: "arroz-a-la-mexicana-mexican-tomato-rice-recipe"
 categories: ["Gluten-Free or modifiable", "Recipes", "Side Dishes", "Vegan or Modifiable"]

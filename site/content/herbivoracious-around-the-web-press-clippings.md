@@ -1,5 +1,6 @@
 ---
 title: "Herbivoracious Around the Web (Press Clippings)"
+description: "Herbivoracious around the web: press clippings from newspapers, television and websites, including the New York Times."
 date: 2012-03-21T13:23:38
 slug: "herbivoracious-around-the-web-press-clippings"
 ---

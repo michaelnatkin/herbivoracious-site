@@ -1,5 +1,6 @@
 ---
 title: "Polenta with Peperonata - Recipe"
+description: "Polenta with peperonata: slow-roasted bell peppers stewed with sofrito and onions into a meltingly rich sauce."
 date: 2012-03-21T07:05:49
 slug: "polenta-with-pepperonata-recip"
 categories: ["Gluten-Free or modifiable", "Main Courses", "Recipes", "Vegan or Modifiable"]

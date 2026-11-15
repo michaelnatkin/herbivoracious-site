@@ -1,5 +1,6 @@
 ---
 title: "Ubuntu Restaurant, Napa, CA - Restaurant Review"
+description: "Review of Ubuntu in Napa, California, the vegetable-focused restaurant of chef Jeremy Fox."
 date: 2009-07-30T06:35:00
 slug: "ubuntu-restaurant-napa-ca-restaurant-review"
 categories: ["Restaurants"]

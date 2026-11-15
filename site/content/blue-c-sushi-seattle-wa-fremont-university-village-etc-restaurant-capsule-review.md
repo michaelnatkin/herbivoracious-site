@@ -1,5 +1,6 @@
 ---
 title: "Blue C Sushi - Seattle, WA (Fremont, University Village, etc.) - Restaurant Capsule Review"
+description: "Capsule review of Blue C Sushi, a conveyor-belt sushi restaurant with multiple Seattle locations."
 date: 2008-12-03T21:58:12
 slug: "blue-c-sushi-seattle-wa-fremont-university-village-etc-restaurant-capsule-review"
 ---

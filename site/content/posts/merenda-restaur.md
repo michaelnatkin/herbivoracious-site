@@ -1,5 +1,6 @@
 ---
 title: "Review: Merenda Restaurant and Wine Bar, Bend, Oregon"
+description: "Review of Merenda Restaurant and Wine Bar in Bend, Oregon."
 date: 2007-07-10T22:16:41
 slug: "merenda-restaur"
 categories: ["Restaurants"]

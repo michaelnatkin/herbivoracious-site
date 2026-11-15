@@ -1,5 +1,6 @@
 ---
 title: "Mining The Archives - Deliciousness You Might Have Missed"
+description: "Mining the archives: a few delicious older posts you might have missed, including sabich."
 date: 2010-04-01T07:31:00
 slug: "mining-the-archives-deliciousness-you-might-have-missed"
 categories: ["Miscellany"]

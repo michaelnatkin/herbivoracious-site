@@ -1,5 +1,6 @@
 ---
 title: "Recipe: Risotto Cakes With Sherry Gastrique - Vegetarian"
+description: "Risotto cakes with sherry gastrique, a way to turn leftover risotto into crispy, creamy vegetarian cakes."
 date: 2008-03-17T21:59:49
 slug: "recipe-risotto"
 categories: ["Main Courses", "Recipes"]

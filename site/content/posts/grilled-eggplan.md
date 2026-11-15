@@ -1,5 +1,6 @@
 ---
 title: "Recipe: Grilled Eggplant And Shiitake Bruschetta"
+description: "Grilled eggplant and shiitake bruschetta, plus a failed experiment with glazing plates in the microwave."
 date: 2008-06-25T22:44:20
 slug: "grilled-eggplan"
 categories: ["Appetizers", "Experiments", "Recipes"]

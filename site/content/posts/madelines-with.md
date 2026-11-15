@@ -1,5 +1,6 @@
 ---
 title: "Madeleines With Munchkins - Baking With Children"
+description: "Madeleines with munchkins: baking madeleine teacakes at home with children."
 date: 2008-09-04T11:21:16
 slug: "madelines-with"
 categories: ["Baking", "Desserts", "Kid Friendly", "Weblogs"]

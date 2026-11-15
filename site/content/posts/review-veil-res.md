@@ -1,5 +1,6 @@
 ---
 title: "Review: Veil Restaurant, Seattle, WA"
+description: "Review of Veil, an inspiring Seattle restaurant, written the night after dinner."
 date: 2007-08-30T05:02:00
 slug: "review-veil-res"
 categories: ["Restaurants", "Seattle"]

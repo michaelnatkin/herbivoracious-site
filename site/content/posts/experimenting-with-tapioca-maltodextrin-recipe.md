@@ -1,5 +1,6 @@
 ---
 title: "Experimenting with Tapioca Maltodextrin - Recipe"
+description: "Experiments with tapioca maltodextrin, a modern-cuisine ingredient, in a home kitchen."
 date: 2009-05-04T06:10:00
 slug: "experimenting-with-tapioca-maltodextrin-recipe"
 categories: ["Desserts", "Experiments"]

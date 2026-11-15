@@ -1,5 +1,6 @@
 ---
 title: "Chocolate-Chunk Bread Pudding - Recipe"
+description: "Chocolate-chunk bread pudding made with leftover challah or brioche and molten chunks of bittersweet chocolate."
 date: 2009-11-02T06:52:00
 slug: "chocolate-chunk-bread-pudding-recipe"
 categories: ["Baking", "Desserts", "Kid Friendly", "Recipes"]

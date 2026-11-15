@@ -1,5 +1,6 @@
 ---
 title: "Summer Risotto With Corn And Zucchini - Recipe"
+description: "Summer risotto with corn and zucchini, topped with tomato oil. A light entree for a hot day."
 date: 2008-08-25T03:53:00
 slug: "summer-risotto"
 categories: ["Gluten-Free or modifiable", "Kid Friendly", "Main Courses", "Recipes", "Vegan or Modifiable"]

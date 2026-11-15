@@ -1,5 +1,6 @@
 ---
 title: "Triple Smoky Macaroni and Cheese - Recipe"
+description: "Triple smoky macaroni and cheese, a revisit of classic mac and cheese with smoked cheddar, paprika and chipotle."
 date: 2009-06-08T06:28:00
 slug: "smoky-macaroni-and-cheese-recipe"
 categories: ["Main Courses", "Recipes"]

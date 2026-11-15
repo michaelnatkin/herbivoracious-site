@@ -1,5 +1,6 @@
 ---
 title: "Farro and Chickpea Soup - Recipe"
+description: "Farro and chickpea soup, a humble, warming and filling soup for cold days."
 date: 2011-12-12T07:07:08
 slug: "farro-and-chickpea-soup-recipe"
 water_note: "beans"

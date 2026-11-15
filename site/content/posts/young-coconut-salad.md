@@ -1,5 +1,6 @@
 ---
 title: "Young Coconut Salad - Recipe"
+description: "Young coconut salad: tender, custard-like young coconut flesh with pure coconut flavor. Where to find young coconuts."
 date: 2011-01-17T07:03:00
 slug: "young-coconut-salad"
 categories: ["Gluten-Free or modifiable", "Recipes", "Salads", "Vegan or Modifiable"]

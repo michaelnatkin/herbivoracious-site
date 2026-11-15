@@ -1,5 +1,6 @@
 ---
 title: "Flair Taco - Street Food With Good Vegetarian Options - Seattle, WA"
+description: "Review of Flair Taco, a Seattle street food taco truck at 36th and Phinney with good vegetarian options."
 date: 2008-11-22T13:48:00
 slug: "flair-taco-street-food-with-good-vegetarian-options-seattle-wa"
 categories: ["Restaurants", "Seattle"]

@@ -1,5 +1,6 @@
 ---
 title: "Alice's Savory Sweet Life Cookbook - And Her Recipe for Roasted Carrots with Sage Brown Butter"
+description: "Roasted carrots with sage brown butter, a recipe from Alice Currah's Savory Sweet Life cookbook, plus a review of the book."
 date: 2012-06-06T08:16:02
 slug: "alices-savory-sweet-life-cookbook-with-a-recipe-for-roasted-carrots-with-sage-brown-butter"
 categories: ["Books", "Gluten-Free or modifiable", "Recipes", "Side Dishes"]

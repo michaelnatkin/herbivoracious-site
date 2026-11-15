@@ -1,5 +1,6 @@
 ---
 title: "Winter Green Dumplings in Shiitake Broth - Now Live At Cafe Flora"
+description: "Winter green dumplings in shiitake broth, the author's first dish on the Cafe Flora menu."
 date: 2007-12-13T22:56:17
 slug: "winter-green-du"
 categories: ["Cooking Internship", "Main Courses", "Recipes"]

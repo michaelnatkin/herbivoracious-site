@@ -1,5 +1,6 @@
 ---
 title: "The Greatest Veggie Burger. The World Has Ever Known."
+description: "The greatest veggie burger recipe: one that avoids the bland, chemical taste of store-bought and the mushy texture of many homemade patties."
 date: 2013-07-08T06:30:21
 slug: "greatest-veggie-burger"
 categories: ["Kid Friendly", "Main Courses", "Recipes"]

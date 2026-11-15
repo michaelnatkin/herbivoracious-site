@@ -1,5 +1,6 @@
 ---
 title: "Summer, Finally"
+description: "Summer, finally: a day at South 47 Farm picking cucumbers, blackberries and squash, and stunning basil for pesto."
 date: 2007-07-27T23:15:43
 slug: "summer-finally"
 categories: ["Miscellany"]

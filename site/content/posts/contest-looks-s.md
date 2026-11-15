@@ -1,5 +1,6 @@
 ---
 title: "Contest: Looks Sweet, Eats Savory"
+description: "Contest: Looks Sweet, Eats Savory: a challenge to make savory foods that look like sweets."
 date: 2007-08-28T03:58:00
 slug: "contest-looks-s"
 categories: ["Miscellany"]

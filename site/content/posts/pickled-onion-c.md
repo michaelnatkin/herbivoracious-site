@@ -1,5 +1,6 @@
 ---
 title: "Recipe: Pickled Onions Make A Versatile Condiment"
+description: "Pickled onions, a versatile two-minute condiment for tacos and other dishes."
 date: 2008-06-02T22:26:39
 slug: "pickled-onion-c"
 categories: ["Recipes", "Sauces and Condiments"]

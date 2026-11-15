@@ -1,5 +1,6 @@
 ---
 title: "Gateau de Crepes with Chocolate Pastry Cream and Dulce De Leche - Recipes"
+description: "Gâteau de crêpes: about twenty layers of crepes with chocolate pastry cream and dulce de leche, inspired by Amanda Hesser."
 date: 2009-12-15T06:47:00
 slug: "gateaux-de-crepes-recipe"
 categories: ["Desserts", "Kid Friendly", "Recipes"]

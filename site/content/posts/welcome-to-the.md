@@ -1,5 +1,6 @@
 ---
 title: "Welcome To The Weeds"
+description: "Welcome to the weeds: working the pizza and grill station on a busy Friday night at Cafe Flora."
 date: 2007-11-12T05:32:00
 slug: "welcome-to-the"
 categories: ["Cooking Internship"]

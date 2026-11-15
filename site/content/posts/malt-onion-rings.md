@@ -1,5 +1,6 @@
 ---
 title: "Cheese Battered Onion Rings and Stout Chocolate Malt - Recipe"
+description: "Cheese-battered onion rings and a stout chocolate malt, a vegetarian recipe for crispy onion rings."
 date: 2009-07-20T06:25:00
 slug: "malt-onion-rings"
 categories: ["Appetizers", "Desserts", "Experiments", "Recipes"]

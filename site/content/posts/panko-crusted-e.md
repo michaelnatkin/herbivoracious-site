@@ -1,5 +1,6 @@
 ---
 title: "Recipe: Panko-Crusted Egg With Cherry Smoked Asparagus, Smoked Paprika, And Sherry Gastrique"
+description: "Panko-crusted egg with cherry-smoked asparagus, smoked paprika and sherry gastrique, from an underground dinner party."
 date: 2008-06-05T16:58:38
 slug: "panko-crusted-e"
 categories: ["Appetizers", "Experiments", "Recipes"]

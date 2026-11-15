@@ -1,5 +1,6 @@
 ---
 title: "Volterra - Italian - Seattle (Ballard Neighborhood) - Capsule Restaurant Review"
+description: "Capsule review of Volterra, a modern Italian restaurant in Ballard, Seattle."
 date: 2009-07-12T07:21:39
 slug: "volterra-italian-seattle-ballard-neighborhood-capsule-restaurant-review"
 ---

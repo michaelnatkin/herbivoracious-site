@@ -1,5 +1,6 @@
 ---
 title: "Good Stuff from Bourbon Barrel Foods"
+description: "Good stuff from Bourbon Barrel Foods, the Louisville, Kentucky company making bourbon-based pantry products."
 date: 2009-09-24T06:20:00
 slug: "good-stuff-from-bourbon-barrel-foods"
 categories: ["My Kitchen", "Sauces and Condiments"]

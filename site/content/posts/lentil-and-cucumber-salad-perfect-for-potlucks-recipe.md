@@ -1,5 +1,6 @@
 ---
 title: "Lentil and Cucumber Salad - Perfect for Potlucks - Recipe"
+description: "Lentil and cucumber salad for potlucks and picnics, with a trick: salt and drain the cucumbers so they don't water down the dressing."
 date: 2013-06-16T07:33:22
 slug: "lentil-and-cucumber-salad-perfect-for-potlucks-recipe"
 categories: ["Gluten-Free or modifiable", "Kid Friendly", "Main Courses", "Recipes", "Salads", "Vegan or Modifiable"]

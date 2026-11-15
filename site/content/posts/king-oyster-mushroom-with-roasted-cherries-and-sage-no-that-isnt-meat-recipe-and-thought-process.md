@@ -1,5 +1,6 @@
 ---
 title: "King Oyster Mushroom with Roasted Cherries and Sage - No, That Isn't Meat - Thought Process"
+description: "King oyster mushroom with roasted cherries and sage: how a vegetarian dish gets its inspiration, step by step."
 date: 2012-07-23T06:00:00
 slug: "king-oyster-mushroom-with-roasted-cherries-and-sage-no-that-isnt-meat-recipe-and-thought-process"
 categories: ["Experiments", "Sauces and Condiments"]

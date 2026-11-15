@@ -1,5 +1,6 @@
 ---
 title: "Mexican Panzanella Salad"
+description: "Mexican panzanella salad, a bread salad with Mexican flavors that serves six, made on a boat in the San Juan Islands."
 date: 2007-07-16T20:21:51
 slug: "mexican-panzane"
 categories: ["Recipes", "Salads", "Vegan or Modifiable"]

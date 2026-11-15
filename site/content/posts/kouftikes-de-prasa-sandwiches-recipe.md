@@ -1,5 +1,6 @@
 ---
 title: "Kouftikes de Prasa Sandwiches - Recipe"
+description: "Kouftikes de prasa sandwiches, a leek patty (kofta) sandwich from the Herbivoracious cookbook."
 date: 2012-04-04T06:02:19
 slug: "kouftikes-de-prasa-sandwiches-recipe"
 categories: ["Kid Friendly", "Main Courses", "Recipes"]

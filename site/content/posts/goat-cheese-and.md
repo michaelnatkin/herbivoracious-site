@@ -1,5 +1,6 @@
 ---
 title: "Goat Cheese And Fig Buttons?"
+description: "Goat cheese and fig buttons: a quick improvised appetizer of goat cheese with figs."
 date: 2008-09-10T21:38:23
 slug: "goat-cheese-and"
 categories: ["Appetizers", "Experiments"]

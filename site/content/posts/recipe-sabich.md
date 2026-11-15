@@ -1,5 +1,6 @@
 ---
 title: "Sabich - Iraqi Jewish Eggplant Sandwich - Recipe"
+description: "Sabich, the Iraqi-Jewish eggplant sandwich with fried eggplant and hardboiled egg, in pita with salad and tahini."
 date: 2008-04-26T00:06:45
 slug: "recipe-sabich"
 categories: ["Favorites", "Main Courses", "Recipes", "Vegan or Modifiable"]

@@ -1,5 +1,6 @@
 ---
 title: "Fair Trade Month - And A Fair Trade Gift Box Giveaway"
+description: "Fair Trade Month and a fair trade gift box giveaway, with an explanation of what fair trade really means."
 date: 2012-10-01T06:00:00
 slug: "fair-trade-month-win-yourself-a-nice-gift-pack"
 categories: ["Contests"]

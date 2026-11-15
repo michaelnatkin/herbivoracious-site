@@ -1,5 +1,6 @@
 ---
 title: "Latin-American French Lentil Salad - Recipe"
+description: "Latin-American French lentil salad: green lentils with bold flavors, a rustic salad free of limp, overdressed 80s versions."
 date: 2009-09-10T06:50:26
 slug: "french-lentil-salad-recipe"
 categories: ["Gluten-Free or modifiable", "Recipes", "Salads", "Vegan or Modifiable"]

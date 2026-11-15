@@ -1,5 +1,6 @@
 ---
 title: "Kicking It Old School"
+description: "Kicking it old school: a look back at some favorite older Herbivoracious posts."
 date: 2009-06-19T09:48:00
 slug: "kicking-it-old-school"
 categories: ["Recipes"]

@@ -1,5 +1,6 @@
 ---
 title: "Eggplant in Kaffir-Lime Scented Coconut Milk Curry - Recipe"
+description: "Eggplant in a kaffir-lime scented coconut milk curry, a mild dish with some of the flavors of Thai green curry."
 date: 2010-02-22T07:02:00
 slug: "eggplant-kaffir-lime-coconut-milk-curry-recipe"
 categories: ["Gluten-Free or modifiable", "Main Courses", "Recipes", "Vegan or Modifiable"]

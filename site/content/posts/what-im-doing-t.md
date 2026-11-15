@@ -1,5 +1,6 @@
 ---
 title: "What I'm Doing This Weekend"
+description: "What I'm doing this weekend: turning 25 pounds of just-picked Washington asparagus into dinner for 16."
 date: 2008-05-16T19:19:54
 slug: "what-im-doing-t"
 categories: ["Miscellany"]

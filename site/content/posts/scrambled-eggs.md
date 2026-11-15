@@ -1,5 +1,6 @@
 ---
 title: "Scrambled Eggs With Epazote And Poblanos"
+description: "Scrambled eggs with epazote and poblanos, using the resinous Mexican herb epazote that's worth tracking down."
 date: 2008-10-06T07:45:00
 slug: "scrambled-eggs"
 categories: ["Breakfast", "Recipes"]

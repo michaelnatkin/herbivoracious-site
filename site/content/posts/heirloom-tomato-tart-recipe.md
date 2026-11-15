@@ -1,5 +1,6 @@
 ---
 title: "Heirloom Tomato Tart - Recipe"
+description: "Heirloom tomato tart with aged provolone, Purple Cherokee and Sungold tomatoes and basil."
 date: 2009-08-27T06:40:00
 slug: "heirloom-tomato-tart-recipe"
 categories: ["Baking", "Main Courses", "Recipes"]

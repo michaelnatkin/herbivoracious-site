@@ -1,5 +1,6 @@
 ---
 title: "Chocolate, Chocolate and More Chocolate"
+description: "The Seattle Luxury Chocolate Salon: a look at the chocolatiers that show up to sample their wares."
 date: 2009-06-24T15:47:31
 slug: "seattle-chocolate-salon-theo-chocolopolis"
 categories: ["Desserts", "Seattle"]

@@ -1,5 +1,6 @@
 ---
 title: "Falafel In The Old City, Jerusalem, Israel"
+description: "Falafel in the Old City of Jerusalem, fried to order and better than most falafel in America."
 date: 2007-09-05T03:55:00
 slug: "falafel-in-the"
 categories: ["Restaurants", "Travel"]

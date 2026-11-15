@@ -1,5 +1,6 @@
 ---
 title: "Marination Mobile - Hawaiian / Korean Curb Cuisine - Restaurant Review - Seattle, WA"
+description: "Review of Marination Mobile, a Seattle food truck serving Hawaiian and Korean curb cuisine."
 date: 2009-07-09T06:05:00
 slug: "marination-mobile-hawaiian-korean-curb-cuisine-restaurant-review-seattle-wa"
 categories: ["Restaurants", "Seattle"]

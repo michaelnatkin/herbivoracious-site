@@ -1,5 +1,6 @@
 ---
 title: "How To Find A Good Restaurant on Short Notice"
+description: "How to find a good restaurant on short notice when you haven't done your research."
 date: 2007-10-03T23:01:18
 slug: "how-to-find-a-g"
 categories: ["Restaurants", "Travel"]

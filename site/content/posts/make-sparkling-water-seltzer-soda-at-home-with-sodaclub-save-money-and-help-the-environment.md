@@ -1,5 +1,6 @@
 ---
 title: "Make Sparkling Water or Soda at Home with SodaStream - Save Money and Help The Environment"
+description: "Make sparkling water or soda at home with a SodaStream, and save money and bottles."
 date: 2009-04-27T06:13:00
 slug: "make-sparkling-water-seltzer-soda-at-home-with-sodaclub-save-money-and-help-the-environment"
 categories: ["My Kitchen", "Small Appliances"]

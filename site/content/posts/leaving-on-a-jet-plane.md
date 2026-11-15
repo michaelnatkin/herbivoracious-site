@@ -1,5 +1,6 @@
 ---
 title: "Leaving on a Jet Plane"
+description: "Leaving on a jet plane: the Herbivoracious cookbook tour, with stops in San Francisco, Los Angeles and Austin."
 date: 2012-04-26T06:00:59
 slug: "leaving-on-a-jet-plane"
 categories: ["Cookbook Project"]

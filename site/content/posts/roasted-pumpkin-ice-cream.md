@@ -1,5 +1,6 @@
 ---
 title: "Roasted Pumpkin Ice Cream - Recipe"
+description: "Roasted pumpkin ice cream, made without pumpkin pie spices to suit a plated dessert with Japanese flavors."
 date: 2013-10-07T05:50:29
 slug: "roasted-pumpkin-ice-cream"
 categories: ["Desserts", "Gluten-Free or modifiable", "Recipes"]

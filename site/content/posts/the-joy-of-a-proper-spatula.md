@@ -1,5 +1,6 @@
 ---
 title: "The Joy of a Proper Spatula"
+description: "The joy of a proper spatula: why a thin-edged, strong, flexible LamsonSharp turner beats most spatulas."
 date: 2012-08-01T06:00:11
 slug: "the-joy-of-a-proper-spatula"
 categories: ["Kitchen Utensils", "My Kitchen"]

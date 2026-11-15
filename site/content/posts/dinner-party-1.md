@@ -1,5 +1,6 @@
 ---
 title: "Herbivoracious Dinner Party #1"
+description: "Herbivoracious Dinner Party #1, a pop-up asparagus dinner featuring buckwheat blini with asparagus caviar."
 date: 2008-05-24T09:53:44
 slug: "dinner-party-1"
 categories: ["Miscellany"]

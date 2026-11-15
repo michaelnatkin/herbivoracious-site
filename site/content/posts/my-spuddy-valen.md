@@ -1,5 +1,6 @@
 ---
 title: "My Spuddy Valentine"
+description: "My spuddy Valentine: a russet potato shaped like a heart, found at Cafe Flora."
 date: 2008-02-04T17:18:33
 slug: "my-spuddy-valen"
 categories: ["Miscellany"]

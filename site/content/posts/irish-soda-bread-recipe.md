@@ -1,5 +1,6 @@
 ---
 title: "Irish Soda Bread - Recipe"
+description: "Irish soda bread leavened with baking soda and buttermilk, ready in under an hour. Works with half whole wheat flour."
 date: 2008-11-10T06:53:00
 slug: "irish-soda-bread-recipe"
 categories: ["Baking", "Breakfast", "Kid Friendly", "Recipes", "Side Dishes"]

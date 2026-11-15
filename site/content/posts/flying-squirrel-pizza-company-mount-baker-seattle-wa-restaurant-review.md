@@ -1,5 +1,6 @@
 ---
 title: "Flying Squirrel Pizza Company, Seward Park, Seattle, WA - Restaurant Review"
+description: "Review of Flying Squirrel Pizza Company in Seattle, including the #8 pie with free-range egg, buffalo mozzarella, arugula and red onion."
 date: 2009-03-19T06:42:00
 slug: "flying-squirrel-pizza-company-mount-baker-seattle-wa-restaurant-review"
 categories: ["Restaurants", "Seattle"]

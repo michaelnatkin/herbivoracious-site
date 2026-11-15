@@ -1,5 +1,6 @@
 ---
 title: "Microplane - The Grater That Changes Everything"
+description: "Microplane, the grater that changes everything: for hard cheese, ginger, citrus zest and nutmeg."
 date: 2012-10-10T16:24:44
 slug: "microplane-the-grater-that-changes-everything"
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Understanding Deadly Food Allergies - This Post Could Save A Life"
+description: "Understanding deadly food allergies: why anaphylaxis is so dangerous and what every cook and host should know."
 date: 2009-02-02T21:35:12
 slug: "understanding-deadly-food-allergies-this-post-could-save-a-life"
 categories: ["Favorites", "Miscellany", "Theory and Rants"]

@@ -1,5 +1,6 @@
 ---
 title: "100th Post Celebration"
+description: "100th post celebration for Herbivoracious, a look back at the first hundred posts."
 date: 2007-12-12T23:53:49
 slug: "herbivoraciouss"
 categories: ["Miscellany"]

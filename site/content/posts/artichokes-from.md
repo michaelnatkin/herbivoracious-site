@@ -1,5 +1,6 @@
 ---
 title: "Artichokes From The Garden"
+description: "The first edible artichokes from the garden."
 date: 2007-09-04T04:41:00
 slug: "artichokes-from"
 categories: ["Miscellany"]

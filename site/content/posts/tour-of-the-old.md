@@ -1,5 +1,6 @@
 ---
 title: "Tour of the Old City of Jerusalem (with More Falafel and Pomegranate Juice)"
+description: "A tour of the Old City of Jerusalem with a guide, plus falafel and pomegranate juice."
 date: 2007-09-07T03:55:00
 slug: "tour-of-the-old"
 categories: ["Travel"]

@@ -1,5 +1,6 @@
 ---
 title: "Avocado and Tomatillo Salsa - Recipe"
+description: "Avocado and tomatillo salsa, a creamy green salsa like those on the tables of San Francisco Mission taquerias."
 date: 2012-09-27T06:00:56
 slug: "avocado-and-tomatillo-salsa-recipe"
 categories: ["Gluten-Free or modifiable", "Recipes", "Sauces and Condiments", "Vegan or Modifiable"]

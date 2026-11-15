@@ -1,5 +1,6 @@
 ---
 title: "Poha (Flattened Rice) with Coconut and Cashews - Recipe"
+description: "Poha, or flattened rice, with coconut and cashews. A quick-cooking Indian dish that comes together fast."
 date: 2012-03-14T06:04:34
 slug: "poha-flattened-rice-with-coconut-and-cashews-recipe"
 categories: ["Gluten-Free or modifiable", "Main Courses", "Recipes", "Side Dishes", "Vegan or Modifiable"]

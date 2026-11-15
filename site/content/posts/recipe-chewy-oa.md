@@ -1,5 +1,6 @@
 ---
 title: "Recipe: Chewy Oatmeal-Chocolate Chip Cookies"
+description: "Chewy oatmeal-chocolate chip cookies with more salt, more chocolate and chilled dough."
 date: 2008-06-07T07:52:28
 slug: "recipe-chewy-oa"
 categories: ["Baking", "Desserts", "Kid Friendly"]

@@ -1,5 +1,6 @@
 ---
 title: "A Happy Welcome Home"
+description: "A happy welcome home from a month in Italy and Israel, with burekas, bulemas and pumpkin filas from Noni Sophie."
 date: 2007-10-01T14:14:42
 slug: "a-happy-welcome"
 categories: ["Travel"]

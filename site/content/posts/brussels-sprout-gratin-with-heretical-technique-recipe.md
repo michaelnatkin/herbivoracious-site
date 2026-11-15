@@ -1,5 +1,6 @@
 ---
 title: "Brussels Sprout Gratin - With Heretical Technique - Recipe"
+description: "Brussels sprout gratin made with a heretical technique, a French-style gratin for the trendy vegetable."
 date: 2010-01-18T06:59:00
 slug: "brussels-sprout-gratin-with-heretical-technique-recipe"
 categories: ["Recipes", "Side Dishes"]

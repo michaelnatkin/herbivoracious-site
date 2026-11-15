@@ -1,5 +1,6 @@
 ---
 title: "Fried Pita Bread with Fava Beans and Zucchini - Recipe"
+description: "Fried pita bread pieces with fava beans and zucchini, a late-night snack that makes good use of stale pita."
 date: 2013-08-20T06:23:58
 slug: "fried-pita-bread-with-fava-beans-and-zucchini-recipe"
 categories: ["Main Courses", "Recipes", "Vegan or Modifiable"]

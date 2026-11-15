@@ -1,5 +1,6 @@
 ---
 title: "Huevos Ahogados En Salsa Verde - \"Drowned Eggs\" - Recipe"
+description: "Huevos ahogados en salsa verde, or drowned eggs: Mexican eggs poached directly in a thin salsa verde."
 date: 2009-02-09T06:32:00
 slug: "huevos-ahogados-drowned-eggs-recipe"
 categories: ["Breakfast", "Gluten-Free or modifiable", "Recipes"]

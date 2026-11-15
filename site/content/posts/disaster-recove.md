@@ -1,5 +1,6 @@
 ---
 title: "Disaster Recovery Fruit Pie"
+description: "Disaster recovery fruit pie, a pie made when a bowl of fruit and fruit flies led to a baking rescue."
 date: 2007-08-04T10:18:48
 slug: "disaster-recove"
 categories: ["Desserts", "Recipes"]

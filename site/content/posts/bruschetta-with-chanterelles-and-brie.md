@@ -1,6 +1,6 @@
 ---
-
-## title: "Bruschetta With Chanterelles and Brie"
+title: "Bruschetta With Chanterelles and Brie"
+description: "Chanterelle and Brie bruschetta, a simple appetizer that highlights the earthy, sweet flavor of the mushrooms."
 date: 2008-12-05T06:40:00
 slug: "bruschetta-with-chanterelles-and-brie"
 categories: ["Appetizers", "Recipes"]

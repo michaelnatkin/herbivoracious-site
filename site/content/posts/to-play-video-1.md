@@ -1,5 +1,6 @@
 ---
 title: "Guest Chef on The Waterfront"
+description: "Guest Chef on the Waterfront: the Farestart fundraiser dinner in Seattle."
 date: 2007-07-11T20:59:55
 slug: "to-play-video-1"
 categories: ["Miscellany"]

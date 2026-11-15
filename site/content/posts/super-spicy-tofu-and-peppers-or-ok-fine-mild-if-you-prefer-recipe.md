@@ -1,5 +1,6 @@
 ---
 title: "Super Spicy Tofu And Peppers - Or, OK Fine, Mild If You Prefer - Recipe"
+description: "Super spicy tofu and peppers, a Chinese restaurant-style dish you can make as hot or as mild as you like."
 date: 2012-06-04T06:00:48
 slug: "super-spicy-tofu-and-peppers-or-ok-fine-mild-if-you-prefer-recipe"
 categories: ["Gluten-Free or modifiable", "Recipes", "Vegan or Modifiable"]

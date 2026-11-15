@@ -1,5 +1,6 @@
 ---
 title: "Dinner For One, My Take"
+description: "Dinner for one, my take: a satisfying secret favorite you'd never serve to company."
 date: 2007-07-31T07:55:30
 slug: "dinner-for-one"
 categories: ["Main Courses", "Recipes"]

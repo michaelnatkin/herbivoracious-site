@@ -1,5 +1,6 @@
 ---
 title: "Vegetarian Paella With Artichokes And Green Beans - Recipe"
+description: "Vegetarian paella with baby artichokes and green beans, with saffron and tomato rice and a caramelized crust (socarrat)."
 date: 2008-07-09T22:08:56
 slug: "vegetarian-pael"
 categories: ["Kid Friendly", "Main Courses", "Recipes", "Vegan or Modifiable"]

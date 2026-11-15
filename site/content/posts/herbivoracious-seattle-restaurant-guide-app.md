@@ -1,5 +1,6 @@
 ---
 title: "My Seattle Restaurant Guide App"
+description: "My Seattle restaurant guide app: where to eat in Seattle, including the best vegetarian options."
 date: 2012-08-08T06:00:59
 slug: "herbivoracious-seattle-restaurant-guide-app"
 categories: ["Seattle", "Travel"]

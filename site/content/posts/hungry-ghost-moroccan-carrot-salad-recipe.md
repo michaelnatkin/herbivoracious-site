@@ -1,5 +1,6 @@
 ---
 title: "Hungry Ghost Moroccan Carrot Salad - Recipe"
+description: "Hungry Ghost Moroccan carrot salad, a recipe from Ellen Kanner's Feed the Hungry Ghost."
 date: 2013-05-13T05:47:52
 slug: "hungry-ghost-moroccan-carrot-salad-recipe"
 categories: ["Books", "Events", "Gluten-Free or modifiable", "Recipes", "Vegan or Modifiable"]

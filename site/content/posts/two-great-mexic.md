@@ -1,5 +1,6 @@
 ---
 title: "Two Great Mexican Cookbooks"
+description: "Two great Mexican cookbooks, including Rick Bayless's Authentic Mexican, with an avocado-mango salad recipe."
 date: 2007-07-10T21:12:12
 slug: "two-great-mexic"
 categories: ["Books"]

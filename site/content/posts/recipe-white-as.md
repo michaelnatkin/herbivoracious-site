@@ -1,5 +1,6 @@
 ---
 title: "Recipe: Raw White Asparagus Salad with Watercress and Romano - Vegetarian"
+description: "Raw white asparagus salad with watercress and romano, tested for an asparagus tasting menu dinner party."
 date: 2008-03-28T23:22:32
 slug: "recipe-white-as"
 categories: ["Recipes", "Salads", "Vegan or Modifiable"]

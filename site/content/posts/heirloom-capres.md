@@ -1,5 +1,6 @@
 ---
 title: "Heirloom Caprese and a Grilled Zucchini and Tofu"
+description: "Heirloom caprese and grilled zucchini with tofu, simple summer plates that need no recipe."
 date: 2007-07-20T11:07:05
 slug: "heirloom-capres"
 categories: ["Appetizers", "Recipes"]

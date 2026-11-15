@@ -1,5 +1,6 @@
 ---
 title: "Recipe: Veggie Chili Beans with Cornbread Dumplings"
+description: "Veggie chili beans with cornbread dumplings, comfort food for a vegetarian dinner."
 date: 2008-03-10T04:15:00
 slug: "recipe-veggie-c"
 categories: ["Main Courses", "Recipes"]

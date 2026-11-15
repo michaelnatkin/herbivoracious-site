@@ -1,5 +1,6 @@
 ---
 title: "Summer Vegetarian Antipasto From Leftovers, Odds & Ends"
+description: "Summer vegetarian antipasto from leftovers and odds and ends: a generous platter for hot days when you don't want to cook."
 date: 2008-08-28T14:46:51
 slug: "summer-leftover"
 categories: ["Appetizers", "Gluten-Free or modifiable", "Recipes", "Salads", "Vegan or Modifiable"]

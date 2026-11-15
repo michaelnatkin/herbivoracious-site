@@ -1,5 +1,6 @@
 ---
 title: "Chopped Salad - Revisiting A Classic Recipe"
+description: "Chopped salad, a classic revisited: all the ingredients cut to about 1/2-inch cubes, great as a side or an entree salad."
 date: 2010-04-05T04:00:00
 slug: "chopped-salad-revisiting-a-classic-recipe"
 categories: ["Favorites", "Gluten-Free or modifiable", "Salads", "Vegan or Modifiable"]

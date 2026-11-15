@@ -1,5 +1,6 @@
 ---
 title: "Recipe: Crostini with Fromage Forte"
+description: "Crostini with fromage forte, a strong cheese spread from Jacques Pepin that uses up odds and ends of good cheese."
 date: 2008-02-16T06:43:00
 slug: "recipe-crosti-1"
 categories: ["Appetizers", "Recipes"]

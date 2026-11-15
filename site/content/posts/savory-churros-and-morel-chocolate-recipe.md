@@ -1,5 +1,6 @@
 ---
 title: "Savory Churros and Morel \"Hot Chocolate\" - Recipe plus an Invite To Dinner"
+description: "Savory churros with a morel 'hot chocolate': a Spanish-inspired recipe from an underground dinner party menu."
 date: 2009-01-05T05:54:00
 slug: "savory-churros-and-morel-chocolate-recipe"
 categories: ["Appetizers", "Experiments", "Gluten-Free or modifiable", "Recipes"]

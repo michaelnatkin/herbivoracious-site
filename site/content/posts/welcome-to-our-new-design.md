@@ -1,5 +1,6 @@
 ---
 title: "Welcome to our New Design"
+description: "Welcome to the new Herbivoracious design, built by the author's brother, a graphic and web designer."
 date: 2009-03-11T09:41:06
 slug: "welcome-to-our-new-design"
 categories: ["Miscellany"]

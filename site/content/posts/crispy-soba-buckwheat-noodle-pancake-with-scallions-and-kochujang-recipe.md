@@ -1,5 +1,6 @@
 ---
 title: "Crispy Soba Noodle Pancakes with Scallions and Gochujang - Recipe"
+description: "Crispy soba noodle pancakes with scallions and gochujang, a great way to use leftover cooked soba noodles."
 date: 2009-04-20T06:12:00
 slug: "crispy-soba-buckwheat-noodle-pancake-with-scallions-and-kochujang-recipe"
 categories: ["Appetizers", "Recipes", "Side Dishes"]

@@ -1,5 +1,6 @@
 ---
 title: "Seattlest + Last Week For South 47 Farm"
+description: "A thank-you to Seattlest, plus photos of produce at South 47 Farm in Redmond, Washington during its last week."
 date: 2007-10-24T14:12:25
 slug: "seattlest-last"
 categories: ["Cooking Internship", "Seattle"]

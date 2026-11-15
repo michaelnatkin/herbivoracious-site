@@ -1,5 +1,6 @@
 ---
 title: "Shanghai Garden - Seattle, International District - Capsule Restaurant Review"
+description: "Capsule review of Shanghai Garden in Seattle's International District, a family favorite for Chinese food."
 date: 2008-11-30T22:38:44
 slug: "shanghai-garden-seattle-international-district-capsule-restaurant-review"
 ---

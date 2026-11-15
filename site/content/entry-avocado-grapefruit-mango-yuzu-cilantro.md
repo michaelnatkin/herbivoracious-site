@@ -1,5 +1,6 @@
 ---
 title: "Avocado, Grapefruit, Mango, Yuzu, Cilantro"
+description: "Avocado, grapefruit, mango, yuzu and cilantro: playing with cuts and textures of favorite raw ingredients."
 date: 2010-05-07T20:08:30
 slug: "entry-avocado-grapefruit-mango-yuzu-cilantro"
 ---

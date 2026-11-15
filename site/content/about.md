@@ -1,5 +1,6 @@
 ---
 title: "About Herbivoracious"
+description: "About Herbivoracious: reinvigorating vegetarian cuisine with modern techniques and bold, authentic flavors, by Michael Natkin."
 date: 2007-07-16T20:26:12
 slug: "about"
 layout: "page"

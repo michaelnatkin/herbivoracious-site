@@ -1,5 +1,6 @@
 ---
 title: "Restaurant Review: Txori in Belltown, Seattle"
+description: "Review of Txori, the Basque tapas bar in Belltown, Seattle, from a vegetarian's perspective."
 date: 2008-04-09T07:03:41
 slug: "restaurant-revi-2"
 categories: ["Restaurants"]

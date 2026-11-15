@@ -1,5 +1,6 @@
 ---
 title: "Foraging Tour of The Sea of Galilee (Kinneret) And The Golan Heights"
+description: "A foraging tour of the Sea of Galilee (Kinneret) and the Golan Heights, with a stay at Vered Hagalil Guest Ranch."
 date: 2007-09-12T04:33:00
 slug: "foraging-tour-o"
 categories: ["Travel"]

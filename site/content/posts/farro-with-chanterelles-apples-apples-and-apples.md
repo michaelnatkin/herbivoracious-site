@@ -1,5 +1,6 @@
 ---
 title: "Farro with Chanterelles, Apples, Apples and Apples"
+description: "Farro with chanterelles and King apples, a fall dish built on the flavors of chanterelle season."
 date: 2008-10-27T22:13:20
 slug: "farro-with-chanterelles-apples-apples-and-apples"
 categories: ["Main Courses", "Recipes"]

@@ -1,5 +1,6 @@
 ---
 title: "Strawberries and Cream Birthday Cake, Momofuku Milk Bar Style"
+description: "Strawberries and cream birthday cake, Momofuku Milk Bar style: a 6-inch layer cake that serves 8, from the Milk Bar cookbook."
 date: 2012-11-05T06:00:57
 slug: "strawberries-and-cream-birthday-cake-momofuku-style"
 categories: ["Books", "Desserts", "Recipes"]

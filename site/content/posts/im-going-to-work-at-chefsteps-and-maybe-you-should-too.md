@@ -1,5 +1,6 @@
 ---
 title: "I'm Going To Work At ChefSteps. And Maybe You Should Too."
+description: "Going to work at ChefSteps, the company from alumni of the Modernist Cuisine team, and a job opening there."
 date: 2012-11-18T00:02:03
 slug: "im-going-to-work-at-chefsteps-and-maybe-you-should-too"
 categories: ["Miscellany"]

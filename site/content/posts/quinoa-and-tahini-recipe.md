@@ -1,5 +1,6 @@
 ---
 title: "Quinoa with Tahina Sauce, Tofu and Green Beans - High Protein, Tasty Hippie Food - Recipe"
+description: "Quinoa with tahina sauce, tofu and green beans: a high-protein, healthy vegetarian dish with a creamy tahini dressing."
 date: 2009-06-12T06:28:00
 slug: "quinoa-and-tahini-recipe"
 categories: ["Gluten-Free or modifiable", "Kid Friendly", "Main Courses", "Recipes", "Vegan or Modifiable"]

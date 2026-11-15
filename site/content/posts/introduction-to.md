@@ -1,5 +1,6 @@
 ---
 title: "Introduction to an Imaginary Cookbook, Part 1"
+description: "Introduction to an imaginary cookbook, part 1: first culinary memories, starting with a mother's breaded veal."
 date: 2008-09-22T03:28:00
 slug: "introduction-to"
 categories: ["Miscellany"]

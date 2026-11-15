@@ -1,5 +1,6 @@
 ---
 title: "Garlic Scape, Ricotta and Zatar Pizza"
+description: "Garlic scape, ricotta and za'atar pizza, a farmer's market pizza made with garlic scapes."
 date: 2008-07-01T06:00:00
 slug: "garlic-scape-ri"
 categories: ["Main Courses", "Recipes"]

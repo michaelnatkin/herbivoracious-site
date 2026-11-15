@@ -1,5 +1,6 @@
 ---
 title: "The Dirt Candy Cookbook - Review"
+description: "Review of the Dirt Candy cookbook by chef Amanda Cohen."
 date: 2012-10-19T06:00:37
 slug: "the-dirt-candy-cookbook-review"
 categories: ["Books", "My Kitchen"]

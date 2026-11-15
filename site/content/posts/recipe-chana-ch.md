@@ -1,5 +1,6 @@
 ---
 title: "Chana Chaat in a Papadum Bowl - Recipe"
+description: "Chana chaat in a papadum bowl, a cold or room-temperature Indian chickpea street snack."
 date: 2008-02-02T20:19:50
 slug: "recipe-chana-ch"
 categories: ["Appetizers", "Experiments", "Recipes", "Vegan or Modifiable"]

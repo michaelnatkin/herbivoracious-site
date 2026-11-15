@@ -1,5 +1,6 @@
 ---
 title: "Green Garlic and Mint Potato Salad - Recipe"
+description: "Green garlic and mint potato salad, made with the early summer shoots of immature garlic from the farmer's market."
 date: 2012-06-11T06:00:58
 slug: "green-garlic-and-mint-potato-salad-recipe"
 categories: ["Gluten-Free or modifiable", "Recipes", "Side Dishes", "Vegan or Modifiable"]

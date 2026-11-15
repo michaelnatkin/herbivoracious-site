@@ -1,5 +1,6 @@
 ---
 title: "Best Kosher for Passover Wines"
+description: "Best kosher for Passover wines: nine wines tasted at an event hosted by JTNews."
 date: 2010-03-09T19:47:57
 slug: "best-kosher-for-passover-wines"
 ---

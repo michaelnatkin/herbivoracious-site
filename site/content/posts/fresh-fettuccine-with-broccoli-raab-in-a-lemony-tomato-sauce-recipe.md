@@ -1,5 +1,6 @@
 ---
 title: "Fresh Fettuccine with Broccoli Raab in a Lemony Tomato Sauce - Recipe"
+description: "Fresh fettuccine with broccoli raab in a lemony tomato sauce with white wine, a farmer's market pasta."
 date: 2010-05-20T07:01:00
 slug: "fresh-fettuccine-with-broccoli-raab-in-a-lemony-tomato-sauce-recipe"
 categories: ["Main Courses", "Recipes"]

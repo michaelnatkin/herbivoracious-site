@@ -1,5 +1,6 @@
 ---
 title: "Potatoes with Alioli - Ultra Garlicky Spanish Mayonnaise"
+description: "Potatoes with alioli, the ultra-garlicky Spanish mayonnaise that comes together in minutes and goes with any vegetable."
 date: 2008-12-18T15:03:47
 slug: "potatoes-alioli"
 categories: ["Gluten-Free or modifiable", "Recipes", "Sauces and Condiments"]

@@ -1,5 +1,6 @@
 ---
 title: "Saffron Risotto with Watercress Puree and Spring Vegetables - Recipe"
+description: "Saffron risotto with watercress puree and spring vegetables, a vegetarian risotto that highlights spring produce."
 date: 2013-04-01T06:00:43
 slug: "saffron-risotto-with-watercress-puree-and-spring-vegetables-recipe"
 categories: ["Gluten-Free or modifiable", "Main Courses", "Recipes"]

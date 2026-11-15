@@ -1,5 +1,6 @@
 ---
 title: "On The Mathematics of Bran Muffins"
+description: "On the mathematics of bran muffins: how baking ratios work and how to improvise baking recipes."
 date: 2007-09-20T04:30:00
 slug: "on-the-mathemat"
 categories: ["Baking", "Breakfast", "Experiments"]

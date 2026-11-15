@@ -1,5 +1,6 @@
 ---
 title: "Warm Fava Bean (Ful) Salad with Tamarind Dressing - Recipe"
+description: "Warm fava bean (ful) salad with a tamarind dressing and Aleppo pepper, with notes on choosing dried fava beans."
 date: 2009-10-26T08:37:00
 slug: "fava-bean-ful-salad-with-tamarind-dressing-recipe"
 categories: ["Gluten-Free or modifiable", "Recipes", "Salads", "Vegan or Modifiable"]

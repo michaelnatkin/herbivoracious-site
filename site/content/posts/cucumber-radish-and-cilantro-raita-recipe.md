@@ -1,5 +1,6 @@
 ---
 title: "Cucumber, Radish and Cilantro Raita - Recipe"
+description: "Cucumber, radish and cilantro raita: a cooling yogurt sauce for Indian meals that's especially good mixed with basmati rice."
 date: 2009-09-17T06:45:00
 slug: "cucumber-radish-and-cilantro-raita-recipe"
 categories: ["Gluten-Free or modifiable", "Kid Friendly", "Recipes", "Sauces and Condiments", "Side Dishes"]

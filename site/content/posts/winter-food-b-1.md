@@ -1,5 +1,6 @@
 ---
 title: "Book Review: The Nasty Bits, by Anthony Bourdain"
+description: "Book review of The Nasty Bits, Anthony Bourdain's collection of magazine pieces."
 date: 2008-03-07T04:39:00
 slug: "winter-food-b-1"
 categories: ["Miscellany"]

@@ -1,5 +1,6 @@
 ---
 title: "Greek Green Bean Salad - Perfect For Potlucks - Recipe"
+description: "Greek green bean salad that's perfect for potlucks: blanch the beans ahead and dress them close to serving time."
 date: 2013-02-11T07:00:07
 slug: "greek-green-bean-salad-recipe"
 categories: ["Gluten-Free or modifiable", "Kid Friendly", "Recipes", "Salads", "Side Dishes"]

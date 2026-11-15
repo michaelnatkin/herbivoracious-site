@@ -1,5 +1,6 @@
 ---
 title: "Sephardic Bikur Holim Bazaar - A Delicious Link to the Past"
+description: "The Sephardic Bikur Holim bazaar in Seattle, a delicious link to Sephardic Jewish food of Southern Europe and North Africa."
 date: 2012-08-30T06:00:06
 slug: "sephardic-bikur-holim-bazaar-a-delicious-link-to-the-past"
 categories: ["Baking", "Desserts", "Miscellany", "Seattle"]

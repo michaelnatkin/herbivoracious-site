@@ -1,5 +1,6 @@
 ---
 title: "\"How Do You Get Your Protein?\" - Is Vegetarian Protein a Problem?"
+description: "'How do you get your protein?' Is vegetarian protein a problem? A vegetarian answers the question."
 date: 2012-01-04T07:00:02
 slug: "how-do-you-get-your-protein-is-vegetarian-protein-a-problem"
 categories: ["Theory and Rants"]

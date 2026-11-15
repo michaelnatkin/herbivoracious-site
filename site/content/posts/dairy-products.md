@@ -1,5 +1,6 @@
 ---
 title: "Dairy Products at Mahane Yehuda Market, Jerusalem, Israel"
+description: "Dairy at Mahane Yehuda Market in Jerusalem: yogurt, labneh, feta and flavored cheeses at a tiny dairy stall."
 date: 2007-09-10T04:45:00
 slug: "dairy-products"
 categories: ["Travel"]

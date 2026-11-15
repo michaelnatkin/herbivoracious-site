@@ -1,5 +1,6 @@
 ---
 title: "Recipe: Reconstructed Tarte Tatin"
+description: "Reconstructed tarte tatin with spun sugar, a quick tarte tatin-style dessert that serves four."
 date: 2007-10-30T22:33:53
 slug: "recipe-reconstr"
 categories: ["Desserts", "Recipes"]

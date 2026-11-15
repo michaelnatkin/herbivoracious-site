@@ -1,5 +1,6 @@
 ---
 title: "Event: Seattle Restaurant Review 360"
+description: "Seattle Restaurant Review 360: an event inviting food bloggers to review the same restaurant on the same day."
 date: 2008-03-26T22:25:58
 slug: "event-seattle-r"
 categories: ["Miscellany"]

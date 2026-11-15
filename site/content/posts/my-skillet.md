@@ -1,5 +1,6 @@
 ---
 title: "My Cast Iron Skillet"
+description: "My cast iron skillet: the 12-inch workhorse used for thousands of meals, and why every kitchen should have one."
 date: 2009-11-16T07:00:00
 slug: "my-skillet"
 categories: ["Favorites", "My Kitchen", "Pots and Pans"]

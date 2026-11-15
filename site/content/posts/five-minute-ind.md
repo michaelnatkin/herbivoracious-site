@@ -1,5 +1,6 @@
 ---
 title: "Five-Minute Indian-style Cabbage - A Tasty and Easy Side Dish"
+description: "Five-minute Indian-style cabbage, an easy side dish that rounds out a curry, rice and raita dinner."
 date: 2008-10-03T12:45:13
 slug: "five-minute-ind"
 categories: ["Favorites", "Gluten-Free or modifiable", "Recipes", "Side Dishes", "Vegan or Modifiable"]

@@ -1,5 +1,6 @@
 ---
 title: "What to do with an Inside-Out Egg?"
+description: "What to do with an inside-out egg: eating a rare heirloom chicken egg with its yolk and white reversed."
 date: 2009-02-25T22:28:12
 slug: "what-to-do-with-an-insideout-egg"
 categories: ["Experiments"]

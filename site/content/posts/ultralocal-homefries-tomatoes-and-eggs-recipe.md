@@ -1,5 +1,6 @@
 ---
 title: "Ultra-Local Homefries, Tomatoes and Eggs - Breakfast for Dinner! - Recipe"
+description: "Ultra-local homefries, tomatoes and eggs: breakfast for dinner with potatoes and tomatoes from the backyard."
 date: 2009-08-31T06:52:00
 slug: "ultralocal-homefries-tomatoes-and-eggs-recipe"
 categories: ["Breakfast", "Recipes"]

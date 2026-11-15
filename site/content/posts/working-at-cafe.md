@@ -1,5 +1,6 @@
 ---
 title: "Working at Cafe Flora, Part 2"
+description: "Working at Cafe Flora, part 2: what has changed and what I'm learning a month into the internship."
 date: 2007-11-01T00:11:18
 slug: "working-at-cafe"
 categories: ["Cooking Internship"]

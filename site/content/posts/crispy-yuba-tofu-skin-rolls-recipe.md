@@ -1,5 +1,6 @@
 ---
 title: "Crispy Yuba (Tofu Skin) Rolls - Recipe"
+description: "Crispy yuba (tofu skin) rolls, with a look at what yuba is and where to find it fresh or dried."
 date: 2011-12-26T07:07:24
 slug: "crispy-yuba-tofu-skin-rolls-recipe"
 categories: ["Appetizers", "Kid Friendly", "Restaurants", "Vegan or Modifiable"]

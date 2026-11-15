@@ -1,5 +1,6 @@
 ---
 title: "Upcoming Events"
+description: "Upcoming events for Herbivoracious author Michael Natkin: book talks, signings and classes."
 date: 2012-03-21T14:34:13
 slug: "upcoming-events"
 ---

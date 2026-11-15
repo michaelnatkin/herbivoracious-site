@@ -1,5 +1,6 @@
 ---
 title: "Shiitake Congee"
+description: "Shiitake congee, a rice porridge with shiitake mushrooms that tries a sous vide technique."
 date: 2013-01-21T07:00:58
 slug: "shiitake-congee-and-a-challenge"
 categories: ["Contests", "Experiments", "Recipes"]

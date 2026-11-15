@@ -1,5 +1,6 @@
 ---
 title: "Recipe: Atayef - Syrian Ricotta-Filled Dessert Pancakes"
+description: "Atayef, Syrian ricotta-filled dessert pancakes, from Poopa Dweck's Aromas of Aleppo."
 date: 2008-04-19T14:18:59
 slug: "recipe-atayef"
 categories: ["Desserts", "Kid Friendly", "Vegan or Modifiable"]

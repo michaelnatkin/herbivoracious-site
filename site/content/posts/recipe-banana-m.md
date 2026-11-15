@@ -1,5 +1,6 @@
 ---
 title: "Recipe: Banana Muffins With A Crumb Top"
+description: "Banana muffins with a crumb top that taste of banana without being too sweet."
 date: 2007-12-21T23:00:31
 slug: "recipe-banana-m"
 categories: ["Baking", "Breakfast", "Kid Friendly", "Recipes"]

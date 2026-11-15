@@ -1,5 +1,6 @@
 ---
 title: "Kasha Pilaf with Dates, Pistachios and Baharat - Recipe"
+description: "Kasha pilaf with dates, pistachios and baharat: nutty toasted buckwheat with sweet and warm spice flavors."
 date: 2012-01-23T07:05:00
 slug: "kasha-pilaf-with-dates-pistachios-and-baharat-recipe"
 categories: ["Gluten-Free or modifiable", "Recipes", "Side Dishes"]

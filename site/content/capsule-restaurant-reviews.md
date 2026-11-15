@@ -1,5 +1,6 @@
 ---
 title: "Capsule Restaurant Reviews"
+description: "An index of short restaurant reviews from Seattle and beyond that weren't published on the main Herbivoracious blog."
 date: 2008-11-14T21:50:28
 slug: "capsule-restaurant-reviews"
 ---

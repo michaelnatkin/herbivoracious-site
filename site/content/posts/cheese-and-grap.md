@@ -1,5 +1,6 @@
 ---
 title: "Cheese and Grapes Four Ways"
+description: "Cheese and grapes four ways: pairing different forms of grapes with cheese, inspired by the El Bulli book."
 date: 2007-12-27T06:33:00
 slug: "cheese-and-grap"
 categories: ["Experiments", "Recipes"]

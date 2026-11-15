@@ -1,5 +1,6 @@
 ---
 title: "Fried Artichokes with Orange-Olive Oil Emulsion - Recipe"
+description: "Fried artichokes with an orange-olive oil emulsion, inspired by Rome's carciofi alla giudia."
 date: 2012-11-20T07:00:36
 slug: "fried-artichokes-with-orange-olive-oil-emulsion-recipe"
 categories: ["Appetizers", "Gluten-Free or modifiable", "Recipes", "Vegan or Modifiable"]

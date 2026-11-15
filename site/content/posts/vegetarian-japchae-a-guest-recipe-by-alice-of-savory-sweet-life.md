@@ -1,5 +1,6 @@
 ---
 title: "Vegetarian Jap Chae - A Guest Recipe by Alice of Savory Sweet Life"
+description: "Vegetarian jap chae, Korean glass noodles with vegetables, a guest recipe by Alice of Savory Sweet Life."
 date: 2010-04-12T09:44:26
 slug: "vegetarian-japchae-a-guest-recipe-by-alice-of-savory-sweet-life"
 categories: ["Gluten-Free or modifiable", "Main Courses", "Recipes", "Vegan or Modifiable", "Weblogs"]

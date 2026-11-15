@@ -1,5 +1,6 @@
 ---
 title: "New Year's Feast"
+description: "New Year's feast: a seven-course small plates party meal shared by family."
 date: 2008-01-01T20:25:21
 slug: "new-years-feast"
 categories: ["Miscellany", "Recipes"]

@@ -1,5 +1,6 @@
 ---
 title: "Rename this Blog (Your Help Needed!)"
+description: "Help rename this blog: the original name, The Vegetarian Foodie, and the search for a better one."
 date: 2007-08-07T08:34:01
 slug: "rename-this-blo"
 categories: ["Miscellany"]

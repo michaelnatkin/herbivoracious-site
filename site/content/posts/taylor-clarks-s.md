@@ -1,5 +1,6 @@
 ---
 title: "Taylor Clark's Slate.com on Being a Vegetarian"
+description: "Taylor Clark's Slate.com essay explaining vegetarians to omnivores, and why it captures being vegetarian so well."
 date: 2008-05-21T07:50:59
 slug: "taylor-clarks-s"
 categories: ["Weblogs"]

@@ -1,5 +1,6 @@
 ---
 title: "Corn Cake with Camembert, Cherries, and White Honey"
+description: "Corn cake with Camembert, cherries and white honey, an appetizer for cherry season in the Northwest."
 date: 2008-07-03T00:20:55
 slug: "corn-cake-with"
 categories: ["Recipes"]

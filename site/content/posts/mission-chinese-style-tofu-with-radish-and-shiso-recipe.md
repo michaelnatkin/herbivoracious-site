@@ -1,5 +1,6 @@
 ---
 title: "Mission Chinese Food-Style Tofu with Radish and Shiso - Recipe"
+description: "Mission Chinese Food-style tofu with radish and shiso, inspired by chef Danny Bowien's restaurant."
 date: 2013-08-05T06:00:17
 slug: "mission-chinese-style-tofu-with-radish-and-shiso-recipe"
 categories: ["Gluten-Free or modifiable", "Main Courses", "Recipes", "Vegan or Modifiable"]

@@ -1,5 +1,6 @@
 ---
 title: "Better Picture of the Dumplings"
+description: "A better picture of the winter green dumplings at Cafe Flora."
 date: 2008-01-04T22:38:41
 slug: "better-picture"
 categories: ["Cooking Internship"]

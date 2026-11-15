@@ -1,5 +1,6 @@
 ---
 title: "Whole Bean Ful Medames - With Fava Beans or Marrowfat Peas - Recipe"
+description: "Whole bean ful medames, Egypt's national breakfast, made with fava beans or marrowfat peas."
 date: 2013-07-13T08:58:03
 slug: "whole-bean-ful-medames-with-fava-beans-or-marrowfat-peas-recipe"
 categories: ["Breakfast", "Gluten-Free or modifiable", "Main Courses", "Recipes", "Vegan or Modifiable"]

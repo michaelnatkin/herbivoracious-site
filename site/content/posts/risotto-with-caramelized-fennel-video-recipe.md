@@ -1,5 +1,6 @@
 ---
 title: "Risotto With Caramelized Fennel - Video Recipe"
+description: "Risotto with caramelized fennel in a video recipe, a fall variation on the corn and tomato confit risotto in the cookbook."
 date: 2012-04-16T06:00:11
 slug: "risotto-with-caramelized-fennel-video-recipe"
 categories: ["Cooking Videos", "Gluten-Free or modifiable", "Recipes"]

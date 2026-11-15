@@ -1,5 +1,6 @@
 ---
 title: "The Galleys are Here! The Galleys are Here!"
+description: "The galleys of the Herbivoracious cookbook have arrived: a look at the proofs of the book from Harvard Common Press."
 date: 2011-11-02T08:13:48
 slug: "the-galleys-are-here-the-galleys-are-here"
 categories: ["Cookbook Project"]

@@ -1,5 +1,6 @@
 ---
 title: "Grilled Eggplant with Arrabiata Fresca - Recipe"
+description: "Grilled eggplant with fresh arrabiata sauce, an Italian dish made with a salsa-like mix of tomato, garlic, onion and chiles."
 date: 2009-08-17T06:40:00
 slug: "grilled-eggplant-with-arrabiata-fresca-recipe"
 categories: ["Appetizers", "Gluten-Free or modifiable", "Recipes", "Vegan or Modifiable"]

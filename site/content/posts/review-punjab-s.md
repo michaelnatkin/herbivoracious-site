@@ -1,5 +1,6 @@
 ---
 title: "Review: Punjab Sweets"
+description: "Review of Punjab Sweets, a vegetarian Indian restaurant with thalis, snacks and sweets like gulab jamun."
 date: 2008-05-10T14:42:15
 slug: "review-punjab-s"
 categories: ["Restaurants", "Seattle"]

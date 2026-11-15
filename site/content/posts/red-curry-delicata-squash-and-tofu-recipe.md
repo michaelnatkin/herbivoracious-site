@@ -1,5 +1,6 @@
 ---
 title: "Red Curry Delicata Squash and Tofu - Recipe"
+description: "Red curry with delicata squash and tofu, a Southeast Asian-style vegetarian curry made with sweet winter squash."
 date: 2009-10-30T06:50:00
 slug: "red-curry-delicata-squash-and-tofu-recipe"
 categories: ["Gluten-Free or modifiable", "Main Courses", "Recipes", "Vegan or Modifiable"]

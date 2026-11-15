@@ -1,5 +1,6 @@
 ---
 title: "Blini With Asparagus Caviar, When Three Year Olds Do Molecular Gastronomy"
+description: "Blini with asparagus caviar made by spherification, plus a story of three-year-olds doing molecular gastronomy."
 date: 2008-03-31T21:29:29
 slug: "blini-with-aspa"
 categories: ["Appetizers", "Experiments", "Kid Friendly"]

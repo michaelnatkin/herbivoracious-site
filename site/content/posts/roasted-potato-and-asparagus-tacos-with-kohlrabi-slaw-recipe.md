@@ -1,5 +1,6 @@
 ---
 title: "Roasted Potato and Asparagus Tacos with Kohlrabi Slaw - Recipe"
+description: "Roasted potato and asparagus tacos with kohlrabi slaw, served street-food style on two soft, steamed corn tortillas."
 date: 2009-07-02T07:07:00
 slug: "roasted-potato-and-asparagus-tacos-with-kohlrabi-slaw-recipe"
 categories: ["Gluten-Free or modifiable", "Main Courses", "Recipes"]

@@ -1,5 +1,6 @@
 ---
 title: "LA Trip Restaurant Roundup"
+description: "A restaurant roundup from a trip to Los Angeles, with the places we ate and loved."
 date: 2008-03-05T05:36:00
 slug: "la-trip-restaur"
 categories: ["Restaurants", "Travel"]

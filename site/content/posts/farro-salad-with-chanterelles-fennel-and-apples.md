@@ -1,5 +1,6 @@
 ---
 title: "Farro Salad With Chanterelles, Fennel and Apples"
+description: "Farro salad with chanterelles, fennel, shaved apples and parmesan, a fall salad variation on a hot farro entree."
 date: 2008-10-30T06:58:00
 slug: "farro-salad-with-chanterelles-fennel-and-apples"
 categories: ["Recipes", "Salads"]

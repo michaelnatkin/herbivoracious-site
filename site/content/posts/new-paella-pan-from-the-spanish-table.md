@@ -1,5 +1,6 @@
 ---
 title: "New Paella Pan from The Spanish Table"
+description: "New paella pan from The Spanish Table, a big pan that serves 10 to 12, with a vegetarian paella."
 date: 2008-12-20T20:49:49
 slug: "new-paella-pan-from-the-spanish-table"
 categories: ["Miscellany"]

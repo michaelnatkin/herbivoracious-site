@@ -1,5 +1,6 @@
 ---
 title: "You Have Mousse In Your Freezer (I Think)"
+description: "You have mousse in your freezer: why a good chocolate ice cream base is basically chocolate mousse."
 date: 2007-10-17T20:25:22
 slug: "you-have-mousse"
 categories: ["Desserts", "Experiments"]

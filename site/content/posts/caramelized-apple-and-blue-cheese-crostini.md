@@ -1,5 +1,6 @@
 ---
 title: "Caramelized Apple and Blue Cheese Crostini - Recipe"
+description: "Caramelized apple and blue cheese crostini with tarragon oil, an easy appetizer from the Herbivoracious cookbook."
 date: 2012-04-18T06:00:13
 slug: "caramelized-apple-and-blue-cheese-crostini"
 categories: ["Appetizers", "Recipes"]

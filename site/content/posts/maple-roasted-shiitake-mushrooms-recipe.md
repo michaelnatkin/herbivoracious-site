@@ -1,5 +1,6 @@
 ---
 title: "Maple-Roasted Shiitake Mushrooms - Recipe"
+description: "Maple-roasted shiitake mushrooms: caps tossed in real maple syrup and roasted until sweet, smoky and savory."
 date: 2012-05-09T06:00:45
 slug: "maple-roasted-shiitake-mushrooms-recipe"
 categories: ["Breakfast", "Main Courses", "Recipes", "Side Dishes"]

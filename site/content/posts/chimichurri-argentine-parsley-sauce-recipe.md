@@ -1,5 +1,6 @@
 ---
 title: "Chimichurri - Argentine Parsley Sauce - Recipe"
+description: "Chimichurri, the Argentine parsley sauce: like pesto but without cheese or nuts, and quick to make in a food processor."
 date: 2009-02-12T20:52:34
 slug: "chimichurri-argentine-parsley-sauce-recipe"
 categories: ["Favorites", "Gluten-Free or modifiable", "Recipes", "Sauces and Condiments", "Vegan or Modifiable"]

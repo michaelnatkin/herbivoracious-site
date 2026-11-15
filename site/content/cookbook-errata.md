@@ -1,5 +1,6 @@
 ---
 title: "Cookbook Errata"
+description: "Herbivoracious cookbook errata: known errors in the book and which are fixed in the 3rd printing."
 date: 2012-07-24T13:32:12
 slug: "cookbook-errata"
 ---

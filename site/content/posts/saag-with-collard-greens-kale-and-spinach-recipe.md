@@ -1,5 +1,6 @@
 ---
 title: "Saag with Collard Greens, Kale and Spinach - Recipe"
+description: "Saag with collard greens, kale and spinach, an Indian dish beyond the standard restaurant menu items."
 date: 2012-01-30T07:05:17
 slug: "saag-with-collard-greens-kale-and-spinach-recipe"
 categories: ["Gluten-Free or modifiable", "Recipes", "Side Dishes"]

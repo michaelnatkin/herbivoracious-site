@@ -1,5 +1,6 @@
 ---
 title: "Challah French Toast Bread Pudding Goodness - Recipe"
+description: "Challah French toast bread pudding, a great use for leftover challah or brioche."
 date: 2009-03-16T06:20:00
 slug: "challah-french-toast-bread-pudding-goodness-recipe"
 categories: ["Baking", "Breakfast", "Kid Friendly", "Recipes"]

@@ -1,5 +1,6 @@
 ---
 title: "Stop Scraping Your Stand Mixer Bowl - BeaterBlade Rocks The House"
+description: "Review of the BeaterBlade, a KitchenAid paddle attachment with soft edges that scrape the bowl for you, so you never have to stop the mixer."
 date: 2009-02-16T06:18:00
 slug: "stop-scraping-your-stand-mixer-bowl"
 categories: ["Baking", "My Kitchen", "Small Appliances"]

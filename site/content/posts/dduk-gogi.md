@@ -1,5 +1,6 @@
 ---
 title: "Tteokbokki - Spicy Korean Rice Cake Stew"
+description: "Tteokbokki, spicy Korean rice cake stew, made with frozen tteok from a Korean grocer."
 date: 2012-02-06T06:40:07
 slug: "dduk-gogi"
 categories: ["Gluten-Free or modifiable", "Main Courses", "Recipes", "Vegan or Modifiable"]

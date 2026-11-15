@@ -1,5 +1,6 @@
 ---
 title: "Dragonfruit, Dragon Fruit, Is That A Pitaya In Your Pocket?"
+description: "Dragon fruit, also called pitaya: what it looks like and what it tastes like."
 date: 2007-08-24T04:37:00
 slug: "dragonfruit-dra"
 categories: ["Desserts", "Experiments"]

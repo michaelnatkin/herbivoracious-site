@@ -1,5 +1,6 @@
 ---
 title: "Grilled Flatbread With Padron Peppers and Zucchini Blossoms - Recipe"
+description: "Grilled flatbread with Padron peppers and zucchini blossoms, an end-of-summer vegetarian recipe for peak produce."
 date: 2009-08-10T06:42:00
 slug: "flatbread-with-padron-peppers-and-zucchini-blossoms-recipe"
 categories: ["Main Courses", "Recipes", "Vegan or Modifiable"]

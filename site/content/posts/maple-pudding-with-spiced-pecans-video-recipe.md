@@ -1,5 +1,6 @@
 ---
 title: "Maple Pudding with Spiced Pecans - Video Recipe"
+description: "Maple pudding with spiced pecans in a video recipe: a homemade pudding just slightly more work than a box mix."
 date: 2012-03-26T06:00:41
 slug: "maple-pudding-with-spiced-pecans-video-recipe"
 categories: ["Cooking Videos", "Desserts", "Kid Friendly", "Recipes"]

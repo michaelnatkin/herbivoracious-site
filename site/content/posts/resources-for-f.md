@@ -1,5 +1,6 @@
 ---
 title: "Resources for Finding Local Food"
+description: "Resources for finding local food: farmer's markets, u-pick farms and farms that sell direct near you."
 date: 2007-10-26T23:26:01
 slug: "resources-for-f"
 categories: ["Miscellany"]

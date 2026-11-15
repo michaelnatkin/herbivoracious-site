@@ -1,5 +1,6 @@
 ---
 title: "Cucumber, Zucchini & Mint Salad"
+description: "Cucumber, zucchini and mint salad: a light, refreshing salad made up for a barbecue invitation on 45 minutes' notice."
 date: 2007-07-15T20:55:25
 slug: "cucumber-zucchi"
 categories: ["Recipes", "Salads", "Vegan or Modifiable"]

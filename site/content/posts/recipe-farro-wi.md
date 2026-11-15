@@ -1,5 +1,6 @@
 ---
 title: "Recipe: Farro with Collard Greens and Bacon Salt"
+description: "Farro with collard greens and Bacon Salt, a vegetarian dish seasoned with the surprisingly meat-free bacon-flavored seasoning."
 date: 2008-01-06T11:04:31
 slug: "recipe-farro-wi"
 categories: ["Main Courses", "Recipes"]

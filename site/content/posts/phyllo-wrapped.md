@@ -1,5 +1,6 @@
 ---
 title: "Phyllo Wrapped Feta and Chard with a Citrus and Olive Salad"
+description: "Phyllo-wrapped feta and chard with a citrus and olive salad, a winter dish tested for the Cafe Flora menu."
 date: 2007-10-26T09:19:52
 slug: "phyllo-wrapped"
 categories: ["Appetizers", "Cooking Internship", "Recipes"]

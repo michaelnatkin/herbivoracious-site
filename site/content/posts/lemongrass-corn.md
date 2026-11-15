@@ -1,5 +1,6 @@
 ---
 title: "Lemongrass Corn Saute With Grilled Tofu and Quinoa"
+description: "Lemongrass corn sauté with grilled tofu and quinoa, a 30-minute meal-in-a-bowl with Thai flavors."
 date: 2007-08-01T23:12:00
 slug: "lemongrass-corn"
 categories: ["Kid Friendly", "Recipes", "Side Dishes", "Vegan or Modifiable"]

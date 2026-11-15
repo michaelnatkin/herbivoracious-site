@@ -1,5 +1,6 @@
 ---
 title: "Make Your Own Kimchi - Recipe"
+description: "Make your own kimchi: a recipe for fermenting vegetables at home, from someone who resisted fermenting for decades."
 date: 2013-05-30T05:45:05
 slug: "making-your-own-kimchi-recipe"
 water_note: "ferment"

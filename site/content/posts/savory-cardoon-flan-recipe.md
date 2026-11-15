@@ -1,5 +1,6 @@
 ---
 title: "Savory Cardoon Flan - Recipe"
+description: "Savory cardoon flan, made with cardoon, the vegetable that looks like celery and tastes like artichoke."
 date: 2012-10-10T06:00:43
 slug: "savory-cardoon-flan-recipe"
 categories: ["Gluten-Free or modifiable", "Recipes"]

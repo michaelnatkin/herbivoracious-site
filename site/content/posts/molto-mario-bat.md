@@ -1,5 +1,6 @@
 ---
 title: "Is Molto Mario (Batali) Still The Best Cooking Show On TV?"
+description: "Is Molto Mario still the best cooking show on TV? Why Mario Batali's show is worth watching for a vegetarian."
 date: 2008-08-26T21:31:44
 slug: "molto-mario-bat"
 categories: ["Miscellany"]

@@ -1,5 +1,6 @@
 ---
 title: "Fremont Neighborhood Lunch Roundup (With Special Emphasis on Best Vegetarian Options) - Seattle, WA"
+description: "A roundup of Seattle Fremont lunch spots, reviewed for their vegetarian options, with notes on atmosphere, service and price."
 date: 2009-04-03T11:03:23
 slug: "fremont-neighborhood-lunch-roundup-with-special-emphasis-on-best-vegetarian-options-seattle-wa"
 categories: ["Restaurants", "Seattle"]

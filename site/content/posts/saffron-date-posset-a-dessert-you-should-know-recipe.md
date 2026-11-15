@@ -1,5 +1,6 @@
 ---
 title: "Saffron-Date Posset - A Dessert You Should Know - Recipe"
+description: "Saffron-date posset: a classic English dessert of cream set with acid instead of starch or egg, so it tastes only of cream and its flavorings."
 date: 2013-02-04T07:00:47
 slug: "saffron-date-posset-a-dessert-you-should-know-recipe"
 categories: ["Desserts", "Gluten-Free or modifiable", "Recipes"]

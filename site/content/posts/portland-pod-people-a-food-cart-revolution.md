@@ -1,5 +1,6 @@
 ---
 title: "Portland Pod People - A Food Cart Revolution"
+description: "Portland pod people: a look at the Portland food cart scene compared with Seattle's."
 date: 2010-02-18T07:10:00
 slug: "portland-pod-people-a-food-cart-revolution"
 categories: ["Miscellany", "Restaurants", "Travel"]

@@ -1,5 +1,6 @@
 ---
 title: "\"So What Is Going On With Your Cookbook?\" And Other Life Changing News"
+description: "Cookbook news: Herbivoracious hits stores May 8, 2012, and the author is quitting the day job."
 date: 2012-01-18T07:07:09
 slug: "so-what-is-going-on-with-your-cookbook-and-other-life-changing-news"
 categories: ["Cookbook Project"]

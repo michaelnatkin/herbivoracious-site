@@ -1,5 +1,6 @@
 ---
 title: "The Wrath of Grapes; Grape Expectations; You Ungrapeful Bastard"
+description: "Playing with your food: cutting grapes as many ways as you can think of and pairing them with flavors."
 date: 2009-12-28T06:48:00
 slug: "the-wrath-of-grapes-grape-expectations-you-ungrapeful-bastard"
 categories: ["Appetizers", "Experiments", "Gluten-Free or modifiable", "Vegan or Modifiable"]

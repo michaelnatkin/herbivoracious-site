@@ -1,5 +1,6 @@
 ---
 title: "Biscuits, Big Johns and Broccoli in Black Bean Sauce (A Very Fine Morning)"
+description: "A food morning: biscuits, a trip to Big John's (Pacific Food Importers) and broccoli in black bean sauce."
 date: 2007-08-10T22:04:36
 slug: "biscuits-big-jo"
 categories: ["Restaurants"]

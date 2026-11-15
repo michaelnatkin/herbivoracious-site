@@ -1,5 +1,6 @@
 ---
 title: "Salt, Acid, Fat, Crunch - Making Your Food Pop, Part 1"
+description: "Salt, acid, fat, crunch, part 1: the four things professional chefs reach for to make food pop."
 date: 2010-01-04T06:55:00
 slug: "crunch-acid-salt-fat-1"
 categories: ["Favorites", "Miscellany", "Theory and Rants"]

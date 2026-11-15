@@ -1,5 +1,6 @@
 ---
 title: "Harissa Potatoes - Recipe"
+description: "Harissa potatoes with feta and dill, a 15-minute Middle Eastern improvisation with waxy potatoes."
 date: 2012-10-29T06:00:36
 slug: "harissa-potatoes-recipe"
 categories: ["Breakfast", "Favorites", "Gluten-Free or modifiable", "Recipes", "Side Dishes", "Vegan or Modifiable"]

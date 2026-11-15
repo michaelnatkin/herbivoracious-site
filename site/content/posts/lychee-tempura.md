@@ -1,5 +1,6 @@
 ---
 title: "Lychee Tempura With Japanese Pepper Mayo - Recipe"
+description: "Lychee tempura with Japanese pepper mayo: fresh lychees fried in a light tempura batter with togarashi mayo and black sea salt."
 date: 2008-08-09T07:50:47
 slug: "lychee-tempura"
 categories: ["Appetizers", "Experiments", "Recipes"]

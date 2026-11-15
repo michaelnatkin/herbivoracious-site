@@ -1,5 +1,6 @@
 ---
 title: "Eat Ethiopian Tonight (Including some Seattle Recommendations)"
+description: "Eat Ethiopian tonight, with Seattle recommendations: why Ethiopian food is a great choice for vegetarians."
 date: 2007-11-10T00:14:54
 slug: "eat-ethiopian-t"
 categories: ["Restaurants", "Vegan or Modifiable"]

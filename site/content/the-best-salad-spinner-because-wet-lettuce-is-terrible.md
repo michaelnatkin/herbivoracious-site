@@ -1,5 +1,6 @@
 ---
 title: "The Best Salad Spinner - Because Wet Lettuce Is Terrible"
+description: "The best salad spinner: why dry lettuce matters, and the Starfrit model recommended by friends."
 date: 2012-10-26T06:54:44
 slug: "the-best-salad-spinner-because-wet-lettuce-is-terrible"
 ---

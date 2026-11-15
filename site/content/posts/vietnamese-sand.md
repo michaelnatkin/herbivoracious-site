@@ -1,5 +1,6 @@
 ---
 title: "Vietnamese Sandwiches (Including Seattle Reccomendations)"
+description: "Vietnamese sandwiches (banh mi) including Seattle recommendations and a banh mi chay tofu sandwich."
 date: 2007-07-17T13:17:23
 slug: "vietnamese-sand"
 categories: ["Restaurants", "Vegan or Modifiable"]

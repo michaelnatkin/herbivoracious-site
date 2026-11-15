@@ -1,5 +1,6 @@
 ---
 title: "Book Tour Update - With Pictures!"
+description: "Book tour update with pictures: San Francisco, Los Angeles, Austin, DC and Boston."
 date: 2012-05-06T03:57:35
 slug: "book-tour-update-with-pictures"
 categories: ["Cookbook Project"]

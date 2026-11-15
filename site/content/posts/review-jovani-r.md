@@ -1,5 +1,6 @@
 ---
 title: "Review: \"Jovani\" Restaurant, Tiberias, Israel"
+description: "Review of Jovani, a restaurant in Tiberias, Israel, on the road to the Sea of Galilee."
 date: 2007-10-02T06:23:47
 slug: "review-jovani-r"
 categories: ["Restaurants", "Travel"]

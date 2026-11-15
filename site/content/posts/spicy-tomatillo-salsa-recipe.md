@@ -1,5 +1,6 @@
 ---
 title: "Spicy Tomatillo Salsa aka Salsa Verde - Recipe"
+description: "Spicy tomatillo salsa verde, pan-roasted and ridiculously easy to make at home, tastes far better than jarred."
 date: 2009-07-27T08:00:00
 slug: "spicy-tomatillo-salsa-recipe"
 categories: ["Gluten-Free or modifiable", "Recipes", "Sauces and Condiments", "Vegan or Modifiable"]

@@ -1,5 +1,6 @@
 ---
 title: "Ba-Da Bing! What A Sweetheart!"
+description: "Bing cherries from Batch's Best Family Farms, via ChefShop.com: three pounds of flawless cherries."
 date: 2008-07-16T21:56:09
 slug: "ba-da-bing-what"
 categories: ["Miscellany"]

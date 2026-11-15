@@ -1,5 +1,6 @@
 ---
 title: "Polenta With Sauteed Chard and Gorgonzola"
+description: "Polenta with sautéed chard and gorgonzola, made the slow way with Marcella Hazan's low-stir method."
 date: 2008-11-03T06:29:00
 slug: "polenta-with-sauteed-chard-and-gorgonzola"
 categories: ["Gluten-Free or modifiable", "Main Courses", "Recipes", "Vegan or Modifiable"]

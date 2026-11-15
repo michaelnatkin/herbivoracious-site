@@ -1,5 +1,6 @@
 ---
 title: "Recipe: Crostini with White Beans and Basil"
+description: "Crostini with white beans and basil, a simple topping with Meyer lemon and fresh basil."
 date: 2008-03-01T05:44:00
 slug: "recipe-crostini"
 categories: ["Appetizers", "Recipes", "Vegan or Modifiable"]

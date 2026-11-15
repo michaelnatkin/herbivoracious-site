@@ -1,5 +1,6 @@
 ---
 title: "How to make an Inside-Out Egg - Recipe"
+description: "How to make an inside-out egg, a fun dessert in which the yolk is outside and the white is inside."
 date: 2009-03-01T20:04:39
 slug: "how-to-make-an-inside-out-egg-recipe"
 categories: ["Desserts", "Experiments", "Gluten-Free or modifiable", "Recipes", "Vegan or Modifiable"]

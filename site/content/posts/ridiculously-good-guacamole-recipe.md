@@ -1,5 +1,6 @@
 ---
 title: "Homemade Guacamole - Now That Was Easy - Recipe"
+description: "Homemade guacamole in five minutes, a four-avocado batch that beats the store-bought stuff."
 date: 2009-11-05T06:55:00
 slug: "ridiculously-good-guacamole-recipe"
 categories: ["Appetizers", "Gluten-Free or modifiable", "Kid Friendly", "Recipes", "Side Dishes", "Vegan or Modifiable"]

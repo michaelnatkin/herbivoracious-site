@@ -1,5 +1,6 @@
 ---
 title: "Hatch Chiles Stuffed with Cilantro Scrambled Egg - Recipe"
+description: "Hatch chiles stuffed with cilantro scrambled egg, a recipe for the New Mexico chile roasting season."
 date: 2009-10-01T06:45:00
 slug: "hatch-chiles-stuffed-with-cilantro-scrambled-egg-recipe"
 categories: ["Breakfast", "Gluten-Free or modifiable", "Recipes"]

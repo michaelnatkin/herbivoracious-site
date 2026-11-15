@@ -1,5 +1,6 @@
 ---
 title: "Apple Crostata with Breadcrumb Streusel - Recipe for #pieday"
+description: "Apple crostata with breadcrumb streusel, an easy, fussless apple pie made on a baking sheet. A recipe for Pi Day."
 date: 2012-06-20T10:17:11
 slug: "apple-crostata-with-breadcrumb-streusel-recipe-for-pieday"
 categories: ["Baking", "Breakfast", "Kid Friendly", "Recipes"]

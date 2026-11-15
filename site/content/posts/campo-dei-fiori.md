@@ -1,5 +1,6 @@
 ---
 title: "Campo dei Fiori Market, Rome, Italy"
+description: "A morning at the Campo dei Fiori market in Rome, in pictures."
 date: 2007-10-05T22:21:05
 slug: "campo-dei-fiori"
 categories: ["Travel"]

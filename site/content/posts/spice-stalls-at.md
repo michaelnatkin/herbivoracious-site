@@ -1,5 +1,6 @@
 ---
 title: "Spice Stalls at Mahane Yehuda Market In Jerusalem, Israel (What Kind of Harissa Is This?)"
+description: "The spice stalls at Mahane Yehuda Market in Jerusalem, and a question about what kind of harissa this is."
 date: 2007-09-14T03:58:00
 slug: "spice-stalls-at"
 categories: ["Travel"]

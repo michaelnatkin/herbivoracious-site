@@ -1,5 +1,6 @@
 ---
 title: "New Visual Index To All Posts"
+description: "New visual index to all posts on Herbivoracious, a way to skim every post on the site."
 date: 2008-06-22T14:47:41
 slug: "new-visual-inde"
 categories: ["Miscellany"]

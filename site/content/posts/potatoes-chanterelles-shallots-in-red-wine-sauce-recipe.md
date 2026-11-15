@@ -1,5 +1,6 @@
 ---
 title: "Potatoes, Chanterelles, Shallots in Red Wine Sauce - Recipe"
+description: "Fingerling potatoes, chanterelles and shallots in a red wine sauce, a vegetarian dish for wild mushroom season."
 date: 2009-09-28T06:51:00
 slug: "potatoes-chanterelles-shallots-in-red-wine-sauce-recipe"
 categories: ["Gluten-Free or modifiable", "Main Courses", "Recipes"]

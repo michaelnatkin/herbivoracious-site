@@ -1,5 +1,6 @@
 ---
 title: "Tiny Eggplant and Okra in Lime-Scented Tamarind Sauce - Recipe"
+description: "Tiny eggplant and okra in lime-scented tamarind sauce: spice-rubbed roasted baby eggplants in a sweet-tart curry."
 date: 2010-01-07T06:54:00
 slug: "tiny-eggplant-and-okra-in-tamarind-sauce-recipe"
 categories: ["Gluten-Free or modifiable", "Main Courses", "Recipes", "Vegan or Modifiable"]

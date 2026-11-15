@@ -1,5 +1,6 @@
 ---
 title: "Breakfast In Israel - So Amazing! (including Reviews of the Dan Panorama Jerusalem, Metropolitan Suites Tel Aviv, Vered Hagalil, and Yotvata)"
+description: "Breakfast in Israel, a vegetarian's paradise, with reviews of the Dan Panorama Jerusalem, Metropolitan Suites Tel Aviv, Vered Hagalil and Yotvata."
 date: 2007-09-21T06:13:14
 slug: "breakfast-in-is"
 categories: ["Restaurants", "Travel"]

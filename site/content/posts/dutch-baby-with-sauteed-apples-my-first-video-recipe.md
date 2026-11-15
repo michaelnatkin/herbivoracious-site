@@ -1,5 +1,6 @@
 ---
 title: "Dutch Baby With Sauteed Apples - My First Video Recipe"
+description: "Dutch baby with sautéed apples, the author's first video recipe and 500th post on Herbivoracious."
 date: 2012-03-05T07:05:17
 slug: "dutch-baby-with-sauteed-apples-my-first-video-recipe"
 categories: ["Breakfast", "Cooking Videos"]

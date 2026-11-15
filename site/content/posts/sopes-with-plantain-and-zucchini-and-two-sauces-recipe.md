@@ -1,5 +1,6 @@
 ---
 title: "Sopes with Plantain, Zucchini and Two Sauces - Recipe"
+description: "Sopes with plantain, zucchini and two sauces: a Mexican antojito, or street food, built on a masa base."
 date: 2012-02-13T07:05:00
 slug: "sopes-with-plantain-and-zucchini-and-two-sauces-recipe"
 categories: ["Kid Friendly", "Main Courses", "Recipes", "Vegan or Modifiable"]

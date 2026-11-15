@@ -1,5 +1,6 @@
 ---
 title: "Seattle Chocolate Salon"
+description: "The Seattle Chocolate Salon: the author joins the tasting panel at TasteTV's first annual event."
 date: 2008-06-27T15:40:52
 slug: "seattle-chocola"
 categories: ["Miscellany"]

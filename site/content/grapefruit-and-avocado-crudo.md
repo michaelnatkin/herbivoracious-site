@@ -1,5 +1,6 @@
 ---
 title: "Grapefruit and Avocado Crudo"
+description: "Grapefruit and avocado crudo with chervil and capers: grapefruit cut like tuna in a vegetarian crudo."
 date: 2010-05-07T20:19:39
 slug: "grapefruit-and-avocado-crudo"
 ---

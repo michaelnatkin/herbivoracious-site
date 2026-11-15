@@ -1,5 +1,6 @@
 ---
 title: "Review 360 Roundup: Txori in Seattle (Belltown)"
+description: "Review 360 roundup: bloggers review Txori, the Belltown, Seattle tapas bar."
 date: 2008-04-10T16:25:46
 slug: "review-360-roun"
 categories: ["Restaurants"]

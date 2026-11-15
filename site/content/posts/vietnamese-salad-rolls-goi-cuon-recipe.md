@@ -1,5 +1,6 @@
 ---
 title: "Vietnamese Salad Rolls (Gỏi cuốn) - Recipe"
+description: "Vietnamese salad rolls (gỏi cuốn): rice paper wrapped around rice noodles, lettuce, herbs and your choice of filling."
 date: 2013-05-22T05:49:44
 slug: "vietnamese-salad-rolls-goi-cuon-recipe"
 categories: ["Gluten-Free or modifiable", "Recipes", "Sauces and Condiments", "Vegan or Modifiable"]

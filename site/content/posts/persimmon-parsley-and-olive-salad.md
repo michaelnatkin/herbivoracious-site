@@ -1,5 +1,6 @@
 ---
 title: "Persimmon, Parsley and Olive Salad - Recipe"
+description: "Persimmon, parsley and olive salad, a refreshing salad with a Spanish feel that pairs with fideos."
 date: 2008-12-15T06:27:00
 slug: "persimmon-parsley-and-olive-salad"
 categories: ["Gluten-Free or modifiable", "Recipes", "Salads", "Vegan or Modifiable"]

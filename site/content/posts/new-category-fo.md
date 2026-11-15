@@ -1,5 +1,6 @@
 ---
 title: "New Category For Vegan Recipes"
+description: "New category for vegan recipes: recipes that are vegan or easily modified to be vegan."
 date: 2008-04-24T07:55:50
 slug: "new-category-fo"
 categories: ["Miscellany", "Vegan or Modifiable"]

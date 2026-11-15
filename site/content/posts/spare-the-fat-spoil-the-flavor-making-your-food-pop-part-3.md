@@ -1,5 +1,6 @@
 ---
 title: "Spare The Fat, Spoil The Flavor - Making Your Food Pop, Part 3"
+description: "Spare the fat, spoil the flavor, part 3 of Making Your Food Pop: how fat carries flavor."
 date: 2010-01-21T07:05:00
 slug: "spare-the-fat-spoil-the-flavor-making-your-food-pop-part-3"
 categories: ["Miscellany", "Theory and Rants"]

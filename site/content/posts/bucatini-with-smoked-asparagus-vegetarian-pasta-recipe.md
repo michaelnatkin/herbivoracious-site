@@ -1,6 +1,5 @@
 ---
-
-## title: "Bucatini with Smoked Asparagus and Gorgonzola - Recipe"
+title: "Bucatini with Smoked Asparagus and Gorgonzola - Recipe"
 date: 2011-05-09T07:05:00
 slug: "bucatini-with-smoked-asparagus-vegetarian-pasta-recipe"
 description: "Recipe for a flavorful vegetarian pasta with smoked asparagus and blue cheese."

@@ -1,5 +1,6 @@
 ---
 title: "Rings Of Saturn On Challah French Toast"
+description: "Rings of Saturn on challah French toast: Saturn (donut) peaches with French toast."
 date: 2008-09-02T03:57:00
 slug: "rings-of-saturn"
 categories: ["Desserts", "Recipes"]

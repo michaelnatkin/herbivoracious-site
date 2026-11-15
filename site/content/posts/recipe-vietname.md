@@ -1,5 +1,6 @@
 ---
 title: "Recipe: Vietnamese Sandwiches with Tofu (Banh Mi Chay)"
+description: "Vegetarian banh mi chay recipe: Vietnamese sandwiches made with tofu."
 date: 2008-04-28T21:39:34
 slug: "recipe-vietname"
 categories: ["Main Courses", "Recipes", "Vegan or Modifiable"]

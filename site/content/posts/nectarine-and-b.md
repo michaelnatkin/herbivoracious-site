@@ -1,5 +1,6 @@
 ---
 title: "Nectarine and Blueberry Tart - Why I Am Not A Pastry Chef"
+description: "Nectarine and blueberry tart, and why the author is not a pastry chef: pâte sablée, pastry cream and ripe fruit."
 date: 2008-08-04T23:05:22
 slug: "nectarine-and-b"
 categories: ["Desserts", "Kid Friendly", "Recipes"]

@@ -1,5 +1,6 @@
 ---
 title: "Hummus Showdown - Abu Shukri vs. Taami"
+description: "Hummus showdown in Jerusalem: Abu Shukri versus Taami, two of the best places to eat hummus in the city."
 date: 2007-10-15T20:24:47
 slug: "hummus-peace-su"
 categories: ["Restaurants", "Travel"]

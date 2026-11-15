@@ -1,5 +1,6 @@
 ---
 title: "Grapefruit Crudo - Recipe"
+description: "Grapefruit crudo with avocado, chervil and capers, a vegetarian dish that looks like tuna but is cut from red grapefruit."
 date: 2008-12-01T06:39:00
 slug: "grapefruit-crudo-recipe"
 categories: ["Appetizers", "Experiments", "Favorites", "Gluten-Free or modifiable", "Recipes", "Vegan or Modifiable"]

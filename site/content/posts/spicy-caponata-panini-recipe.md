@@ -1,5 +1,6 @@
 ---
 title: "Spicy Caponata Panini - Recipe"
+description: "Spicy caponata panini with Mama Lil's peppers, a hot pickled goathorn pepper from Seattle."
 date: 2011-12-07T08:42:15
 slug: "spicy-caponata-panini-recipe"
 categories: ["Recipes", "Sauces and Condiments", "Seattle"]

@@ -1,5 +1,6 @@
 ---
 title: "Recipe: Delicata Squash Stuffed with Orzo in a Sage Brown Butter Sauce"
+description: "Delicata squash stuffed with orzo in a sage brown butter sauce, a vegetarian entree for Thanksgiving."
 date: 2007-11-23T23:41:53
 slug: "recipe-delicata"
 categories: ["Main Courses", "Recipes", "Vegan or Modifiable"]

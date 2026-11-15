@@ -1,5 +1,6 @@
 ---
 title: "Review: Flying Apron Bakery - New Vegan, Gluten Free Bakery in Seattle, WA (Fremont)"
+description: "Review of Flying Apron Bakery, a vegan and gluten-free bakery in Seattle's Fremont neighborhood."
 date: 2007-10-22T14:43:04
 slug: "review-flying-a"
 categories: ["Restaurants", "Seattle", "Vegan or Modifiable"]

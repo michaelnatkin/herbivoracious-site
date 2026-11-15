@@ -1,5 +1,6 @@
 ---
 title: "Kisaku Sushi - Seattle, WA - Restaurant Review"
+description: "Review of Kisaku Sushi in Seattle from a vegetarian's point of view, focusing on the rice, nori and vegetarian sushi."
 date: 2008-09-12T13:42:37
 slug: "kisaku-sushi"
 categories: ["Restaurants"]

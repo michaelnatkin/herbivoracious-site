@@ -1,5 +1,6 @@
 ---
 title: "Calabro - The Best Ricotta Cheese in America"
+description: "Calabro, the best ricotta cheese in America: a fresh, whole milk ricotta with clean milky sweetness."
 date: 2008-04-21T21:34:46
 slug: "calabro-the-b"
 categories: ["Miscellany"]

@@ -1,5 +1,6 @@
 ---
 title: "Transparency and Support"
+description: "Transparency and support: how Herbivoracious is supported, now that the author left a day job for a full-time culinary career."
 date: 2012-09-14T06:00:44
 slug: "transparency-and-support"
 categories: ["My Kitchen"]

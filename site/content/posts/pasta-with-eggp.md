@@ -1,5 +1,6 @@
 ---
 title: "Pasta With Eggplant And Fresh Tomatoes - Recipe"
+description: "Pasta with eggplant and fresh tomatoes, a reinterpreted pasta alla Norma for summer."
 date: 2008-08-19T05:48:00
 slug: "pasta-with-eggp"
 categories: ["Main Courses", "Recipes", "Vegan or Modifiable"]

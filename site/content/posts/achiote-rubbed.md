@@ -1,5 +1,6 @@
 ---
 title: "Achiote-Rubbed Butternut Squash Tacos - Recipe"
+description: "Achiote-rubbed butternut squash tacos, grilled with poblanos and served with crema, cilantro and queso panela."
 date: 2008-09-24T03:15:00
 slug: "achiote-rubbed"
 categories: ["Gluten-Free or modifiable", "Main Courses", "Recipes", "Vegan or Modifiable"]

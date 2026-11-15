@@ -1,5 +1,6 @@
 ---
 title: "How To Make Crispy, Delicious Latkes (Jewish Potato Pancakes, Traditional for Hanukkah) - Recipe"
+description: "How to make crispy potato latkes for Hanukkah with just potato, onion, egg and salt. Tips for getting them shatteringly crisp."
 date: 2008-12-25T21:30:22
 slug: "latkes-crispy-for-hannukah"
 categories: ["Gluten-Free or modifiable", "Kid Friendly", "Main Courses", "Recipes", "Side Dishes"]

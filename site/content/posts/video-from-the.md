@@ -1,5 +1,6 @@
 ---
 title: "Video From the Blogger Brunch"
+description: "Video from the Seattle food blogger brunch, with bloggers talking about their dishes."
 date: 2008-01-10T21:42:07
 slug: "video-from-the"
 categories: ["Miscellany"]

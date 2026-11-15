@@ -1,5 +1,6 @@
 ---
 title: "Review: Dinette Restaurant, Seattle, Washington"
+description: "Review of Dinette on Seattle's Capitol Hill, known for antique serving platters and mismatched place settings."
 date: 2007-08-13T03:58:00
 slug: "dinette-restaur"
 categories: ["Restaurants"]

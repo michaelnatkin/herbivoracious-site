@@ -1,5 +1,6 @@
 ---
 title: "Red Lentil and Kabocha Squash Soup with Harissa Oil - Sneak Peek Recipe From The Cookbook"
+description: "Red lentil and kabocha squash soup with harissa oil, a sneak peek recipe from the Herbivoracious cookbook."
 date: 2012-02-15T07:02:08
 slug: "red-lentil-and-kabocha-squash-soup-with-harissa-oil-sneak-peak-recipe-from-the-cookbook"
 categories: ["Cookbook Project", "Gluten-Free or modifiable", "Recipes", "Sauces and Condiments", "Soups", "Vegan or Modifiable"]

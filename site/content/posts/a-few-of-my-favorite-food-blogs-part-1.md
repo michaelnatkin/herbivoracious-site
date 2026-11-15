@@ -1,5 +1,6 @@
 ---
 title: "A Few Of My Favorite Food Blogs, Part 1"
+description: "A few of my favorite food blogs, part 1, from professionals to molecular gastronomists to vegans."
 date: 2009-01-06T13:26:51
 slug: "a-few-of-my-favorite-food-blogs-part-1"
 categories: ["Weblogs"]

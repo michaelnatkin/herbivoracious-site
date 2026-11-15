@@ -1,5 +1,6 @@
 ---
 title: "Interview with Jill Lightner, Editor of Edible Seattle Magazine (But Keep Reading if you Live Elsewhere!)"
+description: "An interview with Jill Lightner, editor of Edible Seattle magazine."
 date: 2009-04-13T06:45:00
 slug: "edible-seattle-interview-jill-lightner"
 categories: ["Seattle"]

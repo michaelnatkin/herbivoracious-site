@@ -1,5 +1,6 @@
 ---
 title: "Rustic Peach and Nectarine Crostata - Recipe"
+description: "Rustic peach and nectarine crostata: pie without the fuss, with a free-form crust."
 date: 2009-08-20T06:43:00
 slug: "rustic-peach-and-nectarine-crostata-recipe"
 categories: ["Baking", "Desserts", "Kid Friendly", "Recipes"]

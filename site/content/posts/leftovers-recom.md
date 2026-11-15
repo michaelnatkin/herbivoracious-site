@@ -1,5 +1,6 @@
 ---
 title: "Leftovers, Recomposed (Couscous with Zucchini, a Fried Egg, and Truffle Oil)"
+description: "Leftovers recomposed: couscous with zucchini, chickpeas, a fried egg and truffle oil, a 10-minute supper."
 date: 2007-08-09T21:42:10
 slug: "leftovers-recom"
 categories: ["Recipes"]

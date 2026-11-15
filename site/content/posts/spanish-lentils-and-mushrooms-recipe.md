@@ -1,5 +1,6 @@
 ---
 title: "Spanish Lentils and Mushrooms - Recipe"
+description: "Spanish lentils and mushrooms: thick-cut browned mushrooms with French green lentils, sherry vinegar and smoked paprika."
 date: 2010-04-15T10:10:50
 slug: "spanish-lentils-and-mushrooms-recipe"
 categories: ["Gluten-Free or modifiable", "Recipes", "Side Dishes", "Vegan or Modifiable"]

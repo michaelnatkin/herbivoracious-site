@@ -1,5 +1,6 @@
 ---
 title: "Cherry-Pumpkin Seed Muffins From The \"Farm To Table Cookbook\" - Recipe"
+description: "Cherry-pumpkin seed muffins from Ivy Manning's Farm to Table Cookbook, with a review of the seasonal cookbook."
 date: 2008-07-26T15:58:32
 slug: "cherry-pumpkin"
 categories: ["Baking", "Breakfast", "Kid Friendly", "Recipes"]

@@ -1,5 +1,6 @@
 ---
 title: "Blogroll"
+description: "Blogroll: other food sites the author enjoys, from modernist cuisine to vegetarian and vegan blogs."
 date: 2011-06-17T09:06:08
 slug: "lists"
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Why I'm A Vegetarian, Dammit"
+description: "Why I'm a vegetarian: a personal essay after almost 25 years of answering the question."
 date: 2009-07-07T07:25:00
 slug: "why-im-a-vegetarian-dammit"
 categories: ["Favorites", "Miscellany", "Theory and Rants"]

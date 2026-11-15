@@ -1,5 +1,6 @@
 ---
 title: "Corn Nut Butter - Recipe Work in Progress"
+description: "Corn nut butter: an experiment grinding Corn Nuts into a 'nut' butter, a recipe work in progress."
 date: 2012-06-29T09:54:32
 slug: "corn-nut-butter-recipe-work-in-progress"
 categories: ["Experiments", "Gluten-Free or modifiable", "Recipes", "Vegan or Modifiable"]

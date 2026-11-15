@@ -1,5 +1,6 @@
 ---
 title: "Chickpea and Saffron Pilaf with Crispy Onions - Recipe"
+description: "Chickpea and saffron pilaf with crispy onions. The trick is sautéing the rice in the flavorful oil left from frying the onions."
 date: 2013-06-06T19:45:03
 slug: "chickpea-and-saffron-pilaf-with-crispy-onions-recipe"
 categories: ["Gluten-Free or modifiable", "Main Courses", "Recipes", "Side Dishes", "Vegan or Modifiable"]

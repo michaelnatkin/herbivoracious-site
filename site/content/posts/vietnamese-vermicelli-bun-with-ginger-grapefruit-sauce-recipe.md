@@ -1,5 +1,6 @@
 ---
 title: "Vietnamese Vermicelli (Bun) with Ginger-Grapefruit Sauce - Recipe"
+description: "Vietnamese vermicelli (bún) with ginger-grapefruit sauce: thin rice noodles with cooked and fresh toppings, herbs and a sweet-savory sauce."
 date: 2009-10-19T06:50:00
 slug: "vietnamese-vermicelli-bun-with-ginger-grapefruit-sauce-recipe"
 categories: ["Gluten-Free or modifiable", "Kid Friendly", "Main Courses", "Recipes", "Vegan or Modifiable"]

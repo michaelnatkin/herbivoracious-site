@@ -1,5 +1,6 @@
 ---
 title: "Flaky Biscuits!"
+description: "Flaky biscuits, inspired by a Fine Cooking recipe for tender, layered biscuits."
 date: 2007-07-29T10:13:49
 slug: "flaky-biscuits"
 categories: ["Breakfast", "Kid Friendly", "Recipes"]

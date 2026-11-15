@@ -1,5 +1,6 @@
 ---
 title: "Can a Vegetarian Eat at Pike Street Fish Fry? Restaurant Review - Seattle, WA"
+description: "Can a vegetarian eat at Pike Street Fish Fry? A Seattle restaurant review."
 date: 2009-01-01T15:57:00
 slug: "can-a-vegetarian-eat-at-pike-street-fish-fry-restaurant-review-seattle-wa"
 categories: ["Restaurants", "Seattle"]

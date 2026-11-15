@@ -1,5 +1,6 @@
 ---
 title: "Recipe: Valentine's Day Crepes with Chocolate Ganache And Raspberry Compote"
+description: "Valentine's Day crepes with chocolate ganache and raspberry compote, from a men's cooking group dinner."
 date: 2008-02-10T23:54:10
 slug: "recipe-valentin"
 categories: ["Desserts", "Kid Friendly", "Recipes"]

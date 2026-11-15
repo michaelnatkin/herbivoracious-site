@@ -1,5 +1,6 @@
 ---
 title: "Holiday Shopping for Gourmets (or Gourmands) - ChefShop.com"
+description: "Holiday shopping for gourmets: gift ideas from ChefShop.com, a Seattle business importing small-producer foods from Europe."
 date: 2008-11-28T13:57:43
 slug: "holiday-shopping-for-gourmets-or-gourmands-chefshopcom"
 categories: ["Seattle"]

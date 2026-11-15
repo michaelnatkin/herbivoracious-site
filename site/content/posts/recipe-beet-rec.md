@@ -1,5 +1,6 @@
 ---
 title: "Recipe: Beet Greens with Pumpkin Seed Oil and Cherry Vinegar"
+description: "Beet greens with pumpkin seed oil and cherry vinegar, a use for the beet greens you'd normally toss."
 date: 2008-03-14T15:23:23
 slug: "recipe-beet-rec"
 categories: ["Recipes", "Salads", "Vegan or Modifiable"]

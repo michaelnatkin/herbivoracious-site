@@ -1,5 +1,6 @@
 ---
 title: "Iced Lychee With Asian Mignonette Sauce - Recipe"
+description: "Iced lychee with an Asian mignonette sauce, the third of three lychee amuse bouche, inspired by oysters on ice."
 date: 2008-08-12T06:33:00
 slug: "iced-lychee-wit"
 categories: ["Appetizers", "Experiments", "Gluten-Free or modifiable", "Recipes", "Vegan or Modifiable"]

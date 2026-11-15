@@ -1,5 +1,6 @@
 ---
 title: "Eating Vegetarian in Ethnic Restaurants Part 1 - Overview"
+description: "Eating vegetarian in ethnic restaurants, part 1: an overview of how a vegetarian can eat well at restaurants from around the world."
 date: 2007-07-26T23:48:31
 slug: "eating-vegetari"
 categories: ["Restaurants"]

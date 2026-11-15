@@ -1,5 +1,6 @@
 ---
 title: "Seattle P-I Review of Cafe Flora (Including the Dumplings)"
+description: "The Seattle P-I review of Cafe Flora, including the green dumplings in shiitake broth."
 date: 2008-01-03T21:57:27
 slug: "seattle-p-i-rev"
 categories: ["Cooking Internship"]

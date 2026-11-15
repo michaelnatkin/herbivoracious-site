@@ -1,6 +1,6 @@
 ---
-
-## title: "Braised Artichokes in a Tomato-Red Wine Sauce - Recipe"
+title: "Braised Artichokes in a Tomato-Red Wine Sauce - Recipe"
+description: "Braised artichokes in tomato-red wine sauce, made with frost-kissed artichokes that have a nuttier, more concentrated flavor."
 date: 2009-03-05T06:23:00
 slug: "braised-artichokes-in-a-tomatored-wine-sauce-recipe"
 categories: ["Gluten-Free or modifiable", "Recipes", "Side Dishes", "Vegan or Modifiable"]

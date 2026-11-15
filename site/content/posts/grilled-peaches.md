@@ -1,5 +1,6 @@
 ---
 title: "Grilled Peaches with Ras Al Hanout and Ginger Beer Reduction"
+description: "Grilled peaches with ras el hanout and a ginger beer reduction, an easy sweet, pungent and spicy appetizer or dessert."
 date: 2007-07-19T13:21:27
 slug: "grilled-peaches"
 categories: ["Appetizers", "Recipes", "Vegan or Modifiable"]

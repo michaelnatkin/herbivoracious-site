@@ -1,5 +1,6 @@
 ---
 title: "Pan-Fried Polenta with Chickpea Stew, King Oyster Mushrooms and Fig Puree"
+description: "Pan-fried polenta with chickpea stew, king oyster mushrooms and fig puree, from a five-course Cafe Flora benefit dinner for City Fruit."
 date: 2012-11-01T10:08:08
 slug: "pan-fried-polenta-with-chickpea-stew-king-oyster-mushrooms-and-fig-puree"
 categories: ["Gluten-Free or modifiable", "Main Courses", "Recipes"]

@@ -1,5 +1,6 @@
 ---
 title: "Making Mozarella at Home"
+description: "Making mozzarella at home, with vegetable rennet and citric acid."
 date: 2007-07-18T14:48:46
 slug: "making-mozare-1"
 categories: ["Experiments", "Recipes"]

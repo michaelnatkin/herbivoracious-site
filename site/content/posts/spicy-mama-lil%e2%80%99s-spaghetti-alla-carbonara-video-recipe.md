@@ -1,5 +1,6 @@
 ---
 title: "Spicy Mama Lil’s Spaghetti alla Carbonara - Video Recipe"
+description: "Spicy Mama Lil's spaghetti alla carbonara in video: watch the crucial step of tossing the hot pasta with the eggs."
 date: 2012-04-23T07:00:12
 slug: "spicy-mama-lil%e2%80%99s-spaghetti-alla-carbonara-video-recipe"
 categories: ["Cooking Videos", "Main Courses", "Recipes"]

@@ -1,5 +1,6 @@
 ---
 title: "Recipe: Pappardelle With Cauliflower and Zucchini"
+description: "Pappardelle with cauliflower and zucchini, a pasta with vegetables and butter."
 date: 2008-06-11T20:22:52
 slug: "pappardelle-wit"
 categories: ["Main Courses", "Recipes"]

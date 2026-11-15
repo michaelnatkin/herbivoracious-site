@@ -1,5 +1,6 @@
 ---
 title: "Chana Dal in the Style of Puri Jagannath Temple - Recipe"
+description: "Chana dal in the style of Puri Jagannath Temple: a satisfying Indian lentil and rice dish."
 date: 2009-02-23T06:36:00
 slug: "chana-dal-in-the-style-of-puri-jagannath-temple-recipe"
 water_note: "beans"

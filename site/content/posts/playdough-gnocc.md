@@ -1,5 +1,6 @@
 ---
 title: "Playdough Gnocchi (Recipe)"
+description: "Playdough gnocchi: a simple, ultra-smooth gnocchi recipe made with a toddler for the Hay Hay It's Donna Day gnocchi contest."
 date: 2007-08-17T10:17:49
 slug: "playdough-gnocc"
 categories: ["Recipes", "Vegan or Modifiable"]

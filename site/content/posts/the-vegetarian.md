@@ -1,5 +1,6 @@
 ---
 title: "The Vegetarian Foodie Manifesto"
+description: "The Vegetarian Foodie manifesto: a blog for passionate, well-prepared and beautifully presented vegetarian food."
 date: 2007-07-10T20:20:15
 slug: "the-vegetarian"
 categories: ["Miscellany"]

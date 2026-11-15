@@ -1,5 +1,6 @@
 ---
 title: "Cold Sorrel and Coconut Milk Soup - Recipe"
+description: "Cold sorrel and coconut milk soup, a refreshing chilled soup for warm weather."
 date: 2012-07-02T06:00:57
 slug: "cold-sorrel-and-coconut-milk-soup-recipe"
 categories: ["Gluten-Free or modifiable", "Recipes", "Soups", "Vegan or Modifiable"]

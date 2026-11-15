@@ -1,5 +1,6 @@
 ---
 title: "New Restaurant Review 360 + An Unexpected Surprise"
+description: "The next Seattle Restaurant Review 360, hosted by Gastrognome, reviewing Jasmine Provincial Vietnamese Cuisine."
 date: 2008-04-30T13:16:05
 slug: "new-restaurant"
 categories: ["Miscellany"]

@@ -1,5 +1,6 @@
 ---
 title: "Wacky Chana Chaat - Spicy Chickpea Snack - Recipe"
+description: "Wacky chana chaat: a spicy chickpea snack in the family of Indian street food called chaat."
 date: 2012-09-24T06:15:32
 slug: "wacky-chana-chaat-spicy-chickpea-snack-recipe"
 categories: ["Appetizers", "Gluten-Free or modifiable", "Recipes", "Vegan or Modifiable"]

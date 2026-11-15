@@ -1,5 +1,6 @@
 ---
 title: "Roasted Corn With Ancho Chili Butter - Recipe"
+description: "Roasted corn with ancho chili butter: a technique and recipe for corn on the cob with deep roasted flavor."
 date: 2008-07-19T06:28:00
 slug: "roasted-corn-wi"
 categories: ["Recipes", "Side Dishes"]

@@ -1,5 +1,6 @@
 ---
 title: "Arancini Di Riso - Deep-Fried Risotto Balls - Recipe"
+description: "Arancini di riso: Sicilian risotto balls stuffed with molten cheese, rolled in breadcrumbs and deep fried."
 date: 2009-08-06T06:41:00
 slug: "arancini-di-riso-fried-risotto-balls-recipe"
 categories: ["Appetizers", "Gluten-Free or modifiable", "Recipes"]

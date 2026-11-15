@@ -1,5 +1,6 @@
 ---
 title: "Tofu In The Style Of Southeast Asian Steamed Fish (Vegetarian)"
+description: "Vegetarian tofu in the style of Southeast Asian steamed fish, wrapped and steamed with lemongrass and ginger for aromatic steam at the table."
 date: 2008-07-06T14:20:10
 slug: "tofu-in-the-sty"
 categories: ["Experiments", "Main Courses", "Recipes", "Vegan or Modifiable"]

@@ -1,5 +1,6 @@
 ---
 title: "Paella Cakes with Manchego and Candied Seville Orange Peel - Recipe"
+description: "Paella cakes with Manchego and candied Seville orange peel, a vegetarian Thanksgiving entree attempt with notes on what to improve."
 date: 2008-12-08T06:54:00
 slug: "paella-cakes-with-manchego-and-candied-seville-orange-peel-recipe"
 categories: ["Appetizers", "Gluten-Free or modifiable", "Recipes"]

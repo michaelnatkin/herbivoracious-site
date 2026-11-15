@@ -1,5 +1,6 @@
 ---
 title: "Recipe: Roasted Purple Cauliflower with Sherry Vinaigrette and Fried Capers"
+description: "Roasted purple cauliflower with sherry vinaigrette and fried capers, a quick dish made for a last-minute potluck."
 date: 2007-11-26T20:42:45
 slug: "recipe-roasted"
 categories: ["Recipes", "Side Dishes", "Vegan or Modifiable"]

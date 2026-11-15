@@ -1,5 +1,6 @@
 ---
 title: "Review: Senor Moose Cafe"
+description: "Review of Señor Moose Café, a Mexican restaurant in Ballard, Seattle."
 date: 2008-01-25T08:51:22
 slug: "review-senor-mo"
 categories: ["Restaurants", "Seattle"]

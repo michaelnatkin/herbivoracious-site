@@ -1,5 +1,6 @@
 ---
 title: "A French Oven You Can Live In - My Favorite Pot - AKA Dutch Oven"
+description: "A French oven you can live in: why a 5.5-quart Le Creuset Dutch oven is the favorite pot for soups, stews, braises and chili."
 date: 2012-10-18T15:32:44
 slug: "a-french-oven-you-can-live-in-my-favorite-pot-aka-dutch-oven"
 ---

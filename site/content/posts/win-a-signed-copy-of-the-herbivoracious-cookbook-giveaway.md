@@ -1,5 +1,6 @@
 ---
 title: "Win a Signed Copy of the Herbivoracious Cookbook - Giveaway"
+description: "Win a signed copy of the Herbivoracious cookbook: a giveaway by signing up for the email list."
 date: 2012-07-11T06:56:48
 slug: "win-a-signed-copy-of-the-herbivoracious-cookbook-giveaway"
 categories: ["Contests"]

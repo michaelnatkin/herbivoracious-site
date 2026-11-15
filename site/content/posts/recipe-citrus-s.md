@@ -1,5 +1,6 @@
 ---
 title: "Recipe: Citrus Salad with Sherry Vinaigrette"
+description: "Citrus salad with sherry vinaigrette: blood oranges and grapefruit supremes on arugula and mâche."
 date: 2008-02-19T06:46:00
 slug: "recipe-citrus-s"
 categories: ["Recipes", "Salads", "Vegan or Modifiable"]

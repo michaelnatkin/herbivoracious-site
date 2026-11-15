@@ -1,5 +1,6 @@
 ---
 title: "Silicone Pastry Brushes - A Huge Improvement"
+description: "Silicone pastry brushes: why they're a huge improvement over old-school bristle brushes and are dishwasher safe."
 date: 2012-10-11T14:24:40
 slug: "silicone-pastry-brushes-a-huge-improvement"
 ---

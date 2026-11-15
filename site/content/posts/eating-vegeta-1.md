@@ -1,5 +1,6 @@
 ---
 title: "Eating Vegetarian in Ethnic Restaurants Part 2 - Thai Food"
+description: "Eating vegetarian in ethnic restaurants, part 2 Thai food: what to watch out for, like fish sauce and shrimp paste."
 date: 2007-07-30T08:00:00
 slug: "eating-vegeta-1"
 categories: ["Restaurants"]

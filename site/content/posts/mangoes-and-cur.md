@@ -1,5 +1,6 @@
 ---
 title: "Mangoes And Curry Leaves - Cookbook Review With Recipe For Bangla-Flavored Fried Zucchini"
+description: "Bangladeshi-style fried zucchini, plus a review of Jeffrey Alford and Naomi Duguid's cookbook Mangoes and Curry Leaves."
 date: 2008-09-17T04:02:00
 slug: "mangoes-and-cur"
 categories: ["Books", "Gluten-Free or modifiable", "Recipes", "Side Dishes", "Vegan or Modifiable"]

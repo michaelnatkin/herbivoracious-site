@@ -1,5 +1,6 @@
 ---
 title: "Sugar High Friday - Mysterious Cupcakes"
+description: "Sugar High Friday mysterious cupcakes, a cupcake recipe for the Sugar High Friday event hosted by Fanny."
 date: 2008-09-14T07:30:53
 slug: "sugar-high-frid"
 categories: ["Experiments"]

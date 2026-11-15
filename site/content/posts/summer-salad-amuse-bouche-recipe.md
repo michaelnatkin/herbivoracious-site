@@ -1,5 +1,6 @@
 ---
 title: "Summer Salad Amuse Bouche - Recipe"
+description: "A summer salad amuse bouche of diced cucumber, peas in the pod, cherry tomato and lemon basil: a pop of gazpacho-like flavor."
 date: 2009-07-16T06:15:00
 slug: "summer-salad-amuse-bouche-recipe"
 categories: ["Experiments", "Gluten-Free or modifiable", "Recipes", "Salads", "Vegan or Modifiable"]

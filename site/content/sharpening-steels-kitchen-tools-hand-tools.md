@@ -1,5 +1,6 @@
 ---
 title: "Sharpening Steel"
+description: "Sharpening steel: why to have a steel to keep a knife's edge between sharpenings."
 date: 2012-10-06T11:15:37
 slug: "sharpening-steels-kitchen-tools-hand-tools"
 ---

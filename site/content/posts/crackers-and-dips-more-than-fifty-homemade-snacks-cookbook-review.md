@@ -1,5 +1,6 @@
 ---
 title: "Crackers and Dips: More than Fifty Homemade Snacks - Cookbook Review"
+description: "Review of Crackers and Dips, a cookbook with more than fifty homemade snacks, and why single-subject cookbooks are so useful."
 date: 2013-07-08T06:00:30
 slug: "crackers-and-dips-more-than-fifty-homemade-snacks-cookbook-review"
 categories: ["Baking", "Books", "Kid Friendly", "My Kitchen", "Recipes"]

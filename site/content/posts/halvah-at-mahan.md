@@ -1,5 +1,6 @@
 ---
 title: "Halvah at Mahane Yehuda Market, Jerusalem, Israel"
+description: "Halvah at Mahane Yehuda Market in Jerusalem: dozens of varieties of fresh sesame candy with nuts, chocolate, lemon or rose water."
 date: 2007-09-11T03:55:00
 slug: "halvah-at-mahan"
 categories: ["Travel"]

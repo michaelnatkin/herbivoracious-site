@@ -1,5 +1,6 @@
 ---
 title: "My First Week Working At Cafe Flora"
+description: "My first week working at Cafe Flora, the Seattle vegetarian restaurant, interning in a professional kitchen."
 date: 2007-10-19T14:10:50
 slug: "my-first-week-w"
 categories: ["Cooking Internship"]

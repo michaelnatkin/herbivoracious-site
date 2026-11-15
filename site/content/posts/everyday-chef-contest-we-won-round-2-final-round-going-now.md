@@ -1,5 +1,6 @@
 ---
 title: "Everyday Chef Contest - We Won Round 2! - Final Round Starting Now"
+description: "Winning round 2 of the Pacific Natural Foods Everyday Chef Contest with Enfrijoladas de Espinaca."
 date: 2010-10-07T08:30:22
 slug: "everyday-chef-contest-we-won-round-2-final-round-going-now"
 categories: ["Contests", "Miscellany"]

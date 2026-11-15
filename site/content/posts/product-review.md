@@ -1,5 +1,6 @@
 ---
 title: "Product Review: Vitasoy Peppermint Chocolate Soymilk"
+description: "Product review of Vitasoy peppermint chocolate soymilk, a winter seasonal treat."
 date: 2007-11-16T09:04:35
 slug: "product-review"
 categories: ["Miscellany"]

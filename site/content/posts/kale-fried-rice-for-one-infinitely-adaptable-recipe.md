@@ -1,5 +1,6 @@
 ---
 title: "Kale Fried Rice for One - Infinitely Adaptable Recipe"
+description: "Kale fried rice for one: an infinitely adaptable, quick meal that works best with day-old rice."
 date: 2013-06-26T11:05:00
 slug: "kale-fried-rice-for-one-infinitely-adaptable-recipe"
 categories: ["Main Courses", "Recipes"]

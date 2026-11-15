@@ -1,5 +1,6 @@
 ---
 title: "Gorditas with Roasted Mushrooms - Recipe"
+description: "Gorditas with roasted mushrooms: thick corn tortillas, toasted then fried, split and filled. Close cousins of arepas and pupusas."
 date: 2013-04-08T06:00:51
 slug: "gorditas-with-roasted-mushrooms-recipe"
 categories: ["Gluten-Free or modifiable", "Main Courses", "Recipes", "Vegan or Modifiable"]

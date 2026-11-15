@@ -1,5 +1,6 @@
 ---
 title: "Coconut Water"
+description: "Coconut water: notes on drinking fresh coconut water and a brief look at the raw food diet."
 date: 2007-07-11T13:06:46
 slug: "to-play-video-m"
 categories: ["Miscellany"]

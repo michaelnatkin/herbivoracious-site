@@ -1,5 +1,6 @@
 ---
 title: "Smoked Tofu Buns - Recipe"
+description: "Smoked tofu buns inspired by David Chang's pork buns, with a pickle and kochujang instead of hoisin sauce."
 date: 2013-01-07T07:00:57
 slug: "smoked-tofu-buns-recipe"
 categories: ["Appetizers", "Recipes", "Vegan or Modifiable"]

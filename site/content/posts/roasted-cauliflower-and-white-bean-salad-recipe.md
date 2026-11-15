@@ -1,5 +1,6 @@
 ---
 title: "Roasted Cauliflower and White Bean Salad with Orange Olive Oil Dressing - Recipe"
+description: "Roasted cauliflower and white bean salad with an orange olive oil dressing, a make-ahead dish that keeps well in the fridge."
 date: 2010-02-01T07:30:00
 slug: "roasted-cauliflower-and-white-bean-salad-recipe"
 categories: ["Gluten-Free or modifiable", "Recipes", "Salads", "Vegan or Modifiable"]

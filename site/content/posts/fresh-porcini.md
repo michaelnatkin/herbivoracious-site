@@ -1,5 +1,6 @@
 ---
 title: "Fresh Porcini in Italy and Seattle!"
+description: "Fresh porcini (cèpes) in season in Italy and Seattle, including 21 pounds delivered to Cafe Flora."
 date: 2007-11-01T23:08:53
 slug: "fresh-porcini"
 categories: ["Seattle", "Travel"]

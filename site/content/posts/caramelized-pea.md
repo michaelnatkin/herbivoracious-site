@@ -1,5 +1,6 @@
 ---
 title: "Caramelized Pear \"Cupcakes\" With Blue Cheese Frosting"
+description: "Caramelized pear 'cupcakes' with blue cheese frosting, a sweet and savory combination of pears and blue cheese."
 date: 2007-08-27T04:46:00
 slug: "caramelized-pea"
 categories: ["Baking", "Experiments", "Recipes"]

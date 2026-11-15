@@ -1,5 +1,6 @@
 ---
 title: "Review: Noni's Kitchen"
+description: "Review of Noni's Kitchen, known for its bolema pastries filled with feta and spinach and its lemony simmered artichokes."
 date: 2008-04-05T22:38:39
 slug: "review-nonis-ki"
 categories: ["Miscellany"]

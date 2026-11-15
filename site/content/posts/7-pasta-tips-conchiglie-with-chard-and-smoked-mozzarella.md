@@ -1,5 +1,6 @@
 ---
 title: "7 Tips For Fast And Flavorful Pastas, Including A Recipe For Conchiglie With Chard And Smoked Mozzarella"
+description: "Seven tips for fast and flavorful pastas, with a recipe for conchiglie with chard and smoked mozzarella."
 date: 2008-11-24T06:57:00
 slug: "7-pasta-tips-conchiglie-with-chard-and-smoked-mozzarella"
 categories: ["Main Courses", "Recipes"]

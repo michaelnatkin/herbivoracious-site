@@ -1,5 +1,6 @@
 ---
 title: "Best Vegetarian Chili Recipe - Delicious, Easy, Healthy and (Optionally) Vegan"
+description: "Best vegetarian chili recipe: easy, healthy, make-ahead and optionally vegan, a meal in a bowl."
 date: 2009-04-01T20:58:24
 slug: "vegetarian-chili-recipe"
 categories: ["Favorites", "Gluten-Free or modifiable", "Kid Friendly", "Main Courses", "Recipes", "Vegan or Modifiable"]

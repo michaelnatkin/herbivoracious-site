@@ -1,5 +1,6 @@
 ---
 title: "Sichuan Spicy Cauliflower - Recipe"
+description: "Sichuan spicy cauliflower, a vegetarian recipe with bold Sichuan flavors."
 date: 2013-03-18T06:40:27
 slug: "sichuan-spicy-cauliflower-recipe"
 categories: ["Gluten-Free or modifiable", "Recipes", "Side Dishes", "Vegan or Modifiable"]

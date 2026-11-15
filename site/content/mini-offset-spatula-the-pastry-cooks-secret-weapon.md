@@ -1,5 +1,6 @@
 ---
 title: "Mini Offset Spatula - The Pastry Cook's Secret Weapon"
+description: "Why a mini offset spatula is the pastry cook's secret weapon for frosting cookies and cupcakes and reaching into baking pans."
 date: 2012-10-11T10:15:39
 slug: "mini-offset-spatula-the-pastry-cooks-secret-weapon"
 ---

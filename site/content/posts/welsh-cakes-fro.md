@@ -1,5 +1,6 @@
 ---
 title: "Welsh Cakes from Alford and Duguid's HomeBaking"
+description: "Welsh cakes from Alford and Duguid's HomeBaking, a scone-like treat to make with kids."
 date: 2007-10-18T12:46:53
 slug: "welsh-cakes-fro"
 categories: ["Baking", "Books", "Breakfast", "Kid Friendly", "Recipes"]

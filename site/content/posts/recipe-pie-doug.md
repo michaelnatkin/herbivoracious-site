@@ -1,5 +1,6 @@
 ---
 title: "Recipe: Pie Dough and Ganache Cookie Towers"
+description: "Pie dough and ganache cookie towers: a quick chocolate treat from leftover flaky pie dough and circle cutters."
 date: 2007-12-07T17:50:00
 slug: "recipe-pie-doug"
 categories: ["Baking", "Desserts", "Experiments", "Recipes"]

@@ -1,5 +1,6 @@
 ---
 title: "King Oyster Mushrooms With Pesto, Grilled Polenta, and White Beans"
+description: "King oyster mushrooms with pesto, grilled polenta and white beans, also sold as French horn mushrooms."
 date: 2008-07-13T22:10:54
 slug: "king-oyster-mus"
 categories: ["Gluten-Free or modifiable", "Main Courses", "Recipes"]

@@ -1,5 +1,6 @@
 ---
 title: "I Like You (Hospitality Under the Influence), by Amy Sedaris - Cookbook Review with Recipe for Greek Koulourakia Cookies"
+description: "Review of Amy Sedaris's I Like You (Hospitality Under the Influence), with a recipe for Greek koulourakia cookies with cardamom."
 date: 2008-11-13T10:53:53
 slug: "i-like-you-hospitality-under-the-influence-by-amy-sedaris-cookbook-review"
 categories: ["Baking", "Desserts", "Kid Friendly", "Recipes"]

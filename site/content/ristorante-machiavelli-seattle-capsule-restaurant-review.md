@@ -1,5 +1,6 @@
 ---
 title: "Ristorante Machiavelli - Seattle - Capsule Restaurant Review"
+description: "Capsule review of Ristorante Machiavelli, a red-sauce Italian restaurant on Seattle's Capitol Hill."
 date: 2008-11-14T21:47:14
 slug: "ristorante-machiavelli-seattle-capsule-restaurant-review"
 ---

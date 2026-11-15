@@ -1,5 +1,6 @@
 ---
 title: "Contest - Win a Copy of The Complete Tassajara Cookbook or The Tassajara Bread Book"
+description: "Contest: win a copy of The Complete Tassajara Cookbook or The Tassajara Bread Book, two classics."
 date: 2009-10-06T22:22:22
 slug: "complete-tassajara-cookbook-tassajara-bread-book"
 categories: ["Miscellany"]

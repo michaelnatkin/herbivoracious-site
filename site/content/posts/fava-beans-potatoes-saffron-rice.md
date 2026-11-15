@@ -1,5 +1,6 @@
 ---
 title: "Fava Beans, Potatoes and Saffron Rice with Feta Cheese and Fresh Herbs - Recipe"
+description: "Fava beans, crispy potatoes and saffron rice with feta and fresh herbs, a Middle Eastern fava bean recipe."
 date: 2009-04-09T06:41:00
 slug: "fava-beans-potatoes-saffron-rice"
 categories: ["Gluten-Free or modifiable", "Kid Friendly", "Main Courses", "Recipes", "Vegan or Modifiable"]

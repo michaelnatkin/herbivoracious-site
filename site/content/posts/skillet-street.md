@@ -1,5 +1,6 @@
 ---
 title: "Skillet Street Food - Seattle, WA - Restaurant Review"
+description: "Review of Skillet Street Food, the famous Seattle mobile restaurant, with notes for vegetarians."
 date: 2008-09-26T03:28:00
 slug: "skillet-street"
 categories: ["Restaurants"]

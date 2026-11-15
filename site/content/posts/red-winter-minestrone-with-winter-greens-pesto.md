@@ -1,5 +1,6 @@
 ---
 title: "Red Winter Minestrone with Winter Greens Pesto"
+description: "Red winter minestrone with winter greens pesto, made from hardy greens and root vegetables available in winter."
 date: 2012-10-15T06:00:25
 slug: "red-winter-minestrone-with-winter-greens-pesto"
 categories: ["Gluten-Free or modifiable", "Recipes", "Soups", "Vegan or Modifiable"]

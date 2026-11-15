@@ -1,5 +1,6 @@
 ---
 title: "Privacy Policy"
+description: "Herbivoracious privacy policy: what information the site collects, how analytics and cookies are used, and your choices."
 date: 2026-11-14T09:00:00
 slug: "privacy-policy"
 ---

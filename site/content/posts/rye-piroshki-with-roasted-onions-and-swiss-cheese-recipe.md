@@ -1,5 +1,6 @@
 ---
 title: "Rye Piroshki with Roasted Onions, Caraway, and Swiss Cheese - Recipe"
+description: "Rye piroshki with roasted onions, caraway and Swiss cheese: individual yeast buns popular in Russia and Eastern Europe."
 date: 2012-08-06T06:00:56
 slug: "rye-piroshki-with-roasted-onions-and-swiss-cheese-recipe"
 categories: ["Baking", "Main Courses", "Recipes"]

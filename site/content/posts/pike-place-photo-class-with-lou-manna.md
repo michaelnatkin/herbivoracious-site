@@ -1,5 +1,6 @@
 ---
 title: "Pike Place Photo Class with Lou Manna"
+description: "A Pike Place Market photo class with food photographer Lou Manna, arranged by Keren Brown, the Frantic Foodie."
 date: 2009-09-21T22:51:37
 slug: "pike-place-photo-class-with-lou-manna"
 categories: ["Miscellany"]

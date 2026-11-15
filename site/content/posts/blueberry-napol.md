@@ -1,5 +1,6 @@
 ---
 title: "Blueberry Napoleon with Crème Fraîche and Raspberry Powder"
+description: "Blueberry napoleon with crème fraîche and raspberry powder, a dessert with pastry rectangles layered with blueberries."
 date: 2008-08-02T07:42:11
 slug: "blueberry-napol"
 categories: ["Desserts", "Kid Friendly", "Recipes"]

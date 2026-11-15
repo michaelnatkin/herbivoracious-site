@@ -1,5 +1,6 @@
 ---
 title: "Sicilian Spaghetti with Pan-Roasted Cauliflower - Recipe from My Cookbook"
+description: "Sicilian spaghetti with pan-roasted cauliflower, orange zest, raisins, capers, pine nuts and chile flakes, from the Herbivoracious cookbook."
 date: 2012-02-29T07:05:09
 slug: "sicilian-spaghetti-with-pan-roasted-cauliflower-recipe-from-my-cookbook"
 categories: ["Cookbook Project", "Favorites", "Main Courses", "Recipes", "Vegan or Modifiable"]

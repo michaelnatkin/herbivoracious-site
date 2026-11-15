@@ -1,5 +1,6 @@
 ---
 title: "Otsu Noodles (Sesame Soba Noodle Salad) - Recipe"
+description: "Otsu noodles, a sesame soba noodle salad, and what makes them different from peanut butter sesame noodles."
 date: 2007-10-09T07:44:09
 slug: "recipe-otsu-noo"
 categories: ["Kid Friendly", "Main Courses", "Recipes", "Salads", "Vegan or Modifiable"]

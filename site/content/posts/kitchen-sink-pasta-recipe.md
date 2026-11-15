@@ -1,5 +1,6 @@
 ---
 title: "Kitchen Sink Spaghetti with Asparagus, Eggplant and Everything Else You Have in the House - Recipe"
+description: "Kitchen sink spaghetti with asparagus, eggplant and everything else you have in the house."
 date: 2009-04-30T06:35:00
 slug: "kitchen-sink-pasta-recipe"
 categories: ["Main Courses", "Recipes"]

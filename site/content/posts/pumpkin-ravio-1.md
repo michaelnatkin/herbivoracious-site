@@ -1,5 +1,6 @@
 ---
 title: "Pumpkin Ravioli With Broth And Beans"
+description: "Pumpkin ravioli with broth and white beans, inspired by Paul Bertolli's Cooking by Hand. Makes plenty to freeze."
 date: 2008-10-20T06:36:00
 slug: "pumpkin-ravio-1"
 categories: ["Main Courses", "Recipes"]

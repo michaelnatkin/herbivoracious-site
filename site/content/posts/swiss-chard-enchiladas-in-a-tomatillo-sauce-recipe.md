@@ -1,5 +1,6 @@
 ---
 title: "Swiss Chard, Onion and Monterey Jack-Filled Vegetarian Enchiladas in a Tomatillo Salsa - Recipe"
+description: "Swiss chard, onion and Monterey Jack vegetarian enchiladas in tomatillo salsa, based on a Rick Bayless recipe."
 date: 2009-02-05T22:22:06
 slug: "swiss-chard-enchiladas-in-a-tomatillo-sauce-recipe"
 categories: ["Favorites", "Gluten-Free or modifiable", "Kid Friendly", "Main Courses", "Recipes"]

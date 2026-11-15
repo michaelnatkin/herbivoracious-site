@@ -1,5 +1,6 @@
 ---
 title: "Chevre with Sauteed Grapes and Fresh Herbs - Recipe"
+description: "Chèvre with sautéed grapes and fresh herbs, an easy appetizer ready in minutes, inspired by a dish at Seattle's Osteria La Spiga."
 date: 2009-05-28T07:25:40
 slug: "chevre-with-sauteed-grapes-and-fresh-herbs-recipe"
 categories: ["Appetizers", "Recipes"]

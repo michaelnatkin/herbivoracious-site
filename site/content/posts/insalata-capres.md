@@ -1,5 +1,6 @@
 ---
 title: "Insalata Caprese With Heirloom Tomatoes - The Greatest Salad Of All - Recipe"
+description: "Insalata caprese with heirloom tomatoes: just five uncooked ingredients, so the quality of the tomatoes is everything."
 date: 2008-08-21T21:53:00
 slug: "insalata-capres"
 categories: ["Gluten-Free or modifiable", "Recipes", "Salads"]

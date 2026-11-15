@@ -1,5 +1,6 @@
 ---
 title: "Review: Duck Soup Inn, San Juan Island, WA"
+description: "Review of the Duck Soup Inn on San Juan Island, Washington."
 date: 2007-07-21T21:56:57
 slug: "duck-soup-inn-s"
 categories: ["Restaurants"]

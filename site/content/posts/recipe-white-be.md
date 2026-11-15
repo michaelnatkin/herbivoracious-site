@@ -1,5 +1,6 @@
 ---
 title: "Recipe: Lemony White Beans With Grilled Onions"
+description: "Lemony white beans with grilled onions, made for a Seattle food blogger brunch."
 date: 2008-01-08T22:00:34
 slug: "recipe-white-be"
 categories: ["Appetizers", "Recipes", "Salads", "Side Dishes", "Vegan or Modifiable"]

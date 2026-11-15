@@ -1,5 +1,6 @@
 ---
 title: "Salt Crazy (My Favorite Sea Salts)"
+description: "Salt crazy: a look at my favorite sea salts, from the eleven varieties on my shelf."
 date: 2007-08-22T09:02:00
 slug: "salt-crazy-my-f"
 categories: ["Miscellany"]

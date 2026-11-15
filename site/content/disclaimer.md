@@ -1,5 +1,6 @@
 ---
 title: "Disclaimers"
+description: "Disclaimers for Herbivoracious: the terms of use and safety notes for the recipes and content on this site."
 date: 2008-07-28T15:41:03
 slug: "disclaimer"
 ---

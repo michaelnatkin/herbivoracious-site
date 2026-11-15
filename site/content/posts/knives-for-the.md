@@ -1,5 +1,6 @@
 ---
 title: "Knives for the Vegetarian Kitchen, Part 1"
+description: "Knives for the vegetarian kitchen, part 1: the knives worth having and what a vegetarian kitchen needs."
 date: 2007-07-23T22:33:07
 slug: "knives-for-the"
 categories: ["Miscellany", "Theory and Rants"]

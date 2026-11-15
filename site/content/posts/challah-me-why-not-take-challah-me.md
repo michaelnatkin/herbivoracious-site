@@ -1,5 +1,6 @@
 ---
 title: "Challah Me... Why Not Take Challah Me"
+description: "Challah for Hanukkah: baking a braided challah at home on a snowy day."
 date: 2008-12-23T09:53:42
 slug: "challah-me-why-not-take-challah-me"
 categories: ["Baking", "Kid Friendly", "Recipes"]

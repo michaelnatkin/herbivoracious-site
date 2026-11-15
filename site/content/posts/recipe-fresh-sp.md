@@ -1,5 +1,6 @@
 ---
 title: "Recipe: Fresh Spinach Fettuccine With Goat Cheese, Jerusalem Artichokes, Morels And Leeks"
+description: "Fresh spinach fettuccine with goat cheese, Jerusalem artichokes, morels and leeks, a spring farmer's market pasta."
 date: 2008-05-01T22:32:33
 slug: "recipe-fresh-sp"
 categories: ["Main Courses", "Recipes"]

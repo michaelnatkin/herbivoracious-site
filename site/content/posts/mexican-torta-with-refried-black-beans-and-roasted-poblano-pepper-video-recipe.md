@@ -1,5 +1,6 @@
 ---
 title: "Mexican Torta with Refried Black Beans and Roasted Poblano Pepper - Video Recipe"
+description: "Mexican torta with refried black beans and roasted poblano, with avocado and cabbage slaw. Includes a video of how to make it."
 date: 2012-05-16T08:27:24
 slug: "mexican-torta-with-refried-black-beans-and-roasted-poblano-pepper-video-recipe"
 categories: ["Breakfast", "Cooking Videos", "Kid Friendly", "Main Courses"]

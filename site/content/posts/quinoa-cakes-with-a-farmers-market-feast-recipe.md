@@ -1,5 +1,6 @@
 ---
 title: "Quinoa Cakes With A Farmer's Market Riot - Recipe"
+description: "Quinoa cakes with a farmer's market 'riot' of fresh summer vegetables, a simple recipe that lets the produce shine."
 date: 2009-07-13T06:45:00
 slug: "quinoa-cakes-with-a-farmers-market-feast-recipe"
 categories: ["Gluten-Free or modifiable", "Kid Friendly", "Main Courses", "Recipes", "Vegan or Modifiable"]

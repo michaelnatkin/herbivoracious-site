@@ -1,5 +1,6 @@
 ---
 title: "Spectacular Chocolate and Espresso Brownies - Recipes"
+description: "Spectacular chocolate and espresso brownies: very moist, dense and cakey, made without nuts for a nut-allergy family."
 date: 2008-06-17T21:43:56
 slug: "brownies"
 categories: ["Baking", "Desserts", "Recipes"]

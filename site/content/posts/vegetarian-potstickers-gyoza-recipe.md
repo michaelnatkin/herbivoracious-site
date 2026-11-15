@@ -1,5 +1,6 @@
 ---
 title: "Vegetarian Potstickers (Gyoza) - Recipe"
+description: "Vegetarian potstickers (gyoza): pan-fried dumplings with a savory filling and a soy-vinegar dipping sauce."
 date: 2010-03-04T07:03:00
 slug: "vegetarian-potstickers-gyoza-recipe"
 categories: ["Appetizers", "Favorites", "Kid Friendly", "Recipes", "Vegan or Modifiable"]

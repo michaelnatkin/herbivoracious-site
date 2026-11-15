@@ -1,5 +1,6 @@
 ---
 title: "Recipe: Rice Bowl - Your Stir Fry, Elevated"
+description: "Rice bowl: a stir-fry elevated into a vegetarian rice bowl for a fast, hot and nourishing dinner."
 date: 2007-11-05T13:45:49
 slug: "recipe-rice-bow"
 categories: ["Kid Friendly", "Main Courses", "Recipes", "Vegan or Modifiable"]

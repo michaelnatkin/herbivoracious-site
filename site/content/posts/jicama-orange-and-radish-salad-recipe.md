@@ -1,5 +1,6 @@
 ---
 title: "Jicama, Orange and Radish Salad - Recipe"
+description: "Jicama, orange and radish salad dressed only with fresh orange juice. Refreshing alongside Mexican and Latin American meals."
 date: 2009-11-09T06:45:00
 slug: "jicama-orange-and-radish-salad-recipe"
 categories: ["Gluten-Free or modifiable", "Recipes", "Salads", "Vegan or Modifiable"]

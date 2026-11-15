@@ -1,5 +1,6 @@
 ---
 title: "Jewish Christmas Tamales"
+description: "Jewish Christmas tamales: how Jewish families spend Christmas, with tamales as a tradition."
 date: 2007-12-24T22:43:09
 slug: "jewish-christma"
 categories: ["Main Courses", "Recipes"]

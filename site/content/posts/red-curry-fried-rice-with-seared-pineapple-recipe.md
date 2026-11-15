@@ -1,5 +1,6 @@
 ---
 title: "Red Curry Fried Rice with Seared Pineapple - Recipe"
+description: "Red curry fried rice with seared pineapple, a quick way to use up leftover red curry paste."
 date: 2009-11-23T06:58:00
 slug: "red-curry-fried-rice-with-seared-pineapple-recipe"
 categories: ["Gluten-Free or modifiable", "Main Courses", "Recipes", "Side Dishes", "Vegan or Modifiable"]

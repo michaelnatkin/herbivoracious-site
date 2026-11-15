@@ -1,5 +1,6 @@
 ---
 title: "Brown Butter Cornbread - Video Recipe"
+description: "Brown butter cornbread video recipe: the trick of browning milk powder with the butter that amplifies the corn flavor, great with chili."
 date: 2012-03-19T07:02:58
 slug: "brown-butter-cornbread-video-recipe"
 categories: ["Cooking Videos", "Side Dishes"]

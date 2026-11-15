@@ -1,5 +1,6 @@
 ---
 title: "Easy Eggplant and Ricotta Rolls with Ajvar (or Tomato Sauce)"
+description: "Easy eggplant and ricotta rolls with ajvar or tomato sauce, a minimal-work appetizer or side of roasted eggplant."
 date: 2008-11-06T07:11:00
 slug: "easy-eggplant-and-ricotta-rolls-with-ajvar-or-tomato-sauce"
 categories: ["Appetizers", "Gluten-Free or modifiable", "Recipes"]

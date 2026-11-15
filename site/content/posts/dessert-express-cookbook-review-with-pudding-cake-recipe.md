@@ -1,5 +1,6 @@
 ---
 title: "Dessert Express - Cookbook Review With Chocolate-Chili Pudding Cake Recipe"
+description: "Review of Lauren Chattman's cookbook Dessert Express, with a chocolate-chili pudding cake recipe."
 date: 2008-11-26T09:43:24
 slug: "dessert-express-cookbook-review-with-pudding-cake-recipe"
 categories: ["Desserts", "Recipes"]

@@ -1,5 +1,6 @@
 ---
 title: "Vietnamese Lemongrass Green Beans and Tofu - Recipe"
+description: "Vietnamese lemongrass green beans and tofu, an easy weeknight dish with lots of lemongrass, ginger and garlic."
 date: 2009-03-12T06:34:00
 slug: "vietnamese-lemongrass-green-beans-and-tofu-recipe"
 categories: ["Gluten-Free or modifiable", "Kid Friendly", "Main Courses", "Recipes", "Vegan or Modifiable"]

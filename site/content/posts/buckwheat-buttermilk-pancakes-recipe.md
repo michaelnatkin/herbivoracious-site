@@ -1,5 +1,6 @@
 ---
 title: "Buckwheat-Buttermilk Pancakes - Recipe"
+description: "Buckwheat-buttermilk pancakes with a warm, toasty, nutty flavor that you can really taste."
 date: 2009-01-08T06:50:00
 slug: "buckwheat-buttermilk-pancakes-recipe"
 categories: ["Breakfast", "Kid Friendly", "Recipes"]

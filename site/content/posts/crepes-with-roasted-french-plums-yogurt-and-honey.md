@@ -1,5 +1,6 @@
 ---
 title: "Crepes with Sage-Roasted French Plums, Yogurt and Honey"
+description: "Crepes with sage-roasted French plums, yogurt and honey, made for Julia Child's 100th birthday #cookforjulia event."
 date: 2012-08-13T06:00:00
 slug: "crepes-with-roasted-french-plums-yogurt-and-honey"
 categories: ["Books", "Breakfast", "Desserts", "Recipes"]

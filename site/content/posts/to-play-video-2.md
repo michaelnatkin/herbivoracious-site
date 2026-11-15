@@ -1,5 +1,6 @@
 ---
 title: "Nishino - Let Me Count The Ways"
+description: "Review of Nishino, a favorite Japanese restaurant in Seattle's Madison Valley."
 date: 2007-07-25T22:18:14
 slug: "to-play-video-2"
 categories: ["Restaurants"]

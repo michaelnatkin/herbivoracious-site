@@ -1,5 +1,6 @@
 ---
 title: "Fresh Fettucini with Hedgehog or Shiitake Mushrooms and Ricotta - Quick and Easy Recipe"
+description: "Fresh fettuccine with hedgehog or shiitake mushrooms and ricotta, a quick, luxurious pasta where most of the work is shopping."
 date: 2009-01-22T07:38:36
 slug: "fresh-fettucini-with-hedgehog-mushrooms-and-ricotta"
 categories: ["Main Courses", "Recipes"]

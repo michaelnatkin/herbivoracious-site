@@ -1,5 +1,6 @@
 ---
 title: "Chilaquiles Verdes - Mexican Scrambled Eggs with Corn Tortillas and Green Salsa - Recipe"
+description: "Chilaquiles verdes: Mexican scrambled eggs with corn tortillas and green salsa, a breakfast for mornings after a big night."
 date: 2012-05-31T06:00:47
 slug: "chilaquiles-verde-mexican-scrambled-eggs-with-corn-tortillas-and-green-salsa-recipe"
 categories: ["Breakfast", "Gluten-Free or modifiable", "Recipes"]

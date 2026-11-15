@@ -1,5 +1,6 @@
 ---
 title: "Strudel from Forno Marco Roscioli in Rome, Italy"
+description: "Strudel from Antico Forno Marco Roscioli, the Roman bakery near Campo dei Fiori in Rome, Italy."
 date: 2007-10-12T11:06:45
 slug: "strudel-from-fo"
 categories: ["Travel"]

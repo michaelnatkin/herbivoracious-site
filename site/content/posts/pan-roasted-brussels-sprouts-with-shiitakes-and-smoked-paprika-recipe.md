@@ -1,5 +1,6 @@
 ---
 title: "Pan Roasted Brussels Sprouts with Shiitakes and Smoked Paprika - Recipe"
+description: "Pan-roasted Brussels sprouts with shiitakes and smoked paprika, proof that Brussels sprouts are delicious when well prepared."
 date: 2012-01-09T07:05:01
 slug: "pan-roasted-brussels-sprouts-with-shiitakes-and-smoked-paprika-recipe"
 categories: ["Gluten-Free or modifiable", "Recipes", "Side Dishes", "Vegan or Modifiable"]

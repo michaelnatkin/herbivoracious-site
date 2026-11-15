@@ -1,5 +1,6 @@
 ---
 title: "How To Clean a Kitchen - Fast!"
+description: "How to clean a kitchen fast, with tips learned from working in a restaurant kitchen at Cafe Flora."
 date: 2007-12-03T04:08:00
 slug: "how-to-clean-a"
 categories: ["Miscellany", "Theory and Rants"]

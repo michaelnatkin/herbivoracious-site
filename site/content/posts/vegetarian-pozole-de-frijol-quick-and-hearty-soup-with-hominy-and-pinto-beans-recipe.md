@@ -1,5 +1,6 @@
 ---
 title: "Vegetarian Pozole de Frijol - Quick and Hearty Soup with Hominy and Pinto Beans - Recipe"
+description: "Vegetarian pozole de frijol: a quick, hearty Mexican soup of hominy and pinto beans that makes a filling one-pot meal."
 date: 2008-11-17T06:54:00
 slug: "vegetarian-pozole-de-frijol-quick-and-hearty-soup-with-hominy-and-pinto-beans-recipe"
 categories: ["Gluten-Free or modifiable", "Recipes", "Soups", "Vegan or Modifiable"]

@@ -1,5 +1,6 @@
 ---
 title: "Supertaster Test"
+description: "Take the supertaster test at home: the over-the-counter way to find out if you have more taste buds than most people."
 date: 2008-01-14T22:51:39
 slug: "supertaster-tes"
 categories: ["Miscellany"]

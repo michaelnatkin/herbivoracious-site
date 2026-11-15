@@ -1,5 +1,6 @@
 ---
 title: "Apple-Celery Sorbet - A Refreshing Recipe with Many Co-Authors"
+description: "Apple-celery sorbet, a refreshing recipe adapted from Michael Laiskonis."
 date: 2009-01-28T06:19:00
 slug: "applecelery-sorbet-a-refreshing-recipe-with-many-coauthors"
 categories: ["Desserts", "Experiments", "Gluten-Free or modifiable", "Side Dishes", "Vegan or Modifiable", "Weblogs"]

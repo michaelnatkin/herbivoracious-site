@@ -1,5 +1,6 @@
 ---
 title: "Pan-Fried Potato Gnocchi with Arugula - Recipe"
+description: "Pan-fried potato gnocchi with baby arugula and pecorino romano, with a call for tips on making gnocchi lighter."
 date: 2009-03-23T06:53:18
 slug: "panfried-gnocchi-with-arugula-recipe"
 categories: ["Main Courses", "Recipes"]

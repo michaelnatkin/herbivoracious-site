@@ -1,5 +1,6 @@
 ---
 title: "Whopper Cake - Book Review Plus Chocolate-Cream Cheese Frosting Recipe"
+description: "Review of the children's book Whopper Cake, plus a chocolate-cream cheese frosting recipe."
 date: 2009-06-16T06:29:00
 slug: "whopper-cake-book-review"
 categories: ["Baking", "Desserts", "Gluten-Free or modifiable", "Kid Friendly", "Recipes"]

@@ -1,5 +1,6 @@
 ---
 title: "Herbivoracious Dinner #2"
+description: "Herbivoracious Dinner #2, a pop-up dinner party hosted at Cafe Flora in Seattle."
 date: 2009-01-30T07:28:00
 slug: "herbivoracious-dinner-2"
 categories: ["Seattle"]

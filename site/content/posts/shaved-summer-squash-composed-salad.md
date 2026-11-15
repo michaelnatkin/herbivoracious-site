@@ -1,5 +1,6 @@
 ---
 title: "Shaved Summer Squash Composed Salad - Recipe"
+description: "Shaved summer squash composed salad: thin ribbons of squash, cucumber and Parmigiano-Reggiano with barely manipulated peak produce."
 date: 2010-10-11T07:10:00
 slug: "shaved-summer-squash-composed-salad"
 categories: ["Gluten-Free or modifiable", "Recipes", "Salads", "Vegan or Modifiable"]

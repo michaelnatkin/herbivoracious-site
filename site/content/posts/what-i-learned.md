@@ -1,5 +1,6 @@
 ---
 title: "What I Learned At Cafe Flora"
+description: "What I learned at Cafe Flora: lessons from a few months interning in the kitchen of the Seattle vegetarian restaurant."
 date: 2008-02-14T06:07:00
 slug: "what-i-learned"
 categories: ["Cooking Internship"]

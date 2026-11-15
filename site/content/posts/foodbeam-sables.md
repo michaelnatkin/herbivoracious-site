@@ -1,5 +1,6 @@
 ---
 title: "Foodbeam Sables Au Chocolat with Fleur De Sel"
+description: "Chocolate sablés with fleur de sel from Fanny's Foodbeam blog, a straightforward chocolate cookie."
 date: 2007-08-19T14:05:29
 slug: "foodbeam-sables"
 categories: ["Baking", "Kid Friendly", "Recipes", "Weblogs"]

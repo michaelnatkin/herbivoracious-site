@@ -1,5 +1,6 @@
 ---
 title: "Chocolate Cupcakes With Cream Cheese Filling And Chocolate Gelato"
+description: "Chocolate cupcakes with cream cheese filling and chocolate gelato, for a birthday celebration."
 date: 2007-08-29T05:51:00
 slug: "chocolate-cupca"
 categories: ["Baking", "Desserts", "Recipes", "Seattle"]

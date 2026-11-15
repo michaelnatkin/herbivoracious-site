@@ -1,5 +1,6 @@
 ---
 title: "Quick Marinated Feta with Orange, Mint and Aleppo Pepper - Recipe"
+description: "Quick marinated feta with orange, mint and Aleppo pepper: an easy appetizer to serve with toasted pita."
 date: 2012-01-16T07:04:35
 slug: "quick-marinated-feta-recipe"
 categories: ["Appetizers", "Gluten-Free or modifiable", "Recipes", "Seattle"]

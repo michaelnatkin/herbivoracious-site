@@ -1,5 +1,6 @@
 ---
 title: "Strawberry Rhubarb Crisp with a Pumpkin Seed Topping - Recipe"
+description: "Strawberry-rhubarb crisp with a pumpkin seed topping, an easy fruit crisp for the season."
 date: 2009-06-01T06:28:00
 slug: "strawberry-rhubarb-crisp-with-pumpkin-seed-topping-recipe"
 categories: ["Baking", "Desserts", "Kid Friendly", "Recipes"]

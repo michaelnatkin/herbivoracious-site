@@ -1,5 +1,6 @@
 ---
 title: "Arroz Verde - Mexican Green Herb Rice Rethought - Recipe"
+description: "Arroz verde, Mexican green herb rice, rethought: a simpler way to make the classic rice with poblano peppers and herbs."
 date: 2009-06-29T06:10:00
 slug: "arroz-verde-mexican-rice-rethought-recipe"
 categories: ["Gluten-Free or modifiable", "Kid Friendly", "Recipes", "Side Dishes", "Vegan or Modifiable"]

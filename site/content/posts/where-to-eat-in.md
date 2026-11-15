@@ -1,5 +1,6 @@
 ---
 title: "Where to Eat in Israel (Jerusalem, Tel Aviv) and Italy (Rome, Florence, near Sienna)"
+description: "Where to eat in Israel (Jerusalem, Tel Aviv) and Italy (Rome, Florence, near Siena): restaurant ideas before a sabbatical trip."
 date: 2007-08-23T10:01:54
 slug: "where-to-eat-in"
 categories: ["Restaurants", "Travel"]

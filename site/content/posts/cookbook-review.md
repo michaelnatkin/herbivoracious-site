@@ -1,5 +1,6 @@
 ---
 title: "Cookbook Review: Tartine"
+description: "Cookbook review of Tartine, the baking book of Tartine Bakery known for its confident, precise approach."
 date: 2007-12-15T15:10:40
 slug: "cookbook-review"
 categories: ["Miscellany"]

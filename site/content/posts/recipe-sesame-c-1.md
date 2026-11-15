@@ -1,5 +1,6 @@
 ---
 title: "Recipe: Sesame Corn Muffins"
+description: "Sesame corn muffins: cornmeal muffins with sesame seeds that bring out the earthy flavors of the corn."
 date: 2008-05-03T19:30:04
 slug: "recipe-sesame-c-1"
 categories: ["Baking", "Breakfast", "Recipes"]

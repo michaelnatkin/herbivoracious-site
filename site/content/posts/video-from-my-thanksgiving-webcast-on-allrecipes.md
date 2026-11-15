@@ -1,5 +1,6 @@
 ---
 title: "Video From My Thanksgiving Webcast on Allrecipes"
+description: "Video from a Thanksgiving webcast on Allrecipes.com: how to watch the vegetarian Thanksgiving segment."
 date: 2009-12-02T09:44:33
 slug: "video-from-my-thanksgiving-webcast-on-allrecipes"
 categories: ["Miscellany"]

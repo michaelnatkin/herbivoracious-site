@@ -1,5 +1,6 @@
 ---
 title: "Creamy Grits with Crispy Leeks, Leek Jus, and Cilantro-Epazote Pesto - Recipe"
+description: "Creamy grits with crispy leeks, leek jus and cilantro-epazote pesto, a sweet, savory and salty breakfast-for-dinner dish."
 date: 2009-12-31T06:41:00
 slug: "creamy-grits-with-crispy-leeks-leek-jus-and-cilantro-pesto-recipe"
 categories: ["Breakfast", "Experiments", "Gluten-Free or modifiable", "Main Courses", "Recipes"]

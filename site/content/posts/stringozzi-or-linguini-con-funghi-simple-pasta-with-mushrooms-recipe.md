@@ -1,5 +1,6 @@
 ---
 title: "Stringozzi (or linguini) con funghi - Simple pasta with mushrooms - Recipe"
+description: "Stringozzi (or linguine) con funghi, a simple pasta with mushrooms that shows how good cultivated button mushrooms can be."
 date: 2010-01-25T07:05:00
 slug: "stringozzi-or-linguini-con-funghi-simple-pasta-with-mushrooms-recipe"
 categories: ["Main Courses", "Recipes", "Vegan or Modifiable"]

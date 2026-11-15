@@ -1,5 +1,6 @@
 ---
 title: "Italian Plum Upside Down Cake - Recipe"
+description: "Italian plum upside down cake, a late-summer dessert that shows off warm, ripe Italian plums."
 date: 2013-09-10T20:10:05
 slug: "italian-plum-upside-down-cake-recipe"
 categories: ["Breakfast", "Desserts", "Kid Friendly", "Recipes"]

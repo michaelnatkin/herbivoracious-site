@@ -1,5 +1,6 @@
 ---
 title: "The Secret to Crispy, Delicious Quesadillas - Recipe"
+description: "The trick for crispy corn tortilla quesadillas: brush both sides with oil. Recipe with pecorino and onion and garlic jam."
 date: 2008-07-29T11:05:54
 slug: "quesadilla"
 categories: ["Appetizers", "Gluten-Free or modifiable", "Kid Friendly", "Recipes"]
