@@ -20,13 +20,14 @@
   "5-5-quart-le-creuset-pot": {
     "name": "5.5 Quart Le Creuset Pot",
     "category": "cookware-appliances",
-    "url": "https://www.amazon.com/dp/B00004SBH4?tag=herb-hugo-20",
+    "url": "https://www.lecreuset.com/signature-round-dutch-oven/21177026717041.html",
     "original_url": "https://www.amazon.com/dp/B00004SBH4?tag=herb-hugo-20",
     "asins": [
       "B00004SBH4",
       "B00VA5HG0Q"
     ],
-    "review_url": "/a-french-oven-you-can-live-in-my-favorite-pot-aka-dutch-oven/"
+    "review_url": "/a-french-oven-you-can-live-in-my-favorite-pot-aka-dutch-oven/",
+    "merchant": "Le Creuset"
   },
   "5-pastry-cutter": {
     "name": "5\" Pastry Cutter",
@@ -103,13 +104,14 @@
   "abc-kecap-manis-indonesian-special-sweet-soy": {
     "name": "ABC Kecap Manis Indonesian Special Sweet Soy Sauce",
     "category": "asian-pantry",
-    "url": "https://www.amazon.com/dp/B000249E5Q?tag=herb-hugo-20",
+    "url": "https://www.sayweee.com/en/product/ABC-Sweet-Soy-Sauce--Original-Flavor/4586",
     "original_url": "https://www.amazon.com/dp/B000249E5Q?tag=herb-hugo-20",
     "asins": [
       "B000249E5Q",
       "B00886AVOI",
       "B095JJC7FS"
-    ]
+    ],
+    "merchant": "SayWeee.com"
   },
   "acetoria-sour-cherry-vinegar": {
     "name": "Acetoria Sour Cherry Vinegar",
@@ -150,12 +152,13 @@
   "agave-nectar": {
     "name": "Agave Nectar",
     "category": "sweeteners-chocolate",
-    "url": "https://www.amazon.com/dp/B0078DP4IK?tag=herb-hugo-20",
+    "url": "https://www.iherb.com/pr/in-the-raw-organic-agave-in-the-raw-light-agave-18-5-oz-525-g/146627",
     "original_url": "https://www.amazon.com/dp/B0078DP4IK?tag=herb-hugo-20",
     "asins": [
       "B0078DP4IK",
       "B00B3LNQAI"
-    ]
+    ],
+    "merchant": "iHerb.com"
   },
   "airlock": {
     "name": "airlock",
@@ -475,14 +478,15 @@
   "balinese-long-pepper": {
     "name": "Balinese Long Pepper",
     "category": "spices-seasonings",
-    "url": "https://www.amazon.com/dp/B000C037EY?tag=herb-hugo-20",
+    "url": "https://www.thespicehouse.com/products/long-pepper",
     "original_url": "https://www.amazon.com/dp/B000C037EY?tag=herb-hugo-20",
     "asins": [
       "B000C037EY",
       "B000PDXE46",
       "B0015MN7XO",
       "B0BF5QY1Y2"
-    ]
+    ],
+    "merchant": "The Spice House"
   },
   "bamboo-steamer": {
     "name": "Bamboo Steamer",
@@ -1005,14 +1009,15 @@
   "cento-san-marzano-tomatoes": {
     "name": "Cento San Marzano Tomatoes",
     "category": "pantry-staples",
-    "url": "https://www.amazon.com/dp/B000WHOX4E?tag=herb-hugo-20",
+    "url": "https://www.sayweee.com/en/product/Cento-San-Marzano-Peeled-Tomatoes/48386",
     "original_url": "https://www.amazon.com/dp/B000WHOX4E?tag=herb-hugo-20",
     "asins": [
       "B000WHOX4E",
       "B00132E3SY",
       "B004NPNBO0",
       "B007K5EUWC"
-    ]
+    ],
+    "merchant": "SayWeee.com"
   },
   "ceramic-sharpening-steel": {
     "name": "Ceramic Sharpening Steel",
@@ -1336,11 +1341,12 @@
   "cooking-by-hand": {
     "name": "Cooking by Hand",
     "category": "books",
-    "url": "https://www.amazon.com/dp/0609608932?tag=herb-hugo-20",
+    "url": "https://www.barnesandnoble.com/w/cooking-by-hand-paul-bertolli/1139078540",
     "original_url": "https://www.amazon.com/dp/0609608932?tag=herb-hugo-20",
     "asins": [
       "0609608932"
-    ]
+    ],
+    "merchant": "Barnes & Noble"
   },
   "coriander-seeds": {
     "name": "Coriander Seeds",
@@ -1921,13 +1927,14 @@
   "fennel-pollen": {
     "name": "Fennel Pollen",
     "category": "spices-seasonings",
-    "url": "https://www.amazon.com/dp/B00019TMK4?tag=herb-hugo-20",
+    "url": "https://www.thespicehouse.com/products/fennel-pollen-organically-sourced",
     "original_url": "https://www.amazon.com/dp/B00019TMK4?tag=herb-hugo-20",
     "asins": [
       "B00019TMK4",
       "B000V9ESIA",
       "B005P085DO"
-    ]
+    ],
+    "merchant": "The Spice House"
   },
   "fennel-seeds": {
     "name": "Fennel Seeds",
@@ -2163,11 +2170,12 @@
   "freshly-grated-nutmeg": {
     "name": "Freshly Grated Nutmeg",
     "category": "spices-seasonings",
-    "url": "https://www.amazon.com/dp/B0005YW28O?tag=herb-hugo-20",
+    "url": "https://www.savoryspiceshop.com/products/whole-nutmeg",
     "original_url": "https://www.amazon.com/dp/B0005YW28O?tag=herb-hugo-20",
     "asins": [
       "B0005YW28O"
-    ]
+    ],
+    "merchant": "Savory Spice Shop"
   },
   "from-a-can": {
     "name": "from a can",
@@ -2293,13 +2301,14 @@
   "global-8-inch-chef-s-knife": {
     "name": "Global 8-Inch Chef's Knife",
     "category": "knives-sharpening",
-    "url": "https://www.amazon.com/dp/B00005OL44?tag=herb-hugo-20",
+    "url": "https://www.surlatable.com/product/global-chefs-knife/19786",
     "original_url": "https://www.amazon.com/dp/B00005OL44?tag=herb-hugo-20",
     "asins": [
       "B00005OL44",
       "B00012EZOO"
     ],
-    "review_url": "/chefs-knife-kitchen-tools-hand-tools/"
+    "review_url": "/chefs-knife-kitchen-tools-hand-tools/",
+    "merchant": "Sur La Table"
   },
   "glucose-powder": {
     "name": "Glucose Powder",
@@ -2416,13 +2425,14 @@
   "guittard": {
     "name": "Guittard",
     "category": "sweeteners-chocolate",
-    "url": "https://www.amazon.com/dp/B00K9SL06Q?tag=herb-hugo-20",
+    "url": "https://guittard.com/product/baking-bars-bittersweet-chocolate",
     "original_url": "https://www.amazon.com/dp/B00K9SL06Q?tag=herb-hugo-20",
     "asins": [
       "B00C33UUIO",
       "B00IRRU5T4",
       "B00K9SL06Q"
-    ]
+    ],
+    "merchant": "Guittard Chocolate Company"
   },
   "hain-s-iodized-sea-salt": {
     "name": "Hain's Iodized Sea Salt",
@@ -2481,14 +2491,15 @@
   "hawaiian-black-sea-salt": {
     "name": "Hawaiian Black Sea Salt",
     "category": "spices-seasonings",
-    "url": "https://www.amazon.com/dp/B01F1EKG6W?tag=herb-hugo-20",
+    "url": "https://www.savoryspiceshop.com/products/hawaiian-black-lava-sea-salt",
     "original_url": "https://www.amazon.com/dp/B01F1EKG6W?tag=herb-hugo-20",
     "asins": [
       "B000K6X8KI",
       "B01F1EKG6W",
       "B01M71ZO3I"
     ],
-    "review_url": "/entry-avocado-grapefruit-mango-yuzu-cilantro/"
+    "review_url": "/entry-avocado-grapefruit-mango-yuzu-cilantro/",
+    "merchant": "Savory Spice Shop"
   },
   "hawaiian-red-alaea-salt": {
     "name": "Hawaiian Red Alaea Salt",
@@ -2633,11 +2644,12 @@
   "home-baking-the-artful-mix-of-flour-and": {
     "name": "Home Baking: the Artful Mix of Flour and Traditions from Around the World",
     "category": "books",
-    "url": "https://www.amazon.com/dp/1579651747?tag=herb-hugo-20",
+    "url": "https://www.barnesandnoble.com/w/homebaking-jeffrey-alford/1111372507",
     "original_url": "https://www.amazon.com/dp/1579651747?tag=herb-hugo-20",
     "asins": [
       "1579651747"
-    ]
+    ],
+    "merchant": "Barnes & Noble"
   },
   "honey": {
     "name": "honey",
@@ -2697,14 +2709,15 @@
   "ice-cream-maker": {
     "name": "Ice Cream Maker",
     "category": "cookware-appliances",
-    "url": "https://www.amazon.com/dp/B00NQAP01C?tag=herb-hugo-20",
+    "url": "https://www.surlatable.com/product/cuisinart-classic-frozen-yogurt-ice-cream-and-sorbet-maker/699645",
     "original_url": "https://www.amazon.com/dp/B00NQAP01C?tag=herb-hugo-20",
     "asins": [
       "B0006ONQOC",
       "B003KYSLMW",
       "B00NQAP01C",
       "B07BDGZQSQ"
-    ]
+    ],
+    "merchant": "Sur La Table"
   },
   "ideas-in-food-great-recipes-and-why-they-work": {
     "name": "Ideas in Food: Great Recipes and Why They Work",
@@ -4183,13 +4196,14 @@
   "rani-asafetida-hing-ground-3-75oz": {
     "name": "Rani Asafetida (Hing) Ground 3.75oz",
     "category": "middle-eastern-indian-pantry",
-    "url": "https://www.amazon.com/dp/B006POH22Y?tag=herb-hugo-20",
+    "url": "https://savoryspiceshop.com/products/asafetida",
     "original_url": "https://www.amazon.com/dp/B006POH22Y?tag=herb-hugo-20",
     "asins": [
       "B000MUX3D4",
       "B006POH22Y",
       "B07C8FHVTT"
-    ]
+    ],
+    "merchant": "Savory Spice Shop"
   },
   "rani-fenugreek-leaves-dried-kasoori-methi": {
     "name": "Rani Fenugreek Leaves Dried (Kasoori Methi)",
@@ -4809,13 +4823,14 @@
   "spice-grinder": {
     "name": "Spice Grinder",
     "category": "kitchen-gadgets",
-    "url": "https://www.amazon.com/dp/B07SYTRPSG?tag=herb-hugo-20",
+    "url": "https://www.surlatable.com/product/1444132.html",
     "original_url": "https://www.amazon.com/dp/B07SYTRPSG?tag=herb-hugo-20",
     "asins": [
       "B001C2GWTI",
       "B07SYTRPSG",
       "B0FL2WH8K1"
-    ]
+    ],
+    "merchant": "Sur La Table"
   },
   "spicy-world-black-salt-kala-namak": {
     "name": "Spicy World Black Salt (Kala Namak)",
@@ -5005,12 +5020,13 @@
   "tamari": {
     "name": "Tamari",
     "category": "asian-pantry",
-    "url": "https://www.amazon.com/dp/B00NN05FXQ?tag=herb-hugo-20",
+    "url": "https://thrivemarket.com/san-j-international-organic-tamari-gluten-free-soy-sauce",
     "original_url": "https://www.amazon.com/dp/B00NN05FXQ?tag=herb-hugo-20",
     "asins": [
       "B000QWXIZQ",
       "B00NN05FXQ"
-    ]
+    ],
+    "merchant": "Thrive Market"
   },
   "tamarind-chutney": {
     "name": "Tamarind Chutney",
@@ -5281,11 +5297,12 @@
   "the-tartine-cookbook": {
     "name": "The Tartine Cookbook",
     "category": "books",
-    "url": "https://www.amazon.com/dp/0811851508?tag=herb-hugo-20",
+    "url": "https://www.barnesandnoble.com/w/tartine-elisabeth-prueitt/1132011750",
     "original_url": "https://www.amazon.com/dp/0811851508?tag=herb-hugo-20",
     "asins": [
       "0811851508"
-    ]
+    ],
+    "merchant": "Barnes & Noble"
   },
   "theo-chocolate-pure-organic-dark-chocolate-bar": {
     "name": "Theo Chocolate Pure Organic Dark Chocolate Bar 70% Cacao 6 Pack - Vegan, Fair Trade",
@@ -5392,13 +5409,14 @@
   "toasted-sesame-seeds": {
     "name": "Toasted Sesame Seeds",
     "category": "asian-pantry",
-    "url": "https://www.amazon.com/dp/B00NWC8K3C?tag=herb-hugo-20",
+    "url": "https://savoryspiceshop.com/products/toasted-sesame-seeds",
     "original_url": "https://www.amazon.com/dp/B00NWC8K3C?tag=herb-hugo-20",
     "asins": [
       "B00J40TP1C",
       "B00NWC8K3C",
       "B0B197F3N9"
-    ]
+    ],
+    "merchant": "Savory Spice Shop"
   },
   "toasted-walnut-halves": {
     "name": "Toasted Walnut Halves",
@@ -5732,13 +5750,14 @@
   "whole-wheat-pastry-flour": {
     "name": "Whole Wheat Pastry Flour",
     "category": "grains-pasta-legumes",
-    "url": "https://www.amazon.com/dp/B08BFD4M3Y?tag=herb-hugo-20",
+    "url": "https://shop.kingarthurbaking.com/items/whole-wheat-pastry-flour-graham-flour",
     "original_url": "https://www.amazon.com/dp/B08BFD4M3Y?tag=herb-hugo-20",
     "asins": [
       "B000YFD2CE",
       "B074VD2ZKF",
       "B08BFD4M3Y"
-    ]
+    ],
+    "merchant": "King Arthur Baking"
   },
   "whopper-cake": {
     "name": "Whopper Cake",

@@ -76,6 +76,17 @@ async function init() {
   current = order.find(f => batches[f].some(i => i.status === 'match' && status(i.id) === 'pending')) || order[0] || '';
   render();
 }
+// Pick up batches that finish while the page is open (no refresh needed)
+setInterval(async () => {
+  try {
+    const names = await (await fetch('batches.json')).json();
+    const fresh = names.filter(n => !(n in batches));
+    if (!fresh.length) return;
+    for (const f of names) if (!(f in batches)) batches[f] = await (await fetch('batches/' + f)).json();
+    order = names; render();
+    $('#saved').textContent = fresh.length + ' new batch' + (fresh.length > 1 ? 'es' : '') + ' loaded';
+  } catch (e) {}
+}, 30000);
 const status = id => (dec[id] && dec[id].status) || 'pending';
 const matches = f => (batches[f] || []).filter(i => i.status === 'match');
 const epcText = m => m.epc == null ? 'EPC: no data' : 'EPC $' + m.epc.toFixed(2);
