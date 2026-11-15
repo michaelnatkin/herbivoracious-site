@@ -1,0 +1,440 @@
+[
+ {
+  "id": "the-nasty-bits",
+  "name": "The Nasty Bits",
+  "current_amazon_url": "https://www.amazon.com/dp/B002UM5BHS?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "The Nasty Bits: Collected Varietal Cut"
+  ],
+  "anchors": [
+   "The Nasty Bits"
+  ],
+  "asins": [
+   "B002UM5BHS"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "winter-food-b-1",
+  "search_terms": [
+   "nasty bits",
+   "the nasty bits"
+  ]
+ },
+ {
+  "id": "think-like-a-chef",
+  "name": "Think Like a Chef",
+  "current_amazon_url": "https://www.amazon.com/dp/0307406954?tag=herb-hugo-20",
+  "is_book": true,
+  "amazon_titles": [
+   "Think Like a Chef: A Cookbook"
+  ],
+  "anchors": [
+   "Think Like a Chef"
+  ],
+  "asins": [
+   "0307406954"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "roasted-tomato-and-corn-risotto-recipe",
+  "search_terms": [
+   "think like chef",
+   "think like a chef"
+  ]
+ },
+ {
+  "id": "this-enormous-roll",
+  "name": "this enormous roll",
+  "current_amazon_url": "https://www.amazon.com/dp/B001AEOAXS?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "6-Pack Paracord Adjusters - Rope Adj"
+  ],
+  "anchors": [
+   "this enormous roll"
+  ],
+  "asins": [
+   "B001AEOAXS"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "strawberries-and-cream-birthday-cake-momofuku-style",
+  "search_terms": [
+   "paracord adjusters rope adj",
+   "this enormous roll"
+  ]
+ },
+ {
+  "id": "this-one-from-beaufor",
+  "name": "this one from Beaufor",
+  "current_amazon_url": "https://www.amazon.com/dp/B000SR5VOU?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Maille Old Style Mustard 7.3 oz, Gla"
+  ],
+  "anchors": [
+   "this one from Beaufor"
+  ],
+  "asins": [
+   "B000SR5VOU"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "black-rice-fritter-with-turnips-and-horseradish-cream-recipe",
+  "search_terms": [
+   "maille old style mustard",
+   "this one from beaufor"
+  ]
+ },
+ {
+  "id": "this-version",
+  "name": "this version",
+  "current_amazon_url": "https://www.amazon.com/dp/B0006GT586?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Lamson Left Hand Slotted Turner, Che"
+  ],
+  "anchors": [
+   "this version"
+  ],
+  "asins": [
+   "B0006GT586"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "the-joy-of-a-proper-spatula",
+  "search_terms": [
+   "lamson left hand slotted",
+   "this version"
+  ]
+ },
+ {
+  "id": "toaster-oven",
+  "name": "Toaster Oven",
+  "current_amazon_url": "https://www.amazon.com/dp/B004JMZGM2?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Cuisinart Custom Classic Toaster Ove"
+  ],
+  "anchors": [
+   "toaster oven"
+  ],
+  "asins": [
+   "B004JMZGM2"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "hatch-chiles-stuffed-with-cilantro-scrambled-egg-recipe",
+  "search_terms": [
+   "cuisinart custom classic toaster",
+   "toaster oven"
+  ]
+ },
+ {
+  "id": "tomatillos",
+  "name": "Tomatillos",
+  "current_amazon_url": "https://www.amazon.com/dp/B0046GX63M?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "La Coste\u00f1a Canned Tomatillos for Sal"
+  ],
+  "anchors": [
+   "tomatillos"
+  ],
+  "asins": [
+   "B0046GX63M"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "swiss-chard-enchiladas-in-a-tomatillo-sauce-recipe",
+  "search_terms": [
+   "la coste canned tomatillos",
+   "tomatillos"
+  ]
+ },
+ {
+  "id": "true-blood",
+  "name": "True Blood",
+  "current_amazon_url": "https://www.amazon.com/dp/B001FB4W0W?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "True Blood: Season 1"
+  ],
+  "anchors": [
+   "True Blood"
+  ],
+  "asins": [
+   "B001FB4W0W"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "potatoes-alioli",
+  "search_terms": [
+   "true blood"
+  ]
+ },
+ {
+  "id": "truffled-popcorn",
+  "name": "Truffled Popcorn",
+  "current_amazon_url": "https://www.amazon.com/dp/B0BNLYXVHJ?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Regalis Microwavable Black Truffle P"
+  ],
+  "anchors": [
+   "truffled popcorn"
+  ],
+  "asins": [
+   "B0BNLYXVHJ"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "foraging-in-bel",
+  "search_terms": [
+   "regalis microwavable black truffle",
+   "truffled popcorn"
+  ]
+ },
+ {
+  "id": "try-this-one",
+  "name": "Try This One",
+  "current_amazon_url": "https://www.amazon.com/dp/B00DPREMEK?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "PrepWorks 3pc Dough Press Set \u2013 Set"
+  ],
+  "anchors": [
+   "try this one"
+  ],
+  "asins": [
+   "B00DPREMEK"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "mandu-koreanstyle-potstickers-with-ssamjang-kochujang-sauce-recipe",
+  "search_terms": [
+   "prepworks pc dough press",
+   "try this one"
+  ]
+ },
+ {
+  "id": "ultra-tex-3",
+  "name": "Ultra-Tex 3",
+  "current_amazon_url": "https://www.amazon.com/dp/B00BTI833I?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Pure Ultra-tex 3 \u2298 Non-GMO Gluten-Fr"
+  ],
+  "anchors": [
+   "Ultra-Tex 3"
+  ],
+  "asins": [
+   "B00BTI833I"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "antigriddle-pudding-pop-bruleed-mango-black-sesame-tuile-recipe",
+  "search_terms": [
+   "pure ultra tex gluten",
+   "ultra tex"
+  ]
+ },
+ {
+  "id": "vegan-mayonnaise",
+  "name": "Vegan Mayonnaise",
+  "current_amazon_url": "https://www.amazon.com/dp/B07B3PYTKN?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Chosen Foods Classic Vegan Avocado O"
+  ],
+  "anchors": [
+   "vegan mayonnaise"
+  ],
+  "asins": [
+   "B07B3PYTKN"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "mexican-breakfast-torta-recipe",
+  "search_terms": [
+   "chosen foods classic vegan",
+   "vegan mayonnaise"
+  ]
+ },
+ {
+  "id": "vegenaise-which-is-quite-tasty",
+  "name": "Vegenaise, Which Is Quite Tasty",
+  "current_amazon_url": "https://www.amazon.com/dp/B000QJAFY6?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Follow Your Heart, Vegenaise, 32 Oun"
+  ],
+  "anchors": [
+   "Vegenaise, which is quite tasty"
+  ],
+  "asins": [
+   "B000QJAFY6"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "green-garlic-and-mint-potato-salad-recipe",
+  "search_terms": [
+   "follow your heart vegenaise",
+   "vegenaise which is quite tasty"
+  ]
+ },
+ {
+  "id": "vegetable-peeler",
+  "name": "Vegetable Peeler",
+  "current_amazon_url": "https://www.amazon.com/dp/B00004OCIU?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "OXO Good Grips Y-Peeler"
+  ],
+  "anchors": [
+   "vegetable peeler"
+  ],
+  "asins": [
+   "B00004OCIU"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "recipe-white-as",
+  "search_terms": [
+   "oxo good grips y",
+   "vegetable peeler"
+  ]
+ },
+ {
+  "id": "vermouth",
+  "name": "Vermouth",
+  "current_amazon_url": "https://www.amazon.com/dp/B005J0KRG8?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Martini & Rossi Vermouth Extra D"
+  ],
+  "anchors": [
+   "vermouth"
+  ],
+  "asins": [
+   "B005J0KRG8"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "braised-baby-artichoke-with-fennel-and-cherry-tomatoes-recipe",
+  "search_terms": [
+   "martini rossi vermouth extra",
+   "vermouth"
+  ]
+ },
+ {
+  "id": "w-sthof-classic-3-5-paring-knife",
+  "name": "W\u00fcsthof Classic 3.5\" Paring Knife",
+  "current_amazon_url": "https://www.amazon.com/dp/B085V5Q2JR?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "W\u00dcSTHOF Classic 3.5\" Paring Knif"
+  ],
+  "anchors": [
+   "W\u00dcSTHOF Classic 3.5\" Paring Knife"
+  ],
+  "asins": [
+   "B085V5Q2JR"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "other-knives-kitchen-tools-hand-tools",
+  "search_terms": [
+   "w sthof classic paring",
+   "w sthof classic paring knife"
+  ]
+ },
+ {
+  "id": "w-sthof-classic-8-bread-knife",
+  "name": "W\u00fcsthof Classic 8\" Bread Knife",
+  "current_amazon_url": "https://www.amazon.com/dp/B00005MEGZ?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "W\u00dcSTHOF Classic 8\" Bread Knife"
+  ],
+  "anchors": [
+   "W\u00dcSTHOF Classic 8\" Bread Knife"
+  ],
+  "asins": [
+   "B00005MEGZ"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "other-knives-kitchen-tools-hand-tools",
+  "search_terms": [
+   "w sthof classic bread",
+   "w sthof classic bread knife"
+  ]
+ },
+ {
+  "id": "wheat-berries",
+  "name": "Wheat Berries",
+  "current_amazon_url": "https://www.amazon.com/dp/B00A6TKLRC?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Palouse Brand Certified Glyphosate F"
+  ],
+  "anchors": [
+   "wheat berries"
+  ],
+  "asins": [
+   "B00A6TKLRC"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "introduction-to",
+  "search_terms": [
+   "palouse brand certified glyphosate",
+   "wheat berries"
+  ]
+ },
+ {
+  "id": "whopper-cake",
+  "name": "Whopper Cake",
+  "current_amazon_url": "https://www.amazon.com/dp/0689838441?tag=herb-hugo-20",
+  "is_book": true,
+  "amazon_titles": [
+   "Whopper Cake"
+  ],
+  "anchors": [
+   "Whopper Cake"
+  ],
+  "asins": [
+   "0689838441"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "whopper-cake-book-review",
+  "search_terms": [
+   "whopper cake"
+  ]
+ },
+ {
+  "id": "wilton-excelle-elite-non-stick-tart-pan-11-inch",
+  "name": "Wilton Excelle Elite Non-Stick Tart Pan, 11-Inch",
+  "current_amazon_url": "https://www.amazon.com/dp/B0000DIX7Y?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Wilton Excelle Elite Non-Stick Tart"
+  ],
+  "anchors": [
+   "tart pan"
+  ],
+  "asins": [
+   "B0000DIX7Y"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "heirloom-tomato-tart-recipe",
+  "search_terms": [
+   "wilton excelle elite stick",
+   "tart pan"
+  ]
+ }
+]

@@ -375,5 +375,2424 @@
   },
   "alternatives": [],
   "note": "Heavy-duty half sheet pan; a different brand than Chicago Metallic."
+ },
+ {
+  "id": "sensarte-nonstick-crepe-pan-10-inch",
+  "name": "Sensarte Nonstick Crepe Pan 10-Inch",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B08RMXBJNQ"
+   ],
+   "title": "Sensarte Nonstick Crepe Pan 10-Inch",
+   "anchors": [
+    "crepe pan",
+    "crepe pans"
+   ],
+   "links": 2,
+   "posts": 2,
+   "example_post": "manouri-cheese-blintzes-recipe"
+  },
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "Le Creuset Toughened Nonstick PRO Crepe Pan, 11\"",
+   "url": "https://www.surlatable.com/product/le-creuset-toughened-nonstick-pro-crepe-pan-11/6573372",
+   "epc": 0.06,
+   "rate": 9,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser search page"
+  },
+  "alternatives": [],
+  "note": "Same kind of nonstick crepe pan but a premium Le Creuset at 11 inches instead of the 10-inch granite-coated Sensarte."
+ },
+ {
+  "id": "amazon-b0006bddi4",
+  "name": "Amazon item B0006BDDI4",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B0006BDDI4"
+   ],
+   "title": "Amazon item B0006BDDI4",
+   "anchors": [
+    "basic"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "madelines-with"
+  },
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "Sur La Table Madeleine Pan",
+   "url": "https://www.surlatable.com/product/sur-la-table-madeleine-pan/9547571",
+   "epc": 0.06,
+   "rate": 9,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser search page"
+  },
+  "alternatives": [],
+  "note": "Sur La Table's own madeleine pan; shell count and finish may differ from the Gobel tinplate 12-shell pan."
+ },
+ {
+  "id": "amazon-b000ofredc",
+  "name": "Amazon item B000OFREDC",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B000OFREDC"
+   ],
+   "title": "Amazon item B000OFREDC",
+   "anchors": [
+    "wok"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "thai-basil-eggplant-recipe"
+  },
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "Sur La Table Carbon Steel Wok",
+   "url": "https://www.surlatable.com/product/sur-la-table-carbon-steel-wok/8343030",
+   "epc": 0.06,
+   "rate": 9,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser search page"
+  },
+  "alternatives": [],
+  "note": "Same type of carbon steel wok, from Sur La Table's own line; size, handle and any lid or accessories may differ."
+ },
+ {
+  "id": "amazon-b00428m7k2",
+  "name": "Amazon item B00428M7K2",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B00428M7K2"
+   ],
+   "title": "Amazon item B00428M7K2",
+   "anchors": [
+    "wok"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "stir-fried-winged-beans-kacang-botol-with-tomato-and-garlic-recipe"
+  },
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "Sur La Table Carbon Steel Wok",
+   "url": "https://www.surlatable.com/product/sur-la-table-carbon-steel-wok/8343030",
+   "epc": 0.06,
+   "rate": 9,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser search page"
+  },
+  "alternatives": [],
+  "note": "Same type of carbon steel wok, from Sur La Table's own line; size, handle and any lid or accessories may differ."
+ },
+ {
+  "id": "amazon-b08hmxmg2h",
+  "name": "Amazon item B08HMXMG2H",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B08HMXMG2H"
+   ],
+   "title": "Amazon item B08HMXMG2H",
+   "anchors": [
+    "wok"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "red-curry-fried-rice-with-seared-pineapple-recipe"
+  },
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "Sur La Table Carbon Steel Wok",
+   "url": "https://www.surlatable.com/product/sur-la-table-carbon-steel-wok/8343030",
+   "epc": 0.06,
+   "rate": 9,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser search page"
+  },
+  "alternatives": [],
+  "note": "Same type of carbon steel wok, from Sur La Table's own line; size, handle and any lid or accessories may differ."
+ },
+ {
+  "id": "amazon-b0fmjw45cf",
+  "name": "Amazon item B0FMJW45CF",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B0FMJW45CF"
+   ],
+   "title": "Amazon item B0FMJW45CF",
+   "anchors": [
+    "wok"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "mission-chinese-style-tofu-with-radish-and-shiso-recipe"
+  },
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "Sur La Table Carbon Steel Wok",
+   "url": "https://www.surlatable.com/product/sur-la-table-carbon-steel-wok/8343030",
+   "epc": 0.06,
+   "rate": 9,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser search page"
+  },
+  "alternatives": [],
+  "note": "Same type of carbon steel wok, from Sur La Table's own line; size, handle and any lid or accessories may differ."
+ },
+ {
+  "id": "dedicated-paella-pan",
+  "name": "Dedicated Paella Pan",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B000QYNSRC"
+   ],
+   "title": "Dedicated Paella Pan",
+   "anchors": [
+    "dedicated paella pan"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "vegetarian-pael"
+  },
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "Spanish Paella Pans",
+   "url": "https://www.surlatable.com/product/spanish-paella-pan-161-2-serves-10/506659",
+   "epc": 0.06,
+   "rate": 9,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser search page"
+  },
+  "alternatives": [],
+  "note": "A traditional Spanish paella pan, though a different size (16.5 inch) than the Garcima 14-inch pan."
+ },
+ {
+  "id": "garcima-15-inch-carbon-steel-paella-pan",
+  "name": "Garcima 15-Inch Carbon Steel Paella Pan",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B000QYKK3W"
+   ],
+   "title": "Garcima 15-Inch Carbon Steel Paella Pan",
+   "anchors": [
+    "paella pan"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "new-paella-pan-from-the-spanish-table"
+  },
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "Spanish Paella Pans",
+   "url": "https://www.surlatable.com/product/spanish-paella-pan-161-2-serves-10/506659",
+   "epc": 0.06,
+   "rate": 9,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser search page"
+  },
+  "alternatives": [],
+  "note": "A traditional Spanish paella pan, though a different size (16.5 inch) than the Garcima 15-inch carbon steel pan."
+ },
+ {
+  "id": "bamboo-steamer",
+  "name": "Bamboo Steamer",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B0001VQIYU"
+   ],
+   "title": "Bamboo Steamer",
+   "anchors": [
+    "bamboo steamer"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "smoked-tofu-buns-recipe"
+  },
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "Sur La Table Bamboo Steamers",
+   "url": "https://www.surlatable.com/product/sur-la-table-bamboo-steamer-6/565705",
+   "epc": 0.06,
+   "rate": 9,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser search page"
+  },
+  "alternatives": [],
+  "note": "Same type of bamboo steamer baskets from Sur La Table's own line instead of Joyce Chen; check the size/tier count."
+ },
+ {
+  "id": "cheap-simple-little-dumpling-press",
+  "name": "Cheap, Simple Little Dumpling Press",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B000PLUIIS"
+   ],
+   "title": "Helen's Asian Kitchen Dumpling Press, 4-Inch",
+   "anchors": [
+    "cheap, simple little dumpling press"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "mandu-koreanstyle-potstickers-with-ssamjang-kochujang-sauce-recipe"
+  },
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "Sur La Table Dumpling & Empanada Presses, Set of 2",
+   "url": "https://www.surlatable.com/product/sur-la-table-dumpling-empanada-presses-set-of-2/9743162",
+   "epc": 0.06,
+   "rate": 9,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser search page"
+  },
+  "alternatives": [],
+  "note": "Same simple hand dumpling press, sold as a set of two in different sizes instead of the single 4-inch Helen's Asian Kitchen press."
+ },
+ {
+  "id": "cheapo-little-gnocchi-board",
+  "name": "Cheapo Little Gnocchi Board",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B0019R7SPS"
+   ],
+   "title": "Fante's Gnocchi Board, Beechwood, Made In Italy",
+   "anchors": [
+    "cheapo little gnocchi board"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "gnocchi-with-radicchio-leeks-and-ricotta-salata-vegetarian-recipe"
+  },
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "Sur La Table Gnocchi Board",
+   "url": "https://www.surlatable.com/product/sur-la-table-gnocchi-board/8798589",
+   "epc": 0.06,
+   "rate": 9,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser search page"
+  },
+  "alternatives": [],
+  "note": "Same type of ridged wooden gnocchi board from Sur La Table instead of the Fante's beechwood one."
+ },
+ {
+  "id": "ceramic-sharpening-steel",
+  "name": "Ceramic Sharpening Steel",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B002YK1RAQ"
+   ],
+   "title": "Messermeister 12 Ceramic Sharpening Rod - Fine 1200 Grit",
+   "anchors": [
+    "ceramic sharpening steel"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "sharpening-steels-kitchen-tools-hand-tools"
+  },
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "Kyocera Ceramic Sharpening Steel, 9\"",
+   "url": "https://www.surlatable.com/product/kyocera-ceramic-sharpening-steel-9/869636",
+   "epc": 0.06,
+   "rate": 9,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser search page"
+  },
+  "alternatives": [],
+  "note": "Another ceramic sharpening rod (Kyocera, 9 inch) instead of the Messermeister 12-inch 1200-grit rod."
+ },
+ {
+  "id": "metal-honing-steel",
+  "name": "Metal Honing Steel",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B071FC4GYN"
+   ],
+   "title": "Metal Honing Steel",
+   "anchors": [
+    "metal honing steel"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "sharpening-steels-kitchen-tools-hand-tools"
+  },
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "Sur la table 10\" Honing Steel",
+   "url": "https://www.surlatable.com/product/sur-la-table-10-honing-steel/10548071",
+   "epc": 0.06,
+   "rate": 9,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser search page"
+  },
+  "alternatives": [],
+  "note": "Same type of steel honing rod, 10 inches instead of 12, from Sur La Table's own line."
+ },
+ {
+  "id": "kitchenaid-pasta-roller-attachment",
+  "name": "KitchenAid Pasta Roller Attachment",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B000TTCK64"
+   ],
+   "title": "KitchenAid Pasta Roller Attachment",
+   "anchors": [
+    "pasta roller attachment for my Kitchen-Aid mixer"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "pappardelle-with-eggplant-ragu-and-fresh-ricotta-recipe"
+  },
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "KitchenAid 3-in-1 Metal Pasta Attachment",
+   "url": "https://www.surlatable.com/product/kitchenaid-3-in-1-metal-pasta-attachment/9958042",
+   "epc": 0.06,
+   "rate": 9,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser search page"
+  },
+  "alternatives": [],
+  "note": "KitchenAid's newer metal pasta roller and cutter attachment set, a different model than the KPSA roller."
+ },
+ {
+  "id": "kitchenaid-pasta-extruder-attachment",
+  "name": "KitchenAid Pasta Extruder Attachment",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B003GWZ9ZK"
+   ],
+   "title": "KitchenAid Pasta Extruder Attachment",
+   "anchors": [
+    "pasta-extruder attachment"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "rigatoni-with-roasted-cauliflower-and-spicy-tomato-sauce-recipe"
+  },
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "KitchenAid Gourmet Pasta Press",
+   "url": "https://www.surlatable.com/product/kitchenaid-r-gourmet-pasta-press/706457",
+   "epc": 0.06,
+   "rate": 9,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser search page"
+  },
+  "alternatives": [],
+  "note": "KitchenAid's pasta press (extruder) stand-mixer attachment, a different model than the KPEXTA on Amazon."
+ },
+ {
+  "id": "great-item",
+  "name": "great item",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B00004OCKT"
+   ],
+   "title": "great item",
+   "anchors": [
+    "great item"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "apple-crostata-with-breadcrumb-streusel-recipe-for-pieday"
+  },
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "Sur La Table Apple Slicer",
+   "url": "https://www.surlatable.com/product/sur-la-table-apple-slicer/3420361",
+   "epc": 0.06,
+   "rate": 9,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser search page"
+  },
+  "alternatives": [],
+  "note": "A different brand of apple corer and slicer instead of the OXO Good Grips one."
+ },
+ {
+  "id": "hand-cranked-cavatelli-maker",
+  "name": "Hand-Cranked Cavatelli Maker",
+  "status": "no_match",
+  "reason": "no cavatelli maker at Sur La Table",
+  "needs_web": false,
+  "amazon": {
+   "asins": [
+    "B009J9AE18"
+   ],
+   "title": "Hand-Cranked Cavatelli Maker",
+   "anchors": [
+    "hand-cranked cavatelli maker"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "cavatelli-with-slow-roasted-broccoli-and-harissa-recipe"
+  }
+ },
+ {
+  "id": "calphalon-12-inch-non-stick-omelet-pan",
+  "name": "Calphalon 12-Inch Non-Stick Omelet Pan",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B0000936JK"
+   ],
+   "title": "Calphalon Contemporary Nonstick 12-Inch Omelette Pan",
+   "anchors": [
+    "Calphalon 12-inch non-stick omelet pan"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "crepes-with-roasted-french-plums-yogurt-and-honey"
+  },
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "de Buyer Carbon Steel Omelet Pan, 9.5\"",
+   "url": "https://www.surlatable.com/product/de-buyer-carbon-steel-omelet-pan-9-5/7849870",
+   "epc": 0.06,
+   "rate": 9,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser search page"
+  },
+  "alternatives": [],
+  "note": "A carbon steel omelet pan (9.5 inch) rather than a 12-inch nonstick Calphalon, so it needs seasoning and is smaller."
+ },
+ {
+  "id": "magnetic-block",
+  "name": "Magnetic Block",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B0BV6B6QY3"
+   ],
+   "title": "Magnetic Knife Holder for Wall, 16 Inch Acaci",
+   "anchors": [
+    "magnetic block"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "knives-for-the"
+  },
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "Sur La Table Bar Magnet",
+   "url": "https://www.surlatable.com/product/sur-la-table-bar-magnet-17-5/2267912",
+   "epc": 0.06,
+   "rate": 9,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser search page"
+  },
+  "alternatives": [],
+  "note": "A magnetic knife bar (17.5 inch) instead of the 16-inch acacia wood wall-mounted holder."
+ },
+ {
+  "id": "miu-france-stainless-steel-magnetic-knife-holder",
+  "name": "MIU France Stainless Steel Magnetic Knife Holder",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B0006IVY7E"
+   ],
+   "title": "MIU France Stainless Steel Magnetic Knife Holder",
+   "anchors": [
+    "MIU France Stainless Steel Magnetic Knife Holder"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "chefs-knife-kitchen-tools-hand-tools"
+  },
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "Sur La Table Bar Magnet",
+   "url": "https://www.surlatable.com/product/sur-la-table-bar-magnet-17-5/2267912",
+   "epc": 0.06,
+   "rate": 9,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser search page"
+  },
+  "alternatives": [],
+  "note": "A different magnetic knife bar (17.5 inch), not the MIU France stainless one."
+ },
+ {
+  "id": "immersion-circulator",
+  "name": "Immersion Circulator",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B094921FYY"
+   ],
+   "title": "Immersion Circulator",
+   "anchors": [
+    "immersion circulator"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "greek-green-bean-salad-recipe"
+  },
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "Anova Precision Cooker 3.0",
+   "url": "https://www.surlatable.com/product/anova-precision-r-cooker-3-0/7781776",
+   "epc": 0.06,
+   "rate": 9,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser search page"
+  },
+  "alternatives": [],
+  "note": "A different brand of sous vide immersion circulator (Anova instead of Wancle); same function."
+ },
+ {
+  "id": "food-dehydrator",
+  "name": "Food Dehydrator",
+  "status": "no_match",
+  "reason": "no dehydrator at Sur La Table",
+  "needs_web": false,
+  "amazon": {
+   "asins": [
+    "B004Z915M4"
+   ],
+   "title": "Excalibur Electric Food Dehydrator Machine 9-",
+   "anchors": [
+    "fancy-pants dehydrator"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "corned-beets-recipe"
+  }
+ },
+ {
+  "id": "knife",
+  "name": "knife",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B000638D32"
+   ],
+   "title": "knife",
+   "anchors": [
+    "knife"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "how-to-cut-mint-chiffonade-tiny-ribbons-video"
+  },
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "Victorinox Swiss Classic Chef's Knife",
+   "url": "https://www.surlatable.com/product/victorinox-swiss-classic-chef-s-knife/7476237",
+   "epc": 0.06,
+   "rate": 9,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser search page"
+  },
+  "alternatives": [],
+  "note": "Same maker and similar 8-inch chef's knife, but the Swiss Classic line rather than the Fibrox Pro handle."
+ },
+ {
+  "id": "heatproof-spatula",
+  "name": "Heatproof Spatula",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B084H89YLC"
+   ],
+   "title": "Heatproof Spatula",
+   "anchors": [
+    "heatproof spatula"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "caramelized-pear-ice-cream-from-the-perfect-scoop-by-david-lebovitz-recipe-and-cookbook-review"
+  },
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "Sur la table Flex-Core Silicone Spatula",
+   "url": "https://www.surlatable.com/product/sur-la-table-flex-core-silicone-spatula/10073328",
+   "epc": 0.06,
+   "rate": 9,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser search page"
+  },
+  "alternatives": [],
+  "note": "Same type of heat-resistant silicone spatula, from Sur La Table's own line instead of HOTEC."
+ },
+ {
+  "id": "emile-henry",
+  "name": "Emile Henry",
+  "status": "match",
+  "kind": "same",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B00WRIJ0UY"
+   ],
+   "title": "Emile Henry Modern Classics 9\" Deep Pie D",
+   "anchors": [
+    "Emile Henry"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "strawberry-rhubarb-crisp-with-pumpkin-seed-topping-recipe"
+  },
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "Emile Henry Modern Classics Pie Dish, 9\"",
+   "url": "https://www.surlatable.com/product/emile-henry-modern-classics-pie-dish-9/8864399",
+   "epc": 0.06,
+   "rate": 9,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser search page"
+  },
+  "alternatives": [],
+  "note": "Same Emile Henry Modern Classics 9-inch pie dish (color/finish may vary)."
+ },
+ {
+  "id": "emile-henry-lasagna-pan",
+  "name": "Emile Henry Lasagna Pan",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B00022O6YM"
+   ],
+   "title": "Emile Henry Lasagna Pan",
+   "anchors": [
+    "Emile Henry lasagna pan"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "vegetarian-lasagna-recipe-with-spinach-and-ricotta-filling"
+  },
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "Emile Henry Modern Classics Rectangular Baker, 13\"",
+   "url": "https://www.surlatable.com/product/emile-henry-modern-classics-rectangular-baker-13-x-9/8864381",
+   "epc": 0.06,
+   "rate": 9,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser search page"
+  },
+  "alternatives": [],
+  "note": "Emile Henry rectangular baker but a smaller 13 x 9 inch size instead of the 15 x 10 inch lasagna pan."
+ },
+ {
+  "id": "lovely-if-pricey-ones-from-emily-henry",
+  "name": "lovely, if pricey ones from Emily Henry",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B01AO0XTWQ"
+   ],
+   "title": "lovely, if pricey ones from Emily Henry",
+   "anchors": [
+    "lovely, if pricey ones from Emily Henry"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "basic-baked-custard-recipe-an-easy-comforting-dessert-with-many-options"
+  },
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "Le Creuset Straight-Wall Stoneware Ramekins, 6.75-oz, Set of 2",
+   "url": "https://www.surlatable.com/product/le-creuset-straight-wall-stoneware-ramekins-6-75-oz-set-of-2/8671323",
+   "epc": 0.06,
+   "rate": 9,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser search page"
+  },
+  "alternatives": [],
+  "note": "Le Creuset ramekins (6.75 oz, set of 2) instead of Emile Henry 8.5 oz; no Emile Henry ramekins found."
+ },
+ {
+  "id": "kevlar-glove",
+  "name": "Kevlar Glove",
+  "status": "match",
+  "kind": "same",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B001QXZORE"
+   ],
+   "title": "Kevlar Glove",
+   "anchors": [
+    "kevlar glove"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "goat-cheese-asparagus-and-beet-salad-with-herb-flowers-recipe"
+  },
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "Microplane Cut-Resistant Glove",
+   "url": "https://www.surlatable.com/product/microplane-cut-resistant-glove/2114098",
+   "epc": 0.06,
+   "rate": 9,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser search page"
+  },
+  "alternatives": [],
+  "note": "Same Microplane cut-resistant glove."
+ },
+ {
+  "id": "kevlar-kitchen-glove",
+  "name": "Kevlar Kitchen Glove",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B00IVM1TKO"
+   ],
+   "title": "Kevlar Kitchen Glove",
+   "anchors": [
+    "Kevlar kitchen glove"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "mandoline-preferably-an-inexpensive-japanese-model"
+  },
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "Microplane Cut-Resistant Glove",
+   "url": "https://www.surlatable.com/product/microplane-cut-resistant-glove/2114098",
+   "epc": 0.06,
+   "rate": 9,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser search page"
+  },
+  "alternatives": [],
+  "note": "Same kind of cut-resistant kitchen glove from Microplane instead of NOCRY."
+ },
+ {
+  "id": "corkscrew",
+  "name": "Corkscrew",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B086Q53TG7"
+   ],
+   "title": "Corkscrew",
+   "anchors": [
+    "corkscrew"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "best-kosher-for-passover-wines"
+  },
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "OXO Steel Double Lever Waiter's Corkscrew",
+   "url": "https://www.surlatable.com/product/oxo-steel-double-lever-waiters-corkscrew/6833156",
+   "epc": 0.06,
+   "rate": 9,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser search page"
+  },
+  "alternatives": [],
+  "note": "Same type of waiter's-style wine key from OXO, a double-lever model instead of the Zulay."
+ },
+ {
+  "id": "dispensing-scoop",
+  "name": "Dispensing Scoop",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B0BWXSH3Z3"
+   ],
+   "title": "Ice Cream Scoop, 18/8 Stainless Steel Cookie",
+   "anchors": [
+    "dispensing scoop"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "thick-and-cakey-chocolate-chip-cookies-recipe"
+  },
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "Zeroll Ice Cream Scoop",
+   "url": "https://www.surlatable.com/product/zeroll-ice-cream-scoop/6823587",
+   "epc": 0.06,
+   "rate": 9,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser search page"
+  },
+  "alternatives": [],
+  "note": "Zeroll's classic ice cream scoop rather than a generic stainless cookie/ice cream scoop."
+ },
+ {
+  "id": "ice-cream-freezers-like-they-have-on-iron-chef",
+  "name": "Ice Cream Freezers Like They Have on Iron Chef",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B0000DDX9U"
+   ],
+   "title": "Ice Cream Freezers Like They Have on Iron Chef",
+   "anchors": [
+    "ice cream freezers like they have on Iron Chef"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "chocolate-cupca"
+  },
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "Lello Lussino Ice Cream Machine",
+   "url": "https://www.surlatable.com/product/lello-lussino-ice-cream-machine/23833",
+   "epc": 0.06,
+   "rate": 9,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser search page"
+  },
+  "alternatives": [],
+  "note": "Same Lello brand of compressor ice cream machine but the Lussino model rather than the Musso Pola 5030."
+ },
+ {
+  "id": "ateco-plain-edge-round-cutters-graduated-sizes",
+  "name": "Ateco Plain Edge Round Cutters, Graduated Sizes, 11 Pc Set",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B00004S1CI"
+   ],
+   "title": "Ateco Plain Edge Round Cutters, Graduated Sizes, 11 Pc Set",
+   "anchors": [
+    "cutters"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "recipe-pie-doug"
+  },
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "Sur La Table Round Cookie Cutters, Set of 10",
+   "url": "https://www.surlatable.com/product/sur-la-table-round-cookie-cutters-set-of-10/7314156",
+   "epc": 0.06,
+   "rate": 9,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser search page"
+  },
+  "alternatives": [],
+  "note": "A graduated set of plain round cutters from Sur La Table rather than the Ateco stainless set."
+ },
+ {
+  "id": "champagne-flutes-that-are-etched",
+  "name": "Champagne Flutes That Are Etched",
+  "status": "no_match",
+  "reason": "no etched flutes found",
+  "needs_web": false,
+  "amazon": {
+   "asins": [
+    "B0BZ3VXQ1R"
+   ],
+   "title": "Joeyan Etched Champagne Flutes Glasses",
+   "anchors": [
+    "champagne flutes that are etched"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "foraging-in-bel"
+  }
+ },
+ {
+  "id": "chef-craft-serrated-grapefruit-spoon-2-piece-set",
+  "name": "Chef Craft Serrated Grapefruit Spoon, 2-Piece Set",
+  "status": "no_match",
+  "reason": "no grapefruit spoon found",
+  "needs_web": false,
+  "amazon": {
+   "asins": [
+    "B00IH5X9BC"
+   ],
+   "title": "Chef Craft - Select Serrated Grapefruit Spoon 2 Piece Set",
+   "anchors": [
+    "grapefruit spoons"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "artichoke-spagh"
+  }
+ },
+ {
+  "id": "cookie-sheet-with-a-rim",
+  "name": "Cookie Sheet with a Rim",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B0049C2S32"
+   ],
+   "title": "Cookie Sheet with a Rim",
+   "anchors": [
+    "cookie sheet with a rim"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "flaky-biscuits"
+  },
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "Sur La Table Platinum Pro Heavy Duty Half Sheet Pan",
+   "url": "https://www.surlatable.com/product/sur-la-table-platinum-pro-heavy-duty-half-sheet-pan/5774617",
+   "epc": 0.06,
+   "rate": 9,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser search page"
+  },
+  "alternatives": [],
+  "note": "Same half-sheet size rimmed pan from Sur La Table's own line rather than Nordic Ware."
+ },
+ {
+  "id": "just-soft-boiled",
+  "name": "just soft-boiled",
+  "status": "no_match",
+  "reason": "no equivalent at Sur La Table",
+  "needs_web": false,
+  "amazon": {
+   "asins": [
+    "B0007M2BN0"
+   ],
+   "title": "just soft-boiled",
+   "anchors": [
+    "just soft-boiled"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "what-to-do-with-an-insideout-egg"
+  }
+ },
+ {
+  "id": "big-steamer",
+  "name": "Big Steamer",
+  "status": "no_match",
+  "reason": "no equivalent at Sur La Table",
+  "needs_web": false,
+  "amazon": {
+   "asins": [
+    "B0FKGWVLT6"
+   ],
+   "title": "ROVSUN 20QT Stainless Steel Tamale Steamer Pot",
+   "anchors": [
+    "big steamer"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "nuevo-leon-style-tamales-adapted-to-be-vegetarian-recipe"
+  }
+ },
+ {
+  "id": "amazon-b012pnlh42",
+  "name": "Amazon item B012PNLH42",
+  "status": "no_match",
+  "reason": "no equivalent at Sur La Table",
+  "needs_web": false,
+  "amazon": {
+   "asins": [
+    "B012PNLH42"
+   ],
+   "title": "Amazon item B012PNLH42",
+   "anchors": [
+    "kit"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "making-mozare-1"
+  }
+ },
+ {
+  "id": "moosewood",
+  "name": "Moosewood",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "1607747391"
+   ],
+   "title": "Moosewood",
+   "anchors": [
+    "Moosewood"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "introduction-to"
+  },
+  "primary": {
+   "merchant": "Barnes & Noble",
+   "product": "The Moosewood Cookbook: 40th Anniversary Edition",
+   "url": "https://www.barnesandnoble.com/w/the-moosewood-cookbook-mollie-katzen/1117794998?ean=9781607747390",
+   "epc": 0.01,
+   "rate": 5.15,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser search page"
+  },
+  "alternatives": [],
+  "note": "Same title and author; the 40th Anniversary Edition (same ISBN as the Amazon link)."
+ },
+ {
+  "id": "plenty",
+  "name": "Plenty",
+  "status": "match",
+  "kind": "same",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "1452101248"
+   ],
+   "title": "Plenty",
+   "anchors": [
+    "Plenty"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "fried-artichokes-with-orange-olive-oil-emulsion-recipe"
+  },
+  "primary": {
+   "merchant": "Barnes & Noble",
+   "product": "Plenty: Vibrant Vegetable Recipes from London's Ottolenghi",
+   "url": "https://www.barnesandnoble.com/w/plenty-yotam-ottolenghi/1102580859?ean=9781452101248",
+   "epc": 0.01,
+   "rate": 5.15,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser search page"
+  },
+  "alternatives": [],
+  "note": "Same book and ISBN as the Amazon link."
+ },
+ {
+  "id": "dessert-express",
+  "name": "Dessert Express",
+  "status": "no_match",
+  "reason": "not found at Barnes & Noble by ISBN",
+  "needs_web": false,
+  "amazon": {
+   "asins": [
+    "1600850189"
+   ],
+   "title": "Dessert Express",
+   "anchors": [
+    "Dessert Express"
+   ],
+   "links": 3,
+   "posts": 1,
+   "example_post": "dessert-express-cookbook-review-with-pudding-cake-recipe"
+  }
+ },
+ {
+  "id": "dessert-recipe",
+  "name": "dessert recipe",
+  "status": "no_match",
+  "reason": "not found at Barnes & Noble by ISBN",
+  "needs_web": false,
+  "amazon": {
+   "asins": [
+    "1558327983"
+   ],
+   "title": "dessert recipe",
+   "anchors": [
+    "dessert recipe"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "how-to-make-an-inside-out-egg-recipe"
+  }
+ },
+ {
+  "id": "feeding-the-hungry-ghost",
+  "name": "Feeding the Hungry Ghost",
+  "status": "no_match",
+  "reason": "not found at Barnes & Noble by ISBN",
+  "needs_web": false,
+  "amazon": {
+   "asins": [
+    "1608681645"
+   ],
+   "title": "Feeding the Hungry Ghost",
+   "anchors": [
+    "Feeding the Hungry Ghost"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "hungry-ghost-moroccan-carrot-salad-recipe"
+  }
+ },
+ {
+  "id": "modernist-cuisine",
+  "name": "Modernist Cuisine",
+  "status": "match",
+  "kind": "same",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "1734386142"
+   ],
+   "title": "Modernist Cuisine",
+   "anchors": [
+    "Modernist Cuisine"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "vegetarian-frijoles-charros-mexican-cowboy-beans-with-smoked-onion-recipe"
+  },
+  "primary": {
+   "merchant": "Barnes & Noble",
+   "product": "Modernist Cuisine: The Art & Science of Cooking",
+   "url": "https://www.barnesandnoble.com/w/modernist-cuisine-nathan-myhrvold/1146584093?ean=9781734386141",
+   "epc": 0.01,
+   "rate": 5.15,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser search page"
+  },
+  "alternatives": [],
+  "note": "Same book and ISBN as the Amazon link."
+ },
+ {
+  "id": "ratio-the-simple-codes-behind-the-craft-of",
+  "name": "Ratio: the Simple Codes Behind the Craft of Everyday Cooking",
+  "status": "match",
+  "kind": "same",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "1416566112"
+   ],
+   "title": "Ratio: The Simple Codes Behind the Cra",
+   "anchors": [
+    "Ratio: The Simple Codes Behind the Craft of Everyday Cooking"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "chocolate-chunk-bread-pudding-recipe"
+  },
+  "primary": {
+   "merchant": "Barnes & Noble",
+   "product": "Ratio: The Simple Codes Behind the Craft of Everyday Cooking",
+   "url": "https://www.barnesandnoble.com/w/ratio-michael-ruhlman/1100331071?ean=9781416566113",
+   "epc": 0.01,
+   "rate": 5.15,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser search page"
+  },
+  "alternatives": [],
+  "note": "Same book and ISBN as the Amazon link."
+ },
+ {
+  "id": "the-art-of-fermentation",
+  "name": "The Art of Fermentation",
+  "status": "match",
+  "kind": "same",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "160358286X"
+   ],
+   "title": "The Art of Fermentation: With Practica",
+   "anchors": [
+    "The Art of Fermentation"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "making-your-own-kimchi-recipe"
+  },
+  "primary": {
+   "merchant": "Barnes & Noble",
+   "product": "The Art of Fermentation",
+   "url": "https://www.barnesandnoble.com/w/the-art-of-fermentation-sandor-ellix-katz/1110790411?ean=9781603582865",
+   "epc": 0.01,
+   "rate": 5.15,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser search page"
+  },
+  "alternatives": [],
+  "note": "Same book and ISBN as the Amazon link."
+ },
+ {
+  "id": "raw-food-100-recipes-to-get-the-glow",
+  "name": "Raw Food / 100 Recipes to Get the Glow",
+  "status": "match",
+  "kind": "same",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "0060793554"
+   ],
+   "title": "Raw Food/Real World: 100 Recipes to Ge",
+   "anchors": [
+    "Raw Food / 100 Recipes To Get The Glow"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "to-play-video-m"
+  },
+  "primary": {
+   "merchant": "Barnes & Noble",
+   "product": "Raw Food/Real World: 100 Recipes to Get the Glow",
+   "url": "https://www.barnesandnoble.com/w/raw-food-real-world-matthew-kenney/1111668204?ean=9780060793555",
+   "epc": 0.01,
+   "rate": 5.15,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser search page"
+  },
+  "alternatives": [],
+  "note": "Same book and ISBN as the Amazon link."
+ },
+ {
+  "id": "roasting-in-hell-s-kitchen-temper-tantrums-f",
+  "name": "Roasting in Hell's Kitchen: Temper Tantrums, F Words, and the Pursuit of Perfection",
+  "status": "match",
+  "kind": "same",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "0061191981"
+   ],
+   "title": "Roasting in Hell's Kitchen: Temper Tantrums, F Words, and the Pursuit of Perfection",
+   "anchors": [
+    "Roasting in Hell's Kitchen: Temper Tantrums, F Words, and the Pursuit of Perfection"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "battle-of-the-n"
+  },
+  "primary": {
+   "merchant": "Barnes & Noble",
+   "product": "Roasting in Hell's Kitchen",
+   "url": "https://www.barnesandnoble.com/w/roasting-in-hells-kitchen-gordon-ramsay/1128004739?ean=9780061191985",
+   "epc": 0.01,
+   "rate": 5.15,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser search page"
+  },
+  "alternatives": [],
+  "note": "Same book and ISBN as the Amazon link."
+ },
+ {
+  "id": "ruhlman",
+  "name": "Ruhlman",
+  "status": "match",
+  "kind": "same",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "080508939X"
+   ],
+   "title": "Ruhlman",
+   "anchors": [
+    "Ruhlman"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "so-you-want-to-stage-intern-at-a-restaurant"
+  },
+  "primary": {
+   "merchant": "Barnes & Noble",
+   "product": "The Making of a Chef: Mastering Heat at the Culinary Institute of America",
+   "url": "https://www.barnesandnoble.com/w/the-making-of-a-chef-michael-ruhlman/1100558786?ean=9780805089394",
+   "epc": 0.01,
+   "rate": 5.15,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser search page"
+  },
+  "alternatives": [],
+  "note": "Same book and ISBN as the Amazon link."
+ },
+ {
+  "id": "tamales-101",
+  "name": "Tamales 101",
+  "status": "match",
+  "kind": "same",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "1580084281"
+   ],
+   "title": "Tamales 101: A Beginner's Guide to",
+   "anchors": [
+    "Tamales 101"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "red-chili-sauce-for-tamales"
+  },
+  "primary": {
+   "merchant": "Barnes & Noble",
+   "product": "Tamales 101: A Beginner's Guide to Making Traditional Tamales",
+   "url": "https://www.barnesandnoble.com/w/tamales-101-alice-guadalupe-tapp/1111896507?ean=9781580084284",
+   "epc": 0.01,
+   "rate": 5.15,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser search page"
+  },
+  "alternatives": [],
+  "note": "Same book and ISBN as the Amazon link."
+ },
+ {
+  "id": "morimoto-the-new-art-of-japanese-cooking",
+  "name": "Morimoto: the New Art of Japanese Cooking",
+  "status": "no_match",
+  "reason": "not found at Barnes & Noble by ISBN",
+  "needs_web": false,
+  "amazon": {
+   "asins": [
+    "0756631238"
+   ],
+   "title": "Morimoto: the New Art of Japanese Cooking",
+   "anchors": [
+    "Morimoto: The New Art of Japanese Cooking"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "lychee-tempura"
+  }
+ },
+ {
+  "id": "my-mexico",
+  "name": "My Mexico",
+  "status": "no_match",
+  "reason": "not found at Barnes & Noble by ISBN",
+  "needs_web": false,
+  "amazon": {
+   "asins": [
+    "0609602470"
+   ],
+   "title": "My Mexico",
+   "anchors": [
+    "My Mexico"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "bocoles-masa-and-black-bean-cakes-with-spicy-yams-recipe"
+  }
+ },
+ {
+  "id": "newlywed-kitchen-delicious-meals-for-couples",
+  "name": "Newlywed Kitchen: Delicious Meals for Couples Cooking Together",
+  "status": "no_match",
+  "reason": "not found at Barnes & Noble by ISBN",
+  "needs_web": false,
+  "amazon": {
+   "asins": [
+    "1570616329"
+   ],
+   "title": "Newlywed Kitchen: Delicious Meals for Couples Cooking Together",
+   "anchors": [
+    "Newlywed Kitchen: Delicious Meals for Couples Cooking Together"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "the-newlywed-kitchen-book-review-with-a-recipe-for-zucchini-fritters"
+  }
+ },
+ {
+  "id": "salted-a-manifesto-on-the-world-s-most",
+  "name": "Salted: a Manifesto on the World's Most Essential Mineral, with Recipes",
+  "status": "no_match",
+  "reason": "not found at Barnes & Noble by ISBN",
+  "needs_web": false,
+  "amazon": {
+   "asins": [
+    "1580082629"
+   ],
+   "title": "Salted: a Manifesto on the World's Most Essential Mineral, with Recipes",
+   "anchors": [
+    "Salted: A Manifesto on the World&#39",
+    "s Most Essential Mineral, with Recipes"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "interview-with-mark-bitterman-leading-expert-on-culinary-salts"
+  }
+ },
+ {
+  "id": "seductions-of-rice",
+  "name": "Seductions of Rice",
+  "status": "no_match",
+  "reason": "not found at Barnes & Noble by ISBN",
+  "needs_web": false,
+  "amazon": {
+   "asins": [
+    "1579652344"
+   ],
+   "title": "Seductions of Rice",
+   "anchors": [
+    "Seductions of Rice"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "mangoes-and-cur"
+  }
+ },
+ {
+  "id": "think-like-a-chef",
+  "name": "Think Like a Chef",
+  "status": "match",
+  "kind": "same",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "0307406954"
+   ],
+   "title": "Think Like a Chef",
+   "anchors": [
+    "Think Like a Chef"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "roasted-tomato-and-corn-risotto-recipe"
+  },
+  "primary": {
+   "merchant": "Barnes & Noble",
+   "product": "Think Like a Chef: A Cookbook",
+   "url": "https://www.barnesandnoble.com/w/think-like-a-chef-tom-colicchio/1139078502?ean=9780307406958",
+   "epc": 0.01,
+   "rate": 5.15,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser search page"
+  },
+  "alternatives": [],
+  "note": "Same book and ISBN as the Amazon link."
+ },
+ {
+  "id": "the-adaptable-feast",
+  "name": "The Adaptable Feast",
+  "status": "no_match",
+  "reason": "not found at Barnes & Noble by ISBN",
+  "needs_web": false,
+  "amazon": {
+   "asins": [
+    "1570615837"
+   ],
+   "title": "The Adaptable Feast: Satisfying Meals",
+   "anchors": [
+    "The Adaptable Feast"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "the-adaptable-feast-cookbook-review-and-a-chance-to-win-a-copy"
+  }
+ },
+ {
+  "id": "the-curious-cook-more-kitchen-science-and-lore",
+  "name": "The Curious Cook: More Kitchen Science and Lore by Harold McGee",
+  "status": "no_match",
+  "reason": "not found at Barnes & Noble by ISBN",
+  "needs_web": false,
+  "amazon": {
+   "asins": [
+    "0020098014"
+   ],
+   "title": "The Curious Cook: More Kitchen Science",
+   "anchors": [
+    "The Curious Cook: More Kitchen Science and Lore"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "recipe-fresh-sp"
+  }
+ },
+ {
+  "id": "the-farm-to-table-cookbook-the-art-of-eating",
+  "name": "The Farm to Table Cookbook: the Art of Eating Locally",
+  "status": "no_match",
+  "reason": "not found at Barnes & Noble by ISBN",
+  "needs_web": false,
+  "amazon": {
+   "asins": [
+    "1570615292"
+   ],
+   "title": "The Farm to Table Cookbook: The Art of",
+   "anchors": [
+    "The Farm to Table Cookbook: The Art of Eating Locally"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "cherry-pumpkin"
+  }
+ },
+ {
+  "id": "the-fat-duck-cookbook",
+  "name": "The Fat Duck Cookbook",
+  "status": "no_match",
+  "reason": "not found at Barnes & Noble by ISBN",
+  "needs_web": false,
+  "amazon": {
+   "asins": [
+    "160819020X"
+   ],
+   "title": "The Fat Duck Cookbook",
+   "anchors": [
+    "The Fat Duck Cookbook"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "umami-packed-vegetarian-broth-recipe-also-vegan"
+  }
+ },
+ {
+  "id": "the-improvisational-cook",
+  "name": "The Improvisational Cook",
+  "status": "no_match",
+  "reason": "not found at Barnes & Noble by ISBN",
+  "needs_web": false,
+  "amazon": {
+   "asins": [
+    "0060731648"
+   ],
+   "title": "The Improvisational Cook",
+   "anchors": [
+    "The Improvisational Cook"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "recipe-double-c"
+  }
+ },
+ {
+  "id": "the-mushroom-hunters",
+  "name": "The Mushroom Hunters",
+  "status": "no_match",
+  "reason": "not found at Barnes & Noble by ISBN",
+  "needs_web": false,
+  "amazon": {
+   "asins": [
+    "0345536258"
+   ],
+   "title": "The Mushroom Hunters: On the Trail of",
+   "anchors": [
+    "The Mushroom Hunters"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "chanterelle-tostadas-recipes"
+  }
+ },
+ {
+  "id": "better-ideas",
+  "name": "better ideas",
+  "status": "match",
+  "kind": "same",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "0743235274"
+   ],
+   "title": "The Creative Habit: Learn It and Use It for Life",
+   "anchors": [
+    "better ideas"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "what-to-do-with-an-insideout-egg"
+  },
+  "primary": {
+   "merchant": "Barnes & Noble",
+   "product": "The Creative Habit: Learn It and Use It for Life",
+   "url": "https://www.barnesandnoble.com/w/the-creative-habit-twyla-tharp/1100623171?ean=9780743235273",
+   "epc": 0.01,
+   "rate": 5.15,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser search page"
+  },
+  "alternatives": [],
+  "note": "Same book and ISBN as the Amazon link."
+ },
+ {
+  "id": "whopper-cake",
+  "name": "Whopper Cake",
+  "status": "match",
+  "kind": "same",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "0689838441"
+   ],
+   "title": "Whopper Cake",
+   "anchors": [
+    "Whopper Cake"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "whopper-cake-book-review"
+  },
+  "primary": {
+   "merchant": "Barnes & Noble",
+   "product": "Whopper Cake",
+   "url": "https://www.barnesandnoble.com/w/whopper-cake-karma-wilson/1100630760?ean=9780689838446",
+   "epc": 0.01,
+   "rate": 5.15,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser search page"
+  },
+  "alternatives": [],
+  "note": "Same book and ISBN as the Amazon link."
+ },
+ {
+  "id": "the-book",
+  "name": "The Book",
+  "status": "no_match",
+  "reason": "not found at Barnes & Noble by ISBN",
+  "needs_web": false,
+  "amazon": {
+   "asins": [
+    "0897166159"
+   ],
+   "title": "Espresso Coffee: Professional Techniqu",
+   "anchors": [
+    "the book"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "espresso-vivace-seattle-wa-capitol-hill-south-lake-union-capsule-review"
+  }
+ },
+ {
+  "id": "written-a-cookbook",
+  "name": "Written a Cookbook",
+  "status": "no_match",
+  "reason": "not found at Barnes & Noble by ISBN",
+  "needs_web": false,
+  "amazon": {
+   "asins": [
+    "0786886129"
+   ],
+   "title": "Written a Cookbook",
+   "anchors": [
+    "written a cookbook"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "battle-of-the-n"
+  }
+ },
+ {
+  "id": "flat-stanleyish",
+  "name": "flat-stanleyish",
+  "status": "no_match",
+  "reason": "not found at Barnes & Noble by ISBN",
+  "needs_web": false,
+  "amazon": {
+   "asins": [
+    "0060837764"
+   ],
+   "title": "flat-stanleyish",
+   "anchors": [
+    "flat-stanleyish"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "buckwheat-buttermilk-pancakes-recipe"
+  }
+ },
+ {
+  "id": "food-wine",
+  "name": "Food &amp; Wine",
+  "status": "no_match",
+  "reason": "magazine subscription, not a product",
+  "needs_web": false,
+  "amazon": {
+   "asins": [
+    "B00005NINY"
+   ],
+   "title": "Food & Wine",
+   "anchors": [
+    "Food &amp",
+    "Wine"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "can-a-vegetarian-eat-at-pike-street-fish-fry-restaurant-review-seattle-wa"
+  }
+ },
+ {
+  "id": "gourmet",
+  "name": "Gourmet",
+  "status": "no_match",
+  "reason": "magazine, not a product",
+  "needs_web": false,
+  "amazon": {
+   "asins": [
+    "B00005N7QH"
+   ],
+   "title": "Gourmet",
+   "anchors": [
+    "Gourmet"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "can-a-vegetarian-eat-at-pike-street-fish-fry-restaurant-review-seattle-wa"
+  }
+ },
+ {
+  "id": "black-rice",
+  "name": "Black Rice",
+  "status": "match",
+  "kind": "same",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B01NAGDHZR"
+   ],
+   "title": "Lotus Foods Organic Forbidden Rice, Black Rice - 15 Oz Bag",
+   "anchors": [
+    "black rice"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "black-rice-fritter-with-turnips-and-horseradish-cream-recipe"
+  },
+  "primary": {
+   "merchant": "iHerb.com",
+   "product": "Lotus Foods, Heirloom Forbidden Rice, 15 oz",
+   "url": "https://www.iherb.com/pr/lotus-foods-heirloom-forbidden-rice-15-oz-426-g/34194",
+   "epc": 0.13,
+   "rate": 15.0,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser search page"
+  },
+  "alternatives": [],
+  "note": "Same Lotus Foods forbidden black rice, 15 oz (organic status may differ)."
+ },
+ {
+  "id": "eden-umeboshi-paste-pickled-ume-plum-puree",
+  "name": "Eden Umeboshi Paste, Pickled Ume Plum Puree",
+  "status": "match",
+  "kind": "same",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B0013JLOHA"
+   ],
+   "title": "Eden Umeboshi Plum Paste (ume), Pickled, Made",
+   "anchors": [
+    "umeboshi plum paste"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "chirashi-sushi-recipe"
+  },
+  "primary": {
+   "merchant": "iHerb.com",
+   "product": "Eden Foods, Umeboshi Paste, Pickled Ume Plum Puree, 7 oz",
+   "url": "https://www.iherb.com/pr/eden-foods-umeboshi-paste-pickled-ume-plum-puree-7-oz-200-g/15506",
+   "epc": 0.13,
+   "rate": 15.0,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser search page"
+  },
+  "alternatives": [],
+  "note": "Same Eden umeboshi plum paste."
+ },
+ {
+  "id": "flour",
+  "name": "flour",
+  "status": "match",
+  "kind": "same",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B07XKDR6HN"
+   ],
+   "title": "Bob's Red Mill Teff Flour, 20oz",
+   "anchors": [
+    "flour"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "eat-ethiopian-t"
+  },
+  "primary": {
+   "merchant": "iHerb.com",
+   "product": "Bob's Red Mill, Teff Flour, Whole Grain, 20 oz",
+   "url": "https://www.iherb.com/pr/bob-s-red-mill-teff-flour-whole-grain-gluten-free-20-oz-567-g/103993",
+   "epc": 0.13,
+   "rate": 15.0,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser search page"
+  },
+  "alternatives": [],
+  "note": "Same Bob's Red Mill teff flour, 20 oz."
+ },
+ {
+  "id": "genmaicha-tea",
+  "name": "Genmaicha Tea",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B000SSNFEW"
+   ],
+   "title": "Genmaicha Tea",
+   "anchors": [
+    "genmaicha tea"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "tea-smoked-lych"
+  },
+  "primary": {
+   "merchant": "iHerb.com",
+   "product": "The Tao of Tea, Organic Brown Rice Tea, Genmaicha, 3.5 oz",
+   "url": "https://www.iherb.com/pr/the-tao-of-tea-organic-brown-rice-tea-genmaicha-3-5-oz-100-g/45568",
+   "epc": 0.13,
+   "rate": 15.0,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser search page"
+  },
+  "alternatives": [],
+  "note": "Same style of genmaicha (green tea with toasted brown rice) from The Tao of Tea instead of Takaokaya."
+ },
+ {
+  "id": "blackstrap-molasses",
+  "name": "Blackstrap Molasses",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B00MFBVY2U"
+   ],
+   "title": "Wholesome, Organic Blackstrap Molasses, 16 oz",
+   "anchors": [
+    "blackstrap molasses"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "bran-muffins"
+  },
+  "primary": {
+   "merchant": "iHerb.com",
+   "product": "Swanson Vitamins, Certified Organic Blackstrap Molasses, 16 fl oz",
+   "url": "https://www.iherb.com/pr/swanson-vitamins-certified-organic-blackstrap-molasses-unsulfured-16-fl-oz-473-ml/118528",
+   "epc": 0.13,
+   "rate": 15.0,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser search page"
+  },
+  "alternatives": [],
+  "note": "Same type of organic unsulfured blackstrap molasses, 16 oz, from Swanson instead of Wholesome."
+ },
+ {
+  "id": "hazelnut-butter",
+  "name": "Hazelnut Butter",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B0FHBXW8M8"
+   ],
+   "title": "Hazelnut Butter",
+   "anchors": [
+    "hazelnut butter"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "butterscotch-pudding-with-bittersweet-ganache-and-caramelize-white-chocolate-crunchies-recipe"
+  },
+  "primary": {
+   "merchant": "iHerb.com",
+   "product": "Dastony, Organic Hazelnut Butter, Ultra Smooth, 8 oz",
+   "url": "https://www.iherb.com/pr/dastony-organic-hazelnut-butter-ultra-smooth-8-oz-227-g/102096",
+   "epc": 0.13,
+   "rate": 15.0,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser search page"
+  },
+  "alternatives": [],
+  "note": "Pure organic hazelnut butter, but Dastony in 8 oz rather than Vor 12 oz."
+ },
+ {
+  "id": "coconut-milk",
+  "name": "Coconut Milk",
+  "status": "match",
+  "kind": "same",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B0000D16YH",
+    "B000GG1OTO",
+    "B000SRKCGM"
+   ],
+   "title": "Coconut Milk",
+   "anchors": [
+    "coconut cream",
+    "coconut milk"
+   ],
+   "links": 3,
+   "posts": 3,
+   "example_post": "how-to-make-an-inside-out-egg-recipe"
+  },
+  "primary": {
+   "merchant": "Weee!",
+   "product": "Savoy Coconut Cream 14 oz",
+   "url": "https://www.weee.com/en/product/Savoy-Coconut-Cream/83471",
+   "epc": null,
+   "rate": null,
+   "price": "$3.99",
+   "verified": true,
+   "verified_by": "browser search page"
+  },
+  "alternatives": [],
+  "note": "Same Savoy coconut cream, 14 oz."
+ },
+ {
+  "id": "tempeh",
+  "name": "Tempeh",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B000YN1JY4"
+   ],
+   "title": "Tempeh",
+   "anchors": [
+    "tempeh"
+   ],
+   "links": 2,
+   "posts": 2,
+   "example_post": "recipe-rice-bow"
+  },
+  "primary": {
+   "merchant": "Weee!",
+   "product": "Tempeh 238 g",
+   "url": "https://www.weee.com/en/product/Tempeh/2906733",
+   "epc": null,
+   "rate": null,
+   "price": "$15.85",
+   "verified": true,
+   "verified_by": "browser search page"
+  },
+  "alternatives": [],
+  "note": "Plain soy tempeh but a generic brand shipped from a different warehouse, not Lightlife organic; pricier per ounce."
+ },
+ {
+  "id": "fresh-shiitake-mushroom-caps",
+  "name": "Fresh Shiitake Mushroom Caps",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B0CK1D8ZGT"
+   ],
+   "title": "Fresh Shiitake Mushroom Caps",
+   "anchors": [
+    "dried shiitake mushrooms",
+    "fresh shiitake mushroom caps"
+   ],
+   "links": 3,
+   "posts": 3,
+   "example_post": "shiitake-congee-and-a-challenge"
+  },
+  "primary": {
+   "merchant": "Weee!",
+   "product": "Jayone Sliced Dried Shiitake Mushroom",
+   "url": "https://www.weee.com/en/product/Jayone-Sliced-Dried-Shiitake-Mushroom/87775",
+   "epc": null,
+   "rate": null,
+   "price": "$7.79",
+   "verified": true,
+   "verified_by": "browser search page"
+  },
+  "alternatives": [],
+  "note": "Same kind of sliced dried shiitake from Jayone instead of Orsky."
+ },
+ {
+  "id": "yuquan-sichuan-zha-cai-preserved-vegetable",
+  "name": "Yuquan Sichuan Zha Cai Preserved Vegetable",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B00OOVDBPW",
+    "B079C5V5VX"
+   ],
+   "title": "Yuquan Sichuan Zha Cai Preserved Vegetable",
+   "anchors": [
+    "Sichuan preserved vegetable"
+   ],
+   "links": 2,
+   "posts": 2,
+   "example_post": "sichuan-dry-fried-green-beans-and-tofu-recipe"
+  },
+  "primary": {
+   "merchant": "Weee!",
+   "product": "Wujiang Hot Spicy Flavor Mustard Tuber",
+   "url": "https://www.weee.com/en/product/Wujiang-Hot-Spicy-Flavor-Mustard-Tuber/106497",
+   "epc": null,
+   "rate": null,
+   "price": "$2.79",
+   "verified": true,
+   "verified_by": "browser search page"
+  },
+  "alternatives": [],
+  "note": "Same spicy Sichuan preserved mustard stem (zha cai), a different brand (Wujiang) and size."
+ },
+ {
+  "id": "aroy-d-young-green-jackfruit-in-brine",
+  "name": "Aroy-D Young Green Jackfruit in Brine",
+  "status": "match",
+  "kind": "same",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B005QBCT4S"
+   ],
+   "title": "Aroy-D Young Green Jackfruit in Brine",
+   "anchors": [
+    "Green jackfruit"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "larb-jackfruit-laotian-thai-salad-recipe"
+  },
+  "primary": {
+   "merchant": "Weee!",
+   "product": "Aroy-D Young Green Jackfruit in Brine",
+   "url": "https://www.weee.com/en/product/Aroy-D-Young-Green-Jackfruit-in-Brine-Drain-Wt-10-oz-/2180914",
+   "epc": null,
+   "rate": null,
+   "price": "$6.39",
+   "verified": true,
+   "verified_by": "browser search page"
+  },
+  "alternatives": [],
+  "note": "Same Aroy-D young green jackfruit in brine (can size may differ from 20 oz)."
+ },
+ {
+  "id": "aroy-d-jackfruit-in-syrup",
+  "name": "Aroy-D Jackfruit in Syrup",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B00581KTE8"
+   ],
+   "title": "Aroy-D Jackfruit in Syrup",
+   "anchors": [
+    "jackfruit in syrup"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "jack-of-all-cakes-a-guest-post-from-lemonpi"
+  },
+  "primary": {
+   "merchant": "Weee!",
+   "product": "Aroy-D Toddy Palm and Jackfruit in Syrup",
+   "url": "https://www.weee.com/en/product/Aroy-D-Toddy-Palm-and-Jackfruit-in-Syrup/82438",
+   "epc": null,
+   "rate": null,
+   "price": "$5.79",
+   "verified": true,
+   "verified_by": "browser search page"
+  },
+  "alternatives": [],
+  "note": "Aroy-D jackfruit in syrup but a mixed toddy palm and jackfruit product, smaller than the 565g can."
+ },
+ {
+  "id": "chinese-rice-wine",
+  "name": "Chinese Rice Wine",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B07K6VD6DL"
+   ],
+   "title": "Soeos Shaoxing Wine, Chinese Cooking Wine, 21.64 Fl Oz",
+   "anchors": [
+    "Chinese rice wine"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "vegetarian-potstickers-gyoza-recipe"
+  },
+  "primary": {
+   "merchant": "Weee!",
+   "product": "NPG Premium Shaoxing Cooking Wine 1000ml",
+   "url": "https://www.weee.com/en/product/NPG-Premium-Shaoxing-Cooking-Wine-1000ml/2253912",
+   "epc": null,
+   "rate": null,
+   "price": "$7.99",
+   "verified": true,
+   "verified_by": "browser search page"
+  },
+  "alternatives": [],
+  "note": "Same type of Shaoxing cooking wine, a different brand (NPG, 1 liter) than Soeos."
+ },
+ {
+  "id": "amazon-b0000cnu2x",
+  "name": "Amazon item B0000CNU2X",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B0000CNU2X"
+   ],
+   "title": "Amazon item B0000CNU2X",
+   "anchors": [
+    "like this"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "vietnamese-salad-rolls-goi-cuon-recipe"
+  },
+  "primary": {
+   "merchant": "Weee!",
+   "product": "Spring Roll Wrapper 25 cm in Box (Banh Trang)",
+   "url": "https://www.weee.com/en/product/Spring-Roll-Wrapper-25-cm-in-Box-Banh-Trang-Thuong-Hang-25-cm/2150687",
+   "epc": null,
+   "rate": null,
+   "price": "$4.95",
+   "verified": true,
+   "verified_by": "browser search page"
+  },
+  "alternatives": [],
+  "note": "Rice paper wrappers, 25 cm (about 10 inch) rather than 12 inch."
+ },
+ {
+  "id": "amazon-b000jsm27m",
+  "name": "Amazon item B000JSM27M",
+  "status": "no_match",
+  "reason": "spice blend; left to spice-shop script",
+  "needs_web": false,
+  "amazon": {
+   "asins": [
+    "B000JSM27M"
+   ],
+   "title": "Amazon item B000JSM27M",
+   "anchors": [
+    "buy it"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "wacky-chana-chaat-spicy-chickpea-snack-recipe"
+  }
+ },
+ {
+  "id": "tamarind-chutney",
+  "name": "Tamarind Chutney",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B00BUXM4X2"
+   ],
+   "title": "Tamarind Chutney",
+   "anchors": [
+    "tamarind chutney"
+   ],
+   "links": 2,
+   "posts": 2,
+   "example_post": "gobi-masala-cauliflower-curry-recipe"
+  },
+  "primary": {
+   "merchant": "Weee!",
+   "product": "Laxmi Tamarind Date Chutney 226 g",
+   "url": "https://www.weee.com/en/product/Laxmi-Tamarind-Date-Chutney/93132",
+   "epc": null,
+   "rate": null,
+   "price": "$5.79",
+   "verified": true,
+   "verified_by": "browser search page"
+  },
+  "alternatives": [],
+  "note": "Same style tamarind and date chutney from Laxmi instead of Swad."
+ },
+ {
+  "id": "lime-pickle",
+  "name": "Lime Pickle",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B00BHFHAUK"
+   ],
+   "title": "Lime Pickle",
+   "anchors": [
+    "lime pickle"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "mangoes-and-cur"
+  },
+  "primary": {
+   "merchant": "Weee!",
+   "product": "Patak's Hot Lime Pickle 10 oz",
+   "url": "https://www.weee.com/en/product/PatakS-Hot-Lime-Pickle/2977438",
+   "epc": null,
+   "rate": null,
+   "price": "$11.29",
+   "verified": true,
+   "verified_by": "browser search page"
+  },
+  "alternatives": [],
+  "note": "Same Patak's lime pickle but the hot version rather than medium."
+ },
+ {
+  "id": "chinese-pickled-mustard-greens",
+  "name": "Chinese Pickled Mustard Greens",
+  "status": "no_match",
+  "reason": "no sour mustard greens found",
+  "needs_web": false,
+  "amazon": {
+   "asins": [
+    "B00IR5HVH0"
+   ],
+   "title": "8oz Asian Taste Sour Mustard (Pickled Vegetable), Pack of 3",
+   "anchors": [
+    "Chinese pickled mustard greens"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "khao-soi-thai-curry-noodles-from-chiang-mai"
+  }
+ },
+ {
+  "id": "galil-pickled-mango-amba",
+  "name": "Galil Pickled Mango Amba",
+  "status": "no_match",
+  "reason": "no amba sauce found, only generic pickled mango",
+  "needs_web": false,
+  "amazon": {
+   "asins": [
+    "B00P8FCMIU"
+   ],
+   "title": "Galil Pickled Mango Amba",
+   "anchors": [
+    "mango pickle"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "recipe-sabich"
+  }
  }
 ]

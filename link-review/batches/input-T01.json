@@ -1,0 +1,453 @@
+[
+ {
+  "id": "coconut-milk",
+  "name": "Coconut Milk",
+  "current_amazon_url": "https://www.amazon.com/dp/B000SRKCGM?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Savoy Coconut Cream"
+  ],
+  "anchors": [
+   "coconut cream",
+   "coconut milk"
+  ],
+  "asins": [
+   "B0000D16YH",
+   "B000GG1OTO",
+   "B000SRKCGM"
+  ],
+  "links": 3,
+  "posts": 3,
+  "example_post": "how-to-make-an-inside-out-egg-recipe",
+  "search_terms": [
+   "savoy coconut cream",
+   "coconut cream"
+  ]
+ },
+ {
+  "id": "dessert-express",
+  "name": "Dessert Express",
+  "current_amazon_url": "https://www.amazon.com/dp/1600850189?tag=herb-hugo-20",
+  "is_book": true,
+  "amazon_titles": [
+   "Dessert Express: 100 Sweet Treats You Can Make in 30 Minutes or Less"
+  ],
+  "anchors": [
+   "Dessert Express"
+  ],
+  "asins": [
+   "1600850189"
+  ],
+  "links": 3,
+  "posts": 1,
+  "example_post": "dessert-express-cookbook-review-with-pudding-cake-recipe",
+  "search_terms": [
+   "dessert express"
+  ]
+ },
+ {
+  "id": "fresh-shiitake-mushroom-caps",
+  "name": "Fresh Shiitake Mushroom Caps",
+  "current_amazon_url": "https://www.amazon.com/dp/B0CK1D8ZGT?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Orsky Dried Shiitake Mushrooms Sliced, Dried Mushrooms for Cooking"
+  ],
+  "anchors": [
+   "dried shiitake mushrooms",
+   "fresh shiitake mushroom caps"
+  ],
+  "asins": [
+   "B0CK1D8ZGT"
+  ],
+  "links": 3,
+  "posts": 3,
+  "example_post": "shiitake-congee-and-a-challenge",
+  "search_terms": [
+   "orsky dried shiitake mushrooms",
+   "dried shiitake mushrooms"
+  ]
+ },
+ {
+  "id": "ohsawa-organic-unpasteurized-nama-shoyu",
+  "name": "Ohsawa Organic Unpasteurized Nama Shoyu",
+  "current_amazon_url": "https://www.amazon.com/dp/B0018PUIVW?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Goldmine Nama Shoyu 10 oz."
+  ],
+  "anchors": [
+   "Nama Shoyu",
+   "Ohsawa Organic Unpasteurized Nama Shoyu"
+  ],
+  "asins": [
+   "B0018PUIVW",
+   "B001A4DV88"
+  ],
+  "links": 2,
+  "posts": 2,
+  "example_post": "soba-in-shoyu-broth-with-asparagus-leeks-and-tofu-recipe",
+  "search_terms": [
+   "goldmine nama shoyu",
+   "nama shoyu"
+  ]
+ },
+ {
+  "id": "saffron-shores-jewish-cooking-of-the-southern",
+  "name": "Saffron Shores: Jewish Cooking of the Southern Mediterranean",
+  "current_amazon_url": "https://www.amazon.com/dp/B000B16SRW?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Saffron Shores: Jewish Cooking of the Southern Mediterranean"
+  ],
+  "anchors": [
+   "Saffron Shores",
+   "Saffron Shores: Jewish Cooking of the Southern Mediterranean"
+  ],
+  "asins": [
+   "B000B16SRW"
+  ],
+  "links": 2,
+  "posts": 1,
+  "example_post": "recipe-how-to-m",
+  "search_terms": [
+   "saffron shores"
+  ]
+ },
+ {
+  "id": "sensarte-nonstick-crepe-pan-10-inch",
+  "name": "Sensarte Nonstick Crepe Pan 10-Inch",
+  "current_amazon_url": "https://www.amazon.com/dp/B08RMXBJNQ?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "SENSARTE 10 Inch Nonstick Crepe Pan Granite Coating Pancake Pan Gray"
+  ],
+  "anchors": [
+   "crepe pan",
+   "crepe pans"
+  ],
+  "asins": [
+   "B08RMXBJNQ"
+  ],
+  "links": 2,
+  "posts": 2,
+  "example_post": "manouri-cheese-blintzes-recipe",
+  "search_terms": [
+   "sensarte nonstick crepe pan",
+   "crepe pan"
+  ]
+ },
+ {
+  "id": "tamarind-chutney",
+  "name": "Tamarind Chutney",
+  "current_amazon_url": "https://www.amazon.com/dp/B00BUXM4X2?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Swad Tamarind and Dates Chutney, 8 Ounce"
+  ],
+  "anchors": [
+   "tamarind chutney"
+  ],
+  "asins": [
+   "B00BUXM4X2"
+  ],
+  "links": 2,
+  "posts": 2,
+  "example_post": "gobi-masala-cauliflower-curry-recipe",
+  "search_terms": [
+   "swad tamarind dates chutney",
+   "tamarind chutney"
+  ]
+ },
+ {
+  "id": "tapioca-maltodextrin",
+  "name": "Tapioca Maltodextrin",
+  "current_amazon_url": "https://www.amazon.com/dp/B00C3HL6VK?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "WillPowder Tapioca Maltodextrin, 1-Pound Tubs"
+  ],
+  "anchors": [
+   "tapioca maltodextrin"
+  ],
+  "asins": [
+   "B00250U9BI",
+   "B00C3HL6VK"
+  ],
+  "links": 2,
+  "posts": 2,
+  "example_post": "experimenting-with-tapioca-maltodextrin-recipe",
+  "search_terms": [
+   "willpowder tapioca maltodextrin tubs",
+   "tapioca maltodextrin"
+  ]
+ },
+ {
+  "id": "tempeh",
+  "name": "Tempeh",
+  "current_amazon_url": "https://www.amazon.com/dp/B000YN1JY4?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Lightlife, Tempeh Original Soy Organic, 8 Ounce"
+  ],
+  "anchors": [
+   "tempeh"
+  ],
+  "asins": [
+   "B000YN1JY4"
+  ],
+  "links": 2,
+  "posts": 2,
+  "example_post": "recipe-rice-bow",
+  "search_terms": [
+   "lightlife tempeh soy",
+   "tempeh"
+  ]
+ },
+ {
+  "id": "theo-chocolate-pure-organic-dark-chocolate-bar",
+  "name": "Theo Chocolate Pure Organic Dark Chocolate Bar 70% Cacao 6 Pack - Vegan, Fair Trade",
+  "current_amazon_url": "https://www.amazon.com/dp/B07WCQNP33?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Theo Chocolate Pure Organic Dark Chocolate Bar, 70% Cacao, 12 Pack | Vegan, Fair Trade"
+  ],
+  "anchors": [
+   "chocolate"
+  ],
+  "asins": [
+   "B002HFWQR6",
+   "B07WCQNP33"
+  ],
+  "links": 2,
+  "posts": 2,
+  "example_post": "amazing-chocola",
+  "search_terms": [
+   "theo chocolate pure dark",
+   "chocolate"
+  ]
+ },
+ {
+  "id": "unsweetened-chocolate",
+  "name": "Unsweetened Chocolate",
+  "current_amazon_url": "https://www.amazon.com/dp/B00IEIHQB6?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Scharffen Berger Unsweetened Dark Chocolate Baking Bar (99% Cacao), 9.7 oz"
+  ],
+  "anchors": [
+   "Scharffen-Berger unsweetened bar chocolate",
+   "unsweetened chocolate"
+  ],
+  "asins": [
+   "B000B1RHJU",
+   "B00IEIHQB6"
+  ],
+  "links": 2,
+  "posts": 2,
+  "example_post": "chocolate-cupca",
+  "search_terms": [
+   "scharffen berger unsweetened dark",
+   "scharffen berger unsweetened bar chocola"
+  ]
+ },
+ {
+  "id": "yuquan-sichuan-zha-cai-preserved-vegetable",
+  "name": "Yuquan Sichuan Zha Cai Preserved Vegetable",
+  "current_amazon_url": "https://www.amazon.com/dp/B079C5V5VX?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Sichuan Zha Cai (Preserved Mustard Stems) - Hot/Spicy - 3.53oz [Pack of 3]"
+  ],
+  "anchors": [
+   "Sichuan preserved vegetable"
+  ],
+  "asins": [
+   "B00OOVDBPW",
+   "B079C5V5VX"
+  ],
+  "links": 2,
+  "posts": 2,
+  "example_post": "sichuan-dry-fried-green-beans-and-tofu-recipe",
+  "search_terms": [
+   "sichuan zha cai hot",
+   "sichuan preserved vegetable"
+  ]
+ },
+ {
+  "id": "amazon-b0000cnu2x",
+  "name": "Amazon item B0000CNU2X",
+  "current_amazon_url": "https://www.amazon.com/dp/B0000CNU2X?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "12\" Spring Roll Wrapper / Rice Paper"
+  ],
+  "anchors": [
+   "like this"
+  ],
+  "asins": [
+   "B0000CNU2X"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "vietnamese-salad-rolls-goi-cuon-recipe",
+  "search_terms": [
+   "spring roll wrapper rice",
+   "like this"
+  ]
+ },
+ {
+  "id": "amazon-b0006bddi4",
+  "name": "Amazon item B0006BDDI4",
+  "current_amazon_url": "https://www.amazon.com/dp/B0006BDDI4?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Gobel - Tinplate Madeleine Pan, 12 Shells, 15.6 x 7.9 in"
+  ],
+  "anchors": [
+   "basic"
+  ],
+  "asins": [
+   "B0006BDDI4"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "madelines-with",
+  "search_terms": [
+   "gobel tinplate madeleine pan",
+   "basic"
+  ]
+ },
+ {
+  "id": "amazon-b000jsm27m",
+  "name": "Amazon item B000JSM27M",
+  "current_amazon_url": "https://www.amazon.com/dp/B000JSM27M?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "MDH Chunky Chat Masala - 3.5oz (100g)"
+  ],
+  "anchors": [
+   "buy it"
+  ],
+  "asins": [
+   "B000JSM27M"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "wacky-chana-chaat-spicy-chickpea-snack-recipe",
+  "search_terms": [
+   "mdh chunky chat masala",
+   "buy it"
+  ]
+ },
+ {
+  "id": "amazon-b000ofredc",
+  "name": "Amazon item B000OFREDC",
+  "current_amazon_url": "https://www.amazon.com/dp/B000OFREDC?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Helen's Asian Kitchen Carbon Steel 4-Piece Wok Set, 13.5-Inch With Lid"
+  ],
+  "anchors": [
+   "wok"
+  ],
+  "asins": [
+   "B000OFREDC"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "thai-basil-eggplant-recipe",
+  "search_terms": [
+   "helen's asian kitchen carbon",
+   "wok"
+  ]
+ },
+ {
+  "id": "amazon-b001l106kq",
+  "name": "Amazon item B001L106KQ",
+  "current_amazon_url": "https://www.amazon.com/dp/B001L106KQ?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Mama Lil's Pickled Hungarian Goathorn Peppers in Oil, 12 oz"
+  ],
+  "anchors": [
+   "on Amazon"
+  ],
+  "asins": [
+   "B001L106KQ"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "spicy-mama-lils-spaghetti-carbonara-recipe",
+  "search_terms": [
+   "mama lil's pickled hungarian",
+   "on amazon"
+  ]
+ },
+ {
+  "id": "amazon-b002ok2fca",
+  "name": "Amazon item B002OK2FCA",
+  "current_amazon_url": "https://www.amazon.com/dp/B002OK2FCA?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "SunButter Sunflower Butter, Organic Alternative to Peanut Butter, 16 ounce, Pack of 3"
+  ],
+  "anchors": [
+   "on Amazon"
+  ],
+  "asins": [
+   "B002OK2FCA"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "sunflower-butter-cookies-recipe",
+  "search_terms": [
+   "sunbutter sunflower butter alternative",
+   "on amazon"
+  ]
+ },
+ {
+  "id": "amazon-b00428m7k2",
+  "name": "Amazon item B00428M7K2",
+  "current_amazon_url": "https://www.amazon.com/dp/B00428M7K2?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Helen's Asian Kitchen Carbon Steel Wok, 12-Inch Flat Bottom Stir Fry Pan"
+  ],
+  "anchors": [
+   "wok"
+  ],
+  "asins": [
+   "B00428M7K2"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "stir-fried-winged-beans-kacang-botol-with-tomato-and-garlic-recipe",
+  "search_terms": [
+   "helen's asian kitchen carbon",
+   "wok"
+  ]
+ },
+ {
+  "id": "amazon-b012pnlh42",
+  "name": "Amazon item B012PNLH42",
+  "current_amazon_url": "https://www.amazon.com/dp/B012PNLH42?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Mozzarella & Ricotta Cheese Making Kit | 5 Piece DIY Kit Includes Cheesecloth, Vegetable Rennet"
+  ],
+  "anchors": [
+   "kit"
+  ],
+  "asins": [
+   "B012PNLH42"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "making-mozare-1",
+  "search_terms": [
+   "mozzarella ricotta cheese making",
+   "kit"
+  ]
+ }
+]

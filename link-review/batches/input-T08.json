@@ -1,0 +1,442 @@
+[
+ {
+  "id": "saco-buttermilk-powder",
+  "name": "Saco Buttermilk Powder",
+  "current_amazon_url": "https://www.amazon.com/dp/B0DXM6LYRX?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "SACO Cultured Buttermilk Blend for Coo"
+  ],
+  "anchors": [
+   "Saco buttermilk powder"
+  ],
+  "asins": [
+   "B0DXM6LYRX"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "recipe-sesame-c-1",
+  "search_terms": [
+   "saco cultured buttermilk blend",
+   "saco buttermilk powder"
+  ]
+ },
+ {
+  "id": "salted-a-manifesto-on-the-world-s-most",
+  "name": "Salted: a Manifesto on the World's Most Essential Mineral, with Recipes",
+  "current_amazon_url": "https://www.amazon.com/dp/1580082629?tag=herb-hugo-20",
+  "is_book": true,
+  "amazon_titles": [
+   "Salted: A Manifesto on the World's"
+  ],
+  "anchors": [
+   "Salted: A Manifesto on the World&#39",
+   "s Most Essential Mineral, with Recipes"
+  ],
+  "asins": [
+   "1580082629"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "interview-with-mark-bitterman-leading-expert-on-culinary-salts",
+  "search_terms": [
+   "salted",
+   "salted a manifesto on the world"
+  ]
+ },
+ {
+  "id": "saveur",
+  "name": "Saveur",
+  "current_amazon_url": "https://www.amazon.com/dp/B00005N7SL?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Saveur"
+  ],
+  "anchors": [
+   "Saveur"
+  ],
+  "asins": [
+   "B00005N7SL"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "book-review-bes",
+  "search_terms": [
+   "saveur"
+  ]
+ },
+ {
+  "id": "scharffen-berger",
+  "name": "Scharffen-Berger",
+  "current_amazon_url": "https://www.amazon.com/dp/B005XCYFDI?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "SCHARFFEN BERGER 70% Cacao Bittersweet"
+  ],
+  "anchors": [
+   "Scharffen-Berger"
+  ],
+  "asins": [
+   "B005XCYFDI"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "recipe-valentin",
+  "search_terms": [
+   "scharffen berger cacao bittersweet",
+   "scharffen berger"
+  ]
+ },
+ {
+  "id": "scotch-bonnet",
+  "name": "Scotch Bonnet",
+  "current_amazon_url": "https://www.amazon.com/dp/B00U9W5YFK?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Spur Tree Jamaican Crushed Scotch Bonn"
+  ],
+  "anchors": [
+   "scotch bonnet"
+  ],
+  "asins": [
+   "B00U9W5YFK"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "island-style-sweet-and-spicy-cabbage-recipe",
+  "search_terms": [
+   "spur tree jamaican crushed",
+   "scotch bonnet"
+  ]
+ },
+ {
+  "id": "seductions-of-rice",
+  "name": "Seductions of Rice",
+  "current_amazon_url": "https://www.amazon.com/dp/1579652344?tag=herb-hugo-20",
+  "is_book": true,
+  "amazon_titles": [
+   "Seductions of Rice"
+  ],
+  "anchors": [
+   "Seductions of Rice"
+  ],
+  "asins": [
+   "1579652344"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "mangoes-and-cur",
+  "search_terms": [
+   "seductions rice",
+   "seductions of rice"
+  ]
+ },
+ {
+  "id": "seitan",
+  "name": "Seitan",
+  "current_amazon_url": "https://www.amazon.com/dp/B075JLYFBC?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Upton's Natural, Traditional Seita"
+  ],
+  "anchors": [
+   "seitan"
+  ],
+  "asins": [
+   "B075JLYFBC"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "recipe-rice-bow",
+  "search_terms": [
+   "upton's traditional seita",
+   "seitan"
+  ]
+ },
+ {
+  "id": "serrano-chilis",
+  "name": "Serrano Chilis",
+  "current_amazon_url": "https://www.amazon.com/dp/B000RHSZ6W?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Whole Serrano Chiles, 1 lb \u2013 Dried Mex"
+  ],
+  "anchors": [
+   "serrano chilis"
+  ],
+  "asins": [
+   "B000RHSZ6W"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "spicy-tomatillo-salsa-recipe",
+  "search_terms": [
+   "whole serrano chiles",
+   "serrano chilis"
+  ]
+ },
+ {
+  "id": "serrated-peelers",
+  "name": "Serrated Peelers",
+  "current_amazon_url": "https://www.amazon.com/dp/B0DBVMXMLX?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Zyliss Soft Skin Peeler \u2013 Ultra-Sharp"
+  ],
+  "anchors": [
+   "serrated peelers"
+  ],
+  "asins": [
+   "B0DBVMXMLX"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "grilled-peaches",
+  "search_terms": [
+   "zyliss soft skin peeler",
+   "serrated peelers"
+  ]
+ },
+ {
+  "id": "serrated-vegetable-peeler",
+  "name": "Serrated Vegetable Peeler",
+  "current_amazon_url": "https://www.amazon.com/dp/B0007VO0CG?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "OXO Good Grips Serrated Vegetable Peel"
+  ],
+  "anchors": [
+   "serrated vegetable peeler"
+  ],
+  "asins": [
+   "B0007VO0CG"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "spicy-mango-salad-with-togarashi-recipe",
+  "search_terms": [
+   "oxo good grips serrated",
+   "serrated vegetable peeler"
+  ]
+ },
+ {
+  "id": "shiso",
+  "name": "shiso",
+  "current_amazon_url": "https://www.amazon.com/dp/B0DS1928RM?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Natural Dried Whole Perilla Leaf, 2.0o"
+  ],
+  "anchors": [
+   "shiso"
+  ],
+  "asins": [
+   "B0DS1928RM"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "vietnamese-cabbage-and-herb-salad-recipe",
+  "search_terms": [
+   "dried whole perilla leaf",
+   "shiso"
+  ]
+ },
+ {
+  "id": "shun",
+  "name": "Shun",
+  "current_amazon_url": "https://www.amazon.com/dp/B0000Y7KNQ?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Shun Classic 8\" Chef's Knife"
+  ],
+  "anchors": [
+   "Shun"
+  ],
+  "asins": [
+   "B0000Y7KNQ"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "three-ways-to-increase-your-confidence-in-the-kitchen",
+  "search_terms": [
+   "shun classic chef's knife",
+   "shun"
+  ]
+ },
+ {
+  "id": "silpat",
+  "name": "silpat",
+  "current_amazon_url": "https://www.amazon.com/dp/B00005AXJ9?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Matfer Bourgeat Exopat Baking Mat, Non"
+  ],
+  "anchors": [
+   "silpat"
+  ],
+  "asins": [
+   "B00005AXJ9"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "block-party-emp",
+  "search_terms": [
+   "matfer bourgeat exopat baking",
+   "silpat"
+  ]
+ },
+ {
+  "id": "silpat-2",
+  "name": "silpat",
+  "current_amazon_url": "https://www.amazon.com/dp/B0001RT42C?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Silpat Premium Non-Stick Silicone Baki"
+  ],
+  "anchors": [
+   "silpat"
+  ],
+  "asins": [
+   "B0001RT42C"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "warm-fennel-salad-with-pears-and-candied-pumpkin-seeds-recipe",
+  "search_terms": [
+   "silpat stick silicone baki",
+   "silpat"
+  ]
+ },
+ {
+  "id": "simple-and-inexpensive",
+  "name": "simple and inexpensive",
+  "current_amazon_url": "https://www.amazon.com/dp/B09NLWBHCG?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "OXO Good Grips Cherry & Olive Pitt"
+  ],
+  "anchors": [
+   "simple and inexpensive"
+  ],
+  "asins": [
+   "B09NLWBHCG"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "cherry-pumpkin",
+  "search_terms": [
+   "oxo good grips cherry",
+   "simple and inexpensive"
+  ]
+ },
+ {
+  "id": "skillet",
+  "name": "Skillet",
+  "current_amazon_url": "https://www.amazon.com/dp/B00008CM6B?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Cuisinart Chef's Classic Stainless"
+  ],
+  "anchors": [
+   "skillet"
+  ],
+  "asins": [
+   "B00008CM6B"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "braised-baby-artichoke-with-fennel-and-cherry-tomatoes-recipe",
+  "search_terms": [
+   "cuisinart chef's classic stainless",
+   "skillet"
+  ]
+ },
+ {
+  "id": "smaller-quantities",
+  "name": "smaller quantities",
+  "current_amazon_url": "https://www.amazon.com/dp/B002YFR66U?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Golda's Kitchen Acetate Cake Colla"
+  ],
+  "anchors": [
+   "smaller quantities"
+  ],
+  "asins": [
+   "B002YFR66U"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "strawberries-and-cream-birthday-cake-momofuku-style",
+  "search_terms": [
+   "golda's kitchen acetate cake",
+   "smaller quantities"
+  ]
+ },
+ {
+  "id": "sous-vide",
+  "name": "Sous Vide",
+  "current_amazon_url": "https://www.amazon.com/dp/B07C7PW3PC?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Anova Culinary Sous Vide Precision Coo"
+  ],
+  "anchors": [
+   "sous vide"
+  ],
+  "asins": [
+   "B07C7PW3PC"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "sichuan-spicy-cauliflower-recipe",
+  "search_terms": [
+   "anova culinary sous vide",
+   "sous vide"
+  ]
+ },
+ {
+  "id": "springform-pan",
+  "name": "Springform Pan",
+  "current_amazon_url": "https://www.amazon.com/dp/B07L8S4PM5?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "HIWARE 8 Inch Non-stick Springform Pan"
+  ],
+  "anchors": [
+   "springform pan"
+  ],
+  "asins": [
+   "B07L8S4PM5"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "italian-plum-upside-down-cake-recipe",
+  "search_terms": [
+   "hiware stick springform pan",
+   "springform pan"
+  ]
+ },
+ {
+  "id": "squeeze-bottle",
+  "name": "Squeeze Bottle",
+  "current_amazon_url": "https://www.amazon.com/dp/B076PT3BD9?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "OXO Good Grips 2-Piece Chef's Squee"
+  ],
+  "anchors": [
+   "squeeze bottle"
+  ],
+  "asins": [
+   "B076PT3BD9"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "roasted-potato-and-asparagus-tacos-with-kohlrabi-slaw-recipe",
+  "search_terms": [
+   "oxo good grips piece",
+   "squeeze bottle"
+  ]
+ }
+]

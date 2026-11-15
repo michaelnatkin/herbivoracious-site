@@ -19,6 +19,12 @@ class H(http.server.SimpleHTTPRequestHandler):
             self.send_response(200); self.send_header("Content-Type", "application/json"); self.end_headers(); self.wfile.write(b"{}"); return
         super().do_GET()
     def do_POST(self):
+        if self.path == "/ingest":   # titles read by the browser from Amazon pages: {asin: title}
+            body = self.rfile.read(int(self.headers.get("Content-Length", 0)))
+            path = os.path.join(DIR, ".cache", "amazon_titles_browser.json")
+            cur = json.load(open(path)) if os.path.exists(path) else {}
+            cur.update(json.loads(body)); json.dump(cur, open(path, "w"), indent=0)
+            self.send_response(200); self.send_header("Access-Control-Allow-Origin", "*"); self.end_headers(); self.wfile.write(b"ok"); return
         if self.path != "/save": self.send_error(404); return
         body = self.rfile.read(int(self.headers.get("Content-Length", 0)))
         incoming = json.loads(body)  # validate
@@ -26,6 +32,12 @@ class H(http.server.SimpleHTTPRequestHandler):
         existing.update(incoming)   # merge: entries added elsewhere (auto-approvals) survive
         json.dump(existing, open(DEC, "w"), indent=1)
         self.send_response(200); self.end_headers(); self.wfile.write(b"ok")
+    def do_OPTIONS(self):
+        self.send_response(204)
+        for k, v in (("Access-Control-Allow-Origin", "*"), ("Access-Control-Allow-Methods", "POST, OPTIONS"),
+                     ("Access-Control-Allow-Headers", "*"), ("Access-Control-Allow-Private-Network", "true")):
+            self.send_header(k, v)
+        self.end_headers()
     def end_headers(self):
         self.send_header("Cache-Control", "no-store"); super().end_headers()
     def log_message(self, *a): pass

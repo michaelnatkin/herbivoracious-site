@@ -1,0 +1,443 @@
+[
+ {
+  "id": "novelty-beer-cozy",
+  "name": "novelty beer cozy",
+  "current_amazon_url": "https://www.amazon.com/dp/B0047YZYW4?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "The Simpsons - Duff Beer Can Label Cold"
+  ],
+  "anchors": [
+   "novelty beer cozy"
+  ],
+  "asins": [
+   "B0047YZYW4"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "transparency-and-support",
+  "search_terms": [
+   "simpsons duff beer can",
+   "novelty beer cozy"
+  ]
+ },
+ {
+  "id": "o-blood-orange-olive-oil",
+  "name": "\"O\" Blood Orange Olive Oil",
+  "current_amazon_url": "https://www.amazon.com/dp/B0000W2SZS?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "O Olive California Blood Orange Olive Oi"
+  ],
+  "anchors": [
+   "&quot",
+   "O&quot",
+   "brand California Blood Orange flavored olive oil"
+  ],
+  "asins": [
+   "B0000W2SZS"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "cucumber-zucchi",
+  "search_terms": [
+   "o olive california blood",
+   "quot"
+  ]
+ },
+ {
+  "id": "oil-cured-black-olives",
+  "name": "Oil-Cured Black Olives",
+  "current_amazon_url": "https://www.amazon.com/dp/B07PP3WM2K?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Mina Dry Cured Black Olives, 7 oz - Mo"
+  ],
+  "anchors": [
+   "oil-cured black olives"
+  ],
+  "asins": [
+   "B07PP3WM2K"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "fruit-salad",
+  "search_terms": [
+   "mina dry cured black",
+   "oil cured black olives"
+  ]
+ },
+ {
+  "id": "one-from-matiz",
+  "name": "One from Matiz",
+  "current_amazon_url": "https://www.amazon.com/dp/B000LUP6D0?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Paella Rice"
+  ],
+  "anchors": [
+   "one from Matiz"
+  ],
+  "asins": [
+   "B000LUP6D0"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "vegetarian-pael",
+  "search_terms": [
+   "paella rice",
+   "one from matiz"
+  ]
+ },
+ {
+  "id": "or-you-can-find-it-on-amazon",
+  "name": "or you can find it on Amazon",
+  "current_amazon_url": "https://www.amazon.com/dp/B0000CNU5B?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Lee Kum Kee Guilin Style Chili Sauce - 8"
+  ],
+  "anchors": [
+   "or you can find it on Amazon"
+  ],
+  "asins": [
+   "B0000CNU5B"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "asparagus-and-tofu-with-guilin-chili-sauce",
+  "search_terms": [
+   "lee kum kee guilin",
+   "or you can find it on amazon"
+  ]
+ },
+ {
+  "id": "order-them-from-amazon",
+  "name": "Order Them from Amazon",
+  "current_amazon_url": "https://www.amazon.com/dp/B00RENFSDU?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Jiva USDA Organics Urad Dal (Split Mat"
+  ],
+  "anchors": [
+   "order them from Amazon"
+  ],
+  "asins": [
+   "B00RENFSDU"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "recipe-urad-dal",
+  "search_terms": [
+   "jiva usda organics urad",
+   "order them from amazon"
+  ]
+ },
+ {
+  "id": "paste",
+  "name": "paste",
+  "current_amazon_url": "https://www.amazon.com/dp/B00NU1O7T6?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "El Yucateco Paste Achiote, 3.5 oz"
+  ],
+  "anchors": [
+   "paste"
+  ],
+  "asins": [
+   "B00NU1O7T6"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "grilled-tofu-and-pepper-vegetarian-tacos-recipe",
+  "search_terms": [
+   "el yucateco paste achiote",
+   "paste"
+  ]
+ },
+ {
+  "id": "pepperoncini",
+  "name": "Pepperoncini",
+  "current_amazon_url": "https://www.amazon.com/dp/B000R49GTK?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Mezzetta Golden Greek Peperoncini, Who"
+  ],
+  "anchors": [
+   "pepperoncini"
+  ],
+  "asins": [
+   "B000R49GTK"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "summer-leftover",
+  "search_terms": [
+   "mezzetta golden greek peperoncini",
+   "pepperoncini"
+  ]
+ },
+ {
+  "id": "pizza-peel",
+  "name": "Pizza Peel",
+  "current_amazon_url": "https://www.amazon.com/dp/B009LPDMUA?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "New Star Foodservice Wooden Pizza Peel"
+  ],
+  "anchors": [
+   "pizza peel"
+  ],
+  "asins": [
+   "B009LPDMUA"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "grilled-pizza-fingerling-potatoes-blue-cheese-caramelized-onions-vegetarian-recipe",
+  "search_terms": [
+   "star foodservice wooden pizza",
+   "pizza peel"
+  ]
+ },
+ {
+  "id": "plenty",
+  "name": "Plenty",
+  "current_amazon_url": "https://www.amazon.com/dp/1452101248?tag=herb-hugo-20",
+  "is_book": true,
+  "amazon_titles": [
+   "Plenty: Vibrant Vegetable Recipes from"
+  ],
+  "anchors": [
+   "Plenty"
+  ],
+  "asins": [
+   "1452101248"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "fried-artichokes-with-orange-olive-oil-emulsion-recipe",
+  "search_terms": [
+   "plenty"
+  ]
+ },
+ {
+  "id": "press-weight-your-tofu",
+  "name": "Press (weight) Your Tofu",
+  "current_amazon_url": "https://www.amazon.com/dp/B01698J0RU?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Tofu Press | Patented Self-Contained |"
+  ],
+  "anchors": [
+   "press (weight) your tofu"
+  ],
+  "asins": [
+   "B01698J0RU"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "how-to-make-tofu-really-freaking-delicious-tofu-101",
+  "search_terms": [
+   "tofu press",
+   "press weight your tofu"
+  ]
+ },
+ {
+  "id": "quiche-dish",
+  "name": "Quiche Dish",
+  "current_amazon_url": "https://www.amazon.com/dp/B09TDJCLJ2?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "LOVECASA Porcelain Quiche Baking Dish,"
+  ],
+  "anchors": [
+   "quiche dish"
+  ],
+  "asins": [
+   "B09TDJCLJ2"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "baked-eggs-with-chanterelles-and-chard-recipe",
+  "search_terms": [
+   "lovecasa porcelain quiche baking",
+   "quiche dish"
+  ]
+ },
+ {
+  "id": "rambutan",
+  "name": "Rambutan",
+  "current_amazon_url": "https://www.amazon.com/dp/B00E65Z8G6?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Rambutan in Syrup 20oz (Pack of 3)"
+  ],
+  "anchors": [
+   "rambutan"
+  ],
+  "asins": [
+   "B00E65Z8G6"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "how-many-rams-c",
+  "search_terms": [
+   "rambutan syrup",
+   "rambutan"
+  ]
+ },
+ {
+  "id": "ratio-the-simple-codes-behind-the-craft-of",
+  "name": "Ratio: the Simple Codes Behind the Craft of Everyday Cooking",
+  "current_amazon_url": "https://www.amazon.com/dp/1416566112?tag=herb-hugo-20",
+  "is_book": true,
+  "amazon_titles": [
+   "Ratio: The Simple Codes Behind the Cra"
+  ],
+  "anchors": [
+   "Ratio: The Simple Codes Behind the Craft of Everyday Cooking"
+  ],
+  "asins": [
+   "1416566112"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "chocolate-chunk-bread-pudding-recipe",
+  "search_terms": [
+   "ratio",
+   "ratio the simple codes behind the craft "
+  ]
+ },
+ {
+  "id": "raw-food-100-recipes-to-get-the-glow",
+  "name": "Raw Food / 100 Recipes to Get the Glow",
+  "current_amazon_url": "https://www.amazon.com/dp/0060793554?tag=herb-hugo-20",
+  "is_book": true,
+  "amazon_titles": [
+   "Raw Food/Real World: 100 Recipes to Ge"
+  ],
+  "anchors": [
+   "Raw Food / 100 Recipes To Get The Glow"
+  ],
+  "asins": [
+   "0060793554"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "to-play-video-m",
+  "search_terms": [
+   "raw food real world",
+   "raw food recipes to get the glow"
+  ]
+ },
+ {
+  "id": "red-curry-paste",
+  "name": "Red Curry Paste",
+  "current_amazon_url": "https://www.amazon.com/dp/B000SRMB3O?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Thai Kitchen Red Curry Paste, Gluten F"
+  ],
+  "anchors": [
+   "red curry paste"
+  ],
+  "asins": [
+   "B000SRMB3O"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "red-curry-fried-rice-with-seared-pineapple-recipe",
+  "search_terms": [
+   "thai kitchen red curry",
+   "red curry paste"
+  ]
+ },
+ {
+  "id": "red-rice",
+  "name": "Red Rice",
+  "current_amazon_url": "https://www.amazon.com/dp/B00198C8BG?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Lotus Foods, Heirloom Bhutan Red Rice,"
+  ],
+  "anchors": [
+   "red rice"
+  ],
+  "asins": [
+   "B00198C8BG"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "red-rice-and-avocado-with-crispy-burdock-chips-recipe",
+  "search_terms": [
+   "lotus foods heirloom bhutan",
+   "red rice"
+  ]
+ },
+ {
+  "id": "roasting-in-hell-s-kitchen-temper-tantrums-f",
+  "name": "Roasting in Hell's Kitchen: Temper Tantrums, F Words, and the Pursuit of Perfection",
+  "current_amazon_url": "https://www.amazon.com/dp/0061191981?tag=herb-hugo-20",
+  "is_book": true,
+  "amazon_titles": [
+   "Roasting in Hell's Kitchen: Temper"
+  ],
+  "anchors": [
+   "Roasting in Hell's Kitchen: Temper Tantrums, F Words, and the Pursuit of Perfection"
+  ],
+  "asins": [
+   "0061191981"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "battle-of-the-n",
+  "search_terms": [
+   "roasting hell's kitchen",
+   "roasting in hell's kitchen temper tantru"
+  ]
+ },
+ {
+  "id": "rolling-pin",
+  "name": "Rolling Pin",
+  "current_amazon_url": "https://www.amazon.com/dp/B082WF6MG2?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "French Rolling Pin (17 Inches) \u2013Wooden"
+  ],
+  "anchors": [
+   "rolling pin"
+  ],
+  "asins": [
+   "B082WF6MG2"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "rustic-peach-and-nectarine-crostata-recipe",
+  "search_terms": [
+   "french rolling pin",
+   "rolling pin"
+  ]
+ },
+ {
+  "id": "ruhlman",
+  "name": "Ruhlman",
+  "current_amazon_url": "https://www.amazon.com/dp/080508939X?tag=herb-hugo-20",
+  "is_book": true,
+  "amazon_titles": [
+   "The Making of a Chef: Mastering Heat a"
+  ],
+  "anchors": [
+   "Ruhlman"
+  ],
+  "asins": [
+   "080508939X"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "so-you-want-to-stage-intern-at-a-restaurant",
+  "search_terms": [
+   "making chef",
+   "ruhlman"
+  ]
+ }
+]

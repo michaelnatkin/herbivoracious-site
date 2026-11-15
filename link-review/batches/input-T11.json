@@ -1,0 +1,153 @@
+[
+ {
+  "id": "wine-aerator",
+  "name": "Wine Aerator",
+  "current_amazon_url": "https://www.amazon.com/dp/B00T1F5CSU?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Wine Aerator Pourer - Premium Aerati"
+  ],
+  "anchors": [
+   "wine aerator"
+  ],
+  "asins": [
+   "B00T1F5CSU"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "best-kosher-for-passover-wines",
+  "search_terms": [
+   "wine aerator pourer aerati",
+   "wine aerator"
+  ]
+ },
+ {
+  "id": "wolff-s-is-a-common-brand",
+  "name": "Wolff's Is a Common Brand",
+  "current_amazon_url": "https://www.amazon.com/dp/B0005ZIWV4?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Wolffs Kasha Medium, 13 oz"
+  ],
+  "anchors": [
+   "Wolff's is a common brand"
+  ],
+  "asins": [
+   "B0005ZIWV4"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "kasha-pilaf-with-dates-pistachios-and-baharat-recipe",
+  "search_terms": [
+   "wolffs kasha medium",
+   "wolff's is a common brand"
+  ]
+ },
+ {
+  "id": "wonton-wrappers",
+  "name": "Wonton Wrappers",
+  "current_amazon_url": "https://www.amazon.com/dp/B0F54QT5K8?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Wildwood, Organic Wonton Wraps, 12 Ounce"
+  ],
+  "anchors": [
+   "wonton wrappers"
+  ],
+  "asins": [
+   "B0F54QT5K8"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "winter-green-du",
+  "search_terms": [
+   "wildwood wonton wraps",
+   "wonton wrappers"
+  ]
+ },
+ {
+  "id": "written-a-cookbook",
+  "name": "Written a Cookbook",
+  "current_amazon_url": "https://www.amazon.com/dp/0786886129?tag=herb-hugo-20",
+  "is_book": true,
+  "amazon_titles": [
+   "Easy Exotic: Low-Fat Recipes from Around the"
+  ],
+  "anchors": [
+   "written a cookbook"
+  ],
+  "asins": [
+   "0786886129"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "battle-of-the-n",
+  "search_terms": [
+   "easy exotic",
+   "written a cookbook"
+  ]
+ },
+ {
+  "id": "yuzu",
+  "name": "yuzu",
+  "current_amazon_url": "https://www.amazon.com/dp/B0C2GMHVJZ?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "YUZUCO Japanese Yuzu Super Juice for Cocktail"
+  ],
+  "anchors": [
+   "yuzu"
+  ],
+  "asins": [
+   "B0C2GMHVJZ"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "new-years-feast",
+  "search_terms": [
+   "yuzuco japanese yuzu super",
+   "yuzu"
+  ]
+ },
+ {
+  "id": "zyliss-soft-skin-peeler",
+  "name": "Zyliss Soft Skin Peeler",
+  "current_amazon_url": "https://www.amazon.com/dp/B078YNXVFT?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Zyliss Soft Skin Fruit & Vegetable Peeler"
+  ],
+  "anchors": [
+   "Zyliss Soft Skin Peeler"
+  ],
+  "asins": [
+   "B078YNXVFT"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "persimmon-parsley-and-olive-salad",
+  "search_terms": [
+   "zyliss soft skin fruit",
+   "zyliss soft skin peeler"
+  ]
+ },
+ {
+  "id": "cherry-wood",
+  "name": "cherry wood",
+  "current_amazon_url": "https://www.amazon.com/dp/B0B2TMFT6D?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Fire & Flavor Cherry Wood Chips for Smoki"
+  ],
+  "anchors": [],
+  "asins": [
+   "B0B2TMFT6D"
+  ],
+  "links": 0,
+  "posts": 0,
+  "example_post": "",
+  "search_terms": [
+   "fire flavor cherry wood"
+  ]
+ }
+]

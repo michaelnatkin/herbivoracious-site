@@ -1,0 +1,442 @@
+[
+ {
+  "id": "stonewall-kitchen-roasted-garlic-onion-jam",
+  "name": "Stonewall Kitchen Roasted Garlic Onion Jam",
+  "current_amazon_url": "https://www.amazon.com/dp/B000069KQW?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Stonewall Kitchen Roasted Garlic Onion"
+  ],
+  "anchors": [
+   "Onion Savory Jam",
+   "Stonewall Kitchen Roasted Garlic &amp"
+  ],
+  "asins": [
+   "B000069KQW"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "quesadilla",
+  "search_terms": [
+   "stonewall kitchen roasted garlic",
+   "onion savory jam"
+  ]
+ },
+ {
+  "id": "stringozzi-pasta-17-6-oz-pack-of-3",
+  "name": "Stringozzi Pasta 17.6 oz (pack of 3)",
+  "current_amazon_url": "https://www.amazon.com/dp/B07BWN5RLH?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Stringozzi Pasta 17.6 oz pack of 3"
+  ],
+  "anchors": [
+   "Stringozzi"
+  ],
+  "asins": [
+   "B07BWN5RLH"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "stringozzi-or-linguini-con-funghi-simple-pasta-with-mushrooms-recipe",
+  "search_terms": [
+   "stringozzi pasta",
+   "stringozzi"
+  ]
+ },
+ {
+  "id": "strozzapetti",
+  "name": "Strozzapetti",
+  "current_amazon_url": "https://www.amazon.com/dp/B00527VNMK?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Dal Raccolto Strozzapretti Pasta, 1 lb"
+  ],
+  "anchors": [
+   "strozzapetti"
+  ],
+  "asins": [
+   "B00527VNMK"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "pasta-with-eggp",
+  "search_terms": [
+   "dal raccolto strozzapretti pasta",
+   "strozzapetti"
+  ]
+ },
+ {
+  "id": "sugar",
+  "name": "sugar",
+  "current_amazon_url": "https://www.amazon.com/dp/B00VEJX49U?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "India Tree, Sugar Demerara, 16 Ounce"
+  ],
+  "anchors": [
+   "sugar"
+  ],
+  "asins": [
+   "B00VEJX49U"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "disaster-recove",
+  "search_terms": [
+   "india tree sugar demerara",
+   "sugar"
+  ]
+ },
+ {
+  "id": "sundae-cup",
+  "name": "Sundae Cup",
+  "current_amazon_url": "https://www.amazon.com/dp/B0D5DBF7LC?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Glass Dessert Bowls Breakfast Cups,Des"
+  ],
+  "anchors": [
+   "sundae cup"
+  ],
+  "asins": [
+   "B0D5DBF7LC"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "caramelized-raisin-sundae-recipe",
+  "search_terms": [
+   "glass dessert bowls breakfast",
+   "sundae cup"
+  ]
+ },
+ {
+  "id": "suribachi-japanese-ridged-ceramic-mortar-and",
+  "name": "Suribachi (Japanese Ridged Ceramic Mortar and Pestle)",
+  "current_amazon_url": "https://www.amazon.com/dp/B000UEYXL8?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Helen's Asian Kitchen Classic Suri"
+  ],
+  "anchors": [
+   "suribachi (Japanese ridged ceramic mortar and pestle)"
+  ],
+  "asins": [
+   "B000UEYXL8"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "gomashio-japanese-sesame-seed-salt-condiment-recipe",
+  "search_terms": [
+   "helen's asian kitchen classic",
+   "suribachi japanese ridged ceramic mortar"
+  ]
+ },
+ {
+  "id": "swad-chana-dal-split-desi-chickpeas-4-lb",
+  "name": "Swad Chana Dal (Split Desi Chickpeas), 4 lb",
+  "current_amazon_url": "https://www.amazon.com/dp/B005ZEMHVG?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Swad Chana Dal (Split Desi Chickpeas),"
+  ],
+  "anchors": [
+   "Chana Dal"
+  ],
+  "asins": [
+   "B005ZEMHVG"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "chana-dal-in-the-style-of-puri-jagannath-temple-recipe",
+  "search_terms": [
+   "swad chana dal",
+   "chana dal"
+  ]
+ },
+ {
+  "id": "tamales-101",
+  "name": "Tamales 101",
+  "current_amazon_url": "https://www.amazon.com/dp/1580084281?tag=herb-hugo-20",
+  "is_book": true,
+  "amazon_titles": [
+   "Tamales 101: A Beginner's Guide to"
+  ],
+  "anchors": [
+   "Tamales 101"
+  ],
+  "asins": [
+   "1580084281"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "red-chili-sauce-for-tamales",
+  "search_terms": [
+   "tamales"
+  ]
+ },
+ {
+  "id": "tamicon-brand",
+  "name": "Tamicon Brand",
+  "current_amazon_url": "https://www.amazon.com/dp/B000JSQDT0?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Tamicon Tamarind Concentrate | Sweet &"
+  ],
+  "anchors": [
+   "Tamicon brand"
+  ],
+  "asins": [
+   "B000JSQDT0"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "fava-bean-ful-salad-with-tamarind-dressing-recipe",
+  "search_terms": [
+   "tamicon tamarind concentrate",
+   "tamicon brand"
+  ]
+ },
+ {
+  "id": "tart",
+  "name": "Tart",
+  "current_amazon_url": "https://www.amazon.com/dp/B0000DIX7K?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Wilton Excelle Elite Non-Stick - Non-S"
+  ],
+  "anchors": [
+   "Tart"
+  ],
+  "asins": [
+   "B0000DIX7K"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "nectarine-and-b",
+  "search_terms": [
+   "wilton excelle elite stick",
+   "tart"
+  ]
+ },
+ {
+  "id": "tawny-port",
+  "name": "Tawny Port",
+  "current_amazon_url": "https://www.amazon.com/dp/B078HH75QH?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Croft Porto Tawny Reserve, 750 ml"
+  ],
+  "anchors": [
+   "tawny port"
+  ],
+  "asins": [
+   "B078HH75QH"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "caramelized-raisin-sundae-recipe",
+  "search_terms": [
+   "croft porto tawny reserve",
+   "tawny port"
+  ]
+ },
+ {
+  "id": "terex-al-5l-led-light-tower",
+  "name": "Terex AL-5L LED Light Tower",
+  "current_amazon_url": "https://www.amazon.com/dp/B004QTPK0G?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Terex AL5L Fuel Saving Portable LED Li"
+  ],
+  "anchors": [
+   "Terex AL-5L LED Light Tower"
+  ],
+  "asins": [
+   "B004QTPK0G"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "transparency-and-support",
+  "search_terms": [
+   "terex al l fuel",
+   "terex al l led light tower"
+  ]
+ },
+ {
+  "id": "the-adaptable-feast",
+  "name": "The Adaptable Feast",
+  "current_amazon_url": "https://www.amazon.com/dp/1570615837?tag=herb-hugo-20",
+  "is_book": true,
+  "amazon_titles": [
+   "The Adaptable Feast: Satisfying Meals"
+  ],
+  "anchors": [
+   "The Adaptable Feast"
+  ],
+  "asins": [
+   "1570615837"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "the-adaptable-feast-cookbook-review-and-a-chance-to-win-a-copy",
+  "search_terms": [
+   "adaptable feast",
+   "the adaptable feast"
+  ]
+ },
+ {
+  "id": "the-art-of-fermentation",
+  "name": "The Art of Fermentation",
+  "current_amazon_url": "https://www.amazon.com/dp/160358286X?tag=herb-hugo-20",
+  "is_book": true,
+  "amazon_titles": [
+   "The Art of Fermentation: With Practica"
+  ],
+  "anchors": [
+   "The Art of Fermentation"
+  ],
+  "asins": [
+   "160358286X"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "making-your-own-kimchi-recipe",
+  "search_terms": [
+   "art fermentation",
+   "the art of fermentation"
+  ]
+ },
+ {
+  "id": "the-book",
+  "name": "The Book",
+  "current_amazon_url": "https://www.amazon.com/dp/0897166159?tag=herb-hugo-20",
+  "is_book": true,
+  "amazon_titles": [
+   "Espresso Coffee: Professional Techniqu"
+  ],
+  "anchors": [
+   "the book"
+  ],
+  "asins": [
+   "0897166159"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "espresso-vivace-seattle-wa-capitol-hill-south-lake-union-capsule-review",
+  "search_terms": [
+   "espresso coffee",
+   "the book"
+  ]
+ },
+ {
+  "id": "the-curious-cook-more-kitchen-science-and-lore",
+  "name": "The Curious Cook: More Kitchen Science and Lore by Harold McGee",
+  "current_amazon_url": "https://www.amazon.com/dp/0020098014?tag=herb-hugo-20",
+  "is_book": true,
+  "amazon_titles": [
+   "The Curious Cook: More Kitchen Science"
+  ],
+  "anchors": [
+   "The Curious Cook: More Kitchen Science and Lore"
+  ],
+  "asins": [
+   "0020098014"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "recipe-fresh-sp",
+  "search_terms": [
+   "curious cook",
+   "the curious cook more kitchen science an"
+  ]
+ },
+ {
+  "id": "the-farm-to-table-cookbook-the-art-of-eating",
+  "name": "The Farm to Table Cookbook: the Art of Eating Locally",
+  "current_amazon_url": "https://www.amazon.com/dp/1570615292?tag=herb-hugo-20",
+  "is_book": true,
+  "amazon_titles": [
+   "The Farm to Table Cookbook: The Art of"
+  ],
+  "anchors": [
+   "The Farm to Table Cookbook: The Art of Eating Locally"
+  ],
+  "asins": [
+   "1570615292"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "cherry-pumpkin",
+  "search_terms": [
+   "farm to table cookbook",
+   "the farm to table cookbook the art of ea"
+  ]
+ },
+ {
+  "id": "the-fat-duck-cookbook",
+  "name": "The Fat Duck Cookbook",
+  "current_amazon_url": "https://www.amazon.com/dp/160819020X?tag=herb-hugo-20",
+  "is_book": true,
+  "amazon_titles": [
+   "The Fat Duck Cookbook"
+  ],
+  "anchors": [
+   "The Fat Duck Cookbook"
+  ],
+  "asins": [
+   "160819020X"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "umami-packed-vegetarian-broth-recipe-also-vegan",
+  "search_terms": [
+   "fat duck cookbook",
+   "the fat duck cookbook"
+  ]
+ },
+ {
+  "id": "the-improvisational-cook",
+  "name": "The Improvisational Cook",
+  "current_amazon_url": "https://www.amazon.com/dp/0060731648?tag=herb-hugo-20",
+  "is_book": true,
+  "amazon_titles": [
+   "The Improvisational Cook"
+  ],
+  "anchors": [
+   "The Improvisational Cook"
+  ],
+  "asins": [
+   "0060731648"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "recipe-double-c",
+  "search_terms": [
+   "improvisational cook",
+   "the improvisational cook"
+  ]
+ },
+ {
+  "id": "the-mushroom-hunters",
+  "name": "The Mushroom Hunters",
+  "current_amazon_url": "https://www.amazon.com/dp/0345536258?tag=herb-hugo-20",
+  "is_book": true,
+  "amazon_titles": [
+   "The Mushroom Hunters: On the Trail of"
+  ],
+  "anchors": [
+   "The Mushroom Hunters"
+  ],
+  "asins": [
+   "0345536258"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "chanterelle-tostadas-recipes",
+  "search_terms": [
+   "mushroom hunters",
+   "the mushroom hunters"
+  ]
+ }
+]

@@ -1,0 +1,441 @@
+[
+ {
+  "id": "mandarin-olive-oil",
+  "name": "Mandarin Olive Oil",
+  "current_amazon_url": "https://www.amazon.com/dp/B093KF9DSQ?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Caliendo Premium Mandarin Infused Extra Virgi"
+  ],
+  "anchors": [
+   "Mandarin olive oil"
+  ],
+  "asins": [
+   "B093KF9DSQ"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "when-it-all-goes-wrong-making-your-food-pop-part-3andahalf",
+  "search_terms": [
+   "caliendo mandarin infused extra",
+   "mandarin olive oil"
+  ]
+ },
+ {
+  "id": "maple",
+  "name": "maple",
+  "current_amazon_url": "https://www.amazon.com/dp/B00E1DFU52?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Coombs Family Farms Organic Maple Syrup, Grad"
+  ],
+  "anchors": [
+   "maple"
+  ],
+  "asins": [
+   "B00E1DFU52"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "maple-pudding-with-spiced-pecans-video-recipe",
+  "search_terms": [
+   "coombs family farms maple",
+   "maple"
+  ]
+ },
+ {
+  "id": "marieke-aged-gouda-cheese-16-oz",
+  "name": "Marieke Aged Gouda Cheese (16 Oz)",
+  "current_amazon_url": "https://www.amazon.com/dp/B00HYMWPRS?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Gouda Cheese - Marieke Aged Gouda Cheese 16 o"
+  ],
+  "anchors": [
+   "aged gouda"
+  ],
+  "asins": [
+   "B00HYMWPRS"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "pear-and-gouda-salad-recipe",
+  "search_terms": [
+   "gouda cheese marieke aged",
+   "aged gouda"
+  ]
+ },
+ {
+  "id": "marsala-wine",
+  "name": "Marsala Wine",
+  "current_amazon_url": "https://www.amazon.com/dp/B00E0N8CB2?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Holland House Marsala Cooking Wine, Ideal for"
+  ],
+  "anchors": [
+   "Marsala wine"
+  ],
+  "asins": [
+   "B00E0N8CB2"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "zabaglione-with-roasted-plums-recipe",
+  "search_terms": [
+   "holland house marsala cooking",
+   "marsala wine"
+  ]
+ },
+ {
+  "id": "mccutcheon-s-home-recipe-apple-butter",
+  "name": "McCutcheon's Home Recipe Apple Butter",
+  "current_amazon_url": "https://www.amazon.com/dp/B001NH57LQ?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Mccutcheon, Spread Apple Butter, 19 Ounc"
+  ],
+  "anchors": [
+   "apple butter"
+  ],
+  "asins": [
+   "B001NH57LQ"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "cheddar-and-apple-butter-panini-with-rosemary-candied-pecans-guest-recipe-from-kathy-strahs-of-panini-happy",
+  "search_terms": [
+   "mccutcheon spread apple butter",
+   "apple butter"
+  ]
+ },
+ {
+  "id": "metal-honing-steel",
+  "name": "Metal Honing Steel",
+  "current_amazon_url": "https://www.amazon.com/dp/B071FC4GYN?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Utopia Kitchen Knife Sharpener Rod 12 Inch Ho"
+  ],
+  "anchors": [
+   "metal honing steel"
+  ],
+  "asins": [
+   "B071FC4GYN"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "sharpening-steels-kitchen-tools-hand-tools",
+  "search_terms": [
+   "utopia kitchen knife sharpener",
+   "metal honing steel"
+  ]
+ },
+ {
+  "id": "miu-france-stainless-steel-magnetic-knife-holder",
+  "name": "MIU France Stainless Steel Magnetic Knife Holder",
+  "current_amazon_url": "https://www.amazon.com/dp/B0006IVY7E?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "MIU France Stainless Steel Magnetic Knif"
+  ],
+  "anchors": [
+   "MIU France Stainless Steel Magnetic Knife Holder"
+  ],
+  "asins": [
+   "B0006IVY7E"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "chefs-knife-kitchen-tools-hand-tools",
+  "search_terms": [
+   "miu france stainless steel",
+   "miu france stainless steel magnetic knif"
+  ]
+ },
+ {
+  "id": "model-from-gir",
+  "name": "Model from GIR",
+  "current_amazon_url": "https://www.amazon.com/dp/B00BJT61FE?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "GIR Ultimate Silicone Spatula 11 Inch, H"
+  ],
+  "anchors": [
+   "model from GIR"
+  ],
+  "asins": [
+   "B00BJT61FE"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "heatproof-silicone-spatulas",
+  "search_terms": [
+   "gir ultimate silicone spatula",
+   "model from gir"
+  ]
+ },
+ {
+  "id": "modernist-cuisine",
+  "name": "Modernist Cuisine",
+  "current_amazon_url": "https://www.amazon.com/dp/1734386142?tag=herb-hugo-20",
+  "is_book": true,
+  "amazon_titles": [
+   "Modernist Cuisine: The Art & Science"
+  ],
+  "anchors": [
+   "Modernist Cuisine"
+  ],
+  "asins": [
+   "1734386142"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "vegetarian-frijoles-charros-mexican-cowboy-beans-with-smoked-onion-recipe",
+  "search_terms": [
+   "modernist cuisine"
+  ]
+ },
+ {
+  "id": "moosewood",
+  "name": "Moosewood",
+  "current_amazon_url": "https://www.amazon.com/dp/1607747391?tag=herb-hugo-20",
+  "is_book": true,
+  "amazon_titles": [
+   "The Moosewood Cookbook: 40th Anniversary"
+  ],
+  "anchors": [
+   "Moosewood"
+  ],
+  "asins": [
+   "1607747391"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "introduction-to",
+  "search_terms": [
+   "moosewood cookbook",
+   "moosewood"
+  ]
+ },
+ {
+  "id": "morimoto-the-new-art-of-japanese-cooking",
+  "name": "Morimoto: the New Art of Japanese Cooking",
+  "current_amazon_url": "https://www.amazon.com/dp/0756631238?tag=herb-hugo-20",
+  "is_book": true,
+  "amazon_titles": [
+   "Morimoto: The New Art of Japanese Cookin"
+  ],
+  "anchors": [
+   "Morimoto: The New Art of Japanese Cooking"
+  ],
+  "asins": [
+   "0756631238"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "lychee-tempura",
+  "search_terms": [
+   "morimoto",
+   "morimoto the new art of japanese cooking"
+  ]
+ },
+ {
+  "id": "moroccan-clay-pot-with-a-conical-lid",
+  "name": "Moroccan Clay Pot with a Conical Lid",
+  "current_amazon_url": "https://www.amazon.com/dp/B0BF29GK5Z?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Kook Moroccan Tagine, Enameled Cast Iron"
+  ],
+  "anchors": [
+   "Moroccan clay pot with a conical lid"
+  ],
+  "asins": [
+   "B0BF29GK5Z"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "zucchini-chickpea-tagine-recipe",
+  "search_terms": [
+   "kook moroccan tagine enameled",
+   "moroccan clay pot with a conical lid"
+  ]
+ },
+ {
+  "id": "muffin-cupcake-liners",
+  "name": "Muffin/cupcake Liners",
+  "current_amazon_url": "https://www.amazon.com/dp/B0BLGZTM6P?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Bake Choice 200pcs Standard Cupcake Line"
+  ],
+  "anchors": [
+   "muffin/cupcake liners"
+  ],
+  "asins": [
+   "B0BLGZTM6P"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "onebowl-banana-muffins-great-for-baking-with-kids-recipe",
+  "search_terms": [
+   "bake choice pcs standard",
+   "muffin cupcake liners"
+  ]
+ },
+ {
+  "id": "muffins-tin",
+  "name": "Muffins Tin",
+  "current_amazon_url": "https://www.amazon.com/dp/B0026RHI9Q?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "GoodCook Everyday Nonstick Steel Muffin"
+  ],
+  "anchors": [
+   "muffins tin"
+  ],
+  "asins": [
+   "B0026RHI9Q"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "onebowl-banana-muffins-great-for-baking-with-kids-recipe",
+  "search_terms": [
+   "goodcook everyday nonstick steel",
+   "muffins tin"
+  ]
+ },
+ {
+  "id": "my-mexico",
+  "name": "My Mexico",
+  "current_amazon_url": "https://www.amazon.com/dp/0609602470?tag=herb-hugo-20",
+  "is_book": true,
+  "amazon_titles": [
+   "My Mexico: A Culinary Odyssey with More"
+  ],
+  "anchors": [
+   "My Mexico"
+  ],
+  "asins": [
+   "0609602470"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "bocoles-masa-and-black-bean-cakes-with-spicy-yams-recipe",
+  "search_terms": [
+   "my mexico"
+  ]
+ },
+ {
+  "id": "nature-s-path-smart-bran-cereal",
+  "name": "Nature&#39;s Path Smart Bran Cereal",
+  "current_amazon_url": "https://www.amazon.com/dp/B0010C4KCQ?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Nature's Path Organic Smart Bran Cer"
+  ],
+  "anchors": [
+   "Nature&#39",
+   "s Path Smart Bran cereal"
+  ],
+  "asins": [
+   "B0010C4KCQ"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "bran-muffins",
+  "search_terms": [
+   "nature's path smart bran",
+   "nature"
+  ]
+ },
+ {
+  "id": "newlywed-kitchen-delicious-meals-for-couples",
+  "name": "Newlywed Kitchen: Delicious Meals for Couples Cooking Together",
+  "current_amazon_url": "https://www.amazon.com/dp/1570616329?tag=herb-hugo-20",
+  "is_book": true,
+  "amazon_titles": [
+   "The Newlywed Kitchen: Delicious Meals fo"
+  ],
+  "anchors": [
+   "Newlywed Kitchen: Delicious Meals for Couples Cooking Together"
+  ],
+  "asins": [
+   "1570616329"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "the-newlywed-kitchen-book-review-with-a-recipe-for-zucchini-fritters",
+  "search_terms": [
+   "newlywed kitchen",
+   "newlywed kitchen delicious meals for cou"
+  ]
+ },
+ {
+  "id": "nikon-d7000",
+  "name": "Nikon D7000",
+  "current_amazon_url": "https://www.amazon.com/dp/B0042X9LC4?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Nikon D7000 DSLR (Body Only) (OLD MODEL)"
+  ],
+  "anchors": [
+   "Nikon D7000"
+  ],
+  "asins": [
+   "B0042X9LC4"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "transparency-and-support",
+  "search_terms": [
+   "nikon d dslr",
+   "nikon d"
+  ]
+ },
+ {
+  "id": "non-stick",
+  "name": "Non-Stick",
+  "current_amazon_url": "https://www.amazon.com/dp/B009HBKQR0?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Tramontina Professional 12-Inch Non Stic"
+  ],
+  "anchors": [
+   "non-stick"
+  ],
+  "asins": [
+   "B009HBKQR0"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "caramelized-caulifower-fritatta-recipe",
+  "search_terms": [
+   "tramontina professional stic",
+   "non stick"
+  ]
+ },
+ {
+  "id": "non-stick-or-well-seasoned-skillet",
+  "name": "Non-Stick or Well Seasoned Skillet",
+  "current_amazon_url": "https://www.amazon.com/dp/B0732NXYNS?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "CAROTE Nonstick Frying Pan, 8 Inch Class"
+  ],
+  "anchors": [
+   "non-stick or well seasoned skillet"
+  ],
+  "asins": [
+   "B0732NXYNS"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "hatch-chiles-stuffed-with-cilantro-scrambled-egg-recipe",
+  "search_terms": [
+   "carote nonstick frying pan",
+   "non stick or well seasoned skillet"
+  ]
+ }
+]

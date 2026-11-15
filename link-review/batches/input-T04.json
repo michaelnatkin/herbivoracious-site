@@ -1,0 +1,443 @@
+[
+ {
+  "id": "emile-henry-lasagna-pan",
+  "name": "Emile Henry Lasagna Pan",
+  "current_amazon_url": "https://www.amazon.com/dp/B00022O6YM?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Emile Henry 15 x 10.2 x 2.8 Inch Lasagna Bake"
+  ],
+  "anchors": [
+   "Emile Henry lasagna pan"
+  ],
+  "asins": [
+   "B00022O6YM"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "vegetarian-lasagna-recipe-with-spinach-and-ricotta-filling",
+  "search_terms": [
+   "emile henry x x",
+   "emile henry lasagna pan"
+  ]
+ },
+ {
+  "id": "feeding-the-hungry-ghost",
+  "name": "Feeding the Hungry Ghost",
+  "current_amazon_url": "https://www.amazon.com/dp/1608681645?tag=herb-hugo-20",
+  "is_book": true,
+  "amazon_titles": [
+   "Feeding the Hungry Ghost: Life, Faith, and Wh"
+  ],
+  "anchors": [
+   "Feeding the Hungry Ghost"
+  ],
+  "asins": [
+   "1608681645"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "hungry-ghost-moroccan-carrot-salad-recipe",
+  "search_terms": [
+   "feeding hungry ghost",
+   "feeding the hungry ghost"
+  ]
+ },
+ {
+  "id": "feta-cheese",
+  "name": "Feta Cheese",
+  "current_amazon_url": "https://www.amazon.com/dp/B0012FPTXU?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Athenos Traditional Crumbled Feta Cheese (4 o"
+  ],
+  "anchors": [
+   "feta cheese"
+  ],
+  "asins": [
+   "B0012FPTXU"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "chermoula-stuffed-eggplant-recipe",
+  "search_terms": [
+   "athenos traditional crumbled feta",
+   "feta cheese"
+  ]
+ },
+ {
+  "id": "fideos",
+  "name": "Fideos",
+  "current_amazon_url": "https://www.amazon.com/dp/B00FR6XI9W?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Barilla Fideo Cut Spaghetti Pasta, 16 oz. Box"
+  ],
+  "anchors": [
+   "fideos"
+  ],
+  "asins": [
+   "B00FR6XI9W"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "ilans-top-chef-fideos-vegetarian-style-with-a-review-of-the-top-chef-cookbook",
+  "search_terms": [
+   "barilla fideo cut spaghetti",
+   "fideos"
+  ]
+ },
+ {
+  "id": "field-roast-spicy-mexican-chipotle-plant-based",
+  "name": "Field Roast Spicy Mexican Chipotle Plant-Based Sausage, 12.95 oz",
+  "current_amazon_url": "https://www.amazon.com/dp/B002DQIZRE?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Field Roast Spicy Mexican Chipotle Plant-Base"
+  ],
+  "anchors": [
+   "Field Roast Mexican Chipotle vegetarian sausage"
+  ],
+  "asins": [
+   "B002DQIZRE"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "recipe-veggie-c",
+  "search_terms": [
+   "field roast spicy mexican",
+   "field roast mexican chipotle vegetarian "
+  ]
+ },
+ {
+  "id": "flat-stanleyish",
+  "name": "flat-stanleyish",
+  "current_amazon_url": "https://www.amazon.com/dp/0060837764?tag=herb-hugo-20",
+  "is_book": true,
+  "amazon_titles": [
+   "Flat Stanley Collection Box Set, The"
+  ],
+  "anchors": [
+   "flat-stanleyish"
+  ],
+  "asins": [
+   "0060837764"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "buckwheat-buttermilk-pancakes-recipe",
+  "search_terms": [
+   "flat stanley collection box",
+   "flat stanleyish"
+  ]
+ },
+ {
+  "id": "flour",
+  "name": "flour",
+  "current_amazon_url": "https://www.amazon.com/dp/B07XKDR6HN?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Bob's Red Mill Teff Flour, 20oz"
+  ],
+  "anchors": [
+   "flour"
+  ],
+  "asins": [
+   "B07XKDR6HN"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "eat-ethiopian-t",
+  "search_terms": [
+   "bob's red mill teff",
+   "flour"
+  ]
+ },
+ {
+  "id": "food-dehydrator",
+  "name": "Food Dehydrator",
+  "current_amazon_url": "https://www.amazon.com/dp/B004Z915M4?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Excalibur Electric Food Dehydrator Machine 9-"
+  ],
+  "anchors": [
+   "fancy-pants dehydrator"
+  ],
+  "asins": [
+   "B004Z915M4"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "corned-beets-recipe",
+  "search_terms": [
+   "excalibur electric food dehydrator",
+   "fancy pants dehydrator"
+  ]
+ },
+ {
+  "id": "food-wine",
+  "name": "Food &amp; Wine",
+  "current_amazon_url": "https://www.amazon.com/dp/B00005NINY?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Food & Wine"
+  ],
+  "anchors": [
+   "Food &amp",
+   "Wine"
+  ],
+  "asins": [
+   "B00005NINY"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "can-a-vegetarian-eat-at-pike-street-fish-fry-restaurant-review-seattle-wa",
+  "search_terms": [
+   "food wine",
+   "food amp"
+  ]
+ },
+ {
+  "id": "from-a-can",
+  "name": "from a can",
+  "current_amazon_url": "https://www.amazon.com/dp/B000LQJDTC?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Foul Mudammas, Fava Beans (Sultan) 15.5oz"
+  ],
+  "anchors": [
+   "from a can"
+  ],
+  "asins": [
+   "B000LQJDTC"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "fava-beans-potatoes-saffron-rice",
+  "search_terms": [
+   "foul mudammas fava beans",
+   "from a can"
+  ]
+ },
+ {
+  "id": "galil-pickled-mango-amba",
+  "name": "Galil Pickled Mango Amba",
+  "current_amazon_url": "https://www.amazon.com/dp/B00P8FCMIU?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Galil - Pickled Mango, Amba, 22 Ounces (pack"
+  ],
+  "anchors": [
+   "mango pickle"
+  ],
+  "asins": [
+   "B00P8FCMIU"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "recipe-sabich",
+  "search_terms": [
+   "galil pickled mango amba",
+   "mango pickle"
+  ]
+ },
+ {
+  "id": "garcima-15-inch-carbon-steel-paella-pan",
+  "name": "Garcima 15-Inch Carbon Steel Paella Pan",
+  "current_amazon_url": "https://www.amazon.com/dp/B000QYKK3W?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Garcima 15-Inch Carbon Steel Paella Pan, 38cm"
+  ],
+  "anchors": [
+   "paella pan"
+  ],
+  "asins": [
+   "B000QYKK3W"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "new-paella-pan-from-the-spanish-table",
+  "search_terms": [
+   "garcima carbon steel paella",
+   "paella pan"
+  ]
+ },
+ {
+  "id": "genmaicha-tea",
+  "name": "Genmaicha Tea",
+  "current_amazon_url": "https://www.amazon.com/dp/B000SSNFEW?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Takaokaya Genmai Cha, Japanese Brown Rice Tea"
+  ],
+  "anchors": [
+   "genmaicha tea"
+  ],
+  "asins": [
+   "B000SSNFEW"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "tea-smoked-lych",
+  "search_terms": [
+   "takaokaya genmai cha japanese",
+   "genmaicha tea"
+  ]
+ },
+ {
+  "id": "ghost-chile-sea-salt-caramels",
+  "name": "Ghost Chile &amp; Sea Salt Caramels",
+  "current_amazon_url": "https://www.amazon.com/dp/B007YNPJS4?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Theo Sea Salt Organic Dark Chocolate Bar, 70%"
+  ],
+  "anchors": [
+   "ghost chile &amp",
+   "sea salt caramels"
+  ],
+  "asins": [
+   "B007YNPJS4"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "seattle-chocolate-salon-theo-chocolopolis",
+  "search_terms": [
+   "theo sea salt dark",
+   "ghost chile amp"
+  ]
+ },
+ {
+  "id": "glucose-powder",
+  "name": "Glucose Powder",
+  "current_amazon_url": "https://www.amazon.com/dp/B019HN8KW0?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Pure Glucose Powder Vegan Gluten-Free OU Kosh"
+  ],
+  "anchors": [
+   "glucose powder"
+  ],
+  "asins": [
+   "B019HN8KW0"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "applecelery-sorbet-a-refreshing-recipe-with-many-coauthors",
+  "search_terms": [
+   "pure glucose powder vegan",
+   "glucose powder"
+  ]
+ },
+ {
+  "id": "gorgonzola-dolce",
+  "name": "Gorgonzola Dolce",
+  "current_amazon_url": "https://www.amazon.com/dp/B07881ML7Z?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Igor Gorgonzola Dolce"
+  ],
+  "anchors": [
+   "Gorgonzola dolce"
+  ],
+  "asins": [
+   "B07881ML7Z"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "caramelized-apple-and-blue-cheese-crostini",
+  "search_terms": [
+   "igor gorgonzola dolce",
+   "gorgonzola dolce"
+  ]
+ },
+ {
+  "id": "gourmet",
+  "name": "Gourmet",
+  "current_amazon_url": "https://www.amazon.com/dp/B00005N7QH?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Gourmet"
+  ],
+  "anchors": [
+   "Gourmet"
+  ],
+  "asins": [
+   "B00005N7QH"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "can-a-vegetarian-eat-at-pike-street-fish-fry-restaurant-review-seattle-wa",
+  "search_terms": [
+   "gourmet"
+  ]
+ },
+ {
+  "id": "grant-achatz",
+  "name": "Grant Achatz",
+  "current_amazon_url": "https://www.amazon.com/dp/B004T4UZ6C?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Life, on the Line Publisher: Gotham"
+  ],
+  "anchors": [
+   "Grant Achatz"
+  ],
+  "asins": [
+   "B004T4UZ6C"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "so-you-want-to-stage-intern-at-a-restaurant",
+  "search_terms": [
+   "life on line publisher",
+   "grant achatz"
+  ]
+ },
+ {
+  "id": "great-item",
+  "name": "great item",
+  "current_amazon_url": "https://www.amazon.com/dp/B00004OCKT?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "OXO Good Grips Apple Slicer, Corer & Cutt"
+  ],
+  "anchors": [
+   "great item"
+  ],
+  "asins": [
+   "B00004OCKT"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "apple-crostata-with-breadcrumb-streusel-recipe-for-pieday",
+  "search_terms": [
+   "oxo good grips apple",
+   "great item"
+  ]
+ },
+ {
+  "id": "hand-cranked-cavatelli-maker",
+  "name": "Hand-Cranked Cavatelli Maker",
+  "current_amazon_url": "https://www.amazon.com/dp/B009J9AE18?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Fantes Cavatelli Maker Machine for Authentic"
+  ],
+  "anchors": [
+   "hand-cranked cavatelli maker"
+  ],
+  "asins": [
+   "B009J9AE18"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "cavatelli-with-slow-roasted-broccoli-and-harissa-recipe",
+  "search_terms": [
+   "fantes cavatelli maker machine",
+   "hand cranked cavatelli maker"
+  ]
+ }
+]
