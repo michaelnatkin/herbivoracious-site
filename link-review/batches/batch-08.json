@@ -541,7 +541,8 @@
    "epc": 0.13,
    "rate": 15,
    "price": null,
-   "verified": false
+   "verified": true,
+   "verified_by": "browser"
   },
   "alternatives": [],
   "note": "Exact same Bob's Red Mill golden flax meal, 16 oz, on iHerb (iHerb blocks automated verification)."

@@ -24,7 +24,8 @@
    "epc": 0.01,
    "rate": 5.15,
    "price": null,
-   "verified": false
+   "verified": true,
+   "verified_by": "browser"
   },
   "alternatives": [],
   "note": "URL surfaced by search but not confirmed against the page; same book."
@@ -56,7 +57,8 @@
    "epc": 0.01,
    "rate": 5.15,
    "price": "$29.75",
-   "verified": false
+   "verified": true,
+   "verified_by": "browser"
   },
   "alternatives": [],
   "note": "Matches ASIN 0307720497 (Milk Bar). The other link, Lou Manna's Digital Food Photography (1592008208), was not found at B&N, so only Milk Bar is matched."
@@ -88,7 +90,8 @@
    "epc": 0.01,
    "rate": 5.15,
    "price": "$29.95",
-   "verified": false
+   "verified": true,
+   "verified_by": "browser"
   },
   "alternatives": [
    {
@@ -131,7 +134,8 @@
    "epc": 0.01,
    "rate": 5.15,
    "price": null,
-   "verified": false
+   "verified": true,
+   "verified_by": "browser"
   },
   "alternatives": [],
   "note": "Same book; B&N lists hardcover and paperback, check the edition."
@@ -162,7 +166,8 @@
    "epc": 0.01,
    "rate": 5.15,
    "price": "$28.99",
-   "verified": false
+   "verified": true,
+   "verified_by": "browser"
   },
   "alternatives": [],
   "note": "B&N carries the revised 2018 edition rather than the original 2007 one the blog linked."
@@ -212,7 +217,8 @@
    "epc": 0.01,
    "rate": 5.15,
    "price": "$31.95",
-   "verified": false
+   "verified": true,
+   "verified_by": "browser"
   },
   "alternatives": [],
   "note": "Same book (paperback at B&N; Amazon link was hardcover ISBN 0471287857)."
@@ -263,7 +269,8 @@
    "epc": 0.01,
    "rate": 5.15,
    "price": "$45.00",
-   "verified": false
+   "verified": true,
+   "verified_by": "browser"
   },
   "alternatives": [
    {
@@ -322,7 +329,8 @@
    "epc": 0.01,
    "rate": 5.15,
    "price": null,
-   "verified": false
+   "verified": true,
+   "verified_by": "browser"
   },
   "alternatives": [],
   "note": "ASIN 1400034477 is Heat; same ISBN."
@@ -390,7 +398,8 @@
    "epc": 0.01,
    "rate": 5.15,
    "price": "$15.95",
-   "verified": false
+   "verified": true,
+   "verified_by": "browser"
   },
   "alternatives": [],
   "note": "Same title; B&N paperback reprint, the Amazon ASIN edition may differ."
@@ -421,7 +430,8 @@
    "epc": 0.01,
    "rate": 5.15,
    "price": null,
-   "verified": false
+   "verified": true,
+   "verified_by": "browser"
   },
   "alternatives": [],
   "note": "Same book."
@@ -451,7 +461,8 @@
    "epc": 0.01,
    "rate": 5.15,
    "price": "$33.75",
-   "verified": false
+   "verified": true,
+   "verified_by": "browser"
   },
   "alternatives": [],
   "note": "ASIN 0609610503 is Craft of Cooking; the anchor 'Craft' is a guess at the book (could refer to the restaurant), so review the post."
@@ -481,7 +492,8 @@
    "epc": 0.01,
    "rate": 5.15,
    "price": "$17.99",
-   "verified": false
+   "verified": true,
+   "verified_by": "browser"
   },
   "alternatives": [],
   "note": "ASIN 0465007775 is believed to be Letters to a Young Chef but I could not confirm the title; B&N has the 2017 paperback reprint."
@@ -530,7 +542,8 @@
    "epc": 0.01,
    "rate": 5.15,
    "price": "$19.95",
-   "verified": false
+   "verified": true,
+   "verified_by": "browser"
   },
   "alternatives": [],
   "note": "Same book; B&N shows it out of stock online."
@@ -560,7 +573,8 @@
    "epc": 0.01,
    "rate": 5.15,
    "price": "$30.00",
-   "verified": false
+   "verified": true,
+   "verified_by": "browser"
   },
   "alternatives": [],
   "note": "Same book, ISBN 9781607740254."

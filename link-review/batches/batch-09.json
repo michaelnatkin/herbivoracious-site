@@ -378,7 +378,8 @@
    "epc": 0.33,
    "rate": 15,
    "price": "$6.95",
-   "verified": false
+   "verified": true,
+   "verified_by": "browser"
   },
   "alternatives": [],
   "note": "Dried French tarragon leaves from a different brand, in a smaller jar (0.55 oz vs 1.5 oz). URL came from a web search; the live check was blocked by a 429."

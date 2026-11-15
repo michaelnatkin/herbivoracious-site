@@ -2398,5 +2398,155 @@
    "price": "$5.99",
    "verified": true
   }
+ },
+ "bob-s-red-mill": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "iHerb.com",
+   "product": "Bob's Red Mill Organic Golden Flaxseed Meal, 16 oz",
+   "url": "https://www.iherb.com/pr/bob-s-red-mill-organic-golden-flaxseed-meal-16-oz-453-g/77011",
+   "epc": 0.13,
+   "rate": 15,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser"
+  }
+ },
+ "kitchenaid-mixer": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "Kitchenaid US",
+   "product": "Classic Series 4.5 Quart Tilt-Head Stand Mixer, Onyx Black K45SSOB",
+   "url": "https://www.kitchenaid.com/p.K45SSOB.html",
+   "epc": 0.01,
+   "rate": 1,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser"
+  }
+ },
+ "potato-masher": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "OXO",
+   "product": "Good Grips Wire Potato Masher",
+   "url": "https://www.oxo.com/wire-potato-masher.html",
+   "epc": 0.04,
+   "rate": 15.0,
+   "price": "$16.99",
+   "verified": true,
+   "verified_by": "browser"
+  }
+ },
+ "mexican-everyday": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "Barnes & Noble",
+   "product": "Mexican Everyday (Rick Bayless), hardcover",
+   "url": "https://www.barnesandnoble.com/w/mexican-everyday-rick-bayless/1100872034?ean=9780393061543",
+   "epc": 0.01,
+   "rate": 5.15,
+   "price": "$29.95",
+   "verified": true,
+   "verified_by": "browser"
+  }
+ },
+ "culinary-artistry": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "Barnes & Noble",
+   "product": "Culinary Artistry (Dornenburg and Page)",
+   "url": "https://www.barnesandnoble.com/w/culinary-artistry-andrew-dornenburg/1102591823",
+   "epc": 0.01,
+   "rate": 5.15,
+   "price": "$31.95",
+   "verified": true,
+   "verified_by": "browser"
+  }
+ },
+ "what-to-drink-with-what-you-eat": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "Barnes & Noble",
+   "product": "What to Drink with What You Eat (Dornenburg and Page)",
+   "url": "https://www.barnesandnoble.com/w/what-to-drink-with-what-you-eat-andrew-dornenburg/1012382733?ean=9780821257180",
+   "epc": 0.01,
+   "rate": 5.15,
+   "price": "$45.00",
+   "verified": true,
+   "verified_by": "browser"
+  }
+ },
+ "bill-buford": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "Barnes & Noble",
+   "product": "Heat (Bill Buford), paperback",
+   "url": "https://www.barnesandnoble.com/w/heat-bill-buford/1100991561?ean=9781400034475",
+   "epc": 0.01,
+   "rate": 5.15,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser"
+  }
+ },
+ "crackers-dips-more-than-50-handmade-snacks": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "Barnes & Noble",
+   "product": "Crackers & Dips: More than 50 Handmade Snacks (Ivy Manning)",
+   "url": "https://www.barnesandnoble.com/w/crackers-dips-ivy-manning/1114034111",
+   "epc": 0.01,
+   "rate": 5.15,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser"
+  }
+ },
+ "doughnuts-simple-and-delicious-recipes-to-make": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "Barnes & Noble",
+   "product": "Doughnuts: 90 Simple and Delicious Recipes to Make at Home (Lara Ferroni)",
+   "url": "https://www.barnesandnoble.com/w/doughnuts-lara-ferroni/1127085451",
+   "epc": 0.01,
+   "rate": 5.15,
+   "price": "$19.95",
+   "verified": true,
+   "verified_by": "browser"
+  }
+ },
+ "andrea-nguyen-s-book-asian-tofu": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "Barnes & Noble",
+   "product": "Asian Tofu (Andrea Nguyen), hardcover",
+   "url": "https://www.barnesandnoble.com/w/asian-tofu-andrea-nguyen/1102839266",
+   "epc": 0.01,
+   "rate": 5.15,
+   "price": "$30.00",
+   "verified": true,
+   "verified_by": "browser"
+  }
  }
 }

@@ -445,7 +445,8 @@
    "epc": 0.04,
    "rate": 15.0,
    "price": "$16.99",
-   "verified": false
+   "verified": true,
+   "verified_by": "browser"
   },
   "alternatives": [],
   "note": "Classic OXO masher; OXO blocks automated checks (403)."

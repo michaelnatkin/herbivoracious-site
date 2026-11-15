@@ -25,10 +25,11 @@
    "epc": 0.33,
    "rate": 15,
    "price": "$4.50",
-   "verified": false
+   "verified": false,
+   "broken": true
   },
   "alternatives": [],
-  "note": "Savory Spice Shop's distilled culinary rose water instead of Sadaf's brand; URL came from a search result and is not yet verified (the store was rate-limiting)."
+  "note": "Savory Spice Shop's distilled culinary rose water instead of Sadaf's brand; URL came from a search result and is not yet verified (the store was rate-limiting). (Browser check: loads but is a general extracts category page, not the rose water product.)"
  },
  {
   "id": "saffron",
@@ -234,7 +235,8 @@
    "epc": 0.04,
    "rate": 15,
    "price": "$32.99",
-   "verified": false
+   "verified": true,
+   "verified_by": "browser"
   },
   "alternatives": [],
   "note": "Starfrit is not in the network; OXO's pump salad spinner is the closest widely-recommended equivalent. OXO blocks automated checks (403), URL came from search."

@@ -1,659 +1,662 @@
 [
-  {
-    "id": "jaques-pepin",
-    "name": "Jaques Pepin",
-    "status": "match",
-    "kind": "book",
-    "confidence": "medium",
-    "amazon": {
-      "asins": [
-        "0544657497"
-      ],
-      "title": "Jaques Pepin",
-      "anchors": [
-        "Jaques Pepin"
-      ],
-      "links": 1,
-      "posts": 1,
-      "example_post": "so-you-want-to-stage-intern-at-a-restaurant"
-    },
-    "primary": {
-      "merchant": "Barnes & Noble",
-      "product": "The Apprentice: My Life in the Kitchen (Jacques Pepin)",
-      "url": "https://www.barnesandnoble.com/w/the-apprentice-jacques-pepin/1121677041",
-      "epc": 0.01,
-      "rate": 5.15,
-      "price": null,
-      "verified": false
-    },
-    "alternatives": [],
-    "note": "Amazon ISBN 9780544657496 is The Apprentice (2015 HarperCollins edition); B&N page found by search, not fetch-verified."
+ {
+  "id": "jaques-pepin",
+  "name": "Jaques Pepin",
+  "status": "match",
+  "kind": "book",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "0544657497"
+   ],
+   "title": "Jaques Pepin",
+   "anchors": [
+    "Jaques Pepin"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "so-you-want-to-stage-intern-at-a-restaurant"
   },
-  {
-    "id": "karen-and-andrew",
-    "name": "Karen and Andrew",
-    "status": "match",
-    "kind": "book",
-    "confidence": "medium",
-    "amazon": {
-      "asins": [
-        "0471152099"
-      ],
-      "title": "Karen and Andrew",
-      "anchors": [
-        "Karen and Andrew"
-      ],
-      "links": 1,
-      "posts": 1,
-      "example_post": "so-you-want-to-stage-intern-at-a-restaurant"
-    },
-    "primary": {
-      "merchant": "Barnes & Noble",
-      "product": "Becoming a Chef, Revised Edition (Andrew Dornenburg, Karen Page)",
-      "url": "https://www.barnesandnoble.com/w/becoming-a-chef-andrew-dornenburg/1130204700",
-      "epc": 0.01,
-      "rate": 5.15,
-      "price": "$31.00",
-      "verified": false
-    },
-    "alternatives": [],
-    "note": "Amazon ISBN 9780471152095 is the Wiley revised paperback; same ISBN on B&N, not fetch-verified."
+  "primary": {
+   "merchant": "Barnes & Noble",
+   "product": "The Apprentice: My Life in the Kitchen (Jacques Pepin)",
+   "url": "https://www.barnesandnoble.com/w/the-apprentice-jacques-pepin/1121677041",
+   "epc": 0.01,
+   "rate": 5.15,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser"
   },
-  {
-    "id": "microplane-classic-zester-grater",
-    "name": "Microplane Classic Zester Grater",
-    "status": "match",
-    "kind": "same",
-    "confidence": "high",
-    "amazon": {
-      "asins": [
-        "B00004S7V8",
-        "B00151WA06"
-      ],
-      "title": "Amazon.com: Microplane Classic Zester Grater, Black: Cheese Graters: Home & Kitchen",
-      "anchors": [
-        "grater",
-        "microplane"
-      ],
-      "links": 3,
-      "posts": 3,
-      "example_post": "four-thousand-d"
-    },
-    "primary": {
-      "merchant": "Sur La Table",
-      "product": "Microplane Soft-Handle Zester Grater, 12\"",
-      "url": "https://www.surlatable.com/product/microplane-soft-handle-zester-grater-12/9081654",
-      "epc": 0.06,
-      "rate": 9,
-      "price": "$18.95",
-      "verified": true
-    },
-    "alternatives": [
-      {
-        "merchant": "Sur La Table",
-        "product": "Microplane Professional Paddle Grater, Fine",
-        "url": "https://www.surlatable.com/product/microplane-professional-paddle-grater-fine/9145129",
-        "epc": 0.06,
-        "rate": 9,
-        "price": "$26.95",
-        "verified": true
-      }
-    ],
-    "note": "Same brand and style of zester; the soft-handle model rather than the black Classic handle."
+  "alternatives": [],
+  "note": "Amazon ISBN 9780544657496 is The Apprentice (2015 HarperCollins edition); B&N page found by search, not fetch-verified."
+ },
+ {
+  "id": "karen-and-andrew",
+  "name": "Karen and Andrew",
+  "status": "match",
+  "kind": "book",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "0471152099"
+   ],
+   "title": "Karen and Andrew",
+   "anchors": [
+    "Karen and Andrew"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "so-you-want-to-stage-intern-at-a-restaurant"
   },
-  {
-    "id": "no-boil-lasagna-noodles",
-    "name": "No-Boil Lasagna Noodles",
-    "status": "no_match",
-    "reason": "No in-network merchant found carrying Barilla oven-ready lasagne; Sur La Table and ChefShop only had egg or gluten-free lasagna.",
-    "amazon": {
-      "asins": [
-        "B000RUQPQQ",
-        "B003EXVM66"
-      ],
-      "title": "Amazon.com : Barilla \"Oven Ready\" Lasagne Pasta, Non-GMO Kosher Pasta, 9oz. | Classic Blue Box pasta made with Durum Wheat Semolina, Made with Non-GMO ingredients : Grocery & Gourmet Food",
-      "anchors": [
-        "no-boil lasagna noodles"
-      ],
-      "links": 3,
-      "posts": 3,
-      "example_post": "portabello-summer-squash-lasagna-recipe"
-    },
-    "needs_web": true
+  "primary": {
+   "merchant": "Barnes & Noble",
+   "product": "Becoming a Chef, Revised Edition (Andrew Dornenburg, Karen Page)",
+   "url": "https://www.barnesandnoble.com/w/becoming-a-chef-andrew-dornenburg/1130204700",
+   "epc": 0.01,
+   "rate": 5.15,
+   "price": "$31.00",
+   "verified": false,
+   "broken": true
   },
-  {
-    "id": "old-stone-oven-pizza-baking-stone",
-    "name": "Old Stone Oven Pizza Baking Stone",
-    "status": "match",
-    "kind": "equivalent",
-    "confidence": "medium",
-    "amazon": {
-      "asins": [
-        "B0000E1FDA",
-        "B06XGV3RS4"
-      ],
-      "title": "Amazon.com: Old Stone Pizza Kitchen Rectangular Pizza Stone for Oven and Grill, 14x16-Inch : Patio, Lawn & Garden",
-      "anchors": [
-        "baking stone",
-        "pizza stone"
-      ],
-      "links": 3,
-      "posts": 3,
-      "example_post": "double-crust-pizza-with-broccoli-raab-ricotta-and-caramelized-onions-recipe"
-    },
-    "primary": {
-      "merchant": "Sur La Table",
-      "product": "Sur La Table Cordierite No-Slip Pizza Stone, 16\"",
-      "url": "https://www.surlatable.com/product/sur-la-table-cordierite-no-slip-pizza-stone-16/9147281",
-      "epc": 0.06,
-      "rate": 9,
-      "price": "$59.95",
-      "verified": true
-    },
-    "alternatives": [
-      {
-        "merchant": "Sur La Table",
-        "product": "Sur La Table Cordierite No-Slip Pizza Stone, 18\"x13.5\"",
-        "url": "https://www.surlatable.com/product/sur-la-table-cordierite-no-slip-pizza-stone-18-x13-5/9147299",
-        "epc": 0.06,
-        "rate": 9,
-        "price": "$69.95",
-        "verified": true
-      },
-      {
-        "merchant": "Sur La Table",
-        "product": "Emile Henry Pizza Stone, 14.5\"",
-        "url": "https://www.surlatable.com/product/emile-henry-pizza-stone-14-5/3562741",
-        "epc": 0.06,
-        "rate": 9,
-        "price": "$83.95",
-        "verified": true
-      }
-    ],
-    "note": "Comparable cordierite stone; the 18x13.5 alternative is closest to the rectangular Amazon size."
+  "alternatives": [],
+  "note": "Amazon ISBN 9780471152095 is the Wiley revised paperback; same ISBN on B&N, not fetch-verified. (Browser check: Barnes & Noble page returned a 404.)"
+ },
+ {
+  "id": "microplane-classic-zester-grater",
+  "name": "Microplane Classic Zester Grater",
+  "status": "match",
+  "kind": "same",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B00004S7V8",
+    "B00151WA06"
+   ],
+   "title": "Amazon.com: Microplane Classic Zester Grater, Black: Cheese Graters: Home & Kitchen",
+   "anchors": [
+    "grater",
+    "microplane"
+   ],
+   "links": 3,
+   "posts": 3,
+   "example_post": "four-thousand-d"
   },
-  {
-    "id": "oxo-good-grips",
-    "name": "OXO Good Grips",
-    "status": "match",
-    "kind": "same",
-    "confidence": "high",
-    "amazon": {
-      "asins": [
-        "B00004OCKR"
-      ],
-      "title": "Amazon.com: OXO Good Grips 6.22 Qt Salad Spinner, Vegetable Washer with Bowl & Strainer | Spin-dry Lettuce, Herbs, Fruit, Vegetables, Non-Slip Base, Large Capacity Bowl, Easy One-Touch Press Pump, Meal Prep: Home & Kitchen",
-      "anchors": [
-        "OXO Good Grips",
-        "OXO Good Grips Salad Spinner"
-      ],
-      "links": 3,
-      "posts": 2,
-      "example_post": "chopped-salad-revisiting-a-classic-recipe"
-    },
-    "primary": {
-      "merchant": "Sur La Table",
-      "product": "OXO Good Grips Salad Spinner 4.0",
-      "url": "https://www.surlatable.com/product/oxo-good-grips-salad-spinner-4-0/3710761",
-      "epc": 0.06,
-      "rate": 9,
-      "price": "$32.95",
-      "verified": true
-    },
-    "alternatives": [
-      {
-        "merchant": "Sur La Table",
-        "product": "OXO Good Grips Little Salad and Herb Spinner",
-        "url": "https://www.surlatable.com/product/oxo-good-grips-little-salad-and-herb-spinner/1071984",
-        "epc": 0.06,
-        "rate": 9,
-        "price": "$27.95",
-        "verified": true
-      }
-    ],
-    "note": "The OXO Good Grips 4.0 spinner is the current version of the 6.22 qt model."
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "Microplane Soft-Handle Zester Grater, 12\"",
+   "url": "https://www.surlatable.com/product/microplane-soft-handle-zester-grater-12/9081654",
+   "epc": 0.06,
+   "rate": 9,
+   "price": "$18.95",
+   "verified": true
   },
-  {
-    "id": "pastry-brush",
-    "name": "Pastry Brush",
-    "status": "match",
-    "kind": "equivalent",
-    "confidence": "medium",
-    "amazon": {
-      "asins": [
-        "B000JPSI8C"
-      ],
-      "title": "Amazon.com: OXO Good Grips Silicone Pastry Brush | OXO Good Grips Silicone Basting & Pastry Brush - Small, 7.6 in: Home & Kitchen",
-      "anchors": [
-        "Silicone pastry brushes",
-        "pastry brush"
-      ],
-      "links": 3,
-      "posts": 3,
-      "example_post": "block-party-emp"
-    },
-    "primary": {
-      "merchant": "Sur La Table",
-      "product": "Sur La Table Silicone Pastry Brush, 7\"",
-      "url": "https://www.surlatable.com/product/sur-la-table-silicone-pastry-brush-7/10073682",
-      "epc": 0.06,
-      "rate": 9,
-      "price": "$12.95",
-      "verified": true
-    },
-    "alternatives": [
-      {
-        "merchant": "Sur La Table",
-        "product": "Sur La Table Silicone Pastry Brush, 9\"",
-        "url": "https://www.surlatable.com/product/sur-la-table-silicone-pastry-brush-9/10073674",
-        "epc": 0.06,
-        "rate": 9,
-        "price": "$14.95",
-        "verified": true
-      }
-    ],
-    "note": "Store-brand silicone brush instead of the OXO one; same kind of tool."
+  "alternatives": [
+   {
+    "merchant": "Sur La Table",
+    "product": "Microplane Professional Paddle Grater, Fine",
+    "url": "https://www.surlatable.com/product/microplane-professional-paddle-grater-fine/9145129",
+    "epc": 0.06,
+    "rate": 9,
+    "price": "$26.95",
+    "verified": true
+   }
+  ],
+  "note": "Same brand and style of zester; the soft-handle model rather than the black Classic handle."
+ },
+ {
+  "id": "no-boil-lasagna-noodles",
+  "name": "No-Boil Lasagna Noodles",
+  "status": "no_match",
+  "reason": "No in-network merchant found carrying Barilla oven-ready lasagne; Sur La Table and ChefShop only had egg or gluten-free lasagna.",
+  "amazon": {
+   "asins": [
+    "B000RUQPQQ",
+    "B003EXVM66"
+   ],
+   "title": "Amazon.com : Barilla \"Oven Ready\" Lasagne Pasta, Non-GMO Kosher Pasta, 9oz. | Classic Blue Box pasta made with Durum Wheat Semolina, Made with Non-GMO ingredients : Grocery & Gourmet Food",
+   "anchors": [
+    "no-boil lasagna noodles"
+   ],
+   "links": 3,
+   "posts": 3,
+   "example_post": "portabello-summer-squash-lasagna-recipe"
   },
-  {
-    "id": "prioritychef-large-15oz-stainless-steel-potato",
-    "name": "PriorityChef Large 15oz Stainless Steel Potato Ricer",
-    "status": "match",
-    "kind": "equivalent",
-    "confidence": "medium",
-    "amazon": {
-      "asins": [
-        "B00MUEHPGQ"
-      ],
-      "title": "Amazon.com: PriorityChef Large 15oz Potato Ricer, Heavy Duty Stainless Steel Potato Masher and Ricer Kitchen Tool, Press and Mash Kitchen Gadget For Perfect Mashed Potatoes - Everytime: Home & Kitchen",
-      "anchors": [
-        "heavy-duty potato ricer",
-        "potato ricer"
-      ],
-      "links": 3,
-      "posts": 3,
-      "example_post": "aloo-tikki-indian-potato-fritters-recipe"
-    },
-    "primary": {
-      "merchant": "Sur La Table",
-      "product": "OXO Good Grips Adjustable Potato Ricer",
-      "url": "https://www.surlatable.com/product/oxo-good-grips-adjustable-potato-ricer/819433",
-      "epc": 0.06,
-      "rate": 9,
-      "price": "$39.95",
-      "verified": true
-    },
-    "alternatives": [
-      {
-        "merchant": "Sur La Table",
-        "product": "Sur La Table Potato & Vegetable Ricer",
-        "url": "https://www.surlatable.com/product/sur-la-table-potato-vegetable-ricer/10232882",
-        "epc": 0.06,
-        "rate": 9,
-        "price": "$27.96",
-        "verified": true
-      }
-    ],
-    "note": "Different brand; both are heavy-duty ricers (OXO is a higher-end pick)."
+  "needs_web": true
+ },
+ {
+  "id": "old-stone-oven-pizza-baking-stone",
+  "name": "Old Stone Oven Pizza Baking Stone",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B0000E1FDA",
+    "B06XGV3RS4"
+   ],
+   "title": "Amazon.com: Old Stone Pizza Kitchen Rectangular Pizza Stone for Oven and Grill, 14x16-Inch : Patio, Lawn & Garden",
+   "anchors": [
+    "baking stone",
+    "pizza stone"
+   ],
+   "links": 3,
+   "posts": 3,
+   "example_post": "double-crust-pizza-with-broccoli-raab-ricotta-and-caramelized-onions-recipe"
   },
-  {
-    "id": "ricotta-salata",
-    "name": "Ricotta Salata",
-    "status": "no_match",
-    "reason": "Murray's Cheese is in-network but no ricotta salata product page was found within budget; other cheese shops are not in the network.",
-    "amazon": {
-      "asins": [
-        "B0787VWCF3"
-      ],
-      "title": "Amazon.com: Mitica, Ricotta Salata : Grocery & Gourmet Food",
-      "anchors": [
-        "Ricotta salata",
-        "ricotta salata"
-      ],
-      "links": 3,
-      "posts": 3,
-      "example_post": "gnocchi-with-radicchio-leeks-and-ricotta-salata-vegetarian-recipe"
-    },
-    "needs_web": true
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "Sur La Table Cordierite No-Slip Pizza Stone, 16\"",
+   "url": "https://www.surlatable.com/product/sur-la-table-cordierite-no-slip-pizza-stone-16/9147281",
+   "epc": 0.06,
+   "rate": 9,
+   "price": "$59.95",
+   "verified": true
   },
-  {
-    "id": "ring-mold",
-    "name": "Ring Mold",
-    "status": "no_match",
-    "reason": "Sur La Table only offered an expandable cake ring, not the small 3-inch plating rings; no close equivalent found.",
-    "amazon": {
-      "asins": [
-        "B00IVFJDKY",
-        "B01IO57N0W",
-        "B0861D8DTN"
-      ],
-      "title": "Amazon.com: HULISEN 3\u201d Round Cake Ring Mold, Stainless Steel Cooking Crumpet Rings | 4 Food Forms & 1 Pusher, Dishwasher Safe, Home Cooks and Bakers, Tuna Tartare, Pancakes, Salads and Mousse : Home & Kitchen",
-      "anchors": [
-        "ring mold"
-      ],
-      "links": 3,
-      "posts": 3,
-      "example_post": "risotto-cake-with-crispy-ramps-recipe"
-    },
-    "needs_web": true
+  "alternatives": [
+   {
+    "merchant": "Sur La Table",
+    "product": "Sur La Table Cordierite No-Slip Pizza Stone, 18\"x13.5\"",
+    "url": "https://www.surlatable.com/product/sur-la-table-cordierite-no-slip-pizza-stone-18-x13-5/9147299",
+    "epc": 0.06,
+    "rate": 9,
+    "price": "$69.95",
+    "verified": true
+   },
+   {
+    "merchant": "Sur La Table",
+    "product": "Emile Henry Pizza Stone, 14.5\"",
+    "url": "https://www.surlatable.com/product/emile-henry-pizza-stone-14-5/3562741",
+    "epc": 0.06,
+    "rate": 9,
+    "price": "$83.95",
+    "verified": true
+   }
+  ],
+  "note": "Comparable cordierite stone; the 18x13.5 alternative is closest to the rectangular Amazon size."
+ },
+ {
+  "id": "oxo-good-grips",
+  "name": "OXO Good Grips",
+  "status": "match",
+  "kind": "same",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B00004OCKR"
+   ],
+   "title": "Amazon.com: OXO Good Grips 6.22 Qt Salad Spinner, Vegetable Washer with Bowl & Strainer | Spin-dry Lettuce, Herbs, Fruit, Vegetables, Non-Slip Base, Large Capacity Bowl, Easy One-Touch Press Pump, Meal Prep: Home & Kitchen",
+   "anchors": [
+    "OXO Good Grips",
+    "OXO Good Grips Salad Spinner"
+   ],
+   "links": 3,
+   "posts": 2,
+   "example_post": "chopped-salad-revisiting-a-classic-recipe"
   },
-  {
-    "id": "sriracha-sauce",
-    "name": "Sriracha Sauce",
-    "status": "match",
-    "kind": "same",
-    "confidence": "high",
-    "amazon": {
-      "asins": [
-        "B0014E4G0Q",
-        "B07KSMML5P"
-      ],
-      "title": "Page Not Found",
-      "anchors": [
-        "Sriracha sauce",
-        "sriracha"
-      ],
-      "links": 3,
-      "posts": 3,
-      "example_post": "kale-fried-rice-for-one-infinitely-adaptable-recipe"
-    },
-    "primary": {
-      "merchant": "SayWeee.com",
-      "product": "Huy Fong Foods Sriracha Hot Chili Sauce 17 oz",
-      "url": "https://www.sayweee.com/en/product/Huy-Fong-Foods-Sriracha-Hot-Chili-Sauce-481g/79895",
-      "epc": null,
-      "rate": 10,
-      "price": "$5.99",
-      "verified": true
-    },
-    "alternatives": [],
-    "note": "Exact Huy Fong 17 oz bottle; Weee has no EPC data but is the only in-network seller found."
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "OXO Good Grips Salad Spinner 4.0",
+   "url": "https://www.surlatable.com/product/oxo-good-grips-salad-spinner-4-0/3710761",
+   "epc": 0.06,
+   "rate": 9,
+   "price": "$32.95",
+   "verified": true
   },
-  {
-    "id": "taylors-of-harrogate-lapsang-souchong-loose",
-    "name": "Taylors of Harrogate Lapsang Souchong Loose Leaf Tea",
-    "status": "match",
-    "kind": "equivalent",
-    "confidence": "medium",
-    "amazon": {
-      "asins": [
-        "B000MNNELC",
-        "B002JP6H2O"
-      ],
-      "title": "Amazon.com : Taylors of Harrogate Lapsang Souchong Loose Leaf Tin, 4.41 oz : Smoky Lapsang Souchong Tea : Grocery & Gourmet Food",
-      "anchors": [
-        "lapsang souchong",
-        "lapsang souchong tea"
-      ],
-      "links": 3,
-      "posts": 3,
-      "example_post": "maitake-mushrooms-in-smoky-tea-broth"
-    },
-    "primary": {
-      "merchant": "The Tea Spot",
-      "product": "Lapsang Souchong, Organic",
-      "url": "https://www.theteaspot.com/products/lapsang-souchong-black-tea",
-      "epc": 0.57,
-      "rate": 15,
-      "price": "$4.00",
-      "verified": true
-    },
-    "alternatives": [
-      {
-        "merchant": "Jing Tea",
-        "product": "Cherrywood Lapsang",
-        "url": "https://www.jingtea.com/products/cherrywood-lapsang-loose-tea",
-        "epc": 0.52,
-        "rate": 7.5,
-        "price": "$20.40",
-        "verified": true
-      }
-    ],
-    "note": "Different brand (Taylors is not sold in-network); a loose-leaf smoky lapsang. Price shown is likely the smallest size."
+  "alternatives": [
+   {
+    "merchant": "Sur La Table",
+    "product": "OXO Good Grips Little Salad and Herb Spinner",
+    "url": "https://www.surlatable.com/product/oxo-good-grips-little-salad-and-herb-spinner/1071984",
+    "epc": 0.06,
+    "rate": 9,
+    "price": "$27.95",
+    "verified": true
+   }
+  ],
+  "note": "The OXO Good Grips 4.0 spinner is the current version of the 6.22 qt model."
+ },
+ {
+  "id": "pastry-brush",
+  "name": "Pastry Brush",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B000JPSI8C"
+   ],
+   "title": "Amazon.com: OXO Good Grips Silicone Pastry Brush | OXO Good Grips Silicone Basting & Pastry Brush - Small, 7.6 in: Home & Kitchen",
+   "anchors": [
+    "Silicone pastry brushes",
+    "pastry brush"
+   ],
+   "links": 3,
+   "posts": 3,
+   "example_post": "block-party-emp"
   },
-  {
-    "id": "ancho-guajillo-pasilla-cascabel-de-arbol",
-    "name": "Ancho, Guajillo, Pasilla, Cascabel, de Arbol, ...",
-    "status": "match",
-    "kind": "equivalent",
-    "confidence": "low",
-    "amazon": {
-      "asins": [
-        "B07BZW6DSC"
-      ],
-      "title": "Amazon.com : Dried Chile Peppers Variety 3x4oz Ancho Guajillo Pasilla Mexican Chili | Ancho: sweet smoky. Guajillo: fruity. Pasilla: earthy tangy. Whole pods for mole, birria & tamales. Resealable bulk bag. : Grocery & Gourmet Food",
-      "anchors": [
-        "ancho, guajillo, pasilla, cascabel, de arbol, ...",
-        "whole dried chili peppers"
-      ],
-      "links": 2,
-      "posts": 1,
-      "example_post": "vegetarian-chili-recipe"
-    },
-    "primary": {
-      "merchant": "Savory Spice Shop",
-      "product": "Ancho Chile Powder",
-      "url": "https://www.savoryspiceshop.com/products/ancho-chile-powder",
-      "epc": 0.33,
-      "rate": 15,
-      "price": "$10.50",
-      "verified": true
-    },
-    "alternatives": [
-      {
-        "merchant": "Savory Spice Shop",
-        "product": "Guajillo Chile Powder",
-        "url": "https://www.savoryspiceshop.com/products/guajillo-chile-powder",
-        "epc": 0.33,
-        "rate": 15,
-        "price": "$9.50",
-        "verified": true
-      }
-    ],
-    "note": "No whole dried pods found in-network; these are ground versions, so only a loose substitute."
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "Sur La Table Silicone Pastry Brush, 7\"",
+   "url": "https://www.surlatable.com/product/sur-la-table-silicone-pastry-brush-7/10073682",
+   "epc": 0.06,
+   "rate": 9,
+   "price": "$12.95",
+   "verified": true
   },
-  {
-    "id": "beaterblade-for-kitchenaid-tilt-head-bowl-lift",
-    "name": "BeaterBlade for KitchenAid Tilt-Head & Bowl-Lift Mixers",
-    "status": "no_match",
-    "reason": "BeaterBlade and the Ateco 1305 offset spatula were not found at any in-network merchant.",
-    "amazon": {
-      "asins": [
-        "B001F29N50",
-        "B07MJL6FPC"
-      ],
-      "title": "Page Not Found",
-      "anchors": [
-        "BeaterBlade for KitchenAid Tilt-Head &amp",
-        "Bowl-Lift Mixers",
-        "the Ateco model"
-      ],
-      "links": 2,
-      "posts": 2,
-      "example_post": "stop-scraping-your-stand-mixer-bowl"
-    },
-    "needs_web": true
+  "alternatives": [
+   {
+    "merchant": "Sur La Table",
+    "product": "Sur La Table Silicone Pastry Brush, 9\"",
+    "url": "https://www.surlatable.com/product/sur-la-table-silicone-pastry-brush-9/10073674",
+    "epc": 0.06,
+    "rate": 9,
+    "price": "$14.95",
+    "verified": true
+   }
+  ],
+  "note": "Store-brand silicone brush instead of the OXO one; same kind of tool."
+ },
+ {
+  "id": "prioritychef-large-15oz-stainless-steel-potato",
+  "name": "PriorityChef Large 15oz Stainless Steel Potato Ricer",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B00MUEHPGQ"
+   ],
+   "title": "Amazon.com: PriorityChef Large 15oz Potato Ricer, Heavy Duty Stainless Steel Potato Masher and Ricer Kitchen Tool, Press and Mash Kitchen Gadget For Perfect Mashed Potatoes - Everytime: Home & Kitchen",
+   "anchors": [
+    "heavy-duty potato ricer",
+    "potato ricer"
+   ],
+   "links": 3,
+   "posts": 3,
+   "example_post": "aloo-tikki-indian-potato-fritters-recipe"
   },
-  {
-    "id": "blowtorch",
-    "name": "Blowtorch",
-    "status": "match",
-    "kind": "equivalent",
-    "confidence": "medium",
-    "amazon": {
-      "asins": [
-        "B01LYN1C7P",
-        "B07RKVHJH6"
-      ],
-      "title": "Page Not Found",
-      "anchors": [
-        "blowtorch"
-      ],
-      "links": 2,
-      "posts": 2,
-      "example_post": "crostini-with-young-pecorino-grilled-figs-and-arugula-mint-pesto-recipe"
-    },
-    "primary": {
-      "merchant": "Sur La Table",
-      "product": "Sur La Table Kitchen Torch",
-      "url": "https://www.surlatable.com/product/sur-la-table-kitchen-torch/7277262",
-      "epc": 0.06,
-      "rate": 9,
-      "price": "$69.95",
-      "verified": true
-    },
-    "alternatives": [
-      {
-        "merchant": "Sur La Table",
-        "product": "Messermeister Chef's Torch",
-        "url": "https://www.surlatable.com/product/chefs-torch/150128",
-        "epc": 0.06,
-        "rate": 9,
-        "price": "$89.95",
-        "verified": true
-      }
-    ],
-    "note": "Refillable butane culinary torch; pricier than the Amazon Kollea."
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "OXO Good Grips Adjustable Potato Ricer",
+   "url": "https://www.surlatable.com/product/oxo-good-grips-adjustable-potato-ricer/819433",
+   "epc": 0.06,
+   "rate": 9,
+   "price": "$39.95",
+   "verified": true
   },
-  {
-    "id": "champion-juicer",
-    "name": "Champion Juicer",
-    "status": "no_match",
-    "reason": "Champion juicer not found at any in-network merchant (Amazon pages are dead too).",
-    "amazon": {
-      "asins": [
-        "B000E48LHQ",
-        "B000H6UYVC"
-      ],
-      "title": "Page Not Found",
-      "anchors": [
-        "Champion Juicer",
-        "Champion juicer"
-      ],
-      "links": 2,
-      "posts": 2,
-      "example_post": "corn-nut-butter-recipe-work-in-progress"
-    },
-    "needs_web": true
+  "alternatives": [
+   {
+    "merchant": "Sur La Table",
+    "product": "Sur La Table Potato & Vegetable Ricer",
+    "url": "https://www.surlatable.com/product/sur-la-table-potato-vegetable-ricer/10232882",
+    "epc": 0.06,
+    "rate": 9,
+    "price": "$27.96",
+    "verified": true
+   }
+  ],
+  "note": "Different brand; both are heavy-duty ricers (OXO is a higher-end pick)."
+ },
+ {
+  "id": "ricotta-salata",
+  "name": "Ricotta Salata",
+  "status": "no_match",
+  "reason": "Murray's Cheese is in-network but no ricotta salata product page was found within budget; other cheese shops are not in the network.",
+  "amazon": {
+   "asins": [
+    "B0787VWCF3"
+   ],
+   "title": "Amazon.com: Mitica, Ricotta Salata : Grocery & Gourmet Food",
+   "anchors": [
+    "Ricotta salata",
+    "ricotta salata"
+   ],
+   "links": 3,
+   "posts": 3,
+   "example_post": "gnocchi-with-radicchio-leeks-and-ricotta-salata-vegetarian-recipe"
   },
-  {
-    "id": "cheesecloth",
-    "name": "Cheesecloth",
-    "status": "match",
-    "kind": "equivalent",
-    "confidence": "medium",
-    "amazon": {
-      "asins": [
-        "B08FXSD575",
-        "B0DKC8JD52"
-      ],
-      "title": "Amazon.com: Cotton Farm Grade 100 XL Cheese Cloths - Straining & More; 36x36 Inch; 100% Unbleached Cotton Cheesecloth; Reusable with Hemmed 2 Edges; Ultra-Dense (the finest) Butter Muslin: Home & Kitchen",
-      "anchors": [
-        "cheesecloth"
-      ],
-      "links": 2,
-      "posts": 2,
-      "example_post": "latkes-crispy-for-hannukah"
-    },
-    "primary": {
-      "merchant": "Sur La Table",
-      "product": "Regency Natural Ultra-Fine Cheesecloth",
-      "url": "https://www.surlatable.com/product/regency-natural-ultra-fine-cheesecloth/592121",
-      "epc": 0.06,
-      "rate": 9,
-      "price": "$5.00",
-      "verified": true
-    },
-    "alternatives": [],
-    "note": "Ultra-fine cotton cheesecloth; different brand and size from the 36x36 Grade 100 on Amazon."
+  "needs_web": true
+ },
+ {
+  "id": "ring-mold",
+  "name": "Ring Mold",
+  "status": "no_match",
+  "reason": "Sur La Table only offered an expandable cake ring, not the small 3-inch plating rings; no close equivalent found.",
+  "amazon": {
+   "asins": [
+    "B00IVFJDKY",
+    "B01IO57N0W",
+    "B0861D8DTN"
+   ],
+   "title": "Amazon.com: HULISEN 3\u201d Round Cake Ring Mold, Stainless Steel Cooking Crumpet Rings | 4 Food Forms & 1 Pusher, Dishwasher Safe, Home Cooks and Bakers, Tuna Tartare, Pancakes, Salads and Mousse : Home & Kitchen",
+   "anchors": [
+    "ring mold"
+   ],
+   "links": 3,
+   "posts": 3,
+   "example_post": "risotto-cake-with-crispy-ramps-recipe"
   },
-  {
-    "id": "chervil",
-    "name": "Chervil",
-    "status": "no_match",
-    "reason": "Dried chervil not found at Savory Spice or The Spice House within budget.",
-    "amazon": {
-      "asins": [
-        "B0DCG5973B"
-      ],
-      "title": "Amazon.com : GranAroma, Chervil Flakes, 0.28 Oz | For seasoning, garnishing, and enhancing flavor : Grocery & Gourmet Food",
-      "anchors": [
-        "chervil"
-      ],
-      "links": 2,
-      "posts": 2,
-      "example_post": "grapefruit-and-avocado-crudo"
-    },
-    "needs_web": true
+  "needs_web": true
+ },
+ {
+  "id": "sriracha-sauce",
+  "name": "Sriracha Sauce",
+  "status": "match",
+  "kind": "same",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B0014E4G0Q",
+    "B07KSMML5P"
+   ],
+   "title": "Page Not Found",
+   "anchors": [
+    "Sriracha sauce",
+    "sriracha"
+   ],
+   "links": 3,
+   "posts": 3,
+   "example_post": "kale-fried-rice-for-one-infinitely-adaptable-recipe"
   },
-  {
-    "id": "circle-cutters",
-    "name": "Circle Cutters",
-    "status": "match",
-    "kind": "equivalent",
-    "confidence": "medium",
-    "amazon": {
-      "asins": [
-        "B08BWL2TR5"
-      ],
-      "title": "Amazon.com: Bukuwa 12 Pcs Round Cookie Biscuit Cutter Set, Graduated Circle Cutters | 18/8 Stainless Steel, Pastry Cookie Cutters, Donut Cutter Ring Molds for Baking, Cooking, Gift: Home & Kitchen",
-      "anchors": [
-        "circle cutter",
-        "circle cutters"
-      ],
-      "links": 2,
-      "posts": 2,
-      "example_post": "caramelized-pea"
-    },
-    "primary": {
-      "merchant": "Sur La Table",
-      "product": "Sur La Table Round Cookie Cutters, Set of 10",
-      "url": "https://www.surlatable.com/product/sur-la-table-round-cookie-cutters-set-of-10/7314156",
-      "epc": 0.06,
-      "rate": 9,
-      "price": "$19.95",
-      "verified": true
-    },
-    "alternatives": [
-      {
-        "merchant": "Sur La Table",
-        "product": "Sur La Table Stainless Steel Round Biscuit Cutters, Set of 5",
-        "url": "https://www.surlatable.com/product/sur-la-table-stainless-steel-round-biscuit-cutters-set-of-5/674424",
-        "epc": 0.06,
-        "rate": 9,
-        "price": "$27.95",
-        "verified": true
-      }
-    ],
-    "note": "Graduated round cutter set; fewer pieces than the 12-piece Amazon set."
+  "primary": {
+   "merchant": "SayWeee.com",
+   "product": "Huy Fong Foods Sriracha Hot Chili Sauce 17 oz",
+   "url": "https://www.sayweee.com/en/product/Huy-Fong-Foods-Sriracha-Hot-Chili-Sauce-481g/79895",
+   "epc": null,
+   "rate": 10,
+   "price": "$5.99",
+   "verified": true
   },
-  {
-    "id": "cotija-cheese",
-    "name": "Cotija Cheese",
-    "status": "match",
-    "kind": "same",
-    "confidence": "medium",
-    "amazon": {
-      "asins": [
-        "B07BM98393"
-      ],
-      "title": "Amazon.com: QUESO CAMPESINO Cotija, 12 OZ : Grocery & Gourmet Food",
-      "anchors": [
-        "cotija cheese"
-      ],
-      "links": 2,
-      "posts": 2,
-      "example_post": "mexican-breakfast-torta-recipe"
-    },
-    "primary": {
-      "merchant": "Murray's Cheese",
-      "product": "Queso Campesino Cotija Round",
-      "url": "https://murrayscheese.com/dp/cotija-round",
-      "epc": 0.06,
-      "rate": 6,
-      "price": null,
-      "verified": false
-    },
-    "alternatives": [],
-    "note": "Same Queso Campesino brand as Amazon; Murray's blocks automated checks (403), URL came from search."
-  }
+  "alternatives": [],
+  "note": "Exact Huy Fong 17 oz bottle; Weee has no EPC data but is the only in-network seller found."
+ },
+ {
+  "id": "taylors-of-harrogate-lapsang-souchong-loose",
+  "name": "Taylors of Harrogate Lapsang Souchong Loose Leaf Tea",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B000MNNELC",
+    "B002JP6H2O"
+   ],
+   "title": "Amazon.com : Taylors of Harrogate Lapsang Souchong Loose Leaf Tin, 4.41 oz : Smoky Lapsang Souchong Tea : Grocery & Gourmet Food",
+   "anchors": [
+    "lapsang souchong",
+    "lapsang souchong tea"
+   ],
+   "links": 3,
+   "posts": 3,
+   "example_post": "maitake-mushrooms-in-smoky-tea-broth"
+  },
+  "primary": {
+   "merchant": "The Tea Spot",
+   "product": "Lapsang Souchong, Organic",
+   "url": "https://www.theteaspot.com/products/lapsang-souchong-black-tea",
+   "epc": 0.57,
+   "rate": 15,
+   "price": "$4.00",
+   "verified": true
+  },
+  "alternatives": [
+   {
+    "merchant": "Jing Tea",
+    "product": "Cherrywood Lapsang",
+    "url": "https://www.jingtea.com/products/cherrywood-lapsang-loose-tea",
+    "epc": 0.52,
+    "rate": 7.5,
+    "price": "$20.40",
+    "verified": true
+   }
+  ],
+  "note": "Different brand (Taylors is not sold in-network); a loose-leaf smoky lapsang. Price shown is likely the smallest size."
+ },
+ {
+  "id": "ancho-guajillo-pasilla-cascabel-de-arbol",
+  "name": "Ancho, Guajillo, Pasilla, Cascabel, de Arbol, ...",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "low",
+  "amazon": {
+   "asins": [
+    "B07BZW6DSC"
+   ],
+   "title": "Amazon.com : Dried Chile Peppers Variety 3x4oz Ancho Guajillo Pasilla Mexican Chili | Ancho: sweet smoky. Guajillo: fruity. Pasilla: earthy tangy. Whole pods for mole, birria & tamales. Resealable bulk bag. : Grocery & Gourmet Food",
+   "anchors": [
+    "ancho, guajillo, pasilla, cascabel, de arbol, ...",
+    "whole dried chili peppers"
+   ],
+   "links": 2,
+   "posts": 1,
+   "example_post": "vegetarian-chili-recipe"
+  },
+  "primary": {
+   "merchant": "Savory Spice Shop",
+   "product": "Ancho Chile Powder",
+   "url": "https://www.savoryspiceshop.com/products/ancho-chile-powder",
+   "epc": 0.33,
+   "rate": 15,
+   "price": "$10.50",
+   "verified": true
+  },
+  "alternatives": [
+   {
+    "merchant": "Savory Spice Shop",
+    "product": "Guajillo Chile Powder",
+    "url": "https://www.savoryspiceshop.com/products/guajillo-chile-powder",
+    "epc": 0.33,
+    "rate": 15,
+    "price": "$9.50",
+    "verified": true
+   }
+  ],
+  "note": "No whole dried pods found in-network; these are ground versions, so only a loose substitute."
+ },
+ {
+  "id": "beaterblade-for-kitchenaid-tilt-head-bowl-lift",
+  "name": "BeaterBlade for KitchenAid Tilt-Head & Bowl-Lift Mixers",
+  "status": "no_match",
+  "reason": "BeaterBlade and the Ateco 1305 offset spatula were not found at any in-network merchant.",
+  "amazon": {
+   "asins": [
+    "B001F29N50",
+    "B07MJL6FPC"
+   ],
+   "title": "Page Not Found",
+   "anchors": [
+    "BeaterBlade for KitchenAid Tilt-Head &amp",
+    "Bowl-Lift Mixers",
+    "the Ateco model"
+   ],
+   "links": 2,
+   "posts": 2,
+   "example_post": "stop-scraping-your-stand-mixer-bowl"
+  },
+  "needs_web": true
+ },
+ {
+  "id": "blowtorch",
+  "name": "Blowtorch",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B01LYN1C7P",
+    "B07RKVHJH6"
+   ],
+   "title": "Page Not Found",
+   "anchors": [
+    "blowtorch"
+   ],
+   "links": 2,
+   "posts": 2,
+   "example_post": "crostini-with-young-pecorino-grilled-figs-and-arugula-mint-pesto-recipe"
+  },
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "Sur La Table Kitchen Torch",
+   "url": "https://www.surlatable.com/product/sur-la-table-kitchen-torch/7277262",
+   "epc": 0.06,
+   "rate": 9,
+   "price": "$69.95",
+   "verified": true
+  },
+  "alternatives": [
+   {
+    "merchant": "Sur La Table",
+    "product": "Messermeister Chef's Torch",
+    "url": "https://www.surlatable.com/product/chefs-torch/150128",
+    "epc": 0.06,
+    "rate": 9,
+    "price": "$89.95",
+    "verified": true
+   }
+  ],
+  "note": "Refillable butane culinary torch; pricier than the Amazon Kollea."
+ },
+ {
+  "id": "champion-juicer",
+  "name": "Champion Juicer",
+  "status": "no_match",
+  "reason": "Champion juicer not found at any in-network merchant (Amazon pages are dead too).",
+  "amazon": {
+   "asins": [
+    "B000E48LHQ",
+    "B000H6UYVC"
+   ],
+   "title": "Page Not Found",
+   "anchors": [
+    "Champion Juicer",
+    "Champion juicer"
+   ],
+   "links": 2,
+   "posts": 2,
+   "example_post": "corn-nut-butter-recipe-work-in-progress"
+  },
+  "needs_web": true
+ },
+ {
+  "id": "cheesecloth",
+  "name": "Cheesecloth",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B08FXSD575",
+    "B0DKC8JD52"
+   ],
+   "title": "Amazon.com: Cotton Farm Grade 100 XL Cheese Cloths - Straining & More; 36x36 Inch; 100% Unbleached Cotton Cheesecloth; Reusable with Hemmed 2 Edges; Ultra-Dense (the finest) Butter Muslin: Home & Kitchen",
+   "anchors": [
+    "cheesecloth"
+   ],
+   "links": 2,
+   "posts": 2,
+   "example_post": "latkes-crispy-for-hannukah"
+  },
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "Regency Natural Ultra-Fine Cheesecloth",
+   "url": "https://www.surlatable.com/product/regency-natural-ultra-fine-cheesecloth/592121",
+   "epc": 0.06,
+   "rate": 9,
+   "price": "$5.00",
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Ultra-fine cotton cheesecloth; different brand and size from the 36x36 Grade 100 on Amazon."
+ },
+ {
+  "id": "chervil",
+  "name": "Chervil",
+  "status": "no_match",
+  "reason": "Dried chervil not found at Savory Spice or The Spice House within budget.",
+  "amazon": {
+   "asins": [
+    "B0DCG5973B"
+   ],
+   "title": "Amazon.com : GranAroma, Chervil Flakes, 0.28 Oz | For seasoning, garnishing, and enhancing flavor : Grocery & Gourmet Food",
+   "anchors": [
+    "chervil"
+   ],
+   "links": 2,
+   "posts": 2,
+   "example_post": "grapefruit-and-avocado-crudo"
+  },
+  "needs_web": true
+ },
+ {
+  "id": "circle-cutters",
+  "name": "Circle Cutters",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B08BWL2TR5"
+   ],
+   "title": "Amazon.com: Bukuwa 12 Pcs Round Cookie Biscuit Cutter Set, Graduated Circle Cutters | 18/8 Stainless Steel, Pastry Cookie Cutters, Donut Cutter Ring Molds for Baking, Cooking, Gift: Home & Kitchen",
+   "anchors": [
+    "circle cutter",
+    "circle cutters"
+   ],
+   "links": 2,
+   "posts": 2,
+   "example_post": "caramelized-pea"
+  },
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "Sur La Table Round Cookie Cutters, Set of 10",
+   "url": "https://www.surlatable.com/product/sur-la-table-round-cookie-cutters-set-of-10/7314156",
+   "epc": 0.06,
+   "rate": 9,
+   "price": "$19.95",
+   "verified": true
+  },
+  "alternatives": [
+   {
+    "merchant": "Sur La Table",
+    "product": "Sur La Table Stainless Steel Round Biscuit Cutters, Set of 5",
+    "url": "https://www.surlatable.com/product/sur-la-table-stainless-steel-round-biscuit-cutters-set-of-5/674424",
+    "epc": 0.06,
+    "rate": 9,
+    "price": "$27.95",
+    "verified": true
+   }
+  ],
+  "note": "Graduated round cutter set; fewer pieces than the 12-piece Amazon set."
+ },
+ {
+  "id": "cotija-cheese",
+  "name": "Cotija Cheese",
+  "status": "match",
+  "kind": "same",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B07BM98393"
+   ],
+   "title": "Amazon.com: QUESO CAMPESINO Cotija, 12 OZ : Grocery & Gourmet Food",
+   "anchors": [
+    "cotija cheese"
+   ],
+   "links": 2,
+   "posts": 2,
+   "example_post": "mexican-breakfast-torta-recipe"
+  },
+  "primary": {
+   "merchant": "Murray's Cheese",
+   "product": "Queso Campesino Cotija Round",
+   "url": "https://murrayscheese.com/dp/cotija-round",
+   "epc": 0.06,
+   "rate": 6,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser"
+  },
+  "alternatives": [],
+  "note": "Same Queso Campesino brand as Amazon; Murray's blocks automated checks (403), URL came from search."
+ }
 ]

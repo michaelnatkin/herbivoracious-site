@@ -360,11 +360,12 @@
   "andrea-nguyen-s-book-asian-tofu": {
     "name": "Andrea Nguyen's Book, Asian Tofu",
     "category": "books",
-    "url": "https://www.amazon.com/dp/1607740257?tag=herb-hugo-20",
+    "url": "https://www.barnesandnoble.com/w/asian-tofu-andrea-nguyen/1102839266",
     "original_url": "https://www.amazon.com/dp/1607740257?tag=herb-hugo-20",
     "asins": [
       "1607740257"
-    ]
+    ],
+    "merchant": "Barnes & Noble"
   },
   "animal-vegetable-miracle": {
     "name": "Animal, Vegetable, Miracle",
@@ -657,12 +658,13 @@
   },
   "bill-buford": {
     "name": "Bill Buford",
-    "url": "https://www.amazon.com/dp/1400034477?tag=herb-hugo-20",
+    "url": "https://www.barnesandnoble.com/w/heat-bill-buford/1100991561?ean=9781400034475",
     "original_url": "https://www.amazon.com/dp/1400034477?tag=herb-hugo-20",
     "asins": [
       "1400034477"
     ],
-    "hidden": true
+    "hidden": true,
+    "merchant": "Barnes & Noble"
   },
   "bittersweet-chocolate": {
     "name": "Bittersweet Chocolate",
@@ -781,11 +783,12 @@
   "bob-s-red-mill": {
     "name": "Bob's Red Mill",
     "category": "grains-pasta-legumes",
-    "url": "https://www.amazon.com/dp/B075XC6C69?tag=herb-hugo-20",
+    "url": "https://www.iherb.com/pr/bob-s-red-mill-organic-golden-flaxseed-meal-16-oz-453-g/77011",
     "original_url": "https://www.amazon.com/dp/B075XC6C69?tag=herb-hugo-20",
     "asins": [
       "B075XC6C69"
-    ]
+    ],
+    "merchant": "iHerb.com"
   },
   "bob-s-red-mill-gluten-free-rice-flour-1-5-lb": {
     "name": "Bob's Red Mill Gluten Free Rice Flour, 1.5 lb",
@@ -1440,11 +1443,12 @@
   "crackers-dips-more-than-50-handmade-snacks": {
     "name": "Crackers & Dips: More Than 50 Handmade Snacks",
     "category": "books",
-    "url": "https://www.amazon.com/dp/1452109508?tag=herb-hugo-20",
+    "url": "https://www.barnesandnoble.com/w/crackers-dips-ivy-manning/1114034111",
     "original_url": "https://www.amazon.com/dp/1452109508?tag=herb-hugo-20",
     "asins": [
       "1452109508"
-    ]
+    ],
+    "merchant": "Barnes & Noble"
   },
   "craft": {
     "name": "Craft",
@@ -1477,11 +1481,12 @@
   "culinary-artistry": {
     "name": "Culinary Artistry",
     "category": "books",
-    "url": "https://www.amazon.com/dp/0471287857?tag=herb-hugo-20",
+    "url": "https://www.barnesandnoble.com/w/culinary-artistry-andrew-dornenburg/1102591823",
     "original_url": "https://www.amazon.com/dp/0471287857?tag=herb-hugo-20",
     "asins": [
       "0471287857"
-    ]
+    ],
+    "merchant": "Barnes & Noble"
   },
   "currants": {
     "name": "Currants",
@@ -1663,11 +1668,12 @@
   "doughnuts-simple-and-delicious-recipes-to-make": {
     "name": "Doughnuts: Simple and Delicious Recipes to Make at Home",
     "category": "books",
-    "url": "https://www.amazon.com/dp/1570616418?tag=herb-hugo-20",
+    "url": "https://www.barnesandnoble.com/w/doughnuts-lara-ferroni/1127085451",
     "original_url": "https://www.amazon.com/dp/1570616418?tag=herb-hugo-20",
     "asins": [
       "1570616418"
-    ]
+    ],
+    "merchant": "Barnes & Noble"
   },
   "dried-aji-amarillo-pepper-2-oz": {
     "name": "Dried Aji Amarillo Pepper, 2 oz",
@@ -3051,11 +3057,12 @@
   "kitchenaid-mixer": {
     "name": "KitchenAid Mixer",
     "category": "cookware-appliances",
-    "url": "https://www.amazon.com/dp/B003OXNBYC?tag=herb-hugo-20",
+    "url": "https://www.kitchenaid.com/p.K45SSOB.html",
     "original_url": "https://www.amazon.com/dp/B003OXNBYC?tag=herb-hugo-20",
     "asins": [
       "B003OXNBYC"
-    ]
+    ],
+    "merchant": "Kitchenaid US"
   },
   "kitchenaid-pasta-extruder-attachment": {
     "name": "KitchenAid Pasta Extruder Attachment",
@@ -3488,12 +3495,13 @@
   "mexican-everyday": {
     "name": "Mexican Everyday",
     "category": "books",
-    "url": "https://www.amazon.com/dp/039306154X?tag=herb-hugo-20",
+    "url": "https://www.barnesandnoble.com/w/mexican-everyday-rick-bayless/1100872034?ean=9780393061543",
     "original_url": "https://www.amazon.com/dp/039306154X?tag=herb-hugo-20",
     "asins": [
       "039306154X",
       "068484186X"
-    ]
+    ],
+    "merchant": "Barnes & Noble"
   },
   "mexican-oregano": {
     "name": "Mexican Oregano",
@@ -4175,12 +4183,13 @@
   "potato-masher": {
     "name": "Potato Masher",
     "category": "kitchen-gadgets",
-    "url": "https://www.amazon.com/dp/B00004OCL9?tag=herb-hugo-20",
+    "url": "https://www.oxo.com/wire-potato-masher.html",
     "original_url": "https://www.amazon.com/dp/B00004OCL9?tag=herb-hugo-20",
     "asins": [
       "B00004OCL9",
       "B002JG8ETC"
-    ]
+    ],
+    "merchant": "OXO"
   },
   "pre-packaged-version": {
     "name": "Pre-Packaged Version",
@@ -5819,12 +5828,13 @@
   "what-to-drink-with-what-you-eat": {
     "name": "What to Drink with What You Eat",
     "category": "books",
-    "url": "https://www.amazon.com/dp/0821257188?tag=herb-hugo-20",
+    "url": "https://www.barnesandnoble.com/w/what-to-drink-with-what-you-eat-andrew-dornenburg/1012382733?ean=9780821257180",
     "original_url": "https://www.amazon.com/dp/0821257188?tag=herb-hugo-20",
     "asins": [
       "0316118400",
       "0821257188"
-    ]
+    ],
+    "merchant": "Barnes & Noble"
   },
   "wheat-berries": {
     "name": "Wheat Berries",

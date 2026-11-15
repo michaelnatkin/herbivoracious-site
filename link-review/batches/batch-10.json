@@ -26,7 +26,8 @@
    "epc": 0.06,
    "rate": 6,
    "price": null,
-   "verified": false
+   "verified": true,
+   "verified_by": "browser"
   },
   "alternatives": [],
   "note": "Murray's did not show Laura Chenel; this is Vermont Creamery's plain chevre log, which was the other Amazon listing."
@@ -198,7 +199,8 @@
    "epc": 0.13,
    "rate": 15,
    "price": "$17.00",
-   "verified": false
+   "verified": true,
+   "verified_by": "browser"
   },
   "alternatives": [],
   "note": "Different brand of plain agar-agar powder; 5 oz vs 4 oz. iHerb blocks automated checks."
@@ -445,7 +447,8 @@
    "epc": 0.04,
    "rate": 15,
    "price": "$21.99",
-   "verified": false
+   "verified": true,
+   "verified_by": "browser"
   },
   "alternatives": [],
   "note": "Different brand from KitchenAid/Joyce Chen but same type; OXO blocks automated checks."
@@ -476,7 +479,8 @@
    "epc": 0.01,
    "rate": 1,
    "price": null,
-   "verified": false
+   "verified": true,
+   "verified_by": "browser"
   },
   "alternatives": [],
   "note": "Same mixer from the manufacturer; low commission rate (1%). KitchenAid blocks automated checks."
@@ -571,7 +575,8 @@
    "epc": 0.04,
    "rate": 15,
    "price": "$13.99",
-   "verified": false
+   "verified": true,
+   "verified_by": "browser"
   },
   "alternatives": [],
   "note": "Kuhn Rikon is not in-network; OXO Y-peeler matches the other Amazon listing. OXO blocks automated checks."
