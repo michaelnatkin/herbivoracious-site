@@ -1,0 +1,30 @@
+[
+ {
+  "id": "chanterelle-mushrooms",
+  "name": "Chanterelle Mushrooms",
+  "current_amazon_url": "https://www.amazon.com/dp/B0BK2VSP7N?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com: Forest Food Shop Dried Chanterelle Mushrooms 3 Ounce \u2013 Handpicked from Wild Forests, Air-Dried Mushrooms, Sourced by a Small Family Business, Ideal for Cooking and Gourmet Recipes. : Grocery & Gourmet Food",
+   "Amazon.com: Mushroom House Whole Dried Shiitake Mushrooms, Rich Umami Flavor, 16 oz | Premium whole shiitakes with bold umami flavor; rehydrate for ramen, soups, stir-fries, risotto, sauces and hot pots. : Grocery & Gourmet Food"
+  ],
+  "anchors": [
+   "chanterelle",
+   "chanterelle mushrooms",
+   "chanterelles",
+   "dried shiitake mushrooms"
+  ],
+  "asins": [
+   "B007RAM3VK",
+   "B0BK2VSP7N"
+  ],
+  "links": 4,
+  "posts": 4,
+  "example_post": "recipe-leftover",
+  "owner_note": "Owner rejected the fresh SayWeee chanterelles: find DRIED chanterelles.",
+  "search_terms": [
+   "dried chanterelle",
+   "chanterelle mushrooms"
+  ]
+ }
+]

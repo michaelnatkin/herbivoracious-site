@@ -1,0 +1,30 @@
+[
+ {
+  "id": "shaved-black-truffle",
+  "name": "shaved black truffle",
+  "current_amazon_url": "https://www.amazon.com/dp/B000M8O0ME?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [],
+  "asins": [
+   "B000M8O0ME"
+  ],
+  "links": 0,
+  "posts": 0,
+  "example_post": ""
+ },
+ {
+  "id": "truffle-oil-2",
+  "name": "truffle oil",
+  "current_amazon_url": "https://www.amazon.com/dp/B0BDJ79T97?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [],
+  "asins": [
+   "B0BDJ79T97"
+  ],
+  "links": 0,
+  "posts": 0,
+  "example_post": ""
+ }
+]

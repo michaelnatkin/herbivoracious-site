@@ -1,0 +1,324 @@
+[
+ {
+  "id": "magnetic-block",
+  "name": "Magnetic Block",
+  "current_amazon_url": "https://www.amazon.com/dp/B0BV6B6QY3?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "magnetic block"
+  ],
+  "asins": [
+   "B0BV6B6QY3"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "knives-for-the"
+ },
+ {
+  "id": "malic-acid",
+  "name": "Malic Acid",
+  "current_amazon_url": "https://www.amazon.com/dp/B00D4SBI3I?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "malic acid"
+  ],
+  "asins": [
+   "B00D4SBI3I"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "fruit-salad"
+ },
+ {
+  "id": "manchego",
+  "name": "Manchego",
+  "current_amazon_url": "https://www.amazon.com/dp/B075JN8RCZ?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "manchego"
+  ],
+  "asins": [
+   "B075JN8RCZ"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "holiday-shopping-for-gourmets-or-gourmands-chefshopcom"
+ },
+ {
+  "id": "mandarin-olive-oil",
+  "name": "Mandarin Olive Oil",
+  "current_amazon_url": "https://www.amazon.com/dp/B093KF9DSQ?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "Mandarin olive oil"
+  ],
+  "asins": [
+   "B093KF9DSQ"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "when-it-all-goes-wrong-making-your-food-pop-part-3andahalf"
+ },
+ {
+  "id": "maple",
+  "name": "maple",
+  "current_amazon_url": "https://www.amazon.com/dp/B00E1DFU52?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "maple"
+  ],
+  "asins": [
+   "B00E1DFU52"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "maple-pudding-with-spiced-pecans-video-recipe"
+ },
+ {
+  "id": "marcona-almonds",
+  "name": "Marcona Almonds",
+  "current_amazon_url": "https://www.amazon.com/dp/B0DYDFVG12?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "marcona almonds"
+  ],
+  "asins": [
+   "B0DYDFVG12"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "review-360-roun"
+ },
+ {
+  "id": "marieke-aged-gouda-cheese-16-oz",
+  "name": "Marieke Aged Gouda Cheese (16 Oz)",
+  "current_amazon_url": "https://www.amazon.com/dp/B00HYMWPRS?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "aged gouda"
+  ],
+  "asins": [
+   "B00HYMWPRS"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "pear-and-gouda-salad-recipe"
+ },
+ {
+  "id": "marmite",
+  "name": "Marmite",
+  "current_amazon_url": "https://www.amazon.com/dp/B00014VTNW?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "marmite"
+  ],
+  "asins": [
+   "B00014VTNW"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "umami-packed-vegetarian-broth-recipe-also-vegan"
+ },
+ {
+  "id": "marsala-wine",
+  "name": "Marsala Wine",
+  "current_amazon_url": "https://www.amazon.com/dp/B00E0N8CB2?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "Marsala wine"
+  ],
+  "asins": [
+   "B00E0N8CB2"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "zabaglione-with-roasted-plums-recipe"
+ },
+ {
+  "id": "mccutcheon-s-home-recipe-apple-butter",
+  "name": "McCutcheon's Home Recipe Apple Butter",
+  "current_amazon_url": "https://www.amazon.com/dp/B001NH57LQ?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "apple butter"
+  ],
+  "asins": [
+   "B001NH57LQ"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "cheddar-and-apple-butter-panini-with-rosemary-candied-pecans-guest-recipe-from-kathy-strahs-of-panini-happy"
+ },
+ {
+  "id": "metal-honing-steel",
+  "name": "Metal Honing Steel",
+  "current_amazon_url": "https://www.amazon.com/dp/B071FC4GYN?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "metal honing steel"
+  ],
+  "asins": [
+   "B071FC4GYN"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "sharpening-steels-kitchen-tools-hand-tools"
+ },
+ {
+  "id": "mexican-chiles-3-pack-guajillo-ancho-and",
+  "name": "Mexican Chiles 3 Pack - Guajillo, Ancho and Pasilla Dried Whole Peppers",
+  "current_amazon_url": "https://www.amazon.com/dp/B08GYPQRSW?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "guajillo chilis"
+  ],
+  "asins": [
+   "B08GYPQRSW"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "vegetarian-pozole-de-frijol-quick-and-hearty-soup-with-hominy-and-pinto-beans-recipe"
+ },
+ {
+  "id": "mirin",
+  "name": "mirin",
+  "current_amazon_url": "https://www.amazon.com/dp/B000QSTJTE?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "mirin"
+  ],
+  "asins": [
+   "B000QSTJTE"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "asparagus-with-nori-butter-recipe"
+ },
+ {
+  "id": "mirin-2",
+  "name": "mirin",
+  "current_amazon_url": "https://www.amazon.com/dp/B0BWGLQ4MT?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "mirin"
+  ],
+  "asins": [
+   "B0BWGLQ4MT"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "bibim-naegnmyeon-joll-noodles-cold-and-spicy-korean-noodles-recipe"
+ },
+ {
+  "id": "mission-street-food-recipes-and-ideas-from-an",
+  "name": "Mission Street Food: Recipes and Ideas from an Improbable Restaurant",
+  "current_amazon_url": "https://www.amazon.com/dp/1936365154?tag=herb-hugo-20",
+  "is_book": true,
+  "amazon_titles": [
+   "Mission Street Food: Recipes and Ideas from an Improbable Restaurant: Myint, Anthony, Leibowitz, Karen: 9781936365159: Amazon.com: Books"
+  ],
+  "anchors": [
+   "Mission Street Food: Recipes and Ideas from an Improbable Restaurant"
+  ],
+  "asins": [
+   "1936365154"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "mission-chinese-style-tofu-with-radish-and-shiso-recipe"
+ },
+ {
+  "id": "miu-france-stainless-steel-magnetic-knife-holder",
+  "name": "MIU France Stainless Steel Magnetic Knife Holder",
+  "current_amazon_url": "https://www.amazon.com/dp/B0006IVY7E?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "MIU France Stainless Steel Magnetic Knife Holder"
+  ],
+  "asins": [
+   "B0006IVY7E"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "chefs-knife-kitchen-tools-hand-tools"
+ },
+ {
+  "id": "model-from-gir",
+  "name": "Model from GIR",
+  "current_amazon_url": "https://www.amazon.com/dp/B00BJT61FE?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "model from GIR"
+  ],
+  "asins": [
+   "B00BJT61FE"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "heatproof-silicone-spatulas"
+ },
+ {
+  "id": "modernist-cuisine",
+  "name": "Modernist Cuisine",
+  "current_amazon_url": "https://www.amazon.com/dp/1734386142?tag=herb-hugo-20",
+  "is_book": true,
+  "amazon_titles": [],
+  "anchors": [
+   "Modernist Cuisine"
+  ],
+  "asins": [
+   "1734386142"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "vegetarian-frijoles-charros-mexican-cowboy-beans-with-smoked-onion-recipe"
+ },
+ {
+  "id": "moosewood",
+  "name": "Moosewood",
+  "current_amazon_url": "https://www.amazon.com/dp/1607747391?tag=herb-hugo-20",
+  "is_book": true,
+  "amazon_titles": [],
+  "anchors": [
+   "Moosewood"
+  ],
+  "asins": [
+   "1607747391"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "introduction-to"
+ },
+ {
+  "id": "morimoto-the-new-art-of-japanese-cooking",
+  "name": "Morimoto: the New Art of Japanese Cooking",
+  "current_amazon_url": "https://www.amazon.com/dp/0756631238?tag=herb-hugo-20",
+  "is_book": true,
+  "amazon_titles": [],
+  "anchors": [
+   "Morimoto: The New Art of Japanese Cooking"
+  ],
+  "asins": [
+   "0756631238"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "lychee-tempura"
+ }
+]

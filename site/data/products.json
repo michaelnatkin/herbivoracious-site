@@ -2,11 +2,12 @@
   "00-double-zero-flour": {
     "name": "00 (double-Zero) Flour",
     "category": "grains-pasta-legumes",
-    "url": "https://www.amazon.com/dp/B005HEEFN2?tag=herb-hugo-20",
+    "url": "https://shop.kingarthurbaking.com/items/00-pizza-flour",
     "original_url": "https://www.amazon.com/dp/B005HEEFN2?tag=herb-hugo-20",
     "asins": [
       "B005HEEFN2"
-    ]
+    ],
+    "merchant": "King Arthur Baking"
   },
   "45-milk-chocolate": {
     "name": "45% Milk Chocolate",
@@ -41,11 +42,12 @@
   "6-cake-ring": {
     "name": "6\" Cake Ring",
     "category": "bakeware-tools",
-    "url": "https://www.amazon.com/dp/B000GBK2MO?tag=herb-hugo-20",
+    "url": "https://www.surlatable.com/product/ateco-expandable-cake-ring/7896012",
     "original_url": "https://www.amazon.com/dp/B000GBK2MO?tag=herb-hugo-20",
     "asins": [
       "B000GBK2MO"
-    ]
+    ],
+    "merchant": "Sur La Table"
   },
   "7-piece-nylon-and-wooden-utensil": {
     "name": "7 piece nylon and wooden utensil",
@@ -59,47 +61,52 @@
   "8-chef-s-knife": {
     "name": "8\" Chef's Knife",
     "category": "knives-sharpening",
-    "url": "https://www.amazon.com/dp/B000PS2XI4?tag=herb-hugo-20",
+    "url": "https://www.restaurantsupply.com/mercer-culinary-m22608-millennia-8-high-carbon-japanese-steel-chef-knife-with-black-santoprene-handle",
     "original_url": "https://www.amazon.com/dp/B000PS2XI4?tag=herb-hugo-20",
     "asins": [
       "B000PS2XI4"
-    ]
+    ],
+    "merchant": "Restaurant Supply"
   },
   "8-piece-unison-non-stick-cookware-set": {
     "name": "8 piece Unison non-stick cookware set",
-    "url": "https://www.amazon.com/dp/B0028SEOOU?tag=herb-hugo-20",
+    "url": "https://www.kohls.com/product/prd-1826965/Calphalon-Unison-8-pc-Nonstick-Hard-Anodized-Cookware-Set.jsp",
     "original_url": "https://www.amazon.com/dp/B0028SEOOU?tag=herb-hugo-20",
     "asins": [
       "B0028SEOOU"
     ],
-    "hidden": true
+    "hidden": true,
+    "merchant": "Kohl's"
   },
   "91-costa-rica-bar": {
     "name": "91% Costa Rica Bar",
     "category": "sweeteners-chocolate",
-    "url": "https://www.amazon.com/dp/B07WF9KJSK?tag=herb-hugo-20",
+    "url": "https://thrivemarket.com/brand/theo-chocolate",
     "original_url": "https://www.amazon.com/dp/B07WF9KJSK?tag=herb-hugo-20",
     "asins": [
       "B07WF9KJSK"
-    ]
+    ],
+    "merchant": "Thrive Market"
   },
   "9x13-casserole": {
     "name": "9x13 Casserole",
     "category": "bakeware-tools",
-    "url": "https://www.amazon.com/dp/B09ZLT4FZJ?tag=herb-hugo-20",
+    "url": "https://www.kohls.com/product/prd-6289667/pyrex-9-x-13-deep-glass-baking-dish-with-glass-lid.jsp",
     "original_url": "https://www.amazon.com/dp/B09ZLT4FZJ?tag=herb-hugo-20",
     "asins": [
       "B09ZLT4FZJ"
-    ]
+    ],
+    "merchant": "Kohl's"
   },
   "a-set-like-this-that-has-covers": {
     "name": "a set like this that has covers",
-    "url": "https://www.amazon.com/dp/B001HIAD2Y?tag=herb-hugo-20",
+    "url": "https://www.instacart.com/store/products/372728-anchor-hocking-custard-cups-with-lids-6-ounces-8-ea",
     "original_url": "https://www.amazon.com/dp/B001HIAD2Y?tag=herb-hugo-20",
     "asins": [
       "B001HIAD2Y"
     ],
-    "hidden": true
+    "hidden": true,
+    "merchant": "Instacart"
   },
   "abc-kecap-manis-indonesian-special-sweet-soy": {
     "name": "ABC Kecap Manis Indonesian Special Sweet Soy Sauce",
@@ -116,11 +123,12 @@
   "acetoria-sour-cherry-vinegar": {
     "name": "Acetoria Sour Cherry Vinegar",
     "category": "oils-vinegars",
-    "url": "https://www.amazon.com/dp/B0012S5LQ2?tag=herb-hugo-20",
+    "url": "https://chefshop.com/products/acetoria-sour-cherry-vinegar",
     "original_url": "https://www.amazon.com/dp/B0012S5LQ2?tag=herb-hugo-20",
     "asins": [
       "B0012S5LQ2"
-    ]
+    ],
+    "merchant": "ChefShop.com"
   },
   "activa-rm-transglutaminase": {
     "name": "Activa RM Transglutaminase",
@@ -143,11 +151,12 @@
   "agar-agar-powder": {
     "name": "Agar Agar Powder",
     "category": "pantry-staples",
-    "url": "https://www.amazon.com/dp/B007PJAOG4?tag=herb-hugo-20",
+    "url": "https://www.iherb.com/pr/now-foods-agar-powder-5-oz-142-g/77859",
     "original_url": "https://www.amazon.com/dp/B007PJAOG4?tag=herb-hugo-20",
     "asins": [
       "B007PJAOG4"
-    ]
+    ],
+    "merchant": "iHerb.com"
   },
   "agave-nectar": {
     "name": "Agave Nectar",
@@ -364,12 +373,13 @@
   "anthony-s-organic-buckwheat-flour-3-lb": {
     "name": "Anthony's Organic Buckwheat Flour, 3 lb",
     "category": "grains-pasta-legumes",
-    "url": "https://www.amazon.com/dp/B01EIQROUA?tag=herb-hugo-20",
+    "url": "https://nuts.com/products/buckwheat-flour",
     "original_url": "https://www.amazon.com/dp/B01EIQROUA?tag=herb-hugo-20",
     "asins": [
       "B01EIQROUA",
       "B07XB35PWL"
-    ]
+    ],
+    "merchant": "Nuts.com"
   },
   "arborio-rice": {
     "name": "Arborio Rice",
@@ -527,11 +537,12 @@
   "basmati-rice": {
     "name": "Basmati Rice",
     "category": "grains-pasta-legumes",
-    "url": "https://www.amazon.com/dp/B00I330QEQ?tag=herb-hugo-20",
+    "url": "https://thrivemarket.com/p/thrive-market-organic-white-basmati-rice",
     "original_url": "https://www.amazon.com/dp/B00I330QEQ?tag=herb-hugo-20",
     "asins": [
       "B00I330QEQ"
-    ]
+    ],
+    "merchant": "Thrive Market"
   },
   "batchelors-bigga-dried-marrowfat-peas-250g": {
     "name": "Batchelors Bigga Dried Marrowfat Peas 250g",
@@ -767,23 +778,25 @@
   "bob-s-red-mill-gluten-free-rice-flour-1-5-lb": {
     "name": "Bob's Red Mill Gluten Free Rice Flour, 1.5 lb",
     "category": "grains-pasta-legumes",
-    "url": "https://www.amazon.com/dp/B0019GZ7YI?tag=herb-hugo-20",
+    "url": "https://thrivemarket.com/p/bobs-red-mill-white-rice-flour",
     "original_url": "https://www.amazon.com/dp/B0019GZ7YI?tag=herb-hugo-20",
     "asins": [
       "B0019GZ7YI",
       "B00ROPFZ9A",
       "B089MNX6ML"
-    ]
+    ],
+    "merchant": "Thrive Market"
   },
   "bob-s-red-mill-medium-grind-cornmeal-24-oz": {
     "name": "Bob's Red Mill Medium Grind Cornmeal, 24 oz",
     "category": "grains-pasta-legumes",
-    "url": "https://www.amazon.com/dp/B0842TT35H?tag=herb-hugo-20",
+    "url": "https://thrivemarket.com/p/bobs-red-mill-cornmeal-organic-medium-grind",
     "original_url": "https://www.amazon.com/dp/B0842TT35H?tag=herb-hugo-20",
     "asins": [
       "B00U9W4R3K",
       "B0842TT35H"
-    ]
+    ],
+    "merchant": "Thrive Market"
   },
   "bourbon-barrel-maple-syrup": {
     "name": "Bourbon-Barrel Maple Syrup",
@@ -816,13 +829,14 @@
   "brown-miso": {
     "name": "Brown Miso",
     "category": "asian-pantry",
-    "url": "https://www.amazon.com/dp/B00TBC0HU6?tag=herb-hugo-20",
+    "url": "https://thrivemarket.com/p/thrive-market-organic-brown-miso-paste",
     "original_url": "https://www.amazon.com/dp/B00TBC0HU6?tag=herb-hugo-20",
     "asins": [
       "B004QYW7UW",
       "B00FBSST9K",
       "B00TBC0HU6"
-    ]
+    ],
+    "merchant": "Thrive Market"
   },
   "brown-or-green-lentils": {
     "name": "Brown or Green Lentils",
@@ -2722,11 +2736,12 @@
   "ideas-in-food-great-recipes-and-why-they-work": {
     "name": "Ideas in Food: Great Recipes and Why They Work",
     "category": "books",
-    "url": "https://www.amazon.com/dp/0307717402?tag=herb-hugo-20",
+    "url": "https://www.barnesandnoble.com/w/ideas-in-food-aki-kamozawa/1138792701",
     "original_url": "https://www.amazon.com/dp/0307717402?tag=herb-hugo-20",
     "asins": [
       "0307717402"
-    ]
+    ],
+    "merchant": "Barnes & Noble"
   },
   "immersion-blender": {
     "name": "Immersion Blender",
@@ -2828,12 +2843,13 @@
   "jerusalem-a-cookbook-by-ottolenghi-tamimi": {
     "name": "Jerusalem: a Cookbook by Ottolenghi & Tamimi",
     "category": "books",
-    "url": "https://www.amazon.com/dp/1607743949?tag=herb-hugo-20",
+    "url": "https://www.barnesandnoble.com/w/jerusalem-yotam-ottolenghi/1110873049",
     "original_url": "https://www.amazon.com/dp/1607743949?tag=herb-hugo-20",
     "asins": [
       "0982761007",
       "1607743949"
-    ]
+    ],
+    "merchant": "Barnes & Noble"
   },
   "joy-of-cooking": {
     "name": "Joy of Cooking",
@@ -3623,12 +3639,13 @@
   "muir-glen-fire-roasted-diced-tomatoes": {
     "name": "Muir Glen Fire Roasted Diced Tomatoes",
     "category": "pantry-staples",
-    "url": "https://www.amazon.com/dp/B01D1THP9K?tag=herb-hugo-20",
+    "url": "https://thrivemarket.com/p/muir-glen-organic-diced-fire-roasted-tomatoes-14-5-ounce-can",
     "original_url": "https://www.amazon.com/dp/B01D1THP9K?tag=herb-hugo-20",
     "asins": [
       "B000WCZNR6",
       "B01D1THP9K"
-    ]
+    ],
+    "merchant": "Thrive Market"
   },
   "muscovado-sugar": {
     "name": "Muscovado Sugar",
@@ -3642,11 +3659,12 @@
   "mustard-oil": {
     "name": "Mustard Oil",
     "category": "middle-eastern-indian-pantry",
-    "url": "https://www.amazon.com/dp/B08W4PP6W2?tag=herb-hugo-20",
+    "url": "https://www.iherb.com/pr/pure-indian-foods-organic-cold-pressed-virgin-mustard-seed-oil-250-ml/79307",
     "original_url": "https://www.amazon.com/dp/B08W4PP6W2?tag=herb-hugo-20",
     "asins": [
       "B08W4PP6W2"
-    ]
+    ],
+    "merchant": "iHerb.com"
   },
   "my-mexico": {
     "name": "My Mexico",
@@ -3883,13 +3901,14 @@
   "parmigiano-reggiano-cheese": {
     "name": "Parmigiano-Reggiano Cheese",
     "category": "cheese-dairy",
-    "url": "https://www.amazon.com/dp/B0G27FYMV1?tag=herb-hugo-20",
+    "url": "https://www.murrayscheese.com/dp/murray-s-parmigiano-reggiano",
     "original_url": "https://www.amazon.com/dp/B0G27FYMV1?tag=herb-hugo-20",
     "asins": [
       "B07FZ74RRN",
       "B08WVVBK4S",
       "B0G27FYMV1"
-    ]
+    ],
+    "merchant": "Murray's Cheese"
   },
   "pasilla-ancho-or-new-mexico": {
     "name": "Pasilla, Ancho, or New Mexico",
@@ -3961,13 +3980,14 @@
   "pecorino-romano": {
     "name": "Pecorino Romano",
     "category": "cheese-dairy",
-    "url": "https://www.amazon.com/dp/B0787VGWS3?tag=herb-hugo-20",
+    "url": "https://www.murrayscheese.com/dp/fulvi-pecorino-romano",
     "original_url": "https://www.amazon.com/dp/B0787VGWS3?tag=herb-hugo-20",
     "asins": [
       "B075JLYF9T",
       "B0787VGWS3",
       "B0CCYMW6DL"
-    ]
+    ],
+    "merchant": "Murray's Cheese"
   },
   "penne-rigate": {
     "name": "Penne Rigate",
@@ -4244,13 +4264,14 @@
   "real-maple-syrup": {
     "name": "Real Maple Syrup",
     "category": "sweeteners-chocolate",
-    "url": "https://www.amazon.com/dp/B00248E7ZK?tag=herb-hugo-20",
+    "url": "https://runamokmaple.com/products/sugarmakers-grade-a-dark-maple-syrup",
     "original_url": "https://www.amazon.com/dp/B00248E7ZK?tag=herb-hugo-20",
     "asins": [
       "B00248E7ZK",
       "B006L80IGQ",
       "B0083QJU72"
-    ]
+    ],
+    "merchant": "Runamok Maple"
   },
   "red-curry-paste": {
     "name": "Red Curry Paste",
@@ -4634,13 +4655,14 @@
   "shichimi-togarashi": {
     "name": "Shichimi Togarashi",
     "category": "asian-pantry",
-    "url": "https://www.amazon.com/dp/B0002YGSA0?tag=herb-hugo-20",
+    "url": "https://www.savoryspiceshop.com/products/shichimi-togarashi",
     "original_url": "https://www.amazon.com/dp/B0002YGSA0?tag=herb-hugo-20",
     "asins": [
       "B0002YGSA0",
       "B0002YGSJQ",
       "B004Y18GJ8"
-    ]
+    ],
+    "merchant": "Savory Spice Shop"
   },
   "shiso": {
     "name": "shiso",
@@ -4672,12 +4694,13 @@
   "sichuan-peppercorns": {
     "name": "Sichuan Peppercorns",
     "category": "asian-pantry",
-    "url": "https://www.amazon.com/dp/B071CX48ZS?tag=herb-hugo-20",
+    "url": "https://www.savoryspiceshop.com/products/szechuan-peppercorn",
     "original_url": "https://www.amazon.com/dp/B071CX48ZS?tag=herb-hugo-20",
     "asins": [
       "B000EMAQ4E",
       "B071CX48ZS"
-    ]
+    ],
+    "merchant": "Savory Spice Shop"
   },
   "silpat": {
     "name": "silpat",
@@ -4991,13 +5014,14 @@
   "sweet-chili-sauce": {
     "name": "Sweet Chili Sauce",
     "category": "condiments-sauces",
-    "url": "https://www.amazon.com/dp/B008PU36V2?tag=herb-hugo-20",
+    "url": "https://www.sayweee.com/en/product/Mae-Ploy-Sweet-Chili-Sauce-12oz/2087562",
     "original_url": "https://www.amazon.com/dp/B008PU36V2?tag=herb-hugo-20",
     "asins": [
       "B00023T3C6",
       "B000SR5VD6",
       "B008PU36V2"
-    ]
+    ],
+    "merchant": "SayWeee.com"
   },
   "taggiascas": {
     "name": "Taggiascas",
@@ -5837,13 +5861,14 @@
   "xanthan-gum": {
     "name": "Xanthan Gum",
     "category": "pantry-staples",
-    "url": "https://www.amazon.com/dp/B07N8GTV8J?tag=herb-hugo-20",
+    "url": "https://nuts.com/products/gluten-free-xanthan-gum",
     "original_url": "https://www.amazon.com/dp/B07N8GTV8J?tag=herb-hugo-20",
     "asins": [
       "B0013JJZWG",
       "B00IZDIMCM",
       "B07N8GTV8J"
-    ]
+    ],
+    "merchant": "Nuts.com"
   },
   "yakami-orchard-100-pure-japanese-yuzu-juice-12": {
     "name": "Yakami Orchard 100% Pure Japanese Yuzu Juice, 12 oz",
@@ -5905,12 +5930,13 @@
   "zaran-saffron-superior-saffron-threads-super": {
     "name": "Zaran Saffron Superior Saffron Threads (Super Negin) 2g",
     "category": "spices-seasonings",
-    "url": "https://www.amazon.com/dp/B079BQQVY7?tag=herb-hugo-20",
+    "url": "https://www.savoryspiceshop.com/products/spanish-coupe-saffron",
     "original_url": "https://www.amazon.com/dp/B079BQQVY7?tag=herb-hugo-20",
     "asins": [
       "B079BQQVY7",
       "B07J29JF27"
-    ]
+    ],
+    "merchant": "Savory Spice Shop"
   },
   "zatar": {
     "name": "Zatar",

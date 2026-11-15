@@ -1,0 +1,328 @@
+[
+ {
+  "id": "dispensing-scoop",
+  "name": "Dispensing Scoop",
+  "current_amazon_url": "https://www.amazon.com/dp/B0BWXSH3Z3?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "dispensing scoop"
+  ],
+  "asins": [
+   "B0BWXSH3Z3"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "thick-and-cakey-chocolate-chip-cookies-recipe"
+ },
+ {
+  "id": "double-concentrated-tomato-paste",
+  "name": "Double-Concentrated Tomato Paste",
+  "current_amazon_url": "https://www.amazon.com/dp/B07KYWQ22X?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "double-concentrated tomato paste"
+  ],
+  "asins": [
+   "B07KYWQ22X"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "saffron-chickpea-stew-with-grilled-porcini-mushroom-recipe"
+ },
+ {
+  "id": "doughnuts-simple-and-delicious-recipes-to-make",
+  "name": "Doughnuts: Simple and Delicious Recipes to Make at Home",
+  "current_amazon_url": "https://www.amazon.com/dp/1570616418?tag=herb-hugo-20",
+  "is_book": true,
+  "amazon_titles": [],
+  "anchors": [
+   "Doughnuts: Simple and Delicious Recipes to Make at Home"
+  ],
+  "asins": [
+   "1570616418"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "bunuelos-bimuelos-donuts-hanukkah-sephardic"
+ },
+ {
+  "id": "dried-aji-amarillo-pepper-2-oz",
+  "name": "Dried Aji Amarillo Pepper, 2 oz",
+  "current_amazon_url": "https://www.amazon.com/dp/B092L7JRRC?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "Aji Amarillo"
+  ],
+  "asins": [
+   "B092L7JRRC"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "aji-amarillo-hot-sauce-from-peruvian-chile-peppers-recipe"
+ },
+ {
+  "id": "dried-chipotle-morita-peppers",
+  "name": "Dried Chipotle Morita Peppers",
+  "current_amazon_url": "https://www.amazon.com/dp/B00NF1P470?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "morita peppers"
+  ],
+  "asins": [
+   "B00NF1P470"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "creamy-grits-with-crispy-leeks-leek-jus-and-cilantro-pesto-recipe"
+ },
+ {
+  "id": "dried-oregano",
+  "name": "Dried Oregano",
+  "current_amazon_url": "https://www.amazon.com/dp/B000WS3APW?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com : Simply Organic Oregano, .75 oz | Great On Pizza, Italian & Mexican Fare, Kosher : Oregano Spices And Herbs : Everything Else"
+  ],
+  "anchors": [
+   "dried oregano"
+  ],
+  "asins": [
+   "B000WS3APW"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "baked-penne-with-mushrooms-and-fontina-recipe"
+ },
+ {
+  "id": "dried-pasilla-chile-peppers",
+  "name": "Dried Pasilla Chile Peppers",
+  "current_amazon_url": "https://www.amazon.com/dp/B08LCGX3W7?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "dried pasilla peppers"
+  ],
+  "asins": [
+   "B08LCGX3W7"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "enchiladas-de-mole-recipe"
+ },
+ {
+  "id": "dried-red-chiles",
+  "name": "Dried Red Chiles",
+  "current_amazon_url": "https://www.amazon.com/dp/B079SRQHH3?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "dried red chiles"
+  ],
+  "asins": [
+   "B079SRQHH3"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "stir-fried-winged-beans-kacang-botol-with-tomato-and-garlic-recipe"
+ },
+ {
+  "id": "dry-harissa-mix",
+  "name": "Dry Harissa Mix",
+  "current_amazon_url": "https://www.amazon.com/dp/B005WDVR0W?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com : Frontier Co-op Organic Harissa Seasoning, 1.9 Ounce Bottle, N. African Heat with Chili Peppers, Cayenne, Paprika & Coriader : Mixed Spices And Seasonings : Grocery & Gourmet Food"
+  ],
+  "anchors": [
+   "dry harissa mix"
+  ],
+  "asins": [
+   "B005WDVR0W"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "grape-honey-yogurt-recipe"
+ },
+ {
+  "id": "dry-yeast",
+  "name": "Dry Yeast",
+  "current_amazon_url": "https://www.amazon.com/dp/B001EQ5770?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "dry yeast"
+  ],
+  "asins": [
+   "B001EQ5770"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "bunuelos-bimuelos-donuts-hanukkah-sephardic"
+ },
+ {
+  "id": "dry-yeast-2",
+  "name": "Dry Yeast",
+  "current_amazon_url": "https://www.amazon.com/dp/B09JN4JKL1?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "dry yeast"
+  ],
+  "asins": [
+   "B09JN4JKL1"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "bunuelos-sephardic-doughnuts-recipe"
+ },
+ {
+  "id": "dukkah",
+  "name": "Dukkah",
+  "current_amazon_url": "https://www.amazon.com/dp/B07GVPN9BK?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "dukkah"
+  ],
+  "asins": [
+   "B07GVPN9BK"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "cold-carrot-soup-myhrvold-recipe"
+ },
+ {
+  "id": "dukkah-2",
+  "name": "Dukkah",
+  "current_amazon_url": "https://www.amazon.com/dp/B0B88NVJC1?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "dukkah"
+  ],
+  "asins": [
+   "B0B88NVJC1"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "grape-honey-yogurt-recipe"
+ },
+ {
+  "id": "dulce-de-leche",
+  "name": "Dulce de Leche",
+  "current_amazon_url": "https://www.amazon.com/dp/B000SRJLSW?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "dulce de leche"
+  ],
+  "asins": [
+   "B000SRJLSW"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "gateaux-de-crepes-recipe"
+ },
+ {
+  "id": "eden-foods-ume-plum-vinegar-10-fl-oz",
+  "name": "Eden Foods Ume Plum Vinegar, 10 Fl oz",
+  "current_amazon_url": "https://www.amazon.com/dp/B0013JNMWA?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "umeboshi vinegar"
+  ],
+  "asins": [
+   "B0013JNMWA"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "beer-battered-maitake-mushroom-with-japanese-tartar-sauce-recipe"
+ },
+ {
+  "id": "eden-umeboshi-paste-pickled-ume-plum-puree",
+  "name": "Eden Umeboshi Paste, Pickled Ume Plum Puree",
+  "current_amazon_url": "https://www.amazon.com/dp/B0013JLOHA?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "umeboshi plum paste"
+  ],
+  "asins": [
+   "B0013JLOHA"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "chirashi-sushi-recipe"
+ },
+ {
+  "id": "edward-espe-brown",
+  "name": "Edward Espe Brown",
+  "current_amazon_url": "https://www.amazon.com/dp/B0014BQR74?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com: How To Cook Your Life : Doris D\u00f6rrie: Movies & TV"
+  ],
+  "anchors": [
+   "Edward Espe Brown"
+  ],
+  "asins": [
+   "B0014BQR74"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "complete-tassajara-cookbook-tassajara-bread-book"
+ },
+ {
+  "id": "el-mexicano-achiote-paste-3-5-oz",
+  "name": "El Mexicano Achiote Paste, 3.5 oz",
+  "current_amazon_url": "https://www.amazon.com/dp/B00169V7TW?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "achiote paste"
+  ],
+  "asins": [
+   "B00169V7TW"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "achiote-rubbed"
+ },
+ {
+  "id": "emile-henry",
+  "name": "Emile Henry",
+  "current_amazon_url": "https://www.amazon.com/dp/B00WRIJ0UY?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "Emile Henry"
+  ],
+  "asins": [
+   "B00WRIJ0UY"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "strawberry-rhubarb-crisp-with-pumpkin-seed-topping-recipe"
+ },
+ {
+  "id": "emile-henry-lasagna-pan",
+  "name": "Emile Henry Lasagna Pan",
+  "current_amazon_url": "https://www.amazon.com/dp/B00022O6YM?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "Emile Henry lasagna pan"
+  ],
+  "asins": [
+   "B00022O6YM"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "vegetarian-lasagna-recipe-with-spinach-and-ricotta-filling"
+ }
+]

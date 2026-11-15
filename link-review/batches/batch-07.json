@@ -1,0 +1,404 @@
+[
+ {
+  "id": "lou-s-first-book",
+  "name": "Lou's First Book",
+  "status": "no_match",
+  "reason": "Digital Food Photography (Lou Manna, ISBN 9781592008209) has no Barnes & Noble page found by search; the other anchored book, Momofuku Milk Bar (ISBN 9780307720498), is at https://www.barnesandnoble.com/w/momofuku-milk-bar-christina-tosi/1137862652 (HTTP 200) but is a different book.",
+  "amazon": {
+   "asins": [
+    "0307720497",
+    "1592008208"
+   ],
+   "title": "Amazon.com: Digital Food Photography: 9781592008209: Manna, Lou: Books",
+   "anchors": [
+    "Lou's first book",
+    "Momofuku Milk Bar cookbook"
+   ],
+   "links": 3,
+   "posts": 2,
+   "example_post": "strawberries-and-cream-birthday-cake-momofuku-style"
+  }
+ },
+ {
+  "id": "maille-pickles-cornichons-original",
+  "name": "Maille Pickles Cornichons Original",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B00112IYZ4",
+    "B0B8T8K2TC"
+   ],
+   "title": "Amazon.com: Maille Pickles, Original Cornichons 13.5 oz, Made in France 1PK | For snacking, charcuterie boards and sandwiches; Cornichons Original; 13.5 oz. : Grocery & Gourmet Food",
+   "anchors": [
+    "capers",
+    "cornichons"
+   ],
+   "links": 3,
+   "posts": 3,
+   "example_post": "braised-belgian-endive-with-sauce-gribiche-recipe"
+  },
+  "primary": {
+   "merchant": "ChefShop.com",
+   "product": "Cornichons - France",
+   "url": "https://www.chefshop.com/products/cornichons-france",
+   "epc": null,
+   "rate": 7,
+   "price": "$12.95",
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "ChefShop's French cornichons rather than the Maille brand specifically; the capers link (Fratelli d'Amico salted capers) could instead point to ChefShop's Large Pantescan Capers in Salt ($7.95, https://www.chefshop.com/products/large-pantescan-capers-in-salt)."
+ },
+ {
+  "id": "mexican-everyday",
+  "name": "Mexican Everyday",
+  "status": "no_match",
+  "reason": "Not matched: web search budget was exhausted and merchant catalog lookups (shop_search.py) returned HTTP 429/403 for all hosts during this run, so no real product URL could be found. Needs a re-run when tooling recovers.",
+  "amazon": {
+   "asins": [
+    "039306154X",
+    "068484186X"
+   ],
+   "title": "Mexican Everyday: Bayless, Rick, Bayless, Deann Groen, Hirsheimer, Christopher: 9780393061543: Amazon.com: Books",
+   "anchors": [
+    "Mexican Everyday",
+    "Rick Bayless"
+   ],
+   "links": 3,
+   "posts": 3,
+   "example_post": "swiss-chard-enchiladas-in-a-tomatillo-sauce-recipe"
+  }
+ },
+ {
+  "id": "microplane-classic-zester-grater",
+  "name": "Microplane Classic Zester Grater",
+  "status": "no_match",
+  "reason": "Not matched: web search budget was exhausted and merchant catalog lookups (shop_search.py) returned HTTP 429/403 for all hosts during this run, so no real product URL could be found. Needs a re-run when tooling recovers.",
+  "amazon": {
+   "asins": [
+    "B00004S7V8",
+    "B00151WA06"
+   ],
+   "title": "Amazon.com: Microplane Classic Zester Grater, Black: Cheese Graters: Home & Kitchen",
+   "anchors": [
+    "grater",
+    "microplane"
+   ],
+   "links": 3,
+   "posts": 3,
+   "example_post": "four-thousand-d"
+  }
+ },
+ {
+  "id": "mirin-3",
+  "name": "mirin",
+  "status": "no_match",
+  "reason": "Not matched: web search budget was exhausted and merchant catalog lookups (shop_search.py) returned HTTP 429/403 for all hosts during this run, so no real product URL could be found. Needs a re-run when tooling recovers.",
+  "amazon": {
+   "asins": [
+    "B0FNPP74FQ"
+   ],
+   "title": "Amazon.com : Soeos Mirin, Japanese Sweet Cooking Wine for Sauces and Glazes, 16.9 Fl Oz | Mild Sweet Flavor, Great Ingredients, Perfect for Teriyaki, Glazes, Marinades, Stir-Fry & Japanese Recipes : Grocery & Gourmet Food",
+   "anchors": [
+    "mirin"
+   ],
+   "links": 3,
+   "posts": 3,
+   "example_post": "grilled-eggplan"
+  }
+ },
+ {
+  "id": "no-boil-lasagna-noodles",
+  "name": "No-Boil Lasagna Noodles",
+  "status": "no_match",
+  "reason": "Not matched: web search budget was exhausted and merchant catalog lookups (shop_search.py) returned HTTP 429/403 for all hosts during this run, so no real product URL could be found. Needs a re-run when tooling recovers.",
+  "amazon": {
+   "asins": [
+    "B000RUQPQQ",
+    "B003EXVM66"
+   ],
+   "title": "Amazon.com : Barilla \"Oven Ready\" Lasagne Pasta, Non-GMO Kosher Pasta, 9oz. | Classic Blue Box pasta made with Durum Wheat Semolina, Made with Non-GMO ingredients : Grocery & Gourmet Food",
+   "anchors": [
+    "no-boil lasagna noodles"
+   ],
+   "links": 3,
+   "posts": 3,
+   "example_post": "portabello-summer-squash-lasagna-recipe"
+  }
+ },
+ {
+  "id": "o-food-ssamjang-korean-seasoned-soybean-paste",
+  "name": "O'Food Ssamjang Korean Seasoned Soybean Paste",
+  "status": "no_match",
+  "reason": "Not matched: web search budget was exhausted and merchant catalog lookups (shop_search.py) returned HTTP 429/403 for all hosts during this run, so no real product URL could be found. Needs a re-run when tooling recovers.",
+  "amazon": {
+   "asins": [
+    "B07BFQPCM6"
+   ],
+   "title": "Amazon.com : Premium Korean Ssamjang Soybean Paste Sauce [Mild | 1.0 lb (500g)] for BBQ, Lettuce Wraps, Rice, Vegetables, and Meat | Korean Flavor, Bold & Savory - O\u2019food : Grocery & Gourmet Food",
+   "anchors": [
+    "Ssamjang",
+    "ssamjang"
+   ],
+   "links": 3,
+   "posts": 3,
+   "example_post": "king-oyster-mushroom-lettuce-wraps-with-ssamjang-recipe"
+  }
+ },
+ {
+  "id": "old-stone-oven-pizza-baking-stone",
+  "name": "Old Stone Oven Pizza Baking Stone",
+  "status": "no_match",
+  "reason": "Not matched: web search budget was exhausted and merchant catalog lookups (shop_search.py) returned HTTP 429/403 for all hosts during this run, so no real product URL could be found. Needs a re-run when tooling recovers.",
+  "amazon": {
+   "asins": [
+    "B0000E1FDA",
+    "B06XGV3RS4"
+   ],
+   "title": "Amazon.com: Old Stone Pizza Kitchen Rectangular Pizza Stone for Oven and Grill, 14x16-Inch : Patio, Lawn & Garden",
+   "anchors": [
+    "baking stone",
+    "pizza stone"
+   ],
+   "links": 3,
+   "posts": 3,
+   "example_post": "double-crust-pizza-with-broccoli-raab-ricotta-and-caramelized-onions-recipe"
+  }
+ },
+ {
+  "id": "oxo-good-grips",
+  "name": "OXO Good Grips",
+  "status": "no_match",
+  "reason": "Not matched: web search budget was exhausted and merchant catalog lookups (shop_search.py) returned HTTP 429/403 for all hosts during this run, so no real product URL could be found. Needs a re-run when tooling recovers.",
+  "amazon": {
+   "asins": [
+    "B00004OCKR"
+   ],
+   "title": "Amazon.com: OXO Good Grips 6.22 Qt Salad Spinner, Vegetable Washer with Bowl & Strainer | Spin-dry Lettuce, Herbs, Fruit, Vegetables, Non-Slip Base, Large Capacity Bowl, Easy One-Touch Press Pump, Meal Prep: Home & Kitchen",
+   "anchors": [
+    "OXO Good Grips",
+    "OXO Good Grips Salad Spinner"
+   ],
+   "links": 3,
+   "posts": 2,
+   "example_post": "chopped-salad-revisiting-a-classic-recipe"
+  }
+ },
+ {
+  "id": "pastry-brush",
+  "name": "Pastry Brush",
+  "status": "no_match",
+  "reason": "Not matched: web search budget was exhausted and merchant catalog lookups (shop_search.py) returned HTTP 429/403 for all hosts during this run, so no real product URL could be found. Needs a re-run when tooling recovers.",
+  "amazon": {
+   "asins": [
+    "B000JPSI8C"
+   ],
+   "title": "Amazon.com: OXO Good Grips Silicone Pastry Brush | OXO Good Grips Silicone Basting & Pastry Brush - Small, 7.6 in: Home & Kitchen",
+   "anchors": [
+    "Silicone pastry brushes",
+    "pastry brush"
+   ],
+   "links": 3,
+   "posts": 3,
+   "example_post": "block-party-emp"
+  }
+ },
+ {
+  "id": "prioritychef-large-15oz-stainless-steel-potato",
+  "name": "PriorityChef Large 15oz Stainless Steel Potato Ricer",
+  "status": "no_match",
+  "reason": "Not matched: web search budget was exhausted and merchant catalog lookups (shop_search.py) returned HTTP 429/403 for all hosts during this run, so no real product URL could be found. Needs a re-run when tooling recovers.",
+  "amazon": {
+   "asins": [
+    "B00MUEHPGQ"
+   ],
+   "title": "Amazon.com: PriorityChef Large 15oz Potato Ricer, Heavy Duty Stainless Steel Potato Masher and Ricer Kitchen Tool, Press and Mash Kitchen Gadget For Perfect Mashed Potatoes - Everytime: Home & Kitchen",
+   "anchors": [
+    "heavy-duty potato ricer",
+    "potato ricer"
+   ],
+   "links": 3,
+   "posts": 3,
+   "example_post": "aloo-tikki-indian-potato-fritters-recipe"
+  }
+ },
+ {
+  "id": "ricotta-salata",
+  "name": "Ricotta Salata",
+  "status": "no_match",
+  "reason": "Not matched: web search budget was exhausted and merchant catalog lookups (shop_search.py) returned HTTP 429/403 for all hosts during this run, so no real product URL could be found. Needs a re-run when tooling recovers.",
+  "amazon": {
+   "asins": [
+    "B0787VWCF3"
+   ],
+   "title": "Amazon.com: Mitica, Ricotta Salata : Grocery & Gourmet Food",
+   "anchors": [
+    "Ricotta salata",
+    "ricotta salata"
+   ],
+   "links": 3,
+   "posts": 3,
+   "example_post": "gnocchi-with-radicchio-leeks-and-ricotta-salata-vegetarian-recipe"
+  }
+ },
+ {
+  "id": "ring-mold",
+  "name": "Ring Mold",
+  "status": "no_match",
+  "reason": "Not matched: web search budget was exhausted and merchant catalog lookups (shop_search.py) returned HTTP 429/403 for all hosts during this run, so no real product URL could be found. Needs a re-run when tooling recovers.",
+  "amazon": {
+   "asins": [
+    "B00IVFJDKY",
+    "B01IO57N0W",
+    "B0861D8DTN"
+   ],
+   "title": "Amazon.com: HULISEN 3\u201d Round Cake Ring Mold, Stainless Steel Cooking Crumpet Rings | 4 Food Forms & 1 Pusher, Dishwasher Safe, Home Cooks and Bakers, Tuna Tartare, Pancakes, Salads and Mousse : Home & Kitchen",
+   "anchors": [
+    "ring mold"
+   ],
+   "links": 3,
+   "posts": 3,
+   "example_post": "risotto-cake-with-crispy-ramps-recipe"
+  }
+ },
+ {
+  "id": "smoked-mozzarella",
+  "name": "Smoked Mozzarella",
+  "status": "no_match",
+  "reason": "Not matched: web search budget was exhausted and merchant catalog lookups (shop_search.py) returned HTTP 429/403 for all hosts during this run, so no real product URL could be found. Needs a re-run when tooling recovers.",
+  "amazon": {
+   "asins": [
+    "B079VL5BHN"
+   ],
+   "title": "Amazon.com: Rumiano Smoked Mozzarella : Grocery & Gourmet Food",
+   "anchors": [
+    "smoked mozzarella"
+   ],
+   "links": 3,
+   "posts": 3,
+   "example_post": "7-pasta-tips-conchiglie-with-chard-and-smoked-mozzarella"
+  }
+ },
+ {
+  "id": "soba-japanese-buckwheat-noodles",
+  "name": "Soba (Japanese Buckwheat Noodles)",
+  "status": "no_match",
+  "reason": "Not matched: web search budget was exhausted and merchant catalog lookups (shop_search.py) returned HTTP 429/403 for all hosts during this run, so no real product URL could be found. Needs a re-run when tooling recovers.",
+  "amazon": {
+   "asins": [
+    "B000VK109Y"
+   ],
+   "title": "Amazon.com : Hakubaku, Organic Soba, 9.5 Oz : Grocery & Gourmet Food",
+   "anchors": [
+    "soba",
+    "soba (Japanese buckwheat noodles)"
+   ],
+   "links": 3,
+   "posts": 3,
+   "example_post": "new-years-feast"
+  }
+ },
+ {
+  "id": "sriracha-sauce",
+  "name": "Sriracha Sauce",
+  "status": "no_match",
+  "reason": "Not matched: web search budget was exhausted and merchant catalog lookups (shop_search.py) returned HTTP 429/403 for all hosts during this run, so no real product URL could be found. Needs a re-run when tooling recovers.",
+  "amazon": {
+   "asins": [
+    "B0014E4G0Q",
+    "B07KSMML5P"
+   ],
+   "title": "Page Not Found",
+   "anchors": [
+    "Sriracha sauce",
+    "sriracha"
+   ],
+   "links": 3,
+   "posts": 3,
+   "example_post": "kale-fried-rice-for-one-infinitely-adaptable-recipe"
+  }
+ },
+ {
+  "id": "tamicon-tamarind-concentrate-14-11-oz",
+  "name": "Tamicon Tamarind Concentrate 14.11 oz",
+  "status": "no_match",
+  "reason": "Not matched: web search budget was exhausted and merchant catalog lookups (shop_search.py) returned HTTP 429/403 for all hosts during this run, so no real product URL could be found. Needs a re-run when tooling recovers.",
+  "amazon": {
+   "asins": [
+    "B002OKNOA2",
+    "B00I9P242U",
+    "B01MYXH0YH"
+   ],
+   "title": "Amazon.com : Tamicon Tamarind Concentrate, Sweet & Sour Paste 14.11oz, 400g | Halal Certified, Kosher, Authentic South Indian Ingredient, Suitable for Vegetarian, No added Preservatives : Grocery & Gourmet Food",
+   "anchors": [
+    "Tamicon brand tamarind concentrate",
+    "tamarind concentrate"
+   ],
+   "links": 3,
+   "posts": 3,
+   "example_post": "beet-curry-recipe-1"
+  }
+ },
+ {
+  "id": "taylors-of-harrogate-lapsang-souchong-loose",
+  "name": "Taylors of Harrogate Lapsang Souchong Loose Leaf Tea",
+  "status": "no_match",
+  "reason": "Not matched: web search budget was exhausted and merchant catalog lookups (shop_search.py) returned HTTP 429/403 for all hosts during this run, so no real product URL could be found. Needs a re-run when tooling recovers.",
+  "amazon": {
+   "asins": [
+    "B000MNNELC",
+    "B002JP6H2O"
+   ],
+   "title": "Amazon.com : Taylors of Harrogate Lapsang Souchong Loose Leaf Tin, 4.41 oz : Smoky Lapsang Souchong Tea : Grocery & Gourmet Food",
+   "anchors": [
+    "lapsang souchong",
+    "lapsang souchong tea"
+   ],
+   "links": 3,
+   "posts": 3,
+   "example_post": "maitake-mushrooms-in-smoky-tea-broth"
+  }
+ },
+ {
+  "id": "the-art-of-indian-vegetarian-cooking",
+  "name": "The Art of Indian Vegetarian Cooking",
+  "status": "no_match",
+  "reason": "Not matched: web search budget was exhausted and merchant catalog lookups (shop_search.py) returned HTTP 429/403 for all hosts during this run, so no real product URL could be found. Needs a re-run when tooling recovers.",
+  "amazon": {
+   "asins": [
+    "0525245642",
+    "B0762JPC9N"
+   ],
+   "title": "Lord Krishna's Cuisine: The Art of Indian Vegetarian Cooking: Devi, Yamuna, Baird, David: 9780525245643: Amazon.com: Books",
+   "anchors": [
+    "Lord Krishna's Cuisine",
+    "Lord Krishna's Cuisine: The Art of Indian Vegetarian Cooking",
+    "The Art of Indian Vegetarian Cooking"
+   ],
+   "links": 3,
+   "posts": 3,
+   "example_post": "eatyourbookscom-and-gobbledybookcom-two-sites-for-indexing-your-cookbooks"
+  }
+ },
+ {
+  "id": "the-perfect-scoop",
+  "name": "The Perfect Scoop",
+  "status": "no_match",
+  "reason": "Not matched: web search budget was exhausted and merchant catalog lookups (shop_search.py) returned HTTP 429/403 for all hosts during this run, so no real product URL could be found. Needs a re-run when tooling recovers.",
+  "amazon": {
+   "asins": [
+    "1580088082"
+   ],
+   "title": "Perfect Scoop: Ice Creams, Sorbets, Granitas, and Sweet Accompaniments: Lebovitz, David, Hata, Lara: 9781580088084: Amazon.com: Books",
+   "anchors": [
+    "The Perfect Scoop",
+    "please pick up the book"
+   ],
+   "links": 3,
+   "posts": 1,
+   "example_post": "caramelized-pear-ice-cream-from-the-perfect-scoop-by-david-lebovitz-recipe-and-cookbook-review"
+  }
+ }
+]

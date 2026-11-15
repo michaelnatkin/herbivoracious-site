@@ -1,0 +1,324 @@
+[
+ {
+  "id": "tawny-port",
+  "name": "Tawny Port",
+  "current_amazon_url": "https://www.amazon.com/dp/B078HH75QH?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "tawny port"
+  ],
+  "asins": [
+   "B078HH75QH"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "caramelized-raisin-sundae-recipe"
+ },
+ {
+  "id": "terex-al-5l-led-light-tower",
+  "name": "Terex AL-5L LED Light Tower",
+  "current_amazon_url": "https://www.amazon.com/dp/B004QTPK0G?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "Terex AL-5L LED Light Tower"
+  ],
+  "asins": [
+   "B004QTPK0G"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "transparency-and-support"
+ },
+ {
+  "id": "the-adaptable-feast",
+  "name": "The Adaptable Feast",
+  "current_amazon_url": "https://www.amazon.com/dp/1570615837?tag=herb-hugo-20",
+  "is_book": true,
+  "amazon_titles": [],
+  "anchors": [
+   "The Adaptable Feast"
+  ],
+  "asins": [
+   "1570615837"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "the-adaptable-feast-cookbook-review-and-a-chance-to-win-a-copy"
+ },
+ {
+  "id": "the-art-of-fermentation",
+  "name": "The Art of Fermentation",
+  "current_amazon_url": "https://www.amazon.com/dp/160358286X?tag=herb-hugo-20",
+  "is_book": true,
+  "amazon_titles": [],
+  "anchors": [
+   "The Art of Fermentation"
+  ],
+  "asins": [
+   "160358286X"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "making-your-own-kimchi-recipe"
+ },
+ {
+  "id": "the-book",
+  "name": "The Book",
+  "current_amazon_url": "https://www.amazon.com/dp/0897166159?tag=herb-hugo-20",
+  "is_book": true,
+  "amazon_titles": [],
+  "anchors": [
+   "the book"
+  ],
+  "asins": [
+   "0897166159"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "espresso-vivace-seattle-wa-capitol-hill-south-lake-union-capsule-review"
+ },
+ {
+  "id": "the-curious-cook-more-kitchen-science-and-lore",
+  "name": "The Curious Cook: More Kitchen Science and Lore by Harold McGee",
+  "current_amazon_url": "https://www.amazon.com/dp/0020098014?tag=herb-hugo-20",
+  "is_book": true,
+  "amazon_titles": [],
+  "anchors": [
+   "The Curious Cook: More Kitchen Science and Lore"
+  ],
+  "asins": [
+   "0020098014"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "recipe-fresh-sp"
+ },
+ {
+  "id": "the-farm-to-table-cookbook-the-art-of-eating",
+  "name": "The Farm to Table Cookbook: the Art of Eating Locally",
+  "current_amazon_url": "https://www.amazon.com/dp/1570615292?tag=herb-hugo-20",
+  "is_book": true,
+  "amazon_titles": [],
+  "anchors": [
+   "The Farm to Table Cookbook: The Art of Eating Locally"
+  ],
+  "asins": [
+   "1570615292"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "cherry-pumpkin"
+ },
+ {
+  "id": "the-fat-duck-cookbook",
+  "name": "The Fat Duck Cookbook",
+  "current_amazon_url": "https://www.amazon.com/dp/160819020X?tag=herb-hugo-20",
+  "is_book": true,
+  "amazon_titles": [],
+  "anchors": [
+   "The Fat Duck Cookbook"
+  ],
+  "asins": [
+   "160819020X"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "umami-packed-vegetarian-broth-recipe-also-vegan"
+ },
+ {
+  "id": "the-improvisational-cook",
+  "name": "The Improvisational Cook",
+  "current_amazon_url": "https://www.amazon.com/dp/0060731648?tag=herb-hugo-20",
+  "is_book": true,
+  "amazon_titles": [],
+  "anchors": [
+   "The Improvisational Cook"
+  ],
+  "asins": [
+   "0060731648"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "recipe-double-c"
+ },
+ {
+  "id": "the-mushroom-hunters",
+  "name": "The Mushroom Hunters",
+  "current_amazon_url": "https://www.amazon.com/dp/0345536258?tag=herb-hugo-20",
+  "is_book": true,
+  "amazon_titles": [],
+  "anchors": [
+   "The Mushroom Hunters"
+  ],
+  "asins": [
+   "0345536258"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "chanterelle-tostadas-recipes"
+ },
+ {
+  "id": "the-nasty-bits",
+  "name": "The Nasty Bits",
+  "current_amazon_url": "https://www.amazon.com/dp/B002UM5BHS?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "The Nasty Bits"
+  ],
+  "asins": [
+   "B002UM5BHS"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "winter-food-b-1"
+ },
+ {
+  "id": "the-spice-lab-cyprus-black-flake-sea-salt-4-oz",
+  "name": "The Spice Lab Cyprus Black Flake Sea Salt 4 oz",
+  "current_amazon_url": "https://www.amazon.com/dp/B00IQW7UFW?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "flaky black sea salt"
+  ],
+  "asins": [
+   "B00IQW7UFW"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "tomato-sushi-yes-thats-vegetarian-recipe"
+ },
+ {
+  "id": "think-like-a-chef",
+  "name": "Think Like a Chef",
+  "current_amazon_url": "https://www.amazon.com/dp/0307406954?tag=herb-hugo-20",
+  "is_book": true,
+  "amazon_titles": [],
+  "anchors": [
+   "Think Like a Chef"
+  ],
+  "asins": [
+   "0307406954"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "roasted-tomato-and-corn-risotto-recipe"
+ },
+ {
+  "id": "this-enormous-roll",
+  "name": "this enormous roll",
+  "current_amazon_url": "https://www.amazon.com/dp/B001AEOAXS?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "this enormous roll"
+  ],
+  "asins": [
+   "B001AEOAXS"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "strawberries-and-cream-birthday-cake-momofuku-style"
+ },
+ {
+  "id": "this-one-from-beaufor",
+  "name": "this one from Beaufor",
+  "current_amazon_url": "https://www.amazon.com/dp/B000SR5VOU?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "this one from Beaufor"
+  ],
+  "asins": [
+   "B000SR5VOU"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "black-rice-fritter-with-turnips-and-horseradish-cream-recipe"
+ },
+ {
+  "id": "this-spatula-from-lamsonsharp",
+  "name": "This Spatula, from LamsonSharp",
+  "current_amazon_url": "https://www.amazon.com/dp/B00004WGUM?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com: Lamson Fish Spatula, Slotted Metal Turner, 3 x 6 In, Right Hand | Ultra Durable composite handle, dishwasher safe; flexible stainless blade; a dedicated left-handed model is available: Spatulas: Home & Kitchen"
+  ],
+  "anchors": [
+   "This spatula, from LamsonSharp"
+  ],
+  "asins": [
+   "B00004WGUM"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "the-joy-of-a-proper-spatula"
+ },
+ {
+  "id": "this-version",
+  "name": "this version",
+  "current_amazon_url": "https://www.amazon.com/dp/B0006GT586?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "this version"
+  ],
+  "asins": [
+   "B0006GT586"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "the-joy-of-a-proper-spatula"
+ },
+ {
+  "id": "toasted-fennel-seeds",
+  "name": "Toasted Fennel Seeds",
+  "current_amazon_url": "https://www.amazon.com/dp/B07HWYXTNQ?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "toasted fennel seeds"
+  ],
+  "asins": [
+   "B07HWYXTNQ"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "goat-cheese-asparagus-and-beet-salad-with-herb-flowers-recipe"
+ },
+ {
+  "id": "toasted-hazelnuts",
+  "name": "Toasted Hazelnuts",
+  "current_amazon_url": "https://www.amazon.com/dp/B0797CV511?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "toasted hazelnuts"
+  ],
+  "asins": [
+   "B0797CV511"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "warm-frisee-salad-with-brown-butter-vinaigrette-recipe"
+ },
+ {
+  "id": "toasted-walnut-halves",
+  "name": "Toasted Walnut Halves",
+  "current_amazon_url": "https://www.amazon.com/dp/B08KRC5Q4M?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "toasted walnut halves"
+  ],
+  "asins": [
+   "B08KRC5Q4M"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "watermelon-radish-and-watercress-salad-recipe"
+ }
+]

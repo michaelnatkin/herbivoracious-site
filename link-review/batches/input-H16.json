@@ -1,0 +1,325 @@
+[
+ {
+  "id": "orange-infused-olive-oil",
+  "name": "Orange-Infused Olive Oil",
+  "current_amazon_url": "https://www.amazon.com/dp/B000UA3H2S?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "orange-infused olive oil (from ChefShop)"
+  ],
+  "asins": [
+   "B000UA3H2S"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "roasted-cauliflower-and-white-bean-salad-recipe"
+ },
+ {
+  "id": "order-them-from-amazon",
+  "name": "Order Them from Amazon",
+  "current_amazon_url": "https://www.amazon.com/dp/B00RENFSDU?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "order them from Amazon"
+  ],
+  "asins": [
+   "B00RENFSDU"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "recipe-urad-dal"
+ },
+ {
+  "id": "pasilla-ancho-or-new-mexico",
+  "name": "Pasilla, Ancho, or New Mexico",
+  "current_amazon_url": "https://www.amazon.com/dp/B07VGSD7L7?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "pasilla, ancho, or New Mexico"
+  ],
+  "asins": [
+   "B07VGSD7L7"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "khao-soi-thai-curry-noodles-from-chiang-mai"
+ },
+ {
+  "id": "pasilla-oaxaca-or-other-whole-dried-chiles",
+  "name": "Pasilla Oaxaca or Other Whole Dried Chiles",
+  "current_amazon_url": "https://www.amazon.com/dp/B081BX642W?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "pasilla oaxaca or other whole dried chiles"
+  ],
+  "asins": [
+   "B081BX642W"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "vegetarian-frijoles-charros-mexican-cowboy-beans-with-smoked-onion-recipe"
+ },
+ {
+  "id": "paste",
+  "name": "paste",
+  "current_amazon_url": "https://www.amazon.com/dp/B00NU1O7T6?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "paste"
+  ],
+  "asins": [
+   "B00NU1O7T6"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "grilled-tofu-and-pepper-vegetarian-tacos-recipe"
+ },
+ {
+  "id": "pastry-flour",
+  "name": "Pastry Flour",
+  "current_amazon_url": "https://www.amazon.com/dp/B0D8RMQJX6?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "pastry flour"
+  ],
+  "asins": [
+   "B0D8RMQJX6"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "madelines-with"
+ },
+ {
+  "id": "penne-rigate",
+  "name": "Penne Rigate",
+  "current_amazon_url": "https://www.amazon.com/dp/B0014CTCAW?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "penne rigate"
+  ],
+  "asins": [
+   "B0014CTCAW"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "baked-penne-with-mushrooms-and-fontina-recipe"
+ },
+ {
+  "id": "pepperoncini",
+  "name": "Pepperoncini",
+  "current_amazon_url": "https://www.amazon.com/dp/B000R49GTK?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "pepperoncini"
+  ],
+  "asins": [
+   "B000R49GTK"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "summer-leftover"
+ },
+ {
+  "id": "piment-d-espellete",
+  "name": "Piment D&#39;espellete",
+  "current_amazon_url": "https://www.amazon.com/dp/B002J6ARK6?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "espellete",
+   "piment d&#39"
+  ],
+  "asins": [
+   "B002J6ARK6"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "herbivoracious-dinner-2"
+ },
+ {
+  "id": "pistachio-oil",
+  "name": "Pistachio Oil",
+  "current_amazon_url": "https://www.amazon.com/dp/B001PNYKLG?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "pistachio oil"
+  ],
+  "asins": [
+   "B001PNYKLG"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "saffron-date-posset-a-dessert-you-should-know-recipe"
+ },
+ {
+  "id": "pizza-peel",
+  "name": "Pizza Peel",
+  "current_amazon_url": "https://www.amazon.com/dp/B009LPDMUA?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "pizza peel"
+  ],
+  "asins": [
+   "B009LPDMUA"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "grilled-pizza-fingerling-potatoes-blue-cheese-caramelized-onions-vegetarian-recipe"
+ },
+ {
+  "id": "plenty",
+  "name": "Plenty",
+  "current_amazon_url": "https://www.amazon.com/dp/1452101248?tag=herb-hugo-20",
+  "is_book": true,
+  "amazon_titles": [],
+  "anchors": [
+   "Plenty"
+  ],
+  "asins": [
+   "1452101248"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "fried-artichokes-with-orange-olive-oil-emulsion-recipe"
+ },
+ {
+  "id": "polyscience-smoking-gun",
+  "name": "Polyscience Smoking Gun",
+  "current_amazon_url": "https://www.amazon.com/dp/B0082DNCHU?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "Polyscience smoking gun"
+  ],
+  "asins": [
+   "B0082DNCHU"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "smoked-tofu-buns-recipe"
+ },
+ {
+  "id": "press-weight-your-tofu",
+  "name": "Press (weight) Your Tofu",
+  "current_amazon_url": "https://www.amazon.com/dp/B01698J0RU?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "press (weight) your tofu"
+  ],
+  "asins": [
+   "B01698J0RU"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "how-to-make-tofu-really-freaking-delicious-tofu-101"
+ },
+ {
+  "id": "pride-of-india-amchur-dry-mango-powder",
+  "name": "Pride of India Amchur Dry Mango Powder",
+  "current_amazon_url": "https://www.amazon.com/dp/B00QWROIYY?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com : Pride of India Dry Mango Powder 8 oz | Gourmet Amchur Powder Ground Spice | Aromatic, Tangy & Savory Mango Seasoning for Cooking, Baking, Marinades, Curry, Sauces & Chutney | No Fillers, Easy to Use : Grocery & Gourmet Food"
+  ],
+  "anchors": [
+   "amchoor powder"
+  ],
+  "asins": [
+   "B00QWROIYY"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "the-value-of-acid-making-your-food-pop-part-2"
+ },
+ {
+  "id": "pure-indian-foods-organic-jaggery-sugar-2-pack",
+  "name": "Pure Indian Foods Organic Jaggery Sugar, 2-Pack (1kg Total)",
+  "current_amazon_url": "https://www.amazon.com/dp/B07RL3HYHS?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "jaggery"
+  ],
+  "asins": [
+   "B07RL3HYHS"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "recipe-brussel"
+ },
+ {
+  "id": "quiche-dish",
+  "name": "Quiche Dish",
+  "current_amazon_url": "https://www.amazon.com/dp/B09TDJCLJ2?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "quiche dish"
+  ],
+  "asins": [
+   "B09TDJCLJ2"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "baked-eggs-with-chanterelles-and-chard-recipe"
+ },
+ {
+  "id": "raisins",
+  "name": "Raisins",
+  "current_amazon_url": "https://www.amazon.com/dp/B01GXPRIQY?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "raisins"
+  ],
+  "asins": [
+   "B01GXPRIQY"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "caramelized-raisin-sauce-ala-michael-laiskonis"
+ },
+ {
+  "id": "rambutan",
+  "name": "Rambutan",
+  "current_amazon_url": "https://www.amazon.com/dp/B00E65Z8G6?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "rambutan"
+  ],
+  "asins": [
+   "B00E65Z8G6"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "how-many-rams-c"
+ },
+ {
+  "id": "rani-fenugreek-leaves-dried-kasoori-methi",
+  "name": "Rani Fenugreek Leaves Dried (Kasoori Methi)",
+  "current_amazon_url": "https://www.amazon.com/dp/B018PUTG24?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "fenugreek leaves"
+  ],
+  "asins": [
+   "B018PUTG24"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "indian-lentil-soup-with-fenugreek-or-methi-dal-guest-post-recipe"
+ }
+]

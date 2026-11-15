@@ -1,0 +1,593 @@
+[
+ {
+  "id": "candy-deep-fry-thermometer",
+  "name": "Candy/deep Fry Thermometer",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B00004XSC9"
+   ],
+   "title": "Candy/deep Fry Thermometer",
+   "anchors": [
+    "365 degrees F",
+    "370 degrees F",
+    "candy/deep fry thermometer"
+   ],
+   "links": 3,
+   "posts": 3,
+   "example_post": "bunuelos-bimuelos-donuts-hanukkah-sephardic"
+  },
+  "primary": {
+   "merchant": "ThermoWorks",
+   "product": "ChefAlarm Cooking Alarm Thermometer and Timer",
+   "url": "https://www.thermoworks.com/products/chefalarm",
+   "epc": 0.31,
+   "rate": 10,
+   "price": "$41.40",
+   "verified": true
+  },
+  "alternatives": [
+   {
+    "merchant": "ThermoWorks",
+    "product": "ThermoPop 2",
+    "url": "https://www.thermoworks.com/products/thermopop-2",
+    "epc": 0.31,
+    "rate": 10,
+    "price": "$39.00",
+    "verified": true
+   }
+  ],
+  "note": "Amazon item was a basic clip-on candy/deep-fry thermometer; ThermoWorks has no such glass/clip model, so ChefAlarm (probe with high-temp alarm) is a pricier, more accurate stand-in."
+ },
+ {
+  "id": "caraway-seeds",
+  "name": "Caraway Seeds",
+  "status": "match",
+  "kind": "same",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B00MOZCJG2"
+   ],
+   "title": "Caraway Seeds",
+   "anchors": [
+    "caraway seeds"
+   ],
+   "links": 3,
+   "posts": 3,
+   "example_post": "black-rice-fritter-with-turnips-and-horseradish-cream-recipe"
+  },
+  "primary": {
+   "merchant": "Savory Spice Shop",
+   "product": "Dutch Caraway Seeds",
+   "url": "https://www.savoryspiceshop.com/products/dutch-caraway-seeds",
+   "epc": 0.33,
+   "rate": 15,
+   "price": "$5.20",
+   "verified": true
+  },
+  "alternatives": [
+   {
+    "merchant": "The Spice House",
+    "product": "Caraway, Whole Seeds",
+    "url": "https://www.thespicehouse.com/products/caraway-seeds",
+    "epc": 0.21,
+    "rate": 15,
+    "price": "$6.99",
+    "verified": true
+   }
+  ],
+  "note": "Plain whole caraway seeds, just a different brand than the Amazon listing."
+ },
+ {
+  "id": "chef-schoice-130-professional-electric-knife",
+  "name": "Chef'sChoice 130 Professional Electric Knife Sharpener",
+  "status": "match",
+  "kind": "same",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B000CSG9BE"
+   ],
+   "title": "Chef'sChoice 130 Professional Electric Knife Sharpener",
+   "anchors": [
+    "Chef's Choice 130 Professional Sharpening Station",
+    "Chef's Choice M130 Professional Sharpening Station",
+    "Sharpening Station"
+   ],
+   "links": 3,
+   "posts": 3,
+   "example_post": "how-to-use-a-sharpening-steel-on-your-knives-video"
+  },
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "Chef'sChoice Professional Sharpening Station 130",
+   "url": "https://www.surlatable.com/chef146schoice-professional-sharpening-station153-130/PRO-546440.html",
+   "epc": 0.06,
+   "rate": 9,
+   "price": null,
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Same Chef'sChoice 130 sharpener (3-stage), sold at Sur La Table."
+ },
+ {
+  "id": "chicago-metallic-half-sheet-pans",
+  "name": "Chicago Metallic Half-Sheet Pans",
+  "status": "no_match",
+  "reason": "Could not locate a verified in-network half-sheet pan product page (Sur La Table, Restaurant Supply and Made In likely carry similar pans, but search budget and merchant rate limits blocked finding exact URLs).",
+  "amazon": {
+   "asins": [
+    "B000RYPHRK",
+    "B003YKGRPK"
+   ],
+   "title": "Chicago Metallic Half-Sheet Pans",
+   "anchors": [
+    "Chicago Metallic half-sheet pans",
+    "Quarter sheet pan",
+    "sheet pan"
+   ],
+   "links": 3,
+   "posts": 3,
+   "example_post": "strawberries-and-cream-birthday-cake-momofuku-style"
+  }
+ },
+ {
+  "id": "coconut-milk",
+  "name": "Coconut Milk",
+  "status": "no_match",
+  "reason": "Canned coconut milk/cream: could not confirm any in-network merchant product page (Nuts.com only had coconut milk powder; Weee/Thrive pages not found).",
+  "amazon": {
+   "asins": [
+    "B0000D16YH",
+    "B000GG1OTO",
+    "B000SRKCGM"
+   ],
+   "title": "Coconut Milk",
+   "anchors": [
+    "coconut cream",
+    "coconut milk"
+   ],
+   "links": 3,
+   "posts": 3,
+   "example_post": "how-to-make-an-inside-out-egg-recipe"
+  }
+ },
+ {
+  "id": "couscous",
+  "name": "Couscous",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B001HTINWA",
+    "B01IRD2VYE"
+   ],
+   "title": "Couscous",
+   "anchors": [
+    "couscous"
+   ],
+   "links": 3,
+   "posts": 2,
+   "example_post": "recipe-how-to-m"
+  },
+  "primary": {
+   "merchant": "ChefShop.com",
+   "product": "North African Couscous - organic",
+   "url": "https://www.chefshop.com/products/north-african-couscous-organic",
+   "epc": null,
+   "rate": 7,
+   "price": "$14.55",
+   "verified": true
+  },
+  "alternatives": [
+   {
+    "merchant": "ChefShop.com",
+    "product": "Israeli Couscous",
+    "url": "https://www.chefshop.com/products/israeli-couscous-bon-appetit-mag",
+    "epc": null,
+    "rate": 7,
+    "price": "$6.95",
+    "verified": true
+   }
+  ],
+  "note": "Generic Amazon couscous swapped for ChefShop's organic North African couscous; pricier than supermarket boxes. Israeli (pearl) couscous is a different product, shown as alternative."
+ },
+ {
+  "id": "cream-whipper",
+  "name": "Cream Whipper",
+  "status": "no_match",
+  "reason": "No cream whipper (iSi) page found at an in-network merchant; not searched successfully before the search budget ran out. Sur La Table may carry one.",
+  "amazon": {
+   "asins": [
+    "B000A3L60U",
+    "B001U83TWW"
+   ],
+   "title": "Cream Whipper",
+   "anchors": [
+    "cream whipper"
+   ],
+   "links": 3,
+   "posts": 2,
+   "example_post": "compressed-cucumber-shiso-sake-infusion"
+  }
+ },
+ {
+  "id": "dessert-express",
+  "name": "Dessert Express",
+  "status": "no_match",
+  "reason": "Could not locate the Barnes & Noble product page for Dessert Express (Lauren Chattman, ISBN 9781600850189); search did not return it.",
+  "amazon": {
+   "asins": [
+    "1600850189"
+   ],
+   "title": "Dessert Express",
+   "anchors": [
+    "Dessert Express"
+   ],
+   "links": 3,
+   "posts": 1,
+   "example_post": "dessert-express-cookbook-review-with-pudding-cake-recipe"
+  }
+ },
+ {
+  "id": "dutch-oven",
+  "name": "Dutch Oven",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B000LEXR0K",
+    "B000N4WN08",
+    "B004QM8SK2"
+   ],
+   "title": "Dutch Oven",
+   "anchors": [
+    "Dutch oven"
+   ],
+   "links": 3,
+   "posts": 3,
+   "example_post": "my-skillet"
+  },
+  "primary": {
+   "merchant": "Le Creuset",
+   "product": "Signature Round Dutch Oven 5.5 qt",
+   "url": "https://www.lecreuset.com/signature-round-dutch-oven-flame-5-5-qt/21177026090511.html",
+   "epc": 0.07,
+   "rate": 10,
+   "price": "$455.00",
+   "verified": true
+  },
+  "alternatives": [
+   {
+    "merchant": "Sur La Table",
+    "product": "Le Creuset Signature Round 5.5 Qt Dutch Oven",
+    "url": "https://www.surlatable.com/product/le-creuset-signature-round-dutch-oven-5-5-qt/2091627",
+    "epc": 0.06,
+    "rate": 9,
+    "price": null,
+    "verified": true
+   }
+  ],
+  "note": "Amazon links were generic Dutch ovens (likely Lodge-class); Le Creuset 5.5 qt is the classic premium equivalent and much more expensive."
+ },
+ {
+  "id": "farro",
+  "name": "farro",
+  "status": "match",
+  "kind": "same",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B07XLQ13WY"
+   ],
+   "title": "farro",
+   "anchors": [
+    "Farro",
+    "farro"
+   ],
+   "links": 3,
+   "posts": 3,
+   "example_post": "farro-and-chickpea-soup-recipe"
+  },
+  "primary": {
+   "merchant": "Nuts.com",
+   "product": "Organic Pearled Farro",
+   "url": "https://www.nuts.com/products/organic-pearled-farro",
+   "epc": 0.38,
+   "rate": 20,
+   "price": "$5.49",
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Pearled farro, different brand; organic."
+ },
+ {
+  "id": "fresh-shiitake-mushroom-caps",
+  "name": "Fresh Shiitake Mushroom Caps",
+  "status": "no_match",
+  "reason": "Fresh shiitake is perishable; no in-network merchant found selling it (dried shiitake search was not completed).",
+  "amazon": {
+   "asins": [
+    "B0CK1D8ZGT"
+   ],
+   "title": "Fresh Shiitake Mushroom Caps",
+   "anchors": [
+    "dried shiitake mushrooms",
+    "fresh shiitake mushroom caps"
+   ],
+   "links": 3,
+   "posts": 3,
+   "example_post": "shiitake-congee-and-a-challenge"
+  }
+ },
+ {
+  "id": "ghiradelli-semi-sweet-chocolate-chips",
+  "name": "Ghiradelli Semi-Sweet Chocolate Chips",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "low",
+  "amazon": {
+   "asins": [
+    "B000VK7PMK",
+    "B0014E1B7C",
+    "B087HWZ348"
+   ],
+   "title": "Ghiradelli Semi-Sweet Chocolate Chips",
+   "anchors": [
+    "Ghiradelli semi-sweet chocolate chips",
+    "chocolate chips"
+   ],
+   "links": 3,
+   "posts": 3,
+   "example_post": "brownies"
+  },
+  "primary": {
+   "merchant": "Nuts.com",
+   "product": "Semi-Sweet Chocolate Chips",
+   "url": "https://www.nuts.com/products/semi-sweet-chocolate-chips",
+   "epc": 0.38,
+   "rate": 20,
+   "price": "$12.99",
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Ghirardelli is in the network (ghirardelli.com, EPC 0.06) but I could not confirm a chips product URL; Nuts.com's semi-sweet chips are a different brand and larger bag."
+ },
+ {
+  "id": "grill-pan",
+  "name": "Grill Pan",
+  "status": "match",
+  "kind": "same",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B00008GKDQ",
+    "B0000CF66W"
+   ],
+   "title": "Grill Pan",
+   "anchors": [
+    "Lodge cast-iron grill pan",
+    "grill pan"
+   ],
+   "links": 3,
+   "posts": 3,
+   "example_post": "grilled-pineapple-salsa-recipe"
+  },
+  "primary": {
+   "merchant": "Lodge Cast Iron",
+   "product": "10.5 Inch Square Cast Iron Grill Pan",
+   "url": "https://www.lodgecastiron.com/products/square-cast-iron-grill-pan",
+   "epc": 0.02,
+   "rate": 3,
+   "price": "$24.90",
+   "verified": false
+  },
+  "alternatives": [],
+  "note": "Lodge's own grill pan; low EPC but the exact brand named in the post. Verification got HTTP 429 (rate limit), URL came from search results."
+ },
+ {
+  "id": "guajillo-chiles-peppers-dried-whole-4-oz",
+  "name": "Guajillo Chiles Peppers Dried Whole, 4 oz",
+  "status": "no_match",
+  "reason": "Could not confirm a guajillo product page at an in-network merchant (Masienda, Savory Spice, Spice House likely candidates, but searches were rate-limited).",
+  "amazon": {
+   "asins": [
+    "B07VB5DVP1"
+   ],
+   "title": "Amazon.com : Guajillo Chiles Peppers Dried Whole 4 oz \u2013 Natural and Premium. Great For Mexican Recipes Like Mole, Tamales, Salsa, Meats. Mild to Medium Heat, Complex Fruity Flavor. Resealable Bag : Grocery & Gourmet Food",
+   "anchors": [
+    "dried guajillo chiles",
+    "guajillo chiles",
+    "guajillo pepper"
+   ],
+   "links": 3,
+   "posts": 3,
+   "example_post": "pozole-rojo-de-frijol-recipe"
+  }
+ },
+ {
+  "id": "hawaiian-red-alaea-salt",
+  "name": "Hawaiian Red Alaea Salt",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B000CC5EVG",
+    "B017GFKX0I"
+   ],
+   "title": "Amazon.com : Viva Doria Hawaiian Red Alaea Sea Salt, Fine Grain, 2 lb (907 g) : Grocery & Gourmet Food",
+   "anchors": [
+    "Hawaiian Red Alaea Salt",
+    "Red Hawaaian Alaea",
+    "red Hawaiian Alaea sea salt"
+   ],
+   "links": 3,
+   "posts": 3,
+   "example_post": "caramelized-pea"
+  },
+  "primary": {
+   "merchant": "The Spice House",
+   "product": "Hawaiian Red Alaea Sea Salt",
+   "url": "https://www.thespicehouse.com/products/hawaiian-red-alaea-sea-salt",
+   "epc": 0.21,
+   "rate": 15,
+   "price": null,
+   "verified": false
+  },
+  "alternatives": [
+   {
+    "merchant": "Savory Spice Shop",
+    "product": "Hawaiian Red Gold Sea Salt",
+    "url": "https://www.savoryspiceshop.com/products/hawaiian-red-gold-sea-salt",
+    "epc": 0.33,
+    "rate": 15,
+    "price": null,
+    "verified": false
+   }
+  ],
+  "note": "Same style of red alaea clay Hawaiian salt as the Viva Doria one, different brand and size. Savory Spice has higher EPC but is a flaked 'red gold' salt."
+ },
+ {
+  "id": "hot-sauce",
+  "name": "Hot Sauce",
+  "status": "no_match",
+  "reason": "Tapatio/Cholula not found at an in-network merchant (search budget ran out).",
+  "amazon": {
+   "asins": [
+    "B000R4G6JS",
+    "B07FTTWDJS"
+   ],
+   "title": "Amazon.com : Cholula Hot Sauce Variety Pack, Product of Mexico, Gift Set Includes Six 5 Fl Oz Signature Cholula Hot Sauces for Eggs, Pizza, Mexican Dishes, and More, 30 fl oz : Grocery & Gourmet Food",
+   "anchors": [
+    "Tapatio",
+    "hot sauce"
+   ],
+   "links": 3,
+   "posts": 3,
+   "example_post": "austin-style-breakfast-tacos-recipe"
+  }
+ },
+ {
+  "id": "just-get-one",
+  "name": "Just Get One",
+  "status": "match",
+  "kind": "same",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B0BWK6XK7G"
+   ],
+   "title": "Amazon.com: SodaStream Gaia Sparkling Water Maker Kit, Black: Home & Kitchen",
+   "anchors": [
+    "Just get one",
+    "Soda Stream",
+    "SodaStream"
+   ],
+   "links": 3,
+   "posts": 1,
+   "example_post": "make-sparkling-water-seltzer-soda-at-home-with-sodaclub-save-money-and-help-the-environment"
+  },
+  "primary": {
+   "merchant": "SodaStream USA",
+   "product": "SodaStream Classic Sparkling Water Maker starter kit",
+   "url": "https://sodastream.com/products/classic",
+   "epc": 0.13,
+   "rate": 0,
+   "price": "$69.99",
+   "verified": false
+  },
+  "alternatives": [],
+  "note": "Amazon item was a SodaStream Gaia kit; the direct SodaStream shop sells current models. Note rate shows 0% in the network, so earnings may be nil. Verification got HTTP 429."
+ },
+ {
+  "id": "lentils-du-puy",
+  "name": "Lentils Du Puy",
+  "status": "no_match",
+  "reason": "No in-network du Puy lentil page found (ChefShop, Nuts.com likely but searches were blocked).",
+  "amazon": {
+   "asins": [
+    "B08B3XFW1C"
+   ],
+   "title": "Amazon.com : Pereg Du Puy French Green Lentils (16 Oz) - Lentil Beans Dry - Non-GMO & Additive Free - Ideal for Stews, Indian Curries, Tacos & Soups - Vegan Diet-Friendly - High In Protein & Fiber : Everything Else",
+   "anchors": [
+    "French green lentils",
+    "Lentils Du Puy",
+    "from the area of Puy"
+   ],
+   "links": 3,
+   "posts": 3,
+   "example_post": "crostini-with-truffle-cheese-lentils-de-puy-and-apples-recipe"
+  }
+ },
+ {
+  "id": "lm-pectin",
+  "name": "LM Pectin",
+  "status": "match",
+  "kind": "same",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B0009XBJCG",
+    "B001HTIU96",
+    "B0096UW1CK"
+   ],
+   "title": "Amazon.com: Pomonas, Pectin Gluten Free, 1.1 Ounce",
+   "anchors": [
+    "LM Pectin",
+    "LM pectin",
+    "pectin"
+   ],
+   "links": 3,
+   "posts": 3,
+   "example_post": "cherry-tomato"
+  },
+  "primary": {
+   "merchant": "iHerb",
+   "product": "Pomona's Universal Pectin, 1.1 oz",
+   "url": "https://www.iherb.com/pr/pomona-s-universal-pectin-pectin-1-1-oz-31-g/109849",
+   "epc": 0.13,
+   "rate": 15,
+   "price": "$6.86",
+   "verified": false
+  },
+  "alternatives": [],
+  "note": "Same Pomona's Universal Pectin (low-methoxyl) as the Amazon listing. iHerb returned 403 to the checker but is a live page in search results."
+ },
+ {
+  "id": "look-inside-on-amazon",
+  "name": "Look Inside on Amazon",
+  "status": "match",
+  "kind": "book",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "0307952177"
+   ],
+   "title": "Dirt Candy: A Cookbook: Flavor-Forward Food from the Upstart New York City Vegetarian Restaurant: Cohen, Amanda, Dunlavey, Ryan, Hendrix, Grady: 9780307952172: Amazon.com: Books",
+   "anchors": [
+    "Look Inside on Amazon",
+    "writing a cookbook"
+   ],
+   "links": 3,
+   "posts": 1,
+   "example_post": "the-dirt-candy-cookbook-review"
+  },
+  "primary": {
+   "merchant": "Barnes & Noble",
+   "product": "Dirt Candy: A Cookbook",
+   "url": "https://www.barnesandnoble.com/w/dirt-candy-amanda-cohen/1111343501",
+   "epc": 0.01,
+   "rate": 5.15,
+   "price": "$22.00",
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Dirt Candy cookbook (paperback, ISBN 9780307952172); the link text was Amazon's 'Look Inside' so the anchor will need rewording."
+ }
+]

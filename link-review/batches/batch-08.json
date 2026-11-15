@@ -1,0 +1,664 @@
+[
+ {
+  "id": "toasted-sesame-paste-tahini",
+  "name": "Toasted Sesame Paste (tahini)",
+  "status": "match",
+  "kind": "same",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B0D82M5SWZ"
+   ],
+   "title": "Amazon.com : Soom Foods Organic Tahini, Creamy Sesame Paste, 11oz, 1 Pack | Silky-smooth organic sesame tahini paste for hummus, tahini sauce, dressings, dips and baking. Vegan, nut-free and kosher. : Grocery & Gourmet Food",
+   "anchors": [
+    "sesame tahini",
+    "tahini",
+    "toasted sesame paste (tahini)"
+   ],
+   "links": 3,
+   "posts": 3,
+   "example_post": "falafel-in-the"
+  },
+  "primary": {
+   "merchant": "Nuts.com",
+   "product": "Soom Tahini",
+   "url": "https://nuts.com/cookingbaking/condiments/nut-butters-oils/soom-tahini",
+   "epc": 0.38,
+   "rate": 20,
+   "price": null,
+   "verified": false
+  },
+  "alternatives": [
+   {
+    "merchant": "Nuts.com",
+    "product": "Organic Sesame Tahini (16 oz)",
+    "url": "https://nuts.com/cookingbaking/seeds/sesame/tahini.html",
+    "epc": 0.38,
+    "rate": 20,
+    "price": "$13.49",
+    "verified": false
+   }
+  ],
+  "note": "Nuts.com carries the Soom brand tahini; its own organic tahini is a fallback."
+ },
+ {
+  "id": "turmeric-powder",
+  "name": "Turmeric Powder",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B000VK49YM"
+   ],
+   "title": "Amazon.com : Simply Organic Ground Turmeric Root, 2.38 Oz : Grocery & Gourmet Food",
+   "anchors": [
+    "ground turmeric",
+    "turmeric",
+    "turmeric powder"
+   ],
+   "links": 3,
+   "posts": 3,
+   "example_post": "chana-mushroom-masala-recipe"
+  },
+  "primary": {
+   "merchant": "Savory Spice Shop",
+   "product": "Ground Turmeric Powder",
+   "url": "https://www.savoryspiceshop.com/products/ground-turmeric-powder",
+   "epc": 0.33,
+   "rate": 15,
+   "price": null,
+   "verified": false
+  },
+  "alternatives": [],
+  "note": "Same kind of ground turmeric, different brand than Simply Organic."
+ },
+ {
+  "id": "vita-prep",
+  "name": "Vita-Prep",
+  "status": "match",
+  "kind": "same",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B000LQETHI",
+    "B008H4SLV6",
+    "B071P9FYDS"
+   ],
+   "title": "Amazon.com: Vitamix 62826 Vita-P 3, 44 Oz Blender : Home & Kitchen",
+   "anchors": [
+    "Vita-Mix",
+    "Vita-Prep",
+    "VitaPrep"
+   ],
+   "links": 3,
+   "posts": 3,
+   "example_post": "corn-nut-butter-recipe-work-in-progress"
+  },
+  "primary": {
+   "merchant": "Vitamix",
+   "product": "Vita-Prep 3",
+   "url": "https://www.vitamix.com/us/en_us/products/commercial/vita-prep-3",
+   "epc": 0.24,
+   "rate": 15,
+   "price": "$697.95",
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Vitamix sells the current Vita-Prep 3 (64 oz container) direct; the older Vita-Prep listings are discontinued."
+ },
+ {
+  "id": "white-miso",
+  "name": "White Miso",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B005258AZU",
+    "B078HTGHH2"
+   ],
+   "title": "Amazon.com: Roland Foods White Miso Paste, Specialty Imported Food, 35.2-Ounce Package : Grocery & Gourmet Food",
+   "anchors": [
+    "miso",
+    "white miso"
+   ],
+   "links": 3,
+   "posts": 3,
+   "example_post": "red-rice-and-avocado-with-crispy-burdock-chips-recipe"
+  },
+  "primary": {
+   "merchant": "Thrive Market",
+   "product": "Organic White Miso Paste",
+   "url": "https://thrivemarket.com/p/thrive-market-organic-white-miso-paste",
+   "epc": 0.06,
+   "rate": 45,
+   "price": null,
+   "verified": false
+  },
+  "alternatives": [
+   {
+    "merchant": "ChefShop.com",
+    "product": "White Kyoto Shiro Miso - 1 Kilo Pouch",
+    "url": "https://chefshop.com/products/white-kyoto-shiro-miso-1-kilo-pouch",
+    "epc": null,
+    "rate": 7,
+    "price": null,
+    "verified": false
+   }
+  ],
+  "note": "Different brand of white miso than Roland or Miso Master; Thrive's own organic label, and ChefShop's is a 1 kilo pouch."
+ },
+ {
+  "id": "ancho-chili-powder",
+  "name": "Ancho Chili Powder",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B006NIPC5Q"
+   ],
+   "title": "Amazon.com: McCormick Gourmet Ancho Chile Pepper, 1.62 Oz : Books",
+   "anchors": [
+    "ancho chili powder"
+   ],
+   "links": 2,
+   "posts": 2,
+   "example_post": "sichuan-peppercorn-peanuts-a-snack-that-wants-a-beer"
+  },
+  "primary": {
+   "merchant": "Savory Spice Shop",
+   "product": "Ancho Chile Powder",
+   "url": "https://www.savoryspiceshop.com/products/ancho-chile-powder",
+   "epc": 0.33,
+   "rate": 15,
+   "price": null,
+   "verified": false
+  },
+  "alternatives": [
+   {
+    "merchant": "The Spice House",
+    "product": "Ancho Style Dark Chile Powder",
+    "url": "https://www.thespicehouse.com/products/ancho-style-dark-chile-powder",
+    "epc": 0.21,
+    "rate": 15,
+    "price": null,
+    "verified": false
+   }
+  ],
+  "note": "Pure ground ancho chile like the McCormick one, from a specialty spice shop."
+ },
+ {
+  "id": "ancho-guajillo-pasilla-cascabel-de-arbol",
+  "name": "Ancho, Guajillo, Pasilla, Cascabel, de Arbol, ...",
+  "status": "no_match",
+  "reason": "Whole dried chile variety packs not confirmed at an in-network merchant; Spice House/Savory Spice sell chiles individually but no verified product URLs were found.",
+  "amazon": {
+   "asins": [
+    "B07BZW6DSC"
+   ],
+   "title": "Amazon.com : Dried Chile Peppers Variety 3x4oz Ancho Guajillo Pasilla Mexican Chili | Ancho: sweet smoky. Guajillo: fruity. Pasilla: earthy tangy. Whole pods for mole, birria & tamales. Resealable bulk bag. : Grocery & Gourmet Food",
+   "anchors": [
+    "ancho, guajillo, pasilla, cascabel, de arbol, ...",
+    "whole dried chili peppers"
+   ],
+   "links": 2,
+   "posts": 1,
+   "example_post": "vegetarian-chili-recipe"
+  }
+ },
+ {
+  "id": "arborio-rice",
+  "name": "Arborio Rice",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B00112UBOG"
+   ],
+   "title": "Amazon.com : RiceSelect Arborio Rice, Premium Rice for Italian Risotto | Italian-style rice for stovetop, easy to cook, gluten-free, kosher, non-GMO, 32-ounce jar : Grocery & Gourmet Food",
+   "anchors": [
+    "arborio",
+    "arborio rice"
+   ],
+   "links": 2,
+   "posts": 2,
+   "example_post": "arancini-di-riso-fried-risotto-balls-recipe"
+  },
+  "primary": {
+   "merchant": "Thrive Market",
+   "product": "Lundberg Family Farms Sustainable White Arborio Rice",
+   "url": "https://thrivemarket.com/p/lundberg-family-farms-sustainable-white-arborio-rice",
+   "epc": 0.06,
+   "rate": 45,
+   "price": null,
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Different brand of arborio than RiceSelect; same risotto rice."
+ },
+ {
+  "id": "baharat",
+  "name": "Baharat",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B0CZY27RNZ"
+   ],
+   "title": "Amazon.com : Eastanbul Baharat Spice Blend, Sodium Free, No Filler, No MSG 4.94oz | Baharat Seasoning For Turkish & Middle Eastern Dishes, Baharat Spice, Turkish Seasoning Mix, Vegan, Gluten Free : Grocery & Gourmet Food",
+   "anchors": [
+    "baharat"
+   ],
+   "links": 2,
+   "posts": 2,
+   "example_post": "chickpea-and-potato-stew-with-baharat-recipe"
+  },
+  "primary": {
+   "merchant": "Savory Spice Shop",
+   "product": "Baharat Spice Blend",
+   "url": "https://www.savoryspiceshop.com/products/baharat",
+   "epc": 0.33,
+   "rate": 15,
+   "price": null,
+   "verified": false
+  },
+  "alternatives": [
+   {
+    "merchant": "The Spice House",
+    "product": "Baharat Spice, Arabic Spice Mix, 2.2 oz",
+    "url": "https://www.thespicehouse.com/baharat-seasoning",
+    "epc": 0.21,
+    "rate": 15,
+    "price": null,
+    "verified": false
+   }
+  ],
+  "note": "Different brand of baharat than Eastanbul; same Middle Eastern blend."
+ },
+ {
+  "id": "barefoot-contessa",
+  "name": "Barefoot Contessa",
+  "status": "match",
+  "kind": "book",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "0609602195"
+   ],
+   "title": "The Barefoot Contessa Cookbook: Ina Garten, Martha Stewart: 9780609602195: Amazon.com: Books",
+   "anchors": [
+    "Barefoot Contessa",
+    "Ina Garten"
+   ],
+   "links": 2,
+   "posts": 2,
+   "example_post": "brownies"
+  },
+  "primary": {
+   "merchant": "Barnes & Noble",
+   "product": "The Barefoot Contessa Cookbook",
+   "url": "https://www.barnesandnoble.com/w/the-barefoot-contessa-cookbook-ina-garten/1101967733",
+   "epc": 0.01,
+   "rate": 5.15,
+   "price": null,
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "B&N lists the 25th anniversary hardcover edition of ISBN 9780609602195; the Amazon link was the original 1999 edition."
+ },
+ {
+  "id": "barker-s-hot-red-chili-pods-from-hatch-new",
+  "name": "Barker's Hot Red Chili Pods from Hatch, New Mexico, 8 oz",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "low",
+  "amazon": {
+   "asins": [
+    "B00JQNCU3C"
+   ],
+   "title": "Amazon.com : Barker's Hot Red Chili Pods From Hatch, NM - 8 oz : Grocery & Gourmet Food",
+   "anchors": [
+    "dried New Mexico chile pods",
+    "dried New Mexico chili pods"
+   ],
+   "links": 2,
+   "posts": 2,
+   "example_post": "red-curry-delicata-squash-and-tofu-recipe"
+  },
+  "primary": {
+   "merchant": "Savory Spice Shop",
+   "product": "Hot Red New Mexican Chile Powder",
+   "url": "https://www.savoryspiceshop.com/products/hot-red-new-mexican-chile-powder",
+   "epc": 0.33,
+   "rate": 15,
+   "price": null,
+   "verified": false
+  },
+  "alternatives": [
+   {
+    "merchant": "The Spice House",
+    "product": "Ground New Mexico Red Chiles",
+    "url": "https://www.thespicehouse.com/products/ground-red-new-mexico-chiles",
+    "epc": 0.21,
+    "rate": 15,
+    "price": null,
+    "verified": false
+   }
+  ],
+  "note": "These are ground New Mexico chile, not whole dried pods like the Amazon item; no in-network source for whole pods was found."
+ },
+ {
+  "id": "basic-12-model",
+  "name": "basic $12 model",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B00009WE45"
+   ],
+   "title": "Amazon.com: Taylor Waterproof Digital Instant Read Thermometer For Cooking, BBQ, Grilling, Baking, And Meat, Comes With Pocket Sleeve Clip, Red : Industrial & Scientific",
+   "anchors": [
+    "Taylor 9842",
+    "basic $12 model"
+   ],
+   "links": 2,
+   "posts": 1,
+   "example_post": "why-you-need-an-instant-read-kitchen-thermometer"
+  },
+  "primary": {
+   "merchant": "ThermoWorks",
+   "product": "ThermoPop 2",
+   "url": "https://www.thermoworks.com/products/thermopop-2",
+   "epc": 0.31,
+   "rate": 10,
+   "price": null,
+   "verified": false
+  },
+  "alternatives": [],
+  "note": "Not a Taylor, but a similar low-priced waterproof instant-read thermometer from ThermoWorks, likely pricier than $12."
+ },
+ {
+  "id": "beaterblade-for-kitchenaid-tilt-head-bowl-lift",
+  "name": "BeaterBlade for KitchenAid Tilt-Head & Bowl-Lift Mixers",
+  "status": "no_match",
+  "reason": "No in-network merchant confirmed for the BeaterBlade or Ateco 1305 offset spatula; searches were cut off by the search budget.",
+  "amazon": {
+   "asins": [
+    "B001F29N50",
+    "B07MJL6FPC"
+   ],
+   "title": "Page Not Found",
+   "anchors": [
+    "BeaterBlade for KitchenAid Tilt-Head &amp",
+    "Bowl-Lift Mixers",
+    "the Ateco model"
+   ],
+   "links": 2,
+   "posts": 2,
+   "example_post": "stop-scraping-your-stand-mixer-bowl"
+  }
+ },
+ {
+  "id": "berbere-4-0-oz-by-zamouri-spices",
+  "name": "Berbere 4.0 oz by Zamouri Spices",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B000QNR2WA"
+   ],
+   "title": "Amazon.com : Berbere 4.0 oz by Zamouri Spices : Meat Seasonings : Grocery & Gourmet Food",
+   "anchors": [
+    "Berbere 4.0 oz by Zamouri Spices",
+    "buy berbere on Amazon"
+   ],
+   "links": 2,
+   "posts": 2,
+   "example_post": "chard-with-berbere-a-simple-spicy-ethiopianstyle-side-dish-recipe"
+  },
+  "primary": {
+   "merchant": "The Spice House",
+   "product": "Berbere, Ethiopian Spice Blend",
+   "url": "https://www.thespicehouse.com/products/berbere",
+   "epc": 0.21,
+   "rate": 15,
+   "price": null,
+   "verified": false
+  },
+  "alternatives": [],
+  "note": "Same Ethiopian blend from a different brand than Zamouri."
+ },
+ {
+  "id": "best-food-writing-2007-by-holly-hughes",
+  "name": "Best Food Writing 2007 by Holly Hughes",
+  "status": "no_match",
+  "reason": "No Barnes & Noble product page for the 2007 edition found (only later years); old anthology is likely out of print.",
+  "amazon": {
+   "asins": [
+    "1600940390"
+   ],
+   "title": "Best Food Writing 2007: Hughes, Holly: 9781600940392: Amazon.com: Books",
+   "anchors": [
+    "buy this year's",
+    "new edition"
+   ],
+   "links": 2,
+   "posts": 1,
+   "example_post": "book-review-bes"
+  }
+ },
+ {
+  "id": "black-beluga-lentils",
+  "name": "Black &quot;beluga&quot; Lentils",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B08BNPW71P"
+   ],
+   "title": "Amazon.com : CLEAR CREEK Black Lentils | Caviar or Beluga Lentils | 4 lbs | Non-GMO | Kosher | Vegan | Non-Irradiated : Grocery & Gourmet Food",
+   "anchors": [
+    "beluga&quot",
+    "black &quot",
+    "black lentils",
+    "lentils"
+   ],
+   "links": 2,
+   "posts": 2,
+   "example_post": "caviar-lentil-salad-with-arugula-crispy-shallots-and-roasted-garlic-recipe"
+  },
+  "primary": {
+   "merchant": "Nuts.com",
+   "product": "Organic Black Lentils",
+   "url": "https://nuts.com/cookingbaking/beans/lentils/black-lentil.html",
+   "epc": 0.38,
+   "rate": 20,
+   "price": null,
+   "verified": false
+  },
+  "alternatives": [
+   {
+    "merchant": "ChefShop.com",
+    "product": "Black Caviar Lentils",
+    "url": "https://chefshop.com/products/black-caviar-lentils",
+    "epc": null,
+    "rate": 7,
+    "price": null,
+    "verified": false
+   }
+  ],
+  "note": "Black beluga-type lentils from a different brand than Clear Creek, in smaller sizes."
+ },
+ {
+  "id": "blowtorch",
+  "name": "Blowtorch",
+  "status": "no_match",
+  "reason": "No in-network kitchen torch confirmed; searches were cut off by the search budget.",
+  "amazon": {
+   "asins": [
+    "B01LYN1C7P",
+    "B07RKVHJH6"
+   ],
+   "title": "Page Not Found",
+   "anchors": [
+    "blowtorch"
+   ],
+   "links": 2,
+   "posts": 2,
+   "example_post": "crostini-with-young-pecorino-grilled-figs-and-arugula-mint-pesto-recipe"
+  }
+ },
+ {
+  "id": "bob-s-red-mill",
+  "name": "Bob's Red Mill",
+  "status": "match",
+  "kind": "same",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B075XC6C69"
+   ],
+   "title": "Amazon.com : Bob's Red Mill Organic Golden Flaxseed Meal, 16oz (Pack of 1) - Non GMO, Vegan, Paleo Friendly, Keto Friendly, Kosher : Grocery & Gourmet Food",
+   "anchors": [
+    "Bob's Red Mill",
+    "flax meal"
+   ],
+   "links": 2,
+   "posts": 1,
+   "example_post": "sesame-flax-soda-bread-recipe"
+  },
+  "primary": {
+   "merchant": "iHerb.com",
+   "product": "Bob's Red Mill Organic Golden Flaxseed Meal, 16 oz",
+   "url": "https://www.iherb.com/pr/bob-s-red-mill-organic-golden-flaxseed-meal-16-oz-453-g/77011",
+   "epc": 0.13,
+   "rate": 15,
+   "price": null,
+   "verified": false
+  },
+  "alternatives": [],
+  "note": "Exact same Bob's Red Mill golden flax meal, 16 oz, on iHerb (iHerb blocks automated verification)."
+ },
+ {
+  "id": "bourbon-smoked-paprika",
+  "name": "Bourbon-Smoked Paprika",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B000LULFJ4",
+    "B0035R8O12"
+   ],
+   "title": "Amazon.com : Bourbon Smoked Paprika 2.5 oz : Paprika Spices And Herbs : Grocery & Gourmet Food",
+   "anchors": [
+    "bourbon-smoked paprika",
+    "smoked Spanish paprika (pimenton dulce)"
+   ],
+   "links": 2,
+   "posts": 2,
+   "example_post": "caramelized-pea"
+  },
+  "primary": {
+   "merchant": "Savory Spice Shop",
+   "product": "Smoked Spanish Sweet Paprika",
+   "url": "https://www.savoryspiceshop.com/products/smoked-spanish-sweet-paprika",
+   "epc": 0.33,
+   "rate": 15,
+   "price": null,
+   "verified": false
+  },
+  "alternatives": [
+   {
+    "merchant": "The Spice House",
+    "product": "Spanish Sweet Smoked Paprika",
+    "url": "https://www.thespicehouse.com/products/smoked-spanish-sweet-paprika-pimenton-de-la-vera-dulce",
+    "epc": 0.21,
+    "rate": 15,
+    "price": null,
+    "verified": false
+   }
+  ],
+  "note": "No bourbon-smoked paprika found; this is a standard Spanish smoked sweet paprika like the Rey de la Vera option."
+ },
+ {
+  "id": "calabro-whole-milk-ricotta-32-oz",
+  "name": "Calabro Whole Milk Ricotta, 32 oz",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B00Q7IMYBM",
+    "B07D7H4626"
+   ],
+   "title": "Amazon.com: Calabro Cheese, Ricotta Whole Milk, 32 Ounce : Grocery & Gourmet Food",
+   "anchors": [
+    "Calabro",
+    "fresh ricotta cheese"
+   ],
+   "links": 2,
+   "posts": 2,
+   "example_post": "pappardelle-with-eggplant-ragu-and-fresh-ricotta-recipe"
+  },
+  "primary": {
+   "merchant": "Thrive Market",
+   "product": "BelGioioso Whole Milk Ricotta",
+   "url": "https://thrivemarket.com/p/belgioioso-ricotta-con-latte-whole-milk",
+   "epc": 0.06,
+   "rate": 45,
+   "price": null,
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Different brand of whole milk ricotta, and perishable so size may differ."
+ },
+ {
+  "id": "cannellini",
+  "name": "Cannellini",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B08DW3MFXS"
+   ],
+   "title": "Amazon.com : Camellia Dried Cannellini Beans, Non-GMO, 1 lb (Pack of 2) | Creamy Italian white kidney beans. Gluten-free, high-protein. Great for minestrone, salads, pasta e fagioli. : Grocery & Gourmet Food",
+   "anchors": [
+    "cannelini",
+    "cannellini"
+   ],
+   "links": 2,
+   "posts": 2,
+   "example_post": "red-winter-minestrone-with-winter-greens-pesto"
+  },
+  "primary": {
+   "merchant": "Nuts.com",
+   "product": "Organic Cannellini Beans",
+   "url": "https://nuts.com/cookingbaking/beans/greatnortherncannellini/cannellini.html",
+   "epc": 0.38,
+   "rate": 20,
+   "price": null,
+   "verified": false
+  },
+  "alternatives": [
+   {
+    "merchant": "ChefShop.com",
+    "product": "Dried Cannellini Beans (White Kidney Beans)",
+    "url": "https://chefshop.com/products/cannellini-beans-dried",
+    "epc": null,
+    "rate": 7,
+    "price": null,
+    "verified": false
+   }
+  ],
+  "note": "Dried cannellini beans from a different brand than Camellia."
+ }
+]

@@ -1,0 +1,327 @@
+[
+ {
+  "id": "epazote",
+  "name": "Epazote",
+  "current_amazon_url": "https://www.amazon.com/dp/B0BQ8PF6MC?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com : 2oz Dried Cut Epazote Leaves, Hojas de Epazote Cortadas | Hojas de Epazote Cortadas : Grocery & Gourmet Food"
+  ],
+  "anchors": [
+   "epazote"
+  ],
+  "asins": [
+   "B0BQ8PF6MC"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "spicy-tomatillo-salsa-recipe"
+ },
+ {
+  "id": "essentials-of-classic-italian-cooking",
+  "name": "Essentials of Classic Italian Cooking",
+  "current_amazon_url": "https://www.amazon.com/dp/039458404X?tag=herb-hugo-20",
+  "is_book": true,
+  "amazon_titles": [],
+  "anchors": [
+   "Essentials of Classic Italian Cooking"
+  ],
+  "asins": [
+   "039458404X"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "minestrone"
+ },
+ {
+  "id": "expensive-paraphenalia",
+  "name": "expensive paraphenalia",
+  "current_amazon_url": "https://www.amazon.com/dp/B0027FXE7C?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "expensive paraphenalia"
+  ],
+  "asins": [
+   "B0027FXE7C"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "using-dry-ice-to-carry-scent-culinary-fog"
+ },
+ {
+  "id": "extra-virgin-olive-oil",
+  "name": "Extra-Virgin Olive Oil",
+  "current_amazon_url": "https://www.amazon.com/dp/B002LZKGWY?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "tasty extra-virgin olive oil"
+  ],
+  "asins": [
+   "B002LZKGWY"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "lemon-mustard-vinaigrette-the-simplest-and-best-salad-dressing-recipe"
+ },
+ {
+  "id": "falafel",
+  "name": "Falafel",
+  "current_amazon_url": "https://www.amazon.com/dp/B01N1ZZRIC?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "falafel"
+  ],
+  "asins": [
+   "B01N1ZZRIC"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "breakfast-in-is"
+ },
+ {
+  "id": "fava-or-garbanzo-beans",
+  "name": "Fava or Garbanzo Beans",
+  "current_amazon_url": "https://www.amazon.com/dp/B00B0422F6?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "fava or garbanzo beans"
+  ],
+  "asins": [
+   "B00B0422F6"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "fried-pita-bread-with-fava-beans-and-zucchini-recipe"
+ },
+ {
+  "id": "feeding-the-hungry-ghost",
+  "name": "Feeding the Hungry Ghost",
+  "current_amazon_url": "https://www.amazon.com/dp/1608681645?tag=herb-hugo-20",
+  "is_book": true,
+  "amazon_titles": [],
+  "anchors": [
+   "Feeding the Hungry Ghost"
+  ],
+  "asins": [
+   "1608681645"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "hungry-ghost-moroccan-carrot-salad-recipe"
+ },
+ {
+  "id": "feta-cheese",
+  "name": "Feta Cheese",
+  "current_amazon_url": "https://www.amazon.com/dp/B0012FPTXU?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "feta cheese"
+  ],
+  "asins": [
+   "B0012FPTXU"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "chermoula-stuffed-eggplant-recipe"
+ },
+ {
+  "id": "fideos",
+  "name": "Fideos",
+  "current_amazon_url": "https://www.amazon.com/dp/B00FR6XI9W?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "fideos"
+  ],
+  "asins": [
+   "B00FR6XI9W"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "ilans-top-chef-fideos-vegetarian-style-with-a-review-of-the-top-chef-cookbook"
+ },
+ {
+  "id": "field-roast-spicy-mexican-chipotle-plant-based",
+  "name": "Field Roast Spicy Mexican Chipotle Plant-Based Sausage, 12.95 oz",
+  "current_amazon_url": "https://www.amazon.com/dp/B002DQIZRE?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "Field Roast Mexican Chipotle vegetarian sausage"
+  ],
+  "asins": [
+   "B002DQIZRE"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "recipe-veggie-c"
+ },
+ {
+  "id": "fig-spread",
+  "name": "Fig Spread",
+  "current_amazon_url": "https://www.amazon.com/dp/B005GGUITQ?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "fig spread"
+  ],
+  "asins": [
+   "B005GGUITQ"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "pan-fried-polenta-with-chickpea-stew-king-oyster-mushrooms-and-fig-puree"
+ },
+ {
+  "id": "fine-mesh-chinois-strainer",
+  "name": "Fine Mesh Chinois Strainer",
+  "current_amazon_url": "https://www.amazon.com/dp/B002JPJI7K?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "badass professional fine chinois"
+  ],
+  "asins": [
+   "B002JPJI7K"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "cold-sorrel-and-coconut-milk-soup-recipe"
+ },
+ {
+  "id": "flaky-sea-salt",
+  "name": "Flaky Sea Salt",
+  "current_amazon_url": "https://www.amazon.com/dp/B001TO8YXC?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "flaky sea salt"
+  ],
+  "asins": [
+   "B001TO8YXC"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "puntarelle-and-tiny-potato-salad-recipe"
+ },
+ {
+  "id": "flat-stanleyish",
+  "name": "flat-stanleyish",
+  "current_amazon_url": "https://www.amazon.com/dp/0060837764?tag=herb-hugo-20",
+  "is_book": true,
+  "amazon_titles": [],
+  "anchors": [
+   "flat-stanleyish"
+  ],
+  "asins": [
+   "0060837764"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "buckwheat-buttermilk-pancakes-recipe"
+ },
+ {
+  "id": "flax-plus-cereal",
+  "name": "Flax Plus Cereal",
+  "current_amazon_url": "https://www.amazon.com/dp/B000VK7YAI?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com: Nature's Path Organic Flax Multibran Flakes Cereal, 13.25 oz (Pack of 1) | ALA Omega-3 & 7g Fiber: Whole grain flakes with flax seed, wheat bran and oat bran, no artificial flavors or colors"
+  ],
+  "anchors": [
+   "Flax Plus cereal"
+  ],
+  "asins": [
+   "B000VK7YAI"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "how-do-you-get-your-protein-is-vegetarian-protein-a-problem"
+ },
+ {
+  "id": "flour",
+  "name": "flour",
+  "current_amazon_url": "https://www.amazon.com/dp/B07XKDR6HN?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "flour"
+  ],
+  "asins": [
+   "B07XKDR6HN"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "eat-ethiopian-t"
+ },
+ {
+  "id": "food-dehydrator",
+  "name": "Food Dehydrator",
+  "current_amazon_url": "https://www.amazon.com/dp/B004Z915M4?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "fancy-pants dehydrator"
+  ],
+  "asins": [
+   "B004Z915M4"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "corned-beets-recipe"
+ },
+ {
+  "id": "food-mill",
+  "name": "Food Mill",
+  "current_amazon_url": "https://www.amazon.com/dp/B08BKKQ2NL?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "food mill"
+  ],
+  "asins": [
+   "B08BKKQ2NL"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "pumpkin-ravio-1"
+ },
+ {
+  "id": "food-wine",
+  "name": "Food &amp; Wine",
+  "current_amazon_url": "https://www.amazon.com/dp/B00005NINY?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "Food &amp",
+   "Wine"
+  ],
+  "asins": [
+   "B00005NINY"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "can-a-vegetarian-eat-at-pike-street-fish-fry-restaurant-review-seattle-wa"
+ },
+ {
+  "id": "frantoia",
+  "name": "Frantoia",
+  "current_amazon_url": "https://www.amazon.com/dp/B0006MKY1W?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "Frantoia"
+  ],
+  "asins": [
+   "B0006MKY1W"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "peeled-cherry-t"
+ }
+]

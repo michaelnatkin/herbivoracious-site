@@ -1,0 +1,572 @@
+[
+ {
+  "id": "lodge-5-quart-cast-iron-dutch-oven",
+  "name": "Lodge 5-Quart Cast Iron Dutch Oven",
+  "status": "match",
+  "kind": "same",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B00004S9HE",
+    "B00063RWYI"
+   ],
+   "title": "Amazon.com: Lodge 5-Quart Cast Iron Dutch Oven with Iron Lid: Home & Kitchen",
+   "anchors": [
+    "5 quart Dutch oven"
+   ],
+   "links": 2,
+   "posts": 2,
+   "example_post": "artichaut-marinieres-artichokes-cooked-in-white-wine-and-garlic-recipe"
+  },
+  "primary": {
+   "merchant": "Lodge Cast Iron",
+   "product": "5 Quart Cast Iron Dutch Oven With Bail Handle",
+   "url": "https://www.lodgecastiron.com/products/dutch-oven-with-bail",
+   "epc": 0.02,
+   "rate": 3.0,
+   "price": "$69.95",
+   "verified": false
+  },
+  "alternatives": [],
+  "note": "Same Lodge 5-quart seasoned cast iron Dutch oven with lid, bought direct from Lodge (Lodge's site rate-limited the check, so the URL is unverified)."
+ },
+ {
+  "id": "madhur-jaffrey-s-world-vegetarian",
+  "name": "Madhur Jaffrey&#39;s World Vegetarian",
+  "status": "match",
+  "kind": "book",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "0609809237",
+    "1579652077"
+   ],
+   "title": "Madhur Jaffrey's World Vegetarian: More Than 650 Meatless Recipes from Around the World: A Cookbook: Jaffrey, Madhur: 9780609809235: Amazon.com: Books",
+   "anchors": [
+    "Madhur Jaffrey&#39",
+    "Mangoes and Curry Leaves",
+    "s World Vegetarian"
+   ],
+   "links": 2,
+   "posts": 2,
+   "example_post": "the-adaptable-feast-cookbook-review-and-a-chance-to-win-a-copy"
+  },
+  "primary": {
+   "merchant": "Barnes & Noble",
+   "product": "Madhur Jaffrey's World Vegetarian (Paperback)",
+   "url": "https://www.barnesandnoble.com/w/madhur-jaffreys-world-vegetarian-madhur-jaffrey/1138713746",
+   "epc": 0.01,
+   "rate": 5.15,
+   "price": "$35.00",
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Same book, paperback, ISBN 9780609809235."
+ },
+ {
+  "id": "mama-lil-s-spicy-peppers",
+  "name": "Mama Lil's Spicy Peppers",
+  "status": "no_match",
+  "reason": "Could not find an in-network merchant page (web search budget ran out); Mama Lil's is sold at Whole Foods and independent shops, none confirmed in Skimlinks.",
+  "amazon": {
+   "asins": [
+    "B006HWTYT8",
+    "B007BH3TPI"
+   ],
+   "title": "Page Not Found",
+   "anchors": [
+    "Mama Lil's spicy peppers",
+    "Mama Lil\u2019s peppers"
+   ],
+   "links": 2,
+   "posts": 2,
+   "example_post": "spicy-mama-lils-spaghetti-carbonara-recipe"
+  }
+ },
+ {
+  "id": "mangoes-curry-leaves-culinary-travels-through",
+  "name": "Mangoes & Curry Leaves: Culinary Travels Through the Great Subcontinent",
+  "status": "match",
+  "kind": "book",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "1579652522"
+   ],
+   "title": "Mangoes & Curry Leaves: Culinary Travels Through the Great Subcontinent",
+   "anchors": [
+    "Curry Leaves: Culinary Travels Through the Great Subcontinent",
+    "Mangoes &amp"
+   ],
+   "links": 2,
+   "posts": 1,
+   "example_post": "mangoes-and-cur"
+  },
+  "primary": {
+   "merchant": "Barnes & Noble",
+   "product": "Mangoes & Curry Leaves: Culinary Travels Through the Great Subcontinent",
+   "url": "https://www.barnesandnoble.com/w/mangoes-curry-leaves-jeffrey-alford/1111373604",
+   "epc": 0.01,
+   "rate": 5.15,
+   "price": "$17.99",
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Same title; the B&N page found appears to be the eBook edition, the hardcover (ISBN 1579652522) may be a different B&N page; owner should check."
+ },
+ {
+  "id": "medaglia-d-oro-instant-espresso-coffee-2-oz",
+  "name": "Medaglia D'Oro Instant Espresso Coffee, 2 oz",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B000QJW2KG",
+    "B002BTI9B0"
+   ],
+   "title": "Amazon.com : Medaglia D'Oro Instant Espresso Coffee, 2 Ounces (Pack of 1) : Grocery & Gourmet Food",
+   "anchors": [
+    "Medaglia D'Oro",
+    "instant espresso"
+   ],
+   "links": 2,
+   "posts": 2,
+   "example_post": "brownies"
+  },
+  "primary": {
+   "merchant": "King Arthur Baking",
+   "product": "Espresso Powder",
+   "url": "https://www.kingarthurbaking.com/node/8421",
+   "epc": 0.08,
+   "rate": 5.0,
+   "price": "$9.95",
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Different brand: King Arthur espresso powder is the baker's standard substitute for instant espresso in brownies and chocolate recipes."
+ },
+ {
+  "id": "mini-muffin-tin",
+  "name": "Mini-Muffin Tin",
+  "status": "no_match",
+  "reason": "King Arthur sells a 24-cup mini muffin pan ($29.95) but no direct product URL was found before the search budget ran out.",
+  "amazon": {
+   "asins": [
+    "B004EBS16G",
+    "B0D9YCT6GQ"
+   ],
+   "title": "Amazon.com: Bake Choice Mini Muffin Pan with 200 Cupcake Liners, Mini Cupcake Pans | Nonstick 24 Cup, Muffin Tin, Carbon Steel Baking Supplies: Home & Kitchen",
+   "anchors": [
+    "mini-cupcake tins",
+    "mini-muffin tin"
+   ],
+   "links": 2,
+   "posts": 2,
+   "example_post": "sugar-high-frid"
+  }
+ },
+ {
+  "id": "momofuku-by-david-chang",
+  "name": "Momofuku by David Chang",
+  "status": "match",
+  "kind": "book",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "030745195X"
+   ],
+   "title": "Momofuku by David Chang",
+   "anchors": [
+    "Momofuku cookbook"
+   ],
+   "links": 2,
+   "posts": 2,
+   "example_post": "mandu-koreanstyle-potstickers-with-ssamjang-kochujang-sauce-recipe"
+  },
+  "primary": {
+   "merchant": "Barnes & Noble",
+   "product": "Momofuku: A Cookbook (Hardcover)",
+   "url": "https://www.barnesandnoble.com/w/momofuku-david-chang/1137656659",
+   "epc": 0.01,
+   "rate": 5.15,
+   "price": "$34.00",
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Same book, hardcover, ISBN 9780307451958."
+ },
+ {
+  "id": "more-expensive-thermapen-model",
+  "name": "more expensive Thermapen model",
+  "status": "match",
+  "kind": "same",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B003P601S2"
+   ],
+   "title": "Page Not Found",
+   "anchors": [
+    "Thermapen",
+    "more expensive Thermapen model"
+   ],
+   "links": 2,
+   "posts": 1,
+   "example_post": "why-you-need-an-instant-read-kitchen-thermometer"
+  },
+  "primary": {
+   "merchant": "ThermoWorks",
+   "product": "Thermapen ONE",
+   "url": "https://www.thermoworks.com/products/thermapen-one",
+   "epc": 0.31,
+   "rate": 10.0,
+   "price": "$74.00",
+   "verified": true
+  },
+  "alternatives": [
+   {
+    "merchant": "ThermoWorks",
+    "product": "Classic Super-Fast Thermapen",
+    "url": "https://www.thermoworks.com/products/classic-thermapen",
+    "epc": 0.31,
+    "rate": 10.0,
+    "price": "$59.00",
+    "verified": true
+   }
+  ],
+  "note": "Thermapen is a ThermoWorks product; the ONE is the current flagship replacing the older, pricier models."
+ },
+ {
+  "id": "morita",
+  "name": "Morita",
+  "status": "no_match",
+  "reason": "Savory Spice sells Chipotle Chile Powder (Morita) but no product URL could be found (site rate-limited, search budget ran out).",
+  "amazon": {
+   "asins": [
+    "B0821P2R3G"
+   ],
+   "title": "Morita",
+   "anchors": [
+    "morita"
+   ],
+   "links": 2,
+   "posts": 2,
+   "example_post": "spicy-nori-popcorn-recipe"
+  }
+ },
+ {
+  "id": "ohsawa-organic-unpasteurized-nama-shoyu",
+  "name": "Ohsawa Organic Unpasteurized Nama Shoyu",
+  "status": "no_match",
+  "reason": "iHerb carries Ohsawa Organic Nama Shoyu (32 fl oz) but the product page URL could not be found before the search budget ran out.",
+  "amazon": {
+   "asins": [
+    "B0018PUIVW",
+    "B001A4DV88"
+   ],
+   "title": "Ohsawa Organic Unpasteurized Nama Shoyu",
+   "anchors": [
+    "Nama Shoyu",
+    "Ohsawa Organic Unpasteurized Nama Shoyu"
+   ],
+   "links": 2,
+   "posts": 2,
+   "example_post": "soba-in-shoyu-broth-with-asparagus-leeks-and-tofu-recipe"
+  }
+ },
+ {
+  "id": "parchment",
+  "name": "Parchment",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B07H79KX8W",
+    "B09NQGXJ5C"
+   ],
+   "title": "Parchment",
+   "anchors": [
+    "parchment",
+    "parchment paper"
+   ],
+   "links": 2,
+   "posts": 2,
+   "example_post": "aromatic-tofu-en-papillote-recipe"
+  },
+  "primary": {
+   "merchant": "King Arthur Baking",
+   "product": "Half-Sheet Baking Parchment Paper",
+   "url": "https://shop.kingarthurbaking.com/items/half-sheet-baking-parchment-paper",
+   "epc": 0.08,
+   "rate": 5.0,
+   "price": null,
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Pre-cut unbleached parchment sheets; Amazon item was a generic parchment paper."
+ },
+ {
+  "id": "paring-knife",
+  "name": "Paring Knife",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B09RTFBBQM",
+    "B0DZJHRSF8"
+   ],
+   "title": "Paring Knife",
+   "anchors": [
+    "paring knife"
+   ],
+   "links": 2,
+   "posts": 2,
+   "example_post": "braised-baby-artichoke-with-fennel-and-cherry-tomatoes-recipe"
+  },
+  "primary": {
+   "merchant": "Misen",
+   "product": "3.5\" Paring Knife (ACUTO440)",
+   "url": "https://www.misen.com/products/paring-knife-acuto-black",
+   "epc": 0.67,
+   "rate": 10.0,
+   "price": "$59.00",
+   "verified": true
+  },
+  "alternatives": [
+   {
+    "merchant": "OXO",
+    "product": "3.5\" Paring Knife",
+    "url": "https://www.oxo.com/3-5-paring-knife.html",
+    "epc": 0.04,
+    "rate": 15.0,
+    "price": "$12.99",
+    "verified": false
+   }
+  ],
+  "note": "Amazon listing unknown; Misen is a higher-quality 3.5-inch paring knife, OXO is the budget equivalent."
+ },
+ {
+  "id": "pastry-bag",
+  "name": "Pastry Bag",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B0C6SSH4LK",
+    "B0CGNZ7BGR"
+   ],
+   "title": "Pastry Bag",
+   "anchors": [
+    "pastry bag"
+   ],
+   "links": 2,
+   "posts": 2,
+   "example_post": "zucchini-stuffed-zucchini-blossoms-recipe"
+  },
+  "primary": {
+   "merchant": "King Arthur Baking",
+   "product": "Pastry Bags and Tips Set",
+   "url": "https://shop.kingarthurbaking.com/items/pastry-bags-and-tips-set",
+   "epc": 0.08,
+   "rate": 5.0,
+   "price": null,
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Set of 36 disposable 16-inch bags plus tips; generic equivalent of the Amazon pastry bags."
+ },
+ {
+  "id": "pine-nuts",
+  "name": "Pine Nuts",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B0DZ1FGKN2"
+   ],
+   "title": "Pine Nuts",
+   "anchors": [
+    "pine nuts"
+   ],
+   "links": 2,
+   "posts": 2,
+   "example_post": "hummus-peace-su"
+  },
+  "primary": {
+   "merchant": "Nuts.com",
+   "product": "Mediterranean Pine Nuts (Pignolias)",
+   "url": "https://nuts.com/nuts/pinenuts/mediterranean.html",
+   "epc": 0.38,
+   "rate": 20.0,
+   "price": "$46.49 / 8 oz",
+   "verified": false
+  },
+  "alternatives": [
+   {
+    "merchant": "Nuts.com",
+    "product": "Organic Pine Nuts (Raw, No Shell)",
+    "url": "https://shop.nuts.com/products/organic-pine-nuts-raw-no-shell",
+    "epc": 0.38,
+    "rate": 20.0,
+    "price": "$24.49 / 8 oz",
+    "verified": false
+   }
+  ],
+  "note": "Raw shelled pine nuts; Amazon size and brand unknown. Nuts.com blocked the check (429)."
+ },
+ {
+  "id": "potato-masher",
+  "name": "Potato Masher",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B00004OCL9",
+    "B002JG8ETC"
+   ],
+   "title": "Potato Masher",
+   "anchors": [
+    "potato masher"
+   ],
+   "links": 2,
+   "posts": 2,
+   "example_post": "ridiculously-good-guacamole-recipe"
+  },
+  "primary": {
+   "merchant": "OXO",
+   "product": "Good Grips Wire Potato Masher",
+   "url": "https://www.oxo.com/wire-potato-masher.html",
+   "epc": 0.04,
+   "rate": 15.0,
+   "price": "$16.99",
+   "verified": false
+  },
+  "alternatives": [],
+  "note": "Classic OXO masher; OXO blocks automated checks (403)."
+ },
+ {
+  "id": "rice-vinegar",
+  "name": "Rice Vinegar",
+  "status": "no_match",
+  "reason": "No product page found for a specific rice vinegar before the search budget ran out.",
+  "amazon": {
+   "asins": [
+    "B000VM2KY6"
+   ],
+   "title": "Rice Vinegar",
+   "anchors": [
+    "rice vinegar"
+   ],
+   "links": 2,
+   "posts": 2,
+   "example_post": "bibim-naegnmyeon-joll-noodles-cold-and-spicy-korean-noodles-recipe"
+  }
+ },
+ {
+  "id": "roasted-hazelnut-oil",
+  "name": "Roasted Hazelnut Oil",
+  "status": "no_match",
+  "reason": "Nuts.com does not appear to sell hazelnut oil, and no other in-network merchant page was found.",
+  "amazon": {
+   "asins": [
+    "B0000D9MRC"
+   ],
+   "title": "Roasted Hazelnut Oil",
+   "anchors": [
+    "hazelnut oil",
+    "roasted hazelnut oil"
+   ],
+   "links": 2,
+   "posts": 2,
+   "example_post": "caviar-lentil-salad-with-arugula-crispy-shallots-and-roasted-garlic-recipe"
+  }
+ },
+ {
+  "id": "rustichella-d-abruzzo-fregola-sarda",
+  "name": "Rustichella D'Abruzzo Fregola Sarda",
+  "status": "no_match",
+  "reason": "Nuts.com does not carry fregola; no in-network merchant page found before the search budget ran out.",
+  "amazon": {
+   "asins": [
+    "B000B38C6A",
+    "B078J37Y7K"
+   ],
+   "title": "Rustichella D'Abruzzo Fregola Sarda",
+   "anchors": [
+    "Fregola Sarda",
+    "Israeli couscous"
+   ],
+   "links": 2,
+   "posts": 2,
+   "example_post": "celery-soup-with-fregola-sarda-or-israeli-couscous-recipe"
+  }
+ },
+ {
+  "id": "rye-flour",
+  "name": "Rye Flour",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B08HZJJ61J"
+   ],
+   "title": "Rye Flour",
+   "anchors": [
+    "rye flour"
+   ],
+   "links": 2,
+   "posts": 2,
+   "example_post": "flatbread-with-padron-peppers-and-zucchini-blossoms-recipe"
+  },
+  "primary": {
+   "merchant": "Nuts.com",
+   "product": "Organic Dark Rye Flour",
+   "url": "https://nuts.com/cookingbaking/grains/rye/flour.html",
+   "epc": 0.38,
+   "rate": 20.0,
+   "price": null,
+   "verified": false
+  },
+  "alternatives": [],
+  "note": "Stone-ground organic dark rye flour; Amazon brand unknown. Nuts.com blocked the check (429)."
+ },
+ {
+  "id": "saba-syrupy-grape-must",
+  "name": "Saba (syrupy Grape Must)",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B08381GTJF",
+    "B0F1Z5JM79"
+   ],
+   "title": "Saba (syrupy Grape Must)",
+   "anchors": [
+    "mosto cotto (aka saba)",
+    "saba (syrupy grape must)"
+   ],
+   "links": 2,
+   "posts": 2,
+   "example_post": "the-vegetarian-tasting-menu-at-canlis-throwing-down-the-gauntlet"
+  },
+  "primary": {
+   "merchant": "ChefShop.com",
+   "product": "San Giacomo Saba 750ml",
+   "url": "https://chefshop.com/San-Giacomo-Saba-750ml-P7473.aspx",
+   "epc": null,
+   "rate": 7.0,
+   "price": null,
+   "verified": false
+  },
+  "alternatives": [],
+  "note": "Same product type (cooked grape must, saba/mosto cotto); ChefShop blocked the check (429)."
+ }
+]

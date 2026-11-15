@@ -1,0 +1,326 @@
+[
+ {
+  "id": "cake-tester-2",
+  "name": "Cake Tester",
+  "current_amazon_url": "https://www.amazon.com/dp/B07FCL1ZXC?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "cake tester"
+  ],
+  "asins": [
+   "B07FCL1ZXC"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "tomato-and-beet-salad-recipe"
+ },
+ {
+  "id": "calcium-chloride",
+  "name": "Calcium Chloride",
+  "current_amazon_url": "https://www.amazon.com/dp/B00BLPNJLK?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "calcium chloride"
+  ],
+  "asins": [
+   "B00BLPNJLK"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "blini-with-aspa"
+ },
+ {
+  "id": "calphalon-12-inch-non-stick-omelet-pan",
+  "name": "Calphalon 12-Inch Non-Stick Omelet Pan",
+  "current_amazon_url": "https://www.amazon.com/dp/B0000936JK?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "Calphalon 12-inch non-stick omelet pan"
+  ],
+  "asins": [
+   "B0000936JK"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "crepes-with-roasted-french-plums-yogurt-and-honey"
+ },
+ {
+  "id": "candied-fruit",
+  "name": "Candied Fruit",
+  "current_amazon_url": "https://www.amazon.com/dp/B0FXM1W58D?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com : Candied Orange Peel Diced \u2013 17.64 oz for Baking & Cocktails | Sweet and zesty candied orange peel. A baking essential for cakes, cookies, scones, fruitcakes, and cocktail garnish. : Grocery & Gourmet Food"
+  ],
+  "anchors": [
+   "candied fruit"
+  ],
+  "asins": [
+   "B0FXM1W58D"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "holiday-shopping-for-gourmets-or-gourmands-chefshopcom"
+ },
+ {
+  "id": "candied-seville-orange-peel",
+  "name": "Candied Seville Orange Peel",
+  "current_amazon_url": "https://www.amazon.com/dp/B0199C8W6S?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "candied Seville orange peel"
+  ],
+  "asins": [
+   "B0199C8W6S"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "paella-cakes-with-manchego-and-candied-seville-orange-peel-recipe"
+ },
+ {
+  "id": "capellini",
+  "name": "Capellini",
+  "current_amazon_url": "https://www.amazon.com/dp/B08BB9LLYV?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "capellini"
+  ],
+  "asins": [
+   "B08BB9LLYV"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "peppery-red-wine-capellini-cooked-by-the-absorption-method-recipe"
+ },
+ {
+  "id": "caraway-seeds-2",
+  "name": "Caraway Seeds",
+  "current_amazon_url": "https://www.amazon.com/dp/B08BY6J6KR?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "caraway seeds"
+  ],
+  "asins": [
+   "B08BY6J6KR"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "baby-turnip-salad-tip-to-tail-style-recipe"
+ },
+ {
+  "id": "cardamom",
+  "name": "Cardamom",
+  "current_amazon_url": "https://www.amazon.com/dp/B00AJRKO8M?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "cardamom"
+  ],
+  "asins": [
+   "B00AJRKO8M"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "i-like-you-hospitality-under-the-influence-by-amy-sedaris-cookbook-review"
+ },
+ {
+  "id": "carnation-original-malted-milk-powder",
+  "name": "Carnation Original Malted Milk Powder",
+  "current_amazon_url": "https://www.amazon.com/dp/B01MCZGBCQ?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com : Nestle Carnation Original Malted Milk Powder Mix, 13 OZ Canister : Grocery & Gourmet Food"
+  ],
+  "anchors": [
+   "malted milk powder"
+  ],
+  "asins": [
+   "B01MCZGBCQ"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "malt-onion-rings"
+ },
+ {
+  "id": "ceramic-sharpening-steel",
+  "name": "Ceramic Sharpening Steel",
+  "current_amazon_url": "https://www.amazon.com/dp/B002YK1RAQ?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "ceramic sharpening steel"
+  ],
+  "asins": [
+   "B002YK1RAQ"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "sharpening-steels-kitchen-tools-hand-tools"
+ },
+ {
+  "id": "chaat-masala",
+  "name": "Chaat Masala",
+  "current_amazon_url": "https://www.amazon.com/dp/B000MSQ9CS?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "chaat masala"
+  ],
+  "asins": [
+   "B000MSQ9CS"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "recipe-chana-ch"
+ },
+ {
+  "id": "champagne-flutes-that-are-etched",
+  "name": "Champagne Flutes That Are Etched",
+  "current_amazon_url": "https://www.amazon.com/dp/B0BZ3VXQ1R?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "champagne flutes that are etched"
+  ],
+  "asins": [
+   "B0BZ3VXQ1R"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "foraging-in-bel"
+ },
+ {
+  "id": "cheap-simple-little-dumpling-press",
+  "name": "Cheap, Simple Little Dumpling Press",
+  "current_amazon_url": "https://www.amazon.com/dp/B000PLUIIS?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "cheap, simple little dumpling press"
+  ],
+  "asins": [
+   "B000PLUIIS"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "mandu-koreanstyle-potstickers-with-ssamjang-kochujang-sauce-recipe"
+ },
+ {
+  "id": "cheapo-little-gnocchi-board",
+  "name": "Cheapo Little Gnocchi Board",
+  "current_amazon_url": "https://www.amazon.com/dp/B0019R7SPS?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "cheapo little gnocchi board"
+  ],
+  "asins": [
+   "B0019R7SPS"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "gnocchi-with-radicchio-leeks-and-ricotta-salata-vegetarian-recipe"
+ },
+ {
+  "id": "chef-craft-serrated-grapefruit-spoon-2-piece-set",
+  "name": "Chef Craft Serrated Grapefruit Spoon, 2-Piece Set",
+  "current_amazon_url": "https://www.amazon.com/dp/B00IH5X9BC?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "grapefruit spoons"
+  ],
+  "asins": [
+   "B00IH5X9BC"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "artichoke-spagh"
+ },
+ {
+  "id": "chili-oil",
+  "name": "Chili Oil",
+  "current_amazon_url": "https://www.amazon.com/dp/B001NI726S?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "chili oil"
+  ],
+  "asins": [
+   "B001NI726S"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "sichuan-spicy-cauliflower-recipe"
+ },
+ {
+  "id": "chinese-pickled-mustard-greens",
+  "name": "Chinese Pickled Mustard Greens",
+  "current_amazon_url": "https://www.amazon.com/dp/B00IR5HVH0?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "Chinese pickled mustard greens"
+  ],
+  "asins": [
+   "B00IR5HVH0"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "khao-soi-thai-curry-noodles-from-chiang-mai"
+ },
+ {
+  "id": "chinese-rice-wine",
+  "name": "Chinese Rice Wine",
+  "current_amazon_url": "https://www.amazon.com/dp/B07K6VD6DL?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "Chinese rice wine"
+  ],
+  "asins": [
+   "B07K6VD6DL"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "vegetarian-potstickers-gyoza-recipe"
+ },
+ {
+  "id": "chipotles",
+  "name": "Chipotles",
+  "current_amazon_url": "https://www.amazon.com/dp/B0014CVT6C?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "chipotles"
+  ],
+  "asins": [
+   "B0014CVT6C"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "spicy-tomatillo-salsa-recipe"
+ },
+ {
+  "id": "citrus-juicer",
+  "name": "Citrus Juicer",
+  "current_amazon_url": "https://www.amazon.com/dp/B0002BFZ16?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "citrus juicer"
+  ],
+  "asins": [
+   "B0002BFZ16"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "my-favorite-citrus-juicer"
+ }
+]

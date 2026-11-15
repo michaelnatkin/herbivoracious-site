@@ -1,0 +1,552 @@
+[
+ {
+  "id": "sadaf-natural-rose-water",
+  "name": "Sadaf Natural Rose Water",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B007RHW480",
+    "B00V8TRZG4"
+   ],
+   "title": "Sadaf Natural Rose Water",
+   "anchors": [
+    "rosewater"
+   ],
+   "links": 2,
+   "posts": 2,
+   "example_post": "rings-of-saturn"
+  },
+  "primary": {
+   "merchant": "Savory Spice Shop",
+   "product": "Rose Water",
+   "url": "https://www.savoryspiceshop.com/extracts/rose-water",
+   "epc": 0.33,
+   "rate": 15,
+   "price": "$4.50",
+   "verified": false
+  },
+  "alternatives": [],
+  "note": "Savory Spice Shop's distilled culinary rose water instead of Sadaf's brand; URL came from a search result and is not yet verified (the store was rate-limiting)."
+ },
+ {
+  "id": "saffron",
+  "name": "Saffron",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B007P4W0OI"
+   ],
+   "title": "Saffron",
+   "anchors": [
+    "amazingly delicious things",
+    "saffron"
+   ],
+   "links": 2,
+   "posts": 1,
+   "example_post": "saffron-date-posset-a-dessert-you-should-know-recipe"
+  },
+  "primary": {
+   "merchant": "Savory Spice Shop",
+   "product": "Spanish Coupe Saffron",
+   "url": "https://www.savoryspiceshop.com/products/spanish-coupe-saffron",
+   "epc": 0.33,
+   "rate": 15,
+   "price": "$16.95",
+   "verified": true
+  },
+  "alternatives": [
+   {
+    "merchant": "The Spice House",
+    "product": "Saffron, Coupe Grade Spanish",
+    "url": "https://www.thespicehouse.com/products/coupe-grade-spanish-saffron",
+    "epc": 0.21,
+    "rate": 15,
+    "price": "$16.49",
+    "verified": true
+   }
+  ],
+  "note": "Generic saffron link; Spanish coupe-grade saffron threads from a specialty spice shop."
+ },
+ {
+  "id": "saffron-threads",
+  "name": "Saffron Threads",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B072K71972"
+   ],
+   "title": "Saffron Threads",
+   "anchors": [
+    "saffron",
+    "saffron threads"
+   ],
+   "links": 2,
+   "posts": 2,
+   "example_post": "herbivoracious-dinner-2"
+  },
+  "primary": {
+   "merchant": "Savory Spice Shop",
+   "product": "Spanish Coupe Saffron",
+   "url": "https://www.savoryspiceshop.com/products/spanish-coupe-saffron",
+   "epc": 0.33,
+   "rate": 15,
+   "price": "$16.95",
+   "verified": true
+  },
+  "alternatives": [
+   {
+    "merchant": "The Spice House",
+    "product": "Saffron, Coupe Grade Spanish",
+    "url": "https://www.thespicehouse.com/products/coupe-grade-spanish-saffron",
+    "epc": 0.21,
+    "rate": 15,
+    "price": "$16.49",
+    "verified": true
+   }
+  ],
+  "note": "Same kind of product (saffron threads); brand and size of the original Amazon listing may differ."
+ },
+ {
+  "id": "saffron-shores-jewish-cooking-of-the-southern",
+  "name": "Saffron Shores: Jewish Cooking of the Southern Mediterranean",
+  "status": "no_match",
+  "reason": "Book not found on Barnes & Noble (search returned only other Joyce Goldstein titles); likely out of print.",
+  "amazon": {
+   "asins": [
+    "B000B16SRW"
+   ],
+   "title": "Saffron Shores: Jewish Cooking of the Southern Mediterranean",
+   "anchors": [
+    "Saffron Shores",
+    "Saffron Shores: Jewish Cooking of the Southern Mediterranean"
+   ],
+   "links": 2,
+   "posts": 1,
+   "example_post": "recipe-how-to-m"
+  }
+ },
+ {
+  "id": "sensarte-nonstick-crepe-pan-10-inch",
+  "name": "Sensarte Nonstick Crepe Pan 10-Inch",
+  "status": "no_match",
+  "reason": "No in-network merchant with a crepe pan product page found (Misen/Made In have no dedicated crepe pan page confirmed).",
+  "amazon": {
+   "asins": [
+    "B08RMXBJNQ"
+   ],
+   "title": "Sensarte Nonstick Crepe Pan 10-Inch",
+   "anchors": [
+    "crepe pan",
+    "crepe pans"
+   ],
+   "links": 2,
+   "posts": 2,
+   "example_post": "manouri-cheese-blintzes-recipe"
+  }
+ },
+ {
+  "id": "sodium-alginate",
+  "name": "Sodium Alginate",
+  "status": "no_match",
+  "reason": "Modernist-cuisine ingredient; no in-network merchant carries it (Nuts.com, Savory, Spice House have none).",
+  "amazon": {
+   "asins": [
+    "B00BLPNHLW"
+   ],
+   "title": "Sodium Alginate",
+   "anchors": [
+    "sodium alginate"
+   ],
+   "links": 2,
+   "posts": 2,
+   "example_post": "blini-with-aspa"
+  }
+ },
+ {
+  "id": "star-anise",
+  "name": "Star Anise",
+  "status": "match",
+  "kind": "same",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B08BXF9X52"
+   ],
+   "title": "Star Anise",
+   "anchors": [
+    "star anise"
+   ],
+   "links": 2,
+   "posts": 2,
+   "example_post": "braised-fennel-recipe"
+  },
+  "primary": {
+   "merchant": "Nuts.com",
+   "product": "Star Anise",
+   "url": "https://www.nuts.com/products/star-anise",
+   "epc": 0.38,
+   "rate": 20,
+   "price": "$25.99",
+   "verified": true
+  },
+  "alternatives": [
+   {
+    "merchant": "Savory Spice Shop",
+    "product": "Star Anise",
+    "url": "https://www.savoryspiceshop.com/products/star-anise",
+    "epc": 0.33,
+    "rate": 15,
+    "price": "$6.99",
+    "verified": true
+   }
+  ],
+  "note": "Whole star anise; Nuts.com price is per pound, Savory Spice Shop sells a smaller jar for $6.99."
+ },
+ {
+  "id": "starfrit-salad-spinner",
+  "name": "Starfrit Salad Spinner",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B00BMCJCUO"
+   ],
+   "title": "Starfrit Salad Spinner",
+   "anchors": [
+    "Find the Starfrit model I recommend on Amazon.",
+    "Starfrit Salad Spinner"
+   ],
+   "links": 2,
+   "posts": 1,
+   "example_post": "the-best-salad-spinner-because-wet-lettuce-is-terrible"
+  },
+  "primary": {
+   "merchant": "OXO",
+   "product": "Good Grips Salad Spinner",
+   "url": "https://www.oxo.com/salad-spinner.html",
+   "epc": 0.04,
+   "rate": 15,
+   "price": "$32.99",
+   "verified": false
+  },
+  "alternatives": [],
+  "note": "Starfrit is not in the network; OXO's pump salad spinner is the closest widely-recommended equivalent. OXO blocks automated checks (403), URL came from search."
+ },
+ {
+  "id": "sunflower-seed-butter",
+  "name": "Sunflower Seed Butter",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B000VK84P2",
+    "B008K4HTN4"
+   ],
+   "title": "Sunflower Seed Butter",
+   "anchors": [
+    "sunflower butter",
+    "sunflower seed butter"
+   ],
+   "links": 2,
+   "posts": 2,
+   "example_post": "how-do-you-get-your-protein-is-vegetarian-protein-a-problem"
+  },
+  "primary": {
+   "merchant": "Nuts.com",
+   "product": "Organic Sunflower Butter",
+   "url": "https://www.nuts.com/products/organic-sunflower-butter",
+   "epc": 0.38,
+   "rate": 20,
+   "price": "$9.49",
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Plain organic sunflower seed butter instead of the specific Amazon brand."
+ },
+ {
+  "id": "tamarind-chutney",
+  "name": "Tamarind Chutney",
+  "status": "no_match",
+  "reason": "No in-network merchant with a tamarind chutney product found.",
+  "amazon": {
+   "asins": [
+    "B00BUXM4X2"
+   ],
+   "title": "Tamarind Chutney",
+   "anchors": [
+    "tamarind chutney"
+   ],
+   "links": 2,
+   "posts": 2,
+   "example_post": "gobi-masala-cauliflower-curry-recipe"
+  }
+ },
+ {
+  "id": "tapioca-maltodextrin",
+  "name": "Tapioca Maltodextrin",
+  "status": "no_match",
+  "reason": "Modernist-cuisine ingredient (Tapioca Maltodextrin); not sold by any in-network merchant found; Nuts.com only has tapioca flour, which is not a substitute.",
+  "amazon": {
+   "asins": [
+    "B00250U9BI",
+    "B00C3HL6VK"
+   ],
+   "title": "Tapioca Maltodextrin",
+   "anchors": [
+    "tapioca maltodextrin"
+   ],
+   "links": 2,
+   "posts": 2,
+   "example_post": "experimenting-with-tapioca-maltodextrin-recipe"
+  }
+ },
+ {
+  "id": "tempeh",
+  "name": "Tempeh",
+  "status": "no_match",
+  "reason": "Refrigerated product; no in-network merchant found that sells tempeh.",
+  "amazon": {
+   "asins": [
+    "B000YN1JY4"
+   ],
+   "title": "Tempeh",
+   "anchors": [
+    "tempeh"
+   ],
+   "links": 2,
+   "posts": 2,
+   "example_post": "recipe-rice-bow"
+  }
+ },
+ {
+  "id": "thai-pure-palm-sugar",
+  "name": "Thai Pure Palm Sugar",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B000PDRANM"
+   ],
+   "title": "Thai Pure Palm Sugar",
+   "anchors": [
+    "palm sugar"
+   ],
+   "links": 2,
+   "posts": 2,
+   "example_post": "thai-tofu-salad-recipe"
+  },
+  "primary": {
+   "merchant": "Nuts.com",
+   "product": "Organic Coconut (Palm) Sugar",
+   "url": "https://www.nuts.com/products/organic-coconut-palm-sugar",
+   "epc": 0.38,
+   "rate": 20,
+   "price": "$7.49",
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Coconut palm sugar rather than Thai pure palm sugar; similar caramel sweetness but a bit different, check you are happy with the swap."
+ },
+ {
+  "id": "the-art-of-simple-food-by-alice-waters",
+  "name": "The Art of Simple Food by Alice Waters",
+  "status": "match",
+  "kind": "book",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "0307336794"
+   ],
+   "title": "The Art of Simple Food by Alice Waters",
+   "anchors": [
+    "The Art of Simple Food"
+   ],
+   "links": 2,
+   "posts": 2,
+   "example_post": "flatbread-with-padron-peppers-and-zucchini-blossoms-recipe"
+  },
+  "primary": {
+   "merchant": "Barnes & Noble",
+   "product": "The Art of Simple Food: Notes, Lessons, and Recipes from a Delicious Revolution",
+   "url": "https://www.barnesandnoble.com/w/the-art-of-simple-food-alice-waters/1138089471",
+   "epc": 0.01,
+   "rate": 5.15,
+   "price": null,
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Hardcover, ISBN 9780307336798, same edition as the ASIN."
+ },
+ {
+  "id": "the-complete-tassajara-cookbook",
+  "name": "The Complete Tassajara Cookbook",
+  "status": "match",
+  "kind": "book",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "1590306724",
+    "1590307046"
+   ],
+   "title": "The Complete Tassajara Cookbook",
+   "anchors": [
+    "The Complete Tassajara Cookbook",
+    "The Tassajara Bread Book"
+   ],
+   "links": 2,
+   "posts": 2,
+   "example_post": "complete-tassajara-cookbook-tassajara-bread-book"
+  },
+  "primary": {
+   "merchant": "Barnes & Noble",
+   "product": "The Complete Tassajara Cookbook (paperback)",
+   "url": "https://www.barnesandnoble.com/w/the-complete-tassajara-cookbook-edward-espe-brown/1100643197",
+   "epc": 0.01,
+   "rate": 5.15,
+   "price": null,
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "B&N lists the Shambhala paperback (ISBN 9781590308295), which may differ from the ASIN's edition. One link also points at The Tassajara Bread Book, whose B&N page is https://www.barnesandnoble.com/w/tassajara-bread-book-edward-espe-brown/1100310212 (not verified)."
+ },
+ {
+  "id": "the-man-who-ate-everything",
+  "name": "The Man Who Ate Everything",
+  "status": "match",
+  "kind": "book",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "0375702024"
+   ],
+   "title": "The Man Who Ate Everything",
+   "anchors": [
+    "The Man Who Ate Everything"
+   ],
+   "links": 2,
+   "posts": 2,
+   "example_post": "crunch-acid-salt-fat-1"
+  },
+  "primary": {
+   "merchant": "Barnes & Noble",
+   "product": "The Man Who Ate Everything (paperback)",
+   "url": "https://www.barnesandnoble.com/w/man-who-ate-everything-jeffrey-steingarten/1100095426",
+   "epc": 0.01,
+   "rate": 5.15,
+   "price": null,
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Vintage paperback, ISBN 9780375702020, same edition."
+ },
+ {
+  "id": "theo-chocolate-pure-organic-dark-chocolate-bar",
+  "name": "Theo Chocolate Pure Organic Dark Chocolate Bar 70% Cacao 6 Pack - Vegan, Fair Trade",
+  "status": "no_match",
+  "reason": "Theo is not in the network and no comparable in-network organic 70% dark bar page was found.",
+  "amazon": {
+   "asins": [
+    "B002HFWQR6",
+    "B07WCQNP33"
+   ],
+   "title": "Theo Chocolate Pure Organic Dark Chocolate Bar 70% Cacao 6 Pack - Vegan, Fair Trade",
+   "anchors": [
+    "chocolate"
+   ],
+   "links": 2,
+   "posts": 2,
+   "example_post": "amazing-chocola"
+  }
+ },
+ {
+  "id": "toasted-pine-nuts",
+  "name": "Toasted Pine Nuts",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B074H6811H"
+   ],
+   "title": "Toasted Pine Nuts",
+   "anchors": [
+    "pine nuts",
+    "toasted pine nuts"
+   ],
+   "links": 2,
+   "posts": 2,
+   "example_post": "sicilian-spaghetti-with-pan-roasted-cauliflower-recipe-from-my-cookbook"
+  },
+  "primary": {
+   "merchant": "Nuts.com",
+   "product": "Pine Nuts (Pignolias)",
+   "url": "https://www.nuts.com/products/pine-nuts",
+   "epc": 0.38,
+   "rate": 20,
+   "price": "$22.79",
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Nuts.com sells raw pine nuts, not pre-toasted; toast them yourself."
+ },
+ {
+  "id": "toasted-walnut-oil",
+  "name": "Toasted Walnut Oil",
+  "status": "no_match",
+  "reason": "No in-network merchant with a toasted walnut oil page found (searches were rate-limited and the web search budget ran out).",
+  "amazon": {
+   "asins": [
+    "B0000D9MRD",
+    "B004V7JXFG"
+   ],
+   "title": "Toasted Walnut Oil",
+   "anchors": [
+    "toasted walnut oil",
+    "walnut oil"
+   ],
+   "links": 2,
+   "posts": 2,
+   "example_post": "caviar-lentil-salad-with-arugula-crispy-shallots-and-roasted-garlic-recipe"
+  }
+ },
+ {
+  "id": "top-chef",
+  "name": "Top Chef",
+  "status": "match",
+  "kind": "book",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "0811864308"
+   ],
+   "title": "Top Chef",
+   "anchors": [
+    "Top Chef",
+    "Top Chef: The Cookbook"
+   ],
+   "links": 2,
+   "posts": 1,
+   "example_post": "ilans-top-chef-fideos-vegetarian-style-with-a-review-of-the-top-chef-cookbook"
+  },
+  "primary": {
+   "merchant": "Barnes & Noble",
+   "product": "Top Chef: The Cookbook",
+   "url": "https://www.barnesandnoble.com/w/top-chef-top-chef/1141873719",
+   "epc": 0.01,
+   "rate": 5.15,
+   "price": null,
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "B&N lists the Chronicle Books edition (ISBN 9780811875226), which may be a later printing than the original ASIN 0811864308."
+ }
+]

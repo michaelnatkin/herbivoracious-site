@@ -1,0 +1,608 @@
+[
+ {
+  "id": "fresh-chevre",
+  "name": "Fresh Chevre",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B002CXTOIM",
+    "B002CY2WRQ"
+   ],
+   "title": "Amazon.com: Vermont Creamery, Ch\u00e8vre, Log, 4 oz : Grocery & Gourmet Food",
+   "anchors": [
+    "Laura Chenel brand",
+    "fresh chevre"
+   ],
+   "links": 2,
+   "posts": 2,
+   "example_post": "chevre-with-sauteed-grapes-and-fresh-herbs-recipe"
+  },
+  "primary": {
+   "merchant": "Murray's Cheese",
+   "product": "Vermont Creamery Small Goat Log",
+   "url": "https://murrayscheese.com/goat-plain-log-small",
+   "epc": 0.06,
+   "rate": 6,
+   "price": null,
+   "verified": false
+  },
+  "alternatives": [],
+  "note": "Murray's did not show Laura Chenel; this is Vermont Creamery's plain chevre log, which was the other Amazon listing."
+ },
+ {
+  "id": "fresh-pappardelle-noodles",
+  "name": "Fresh Pappardelle Noodles",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "low",
+  "amazon": {
+   "asins": [
+    "B0095F92HS"
+   ],
+   "title": "Amazon.com : De Cecco Egg Pappardelle No. 101 Pasta, 8.8 Oz | Authentic, Slow Dried, Made with Cage Free Eggs & Durum Wheat, Versatile Pasta for Sauces & Recipes, Made in Italy : Italian Pasta : Grocery & Gourmet Food",
+   "anchors": [
+    "fresh pappardelle",
+    "fresh pappardelle noodles"
+   ],
+   "links": 2,
+   "posts": 2,
+   "example_post": "pappardelle-wit"
+  },
+  "primary": {
+   "merchant": "ChefShop.com",
+   "product": "Marilungo Campofilone Pappardelle Egg Pasta",
+   "url": "https://chefshop.com/Marilungo-Campofilone-Pappardelle-Egg-Pasta-P9945.aspx",
+   "epc": null,
+   "rate": 7,
+   "price": null,
+   "verified": false
+  },
+  "alternatives": [],
+  "note": "Amazon item was dried De Cecco egg pappardelle; this is an artisan Italian egg pappardelle, a more premium equivalent."
+ },
+ {
+  "id": "gelpro-mats",
+  "name": "GelPro Mats",
+  "status": "match",
+  "kind": "same",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B016M6KL68"
+   ],
+   "title": "Amazon.com: Matterly Happy Feet Mat, Grasscloth Charcoal, 20\"x32\" | Anti-Fatigue Mat, Kitchen Use, Standing Desk Mat, Office Use, 3/4\" Comfort Mat, Stain-Resistant, Easy Clean, Made in USA : Home & Kitchen",
+   "anchors": [
+    "GelPro mats",
+    "where to order one"
+   ],
+   "links": 2,
+   "posts": 1,
+   "example_post": "gelpro-mat-your-tired-feet-will-thank-you"
+  },
+  "primary": {
+   "merchant": "GelPro",
+   "product": "GelPro Elite Mat: Woven",
+   "url": "https://www.gelpro.com/gelpro-elite-mat-woven/",
+   "epc": 0.04,
+   "rate": 5,
+   "price": "$159.95",
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "The posts are about GelPro mats; the Amazon link pointed at a Matterly mat, so this goes to the actual GelPro brand shop."
+ },
+ {
+  "id": "get-one-right-now",
+  "name": "get one right now",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B001VGS1M6"
+   ],
+   "title": "Amazon.com: Microplane Premium Classic Series Lime Zester and Parmesan Grater (Green) : Microplane: Home & Kitchen",
+   "anchors": [
+    "get one right now"
+   ],
+   "links": 2,
+   "posts": 2,
+   "example_post": "microplane-the-grater-that-changes-everything"
+  },
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "Microplane Soft-Handle Zester Grater, 12\"",
+   "url": "https://www.surlatable.com/product/microplane-soft-handle-zester-grater-12/622035",
+   "epc": 0.06,
+   "rate": 9,
+   "price": "$18.95",
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Same Microplane zester/grater brand and type; handle style may differ from the green Premium Classic."
+ },
+ {
+  "id": "halvah",
+  "name": "Halvah",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "low",
+  "amazon": {
+   "asins": [
+    "B005UO7H6Q"
+   ],
+   "title": "Amazon.com : Joyva Halvah \u2013 Marble, 8oz Pack of 2 | A Delicious Sesame Treat | Dairy Free, Gluten-Free & Kosher Parve | Handcrafted in Brooklyn : Halva Candy : Grocery & Gourmet Food",
+   "anchors": [
+    "halvah"
+   ],
+   "links": 2,
+   "posts": 2,
+   "example_post": "breakfast-in-is"
+  },
+  "primary": {
+   "merchant": "Goldbelly",
+   "product": "Halvah - Marble by Russ & Daughters",
+   "url": "https://russanddaughters.goldbelly.com/18845-halvah-marble",
+   "epc": 0.03,
+   "rate": 1,
+   "price": null,
+   "verified": false
+  },
+  "alternatives": [],
+  "note": "Joyva marble halvah was not found in-network; this is a marble halvah from Russ & Daughters (low commission rate, 1%)."
+ },
+ {
+  "id": "happy-in-the-kitchen",
+  "name": "Happy in the Kitchen",
+  "status": "no_match",
+  "reason": "Could not find a Barnes & Noble product page for ISBN 9781579652999 (Artisan, 2006 hardcover) via search.",
+  "amazon": {
+   "asins": [
+    "1579652999"
+   ],
+   "title": "Happy in the Kitchen: Michel Richard: 9781579652999: Amazon.com: Books",
+   "anchors": [
+    "Happy in the Kitchen"
+   ],
+   "links": 2,
+   "posts": 2,
+   "example_post": "how-to-make-an-inside-out-egg-recipe"
+  }
+ },
+ {
+  "id": "here-on-amazon",
+  "name": "here on Amazon",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B0CKKNKJR3"
+   ],
+   "title": "Amazon.com : Hearthy Foods Agar Agar Powder (4oz) Vegan Gelatin Substitute, Certified Halal, Kosher, Gluten-free, Non-GMO, 100%, Sugar-free, Kosher, Halal, Desserts, 100% Natural Red Algae : Grocery & Gourmet Food",
+   "anchors": [
+    "agar-agar",
+    "here on Amazon"
+   ],
+   "links": 2,
+   "posts": 2,
+   "example_post": "caramelized-banana-and-buttermilk-panna-cotta-vegetarian-panna-cotta-recipe"
+  },
+  "primary": {
+   "merchant": "iHerb.com",
+   "product": "NOW Foods Agar Powder, 5 oz",
+   "url": "https://www.iherb.com/pr/now-foods-agar-powder-5-oz-142-g/77859",
+   "epc": 0.13,
+   "rate": 15,
+   "price": "$17.00",
+   "verified": false
+  },
+  "alternatives": [],
+  "note": "Different brand of plain agar-agar powder; 5 oz vs 4 oz. iHerb blocks automated checks."
+ },
+ {
+  "id": "hickory-or-mesquite-wood-chips",
+  "name": "Hickory or Mesquite Wood Chips",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B0044WVDME",
+    "B01M0J88TD"
+   ],
+   "title": "Amazon.com : Mr. Bar-B-Q Hickory Wood Smoking Chips, Natural, 1.8 Lb Bag | Works on Any Heat Source, Smoky and Fruity Flavor for Picnics, Grilling, Smoking and Camping Trips Year-Round, 05011Y : Smoker Chips : Patio, Lawn & Garden",
+   "anchors": [
+    "hickory or mesquite wood chips"
+   ],
+   "links": 2,
+   "posts": 2,
+   "example_post": "vegetarian-frijoles-charros-mexican-cowboy-beans-with-smoked-onion-recipe"
+  },
+  "primary": {
+   "merchant": "BBQGuys",
+   "product": "Western Hickory BBQ Smoking Chips (180 cu. in.)",
+   "url": "https://www.bbqguys.com/i/2869752/western/hickory-bbq-smoking-chips-180-cu-in",
+   "epc": 0.85,
+   "rate": 8,
+   "price": "$14.99",
+   "verified": false
+  },
+  "alternatives": [],
+  "note": "Different brand of hickory smoking chips; BBQGuys blocks automated checks."
+ },
+ {
+  "id": "i-like-you-hospitality-under-the-influence",
+  "name": "I Like You: Hospitality Under the Influence",
+  "status": "match",
+  "kind": "book",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "0446696773"
+   ],
+   "title": "I Like You: Hospitality Under the Influence: Sedaris, Amy: 9780446696777: Amazon.com: Books",
+   "anchors": [
+    "I Like You: Hospitality Under the Influence"
+   ],
+   "links": 2,
+   "posts": 1,
+   "example_post": "i-like-you-hospitality-under-the-influence-by-amy-sedaris-cookbook-review"
+  },
+  "primary": {
+   "merchant": "Barnes & Noble",
+   "product": "I Like You: Hospitality Under the Influence (Paperback, ISBN 9780446696777)",
+   "url": "https://www.barnesandnoble.com/w/i-like-you-amy-sedaris/1100298170",
+   "epc": 0.01,
+   "rate": 5.15,
+   "price": "$20.00",
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Same paperback edition (Grand Central, 2008)."
+ },
+ {
+  "id": "instant-read-thermometer",
+  "name": "Instant Read Thermometer",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B00S93EQUK"
+   ],
+   "title": "Amazon.com: Alpha Grillers Meat Thermometer Digital, Stocking Stuffers Gifts for Men | 1-2 Second Ultra-Fast Response Time, Bright Backlit Display, Waterproof (IP67), Pre-Calibrated & Ready to Use: Home & Kitchen",
+   "anchors": [
+    "instant read thermometer"
+   ],
+   "links": 2,
+   "posts": 2,
+   "example_post": "irish-soda-bread-recipe"
+  },
+  "primary": {
+   "merchant": "ThermoWorks",
+   "product": "Thermapen ONE",
+   "url": "https://www.thermoworks.com/products/thermapen-one",
+   "epc": 0.31,
+   "rate": 10,
+   "price": "$74.00",
+   "verified": false
+  },
+  "alternatives": [],
+  "note": "Premium pro-grade instant-read, a step up from the Alpha Grillers on Amazon; ThermoWorks rate-limits checks."
+ },
+ {
+  "id": "kalamata",
+  "name": "Kalamata",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B00CJ5QQ6Q",
+    "B074H7L7F1"
+   ],
+   "title": "Amazon.com : 365 by Whole Foods Market, Organic Pitted Kalamata Olives, 4.6 Ounce : Grocery & Gourmet Food",
+   "anchors": [
+    "Kalamata",
+    "kalamata olives"
+   ],
+   "links": 2,
+   "posts": 2,
+   "example_post": "savory-cardoon-flan-recipe"
+  },
+  "primary": {
+   "merchant": "Nuts.com",
+   "product": "Kalamata Olives (250 g)",
+   "url": "https://nuts.com/snacks/olives/kalamata.html",
+   "epc": 0.38,
+   "rate": 20,
+   "price": "$5.99",
+   "verified": false
+  },
+  "alternatives": [],
+  "note": "Whole (pitted not offered) Kalamata olives, not the organic pitted jars on Amazon; Nuts.com rate-limits checks."
+ },
+ {
+  "id": "kimchi",
+  "name": "Kimchi",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B00P2QI7F2"
+   ],
+   "title": "Amazon.com: Mother in Laws Kimchi Vegan Napa Cabbage Kimchi, 16 FZ : Grocery & Gourmet Food",
+   "anchors": [
+    "kimchi"
+   ],
+   "links": 2,
+   "posts": 2,
+   "example_post": "kimchi-fried-rice-kimchi-bokkeumbap-recipe"
+  },
+  "primary": {
+   "merchant": "SayWeee.com",
+   "product": "Mommy Original Sliced Napa Cabbage Kimchi 32 oz",
+   "url": "https://www.sayweee.com/en/product/Mommy-Original-Sliced-Napa-Cabbage-Kimchi/106184",
+   "epc": null,
+   "rate": 10,
+   "price": null,
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Different brand of napa cabbage kimchi (Amazon item was vegan Mother in Law's); check it suits recipes that need vegan kimchi."
+ },
+ {
+  "id": "kitchen-confidential",
+  "name": "Kitchen Confidential",
+  "status": "match",
+  "kind": "book",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "0060899220"
+   ],
+   "title": "Kitchen Confidential: Adventures in the Culinary Underbelly: Bourdain, Anthony: 9780060899226: Amazon.com: Books",
+   "anchors": [
+    "Bourdain",
+    "Kitchen Confidential"
+   ],
+   "links": 2,
+   "posts": 2,
+   "example_post": "so-you-want-to-stage-intern-at-a-restaurant"
+  },
+  "primary": {
+   "merchant": "Barnes & Noble",
+   "product": "Kitchen Confidential: Adventures in the Culinary Underbelly (Paperback, ISBN 9780060899226)",
+   "url": "https://www.barnesandnoble.com/w/kitchen-confidential-anthony-bourdain/1100390361",
+   "epc": 0.01,
+   "rate": 5.15,
+   "price": "$14.44",
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Same updated paperback edition (Ecco)."
+ },
+ {
+  "id": "kitchen-scale-that-works-in-grams",
+  "name": "Kitchen Scale That Works in Grams",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B0113UZJE2"
+   ],
+   "title": "Amazon.com: Etekcity Food Kitchen Scale, Digital Grams and Ounces, 11lb | Tare function, ideal for baking, weight loss, keto, meal prep, packages, liquids and jewelry, 304 Stainless Steel: Home & Kitchen",
+   "anchors": [
+    "kitchen scale that works in grams",
+    "nifty digital kitchen scale"
+   ],
+   "links": 2,
+   "posts": 2,
+   "example_post": "an-honor-a-favor-and-a-freebie-win-a-digital-kitchen-scale"
+  },
+  "primary": {
+   "merchant": "Etekcity",
+   "product": "Etekcity EK3551 Digital Kitchen Scale",
+   "url": "https://etekcity.com/products/digital-kitchen-scale-ek3551",
+   "epc": 0.02,
+   "rate": 10,
+   "price": null,
+   "verified": false
+  },
+  "alternatives": [],
+  "note": "Same brand, 11 lb grams/ounces scale; model may differ slightly from the Amazon one. Etekcity rate-limits checks."
+ },
+ {
+  "id": "kitchen-shears",
+  "name": "Kitchen Shears",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B0000CFLH7",
+    "B07PZF3QS3"
+   ],
+   "title": "Amazon.com: KitchenAid All Purpose Kitchen Shears with Protective Sheath Durable Stainless Steel Scissors, Dishwasher Safe, Soft Grip Comfort Handle, 8.72 Inch, Black: Home & Kitchen",
+   "anchors": [
+    "kitchen shears"
+   ],
+   "links": 2,
+   "posts": 2,
+   "example_post": "bibim-naegnmyeon-joll-noodles-cold-and-spicy-korean-noodles-recipe"
+  },
+  "primary": {
+   "merchant": "OXO",
+   "product": "Good Grips Kitchen & Herb Scissors",
+   "url": "https://www.oxo.com/kitchen-and-herb-scissors-361.html",
+   "epc": 0.04,
+   "rate": 15,
+   "price": "$21.99",
+   "verified": false
+  },
+  "alternatives": [],
+  "note": "Different brand from KitchenAid/Joyce Chen but same type; OXO blocks automated checks."
+ },
+ {
+  "id": "kitchenaid-mixer",
+  "name": "KitchenAid Mixer",
+  "status": "match",
+  "kind": "same",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B003OXNBYC"
+   ],
+   "title": "Amazon.com: KitchenAid Classic Series 4.5 Quart Tilt-Head Stand Mixer K45SS, Onyx Black | 10 Speeds, Durable Metal construction, 59 Touchpoints for Thorough Mixing, Compatible with KitchenAid Attachments: Electric Stand Mixers: Home & Kitchen",
+   "anchors": [
+    "KitchenAid mixer",
+    "stand mixer"
+   ],
+   "links": 2,
+   "posts": 2,
+   "example_post": "seckel-pears-with-cinnamon-pastry-crumbs-recipe"
+  },
+  "primary": {
+   "merchant": "Kitchenaid US",
+   "product": "Classic Series 4.5 Quart Tilt-Head Stand Mixer, Onyx Black K45SSOB",
+   "url": "https://www.kitchenaid.com/p.K45SSOB.html",
+   "epc": 0.01,
+   "rate": 1,
+   "price": null,
+   "verified": false
+  },
+  "alternatives": [],
+  "note": "Same mixer from the manufacturer; low commission rate (1%). KitchenAid blocks automated checks."
+ },
+ {
+  "id": "kombu-seaweed",
+  "name": "Kombu Seaweed",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B00ZB13JHO"
+   ],
+   "title": "Amazon.com : WEL-PAC Dashi Kombu Dried Seaweed (Pack 1) : Grocery & Gourmet Food",
+   "anchors": [
+    "kombu",
+    "kombu seaweed"
+   ],
+   "links": 2,
+   "posts": 2,
+   "example_post": "soba-in-shoyu-broth-with-asparagus-leeks-and-tofu-recipe"
+  },
+  "primary": {
+   "merchant": "SayWeee.com",
+   "product": "Dried Seaweed (Dashi Konbu) 100g",
+   "url": "https://www.sayweee.com/en/product/Dried-Seaweed-Dashi-Konbu/2017560",
+   "epc": null,
+   "rate": 10,
+   "price": "$3.99",
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Weee also stocks Welpac dashi konbu (the Amazon brand) but the product page was not located; this is a generic dashi konbu."
+ },
+ {
+  "id": "korean-sweet-potato-starch-noodles",
+  "name": "Korean Sweet Potato Starch Noodles",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B01MCVZR8G",
+    "B092BS2HL6"
+   ],
+   "title": "Amazon.com: APEXY Sweet Potato Glass Noodles, Japchae Noodles, Korean Vermicelli Pasta, Fat-free and Gluten-free, 100% Sweet Potato Starch, No Additive, No Alum inside, 24oz (680g) : Grocery & Gourmet Food",
+   "anchors": [
+    "Korean sweet potato starch noodles",
+    "dangmyeon"
+   ],
+   "links": 2,
+   "posts": 2,
+   "example_post": "vegetarian-japchae-a-guest-recipe-by-alice-of-savory-sweet-life"
+  },
+  "primary": {
+   "merchant": "SayWeee.com",
+   "product": "Korean sweet potato starch noodles (dangmyeon)",
+   "url": "https://www.sayweee.com/en/grocery-near-me/lang-en/explore/korean-sweet-potato-noodle",
+   "epc": null,
+   "rate": 10,
+   "price": null,
+   "verified": false
+  },
+  "alternatives": [],
+  "note": "Links to Weee's category listing (Assi, Otoki, etc.), not a single product page; pick a product before use."
+ },
+ {
+  "id": "kuhn-rikon-peelers",
+  "name": "Kuhn Rikon Peelers",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B0000DAQ5E",
+    "B001AQI3IO"
+   ],
+   "title": "Amazon.com: Kuhn Rikon Original 4-Inch Swiss Peeler, White: Home & Kitchen",
+   "anchors": [
+    "Kuhn Rikon peelers",
+    "OXO peelers"
+   ],
+   "links": 2,
+   "posts": 2,
+   "example_post": "y-vegetable-peeler"
+  },
+  "primary": {
+   "merchant": "OXO",
+   "product": "Good Grips Y-Peeler",
+   "url": "https://www.oxo.com/y-peeler.html",
+   "epc": 0.04,
+   "rate": 15,
+   "price": "$13.99",
+   "verified": false
+  },
+  "alternatives": [],
+  "note": "Kuhn Rikon is not in-network; OXO Y-peeler matches the other Amazon listing. OXO blocks automated checks."
+ },
+ {
+  "id": "large-skillet-or-wok",
+  "name": "Large Skillet or Wok",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B09GRXQGRN"
+   ],
+   "title": "Amazon.com: Babish 14 Inch Carbon Steel Wok Pan, Flat Bottom Stir Fry Pan, Induction | Carbon Steel Flat Bottom Wok with Wooden Handle & Helper Handle, Stir Fry Pan for Chinese Cooking, Gas Electric Induction: Home & Kitchen",
+   "anchors": [
+    "large skillet or wok",
+    "wok"
+   ],
+   "links": 2,
+   "posts": 2,
+   "example_post": "island-style-sweet-and-spicy-cabbage-recipe"
+  },
+  "primary": {
+   "merchant": "Made In Cookware",
+   "product": "Carbon Steel Wok, 13 inch",
+   "url": "https://madeincookware.com/products/carbon-steel-wok/13-inch",
+   "epc": 0.37,
+   "rate": 10,
+   "price": "$119.99",
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Pre-seasoned flat-bottom carbon steel wok like the Babish one, but pricier and 13 in vs 14 in."
+ }
+]

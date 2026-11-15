@@ -1,0 +1,327 @@
+[
+ {
+  "id": "soy-sauce",
+  "name": "Soy Sauce",
+  "current_amazon_url": "https://www.amazon.com/dp/B000RYBYZ4?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "soy sauce"
+  ],
+  "asins": [
+   "B000RYBYZ4"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "kale-fried-rice-for-one-infinitely-adaptable-recipe"
+ },
+ {
+  "id": "soy-sauce-2",
+  "name": "Soy Sauce",
+  "current_amazon_url": "https://www.amazon.com/dp/B0079VJGL2?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "soy sauce"
+  ],
+  "asins": [
+   "B0079VJGL2"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "good-stuff-from-bourbon-barrel-foods"
+ },
+ {
+  "id": "spicy-world-black-salt-kala-namak",
+  "name": "Spicy World Black Salt (Kala Namak)",
+  "current_amazon_url": "https://www.amazon.com/dp/B07CTW5NJX?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "black salt"
+  ],
+  "asins": [
+   "B07CTW5NJX"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "recipe-grapefru"
+ },
+ {
+  "id": "springform-pan",
+  "name": "Springform Pan",
+  "current_amazon_url": "https://www.amazon.com/dp/B07L8S4PM5?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "springform pan"
+  ],
+  "asins": [
+   "B07L8S4PM5"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "italian-plum-upside-down-cake-recipe"
+ },
+ {
+  "id": "squeeze-bottle",
+  "name": "Squeeze Bottle",
+  "current_amazon_url": "https://www.amazon.com/dp/B076PT3BD9?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "squeeze bottle"
+  ],
+  "asins": [
+   "B076PT3BD9"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "roasted-potato-and-asparagus-tacos-with-kohlrabi-slaw-recipe"
+ },
+ {
+  "id": "stonewall-kitchen-roasted-garlic-onion-jam",
+  "name": "Stonewall Kitchen Roasted Garlic Onion Jam",
+  "current_amazon_url": "https://www.amazon.com/dp/B000069KQW?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "Onion Savory Jam",
+   "Stonewall Kitchen Roasted Garlic &amp"
+  ],
+  "asins": [
+   "B000069KQW"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "quesadilla"
+ },
+ {
+  "id": "storebought",
+  "name": "Storebought",
+  "current_amazon_url": "https://www.amazon.com/dp/B004TSUXEM?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com : DeLallo Traditional Italian Potato Gnocchi, 1lb : Gnocchi Pasta : Grocery & Gourmet Food"
+  ],
+  "anchors": [
+   "storebought"
+  ],
+  "asins": [
+   "B004TSUXEM"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "panfried-gnocchi-with-arugula-recipe"
+ },
+ {
+  "id": "stringozzi-pasta-17-6-oz-pack-of-3",
+  "name": "Stringozzi Pasta 17.6 oz (pack of 3)",
+  "current_amazon_url": "https://www.amazon.com/dp/B07BWN5RLH?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "Stringozzi"
+  ],
+  "asins": [
+   "B07BWN5RLH"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "stringozzi-or-linguini-con-funghi-simple-pasta-with-mushrooms-recipe"
+ },
+ {
+  "id": "strozzapetti",
+  "name": "Strozzapetti",
+  "current_amazon_url": "https://www.amazon.com/dp/B00527VNMK?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "strozzapetti"
+  ],
+  "asins": [
+   "B00527VNMK"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "pasta-with-eggp"
+ },
+ {
+  "id": "sugar",
+  "name": "sugar",
+  "current_amazon_url": "https://www.amazon.com/dp/B00VEJX49U?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "sugar"
+  ],
+  "asins": [
+   "B00VEJX49U"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "disaster-recove"
+ },
+ {
+  "id": "sumac",
+  "name": "sumac",
+  "current_amazon_url": "https://www.amazon.com/dp/B00886NHDK?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "sumac"
+  ],
+  "asins": [
+   "B00886NHDK"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "middle-eastern-panzanella-recipe"
+ },
+ {
+  "id": "sundae-cup",
+  "name": "Sundae Cup",
+  "current_amazon_url": "https://www.amazon.com/dp/B0D5DBF7LC?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "sundae cup"
+  ],
+  "asins": [
+   "B0D5DBF7LC"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "caramelized-raisin-sundae-recipe"
+ },
+ {
+  "id": "suribachi-japanese-ridged-ceramic-mortar-and",
+  "name": "Suribachi (Japanese Ridged Ceramic Mortar and Pestle)",
+  "current_amazon_url": "https://www.amazon.com/dp/B000UEYXL8?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "suribachi (Japanese ridged ceramic mortar and pestle)"
+  ],
+  "asins": [
+   "B000UEYXL8"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "gomashio-japanese-sesame-seed-salt-condiment-recipe"
+ },
+ {
+  "id": "swad-chana-dal-split-desi-chickpeas-4-lb",
+  "name": "Swad Chana Dal (Split Desi Chickpeas), 4 lb",
+  "current_amazon_url": "https://www.amazon.com/dp/B005ZEMHVG?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "Chana Dal"
+  ],
+  "asins": [
+   "B005ZEMHVG"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "chana-dal-in-the-style-of-puri-jagannath-temple-recipe"
+ },
+ {
+  "id": "swad-poha-thick-flattened-rice-2-lb",
+  "name": "Swad Poha Thick Flattened Rice, 2 lb",
+  "current_amazon_url": "https://www.amazon.com/dp/B004XTDSB2?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com : Spicy World Swad Poha THICK (Flattened Rice), 32 Ounce, 2 pound (pack of 1) : Indian Food : Grocery & Gourmet Food"
+  ],
+  "anchors": [
+   "thick poha"
+  ],
+  "asins": [
+   "B004XTDSB2"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "poha-flattened-rice-with-coconut-and-cashews-recipe"
+ },
+ {
+  "id": "taggiascas",
+  "name": "Taggiascas",
+  "current_amazon_url": "https://www.amazon.com/dp/B07HY8DW8L?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "Taggiascas"
+  ],
+  "asins": [
+   "B07HY8DW8L"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "greek-green-bean-salad-recipe"
+ },
+ {
+  "id": "tamales-101",
+  "name": "Tamales 101",
+  "current_amazon_url": "https://www.amazon.com/dp/1580084281?tag=herb-hugo-20",
+  "is_book": true,
+  "amazon_titles": [],
+  "anchors": [
+   "Tamales 101"
+  ],
+  "asins": [
+   "1580084281"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "red-chili-sauce-for-tamales"
+ },
+ {
+  "id": "tamicon-brand",
+  "name": "Tamicon Brand",
+  "current_amazon_url": "https://www.amazon.com/dp/B000JSQDT0?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "Tamicon brand"
+  ],
+  "asins": [
+   "B000JSQDT0"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "fava-bean-ful-salad-with-tamarind-dressing-recipe"
+ },
+ {
+  "id": "tarragon",
+  "name": "Tarragon",
+  "current_amazon_url": "https://www.amazon.com/dp/B0001M10LU?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "tarragon"
+  ],
+  "asins": [
+   "B0001M10LU"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "pappardelle-wit"
+ },
+ {
+  "id": "tart",
+  "name": "Tart",
+  "current_amazon_url": "https://www.amazon.com/dp/B0000DIX7K?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "Tart"
+  ],
+  "asins": [
+   "B0000DIX7K"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "nectarine-and-b"
+ }
+]

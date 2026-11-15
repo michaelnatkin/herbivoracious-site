@@ -1,0 +1,322 @@
+[
+ {
+  "id": "toaster-oven",
+  "name": "Toaster Oven",
+  "current_amazon_url": "https://www.amazon.com/dp/B004JMZGM2?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "toaster oven"
+  ],
+  "asins": [
+   "B004JMZGM2"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "hatch-chiles-stuffed-with-cilantro-scrambled-egg-recipe"
+ },
+ {
+  "id": "tomatillos",
+  "name": "Tomatillos",
+  "current_amazon_url": "https://www.amazon.com/dp/B0046GX63M?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "tomatillos"
+  ],
+  "asins": [
+   "B0046GX63M"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "swiss-chard-enchiladas-in-a-tomatillo-sauce-recipe"
+ },
+ {
+  "id": "tomato-paste",
+  "name": "Tomato Paste",
+  "current_amazon_url": "https://www.amazon.com/dp/B00EHDWTB4?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "tomato paste"
+  ],
+  "asins": [
+   "B00EHDWTB4"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "baby-zucchini-and-blossoms-with-sofrito-recipe"
+ },
+ {
+  "id": "tortilla-press",
+  "name": "Tortilla Press",
+  "current_amazon_url": "https://www.amazon.com/dp/B0000CF4N9?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "tortilla press"
+  ],
+  "asins": [
+   "B0000CF4N9"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "pupusas-de-queso-salvadoran-cheese-filled-tortillas-recipe"
+ },
+ {
+  "id": "true-blood",
+  "name": "True Blood",
+  "current_amazon_url": "https://www.amazon.com/dp/B001FB4W0W?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "True Blood"
+  ],
+  "asins": [
+   "B001FB4W0W"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "potatoes-alioli"
+ },
+ {
+  "id": "truff-black-truffle-salt-fine-and-coarse-sea",
+  "name": "Truff Black Truffle Salt, Fine and Coarse Sea Salt",
+  "current_amazon_url": "https://www.amazon.com/dp/B0BG9BNZDW?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "truffle salt"
+  ],
+  "asins": [
+   "B0BG9BNZDW"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "blue-potato-tarts-recipe"
+ },
+ {
+  "id": "truffle-salt",
+  "name": "Truffle Salt",
+  "current_amazon_url": "https://www.amazon.com/dp/B000ELVPSG?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "Truffle Salt"
+  ],
+  "asins": [
+   "B000ELVPSG"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "salt-crazy-my-f"
+ },
+ {
+  "id": "truffled-popcorn",
+  "name": "Truffled Popcorn",
+  "current_amazon_url": "https://www.amazon.com/dp/B0BNLYXVHJ?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "truffled popcorn"
+  ],
+  "asins": [
+   "B0BNLYXVHJ"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "foraging-in-bel"
+ },
+ {
+  "id": "try-this-one",
+  "name": "Try This One",
+  "current_amazon_url": "https://www.amazon.com/dp/B00DPREMEK?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "try this one"
+  ],
+  "asins": [
+   "B00DPREMEK"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "mandu-koreanstyle-potstickers-with-ssamjang-kochujang-sauce-recipe"
+ },
+ {
+  "id": "ultra-tex-3",
+  "name": "Ultra-Tex 3",
+  "current_amazon_url": "https://www.amazon.com/dp/B00BTI833I?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "Ultra-Tex 3"
+  ],
+  "asins": [
+   "B00BTI833I"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "antigriddle-pudding-pop-bruleed-mango-black-sesame-tuile-recipe"
+ },
+ {
+  "id": "umeboshi-plums",
+  "name": "Umeboshi Plums",
+  "current_amazon_url": "https://www.amazon.com/dp/B001ASEUTI?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "umeboshi plums"
+  ],
+  "asins": [
+   "B001ASEUTI"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "introduction-to"
+ },
+ {
+  "id": "unsalted-roasted-pistachio-kernels",
+  "name": "Unsalted, Roasted Pistachio Kernels",
+  "current_amazon_url": "https://www.amazon.com/dp/B09TM34CD3?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "unsalted, roasted pistachio kernels"
+  ],
+  "asins": [
+   "B09TM34CD3"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "roasted-asparagus-with-pistachio-puree-recipe"
+ },
+ {
+  "id": "unsweetened-shredded-coconut",
+  "name": "Unsweetened Shredded Coconut",
+  "current_amazon_url": "https://www.amazon.com/dp/B00LNURL94?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "unsweetened shredded coconut"
+  ],
+  "asins": [
+   "B00LNURL94"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "five-minute-ind"
+ },
+ {
+  "id": "vanilla-bean",
+  "name": "Vanilla Bean",
+  "current_amazon_url": "https://www.amazon.com/dp/B00PMUNF5A?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "vanilla bean"
+  ],
+  "asins": [
+   "B00PMUNF5A"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "basic-baked-custard-recipe-an-easy-comforting-dessert-with-many-options"
+ },
+ {
+  "id": "vegan-mayonnaise",
+  "name": "Vegan Mayonnaise",
+  "current_amazon_url": "https://www.amazon.com/dp/B07B3PYTKN?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "vegan mayonnaise"
+  ],
+  "asins": [
+   "B07B3PYTKN"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "mexican-breakfast-torta-recipe"
+ },
+ {
+  "id": "vegenaise-which-is-quite-tasty",
+  "name": "Vegenaise, Which Is Quite Tasty",
+  "current_amazon_url": "https://www.amazon.com/dp/B000QJAFY6?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "Vegenaise, which is quite tasty"
+  ],
+  "asins": [
+   "B000QJAFY6"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "green-garlic-and-mint-potato-salad-recipe"
+ },
+ {
+  "id": "vegetable-peeler",
+  "name": "Vegetable Peeler",
+  "current_amazon_url": "https://www.amazon.com/dp/B00004OCIU?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "vegetable peeler"
+  ],
+  "asins": [
+   "B00004OCIU"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "recipe-white-as"
+ },
+ {
+  "id": "vermouth",
+  "name": "Vermouth",
+  "current_amazon_url": "https://www.amazon.com/dp/B005J0KRG8?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "vermouth"
+  ],
+  "asins": [
+   "B005J0KRG8"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "braised-baby-artichoke-with-fennel-and-cherry-tomatoes-recipe"
+ },
+ {
+  "id": "w-sthof-classic-3-5-paring-knife",
+  "name": "W\u00fcsthof Classic 3.5\" Paring Knife",
+  "current_amazon_url": "https://www.amazon.com/dp/B085V5Q2JR?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "W\u00dcSTHOF Classic 3.5\" Paring Knife"
+  ],
+  "asins": [
+   "B085V5Q2JR"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "other-knives-kitchen-tools-hand-tools"
+ },
+ {
+  "id": "w-sthof-classic-8-bread-knife",
+  "name": "W\u00fcsthof Classic 8\" Bread Knife",
+  "current_amazon_url": "https://www.amazon.com/dp/B00005MEGZ?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "W\u00dcSTHOF Classic 8\" Bread Knife"
+  ],
+  "asins": [
+   "B00005MEGZ"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "other-knives-kitchen-tools-hand-tools"
+ }
+]
