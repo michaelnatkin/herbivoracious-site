@@ -81,3 +81,15 @@ Like everything in life, you'll get out of a stage what you put into it. Put you
 Don't be afraid to stage in more than one place. <strong>Every kitchen you spend time in will teach you something different.</strong> In one, you'll learn speed. In another, precision. In a third, you might see techniques you didn't even know were possible. A fourth chef might have a phenomenal palate, and a fifth might be a screamer that teaches you what kind of kitchen to get the hell out of.
 
 I hope this is helpful. If you've read this and still have questions, please leave a comment below and I'll do my best to answer. If you have staged in kitchens or work in them full time, and think I've got something wrong or left something out, same goes - please leave a comment!
+
+<div class="faq">
+<h2>Quick answers</h2>
+<h3>What is a stage in a restaurant?</h3>
+<p>A stage (pronounced stahzh, from French) is a temporary, unpaid kitchen internship where you work in a restaurant kitchen to learn. It is also what culinary students do on externships.</p>
+<h3>What restaurants take stages?</h3>
+<p>High-end, fine dining restaurants often take stages on a constant basis and have a system for them. Mid-level restaurants may be less used to stages but can offer a more personal, less intimidating experience.</p>
+<h3>How do you arrange a stage?</h3>
+<p>The best way is a personal connection with the chef, ideally after eating at the restaurant. Otherwise, try social media or a cold email or letter. Don't call a chef at a major restaurant, and never during service.</p>
+<h3>What should I say when I ask?</h3>
+<p>Ask directly if you can stage, and be honest about your goals and experience. Overstating your knife skills will be obvious within minutes of arriving.</p>
+</div>

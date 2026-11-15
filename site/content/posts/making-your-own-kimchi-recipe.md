@@ -74,3 +74,5 @@ Once you've got some kimchi (homemade or bought), here are some of my favorite d
   <li>Place the cabbage in a very clean container, packing it down tightly. Cover, but allow a little airflow. (Nick rigged up an {{% product id="airlock" %}}airlock{{% /product %}} on a cambro, pretty fancy!). Don't put on a tight lid or it will get blown off by CO2. Store in a cool, dark place. Taste and toss daily. Depending on temperature, it will start to develop a pleasing acidity. When it is ripe to your taste (which could be anywhere from 3 days up to a couple of weeks), transfer to clean jars and refrigerate to maximize its life.</li>
 </ol>
 </div>
+
+<p class="related-link">If you want the real fermented thing: <a href="/2012/09/quick-green-apple-kimchi-recipe/">Quick Green Apple Kimchi</a>.</p>

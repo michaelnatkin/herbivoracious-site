@@ -64,3 +64,17 @@ Here's how I'm currently making it:
 	<li>Process according to your {{% product id="ice-cream-maker" %}}ice cream maker{{% /product %}}'s instructions. When it is done but not frozen hard, fold in flaky sea salt to taste.</li>
 </ol>
 </div>
+
+<div class="faq">
+<h2>Quick answers</h2>
+<h3>How do you make pretzel ice cream?</h3>
+<p>Infuse unsalted mini pretzels in cold milk, strain, mix with sugar and cream, and churn in an ice cream machine. It is a Philadelphia-style base with no eggs, so the pretzel flavor comes through and you can go straight from infusing to the machine.</p>
+<h3>Should I use salted or unsalted pretzels?</h3>
+<p>Unsalted. Salted pretzels make the salt level too uniform. Use unsalted pretzels and finish with flaky sea salt after churning so the crystals stay undissolved and you hit them at random.</p>
+<h3>Should I add vanilla?</h3>
+<p>No. Vanilla tends to overpower the pretzel flavor.</p>
+<h3>How do I serve pretzel ice cream?</h3>
+<p>As a simple sundae with a few pretzel pieces and a dark caramel sauce, with the sugar cooked almost to burned.</p>
+<h3>How much does the recipe make?</h3>
+<p>About 3 cups.</p>
+</div>

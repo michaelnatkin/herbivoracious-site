@@ -64,3 +64,5 @@ I'm planning on doing an occasional post introducing these types of modern techn
 	<li>To serve, divide the "noodles" among four plates, forming a small mount. Top with a 1/4 teaspoon umeboshi plum paste. Sprinkle with a pinch of black sea salt and garnish with a few kaiware sprout tops. Pour 4 servings of the cold sake, place the glass on one whole shiso leaf, and serve immediately.</li>
 </ol>
 </div>
+
+<p class="related-link">Another modern technique for melon: <a href="/2011/06/seared-watermelon-with-flavors-of-summer-yes-thats-vegetarian-recipe/">Seared Watermelon</a>.</p>

@@ -67,3 +67,5 @@ recipe:
 <li>Whisk together the soy sauce, sesame oil, sugar and salt and pour over the green beans. Toss to coat, cook for 30 more seconds, and serve immediately.</li>
 </ol>
 </div>
+
+<p class="related-link">Another green bean stir-fry: <a href="/2011/09/stir-fried-winged-beans-kacang-botol-with-tomato-and-garlic-recipe/">Winged Bean (Kacang Botol) Stir-Fry</a>.</p>

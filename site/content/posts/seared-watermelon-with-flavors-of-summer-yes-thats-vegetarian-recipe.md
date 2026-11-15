@@ -1,5 +1,6 @@
 ---
 title: "Seared Watermelon with Flavors of Summer - Yes, That's Vegetarian - Recipe"
+seo_title: "How to Cook Watermelon: Seared Watermelon Recipe"
 date: 2011-06-08T22:32:32
 slug: "seared-watermelon-with-flavors-of-summer-yes-thats-vegetarian-recipe"
 description: "Yes, you can cook watermelon. Sear it for crisp edges and a concentrated flavor, served with dehydrated corn and herb flowers in this modernist vegetarian dish."
@@ -55,4 +56,18 @@ Hands down my favorite part of the garnish was the {{% product id="freeze-dried-
 	<li>Remove the watermelon. Pour excess oil out of the pan. Return the pan to the heat and deglaze with the watermelon juice, reducing it a bit but not to a syrup; we are looking for a jus-like consistency. Drizzle the jus on serving plates and place a piece of watermelon atop the jus.</li>
 	<li>Garnish each piece with a small amount of the olive paste, a few kernels of dehydrated corn, a few of the chive flowers, rosemary flowers, and oregano tips, and a final sprinkle of {{% product id="maldon-salt-sea-salt-flakes-8-5-oz" target="_blank" %}}Maldon (aka the world's greatest salt){{% /product %}} . Serve warm.</li>
 </ol>
+</div>
+
+<div class="faq">
+<h2>Quick answers</h2>
+<h3>How do you cook watermelon?</h3>
+<p>Sear it. Heat a sauté pan over very high heat with olive oil until smoking hot, add 1-inch-thick squares of seedless watermelon, and press down with a long, heavy spatula to compress them. Cook about 3 minutes per side until well seared.</p>
+<h3>Why does seared watermelon brown if it's so wet?</h3>
+<p>Watermelon has a lot of sugar that can caramelize. Pressing it squeezes out enough liquid for the high heat to dry the surface temporarily so it browns.</p>
+<h3>What does seared watermelon taste like?</h3>
+<p>Sweet, with a hint of grilled flavor. This version is served on a jus made from the pan juices and more watermelon juice, with black olive paste and freeze-dried corn.</p>
+<h3>Any safety tips?</h3>
+<p>Be careful: the wet melon spatters when it hits the hot oil, and it can sometimes flame up.</p>
+<h3>Is it vegan?</h3>
+<p>Yes. It is vegetarian, vegan and gluten-free, and serves 4.</p>
 </div>

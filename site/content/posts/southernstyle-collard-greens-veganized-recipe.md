@@ -58,3 +58,5 @@ Serves at least 4 as a side dish</em>
 	<li>When the greens are fully cooked, remove the lid and cook off the water. Taste and adjust the seasonings; they will probably want more salt or soy sauce, and maybe more of the {{% product id="smoked-paprika" %}}smoked paprika{{% /product %}}.</li>
 </ol>
 </div>
+
+<p class="related-link">A Southern meal to go with it: <a href="/2009/10/jalapeno-sorghum-butter-recipe/">Jalapeño-Sorghum Butter</a>.</p>

@@ -61,3 +61,5 @@ Serves 4 as part of a larger meal</em>
 	<li>Scrape the mixture from the skillet into the lentil and add about 1/2 teaspoon of salt. Continue to simmer until the lentils are fully pureed. The total time starting at step 1 will probably be about 40 minutes. Add water if too thick or cook a little longer if too thin. The ideal texture is thick enough to stand up a little on a spoon, but not thick like, say, hummus. A little thicker than applesauce. Taste and adjust the seasoning.</li>
 </ol>
 </div>
+
+<p class="related-link">More Ethiopian: <a href="/2010/08/ethiopian-ful-mudammas-recipe/">Ethiopian Ful with Berbere</a>.</p>

@@ -66,3 +66,5 @@ recipe:
 <li>To serve, put two scoops of vanilla ice cream in each bowl or {{% product id="sundae-cup" %}}sundae cup{{% /product %}}. Top with ¼ of the raisins and sauce, followed by a handful of the apples. Serve immediately.</li>
 </ol>
 </div>
+
+<p class="related-link">Sundae sauce idea: <a href="/2010/10/pretzel-ice-cream-recipe/">Pretzel Ice Cream</a>.</p>

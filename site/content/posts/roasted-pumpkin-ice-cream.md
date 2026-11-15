@@ -58,3 +58,5 @@ Yields about 500 grams, enough for 2+ batches of ice cream
 	<li>Churn ice cream however you see fit - with a {{% product id="ice-cream-maker" %}}home ice cream maker{{% /product %}}, dry ice, liquid nitrogen, or PacoJet if you have one handy.</li>
 </ol>
 </div>
+
+<p class="related-link">Another unusual ice cream: <a href="/2010/10/pretzel-ice-cream-recipe/">Pretzel Ice Cream</a>.</p>

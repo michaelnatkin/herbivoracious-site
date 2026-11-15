@@ -517,6 +517,13 @@ a.as-seen-in:hover { text-decoration: none; }
   transform: translateX(3px);
 }
 
+/* Water promo — reuses the image card */
+.sidebar-water-promo { border-bottom: none; padding-bottom: 0; }
+.sidebar-water-promo > h3 { display: none; }
+.water-promo-card { aspect-ratio: 1 / 1; }
+.water-promo-card .shop-promo-card__img { object-position: 92% 50%; }
+@media print { .water-promo-card { display: none !important; } }
+
 /* Amazon Gateway */
 .sidebar-amazon-gateway { border-bottom: none; padding-bottom: 0; }
 
@@ -2853,3 +2860,11 @@ a.as-seen-in:hover { text-decoration: none; }
 @media print { .water-note, .water-box { display: none !important; } }
 .water-cta__icon { flex-shrink: 0; border-radius: var(--radius); }
 @media (max-width: 600px) { .water-cta__icon { width: 72px; height: 72px; } }
+
+/* Quick answers (FAQ) block at the end of select posts */
+.faq { margin-top: 40px; padding-top: 8px; border-top: 1px solid var(--border, #e6e1d8); }
+.faq h2 { font-size: 22px; margin: 20px 0 8px; }
+.faq h3 { font-size: 17px; font-weight: 600; margin: 18px 0 4px; }
+.faq p { margin: 0 0 6px; }
+.related-link { font-size: 15px; color: var(--text-secondary); margin-top: 24px; }
+@media print { .faq, .related-link { display: none !important; } }

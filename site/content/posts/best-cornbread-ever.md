@@ -69,3 +69,5 @@ Vegetarian; not vegan nor gluten-free</em>
 </ol>
 &nbsp;
 </div>
+
+<p class="related-link">The cornbread to put it on: <a href="/2009/10/jalapeno-sorghum-butter-recipe/">Jalapeño-Sorghum Butter</a>.</p>

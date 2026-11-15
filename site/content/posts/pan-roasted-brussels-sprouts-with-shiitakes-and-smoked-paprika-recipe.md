@@ -55,3 +55,5 @@ Wait a second, you don't consider {{% product id="smoked-paprika" target="_blank
 	<li>Add the {{% product id="smoked-paprika" target="_blank" %}}smoked paprika{{% /product %}}, 1/2 teaspoon of Kosher salt and the reserved shiitakes. Toss, then taste and adjust seasoning. Transfer to a serving platter, finish with black pepper and a few grains of flaky salt and serve.</li>
 </ol>
 </div>
+
+<p class="related-link">Another vegetable cooked hard and fast: <a href="/2012/02/lemony-grilled-gai-lan-chinese-broccoli-recipe/">Lemony Grilled Gai Lan (Chinese Broccoli)</a>.</p>

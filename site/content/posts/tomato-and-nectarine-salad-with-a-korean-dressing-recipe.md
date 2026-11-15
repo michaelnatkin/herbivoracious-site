@@ -68,3 +68,5 @@ Oh, and don't feel like you have to plate this salad all fancy like in the top p
 </ol>
 </div>
 </div>
+
+<p class="related-link">Also made with gochugaru: <a href="/2012/09/quick-green-apple-kimchi-recipe/">Quick Green Apple Kimchi</a>.</p>

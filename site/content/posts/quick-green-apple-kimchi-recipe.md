@@ -50,3 +50,17 @@ Yields about 3 cups </em>
 </ol>
 &nbsp;
 </div>
+
+<div class="faq">
+<h2>Quick answers</h2>
+<h3>Is green apple kimchi fermented?</h3>
+<p>No. This quick "kimchi" has no fermentation at all. It is just crisp green apple tossed with gochugaru, ginger, onion, salt and a little rice vinegar.</p>
+<h3>How long does quick green apple kimchi keep?</h3>
+<p>Use it within a couple of hours. After that the apple can become too soggy.</p>
+<h3>What can I make this way besides apples?</h3>
+<p>The same blueprint works as a quick, spicy pickle for cucumbers, peaches or daikon. For some lactic tang, add a little juice from fermented kimchi.</p>
+<h3>How do I serve it?</h3>
+<p>As banchan with a Korean meal, over rice with a fried egg, on a sandwich, or in a lettuce wrap with pan-fried tofu, as in the photo.</p>
+<h3>Is it vegan?</h3>
+<p>Yes. It is vegetarian, vegan, gluten-free and kosher.</p>
+</div>

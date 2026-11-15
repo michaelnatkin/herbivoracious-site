@@ -47,3 +47,5 @@ recipe:
 <li>Add two fig halves, a tablespoon of pomegranate arils, 4 shavings of gouda, and 3 toasted walnut halves to each plate. Serve immediately.</li>
 </ol>
 </div>
+
+<p class="related-link">Not the same melon, but fun: <a href="/2011/06/seared-watermelon-with-flavors-of-summer-yes-thats-vegetarian-recipe/">Seared Watermelon</a>.</p>

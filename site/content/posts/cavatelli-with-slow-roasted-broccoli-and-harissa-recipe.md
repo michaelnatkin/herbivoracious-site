@@ -69,3 +69,5 @@ One last bit of business before we get to the recipe: this is an exciting week a
   <li>Stir in the parsley and mint. Divide the pasta among the preheated bowls, hit with a few flakes of Maldon salt and some freshly ground pepper, and serve immediately, passing the Parmesan cheese at the table if using.</li>
 </ol>
 </div>
+
+<p class="related-link">More ways to cook broccoli: <a href="/2012/02/lemony-grilled-gai-lan-chinese-broccoli-recipe/">Lemony Grilled Gai Lan (Chinese Broccoli)</a>.</p>

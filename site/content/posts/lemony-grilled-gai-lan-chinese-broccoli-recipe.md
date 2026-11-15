@@ -1,5 +1,6 @@
 ---
 title: "Lemony Grilled Gai Lan (Chinese Broccoli) - Recipe"
+seo_title: "Grilled Gai Lan (Chinese Broccoli) with Lemon"
 date: 2012-02-28T08:45:00
 slug: "lemony-grilled-gai-lan-chinese-broccoli-recipe"
 description: "Grilled gai lan (Chinese broccoli) brightened with lemon. A quick, smoky vegetarian side dish that brings out the best in this hearty green."
@@ -58,4 +59,18 @@ recipe:
 <li>Add the gai lan and thinly sliced lemon and toss to generously coat.</li>
 <li>Place the gai lan and lemons perpendicular to the grate of the grill, or on a rimmed sheet pan if using the broiler. Cook, turning just once or twice, until starting to brown in spots, about 12 minutes. You should be able to pierce the stems without too much resistance from a knife, but they will be distinctly crisp-tender, not fully tender. Season with a bit more salt and pepper and serve immediately.</li>
 </ol>
+</div>
+
+<div class="faq">
+<h2>Quick answers</h2>
+<h3>What is gai lan?</h3>
+<p>Gai lan is Chinese broccoli. It has stems about as thick as asparagus, tasty leaves that crisp on the grill, and small budding tops that look like American broccoli. It is widely available at Asian markets.</p>
+<h3>What can I use instead of gai lan?</h3>
+<p>Broccolini makes a fine substitute.</p>
+<h3>Can I make grilled gai lan without a grill?</h3>
+<p>Yes. Use a grill pan or the broiler, with the top rack about 4 inches below the heat. Smoked salt helps bring back some of the smoky flavor.</p>
+<h3>How long does it take to grill gai lan?</h3>
+<p>About 12 minutes, turning once or twice, until it browns in spots. The stems should be crisp-tender, not fully soft.</p>
+<h3>Why does the gai lan need to be dry?</h3>
+<p>Dry it thoroughly before tossing it with the lemon and kochujang dressing so the dressing isn't diluted.</p>
 </div>
