@@ -1,0 +1,357 @@
+[
+ {
+  "id": "5-pastry-cutter",
+  "name": "5\" Pastry Cutter",
+  "status": "no_match",
+  "reason": "Amazon item is a 5-inch plain round cutter; Sur La Table's cutter sets top out at about 4 inches and no other in-network merchant was found with a 5-inch one.",
+  "amazon": {
+   "asins": [
+    "B09XVJX6F3"
+   ],
+   "title": "Amazon.com: Large Round Cookie Cutter 5\", Biscuit Cutter, Circle Cookie Cutter for Baking, Small Cake Cutter, Dough Cutter, Coated with Soft PVC for Protection: Home & Kitchen",
+   "anchors": [
+    "5\" pastry cutter"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "block-party-emp"
+  }
+ },
+ {
+  "id": "6-cake-ring",
+  "name": "6\" Cake Ring",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B000GBK2MO"
+   ],
+   "title": "Amazon.com: Fat Daddio's SSRD-2520 Stainless Steel Cake & Pastry Ring, 2.5 x 2 inch | 18-Gauge Construction, 0.68 Cup Capacity, Oven and Freezer Safe, Plating, Molding and Forming, Dishwasher Safe : Home & Kitchen",
+   "anchors": [
+    "6\" cake ring"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "strawberries-and-cream-birthday-cake-momofuku-style"
+  },
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "Ateco Expandable Cake Ring (6.25\" to 8.5\")",
+   "url": "https://www.surlatable.com/product/ateco-expandable-cake-ring/7896012",
+   "epc": 0.06,
+   "rate": 9.0,
+   "price": "$24.95",
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Amazon item is a fixed Fat Daddio's stainless ring; this is an adjustable stainless ring whose smallest setting is about 6.25 inches, so slightly larger than 6\" and pricier."
+ },
+ {
+  "id": "7-piece-nylon-and-wooden-utensil",
+  "name": "7 piece nylon and wooden utensil",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "low",
+  "amazon": {
+   "asins": [
+    "B000IV6LHW"
+   ],
+   "title": "Amazon.com | Calphalon Wood and Nylon Utensils Salad Serving Set: Kitchen Tool Sets: Salad Servers",
+   "anchors": [
+    "7 piece nylon and wooden utensil"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "cook-from-the-book-and-win-a-huge-calphalon-set-contest"
+  },
+  "primary": {
+   "merchant": "Kohl's",
+   "product": "Cooking with Calphalon 9-pc. Utensil Set",
+   "url": "https://www.kohls.com/product/prd-269935/cooking-with-calphalon-9-pc-utensil-set.jsp",
+   "epc": 0.14,
+   "rate": 3.0,
+   "price": null,
+   "verified": false
+  },
+  "alternatives": [],
+  "note": "Same brand (Calphalon) but an all-nylon 9-piece set rather than the 7-piece wood-and-nylon one; Kohl's blocks bot checks and the item may be out of stock."
+ },
+ {
+  "id": "8-chef-s-knife",
+  "name": "8\" Chef's Knife",
+  "status": "match",
+  "kind": "same",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B000PS2XI4"
+   ],
+   "title": "Amazon.com: Mercer Culinary M22608 Millennia Black Handle, 8-Inch, Chef's Knife: Chefs Knives: Home & Kitchen",
+   "anchors": [
+    "8\" chef's knife"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "so-you-want-to-stage-intern-at-a-restaurant"
+  },
+  "primary": {
+   "merchant": "Restaurant Supply",
+   "product": "Mercer Culinary M22608 Millennia 8\" Chef's Knife, black handle",
+   "url": "https://www.restaurantsupply.com/mercer-culinary-m22608-millennia-8-high-carbon-japanese-steel-chef-knife-with-black-santoprene-handle",
+   "epc": 0.27,
+   "rate": 5.0,
+   "price": "about $20-24",
+   "verified": false
+  },
+  "alternatives": [],
+  "note": "Exact same Mercer Millennia M22608 knife; the page appeared in search but restaurantsupply.com returns 403 to bot checks."
+ },
+ {
+  "id": "8-piece-unison-non-stick-cookware-set",
+  "name": "8 piece Unison non-stick cookware set",
+  "status": "match",
+  "kind": "same",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B0028SEOOU"
+   ],
+   "title": "Amazon.com: Calphalon Unison Nonstick 8-Piece Cookware Set: Home & Kitchen",
+   "anchors": [
+    "8 piece Unison non-stick cookware set"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "cook-from-the-book-and-win-a-huge-calphalon-set-contest"
+  },
+  "primary": {
+   "merchant": "Kohl's",
+   "product": "Calphalon Unison 8-pc. Nonstick Hard-Anodized Cookware Set",
+   "url": "https://www.kohls.com/product/prd-1826965/Calphalon-Unison-8-pc-Nonstick-Hard-Anodized-Cookware-Set.jsp",
+   "epc": 0.14,
+   "rate": 3.0,
+   "price": null,
+   "verified": false
+  },
+  "alternatives": [],
+  "note": "Same Calphalon Unison 8-piece set (model 1756052); Kohl's returns 403 to bot checks and stock may vary."
+ },
+ {
+  "id": "91-costa-rica-bar",
+  "name": "91% Costa Rica Bar",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "low",
+  "amazon": {
+   "asins": [
+    "B07WF9KJSK"
+   ],
+   "title": "Amazon.com : Theo Chocolate Pure Organic Dark Chocolate Bar 85% Cacao, 6 Pack | Vegan, Fair Trade : Everything Else",
+   "anchors": [
+    "91% Costa Rica bar"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "seattle-chocolate-salon-theo-chocolopolis"
+  },
+  "primary": {
+   "merchant": "Thrive Market",
+   "product": "Theo Chocolate Organic Dark Chocolate 85% Cocoa, 3 oz (brand page)",
+   "url": "https://thrivemarket.com/brand/theo-chocolate",
+   "epc": 0.06,
+   "rate": 45.0,
+   "price": "$2.99",
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Thrive Market carries Theo's 70% and 85% bars but I could not find the 91% Costa Rica bar there; this links to the Theo brand page (the Amazon listing itself was the 85% 6-pack), so please pick a bar."
+ },
+ {
+  "id": "9x13-casserole",
+  "name": "9x13 Casserole",
+  "status": "match",
+  "kind": "same",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B09ZLT4FZJ"
+   ],
+   "title": "Amazon.com: Pyrex Deep (9x13\") Glass Baking Dish with Lid, Deep Casserole Dish | Preheated oven, freezer & microwave safe: Home & Kitchen",
+   "anchors": [
+    "9x13 casserole"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "swiss-chard-enchiladas-in-a-tomatillo-sauce-recipe"
+  },
+  "primary": {
+   "merchant": "Kohl's",
+   "product": "Pyrex 9\" x 13\" Deep Glass Baking Dish with Glass Lid",
+   "url": "https://www.kohls.com/product/prd-6289667/pyrex-9-x-13-deep-glass-baking-dish-with-glass-lid.jsp",
+   "epc": 0.14,
+   "rate": 3.0,
+   "price": null,
+   "verified": false
+  },
+  "alternatives": [],
+  "note": "Same Pyrex deep 9x13 glass dish with lid; Kohl's returns 403 to bot checks."
+ },
+ {
+  "id": "a-set-like-this-that-has-covers",
+  "name": "a set like this that has covers",
+  "status": "match",
+  "kind": "same",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B001HIAD2Y"
+   ],
+   "title": "Amazon.com: Anchor Hocking 6-Ounce Custard Cups with Lids, Set of 4 | Glass Construction, BPA-Free Plastic, Top-Rack Dishwasher Safe, Oven Safe, Microwave Safe, Refrigerator Safe: Bake And Serve Sets: Home & Kitchen",
+   "anchors": [
+    "a set like this that has covers"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "basic-baked-custard-recipe-an-easy-comforting-dessert-with-many-options"
+  },
+  "primary": {
+   "merchant": "Instacart",
+   "product": "Anchor Hocking Custard Cups with Lids, 6 oz (8 count)",
+   "url": "https://www.instacart.com/store/products/372728-anchor-hocking-custard-cups-with-lids-6-ounces-8-ea",
+   "epc": 0.02,
+   "rate": 10.0,
+   "price": null,
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Same Anchor Hocking 6 oz custard cups with lids, but sold as an 8-count pack through Instacart (low EPC and store availability depends on ZIP)."
+ },
+ {
+  "id": "acetoria-sour-cherry-vinegar",
+  "name": "Acetoria Sour Cherry Vinegar",
+  "status": "match",
+  "kind": "same",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B0012S5LQ2"
+   ],
+   "title": "Amazon.com : Sour Cherry Vinegar - Acetoria : Fruit Vinegars : Grocery & Gourmet Food",
+   "anchors": [
+    "Acetoria Sour Cherry Vinegar"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "corn-cake-with"
+  },
+  "primary": {
+   "merchant": "ChefShop.com",
+   "product": "Acetoria Sour Cherry Vinegar, 250 ml",
+   "url": "https://chefshop.com/products/acetoria-sour-cherry-vinegar",
+   "epc": null,
+   "rate": 7.0,
+   "price": "$39.95",
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Same Acetoria vinegar; the page showed sold out when searched and chefshop.com rate-limited the check (429)."
+ },
+ {
+  "id": "activa-rm-transglutaminase",
+  "name": "Activa RM Transglutaminase",
+  "status": "no_match",
+  "reason": "Only Modernist Pantry (not in the Skimlinks network) was found selling Activa RM; the Amazon link is also dead.",
+  "amazon": {
+   "asins": [
+    "B0F5Z55TH5"
+   ],
+   "title": "Page Not Found",
+   "anchors": [
+    "transglutaminase"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "greatest-veggie-burger"
+  }
+ },
+ {
+  "id": "adzuki-beans",
+  "name": "Adzuki Beans",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B00TOETLDA"
+   ],
+   "title": "Amazon.com : Hunza Organic Adzuki Beans (2 lbs) : Grocery & Gourmet Food",
+   "anchors": [
+    "adzuki beans"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "introduction-to"
+  },
+  "primary": {
+   "merchant": "Nuts.com",
+   "product": "Organic Adzuki Beans",
+   "url": "https://nuts.com/cookingbaking/beans/adzuki/organic.html",
+   "epc": 0.38,
+   "rate": 20.0,
+   "price": null,
+   "verified": false,
+   "broken": true
+  },
+  "alternatives": [],
+  "note": "Organic adzuki beans from Nuts.com rather than Hunza's 2 lb bag; the site rate-limited the check (429)."
+ },
+ {
+  "id": "agar-agar-powder",
+  "name": "Agar Agar Powder",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B007PJAOG4"
+   ],
+   "title": "Amazon.com : Agar Agar Powder 5 Ounces - Excellent Gel Strength : Baking Thickeners : Grocery & Gourmet Food",
+   "anchors": [
+    "agar powder"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "goat-cheese-and"
+  },
+  "primary": {
+   "merchant": "iHerb.com",
+   "product": "NOW Foods Agar Powder, 5 oz",
+   "url": "https://www.iherb.com/pr/now-foods-agar-powder-5-oz-142-g/77859",
+   "epc": 0.13,
+   "rate": 15.0,
+   "price": "$17.00",
+   "verified": false
+  },
+  "alternatives": [],
+  "note": "Same 5 oz size and type of agar powder but NOW Foods brand; iHerb returns 403 to bot checks."
+ },
+ {
+  "id": "airlock",
+  "name": "airlock",
+  "status": "no_match",
+  "reason": "No in-network merchant selling homebrew airlocks was found.",
+  "amazon": {
+   "asins": [
+    "B000E60G2W"
+   ],
+   "title": "Amazon.com: SocalHomeBrew Plastic 3 Piece Airlock (Pack of 3): Brewing And Venting Airlocks: Home & Kitchen",
+   "anchors": [
+    "airlock"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "making-your-own-kimchi-recipe"
+  }
+ }
+]

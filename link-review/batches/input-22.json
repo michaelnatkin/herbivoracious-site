@@ -1,0 +1,324 @@
+[
+ {
+  "id": "jaques-pepin",
+  "name": "Jaques Pepin",
+  "current_amazon_url": "https://www.amazon.com/dp/0544657497?tag=herb-hugo-20",
+  "is_book": true,
+  "amazon_titles": [],
+  "anchors": [
+   "Jaques Pepin"
+  ],
+  "asins": [
+   "0544657497"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "so-you-want-to-stage-intern-at-a-restaurant"
+ },
+ {
+  "id": "jasmine-rice",
+  "name": "Jasmine Rice",
+  "current_amazon_url": "https://www.amazon.com/dp/B00NM3J4E0?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "jasmine rice"
+  ],
+  "asins": [
+   "B00NM3J4E0"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "thai-basil-eggplant-recipe"
+ },
+ {
+  "id": "joyva-sesame-tahini-15-oz",
+  "name": "Joyva Sesame Tahini, 15 oz",
+  "current_amazon_url": "https://www.amazon.com/dp/B000VK484I?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "sesame tahini"
+  ],
+  "asins": [
+   "B000VK484I"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "quinoa-and-tahini-recipe"
+ },
+ {
+  "id": "just-soft-boiled",
+  "name": "just soft-boiled",
+  "current_amazon_url": "https://www.amazon.com/dp/B0007M2BN0?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "just soft-boiled"
+  ],
+  "asins": [
+   "B0007M2BN0"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "what-to-do-with-an-insideout-egg"
+ },
+ {
+  "id": "kakukyu-hatcho-miso-paste",
+  "name": "Kakukyu Hatcho Miso Paste",
+  "current_amazon_url": "https://www.amazon.com/dp/B0DNQ4Y74Y?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "Hatcho miso"
+  ],
+  "asins": [
+   "B0DNQ4Y74Y"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "korean-yakisoba-with-french-horn-mushroom-tofu-and-510-egg-recipe"
+ },
+ {
+  "id": "karen-and-andrew",
+  "name": "Karen and Andrew",
+  "current_amazon_url": "https://www.amazon.com/dp/0471152099?tag=herb-hugo-20",
+  "is_book": true,
+  "amazon_titles": [],
+  "anchors": [
+   "Karen and Andrew"
+  ],
+  "asins": [
+   "0471152099"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "so-you-want-to-stage-intern-at-a-restaurant"
+ },
+ {
+  "id": "kevlar-glove",
+  "name": "Kevlar Glove",
+  "current_amazon_url": "https://www.amazon.com/dp/B001QXZORE?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "kevlar glove"
+  ],
+  "asins": [
+   "B001QXZORE"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "goat-cheese-asparagus-and-beet-salad-with-herb-flowers-recipe"
+ },
+ {
+  "id": "kevlar-kitchen-glove",
+  "name": "Kevlar Kitchen Glove",
+  "current_amazon_url": "https://www.amazon.com/dp/B00IVM1TKO?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "Kevlar kitchen glove"
+  ],
+  "asins": [
+   "B00IVM1TKO"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "mandoline-preferably-an-inexpensive-japanese-model"
+ },
+ {
+  "id": "kitchenaid-pasta-extruder-attachment",
+  "name": "KitchenAid Pasta Extruder Attachment",
+  "current_amazon_url": "https://www.amazon.com/dp/B003GWZ9ZK?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "pasta-extruder attachment"
+  ],
+  "asins": [
+   "B003GWZ9ZK"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "rigatoni-with-roasted-cauliflower-and-spicy-tomato-sauce-recipe"
+ },
+ {
+  "id": "kitchenaid-pasta-roller-attachment",
+  "name": "KitchenAid Pasta Roller Attachment",
+  "current_amazon_url": "https://www.amazon.com/dp/B000TTCK64?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "pasta roller attachment for my Kitchen-Aid mixer"
+  ],
+  "asins": [
+   "B000TTCK64"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "pappardelle-with-eggplant-ragu-and-fresh-ricotta-recipe"
+ },
+ {
+  "id": "knife",
+  "name": "knife",
+  "current_amazon_url": "https://www.amazon.com/dp/B000638D32?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "knife"
+  ],
+  "asins": [
+   "B000638D32"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "how-to-cut-mint-chiffonade-tiny-ribbons-video"
+ },
+ {
+  "id": "knife-bag",
+  "name": "Knife Bag",
+  "current_amazon_url": "https://www.amazon.com/dp/B0BRTH7Y23?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com: ELIZO Leather Knife Roll Bag Professional Chef Knife Case, Durable Knife Sheath Holder, Cooks & Culinary Tools Carrying Storage, Portable Knife Wrap - 4 Slots : Home & Kitchen"
+  ],
+  "anchors": [
+   "knife bag"
+  ],
+  "asins": [
+   "B0BRTH7Y23"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "so-you-want-to-stage-intern-at-a-restaurant"
+ },
+ {
+  "id": "kosher-salt",
+  "name": "Kosher Salt",
+  "current_amazon_url": "https://www.amazon.com/dp/B0005YM5XG?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "Kosher Salt"
+  ],
+  "asins": [
+   "B0005YM5XG"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "salt-crazy-my-f"
+ },
+ {
+  "id": "la-chinata-sweet-smoked-paprika-powder-70g",
+  "name": "La Chinata Sweet Smoked Paprika Powder 70g",
+  "current_amazon_url": "https://www.amazon.com/dp/B00LX21KVW?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "smoked paprika"
+  ],
+  "asins": [
+   "B00LX21KVW"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "triple-smoky-mac-and-cheese-recipe"
+ },
+ {
+  "id": "lime-pickle",
+  "name": "Lime Pickle",
+  "current_amazon_url": "https://www.amazon.com/dp/B00BHFHAUK?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "lime pickle"
+  ],
+  "asins": [
+   "B00BHFHAUK"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "mangoes-and-cur"
+ },
+ {
+  "id": "lobster-mushroom",
+  "name": "Lobster Mushroom",
+  "current_amazon_url": "https://www.amazon.com/dp/B00ARMGHGC?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "lobster mushroom"
+  ],
+  "asins": [
+   "B00ARMGHGC"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "lobster-mushroo"
+ },
+ {
+  "id": "lovely-if-pricey-ones-from-emily-henry",
+  "name": "lovely, if pricey ones from Emily Henry",
+  "current_amazon_url": "https://www.amazon.com/dp/B01AO0XTWQ?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "lovely, if pricey ones from Emily Henry"
+  ],
+  "asins": [
+   "B01AO0XTWQ"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "basic-baked-custard-recipe-an-easy-comforting-dessert-with-many-options"
+ },
+ {
+  "id": "magnetic-block",
+  "name": "Magnetic Block",
+  "current_amazon_url": "https://www.amazon.com/dp/B0BV6B6QY3?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "magnetic block"
+  ],
+  "asins": [
+   "B0BV6B6QY3"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "knives-for-the"
+ },
+ {
+  "id": "malic-acid",
+  "name": "Malic Acid",
+  "current_amazon_url": "https://www.amazon.com/dp/B00D4SBI3I?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "malic acid"
+  ],
+  "asins": [
+   "B00D4SBI3I"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "fruit-salad"
+ },
+ {
+  "id": "manchego",
+  "name": "Manchego",
+  "current_amazon_url": "https://www.amazon.com/dp/B075JN8RCZ?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "manchego"
+  ],
+  "asins": [
+   "B075JN8RCZ"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "holiday-shopping-for-gourmets-or-gourmands-chefshopcom"
+ }
+]

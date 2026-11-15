@@ -1,0 +1,322 @@
+[
+ {
+  "id": "hatch-chiles",
+  "name": "Hatch Chiles",
+  "current_amazon_url": "https://www.amazon.com/dp/B074LGRD5K?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "Hatch chiles"
+  ],
+  "asins": [
+   "B074LGRD5K"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "hatch-chiles-stuffed-with-cilantro-scrambled-egg-recipe"
+ },
+ {
+  "id": "hawaiian-red-salt",
+  "name": "Hawaiian Red Salt",
+  "current_amazon_url": "https://www.amazon.com/dp/B000K7644E?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "Hawaiian Red Salt"
+  ],
+  "asins": [
+   "B000K7644E"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "cooked-carrot-and-radish-salad-recipe"
+ },
+ {
+  "id": "hazelnut-butter",
+  "name": "Hazelnut Butter",
+  "current_amazon_url": "https://www.amazon.com/dp/B0FHBXW8M8?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "hazelnut butter"
+  ],
+  "asins": [
+   "B0FHBXW8M8"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "butterscotch-pudding-with-bittersweet-ganache-and-caramelize-white-chocolate-crunchies-recipe"
+ },
+ {
+  "id": "hearts-of-palm",
+  "name": "Hearts of Palm",
+  "current_amazon_url": "https://www.amazon.com/dp/B074H5M1BL?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "hearts of palm"
+  ],
+  "asins": [
+   "B074H5M1BL"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "vegetarian-ceviche-recipe"
+ },
+ {
+  "id": "heatproof-spatula",
+  "name": "Heatproof Spatula",
+  "current_amazon_url": "https://www.amazon.com/dp/B084H89YLC?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "heatproof spatula"
+  ],
+  "asins": [
+   "B084H89YLC"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "caramelized-pear-ice-cream-from-the-perfect-scoop-by-david-lebovitz-recipe-and-cookbook-review"
+ },
+ {
+  "id": "henckels-forged-premio-serrated-utility-knife-5",
+  "name": "Henckels Forged Premio Serrated Utility Knife, 5-Inch",
+  "current_amazon_url": "https://www.amazon.com/dp/B00375MLNE?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "HENCKELS Forged Premio Serrated Utility Knife, 5-inch"
+  ],
+  "asins": [
+   "B00375MLNE"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "other-knives-kitchen-tools-hand-tools"
+ },
+ {
+  "id": "henckels-twin-pro-s-8-inch-high-carbon",
+  "name": "Henckels Twin Pro S 8-Inch High-Carbon Stainless-Steel Bread Knife",
+  "current_amazon_url": "https://www.amazon.com/dp/B00004RFLN?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "Henckels Twin Pro S 8-Inch High-Carbon Stainless-Steel Bread Knife"
+  ],
+  "asins": [
+   "B00004RFLN"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "knives-for-the"
+ },
+ {
+  "id": "herbes-de-provence",
+  "name": "Herbes de Provence",
+  "current_amazon_url": "https://www.amazon.com/dp/B0001M10TM?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "herbes de Provence"
+  ],
+  "asins": [
+   "B0001M10TM"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "savory-onion-and-aged-gouda-dutch-baby-recipe"
+ },
+ {
+  "id": "high-quality-cocoa-powder",
+  "name": "High Quality Cocoa Powder",
+  "current_amazon_url": "https://www.amazon.com/dp/B07CJ83LRQ?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "high quality cocoa powder"
+  ],
+  "asins": [
+   "B07CJ83LRQ"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "savory-churros-and-morel-chocolate-recipe"
+ },
+ {
+  "id": "high-quality-spaghetti-noodles",
+  "name": "High-Quality Spaghetti Noodles",
+  "current_amazon_url": "https://www.amazon.com/dp/B079NKSF12?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "high-quality spaghetti noodles"
+  ],
+  "asins": [
+   "B079NKSF12"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "kitchen-sink-pasta-recipe"
+ },
+ {
+  "id": "himalayan-sulfur-salt",
+  "name": "Himalayan Sulfur Salt",
+  "current_amazon_url": "https://www.amazon.com/dp/B001O1Q0NA?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "Himalayan sulfur salt"
+  ],
+  "asins": [
+   "B001O1Q0NA"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "sichuan-peppercorn-peanuts-a-snack-that-wants-a-beer"
+ },
+ {
+  "id": "honey",
+  "name": "honey",
+  "current_amazon_url": "https://www.amazon.com/dp/B00CMQD282?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "honey"
+  ],
+  "asins": [
+   "B00CMQD282"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "bunuelos-bimuelos-donuts-hanukkah-sephardic"
+ },
+ {
+  "id": "honey-2",
+  "name": "honey",
+  "current_amazon_url": "https://www.amazon.com/dp/B07MG95VFP?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "honey"
+  ],
+  "asins": [
+   "B07MG95VFP"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "calabro-the-b"
+ },
+ {
+  "id": "honey-3",
+  "name": "honey",
+  "current_amazon_url": "https://www.amazon.com/dp/B0874XJ5DT?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "honey"
+  ],
+  "asins": [
+   "B0874XJ5DT"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "bunuelos-sephardic-doughnuts-recipe"
+ },
+ {
+  "id": "ice-cream-freezers-like-they-have-on-iron-chef",
+  "name": "Ice Cream Freezers Like They Have on Iron Chef",
+  "current_amazon_url": "https://www.amazon.com/dp/B0000DDX9U?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "ice cream freezers like they have on Iron Chef"
+  ],
+  "asins": [
+   "B0000DDX9U"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "chocolate-cupca"
+ },
+ {
+  "id": "immersion-circulator",
+  "name": "Immersion Circulator",
+  "current_amazon_url": "https://www.amazon.com/dp/B094921FYY?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "immersion circulator"
+  ],
+  "asins": [
+   "B094921FYY"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "greek-green-bean-salad-recipe"
+ },
+ {
+  "id": "indian-lime-pickle",
+  "name": "Indian Lime Pickle",
+  "current_amazon_url": "https://www.amazon.com/dp/B000JSSOCY?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "Indian lime pickle"
+  ],
+  "asins": [
+   "B000JSSOCY"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "ginger-and-black-pepper-rice-pilafrecipe"
+ },
+ {
+  "id": "isi-cream-profi-whip-professional-cream-whipper",
+  "name": "ISi Cream Profi Whip Professional Cream Whipper",
+  "current_amazon_url": "https://www.amazon.com/dp/B0001MRZWI?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "whip cream dispenser"
+  ],
+  "asins": [
+   "B0001MRZWI"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "you-have-mousse"
+ },
+ {
+  "id": "japanese-black-sesame-paste",
+  "name": "Japanese Black Sesame Paste",
+  "current_amazon_url": "https://www.amazon.com/dp/B07PB8Y21N?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "Japanese black sesame paste"
+  ],
+  "asins": [
+   "B07PB8Y21N"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "antigriddle-pudding-pop-bruleed-mango-black-sesame-tuile-recipe"
+ },
+ {
+  "id": "japanese-black-sesame-paste-no-additives",
+  "name": "Japanese Black Sesame Paste, No Additives",
+  "current_amazon_url": "https://www.amazon.com/dp/B089KTTLFJ?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "Black sesame paste"
+  ],
+  "asins": [
+   "B089KTTLFJ"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "mango-puffs-with-lemongrass-coconut-pudding-and-black-sesame-recipe"
+ }
+]

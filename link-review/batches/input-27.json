@@ -1,0 +1,326 @@
+[
+ {
+  "id": "serrano-chilis",
+  "name": "Serrano Chilis",
+  "current_amazon_url": "https://www.amazon.com/dp/B000RHSZ6W?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "serrano chilis"
+  ],
+  "asins": [
+   "B000RHSZ6W"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "spicy-tomatillo-salsa-recipe"
+ },
+ {
+  "id": "serrated-peelers",
+  "name": "Serrated Peelers",
+  "current_amazon_url": "https://www.amazon.com/dp/B0DBVMXMLX?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "serrated peelers"
+  ],
+  "asins": [
+   "B0DBVMXMLX"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "grilled-peaches"
+ },
+ {
+  "id": "serrated-tomato-knife",
+  "name": "Serrated Tomato Knife",
+  "current_amazon_url": "https://www.amazon.com/dp/B0DXPTCFT5?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com: Yunletwood Tomato Knife 3rd Gen 2-Pack, Serrated Stainless Steel Blade, Ergonomic Handle, Precise Cuts for Tomatoes/Fruits/Veggies (White): Home & Kitchen"
+  ],
+  "anchors": [
+   "serrated tomato knife"
+  ],
+  "asins": [
+   "B0DXPTCFT5"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "entry-avocado-grapefruit-mango-yuzu-cilantro"
+ },
+ {
+  "id": "serrated-vegetable-peeler",
+  "name": "Serrated Vegetable Peeler",
+  "current_amazon_url": "https://www.amazon.com/dp/B0007VO0CG?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "serrated vegetable peeler"
+  ],
+  "asins": [
+   "B0007VO0CG"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "spicy-mango-salad-with-togarashi-recipe"
+ },
+ {
+  "id": "sesame-seeds",
+  "name": "Sesame Seeds",
+  "current_amazon_url": "https://www.amazon.com/dp/B07VYPWBQ8?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "sesame seeds"
+  ],
+  "asins": [
+   "B07VYPWBQ8"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "i-like-you-hospitality-under-the-influence-by-amy-sedaris-cookbook-review"
+ },
+ {
+  "id": "sesame-seeds-2",
+  "name": "Sesame Seeds",
+  "current_amazon_url": "https://www.amazon.com/dp/B08HQX3YJG?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "sesame seeds"
+  ],
+  "asins": [
+   "B08HQX3YJG"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "recipe-sesame-c-1"
+ },
+ {
+  "id": "shiso",
+  "name": "shiso",
+  "current_amazon_url": "https://www.amazon.com/dp/B0DS1928RM?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "shiso"
+  ],
+  "asins": [
+   "B0DS1928RM"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "vietnamese-cabbage-and-herb-salad-recipe"
+ },
+ {
+  "id": "short-grained-spanish-rice",
+  "name": "Short-Grained Spanish Rice",
+  "current_amazon_url": "https://www.amazon.com/dp/B001HNU87O?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "short-grained Spanish rice"
+  ],
+  "asins": [
+   "B001HNU87O"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "paella-cakes-with-manchego-and-candied-seville-orange-peel-recipe"
+ },
+ {
+  "id": "shun",
+  "name": "Shun",
+  "current_amazon_url": "https://www.amazon.com/dp/B0000Y7KNQ?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "Shun"
+  ],
+  "asins": [
+   "B0000Y7KNQ"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "three-ways-to-increase-your-confidence-in-the-kitchen"
+ },
+ {
+  "id": "silpat",
+  "name": "silpat",
+  "current_amazon_url": "https://www.amazon.com/dp/B00005AXJ9?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "silpat"
+  ],
+  "asins": [
+   "B00005AXJ9"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "block-party-emp"
+ },
+ {
+  "id": "silpat-2",
+  "name": "silpat",
+  "current_amazon_url": "https://www.amazon.com/dp/B0001RT42C?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "silpat"
+  ],
+  "asins": [
+   "B0001RT42C"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "warm-fennel-salad-with-pears-and-candied-pumpkin-seeds-recipe"
+ },
+ {
+  "id": "simple-and-inexpensive",
+  "name": "simple and inexpensive",
+  "current_amazon_url": "https://www.amazon.com/dp/B09NLWBHCG?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "simple and inexpensive"
+  ],
+  "asins": [
+   "B09NLWBHCG"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "cherry-pumpkin"
+ },
+ {
+  "id": "skillet",
+  "name": "Skillet",
+  "current_amazon_url": "https://www.amazon.com/dp/B00008CM6B?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "skillet"
+  ],
+  "asins": [
+   "B00008CM6B"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "braised-baby-artichoke-with-fennel-and-cherry-tomatoes-recipe"
+ },
+ {
+  "id": "sliced-marinated-green-olives",
+  "name": "Sliced Marinated Green Olives",
+  "current_amazon_url": "https://www.amazon.com/dp/B07813GRYD?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com: MEDITERRANEAN MARKET BY DIVINA Pitted Marinated Lemon Garlic Olives, 8.1 OZ : Grocery & Gourmet Food"
+  ],
+  "anchors": [
+   "sliced marinated green olives"
+  ],
+  "asins": [
+   "B07813GRYD"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "fried-pita-bread-with-fava-beans-and-zucchini-recipe"
+ },
+ {
+  "id": "smaller-quantities",
+  "name": "smaller quantities",
+  "current_amazon_url": "https://www.amazon.com/dp/B002YFR66U?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "smaller quantities"
+  ],
+  "asins": [
+   "B002YFR66U"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "strawberries-and-cream-birthday-cake-momofuku-style"
+ },
+ {
+  "id": "soeos-sichuan-peppercorn-powder",
+  "name": "Soeos Sichuan Peppercorn Powder",
+  "current_amazon_url": "https://www.amazon.com/dp/B07P96X6YB?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "Szechwan peppercorn"
+  ],
+  "asins": [
+   "B07P96X6YB"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "iced-lychee-wit"
+ },
+ {
+  "id": "sous-vide",
+  "name": "Sous Vide",
+  "current_amazon_url": "https://www.amazon.com/dp/B07C7PW3PC?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "sous vide"
+  ],
+  "asins": [
+   "B07C7PW3PC"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "sichuan-spicy-cauliflower-recipe"
+ },
+ {
+  "id": "soy-sauce",
+  "name": "Soy Sauce",
+  "current_amazon_url": "https://www.amazon.com/dp/B000RYBYZ4?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "soy sauce"
+  ],
+  "asins": [
+   "B000RYBYZ4"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "kale-fried-rice-for-one-infinitely-adaptable-recipe"
+ },
+ {
+  "id": "soy-sauce-2",
+  "name": "Soy Sauce",
+  "current_amazon_url": "https://www.amazon.com/dp/B0079VJGL2?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "soy sauce"
+  ],
+  "asins": [
+   "B0079VJGL2"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "good-stuff-from-bourbon-barrel-foods"
+ },
+ {
+  "id": "spicy-world-black-salt-kala-namak",
+  "name": "Spicy World Black Salt (Kala Namak)",
+  "current_amazon_url": "https://www.amazon.com/dp/B07CTW5NJX?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "black salt"
+  ],
+  "asins": [
+   "B07CTW5NJX"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "recipe-grapefru"
+ }
+]

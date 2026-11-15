@@ -8,6 +8,10 @@ DEC = os.path.join(DIR, "decisions.json")
 class H(http.server.SimpleHTTPRequestHandler):
     def __init__(self, *a, **k): super().__init__(*a, directory=DIR, **k)
     def do_GET(self):
+        if self.path.startswith("/batches.json"):
+            names = sorted(f for f in os.listdir(os.path.join(DIR, "batches")) if f.startswith("batch-") and f.endswith(".json"))
+            self.send_response(200); self.send_header("Content-Type", "application/json"); self.end_headers()
+            self.wfile.write(json.dumps(names).encode()); return
         if self.path.startswith("/decisions.json") and not os.path.exists(DEC):
             self.send_response(200); self.send_header("Content-Type", "application/json"); self.end_headers(); self.wfile.write(b"{}"); return
         super().do_GET()

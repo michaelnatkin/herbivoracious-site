@@ -1,0 +1,337 @@
+[
+ {
+  "id": "tortilla-press-2",
+  "name": "Tortilla Press",
+  "current_amazon_url": "https://www.amazon.com/dp/B00HWEIKZO?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "tortilla press"
+  ],
+  "asins": [
+   "B00HWEIKZO"
+  ],
+  "links": 2,
+  "posts": 2,
+  "example_post": "gorditas-with-roasted-mushrooms-recipe"
+ },
+ {
+  "id": "truffle-oil",
+  "name": "Truffle Oil",
+  "current_amazon_url": "https://www.amazon.com/dp/B07W379F4Y?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "truffle oil"
+  ],
+  "asins": [
+   "B000Q9SEZS",
+   "B07W379F4Y"
+  ],
+  "links": 2,
+  "posts": 2,
+  "example_post": "caviar-lentil-salad-with-arugula-crispy-shallots-and-roasted-garlic-recipe"
+ },
+ {
+  "id": "unsweetened-chocolate",
+  "name": "Unsweetened Chocolate",
+  "current_amazon_url": "https://www.amazon.com/dp/B00IEIHQB6?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "Scharffen-Berger unsweetened bar chocolate",
+   "unsweetened chocolate"
+  ],
+  "asins": [
+   "B000B1RHJU",
+   "B00IEIHQB6"
+  ],
+  "links": 2,
+  "posts": 2,
+  "example_post": "chocolate-cupca"
+ },
+ {
+  "id": "what-to-drink-with-what-you-eat",
+  "name": "What to Drink with What You Eat",
+  "current_amazon_url": "https://www.amazon.com/dp/0821257188?tag=herb-hugo-20",
+  "is_book": true,
+  "amazon_titles": [],
+  "anchors": [
+   "The Flavor Bible",
+   "What to Drink with What You Eat"
+  ],
+  "asins": [
+   "0316118400",
+   "0821257188"
+  ],
+  "links": 2,
+  "posts": 2,
+  "example_post": "the-flavor-bibl"
+ },
+ {
+  "id": "willpowder-isomalt-powder",
+  "name": "WillPowder Isomalt Powder",
+  "current_amazon_url": "https://www.amazon.com/dp/B00DJPW678?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "isomalt",
+   "isomalt powder"
+  ],
+  "asins": [
+   "B00DJPW678",
+   "B00PKR1ZZW"
+  ],
+  "links": 2,
+  "posts": 2,
+  "example_post": "fun-with-isomal"
+ },
+ {
+  "id": "yakami-orchard-100-pure-japanese-yuzu-juice-12",
+  "name": "Yakami Orchard 100% Pure Japanese Yuzu Juice, 12 oz",
+  "current_amazon_url": "https://www.amazon.com/dp/B002ACC8II?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com : Yakami Orchard 100 % Pure Japanese Yuzu Juice 12 oz. / 350 ml : Fruit Juices : Grocery & Gourmet Food"
+  ],
+  "anchors": [
+   "yuzu juice"
+  ],
+  "asins": [
+   "B002ACC8II",
+   "B07PDQ8VGT"
+  ],
+  "links": 2,
+  "posts": 2,
+  "example_post": "avocado-grapefruit-mango-yuzu-cilantro"
+ },
+ {
+  "id": "yuquan-sichuan-zha-cai-preserved-vegetable",
+  "name": "Yuquan Sichuan Zha Cai Preserved Vegetable",
+  "current_amazon_url": "https://www.amazon.com/dp/B079C5V5VX?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "Sichuan preserved vegetable"
+  ],
+  "asins": [
+   "B00OOVDBPW",
+   "B079C5V5VX"
+  ],
+  "links": 2,
+  "posts": 2,
+  "example_post": "sichuan-dry-fried-green-beans-and-tofu-recipe"
+ },
+ {
+  "id": "aji-amarillo-chili",
+  "name": "Aji Amarillo Chili",
+  "current_amazon_url": "https://www.amazon.com/dp/B09S6V3QC8?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "aji amarillo chili"
+  ],
+  "asins": [
+   "B09S6V3QC8"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "red-chili-sauce-for-tamales"
+ },
+ {
+  "id": "ajvar",
+  "name": "ajvar",
+  "current_amazon_url": "https://www.amazon.com/dp/B000LRH9FQ?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com : Podravka Mild Ajvar 690 gram jar : Grocery & Gourmet Food"
+  ],
+  "anchors": [
+   "ajvar"
+  ],
+  "asins": [
+   "B000LRH9FQ"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "easy-eggplant-and-ricotta-rolls-with-ajvar-or-tomato-sauce"
+ },
+ {
+  "id": "aleppo-pepper",
+  "name": "Aleppo pepper",
+  "current_amazon_url": "https://www.amazon.com/dp/B003GU1AE6?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "Aleppo pepper"
+  ],
+  "asins": [
+   "B003GU1AE6"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "quick-marinated-feta-recipe"
+ },
+ {
+  "id": "amazon-b0000cnu2x",
+  "name": "Amazon item B0000CNU2X",
+  "current_amazon_url": "https://www.amazon.com/dp/B0000CNU2X?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "like this"
+  ],
+  "asins": [
+   "B0000CNU2X"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "vietnamese-salad-rolls-goi-cuon-recipe"
+ },
+ {
+  "id": "amazon-b0006bddi4",
+  "name": "Amazon item B0006BDDI4",
+  "current_amazon_url": "https://www.amazon.com/dp/B0006BDDI4?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "basic"
+  ],
+  "asins": [
+   "B0006BDDI4"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "madelines-with"
+ },
+ {
+  "id": "amazon-b000jsm27m",
+  "name": "Amazon item B000JSM27M",
+  "current_amazon_url": "https://www.amazon.com/dp/B000JSM27M?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "buy it"
+  ],
+  "asins": [
+   "B000JSM27M"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "wacky-chana-chaat-spicy-chickpea-snack-recipe"
+ },
+ {
+  "id": "amazon-b000ofredc",
+  "name": "Amazon item B000OFREDC",
+  "current_amazon_url": "https://www.amazon.com/dp/B000OFREDC?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "wok"
+  ],
+  "asins": [
+   "B000OFREDC"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "thai-basil-eggplant-recipe"
+ },
+ {
+  "id": "amazon-b000vnz7uy",
+  "name": "Amazon item B000VNZ7UY",
+  "current_amazon_url": "https://www.amazon.com/dp/B000VNZ7UY?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com : Saffroman Spanish Superior Grade Saffron 1 Gr (Antonio Sotos Brand) : Saffron Spices And Herbs : Grocery & Gourmet Food"
+  ],
+  "anchors": [
+   "this one"
+  ],
+  "asins": [
+   "B000VNZ7UY"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "vegetarian-pael"
+ },
+ {
+  "id": "amazon-b001l106kq",
+  "name": "Amazon item B001L106KQ",
+  "current_amazon_url": "https://www.amazon.com/dp/B001L106KQ?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "on Amazon"
+  ],
+  "asins": [
+   "B001L106KQ"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "spicy-mama-lils-spaghetti-carbonara-recipe"
+ },
+ {
+  "id": "amazon-b002ok2fca",
+  "name": "Amazon item B002OK2FCA",
+  "current_amazon_url": "https://www.amazon.com/dp/B002OK2FCA?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "on Amazon"
+  ],
+  "asins": [
+   "B002OK2FCA"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "sunflower-butter-cookies-recipe"
+ },
+ {
+  "id": "amazon-b00428m7k2",
+  "name": "Amazon item B00428M7K2",
+  "current_amazon_url": "https://www.amazon.com/dp/B00428M7K2?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "wok"
+  ],
+  "asins": [
+   "B00428M7K2"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "stir-fried-winged-beans-kacang-botol-with-tomato-and-garlic-recipe"
+ },
+ {
+  "id": "amazon-b012pnlh42",
+  "name": "Amazon item B012PNLH42",
+  "current_amazon_url": "https://www.amazon.com/dp/B012PNLH42?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "kit"
+  ],
+  "asins": [
+   "B012PNLH42"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "making-mozare-1"
+ },
+ {
+  "id": "amazon-b08hmxmg2h",
+  "name": "Amazon item B08HMXMG2H",
+  "current_amazon_url": "https://www.amazon.com/dp/B08HMXMG2H?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "wok"
+  ],
+  "asins": [
+   "B08HMXMG2H"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "red-curry-fried-rice-with-seared-pineapple-recipe"
+ }
+]

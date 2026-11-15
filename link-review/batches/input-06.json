@@ -1,0 +1,376 @@
+[
+ {
+  "id": "candy-deep-fry-thermometer",
+  "name": "Candy/deep Fry Thermometer",
+  "current_amazon_url": "https://www.amazon.com/dp/B00004XSC9?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "365 degrees F",
+   "370 degrees F",
+   "candy/deep fry thermometer"
+  ],
+  "asins": [
+   "B00004XSC9"
+  ],
+  "links": 3,
+  "posts": 3,
+  "example_post": "bunuelos-bimuelos-donuts-hanukkah-sephardic"
+ },
+ {
+  "id": "caraway-seeds",
+  "name": "Caraway Seeds",
+  "current_amazon_url": "https://www.amazon.com/dp/B00MOZCJG2?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "caraway seeds"
+  ],
+  "asins": [
+   "B00MOZCJG2"
+  ],
+  "links": 3,
+  "posts": 3,
+  "example_post": "black-rice-fritter-with-turnips-and-horseradish-cream-recipe"
+ },
+ {
+  "id": "chef-schoice-130-professional-electric-knife",
+  "name": "Chef'sChoice 130 Professional Electric Knife Sharpener",
+  "current_amazon_url": "https://www.amazon.com/dp/B000CSG9BE?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "Chef's Choice 130 Professional Sharpening Station",
+   "Chef's Choice M130 Professional Sharpening Station",
+   "Sharpening Station"
+  ],
+  "asins": [
+   "B000CSG9BE"
+  ],
+  "links": 3,
+  "posts": 3,
+  "example_post": "how-to-use-a-sharpening-steel-on-your-knives-video"
+ },
+ {
+  "id": "chicago-metallic-half-sheet-pans",
+  "name": "Chicago Metallic Half-Sheet Pans",
+  "current_amazon_url": "https://www.amazon.com/dp/B003YKGRPK?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "Chicago Metallic half-sheet pans",
+   "Quarter sheet pan",
+   "sheet pan"
+  ],
+  "asins": [
+   "B000RYPHRK",
+   "B003YKGRPK"
+  ],
+  "links": 3,
+  "posts": 3,
+  "example_post": "strawberries-and-cream-birthday-cake-momofuku-style"
+ },
+ {
+  "id": "coconut-milk",
+  "name": "Coconut Milk",
+  "current_amazon_url": "https://www.amazon.com/dp/B000SRKCGM?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "coconut cream",
+   "coconut milk"
+  ],
+  "asins": [
+   "B0000D16YH",
+   "B000GG1OTO",
+   "B000SRKCGM"
+  ],
+  "links": 3,
+  "posts": 3,
+  "example_post": "how-to-make-an-inside-out-egg-recipe"
+ },
+ {
+  "id": "couscous",
+  "name": "Couscous",
+  "current_amazon_url": "https://www.amazon.com/dp/B001HTINWA?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "couscous"
+  ],
+  "asins": [
+   "B001HTINWA",
+   "B01IRD2VYE"
+  ],
+  "links": 3,
+  "posts": 2,
+  "example_post": "recipe-how-to-m"
+ },
+ {
+  "id": "cream-whipper",
+  "name": "Cream Whipper",
+  "current_amazon_url": "https://www.amazon.com/dp/B001U83TWW?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "cream whipper"
+  ],
+  "asins": [
+   "B000A3L60U",
+   "B001U83TWW"
+  ],
+  "links": 3,
+  "posts": 2,
+  "example_post": "compressed-cucumber-shiso-sake-infusion"
+ },
+ {
+  "id": "dessert-express",
+  "name": "Dessert Express",
+  "current_amazon_url": "https://www.amazon.com/dp/1600850189?tag=herb-hugo-20",
+  "is_book": true,
+  "amazon_titles": [],
+  "anchors": [
+   "Dessert Express"
+  ],
+  "asins": [
+   "1600850189"
+  ],
+  "links": 3,
+  "posts": 1,
+  "example_post": "dessert-express-cookbook-review-with-pudding-cake-recipe"
+ },
+ {
+  "id": "dutch-oven",
+  "name": "Dutch Oven",
+  "current_amazon_url": "https://www.amazon.com/dp/B000LEXR0K?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "Dutch oven"
+  ],
+  "asins": [
+   "B000LEXR0K",
+   "B000N4WN08",
+   "B004QM8SK2"
+  ],
+  "links": 3,
+  "posts": 3,
+  "example_post": "my-skillet"
+ },
+ {
+  "id": "farro",
+  "name": "farro",
+  "current_amazon_url": "https://www.amazon.com/dp/B07XLQ13WY?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "Farro",
+   "farro"
+  ],
+  "asins": [
+   "B07XLQ13WY"
+  ],
+  "links": 3,
+  "posts": 3,
+  "example_post": "farro-and-chickpea-soup-recipe"
+ },
+ {
+  "id": "fresh-shiitake-mushroom-caps",
+  "name": "Fresh Shiitake Mushroom Caps",
+  "current_amazon_url": "https://www.amazon.com/dp/B0CK1D8ZGT?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "dried shiitake mushrooms",
+   "fresh shiitake mushroom caps"
+  ],
+  "asins": [
+   "B0CK1D8ZGT"
+  ],
+  "links": 3,
+  "posts": 3,
+  "example_post": "shiitake-congee-and-a-challenge"
+ },
+ {
+  "id": "ghiradelli-semi-sweet-chocolate-chips",
+  "name": "Ghiradelli Semi-Sweet Chocolate Chips",
+  "current_amazon_url": "https://www.amazon.com/dp/B000VK7PMK?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "Ghiradelli semi-sweet chocolate chips",
+   "chocolate chips"
+  ],
+  "asins": [
+   "B000VK7PMK",
+   "B0014E1B7C",
+   "B087HWZ348"
+  ],
+  "links": 3,
+  "posts": 3,
+  "example_post": "brownies"
+ },
+ {
+  "id": "grill-pan",
+  "name": "Grill Pan",
+  "current_amazon_url": "https://www.amazon.com/dp/B0000CF66W?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "Lodge cast-iron grill pan",
+   "grill pan"
+  ],
+  "asins": [
+   "B00008GKDQ",
+   "B0000CF66W"
+  ],
+  "links": 3,
+  "posts": 3,
+  "example_post": "grilled-pineapple-salsa-recipe"
+ },
+ {
+  "id": "guajillo-chiles-peppers-dried-whole-4-oz",
+  "name": "Guajillo Chiles Peppers Dried Whole, 4 oz",
+  "current_amazon_url": "https://www.amazon.com/dp/B07VB5DVP1?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com : Guajillo Chiles Peppers Dried Whole 4 oz \u2013 Natural and Premium. Great For Mexican Recipes Like Mole, Tamales, Salsa, Meats. Mild to Medium Heat, Complex Fruity Flavor. Resealable Bag : Grocery & Gourmet Food"
+  ],
+  "anchors": [
+   "dried guajillo chiles",
+   "guajillo chiles",
+   "guajillo pepper"
+  ],
+  "asins": [
+   "B07VB5DVP1"
+  ],
+  "links": 3,
+  "posts": 3,
+  "example_post": "pozole-rojo-de-frijol-recipe"
+ },
+ {
+  "id": "hawaiian-red-alaea-salt",
+  "name": "Hawaiian Red Alaea Salt",
+  "current_amazon_url": "https://www.amazon.com/dp/B017GFKX0I?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com : Viva Doria Hawaiian Red Alaea Sea Salt, Fine Grain, 2 lb (907 g) : Grocery & Gourmet Food",
+   "Page Not Found"
+  ],
+  "anchors": [
+   "Hawaiian Red Alaea Salt",
+   "Red Hawaaian Alaea",
+   "red Hawaiian Alaea sea salt"
+  ],
+  "asins": [
+   "B000CC5EVG",
+   "B017GFKX0I"
+  ],
+  "links": 3,
+  "posts": 3,
+  "example_post": "caramelized-pea"
+ },
+ {
+  "id": "hot-sauce",
+  "name": "Hot Sauce",
+  "current_amazon_url": "https://www.amazon.com/dp/B07FTTWDJS?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com : Cholula Hot Sauce Variety Pack, Product of Mexico, Gift Set Includes Six 5 Fl Oz Signature Cholula Hot Sauces for Eggs, Pizza, Mexican Dishes, and More, 30 fl oz : Grocery & Gourmet Food",
+   "Amazon.com : Tapatio Salsa Picante Hot Sauce, 10 oz : Grocery & Gourmet Food"
+  ],
+  "anchors": [
+   "Tapatio",
+   "hot sauce"
+  ],
+  "asins": [
+   "B000R4G6JS",
+   "B07FTTWDJS"
+  ],
+  "links": 3,
+  "posts": 3,
+  "example_post": "austin-style-breakfast-tacos-recipe"
+ },
+ {
+  "id": "just-get-one",
+  "name": "Just Get One",
+  "current_amazon_url": "https://www.amazon.com/dp/B0BWK6XK7G?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com: SodaStream Gaia Sparkling Water Maker Kit, Black: Home & Kitchen"
+  ],
+  "anchors": [
+   "Just get one",
+   "Soda Stream",
+   "SodaStream"
+  ],
+  "asins": [
+   "B0BWK6XK7G"
+  ],
+  "links": 3,
+  "posts": 1,
+  "example_post": "make-sparkling-water-seltzer-soda-at-home-with-sodaclub-save-money-and-help-the-environment"
+ },
+ {
+  "id": "lentils-du-puy",
+  "name": "Lentils Du Puy",
+  "current_amazon_url": "https://www.amazon.com/dp/B08B3XFW1C?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com : Pereg Du Puy French Green Lentils (16 Oz) - Lentil Beans Dry - Non-GMO & Additive Free - Ideal for Stews, Indian Curries, Tacos & Soups - Vegan Diet-Friendly - High In Protein & Fiber : Everything Else"
+  ],
+  "anchors": [
+   "French green lentils",
+   "Lentils Du Puy",
+   "from the area of Puy"
+  ],
+  "asins": [
+   "B08B3XFW1C"
+  ],
+  "links": 3,
+  "posts": 3,
+  "example_post": "crostini-with-truffle-cheese-lentils-de-puy-and-apples-recipe"
+ },
+ {
+  "id": "lm-pectin",
+  "name": "LM Pectin",
+  "current_amazon_url": "https://www.amazon.com/dp/B0009XBJCG?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com: Pomonas, Pectin Gluten Free, 1.1 Ounce",
+   "Amazon.com : Pomona's Universal Pectin : Cooking And Baking Pectins : Grocery & Gourmet Food"
+  ],
+  "anchors": [
+   "LM Pectin",
+   "LM pectin",
+   "pectin"
+  ],
+  "asins": [
+   "B0009XBJCG",
+   "B001HTIU96",
+   "B0096UW1CK"
+  ],
+  "links": 3,
+  "posts": 3,
+  "example_post": "cherry-tomato"
+ },
+ {
+  "id": "look-inside-on-amazon",
+  "name": "Look Inside on Amazon",
+  "current_amazon_url": "https://www.amazon.com/dp/0307952177?tag=herb-hugo-20",
+  "is_book": true,
+  "amazon_titles": [
+   "Dirt Candy: A Cookbook: Flavor-Forward Food from the Upstart New York City Vegetarian Restaurant: Cohen, Amanda, Dunlavey, Ryan, Hendrix, Grady: 9780307952172: Amazon.com: Books"
+  ],
+  "anchors": [
+   "Look Inside on Amazon",
+   "writing a cookbook"
+  ],
+  "asins": [
+   "0307952177"
+  ],
+  "links": 3,
+  "posts": 1,
+  "example_post": "the-dirt-candy-cookbook-review"
+ }
+]

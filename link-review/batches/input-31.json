@@ -1,0 +1,296 @@
+[
+ {
+  "id": "whopper-cake",
+  "name": "Whopper Cake",
+  "current_amazon_url": "https://www.amazon.com/dp/0689838441?tag=herb-hugo-20",
+  "is_book": true,
+  "amazon_titles": [],
+  "anchors": [
+   "Whopper Cake"
+  ],
+  "asins": [
+   "0689838441"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "whopper-cake-book-review"
+ },
+ {
+  "id": "wilton-excelle-elite-non-stick-tart-pan-11-inch",
+  "name": "Wilton Excelle Elite Non-Stick Tart Pan, 11-Inch",
+  "current_amazon_url": "https://www.amazon.com/dp/B0000DIX7Y?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "tart pan"
+  ],
+  "asins": [
+   "B0000DIX7Y"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "heirloom-tomato-tart-recipe"
+ },
+ {
+  "id": "wine-aerator",
+  "name": "Wine Aerator",
+  "current_amazon_url": "https://www.amazon.com/dp/B00T1F5CSU?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "wine aerator"
+  ],
+  "asins": [
+   "B00T1F5CSU"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "best-kosher-for-passover-wines"
+ },
+ {
+  "id": "wine-decanter",
+  "name": "Wine Decanter",
+  "current_amazon_url": "https://www.amazon.com/dp/B01AVTQ1D4?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com | Le Chateau Wine Decanter - 100% Hand Blown Lead-free Crystal Glass, Red Wine Carafe, Wine Gift, Wine Accessories: Wine Decanters"
+  ],
+  "anchors": [
+   "wine decanter"
+  ],
+  "asins": [
+   "B01AVTQ1D4"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "best-kosher-for-passover-wines"
+ },
+ {
+  "id": "wolff-s-is-a-common-brand",
+  "name": "Wolff's Is a Common Brand",
+  "current_amazon_url": "https://www.amazon.com/dp/B0005ZIWV4?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "Wolff's is a common brand"
+  ],
+  "asins": [
+   "B0005ZIWV4"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "kasha-pilaf-with-dates-pistachios-and-baharat-recipe"
+ },
+ {
+  "id": "wonton-wrappers",
+  "name": "Wonton Wrappers",
+  "current_amazon_url": "https://www.amazon.com/dp/B0F54QT5K8?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "wonton wrappers"
+  ],
+  "asins": [
+   "B0F54QT5K8"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "winter-green-du"
+ },
+ {
+  "id": "written-a-cookbook",
+  "name": "Written a Cookbook",
+  "current_amazon_url": "https://www.amazon.com/dp/0786886129?tag=herb-hugo-20",
+  "is_book": true,
+  "amazon_titles": [],
+  "anchors": [
+   "written a cookbook"
+  ],
+  "asins": [
+   "0786886129"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "battle-of-the-n"
+ },
+ {
+  "id": "you-can-jump-right-over-to-amazon-and-get-it",
+  "name": "you can jump right over to Amazon and get it",
+  "current_amazon_url": "https://www.amazon.com/dp/B00WDYGNIG?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "you can jump right over to Amazon and get it"
+  ],
+  "asins": [
+   "B00WDYGNIG"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "dutch-baby-with-sauteed-apples-my-first-video-recipe"
+ },
+ {
+  "id": "yuzu",
+  "name": "yuzu",
+  "current_amazon_url": "https://www.amazon.com/dp/B0C2GMHVJZ?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "yuzu"
+  ],
+  "asins": [
+   "B0C2GMHVJZ"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "new-years-feast"
+ },
+ {
+  "id": "yuzu-kosho",
+  "name": "Yuzu Kosho",
+  "current_amazon_url": "https://www.amazon.com/dp/B08GHB829K?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "Yuzu kosho"
+  ],
+  "asins": [
+   "B08GHB829K"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "red-rice-and-avocado-with-crispy-burdock-chips-recipe"
+ },
+ {
+  "id": "zaatar",
+  "name": "Zaatar",
+  "current_amazon_url": "https://www.amazon.com/dp/B0CQMTLDF3?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "Zaatar"
+  ],
+  "asins": [
+   "B0CQMTLDF3"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "warm-grapes-toasted-pita-bread-and-ricotta-salata-recipe"
+ },
+ {
+  "id": "zatar",
+  "name": "Zatar",
+  "current_amazon_url": "https://www.amazon.com/dp/B004PBZJF6?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "Zatar"
+  ],
+  "asins": [
+   "B004PBZJF6"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "phyllo-wrapped"
+ },
+ {
+  "id": "zyliss-soft-skin-peeler",
+  "name": "Zyliss Soft Skin Peeler",
+  "current_amazon_url": "https://www.amazon.com/dp/B078YNXVFT?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "Zyliss Soft Skin Peeler"
+  ],
+  "asins": [
+   "B078YNXVFT"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "persimmon-parsley-and-olive-salad"
+ },
+ {
+  "id": "bucatini",
+  "name": "bucatini",
+  "current_amazon_url": "https://www.amazon.com/dp/B0050ILALA?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [],
+  "asins": [
+   "B0050ILALA"
+  ],
+  "links": 0,
+  "posts": 0,
+  "example_post": ""
+ },
+ {
+  "id": "cherry-wood",
+  "name": "cherry wood",
+  "current_amazon_url": "https://www.amazon.com/dp/B0B2TMFT6D?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [],
+  "asins": [
+   "B0B2TMFT6D"
+  ],
+  "links": 0,
+  "posts": 0,
+  "example_post": ""
+ },
+ {
+  "id": "herbes-de-provence-2",
+  "name": "herbes de Provence",
+  "current_amazon_url": "https://www.amazon.com/dp/B002OH6CO0?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [],
+  "asins": [
+   "B002OH6CO0"
+  ],
+  "links": 0,
+  "posts": 0,
+  "example_post": ""
+ },
+ {
+  "id": "polenta",
+  "name": "polenta",
+  "current_amazon_url": "https://www.amazon.com/dp/B07XLD2L6M?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [],
+  "asins": [
+   "B07XLD2L6M"
+  ],
+  "links": 0,
+  "posts": 0,
+  "example_post": ""
+ },
+ {
+  "id": "shaved-black-truffle",
+  "name": "shaved black truffle",
+  "current_amazon_url": "https://www.amazon.com/dp/B000M8O0ME?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [],
+  "asins": [
+   "B000M8O0ME"
+  ],
+  "links": 0,
+  "posts": 0,
+  "example_post": ""
+ },
+ {
+  "id": "truffle-oil-2",
+  "name": "truffle oil",
+  "current_amazon_url": "https://www.amazon.com/dp/B0BDJ79T97?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [],
+  "asins": [
+   "B0BDJ79T97"
+  ],
+  "links": 0,
+  "posts": 0,
+  "example_post": ""
+ }
+]

@@ -1,0 +1,389 @@
+[
+ {
+  "id": "capers",
+  "name": "Capers",
+  "current_amazon_url": "https://www.amazon.com/dp/B074H61RBF?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com : 365 by Whole Foods Market, Organic Nonpareil Capers, 2 Ounce : Grocery & Gourmet Food"
+  ],
+  "anchors": [
+   "capers"
+  ],
+  "asins": [
+   "B074H61RBF"
+  ],
+  "links": 2,
+  "posts": 2,
+  "example_post": "golden-beet-tartare-recipe"
+ },
+ {
+  "id": "carnaroli",
+  "name": "Carnaroli",
+  "current_amazon_url": "https://www.amazon.com/dp/B07GQD9LCX?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com : Colavita Carnaroli Rice (2 Pound) Box : Grocery & Gourmet Food"
+  ],
+  "anchors": [
+   "carnaroli"
+  ],
+  "asins": [
+   "B07GQD9LCX"
+  ],
+  "links": 2,
+  "posts": 2,
+  "example_post": "roasted-tomato-and-corn-risotto-recipe"
+ },
+ {
+  "id": "champion-juicer",
+  "name": "Champion Juicer",
+  "current_amazon_url": "https://www.amazon.com/dp/B000H6UYVC?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Page Not Found",
+   "Page Not Found"
+  ],
+  "anchors": [
+   "Champion Juicer",
+   "Champion juicer"
+  ],
+  "asins": [
+   "B000E48LHQ",
+   "B000H6UYVC"
+  ],
+  "links": 2,
+  "posts": 2,
+  "example_post": "corn-nut-butter-recipe-work-in-progress"
+ },
+ {
+  "id": "cheesecloth",
+  "name": "Cheesecloth",
+  "current_amazon_url": "https://www.amazon.com/dp/B08FXSD575?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com: Cotton Farm Grade 100 XL Cheese Cloths - Straining & More; 36x36 Inch; 100% Unbleached Cotton Cheesecloth; Reusable with Hemmed 2 Edges; Ultra-Dense (the finest) Butter Muslin: Home & Kitchen",
+   "Amazon.com: Organic Cheese Cloths, GOTS Certified, 36x36Inch, Reusable Cheese Cloth | Grade 100 Closed Edges Fabric Fine Mesh Cloth, Unbleached Cotton Muslin Cheesecloth for Straining, Cooking, Crafts - 9 Sq.Ft: Home & Kitchen"
+  ],
+  "anchors": [
+   "cheesecloth"
+  ],
+  "asins": [
+   "B08FXSD575",
+   "B0DKC8JD52"
+  ],
+  "links": 2,
+  "posts": 2,
+  "example_post": "latkes-crispy-for-hannukah"
+ },
+ {
+  "id": "chervil",
+  "name": "Chervil",
+  "current_amazon_url": "https://www.amazon.com/dp/B0DCG5973B?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com : GranAroma, Chervil Flakes, 0.28 Oz | For seasoning, garnishing, and enhancing flavor : Grocery & Gourmet Food"
+  ],
+  "anchors": [
+   "chervil"
+  ],
+  "asins": [
+   "B0DCG5973B"
+  ],
+  "links": 2,
+  "posts": 2,
+  "example_post": "grapefruit-and-avocado-crudo"
+ },
+ {
+  "id": "chili-flavored-sesame-oil",
+  "name": "Chili-Flavored Sesame Oil",
+  "current_amazon_url": "https://www.amazon.com/dp/B00514F08C?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com : Eden Foods Sesame Oil, Hot Pepper, 5-Ounce : Grocery & Gourmet Food"
+  ],
+  "anchors": [
+   "chili-flavored sesame oil",
+   "hot-chili sesame oil"
+  ],
+  "asins": [
+   "B00514F08C"
+  ],
+  "links": 2,
+  "posts": 2,
+  "example_post": "recipe-vietname"
+ },
+ {
+  "id": "chipotle-pepper-canned-in-adobo-sauce",
+  "name": "Chipotle Pepper (canned in Adobo Sauce)",
+  "current_amazon_url": "https://www.amazon.com/dp/B0000GGQD4?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com : La Morena Chipotle peppers In Adobo sauce 7 oz (Packaging may vary) : Chile Peppers Produce : Grocery & Gourmet Food",
+   "Amazon.com : La Morena Chipotle Peppers in Adobo Sauce, 7-Ounce Tins (Pack of 6) : Chipotle Spices And Herbs : Grocery & Gourmet Food"
+  ],
+  "anchors": [
+   "chipotle pepper (canned in adobo sauce)",
+   "chipotle pepper in adobo"
+  ],
+  "asins": [
+   "B0000GGQD4",
+   "B002N3XZ6I"
+  ],
+  "links": 2,
+  "posts": 2,
+  "example_post": "smoky-macaroni-and-cheese-recipe"
+ },
+ {
+  "id": "circle-cutters",
+  "name": "Circle Cutters",
+  "current_amazon_url": "https://www.amazon.com/dp/B08BWL2TR5?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com: Bukuwa 12 Pcs Round Cookie Biscuit Cutter Set, Graduated Circle Cutters | 18/8 Stainless Steel, Pastry Cookie Cutters, Donut Cutter Ring Molds for Baking, Cooking, Gift: Home & Kitchen"
+  ],
+  "anchors": [
+   "circle cutter",
+   "circle cutters"
+  ],
+  "asins": [
+   "B08BWL2TR5"
+  ],
+  "links": 2,
+  "posts": 2,
+  "example_post": "caramelized-pea"
+ },
+ {
+  "id": "citric-acid-sour-salt",
+  "name": "Citric Acid (sour Salt)",
+  "current_amazon_url": "https://www.amazon.com/dp/B017BTLYE8?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com : Sour Salt Crystal Citric Acid (7 oz) - Pure Spice for Cooking, Baking & Flavoring - Non GMO & Food Grade : Grocery & Gourmet Food",
+   "Amazon.com : Viva Doria 100% Pure Citric Acid, Food Grade, Fine Grain, 2 lb (907 g) | Perfect for Homemade Recipes, Fine Granular Texture, Simple, Multi-Purpose Ingredient, Versatile Household Essential : Everything Else"
+  ],
+  "anchors": [
+   "citric acid (sour salt)",
+   "citric acid on Amazon"
+  ],
+  "asins": [
+   "B017BTLYE8",
+   "B0C5NQM8S1"
+  ],
+  "links": 2,
+  "posts": 2,
+  "example_post": "saffron-date-posset-a-dessert-you-should-know-recipe"
+ },
+ {
+  "id": "cotija-cheese",
+  "name": "Cotija Cheese",
+  "current_amazon_url": "https://www.amazon.com/dp/B07BM98393?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com: QUESO CAMPESINO Cotija, 12 OZ : Grocery & Gourmet Food"
+  ],
+  "anchors": [
+   "cotija cheese"
+  ],
+  "asins": [
+   "B07BM98393"
+  ],
+  "links": 2,
+  "posts": 2,
+  "example_post": "mexican-breakfast-torta-recipe"
+ },
+ {
+  "id": "culinary-artistry",
+  "name": "Culinary Artistry",
+  "current_amazon_url": "https://www.amazon.com/dp/0471287857?tag=herb-hugo-20",
+  "is_book": true,
+  "amazon_titles": [
+   "Culinary Artistry: Dornenburg, Andrew, Page, Karen: 9780471287858: Amazon.com: Books"
+  ],
+  "anchors": [
+   "Culinary Artistry"
+  ],
+  "asins": [
+   "0471287857"
+  ],
+  "links": 2,
+  "posts": 2,
+  "example_post": "recipe-reconstr"
+ },
+ {
+  "id": "dashi-kombu-dried-kelp-from-hokkaido-japan",
+  "name": "Dashi Kombu Dried Kelp from Hokkaido Japan",
+  "current_amazon_url": "https://www.amazon.com/dp/B0BWHB7TZL?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com : Dried Kelp 3.52oz(100g) Dried Kombu Seaweed From Hokkaido Japan For Soup Stock : Grocery & Gourmet Food"
+  ],
+  "anchors": [
+   "dried kombu",
+   "kombu seaweed"
+  ],
+  "asins": [
+   "B0BWHB7TZL"
+  ],
+  "links": 2,
+  "posts": 2,
+  "example_post": "kinoko-gohan-japanese-mushroom-rice-recipe"
+ },
+ {
+  "id": "de-la-estancia-organic-polenta-1-lb-pack-of-6",
+  "name": "De La Estancia Organic Polenta, 1 lb (Pack of 6)",
+  "current_amazon_url": "https://www.amazon.com/dp/B000HRZX6C?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com : De la Estancia Organic Polenta, 1-Pound Bags (Pack of 6) : Polenta Meals : Grocery & Gourmet Food"
+  ],
+  "anchors": [
+   "Polenta",
+   "Quick-cooking polenta"
+  ],
+  "asins": [
+   "B000HRZX6C"
+  ],
+  "links": 2,
+  "posts": 2,
+  "example_post": "polenta-with-as"
+ },
+ {
+  "id": "de-nigris-aged-balsamic-vinegar-of-modena",
+  "name": "De Nigris Aged Balsamic Vinegar of Modena",
+  "current_amazon_url": "https://www.amazon.com/dp/B004UB692I?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com : De Nigris Balsamic Vinegar Of Modena 8,5 Oz (250ml) | Balsamic Vinegar From Modena Italy Aged For 3 Years In Antique Wooden Casks : Grocery & Gourmet Food",
+   "Amazon.com: \u30e4\u30ce\u96fb\u5668 100BASE-TX/1000BASE-TX\u5bfe\u5fdc NAS RAID 480GB NR-4480ZS : Electronics"
+  ],
+  "anchors": [
+   "aged balsamic vinegar",
+   "balsamico"
+  ],
+  "asins": [
+   "B0000CFY4F",
+   "B004UB692I"
+  ],
+  "links": 2,
+  "posts": 2,
+  "example_post": "puntarelle-and-tiny-potato-salad-recipe"
+ },
+ {
+  "id": "diamond-crystal",
+  "name": "Diamond Crystal",
+  "current_amazon_url": "https://www.amazon.com/dp/B0011BPMUK?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com : Diamond Crystal Kosher Salt \u2013 Full Flavor, No Additives - Pure and Natural Since 1886 (Restaurant Pack) - 3 Pound Box : Grocery & Gourmet Food"
+  ],
+  "anchors": [
+   "Diamond Crystal",
+   "Kosher salt"
+  ],
+  "asins": [
+   "B0011BPMUK"
+  ],
+  "links": 2,
+  "posts": 2,
+  "example_post": "latkes-crispy-for-hannukah"
+ },
+ {
+  "id": "dijon-mustard",
+  "name": "Dijon Mustard",
+  "current_amazon_url": "https://www.amazon.com/dp/B000RK4BFI?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com : Grey Poupon Mustard, Dijon, 10 oz. Squeeze Bottle | Creamy & Smooth from the French Recipe Since 1777, White Wine & #1 Grade Mustard Seeds, Great for Sandwiches, Meats & Dipping : Yellow Mustard : Grocery & Gourmet Food",
+   "Amazon.com : MAILLE Natural Dijon Mustard, 7.5 OZ : Baby Food : Grocery & Gourmet Food"
+  ],
+  "anchors": [
+   "Dijon mustard"
+  ],
+  "asins": [
+   "B000RK4BFI",
+   "B00EENE82A"
+  ],
+  "links": 2,
+  "posts": 2,
+  "example_post": "island-style-sweet-and-spicy-cabbage-recipe"
+ },
+ {
+  "id": "double-boiler",
+  "name": "Double Boiler",
+  "current_amazon_url": "https://www.amazon.com/dp/B01N2LVGH0?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com: Stainless Steel Double Boiler Pot for Melting Chocolate,Candle Making 480ML | Melting Pot for Candle,Soap Making 2 Cup Capacity: Home & Kitchen",
+   "Amazon.com: Farberware Classic Series Double Boiler and Saucepan with Lid, 2 Qt | Stainless steel, fast even heating, steamer pot with double boiler insert, stainless steel steamer pot, induction compatible: Home & Kitchen"
+  ],
+  "anchors": [
+   "double boiler"
+  ],
+  "asins": [
+   "B00004RGB7",
+   "B01N2LVGH0"
+  ],
+  "links": 2,
+  "posts": 2,
+  "example_post": "zabaglione-with-roasted-plums-recipe"
+ },
+ {
+  "id": "dried-beancurd-sticks-non-gmo-soybean-curd-skin",
+  "name": "Dried Beancurd Sticks, Non-GMO Soybean Curd Skin",
+  "current_amazon_url": "https://www.amazon.com/dp/B08J42X9B7?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com: Dried Beancurd Sticks, Non-Gmo Soybean Curd Skin, Natural Asian Tofu, Dried Yuba for Vegan, Good Source Of Protein (17.6oz/500g) (17.6) : Grocery & Gourmet Food"
+  ],
+  "anchors": [
+   "Yuba (Tofu Skin)",
+   "yuba (tofu skin)"
+  ],
+  "asins": [
+   "B08J42X9B7"
+  ],
+  "links": 2,
+  "posts": 2,
+  "example_post": "congee-with-crispy-yuba-recipe"
+ },
+ {
+  "id": "dried-tarragon",
+  "name": "Dried Tarragon",
+  "current_amazon_url": "https://www.amazon.com/dp/B08LCKFBMW?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com : The Spice Way Tarragon Leaves 1.5 oz Dried Herb for French Cooking Sauces | Dried tarragon leaves for chicken, fish, eggs, cream sauces, vinaigrettes and mushrooms; Kosher Certified; Resealable Bag : Grocery & Gourmet Food"
+  ],
+  "anchors": [
+   "dried tarragon",
+   "fresh tarragon"
+  ],
+  "asins": [
+   "B08LCKFBMW"
+  ],
+  "links": 2,
+  "posts": 2,
+  "example_post": "strata-with-caramelized-onions-mushrooms-and-smoked-mozzarella-recipe"
+ },
+ {
+  "id": "fennel-seeds",
+  "name": "Fennel Seeds",
+  "current_amazon_url": "https://www.amazon.com/dp/B074H7Y7ZJ?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com : 365 by Whole Foods Market, Fennel Seed, 1.09 oz : Grocery & Gourmet Food",
+   "Amazon.com : The Spice Way Fennel Seed - bulk whole seeds great for tea and cooking 8 oz | Whole fennel seeds for toasting, infusing, pickling, breads and fresh grinding; Kosher Certified; Resealable Bag : Grocery & Gourmet Food"
+  ],
+  "anchors": [
+   "fennel seeds"
+  ],
+  "asins": [
+   "B074H7Y7ZJ",
+   "B088QMPBC6"
+  ],
+  "links": 2,
+  "posts": 2,
+  "example_post": "sicilian-spaghetti-with-pan-roasted-cauliflower-recipe-from-my-cookbook"
+ }
+]

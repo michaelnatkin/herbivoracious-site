@@ -1,0 +1,425 @@
+[
+ {
+  "id": "rani-asafetida-hing-ground-3-75oz",
+  "name": "Rani Asafetida (Hing) Ground 3.75oz",
+  "current_amazon_url": "https://www.amazon.com/dp/B006POH22Y?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com : Rani Asafetida Powder (Hing, Asafoetida) 3.75 oz (106 g) Jar - Onion & Garlic Substitute for Dal, Curry & Jain Cooking | All Natural, Salt-Free, Vegan, Kosher, Non-GMO : Asafetida Spices And Herbs : Grocery & Gourmet Food",
+   "Page Not Found"
+  ],
+  "anchors": [
+   "(hing)",
+   "asafetida powder",
+   "asafoetida (hing)",
+   "asafoetida, otherwise known as hing",
+   "powder"
+  ],
+  "asins": [
+   "B000MUX3D4",
+   "B006POH22Y",
+   "B07C8FHVTT"
+  ],
+  "links": 5,
+  "posts": 4,
+  "example_post": "gobi-masala-cauliflower-curry-recipe"
+ },
+ {
+  "id": "spice-grinder",
+  "name": "Spice Grinder",
+  "current_amazon_url": "https://www.amazon.com/dp/B07SYTRPSG?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com: Amazon Basics Fast Electric Coffee Grinder for Home Use, Easy to Use Coffee Bean and Spice Grinder with Heavy-Duty Stainless Steel Grind Blades: Home & Kitchen",
+   "Amazon.com: Cuisinart Spice and Nut Grinder, Push-Top Lid for On/Off, Dishwasher Safe | Electric grinder with heavy-duty motor, stainless steel blades, push-top operation & compact, easy-to-clean design, SG-10: Home & Kitchen"
+  ],
+  "anchors": [
+   "coffee grinder",
+   "spice grinder"
+  ],
+  "asins": [
+   "B001C2GWTI",
+   "B07SYTRPSG",
+   "B0FL2WH8K1"
+  ],
+  "links": 5,
+  "posts": 5,
+  "example_post": "chile-con-limon-mexican-sour-spicy-condiment"
+ },
+ {
+  "id": "tamari",
+  "name": "Tamari",
+  "current_amazon_url": "https://www.amazon.com/dp/B00NN05FXQ?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com : Kikkoman Gluten Free Tamari Soy Sauce, 10 Ounce : Grocery & Gourmet Food",
+   "Amazon.com : San-J Organic Tamari Sauce, Gluten Free, Specially Brewed, 10 oz | Rich Umami Flavor, No Wheat, Kosher, Vegan, USDA Certified, Whole Bean : Grocery & Gourmet Food"
+  ],
+  "anchors": [
+   "tamari"
+  ],
+  "asins": [
+   "B000QWXIZQ",
+   "B00NN05FXQ"
+  ],
+  "links": 5,
+  "posts": 5,
+  "example_post": "shiitake-congee-and-a-challenge"
+ },
+ {
+  "id": "the-tartine-cookbook",
+  "name": "The Tartine Cookbook",
+  "current_amazon_url": "https://www.amazon.com/dp/0811851508?tag=herb-hugo-20",
+  "is_book": true,
+  "amazon_titles": [
+   "Tartine (Baking Cookbooks, Pastry Books, Dessert Cookbooks, Gifts for Pastry Chefs): Elisabeth M. Prueitt, Chad Robertson, France Ruffenach, Alice Waters: 9780811851503: Amazon.com: Books"
+  ],
+  "anchors": [
+   "Tartine",
+   "a link to buy it on Amazon",
+   "the Tartine cookbook"
+  ],
+  "asins": [
+   "0811851508"
+  ],
+  "links": 5,
+  "posts": 4,
+  "example_post": "baked-eggs-with-chanterelles-and-chard-recipe"
+ },
+ {
+  "id": "toasted-sesame-seeds",
+  "name": "Toasted Sesame Seeds",
+  "current_amazon_url": "https://www.amazon.com/dp/B00NWC8K3C?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com : Rodelle Toasted Natural Sesame Seeds, No Artificial Flavors, Kosher, 18 Oz | Nutty toasted sesame seeds for salads, stir-fries, baking and garnish, no artificial flavors, kosher : Grocery & Gourmet Food",
+   "Amazon.com : Kevala Organic Toasted Sesame (Hulled) - 2 lb, Gluten Free Roasted Sesame | 32 oz, Roasted Sesame Seeds for a Tahini Paste, Kosher, Non GMO Project Verified, Vegan Seasoning, For Making Condiments : Grocery & Gourmet Food"
+  ],
+  "anchors": [
+   "toasted sesame seeds"
+  ],
+  "asins": [
+   "B00J40TP1C",
+   "B00NWC8K3C",
+   "B0B197F3N9"
+  ],
+  "links": 5,
+  "posts": 5,
+  "example_post": "goat-cheese-asparagus-and-beet-salad-with-herb-flowers-recipe"
+ },
+ {
+  "id": "whole-wheat-pastry-flour",
+  "name": "Whole Wheat Pastry Flour",
+  "current_amazon_url": "https://www.amazon.com/dp/B08BFD4M3Y?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com : Sunrise Flour Mill USDA Organic Heritage Whole Wheat Pastry Flour - 2 lbs | Great for Gluten Sensitive People | Easier to Digest with Less Bloating | No Bleaching or Bromating | Zero Additives : Grocery & Gourmet Food",
+   "Amazon.com : Bob's Red Mill Organic Pastry Flour Whole Wheat 5 lb, 80 Ounce : Grocery & Gourmet Food"
+  ],
+  "anchors": [
+   "whole wheat pastry flour",
+   "whole-wheat pastry flour"
+  ],
+  "asins": [
+   "B000YFD2CE",
+   "B074VD2ZKF",
+   "B08BFD4M3Y"
+  ],
+  "links": 5,
+  "posts": 5,
+  "example_post": "dhal-puri-roti-caribbean-lentil-stuffed-flatbread-recipe"
+ },
+ {
+  "id": "5-5-quart-le-creuset-pot",
+  "name": "5.5 Quart Le Creuset Pot",
+  "current_amazon_url": "https://www.amazon.com/dp/B00004SBH4?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com: Le Creuset Enameled Cast-Iron 5-1/2-Quart Round French Oven, Flame: Dutch Ovens: Home & Kitchen",
+   "Amazon.com: Le Creuset Enameled Cast Iron Round Dutch Oven, 5.5 qt., Cerise: Home & Kitchen"
+  ],
+  "anchors": [
+   "5.5 quart Le Creuset pot",
+   "Le Creuset 5.5 quart French Oven",
+   "pots are a sizable investment"
+  ],
+  "asins": [
+   "B00004SBH4",
+   "B00VA5HG0Q"
+  ],
+  "links": 4,
+  "posts": 2,
+  "example_post": "minestrone"
+ },
+ {
+  "id": "abc-kecap-manis-indonesian-special-sweet-soy",
+  "name": "ABC Kecap Manis Indonesian Special Sweet Soy Sauce",
+  "current_amazon_url": "https://www.amazon.com/dp/B000249E5Q?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com : ABC Kecap Manis Indonesian Special Sweet Soy Sauce - 20 OZ : Grocery & Gourmet Food",
+   "Amazon.com : ABC Sweet Soy, Black Dark Marinade, 20.3 Oz, Savory Sauce, Dip, Stir-fry, Glaze, Vegan, No MSG, Plant-based, Halal, Umami Flavor, Indonesian Kecap Manis Made with Coconut Sugar : Grocery & Gourmet Food"
+  ],
+  "anchors": [
+   "kecap manis",
+   "sweet soy sauce (kecap manis)"
+  ],
+  "asins": [
+   "B000249E5Q",
+   "B00886AVOI",
+   "B095JJC7FS"
+  ],
+  "links": 4,
+  "posts": 4,
+  "example_post": "vietnamese-vermicelli-bun-with-ginger-grapefruit-sauce-recipe"
+ },
+ {
+  "id": "agave-nectar",
+  "name": "Agave Nectar",
+  "current_amazon_url": "https://www.amazon.com/dp/B0078DP4IK?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com : Agave In The Raw, Organic Agave Nectar, 18.5 oz | Made With Organic Blue Agave From Mexico, USDA Organic, Non-GMO Project Verified, Kosher Vegan and Low Glycemic Index : Agave Nectar And Syrup : Grocery & Gourmet Food",
+   "Page Not Found"
+  ],
+  "anchors": [
+   "agave nectar"
+  ],
+  "asins": [
+   "B0078DP4IK",
+   "B00B3LNQAI"
+  ],
+  "links": 4,
+  "posts": 4,
+  "example_post": "hungry-ghost-moroccan-carrot-salad-recipe"
+ },
+ {
+  "id": "balinese-long-pepper",
+  "name": "Balinese Long Pepper",
+  "current_amazon_url": "https://www.amazon.com/dp/B000C037EY?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Page Not Found"
+  ],
+  "anchors": [
+   "Balinese Long Pepper",
+   "Long pepper",
+   "long pepper"
+  ],
+  "asins": [
+   "B000C037EY",
+   "B000PDXE46",
+   "B0015MN7XO",
+   "B0BF5QY1Y2"
+  ],
+  "links": 4,
+  "posts": 4,
+  "example_post": "salt-crazy-my-f"
+ },
+ {
+  "id": "cento-san-marzano-tomatoes",
+  "name": "Cento San Marzano Tomatoes",
+  "current_amazon_url": "https://www.amazon.com/dp/B000WHOX4E?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Page Not Found",
+   "Amazon.com : Cento Foods, Organic San Marzano Peeled Tomatoes, 28 OZ : Grocery & Gourmet Food"
+  ],
+  "anchors": [
+   "San Marzano",
+   "good quality whole Italian tomatoes",
+   "tomatoes"
+  ],
+  "asins": [
+   "B000WHOX4E",
+   "B00132E3SY",
+   "B004NPNBO0",
+   "B007K5EUWC"
+  ],
+  "links": 4,
+  "posts": 4,
+  "example_post": "fresh-fettuccine-with-broccoli-raab-in-a-lemony-tomato-sauce-recipe"
+ },
+ {
+  "id": "chanterelle-mushrooms",
+  "name": "Chanterelle Mushrooms",
+  "current_amazon_url": "https://www.amazon.com/dp/B0BK2VSP7N?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com: Forest Food Shop Dried Chanterelle Mushrooms 3 Ounce \u2013 Handpicked from Wild Forests, Air-Dried Mushrooms, Sourced by a Small Family Business, Ideal for Cooking and Gourmet Recipes. : Grocery & Gourmet Food",
+   "Amazon.com: Mushroom House Whole Dried Shiitake Mushrooms, Rich Umami Flavor, 16 oz | Premium whole shiitakes with bold umami flavor; rehydrate for ramen, soups, stir-fries, risotto, sauces and hot pots. : Grocery & Gourmet Food"
+  ],
+  "anchors": [
+   "chanterelle",
+   "chanterelle mushrooms",
+   "chanterelles",
+   "dried shiitake mushrooms"
+  ],
+  "asins": [
+   "B007RAM3VK",
+   "B0BK2VSP7N"
+  ],
+  "links": 4,
+  "posts": 4,
+  "example_post": "recipe-leftover"
+ },
+ {
+  "id": "cooking-by-hand",
+  "name": "Cooking by Hand",
+  "current_amazon_url": "https://www.amazon.com/dp/0609608932?tag=herb-hugo-20",
+  "is_book": true,
+  "amazon_titles": [],
+  "anchors": [
+   "Cooking by Hand",
+   "book on Amazon"
+  ],
+  "asins": [
+   "0609608932"
+  ],
+  "links": 4,
+  "posts": 3,
+  "example_post": "pumpkin-ravio-1"
+ },
+ {
+  "id": "fennel-pollen",
+  "name": "Fennel Pollen",
+  "current_amazon_url": "https://www.amazon.com/dp/B00019TMK4?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "fennel pollen"
+  ],
+  "asins": [
+   "B00019TMK4",
+   "B000V9ESIA",
+   "B005P085DO"
+  ],
+  "links": 4,
+  "posts": 4,
+  "example_post": "a-funny-little-cheese-course-recipe"
+ },
+ {
+  "id": "freshly-grated-nutmeg",
+  "name": "Freshly Grated Nutmeg",
+  "current_amazon_url": "https://www.amazon.com/dp/B0005YW28O?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "freshly grated nutmeg",
+   "nutmeg",
+   "whole nutmeg"
+  ],
+  "asins": [
+   "B0005YW28O"
+  ],
+  "links": 4,
+  "posts": 4,
+  "example_post": "pumpkin-ravio-1"
+ },
+ {
+  "id": "global-8-inch-chef-s-knife",
+  "name": "Global 8-Inch Chef's Knife",
+  "current_amazon_url": "https://www.amazon.com/dp/B00005OL44?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com: Global - 8 inch, 20cm Chef's Knife,Silver | Chops, slices, dices and minces with control: Chefs Knives: Home & Kitchen"
+  ],
+  "anchors": [
+   "Global",
+   "Global 7 in. Wide Chef's Knife",
+   "Global 8-Inch Chef's Knife",
+   "Global G-2 - 8 inch, 20cm Chef's Knife"
+  ],
+  "asins": [
+   "B00005OL44",
+   "B00012EZOO"
+  ],
+  "links": 4,
+  "posts": 4,
+  "example_post": "chefs-knife-kitchen-tools-hand-tools"
+ },
+ {
+  "id": "guittard",
+  "name": "Guittard",
+  "current_amazon_url": "https://www.amazon.com/dp/B00K9SL06Q?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com : Guittard, Bar Chocolate Baking Bittersweet, 2 Ounce, 3 Pack : Grocery & Gourmet Food",
+   "Amazon.com : Muddy Pond Pure Sorghum 16 Fluid Ounces, Pint : Simple Syrups : Grocery & Gourmet Food"
+  ],
+  "anchors": [
+   "Guittard",
+   "Guittard bittersweet chocolate",
+   "sorghum",
+   "sorghum syrup"
+  ],
+  "asins": [
+   "B00C33UUIO",
+   "B00IRRU5T4",
+   "B00K9SL06Q"
+  ],
+  "links": 4,
+  "posts": 4,
+  "example_post": "buttermilk-spoonbread-individual-corn-puddings-recipe"
+ },
+ {
+  "id": "hawaiian-black-sea-salt",
+  "name": "Hawaiian Black Sea Salt",
+  "current_amazon_url": "https://www.amazon.com/dp/B01F1EKG6W?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "Hawaiian Black Sea Salt",
+   "black Hawaiian salt",
+   "black salt",
+   "black sea salt"
+  ],
+  "asins": [
+   "B000K6X8KI",
+   "B01F1EKG6W",
+   "B01M71ZO3I"
+  ],
+  "links": 4,
+  "posts": 4,
+  "example_post": "edamame-in-an-e"
+ },
+ {
+  "id": "home-baking-the-artful-mix-of-flour-and",
+  "name": "Home Baking: the Artful Mix of Flour and Traditions from Around the World",
+  "current_amazon_url": "https://www.amazon.com/dp/1579651747?tag=herb-hugo-20",
+  "is_book": true,
+  "amazon_titles": [],
+  "anchors": [
+   "Home Baking",
+   "Home Baking: The Artful Mix of Flour and Traditions from Around the World",
+   "HomeBaking"
+  ],
+  "asins": [
+   "1579651747"
+  ],
+  "links": 4,
+  "posts": 4,
+  "example_post": "bran-muffins"
+ },
+ {
+  "id": "ice-cream-maker",
+  "name": "Ice Cream Maker",
+  "current_amazon_url": "https://www.amazon.com/dp/B00NQAP01C?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "home ice cream maker",
+   "ice cream maker",
+   "ice-cream maker"
+  ],
+  "asins": [
+   "B0006ONQOC",
+   "B003KYSLMW",
+   "B00NQAP01C",
+   "B07BDGZQSQ"
+  ],
+  "links": 4,
+  "posts": 4,
+  "example_post": "roasted-pumpkin-ice-cream"
+ }
+]

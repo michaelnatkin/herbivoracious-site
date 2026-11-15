@@ -1,0 +1,768 @@
+[
+ {
+  "id": "black-mustard-seeds",
+  "name": "Black Mustard Seeds",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B000JMAXMY",
+    "B000MZC7C2",
+    "B00J5SCO48"
+   ],
+   "title": "Amazon.com : Jiva Organics Organic Black Mustard Seeds 7oz - Non-GMO, Gluten Free, Pungent & Aromatic Spice - 100% Raw & Natural : Grocery & Gourmet Food",
+   "anchors": [
+    "black mustard seed",
+    "black mustard seeds",
+    "toasted black mustard seeds"
+   ],
+   "links": 11,
+   "posts": 11,
+   "example_post": "five-minute-ind"
+  },
+  "primary": {
+   "merchant": "The Spice House",
+   "product": "Brown Mustard Seeds",
+   "url": "https://www.thespicehouse.com/products/brown-mustard-seed",
+   "epc": 0.21,
+   "rate": 15,
+   "price": null,
+   "verified": false
+  },
+  "alternatives": [
+   {
+    "merchant": "ChefShop.com",
+    "product": "Organic Black Mustard Seeds",
+    "url": "https://chefshop.com/products/organic-black-mustard-seeds",
+    "epc": null,
+    "rate": 7,
+    "price": null,
+    "verified": false
+   }
+  ],
+  "note": "Brown mustard seeds are the usual substitute for hard-to-find black ones; ChefShop has actual black mustard seeds but a lower or unknown EPC. Both sites rate-limited my checks, so URLs came from search results."
+ },
+ {
+  "id": "jar-of-harissa",
+  "name": "Jar of Harissa",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "low",
+  "amazon": {
+   "asins": [
+    "B0012WF8P2",
+    "B00634JM8I",
+    "B0775335C6",
+    "B07NSP64G8"
+   ],
+   "title": "Amazon.com : Mina Harissa Mild Sauce, Homestyle Moroccan Red Pepper Harissa Paste, 10 Oz - Harissa Sauce with Tangy Twist, Excite Your Senses with Mina Mild Harissa Seasoning : Grocery & Gourmet Food",
+   "anchors": [
+    "dry harissa",
+    "harissa",
+    "harissa paste",
+    "harissa powder",
+    "jar of harissa"
+   ],
+   "links": 11,
+   "posts": 9,
+   "example_post": "harissa-potatoes-recipe"
+  },
+  "primary": {
+   "merchant": "Savory Spice Shop",
+   "product": "Harissa Spice Mix Powder",
+   "url": "https://www.savoryspiceshop.com/products/harissa-spice-mix-powder",
+   "epc": 0.33,
+   "rate": 15,
+   "price": null,
+   "verified": false
+  },
+  "alternatives": [
+   {
+    "merchant": "ChefShop.com",
+    "product": "Villa Jerada Moroccan Harissa (paste, 6 oz)",
+    "url": "https://chefshop.com/products/villa-jerada-moroccan-harissa",
+    "epc": null,
+    "rate": 7,
+    "price": "$11.95",
+    "verified": true
+   },
+   {
+    "merchant": "ChefShop.com",
+    "product": "Belazu Rose Harissa Paste",
+    "url": "https://chefshop.com/products/belazu-rose-harissa",
+    "epc": null,
+    "rate": 7,
+    "price": "$12.55",
+    "verified": true
+   }
+  ],
+  "note": "Amazon was Mina mild harissa paste; the highest-EPC option is a dry harissa powder (some post anchors say 'harissa powder'), while the ChefShop alternatives are actual jarred paste, so you may prefer one of those."
+ },
+ {
+  "id": "electric-cuisinart-model",
+  "name": "Electric Cuisinart Model",
+  "status": "match",
+  "kind": "same",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B000MPA044",
+    "B0813VGM8V"
+   ],
+   "title": "Amazon.com: Cuisinart CPC-900 6-Qt. High Pressure Multicooker: Home & Kitchen",
+   "anchors": [
+    "Cuisinart",
+    "electric Cuisinart model",
+    "electric model from Cuisinart",
+    "pressure cooker"
+   ],
+   "links": 10,
+   "posts": 2,
+   "example_post": "cold-carrot-soup-myhrvold-recipe"
+  },
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "Cuisinart Stainless Steel Electric Pressure Cooker (CPC-600), 6 qt",
+   "url": "https://www.surlatable.com/cuisinart-stainless-steel-electric-pressure-cooker/554170.html",
+   "epc": 0.06,
+   "rate": 9,
+   "price": "$99.95",
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Same Cuisinart CPC-600 6-quart electric pressure cooker that was one of the Amazon titles."
+ },
+ {
+  "id": "giusti-traditional-aged-balsamic-vinegar-of",
+  "name": "Giusti Traditional Aged Balsamic Vinegar of Modena DOP 12 Years",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "low",
+  "amazon": {
+   "asins": [
+    "B0008IUUSG",
+    "B003TOQ5EY",
+    "B00MULSARC",
+    "B0153G717K",
+    "B07N18W9Y4",
+    "B07NRL7W4S",
+    "B081ZF9FPT",
+    "B085WF23VH"
+   ],
+   "title": "Amazon.com : Giusti Traditional Balsamic Vinegar of Modena DOP Wooden Box - 3.4 fl oz | Traditional DOP balsamic vinegar of Modena aged 12 years. Wooden gift box. Rich, complex flavor for drizzling and finishing. : Grocery & Gourmet Food",
+   "anchors": [
+    "Real balsamic vinegar",
+    "aged balsamic vinegar",
+    "balsamico tradizionale",
+    "fine aged balsamic vinegar",
+    "fine balsamic",
+    "very fine balsamic vinegar from ChefShop"
+   ],
+   "links": 10,
+   "posts": 10,
+   "example_post": "fig-brulee-with"
+  },
+  "primary": {
+   "merchant": "ChefShop.com",
+   "product": "La Vecchia Dispensa Balsamic 10 yr, 250 ml",
+   "url": "http://chefshop.com/La-Vecchia-Dispensa-Balsamic-10-yr-250ml-P5917.aspx",
+   "epc": null,
+   "rate": 7,
+   "price": null,
+   "verified": true
+  },
+  "alternatives": [
+   {
+    "merchant": "ChefShop.com",
+    "product": "San Giacomo Balsamic Condimento, 250 ml",
+    "url": "https://chefshop.com/products/san-giacomo-balsamic-condimento-250-ml",
+    "epc": null,
+    "rate": 7,
+    "price": null,
+    "verified": true
+   }
+  ],
+  "note": "ChefShop does not appear to carry Giusti or a DOP-certified traditional balsamic; this is a aged balsamic condimento at ChefShop (which several post anchors mention) and is not the same product."
+ },
+ {
+  "id": "pressure-cooker",
+  "name": "Pressure Cooker",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B00006ISG6",
+    "B00FLYWNYQ"
+   ],
+   "title": "Amazon.com: Presto 01362 6-Quart Stainless Steel Pressure Cooker: Home & Kitchen",
+   "anchors": [
+    "pressure cooker"
+   ],
+   "links": 10,
+   "posts": 9,
+   "example_post": "chickpea-and-potato-stew-with-baharat-recipe"
+  },
+  "primary": {
+   "merchant": "Fissler (US)",
+   "product": "Vitaquick Premium Pressure Cooker, 6.3 Quart",
+   "url": "https://us.fissler.com/products/vitaquick-premium-pressure-cooker-6-3-quart-with-steamer-insert-tripod",
+   "epc": 0.14,
+   "rate": 16,
+   "price": "$359.95",
+   "verified": true
+  },
+  "alternatives": [
+   {
+    "merchant": "Sur La Table",
+    "product": "Cuisinart Stainless Steel Electric Pressure Cooker (CPC-600)",
+    "url": "https://www.surlatable.com/cuisinart-stainless-steel-electric-pressure-cooker/554170.html",
+    "epc": 0.06,
+    "rate": 9,
+    "price": "$99.95",
+    "verified": true
+   }
+  ],
+  "note": "Presto and Instant Pot are not in the network; Fissler is a stovetop 6-quart equivalent to the Presto but much pricier, and the Cuisinart electric at Sur La Table is a cheaper option. Fissler check was rate-limited."
+ },
+ {
+  "id": "dried-porcini-mushrooms",
+  "name": "Dried Porcini Mushrooms",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B0000TL5IW",
+    "B079FCR7XK",
+    "B07RQTWWKZ",
+    "B0FN6CBX22"
+   ],
+   "title": "Amazon.com: VIGOROUS MOUNTAINS Dried Porcini Mushrooms (3Ounces) : Grocery & Gourmet Food",
+   "anchors": [
+    "dried morel mushrooms",
+    "dried porcini",
+    "dried porcini mushrooms",
+    "morel mushrooms",
+    "porcini",
+    "the dried ones"
+   ],
+   "links": 8,
+   "posts": 8,
+   "example_post": "shiitake-and-morel-ravioli-in-brodo-with-gremolata-recipe"
+  },
+  "primary": {
+   "merchant": "ChefShop.com",
+   "product": "Dried Porcini Mushrooms, Super 1 quality (2 oz, Italy)",
+   "url": "https://chefshop.com/Dried-Porcini-Mushrooms-Super-1-P7799.aspx",
+   "epc": null,
+   "rate": 7,
+   "price": "$15.95",
+   "verified": true
+  },
+  "alternatives": [
+   {
+    "merchant": "ChefShop.com",
+    "product": "Dried Northwest Porcini Mushrooms, 1/2 lb",
+    "url": "https://chefshop.com/Dried-Porcini-Mushrooms-1-pound-P8730.aspx",
+    "epc": null,
+    "rate": 7,
+    "price": "$34.00",
+    "verified": false,
+    "broken": true
+   }
+  ],
+  "note": "Different brand than the Amazon item but the same ingredient; only ChefShop turned up in-network, and it is pricey per ounce. Morel mushrooms were not matched."
+ },
+ {
+  "id": "mina-preserved-lemons-authentic-moroccan-12-5-oz",
+  "name": "Mina Preserved Lemons, Authentic Moroccan, 12.5 oz",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B0012S9NU2",
+    "B004AQMSV4",
+    "B07PSJCLC6"
+   ],
+   "title": "Amazon.com : Mina Preserved Lemons - 12.5 Ounce, Authentic Moroccan Preserved Lemons, Ideal for Tagine, Couscous, Salads, Non-GMO, Vegan, Keto, Kosher, Gluten Free : Everything Else",
+   "anchors": [
+    "preserved lemon",
+    "preserved lemons"
+   ],
+   "links": 8,
+   "posts": 6,
+   "example_post": "quickie-amba-pickled-mango-condiment-recipe"
+  },
+  "primary": {
+   "merchant": "ChefShop.com",
+   "product": "Les Moulins Mahjoub Natural Preserved Lemons, Organic (7 oz)",
+   "url": "https://chefshop.com/products/natural-preserved-lemons-organic",
+   "epc": null,
+   "rate": 7,
+   "price": "$11.55",
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "ChefShop's Mina preserved lemons are discontinued, so this is a comparable jar from Tunisia."
+ },
+ {
+  "id": "the-spice-way-ras-el-hanout-moroccan-spice-blend",
+  "name": "The Spice Way Ras El Hanout Moroccan Spice Blend",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B000FVCVS8",
+    "B000OUX2QA",
+    "B0721RPQJ3",
+    "B072N6RHSV",
+    "B0766D1B8S"
+   ],
+   "title": "Amazon.com : The Spice Way Ras El Hanout 2 oz Moroccan Meat Spice Blend Salt Free | Salt-free Moroccan seasoning with turmeric, cinnamon, coriander, mace, cumin and paprika; Kosher Certified; Resealable Bag : Grocery & Gourmet Food",
+   "anchors": [
+    "Ras Al Hanout",
+    "Ras al hanout",
+    "hanout",
+    "ras al hanout",
+    "ras el hanout"
+   ],
+   "links": 8,
+   "posts": 8,
+   "example_post": "zucchini-chickpea-tagine-recipe"
+  },
+  "primary": {
+   "merchant": "Savory Spice Shop",
+   "product": "Ras El Hanout",
+   "url": "https://www.savoryspiceshop.com/products/ras-el-hanout",
+   "epc": 0.33,
+   "rate": 15,
+   "price": null,
+   "verified": true
+  },
+  "alternatives": [
+   {
+    "merchant": "The Spice House",
+    "product": "Ras El Hanout (2.3 oz)",
+    "url": "https://www.thespicehouse.com/products/ras-el-hanout",
+    "epc": 0.21,
+    "rate": 15,
+    "price": null,
+    "verified": true
+   }
+  ],
+  "note": "Different brand of the same Moroccan blend (Savory's is not labeled salt-free)."
+ },
+ {
+  "id": "vegetarian-broth-powder",
+  "name": "Vegetarian Broth Powder",
+  "status": "match",
+  "kind": "same",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B00016LA9S",
+    "B0001M0YT4",
+    "B000FAPM2Q",
+    "B00BRAX71Q",
+    "B01D6PKRA8"
+   ],
+   "title": "Amazon.com : Frontier Co-op Vegetarian Broth Powder, 1lb - Vegan, No-Chicken, Veggie Alternative to Bouillon Powder - Bulk Bag, Shaker Refill, Restaurant Supply : Chicken Stock Powder Organic : Grocery & Gourmet Food",
+   "anchors": [
+    "Seitenbacher",
+    "Seitenbacher brand vegetable broth powder",
+    "Seitenbacher broth powder",
+    "vegetable broth powder",
+    "vegetarian broth powder"
+   ],
+   "links": 8,
+   "posts": 8,
+   "example_post": "black-bean-soup-recipe"
+  },
+  "primary": {
+   "merchant": "iHerb.com",
+   "product": "Frontier Co-op Vegetarian Broth Powder, No-Chicken, 16 oz",
+   "url": "https://www.iherb.com/pr/frontier-co-op-vegetarian-broth-powder-no-chicken-16-oz-453-g/30678",
+   "epc": 0.13,
+   "rate": 15,
+   "price": "$10.37",
+   "verified": false
+  },
+  "alternatives": [],
+  "note": "Same Frontier Co-op broth powder as the first Amazon title; Seitenbacher was not found at an in-network merchant. iHerb returns 403 to curl."
+ },
+ {
+  "id": "aleppo-pepper-2",
+  "name": "Aleppo Pepper",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B000X5IPWM",
+    "B00562WN1Q",
+    "B071KH1X16"
+   ],
+   "title": "Amazon.com : Aleppo Pepper \u2013 Mild Turkish Chili Flakes with Rich, Fruity Flavor \u2013 2 oz \u2013 Zamouri Spices : Chile Peppers Produce : Grocery & Gourmet Food",
+   "anchors": [
+    "Aleppo Pepper",
+    "Aleppo pepper",
+    "on Amazon"
+   ],
+   "links": 7,
+   "posts": 6,
+   "example_post": "warm-grapes-toasted-pita-bread-and-ricotta-salata-recipe"
+  },
+  "primary": {
+   "merchant": "Savory Spice Shop",
+   "product": "Crushed Aleppo Peppers",
+   "url": "https://www.savoryspiceshop.com/products/crushed-aleppo-peppers",
+   "epc": 0.33,
+   "rate": 15,
+   "price": null,
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Different brand of the same crushed Aleppo pepper; found via Savory's site search but the page check was blocked (429)."
+ },
+ {
+  "id": "chili-flakes",
+  "name": "Chili Flakes",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B0000EYPJS",
+    "B000WS3AJ8",
+    "B00IYNQ1EY",
+    "B07F1T63WG",
+    "B07W2VL1QJ"
+   ],
+   "title": "Amazon.com : Simply Organic Red Pepper Crushed, Certified Organic, Kosher, Bottled Spices | 1.59 Ounce (Pack of 1) : Ground Peppers : Grocery & Gourmet Food",
+   "anchors": [
+    "chile flakes",
+    "chili flakes",
+    "dried chili flakes"
+   ],
+   "links": 7,
+   "posts": 7,
+   "example_post": "7-pasta-tips-conchiglie-with-chard-and-smoked-mozzarella"
+  },
+  "primary": {
+   "merchant": "Savory Spice Shop",
+   "product": "Crushed Red Pepper Flakes",
+   "url": "https://www.savoryspiceshop.com/products/crushed-red-pepper-flakes",
+   "epc": 0.33,
+   "rate": 15,
+   "price": null,
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Generic crushed red pepper flakes in place of Simply Organic or McCormick; page check was blocked (429)."
+ },
+ {
+  "id": "la-tourangelle-toasted-sesame-oil-16-9-fl-oz",
+  "name": "La Tourangelle Toasted Sesame Oil, 16.9 Fl oz",
+  "status": "match",
+  "kind": "same",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B0001DMTSS",
+    "B005WXMPMQ"
+   ],
+   "title": "Amazon.com : La Tourangelle, Toasted Sesame Oil, Great for Cooking, Add to Noodles, Stir-Fry, Vegetables, Vinaigrettes, and Marinades, 16.9 Fl Oz : Grocery & Gourmet Food",
+   "anchors": [
+    "Chinese toasted sesame oil",
+    "toasted sesame oil"
+   ],
+   "links": 7,
+   "posts": 7,
+   "example_post": "tempeh-and-japanese-eggplant-with-crispy-rice-recipe"
+  },
+  "primary": {
+   "merchant": "iHerb.com",
+   "product": "La Tourangelle Toasted Sesame Oil, 16.9 fl oz (500 ml)",
+   "url": "https://www.iherb.com/pr/la-tourangelle-toasted-sesame-oil-16-9-fl-oz-500-ml/73004",
+   "epc": 0.13,
+   "rate": 15,
+   "price": "$12.07",
+   "verified": false
+  },
+  "alternatives": [],
+  "note": "Exact same product and size; iHerb returns 403 to curl but the URL appeared in search results."
+ },
+ {
+  "id": "masa-harina",
+  "name": "Masa Harina",
+  "status": "match",
+  "kind": "same",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B0000IJYK4",
+    "B00032CRGO",
+    "B00ZQMR7L2",
+    "B01BY8MCBQ",
+    "B071KS99V2",
+    "B07PTP4HDH",
+    "B07W4MLCRN"
+   ],
+   "title": "Amazon.com : Masienda Heirloom White Corn Masa Harina/Flour. Nixtamalized Corn Flour Perfect for Corn Tortillas, Tamales, Tostadas, Pupusas, Arepas and More. Gluten-Free, Non-GMO, Preservative-Free. 2.2 Pounds. : Grocery & Gourmet Food",
+   "anchors": [
+    "masa harina"
+   ],
+   "links": 7,
+   "posts": 7,
+   "example_post": "jewish-christma"
+  },
+  "primary": {
+   "merchant": "Masienda",
+   "product": "Heirloom White Corn Masa Harina, 2.2 lb",
+   "url": "https://masienda.com/products/heirloom-corn-masa-harina",
+   "epc": 0.2,
+   "rate": 10,
+   "price": null,
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Masienda is the brand of the first Amazon title; the exact product slug is a best guess among Masienda's 'Heirloom Masa Flour' pages (check blocked), so please confirm it. The collection page https://www.masienda.com/collections/masa-harina returned 200."
+ },
+ {
+  "id": "mexican-oregano",
+  "name": "Mexican Oregano",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B000B6J4RI",
+    "B00ATJUC2I",
+    "B00BKZM0OU",
+    "B00TVAGZFE",
+    "B0851SDG7Y"
+   ],
+   "title": "Amazon.com : McCormick Gourmet Collection Mexican Oregano, Organic, Non GMO, Kosher, Our Best Herbs & Spices, Peppery Bite & Lemony Finish, Enhance Tex-Mex, Salsa, Chili & Cuban Black Beans, 0.5 oz : Grocery & Gourmet Food",
+   "anchors": [
+    "Mexican oregano"
+   ],
+   "links": 7,
+   "posts": 7,
+   "example_post": "indian-fry-bread-tacos-recipe"
+  },
+  "primary": {
+   "merchant": "Savory Spice Shop",
+   "product": "Mexican Oregano",
+   "url": "https://www.savoryspiceshop.com/products/mexican-oregano",
+   "epc": 0.33,
+   "rate": 15,
+   "price": null,
+   "verified": true
+  },
+  "alternatives": [
+   {
+    "merchant": "The Spice House",
+    "product": "Mexican Broken Leaf Oregano",
+    "url": "https://www.thespicehouse.com/products/mexican-oregano",
+    "epc": 0.21,
+    "rate": 15,
+    "price": null,
+    "verified": true
+   }
+  ],
+  "note": "Different brand of the same herb (McCormick on Amazon)."
+ },
+ {
+  "id": "mortar-and-pestle",
+  "name": "Mortar and Pestle",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B0084O4LIG",
+    "B0CRHP5G3P"
+   ],
+   "title": "Amazon.com: HIC Kitchen Mortar and Pestle Set, Solid Carrara Marble, 3.8-Inch, Spice Herb Grinder, Pill Crusher, Nut Butter Maker: Home & Kitchen",
+   "anchors": [
+    "mortar and pestle"
+   ],
+   "links": 7,
+   "posts": 7,
+   "example_post": "recipe-rice-bow"
+  },
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "White Marble Mortar and Pestle",
+   "url": "https://www.surlatable.com/product/sur-la-table-white-marble-mortar-and-pestle-in-white/9145897",
+   "epc": 0.06,
+   "rate": 9,
+   "price": "$44.95",
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Similar small marble mortar and pestle to the HIC Carrara marble set; Sur La Table's own brand."
+ },
+ {
+  "id": "pepitas-green-hulled-pumpkin-seeds",
+  "name": "Pepitas (green, Hulled Pumpkin Seeds)",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B07TVJ9GSD",
+    "B0DKG4H85F"
+   ],
+   "title": "Amazon.com: Yupik Raw Pumpkin Seeds, No Shell, 1 lb (16 oz), GMO-Free, Gluten-Free, Kosher, Shelled Pepitas, Salt-Free, Oil-Free, Plant-Based Protein, Source of Fiber, Healthy Snacks, Ideal for Baking & Topping : Patio, Lawn & Garden",
+   "anchors": [
+    "hulled (green) pumpkin seeds",
+    "pepitas (green, hulled pumpkin seeds)",
+    "pepitas (hulled pumpkin seeds)",
+    "pumpkin seeds",
+    "pumpkin seeds (pepitas)",
+    "shelled pumpkin seeds (pepitas)"
+   ],
+   "links": 7,
+   "posts": 7,
+   "example_post": "7-pasta-tips-conchiglie-with-chard-and-smoked-mozzarella"
+  },
+  "primary": {
+   "merchant": "Nuts.com",
+   "product": "Raw Unsalted Pepitas (hulled pumpkin seeds)",
+   "url": "https://nuts.com/healthy-snacks/pepitas-raw-unsalted",
+   "epc": 0.38,
+   "rate": 20,
+   "price": null,
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Raw, hulled green pumpkin seeds like the Yupik item, different brand."
+ },
+ {
+  "id": "pre-packaged-version",
+  "name": "Pre-Packaged Version",
+  "status": "no_match",
+  "reason": "No in-network merchant found selling dukkah (Savory Spice, Spice House, ChefShop and Nuts.com searches turned up nothing); only available from Amazon or out-of-network spice shops.",
+  "amazon": {
+   "asins": [
+    "B005MSBD4C"
+   ],
+   "title": "Amazon.com : Egyptian Dukkah Spice Blend from The Silk Road Restaurant & Market (2oz), No Salt | All Natural Dukkah Seasoning | Vegan | Gluten Free Ingredients | NON-GMO | No Preservatives : Gourmet Food : Grocery & Gourmet Food",
+   "anchors": [
+    "Dukkah",
+    "dukkah",
+    "pre-packaged version"
+   ],
+   "links": 7,
+   "posts": 6,
+   "example_post": "chickpea-spinach-and-tomato-soup-recipe"
+  }
+ },
+ {
+  "id": "champagne-vinegar",
+  "name": "Champagne Vinegar",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B000YM9S2A",
+    "B07CQQ35PK"
+   ],
+   "title": "Amazon.com : O Olive Oil California Champagne Vinegar, 10.1 Fluid Ounce Pack of 6 : Grocery & Gourmet Food",
+   "anchors": [
+    "champagne vinegar"
+   ],
+   "links": 6,
+   "posts": 6,
+   "example_post": "pan-seared-pressed-tofu-with-apples-and-champagne-vinaigrette-recipe"
+  },
+  "primary": {
+   "merchant": "ChefShop.com",
+   "product": "KATZ Sparkling Wine Vinegar, 375 ml",
+   "url": "https://chefshop.com/products/sparkling-wine-vinegar-katz",
+   "epc": null,
+   "rate": 7,
+   "price": "$16.95",
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Sparkling-wine vinegar (Chardonnay) is the closest ChefShop has to champagne vinegar; pricier than the Amazon items."
+ },
+ {
+  "id": "food-processor",
+  "name": "Food Processor",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B089TP3K77"
+   ],
+   "title": "Amazon.com: Ninja Professional Plus Food Processor, 1000PW, 9-Cup, Grey, BN601 | Auto-iQ presets chop, slice, puree & mix dough. 9-cup bowl, 3 blades, feed chute & pusher. Dishwasher-safe parts.: Home & Kitchen",
+   "anchors": [
+    "food processor"
+   ],
+   "links": 6,
+   "posts": 6,
+   "example_post": "block-party-emp"
+  },
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "Cuisinart 14-Cup Food Processor",
+   "url": "https://www.surlatable.com/product/cuisinart-14-cup-food-processor/505479",
+   "epc": 0.06,
+   "rate": 9,
+   "price": "$229.96",
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Ninja is not in the network; the Cuisinart 14-cup is the standard classic equivalent but larger and costlier than the 9-cup Ninja."
+ },
+ {
+  "id": "joy-of-cooking",
+  "name": "Joy of Cooking",
+  "status": "match",
+  "kind": "book",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "0743246268",
+    "1501169718"
+   ],
+   "title": "Joy of Cooking: Joy of Cooking: Rombauer, Irma S., Becker, Marion Rombauer, Becker, Ethan: 8601415957051: Amazon.com: Books",
+   "anchors": [
+    "Joy of Cooking"
+   ],
+   "links": 6,
+   "posts": 6,
+   "example_post": "one-day-of-work"
+  },
+  "primary": {
+   "merchant": "Barnes & Noble",
+   "product": "Joy of Cooking (75th Anniversary Edition, ISBN 9780743246262)",
+   "url": "https://www.barnesandnoble.com/w/joy-of-cooking-irma-s-rombauer/1102082218",
+   "epc": 0.01,
+   "rate": 5.15,
+   "price": null,
+   "verified": true
+  },
+  "alternatives": [
+   {
+    "merchant": "Barnes & Noble",
+    "product": "Joy of Cooking: Fully Revised and Updated (2019, ISBN 9781501169717)",
+    "url": "https://www.barnesandnoble.com/w/joy-of-cooking-irma-s-rombauer/1145682841",
+    "epc": 0.01,
+    "rate": 5.15,
+    "price": null,
+    "verified": true
+   }
+  ],
+  "note": "Primary is the 2006 75th Anniversary edition matching ISBN 0743246268, but search snippets suggested B&N may be out of stock; the alternative is the 2019 revision (ISBN 1501169718)."
+ }
+]

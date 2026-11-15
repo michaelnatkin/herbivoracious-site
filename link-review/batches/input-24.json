@@ -1,0 +1,325 @@
+[
+ {
+  "id": "muffins-tin",
+  "name": "Muffins Tin",
+  "current_amazon_url": "https://www.amazon.com/dp/B0026RHI9Q?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "muffins tin"
+  ],
+  "asins": [
+   "B0026RHI9Q"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "onebowl-banana-muffins-great-for-baking-with-kids-recipe"
+ },
+ {
+  "id": "muscovado-sugar",
+  "name": "Muscovado Sugar",
+  "current_amazon_url": "https://www.amazon.com/dp/B000H7LXRK?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "muscovado sugar"
+  ],
+  "asins": [
+   "B000H7LXRK"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "italian-plum-upside-down-cake-recipe"
+ },
+ {
+  "id": "my-mexico",
+  "name": "My Mexico",
+  "current_amazon_url": "https://www.amazon.com/dp/0609602470?tag=herb-hugo-20",
+  "is_book": true,
+  "amazon_titles": [],
+  "anchors": [
+   "My Mexico"
+  ],
+  "asins": [
+   "0609602470"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "bocoles-masa-and-black-bean-cakes-with-spicy-yams-recipe"
+ },
+ {
+  "id": "nature-s-path-smart-bran-cereal",
+  "name": "Nature&#39;s Path Smart Bran Cereal",
+  "current_amazon_url": "https://www.amazon.com/dp/B0010C4KCQ?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "Nature&#39",
+   "s Path Smart Bran cereal"
+  ],
+  "asins": [
+   "B0010C4KCQ"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "bran-muffins"
+ },
+ {
+  "id": "new-mexico-chili-powder-1-lb-by-amazing-chiles",
+  "name": "New Mexico Chili Powder 1 lb by Amazing Chiles & Spices",
+  "current_amazon_url": "https://www.amazon.com/dp/B09RQHNJ19?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "New Mexico chile powder"
+  ],
+  "asins": [
+   "B09RQHNJ19"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "spicy-corn-and-potato-stew-recipe"
+ },
+ {
+  "id": "newlywed-kitchen-delicious-meals-for-couples",
+  "name": "Newlywed Kitchen: Delicious Meals for Couples Cooking Together",
+  "current_amazon_url": "https://www.amazon.com/dp/1570616329?tag=herb-hugo-20",
+  "is_book": true,
+  "amazon_titles": [],
+  "anchors": [
+   "Newlywed Kitchen: Delicious Meals for Couples Cooking Together"
+  ],
+  "asins": [
+   "1570616329"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "the-newlywed-kitchen-book-review-with-a-recipe-for-zucchini-fritters"
+ },
+ {
+  "id": "nikon-d7000",
+  "name": "Nikon D7000",
+  "current_amazon_url": "https://www.amazon.com/dp/B0042X9LC4?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "Nikon D7000"
+  ],
+  "asins": [
+   "B0042X9LC4"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "transparency-and-support"
+ },
+ {
+  "id": "non-stick",
+  "name": "Non-Stick",
+  "current_amazon_url": "https://www.amazon.com/dp/B009HBKQR0?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "non-stick"
+  ],
+  "asins": [
+   "B009HBKQR0"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "caramelized-caulifower-fritatta-recipe"
+ },
+ {
+  "id": "non-stick-or-well-seasoned-skillet",
+  "name": "Non-Stick or Well Seasoned Skillet",
+  "current_amazon_url": "https://www.amazon.com/dp/B0732NXYNS?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "non-stick or well seasoned skillet"
+  ],
+  "asins": [
+   "B0732NXYNS"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "hatch-chiles-stuffed-with-cilantro-scrambled-egg-recipe"
+ },
+ {
+  "id": "nori",
+  "name": "nori",
+  "current_amazon_url": "https://www.amazon.com/dp/B079Z2XFNL?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "nori"
+  ],
+  "asins": [
+   "B079Z2XFNL"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "spicy-nori-popcorn-recipe"
+ },
+ {
+  "id": "nori-seaweed",
+  "name": "Nori Seaweed",
+  "current_amazon_url": "https://www.amazon.com/dp/B00I01ZXYE?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "nori seaweed"
+  ],
+  "asins": [
+   "B00I01ZXYE"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "asparagus-with-nori-butter-recipe"
+ },
+ {
+  "id": "novelty-beer-cozy",
+  "name": "novelty beer cozy",
+  "current_amazon_url": "https://www.amazon.com/dp/B0047YZYW4?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "novelty beer cozy"
+  ],
+  "asins": [
+   "B0047YZYW4"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "transparency-and-support"
+ },
+ {
+  "id": "nutmeg-grater-with-whole-nutmegs",
+  "name": "Nutmeg Grater with Whole Nutmegs",
+  "current_amazon_url": "https://www.amazon.com/dp/B005WUN500?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "freshly ground nutmeg"
+  ],
+  "asins": [
+   "B005WUN500"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "brussels-sprout-gratin-with-heretical-technique-recipe"
+ },
+ {
+  "id": "o-blood-orange-olive-oil",
+  "name": "\"O\" Blood Orange Olive Oil",
+  "current_amazon_url": "https://www.amazon.com/dp/B0000W2SZS?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "&quot",
+   "O&quot",
+   "brand California Blood Orange flavored olive oil"
+  ],
+  "asins": [
+   "B0000W2SZS"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "cucumber-zucchi"
+ },
+ {
+  "id": "oil-cured-black-olives",
+  "name": "Oil-Cured Black Olives",
+  "current_amazon_url": "https://www.amazon.com/dp/B07PP3WM2K?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "oil-cured black olives"
+  ],
+  "asins": [
+   "B07PP3WM2K"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "fruit-salad"
+ },
+ {
+  "id": "one-from-matiz",
+  "name": "One from Matiz",
+  "current_amazon_url": "https://www.amazon.com/dp/B000LUP6D0?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "one from Matiz"
+  ],
+  "asins": [
+   "B000LUP6D0"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "vegetarian-pael"
+ },
+ {
+  "id": "or-you-can-find-it-on-amazon",
+  "name": "or you can find it on Amazon",
+  "current_amazon_url": "https://www.amazon.com/dp/B0000CNU5B?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "or you can find it on Amazon"
+  ],
+  "asins": [
+   "B0000CNU5B"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "asparagus-and-tofu-with-guilin-chili-sauce"
+ },
+ {
+  "id": "orange-infused-olive-oil",
+  "name": "Orange-Infused Olive Oil",
+  "current_amazon_url": "https://www.amazon.com/dp/B000UA3H2S?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "orange-infused olive oil (from ChefShop)"
+  ],
+  "asins": [
+   "B000UA3H2S"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "roasted-cauliflower-and-white-bean-salad-recipe"
+ },
+ {
+  "id": "order-them-from-amazon",
+  "name": "Order Them from Amazon",
+  "current_amazon_url": "https://www.amazon.com/dp/B00RENFSDU?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "order them from Amazon"
+  ],
+  "asins": [
+   "B00RENFSDU"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "recipe-urad-dal"
+ },
+ {
+  "id": "pasilla-ancho-or-new-mexico",
+  "name": "Pasilla, Ancho, or New Mexico",
+  "current_amazon_url": "https://www.amazon.com/dp/B07VGSD7L7?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "pasilla, ancho, or New Mexico"
+  ],
+  "asins": [
+   "B07VGSD7L7"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "khao-soi-thai-curry-noodles-from-chiang-mai"
+ }
+]

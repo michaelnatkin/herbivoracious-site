@@ -1,0 +1,403 @@
+[
+ {
+  "id": "lou-s-first-book",
+  "name": "Lou's First Book",
+  "current_amazon_url": "https://www.amazon.com/dp/1592008208?tag=herb-hugo-20",
+  "is_book": true,
+  "amazon_titles": [
+   "Amazon.com: Digital Food Photography: 9781592008209: Manna, Lou: Books",
+   "Momofuku Milk Bar: A Cookbook: Tosi, Christina, Chang, David: 8601420483255: Amazon.com: Books"
+  ],
+  "anchors": [
+   "Lou's first book",
+   "Momofuku Milk Bar cookbook"
+  ],
+  "asins": [
+   "0307720497",
+   "1592008208"
+  ],
+  "links": 3,
+  "posts": 2,
+  "example_post": "strawberries-and-cream-birthday-cake-momofuku-style"
+ },
+ {
+  "id": "maille-pickles-cornichons-original",
+  "name": "Maille Pickles Cornichons Original",
+  "current_amazon_url": "https://www.amazon.com/dp/B00112IYZ4?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com: Maille Pickles, Original Cornichons 13.5 oz, Made in France 1PK | For snacking, charcuterie boards and sandwiches; Cornichons Original; 13.5 oz. : Grocery & Gourmet Food",
+   "Amazon.com : FRATELLI D'AMICO Capers in Salt, Size #10, Italian Salted Capers, 35.3 oz | Premium Capers Non Pareil, Salted Caperi for Seasoning, Garnish, Sauces, Meat & Seafoods, Non-GMO, Product of Italy : Grocery & Gourmet Food"
+  ],
+  "anchors": [
+   "capers",
+   "cornichons"
+  ],
+  "asins": [
+   "B00112IYZ4",
+   "B0B8T8K2TC"
+  ],
+  "links": 3,
+  "posts": 3,
+  "example_post": "braised-belgian-endive-with-sauce-gribiche-recipe"
+ },
+ {
+  "id": "mexican-everyday",
+  "name": "Mexican Everyday",
+  "current_amazon_url": "https://www.amazon.com/dp/039306154X?tag=herb-hugo-20",
+  "is_book": true,
+  "amazon_titles": [
+   "Mexican Everyday: Bayless, Rick, Bayless, Deann Groen, Hirsheimer, Christopher: 9780393061543: Amazon.com: Books",
+   "Rick Bayless Mexico One Plate At A Time: Bayless, Rick: 9780684841861: Amazon.com: Books"
+  ],
+  "anchors": [
+   "Mexican Everyday",
+   "Rick Bayless"
+  ],
+  "asins": [
+   "039306154X",
+   "068484186X"
+  ],
+  "links": 3,
+  "posts": 3,
+  "example_post": "swiss-chard-enchiladas-in-a-tomatillo-sauce-recipe"
+ },
+ {
+  "id": "microplane-classic-zester-grater",
+  "name": "Microplane Classic Zester Grater",
+  "current_amazon_url": "https://www.amazon.com/dp/B00004S7V8?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com: Microplane Classic Zester Grater, Black: Cheese Graters: Home & Kitchen",
+   "Amazon.com: Microplane Premium Classic Series Zester 18/8, Black - Lemon Zester & Cheese Grater & Vegetable Grater - Citrus, Parmesan Cheese, Garlic, Ginger, Nutmeg, Chocolate - Stainless Steel Grater : Microplane: Home & Kitchen"
+  ],
+  "anchors": [
+   "grater",
+   "microplane"
+  ],
+  "asins": [
+   "B00004S7V8",
+   "B00151WA06"
+  ],
+  "links": 3,
+  "posts": 3,
+  "example_post": "four-thousand-d"
+ },
+ {
+  "id": "mirin-3",
+  "name": "mirin",
+  "current_amazon_url": "https://www.amazon.com/dp/B0FNPP74FQ?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com : Soeos Mirin, Japanese Sweet Cooking Wine for Sauces and Glazes, 16.9 Fl Oz | Mild Sweet Flavor, Great Ingredients, Perfect for Teriyaki, Glazes, Marinades, Stir-Fry & Japanese Recipes : Grocery & Gourmet Food"
+  ],
+  "anchors": [
+   "mirin"
+  ],
+  "asins": [
+   "B0FNPP74FQ"
+  ],
+  "links": 3,
+  "posts": 3,
+  "example_post": "grilled-eggplan"
+ },
+ {
+  "id": "no-boil-lasagna-noodles",
+  "name": "No-Boil Lasagna Noodles",
+  "current_amazon_url": "https://www.amazon.com/dp/B000RUQPQQ?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com : Barilla \"Oven Ready\" Lasagne Pasta, Non-GMO Kosher Pasta, 9oz. | Classic Blue Box pasta made with Durum Wheat Semolina, Made with Non-GMO ingredients : Grocery & Gourmet Food",
+   "Amazon.com : Barilla Pasta, Oven-Ready Lasagne, 9 Ounce (Pack of 4) : Lasagna Pasta : Grocery & Gourmet Food"
+  ],
+  "anchors": [
+   "no-boil lasagna noodles"
+  ],
+  "asins": [
+   "B000RUQPQQ",
+   "B003EXVM66"
+  ],
+  "links": 3,
+  "posts": 3,
+  "example_post": "portabello-summer-squash-lasagna-recipe"
+ },
+ {
+  "id": "o-food-ssamjang-korean-seasoned-soybean-paste",
+  "name": "O'Food Ssamjang Korean Seasoned Soybean Paste",
+  "current_amazon_url": "https://www.amazon.com/dp/B07BFQPCM6?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com : Premium Korean Ssamjang Soybean Paste Sauce [Mild | 1.0 lb (500g)] for BBQ, Lettuce Wraps, Rice, Vegetables, and Meat | Korean Flavor, Bold & Savory - O\u2019food : Grocery & Gourmet Food"
+  ],
+  "anchors": [
+   "Ssamjang",
+   "ssamjang"
+  ],
+  "asins": [
+   "B07BFQPCM6"
+  ],
+  "links": 3,
+  "posts": 3,
+  "example_post": "king-oyster-mushroom-lettuce-wraps-with-ssamjang-recipe"
+ },
+ {
+  "id": "old-stone-oven-pizza-baking-stone",
+  "name": "Old Stone Oven Pizza Baking Stone",
+  "current_amazon_url": "https://www.amazon.com/dp/B0000E1FDA?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com: Old Stone Pizza Kitchen Rectangular Pizza Stone for Oven and Grill, 14x16-Inch : Patio, Lawn & Garden",
+   "Amazon.com : Unicook 15 x 12 Inch Rectangular Pizza Stone for Oven and Grill, 6.8 Lbs | Heavy Duty, Even Heating & Consistent Heat Retention, Creates Crispy Crust for Pizzas, Bread, Cookies, Includes Dough Scraper : Patio, Lawn & Garden"
+  ],
+  "anchors": [
+   "baking stone",
+   "pizza stone"
+  ],
+  "asins": [
+   "B0000E1FDA",
+   "B06XGV3RS4"
+  ],
+  "links": 3,
+  "posts": 3,
+  "example_post": "double-crust-pizza-with-broccoli-raab-ricotta-and-caramelized-onions-recipe"
+ },
+ {
+  "id": "oxo-good-grips",
+  "name": "OXO Good Grips",
+  "current_amazon_url": "https://www.amazon.com/dp/B00004OCKR?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com: OXO Good Grips 6.22 Qt Salad Spinner, Vegetable Washer with Bowl & Strainer | Spin-dry Lettuce, Herbs, Fruit, Vegetables, Non-Slip Base, Large Capacity Bowl, Easy One-Touch Press Pump, Meal Prep: Home & Kitchen"
+  ],
+  "anchors": [
+   "OXO Good Grips",
+   "OXO Good Grips Salad Spinner"
+  ],
+  "asins": [
+   "B00004OCKR"
+  ],
+  "links": 3,
+  "posts": 2,
+  "example_post": "chopped-salad-revisiting-a-classic-recipe"
+ },
+ {
+  "id": "pastry-brush",
+  "name": "Pastry Brush",
+  "current_amazon_url": "https://www.amazon.com/dp/B000JPSI8C?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com: OXO Good Grips Silicone Pastry Brush | OXO Good Grips Silicone Basting & Pastry Brush - Small, 7.6 in: Home & Kitchen"
+  ],
+  "anchors": [
+   "Silicone pastry brushes",
+   "pastry brush"
+  ],
+  "asins": [
+   "B000JPSI8C"
+  ],
+  "links": 3,
+  "posts": 3,
+  "example_post": "block-party-emp"
+ },
+ {
+  "id": "prioritychef-large-15oz-stainless-steel-potato",
+  "name": "PriorityChef Large 15oz Stainless Steel Potato Ricer",
+  "current_amazon_url": "https://www.amazon.com/dp/B00MUEHPGQ?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com: PriorityChef Large 15oz Potato Ricer, Heavy Duty Stainless Steel Potato Masher and Ricer Kitchen Tool, Press and Mash Kitchen Gadget For Perfect Mashed Potatoes - Everytime: Home & Kitchen"
+  ],
+  "anchors": [
+   "heavy-duty potato ricer",
+   "potato ricer"
+  ],
+  "asins": [
+   "B00MUEHPGQ"
+  ],
+  "links": 3,
+  "posts": 3,
+  "example_post": "aloo-tikki-indian-potato-fritters-recipe"
+ },
+ {
+  "id": "ricotta-salata",
+  "name": "Ricotta Salata",
+  "current_amazon_url": "https://www.amazon.com/dp/B0787VWCF3?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com: Mitica, Ricotta Salata : Grocery & Gourmet Food"
+  ],
+  "anchors": [
+   "Ricotta salata",
+   "ricotta salata"
+  ],
+  "asins": [
+   "B0787VWCF3"
+  ],
+  "links": 3,
+  "posts": 3,
+  "example_post": "gnocchi-with-radicchio-leeks-and-ricotta-salata-vegetarian-recipe"
+ },
+ {
+  "id": "ring-mold",
+  "name": "Ring Mold",
+  "current_amazon_url": "https://www.amazon.com/dp/B0861D8DTN?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com: HULISEN 3\u201d Round Cake Ring Mold, Stainless Steel Cooking Crumpet Rings | 4 Food Forms & 1 Pusher, Dishwasher Safe, Home Cooks and Bakers, Tuna Tartare, Pancakes, Salads and Mousse : Home & Kitchen",
+   "Amazon.com: Lurch Stainless Steel Food Rings with Pusher and Lifter, Set of 6 | Perfect for risotto and tartlets. 6 rings, a tamper and a tray. Ring size: Diameter 2.9 inches, height 2.1 inches: Home & Kitchen"
+  ],
+  "anchors": [
+   "ring mold"
+  ],
+  "asins": [
+   "B00IVFJDKY",
+   "B01IO57N0W",
+   "B0861D8DTN"
+  ],
+  "links": 3,
+  "posts": 3,
+  "example_post": "risotto-cake-with-crispy-ramps-recipe"
+ },
+ {
+  "id": "smoked-mozzarella",
+  "name": "Smoked Mozzarella",
+  "current_amazon_url": "https://www.amazon.com/dp/B079VL5BHN?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com: Rumiano Smoked Mozzarella : Grocery & Gourmet Food"
+  ],
+  "anchors": [
+   "smoked mozzarella"
+  ],
+  "asins": [
+   "B079VL5BHN"
+  ],
+  "links": 3,
+  "posts": 3,
+  "example_post": "7-pasta-tips-conchiglie-with-chard-and-smoked-mozzarella"
+ },
+ {
+  "id": "soba-japanese-buckwheat-noodles",
+  "name": "Soba (Japanese Buckwheat Noodles)",
+  "current_amazon_url": "https://www.amazon.com/dp/B000VK109Y?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com : Hakubaku, Organic Soba, 9.5 Oz : Grocery & Gourmet Food"
+  ],
+  "anchors": [
+   "soba",
+   "soba (Japanese buckwheat noodles)"
+  ],
+  "asins": [
+   "B000VK109Y"
+  ],
+  "links": 3,
+  "posts": 3,
+  "example_post": "new-years-feast"
+ },
+ {
+  "id": "sriracha-sauce",
+  "name": "Sriracha Sauce",
+  "current_amazon_url": "https://www.amazon.com/dp/B07KSMML5P?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Page Not Found",
+   "Amazon.com: Huy Fong, Sriracha Hot Chili Sauce, 17 Ounce Bottle : Books"
+  ],
+  "anchors": [
+   "Sriracha sauce",
+   "sriracha"
+  ],
+  "asins": [
+   "B0014E4G0Q",
+   "B07KSMML5P"
+  ],
+  "links": 3,
+  "posts": 3,
+  "example_post": "kale-fried-rice-for-one-infinitely-adaptable-recipe"
+ },
+ {
+  "id": "tamicon-tamarind-concentrate-14-11-oz",
+  "name": "Tamicon Tamarind Concentrate 14.11 oz",
+  "current_amazon_url": "https://www.amazon.com/dp/B01MYXH0YH?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com : Tamicon Tamarind Concentrate, Sweet & Sour Paste 14.11oz, 400g | Halal Certified, Kosher, Authentic South Indian Ingredient, Suitable for Vegetarian, No added Preservatives : Grocery & Gourmet Food",
+   "Amazon.com: Tamcon Tamarind Concerntrate 8 Oz : Grocery & Gourmet Food"
+  ],
+  "anchors": [
+   "Tamicon brand tamarind concentrate",
+   "tamarind concentrate"
+  ],
+  "asins": [
+   "B002OKNOA2",
+   "B00I9P242U",
+   "B01MYXH0YH"
+  ],
+  "links": 3,
+  "posts": 3,
+  "example_post": "beet-curry-recipe-1"
+ },
+ {
+  "id": "taylors-of-harrogate-lapsang-souchong-loose",
+  "name": "Taylors of Harrogate Lapsang Souchong Loose Leaf Tea",
+  "current_amazon_url": "https://www.amazon.com/dp/B002JP6H2O?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com : Taylors of Harrogate Lapsang Souchong Loose Leaf Tin, 4.41 oz : Smoky Lapsang Souchong Tea : Grocery & Gourmet Food",
+   "Amazon.com : Taylors of Harrogate Lapsang Souchong, 50 Teabags : Grocery Tea Sampler : Grocery & Gourmet Food"
+  ],
+  "anchors": [
+   "lapsang souchong",
+   "lapsang souchong tea"
+  ],
+  "asins": [
+   "B000MNNELC",
+   "B002JP6H2O"
+  ],
+  "links": 3,
+  "posts": 3,
+  "example_post": "maitake-mushrooms-in-smoky-tea-broth"
+ },
+ {
+  "id": "the-art-of-indian-vegetarian-cooking",
+  "name": "The Art of Indian Vegetarian Cooking",
+  "current_amazon_url": "https://www.amazon.com/dp/0525245642?tag=herb-hugo-20",
+  "is_book": true,
+  "amazon_titles": [
+   "Lord Krishna's Cuisine: The Art of Indian Vegetarian Cooking: Devi, Yamuna, Baird, David: 9780525245643: Amazon.com: Books",
+   "Lord Krishna\u2019s Cuisine: The Art of Indian Vegetarian Cooking - Kindle edition by Devi, Yamuna. Cookbooks, Food & Wine Kindle eBooks @ Amazon.com."
+  ],
+  "anchors": [
+   "Lord Krishna's Cuisine",
+   "Lord Krishna's Cuisine: The Art of Indian Vegetarian Cooking",
+   "The Art of Indian Vegetarian Cooking"
+  ],
+  "asins": [
+   "0525245642",
+   "B0762JPC9N"
+  ],
+  "links": 3,
+  "posts": 3,
+  "example_post": "eatyourbookscom-and-gobbledybookcom-two-sites-for-indexing-your-cookbooks"
+ },
+ {
+  "id": "the-perfect-scoop",
+  "name": "The Perfect Scoop",
+  "current_amazon_url": "https://www.amazon.com/dp/1580088082?tag=herb-hugo-20",
+  "is_book": true,
+  "amazon_titles": [
+   "Perfect Scoop: Ice Creams, Sorbets, Granitas, and Sweet Accompaniments: Lebovitz, David, Hata, Lara: 9781580088084: Amazon.com: Books"
+  ],
+  "anchors": [
+   "The Perfect Scoop",
+   "please pick up the book"
+  ],
+  "asins": [
+   "1580088082"
+  ],
+  "links": 3,
+  "posts": 1,
+  "example_post": "caramelized-pear-ice-cream-from-the-perfect-scoop-by-david-lebovitz-recipe-and-cookbook-review"
+ }
+]

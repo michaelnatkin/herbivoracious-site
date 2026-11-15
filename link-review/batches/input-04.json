@@ -1,0 +1,380 @@
+[
+ {
+  "id": "ideas-in-food-great-recipes-and-why-they-work",
+  "name": "Ideas in Food: Great Recipes and Why They Work",
+  "current_amazon_url": "https://www.amazon.com/dp/0307717402?tag=herb-hugo-20",
+  "is_book": true,
+  "amazon_titles": [],
+  "anchors": [
+   "Ideas In Food Cookbook",
+   "Ideas In Food book",
+   "Ideas In Food cookbook",
+   "Ideas in Food cookbook"
+  ],
+  "asins": [
+   "0307717402"
+  ],
+  "links": 4,
+  "posts": 4,
+  "example_post": "cryo-pickled-onions-recipe"
+ },
+ {
+  "id": "jerusalem-a-cookbook-by-ottolenghi-tamimi",
+  "name": "Jerusalem: a Cookbook by Ottolenghi & Tamimi",
+  "current_amazon_url": "https://www.amazon.com/dp/1607743949?tag=herb-hugo-20",
+  "is_book": true,
+  "amazon_titles": [],
+  "anchors": [
+   "Jersualem cookbook",
+   "Modernist Cuisine",
+   "most anticipated cookbook"
+  ],
+  "asins": [
+   "0982761007",
+   "1607743949"
+  ],
+  "links": 4,
+  "posts": 4,
+  "example_post": "cold-carrot-soup-myhrvold-recipe"
+ },
+ {
+  "id": "muir-glen-fire-roasted-diced-tomatoes",
+  "name": "Muir Glen Fire Roasted Diced Tomatoes",
+  "current_amazon_url": "https://www.amazon.com/dp/B01D1THP9K?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com : Muir Glen Organic Crushed Fire Roasted Canned Tomatoes, 14.5 oz. | Canned Tomatoes, Smoky Fire-Roasted Flavor, USDA Organic, Non-GMO Project Verified, Gluten Free : Grocery & Gourmet Food"
+  ],
+  "anchors": [
+   "Muir Glen Fire-Roasted",
+   "Muir Glen fire roasted diced tomatoes",
+   "Muir Glen fire roasted tomatoes",
+   "Muir Glen's Fire Roasted crushed tomatoes"
+  ],
+  "asins": [
+   "B000WCZNR6",
+   "B01D1THP9K"
+  ],
+  "links": 4,
+  "posts": 2,
+  "example_post": "rigatoni-with-roasted-cauliflower-and-spicy-tomato-sauce-recipe"
+ },
+ {
+  "id": "mustard-oil",
+  "name": "Mustard Oil",
+  "current_amazon_url": "https://www.amazon.com/dp/B08W4PP6W2?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "mustard oil"
+  ],
+  "asins": [
+   "B08W4PP6W2"
+  ],
+  "links": 4,
+  "posts": 4,
+  "example_post": "beet-curry-recipe-1"
+ },
+ {
+  "id": "parmigiano-reggiano-cheese",
+  "name": "Parmigiano-Reggiano Cheese",
+  "current_amazon_url": "https://www.amazon.com/dp/B0G27FYMV1?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "Parmigiano-Reggiano",
+   "parmigiano reggiano",
+   "parmigiano-reggiano cheese"
+  ],
+  "asins": [
+   "B07FZ74RRN",
+   "B08WVVBK4S",
+   "B0G27FYMV1"
+  ],
+  "links": 4,
+  "posts": 4,
+  "example_post": "lobster-mushroo"
+ },
+ {
+  "id": "pecorino-romano",
+  "name": "Pecorino Romano",
+  "current_amazon_url": "https://www.amazon.com/dp/B0787VGWS3?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "Pecorino romano",
+   "pecorino romano"
+  ],
+  "asins": [
+   "B075JLYF9T",
+   "B0787VGWS3",
+   "B0CCYMW6DL"
+  ],
+  "links": 4,
+  "posts": 4,
+  "example_post": "boyikos-aka-boyos-de-queso-sephardic-style-cheese-biscuits-the-greatest-snack-with-a-martini-ever-re"
+ },
+ {
+  "id": "real-maple-syrup",
+  "name": "Real Maple Syrup",
+  "current_amazon_url": "https://www.amazon.com/dp/B00248E7ZK?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "BLiS Bourbon-Barrel Maple Syrup",
+   "grade",
+   "grade B maple syrup",
+   "real maple syrup"
+  ],
+  "asins": [
+   "B00248E7ZK",
+   "B006L80IGQ",
+   "B0083QJU72"
+  ],
+  "links": 4,
+  "posts": 4,
+  "example_post": "buckwheat-buttermilk-pancakes-recipe"
+ },
+ {
+  "id": "savory-sweet-life-100-simply-delicious-recipes",
+  "name": "Savory Sweet Life: 100 Simply Delicious Recipes for Every Family Occasion",
+  "current_amazon_url": "https://www.amazon.com/dp/0062064053?tag=herb-hugo-20",
+  "is_book": true,
+  "amazon_titles": [],
+  "anchors": [
+   "Savory Sweet Life: 100 Simply Delicious Recipes for Every Family Occasion"
+  ],
+  "asins": [
+   "0062064053"
+  ],
+  "links": 4,
+  "posts": 1,
+  "example_post": "alices-savory-sweet-life-cookbook-with-a-recipe-for-roasted-carrots-with-sage-brown-butter"
+ },
+ {
+  "id": "shichimi-togarashi",
+  "name": "Shichimi Togarashi",
+  "current_amazon_url": "https://www.amazon.com/dp/B0002YGSA0?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "Togarashi-",
+   "bought premade togarashi",
+   "online",
+   "shichimi (aka nanami) togarashi pepper"
+  ],
+  "asins": [
+   "B0002YGSA0",
+   "B0002YGSJQ",
+   "B004Y18GJ8"
+  ],
+  "links": 4,
+  "posts": 3,
+  "example_post": "edamame-in-an-e"
+ },
+ {
+  "id": "sichuan-peppercorns",
+  "name": "Sichuan Peppercorns",
+  "current_amazon_url": "https://www.amazon.com/dp/B071CX48ZS?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "Sichuan peppecorns",
+   "Sichuan peppercorn",
+   "Sichuan peppercorns",
+   "Szechwan peppercorn"
+  ],
+  "asins": [
+   "B000EMAQ4E",
+   "B071CX48ZS"
+  ],
+  "links": 4,
+  "posts": 3,
+  "example_post": "super-spicy-tofu-and-peppers-or-ok-fine-mild-if-you-prefer-recipe"
+ },
+ {
+  "id": "sweet-chili-sauce",
+  "name": "Sweet Chili Sauce",
+  "current_amazon_url": "https://www.amazon.com/dp/B008PU36V2?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "Thai sweet chili sauce",
+   "sweet chili sauce"
+  ],
+  "asins": [
+   "B00023T3C6",
+   "B000SR5VD6",
+   "B008PU36V2"
+  ],
+  "links": 4,
+  "posts": 3,
+  "example_post": "cucumber-and-mango-salad-with-sweet-chili-dressing-recipe"
+ },
+ {
+  "id": "xanthan-gum",
+  "name": "Xanthan Gum",
+  "current_amazon_url": "https://www.amazon.com/dp/B07N8GTV8J?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "xanthan gum"
+  ],
+  "asins": [
+   "B0013JJZWG",
+   "B00IZDIMCM",
+   "B07N8GTV8J"
+  ],
+  "links": 4,
+  "posts": 4,
+  "example_post": "watermelon-gazpacho-recipe"
+ },
+ {
+  "id": "zaran-saffron-superior-saffron-threads-super",
+  "name": "Zaran Saffron Superior Saffron Threads (Super Negin) 2g",
+  "current_amazon_url": "https://www.amazon.com/dp/B079BQQVY7?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "Saffron",
+   "saffron",
+   "saffron threads"
+  ],
+  "asins": [
+   "B079BQQVY7",
+   "B07J29JF27"
+  ],
+  "links": 4,
+  "posts": 4,
+  "example_post": "paella-cakes-with-manchego-and-candied-seville-orange-peel-recipe"
+ },
+ {
+  "id": "anthony-s-organic-buckwheat-flour-3-lb",
+  "name": "Anthony's Organic Buckwheat Flour, 3 lb",
+  "current_amazon_url": "https://www.amazon.com/dp/B01EIQROUA?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "buckwheat",
+   "buckwheat flour"
+  ],
+  "asins": [
+   "B01EIQROUA",
+   "B07XB35PWL"
+  ],
+  "links": 3,
+  "posts": 3,
+  "example_post": "blini-with-aspa"
+ },
+ {
+  "id": "basmati-rice",
+  "name": "Basmati Rice",
+  "current_amazon_url": "https://www.amazon.com/dp/B00I330QEQ?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "basmati",
+   "basmati rice"
+  ],
+  "asins": [
+   "B00I330QEQ"
+  ],
+  "links": 3,
+  "posts": 3,
+  "example_post": "ginger-and-black-pepper-rice-pilafrecipe"
+ },
+ {
+  "id": "bob-s-red-mill-gluten-free-rice-flour-1-5-lb",
+  "name": "Bob's Red Mill Gluten Free Rice Flour, 1.5 lb",
+  "current_amazon_url": "https://www.amazon.com/dp/B0019GZ7YI?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "chickpea flour",
+   "rice flour"
+  ],
+  "asins": [
+   "B0019GZ7YI",
+   "B00ROPFZ9A",
+   "B089MNX6ML"
+  ],
+  "links": 3,
+  "posts": 3,
+  "example_post": "banh-xeo-crispy-vietnamese-crepe-recipe"
+ },
+ {
+  "id": "bob-s-red-mill-medium-grind-cornmeal-24-oz",
+  "name": "Bob's Red Mill Medium Grind Cornmeal, 24 oz",
+  "current_amazon_url": "https://www.amazon.com/dp/B0842TT35H?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "coarse or medium cornmeal",
+   "organic stoneground cornmeal",
+   "stone ground cornmeal"
+  ],
+  "asins": [
+   "B00U9W4R3K",
+   "B0842TT35H"
+  ],
+  "links": 3,
+  "posts": 3,
+  "example_post": "recipe-sesame-c-1"
+ },
+ {
+  "id": "brown-miso",
+  "name": "Brown Miso",
+  "current_amazon_url": "https://www.amazon.com/dp/B00TBC0HU6?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "brown miso",
+   "miso paste",
+   "red miso"
+  ],
+  "asins": [
+   "B004QYW7UW",
+   "B00FBSST9K",
+   "B00TBC0HU6"
+  ],
+  "links": 3,
+  "posts": 3,
+  "example_post": "garlic-miso-broth-recipe"
+ },
+ {
+  "id": "00-double-zero-flour",
+  "name": "00 (double-Zero) Flour",
+  "current_amazon_url": "https://www.amazon.com/dp/B005HEEFN2?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com : Antimo Caputo Chefs Flour 2.2 LB (Pack of 2) - Italian Double Zero 00 - Soft Wheat for Pizza Dough, Bread, & Pasta : Flour And Meals : Grocery & Gourmet Food"
+  ],
+  "anchors": [
+   "00 (double-zero) flour"
+  ],
+  "asins": [
+   "B005HEEFN2"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "grilled-pizza-fingerling-potatoes-blue-cheese-caramelized-onions-vegetarian-recipe"
+ },
+ {
+  "id": "45-milk-chocolate",
+  "name": "45% Milk Chocolate",
+  "current_amazon_url": "https://www.amazon.com/dp/B002HFUM36?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com : Theo Chocolate Organic Milk Chocolate Bar, 45% Cacao, 12 Count | Fair Trade : Fair Trade Chocolate Bars : Everything Else"
+  ],
+  "anchors": [
+   "45% milk chocolate"
+  ],
+  "asins": [
+   "B002HFUM36"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "seattle-chocolate-salon-theo-chocolopolis"
+ }
+]

@@ -1,0 +1,846 @@
+[
+ {
+  "id": "nutmeg-preferably-fresh-ground",
+  "name": "Nutmeg (preferably Fresh Ground)",
+  "status": "match",
+  "kind": "same",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B08ZJVNKWQ"
+   ],
+   "title": "Amazon.com : The Spice Way Nutmeg Whole - ( 4 oz ) | Whole nutmeg for fresh grating over custards, drinks, vegetables, pasta and baking; Kosher Certified; Resealable Bag : Grocery & Gourmet Food",
+   "anchors": [
+    "nutmeg",
+    "nutmeg (preferably fresh ground)"
+   ],
+   "links": 6,
+   "posts": 6,
+   "example_post": "microplane-the-grater-that-changes-everything"
+  },
+  "primary": {
+   "merchant": "Savory Spice Shop",
+   "product": "Whole Nutmeg",
+   "url": "https://www.savoryspiceshop.com/products/whole-nutmeg",
+   "epc": 0.33,
+   "rate": 15,
+   "price": "$4.99",
+   "verified": true
+  },
+  "alternatives": [
+   {
+    "merchant": "The Spice House",
+    "product": "Whole Nutmeg",
+    "url": "https://www.thespicehouse.com/products/whole-nutmeg",
+    "epc": 0.21,
+    "rate": 15,
+    "price": null,
+    "verified": true
+   }
+  ],
+  "note": "Whole nutmeg for fresh grating, same kind as The Spice Way 4 oz bag but sold in a 5-seed refill bag; both pages returned HTTP 429 to curl, so unverified by script (found via search)."
+ },
+ {
+  "id": "pastry-blender",
+  "name": "Pastry Blender",
+  "status": "match",
+  "kind": "same",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B000QJE48O",
+    "B01CX1RIMQ"
+   ],
+   "title": "Amazon.com: OXO Good Grips Dough Blender With Blades | Stainless Steel Blades Easily Cut Butter, Broad, Non-Slip Handle Absorbs Pressure, Dishwasher Safe: Pastry Cutter: Home & Kitchen",
+   "anchors": [
+    "pastry blender",
+    "pastry cutter"
+   ],
+   "links": 6,
+   "posts": 5,
+   "example_post": "caramelized-pear-and-ginger-scones-recipe"
+  },
+  "primary": {
+   "merchant": "OXO",
+   "product": "Good Grips Dough Blender with Blades",
+   "url": "https://www.oxo.com/dough-blender-with-blades.html",
+   "epc": 0.04,
+   "rate": 15,
+   "price": "$16.99",
+   "verified": false
+  },
+  "alternatives": [],
+  "note": "The same OXO Good Grips dough blender, direct from OXO; oxo.com returns 403 to curl (bot protection) but the page was found via search."
+ },
+ {
+  "id": "ramekins",
+  "name": "Ramekins",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B07Z4R7CJZ",
+    "B082MDFM14",
+    "B0D2VTK6Q2",
+    "B0D5L7LJQJ",
+    "B0D97HBLLY"
+   ],
+   "title": "Amazon.com: MISSYSSIM 12 oz Ramekins Oven Safe, Ceramic Creme Brulee Ramekins with Lids | Ceramic Creme Brulee Ramekins Souffle Dishes, Small Baking Bowls with Cover Set of 4, Ramekin Microwave & Dishwasher Safe: Home & Kitchen",
+   "anchors": [
+    "individual ramekins",
+    "oven-proof ramekins",
+    "ramekins"
+   ],
+   "links": 6,
+   "posts": 6,
+   "example_post": "caramelized-banana-and-buttermilk-panna-cotta-vegetarian-panna-cotta-recipe"
+  },
+  "primary": {
+   "merchant": "Restaurant Supply",
+   "product": "Browne 5 oz Ribbed Porcelain Ramekin, White",
+   "url": "https://www.restaurantsupply.com/products/browne-foodservice-564021w-5-oz-ramekin-ribbed-porcelain-white",
+   "epc": 0.27,
+   "rate": 5,
+   "price": null,
+   "verified": false
+  },
+  "alternatives": [
+   {
+    "merchant": "Sur La Table",
+    "product": "Sur La Table Porcelain Round Ramekin with Straight Sides",
+    "url": "https://www.surlatable.com/sur-la-table-porcelain-round-ramekin-with-straight-sides/PRO-2509578.html",
+    "epc": 0.06,
+    "rate": 9,
+    "price": "$6.99",
+    "verified": true
+   },
+   {
+    "merchant": "Sur La Table",
+    "product": "Revol French Classics Ramekin",
+    "url": "https://www.surlatable.com/revol-french-classics-ramekin/PRO-7476617.html",
+    "epc": 0.06,
+    "rate": 9,
+    "price": "$20.00",
+    "verified": true
+   }
+  ],
+  "note": "Amazon links were assorted ceramic sets of 4-12 oz; this is a plain white oven-safe porcelain ramekin sold singly or by the case (Restaurant Supply 403s curl; Sur La Table alternatives are verified)."
+ },
+ {
+  "id": "rice-cooker",
+  "name": "Rice Cooker",
+  "status": "match",
+  "kind": "same",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B00007J5U7",
+    "B007WQ9YNO",
+    "B016Y8JSK4"
+   ],
+   "title": "Amazon.com: Zojirushi Ns ZCC10 Neuro Fuzzy Rice Cooker and Warmer (White) | Automatic keep-warm, delay timer: Rice Cookers Zojirushi: Home & Kitchen",
+   "anchors": [
+    "rice cooker",
+    "rice-cooker"
+   ],
+   "links": 6,
+   "posts": 5,
+   "example_post": "coconut-rice-with-black-beans-plantains-and-mango-salsa-recipe"
+  },
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "Zojirushi Neuro Fuzzy Rice Cooker & Warmer, 10 cup (NS-ZCC10)",
+   "url": "https://www.surlatable.com/zojirushi-neuro-fuzzy-rice-cooker-warmer-10-cup/PRO-581603.html",
+   "epc": 0.06,
+   "rate": 9,
+   "price": "$197.99",
+   "verified": true
+  },
+  "alternatives": [
+   {
+    "merchant": "Hamilton Beach",
+    "product": "Hamilton Beach 6-Cup (Cooked) Digital Rice Cooker",
+    "url": "https://hamiltonbeach.com/6-cup-capacity-cooked-digital-rice-cooker-37506",
+    "epc": 0.02,
+    "rate": 8,
+    "price": null,
+    "verified": true
+   }
+  ],
+  "note": "Same Zojirushi model as the first Amazon link; the Hamilton Beach alternative is a budget digital cooker comparable to the Aroma listing."
+ },
+ {
+  "id": "the-spice-way-pure-ground-sumac-spice-4-oz",
+  "name": "The Spice Way Pure Ground Sumac Spice, 4 oz",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B07NVVT8DF",
+    "B07R4LL17V"
+   ],
+   "title": "Amazon.com: The Spice Way Pure 100% Ground Sumac 4 oz Sumakh Seasoning Powder No Salt | Salt-free tart sumac for salads, yogurt, hummus, meats and rice; also known as sumak; Kosher Certified; Resealable Bag",
+   "anchors": [
+    "Sumac powder",
+    "ground sumac",
+    "sumac",
+    "sumac powder"
+   ],
+   "links": 6,
+   "posts": 6,
+   "example_post": "biscuits-big-jo"
+  },
+  "primary": {
+   "merchant": "Nuts.com",
+   "product": "Ground Sumac",
+   "url": "https://nuts.com/cookingbaking/herbsspices/spices/ground-sumac.html",
+   "epc": 0.38,
+   "rate": 20,
+   "price": null,
+   "verified": true
+  },
+  "alternatives": [
+   {
+    "merchant": "Savory Spice Shop",
+    "product": "Ground Sumac Berries",
+    "url": "https://www.savoryspiceshop.com/spices/ground-sumac",
+    "epc": 0.33,
+    "rate": 15,
+    "price": "$10.95",
+    "verified": true
+   }
+  ],
+  "note": "Plain ground sumac from a different brand than The Spice Way; both pages 429 to curl but were found in search."
+ },
+ {
+  "id": "toasted-sesame-oil",
+  "name": "Toasted Sesame Oil",
+  "status": "match",
+  "kind": "same",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B002HMN6SC",
+    "B00QGWLZ3C"
+   ],
+   "title": "Amazon.com : La Tourangelle, Toasted Sesame Oil, Great for Cooking, Add to Noodles, Stir-Fry, Vegetables, Vinaigrettes, and Marinades, 8.45 Fl Oz : Grocery & Gourmet Food",
+   "anchors": [
+    "Toasted Asian sesame oil",
+    "Toasted sesame oil",
+    "sesame oil",
+    "toasted (Asian) sesame oil",
+    "toasted sesame oil"
+   ],
+   "links": 6,
+   "posts": 6,
+   "example_post": "bibim-naegnmyeon-joll-noodles-cold-and-spicy-korean-noodles-recipe"
+  },
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "La Tourangelle Toasted Sesame Oil",
+   "url": "https://www.surlatable.com/la-tourangelle-toasted-sesame-oil/PRO-3619699.html",
+   "epc": 0.06,
+   "rate": 9,
+   "price": null,
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Same La Tourangelle toasted sesame oil as the first Amazon listing (bottle size may differ)."
+ },
+ {
+  "id": "aromas-of-aleppo-the-legendary-cuisine-of",
+  "name": "Aromas of Aleppo: the Legendary Cuisine of Syrian Jews",
+  "status": "match",
+  "kind": "book",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "0060888180"
+   ],
+   "title": "Aromas of Aleppo: The Legendary Cuisine of Syrian Jews \u2015 A Cookbook of Aleppian Jewish Cuisine: Poopa Dweck, Michael J. Cohen, Quentin Bacon: 9780060888183: Amazon.com: Books",
+   "anchors": [
+    "Aromas of Aleppo, The Legendary Cuisine of Syrian Jews",
+    "Aromas of Aleppo, The Legendary Cuisine of Syrian Jews."
+   ],
+   "links": 5,
+   "posts": 3,
+   "example_post": "recipe-atayef"
+  },
+  "primary": {
+   "merchant": "Barnes & Noble",
+   "product": "Aromas of Aleppo: The Legendary Cuisine of Syrian Jews",
+   "url": "https://www.barnesandnoble.com/w/aromas-of-aleppo-poopa-dweck/1111667070",
+   "epc": 0.01,
+   "rate": 5.15,
+   "price": null,
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "B&N page for the Poopa Dweck HarperCollins cookbook (ISBN 9780060888183 on Amazon); edition on the B&N page not confirmed beyond title and author."
+ },
+ {
+  "id": "chili-de-arbol",
+  "name": "Chili de Arbol",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B07TYNF3ND"
+   ],
+   "title": "Amazon.com : Chile De Arbol 4oz - Dried Whole Red Chili Peppers, Premium All Natural Stemless, Resealable Bag. Use in Mexican, Chinese and Thai Dishes. Spicy Hot Heat Full of Flavor : Grocery & Gourmet Food",
+   "anchors": [
+    "Chile de arbol",
+    "chile de arbol",
+    "chili de arbol"
+   ],
+   "links": 5,
+   "posts": 5,
+   "example_post": "gorditas-with-roasted-mushrooms-recipe"
+  },
+  "primary": {
+   "merchant": "Nuts.com",
+   "product": "Dried De Arbol Peppers (Stemless)",
+   "url": "https://nuts.com/cookingbaking/mexican/dried-de-arbol-peppers-without-stem.html",
+   "epc": 0.38,
+   "rate": 20,
+   "price": "$14.99",
+   "verified": false,
+   "broken": true
+  },
+  "alternatives": [
+   {
+    "merchant": "The Spice House",
+    "product": "Chile de Arbol Peppers",
+    "url": "https://www.thespicehouse.com/chile-de-arbol-peppers",
+    "epc": 0.21,
+    "rate": 15,
+    "price": null,
+    "verified": false,
+    "broken": true
+   }
+  ],
+  "note": "Whole dried stemless chiles de arbol, like the Amazon item but a different brand and size; pages 429 to curl."
+ },
+ {
+  "id": "dried-ancho-chilis",
+  "name": "Dried Ancho Chilis",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B07SLFM6W7"
+   ],
+   "title": "Amazon.com : Dried Ancho Chiles Peppers 4 oz \u2013 Natural & Premium for Authentic Mexican Mole, Sauces, Stews, Salsas, and More! Sweet & Smoky Flavor with Mild to Medium Heat to Elevate Your Favorite Recipes. : Grocery & Gourmet Food",
+   "anchors": [
+    "ancho chili",
+    "ancho chilis",
+    "dried ancho chilis",
+    "dried chiles"
+   ],
+   "links": 5,
+   "posts": 4,
+   "example_post": "nuevo-leon-style-tamales-adapted-to-be-vegetarian-recipe"
+  },
+  "primary": {
+   "merchant": "Nuts.com",
+   "product": "Dried Ancho Chile Peppers",
+   "url": "https://nuts.com/cookingbaking/mexican/dried-ancho-chile-peppers.html",
+   "epc": 0.38,
+   "rate": 20,
+   "price": null,
+   "verified": true
+  },
+  "alternatives": [
+   {
+    "merchant": "The Spice House",
+    "product": "Ancho Chiles",
+    "url": "https://thespicehouse.com/products/ancho-chiles",
+    "epc": 0.21,
+    "rate": 15,
+    "price": null,
+    "verified": false,
+    "broken": true
+   }
+  ],
+  "note": "Whole dried ancho chiles, different brand than the Amazon pack; pages 429 to curl."
+ },
+ {
+  "id": "dried-kaffir-lime-leaves",
+  "name": "Dried Kaffir Lime Leaves",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B00PKRTNF6",
+    "B00TZ8BK5W",
+    "B0CY8JH83F"
+   ],
+   "title": "Amazon.com : Burma Spice Kaffir Lime Leaves, Dried | Key Ingredient in Thai cuisine | USA grown and packaged | Whole uncrumpled leaves | Farm to table in days : Grocery & Gourmet Food",
+   "anchors": [
+    "kaffir lime leaf",
+    "kaffir lime leaves"
+   ],
+   "links": 5,
+   "posts": 5,
+   "example_post": "recipe-kaffir-l"
+  },
+  "primary": {
+   "merchant": "SayWeee.com",
+   "product": "Nirav Dry Kaffir Lime Leaves (Bai Makrut), 0.33 oz",
+   "url": "https://www.sayweee.com/en/product/Nirav-Dry-Kaffir-Lime-Leaves-Bai-Makrut-1-3-oz-pack/2067088",
+   "epc": null,
+   "rate": 10,
+   "price": null,
+   "verified": true
+  },
+  "alternatives": [
+   {
+    "merchant": "SayWeee.com",
+    "product": "Makrut Lime Leaves, 0.21 oz",
+    "url": "https://www.sayweee.com/zh/product/Makrut-Lime-leaves/2013195",
+    "epc": null,
+    "rate": 10,
+    "price": "$14.99",
+    "verified": true
+   }
+  ],
+  "note": "Dried whole kaffir (makrut) lime leaves; Weee has no EPC data and the pack is small. The Spice House sells them too but I could not confirm a working URL."
+ },
+ {
+  "id": "fine-mesh-sieve",
+  "name": "Fine Mesh Sieve",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B0000CFN5C",
+    "B007TUQF9O"
+   ],
+   "title": "Amazon.com: Cuisinart 3-Piece Mesh Strainer Set, Colander for Kitchen, CTG-00-3MS | 3 sizes, fine stainless steel mesh with long handles, 3-piece pasta strainer and rice strainer, colander for kitchen: Home & Kitchen",
+   "anchors": [
+    "fine mesh sieve",
+    "fine meshed sieve",
+    "fine sieve",
+    "finer sieve",
+    "finest strainer"
+   ],
+   "links": 5,
+   "posts": 5,
+   "example_post": "dragonfruit-dra"
+  },
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "Rosle Fine-Mesh Kitchen Strainer with Round Handle",
+   "url": "https://www.surlatable.com/product/rosle-fine-mesh-kitchen-strainer-with-round-handle/987453",
+   "epc": 0.06,
+   "rate": 9,
+   "price": "$28.00",
+   "verified": true
+  },
+  "alternatives": [
+   {
+    "merchant": "OXO",
+    "product": "OXO Good Grips 3-Piece Strainer Set",
+    "url": "https://www.oxo.com/oxo-good-grips-3-piece-strainer-set.html",
+    "epc": 0.04,
+    "rate": 15,
+    "price": null,
+    "verified": false
+   }
+  ],
+  "note": "Generic fine-mesh strainer, not the Cuisinart set; Rosle is a pricier stainless one, the OXO 3-piece set is closest to the Cuisinart 3-piece (oxo.com 403s curl)."
+ },
+ {
+  "id": "fleur-de-sel-de-ile-de-re",
+  "name": "Fleur de Sel de Ile de Re",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B0002FGY9O"
+   ],
+   "title": "Amazon.com : Le Saunier de Camargue Fleur de Sel \u2013 French Sea Salt Finishing Salt \u2013 Gourmet Hand-Harvested Flaky Salt in Resealable Cork-Topped Container \u2013 125g : Grocery & Gourmet Food",
+   "anchors": [
+    "Fleur De Sel de Ile De Re",
+    "fleur de sel",
+    "hundreds more"
+   ],
+   "links": 5,
+   "posts": 4,
+   "example_post": "interview-with-mark-bitterman-leading-expert-on-culinary-salts"
+  },
+  "primary": {
+   "merchant": "Savory Spice Shop",
+   "product": "French Fleur de Sel",
+   "url": "https://www.savoryspiceshop.com/products/french-fleur-de-sel-sea-salt",
+   "epc": 0.33,
+   "rate": 15,
+   "price": "$14.95",
+   "verified": true
+  },
+  "alternatives": [
+   {
+    "merchant": "The Spice House",
+    "product": "Fleur de Sel French Sea Salt",
+    "url": "https://thespicehouse.com/products/fleur-de-sel-french-sea-salt",
+    "epc": 0.21,
+    "rate": 15,
+    "price": null,
+    "verified": true
+   }
+  ],
+  "note": "French hand-harvested fleur de sel; the Amazon item was Le Saunier de Camargue, not specifically Ile de Re, and this is a different brand (pages 429 to curl)."
+ },
+ {
+  "id": "garam-masala",
+  "name": "Garam Masala",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B00309S13Q"
+   ],
+   "title": "Amazon.com: Rani Garam Masala Indian 11-Spice Blend 3oz (85g) PET Jar ~ All Natural, Salt-Free | Vegan | No Colors | Gluten Friendly | NON-GMO | Kosher | Indian Origin : Health & Household",
+   "anchors": [
+    "garam masala"
+   ],
+   "links": 5,
+   "posts": 5,
+   "example_post": "beet-curry-recipe-1"
+  },
+  "primary": {
+   "merchant": "Savory Spice Shop",
+   "product": "Garam Masala",
+   "url": "https://www.savoryspiceshop.com/garam-masala",
+   "epc": 0.33,
+   "rate": 15,
+   "price": "$11.95",
+   "verified": true
+  },
+  "alternatives": [
+   {
+    "merchant": "The Spice House",
+    "product": "Garam Masala",
+    "url": "https://www.thespicehouse.com/products/garam-masala",
+    "epc": 0.21,
+    "rate": 15,
+    "price": null,
+    "verified": true
+   }
+  ],
+  "note": "Salt-free, chile-free garam masala like the Rani blend but a different brand (pages 429 to curl)."
+ },
+ {
+  "id": "ghee",
+  "name": "ghee",
+  "status": "match",
+  "kind": "same",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B00VXQGY28"
+   ],
+   "title": "Amazon.com : 4th & Heart Original Grass Fed Ghee, Clarified Butter, 9 oz. | 100% Butterfat, Pasture-Raised, Supports Gut Health, Lactose & Casein Free, High Smoke Point, Keto & Paleo, Shelf-Stable. : Grocery & Gourmet Food",
+   "anchors": [
+    "ghee"
+   ],
+   "links": 5,
+   "posts": 5,
+   "example_post": "chana-mushroom-masala-recipe"
+  },
+  "primary": {
+   "merchant": "Thrive Market",
+   "product": "Fourth & Heart Grass-Fed Original Ghee",
+   "url": "https://thrivemarket.com/p/fourth-and-heart-grass-fed-original-ghee",
+   "epc": 0.06,
+   "rate": 45,
+   "price": null,
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Same 4th & Heart original ghee. iHerb (higher EPC 0.13) likely carries it too, but I could not find a product URL."
+ },
+ {
+  "id": "gochugaru-a-korean-chili-powder",
+  "name": "Gochugaru, a Korean Chili Powder",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B004W71CJU",
+    "B005G8IDTQ",
+    "B0BZ65ZD79"
+   ],
+   "title": "Amazon.com : The Spice Way Gochugaru Korean Red Pepper Flakes 8 oz Perfect for Kimchi | Gochugaru seasoning with moderate heat for kimchi, stir-fries, soups and sauces; Kosher Certified; Resealable Bag : Grocery & Gourmet Food",
+   "anchors": [
+    "Korean chili powder (gochugaru)",
+    "gochugaru (Korean chili powder",
+    "gochugaru (Korean chili powder)",
+    "gochugaru, a Korean chili powder"
+   ],
+   "links": 5,
+   "posts": 3,
+   "example_post": "quick-green-apple-kimchi-recipe"
+  },
+  "primary": {
+   "merchant": "The Spice House",
+   "product": "Gochugaru Chiles",
+   "url": "https://thespicehouse.com/products/gochugaru-chiles",
+   "epc": 0.21,
+   "rate": 15,
+   "price": null,
+   "verified": true
+  },
+  "alternatives": [
+   {
+    "merchant": "Burlap & Barrel",
+    "product": "Gochugaru Chili Flakes",
+    "url": "https://burlapandbarrel.com/products/gochugaru-chili-flakes",
+    "epc": 0.11,
+    "rate": 12,
+    "price": null,
+    "verified": true
+   },
+   {
+    "merchant": "ChefShop.com",
+    "product": "Gochugaru Korean Chili Flakes",
+    "url": "https://chefshop.com/products/gochugaru-korean-chili-flakes",
+    "epc": null,
+    "rate": 7,
+    "price": null,
+    "verified": true
+   }
+  ],
+  "note": "Korean gochugaru flakes from a different brand than The Spice Way (pages 429 to curl)."
+ },
+ {
+  "id": "immersion-blender",
+  "name": "Immersion Blender",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B08F2SS6T2",
+    "B09X27HV7X",
+    "B0CPLVLFK2"
+   ],
+   "title": "Amazon.com: Turelar Immersion Blender Handheld Corded, 1100W 5 in 1 Hand Blender Set | Trigger Variable Speed, Emulsion Stick Mixer with Food Processor, Whisk, Frother, for Soup, Puree, Baby Food, Anti-scratch: Home & Kitchen",
+   "anchors": [
+    "immersion blender",
+    "immersion blender (aka stick blender)"
+   ],
+   "links": 5,
+   "posts": 5,
+   "example_post": "black-bean-soup-recipe"
+  },
+  "primary": {
+   "merchant": "Vitamix",
+   "product": "Vitamix 5-Speed Immersion Blender",
+   "url": "https://www.vitamix.com/us/en_us/products/5-speed-immersion-blender",
+   "epc": 0.24,
+   "rate": 15,
+   "price": "$144.95",
+   "verified": true
+  },
+  "alternatives": [
+   {
+    "merchant": "Breville",
+    "product": "Breville Control Grip Immersion Blender",
+    "url": "https://www.breville.com/us/en/products/immersion-blenders/bsb510.html",
+    "epc": 0.13,
+    "rate": 15,
+    "price": null,
+    "verified": true
+   },
+   {
+    "merchant": "Kitchenaid US",
+    "product": "KitchenAid Variable Speed Corded Hand Blender KHBV53",
+    "url": "https://www.kitchenaid.com/countertop-appliances/hand-blenders/hand-blender-products/p.KHBV53DG.html",
+    "epc": 0.01,
+    "rate": 1,
+    "price": null,
+    "verified": false
+   }
+  ],
+  "note": "Higher-quality and pricier than the budget Amazon picks; the KitchenAid alternative is the same model as the second Amazon listing (kitchenaid.com 403s curl)."
+ },
+ {
+  "id": "kikkoman-panko-japanese-style-bread-crumbs",
+  "name": "Kikkoman Panko Japanese Style Bread Crumbs",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B000WD3PZM"
+   ],
+   "title": "Amazon.com: Kikkoman Panko Japanese Style Bread Crumbs, 8 Oz : Grocery & Gourmet Food",
+   "anchors": [
+    "panko",
+    "panko breadcrumbs",
+    "panko works well"
+   ],
+   "links": 5,
+   "posts": 5,
+   "example_post": "eggplant-parmes"
+  },
+  "primary": {
+   "merchant": "Nuts.com",
+   "product": "Panko Bread Crumbs",
+   "url": "https://nuts.com/cookingbaking/flours/panko-bread-crumbs.html",
+   "epc": 0.38,
+   "rate": 20,
+   "price": null,
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Plain panko, not Kikkoman brand (Kikkoman is not in the network); Nuts.com page 429s curl and sells larger sizes."
+ },
+ {
+  "id": "mastering-the-art-of-french-cooking-vol-1-50th",
+  "name": "Mastering the Art of French Cooking, Vol. 1 (50th Anniversary Edition)",
+  "status": "match",
+  "kind": "book",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "0375413405"
+   ],
+   "title": "Mastering the Art of French Cooking, Volume I: 50th Anniversary Edition: A Cookbook: Julia Child, Louisette Bertholle, Simone Beck, Sidonie Coryn: 0884564554267: Amazon.com: Books",
+   "anchors": [
+    "Mastering The Art of French Cooking",
+    "Mastering the Art",
+    "Mastering the Art of French Cooking",
+    "Mastering the Art of French Cooking, Volume 1"
+   ],
+   "links": 5,
+   "posts": 4,
+   "example_post": "crepes-with-roasted-french-plums-yogurt-and-honey"
+  },
+  "primary": {
+   "merchant": "Barnes & Noble",
+   "product": "Mastering the Art of French Cooking, Volume 1 (hardcover)",
+   "url": "https://www.barnesandnoble.com/w/mastering-the-art-of-french-cooking-volume-1/julia-child/1017372212",
+   "epc": 0.01,
+   "rate": 5.15,
+   "price": "$45.00",
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Hardcover ISBN 9780375413407 matches the Amazon ASIN 0375413405 (same ISBN-10); B&N titles it without the 50th Anniversary label."
+ },
+ {
+  "id": "pomegranate-molasses",
+  "name": "Pomegranate Molasses",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B000LRKO9E",
+    "B0014ET3OA",
+    "B004A6ET3O",
+    "B0CRL8HR8S"
+   ],
+   "title": "Amazon.com: Pomegranate Molasses (Sultan) 9.5fl.oz : Grocery & Gourmet Food",
+   "anchors": [
+    "pomegranate molasses"
+   ],
+   "links": 5,
+   "posts": 5,
+   "example_post": "grilled-peaches"
+  },
+  "primary": {
+   "merchant": "Savory Spice Shop",
+   "product": "Pomegranate Molasses",
+   "url": "https://savoryspiceshop.com/collections/all-recipes/products/pomegranate-molasses",
+   "epc": 0.33,
+   "rate": 15,
+   "price": null,
+   "verified": true
+  },
+  "alternatives": [
+   {
+    "merchant": "The Mediterranean Dish",
+    "product": "Pomegranate Molasses",
+    "url": "https://shop.themediterraneandish.com/products/pomegranate-molasses",
+    "epc": 0.25,
+    "rate": 10,
+    "price": null,
+    "verified": true
+   },
+   {
+    "merchant": "Burlap & Barrel",
+    "product": "Pomegranate Molasses",
+    "url": "https://burlapandbarrel.com/products/pomegranate-molasses",
+    "epc": 0.11,
+    "rate": 12,
+    "price": null,
+    "verified": true
+   }
+  ],
+  "note": "Pomegranate molasses but not the Sultan brand from Amazon (pages 429 to curl)."
+ },
+ {
+  "id": "pure-vanilla-extract",
+  "name": "Pure Vanilla Extract",
+  "status": "match",
+  "kind": "same",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B0000VLU0I",
+    "B000V8DHEC",
+    "B005MIWPGC"
+   ],
+   "title": "Amazon.com: Nielsen-Massey Madagascar Bourbon Pure Vanilla Extract for Baking and Cooking, 4 Ounce Bottle : Grocery & Gourmet Food",
+   "anchors": [
+    "pure vanilla extract",
+    "vanilla extract"
+   ],
+   "links": 5,
+   "posts": 5,
+   "example_post": "caramelized-banana-and-buttermilk-panna-cotta-vegetarian-panna-cotta-recipe"
+  },
+  "primary": {
+   "merchant": "King Arthur Baking",
+   "product": "Nielsen-Massey Madagascar Bourbon Vanilla Extract, 4 oz",
+   "url": "https://shop.kingarthurbaking.com/items/madagascar-bourbon-vanilla-extract-4-oz",
+   "epc": 0.08,
+   "rate": 5,
+   "price": null,
+   "verified": true
+  },
+  "alternatives": [
+   {
+    "merchant": "Savory Spice Shop",
+    "product": "Pure Madagascar Vanilla Extract",
+    "url": "https://www.savoryspiceshop.com/products/pure-madagascar-vanilla-extract",
+    "epc": 0.33,
+    "rate": 15,
+    "price": "$29.95",
+    "verified": true
+   },
+   {
+    "merchant": "Sur La Table",
+    "product": "Nielsen-Massey Madagascar Bourbon Pure Vanilla Extract",
+    "url": "https://www.surlatable.com/product/nielsen-massey-madagascar-bourbon-pure-vanilla-extract/14521",
+    "epc": 0.06,
+    "rate": 9,
+    "price": null,
+    "verified": true
+   }
+  ],
+  "note": "Same Nielsen-Massey bottle as the Amazon link at King Arthur and Sur La Table; Savory has the higher EPC (0.33) but is a different brand and larger bottle."
+ }
+]

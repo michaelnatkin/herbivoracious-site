@@ -1,0 +1,736 @@
+[
+ {
+  "id": "rani-asafetida-hing-ground-3-75oz",
+  "name": "Rani Asafetida (Hing) Ground 3.75oz",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B000MUX3D4",
+    "B006POH22Y",
+    "B07C8FHVTT"
+   ],
+   "title": "Amazon.com : Rani Asafetida Powder (Hing, Asafoetida) 3.75 oz (106 g) Jar - Onion & Garlic Substitute for Dal, Curry & Jain Cooking | All Natural, Salt-Free, Vegan, Kosher, Non-GMO : Asafetida Spices And Herbs : Grocery & Gourmet Food",
+   "anchors": [
+    "(hing)",
+    "asafetida powder",
+    "asafoetida (hing)",
+    "asafoetida, otherwise known as hing",
+    "powder"
+   ],
+   "links": 5,
+   "posts": 4,
+   "example_post": "gobi-masala-cauliflower-curry-recipe"
+  },
+  "primary": {
+   "merchant": "Savory Spice Shop",
+   "product": "Asafetida (Hing), 2.95oz jar",
+   "url": "https://savoryspiceshop.com/products/asafetida",
+   "epc": 0.33,
+   "rate": 15,
+   "price": null,
+   "verified": true
+  },
+  "alternatives": [
+   {
+    "merchant": "The Spice House",
+    "product": "Asafoetida Powder",
+    "url": "https://www.thespicehouse.com/products/asafoetida-powder",
+    "epc": 0.21,
+    "rate": 15,
+    "price": null,
+    "verified": true
+   }
+  ],
+  "note": "Same kind of ground asafetida (hing) but not the Rani brand; Savory Spice Shop page showed up in search but its site blocked my automated check (429), so verify the link by hand."
+ },
+ {
+  "id": "spice-grinder",
+  "name": "Spice Grinder",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B001C2GWTI",
+    "B07SYTRPSG",
+    "B0FL2WH8K1"
+   ],
+   "title": "Amazon.com: Amazon Basics Fast Electric Coffee Grinder for Home Use, Easy to Use Coffee Bean and Spice Grinder with Heavy-Duty Stainless Steel Grind Blades: Home & Kitchen",
+   "anchors": [
+    "coffee grinder",
+    "spice grinder"
+   ],
+   "links": 5,
+   "posts": 5,
+   "example_post": "chile-con-limon-mexican-sour-spicy-condiment"
+  },
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "Krups Fast-Touch Coffee and Spice Grinder",
+   "url": "https://www.surlatable.com/product/1444132.html",
+   "epc": 0.06,
+   "rate": 9,
+   "price": "$26.95",
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "A Krups blade coffee/spice grinder, the same kind of tool as the Amazon Basics and Cuisinart grinders originally linked."
+ },
+ {
+  "id": "tamari",
+  "name": "Tamari",
+  "status": "match",
+  "kind": "same",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B000QWXIZQ",
+    "B00NN05FXQ"
+   ],
+   "title": "Amazon.com : Kikkoman Gluten Free Tamari Soy Sauce, 10 Ounce : Grocery & Gourmet Food",
+   "anchors": [
+    "tamari"
+   ],
+   "links": 5,
+   "posts": 5,
+   "example_post": "shiitake-congee-and-a-challenge"
+  },
+  "primary": {
+   "merchant": "Thrive Market",
+   "product": "San-J Organic Tamari Gluten-Free Soy Sauce",
+   "url": "https://thrivemarket.com/san-j-international-organic-tamari-gluten-free-soy-sauce",
+   "epc": 0.06,
+   "rate": 45,
+   "price": "$12.49",
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "San-J tamari, one of the two brands the Amazon links pointed to; not Kikkoman. Thrive Market has a low EPC but a 45% rate; I found no higher-EPC merchant that stocks tamari."
+ },
+ {
+  "id": "the-tartine-cookbook",
+  "name": "The Tartine Cookbook",
+  "status": "match",
+  "kind": "book",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "0811851508"
+   ],
+   "title": "Tartine (Baking Cookbooks, Pastry Books, Dessert Cookbooks, Gifts for Pastry Chefs): Elisabeth M. Prueitt, Chad Robertson, France Ruffenach, Alice Waters: 9780811851503: Amazon.com: Books",
+   "anchors": [
+    "Tartine",
+    "a link to buy it on Amazon",
+    "the Tartine cookbook"
+   ],
+   "links": 5,
+   "posts": 4,
+   "example_post": "baked-eggs-with-chanterelles-and-chard-recipe"
+  },
+  "primary": {
+   "merchant": "Barnes & Noble",
+   "product": "Tartine: Revised Edition: A Classic Revisited (Elisabeth Prueitt, Chad Robertson)",
+   "url": "https://www.barnesandnoble.com/w/tartine-elisabeth-prueitt/1132011750",
+   "epc": 0.01,
+   "rate": 5.15,
+   "price": null,
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "B&N lists only the 2019 Revised Edition (ISBN 9780063377684 is not the original); the Amazon link was the original 2006 edition (9780811851503), which is a different book with fewer recipes."
+ },
+ {
+  "id": "toasted-sesame-seeds",
+  "name": "Toasted Sesame Seeds",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B00J40TP1C",
+    "B00NWC8K3C",
+    "B0B197F3N9"
+   ],
+   "title": "Amazon.com : Rodelle Toasted Natural Sesame Seeds, No Artificial Flavors, Kosher, 18 Oz | Nutty toasted sesame seeds for salads, stir-fries, baking and garnish, no artificial flavors, kosher : Grocery & Gourmet Food",
+   "anchors": [
+    "toasted sesame seeds"
+   ],
+   "links": 5,
+   "posts": 5,
+   "example_post": "goat-cheese-asparagus-and-beet-salad-with-herb-flowers-recipe"
+  },
+  "primary": {
+   "merchant": "Savory Spice Shop",
+   "product": "Toasted Sesame Seeds",
+   "url": "https://savoryspiceshop.com/products/toasted-sesame-seeds",
+   "epc": 0.33,
+   "rate": 15,
+   "price": null,
+   "verified": true
+  },
+  "alternatives": [
+   {
+    "merchant": "The Spice House",
+    "product": "Toasted Sesame Seeds",
+    "url": "https://www.thespicehouse.com/products/toasted-sesame-seeds",
+    "epc": 0.21,
+    "rate": 15,
+    "price": null,
+    "verified": true
+   }
+  ],
+  "note": "Plain toasted sesame seeds in small jars rather than Rodelle (18oz) or Kevala (2lb) bulk bags; Nuts.com should carry them but I could not find a product URL."
+ },
+ {
+  "id": "whole-wheat-pastry-flour",
+  "name": "Whole Wheat Pastry Flour",
+  "status": "match",
+  "kind": "same",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B000YFD2CE",
+    "B074VD2ZKF",
+    "B08BFD4M3Y"
+   ],
+   "title": "Amazon.com : Sunrise Flour Mill USDA Organic Heritage Whole Wheat Pastry Flour - 2 lbs | Great for Gluten Sensitive People | Easier to Digest with Less Bloating | No Bleaching or Bromating | Zero Additives : Grocery & Gourmet Food",
+   "anchors": [
+    "whole wheat pastry flour",
+    "whole-wheat pastry flour"
+   ],
+   "links": 5,
+   "posts": 5,
+   "example_post": "dhal-puri-roti-caribbean-lentil-stuffed-flatbread-recipe"
+  },
+  "primary": {
+   "merchant": "King Arthur Baking",
+   "product": "Whole Wheat Pastry Flour (King Arthur)",
+   "url": "https://shop.kingarthurbaking.com/items/whole-wheat-pastry-flour-graham-flour",
+   "epc": 0.08,
+   "rate": 5,
+   "price": null,
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "King Arthur whole wheat pastry flour instead of Sunrise Flour Mill or Bob's Red Mill; Nuts.com sells an organic version (higher EPC) but I could not get a working product URL."
+ },
+ {
+  "id": "5-5-quart-le-creuset-pot",
+  "name": "5.5 Quart Le Creuset Pot",
+  "status": "match",
+  "kind": "same",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B00004SBH4",
+    "B00VA5HG0Q"
+   ],
+   "title": "Amazon.com: Le Creuset Enameled Cast-Iron 5-1/2-Quart Round French Oven, Flame: Dutch Ovens: Home & Kitchen",
+   "anchors": [
+    "5.5 quart Le Creuset pot",
+    "Le Creuset 5.5 quart French Oven",
+    "pots are a sizable investment"
+   ],
+   "links": 4,
+   "posts": 2,
+   "example_post": "minestrone"
+  },
+  "primary": {
+   "merchant": "Le Creuset",
+   "product": "Signature Round Dutch Oven, 5.5 qt",
+   "url": "https://www.lecreuset.com/signature-round-dutch-oven/21177026717041.html",
+   "epc": 0.07,
+   "rate": 10,
+   "price": null,
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Same pot direct from Le Creuset; the page defaults to one color and size options include 5.5 qt, so pick the 5.5 qt on the page (the original was Flame/Cerise)."
+ },
+ {
+  "id": "abc-kecap-manis-indonesian-special-sweet-soy",
+  "name": "ABC Kecap Manis Indonesian Special Sweet Soy Sauce",
+  "status": "match",
+  "kind": "same",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B000249E5Q",
+    "B00886AVOI",
+    "B095JJC7FS"
+   ],
+   "title": "Amazon.com : ABC Kecap Manis Indonesian Special Sweet Soy Sauce - 20 OZ : Grocery & Gourmet Food",
+   "anchors": [
+    "kecap manis",
+    "sweet soy sauce (kecap manis)"
+   ],
+   "links": 4,
+   "posts": 4,
+   "example_post": "vietnamese-vermicelli-bun-with-ginger-grapefruit-sauce-recipe"
+  },
+  "primary": {
+   "merchant": "SayWeee.com",
+   "product": "ABC Sweet Soy Sauce (Kecap Manis), Original Flavor 20 oz",
+   "url": "https://www.sayweee.com/en/product/ABC-Sweet-Soy-Sauce--Original-Flavor/4586",
+   "epc": null,
+   "rate": 10,
+   "price": null,
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Exactly the same ABC Kecap Manis, 20 oz bottle."
+ },
+ {
+  "id": "agave-nectar",
+  "name": "Agave Nectar",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B0078DP4IK",
+    "B00B3LNQAI"
+   ],
+   "title": "Amazon.com : Agave In The Raw, Organic Agave Nectar, 18.5 oz | Made With Organic Blue Agave From Mexico, USDA Organic, Non-GMO Project Verified, Kosher Vegan and Low Glycemic Index : Agave Nectar And Syrup : Grocery & Gourmet Food",
+   "anchors": [
+    "agave nectar"
+   ],
+   "links": 4,
+   "posts": 4,
+   "example_post": "hungry-ghost-moroccan-carrot-salad-recipe"
+  },
+  "primary": {
+   "merchant": "iHerb.com",
+   "product": "In the Raw Organic Agave, Light, 18.5 oz",
+   "url": "https://www.iherb.com/pr/in-the-raw-organic-agave-in-the-raw-light-agave-18-5-oz-525-g/146627",
+   "epc": 0.13,
+   "rate": 15,
+   "price": null,
+   "verified": false
+  },
+  "alternatives": [
+   {
+    "merchant": "iHerb.com",
+    "product": "Wholesome Sweeteners Organic Blue Agave Nectar, 18.5 oz",
+    "url": "https://www.iherb.com/pr/wholesome-sweeteners-organic-blue-agave-nectar-18-5-oz-525-g/147658",
+    "epc": 0.13,
+    "rate": 15,
+    "price": null,
+    "verified": false
+   }
+  ],
+  "note": "Same brand and size as the Amazon listing (Agave In The Raw organic, 18.5 oz), but the light variety; iHerb blocks automated checks (403) so links are unverified."
+ },
+ {
+  "id": "balinese-long-pepper",
+  "name": "Balinese Long Pepper",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B000C037EY",
+    "B000PDXE46",
+    "B0015MN7XO",
+    "B0BF5QY1Y2"
+   ],
+   "title": "Page Not Found",
+   "anchors": [
+    "Balinese Long Pepper",
+    "Long pepper",
+    "long pepper"
+   ],
+   "links": 4,
+   "posts": 4,
+   "example_post": "salt-crazy-my-f"
+  },
+  "primary": {
+   "merchant": "The Spice House",
+   "product": "Long Pepper (whole)",
+   "url": "https://www.thespicehouse.com/products/long-pepper",
+   "epc": 0.21,
+   "rate": 15,
+   "price": null,
+   "verified": true
+  },
+  "alternatives": [
+   {
+    "merchant": "ChefShop.com",
+    "product": "Organic Long Pepper",
+    "url": "https://chefshop.com/Organic-Long-Pepper-P6190.aspx",
+    "epc": null,
+    "rate": 7,
+    "price": null,
+    "verified": true
+   }
+  ],
+  "note": "Whole long pepper (Piper longum, from Cambodia) rather than specifically Balinese; the Amazon pages are dead so exact origin is unknown."
+ },
+ {
+  "id": "cento-san-marzano-tomatoes",
+  "name": "Cento San Marzano Tomatoes",
+  "status": "match",
+  "kind": "same",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B000WHOX4E",
+    "B00132E3SY",
+    "B004NPNBO0",
+    "B007K5EUWC"
+   ],
+   "title": "Page Not Found",
+   "anchors": [
+    "San Marzano",
+    "good quality whole Italian tomatoes",
+    "tomatoes"
+   ],
+   "links": 4,
+   "posts": 4,
+   "example_post": "fresh-fettuccine-with-broccoli-raab-in-a-lemony-tomato-sauce-recipe"
+  },
+  "primary": {
+   "merchant": "SayWeee.com",
+   "product": "Cento San Marzano Peeled Tomatoes, 28 oz",
+   "url": "https://www.sayweee.com/en/product/Cento-San-Marzano-Peeled-Tomatoes/48386",
+   "epc": null,
+   "rate": 10,
+   "price": "$9.99",
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Same Cento San Marzano whole peeled tomatoes, 28 oz can; the Amazon link may have been the organic variety."
+ },
+ {
+  "id": "chanterelle-mushrooms",
+  "name": "Chanterelle Mushrooms",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "low",
+  "amazon": {
+   "asins": [
+    "B007RAM3VK",
+    "B0BK2VSP7N"
+   ],
+   "title": "Amazon.com: Forest Food Shop Dried Chanterelle Mushrooms 3 Ounce \u2013 Handpicked from Wild Forests, Air-Dried Mushrooms, Sourced by a Small Family Business, Ideal for Cooking and Gourmet Recipes. : Grocery & Gourmet Food",
+   "anchors": [
+    "chanterelle",
+    "chanterelle mushrooms",
+    "chanterelles",
+    "dried shiitake mushrooms"
+   ],
+   "links": 4,
+   "posts": 4,
+   "example_post": "recipe-leftover"
+  },
+  "primary": {
+   "merchant": "SayWeee.com",
+   "product": "Chanterelle Mushroom (Ingredients for soup)",
+   "url": "https://www.sayweee.com/en/product/Chanterelle-Mushroom-Ingredients-for-soup/2046078",
+   "epc": null,
+   "rate": 10,
+   "price": null,
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Weee! sells a chanterelle product but I could not confirm it is dried or its brand, and the Amazon links mixed dried chanterelles with dried shiitakes; please check the page before approving."
+ },
+ {
+  "id": "cooking-by-hand",
+  "name": "Cooking by Hand",
+  "status": "match",
+  "kind": "book",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "0609608932"
+   ],
+   "title": "Cooking by Hand (ISBN 0609608932)",
+   "anchors": [
+    "Cooking by Hand",
+    "book on Amazon"
+   ],
+   "links": 4,
+   "posts": 3,
+   "example_post": "pumpkin-ravio-1"
+  },
+  "primary": {
+   "merchant": "Barnes & Noble",
+   "product": "Cooking by Hand: A Cookbook (Paul Bertolli)",
+   "url": "https://www.barnesandnoble.com/w/cooking-by-hand-paul-bertolli/1139078540",
+   "epc": 0.01,
+   "rate": 5.15,
+   "price": null,
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "B&N page for ISBN 9780609608937, the same Clarkson Potter hardcover as the Amazon link."
+ },
+ {
+  "id": "fennel-pollen",
+  "name": "Fennel Pollen",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B00019TMK4",
+    "B000V9ESIA",
+    "B005P085DO"
+   ],
+   "title": "Fennel pollen (Amazon title unavailable)",
+   "anchors": [
+    "fennel pollen"
+   ],
+   "links": 4,
+   "posts": 4,
+   "example_post": "a-funny-little-cheese-course-recipe"
+  },
+  "primary": {
+   "merchant": "The Spice House",
+   "product": "Fennel Pollen, Organically Sourced (0.25oz jar)",
+   "url": "https://www.thespicehouse.com/products/fennel-pollen-organically-sourced",
+   "epc": 0.21,
+   "rate": 15,
+   "price": null,
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Pure fennel pollen from The Spice House; Savory Spice Shop also sells it but I could not find the product URL. Amazon titles were missing so the original brand is unknown."
+ },
+ {
+  "id": "freshly-grated-nutmeg",
+  "name": "Freshly Grated Nutmeg",
+  "status": "match",
+  "kind": "same",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B0005YW28O"
+   ],
+   "title": "Whole nutmeg (Amazon title unavailable)",
+   "anchors": [
+    "freshly grated nutmeg",
+    "nutmeg",
+    "whole nutmeg"
+   ],
+   "links": 4,
+   "posts": 4,
+   "example_post": "pumpkin-ravio-1"
+  },
+  "primary": {
+   "merchant": "Savory Spice Shop",
+   "product": "Whole Nutmeg (5 seeds)",
+   "url": "https://www.savoryspiceshop.com/products/whole-nutmeg",
+   "epc": 0.33,
+   "rate": 15,
+   "price": "$4.99",
+   "verified": true
+  },
+  "alternatives": [
+   {
+    "merchant": "The Spice House",
+    "product": "Whole Nutmeg",
+    "url": "https://www.thespicehouse.com/products/whole-nutmeg",
+    "epc": 0.21,
+    "rate": 15,
+    "price": null,
+    "verified": true
+   }
+  ],
+  "note": "Whole nutmeg for grating, same kind of product as the Amazon link."
+ },
+ {
+  "id": "global-8-inch-chef-s-knife",
+  "name": "Global 8-Inch Chef's Knife",
+  "status": "match",
+  "kind": "same",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B00005OL44",
+    "B00012EZOO"
+   ],
+   "title": "Amazon.com: Global - 8 inch, 20cm Chef's Knife,Silver | Chops, slices, dices and minces with control: Chefs Knives: Home & Kitchen",
+   "anchors": [
+    "Global",
+    "Global 7 in. Wide Chef's Knife",
+    "Global 8-Inch Chef's Knife",
+    "Global G-2 - 8 inch, 20cm Chef's Knife"
+   ],
+   "links": 4,
+   "posts": 4,
+   "example_post": "chefs-knife-kitchen-tools-hand-tools"
+  },
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "Global Chef's Knife, 8\"",
+   "url": "https://www.surlatable.com/product/global-chefs-knife/19786",
+   "epc": 0.06,
+   "rate": 9,
+   "price": "$124.95",
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Same Global 8-inch (G-2) chef's knife; one anchor mentions a 7 in. wide model, which this does not cover."
+ },
+ {
+  "id": "guittard",
+  "name": "Guittard",
+  "status": "match",
+  "kind": "same",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B00C33UUIO",
+    "B00IRRU5T4",
+    "B00K9SL06Q"
+   ],
+   "title": "Amazon.com : Guittard, Bar Chocolate Baking Bittersweet, 2 Ounce, 3 Pack : Grocery & Gourmet Food",
+   "anchors": [
+    "Guittard",
+    "Guittard bittersweet chocolate",
+    "sorghum",
+    "sorghum syrup"
+   ],
+   "links": 4,
+   "posts": 4,
+   "example_post": "buttermilk-spoonbread-individual-corn-puddings-recipe"
+  },
+  "primary": {
+   "merchant": "Guittard Chocolate Company",
+   "product": "Baking Bars Bittersweet Chocolate, 70% Cacao",
+   "url": "https://guittard.com/product/baking-bars-bittersweet-chocolate",
+   "epc": null,
+   "rate": 20,
+   "price": "$10.99",
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Guittard bittersweet baking bars direct from Guittard (3 x 2oz, as on Amazon). The same link also covered Muddy Pond sorghum syrup, which this does not replace; Nuts.com and ChefShop sell sorghum syrup but their sites blocked verification."
+ },
+ {
+  "id": "hawaiian-black-sea-salt",
+  "name": "Hawaiian Black Sea Salt",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B000K6X8KI",
+    "B01F1EKG6W",
+    "B01M71ZO3I"
+   ],
+   "title": "Hawaiian black sea salt (Amazon title unavailable)",
+   "anchors": [
+    "Hawaiian Black Sea Salt",
+    "black Hawaiian salt",
+    "black salt",
+    "black sea salt"
+   ],
+   "links": 4,
+   "posts": 4,
+   "example_post": "edamame-in-an-e"
+  },
+  "primary": {
+   "merchant": "Savory Spice Shop",
+   "product": "Hawaiian Black Lava Sea Salt",
+   "url": "https://www.savoryspiceshop.com/products/hawaiian-black-lava-sea-salt",
+   "epc": 0.33,
+   "rate": 15,
+   "price": "$10.95",
+   "verified": true
+  },
+  "alternatives": [
+   {
+    "merchant": "The Spice House",
+    "product": "Hawaiian Black Sea Salt",
+    "url": "https://www.thespicehouse.com/products/hawaiian-black-sea-salt",
+    "epc": 0.21,
+    "rate": 15,
+    "price": null,
+    "verified": true
+   }
+  ],
+  "note": "Hawaiian black lava finishing salt, same style as the Amazon item but a different brand; Amazon titles were missing."
+ },
+ {
+  "id": "home-baking-the-artful-mix-of-flour-and",
+  "name": "Home Baking: the Artful Mix of Flour and Traditions from Around the World",
+  "status": "match",
+  "kind": "book",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "1579651747"
+   ],
+   "title": "Home Baking: the Artful Mix of Flour and Traditions from Around the World",
+   "anchors": [
+    "Home Baking",
+    "Home Baking: The Artful Mix of Flour and Traditions from Around the World",
+    "HomeBaking"
+   ],
+   "links": 4,
+   "posts": 4,
+   "example_post": "bran-muffins"
+  },
+  "primary": {
+   "merchant": "Barnes & Noble",
+   "product": "HomeBaking: The Artful Mix of Flour and Tradition Around the World (Alford & Duguid)",
+   "url": "https://www.barnesandnoble.com/w/homebaking-jeffrey-alford/1111372507",
+   "epc": 0.01,
+   "rate": 5.15,
+   "price": null,
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "B&N page for the same book; I could not confirm the ISBN matches the original 2003 hardcover (1579651747) versus a later reissue."
+ },
+ {
+  "id": "ice-cream-maker",
+  "name": "Ice Cream Maker",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B0006ONQOC",
+    "B003KYSLMW",
+    "B00NQAP01C",
+    "B07BDGZQSQ"
+   ],
+   "title": "Ice cream maker (Amazon title unavailable)",
+   "anchors": [
+    "home ice cream maker",
+    "ice cream maker",
+    "ice-cream maker"
+   ],
+   "links": 4,
+   "posts": 4,
+   "example_post": "roasted-pumpkin-ice-cream"
+  },
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "Cuisinart Classic Frozen Yogurt, Ice Cream and Sorbet Maker (1.5 qt)",
+   "url": "https://www.surlatable.com/product/cuisinart-classic-frozen-yogurt-ice-cream-and-sorbet-maker/699645",
+   "epc": 0.06,
+   "rate": 9,
+   "price": null,
+   "verified": true
+  },
+  "alternatives": [
+   {
+    "merchant": "Sur La Table",
+    "product": "Cuisinart Pure Indulgence Ice Cream Maker",
+    "url": "https://www.surlatable.com/product/6249692.html",
+    "epc": 0.06,
+    "rate": 9,
+    "price": "$99.95",
+    "verified": true
+   }
+  ],
+  "note": "A standard home freezer-bowl ice cream maker; Amazon titles were missing so the exact model is unknown (ASINs cover several machines)."
+ }
+]

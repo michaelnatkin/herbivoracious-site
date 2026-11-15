@@ -1,0 +1,429 @@
+[
+ {
+  "id": "nutmeg-preferably-fresh-ground",
+  "name": "Nutmeg (preferably Fresh Ground)",
+  "current_amazon_url": "https://www.amazon.com/dp/B08ZJVNKWQ?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com : The Spice Way Nutmeg Whole - ( 4 oz ) | Whole nutmeg for fresh grating over custards, drinks, vegetables, pasta and baking; Kosher Certified; Resealable Bag : Grocery & Gourmet Food"
+  ],
+  "anchors": [
+   "nutmeg",
+   "nutmeg (preferably fresh ground)"
+  ],
+  "asins": [
+   "B08ZJVNKWQ"
+  ],
+  "links": 6,
+  "posts": 6,
+  "example_post": "microplane-the-grater-that-changes-everything"
+ },
+ {
+  "id": "pastry-blender",
+  "name": "Pastry Blender",
+  "current_amazon_url": "https://www.amazon.com/dp/B000QJE48O?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com: OXO Good Grips Dough Blender With Blades | Stainless Steel Blades Easily Cut Butter, Broad, Non-Slip Handle Absorbs Pressure, Dishwasher Safe: Pastry Cutter: Home & Kitchen",
+   "Amazon.com: Spring Chef Medium Dough Blender Hand Tool - Durable Pastry Cutter - Black | Heavy Duty Dough Mixer w/ Stainless Steel Blades, Professional Pastry Blender for Easy Mixing, Dishwasher Safe: Home & Kitchen"
+  ],
+  "anchors": [
+   "pastry blender",
+   "pastry cutter"
+  ],
+  "asins": [
+   "B000QJE48O",
+   "B01CX1RIMQ"
+  ],
+  "links": 6,
+  "posts": 5,
+  "example_post": "caramelized-pear-and-ginger-scones-recipe"
+ },
+ {
+  "id": "ramekins",
+  "name": "Ramekins",
+  "current_amazon_url": "https://www.amazon.com/dp/B0D5L7LJQJ?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com: MISSYSSIM 12 oz Ramekins Oven Safe, Ceramic Creme Brulee Ramekins with Lids | Ceramic Creme Brulee Ramekins Souffle Dishes, Small Baking Bowls with Cover Set of 4, Ramekin Microwave & Dishwasher Safe: Home & Kitchen",
+   "Amazon.com: LE TAUCI Ramekins 4 OZ Oven Safe, Set of 6, White | Creme Brulee Ramekins, Pudding Custard Cups Souffle Ramiken, Dipping Sauce Dishes, Ceramic Ramekin Bowls: Home & Kitchen"
+  ],
+  "anchors": [
+   "individual ramekins",
+   "oven-proof ramekins",
+   "ramekins"
+  ],
+  "asins": [
+   "B07Z4R7CJZ",
+   "B082MDFM14",
+   "B0D2VTK6Q2",
+   "B0D5L7LJQJ",
+   "B0D97HBLLY"
+  ],
+  "links": 6,
+  "posts": 6,
+  "example_post": "caramelized-banana-and-buttermilk-panna-cotta-vegetarian-panna-cotta-recipe"
+ },
+ {
+  "id": "rice-cooker",
+  "name": "Rice Cooker",
+  "current_amazon_url": "https://www.amazon.com/dp/B00007J5U7?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com: Zojirushi Ns ZCC10 Neuro Fuzzy Rice Cooker and Warmer (White) | Automatic keep-warm, delay timer: Rice Cookers Zojirushi: Home & Kitchen",
+   "Amazon.com: AROMA Digital Rice Cooker, 4-Cup (Uncooked) / 8-Cup (Cooked), Steamer, Grain Cooker, Multicooker, 2 Qt, Stainless Steel Exterior, ARC-914SBD: Home & Kitchen"
+  ],
+  "anchors": [
+   "rice cooker",
+   "rice-cooker"
+  ],
+  "asins": [
+   "B00007J5U7",
+   "B007WQ9YNO",
+   "B016Y8JSK4"
+  ],
+  "links": 6,
+  "posts": 5,
+  "example_post": "coconut-rice-with-black-beans-plantains-and-mango-salsa-recipe"
+ },
+ {
+  "id": "the-spice-way-pure-ground-sumac-spice-4-oz",
+  "name": "The Spice Way Pure Ground Sumac Spice, 4 oz",
+  "current_amazon_url": "https://www.amazon.com/dp/B07R4LL17V?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com: The Spice Way Pure 100% Ground Sumac 4 oz Sumakh Seasoning Powder No Salt | Salt-free tart sumac for salads, yogurt, hummus, meats and rice; also known as sumak; Kosher Certified; Resealable Bag",
+   "Amazon.com : Badia Sumac Spice, 4.75 oz - Ground Sumac Seasoning, Tangy Citrus, Authentic Flavor, Gluten Free, Kosher : Grocery & Gourmet Food"
+  ],
+  "anchors": [
+   "Sumac powder",
+   "ground sumac",
+   "sumac",
+   "sumac powder"
+  ],
+  "asins": [
+   "B07NVVT8DF",
+   "B07R4LL17V"
+  ],
+  "links": 6,
+  "posts": 6,
+  "example_post": "biscuits-big-jo"
+ },
+ {
+  "id": "toasted-sesame-oil",
+  "name": "Toasted Sesame Oil",
+  "current_amazon_url": "https://www.amazon.com/dp/B00QGWLZ3C?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com : La Tourangelle, Toasted Sesame Oil, Great for Cooking, Add to Noodles, Stir-Fry, Vegetables, Vinaigrettes, and Marinades, 8.45 Fl Oz : Grocery & Gourmet Food",
+   "Amazon.com : Kadoya Roasted Sesame Oil - for Cooking, Seasoning, 11 Fl oz : Grocery & Gourmet Food"
+  ],
+  "anchors": [
+   "Toasted Asian sesame oil",
+   "Toasted sesame oil",
+   "sesame oil",
+   "toasted (Asian) sesame oil",
+   "toasted sesame oil"
+  ],
+  "asins": [
+   "B002HMN6SC",
+   "B00QGWLZ3C"
+  ],
+  "links": 6,
+  "posts": 6,
+  "example_post": "bibim-naegnmyeon-joll-noodles-cold-and-spicy-korean-noodles-recipe"
+ },
+ {
+  "id": "aromas-of-aleppo-the-legendary-cuisine-of",
+  "name": "Aromas of Aleppo: the Legendary Cuisine of Syrian Jews",
+  "current_amazon_url": "https://www.amazon.com/dp/0060888180?tag=herb-hugo-20",
+  "is_book": true,
+  "amazon_titles": [
+   "Aromas of Aleppo: The Legendary Cuisine of Syrian Jews \u2015 A Cookbook of Aleppian Jewish Cuisine: Poopa Dweck, Michael J. Cohen, Quentin Bacon: 9780060888183: Amazon.com: Books"
+  ],
+  "anchors": [
+   "Aromas of Aleppo, The Legendary Cuisine of Syrian Jews",
+   "Aromas of Aleppo, The Legendary Cuisine of Syrian Jews."
+  ],
+  "asins": [
+   "0060888180"
+  ],
+  "links": 5,
+  "posts": 3,
+  "example_post": "recipe-atayef"
+ },
+ {
+  "id": "chili-de-arbol",
+  "name": "Chili de Arbol",
+  "current_amazon_url": "https://www.amazon.com/dp/B07TYNF3ND?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com : Chile De Arbol 4oz - Dried Whole Red Chili Peppers, Premium All Natural Stemless, Resealable Bag. Use in Mexican, Chinese and Thai Dishes. Spicy Hot Heat Full of Flavor : Grocery & Gourmet Food"
+  ],
+  "anchors": [
+   "Chile de arbol",
+   "chile de arbol",
+   "chili de arbol"
+  ],
+  "asins": [
+   "B07TYNF3ND"
+  ],
+  "links": 5,
+  "posts": 5,
+  "example_post": "gorditas-with-roasted-mushrooms-recipe"
+ },
+ {
+  "id": "dried-ancho-chilis",
+  "name": "Dried Ancho Chilis",
+  "current_amazon_url": "https://www.amazon.com/dp/B07SLFM6W7?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com : Dried Ancho Chiles Peppers 4 oz \u2013 Natural & Premium for Authentic Mexican Mole, Sauces, Stews, Salsas, and More! Sweet & Smoky Flavor with Mild to Medium Heat to Elevate Your Favorite Recipes. : Grocery & Gourmet Food"
+  ],
+  "anchors": [
+   "ancho chili",
+   "ancho chilis",
+   "dried ancho chilis",
+   "dried chiles"
+  ],
+  "asins": [
+   "B07SLFM6W7"
+  ],
+  "links": 5,
+  "posts": 4,
+  "example_post": "nuevo-leon-style-tamales-adapted-to-be-vegetarian-recipe"
+ },
+ {
+  "id": "dried-kaffir-lime-leaves",
+  "name": "Dried Kaffir Lime Leaves",
+  "current_amazon_url": "https://www.amazon.com/dp/B00TZ8BK5W?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com : Burma Spice Kaffir Lime Leaves, Dried | Key Ingredient in Thai cuisine | USA grown and packaged | Whole uncrumpled leaves | Farm to table in days : Grocery & Gourmet Food",
+   "Amazon.com : Kaffir Lime Leaves, Dried | Key Ingredient in Thai cuisine | USA grown and packaged | Whole uncrumpled leaves | Farm to table in days : Grocery & Gourmet Food"
+  ],
+  "anchors": [
+   "kaffir lime leaf",
+   "kaffir lime leaves"
+  ],
+  "asins": [
+   "B00PKRTNF6",
+   "B00TZ8BK5W",
+   "B0CY8JH83F"
+  ],
+  "links": 5,
+  "posts": 5,
+  "example_post": "recipe-kaffir-l"
+ },
+ {
+  "id": "fine-mesh-sieve",
+  "name": "Fine Mesh Sieve",
+  "current_amazon_url": "https://www.amazon.com/dp/B007TUQF9O?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com: Cuisinart 3-Piece Mesh Strainer Set, Colander for Kitchen, CTG-00-3MS | 3 sizes, fine stainless steel mesh with long handles, 3-piece pasta strainer and rice strainer, colander for kitchen: Home & Kitchen",
+   "Page Not Found"
+  ],
+  "anchors": [
+   "fine mesh sieve",
+   "fine meshed sieve",
+   "fine sieve",
+   "finer sieve",
+   "finest strainer"
+  ],
+  "asins": [
+   "B0000CFN5C",
+   "B007TUQF9O"
+  ],
+  "links": 5,
+  "posts": 5,
+  "example_post": "dragonfruit-dra"
+ },
+ {
+  "id": "fleur-de-sel-de-ile-de-re",
+  "name": "Fleur de Sel de Ile de Re",
+  "current_amazon_url": "https://www.amazon.com/dp/B0002FGY9O?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com : Le Saunier de Camargue Fleur de Sel \u2013 French Sea Salt Finishing Salt \u2013 Gourmet Hand-Harvested Flaky Salt in Resealable Cork-Topped Container \u2013 125g : Grocery & Gourmet Food"
+  ],
+  "anchors": [
+   "Fleur De Sel de Ile De Re",
+   "fleur de sel",
+   "hundreds more"
+  ],
+  "asins": [
+   "B0002FGY9O"
+  ],
+  "links": 5,
+  "posts": 4,
+  "example_post": "interview-with-mark-bitterman-leading-expert-on-culinary-salts"
+ },
+ {
+  "id": "garam-masala",
+  "name": "Garam Masala",
+  "current_amazon_url": "https://www.amazon.com/dp/B00309S13Q?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com: Rani Garam Masala Indian 11-Spice Blend 3oz (85g) PET Jar ~ All Natural, Salt-Free | Vegan | No Colors | Gluten Friendly | NON-GMO | Kosher | Indian Origin : Health & Household"
+  ],
+  "anchors": [
+   "garam masala"
+  ],
+  "asins": [
+   "B00309S13Q"
+  ],
+  "links": 5,
+  "posts": 5,
+  "example_post": "beet-curry-recipe-1"
+ },
+ {
+  "id": "ghee",
+  "name": "ghee",
+  "current_amazon_url": "https://www.amazon.com/dp/B00VXQGY28?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com : 4th & Heart Original Grass Fed Ghee, Clarified Butter, 9 oz. | 100% Butterfat, Pasture-Raised, Supports Gut Health, Lactose & Casein Free, High Smoke Point, Keto & Paleo, Shelf-Stable. : Grocery & Gourmet Food"
+  ],
+  "anchors": [
+   "ghee"
+  ],
+  "asins": [
+   "B00VXQGY28"
+  ],
+  "links": 5,
+  "posts": 5,
+  "example_post": "chana-mushroom-masala-recipe"
+ },
+ {
+  "id": "gochugaru-a-korean-chili-powder",
+  "name": "Gochugaru, a Korean Chili Powder",
+  "current_amazon_url": "https://www.amazon.com/dp/B0BZ65ZD79?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com : The Spice Way Gochugaru Korean Red Pepper Flakes 8 oz Perfect for Kimchi | Gochugaru seasoning with moderate heat for kimchi, stir-fries, soups and sauces; Kosher Certified; Resealable Bag : Grocery & Gourmet Food",
+   "Amazon.com : Singsong Korean Hot Pepper Fine Type Powder, 1.10 Pound : Chili Powder : Grocery & Gourmet Food"
+  ],
+  "anchors": [
+   "Korean chili powder (gochugaru)",
+   "gochugaru (Korean chili powder",
+   "gochugaru (Korean chili powder)",
+   "gochugaru, a Korean chili powder"
+  ],
+  "asins": [
+   "B004W71CJU",
+   "B005G8IDTQ",
+   "B0BZ65ZD79"
+  ],
+  "links": 5,
+  "posts": 3,
+  "example_post": "quick-green-apple-kimchi-recipe"
+ },
+ {
+  "id": "immersion-blender",
+  "name": "Immersion Blender",
+  "current_amazon_url": "https://www.amazon.com/dp/B0CPLVLFK2?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com: Turelar Immersion Blender Handheld Corded, 1100W 5 in 1 Hand Blender Set | Trigger Variable Speed, Emulsion Stick Mixer with Food Processor, Whisk, Frother, for Soup, Puree, Baby Food, Anti-scratch: Home & Kitchen",
+   "Amazon.com: KitchenAid Variable Speed Corded Hand Blender, KHBV53, Empire Red | Removable 8\" Blending Arm, Blending Jar with Lid, BPA-Free Material, Blends Smoothies, Shakes, Soups: Home & Kitchen"
+  ],
+  "anchors": [
+   "immersion blender",
+   "immersion blender (aka stick blender)"
+  ],
+  "asins": [
+   "B08F2SS6T2",
+   "B09X27HV7X",
+   "B0CPLVLFK2"
+  ],
+  "links": 5,
+  "posts": 5,
+  "example_post": "black-bean-soup-recipe"
+ },
+ {
+  "id": "kikkoman-panko-japanese-style-bread-crumbs",
+  "name": "Kikkoman Panko Japanese Style Bread Crumbs",
+  "current_amazon_url": "https://www.amazon.com/dp/B000WD3PZM?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com: Kikkoman Panko Japanese Style Bread Crumbs, 8 Oz : Grocery & Gourmet Food"
+  ],
+  "anchors": [
+   "panko",
+   "panko breadcrumbs",
+   "panko works well"
+  ],
+  "asins": [
+   "B000WD3PZM"
+  ],
+  "links": 5,
+  "posts": 5,
+  "example_post": "eggplant-parmes"
+ },
+ {
+  "id": "mastering-the-art-of-french-cooking-vol-1-50th",
+  "name": "Mastering the Art of French Cooking, Vol. 1 (50th Anniversary Edition)",
+  "current_amazon_url": "https://www.amazon.com/dp/0375413405?tag=herb-hugo-20",
+  "is_book": true,
+  "amazon_titles": [
+   "Mastering the Art of French Cooking, Volume I: 50th Anniversary Edition: A Cookbook: Julia Child, Louisette Bertholle, Simone Beck, Sidonie Coryn: 0884564554267: Amazon.com: Books"
+  ],
+  "anchors": [
+   "Mastering The Art of French Cooking",
+   "Mastering the Art",
+   "Mastering the Art of French Cooking",
+   "Mastering the Art of French Cooking, Volume 1"
+  ],
+  "asins": [
+   "0375413405"
+  ],
+  "links": 5,
+  "posts": 4,
+  "example_post": "crepes-with-roasted-french-plums-yogurt-and-honey"
+ },
+ {
+  "id": "pomegranate-molasses",
+  "name": "Pomegranate Molasses",
+  "current_amazon_url": "https://www.amazon.com/dp/B000LRKO9E?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com: Pomegranate Molasses (Sultan) 9.5fl.oz : Grocery & Gourmet Food",
+   "Page Not Found"
+  ],
+  "anchors": [
+   "pomegranate molasses"
+  ],
+  "asins": [
+   "B000LRKO9E",
+   "B0014ET3OA",
+   "B004A6ET3O",
+   "B0CRL8HR8S"
+  ],
+  "links": 5,
+  "posts": 5,
+  "example_post": "grilled-peaches"
+ },
+ {
+  "id": "pure-vanilla-extract",
+  "name": "Pure Vanilla Extract",
+  "current_amazon_url": "https://www.amazon.com/dp/B0000VLU0I?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com: Nielsen-Massey Madagascar Bourbon Pure Vanilla Extract for Baking and Cooking, 4 Ounce Bottle : Grocery & Gourmet Food",
+   "Amazon.com: McCormick All Natural Pure Vanilla Extract (Made with Madagascar Vanilla Beans), 4 fl oz : Grocery & Gourmet Food"
+  ],
+  "anchors": [
+   "pure vanilla extract",
+   "vanilla extract"
+  ],
+  "asins": [
+   "B0000VLU0I",
+   "B000V8DHEC",
+   "B005MIWPGC"
+  ],
+  "links": 5,
+  "posts": 5,
+  "example_post": "caramelized-banana-and-buttermilk-panna-cotta-vegetarian-panna-cotta-recipe"
+ }
+]

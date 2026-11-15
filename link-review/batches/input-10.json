@@ -1,0 +1,386 @@
+[
+ {
+  "id": "fresh-chevre",
+  "name": "Fresh Chevre",
+  "current_amazon_url": "https://www.amazon.com/dp/B002CY2WRQ?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com: Vermont Creamery, Ch\u00e8vre, Log, 4 oz : Grocery & Gourmet Food",
+   "Amazon.com: Laura Chenel, Chevre Plain Log, 8 Ounce : Grocery & Gourmet Food"
+  ],
+  "anchors": [
+   "Laura Chenel brand",
+   "fresh chevre"
+  ],
+  "asins": [
+   "B002CXTOIM",
+   "B002CY2WRQ"
+  ],
+  "links": 2,
+  "posts": 2,
+  "example_post": "chevre-with-sauteed-grapes-and-fresh-herbs-recipe"
+ },
+ {
+  "id": "fresh-pappardelle-noodles",
+  "name": "Fresh Pappardelle Noodles",
+  "current_amazon_url": "https://www.amazon.com/dp/B0095F92HS?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com : De Cecco Egg Pappardelle No. 101 Pasta, 8.8 Oz | Authentic, Slow Dried, Made with Cage Free Eggs & Durum Wheat, Versatile Pasta for Sauces & Recipes, Made in Italy : Italian Pasta : Grocery & Gourmet Food"
+  ],
+  "anchors": [
+   "fresh pappardelle",
+   "fresh pappardelle noodles"
+  ],
+  "asins": [
+   "B0095F92HS"
+  ],
+  "links": 2,
+  "posts": 2,
+  "example_post": "pappardelle-wit"
+ },
+ {
+  "id": "gelpro-mats",
+  "name": "GelPro Mats",
+  "current_amazon_url": "https://www.amazon.com/dp/B016M6KL68?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com: Matterly Happy Feet Mat, Grasscloth Charcoal, 20\"x32\" | Anti-Fatigue Mat, Kitchen Use, Standing Desk Mat, Office Use, 3/4\" Comfort Mat, Stain-Resistant, Easy Clean, Made in USA : Home & Kitchen"
+  ],
+  "anchors": [
+   "GelPro mats",
+   "where to order one"
+  ],
+  "asins": [
+   "B016M6KL68"
+  ],
+  "links": 2,
+  "posts": 1,
+  "example_post": "gelpro-mat-your-tired-feet-will-thank-you"
+ },
+ {
+  "id": "get-one-right-now",
+  "name": "get one right now",
+  "current_amazon_url": "https://www.amazon.com/dp/B001VGS1M6?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com: Microplane Premium Classic Series Lime Zester and Parmesan Grater (Green) : Microplane: Home & Kitchen"
+  ],
+  "anchors": [
+   "get one right now"
+  ],
+  "asins": [
+   "B001VGS1M6"
+  ],
+  "links": 2,
+  "posts": 2,
+  "example_post": "microplane-the-grater-that-changes-everything"
+ },
+ {
+  "id": "halvah",
+  "name": "Halvah",
+  "current_amazon_url": "https://www.amazon.com/dp/B005UO7H6Q?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com : Joyva Halvah \u2013 Marble, 8oz Pack of 2 | A Delicious Sesame Treat | Dairy Free, Gluten-Free & Kosher Parve | Handcrafted in Brooklyn : Halva Candy : Grocery & Gourmet Food"
+  ],
+  "anchors": [
+   "halvah"
+  ],
+  "asins": [
+   "B005UO7H6Q"
+  ],
+  "links": 2,
+  "posts": 2,
+  "example_post": "breakfast-in-is"
+ },
+ {
+  "id": "happy-in-the-kitchen",
+  "name": "Happy in the Kitchen",
+  "current_amazon_url": "https://www.amazon.com/dp/1579652999?tag=herb-hugo-20",
+  "is_book": true,
+  "amazon_titles": [
+   "Happy in the Kitchen: Michel Richard: 9781579652999: Amazon.com: Books"
+  ],
+  "anchors": [
+   "Happy in the Kitchen"
+  ],
+  "asins": [
+   "1579652999"
+  ],
+  "links": 2,
+  "posts": 2,
+  "example_post": "how-to-make-an-inside-out-egg-recipe"
+ },
+ {
+  "id": "here-on-amazon",
+  "name": "here on Amazon",
+  "current_amazon_url": "https://www.amazon.com/dp/B0CKKNKJR3?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com : Hearthy Foods Agar Agar Powder (4oz) Vegan Gelatin Substitute, Certified Halal, Kosher, Gluten-free, Non-GMO, 100%, Sugar-free, Kosher, Halal, Desserts, 100% Natural Red Algae : Grocery & Gourmet Food"
+  ],
+  "anchors": [
+   "agar-agar",
+   "here on Amazon"
+  ],
+  "asins": [
+   "B0CKKNKJR3"
+  ],
+  "links": 2,
+  "posts": 2,
+  "example_post": "caramelized-banana-and-buttermilk-panna-cotta-vegetarian-panna-cotta-recipe"
+ },
+ {
+  "id": "hickory-or-mesquite-wood-chips",
+  "name": "Hickory or Mesquite Wood Chips",
+  "current_amazon_url": "https://www.amazon.com/dp/B0044WVDME?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com : Mr. Bar-B-Q Hickory Wood Smoking Chips, Natural, 1.8 Lb Bag | Works on Any Heat Source, Smoky and Fruity Flavor for Picnics, Grilling, Smoking and Camping Trips Year-Round, 05011Y : Smoker Chips : Patio, Lawn & Garden",
+   "Amazon.com : Fire & Flavor Hickory Wood Chips for Smoking & Grilling, 2 lbs | All-Natural Hickory Wood Chips - Adds Rich Smoky Flavor to Beef, Pork, Chicken, Seafood & Smokers : Patio, Lawn & Garden"
+  ],
+  "anchors": [
+   "hickory or mesquite wood chips"
+  ],
+  "asins": [
+   "B0044WVDME",
+   "B01M0J88TD"
+  ],
+  "links": 2,
+  "posts": 2,
+  "example_post": "vegetarian-frijoles-charros-mexican-cowboy-beans-with-smoked-onion-recipe"
+ },
+ {
+  "id": "i-like-you-hospitality-under-the-influence",
+  "name": "I Like You: Hospitality Under the Influence",
+  "current_amazon_url": "https://www.amazon.com/dp/0446696773?tag=herb-hugo-20",
+  "is_book": true,
+  "amazon_titles": [
+   "I Like You: Hospitality Under the Influence: Sedaris, Amy: 9780446696777: Amazon.com: Books"
+  ],
+  "anchors": [
+   "I Like You: Hospitality Under the Influence"
+  ],
+  "asins": [
+   "0446696773"
+  ],
+  "links": 2,
+  "posts": 1,
+  "example_post": "i-like-you-hospitality-under-the-influence-by-amy-sedaris-cookbook-review"
+ },
+ {
+  "id": "instant-read-thermometer",
+  "name": "Instant Read Thermometer",
+  "current_amazon_url": "https://www.amazon.com/dp/B00S93EQUK?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com: Alpha Grillers Meat Thermometer Digital, Stocking Stuffers Gifts for Men | 1-2 Second Ultra-Fast Response Time, Bright Backlit Display, Waterproof (IP67), Pre-Calibrated & Ready to Use: Home & Kitchen"
+  ],
+  "anchors": [
+   "instant read thermometer"
+  ],
+  "asins": [
+   "B00S93EQUK"
+  ],
+  "links": 2,
+  "posts": 2,
+  "example_post": "irish-soda-bread-recipe"
+ },
+ {
+  "id": "kalamata",
+  "name": "Kalamata",
+  "current_amazon_url": "https://www.amazon.com/dp/B074H7L7F1?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com : 365 by Whole Foods Market, Organic Pitted Kalamata Olives, 4.6 Ounce : Grocery & Gourmet Food",
+   "Amazon.com: Divina, Olives Kalamata Pitted Organic, 10.2 Ounce : Grocery & Gourmet Food"
+  ],
+  "anchors": [
+   "Kalamata",
+   "kalamata olives"
+  ],
+  "asins": [
+   "B00CJ5QQ6Q",
+   "B074H7L7F1"
+  ],
+  "links": 2,
+  "posts": 2,
+  "example_post": "savory-cardoon-flan-recipe"
+ },
+ {
+  "id": "kimchi",
+  "name": "Kimchi",
+  "current_amazon_url": "https://www.amazon.com/dp/B00P2QI7F2?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com: Mother in Laws Kimchi Vegan Napa Cabbage Kimchi, 16 FZ : Grocery & Gourmet Food"
+  ],
+  "anchors": [
+   "kimchi"
+  ],
+  "asins": [
+   "B00P2QI7F2"
+  ],
+  "links": 2,
+  "posts": 2,
+  "example_post": "kimchi-fried-rice-kimchi-bokkeumbap-recipe"
+ },
+ {
+  "id": "kitchen-confidential",
+  "name": "Kitchen Confidential",
+  "current_amazon_url": "https://www.amazon.com/dp/0060899220?tag=herb-hugo-20",
+  "is_book": true,
+  "amazon_titles": [
+   "Kitchen Confidential: Adventures in the Culinary Underbelly: Bourdain, Anthony: 9780060899226: Amazon.com: Books"
+  ],
+  "anchors": [
+   "Bourdain",
+   "Kitchen Confidential"
+  ],
+  "asins": [
+   "0060899220"
+  ],
+  "links": 2,
+  "posts": 2,
+  "example_post": "so-you-want-to-stage-intern-at-a-restaurant"
+ },
+ {
+  "id": "kitchen-scale-that-works-in-grams",
+  "name": "Kitchen Scale That Works in Grams",
+  "current_amazon_url": "https://www.amazon.com/dp/B0113UZJE2?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com: Etekcity Food Kitchen Scale, Digital Grams and Ounces, 11lb | Tare function, ideal for baking, weight loss, keto, meal prep, packages, liquids and jewelry, 304 Stainless Steel: Home & Kitchen"
+  ],
+  "anchors": [
+   "kitchen scale that works in grams",
+   "nifty digital kitchen scale"
+  ],
+  "asins": [
+   "B0113UZJE2"
+  ],
+  "links": 2,
+  "posts": 2,
+  "example_post": "an-honor-a-favor-and-a-freebie-win-a-digital-kitchen-scale"
+ },
+ {
+  "id": "kitchen-shears",
+  "name": "Kitchen Shears",
+  "current_amazon_url": "https://www.amazon.com/dp/B07PZF3QS3?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com: KitchenAid All Purpose Kitchen Shears with Protective Sheath Durable Stainless Steel Scissors, Dishwasher Safe, Soft Grip Comfort Handle, 8.72 Inch, Black: Home & Kitchen",
+   "Amazon.com: Joyce Chen Original Unlimited Kitchen Scissors All Purpose Kitchen Shears With Comfortable Handles, Red: Joyce Chen Scissors: Home & Kitchen"
+  ],
+  "anchors": [
+   "kitchen shears"
+  ],
+  "asins": [
+   "B0000CFLH7",
+   "B07PZF3QS3"
+  ],
+  "links": 2,
+  "posts": 2,
+  "example_post": "bibim-naegnmyeon-joll-noodles-cold-and-spicy-korean-noodles-recipe"
+ },
+ {
+  "id": "kitchenaid-mixer",
+  "name": "KitchenAid Mixer",
+  "current_amazon_url": "https://www.amazon.com/dp/B003OXNBYC?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com: KitchenAid Classic Series 4.5 Quart Tilt-Head Stand Mixer K45SS, Onyx Black | 10 Speeds, Durable Metal construction, 59 Touchpoints for Thorough Mixing, Compatible with KitchenAid Attachments: Electric Stand Mixers: Home & Kitchen"
+  ],
+  "anchors": [
+   "KitchenAid mixer",
+   "stand mixer"
+  ],
+  "asins": [
+   "B003OXNBYC"
+  ],
+  "links": 2,
+  "posts": 2,
+  "example_post": "seckel-pears-with-cinnamon-pastry-crumbs-recipe"
+ },
+ {
+  "id": "kombu-seaweed",
+  "name": "Kombu Seaweed",
+  "current_amazon_url": "https://www.amazon.com/dp/B00ZB13JHO?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com : WEL-PAC Dashi Kombu Dried Seaweed (Pack 1) : Grocery & Gourmet Food"
+  ],
+  "anchors": [
+   "kombu",
+   "kombu seaweed"
+  ],
+  "asins": [
+   "B00ZB13JHO"
+  ],
+  "links": 2,
+  "posts": 2,
+  "example_post": "soba-in-shoyu-broth-with-asparagus-leeks-and-tofu-recipe"
+ },
+ {
+  "id": "korean-sweet-potato-starch-noodles",
+  "name": "Korean Sweet Potato Starch Noodles",
+  "current_amazon_url": "https://www.amazon.com/dp/B092BS2HL6?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com: APEXY Sweet Potato Glass Noodles, Japchae Noodles, Korean Vermicelli Pasta, Fat-free and Gluten-free, 100% Sweet Potato Starch, No Additive, No Alum inside, 24oz (680g) : Grocery & Gourmet Food",
+   "Amazon.com : Ottogi Korean Sweet Potato Glass Noodles (Dangmyeon) \u2013 2.2 lbs (1kg) \u2013 Traditional Korean Vermicelli for Japchae, Stir-Fry, and Soups : Grocery & Gourmet Food"
+  ],
+  "anchors": [
+   "Korean sweet potato starch noodles",
+   "dangmyeon"
+  ],
+  "asins": [
+   "B01MCVZR8G",
+   "B092BS2HL6"
+  ],
+  "links": 2,
+  "posts": 2,
+  "example_post": "vegetarian-japchae-a-guest-recipe-by-alice-of-savory-sweet-life"
+ },
+ {
+  "id": "kuhn-rikon-peelers",
+  "name": "Kuhn Rikon Peelers",
+  "current_amazon_url": "https://www.amazon.com/dp/B001AQI3IO?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com: Kuhn Rikon Original 4-Inch Swiss Peeler, White: Home & Kitchen",
+   "Amazon.com: OXO Good Grips Pro Y-Peeler, Black: Vegetable Peeler: Home & Kitchen"
+  ],
+  "anchors": [
+   "Kuhn Rikon peelers",
+   "OXO peelers"
+  ],
+  "asins": [
+   "B0000DAQ5E",
+   "B001AQI3IO"
+  ],
+  "links": 2,
+  "posts": 2,
+  "example_post": "y-vegetable-peeler"
+ },
+ {
+  "id": "large-skillet-or-wok",
+  "name": "Large Skillet or Wok",
+  "current_amazon_url": "https://www.amazon.com/dp/B09GRXQGRN?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com: Babish 14 Inch Carbon Steel Wok Pan, Flat Bottom Stir Fry Pan, Induction | Carbon Steel Flat Bottom Wok with Wooden Handle & Helper Handle, Stir Fry Pan for Chinese Cooking, Gas Electric Induction: Home & Kitchen"
+  ],
+  "anchors": [
+   "large skillet or wok",
+   "wok"
+  ],
+  "asins": [
+   "B09GRXQGRN"
+  ],
+  "links": 2,
+  "posts": 2,
+  "example_post": "island-style-sweet-and-spicy-cabbage-recipe"
+ }
+]

@@ -1,0 +1,325 @@
+[
+ {
+  "id": "fresh-marjoram",
+  "name": "Fresh Marjoram",
+  "current_amazon_url": "https://www.amazon.com/dp/B08LCKK4WV?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com : The Spice Way Marjoram Leaves - (2 oz) pure ground dried leaf | Gentle marjoram leaves for poultry, soups, tomatoes, vegetables, eggs and beans; Kosher Certified; Resealable Bag : Grocery & Gourmet Food"
+  ],
+  "anchors": [
+   "fresh marjoram"
+  ],
+  "asins": [
+   "B08LCKK4WV"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "greek-green-bean-salad-recipe"
+ },
+ {
+  "id": "fresh-tarragon-leaves",
+  "name": "Fresh Tarragon Leaves",
+  "current_amazon_url": "https://www.amazon.com/dp/B000V8BKSM?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "fresh tarragon leaves"
+  ],
+  "asins": [
+   "B000V8BKSM"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "strawberry-shortcake-with-cornbread-and-tarragon-whipped-cream-recipe"
+ },
+ {
+  "id": "from-a-can",
+  "name": "from a can",
+  "current_amazon_url": "https://www.amazon.com/dp/B000LQJDTC?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "from a can"
+  ],
+  "asins": [
+   "B000LQJDTC"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "fava-beans-potatoes-saffron-rice"
+ },
+ {
+  "id": "from-chefshop-on-amazon",
+  "name": "from ChefShop on Amazon",
+  "current_amazon_url": "https://www.amazon.com/dp/B0013TMTZQ?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "from ChefShop on Amazon"
+  ],
+  "asins": [
+   "B0013TMTZQ"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "caviar-lentil-salad-with-arugula-crispy-shallots-and-roasted-garlic-recipe"
+ },
+ {
+  "id": "galil-pickled-mango-amba",
+  "name": "Galil Pickled Mango Amba",
+  "current_amazon_url": "https://www.amazon.com/dp/B00P8FCMIU?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "mango pickle"
+  ],
+  "asins": [
+   "B00P8FCMIU"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "recipe-sabich"
+ },
+ {
+  "id": "garcima-15-inch-carbon-steel-paella-pan",
+  "name": "Garcima 15-Inch Carbon Steel Paella Pan",
+  "current_amazon_url": "https://www.amazon.com/dp/B000QYKK3W?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "paella pan"
+  ],
+  "asins": [
+   "B000QYKK3W"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "new-paella-pan-from-the-spanish-table"
+ },
+ {
+  "id": "genmaicha-tea",
+  "name": "Genmaicha Tea",
+  "current_amazon_url": "https://www.amazon.com/dp/B000SSNFEW?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "genmaicha tea"
+  ],
+  "asins": [
+   "B000SSNFEW"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "tea-smoked-lych"
+ },
+ {
+  "id": "ghost-chile-sea-salt-caramels",
+  "name": "Ghost Chile &amp; Sea Salt Caramels",
+  "current_amazon_url": "https://www.amazon.com/dp/B007YNPJS4?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "ghost chile &amp",
+   "sea salt caramels"
+  ],
+  "asins": [
+   "B007YNPJS4"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "seattle-chocolate-salon-theo-chocolopolis"
+ },
+ {
+  "id": "glucose-powder",
+  "name": "Glucose Powder",
+  "current_amazon_url": "https://www.amazon.com/dp/B019HN8KW0?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "glucose powder"
+  ],
+  "asins": [
+   "B019HN8KW0"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "applecelery-sorbet-a-refreshing-recipe-with-many-coauthors"
+ },
+ {
+  "id": "gorgonzola-dolce",
+  "name": "Gorgonzola Dolce",
+  "current_amazon_url": "https://www.amazon.com/dp/B07881ML7Z?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "Gorgonzola dolce"
+  ],
+  "asins": [
+   "B07881ML7Z"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "caramelized-apple-and-blue-cheese-crostini"
+ },
+ {
+  "id": "gourmet",
+  "name": "Gourmet",
+  "current_amazon_url": "https://www.amazon.com/dp/B00005N7QH?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "Gourmet"
+  ],
+  "asins": [
+   "B00005N7QH"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "can-a-vegetarian-eat-at-pike-street-fish-fry-restaurant-review-seattle-wa"
+ },
+ {
+  "id": "grant-achatz",
+  "name": "Grant Achatz",
+  "current_amazon_url": "https://www.amazon.com/dp/B004T4UZ6C?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "Grant Achatz"
+  ],
+  "asins": [
+   "B004T4UZ6C"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "so-you-want-to-stage-intern-at-a-restaurant"
+ },
+ {
+  "id": "great-item",
+  "name": "great item",
+  "current_amazon_url": "https://www.amazon.com/dp/B00004OCKT?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "great item"
+  ],
+  "asins": [
+   "B00004OCKT"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "apple-crostata-with-breadcrumb-streusel-recipe-for-pieday"
+ },
+ {
+  "id": "ground-cinnamon",
+  "name": "Ground Cinnamon",
+  "current_amazon_url": "https://www.amazon.com/dp/B074ZP9VWB?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "ground cinnamon"
+  ],
+  "asins": [
+   "B074ZP9VWB"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "mujadara-middle-eastern-rice-and-lentil-pilaf-recipe"
+ },
+ {
+  "id": "ground-coriander",
+  "name": "Ground Coriander",
+  "current_amazon_url": "https://www.amazon.com/dp/B082ZSG1KK?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "ground coriander"
+  ],
+  "asins": [
+   "B082ZSG1KK"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "eggplant-and-okra-stew-recipe"
+ },
+ {
+  "id": "ground-cumin",
+  "name": "Ground Cumin",
+  "current_amazon_url": "https://www.amazon.com/dp/B001PQOAOA?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "ground cumin"
+  ],
+  "asins": [
+   "B001PQOAOA"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "mujadara-middle-eastern-rice-and-lentil-pilaf-recipe"
+ },
+ {
+  "id": "ground-turmeric",
+  "name": "Ground Turmeric",
+  "current_amazon_url": "https://www.amazon.com/dp/B07C9KGHLZ?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "ground turmeric"
+  ],
+  "asins": [
+   "B07C9KGHLZ"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "beet-curry-recipe-1"
+ },
+ {
+  "id": "hain-s-iodized-sea-salt",
+  "name": "Hain's Iodized Sea Salt",
+  "current_amazon_url": "https://www.amazon.com/dp/B0769L2QG1?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "Hain's Iodized Sea Salt"
+  ],
+  "asins": [
+   "B0769L2QG1"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "salt-crazy-my-f"
+ },
+ {
+  "id": "hand-cranked-cavatelli-maker",
+  "name": "Hand-Cranked Cavatelli Maker",
+  "current_amazon_url": "https://www.amazon.com/dp/B009J9AE18?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "hand-cranked cavatelli maker"
+  ],
+  "asins": [
+   "B009J9AE18"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "cavatelli-with-slow-roasted-broccoli-and-harissa-recipe"
+ },
+ {
+  "id": "handcrafted-balinese-sea-salt",
+  "name": "Handcrafted Balinese Sea Salt",
+  "current_amazon_url": "https://www.amazon.com/dp/B000C023EE?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "Handcrafted Balinese Sea Salt"
+  ],
+  "asins": [
+   "B000C023EE"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "salt-crazy-my-f"
+ }
+]

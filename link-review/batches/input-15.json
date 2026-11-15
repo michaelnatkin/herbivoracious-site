@@ -1,0 +1,322 @@
+[
+ {
+  "id": "big-tree-farms-salt",
+  "name": "Big Tree Farms Salt",
+  "current_amazon_url": "https://www.amazon.com/dp/B000RRA9BG?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "Big Tree Farms salt"
+  ],
+  "asins": [
+   "B000RRA9BG"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "figs-and-ricotta"
+ },
+ {
+  "id": "bill-buford",
+  "name": "Bill Buford",
+  "current_amazon_url": "https://www.amazon.com/dp/1400034477?tag=herb-hugo-20",
+  "is_book": true,
+  "amazon_titles": [],
+  "anchors": [
+   "Bill Buford"
+  ],
+  "asins": [
+   "1400034477"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "so-you-want-to-stage-intern-at-a-restaurant"
+ },
+ {
+  "id": "bittersweet-chocolate",
+  "name": "Bittersweet Chocolate",
+  "current_amazon_url": "https://www.amazon.com/dp/B00GR7F9GA?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "bittersweet chocolate"
+  ],
+  "asins": [
+   "B00GR7F9GA"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "butterscotch-pudding-with-bittersweet-ganache-and-caramelize-white-chocolate-crunchies-recipe"
+ },
+ {
+  "id": "bittersweet-chocolate-2",
+  "name": "Bittersweet Chocolate",
+  "current_amazon_url": "https://www.amazon.com/dp/B01MY07VS5?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "bittersweet chocolate"
+  ],
+  "asins": [
+   "B01MY07VS5"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "chocolate-chunk-bread-pudding-recipe"
+ },
+ {
+  "id": "black-crocs-the-kind-with-no-holes-on-top",
+  "name": "Black Crocs, the Kind with No Holes on Top",
+  "current_amazon_url": "https://www.amazon.com/dp/B0014JLYPQ?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "black Crocs, the kind with no holes on top"
+  ],
+  "asins": [
+   "B0014JLYPQ"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "so-you-want-to-stage-intern-at-a-restaurant"
+ },
+ {
+  "id": "black-rice",
+  "name": "Black Rice",
+  "current_amazon_url": "https://www.amazon.com/dp/B01NAGDHZR?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "black rice"
+  ],
+  "asins": [
+   "B01NAGDHZR"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "black-rice-fritter-with-turnips-and-horseradish-cream-recipe"
+ },
+ {
+  "id": "black-sesame",
+  "name": "Black Sesame",
+  "current_amazon_url": "https://www.amazon.com/dp/B07TWRT98L?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "black sesame"
+  ],
+  "asins": [
+   "B07TWRT98L"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "roasted-pumpkin-ice-cream"
+ },
+ {
+  "id": "black-vinegar",
+  "name": "Black Vinegar",
+  "current_amazon_url": "https://www.amazon.com/dp/B0BD3F4XNK?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "black vinegar"
+  ],
+  "asins": [
+   "B0BD3F4XNK"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "mandu-koreanstyle-potstickers-with-ssamjang-kochujang-sauce-recipe"
+ },
+ {
+  "id": "blackstrap-molasses",
+  "name": "Blackstrap Molasses",
+  "current_amazon_url": "https://www.amazon.com/dp/B00MFBVY2U?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "blackstrap molasses"
+  ],
+  "asins": [
+   "B00MFBVY2U"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "bran-muffins"
+ },
+ {
+  "id": "blend",
+  "name": "blend",
+  "current_amazon_url": "https://www.amazon.com/dp/B08FBLK53S?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "blend"
+  ],
+  "asins": [
+   "B08FBLK53S"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "mesir-wat-ethiopian-red-lentils-recipe"
+ },
+ {
+  "id": "bleu-d-auvergne",
+  "name": "Bleu d'Auvergne",
+  "current_amazon_url": "https://www.amazon.com/dp/B079NQVXQX?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "Bleu D'Auvergne"
+  ],
+  "asins": [
+   "B079NQVXQX"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "gougeres-chee"
+ },
+ {
+  "id": "bourbon-barrel-maple-syrup",
+  "name": "Bourbon-Barrel Maple Syrup",
+  "current_amazon_url": "https://www.amazon.com/dp/B012M6PUHC?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "bourbon-barrel maple syrup"
+  ],
+  "asins": [
+   "B012M6PUHC"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "maple-roasted-shiitake-mushrooms-recipe"
+ },
+ {
+  "id": "bourbon-vanilla-sorghum",
+  "name": "Bourbon-Vanilla Sorghum",
+  "current_amazon_url": "https://www.amazon.com/dp/B0018GD1NI?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "bourbon-vanilla sorghum"
+  ],
+  "asins": [
+   "B0018GD1NI"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "good-stuff-from-bourbon-barrel-foods"
+ },
+ {
+  "id": "brown-or-green-lentils",
+  "name": "Brown or Green Lentils",
+  "current_amazon_url": "https://www.amazon.com/dp/B001PEZLCW?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "brown or green lentils"
+  ],
+  "asins": [
+   "B001PEZLCW"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "mujadara-middle-eastern-rice-and-lentil-pilaf-recipe"
+ },
+ {
+  "id": "caballo-de-oros-rey-de-la-vera-sweet-smoked",
+  "name": "Caballo de Oros Rey de La Vera Sweet Smoked Paprika (Pimenton Dulce)",
+  "current_amazon_url": "https://www.amazon.com/dp/B00I5PVVKA?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "smoked paprika"
+  ],
+  "asins": [
+   "B00I5PVVKA"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "spanish-lentil-and-mushroom-stew-recipe"
+ },
+ {
+  "id": "caciocavallo",
+  "name": "Caciocavallo",
+  "current_amazon_url": "https://www.amazon.com/dp/B01J67VUTM?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "caciocavallo"
+  ],
+  "asins": [
+   "B01J67VUTM"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "molto-mario-bat"
+ },
+ {
+  "id": "cake-tester",
+  "name": "Cake Tester",
+  "current_amazon_url": "https://www.amazon.com/dp/B0018AHVSU?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "cake tester"
+  ],
+  "asins": [
+   "B0018AHVSU"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "saffron-chickpea-stew-with-grilled-porcini-mushroom-recipe"
+ },
+ {
+  "id": "cake-tester-2",
+  "name": "Cake Tester",
+  "current_amazon_url": "https://www.amazon.com/dp/B07FCL1ZXC?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "cake tester"
+  ],
+  "asins": [
+   "B07FCL1ZXC"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "tomato-and-beet-salad-recipe"
+ },
+ {
+  "id": "calcium-chloride",
+  "name": "Calcium Chloride",
+  "current_amazon_url": "https://www.amazon.com/dp/B00BLPNJLK?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "calcium chloride"
+  ],
+  "asins": [
+   "B00BLPNJLK"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "blini-with-aspa"
+ },
+ {
+  "id": "calphalon-12-inch-non-stick-omelet-pan",
+  "name": "Calphalon 12-Inch Non-Stick Omelet Pan",
+  "current_amazon_url": "https://www.amazon.com/dp/B0000936JK?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "Calphalon 12-inch non-stick omelet pan"
+  ],
+  "asins": [
+   "B0000936JK"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "crepes-with-roasted-french-plums-yogurt-and-honey"
+ }
+]

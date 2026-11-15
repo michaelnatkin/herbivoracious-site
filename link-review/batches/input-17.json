@@ -1,0 +1,327 @@
+[
+ {
+  "id": "cookie-sheet-with-a-rim",
+  "name": "Cookie Sheet with a Rim",
+  "current_amazon_url": "https://www.amazon.com/dp/B0049C2S32?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "cookie sheet with a rim"
+  ],
+  "asins": [
+   "B0049C2S32"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "flaky-biscuits"
+ },
+ {
+  "id": "coriander-seeds",
+  "name": "Coriander Seeds",
+  "current_amazon_url": "https://www.amazon.com/dp/B0CP8ZKYY7?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "coriander seeds"
+  ],
+  "asins": [
+   "B0CP8ZKYY7"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "chana-mushroom-masala-recipe"
+ },
+ {
+  "id": "corkscrew",
+  "name": "Corkscrew",
+  "current_amazon_url": "https://www.amazon.com/dp/B086Q53TG7?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "corkscrew"
+  ],
+  "asins": [
+   "B086Q53TG7"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "best-kosher-for-passover-wines"
+ },
+ {
+  "id": "corningware",
+  "name": "CorningWare",
+  "current_amazon_url": "https://www.amazon.com/dp/B00005B8JM?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com: CorningWare FS5 1.5-Qt/1.4L French White Dish with G-5C & F-5-PC Lids | Round Shape | Fluted Glass Cover | BPA-Free Plastic | Versatile Food Storage | Oven-To-Table Use: Home & Kitchen"
+  ],
+  "anchors": [
+   "CorningWare"
+  ],
+  "asins": [
+   "B00005B8JM"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "burnt-sugar-flan-recipe"
+ },
+ {
+  "id": "crackers-dips-more-than-50-handmade-snacks",
+  "name": "Crackers & Dips: More Than 50 Handmade Snacks",
+  "current_amazon_url": "https://www.amazon.com/dp/1452109508?tag=herb-hugo-20",
+  "is_book": true,
+  "amazon_titles": [],
+  "anchors": [
+   "Crackers &amp",
+   "Dips: More than 50 Handmade Snacks"
+  ],
+  "asins": [
+   "1452109508"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "crackers-and-dips-more-than-fifty-homemade-snacks-cookbook-review"
+ },
+ {
+  "id": "craft",
+  "name": "Craft",
+  "current_amazon_url": "https://www.amazon.com/dp/0609610503?tag=herb-hugo-20",
+  "is_book": true,
+  "amazon_titles": [],
+  "anchors": [
+   "Craft"
+  ],
+  "asins": [
+   "0609610503"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "battle-of-the-n"
+ },
+ {
+  "id": "creme-fraiche",
+  "name": "Creme Fraiche",
+  "current_amazon_url": "https://www.amazon.com/dp/B007NK0P3C?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "creme fraiche"
+  ],
+  "asins": [
+   "B007NK0P3C"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "baked-eggs-with-chanterelles-and-chard-recipe"
+ },
+ {
+  "id": "currants",
+  "name": "Currants",
+  "current_amazon_url": "https://www.amazon.com/dp/B07Z5M4RQ6?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "currants"
+  ],
+  "asins": [
+   "B07Z5M4RQ6"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "welsh-cakes-fro"
+ },
+ {
+  "id": "daikon-radish",
+  "name": "Daikon Radish",
+  "current_amazon_url": "https://www.amazon.com/dp/B0019JRLC6?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "daikon radish"
+  ],
+  "asins": [
+   "B0019JRLC6"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "recipe-vietname"
+ },
+ {
+  "id": "daniel-boulud",
+  "name": "Daniel Boulud",
+  "current_amazon_url": "https://www.amazon.com/dp/0465007775?tag=herb-hugo-20",
+  "is_book": true,
+  "amazon_titles": [],
+  "anchors": [
+   "Daniel Boulud"
+  ],
+  "asins": [
+   "0465007775"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "so-you-want-to-stage-intern-at-a-restaurant"
+ },
+ {
+  "id": "dark-chocolate",
+  "name": "Dark Chocolate",
+  "current_amazon_url": "https://www.amazon.com/dp/B01ID73TR2?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "dark chocolate"
+  ],
+  "asins": [
+   "B01ID73TR2"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "gateaux-de-crepes-recipe"
+ },
+ {
+  "id": "date-sugar",
+  "name": "Date Sugar",
+  "current_amazon_url": "https://www.amazon.com/dp/B085ZR9GX6?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [
+   "Amazon.com: Date Sugar, Organic Sugar Substitute for Baking, 1 lb \u2013 Date Lady | Made From 100% Organic Whole Dates; Vegan, Paleo, Gluten Free and Kosher; Ideal for Baking; Does Not Dissolve in Drinks : Grocery & Gourmet Food"
+  ],
+  "anchors": [
+   "date sugar"
+  ],
+  "asins": [
+   "B085ZR9GX6"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "saffron-date-posset-a-dessert-you-should-know-recipe"
+ },
+ {
+  "id": "de-cecco-orecchiette-no-91-pasta-16-oz",
+  "name": "De Cecco Orecchiette No. 91 Pasta (16 Oz)",
+  "current_amazon_url": "https://www.amazon.com/dp/B00060O7H6?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "dried orecchiette"
+  ],
+  "asins": [
+   "B00060O7H6"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "orecchiette-with-garlic-scapes-ricotta-and-gremolata-recipe"
+ },
+ {
+  "id": "de-la-estancia",
+  "name": "De La Estancia",
+  "current_amazon_url": "https://www.amazon.com/dp/B0046LDY5M?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "de la Estancia"
+  ],
+  "asins": [
+   "B0046LDY5M"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "king-oyster-mus"
+ },
+ {
+  "id": "dedicated-paella-pan",
+  "name": "Dedicated Paella Pan",
+  "current_amazon_url": "https://www.amazon.com/dp/B000QYNSRC?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "dedicated paella pan"
+  ],
+  "asins": [
+   "B000QYNSRC"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "vegetarian-pael"
+ },
+ {
+  "id": "dessert-recipe",
+  "name": "dessert recipe",
+  "current_amazon_url": "https://www.amazon.com/dp/1558327983?tag=herb-hugo-20",
+  "is_book": true,
+  "amazon_titles": [],
+  "anchors": [
+   "dessert recipe"
+  ],
+  "asins": [
+   "1558327983"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "how-to-make-an-inside-out-egg-recipe"
+ },
+ {
+  "id": "digital-one",
+  "name": "Digital One",
+  "current_amazon_url": "https://www.amazon.com/dp/B000S1P3XU?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "digital one"
+  ],
+  "asins": [
+   "B000S1P3XU"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "foodbeam-sables"
+ },
+ {
+  "id": "dispensing-scoop",
+  "name": "Dispensing Scoop",
+  "current_amazon_url": "https://www.amazon.com/dp/B0BWXSH3Z3?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "dispensing scoop"
+  ],
+  "asins": [
+   "B0BWXSH3Z3"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "thick-and-cakey-chocolate-chip-cookies-recipe"
+ },
+ {
+  "id": "double-concentrated-tomato-paste",
+  "name": "Double-Concentrated Tomato Paste",
+  "current_amazon_url": "https://www.amazon.com/dp/B07KYWQ22X?tag=herb-hugo-20",
+  "is_book": false,
+  "amazon_titles": [],
+  "anchors": [
+   "double-concentrated tomato paste"
+  ],
+  "asins": [
+   "B07KYWQ22X"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "saffron-chickpea-stew-with-grilled-porcini-mushroom-recipe"
+ },
+ {
+  "id": "doughnuts-simple-and-delicious-recipes-to-make",
+  "name": "Doughnuts: Simple and Delicious Recipes to Make at Home",
+  "current_amazon_url": "https://www.amazon.com/dp/1570616418?tag=herb-hugo-20",
+  "is_book": true,
+  "amazon_titles": [],
+  "anchors": [
+   "Doughnuts: Simple and Delicious Recipes to Make at Home"
+  ],
+  "asins": [
+   "1570616418"
+  ],
+  "links": 1,
+  "posts": 1,
+  "example_post": "bunuelos-bimuelos-donuts-hanukkah-sephardic"
+ }
+]

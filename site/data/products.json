@@ -196,13 +196,14 @@
   "aleppo-pepper-2": {
     "name": "Aleppo Pepper",
     "category": "middle-eastern-indian-pantry",
-    "url": "https://www.amazon.com/dp/B00562WN1Q?tag=herb-hugo-20",
+    "url": "https://www.savoryspiceshop.com/products/crushed-aleppo-peppers",
     "original_url": "https://www.amazon.com/dp/B00562WN1Q?tag=herb-hugo-20",
     "asins": [
       "B000X5IPWM",
       "B00562WN1Q",
       "B071KH1X16"
-    ]
+    ],
+    "merchant": "Savory Spice Shop"
   },
   "amazon-b0000cnu2x": {
     "name": "Amazon item B0000CNU2X",
@@ -676,13 +677,14 @@
   "black-mustard-seeds": {
     "name": "Black Mustard Seeds",
     "category": "middle-eastern-indian-pantry",
-    "url": "https://www.amazon.com/dp/B00J5SCO48?tag=herb-hugo-20",
+    "url": "https://chefshop.com/products/organic-black-mustard-seeds",
     "original_url": "https://www.amazon.com/dp/B00J5SCO48?tag=herb-hugo-20",
     "asins": [
       "B000JMAXMY",
       "B000MZC7C2",
       "B00J5SCO48"
-    ]
+    ],
+    "merchant": "ChefShop.com"
   },
   "black-rice": {
     "name": "Black Rice",
@@ -1042,12 +1044,13 @@
   "champagne-vinegar": {
     "name": "Champagne Vinegar",
     "category": "oils-vinegars",
-    "url": "https://www.amazon.com/dp/B07CQQ35PK?tag=herb-hugo-20",
+    "url": "https://chefshop.com/products/sparkling-wine-vinegar-katz",
     "original_url": "https://www.amazon.com/dp/B07CQQ35PK?tag=herb-hugo-20",
     "asins": [
       "B000YM9S2A",
       "B07CQQ35PK"
-    ]
+    ],
+    "merchant": "ChefShop.com"
   },
   "champion-juicer": {
     "name": "Champion Juicer",
@@ -1156,7 +1159,7 @@
   "chili-flakes": {
     "name": "Chili Flakes",
     "category": "spices-seasonings",
-    "url": "https://www.amazon.com/dp/B000WS3AJ8?tag=herb-hugo-20",
+    "url": "https://www.savoryspiceshop.com/products/crushed-red-pepper-flakes",
     "original_url": "https://www.amazon.com/dp/B000WS3AJ8?tag=herb-hugo-20",
     "asins": [
       "B0000EYPJS",
@@ -1164,7 +1167,8 @@
       "B00IYNQ1EY",
       "B07F1T63WG",
       "B07W2VL1QJ"
-    ]
+    ],
+    "merchant": "Savory Spice Shop"
   },
   "chili-flavored-sesame-oil": {
     "name": "Chili-Flavored Sesame Oil",
@@ -1279,6 +1283,13 @@
     "asins": [
       "1400078202"
     ]
+  },
+  "cloud-ro-water-filter": {
+    "name": "Cloud RO water filtration system",
+    "url": "https://www.cloudwaterfilters.com/buy/cloud-ro",
+    "original_url": "https://www.cloudwaterfilters.com/buy/cloud-ro",
+    "merchant": "Cloud Water Filters",
+    "hidden": true
   },
   "coconut-milk": {
     "name": "Coconut Milk",
@@ -1674,14 +1685,15 @@
   "dried-porcini-mushrooms": {
     "name": "Dried Porcini Mushrooms",
     "category": "pantry-staples",
-    "url": "https://www.amazon.com/dp/B079FCR7XK?tag=herb-hugo-20",
+    "url": "https://chefshop.com/Dried-Porcini-Mushrooms-Super-1-P7799.aspx",
     "original_url": "https://www.amazon.com/dp/B079FCR7XK?tag=herb-hugo-20",
     "asins": [
       "B0000TL5IW",
       "B079FCR7XK",
       "B07RQTWWKZ",
       "B0FN6CBX22"
-    ]
+    ],
+    "merchant": "ChefShop.com"
   },
   "dried-red-chiles": {
     "name": "Dried Red Chiles",
@@ -1805,12 +1817,13 @@
   "electric-cuisinart-model": {
     "name": "Electric Cuisinart Model",
     "category": "cookware-appliances",
-    "url": "https://www.amazon.com/dp/B0813VGM8V?tag=herb-hugo-20",
+    "url": "https://www.surlatable.com/cuisinart-stainless-steel-electric-pressure-cooker/554170.html",
     "original_url": "https://www.amazon.com/dp/B0813VGM8V?tag=herb-hugo-20",
     "asins": [
       "B000MPA044",
       "B0813VGM8V"
-    ]
+    ],
+    "merchant": "Sur La Table"
   },
   "emile-henry": {
     "name": "Emile Henry",
@@ -2044,11 +2057,12 @@
   "food-processor": {
     "name": "Food Processor",
     "category": "cookware-appliances",
-    "url": "https://www.amazon.com/dp/B089TP3K77?tag=herb-hugo-20",
+    "url": "https://www.surlatable.com/product/cuisinart-14-cup-food-processor/505479",
     "original_url": "https://www.amazon.com/dp/B089TP3K77?tag=herb-hugo-20",
     "asins": [
       "B089TP3K77"
-    ]
+    ],
+    "merchant": "Sur La Table"
   },
   "food-wine": {
     "name": "Food &amp; Wine",
@@ -2255,7 +2269,7 @@
   "giusti-traditional-aged-balsamic-vinegar-of": {
     "name": "Giusti Traditional Aged Balsamic Vinegar of Modena DOP 12 Years",
     "category": "oils-vinegars",
-    "url": "https://www.amazon.com/dp/B00MULSARC?tag=herb-hugo-20",
+    "url": "http://chefshop.com/La-Vecchia-Dispensa-Balsamic-10-yr-250ml-P5917.aspx",
     "original_url": "https://www.amazon.com/dp/B00MULSARC?tag=herb-hugo-20",
     "asins": [
       "B0008IUUSG",
@@ -2266,7 +2280,8 @@
       "B07NRL7W4S",
       "B081ZF9FPT",
       "B085WF23VH"
-    ]
+    ],
+    "merchant": "ChefShop.com"
   },
   "global-8-inch-chef-s-knife": {
     "name": "Global 8-Inch Chef's Knife",
@@ -2769,14 +2784,15 @@
   "jar-of-harissa": {
     "name": "Jar of Harissa",
     "category": "middle-eastern-indian-pantry",
-    "url": "https://www.amazon.com/dp/B0775335C6?tag=herb-hugo-20",
+    "url": "https://chefshop.com/products/villa-jerada-moroccan-harissa",
     "original_url": "https://www.amazon.com/dp/B0775335C6?tag=herb-hugo-20",
     "asins": [
       "B0012WF8P2",
       "B00634JM8I",
       "B0775335C6",
       "B07NSP64G8"
-    ]
+    ],
+    "merchant": "ChefShop.com"
   },
   "jasmine-rice": {
     "name": "Jasmine Rice",
@@ -2800,12 +2816,13 @@
   "joy-of-cooking": {
     "name": "Joy of Cooking",
     "category": "books",
-    "url": "https://www.amazon.com/dp/0743246268?tag=herb-hugo-20",
+    "url": "https://www.barnesandnoble.com/w/joy-of-cooking-irma-s-rombauer/1145682841",
     "original_url": "https://www.amazon.com/dp/0743246268?tag=herb-hugo-20",
     "asins": [
       "0743246268",
       "1501169718"
-    ]
+    ],
+    "merchant": "Barnes & Noble"
   },
   "joyva-sesame-tahini-15-oz": {
     "name": "Joyva Sesame Tahini, 15 oz",
@@ -3023,12 +3040,13 @@
   "la-tourangelle-toasted-sesame-oil-16-9-fl-oz": {
     "name": "La Tourangelle Toasted Sesame Oil, 16.9 Fl oz",
     "category": "asian-pantry",
-    "url": "https://www.amazon.com/dp/B005WXMPMQ?tag=herb-hugo-20",
+    "url": "https://www.iherb.com/pr/la-tourangelle-toasted-sesame-oil-16-9-fl-oz-500-ml/73004",
     "original_url": "https://www.amazon.com/dp/B005WXMPMQ?tag=herb-hugo-20",
     "asins": [
       "B0001DMTSS",
       "B005WXMPMQ"
-    ]
+    ],
+    "merchant": "iHerb.com"
   },
   "large-skillet-or-wok": {
     "name": "Large Skillet or Wok",
@@ -3294,7 +3312,7 @@
   "masa-harina": {
     "name": "Masa Harina",
     "category": "mexican-latin-pantry",
-    "url": "https://www.amazon.com/dp/B07PTP4HDH?tag=herb-hugo-20",
+    "url": "https://masienda.com/products/heirloom-corn-masa-harina",
     "original_url": "https://www.amazon.com/dp/B07PTP4HDH?tag=herb-hugo-20",
     "asins": [
       "B0000IJYK4",
@@ -3304,7 +3322,8 @@
       "B071KS99V2",
       "B07PTP4HDH",
       "B07W4MLCRN"
-    ]
+    ],
+    "merchant": "Masienda"
   },
   "mastering-the-art-of-french-cooking-vol-1-50th": {
     "name": "Mastering the Art of French Cooking, Vol. 1 (50th Anniversary Edition)",
@@ -3366,7 +3385,7 @@
   "mexican-oregano": {
     "name": "Mexican Oregano",
     "category": "mexican-latin-pantry",
-    "url": "https://www.amazon.com/dp/B000B6J4RI?tag=herb-hugo-20",
+    "url": "https://www.savoryspiceshop.com/products/mexican-oregano",
     "original_url": "https://www.amazon.com/dp/B000B6J4RI?tag=herb-hugo-20",
     "asins": [
       "B000B6J4RI",
@@ -3374,7 +3393,8 @@
       "B00BKZM0OU",
       "B00TVAGZFE",
       "B0851SDG7Y"
-    ]
+    ],
+    "merchant": "Savory Spice Shop"
   },
   "microplane-classic-zester-grater": {
     "name": "Microplane Classic Zester Grater",
@@ -3389,13 +3409,14 @@
   "mina-preserved-lemons-authentic-moroccan-12-5-oz": {
     "name": "Mina Preserved Lemons, Authentic Moroccan, 12.5 oz",
     "category": "middle-eastern-indian-pantry",
-    "url": "https://www.amazon.com/dp/B07PSJCLC6?tag=herb-hugo-20",
+    "url": "https://chefshop.com/products/natural-preserved-lemons-organic",
     "original_url": "https://www.amazon.com/dp/B07PSJCLC6?tag=herb-hugo-20",
     "asins": [
       "B0012S9NU2",
       "B004AQMSV4",
       "B07PSJCLC6"
-    ]
+    ],
+    "merchant": "ChefShop.com"
   },
   "mini-food-processor": {
     "name": "Mini Food Processor",
@@ -3549,12 +3570,13 @@
   "mortar-and-pestle": {
     "name": "Mortar and Pestle",
     "category": "kitchen-gadgets",
-    "url": "https://www.amazon.com/dp/B0084O4LIG?tag=herb-hugo-20",
+    "url": "https://www.surlatable.com/product/sur-la-table-white-marble-mortar-and-pestle-in-white/9145897",
     "original_url": "https://www.amazon.com/dp/B0084O4LIG?tag=herb-hugo-20",
     "asins": [
       "B0084O4LIG",
       "B0CRHP5G3P"
-    ]
+    ],
+    "merchant": "Sur La Table"
   },
   "muffin-cupcake-liners": {
     "name": "Muffin/cupcake Liners",
@@ -3714,12 +3736,13 @@
   "nutmeg-preferably-fresh-ground": {
     "name": "Nutmeg (preferably Fresh Ground)",
     "category": "spices-seasonings",
-    "url": "https://www.amazon.com/dp/B08ZJVNKWQ?tag=herb-hugo-20",
+    "url": "https://www.savoryspiceshop.com/products/whole-nutmeg",
     "original_url": "https://www.amazon.com/dp/B08ZJVNKWQ?tag=herb-hugo-20",
     "asins": [
       "B08ZJVNKWQ"
     ],
-    "review_url": "/microplane-the-grater-that-changes-everything/"
+    "review_url": "/microplane-the-grater-that-changes-everything/",
+    "merchant": "Savory Spice Shop"
   },
   "o-blood-orange-olive-oil": {
     "name": "\"O\" Blood Orange Olive Oil",
@@ -3884,12 +3907,13 @@
   "pastry-blender": {
     "name": "Pastry Blender",
     "category": "bakeware-tools",
-    "url": "https://www.amazon.com/dp/B000QJE48O?tag=herb-hugo-20",
+    "url": "https://www.oxo.com/dough-blender-with-blades.html",
     "original_url": "https://www.amazon.com/dp/B000QJE48O?tag=herb-hugo-20",
     "asins": [
       "B000QJE48O",
       "B01CX1RIMQ"
-    ]
+    ],
+    "merchant": "OXO"
   },
   "pastry-brush": {
     "name": "Pastry Brush",
@@ -3933,12 +3957,13 @@
   "pepitas-green-hulled-pumpkin-seeds": {
     "name": "Pepitas (green, Hulled Pumpkin Seeds)",
     "category": "pantry-staples",
-    "url": "https://www.amazon.com/dp/B07TVJ9GSD?tag=herb-hugo-20",
+    "url": "https://nuts.com/healthy-snacks/pepitas-raw-unsalted",
     "original_url": "https://www.amazon.com/dp/B07TVJ9GSD?tag=herb-hugo-20",
     "asins": [
       "B07TVJ9GSD",
       "B0DKG4H85F"
-    ]
+    ],
+    "merchant": "Nuts.com"
   },
   "pepperoncini": {
     "name": "Pepperoncini",
@@ -4055,12 +4080,13 @@
   "pressure-cooker": {
     "name": "Pressure Cooker",
     "category": "cookware-appliances",
-    "url": "https://www.amazon.com/dp/B00006ISG6?tag=herb-hugo-20",
+    "url": "https://us.fissler.com/products/vitaquick-premium-pressure-cooker-6-3-quart-with-steamer-insert-tripod",
     "original_url": "https://www.amazon.com/dp/B00006ISG6?tag=herb-hugo-20",
     "asins": [
       "B00006ISG6",
       "B00FLYWNYQ"
-    ]
+    ],
+    "merchant": "Fissler (US)"
   },
   "pride-of-india-amchur-dry-mango-powder": {
     "name": "Pride of India Amchur Dry Mango Powder",
@@ -4130,7 +4156,7 @@
   "ramekins": {
     "name": "Ramekins",
     "category": "bakeware-tools",
-    "url": "https://www.amazon.com/dp/B0D5L7LJQJ?tag=herb-hugo-20",
+    "url": "https://www.surlatable.com/sur-la-table-porcelain-round-ramekin-with-straight-sides/PRO-2509578.html",
     "original_url": "https://www.amazon.com/dp/B0D5L7LJQJ?tag=herb-hugo-20",
     "asins": [
       "B07Z4R7CJZ",
@@ -4138,7 +4164,8 @@
       "B0D2VTK6Q2",
       "B0D5L7LJQJ",
       "B0D97HBLLY"
-    ]
+    ],
+    "merchant": "Sur La Table"
   },
   "rani-asafetida-hing-ground-3-75oz": {
     "name": "Rani Asafetida (Hing) Ground 3.75oz",
@@ -5225,7 +5252,7 @@
   "the-spice-way-ras-el-hanout-moroccan-spice-blend": {
     "name": "The Spice Way Ras El Hanout Moroccan Spice Blend",
     "category": "middle-eastern-indian-pantry",
-    "url": "https://www.amazon.com/dp/B072N6RHSV?tag=herb-hugo-20",
+    "url": "https://www.savoryspiceshop.com/products/ras-el-hanout",
     "original_url": "https://www.amazon.com/dp/B072N6RHSV?tag=herb-hugo-20",
     "asins": [
       "B000FVCVS8",
@@ -5233,7 +5260,8 @@
       "B0721RPQJ3",
       "B072N6RHSV",
       "B0766D1B8S"
-    ]
+    ],
+    "merchant": "Savory Spice Shop"
   },
   "the-tartine-cookbook": {
     "name": "The Tartine Cookbook",
@@ -5587,7 +5615,7 @@
   "vegetarian-broth-powder": {
     "name": "Vegetarian Broth Powder",
     "category": "pantry-staples",
-    "url": "https://www.amazon.com/dp/B0001M0YT4?tag=herb-hugo-20",
+    "url": "https://www.iherb.com/pr/frontier-co-op-vegetarian-broth-powder-no-chicken-16-oz-453-g/30678",
     "original_url": "https://www.amazon.com/dp/B0001M0YT4?tag=herb-hugo-20",
     "asins": [
       "B00016LA9S",
@@ -5595,7 +5623,8 @@
       "B000FAPM2Q",
       "B00BRAX71Q",
       "B01D6PKRA8"
-    ]
+    ],
+    "merchant": "iHerb.com"
   },
   "vermouth": {
     "name": "Vermouth",

@@ -8,40 +8,41 @@
   :root { --bg:#faf7f2; --card:#fff; --ink:#2a2017; --mute:#7a6f62; --line:#e4ddd3; --ok:#1e7a4c; --okbg:#e6f4ec; --no:#b3392b; --nobg:#fbeae7; --acc:#00a6c7; --warn:#9a6a00; --warnbg:#fdf3d8; }
   * { box-sizing:border-box; }
   body { margin:0; background:var(--bg); color:var(--ink); font:15px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; padding:0 16px 80px; }
-  .wrap { max-width:980px; margin:0 auto; }
-  header { position:sticky; top:0; z-index:5; background:var(--bg); padding:16px 0 12px; border-bottom:1px solid var(--line); }
-  h1 { margin:0 0 4px; font-size:22px; }
+  .wrap { max-width:1000px; margin:0 auto; }
+  header { position:sticky; top:0; z-index:5; background:var(--bg); padding:14px 0 10px; border-bottom:1px solid var(--line); }
+  h1 { margin:0 0 2px; font-size:21px; }
   .sub { color:var(--mute); font-size:13px; }
-  .bar { display:flex; gap:12px; align-items:center; flex-wrap:wrap; margin-top:10px; }
-  .progress { flex:1; min-width:180px; height:8px; background:var(--line); border-radius:99px; overflow:hidden; display:flex; }
-  .progress i { display:block; height:100%; }
-  .progress .a { background:var(--ok); } .progress .r { background:var(--no); }
+  .bar { display:flex; gap:10px; align-items:center; flex-wrap:wrap; margin-top:10px; }
+  .progress { flex:1; min-width:160px; height:8px; background:var(--line); border-radius:99px; overflow:hidden; display:flex; }
+  .progress i { display:block; height:100%; } .progress .a { background:var(--ok); } .progress .r { background:var(--no); }
   .counts { font-size:13px; color:var(--mute); white-space:nowrap; }
-  .filters button, .bulk button { font:inherit; font-size:13px; padding:5px 11px; border:1px solid var(--line); background:var(--card); border-radius:99px; cursor:pointer; color:var(--ink); }
-  .filters button.on { background:var(--ink); color:#fff; border-color:var(--ink); }
+  select, .pill { font:inherit; font-size:13px; padding:5px 11px; border:1px solid var(--line); background:var(--card); border-radius:99px; cursor:pointer; color:var(--ink); }
+  .pill.on { background:var(--ink); color:#fff; border-color:var(--ink); }
   .saved { font-size:12px; color:var(--mute); min-width:70px; text-align:right; }
-  .card { background:var(--card); border:1px solid var(--line); border-radius:12px; margin:16px 0; display:grid; grid-template-columns:1fr 1.25fr; overflow:hidden; border-left:5px solid var(--line); }
+  .card { background:var(--card); border:1px solid var(--line); border-radius:12px; margin:14px 0; display:grid; grid-template-columns:1fr 1.25fr; overflow:hidden; border-left:5px solid var(--line); }
   .card.approved { border-left-color:var(--ok); } .card.rejected { border-left-color:var(--no); }
-  .col { padding:16px 18px; } .from { background:#fbf9f5; border-right:1px solid var(--line); }
+  .col { padding:14px 18px; } .from { background:#fbf9f5; border-right:1px solid var(--line); }
   .lbl { font-size:11px; letter-spacing:.06em; text-transform:uppercase; color:var(--mute); margin-bottom:6px; font-weight:600; }
   .title { font-weight:600; margin:0 0 6px; }
-  .meta { font-size:13px; color:var(--mute); }
+  .meta { font-size:13px; color:var(--mute); } .meta a { color:inherit; }
   .chips { display:flex; gap:6px; flex-wrap:wrap; margin:8px 0; }
   .chip { font-size:12px; padding:2px 9px; border-radius:99px; background:#efe9e0; color:#5a5046; }
-  .chip.same { background:var(--okbg); color:var(--ok); } .chip.equivalent { background:var(--warnbg); color:var(--warn); } .chip.book { background:#e5eefb; color:#2b5aa0; }
-  .chip.unv { background:var(--nobg); color:var(--no); }
-  .opt { display:block; border:1px solid var(--line); border-radius:9px; padding:10px 12px; margin:8px 0; cursor:pointer; }
+  .chip.same { background:var(--okbg); color:var(--ok); } .chip.equivalent { background:var(--warnbg); color:var(--warn); } .chip.book { background:#e5eefb; color:#2b5aa0; } .chip.unv { background:var(--nobg); color:var(--no); }
+  .opt { display:block; border:1px solid var(--line); border-radius:9px; padding:9px 12px; margin:8px 0; cursor:pointer; }
   .opt:has(input:checked) { border-color:var(--acc); background:#f2fbfd; }
-  .opt input { margin-right:8px; }
-  .opt .m { font-weight:600; } .opt a { font-size:13px; word-break:break-all; color:#0b7d96; }
+  .opt input { margin-right:8px; } .opt .m { font-weight:600; } .opt a { font-size:13px; word-break:break-all; color:#0b7d96; }
   .opt .n { font-size:13px; color:var(--mute); margin-top:2px; }
   .note { font-size:13px; background:#f6f2ea; border-radius:8px; padding:8px 10px; margin:10px 0; color:#4d4337; }
   .actions { display:flex; gap:8px; align-items:center; flex-wrap:wrap; margin-top:10px; }
-  .actions button { font:inherit; font-weight:600; padding:8px 18px; border-radius:8px; border:1px solid var(--line); background:var(--card); cursor:pointer; }
+  .actions button, .bulk button { font:inherit; font-weight:600; padding:8px 18px; border-radius:8px; border:1px solid var(--line); background:var(--card); cursor:pointer; }
   .actions .yes:hover, .card.approved .yes { background:var(--ok); color:#fff; border-color:var(--ok); }
   .actions .no:hover, .card.rejected .no { background:var(--no); color:#fff; border-color:var(--no); }
-  .actions input { flex:1; min-width:160px; font:inherit; font-size:13px; padding:8px 10px; border:1px solid var(--line); border-radius:8px; }
-  .kbd { font-size:12px; color:var(--mute); margin-top:6px; }
+  .actions input { flex:1; min-width:150px; font:inherit; font-size:13px; padding:8px 10px; border:1px solid var(--line); border-radius:8px; }
+  .bulk { margin:14px 0 0; display:flex; gap:10px; align-items:center; flex-wrap:wrap; font-size:13px; color:var(--mute); }
+  .bulk button { padding:6px 14px; font-weight:500; }
+  .nomatch { background:var(--card); border:1px dashed var(--line); border-radius:10px; padding:8px 14px; margin:8px 0; font-size:13px; color:var(--mute); }
+  .nomatch b { color:var(--ink); }
+  details summary { cursor:pointer; margin:18px 0 6px; color:var(--mute); font-size:14px; }
   @media (max-width:720px) { .card { grid-template-columns:1fr; } .from { border-right:0; border-bottom:1px solid var(--line); } }
 </style>
 </head>
@@ -49,82 +50,103 @@
 <div class="wrap">
 <header>
   <h1>Link Review</h1>
-  <div class="sub">Approve or reject each Amazon replacement. Decisions save automatically to <code>decisions.json</code>.</div>
+  <div class="sub">Approve or reject each Amazon replacement. Everything saves automatically to <code>decisions.json</code>, so you can stop and come back any time.</div>
   <div class="bar">
+    <select id="batch" onchange="pickBatch(this.value)"></select>
     <div class="progress"><i class="a" id="pa"></i><i class="r" id="pr"></i></div>
     <div class="counts" id="counts"></div>
-    <div class="filters" id="filters"></div>
+    <div id="filters"></div>
     <div class="saved" id="saved"></div>
   </div>
+  <div class="sub" id="overall" style="margin-top:6px"></div>
 </header>
 <div id="list"></div>
 </div>
 <script>
-let items = [], dec = {}, filter = 'all';
+let batches = {}, order = [], current = '', dec = {}, filter = 'pending', confirmBulk = false;
 const $ = s => document.querySelector(s);
 const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
-const kindLabel = {same:'Same product', equivalent:'Equivalent / similar', book:'Book (by ISBN)'};
+const kindLabel = {same:'Same product', equivalent:'Equivalent / similar', book:'Book'};
+const cssId = id => 'c_' + id.replace(/[^a-zA-Z0-9_-]/g, '_');
 
 async function init() {
-  items = await (await fetch('matches.json')).json();
+  order = await (await fetch('batches.json')).json();
+  for (const f of order) batches[f] = await (await fetch('batches/' + f)).json();
   try { dec = await (await fetch('decisions.json')).json(); } catch (e) { dec = {}; }
+  current = order.find(f => batches[f].some(i => i.status === 'match' && status(i.id) === 'pending')) || order[0] || '';
   render();
 }
-function status(id) { return (dec[id] && dec[id].status) || 'pending'; }
-function epcText(m) { return m.epc == null ? 'EPC: no data' : 'EPC $' + m.epc.toFixed(2); }
+const status = id => (dec[id] && dec[id].status) || 'pending';
+const matches = f => (batches[f] || []).filter(i => i.status === 'match');
+const epcText = m => m.epc == null ? 'EPC: no data' : 'EPC $' + m.epc.toFixed(2);
+function pickBatch(f) { current = f; confirmBulk = false; render(); }
+function counts(items) { const a = items.filter(i => status(i.id) === 'approved').length, r = items.filter(i => status(i.id) === 'rejected').length; return {a, r, p: items.length - a - r, n: items.length}; }
+
 function optHtml(it, m, idx) {
-  const d = dec[it.id] || {}, sel = (d.choice ?? 0) === idx;
-  return `<label class="opt"><input type="radio" name="c${it.id}" ${sel?'checked':''} onchange="choose(${it.id},${idx})">
+  const sel = ((dec[it.id] || {}).choice ?? 0) === idx, q = JSON.stringify(it.id).replace(/"/g, '&quot;');
+  return `<label class="opt"><input type="radio" name="${cssId(it.id)}" ${sel?'checked':''} onchange="choose(${q},${idx})">
     <span class="m">${esc(m.merchant)}</span> — ${esc(m.product)}<br>
     <a href="${esc(m.url)}" target="_blank" rel="noopener">${esc(m.url)}</a>
-    <div class="n">${epcText(m)}${m.rate!=null?' · '+m.rate+'% commission':''}${m.price?' · '+esc(m.price):''} ${m.verified?'· ✓ page loads':'<span class="chip unv">not auto-verified</span>'}</div></label>`;
+    <div class="n">${epcText(m)}${m.rate!=null?' · '+m.rate+'% commission':''}${m.price?' · '+esc(m.price):''} ${m.broken?'<span class="chip unv">link returned 404</span>':m.verified?'· ✓ page loads':'<span class="chip unv">not auto-verified</span>'}</div></label>`;
 }
 function card(it) {
-  const st = status(it.id), d = dec[it.id] || {};
-  const opts = [it.primary, ...it.alternatives].map((m, i) => optHtml(it, m, i)).join('');
-  return `<div class="card ${st==='approved'?'approved':st==='rejected'?'rejected':''}" id="card${it.id}">
+  const st = status(it.id), d = dec[it.id] || {}, q = JSON.stringify(it.id).replace(/"/g, '&quot;');
+  const opts = [it.primary, ...(it.alternatives || [])].map((m, i) => optHtml(it, m, i)).join('');
+  const a = it.amazon;
+  return `<div class="card ${st==='approved'?'approved':st==='rejected'?'rejected':''}" id="${cssId(it.id)}">
     <div class="col from">
       <div class="lbl">Currently links to Amazon</div>
-      <p class="title">${esc(it.amazon_title)}</p>
-      <div class="meta">Anchor text: ${it.anchors.map(a=>'“'+esc(a)+'”').join(', ')}</div>
-      <div class="chips"><span class="chip">${it.links} links</span><span class="chip">${it.posts} pages</span><span class="chip">${it.asins.length} Amazon ID${it.asins.length>1?'s':''}</span></div>
-      <div class="meta">Example: <a href="http://localhost:1314/${esc(it.example_post)}/" target="_blank" style="color:inherit">${esc(it.example_post)}</a></div>
+      <p class="title">${esc(a.title || it.name)}</p>
+      <div class="meta">Anchor text: ${(a.anchors||[]).slice(0,4).map(x=>'“'+esc(x)+'”').join(', ')}</div>
+      <div class="chips"><span class="chip">${a.links} links</span><span class="chip">${a.posts} pages</span>${a.asins.length>1?`<span class="chip">${a.asins.length} Amazon listings merged</span>`:''}</div>
+      ${a.example_post ? `<div class="meta">Example: <a href="http://localhost:1314/${esc(a.example_post)}/" target="_blank">${esc(a.example_post)}</a></div>` : ''}
     </div>
     <div class="col">
-      <div class="lbl">Proposed replacement ${it.alternatives.length ? '(highest EPC first; pick another if you prefer)' : ''}</div>
-      <div class="chips"><span class="chip ${it.kind}">${kindLabel[it.kind]}</span><span class="chip">${esc(it.confidence)} confidence</span></div>
+      <div class="lbl">Proposed replacement ${(it.alternatives||[]).length ? '(best EPC first; pick another if you prefer)' : ''}</div>
+      <div class="chips"><span class="chip ${it.kind}">${kindLabel[it.kind] || it.kind}</span><span class="chip">${esc(it.confidence)} confidence</span></div>
       ${opts}
       <div class="note">${esc(it.note)}</div>
       <div class="actions">
-        <button class="yes" onclick="setStatus(${it.id},'approved')">Approve</button>
-        <button class="no" onclick="setStatus(${it.id},'rejected')">Reject</button>
-        <input placeholder="Comment (optional)" value="${esc(d.comment||'')}" onchange="comment(${it.id}, this.value)">
+        <button class="yes" onclick="setStatus(${q},'approved')">Approve</button>
+        <button class="no" onclick="setStatus(${q},'rejected')">Reject</button>
+        <input placeholder="Comment (optional)" value="${esc(d.comment||'')}" onchange="comment(${q}, this.value)">
       </div>
     </div></div>`;
 }
 function render() {
-  const n = items.length, a = items.filter(i=>status(i.id)==='approved').length, r = items.filter(i=>status(i.id)==='rejected').length;
-  $('#pa').style.width = (a/n*100)+'%'; $('#pr').style.width = (r/n*100)+'%';
-  $('#counts').textContent = `${a} approved · ${r} rejected · ${n-a-r} pending`;
-  $('#filters').innerHTML = ['all','pending','approved','rejected'].map(f=>`<button class="${filter===f?'on':''}" onclick="setFilter('${f}')">${f}</button>`).join('');
-  $('#list').innerHTML = items.filter(i => filter==='all' || status(i.id)===filter).map(card).join('') || '<p class="sub">Nothing here.</p>';
+  $('#batch').innerHTML = order.map(f => { const c = counts(matches(f)); return `<option value="${f}" ${f===current?'selected':''}>${f.replace('batch-','Batch ').replace('.json','')} — ${c.p} pending of ${c.n}</option>`; }).join('');
+  const items = matches(current), c = counts(items);
+  $('#pa').style.width = (c.n ? c.a/c.n*100 : 0)+'%'; $('#pr').style.width = (c.n ? c.r/c.n*100 : 0)+'%';
+  $('#counts').textContent = `${c.a} approved · ${c.r} rejected · ${c.p} pending`;
+  $('#filters').innerHTML = ['pending','approved','rejected','all'].map(f=>`<button class="pill ${filter===f?'on':''}" onclick="setFilter('${f}')">${f}</button>`).join(' ');
+  const all = order.flatMap(matches), t = counts(all), links = all.filter(i=>status(i.id)==='approved').reduce((s,i)=>s+i.amazon.links,0);
+  $('#overall').textContent = `All batches: ${t.a} approved (${links} links) · ${t.r} rejected · ${t.p} pending, of ${t.n} proposed matches.`;
+  const shown = items.filter(i => filter==='all' || status(i.id)===filter);
+  const hi = items.filter(i => status(i.id)==='pending' && i.confidence==='high' && i.kind==='same');
+  let html = shown.map(card).join('') || `<p class="sub">Nothing ${filter==='all'?'':filter+' '}in this batch.</p>`;
+  if (hi.length) html += `<div class="bulk">${confirmBulk ? `Approve ${hi.length} pending “same product, high confidence” items as proposed? <button onclick="bulkApprove()">Yes, approve ${hi.length}</button> <button onclick="confirmBulk=false;render()">Cancel</button>` : `<button onclick="confirmBulk=true;render()">Approve all ${hi.length} pending same-product / high-confidence items…</button>`}</div>`;
+  const nm = (batches[current]||[]).filter(i => i.status !== 'match');
+  if (nm.length) html += `<details><summary>${nm.length} products with no in-network match (they stay on Amazon)</summary>${nm.map(i=>`<div class="nomatch"><b>${esc((i.amazon&&i.amazon.title)||i.name)}</b> · ${i.amazon?i.amazon.links:''} links — ${esc(i.reason||'no match found')}</div>`).join('')}</details>`;
+  $('#list').innerHTML = html;
 }
 function setFilter(f) { filter = f; render(); }
 function touch(id) { dec[id] = dec[id] || {}; return dec[id]; }
 function setStatus(id, s) { const d = touch(id); d.status = d.status === s ? 'pending' : s; d.choice = d.choice ?? 0; save(); render(); }
 function choose(id, idx) { touch(id).choice = idx; save(); }
 function comment(id, v) { touch(id).comment = v; save(); }
+function bulkApprove() { for (const i of matches(current)) if (status(i.id)==='pending' && i.confidence==='high' && i.kind==='same') { const d = touch(i.id); d.status = 'approved'; d.choice = d.choice ?? 0; } confirmBulk = false; save(); render(); }
 let t;
 function save() {
-  const out = {}; for (const k in dec) { const it = items.find(i => i.id == k); out[k] = {...dec[k], asins: it && it.asins, chosen: it && [it.primary, ...it.alternatives][dec[k].choice ?? 0]}; }
+  const items = Object.fromEntries(order.flatMap(matches).map(i => [i.id, i])), out = {};
+  for (const k in dec) { const it = items[k]; out[k] = {...dec[k], chosen: it && [it.primary, ...(it.alternatives||[])][dec[k].choice ?? 0]}; }
   clearTimeout(t); $('#saved').textContent = 'saving…';
   t = setTimeout(async () => { try { await fetch('/save', {method:'POST', body: JSON.stringify(out)}); $('#saved').textContent = 'saved ✓'; } catch (e) { $('#saved').textContent = 'save failed'; } }, 250);
 }
 document.addEventListener('keydown', e => {
   if (e.target.tagName === 'INPUT' && e.target.type !== 'radio') return;
-  const first = items.find(i => status(i.id) === 'pending'); if (!first) return;
-  if (e.key === 'a') { setStatus(first.id, 'approved'); }
-  if (e.key === 'r') { setStatus(first.id, 'rejected'); }
+  const first = matches(current).find(i => status(i.id) === 'pending'); if (!first) return;
+  if (e.key === 'a') setStatus(first.id, 'approved');
+  if (e.key === 'r') setStatus(first.id, 'rejected');
 });
 init();
 </script>

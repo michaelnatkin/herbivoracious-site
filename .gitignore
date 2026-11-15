@@ -1,3 +1,5 @@
 .DS_Store
 uploads/
 site/public/
+link-review/.cache/
+link-review/__pycache__/
