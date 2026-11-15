@@ -1827,7 +1827,7 @@
   "id": "morimoto-the-new-art-of-japanese-cooking",
   "name": "Morimoto: the New Art of Japanese Cooking",
   "status": "no_match",
-  "reason": "not found at Barnes & Noble by ISBN",
+  "reason": "No Barnes & Noble product page found by title search (likely out of print or unlisted)",
   "needs_web": false,
   "amazon": {
    "asins": [
@@ -1877,7 +1877,7 @@
   "id": "newlywed-kitchen-delicious-meals-for-couples",
   "name": "Newlywed Kitchen: Delicious Meals for Couples Cooking Together",
   "status": "no_match",
-  "reason": "not found at Barnes & Noble by ISBN",
+  "reason": "No Barnes & Noble product page found by title search (likely out of print or unlisted)",
   "needs_web": false,
   "amazon": {
    "asins": [
@@ -1896,7 +1896,7 @@
   "id": "salted-a-manifesto-on-the-world-s-most",
   "name": "Salted: a Manifesto on the World's Most Essential Mineral, with Recipes",
   "status": "no_match",
-  "reason": "not found at Barnes & Noble by ISBN",
+  "reason": "No Barnes & Noble product page found by title search (likely out of print or unlisted)",
   "needs_web": false,
   "amazon": {
    "asins": [
@@ -1915,9 +1915,9 @@
  {
   "id": "seductions-of-rice",
   "name": "Seductions of Rice",
-  "status": "no_match",
-  "reason": "not found at Barnes & Noble by ISBN",
-  "needs_web": false,
+  "status": "match",
+  "kind": "book",
+  "confidence": "medium",
   "amazon": {
    "asins": [
     "1579652344"
@@ -1929,7 +1929,19 @@
    "links": 1,
    "posts": 1,
    "example_post": "mangoes-and-cur"
-  }
+  },
+  "primary": {
+   "merchant": "Barnes & Noble",
+   "product": "Seductions of Rice",
+   "url": "https://www.barnesandnoble.com/w/seductions-of-rice-jeffrey-alford/1002993427",
+   "epc": 0.01,
+   "rate": 5.15,
+   "price": "$17.99",
+   "verified": true,
+   "verified_by": "browser search page"
+  },
+  "alternatives": [],
+  "note": "Same book (Jeffrey Alford and Naomi Duguid); the page I verified lists the eBook first, so the print edition may differ from the Amazon one."
  },
  {
   "id": "think-like-a-chef",
@@ -1966,7 +1978,7 @@
   "id": "the-adaptable-feast",
   "name": "The Adaptable Feast",
   "status": "no_match",
-  "reason": "not found at Barnes & Noble by ISBN",
+  "reason": "No Barnes & Noble product page found by title search (likely out of print or unlisted)",
   "needs_web": false,
   "amazon": {
    "asins": [
@@ -1985,7 +1997,7 @@
   "id": "the-curious-cook-more-kitchen-science-and-lore",
   "name": "The Curious Cook: More Kitchen Science and Lore by Harold McGee",
   "status": "no_match",
-  "reason": "not found at Barnes & Noble by ISBN",
+  "reason": "No Barnes & Noble product page found by title search (likely out of print or unlisted)",
   "needs_web": false,
   "amazon": {
    "asins": [
@@ -2004,7 +2016,7 @@
   "id": "the-farm-to-table-cookbook-the-art-of-eating",
   "name": "The Farm to Table Cookbook: the Art of Eating Locally",
   "status": "no_match",
-  "reason": "not found at Barnes & Noble by ISBN",
+  "reason": "No Barnes & Noble product page found by title search (likely out of print or unlisted)",
   "needs_web": false,
   "amazon": {
    "asins": [
@@ -2022,9 +2034,9 @@
  {
   "id": "the-fat-duck-cookbook",
   "name": "The Fat Duck Cookbook",
-  "status": "no_match",
-  "reason": "not found at Barnes & Noble by ISBN",
-  "needs_web": false,
+  "status": "match",
+  "kind": "book",
+  "confidence": "high",
   "amazon": {
    "asins": [
     "160819020X"
@@ -2036,14 +2048,26 @@
    "links": 1,
    "posts": 1,
    "example_post": "umami-packed-vegetarian-broth-recipe-also-vegan"
-  }
+  },
+  "primary": {
+   "merchant": "Barnes & Noble",
+   "product": "The Fat Duck Cookbook",
+   "url": "https://www.barnesandnoble.com/w/the-fat-duck-cookbook-heston-blumenthal/1101904980",
+   "epc": 0.01,
+   "rate": 5.15,
+   "price": "$80.00",
+   "verified": true,
+   "verified_by": "browser search page"
+  },
+  "alternatives": [],
+  "note": "Same title (Heston Blumenthal), hardcover."
  },
  {
   "id": "the-improvisational-cook",
   "name": "The Improvisational Cook",
-  "status": "no_match",
-  "reason": "not found at Barnes & Noble by ISBN",
-  "needs_web": false,
+  "status": "match",
+  "kind": "book",
+  "confidence": "high",
   "amazon": {
    "asins": [
     "0060731648"
@@ -2055,14 +2079,26 @@
    "links": 1,
    "posts": 1,
    "example_post": "recipe-double-c"
-  }
+  },
+  "primary": {
+   "merchant": "Barnes & Noble",
+   "product": "The Improvisational Cook",
+   "url": "https://www.barnesandnoble.com/w/the-improvisational-cook-sally-schneider/1100560805",
+   "epc": 0.01,
+   "rate": 5.15,
+   "price": "$27.50",
+   "verified": true,
+   "verified_by": "browser search page"
+  },
+  "alternatives": [],
+  "note": "Same title (Sally Schneider), hardcover."
  },
  {
   "id": "the-mushroom-hunters",
   "name": "The Mushroom Hunters",
-  "status": "no_match",
-  "reason": "not found at Barnes & Noble by ISBN",
-  "needs_web": false,
+  "status": "match",
+  "kind": "book",
+  "confidence": "medium",
   "amazon": {
    "asins": [
     "0345536258"
@@ -2074,7 +2110,19 @@
    "links": 1,
    "posts": 1,
    "example_post": "chanterelle-tostadas-recipes"
-  }
+  },
+  "primary": {
+   "merchant": "Barnes & Noble",
+   "product": "The Mushroom Hunters: A Hidden World of Food, Money, and (Mostly Legal) Adventure",
+   "url": "https://www.barnesandnoble.com/w/the-mushroom-hunters-langdon-cook/1142951753",
+   "epc": 0.01,
+   "rate": 5.15,
+   "price": "$21.00",
+   "verified": true,
+   "verified_by": "browser search page"
+  },
+  "alternatives": [],
+  "note": "Same book (Langdon Cook); this is the paperback edition with a longer subtitle than the Amazon listing."
  },
  {
   "id": "better-ideas",
@@ -2142,7 +2190,7 @@
   "id": "the-book",
   "name": "The Book",
   "status": "no_match",
-  "reason": "not found at Barnes & Noble by ISBN",
+  "reason": "No Barnes & Noble product page found by title search (likely out of print or unlisted)",
   "needs_web": false,
   "amazon": {
    "asins": [
@@ -2161,7 +2209,7 @@
   "id": "written-a-cookbook",
   "name": "Written a Cookbook",
   "status": "no_match",
-  "reason": "not found at Barnes & Noble by ISBN",
+  "reason": "No Barnes & Noble product page found by title search (likely out of print or unlisted)",
   "needs_web": false,
   "amazon": {
    "asins": [
@@ -2210,9 +2258,9 @@
  {
   "id": "food-wine",
   "name": "Food &amp; Wine",
-  "status": "no_match",
-  "reason": "magazine subscription, not a product",
-  "needs_web": false,
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
   "amazon": {
    "asins": [
     "B00005NINY"
@@ -2225,13 +2273,25 @@
    "links": 1,
    "posts": 1,
    "example_post": "can-a-vegetarian-eat-at-pike-street-fish-fry-restaurant-review-seattle-wa"
-  }
+  },
+  "primary": {
+   "merchant": "Magazine-Agent.com",
+   "product": "Food & Wine Magazine Subscription",
+   "url": "https://www.magazine-agent.com/Food-and-Wine/Magazines/",
+   "epc": 0.18,
+   "rate": 60.0,
+   "price": "$4.28",
+   "verified": true,
+   "verified_by": "browser search page"
+  },
+  "alternatives": [],
+  "note": "Same magazine; a subscription page at a discount magazine seller rather than Amazon's listing."
  },
  {
   "id": "gourmet",
   "name": "Gourmet",
   "status": "no_match",
-  "reason": "magazine, not a product",
+  "reason": "Gourmet magazine is defunct; no subscription page at Magazine-Agent",
   "needs_web": false,
   "amazon": {
    "asins": [
@@ -2947,5 +3007,334 @@
   },
   "alternatives": [],
   "note": "A standard Indian lime pickle; the exact original brand is unknown because the Amazon page is gone."
+ },
+ {
+  "id": "happy-in-the-kitchen",
+  "name": "Happy in the Kitchen",
+  "status": "no_match",
+  "reason": "No Barnes & Noble product page found by title search (likely out of print or unlisted)",
+  "needs_web": false,
+  "amazon": {
+   "asins": [
+    "1579652999"
+   ],
+   "title": "Happy in the Kitchen: Michel Richard: 9781579652999: Amazon.com: Books",
+   "anchors": [
+    "Happy in the Kitchen"
+   ],
+   "links": 2,
+   "posts": 2,
+   "example_post": "how-to-make-an-inside-out-egg-recipe"
+  }
+ },
+ {
+  "id": "rogov-s-guide-to-kosher-wines",
+  "name": "Rogov's Guide to Kosher Wines",
+  "status": "no_match",
+  "reason": "No Barnes & Noble product page found by title search (likely out of print or unlisted)",
+  "needs_web": false,
+  "amazon": {
+   "asins": [
+    "1592642616"
+   ],
+   "title": "Rogov's Guide to Kosher Wines 2010: The World's 500 Best Kosher Wines: Rogov, Daniel: 9781592642618: Amazon.com: Books",
+   "anchors": [
+    "Rogov's Guide to Kosher Wines"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "best-kosher-for-passover-wines"
+  }
+ },
+ {
+  "id": "black-crocs-the-kind-with-no-holes-on-top",
+  "name": "Black Crocs, the Kind with No Holes on Top",
+  "status": "match",
+  "kind": "same",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B0014JLYPQ"
+   ],
+   "title": "Crocs Unisex-Adult Bistro Work Clogs",
+   "anchors": [
+    "black Crocs, the kind with no holes on top"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "so-you-want-to-stage-intern-at-a-restaurant"
+  },
+  "primary": {
+   "merchant": "Crocs US",
+   "product": "Bistro Work Clog",
+   "url": "https://www.crocs.com/p/bistro-work-clog/10075.html",
+   "epc": 0.09,
+   "rate": 15.0,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser search page"
+  },
+  "alternatives": [],
+  "note": "Same Crocs Bistro Work Clog (closed-top, no holes) sold directly by Crocs; choose black on the page."
+ },
+ {
+  "id": "nikon-d7000",
+  "name": "Nikon D7000",
+  "status": "no_match",
+  "reason": "B&H Photo Video is behind a bot-check (Cloudflare) in the browser, so no product page could be verified; not bypassed.",
+  "needs_web": false,
+  "amazon": {
+   "asins": [
+    "B0042X9LC4"
+   ],
+   "title": "Nikon D7000",
+   "anchors": [
+    "Nikon D7000"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "transparency-and-support"
+  }
+ },
+ {
+  "id": "true-blood",
+  "name": "True Blood",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "low",
+  "amazon": {
+   "asins": [
+    "B001FB4W0W"
+   ],
+   "title": "True Blood",
+   "anchors": [
+    "True Blood"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "potatoes-alioli"
+  },
+  "primary": {
+   "merchant": "Barnes & Noble",
+   "product": "True Blood: The Complete Series (DVD)",
+   "url": "https://www.barnesandnoble.com/w/dvd-true-blood-the-complete-series-michael-lehmann/35563098",
+   "epc": 0.01,
+   "rate": 5.15,
+   "price": "$70.69",
+   "verified": true,
+   "verified_by": "browser search page"
+  },
+  "alternatives": [],
+  "note": "Barnes & Noble does not list Season 1 alone that I could find; this is the complete-series DVD set, which includes Season 1 but costs much more."
+ },
+ {
+  "id": "edward-espe-brown",
+  "name": "Edward Espe Brown",
+  "status": "no_match",
+  "reason": "How To Cook Your Life DVD not found at Barnes & Noble (only an unrelated Dogen book appeared)",
+  "needs_web": false,
+  "amazon": {
+   "asins": [
+    "B0014BQR74"
+   ],
+   "title": "Amazon.com: How To Cook Your Life : Doris D\u00f6rrie: Movies & TV",
+   "anchors": [
+    "Edward Espe Brown"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "complete-tassajara-cookbook-tassajara-bread-book"
+  }
+ },
+ {
+  "id": "tawny-port",
+  "name": "Tawny Port",
+  "status": "match",
+  "kind": "same",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B078HH75QH"
+   ],
+   "title": "Croft Porto Tawny Reserve, 750 ml",
+   "anchors": [
+    "tawny port"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "caramelized-raisin-sundae-recipe"
+  },
+  "primary": {
+   "merchant": "Total Wine",
+   "product": "Croft Reserve Tawny Porto 750ml",
+   "url": "https://www.totalwine.com/wine/dessert-fortified-wine/port/tawny-port/croft-reserve-tawny-porto/p/148153750",
+   "epc": 0.02,
+   "rate": 5.0,
+   "price": "$24.99",
+   "verified": true,
+   "verified_by": "browser search page"
+  },
+  "alternatives": [],
+  "note": "Same Croft Reserve Tawny Porto, 750 ml, from Total Wine."
+ },
+ {
+  "id": "vermouth",
+  "name": "Vermouth",
+  "status": "match",
+  "kind": "same",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B005J0KRG8"
+   ],
+   "title": "Vermouth",
+   "anchors": [
+    "vermouth"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "braised-baby-artichoke-with-fennel-and-cherry-tomatoes-recipe"
+  },
+  "primary": {
+   "merchant": "Total Wine",
+   "product": "Martini & Rossi Dry Vermouth 750ml",
+   "url": "https://www.totalwine.com/spirits/amaro-aperitif-vermouth/vermouth/dry/martini-rossi-dry-vermouth/p/3619750",
+   "epc": 0.02,
+   "rate": 5.0,
+   "price": "$13.99",
+   "verified": true,
+   "verified_by": "browser search page"
+  },
+  "alternatives": [],
+  "note": "Same Martini & Rossi dry (extra dry) vermouth, 750 ml bottle; Total Wine also sells a 375 ml size."
+ },
+ {
+  "id": "marsala-wine",
+  "name": "Marsala Wine",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B00E0N8CB2"
+   ],
+   "title": "Marsala Wine",
+   "anchors": [
+    "Marsala wine"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "zabaglione-with-roasted-plums-recipe"
+  },
+  "primary": {
+   "merchant": "Total Wine",
+   "product": "Carlo Martinez Marsala Semi Dry DOC 750ml",
+   "url": "https://www.totalwine.com/wine/dessert-fortified-wine/marsala/carlo-martinez-marsala-semi-dry-doc/p/349272750",
+   "epc": 0.02,
+   "rate": 5.0,
+   "price": "$10.99",
+   "verified": true,
+   "verified_by": "browser search page"
+  },
+  "alternatives": [],
+  "note": "Total Wine does not carry Holland House cooking wine; this is a real Italian Marsala (semi dry) suitable for cooking, not the salted cooking-wine product."
+ },
+ {
+  "id": "cherry-wood",
+  "name": "cherry wood",
+  "status": "no_match",
+  "reason": "Fire & Flavor cherry chips not found at BBQGuys (site search returned only grills) or Sur La Table",
+  "needs_web": false,
+  "amazon": {
+   "asins": [
+    "B0B2TMFT6D"
+   ],
+   "title": "cherry wood",
+   "anchors": [],
+   "links": 0,
+   "posts": 0,
+   "example_post": ""
+  }
+ },
+ {
+  "id": "wine-decanter",
+  "name": "Wine Decanter",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B01AVTQ1D4"
+   ],
+   "title": "Amazon.com | Le Chateau Wine Decanter - 100% Hand Blown Lead-free Crystal Glass, Red Wine Carafe, Wine Gift, Wine Accessories: Wine Decanters",
+   "anchors": [
+    "wine decanter"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "best-kosher-for-passover-wines"
+  },
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "Bormioli Rocco Sublime Decanter",
+   "url": "https://www.surlatable.com/product/bormioli-rocco-sublime-decanter/7158298",
+   "epc": 0.06,
+   "rate": 9.0,
+   "price": "$64.95",
+   "verified": true,
+   "verified_by": "browser search page"
+  },
+  "alternatives": [],
+  "note": "A different glass wine decanter; the Amazon Le Chateau hand-blown crystal model is not sold at Sur La Table."
+ },
+ {
+  "id": "wine-aerator",
+  "name": "Wine Aerator",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B00T1F5CSU"
+   ],
+   "title": "Wine Aerator",
+   "anchors": [
+    "wine aerator"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "best-kosher-for-passover-wines"
+  },
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "Sur La Table Pourer Aerator",
+   "url": "https://www.surlatable.com/product/sur-la-table-pourer-aerator/7258411",
+   "epc": 0.06,
+   "rate": 9.0,
+   "price": "$19.95",
+   "verified": true,
+   "verified_by": "browser search page"
+  },
+  "alternatives": [],
+  "note": "A different brand of bottle-top pourer aerator than the Amazon one, same function."
+ },
+ {
+  "id": "saveur",
+  "name": "Saveur",
+  "status": "no_match",
+  "reason": "No Saveur subscription found on Magazine-Agent, Magazine Shop or DiscountMags searches",
+  "needs_web": false,
+  "amazon": {
+   "asins": [
+    "B00005N7SL"
+   ],
+   "title": "Saveur",
+   "anchors": [
+    "Saveur"
+   ],
+   "links": 1,
+   "posts": 1,
+   "example_post": "book-review-bes"
+  }
  }
 ]

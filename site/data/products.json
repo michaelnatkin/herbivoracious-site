@@ -709,11 +709,12 @@
   "black-crocs-the-kind-with-no-holes-on-top": {
     "name": "Black Crocs, the Kind with No Holes on Top",
     "category": "kitchen-gadgets",
-    "url": "https://www.amazon.com/dp/B0014JLYPQ?tag=herb-hugo-20",
+    "url": "https://www.crocs.com/p/bistro-work-clog/10075.html",
     "original_url": "https://www.amazon.com/dp/B0014JLYPQ?tag=herb-hugo-20",
     "asins": [
       "B0014JLYPQ"
-    ]
+    ],
+    "merchant": "Crocs US"
   },
   "black-mustard-seeds": {
     "name": "Black Mustard Seeds",
@@ -788,12 +789,13 @@
   "blowtorch": {
     "name": "Blowtorch",
     "category": "kitchen-gadgets",
-    "url": "https://www.amazon.com/dp/B01LYN1C7P?tag=herb-hugo-20",
+    "url": "https://www.surlatable.com/product/sur-la-table-kitchen-torch/7277262",
     "original_url": "https://www.amazon.com/dp/B01LYN1C7P?tag=herb-hugo-20",
     "asins": [
       "B01LYN1C7P",
       "B07RKVHJH6"
-    ]
+    ],
+    "merchant": "Sur La Table"
   },
   "bob-s-red-mill": {
     "name": "Bob's Red Mill",
@@ -1164,12 +1166,13 @@
   "cheesecloth": {
     "name": "Cheesecloth",
     "category": "kitchen-gadgets",
-    "url": "https://www.amazon.com/dp/B08FXSD575?tag=herb-hugo-20",
+    "url": "https://www.surlatable.com/product/regency-natural-ultra-fine-cheesecloth/592121",
     "original_url": "https://www.amazon.com/dp/B08FXSD575?tag=herb-hugo-20",
     "asins": [
       "B08FXSD575",
       "B0DKC8JD52"
-    ]
+    ],
+    "merchant": "Sur La Table"
   },
   "chef-craft-serrated-grapefruit-spoon-2-piece-set": {
     "name": "Chef Craft Serrated Grapefruit Spoon, 2-Piece Set",
@@ -1307,11 +1310,12 @@
   "circle-cutters": {
     "name": "Circle Cutters",
     "category": "bakeware-tools",
-    "url": "https://www.amazon.com/dp/B08BWL2TR5?tag=herb-hugo-20",
+    "url": "https://www.surlatable.com/product/sur-la-table-round-cookie-cutters-set-of-10/7314156",
     "original_url": "https://www.amazon.com/dp/B08BWL2TR5?tag=herb-hugo-20",
     "asins": [
       "B08BWL2TR5"
-    ]
+    ],
+    "merchant": "Sur La Table"
   },
   "citric-acid-sour-salt": {
     "name": "Citric Acid (sour Salt)",
@@ -1458,11 +1462,12 @@
   "cotija-cheese": {
     "name": "Cotija Cheese",
     "category": "cheese-dairy",
-    "url": "https://www.amazon.com/dp/B07BM98393?tag=herb-hugo-20",
+    "url": "https://murrayscheese.com/dp/cotija-round",
     "original_url": "https://www.amazon.com/dp/B07BM98393?tag=herb-hugo-20",
     "asins": [
       "B07BM98393"
-    ]
+    ],
+    "merchant": "Murray's Cheese"
   },
   "couscous": {
     "name": "Couscous",
@@ -1545,12 +1550,13 @@
   },
   "daniel-boulud": {
     "name": "Daniel Boulud",
-    "url": "https://www.amazon.com/dp/0465007775?tag=herb-hugo-20",
+    "url": "https://www.barnesandnoble.com/w/letters-to-a-young-chef-daniel-boulud/1100922938",
     "original_url": "https://www.amazon.com/dp/0465007775?tag=herb-hugo-20",
     "asins": [
       "0465007775"
     ],
-    "hidden": true
+    "hidden": true,
+    "merchant": "Barnes & Noble"
   },
   "dark-chocolate": {
     "name": "Dark Chocolate",
@@ -1977,20 +1983,22 @@
   "extra-virgin-olive-oil": {
     "name": "Extra-Virgin Olive Oil",
     "category": "oils-vinegars",
-    "url": "https://www.amazon.com/dp/B002LZKGWY?tag=herb-hugo-20",
+    "url": "https://www.thespicehouse.com/products/organic-everyday-extra-virgin-olive-oil",
     "original_url": "https://www.amazon.com/dp/B002LZKGWY?tag=herb-hugo-20",
     "asins": [
       "B002LZKGWY"
-    ]
+    ],
+    "merchant": "The Spice House"
   },
   "falafel": {
     "name": "Falafel",
     "category": "pantry-staples",
-    "url": "https://www.amazon.com/dp/B01N1ZZRIC?tag=herb-hugo-20",
+    "url": "https://www.nuts.com/products/falafel-mix",
     "original_url": "https://www.amazon.com/dp/B01N1ZZRIC?tag=herb-hugo-20",
     "asins": [
       "B01N1ZZRIC"
-    ]
+    ],
+    "merchant": "Nuts.com"
   },
   "farro": {
     "name": "farro",
@@ -2005,11 +2013,12 @@
   "fava-or-garbanzo-beans": {
     "name": "Fava or Garbanzo Beans",
     "category": "grains-pasta-legumes",
-    "url": "https://www.amazon.com/dp/B00B0422F6?tag=herb-hugo-20",
+    "url": "https://www.nuts.com/products/fava-beans-giant",
     "original_url": "https://www.amazon.com/dp/B00B0422F6?tag=herb-hugo-20",
     "asins": [
       "B00B0422F6"
-    ]
+    ],
+    "merchant": "Nuts.com"
   },
   "feeding-the-hungry-ghost": {
     "name": "Feeding the Hungry Ghost",
@@ -2073,11 +2082,12 @@
   "fig-spread": {
     "name": "Fig Spread",
     "category": "condiments-sauces",
-    "url": "https://www.amazon.com/dp/B005GGUITQ?tag=herb-hugo-20",
+    "url": "https://www.chefshop.com/products/la-trinquelinette-fig-jam",
     "original_url": "https://www.amazon.com/dp/B005GGUITQ?tag=herb-hugo-20",
     "asins": [
       "B005GGUITQ"
-    ]
+    ],
+    "merchant": "ChefShop.com"
   },
   "fine-mesh-chinois-strainer": {
     "name": "Fine Mesh Chinois Strainer",
@@ -2269,11 +2279,12 @@
   "fresh-tarragon-leaves": {
     "name": "Fresh Tarragon Leaves",
     "category": "spices-seasonings",
-    "url": "https://www.amazon.com/dp/B000V8BKSM?tag=herb-hugo-20",
+    "url": "https://www.savoryspiceshop.com/products/french-tarragon",
     "original_url": "https://www.amazon.com/dp/B000V8BKSM?tag=herb-hugo-20",
     "asins": [
       "B000V8BKSM"
-    ]
+    ],
+    "merchant": "Savory Spice Shop, LLC"
   },
   "freshly-grated-nutmeg": {
     "name": "Freshly Grated Nutmeg",
@@ -2554,12 +2565,12 @@
   "halvah": {
     "name": "Halvah",
     "category": "sweeteners-chocolate",
-    "url": "https://russanddaughters.goldbelly.com/18845-halvah-marble",
+    "url": "https://www.iherb.com/pr/seed-mill-halva-toasted-sesame-8-oz-227-g/157093",
     "original_url": "https://www.amazon.com/dp/B005UO7H6Q?tag=herb-hugo-20",
     "asins": [
       "B005UO7H6Q"
     ],
-    "merchant": "Goldbelly"
+    "merchant": "iHerb.com"
   },
   "hand-cranked-cavatelli-maker": {
     "name": "Hand-Cranked Cavatelli Maker",
@@ -2573,11 +2584,12 @@
   "handcrafted-balinese-sea-salt": {
     "name": "Handcrafted Balinese Sea Salt",
     "category": "spices-seasonings",
-    "url": "https://www.amazon.com/dp/B000C023EE?tag=herb-hugo-20",
+    "url": "https://www.nuts.com/products/sea-salt",
     "original_url": "https://www.amazon.com/dp/B000C023EE?tag=herb-hugo-20",
     "asins": [
       "B000C023EE"
-    ]
+    ],
+    "merchant": "Nuts.com"
   },
   "happy-in-the-kitchen": {
     "name": "Happy in the Kitchen",
@@ -2771,30 +2783,33 @@
   },
   "honey": {
     "name": "honey",
-    "url": "https://www.amazon.com/dp/B00CMQD282?tag=herb-hugo-20",
+    "url": "https://www.chefshop.com/products/california-coriander-honey",
     "original_url": "https://www.amazon.com/dp/B00CMQD282?tag=herb-hugo-20",
     "asins": [
       "B00CMQD282"
     ],
-    "hidden": true
+    "hidden": true,
+    "merchant": "ChefShop.com"
   },
   "honey-2": {
     "name": "honey",
-    "url": "https://www.amazon.com/dp/B07MG95VFP?tag=herb-hugo-20",
+    "url": "https://www.chefshop.com/products/mieli-thun-italian-french-honeysuckle-honey",
     "original_url": "https://www.amazon.com/dp/B07MG95VFP?tag=herb-hugo-20",
     "asins": [
       "B07MG95VFP"
     ],
-    "hidden": true
+    "hidden": true,
+    "merchant": "ChefShop.com"
   },
   "honey-3": {
     "name": "honey",
-    "url": "https://www.amazon.com/dp/B0874XJ5DT?tag=herb-hugo-20",
+    "url": "https://www.thespicehouse.com/products/orange-blossom-honey",
     "original_url": "https://www.amazon.com/dp/B0874XJ5DT?tag=herb-hugo-20",
     "asins": [
       "B0874XJ5DT"
     ],
-    "hidden": true
+    "hidden": true,
+    "merchant": "The Spice House"
   },
   "hot-sauce": {
     "name": "Hot Sauce",
@@ -3010,13 +3025,13 @@
   "kalamata": {
     "name": "Kalamata",
     "category": "condiments-sauces",
-    "url": "https://nuts.com/snacks/olives/kalamata.html",
+    "url": "https://www.iherb.com/pr/gaea-organic-pitted-kalamata-olives-10-2-oz-290-g/32990",
     "original_url": "https://www.amazon.com/dp/B074H7L7F1?tag=herb-hugo-20",
     "asins": [
       "B00CJ5QQ6Q",
       "B074H7L7F1"
     ],
-    "merchant": "Nuts.com"
+    "merchant": "iHerb.com"
   },
   "karen-and-andrew": {
     "name": "Karen and Andrew",
@@ -3295,12 +3310,13 @@
   "lou-s-first-book": {
     "name": "Lou's First Book",
     "category": "books",
-    "url": "https://www.amazon.com/dp/1592008208?tag=herb-hugo-20",
+    "url": "https://www.barnesandnoble.com/w/momofuku-milk-bar-christina-tosi/1102675480?ean=9780307720498",
     "original_url": "https://www.amazon.com/dp/1592008208?tag=herb-hugo-20",
     "asins": [
       "0307720497",
       "1592008208"
-    ]
+    ],
+    "merchant": "Barnes & Noble"
   },
   "lovely-if-pricey-ones-from-emily-henry": {
     "name": "lovely, if pricey ones from Emily Henry",
@@ -3971,12 +3987,13 @@
   "old-stone-oven-pizza-baking-stone": {
     "name": "Old Stone Oven Pizza Baking Stone",
     "category": "bakeware-tools",
-    "url": "https://www.amazon.com/dp/B0000E1FDA?tag=herb-hugo-20",
+    "url": "https://www.surlatable.com/product/sur-la-table-cordierite-no-slip-pizza-stone-16/9147281",
     "original_url": "https://www.amazon.com/dp/B0000E1FDA?tag=herb-hugo-20",
     "asins": [
       "B0000E1FDA",
       "B06XGV3RS4"
-    ]
+    ],
+    "merchant": "Sur La Table"
   },
   "one-from-matiz": {
     "name": "One from Matiz",
@@ -4111,12 +4128,13 @@
   "pastry-brush": {
     "name": "Pastry Brush",
     "category": "bakeware-tools",
-    "url": "https://www.amazon.com/dp/B000JPSI8C?tag=herb-hugo-20",
+    "url": "https://www.surlatable.com/product/sur-la-table-silicone-pastry-brush-7/10073682",
     "original_url": "https://www.amazon.com/dp/B000JPSI8C?tag=herb-hugo-20",
     "asins": [
       "B000JPSI8C"
     ],
-    "review_url": "/silicone-pastry-brushes-a-huge-improvement/"
+    "review_url": "/silicone-pastry-brushes-a-huge-improvement/",
+    "merchant": "Sur La Table"
   },
   "pastry-flour": {
     "name": "Pastry Flour",
@@ -4304,11 +4322,12 @@
   "prioritychef-large-15oz-stainless-steel-potato": {
     "name": "PriorityChef Large 15oz Stainless Steel Potato Ricer",
     "category": "kitchen-gadgets",
-    "url": "https://www.amazon.com/dp/B00MUEHPGQ?tag=herb-hugo-20",
+    "url": "https://www.surlatable.com/product/oxo-good-grips-adjustable-potato-ricer/819433",
     "original_url": "https://www.amazon.com/dp/B00MUEHPGQ?tag=herb-hugo-20",
     "asins": [
       "B00MUEHPGQ"
-    ]
+    ],
+    "merchant": "Sur La Table"
   },
   "pure-indian-foods-organic-jaggery-sugar-2-pack": {
     "name": "Pure Indian Foods Organic Jaggery Sugar, 2-Pack (1kg Total)",
@@ -4693,11 +4712,12 @@
   "savory-sweet-life-100-simply-delicious-recipes": {
     "name": "Savory Sweet Life: 100 Simply Delicious Recipes for Every Family Occasion",
     "category": "books",
-    "url": "https://www.amazon.com/dp/0062064053?tag=herb-hugo-20",
+    "url": "https://www.barnesandnoble.com/w/savory-sweet-life-alice-currah/1110766562",
     "original_url": "https://www.amazon.com/dp/0062064053?tag=herb-hugo-20",
     "asins": [
       "0062064053"
-    ]
+    ],
+    "merchant": "Barnes & Noble"
   },
   "scharffen-berger": {
     "name": "Scharffen-Berger",
@@ -4930,11 +4950,12 @@
   "sliced-marinated-green-olives": {
     "name": "Sliced Marinated Green Olives",
     "category": "condiments-sauces",
-    "url": "https://www.amazon.com/dp/B07813GRYD?tag=herb-hugo-20",
+    "url": "https://www.thespicehouse.com/products/coriander-and-pink-pepper-green-olives",
     "original_url": "https://www.amazon.com/dp/B07813GRYD?tag=herb-hugo-20",
     "asins": [
       "B07813GRYD"
-    ]
+    ],
+    "merchant": "The Spice House"
   },
   "smaller-quantities": {
     "name": "smaller quantities",
@@ -5017,11 +5038,12 @@
   "soy-sauce-2": {
     "name": "Soy Sauce",
     "category": "asian-pantry",
-    "url": "https://www.amazon.com/dp/B0079VJGL2?tag=herb-hugo-20",
+    "url": "https://www.chefshop.com/products/yugeta-organic-shoyu-soy-sauce",
     "original_url": "https://www.amazon.com/dp/B0079VJGL2?tag=herb-hugo-20",
     "asins": [
       "B0079VJGL2"
-    ]
+    ],
+    "merchant": "ChefShop.com"
   },
   "spice-grinder": {
     "name": "Spice Grinder",
@@ -5301,30 +5323,33 @@
   "tawny-port": {
     "name": "Tawny Port",
     "category": "oils-vinegars",
-    "url": "https://www.amazon.com/dp/B078HH75QH?tag=herb-hugo-20",
+    "url": "https://www.totalwine.com/wine/dessert-fortified-wine/port/tawny-port/croft-reserve-tawny-porto/p/148153750",
     "original_url": "https://www.amazon.com/dp/B078HH75QH?tag=herb-hugo-20",
     "asins": [
       "B078HH75QH"
-    ]
+    ],
+    "merchant": "Total Wine"
   },
   "taylors-of-harrogate-lapsang-souchong-loose": {
     "name": "Taylors of Harrogate Lapsang Souchong Loose Leaf Tea",
     "category": "pantry-staples",
-    "url": "https://www.amazon.com/dp/B002JP6H2O?tag=herb-hugo-20",
+    "url": "https://www.theteaspot.com/products/lapsang-souchong-black-tea",
     "original_url": "https://www.amazon.com/dp/B002JP6H2O?tag=herb-hugo-20",
     "asins": [
       "B000MNNELC",
       "B002JP6H2O"
-    ]
+    ],
+    "merchant": "The Tea Spot"
   },
   "tempeh": {
     "name": "Tempeh",
     "category": "asian-pantry",
-    "url": "https://www.amazon.com/dp/B000YN1JY4?tag=herb-hugo-20",
+    "url": "https://www.weee.com/en/product/Tempeh/2906733",
     "original_url": "https://www.amazon.com/dp/B000YN1JY4?tag=herb-hugo-20",
     "asins": [
       "B000YN1JY4"
-    ]
+    ],
+    "merchant": "Weee!"
   },
   "terex-al-5l-led-light-tower": {
     "name": "Terex AL-5L LED Light Tower",
@@ -5367,12 +5392,13 @@
   "the-art-of-indian-vegetarian-cooking": {
     "name": "The Art of Indian Vegetarian Cooking",
     "category": "books",
-    "url": "https://www.amazon.com/dp/0525245642?tag=herb-hugo-20",
+    "url": "https://www.barnesandnoble.com/w/lord-krishnas-cuisine-yamuna-devi/1103215056",
     "original_url": "https://www.amazon.com/dp/0525245642?tag=herb-hugo-20",
     "asins": [
       "0525245642",
       "B0762JPC9N"
-    ]
+    ],
+    "merchant": "Barnes & Noble"
   },
   "the-art-of-simple-food-by-alice-waters": {
     "name": "The Art of Simple Food by Alice Waters",
@@ -5426,20 +5452,22 @@
   "the-fat-duck-cookbook": {
     "name": "The Fat Duck Cookbook",
     "category": "books",
-    "url": "https://www.amazon.com/dp/160819020X?tag=herb-hugo-20",
+    "url": "https://www.barnesandnoble.com/w/the-fat-duck-cookbook-heston-blumenthal/1101904980",
     "original_url": "https://www.amazon.com/dp/160819020X?tag=herb-hugo-20",
     "asins": [
       "160819020X"
-    ]
+    ],
+    "merchant": "Barnes & Noble"
   },
   "the-improvisational-cook": {
     "name": "The Improvisational Cook",
     "category": "books",
-    "url": "https://www.amazon.com/dp/0060731648?tag=herb-hugo-20",
+    "url": "https://www.barnesandnoble.com/w/the-improvisational-cook-sally-schneider/1100560805",
     "original_url": "https://www.amazon.com/dp/0060731648?tag=herb-hugo-20",
     "asins": [
       "0060731648"
-    ]
+    ],
+    "merchant": "Barnes & Noble"
   },
   "the-man-who-ate-everything": {
     "name": "The Man Who Ate Everything",
@@ -5472,11 +5500,12 @@
   "the-perfect-scoop": {
     "name": "The Perfect Scoop",
     "category": "books",
-    "url": "https://www.amazon.com/dp/1580088082?tag=herb-hugo-20",
+    "url": "https://www.barnesandnoble.com/w/the-perfect-scoop-revised-and-updated-david-lebovitz/1126683499?ean=9780399580314",
     "original_url": "https://www.amazon.com/dp/1580088082?tag=herb-hugo-20",
     "asins": [
       "1580088082"
-    ]
+    ],
+    "merchant": "Barnes & Noble"
   },
   "the-spice-lab-cyprus-black-flake-sea-salt-4-oz": {
     "name": "The Spice Lab Cyprus Black Flake Sea Salt 4 oz",
@@ -5805,11 +5834,12 @@
   "umeboshi-plums": {
     "name": "Umeboshi Plums",
     "category": "asian-pantry",
-    "url": "https://www.amazon.com/dp/B001ASEUTI?tag=herb-hugo-20",
+    "url": "https://www.chefshop.com/products/yuasa-noen-organic-umeboshi-uminosei",
     "original_url": "https://www.amazon.com/dp/B001ASEUTI?tag=herb-hugo-20",
     "asins": [
       "B001ASEUTI"
-    ]
+    ],
+    "merchant": "ChefShop.com"
   },
   "unsalted-roasted-pistachio-kernels": {
     "name": "Unsalted, Roasted Pistachio Kernels",
@@ -5894,11 +5924,12 @@
   "vermouth": {
     "name": "Vermouth",
     "category": "oils-vinegars",
-    "url": "https://www.amazon.com/dp/B005J0KRG8?tag=herb-hugo-20",
+    "url": "https://www.totalwine.com/spirits/amaro-aperitif-vermouth/vermouth/dry/martini-rossi-dry-vermouth/p/3619750",
     "original_url": "https://www.amazon.com/dp/B005J0KRG8?tag=herb-hugo-20",
     "asins": [
       "B005J0KRG8"
-    ]
+    ],
+    "merchant": "Total Wine"
   },
   "vita-prep": {
     "name": "Vita-Prep",
