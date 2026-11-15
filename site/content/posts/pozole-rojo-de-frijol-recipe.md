@@ -45,7 +45,7 @@ recipe:
 <p><strong>Pozole Rojo de Frijol</strong>
 </p>
 <ul>
-<li>1 or 2 (or more, if you like a lot of heat) dried chiles de Arbol, ancho, or <a href="https://www.amazon.com/Guajillo-Chiles-Peppers-Dried-Whole/dp/B07VB5DVP1?tag=herb-hugo-20">guajillo chiles</a></li>
+<li>1 or 2 (or more, if you like a lot of heat) dried chiles de Arbol, ancho, or {{% product id="guajillo-chiles-peppers-dried-whole-4-oz" %}}guajillo chiles{{% /product %}}</li>
 <li>2 tablespoons oil</li>
 <li>1 medium onion, diced</li>
 <li>4 cloves garlic, minced</li>

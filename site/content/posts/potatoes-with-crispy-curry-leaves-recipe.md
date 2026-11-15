@@ -47,7 +47,7 @@ Vegetarian and gluten-free</em>
 	<li>About 30 fresh or frozen curry leaves</li>
 	<li>1/2 teaspoon cumin powder</li>
 	<li>Freshly ground black pepper</li>
-	<li>Flaky sea salt (<a href="https://www.amazon.com/dp/B0006FS4TI?tag=herb-hugo-20">Maldon (aka the world's greatest salt)</a>!)</li>
+	<li>Flaky sea salt ({{% product id="maldon-salt-sea-salt-flakes-8-5-oz" %}}Maldon (aka the world's greatest salt){{% /product %}}!)</li>
 </ul>
 <div>
 <ol>

@@ -37,7 +37,7 @@ I think this could easily be my new go-to brunch recipe. It has all of the right
 
 The preferred way to cook a Dutch Baby is in a cast iron skillet with a lot of butter in the bottom so that you get a little bit of a popover-type crust. It automatically puffs up and then sinks in the center, and you can then fill it with powdered sugar and fruit of your choice.
 
-I like the savory direction that Allen went with it as well. The batter isn't sweetened, so I can see a lot of room to experiment. I'd like to try one with cubes of Swiss cheese and <a href="http://www.amazon.com/dp/B000NO943C/?tag=poeticlicen07-20" target="_blank" rel="nofollow">smoked paprika</a>. And conversely it could be dressed up into a full scale dessert with the addition of ice cream.
+I like the savory direction that Allen went with it as well. The batter isn't sweetened, so I can see a lot of room to experiment. I'd like to try one with cubes of Swiss cheese and {{% product id="smoked-paprika" target="_blank" %}}smoked paprika{{% /product %}}. And conversely it could be dressed up into a full scale dessert with the addition of ice cream.
 
 I <a href="http://www.cooks.com/rec/view/0,1718,156188-227207,00.html" target="_blank">consulted</a> <a href="http://cookingwithamy.blogspot.com/2003/11/dutch-babyrecipe.html" target="_blank">several</a> recipes and came up with this version, which I think you will like. It is is the perfect amount for a big 12" cast iron skillet, and will serve 3 people if they are hungry and there are no other dishes, or about 5 if it is only part of a larger meal.
 

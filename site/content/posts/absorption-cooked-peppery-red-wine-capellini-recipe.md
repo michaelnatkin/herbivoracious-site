@@ -58,7 +58,7 @@ recipe:
 <li>1 ½ pounds zucchini, 1/2" dice</li>
 <li>1 small bunch asparagus, trimmed and cut into 1/2" lengths</li>
 <li>1 1/2 cups cherry tomatoes, halved (1 cup cooked in, the remainder for garnish)</li>
-<li>1 tablespoon <a href="https://www.amazon.com/dp/B000O9X8VU?tag=herb-hugo-20">smoked paprika (pimenton de la vera)</a></li>
+<li>1 tablespoon {{% product id="artisan-spanish-piment-n-de-la-vera-hot-sweet-2" %}}smoked paprika (pimenton de la vera){{% /product %}}</li>
 <li>1 teaspoon fresh ground black pepper</li>
 <li>1/4 teaspoon cayenne pepper</li>
 <li>2 tablespoons fresh oregano leaves</li>

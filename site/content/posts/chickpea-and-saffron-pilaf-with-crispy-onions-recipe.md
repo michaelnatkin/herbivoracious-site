@@ -54,7 +54,7 @@ By the way, did you ever wonder how restaurants make saffron rice with some grai
   <li>2 cups cooked chickpeas</li>
   <li>1 bunch dill, rinsed, dried, and minced at last minute (no stems)</li>
   <li>1 bunch mint, rinsed, dried and torn at last minute</li>
-  <li><a href="https://www.amazon.com/dp/B00017028M?tag=herb-hugo-20">Maldon salt</a></li>
+  <li>{{% product id="maldon-salt-sea-salt-flakes-8-5-oz" %}}Maldon salt{{% /product %}}</li>
   <li>1 lemon, cut into wedges</li>
 </ul>
   <h3>Instructions</h3>

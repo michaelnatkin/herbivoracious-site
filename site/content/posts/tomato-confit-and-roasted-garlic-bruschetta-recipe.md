@@ -43,12 +43,12 @@ recipe:
 <li>1 tablespoon finely sliced fresh mint leaves</li>
 <li>¼ teaspoon Kosher salt</li>
 <li>4 thick slices rustic bread</li>
-<li><a href="https://www.amazon.com/dp/B00017028M?tag=herb-hugo-20">flaky sea salt</a></li>
+<li>{{% product id="maldon-salt-sea-salt-flakes-8-5-oz" %}}flaky sea salt{{% /product %}}</li>
 </ul>
 <ol>
 <li>Cut off the top ¼” of the head of garlic. Rub with a little olive oil and wrap in tin foil. Roast for about 45 minutes at 300 degrees until the garlic is completely soft and can be squeezed right out of the skin.</li>
 <li>Remove all of the garlic cloves from the skin and finely chop them. Mix with the tomato confit, mint and Kosher salt.</li>
-<li>Heat a grill or a <a href="https://www.amazon.com/dp/B0000CF66W?tag=herb-hugo-20">grill pan</a> to medium high (or use a toaster oven as a last resort). Brush the bread generously on one side with extra-virgin olive oil. Toast until well browned and nice grill marks have formed.</li>
+<li>Heat a grill or a {{% product id="grill-pan" %}}grill pan{{% /product %}} to medium high (or use a toaster oven as a last resort). Brush the bread generously on one side with extra-virgin olive oil. Toast until well browned and nice grill marks have formed.</li>
 <li>Divide the topping among the four pieces of bread, season with a few flakes of sea salt and serve immediately.</li>
 </ol>
 </div>

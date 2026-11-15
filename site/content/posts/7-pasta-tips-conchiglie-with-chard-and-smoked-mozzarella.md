@@ -35,7 +35,7 @@ recipe:
 ---
 <span style="font-size: 11px; font-family: Arial;">Conchiglie Pasta with Swiss Chard and Smoked Mozzarella</span>
 
-This dish is kind of a blast from the past for me. Not the specific ingredients, but it is so much the way I cooked for most of my adult life. Nothing complicated, just a simple pasta mixed with a bunch of flavorful and harmonious ingredients. No real sauce beyond the melting <strong><a href="https://www.amazon.com/dp/B079VL5BHN?tag=herb-hugo-20">smoked mozzarella</a></strong> and a little sherry.
+This dish is kind of a blast from the past for me. Not the specific ingredients, but it is so much the way I cooked for most of my adult life. Nothing complicated, just a simple pasta mixed with a bunch of flavorful and harmonious ingredients. No real sauce beyond the melting <strong>{{% product id="smoked-mozzarella" %}}smoked mozzarella{{% /product %}}</strong> and a little sherry.
 
 From what I've seen in Italy, this style of pasta really isn't particularly Italian, where they tend to favor simple pastas with just a few components, often as a prelude to a heartier second course. This style is more of an American take, with a thoughtfully chosen "kitchen sink" of ingredients to maximize flavor and texture, interesting enough to be a meal on its own.
 
@@ -59,14 +59,14 @@ Vegetarian; not vegan or gluten-free but adaptable</em>
 	<li>1/2 medium white onion, thinly sliced</li>
 	<li>2 teaspoons fresh thyme leaves or 1 teaspoon dried</li>
 	<li>3 fresh sage leaves, finely chopped or 2 teaspoons dried</li>
-	<li>1 teaspoon <a href="https://www.amazon.com/dp/B0000EYPJS?tag=herb-hugo-20">dried chili flakes</a> (or to your taste)</li>
+	<li>1 teaspoon {{% product id="chili-flakes" %}}dried chili flakes{{% /product %}} (or to your taste)</li>
 	<li>2 bunches of chard leaves (any variety), stemmed, cleaned, and roughly sliced or torn</li>
 	<li>1 can artichoke bottoms (or hearts, but bottoms are better), medium slices</li>
 	<li>1/2 can white beans</li>
 	<li>1/2 cup dry sherry</li>
 	<li>2/3 pound smoked mozzarella, cubed</li>
-	<li>1 pound <a href="https://www.amazon.com/dp/B005SY3OJC?tag=herb-hugo-20">conchiglie</a></li>
-	<li>1/4 cup shelled <a href="https://www.amazon.com/dp/B07TVJ9GSD?tag=herb-hugo-20">pumpkin seeds</a> (pepita, they should be green), lightly toasted</li>
+	<li>1 pound {{% product id="conchiglie" %}}conchiglie{{% /product %}}</li>
+	<li>1/4 cup shelled {{% product id="pepitas-green-hulled-pumpkin-seeds" %}}pumpkin seeds{{% /product %}} (pepita, they should be green), lightly toasted</li>
 	<li>salt and pepper</li>
 </ul>
 <ol>

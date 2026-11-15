@@ -1,0 +1,2 @@
+# Extra merchant domains whose links should become catalog products (one per line).
+# Domains of products already in the catalog are recognized automatically.

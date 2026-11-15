@@ -20,7 +20,7 @@ recipe:
     - "Freeze for at least 12 hours, then thaw in the refrigerator. The pickled onions are now ready for use, and will keep in the refrigerator for at least a few day."
 ---
 
-<p>Aki Kamozawa & H. Alexander Talbot, in their <a href="https://www.amazon.com/dp/0307717402?tag=herb-hugo-20">Ideas In Food cookbook</a>, have terrific chapters on pickling, and on freezing food to intentionally modify texture. I like to combine these two methods into something I call “cryo-pickling”.</p>
+<p>Aki Kamozawa & H. Alexander Talbot, in their {{% product id="ideas-in-food-great-recipes-and-why-they-work" %}}Ideas In Food cookbook{{% /product %}}, have terrific chapters on pickling, and on freezing food to intentionally modify texture. I like to combine these two methods into something I call “cryo-pickling”.</p>
 <p>When you freeze a vegetable, ice crystals puncture the cell walls. A slow thaw allows water to drain out, resulting in a denser product with more concentrated flavors. If you do this same process in the presence of a pickling liquid, as the water goes out, the pickling flavors have the opportunity to migrate in.</p>
 <p>In the example below, we are pickling onions with mild Asian spices. You can serve this with the Pear and Gouda Salad on , and use the pickling liquid as part of the dressing.</p>
 <p>Feel free to change either the vegetable or the marinade; this method is very flexible. How about cantaloupe with Sichuan peppercorns? Experiment and have fun!</p>

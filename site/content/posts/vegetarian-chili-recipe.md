@@ -48,7 +48,7 @@ There are many types of vegetarian chili, some loaded up with a meat-substitute,
 
 This is my "weekend" version of the vegetarian chili recipe, where I boil my own beans and make a tomato-chili sauce from relative scratch. Sometime soon I'll post a "weeknight" formula using more prepared ingredients. But remember, you can make this on the weekend and eat it all week.
 
-Let's talk about heat level for a minute. This sauce is flavored primarily with <a href="https://www.amazon.com/dp/B07BZW6DSC?tag=herb-hugo-20">whole dried chili peppers</a>. You can control the spice by how many you put in, and how hot they are. I like to build a moderately spicy base, and then add canned chipotle pepper to the nearly finished product as needed. Don't omit them completely even if you don't like much heat, because they provide a lot of fruity flavor and thicken the sauce. Just go for milder varieties like ancho. Aim for the lowest common denominator that your dining companions can handle, and then offer hot sauces on the side, like Tapatio or Tabasco, or more adventurous brews. Don't try to use fresh chilis, they are for completely different types of dishes.
+Let's talk about heat level for a minute. This sauce is flavored primarily with {{% product id="ancho-guajillo-pasilla-cascabel-de-arbol" %}}whole dried chili peppers{{% /product %}}. You can control the spice by how many you put in, and how hot they are. I like to build a moderately spicy base, and then add canned chipotle pepper to the nearly finished product as needed. Don't omit them completely even if you don't like much heat, because they provide a lot of fruity flavor and thicken the sauce. Just go for milder varieties like ancho. Aim for the lowest common denominator that your dining companions can handle, and then offer hot sauces on the side, like Tapatio or Tabasco, or more adventurous brews. Don't try to use fresh chilis, they are for completely different types of dishes.
 
 I use a mixture of pinto, black and kidney beans in this recipe, and soak them overnight. You <em>can</em> get away without soaking them, or do a quick soak for a couple of hours starting with hot water. But honestly, it isn't the same. Overnight soaked beans just plain come out more tender and delicious, and much better than from a can.
 
@@ -62,8 +62,8 @@ Cook time: <span class="cookTime">2 hours</span> </em>
 	<li>1 1/2cups dry pinto beans</li>
 	<li>1 cup dry black beans</li>
 	<li>1/2 cup dry kidney beans</li>
-	<li>3 to 6 dried chili pods (any combination of <a href="https://www.amazon.com/dp/B07BZW6DSC?tag=herb-hugo-20">ancho, guajillo, pasilla, cascabel, de arbol, ... </a>)</li>
-	<li>1 small can <a href="https://www.amazon.com/dp/B002N3XZ6I?tag=herb-hugo-20">chipotle pepper in adobo</a> (double check for gluten free, or use dried morita peppers instead)</li>
+	<li>3 to 6 dried chili pods (any combination of {{% product id="ancho-guajillo-pasilla-cascabel-de-arbol" %}}ancho, guajillo, pasilla, cascabel, de arbol, ... {{% /product %}})</li>
+	<li>1 small can {{% product id="chipotle-pepper-canned-in-adobo-sauce" %}}chipotle pepper in adobo{{% /product %}} (double check for gluten free, or use dried morita peppers instead)</li>
 	<li>28 oz. can of crushed tomatoes</li>
 	<li>1 medium carrot, finely diced</li>
 	<li>1 white or yellow onion, finely diced</li>

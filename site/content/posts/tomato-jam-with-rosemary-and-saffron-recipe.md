@@ -24,7 +24,7 @@ recipe:
   instructions:
     - "How about this for easy? Bring all ingredients to a simmer (the liquid will all come out of the tomatoes, you don't need to add any). Cook for about an hour, until thick and syrupy. Taste and adjust seasonings."
 ---
-<em>Tomato Jam With Rosemary and <a href="https://www.amazon.com/dp/B07J29JF27?tag=herb-hugo-20">Saffron</a> (on a Grilled Cheese Sandwich)
+<em>Tomato Jam With Rosemary and {{% product id="zaran-saffron-superior-saffron-threads-super" %}}Saffron{{% /product %}} (on a Grilled Cheese Sandwich)
 </em>
 
 Tomato jam. Sounds kind of funny, right? But then when you think about it, a tomato is a fruit after all. Cook them down with sugar and seasonings and you get a piquant jam, though you might think of it more as a chutney.

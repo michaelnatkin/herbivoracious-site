@@ -19,10 +19,10 @@ Vegetarian, vegan, and gluten-free</em>
 <ul>
 	<li>2 red grapefruit, sliced as described above</li>
 	<li>1 ripe avocado, thinly sliced</li>
-	<li>about 12 <a href="https://www.amazon.com/dp/B0DCG5973B?tag=herb-hugo-20">chervil</a> sprigs</li>
-	<li>1 tablespoon <a href="https://www.amazon.com/dp/B0B8T8K2TC?tag=herb-hugo-20">capers</a>, briefly soaked to remove some salt and drained</li>
+	<li>about 12 {{% product id="chervil" %}}chervil{{% /product %}} sprigs</li>
+	<li>1 tablespoon {{% product id="maille-pickles-cornichons-original" %}}capers{{% /product %}}, briefly soaked to remove some salt and drained</li>
 	<li>2 tablespoons fruity extra virgin olive oil</li>
-	<li>sea salt (<a href="https://www.amazon.com/dp/B0019N89VE?tag=herb-hugo-20">Maldon (aka the world's greatest salt)!</a>)</li>
+	<li>sea salt ({{% product id="maldon-aka-the-world-s-greatest-salt-sea-salt" %}}Maldon (aka the world's greatest salt)!{{% /product %}})</li>
 	<li>fresh ground black pepper</li>
 </ul>
 <ol>

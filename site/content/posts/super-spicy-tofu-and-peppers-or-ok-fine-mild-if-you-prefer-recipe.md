@@ -33,7 +33,7 @@ After last week's <a href="/2012/05/how-to-make-tofu-really-freaking-delicious-t
 
 Of course, you don't have to make it so hot - in fact it can be completely mild. The jalapeno is treated like a vegetable, not just a flavoring, so all you have to do is adjust the ratio of jalapeno to red bell pepper. Do it with 100% bell pepper and you have a dish that is friendly to kids and the heat-averse.
 
-You might consider adding some roasted peanuts for an additional layer of flavor and crunch, or a few pinches of ground <a href="http://www.amazon.com/dp/B000EMAQ4E/?tag=poeticlicen07-20">Szechwan peppercorn</a> if you enjoy its tongue-numbing tingle.
+You might consider adding some roasted peanuts for an additional layer of flavor and crunch, or a few pinches of ground {{% product id="sichuan-peppercorns" %}}Szechwan peppercorn{{% /product %}} if you enjoy its tongue-numbing tingle.
 
 Like any stir-fry, you'll want to be sure you have your sauce mixed and all of your tofu and vegetables cut before you start cooking, as once the tofu hits the pan, this dish comes together fast!
 
@@ -45,10 +45,10 @@ In step 5 of the recipe, you'll see I say to cook the peppers until the colors b
 </em><em>Serves 2 </em>
 <ul>
 	<li>1/2 teaspoon cornstarch</li>
-	<li>1/4 cup <a href="https://www.amazon.com/dp/B00NN05FXQ?tag=herb-hugo-20">tamari</a> (gluten-free if needed) or other soy sauce</li>
+	<li>1/4 cup {{% product id="tamari" %}}tamari{{% /product %}} (gluten-free if needed) or other soy sauce</li>
 	<li>2 teaspoons sugar</li>
 	<li>2 cloves garlic, minced</li>
-	<li>1 teaspoon <a href="https://www.amazon.com/dp/B005WXMPMQ?tag=herb-hugo-20">toasted sesame oil</a></li>
+	<li>1 teaspoon {{% product id="la-tourangelle-toasted-sesame-oil-16-9-fl-oz" %}}toasted sesame oil{{% /product %}}</li>
 	<li>1/2 pound extra-firm tofu cut into 1/2" cubes</li>
 	<li>4 jalapeno peppers</li>
 	<li>1/2 red bell pepper</li>

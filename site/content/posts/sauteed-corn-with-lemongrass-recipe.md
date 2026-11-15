@@ -41,7 +41,7 @@ recipe:
 <li>2 stalks lemongrass, tender parts only, minced</li>
 <li>1 inch piece of fresh ginger, peeled and minced</li>
 <li>3 cloves garlic, minced</li>
-<li>2 <a href="https://www.amazon.com/dp/B00TZ8BK5W?tag=herb-hugo-20">kaffir lime leaves</a> (optional)</li>
+<li>2 {{% product id="dried-kaffir-lime-leaves" %}}kaffir lime leaves{{% /product %}} (optional)</li>
 <li>2 or more small hot green chile peppers, minced (optional)</li>
 <li>2 medium yellow summer squash or zucchini, 1/2" dice</li>
 <li>1 yellow bell pepper, 1/2" dice</li>

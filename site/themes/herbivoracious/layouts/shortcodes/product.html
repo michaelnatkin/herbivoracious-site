@@ -1,0 +1,6 @@
+{{- /* {{% product id="catalog-id" [target="_blank"] >}}link text{{< /product >}} — URL comes from data/products.json */ -}}
+{{- $id := .Get "id" -}}
+{{- $p := index site.Data.products $id -}}
+{{- if not $p }}{{ errorf "product shortcode: unknown product id %q in %s" $id .Page.File.Path }}{{ end -}}
+{{- $target := .Get "target" -}}
+<a href="{{ $p.url }}"{{ with $target }} target="{{ . }}"{{ end }} rel="nofollow sponsored{{ if eq $target "_blank" }} noopener{{ end }}">{{ .Inner }}</a>

@@ -43,7 +43,7 @@ recipe:
 <li>1 tablespoon agave nectar or honey</li>
 <li>1 ¾ cups all-purpose flour</li>
 <li>¼ cup rice flour</li>
-<li>¼ cup <a href="https://www.amazon.com/dp/B0CBW3D9T7?tag=herb-hugo-20">malt powder</a></li>
+<li>¼ cup {{% product id="scratch-diastatic-malt-powder-for-baking" %}}malt powder{{% /product %}}</li>
 <li>1 teaspoon Kosher salt</li>
 </ul>
 <ol>

@@ -41,7 +41,7 @@ recipe:
 <li>1 ripe banana, peeled and finely diced</li>
 <li>juice of ½ lemon</li>
 <li>1 tablespoon vegetable oil</li>
-<li>1 tablespoon <a href="https://www.amazon.com/dp/B000MZC7C2?tag=herb-hugo-20">black mustard seed</a></li>
+<li>1 tablespoon {{% product id="black-mustard-seeds" %}}black mustard seed{{% /product %}}</li>
 <li>1 cup yogurt</li>
 <li>½ teaspoon salt</li>
 <li>½ teaspoon sugar</li>

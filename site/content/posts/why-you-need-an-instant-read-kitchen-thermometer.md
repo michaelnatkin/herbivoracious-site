@@ -8,7 +8,7 @@ cover:
   image: "/images/2012/09/Digital-Thermometer-626x415.webp"
   hidden: true
 ---
-An instant-read thermometer might seem like one of those kitchen gadgets you don't really need. <strong>Most of us cook by the seat of our pants anyhow, right?</strong> Maybe it seems a little too "cheffy?" But I think you'll find that if you get one, even a <a href="https://www.amazon.com/dp/B00009WE45?tag=herb-hugo-20">basic $12 model</a> like I have pictured above, you'll use it a lot, and it will increase your confidence in a wide range of kitchen tasks. See below for reasons you might want to get an even better one.
+An instant-read thermometer might seem like one of those kitchen gadgets you don't really need. <strong>Most of us cook by the seat of our pants anyhow, right?</strong> Maybe it seems a little too "cheffy?" But I think you'll find that if you get one, even a {{% product id="basic-12-model" %}}basic $12 model{{% /product %}} like I have pictured above, you'll use it a lot, and it will increase your confidence in a wide range of kitchen tasks. See below for reasons you might want to get an even better one.
 
 Here are some of the things I use an instant-read thermometer for:
 <ul class="NormalBullets">
@@ -21,15 +21,15 @@ Here are some of the things I use an instant-read thermometer for:
 	<li>Sugar temperature for candy</li>
 	<li>Bread is done at about 205 F (no more knocking on the loaf and listening for a hollow sound); quickbreads around 195 F</li>
 </ul>
-As to which one you should buy, I have the <a href="https://www.amazon.com/dp/B00009WE45?tag=herb-hugo-20">Taylor 9842</a> pictured above. <strong>I've used it for years with no problems at all.</strong> I had to replace the battery once, and recalibrate it maybe once a year. You should understand that with this model, as well as the other inexpensive ones I've seen, "instant read" is a bit generous. It takes maybe 10 or 12 seconds to stabilize a reading, and with all of our Internet-modified attention spans, that doesn't exactly seem instant anymore.
+As to which one you should buy, I have the {{% product id="basic-12-model" %}}Taylor 9842{{% /product %}} pictured above. <strong>I've used it for years with no problems at all.</strong> I had to replace the battery once, and recalibrate it maybe once a year. You should understand that with this model, as well as the other inexpensive ones I've seen, "instant read" is a bit generous. It takes maybe 10 or 12 seconds to stabilize a reading, and with all of our Internet-modified attention spans, that doesn't exactly seem instant anymore.
 
 <h4><em>Update, 10/18/2012</em></h4>
 
-I had originally mentioned that there is a <a href="https://www.amazon.com/dp/B003P601S2?tag=herb-hugo-20">more expensive Thermapen model</a> that many people seem to like, but that I hadn't tried it. A few commenters said they loved theirs, and then Jesse who works for Thermoworks offered to send me one. It arrived yesterday and I spent a little while playing with it and comparing to the Taylor. There is <strong>no doubt</strong>, it gets to a reliable reading much quicker than the Taylor. It really does get within 1 degree of the final temp in just 3 seconds - a substantial advantage when you need to test the same custard or candy multiple times.
+I had originally mentioned that there is a {{% product id="more-expensive-thermapen-model" %}}more expensive Thermapen model{{% /product %}} that many people seem to like, but that I hadn't tried it. A few commenters said they loved theirs, and then Jesse who works for Thermoworks offered to send me one. It arrived yesterday and I spent a little while playing with it and comparing to the Taylor. There is <strong>no doubt</strong>, it gets to a reliable reading much quicker than the Taylor. It really does get within 1 degree of the final temp in just 3 seconds - a substantial advantage when you need to test the same custard or candy multiple times.
 
 You'll love the owner's manual - you can tell right away these guys are temperature geeks, passionate about helping you get your food safe and delicious. Exactly the kind kind of people I like to work with.
 
-I tried the <a href="https://www.amazon.com/dp/B003P601S2?tag=herb-hugo-20">Thermapen</a> on a carefully made ice bath and boiling water, and it literally nailed 0 degrees C and 100 degrees C. I had recalibrated the Taylor and it was hitting 0 accurately, but reading 101.5 C for the boiling water. So the thermapen is both quicker and more accurate. 
+I tried the {{% product id="more-expensive-thermapen-model" %}}Thermapen{{% /product %}} on a carefully made ice bath and boiling water, and it literally nailed 0 degrees C and 100 degrees C. I had recalibrated the Taylor and it was hitting 0 accurately, but reading 101.5 C for the boiling water. So the thermapen is both quicker and more accurate. 
 
 My only nitpick: you can choose between Celsius and Fahrenheit, but only by setting a switch in the battery compartment. I have some temps in my head in C and some in F - e.g. I remember food safety in F (40 - 140 being the danger zone), and others, like egg and sous vides done-ness in C (62 C soft-boiled eggs are awesome). So I wish the Thermapen offered an external switch. But overall I think it is clearly a much better tool and worth the additional money.
 

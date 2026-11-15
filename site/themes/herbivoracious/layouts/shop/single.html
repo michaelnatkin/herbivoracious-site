@@ -20,17 +20,19 @@
       {{ partial "affiliate-disclosure.html" . }}
 
       {{ $slug := .Params.category_slug }}
-      {{ $data := site.Data.products }}
-      {{ range $data.categories }}
-      {{ if eq .slug $slug }}
+      {{ $usage := partialCached "product-usage.html" "usage" }}
+      {{ $items := slice }}
+      {{ range $id, $p := site.Data.products }}
+        {{ if eq $p.category $slug }}{{ $items = $items | append (merge $p (dict "id" $id)) }}{{ end }}
+      {{ end }}
       <ul class="shop-list shop-grid">
-        {{ range .products }}
+        {{ range sort $items "name" }}
         <li class="shop-item">
-          <a href="{{ .url }}" class="shop-item__link" target="_blank" rel="noopener noreferrer nofollow">{{ .name }}</a>
+          <a href="{{ .url }}" class="shop-item__link" target="_blank" rel="noopener noreferrer nofollow sponsored">{{ .name }}</a>
           {{ with .review_url }}
           <a href="{{ . }}" class="shop-item__review">read review →</a>
           {{ end }}
-          {{ with .featured_in }}
+          {{ with index $usage .id }}
           <span class="shop-item__featured">
             Featured in:
             {{ range $i, $item := . }}{{ if $i }}, {{ end }}<a href="{{ $item.url }}">{{ $item.title }}</a>{{ end }}
@@ -39,8 +41,6 @@
         </li>
         {{ end }}
       </ul>
-      {{ end }}
-      {{ end }}
 
       <div class="shop-back">
         <a href="/shop/">← Back to all categories</a>

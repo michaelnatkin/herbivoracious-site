@@ -42,7 +42,7 @@ recipe:
 <li>about 12 chervil sprigs</li>
 <li>1 tablespoon capers, briefly soaked to remove some salt, drained</li>
 <li>2 tablespoons fruity extra virgin olive oil</li>
-<li><a href="https://www.amazon.com/dp/B00017028M?tag=herb-hugo-20">sea salt</a> (preferably Maldon)</li>
+<li>{{% product id="maldon-salt-sea-salt-flakes-8-5-oz" %}}sea salt{{% /product %}} (preferably Maldon)</li>
 <li>fresh ground white or black pepper</li>
 </ul>
 <ol>

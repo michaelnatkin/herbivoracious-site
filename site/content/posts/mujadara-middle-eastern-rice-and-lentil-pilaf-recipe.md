@@ -41,10 +41,10 @@ recipe:
 <li>3 pounds white onions, sliced moderately thin</li>
 <li>1/4 cup vegetable oil</li>
 <li>1/2 cup white wine or vermouth (optional)</li>
-<li>3 cups cooked <a href="https://www.amazon.com/dp/B001PEZLCW?tag=herb-hugo-20">brown or green lentils</a> (not red lentils or French lentils), tender but not falling apart</li>
+<li>3 cups cooked {{% product id="brown-or-green-lentils" %}}brown or green lentils{{% /product %}} (not red lentils or French lentils), tender but not falling apart</li>
 <li>6 cups cooked long grain white or brown rice</li>
-<li>1/4 teaspoon <a href="https://www.amazon.com/dp/B074ZP9VWB?tag=herb-hugo-20">ground cinnamon</a></li>
-<li>1/4 teaspoon <a href="https://www.amazon.com/dp/B001PQOAOA?tag=herb-hugo-20">ground cumin</a></li>
+<li>1/4 teaspoon {{% product id="ground-cinnamon" %}}ground cinnamon{{% /product %}}</li>
+<li>1/4 teaspoon {{% product id="ground-cumin" %}}ground cumin{{% /product %}}</li>
 <li>salt</li>
 <li>black pepper</li>
 <li>small handful of flat leaf parsley for serving</li>

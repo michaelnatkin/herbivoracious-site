@@ -25,16 +25,16 @@ By the way, the easiest way to trim asparagus is just to grab a few spears at a 
 
 **Bucatini with Smoked Asparagus and Gorgonzola***Vegetarian / Serves 4 / 40 minutes*
 
-- 1/2 cup wood chips (first choice: [cherry wood](https://www.amazon.com/dp/B0B2TMFT6D?tag=herb-hugo-20))
+- 1/2 cup wood chips (first choice: {{% product id="cherry-wood" %}}cherry wood{{% /product %}})
 - 16 very thick asparagus spears, woody ends trimmed
 - 1 tablespoon extra-virgin olive oil
 - 3 tablespoons butter
 - 4 garlic cloves
-- 1 teaspoon [smoked paprika](https://www.amazon.com/dp/B000NO943C?tag=herb-hugo-20)
+- 1 teaspoon {{% product id="smoked-paprika" %}}smoked paprika{{% /product %}}
 - 1/2 teaspoon crushed red pepper
-- 2 tablespoons [aged balsamic vinegar](https://www.amazon.com/dp/B085WF23VH?tag=herb-hugo-20) (or balsamic reduction - not thin grocery store balsamic!) - optional
+- 2 tablespoons {{% product id="giusti-traditional-aged-balsamic-vinegar-of" %}}aged balsamic vinegar{{% /product %}} (or balsamic reduction - not thin grocery store balsamic!) - optional
 - Kosher salt
-- 1 pound [bucatini](https://www.amazon.com/dp/B0050ILALA?tag=herb-hugo-20)
+- 1 pound {{% product id="bucatini" %}}bucatini{{% /product %}}
 - 6 ounces gorgonzola, crumbled in large chunks
 - Flat leaf parsley
 - Fresh ground pepper
@@ -42,7 +42,7 @@ By the way, the easiest way to trim asparagus is just to grab a few spears at a 
 1. ~~Place the wood chips in the bottom of a pot that you don't mind discoloring. Set a steamer basket (or other improvised rack) above the chips. Coat the asparagus with the olive oil and place it in the basket. Cover the pot and set over a medium-high burner. After about 5 minutes, lift the lid and confirm that there is some smoke being generated. If there is none, raise the heat a bit. If there are billowing clouds, lower it. Re-cover and cook for about 10 minutes, until the asparagus is tender when poked with a knife.~~ See note on safer smoking above. Remove the asparagus and allow to cool enough that you can handle it.
 2. Cut off the asparagus tips (and about 1/2" of stem) and reserve. Slice the remaining stem lengthwise into several strands, about the same diameter as your pasta.
 3. Bring a very large pot of well-salted water to a boil, and warm your serving bowls.
-4. Place a large skillet over medium heat. Melt the butter. Add the garlic, [smoked paprika](https://www.amazon.com/dp/B000NO943C?tag=herb-hugo-20), and red pepper. Cook for about two minutes, until the garlic is tender but not browned. Add the asparagus and a big pinch of salt and cook one more minute. Turn off heat.
+4. Place a large skillet over medium heat. Melt the butter. Add the garlic, {{% product id="smoked-paprika" %}}smoked paprika{{% /product %}}, and red pepper. Cook for about two minutes, until the garlic is tender but not browned. Add the asparagus and a big pinch of salt and cook one more minute. Turn off heat.
 5. Boil the pasta until just short of al dente. Return the skillet to medium=high heat and transfer the pasta along with some of the water clinging to it into it. Add the aged balsamic if using. Use tongs to toss the pasta with the asparagus and seasonings. Add a little more of the pasta water if the dish seems "tight". Taste and adjust seasoning.
 6. Divide the pasta among the warmed serving bowls. Garnish with the reserved asparagus tips, the gorgonzola, a few leaves of parsley, and a hearty grind of pepper. Serve immediately.
 

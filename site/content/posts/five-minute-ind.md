@@ -38,13 +38,13 @@ Five-Minute Indian-style Cabbage</strong>
 Vegetarian, vegan, and gluten-free</em>
 <ul>
 	<li>1/2 head green cabbage, cored and sliced into 1/4" wide ribbons</li>
-	<li>1 tablespoon vegetable oil or ghee (clarified butter), or <a href="https://www.amazon.com/dp/B08W4PP6W2?tag=herb-hugo-20">mustard oil</a>, or more to taste</li>
-	<li>1 tablespoon <a href="https://www.amazon.com/dp/B000JMAXMY?tag=herb-hugo-20">black mustard seeds</a></li>
+	<li>1 tablespoon vegetable oil or ghee (clarified butter), or {{% product id="mustard-oil" %}}mustard oil{{% /product %}}, or more to taste</li>
+	<li>1 tablespoon {{% product id="black-mustard-seeds" %}}black mustard seeds{{% /product %}}</li>
 	<li>1/2 teaspoon cumin powder</li>
-	<li>1/2 teaspoon <a href="https://www.amazon.com/dp/B000VK49YM?tag=herb-hugo-20">turmeric powder</a></li>
+	<li>1/2 teaspoon {{% product id="turmeric-powder" %}}turmeric powder{{% /product %}}</li>
 	<li>1/4 teaspoon cayenne pepper</li>
 	<li>1 teaspoon salt</li>
-	<li>optional: garlic, ginger, <a href="https://www.amazon.com/dp/B00LNURL94?tag=herb-hugo-20">unsweetened shredded coconut</a>, fresh chilis or dried chili flakes, <a href="https://www.amazon.com/dp/B00309S13Q?tag=herb-hugo-20">garam masala</a></li>
+	<li>optional: garlic, ginger, {{% product id="unsweetened-shredded-coconut" %}}unsweetened shredded coconut{{% /product %}}, fresh chilis or dried chili flakes, {{% product id="garam-masala" %}}garam masala{{% /product %}}</li>
 	<li>optional garnish: cilantro, lemon juice</li>
 </ul>
 <ol>

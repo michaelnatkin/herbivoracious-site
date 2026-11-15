@@ -39,7 +39,7 @@ recipe:
 <ul>
 <li>½ white onion or sweet onion, very finely diced (1 ½ cups diced)</li>
 <li>1 tablespoon vegetable oil</li>
-<li>2 teaspoons <a href="https://www.amazon.com/dp/B000MZC7C2?tag=herb-hugo-20">black mustard seeds</a></li>
+<li>2 teaspoons {{% product id="black-mustard-seeds" %}}black mustard seeds{{% /product %}}</li>
 <li>½ teaspoon cumin powder</li>
 <li>¼ teaspoon cayenne pepper</li>
 <li>1 tablespoon tomato paste</li>

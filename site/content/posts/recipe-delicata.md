@@ -65,7 +65,7 @@ Vegetarian, vegan if you use olive oil instead of the brown butter, gluten-free 
 	<li>Boil the orzo according to package directions, being sure to leave it al dente, then drain. Strain the brown butter, add the lemon juice, and toss with the orzo. You may not need all of the butter. If you have some left, try it on popcorn or brussel sprouts.</li>
 	<li>Toast the pepitas in a skillet, toaster oven, or oven until slightly browned and smelling good. Add the cranberries and pepitas to the orzo Season with salt and pepper to taste.</li>
 	<li>Mound the orzo into the squash. At this point you can refrigerate them for later use, or serve immediately.</li>
-	<li>To serve, sprinkle on a good layer of breadcrumbs and heat in oven. If reheating from cold, start covered with tinfoil and remove for the last few minutes. Garnish with the parsley and pomegranate seeds, a good finishing salt (such as <a href="http://www.amazon.com/dp/B0006FS4TI/?tag=poeticlicen07-20" target="_blank">Maldon (aka the world's greatest salt)</a>), and a grind of black pepper.</li>
+	<li>To serve, sprinkle on a good layer of breadcrumbs and heat in oven. If reheating from cold, start covered with tinfoil and remove for the last few minutes. Garnish with the parsley and pomegranate seeds, a good finishing salt (such as {{% product id="maldon-salt-sea-salt-flakes-8-5-oz" target="_blank" %}}Maldon (aka the world's greatest salt){{% /product %}}), and a grind of black pepper.</li>
 </ol>
 Note: an even better way to do this ahead would be to make the orzo mixture without the pepitas, and wait to add them and fill the squash just before heating. That way the pepitas will retain their crunch.
 

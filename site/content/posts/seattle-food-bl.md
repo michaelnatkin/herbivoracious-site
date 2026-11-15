@@ -20,7 +20,7 @@ Candace Dempsey writes both about eating and travel in her [Italian Woman At The
 
 Rachel Belle isn't a blogger (yet?), she's a reporter and co-host of the popular [Stick a Fork In It](http://710kiro.com/sectional.asp?id=9421) show on 710 KIRO radio. At the site you can download their short programs and listen to her amusing hidden-microphone banter with Dan Restione.
 
-And last but not least, Jay Friedman, who is a [staff author](http://seattlest.com/profile/seattle_jason2/posts) at Seattlest as well as a [sex educator](http://www.jaytalk.com/main.php). Heck, sex and food go great together, makes sense to me! I hear he's also working on a one-man show, which I'm guessing will be hilarious. He got my [Maldon (aka the world's greatest salt)](https://www.amazon.com/dp/B0006FS4TI?tag=herb-hugo-20) Sea Salt in the gift exchange, can't wait to hear if he likes it [as much as I do](/2007/08/salt-crazy-my-f/).
+And last but not least, Jay Friedman, who is a [staff author](http://seattlest.com/profile/seattle_jason2/posts) at Seattlest as well as a [sex educator](http://www.jaytalk.com/main.php). Heck, sex and food go great together, makes sense to me! I hear he's also working on a one-man show, which I'm guessing will be hilarious. He got my {{% product id="maldon-salt-sea-salt-flakes-8-5-oz" %}}Maldon (aka the world's greatest salt){{% /product %}} Sea Salt in the gift exchange, can't wait to hear if he likes it [as much as I do](/2007/08/salt-crazy-my-f/).
 
 Quinn's was an ideal place to hold this get-together. They devoted a big communal table to us, giving us lots of space to share drinks and food There are a handful of vegetarian dishes on the gastropub style menu of relatively small plates.
 

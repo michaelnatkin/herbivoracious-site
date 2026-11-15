@@ -27,9 +27,9 @@ So, this happened: for reasons too tedious to explore, we ate dinner at a Califo
 <a title="http://www.zomato.com/mumbai/california-pizza-kitchen-lower-parel/reviews?review_id=151207" href="http://www.zomato.com/mumbai/california-pizza-kitchen-lower-parel/reviews?review_id=151207" target="_blank">www.zomato.com/mumbai/california-pizza.../reviews?...id...</a></p>
 Yep. A guy going by the name "Herbivoracious" just reviewed a California Pizza Kitchen. In Mumbai, India. He even had the same pizza as me, the so-called "wild mushroom" (which is made entirely with cultivated mushrooms). How weird is that?
 
-Anyhow. This is some spicy cauliflower. The <a href="https://www.amazon.com/dp/B071CX48ZS?tag=herb-hugo-20">Sichuan peppercorns</a> give it that nice tongue-numbing sting. The amount in the recipe is relatively low, so feel free to double that ingredient if you see fit.
+Anyhow. This is some spicy cauliflower. The {{% product id="sichuan-peppercorns" %}}Sichuan peppercorns{{% /product %}} give it that nice tongue-numbing sting. The amount in the recipe is relatively low, so feel free to double that ingredient if you see fit.
 
-This dish is good hot, but it is also pretty darn tasty cold, when it becomes almost like a spicy pickle. I cooked it <a href="https://www.amazon.com/dp/B07C7PW3PC?tag=herb-hugo-20">sous vide</a>, but you can just as easily microwave it. It would probably be really good if you microwaved the plain cauliflower until it was just short of tender and then stir-fried it with the spices. The way you see it in the picture, I cooked the head just cut into two halves because I thought that would look cool to slice it at the table, but honestly it would be just as good to cut into florets first - and it will cook much more quickly.
+This dish is good hot, but it is also pretty darn tasty cold, when it becomes almost like a spicy pickle. I cooked it {{% product id="sous-vide" %}}sous vide{{% /product %}}, but you can just as easily microwave it. It would probably be really good if you microwaved the plain cauliflower until it was just short of tender and then stir-fried it with the spices. The way you see it in the picture, I cooked the head just cut into two halves because I thought that would look cool to slice it at the table, but honestly it would be just as good to cut into florets first - and it will cook much more quickly.
 
 
 <div class="recipe-card">
@@ -40,9 +40,9 @@ This dish is good hot, but it is also pretty darn tasty cold, when it becomes al
   <h3>Ingredients</h3>
   <ul>
   <li>1 head cauliflower, halved or cut into florets (about 700 grams)</li>
-  <li>50 grams (1/4 cup) <a href="https://www.amazon.com/dp/B001NI726S?tag=herb-hugo-20">chili oil</a> (or use a mix of plain and sesame oil and add dried chilis to your taste)</li>
+  <li>50 grams (1/4 cup) {{% product id="chili-oil" %}}chili oil{{% /product %}} (or use a mix of plain and sesame oil and add dried chilis to your taste)</li>
   <li>7.5 grams kosher salt (start with 1 teaspoon if working by volume)</li>
-  <li>3.4 grams <a href="https://www.amazon.com/dp/B071CX48ZS?tag=herb-hugo-20">Sichuan peppercorn</a> (1 tablespoon), crushed</li>
+  <li>3.4 grams {{% product id="sichuan-peppercorns" %}}Sichuan peppercorn{{% /product %}} (1 tablespoon), crushed</li>
   <li>2 cloves garlic, minced</li>
   <li>1-inch piece of ginger, grated</li>
 </ul>

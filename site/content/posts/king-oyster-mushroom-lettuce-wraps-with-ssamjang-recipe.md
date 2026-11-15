@@ -30,7 +30,7 @@ recipe:
 <a href="/images/cookbook/king-oyster-mushroom-lettuce-wraps-with-ssamjang-2.webp"><img src="/images/cookbook/king-oyster-mushroom-lettuce-wraps-with-ssamjang-2.webp" alt="King Oyster Mushroom Lettuce Wraps with Ssamjang" /></a>
 
 <div class="recipe-card">
-<p><strong>King Oyster Mushroom Lettuce Wraps with <a href="https://www.amazon.com/Ssamjang-Soybean-Lettuce-Vegetables-Authentic/dp/B07BFQPCM6?tag=herb-hugo-20">Ssamjang</a></strong>
+<p><strong>King Oyster Mushroom Lettuce Wraps with {{% product id="o-food-ssamjang-korean-seasoned-soybean-paste" %}}Ssamjang{{% /product %}}</strong>
 </p>
 <ul>
 <li>1 tablespoon ssamjang for sauce plus ¼ cup for serving</li>

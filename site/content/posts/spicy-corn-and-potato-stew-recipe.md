@@ -32,7 +32,7 @@ recipe:
     - "To finish, divide among 4 bowls and squeeze the remaining lime over them. Garnish with cilantro and serve immediately."
 ---
 <p>If your New England corn chowder packed up and moved to New Mexico, it might turn into this spicy (but not too hot) stew. Plenty of garlic, chili powder, oregano and lime juice make this irresistible.</p>
-<p>The recipe calls for <a href="https://www.amazon.com/dp/B09RQHNJ19?tag=herb-hugo-20">New Mexico chile powder</a>, which is a specific variety of pepper. I find that these individual spices have much more character than the generic chili powder mixtures. They are relatively easy to find at any grocery that has a supply of Mexican ingredients. Pick up the Mexican oregano while you are there too; it has a sweeter, more resinous flavor than the familiar European oreganos. In a pinch, you can use any kind of chili powder that you have available, or grind dried chiles of your choosing.</p>
+<p>The recipe calls for {{% product id="new-mexico-chili-powder-1-lb-by-amazing-chiles" %}}New Mexico chile powder{{% /product %}}, which is a specific variety of pepper. I find that these individual spices have much more character than the generic chili powder mixtures. They are relatively easy to find at any grocery that has a supply of Mexican ingredients. Pick up the Mexican oregano while you are there too; it has a sweeter, more resinous flavor than the familiar European oreganos. In a pinch, you can use any kind of chili powder that you have available, or grind dried chiles of your choosing.</p>
 <p>I like to make a broth with the corncobs, but if you are pressed for time, you can also just use water.</p>
 
 <div class="recipe-card">

@@ -40,7 +40,7 @@ The coconut water inside the shell is a delicacy in it’s own right - you can 
 	<li>2 limes, halved</li>
 	<li>1 cup watercress leaves, cleaned and dried</li>
 	<li>¼ cup pomegranate arils</li>
-	<li><a href="https://www.amazon.com/dp/B00017028M?tag=herb-hugo-20">flaky sea salt</a></li>
+	<li>{{% product id="maldon-salt-sea-salt-flakes-8-5-oz" %}}flaky sea salt{{% /product %}}</li>
 </ul>
 <ol>
 	<li>Open the coconut tops and reserve the coconut water. If you are going to carbonate the coconut water, do so now. Put the seltzer bottle or plain coconut water in the coldest part of the refrigerator.</li>

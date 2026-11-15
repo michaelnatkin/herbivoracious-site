@@ -56,7 +56,7 @@ recipe:
 <li>For the sauce:</li>
 <li>1/4 cup good quality soy sauce, shoyu, or tamari</li>
 <li>2 tablespoons rice vinegar</li>
-<li>1 teaspoon <a href="https://www.amazon.com/dp/B0002YGS96?tag=herb-hugo-20">hot-chile sesame oil</a> (or 1 teaspoon plain toasted sesame oil and 1/2 teaspoon chile paste)</li>
+<li>1 teaspoon {{% product id="s-b-la-yu-chili-oil" %}}hot-chile sesame oil{{% /product %}} (or 1 teaspoon plain toasted sesame oil and 1/2 teaspoon chile paste)</li>
 <li>1 green onion, whites parts only, cut into tiny thin rings</li>
 <li>For the potstickers (gyoza):</li>
 <li>3 tablespoons vegetable oil, divided</li>

@@ -35,7 +35,7 @@ This would also be delicious with big chunks of <a href="/2008/10/lobster-mushro
 <em>Serves 4</em>
 <ul>
  	<li><span style="line-height: 13px;">4 large porcini mushrooms (aka cèpes or king boletes), weighing nearly 1/2 pound each</span></li>
- 	<li>Kosher <a href="https://www.amazon.com/Maldon-Sea-Salt-Flakes-ounce/dp/B00017028M?tag=herb-hugo-20">salt</a></li>
+ 	<li>Kosher {{% product id="maldon-salt-sea-salt-flakes-8-5-oz" %}}salt{{% /product %}}</li>
  	<li>Extra virgin olive oil</li>
  	<li>12 small red or fingerling potatoes, cooked as <a href="/2011/02/crispy-garlicky-smashed-potatoes-with-gremolata-recipe/" target="_blank" rel="noopener">in this recipe</a>, but without the garlic or gremolata</li>
  	<li>1 honeycrisp apple, thinly sliced on mandoline, cut into half-moons</li>

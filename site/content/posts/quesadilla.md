@@ -41,7 +41,7 @@ I told you it was easy! It doesn't need to be a lot of oil at all, but the diffe
 
 If you are lucky, a bit of the cheese might run out and brown and stick to the edges like the top of a great mac &amp; cheese and now you've got some serious flavor going.
 
-To get your creative juices flowing, here's a tasty quesadilla I made the other day, filled with green peppercorn pecorino, red onions, and (incredible) <a href="https://www.amazon.com/dp/B000069KQW?tag=herb-hugo-20">Stonewall Kitchen Roasted Garlic &amp; Onion Savory Jam</a>. I served it with a quick chevre &amp; cilantro sauce and some <a href="https://www.amazon.com/dp/B000NO943C?tag=herb-hugo-20">smoked paprika</a>. You should substitute ingredients wildly and make whatever sounds good to you!
+To get your creative juices flowing, here's a tasty quesadilla I made the other day, filled with green peppercorn pecorino, red onions, and (incredible) {{% product id="stonewall-kitchen-roasted-garlic-onion-jam" %}}Stonewall Kitchen Roasted Garlic &amp; Onion Savory Jam{{% /product %}}. I served it with a quick chevre &amp; cilantro sauce and some {{% product id="smoked-paprika" %}}smoked paprika{{% /product %}}. You should substitute ingredients wildly and make whatever sounds good to you!
 
 <div class="recipe-card">
 <strong>Crispy Quesadilla with Pecorino and Garlic &amp; Onion Jam</strong>
@@ -67,7 +67,7 @@ Preparation time: under 10 minutes
 	<li>Brush one side with the oil and put that side down in the skillet, then brush the other side with oil.</li>
 	<li>Cook for several minutes on each side, until it is developing beautiful crispy brown spots. The one in the picture above could actually have gone a few more minutes.</li>
 	<li>Meanwhile, beat the goat cheese with a bit of water until smooth like thick yogurt. Bruise the minced cilantro with your fingertips to release the flavor and stir it in to the goat cheese with a bit of salt to taste.</li>
-	<li>When the quesadilla is done on both side, remove it to a cutting board and carefully cut it into quarters with decisive presses of a sharp knive. Place on plate, sprinkle with a bit of salt, dust the plate with the <a href="https://www.amazon.com/dp/B000NO943C?tag=herb-hugo-20">smoked paprika</a>, add a dollop of the goat cheese sauce and munch intently.</li>
+	<li>When the quesadilla is done on both side, remove it to a cutting board and carefully cut it into quarters with decisive presses of a sharp knive. Place on plate, sprinkle with a bit of salt, dust the plate with the {{% product id="smoked-paprika" %}}smoked paprika{{% /product %}}, add a dollop of the goat cheese sauce and munch intently.</li>
 </ol>
 &nbsp;
 </div>

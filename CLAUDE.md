@@ -31,6 +31,8 @@ python3 audit.py
 ├── convert.py          # WP XML → Hugo Markdown converter (already run)
 ├── parse_wp.py         # WordPress XML parser
 ├── fix_links.py        # Internal link fixer
+├── sync_products.py    # Publish step: raw merchant links -> {{% product %}} shortcodes, keeps catalog current
+├── migrate_to_shortcodes.py  # One-time Amazon link -> shortcode migration (already run)
 ├── audit.py            # Broken link/image auditor
 ├── wp_inventory.json   # Full WP content inventory
 ├── uploads/            # Raw WordPress media files
@@ -57,6 +59,9 @@ python3 audit.py
 ```
 
 ## Key Design Decisions
+
+- **Product links go through a catalog.** `site/data/products.json` is the single source of truth, keyed by our own product id (`name`, `category`, current `url`, `original_url`, `asins`). Posts never contain merchant URLs; they use `{{% product id="maldon-salt" %}}link text{{% /product %}}` (shortcode: `layouts/shortcodes/product.html`). **To change where a product links, edit its `url` in the catalog.** The shop pages are built from the same catalog; "Featured in" lists are derived at build time. The pre-commit hook runs `sync_products.py`, which converts any raw Amazon link (or link to a merchant in the catalog / `merchant_domains.txt`) in staged content into a shortcode, creates catalog entries (categorized by Claude if `ANTHROPIC_API_KEY` is set), and fails the commit on an unknown product id. The hook lives in `.git/hooks/pre-commit` (copy at `scripts/pre-commit`; git does not track hooks).
+- **Amazon Associates account is banned**: Amazon links earn nothing. Replacements are reviewed with `link-review/` and applied by editing catalog URLs (see memory: skimlinks migration). Skimlinks JS loads only after cookie consent.
 
 - **Permalink structure:** `/:year/:month/:slug/` — matches old WordPress URLs so external links don't break
 - **Aliases:** Each post has `aliases` in front matter for old URL patterns (`.html` suffix, alternate slugs)

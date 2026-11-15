@@ -22,7 +22,9 @@
           <div class="shop-category-card__body">
             <h2 class="shop-category-card__title">{{ .Title }}</h2>
             {{ with .Params.description }}<p class="shop-category-card__desc">{{ . }}</p>{{ end }}
-            <span class="shop-category-card__count">{{ .Params.product_count }} products</span>
+            {{ $slug := .Params.category_slug }}{{ $count := 0 }}
+            {{ range site.Data.products }}{{ if eq .category $slug }}{{ $count = add $count 1 }}{{ end }}{{ end }}
+            <span class="shop-category-card__count">{{ $count }} products</span>
           </div>
         </a>
         {{ end }}

@@ -46,7 +46,7 @@ recipe:
 <li>2 blood oranges</li>
 <li>¼ cup mayonnaise or vegan mayonnaise</li>
 <li>¼ teaspoon Kosher salt</li>
-<li>¼ teaspoon ras al <a href="https://www.amazon.com/dp/B0766D1B8S?tag=herb-hugo-20">hanout</a> (optional)</li>
+<li>¼ teaspoon ras al {{% product id="the-spice-way-ras-el-hanout-moroccan-spice-blend" %}}hanout{{% /product %}} (optional)</li>
 <li>2 large globe artichokes preferably with 3” stems</li>
 <li>2 teaspoons minced chives</li>
 <li>flaky sea salt</li>

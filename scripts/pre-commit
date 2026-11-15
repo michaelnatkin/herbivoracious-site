@@ -1,0 +1,19 @@
+#!/bin/sh
+# Publish step for product links: converts raw affiliate links in staged content into
+# {{% product %}} shortcodes, keeps site/data/products.json (the catalog) up to date,
+# and blocks the commit if a shortcode refers to an unknown product id.
+
+STAGED=$(git diff --cached --name-only --diff-filter=AM | grep -E '^(site/content/.*\.md|site/data/products\.json|sync_products\.py)$' || true)
+
+if [ -z "$STAGED" ]; then
+    exit 0
+fi
+
+echo "Pre-commit: syncing products..."
+python3 sync_products.py || exit 1
+
+# Re-stage only what was already staged (the sync may have rewritten it), plus the catalog
+for f in $STAGED; do
+    [ -f "$f" ] && git add "$f"
+done
+git add site/data/products.json

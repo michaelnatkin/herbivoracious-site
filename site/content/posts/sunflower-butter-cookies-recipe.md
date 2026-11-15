@@ -26,7 +26,7 @@ recipe:
 
 My wife, Sarina, is severely allergic to both peanuts and every kind of tree nut. Like, <a href="/2009/02/understanding-deadly-food-allergies-this-post-could-save-a-life/" target="_blank">epipen and straight to the hospital allergic</a>. This meant that she has never tasted a peanut butter cookie, and neither have my kids. It seemed to me that this was a grave injustice that needed to be rectified.
 
-We long ago determined that sunflower butter was our favorite replacement for peanut butter. The flavor is much nicer than soy butter. I love tahini too, but tend to use it most often in Middle Eastern recipes, although I like it occasionally on toast as well. But sunflower butter is great - I'd happily eat it even if I could have peanut butter in the house. My favorite brand (and no,  they aren't a sponsor or anything) is Sunbutter - specifically the organic, unsweetened variety. Here is it <a href="http://www.amazon.com/dp/B002OK2FCA/?tag=poeticlicen07-20" target="_blank">on Amazon</a> in case you can't find it locally.
+We long ago determined that sunflower butter was our favorite replacement for peanut butter. The flavor is much nicer than soy butter. I love tahini too, but tend to use it most often in Middle Eastern recipes, although I like it occasionally on toast as well. But sunflower butter is great - I'd happily eat it even if I could have peanut butter in the house. My favorite brand (and no,  they aren't a sponsor or anything) is Sunbutter - specifically the organic, unsweetened variety. Here is it {{% product id="amazon-b002ok2fca" target="_blank" %}}on Amazon{{% /product %}} in case you can't find it locally.
 
 Does sunflower butter work in "peanut butter" cookies? Absolutely. The taste is very close, and texture is spot on. This recipe tends toward the sandy end of the spectrum. If you prefer a moister, chewier peanut butter cookie, simply use half brown sugar and half white. Brown sugar is hygroscopic - it tends to retain moisture from the atmosphere.
 
@@ -40,12 +40,12 @@ Does sunflower butter work in "peanut butter" cookies? Absolutely. The taste is 
 	<li>1 egg</li>
 	<li>1 cup <strong>unsweetened</strong> sunflower butter</li>
 	<li>1 cup (130 grams) flour</li>
-	<li>1 teaspoon <a href="https://www.amazon.com/dp/B00017028M?tag=herb-hugo-20">Maldon salt</a> (use only 1/2 teaspoon if substituting a different salt)</li>
+	<li>1 teaspoon {{% product id="maldon-salt-sea-salt-flakes-8-5-oz" %}}Maldon salt{{% /product %}} (use only 1/2 teaspoon if substituting a different salt)</li>
 	<li>1 teaspoon baking powder</li>
 </ul>
 <ol>
 	<li>In a stand mixer with the paddle attachment, cream the butter and sugar at medium speed until fluffy, about 5 minutes. Lower the speed and add the egg, then gradually add the sunflower butter.</li>
 	<li>Whisk together the flour, salt (rubbing a little to break up large crystals), and baking powder. Add slowly to the running mixer. Mix until well combined, about 1 more minute.</li>
-	<li>Chill the dough for at least 30 minutes. Preheat oven to 375. Line baking sheets with parchment or <a href="https://www.amazon.com/dp/B00008T960?tag=herb-hugo-20">silpats</a>. Dish dough out into approximately 2-tablespoon balls. Flatten, then use the tines of a fork to make the traditional criss-cross pattern. Bake about 12 minutes until lightly browned. Cool on a rack for at least 10 minutes, then enjoy.</li>
+	<li>Chill the dough for at least 30 minutes. Preheat oven to 375. Line baking sheets with parchment or {{% product id="silpat-premium-non-stick-silicone-baking-mat" %}}silpats{{% /product %}}. Dish dough out into approximately 2-tablespoon balls. Flatten, then use the tines of a fork to make the traditional criss-cross pattern. Bake about 12 minutes until lightly browned. Cool on a rack for at least 10 minutes, then enjoy.</li>
 </ol>
 </div>

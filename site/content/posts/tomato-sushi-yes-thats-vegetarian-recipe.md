@@ -50,7 +50,7 @@ Special equipment: blowtorch (optional)
 	<li>prepared wasabi</li>
 	<li>vegetable oil</li>
 	<li>12 strips toasted nori, 1-inch by 1/16-inch</li>
-	<li><a href="https://www.amazon.com/dp/B00IQW7UFW?tag=herb-hugo-20">flaky black sea salt</a></li>
+	<li>{{% product id="the-spice-lab-cyprus-black-flake-sea-salt-4-oz" %}}flaky black sea salt{{% /product %}}</li>
 </ul>
 <ol>
 	<li>Bring a small pot of water to a boil. Cut an X in the skin on the bottom of the tomato.</li>

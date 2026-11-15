@@ -45,7 +45,7 @@ recipe:
 </p>
 <ul>
 <li>For the crepes:</li>
-<li>1 cup <a href="https://www.amazon.com/dp/B0019GZ7YI?tag=herb-hugo-20">rice flour</a> (not sweet rice flour, which is used for making desserts)</li>
+<li>1 cup {{% product id="bob-s-red-mill-gluten-free-rice-flour-1-5-lb" %}}rice flour{{% /product %}} (not sweet rice flour, which is used for making desserts)</li>
 <li>1 ½ cups coconut milk</li>
 <li>2 green onions, thinly sliced</li>
 <li>1 teaspoon turmeric</li>

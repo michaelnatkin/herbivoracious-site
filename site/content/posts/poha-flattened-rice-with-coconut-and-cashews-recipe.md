@@ -50,7 +50,7 @@ Oh, and before I forget, here's an easy opportunity for everyone to help with a 
 <ul>
 	<li>1/2 cup raw cashews</li>
 	<li>6 tablespoons unsweetened dried coconut</li>
-	<li>1 cup <a href="https://www.amazon.com/Poha-THICK-Flattened-Rice-2lb/dp/B004XTDSB2?tag=herb-hugo-20">thick poha</a> (Indian flattened rice)</li>
+	<li>1 cup {{% product id="swad-poha-thick-flattened-rice-2-lb" %}}thick poha{{% /product %}} (Indian flattened rice)</li>
 	<li>3 tablespoons vegetable oil</li>
 	<li>3/4 cup cup diced onion</li>
 	<li>1 inch piece of fresh ginger, grated</li>

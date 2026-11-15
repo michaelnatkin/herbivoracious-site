@@ -37,7 +37,7 @@ recipe:
 ---
 <p>Variations on dhal puri roti are made on many of the Caribbean islands, but you can tell by the name and style that they originated with Indian immigrants. The name can seem confusing because in Indian terminology, a puri and a roti are two different types of bread.</p>
 <p>You might be surprised to find this recipe in the entrée section, but they are quite filling. It takes only a small side-dish curry and a little rice to make a complete meal.  Most people will only need one of these hearty breads, so for a smaller group, you may want to cut the recipe in half.</p>
-<p>I like to use about 50% <a href="https://www.amazon.com/dp/B000YFD2CE?tag=herb-hugo-20">whole-wheat pastry flour</a> to make the dough. Not only is it more nutritious than white flour, it also adds a more complex flavor. Pastry flour is lower in gluten, which helps keep the bread tender.</p>
+<p>I like to use about 50% {{% product id="whole-wheat-pastry-flour" %}}whole-wheat pastry flour{{% /product %}} to make the dough. Not only is it more nutritious than white flour, it also adds a more complex flavor. Pastry flour is lower in gluten, which helps keep the bread tender.</p>
 <p>These breads are best when steaming hot; otherwise, the filling can be dry. They reheat beautifully in the microwave if you’ve made them ahead.</p>
 
 

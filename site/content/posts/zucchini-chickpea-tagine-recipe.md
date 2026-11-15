@@ -31,9 +31,9 @@ recipe:
     - "Taste and adjust seasoning. It will probably need more salt, and you may want to amp up the spices, depending on your taste. Serve hot, garnishing with parsley if you desire."
 ---
 
-The name of this recipe is misleading. A tagine is the <a href="https://www.amazon.com/dp/B0BF29GK5Z?tag=herb-hugo-20" target="_blank">Moroccan clay pot with a conical lid</a>, typically used for slow-braised stews, as well as the dishes cooked in those beautiful vessels. However, there is nothing in this particular dish that really needs a long braise, so it is quite feasible to make it in a skillet or Dutch-oven. I still call it a tagine because the flavorings are very typical of that genre.
+The name of this recipe is misleading. A tagine is the {{% product id="moroccan-clay-pot-with-a-conical-lid" target="_blank" %}}Moroccan clay pot with a conical lid{{% /product %}}, typically used for slow-braised stews, as well as the dishes cooked in those beautiful vessels. However, there is nothing in this particular dish that really needs a long braise, so it is quite feasible to make it in a skillet or Dutch-oven. I still call it a tagine because the flavorings are very typical of that genre.
 
-You can easily adapt this basic method, using different vegetables and/or different beans to create a wide variety of easy, homey but very flavorful stews. It does call for a few less common ingredients (<a href="https://www.amazon.com/dp/B000FVCVS8?tag=herb-hugo-20" target="_blank">ras el hanout</a>,  <a href="https://www.amazon.com/dp/B00562WN1Q?tag=herb-hugo-20" target="_blank">Aleppo pepper</a>, <a href="https://www.amazon.com/dp/B004AQMSV4?tag=herb-hugo-20" target="_blank">preserved lemon</a>), but you can substitute or omit if needed. I highly encourage you to pick them up though. I've got <a href="/2012/02/red-lentil-and-kabocha-squash-soup-with-harissa-oil-sneak-peak-recipe-from-the-cookbook/" target="_blank">many</a> <a href="/2012/01/quick-marinated-feta-recipe/" target="_blank">other</a> <a href="/2012/04/kouftikes-de-prasa-sandwiches-recipe/" target="_blank">recipes</a> on the site that will give you other ways to use them, and I'm pretty much sure you'll fall in love.
+You can easily adapt this basic method, using different vegetables and/or different beans to create a wide variety of easy, homey but very flavorful stews. It does call for a few less common ingredients ({{% product id="the-spice-way-ras-el-hanout-moroccan-spice-blend" target="_blank" %}}ras el hanout{{% /product %}},  {{% product id="aleppo-pepper-2" target="_blank" %}}Aleppo pepper{{% /product %}}, {{% product id="mina-preserved-lemons-authentic-moroccan-12-5-oz" target="_blank" %}}preserved lemon{{% /product %}}), but you can substitute or omit if needed. I highly encourage you to pick them up though. I've got <a href="/2012/02/red-lentil-and-kabocha-squash-soup-with-harissa-oil-sneak-peak-recipe-from-the-cookbook/" target="_blank">many</a> <a href="/2012/01/quick-marinated-feta-recipe/" target="_blank">other</a> <a href="/2012/04/kouftikes-de-prasa-sandwiches-recipe/" target="_blank">recipes</a> on the site that will give you other ways to use them, and I'm pretty much sure you'll fall in love.
 
 For an easy dinner, just serve this with <a href="/2007/11/recipe-how-to-m/" target="_blank">fluffy couscous</a> and thick Greek yogurt (unless you are gluten free or vegan, respectively).
 
@@ -50,10 +50,10 @@ Serves 4
 	<li>1/4 teaspoon cinnamon</li>
 	<li>1 teaspoon ground cumin</li>
 	<li>1 teaspoon dried mint (yes, you can open up a mint teabag)</li>
-	<li>1 teaspoon <a href="https://www.amazon.com/dp/B0721RPQJ3?tag=herb-hugo-20">ras el hanout</a> (optional, but delicious - if you omit, add more of the other spices)</li>
-	<li>1/4 teaspoon <a href="https://www.amazon.com/dp/B071KH1X16?tag=herb-hugo-20" target="_blank">Aleppo pepper</a> (or more to taste; can substitute cayenne or chili flakes)</li>
+	<li>1 teaspoon {{% product id="the-spice-way-ras-el-hanout-moroccan-spice-blend" %}}ras el hanout{{% /product %}} (optional, but delicious - if you omit, add more of the other spices)</li>
+	<li>1/4 teaspoon {{% product id="aleppo-pepper-2" target="_blank" %}}Aleppo pepper{{% /product %}} (or more to taste; can substitute cayenne or chili flakes)</li>
 	<li>1 tablespoon tomato paste</li>
-	<li>1 tablespoon minced <a href="https://www.amazon.com/dp/B07PSJCLC6?tag=herb-hugo-20" target="_blank">preserved lemon</a></li>
+	<li>1 tablespoon minced {{% product id="mina-preserved-lemons-authentic-moroccan-12-5-oz" target="_blank" %}}preserved lemon{{% /product %}}</li>
 	<li>Juice of 1/2 lemon</li>
 	<li>Optional garnish: flat-leaf parsley</li>
 </ul>

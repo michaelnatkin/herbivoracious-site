@@ -9,7 +9,7 @@ cover:
   hidden: true
 ---
 
-This is <strong>my skillet</strong>. Sure, I have lots of others pots - small saute pans, sauciers, stock pots, paella pans, a beloved <a href="https://www.amazon.com/dp/B000LEXR0K?tag=herb-hugo-20">Dutch oven</a>, griddles, you name it. But this <a href="https://www.amazon.com/dp/B00006JSUB?tag=herb-hugo-20">big cast-iron skillet</a> is the absolute workhorse in my kitchen. I've had it for at least 20 years, and I'd say it has been the central figure in thousands of meals.
+This is <strong>my skillet</strong>. Sure, I have lots of others pots - small saute pans, sauciers, stock pots, paella pans, a beloved {{% product id="dutch-oven" %}}Dutch oven{{% /product %}}, griddles, you name it. But this {{% product id="lodge-12-inch-cast-iron-pre-seasoned-skillet" %}}big cast-iron skillet{{% /product %}} is the absolute workhorse in my kitchen. I've had it for at least 20 years, and I'd say it has been the central figure in thousands of meals.
 
 This 12-inch skillet has pride of place in my kitchen. All of the other pots gets hung up, but this one lives on my stove, ready to leap into action when I am. I'm a big believer in mise-en-place, but there are also plenty of meals where the first thing I do is heat up the skillet, the second thing I do is break down some vegetables, and the third thing is figure out what the heck I'm making.
 
@@ -30,4 +30,4 @@ Cast iron is seriously indestructible. There are no rivets or welds or coatings 
 Most importantly, my skillet and I understand each other. I know without even thinking about it when my skillet is preheated, when it is crowded, whether a desired crust is developing or unwanted burning is incipient. That level of comfort and confidence is priceless to me. Whatever I make in that pan, I feel it has a leg up on being delicious.
 
 So what about you? Do you have a favorite pot, knife or other utensil that feels like an extension of your body? That you really miss when you cook in another kitchen? That is your go-to guy when the going gets rough? Talk to me. And if you need a skillet to have and to hold, this is the one to get:
-<a href="https://www.amazon.com/dp/B00006JSUB?tag=herb-hugo-20">Lodge 12-Inch Cast Iron Skillet</a>
+{{% product id="lodge-12-inch-cast-iron-pre-seasoned-skillet" %}}Lodge 12-Inch Cast Iron Skillet{{% /product %}}

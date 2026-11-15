@@ -29,7 +29,7 @@ Ok, descending from the soapbox. Let's take a look at the dishes, in the order t
 
 <a href="/images/2012/09/Canlis-Asparagus.webp"><img class="alignnone size-large wp-image-2735" title="Canlis Asparagus" src="/images/2012/09/Canlis-Asparagus-622x415.webp" alt="" width="622" height="415" /></a>
 
-Asparagus. With sauce gribiche, a "tabouli" of quinoa, and an incredible fried egg yolk. (See also detail photo at top of post). I've had this dish twice now and it is one of the most memorable things I've eaten in years. I had to ask how the egg is made. First, a bunch of egg yolks are whisked together and cooked, sous vide, to the perfect gelled texture. Then they are piped into sphere molds and frozen. The frozen spheres are rolled in <a href="https://www.amazon.com/dp/B000WD3PZM?tag=herb-hugo-20">panko</a>, deep fried just long enough to cook the shell and melt and warm the interior, then cut in half and set atop the gribiche. Unbelievable.
+Asparagus. With sauce gribiche, a "tabouli" of quinoa, and an incredible fried egg yolk. (See also detail photo at top of post). I've had this dish twice now and it is one of the most memorable things I've eaten in years. I had to ask how the egg is made. First, a bunch of egg yolks are whisked together and cooked, sous vide, to the perfect gelled texture. Then they are piped into sphere molds and frozen. The frozen spheres are rolled in {{% product id="kikkoman-panko-japanese-style-bread-crumbs" %}}panko{{% /product %}}, deep fried just long enough to cook the shell and melt and warm the interior, then cut in half and set atop the gribiche. Unbelievable.
 
 &nbsp;
 
@@ -45,7 +45,7 @@ Another chilled course, this time as a palate cleanser before we get to the main
 
 <a href="/images/2012/09/Canlis-Artichoke-Tortellini.webp"><img class="alignnone size-large wp-image-2731" title="Canlis Artichoke Tortellini" src="/images/2012/09/Canlis-Artichoke-Tortellini-622x415.webp" alt="" width="622" height="415" /></a>
 
-Next up: tortellini, filled with artichoke, topped with tomato confit and crispy artichokes, and finished with <a href="https://www.amazon.com/dp/B08381GTJF?tag=herb-hugo-20">saba (syrupy grape must)</a>, preserved lemon, and olive oil. The <a href="https://www.amazon.com/dp/B07PSJCLC6?tag=herb-hugo-20">preserved lemon</a> is a nice touch. It adds that hint of fermented complexity without overtly making the dish seem Moroccan. I love that this is a restrained portion of pasta. Enough to cap off the savory section of the meal without leaving you too stuffed to enjoy dessert.
+Next up: tortellini, filled with artichoke, topped with tomato confit and crispy artichokes, and finished with {{% product id="saba-syrupy-grape-must" %}}saba (syrupy grape must){{% /product %}}, preserved lemon, and olive oil. The {{% product id="mina-preserved-lemons-authentic-moroccan-12-5-oz" %}}preserved lemon{{% /product %}} is a nice touch. It adds that hint of fermented complexity without overtly making the dish seem Moroccan. I love that this is a restrained portion of pasta. Enough to cap off the savory section of the meal without leaving you too stuffed to enjoy dessert.
 
 <a href="/images/2012/09/Canlis-Pineapple.webp"><img class="alignnone size-large wp-image-2729" title="Canlis Pineapple" src="/images/2012/09/Canlis-Pineapple-622x415.webp" alt="" width="622" height="415" /></a>
 

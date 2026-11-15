@@ -13,7 +13,7 @@ I'm often asked "where do you get your inspiration for the recipes?" I love this
 
 Last week, the amazing <a href="http://franticfoodie.com/">Keren Brown</a> put together an event at <a href="http://emmerandrye.com/" target="_blank">Emmer and Rye</a> to give me a chance to talk with the Seattle food blogger community about <a href="/get-the-herbivoracious-cookbook/" target="_blank">my cookbook</a>. <strong>Chef Seth Caswell</strong> put together a bunch of nice appetizers for us to enjoy on E&amp;R's new upstairs deck. One of my favorites was little squares of French toast topped with roasted cherries. I don't think I'd ever had a roasted cherry before; these made a big impression on me. I was surprised at how well they maintained their structure when cooked. They didn't break down into jam, but the texture and flavor was completely transformed. I knew right away that I wanted to play with that idea.
 
-My first thought was to do something sweet. There is the traditional French clafoutis, which is an oven-baked pancake with cherries, and I imagined that pre-roasting them could only be a good thing. But it didn't feel like a big enough twist. And then I remembered I'd said I would do something for an event that PBS is doing to celebrate Julia Child's 100th birthday. The first dish I learned from my mom's copy of <a href="http://www.amazon.com/dp/0375413405/?tag=poeticlicen07-20">Mastering the Art</a> was crepes. So I considered doing <strong>crepes with roasted cherries, ricotta, and shaved dark chocolate</strong>. No way that isn't going to be fantastic. Might have to come back to that one. But the event isn't until September and cherries will be out of season.
+My first thought was to do something sweet. There is the traditional French clafoutis, which is an oven-baked pancake with cherries, and I imagined that pre-roasting them could only be a good thing. But it didn't feel like a big enough twist. And then I remembered I'd said I would do something for an event that PBS is doing to celebrate Julia Child's 100th birthday. The first dish I learned from my mom's copy of {{% product id="mastering-the-art-of-french-cooking-vol-1-50th" %}}Mastering the Art{{% /product %}} was crepes. So I considered doing <strong>crepes with roasted cherries, ricotta, and shaved dark chocolate</strong>. No way that isn't going to be fantastic. Might have to come back to that one. But the event isn't until September and cherries will be out of season.
 
 Anyhow.... part of me wanted to see if I could take the roasted cherries in a savory direction. A few days later we were having a picnic in our backyard, and I went in to grab a bowl of cherries to serve for dessert. On the way back, I passed some sage we have growing in our sad little garden. A lightbulb went on in my head - <strong>wouldn't the roasted cherries taste amazing with sage?</strong> I have a Blueberry Rosemary jam in the cookbook so that might have been on my mind. Just for a test, I grabbed a tiny sage leaf and ate it with a fresh cherry and it was delicious.
 
@@ -39,10 +39,10 @@ If I were to elaborate this dish further, my next step would probably be to smok
 	<li>Vegetable oil</li>
 	<li>Kosher salt</li>
 	<li>1/2 cup red wine (fruity, not too tannic)</li>
-	<li>1 tablespoon <a href="https://www.amazon.com/dp/B0078DP4IK?tag=herb-hugo-20">agave nectar</a></li>
-	<li>1 tablespoon butter, cut into pieces (for vegan, use Earth Balance or thicken with <a href="https://www.amazon.com/dp/B07N8GTV8J?tag=herb-hugo-20">xanthan gum</a>)</li>
+	<li>1 tablespoon {{% product id="agave-nectar" %}}agave nectar{{% /product %}}</li>
+	<li>1 tablespoon butter, cut into pieces (for vegan, use Earth Balance or thicken with {{% product id="xanthan-gum" %}}xanthan gum{{% /product %}})</li>
 	<li>Freshly ground black pepper</li>
-	<li>For garnish: <a href="https://www.amazon.com/dp/B00017028M?tag=herb-hugo-20" target="_blank">Maldon (aka the world's greatest salt)</a> sea salt, herb flowers or leaves (I used tiny oregano leaves and pulled-apart chive blossoms</li>
+	<li>For garnish: {{% product id="maldon-salt-sea-salt-flakes-8-5-oz" target="_blank" %}}Maldon (aka the world's greatest salt){{% /product %}} sea salt, herb flowers or leaves (I used tiny oregano leaves and pulled-apart chive blossoms</li>
 </ul>
 <div>
 <ol>
@@ -50,7 +50,7 @@ If I were to elaborate this dish further, my next step would probably be to smok
 	<li>Place your largest oven-proof skillet over high heat. Add a generous amount of vegetable oil and sear the mushrooms, seasoning with a generous pinch of salt, and turning to brown as much of the surface area as possible.</li>
 	<li>When the mushrooms surfaces are nicely browned, move the skillet to the oven and roast until fully tender when poked with a skewer, at least 15 minutes (depending on size).</li>
 	<li>Remove the skillet from the oven, and remove the mushrooms from the pan. Pour off any excess oil. Put the pan back over medium heat. Add the wine and scrape (deglaze) the bottom of the pan to incorporate any delicious crispy bits. Whisk in the agave nectar, butter, pepper and cherries and cook until it will coat the back of a spoon. Taste and add salt as needed.</li>
-	<li>To serve, divide the sauce among 4 warmed plates. Cut the mushrooms into segments with random angles and stand up the pieces. Arrange the mushrooms and cherries in a line, standing up some of the mushrooms segments. Garnish with the herbs and a few flakes of <a href="https://www.amazon.com/dp/B00017028M?tag=herb-hugo-20" target="_blank">Maldon (aka the world's greatest salt)</a> .</li>
+	<li>To serve, divide the sauce among 4 warmed plates. Cut the mushrooms into segments with random angles and stand up the pieces. Arrange the mushrooms and cherries in a line, standing up some of the mushrooms segments. Garnish with the herbs and a few flakes of {{% product id="maldon-salt-sea-salt-flakes-8-5-oz" target="_blank" %}}Maldon (aka the world's greatest salt){{% /product %}} .</li>
 </ol>
 </div>
 &nbsp;

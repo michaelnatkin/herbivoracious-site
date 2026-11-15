@@ -39,7 +39,7 @@ recipe:
 ---
 <p>The two most common varieties of vegetarian lasagna are filled with spinach and ricotta, or with piles of watery vegetables. This version with portabello mushrooms and summer squash gives you a much more decisive flavor.</p>
 <p>To slice the portabellos, pull off the stems and lay the caps flat on your cutting board. Hold your knife at an angle and carefully cut through them on the bias to make 1/8” thick slabs with as much surface area as possible.</p>
-<p>I often use <a href="https://www.amazon.com/dp/B000RUQPQQ?tag=herb-hugo-20">no-boil lasagna noodles</a>. They are the same as any other dried pasta, just cut a little thinner so that they can cook through right in the oven. You just need to be sure that they are surrounded with enough sauce to absorb as they cook. You can also use traditional lasagna noodles, par-boiling them until just barely al dente.</p>
+<p>I often use {{% product id="no-boil-lasagna-noodles" %}}no-boil lasagna noodles{{% /product %}}. They are the same as any other dried pasta, just cut a little thinner so that they can cook through right in the oven. You just need to be sure that they are surrounded with enough sauce to absorb as they cook. You can also use traditional lasagna noodles, par-boiling them until just barely al dente.</p>
 
 
 <a href="/images/cookbook/portabello-summer-squash-lasagna-2.webp"><img src="/images/cookbook/portabello-summer-squash-lasagna-2.webp" alt="Portabello-Summer Squash Lasagna" /></a>
@@ -57,7 +57,7 @@ recipe:
 <li>4 large portabello mushroom caps, sliced 1/8" thick on the bias</li>
 <li>extra-virgin olive oil for sautéing</li>
 <li>1 15-ounce container fresh ricotta (Calabro is an excellent brand)</li>
-<li>1/2 teaspoon <a href="https://www.amazon.com/dp/B08ZJVNKWQ?tag=herb-hugo-20">nutmeg</a> (fresh ground, if available)</li>
+<li>1/2 teaspoon {{% product id="nutmeg-preferably-fresh-ground" %}}nutmeg{{% /product %}} (fresh ground, if available)</li>
 <li>Kosher salt</li>
 <li>2 eggs</li>
 <li>1 onion, diced</li>

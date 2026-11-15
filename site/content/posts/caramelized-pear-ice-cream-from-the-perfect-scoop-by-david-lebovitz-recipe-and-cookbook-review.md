@@ -26,17 +26,17 @@ recipe:
 ---
 <span style="font-size: 12px; font-family: Arial;">Pear-caramel ice cream from <em>The Perfect Scoop</em></span>
 
-I bought <a href="https://www.amazon.com/dp/1580088082?tag=herb-hugo-20" target="_blank">The Perfect Scoop</a>, only a few months after I started blogging, back in the fall of 2007. David Lebovitz was already well established as a food blogger, living in Paris. The idea that a blogger could launch a book was pretty amazing to me. Of course, I later realized he'd published three previous books and worked for more than a decade at a little place called Chez Panisse, but still, I was impressed!
+I bought {{% product id="the-perfect-scoop" target="_blank" %}}The Perfect Scoop{{% /product %}}, only a few months after I started blogging, back in the fall of 2007. David Lebovitz was already well established as a food blogger, living in Paris. The idea that a blogger could launch a book was pretty amazing to me. Of course, I later realized he'd published three previous books and worked for more than a decade at a little place called Chez Panisse, but still, I was impressed!
 
 The Perfect Scoop rapidly became my standard reference for ice cream recipes. David covers everything from the basics like the various types of bases (custard vs. Philadelphia style, not to mention sorbets and granitas), choosing the best ingredients and equipment, and proper mixing techniques, to advanced treat-lover material like making your own cones and mix-ins. Invest twenty minutes in reading the introductory material and you'll be making killer ice cream on your first try.
 
-I've dog-eared many pages, but the Pear-Caramel ice cream has been haunting my imagination since day one. I finally made it, and I have to say, it is a total knockout. The intensity of the pear flavor underscored by the caramel is just amazing. This isn't "curl up with a pint" ice cream, this is "two small scoops and blow your mind". The recipe is below, but <a href="https://www.amazon.com/dp/1580088082?tag=herb-hugo-20" target="_blank">please pick up the book</a> so you are ready for cherry sorbet, lemon-buttermilk sherbet, fresh ginger ice-cream, Aztec "Hot" chocolate ice cream, oh man ...
+I've dog-eared many pages, but the Pear-Caramel ice cream has been haunting my imagination since day one. I finally made it, and I have to say, it is a total knockout. The intensity of the pear flavor underscored by the caramel is just amazing. This isn't "curl up with a pint" ice cream, this is "two small scoops and blow your mind". The recipe is below, but {{% product id="the-perfect-scoop" target="_blank" %}}please pick up the book{{% /product %}} so you are ready for cherry sorbet, lemon-buttermilk sherbet, fresh ginger ice-cream, Aztec "Hot" chocolate ice cream, oh man ...
 
 Now if only I had one of these: <a href="https://www.ckitchen.com/commercial-ice-machines.html">Commercial Ice Machines</a>.
 
 <div class="recipe-card">
 <strong>Pear-Caramel Ice Cream</strong>
-<em>Summarized from <a href="https://www.amazon.com/dp/1580088082?tag=herb-hugo-20" target="_blank">The Perfect Scoop</a>, by David Lebovitz
+<em>Summarized from {{% product id="the-perfect-scoop" target="_blank" %}}The Perfect Scoop{{% /product %}}, by David Lebovitz
 Makes about 1 quart
 Vegetarian and gluten-free; not vegan</em>
 <ul>
@@ -48,10 +48,10 @@ Vegetarian and gluten-free; not vegan</em>
 </ul>
 <ol>
 	<li>Dice the pears into 1/4-inch pieces.</li>
-	<li>Spread the sugar in a large, heavy saucepan. Cook over medium heat, carefully watching and stirring occasionally with a <a href="https://www.amazon.com/dp/B084H89YLC?tag=herb-hugo-20">heatproof spatula</a> until melted.</li>
+	<li>Spread the sugar in a large, heavy saucepan. Cook over medium heat, carefully watching and stirring occasionally with a {{% product id="heatproof-spatula" %}}heatproof spatula{{% /product %}} until melted.</li>
 	<li>When the sugar is a deep amber, stir in the pears. The caramel will seize, that's ok. Continue cooking and stirring occasionally (again with a heat-proof spatula - caramel will burn heck out of you) for ten minutes. The sugar will have dissolved.</li>
 	<li>Remove from the heat and stir in 1/2 cup of the cream, then mix in the rest of the cream, salt, and lemon juice.</li>
 	<li>Cool to room temp, puree until smooth, press through a strainer.</li>
-	<li>Chill according to your <a href="https://www.amazon.com/dp/B003KYSLMW?tag=herb-hugo-20">ice-cream maker</a> manufacturer's instructions. <em></em></li>
+	<li>Chill according to your {{% product id="ice-cream-maker" %}}ice-cream maker{{% /product %}} manufacturer's instructions. <em></em></li>
 </ol>
 </div>

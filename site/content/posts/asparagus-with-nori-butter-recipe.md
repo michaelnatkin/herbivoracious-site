@@ -38,7 +38,7 @@ I'm in the middle of a two-week stage at <a href="http://canlis.com/" target="_b
 
 I think you will like the nori butter. It brings umami intensity and a slightly sweet funkiness that pairs beautifully with the asparagus.
 
-The garnishes for this dish are nori strips, sesame seeds, <a href="http://www.amazon.com/dp/B0006FS4TI/?tag=poeticlicen07-20" target="_blank">Maldon (aka the world's greatest salt)</a> , miso-lemon sauce, finely diced lemon zest, and chive tips. Don't feel obligated to make it this complicated at home! You could just as easily toss the asparagus with the nori butter and salt and have a delicious side dish.
+The garnishes for this dish are nori strips, sesame seeds, {{% product id="maldon-salt-sea-salt-flakes-8-5-oz" target="_blank" %}}Maldon (aka the world's greatest salt){{% /product %}} , miso-lemon sauce, finely diced lemon zest, and chive tips. Don't feel obligated to make it this complicated at home! You could just as easily toss the asparagus with the nori butter and salt and have a delicious side dish.
 
 You can do all of the prep up to a day in advance, and simply reheat the butter and blanched asparagus when you are ready to serve.
 
@@ -48,11 +48,11 @@ You can do all of the prep up to a day in advance, and simply reheat the butter 
 Vegetarian and gluten-free</em>
 <ul>
 	<li>6 tablespoons unsalted butter</li>
-	<li>1 sheet of <a href="https://www.amazon.com/dp/B00I01ZXYE?tag=herb-hugo-20">nori seaweed</a></li>
+	<li>1 sheet of {{% product id="nori-seaweed" %}}nori seaweed{{% /product %}}</li>
 	<li>24 stems of beautiful medium thick asparagus</li>
 	<li>1 lemon</li>
-	<li>1/3 cup <a href="https://www.amazon.com/dp/B078HTGHH2?tag=herb-hugo-20">white miso</a></li>
-	<li>2 tablespoons <a href="https://www.amazon.com/dp/B000QSTJTE?tag=herb-hugo-20">mirin</a></li>
+	<li>1/3 cup {{% product id="white-miso" %}}white miso{{% /product %}}</li>
+	<li>2 tablespoons {{% product id="mirin" %}}mirin{{% /product %}}</li>
 	<li>Maldon (aka the world's greatest salt) or other flaky salt</li>
 	<li>toasted sesame seeds</li>
 	<li>24 chive tips</li>
@@ -67,6 +67,6 @@ Vegetarian and gluten-free</em>
 	<li>Whisk together the miso, mirin and juice of 1/2 lemon. Aim for a consistency where you can make a dot of sauce on a plate and it will stand up. Put in a squeeze bottle.</li>
 	<li>At this point you can reserve everything for up to 1 day.</li>
 	<li>When you are ready to serve, have 4 hot plates waiting, and set an oven or toaster oven to 500 degrees. Melt the nori butter. Bring the miso sauce back to room temperature. Brush the asparagus with the nori butter. Reheat the asparagus (this should just take about 3 minutes).</li>
-	<li>To plate, arrange the asparagus in a neat row. Drizzle on more of the nori butter. Add neat lines of nori strips and sesame seeds. Make 6 dots of the miso sauce and top each one with a chive tip. Randomly place bits of blanched lemon zest. Sprinkle liberally with the <a href="http://www.amazon.com/dp/B0006FS4TI/?tag=poeticlicen07-20" target="_blank">Maldon (aka the world's greatest salt)</a>  and serve.</li>
+	<li>To plate, arrange the asparagus in a neat row. Drizzle on more of the nori butter. Add neat lines of nori strips and sesame seeds. Make 6 dots of the miso sauce and top each one with a chive tip. Randomly place bits of blanched lemon zest. Sprinkle liberally with the {{% product id="maldon-salt-sea-salt-flakes-8-5-oz" target="_blank" %}}Maldon (aka the world's greatest salt){{% /product %}}  and serve.</li>
 </ol>
 </div>

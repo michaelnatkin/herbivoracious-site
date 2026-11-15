@@ -12,7 +12,7 @@ cover:
   
 Chanterelle and Brie Bruschetta
 
-My last [few](/2008/10/farro-with-chanterelles-apples-apples-and-apples/) [forays](/2008/10/farro-salad-with-chanterelles-fennel-and-apples/) with [chanterelle mushrooms](https://www.amazon.com/dp/B0BK2VSP7N?tag=herb-hugo-20) have combined them with other big flavors. For this appetizer, I wanted to highlight the delicious, earthy, sweet, complex fungii themselves, adding mainly just some melted brie for richness. This would make a rather decadent appetizer to pass at a holiday party, preferably with an equally earthy red wine. 
+My last [few](/2008/10/farro-with-chanterelles-apples-apples-and-apples/) [forays](/2008/10/farro-salad-with-chanterelles-fennel-and-apples/) with {{% product id="chanterelle-mushrooms" %}}chanterelle mushrooms{{% /product %}} have combined them with other big flavors. For this appetizer, I wanted to highlight the delicious, earthy, sweet, complex fungii themselves, adding mainly just some melted brie for richness. This would make a rather decadent appetizer to pass at a holiday party, preferably with an equally earthy red wine. 
 
 When shopping for chanterelles, you want them to be neither dried out, woody, nor slimy. Size doesn't really matter. It can take some work to find the best specimens in a bin. Store them in a paper bag in the refrigerator and use within a couple of days. To clean them, I like to just moisten a dishrag and use it to brush off any clinging dirt and pine needles.
 
@@ -25,7 +25,7 @@ When shopping for chanterelles, you want them to be neither dried out, woody, no
 - 1/4 cup sherry
 - 8 slices of baguette (on the diagonal so they are a little bigger)
 - 1/2 cup brie or other triple-cream cheese (no rind)
-- [sea salt](https://www.amazon.com/dp/B00017028M?tag=herb-hugo-20)  
+- {{% product id="maldon-salt-sea-salt-flakes-8-5-oz" %}}sea salt{{% /product %}}  
 
 - finely chopped parsley
 

@@ -47,7 +47,7 @@ recipe:
 <li>1 cup granulated sugar</li>
 <li>1/2 teaspoon flaky sea salt (use half as much for Kosher salt or any fine grained salt)</li>
 <li>¾ cup toasted sesame seeds (white, black or a mixture)</li>
-<li>¾ cup <a href="https://www.amazon.com/dp/B000YFD2CE?tag=herb-hugo-20">whole wheat pastry flour</a></li>
+<li>¾ cup {{% product id="whole-wheat-pastry-flour" %}}whole wheat pastry flour{{% /product %}}</li>
 <li>¾ cup all-purpose flour</li>
 <li>½ teaspoon baking soda</li>
 <li>zest of 1 orange or 2 mandarin oranges</li>

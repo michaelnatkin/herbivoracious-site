@@ -1,0 +1,13 @@
+{{- /* Returns a map of product id -> pages that link it, derived from {{< product id="..." >}} in page sources. */ -}}
+{{- $scratch := newScratch -}}
+{{- range sort site.RegularPages "Date" "desc" -}}
+  {{- $page := . -}}
+  {{- $ids := slice -}}
+  {{- range findRE `\{\{[<%] product id="([^"]+)"` .RawContent -}}
+    {{- $ids = $ids | append (replaceRE `^.*id="([^"]+)"$` "$1" .) -}}
+  {{- end -}}
+  {{- range uniq $ids -}}
+    {{- $scratch.Add . (slice (dict "url" $page.RelPermalink "title" $page.Title)) -}}
+  {{- end -}}
+{{- end -}}
+{{- return $scratch.Values -}}

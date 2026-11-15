@@ -31,7 +31,7 @@ recipe:
 <a href="/images/cookbook/celery-soup-with-fregola-sarda-or-israeli-couscous-2.webp"><img src="/images/cookbook/celery-soup-with-fregola-sarda-or-israeli-couscous-2.webp" alt="Celery Soup with Fregola Sarda or Israeli Couscous" /></a>
 
 <div class="recipe-card">
-<p><strong>Celery Soup with <a href="https://www.amazon.com/dp/B000B38C6A?tag=herb-hugo-20">Fregola Sarda</a> or Israeli Couscous</strong>
+<p><strong>Celery Soup with {{% product id="rustichella-d-abruzzo-fregola-sarda" %}}Fregola Sarda{{% /product %}} or Israeli Couscous</strong>
 <br /><em>4 modest servings / 20 minutes</em>
 </p>
 <ul>

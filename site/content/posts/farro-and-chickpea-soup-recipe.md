@@ -30,7 +30,7 @@ recipe:
     - "Remove the lid and add the chickpeas and lemon juice. Stir and simmer for a few minutes to allow the flavors to meld, then taste and adjust seasoning."
     - "To serve, divide among bowls, garnish with more good olive oil, fresh ground black pepper, parsley and sea salt."
 ---
-<em><a href="https://www.amazon.com/dp/B07XLQ13WY?tag=herb-hugo-20">Farro</a> and Chickpea Soup</em>
+<em>{{% product id="farro" %}}Farro{{% /product %}} and Chickpea Soup</em>
 
 Things this soup will not do: Win any beauty contests.
 

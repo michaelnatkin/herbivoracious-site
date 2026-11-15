@@ -37,7 +37,7 @@ This dish is totally ingredient driven which is my favorite way to cook. If I ev
 - Butter
 - Salt
 - Pepper
-- Optional: [shaved black truffle](https://www.amazon.com/dp/B000M8O0ME?tag=herb-hugo-20), or [truffle oil](https://www.amazon.com/dp/B0BDJ79T97?tag=herb-hugo-20), or [truffle salt](https://www.amazon.com/dp/B0BG9BNZDW?tag=herb-hugo-20)
+- Optional: {{% product id="shaved-black-truffle" %}}shaved black truffle{{% /product %}}, or {{% product id="truffle-oil-2" %}}truffle oil{{% /product %}}, or {{% product id="truff-black-truffle-salt-fine-and-coarse-sea" %}}truffle salt{{% /product %}}
 
 1. Bring a large pot of salted water to a boil.
 2. Saute the onions in 2 tablespoons of butter with 1/4 teaspoon of salt over medium heat until the moisture evaporates and they begin to get brown and crispy, about 15 minutes.

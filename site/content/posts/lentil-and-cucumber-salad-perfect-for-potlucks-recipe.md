@@ -31,7 +31,7 @@ In this kind of salad, cucumbers tend to leak a lot of juice, dilute the dessing
 
 If you are wondering about the beautiful pale color of these lentils, it is because I used the zero-tannin <a href="http://www.davidsoncommodities.com/our-unique-lentils" target="_blank">Shasta Lentils</a> from PNW Co-Op. If they are available in your area, I highly recommend them. You can also <a href="http://chefshop.com/Shasta-Yellow-Zero-Tannin-Lentils-Dried-P7835.aspx?afid=10" target="_blank">order them from ChefShop.com</a>. If not, a regular lentil will do. In either case, pay close attention to the last few minutes of their cooking. Stop too soon and your lentils have an unpleasant snap, but go too long and you'll have made lentil soup!  I like to cook them right up to the perfect texture and then immediately rinse with lots of cold water to stop the cooking.
 
-You might like to try adding some <a href="https://www.amazon.com/dp/B00EENE82A?tag=herb-hugo-20">Dijon mustard</a> to the dressing as well; it is friendly with dill and lemon juice so I think it would be a nice addition.
+You might like to try adding some {{% product id="dijon-mustard" %}}Dijon mustard{{% /product %}} to the dressing as well; it is friendly with dill and lemon juice so I think it would be a nice addition.
 
 (*) I wouldn't actually keep it in your back pocket because it will stain your pants.
 
@@ -42,7 +42,7 @@ You might like to try adding some <a href="https://www.amazon.com/dp/B00EENE82A?
 <ul>
 	<li>2 English cucumbers</li>
 	<li>1 pound lentils</li>
-	<li><a href="https://www.amazon.com/dp/B0011BPMUK?tag=herb-hugo-20">Kosher salt</a></li>
+	<li>{{% product id="diamond-crystal" %}}Kosher salt{{% /product %}}</li>
 	<li>1/2 red onion, diced</li>
 	<li>1/2 cup extra virgin olive oil</li>
 	<li>Juice of 1 lemon</li>

@@ -41,7 +41,7 @@ recipe:
     - "Drain and squeeze most of the liquid out of the pickled vegetable. Boil the noodles according to the package directions; cook until they are tender but still have a bit of bite. Drain and divide among the serving bowls. Top each serving of noodles with one-quarter of the sauce and tofu, a squeeze of lime juice, a handful of the pickled vegetable, one-quarter of the crispy noodles, and a few cilantro leaves. Serve immediately, passing the thinly sliced shallots, remaining limes, and curry paste for each diner to apply."
 ---
 
-<em>Well.. here we go off to the James Beard awards! <a href="http://www.amazon.com/gp/product/1558327452/ref=as_li_ss_tl?ie=UTF8&amp;tag=herb-book-sales-page-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=1558327452" target="_blank" rel="noopener noreferrer">Herbivoracious</a> is a finalist in the Vegetable Focused and Vegetarian category. The award ceremony is this Friday, May 3rd. Win, lose, or draw I'm thrilled to be a part of it, and looking forward to some time in New York. This is one of my very favorite recipes from the book.</em>
+<em>Well.. here we go off to the James Beard awards! {{% product id="herbivoracious-cookbook" target="_blank" %}}Herbivoracious{{% /product %}} is a finalist in the Vegetable Focused and Vegetarian category. The award ceremony is this Friday, May 3rd. Win, lose, or draw I'm thrilled to be a part of it, and looking forward to some time in New York. This is one of my very favorite recipes from the book.</em>
 
 Khao soi is an iconic dish from the Chiang Mai region of northern Thailand, though its roots are thought to be Burmese or Chinese Muslim. It inspires cultlike devotion among initiates.
 
@@ -60,13 +60,13 @@ My version isn’t completely authentic; I skip making a second chili sauce (nam
   <h3>Ingredients</h3>
   <h4>FOR THE CURRY PASTE</h4>
 <ul>
-  <li>5 large, whole dried red chiles (such as <a href="https://www.amazon.com/dp/B07VGSD7L7?tag=herb-hugo-20">pasilla, ancho, or New Mexico</a>), stemmed but not seeded</li>
+  <li>5 large, whole dried red chiles (such as {{% product id="pasilla-ancho-or-new-mexico" %}}pasilla, ancho, or New Mexico{{% /product %}}), stemmed but not seeded</li>
   <li>1/2 cup diced shallot</li>
   <li>2 teaspoons grated fresh ginger</li>
   <li>1 garlic clove, peeled and sliced</li>
   <li>1/2 teaspoon coriander seed</li>
-  <li>1 teaspoon <a href="https://www.amazon.com/dp/B000VK49YM?tag=herb-hugo-20">ground turmeric</a></li>
-  <li>2 teaspoons <a href="https://www.amazon.com/dp/B00309S13Q?tag=herb-hugo-20">garam masala</a> or other Indian spice mix of your choice</li>
+  <li>1 teaspoon {{% product id="turmeric-powder" %}}ground turmeric{{% /product %}}</li>
+  <li>2 teaspoons {{% product id="garam-masala" %}}garam masala{{% /product %}} or other Indian spice mix of your choice</li>
 </ul>
 <h4>FOR THE CRISPY NOODLES</h4>
 <ul>
@@ -82,7 +82,7 @@ My version isn’t completely authentic; I skip making a second chili sauce (nam
 </ul>
 <h4>FOR THE PICKLED VEGETABLE</h4>
 <ul>
-  <li>1 cup <a href="https://www.amazon.com/dp/B00IR5HVH0?tag=herb-hugo-20">Chinese pickled mustard greens</a></li>
+  <li>1 cup {{% product id="chinese-pickled-mustard-greens" %}}Chinese pickled mustard greens{{% /product %}}</li>
   <li>*OR* 1 cup Sichuan pickled vegetable (see page 000)</li>
   <li>*OR* 1 cup sliced napa cabbage (1/8 inch thick) tossed with 1/4 cup white vinegar and 1/2 teaspoon kosher salt</li>
 </ul>
@@ -96,7 +96,7 @@ My version isn’t completely authentic; I skip making a second chili sauce (nam
   <h3>Instructions</h3>
   <h4>For the curry paste</h4>
 <ol>
-  <li>Place a medium skillet over medium heat. Put the chiles in the pan and dry-toast them for 2 minutes. Add the shallot, ginger, and garlic and continue to cook, tossing once or twice, until the chiles are very fragrant but not burning. Add the coriander seeds, turmeric, and garam masala, toss to combine, and remove from the heat. Let cool slightly, then puree in a mini-food processor (or with a <a href="https://www.amazon.com/dp/B0CRHP5G3P?tag=herb-hugo-20">mortar and pestle</a>), adding about 1/4 cup of water (or more as needed) to form a coarse paste.</li>
+  <li>Place a medium skillet over medium heat. Put the chiles in the pan and dry-toast them for 2 minutes. Add the shallot, ginger, and garlic and continue to cook, tossing once or twice, until the chiles are very fragrant but not burning. Add the coriander seeds, turmeric, and garam masala, toss to combine, and remove from the heat. Let cool slightly, then puree in a mini-food processor (or with a {{% product id="mortar-and-pestle" %}}mortar and pestle{{% /product %}}), adding about 1/4 cup of water (or more as needed) to form a coarse paste.</li>
 </ol>
 <h4>For the crispy noodles</h4>
 <ol>

@@ -1,105 +1,42 @@
 #!/usr/bin/env python3
-"""Sync Amazon affiliate products from blog posts into products.json.
+"""Publish step for product links. Runs from the pre-commit hook (and by hand).
 
-Scans all posts for Amazon links, de-duplicates by ASIN, categorizes new
-products via LLM (with a persistent cache), and writes an updated products.json.
-Designed to run both locally and in CI.
+The catalog (site/data/products.json) is the single source of truth: each product has our own id,
+a name, a category, and its current URL. Posts reference products with a shortcode:
+
+    {{% product id="maldon-sea-salt" %}}Maldon salt{{% /product %}}
+
+To change where a product links, edit its "url" in the catalog. Nothing in the posts changes.
+
+This script:
+  1. Converts raw affiliate links in content into product shortcodes, creating catalog entries for
+     new products (Amazon links, and links to merchants listed in merchant_domains.txt
+     or already present in the catalog).
+  2. Categorizes new products with Claude (needs ANTHROPIC_API_KEY; otherwise left uncategorized).
+  3. Fails if any shortcode refers to a product id that is not in the catalog.
 """
-
+import glob
 import json
 import os
 import re
-import glob
 import sys
+from urllib.parse import urlparse
 
-SITE_DIR = os.path.join(os.path.dirname(__file__), "site")
-CONTENT_DIR = os.path.join(SITE_DIR, "content")
-POSTS_DIR = os.path.join(CONTENT_DIR, "posts")
-PRODUCTS_FILE = os.path.join(SITE_DIR, "data", "products.json")
-CATEGORY_CACHE_FILE = os.path.join(SITE_DIR, "data", "product-categories.json")
-SHOP_CONTENT_DIR = os.path.join(SITE_DIR, "content", "shop")
+ROOT = os.path.dirname(os.path.abspath(__file__))
+CONTENT = os.path.join(ROOT, "site", "content")
+CATALOG = os.path.join(ROOT, "site", "data", "products.json")
+EXTRA_DOMAINS = os.path.join(ROOT, "merchant_domains.txt")
+AMAZON_TAG = "herb-hugo-20"
 
-# ASIN regex: 10-char alphanumeric Amazon product ID
-ASIN_RE = re.compile(r'/(?:dp|gp/product)/([A-Z0-9]{10})')
-
-# Match <a> tags with herb-hugo-20 affiliate links
-HERB_LINK_RE = re.compile(
-    r'<a[^>]+href="([^"]*amazon\.com[^"]*tag=herb-hugo-20[^"]*)"[^>]*>(.*?)</a>',
-    re.DOTALL
-)
-
-# Match <a> tags with herbivoracious-shop-20 affiliate links (review pages)
-SHOP_LINK_RE = re.compile(
-    r'<a[^>]+href="([^"]*amazon\.com[^"]*tag=herbivoracious-shop-20[^"]*)"[^>]*>(.*?)</a>',
-    re.DOTALL
-)
-
-# Match <a> tags with old poeticlicen07-20 affiliate links
-OLD_LINK_RE = re.compile(
-    r'<a[^>]+href="([^"]*amazon\.com[^"]*tag=poeticlicen07-20[^"]*)"[^>]*>(.*?)</a>',
-    re.DOTALL
-)
-
-# --- Junk filters (from extract_products.py) ---
-
-JUNK_NAME_PATTERNS = re.compile(
-    r'(?i)'
-    r'^Product [A-Z0-9]+$|'
-    r'^great item$|'
-    r'^from a can$|'
-    r'^this version$|'
-    r'^simple and inexpensive$|'
-    r'^expensive paraphenalia$|'
-    r'^more expensive .* model$|'
-    r'^better ideas$|'
-    r'^basic \$\d+ model$|'
-    r'^get one right now$|'
-    r'^here on Amazon$|'
-    r'^or you can find it on Amazon$|'
-    r'^you can jump right over to Amazon|'
-    r'^from ChefShop on Amazon$|'
-    r'^from the area of Puy$|'
-    r'^just soft-boiled$|'
-    r'^smaller quantities$|'
-    r'^this enormous roll$|'
-    r'^this one from Beaufor$|'
-    r'^dessert recipe$|'
-    r'^flat-stanleyish$|'
-    r'^clean dishtowel$|'
-    r'^lovely, if pricey|'
-    r'^a set like this|'
-    r'^Karen and Andrew$|'
-    r'^7 piece nylon and wooden|'
-    r'^8 piece Unison non-stick|'
-    r'^airlock$|'
-    r'^novelty beer cozy$'
-)
-
-NON_FOOD_NAMES = re.compile(
-    r'(?i)'
-    r'Nikon D7000|'
-    r'Terex AL-5L LED Light Tower|'
-    r'True Blood|'
-    r'I Like You.*Hospitality|'
-    r'Roasting in Hell.s Kitchen|'
-    r'Top Chef'
-)
-
-GENERIC_SHORT_NAMES = {
-    "shun", "plenty", "silpat", "bourdain", "ina garten",
-    "jaques pepin", "daniel boulud", "bill buford",
-    "edward espe brown", "food & wine", "food &amp; wine",
-    "frantoia", "corningware",
-}
-
-GENERIC_ANCHORS = {
-    "buy it", "on amazon", "like this", "basic", "this one", "here",
-    "amazon", "check it out", "get it", "get one", "order", "order it",
-    "these", "this", "that", "it", "one", "some", "them", "link",
-    "amazingly delicious things", "a set like this that has covers",
-}
-
-# --- Categories ---
+ASIN_RES = [
+    re.compile(r"/(?:dp|gp/product|o/ASIN|exec/obidos/ASIN)/([A-Z0-9]{10})"),
+    re.compile(r"[?&]ASIN=([A-Z0-9]{10})"),
+]
+HTML_LINK = re.compile(r'<a\b([^>]*?)href=(["\'])(https?://[^"\']+)\2([^>]*)>(.*?)</a>', re.S | re.I)
+MD_LINK = re.compile(r"\[([^\]\n]+)\]\((https?://[^)\s]+)\)")
+SHORTCODE_ID = re.compile(r'\{\{[<%]\s*product\s+id="([^"]+)"')
+GENERIC = {"buy it", "on amazon", "like this", "basic", "this one", "here", "amazon", "check it out",
+           "get it", "get one", "order", "order it", "these", "this", "that", "it", "one", "some", "them", "link"}
 
 CATEGORIES = {
     "knives-sharpening": "Knives & Sharpening",
@@ -121,322 +58,10 @@ CATEGORIES = {
 
 CATEGORY_ORDER = list(CATEGORIES.keys())
 
-CATEGORY_DESCRIPTIONS = {
-    "knives-sharpening": "Chef's knives, sharpening steels, and knife accessories",
-    "cookware-appliances": "Dutch ovens, skillets, blenders, and essential kitchen equipment",
-    "bakeware-tools": "Tart pans, baking mats, pastry tools, and cookie cutters",
-    "kitchen-gadgets": "Thermometers, peelers, graters, scales, and everyday tools",
-    "spices-seasonings": "The global spice rack for adventurous cooks",
-    "asian-pantry": "Essential ingredients for Japanese, Korean, Thai, and Chinese cooking",
-    "mexican-latin-pantry": "Chiles, masa, achiote, and ingredients for Latin American cooking",
-    "middle-eastern-indian-pantry": "Tamarind, asafoetida, pomegranate molasses, and more",
-    "cheese-dairy": "Artisan cheeses and specialty dairy for cooking",
-    "condiments-sauces": "Bold flavors to keep on hand",
-    "oils-vinegars": "Quality fats and acids that make dishes sing",
-    "grains-pasta-legumes": "Farro, polenta, lentils, specialty noodles, and flours",
-    "sweeteners-chocolate": "Maple syrup, jaggery, sorghum, and artisan chocolate",
-    "pantry-staples": "Salt, canned tomatoes, panko, broth, and dried mushrooms",
-    "books": "Cookbooks and food writing worth reading",
-}
-
-
-# Words that should stay lowercase in title case (unless first word)
-TITLE_CASE_LOWER = {"a", "an", "and", "at", "by", "for", "from", "in", "of", "on", "or", "the", "to", "with"}
-
-# Words/patterns that should keep specific casing
-CASING_OVERRIDES = {
-    "oz": "oz",
-    "lb": "lb",
-    "qt": "qt",
-    "ml": "mL",
-    "le": "Le",
-    "el": "El",
-    "la": "La",
-    "de": "de",
-    "del": "del",
-    "di": "di",
-    "du": "du",
-    "d'auvergne": "d'Auvergne",
-}
-
-
-def title_case(name):
-    """Smart title case that handles food product names well."""
-    if not name:
-        return name
-
-    # Don't re-case names that look like they have intentional mixed case
-    # (e.g., brand names like "KitchenAid", "OXO")
-    words = name.split()
-    result = []
-
-    for i, word in enumerate(words):
-        lower = word.lower()
-
-        # Check overrides first
-        if lower in CASING_OVERRIDES:
-            result.append(CASING_OVERRIDES[lower] if i > 0 else word.title())
-            continue
-
-        # Keep ALL-CAPS short words (brand abbreviations like "OXO", "ISI")
-        if word.isupper() and len(word) <= 4 and len(word) >= 2:
-            result.append(word)
-            continue
-
-        # Keep words with internal caps (e.g., "KitchenAid", "McCormick")
-        if any(c.isupper() for c in word[1:]) and not word.isupper():
-            result.append(word)
-            continue
-
-        # Handle hyphenated words
-        if "-" in word:
-            parts = word.split("-")
-            result.append("-".join(p.capitalize() for p in parts))
-            continue
-
-        # Handle apostrophes (e.g., "chef's" -> "Chef's", not "Chef'S")
-        if "'" in lower:
-            parts = word.split("'")
-            # Title-case first part, keep rest lowercase
-            cased = parts[0].capitalize() + "'" + "'".join(p.lower() for p in parts[1:])
-            result.append(cased)
-            continue
-
-        # First word always capitalized
-        if i == 0:
-            result.append(word.capitalize())
-            continue
-
-        # Lowercase articles/prepositions mid-title
-        if lower in TITLE_CASE_LOWER:
-            result.append(lower)
-            continue
-
-        # Default: capitalize
-        result.append(word.capitalize())
-
-    return " ".join(result)
-
-
-def extract_asin(url):
-    """Extract ASIN from an Amazon URL."""
-    m = ASIN_RE.search(url)
-    return m.group(1) if m else None
-
-
-def is_junk_product(name):
-    """Check if a product name is junk/generic and should be filtered."""
-    if JUNK_NAME_PATTERNS.search(name):
-        return True
-    if NON_FOOD_NAMES.search(name):
-        return True
-    if name.lower().strip() in GENERIC_SHORT_NAMES:
-        return True
-    if len(name.strip()) < 6 and not re.search(r'\d', name):
-        return True
-    return False
-
-
-# Global map of post URL -> post title, populated during scanning
-POST_TITLES = {}
-
-
-def get_post_url(filepath, content):
-    """Get the permalink URL for a post from its frontmatter."""
-    slug = os.path.splitext(os.path.basename(filepath))[0]
-    date_m = re.search(r'date:\s*(\d{4})-(\d{2})', content[:500])
-    if date_m:
-        year, month = date_m.group(1), date_m.group(2)
-        return f"/{year}/{month}/{slug}/"
-    return f"/{slug}/"
-
-
-def get_post_title(content):
-    """Extract the title from post frontmatter."""
-    m = re.search(r'title:\s*["\'](.+?)["\']', content[:500])
-    return m.group(1) if m else None
-
-
-def strip_html_tags(text):
-    """Remove HTML tags from text."""
-    return re.sub(r'<[^>]+>', '', text).strip()
-
-
-def scan_all_posts():
-    """Scan all posts for Amazon affiliate links (all tag variants)."""
-    products = {}
-
-    for filepath in glob.glob(os.path.join(POSTS_DIR, "*.md")):
-        with open(filepath, "r") as f:
-            content = f.read()
-        post_url = get_post_url(filepath, content)
-        post_title = get_post_title(content)
-        if post_title:
-            POST_TITLES[post_url] = post_title
-
-        # Scan for herb-hugo-20 links (current affiliate tag)
-        for match in HERB_LINK_RE.finditer(content):
-            url = match.group(1).replace("&amp;", "&")
-            anchor = strip_html_tags(match.group(2))
-            _add_product(products, url, anchor, post_url)
-
-        # Scan for old poeticlicen07-20 links
-        for match in OLD_LINK_RE.finditer(content):
-            url = match.group(1).replace("&amp;", "&")
-            anchor = strip_html_tags(match.group(2))
-            _add_product(products, url, anchor, post_url)
-
-        # Scan for herbivoracious-shop-20 links (review posts)
-        for match in SHOP_LINK_RE.finditer(content):
-            url = match.group(1).replace("&amp;", "&")
-            anchor = strip_html_tags(match.group(2))
-            _add_product(products, url, anchor, post_url, is_review=True)
-
-    return products
-
-
-def scan_content_pages():
-    """Scan top-level content pages for review links."""
-    products = {}
-
-    for filepath in glob.glob(os.path.join(CONTENT_DIR, "*.md")):
-        with open(filepath, "r") as f:
-            content = f.read()
-        slug = os.path.splitext(os.path.basename(filepath))[0]
-        page_url = f"/{slug}/"
-
-        title_match = re.search(r'title:\s*["\']?(.+?)["\']?\s*$', content, re.MULTILINE)
-        page_title = title_match.group(1).strip('"\'') if title_match else slug
-
-        for pattern in [HERB_LINK_RE, SHOP_LINK_RE, OLD_LINK_RE]:
-            for match in pattern.finditer(content):
-                url = match.group(1).replace("&amp;", "&")
-                anchor = strip_html_tags(match.group(2))
-                asin = extract_asin(url)
-                if not asin:
-                    continue
-                clean_url = f"https://www.amazon.com/dp/{asin}?tag=herb-hugo-20"
-
-                if not anchor or anchor.lower() in GENERIC_ANCHORS or len(anchor) < 4:
-                    continue
-
-                if asin not in products:
-                    products[asin] = {
-                        "name": anchor,
-                        "url": clean_url,
-                        "asin": asin,
-                        "featured_in": [],
-                        "review_url": page_url,
-                        "review_title": page_title,
-                    }
-                else:
-                    if "review_url" not in products[asin]:
-                        products[asin]["review_url"] = page_url
-                        products[asin]["review_title"] = page_title
-                if page_url not in products[asin]["featured_in"]:
-                    products[asin]["featured_in"].append(page_url)
-
-    return products
-
-
-def _add_product(products, url, anchor, post_url, is_review=False):
-    """Add a product to the products dict from a scanned link."""
-    asin = extract_asin(url)
-    if not asin:
-        return
-    clean_url = f"https://www.amazon.com/dp/{asin}?tag=herb-hugo-20"
-
-    if not anchor or anchor.lower() in GENERIC_ANCHORS or len(anchor) < 4:
-        return
-
-    if asin not in products:
-        products[asin] = {
-            "name": anchor,
-            "url": clean_url,
-            "asin": asin,
-            "featured_in": [],
-        }
-    else:
-        # Prefer longer/more descriptive name
-        if len(anchor) > len(products[asin]["name"]):
-            products[asin]["name"] = anchor
-
-    if post_url not in products[asin]["featured_in"]:
-        products[asin]["featured_in"].append(post_url)
-
-
-def merge_scanned(post_products, page_products):
-    """Merge post and page scan results."""
-    merged = dict(post_products)
-    for asin, product in page_products.items():
-        if asin not in merged:
-            merged[asin] = dict(product)
-        else:
-            existing = merged[asin]
-            for url in product.get("featured_in", []):
-                if url not in existing["featured_in"]:
-                    existing["featured_in"].append(url)
-            if "review_url" in product and "review_url" not in existing:
-                existing["review_url"] = product["review_url"]
-                existing["review_title"] = product.get("review_title", "")
-    return merged
-
-
-def filter_junk(products):
-    """Remove junk products."""
-    filtered = {}
-    removed = []
-    for asin, product in products.items():
-        if is_junk_product(product["name"]):
-            removed.append(product["name"])
-        else:
-            filtered[asin] = product
-    if removed:
-        print(f"  Filtered {len(removed)} junk products")
-    return filtered
-
-
-def load_existing_products():
-    """Load the current products.json, returning {asin: product} and {asin: category_slug}."""
-    if not os.path.exists(PRODUCTS_FILE):
-        return {}, {}
-
-    with open(PRODUCTS_FILE) as f:
-        data = json.load(f)
-
-    products_by_asin = {}
-    categories_by_asin = {}
-
-    for category in data.get("categories", []):
-        slug = category["slug"]
-        for product in category.get("products", []):
-            asin = extract_asin(product["url"])
-            if asin:
-                products_by_asin[asin] = product
-                categories_by_asin[asin] = slug
-
-    return products_by_asin, categories_by_asin
-
-
-def load_category_cache():
-    """Load the ASIN -> category cache."""
-    if os.path.exists(CATEGORY_CACHE_FILE):
-        with open(CATEGORY_CACHE_FILE) as f:
-            return json.load(f)
-    return {}
-
-
-def save_category_cache(cache):
-    """Save the ASIN -> category cache."""
-    # Sort by ASIN for stable diffs
-    sorted_cache = dict(sorted(cache.items()))
-    with open(CATEGORY_CACHE_FILE, "w") as f:
-        json.dump(sorted_cache, f, indent=2)
-        f.write("\n")
 
 
 def categorize_with_llm(uncategorized_products):
-    """Call Anthropic API to categorize products. Returns {asin: category_slug}."""
+    """Call Anthropic API to categorize products. Returns {product_id: category_slug}."""
     try:
         import anthropic
     except ImportError:
@@ -451,10 +76,10 @@ def categorize_with_llm(uncategorized_products):
     client = anthropic.Anthropic()
 
     # Build product list for the prompt
-    asin_list = list(uncategorized_products.keys())
+    id_list = list(uncategorized_products.keys())
     product_lines = []
-    for i, asin in enumerate(asin_list):
-        product_lines.append(f"{i}: {uncategorized_products[asin]['name']}")
+    for i, asin in enumerate(id_list):
+        product_lines.append(f"{i}: {uncategorized_products[pid]['name']}")
 
     slug_list = "\n".join(f"- {slug}: {CATEGORIES[slug]}" for slug in CATEGORY_ORDER)
 
@@ -489,7 +114,7 @@ Rules:
 
 Return ONLY the JSON object, no other text."""
 
-    print(f"  Calling Claude API to categorize {len(asin_list)} products...")
+    print(f"  Calling Claude API to categorize {len(id_list)} products...")
     response = client.messages.create(
         model="claude-sonnet-4-5-20250929",
         max_tokens=8000,
@@ -507,396 +132,146 @@ Return ONLY the JSON object, no other text."""
     result = {}
     for idx_str, slug in assignments.items():
         idx = int(idx_str)
-        if idx < len(asin_list):
-            asin = asin_list[idx]
+        if idx < len(id_list):
+            pid = id_list[idx]
             if slug in CATEGORIES:
-                result[asin] = slug
+                result[pid] = slug
             else:
-                print(f"  WARNING: Unknown category '{slug}' for '{uncategorized_products[asin]['name']}', using pantry-staples")
-                result[asin] = "pantry-staples"
+                print(f"  WARNING: Unknown category '{slug}' for '{uncategorized_products[pid]['name']}', using pantry-staples")
+                result[pid] = "pantry-staples"
     return result
 
 
-def update_product_counts():
-    """Update product_count in each shop/*.md front matter."""
-    # Load current products.json to get counts
-    with open(PRODUCTS_FILE) as f:
-        data = json.load(f)
-
-    counts = {}
-    for category in data.get("categories", []):
-        counts[category["slug"]] = len(category.get("products", []))
-
-    for slug, count in counts.items():
-        filepath = os.path.join(SHOP_CONTENT_DIR, f"{slug}.md")
-        if not os.path.exists(filepath):
-            continue
-        with open(filepath, "r") as f:
-            content = f.read()
-
-        updated = re.sub(
-            r'(product_count:\s*)\d+',
-            f'\\g<1>{count}',
-            content,
-        )
-        if updated != content:
-            with open(filepath, "w") as f:
-                f.write(updated)
-            print(f"  Updated {slug}.md product_count: {count}")
 
 
-DEDUP_CACHE_FILE = os.path.join(SITE_DIR, "data", "product-dedup.json")
+def asin_of(url):
+    for rx in ASIN_RES:
+        m = rx.search(url)
+        if m:
+            return m.group(1)
+    return None
 
 
-def load_dedup_cache():
-    """Load the dedup cache: maps ASIN -> canonical ASIN (or itself if canonical)."""
-    if os.path.exists(DEDUP_CACHE_FILE):
-        with open(DEDUP_CACHE_FILE) as f:
-            return json.load(f)
-    return {}
+def host_of(url):
+    return (urlparse(url).hostname or "").lower().removeprefix("www.")
 
 
-def save_dedup_cache(cache):
-    """Save the dedup cache."""
-    sorted_cache = dict(sorted(cache.items()))
-    with open(DEDUP_CACHE_FILE, "w") as f:
-        json.dump(sorted_cache, f, indent=2)
-        f.write("\n")
+def strip_tags(s):
+    return re.sub(r"\s+", " ", re.sub(r"<[^>]+>", "", s)).strip()
 
 
-def _merge_product_into(target, source):
-    """Merge source product entry into target, combining featured_in and preserving review_url."""
-    if "review_url" in source and "review_url" not in target:
-        target["review_url"] = source["review_url"]
-    # Merge featured_in (list of {url, title} objects)
-    seen_urls = {item["url"] for item in target.get("featured_in", [])}
-    review_url = target.get("review_url")
-    for item in source.get("featured_in", []):
-        if item["url"] not in seen_urls and item["url"] != review_url:
-            seen_urls.add(item["url"])
-            target.setdefault("featured_in", []).append(item)
-    if "featured_in" in target:
-        target["featured_in"] = sorted(target["featured_in"], key=lambda x: x["url"])[:5]
+def slugify(s):
+    s = re.sub(r"&[a-z]+;|&#\d+;", " ", s.lower())
+    s = re.sub(r"[^a-z0-9]+", "-", s).strip("-")
+    if len(s) > 48:
+        s = s[:48].rsplit("-", 1)[0]
+    return s
 
 
-def dedup_with_llm(by_category):
-    """Use LLM to identify duplicate products within each category. Returns dedup map {asin: canonical_asin}."""
-    try:
-        import anthropic
-    except ImportError:
-        print("  WARNING: anthropic package not installed, skipping dedup")
-        return {}
-
-    api_key = os.environ.get("ANTHROPIC_API_KEY")
-    if not api_key:
-        print("  WARNING: ANTHROPIC_API_KEY not set, skipping dedup")
-        return {}
-
-    client = anthropic.Anthropic()
-
-    # Build a single prompt with all categories
-    all_entries = []  # (index, asin, name, category)
-    idx = 0
-    for slug in CATEGORY_ORDER:
-        for product in by_category.get(slug, []):
-            asin_match = ASIN_RE.search(product["url"])
-            asin = asin_match.group(1) if asin_match else None
-            if asin:
-                all_entries.append((idx, asin, product["name"], slug))
-                idx += 1
-
-    product_lines = []
-    for i, asin, name, cat in all_entries:
-        product_lines.append(f"{i}: [{cat}] {name}")
-
-    prompt = f"""You are deduplicating a product catalog for a vegetarian food blog's shop. Products are grouped by category.
-
-Find groups of entries that refer to the SAME product (same item, just different Amazon listings or slightly different names).
-
-PRODUCTS (index: [category] name):
-{chr(10).join(product_lines)}
-
-For each group of duplicates, return the index of the BEST entry to keep (most descriptive, well-known brand name) and the indices to merge into it.
-
-Return a JSON object where keys are the "keep" index (as string) and values are arrays of "merge" indices. Only include groups with actual duplicates. Example:
-{{"5": [12, 45], "20": [21]}}
-
-Rules:
-- Only group products that are genuinely the same item (e.g., "Parmigiano Reggiano" and "Parmigiano-Reggiano Cheese" are the same)
-- Different sizes of the same product ARE duplicates (e.g., "Masa Harina" and "Masa Harina, 4 lb")
-- Generic names for the same tool ARE duplicates (e.g., "Pressure Cooker" appearing multiple times)
-- Different products are NOT duplicates even if similar (e.g., "Chili Oil" and "Chili-Flavored Sesame Oil" are different)
-- "Fennel Pollen" and "Fennel Seeds" are DIFFERENT products
-- Only group within the same category
-- Prefer keeping entries with brand names or more specific descriptions
-- When names are equally descriptive, keep the shorter, cleaner one
-
-Return ONLY the JSON object, no other text."""
-
-    print(f"  Calling Claude API to deduplicate {len(all_entries)} products...")
-    response = client.messages.create(
-        model="claude-sonnet-4-5-20250929",
-        max_tokens=8000,
-        messages=[{"role": "user", "content": prompt}],
-    )
-
-    text = response.content[0].text.strip()
-    if text.startswith("```"):
-        text = re.sub(r'^```\w*\n?', '', text)
-        text = re.sub(r'\n?```$', '', text)
-
-    groups = json.loads(text)
-
-    # Convert index-based groups to ASIN-based dedup map
-    dedup_map = {}
-    total_dupes = 0
-    for keep_idx_str, merge_indices in groups.items():
-        keep_idx = int(keep_idx_str)
-        if keep_idx >= len(all_entries):
-            continue
-        canonical_asin = all_entries[keep_idx][1]
-        # Map canonical to itself
-        dedup_map[canonical_asin] = canonical_asin
-        for merge_idx in merge_indices:
-            if merge_idx >= len(all_entries):
-                continue
-            dupe_asin = all_entries[merge_idx][1]
-            dedup_map[dupe_asin] = canonical_asin
-            total_dupes += 1
-
-    print(f"  Found {total_dupes} duplicates in {len(groups)} groups")
-    return dedup_map
-
-
-def _resolve_canonical(asin, dedup_cache, depth=0):
-    """Follow dedup chain to find the root canonical ASIN."""
-    if depth > 10:
-        return asin
-    canonical = dedup_cache.get(asin, asin)
-    if canonical == asin:
-        return asin
-    return _resolve_canonical(canonical, dedup_cache, depth + 1)
-
-
-def apply_dedup(by_category, dedup_cache):
-    """Apply dedup cache to merge duplicate products. Returns total merge count."""
-    total_merged = 0
-
-    for slug in CATEGORY_ORDER:
-        products = by_category.get(slug, [])
-        if not products:
-            continue
-
-        # Build ASIN -> product mapping for this category
-        canonical_products = {}  # canonical_asin -> product entry
-        order = []  # track insertion order of canonicals
-
-        for p in products:
-            asin_match = ASIN_RE.search(p["url"])
-            if not asin_match:
-                continue
-            asin = asin_match.group(1)
-            canonical = _resolve_canonical(asin, dedup_cache)
-
-            if canonical in canonical_products:
-                # Merge into canonical
-                _merge_product_into(canonical_products[canonical], p)
-                total_merged += 1
-            else:
-                canonical_products[canonical] = p
-                order.append(canonical)
-
-        by_category[slug] = [canonical_products[a] for a in order if a in canonical_products]
-
-    return total_merged
-
-
-def group_by_category(all_products, category_cache, existing_products):
-    """Group products by category, returning {slug: [product_entries]}."""
-    by_category = {slug: [] for slug in CATEGORY_ORDER}
-
-    for asin, product in all_products.items():
-        cat = category_cache.get(asin, "pantry-staples")
-        if cat not in by_category:
-            cat = "pantry-staples"
-
-        # Prefer existing curated name/data, then title-case
-        existing = existing_products.get(asin, {})
-        raw_name = existing.get("name", product["name"])
-        entry = {
-            "name": title_case(raw_name),
-            "url": f"https://www.amazon.com/dp/{asin}?tag=herb-hugo-20",
-        }
-
-        # Preserve review_url from existing or scanned
-        review_url = existing.get("review_url") or product.get("review_url")
-        if review_url:
-            entry["review_url"] = review_url
-
-        # Merge featured_in from both sources
-        featured_urls = set()
-        # Collect URLs from existing (may be old format strings or new format objects)
-        for item in existing.get("featured_in", []):
-            if isinstance(item, dict):
-                featured_urls.add(item["url"])
-            else:
-                featured_urls.add(item)
-        for url in product.get("featured_in", []):
-            featured_urls.add(url)
-        # Remove review_url from featured_in
-        featured_urls.discard(review_url)
-        if featured_urls:
-            featured_list = []
-            for url in sorted(featured_urls)[:5]:
-                title = POST_TITLES.get(url)
-                if title:
-                    featured_list.append({"url": url, "title": title})
-                else:
-                    featured_list.append({"url": url, "title": url.strip("/").split("/")[-1].replace("-", " ").title()})
-            entry["featured_in"] = featured_list
-
-        by_category[cat].append(entry)
-
-    return by_category
-
-
-def build_output(by_category):
-    """Build the final products.json structure from grouped/deduped categories."""
-    output_categories = []
-    for slug in CATEGORY_ORDER:
-        products = by_category[slug]
-        if not products:
-            continue
-        products.sort(key=lambda p: p["name"].lower())
-        output_categories.append({
-            "name": CATEGORIES[slug],
-            "slug": slug,
-            "description": CATEGORY_DESCRIPTIONS[slug],
-            "image": f"/images/shop/{slug}.jpg",
-            "products": products,
-        })
-
-    return {"categories": output_categories}
+def split_front_matter(text):
+    if text.startswith("---"):
+        end = text.find("\n---", 3)
+        if end != -1:
+            end = text.find("\n", end + 1)
+            return text[: end + 1], text[end + 1:]
+    return "", text
 
 
 def main():
-    print("=== sync_products.py ===\n")
+    with open(CATALOG) as f:
+        catalog = json.load(f)
+    by_asin = {a: pid for pid, p in catalog.items() for a in p.get("asins", [])}
+    by_url = {p["url"].split("?")[0].lower(): pid for pid, p in catalog.items()}
+    domains = {host_of(p["url"]) for p in catalog.values()} - {"amazon.com"}
+    if os.path.exists(EXTRA_DOMAINS):
+        domains |= {l.strip().lower() for l in open(EXTRA_DOMAINS) if l.strip() and not l.startswith("#")}
 
-    # Step 1: Scan all posts
-    print("Scanning posts for Amazon links...")
-    post_products = scan_all_posts()
-    print(f"  Found {len(post_products)} unique products in posts")
+    new_products, edited, converted = {}, [], 0
 
-    print("Scanning content pages for review links...")
-    page_products = scan_content_pages()
-    print(f"  Found {len(page_products)} unique products in content pages")
-
-    # Step 2: Merge
-    all_scanned = merge_scanned(post_products, page_products)
-    print(f"  Total unique products from scan: {len(all_scanned)}")
-
-    # Step 3: Filter junk
-    all_scanned = filter_junk(all_scanned)
-    print(f"  After filtering: {len(all_scanned)}")
-
-    # Step 4: Load existing data
-    print("\nLoading existing products.json...")
-    existing_products, existing_categories = load_existing_products()
-    print(f"  Existing products: {len(existing_products)}")
-
-    # Step 5: Load category cache
-    category_cache = load_category_cache()
-    print(f"  Category cache: {len(category_cache)} entries")
-
-    # Seed cache from existing products.json categories
-    cache_updated = False
-    for asin, cat_slug in existing_categories.items():
-        if asin not in category_cache:
-            category_cache[asin] = cat_slug
-            cache_updated = True
-
-    if cache_updated:
-        print(f"  Seeded cache from existing products.json (now {len(category_cache)} entries)")
-
-    # Step 6: Find uncategorized products
-    uncategorized = {}
-    for asin, product in all_scanned.items():
-        if asin not in category_cache:
-            uncategorized[asin] = product
-
-    print(f"\n  New products to categorize: {len(uncategorized)}")
-
-    # Step 7: Categorize via LLM if needed
-    if uncategorized:
-        new_categories = categorize_with_llm(uncategorized)
-        if new_categories:
-            category_cache.update(new_categories)
-            print(f"  Categorized {len(new_categories)} products via LLM")
+    def product_for(url, anchor):
+        """Find or create the catalog entry for a raw link. Returns (id, is_new) or None to skip."""
+        asin = asin_of(url) if host_of(url) == "amazon.com" else None
+        if asin:
+            if asin in by_asin:
+                return by_asin[asin]
+            clean = f"https://www.amazon.com/dp/{asin}?tag={AMAZON_TAG}"
+            entry = {"name": anchor or f"Amazon item {asin}", "url": clean, "original_url": clean, "asins": [asin]}
+        elif host_of(url) in domains:
+            key = url.split("?")[0].lower()
+            if key in by_url:
+                return by_url[key]
+            entry = {"name": anchor or host_of(url), "url": url, "original_url": url}
         else:
-            # Fallback: put uncategorized in pantry-staples
-            print("  WARNING: Using pantry-staples fallback for uncategorized products")
-            for asin in uncategorized:
-                if asin not in category_cache:
-                    category_cache[asin] = "pantry-staples"
-    else:
-        print("  No new products to categorize (0 LLM calls needed)")
+            return None
+        base = slugify(entry["name"]) if anchor and anchor.lower() not in GENERIC else ""
+        pid = base if len(base) >= 4 else (f"amazon-{asin.lower()}" if asin else slugify(host_of(url)))
+        n = 2
+        while pid in catalog:
+            pid = f"{base or pid.rsplit('-', 1)[0]}-{n}"
+            n += 1
+        catalog[pid] = entry
+        new_products[pid] = entry
+        if asin:
+            by_asin[asin] = pid
+        by_url[entry["url"].split("?")[0].lower()] = pid
+        return pid
 
-    # Step 8: Save category cache
-    save_category_cache(category_cache)
-    print(f"  Saved category cache ({len(category_cache)} entries)")
+    def tag(pid, attrs):
+        t = re.search(r'target=["\']([^"\']+)["\']', attrs)
+        return '{{%% product id="%s"%s %%}}' % (pid, ' target="%s"' % t.group(1) if t else "")
 
-    # Step 9: Group by category
-    print("\nGrouping products by category...")
-    by_category = group_by_category(all_scanned, category_cache, existing_products)
-    pre_dedup = sum(len(v) for v in by_category.values())
-    print(f"  {pre_dedup} products across {sum(1 for v in by_category.values() if v)} categories")
+    files = [f for f in sorted(glob.glob(os.path.join(CONTENT, "**", "*.md"), recursive=True)) if "/content/shop/" not in f]
+    used = {}
+    for f in files:
+        text = open(f).read()
+        fm, body = split_front_matter(text)
 
-    # Step 10: Deduplicate via LLM (with cache)
-    dedup_cache = load_dedup_cache()
-    # Check if any ASINs in the current build are missing from cache
-    all_current_asins = set()
-    for products in by_category.values():
-        for p in products:
-            m = ASIN_RE.search(p["url"])
-            if m:
-                all_current_asins.add(m.group(1))
-    uncached_asins = all_current_asins - set(dedup_cache.keys())
+        def html_sub(m):
+            nonlocal converted
+            pid = product_for(m.group(3).replace("&amp;", "&"), strip_tags(m.group(5)))
+            if not pid:
+                return m.group(0)
+            converted += 1
+            return tag(pid, m.group(1) + " " + m.group(4)) + m.group(5) + "{{% /product %}}"
 
-    if uncached_asins:
-        print(f"\n  {len(uncached_asins)} products not in dedup cache, running LLM dedup...")
-        new_dedup = dedup_with_llm(by_category)
-        if new_dedup:
-            dedup_cache.update(new_dedup)
-            # Also mark any ASINs not in a dedup group as canonical (self-mapping)
-            for asin in all_current_asins:
-                if asin not in dedup_cache:
-                    dedup_cache[asin] = asin
-            save_dedup_cache(dedup_cache)
-    else:
-        print("\n  All products in dedup cache (0 LLM dedup calls needed)")
+        def md_sub(m):
+            nonlocal converted
+            pid = product_for(m.group(2), strip_tags(m.group(1)))
+            if not pid:
+                return m.group(0)
+            converted += 1
+            return tag(pid, "") + m.group(1) + "{{% /product %}}"
 
-    # Apply dedup
-    total_merged = apply_dedup(by_category, dedup_cache)
-    if total_merged:
-        print(f"  Merged {total_merged} duplicate products")
-    post_dedup = sum(len(v) for v in by_category.values())
+        new_body = MD_LINK.sub(md_sub, HTML_LINK.sub(html_sub, body))
+        if new_body != body:
+            open(f, "w").write(fm + new_body)
+            edited.append(os.path.relpath(f, ROOT))
+        for pid in SHORTCODE_ID.findall(new_body):
+            used.setdefault(pid, set()).add(os.path.relpath(f, ROOT))
 
-    # Step 11: Write products.json
-    print("\nWriting products.json...")
-    output = build_output(by_category)
-    total = sum(len(c["products"]) for c in output["categories"])
+    # categorize new products
+    if new_products:
+        uncat = {pid: p for pid, p in new_products.items() if not p.get("category")}
+        if uncat:
+            try:
+                for pid, cat in categorize_with_llm(uncat).items():
+                    catalog[pid]["category"] = cat
+            except Exception as e:  # keep going; uncategorized products simply don't appear in the shop
+                print(f"  WARNING: categorization failed ({e}); new products left uncategorized")
+        with open(CATALOG, "w") as f:
+            json.dump(dict(sorted(catalog.items())), f, indent=2)
+            f.write("\n")
 
-    with open(PRODUCTS_FILE, "w") as f:
-        json.dump(output, f, indent=2)
-        f.write("\n")
-    print(f"  Wrote {total} products across {len(output['categories'])} categories")
-
-    # Step 12: Update product_count in shop .md files
-    print("\nUpdating shop page product counts...")
-    update_product_counts()
-
-    print(f"\nDone! {total} total products in {PRODUCTS_FILE}")
+    # validate
+    missing = {pid: sorted(fs) for pid, fs in used.items() if pid not in catalog}
+    for pid, fs in missing.items():
+        print(f"ERROR: unknown product id \"{pid}\" used in: {', '.join(fs)}")
+    print(f"sync_products: {converted} link(s) converted in {len(edited)} file(s); {len(new_products)} new product(s); "
+          f"{len(catalog)} products in catalog")
+    for pid, p in new_products.items():
+        print(f"  + {pid}: {p['name']} ({p.get('category', 'uncategorized')})")
+    return 1 if missing else 0
 
 
 if __name__ == "__main__":
-    main()
+    sys.exit(main())

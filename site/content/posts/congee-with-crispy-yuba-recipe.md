@@ -43,7 +43,7 @@ recipe:
 <li>Kosher salt</li>
 <li>1 cup thinly sliced red cabbage</li>
 <li>2 tablespoons rice vinegar</li>
-<li>2 sheets (roughly 8 x 10 inches) <a href="https://www.amazon.com/dp/B08J42X9B7?tag=herb-hugo-20">yuba (tofu skin)</a></li>
+<li>2 sheets (roughly 8 x 10 inches) {{% product id="dried-beancurd-sticks-non-gmo-soybean-curd-skin" %}}yuba (tofu skin){{% /product %}}</li>
 <li>¼ cup vegetable oil</li>
 <li>1-2 large shallots cut into 1/8” thick slices and separated into rings</li>
 <li>8 sprigs cilantro (leaves and tender stems only)</li>

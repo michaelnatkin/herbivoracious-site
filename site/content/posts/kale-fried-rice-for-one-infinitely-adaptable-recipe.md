@@ -29,7 +29,7 @@ This is the kind of thing I make for myself when I'm the only one around or the 
 
 This isn't a traditional fried rice with the egg scrambled in. Instead, I just toast the rice in a bit of oil to get lots of crispy, brown bits, then put a fried egg on top.
 
-You can vary this recipe infinitely: Want it vegan? Skip the egg. More protein? Add some small cubes of tofu or tempeh. Spicy? Any kind of fresh or dried chili pepper, or curry spices, or a Chinese chili paste or <a href="https://www.amazon.com/dp/B0014E4G0Q?tag=herb-hugo-20">sriracha</a> or <a href="https://www.amazon.com/dp/B0775335C6?tag=herb-hugo-20">harissa</a> will all work. Just pick one general culinary tradition and stick with it. Don't have kale? It could be spinach or cabbage or any leafy green - or other vegetables as long as you allow for the time they need to cook. Feeling healthy? Brown rice or red rice or black rice will work as well as rice.
+You can vary this recipe infinitely: Want it vegan? Skip the egg. More protein? Add some small cubes of tofu or tempeh. Spicy? Any kind of fresh or dried chili pepper, or curry spices, or a Chinese chili paste or {{% product id="sriracha-sauce" %}}sriracha{{% /product %}} or {{% product id="jar-of-harissa" %}}harissa{{% /product %}} will all work. Just pick one general culinary tradition and stick with it. Don't have kale? It could be spinach or cabbage or any leafy green - or other vegetables as long as you allow for the time they need to cook. Feeling healthy? Brown rice or red rice or black rice will work as well as rice.
 
 <div class="recipe-card">
 <strong>Kale Fried Rice for One
@@ -41,13 +41,13 @@ Serves 1 (but easy to multiply)</i>
 	<li>1 1/2 cups cooked and refrigerated rice</li>
 	<li>4 leaves kales, stripped from stems and thinly sliced</li>
 	<li>1/4 teaspoon salt</li>
-	<li>1 teaspoon <a href="https://www.amazon.com/dp/B000RYBYZ4?tag=herb-hugo-20">soy sauce</a> (gluten free if needed)</li>
+	<li>1 teaspoon {{% product id="soy-sauce" %}}soy sauce{{% /product %}} (gluten free if needed)</li>
 	<li>1 egg</li>
 	<li>1 green onion, thinly sliced</li>
 	<li>Freshly ground black pepper</li>
 </ul>
 <ol>
-	<li><span style="line-height: 13px;">Preheat a medium <a href="https://www.amazon.com/dp/B00006JSUA?tag=herb-hugo-20">cast iron skillet</a> over high heat. Add the oil and garlic. A few seconds later, add the rice and break up large clumps. Allow to cook, stirring only occasionally, for about 3 minutes, until there are some nice browned bits. Add the kale, salt, and soy sauce and cook for about another 5 minutes until the kale is completely tender.</span></li>
+	<li><span style="line-height: 13px;">Preheat a medium {{% product id="lodge-12-inch-cast-iron-pre-seasoned-skillet" %}}cast iron skillet{{% /product %}} over high heat. Add the oil and garlic. A few seconds later, add the rice and break up large clumps. Allow to cook, stirring only occasionally, for about 3 minutes, until there are some nice browned bits. Add the kale, salt, and soy sauce and cook for about another 5 minutes until the kale is completely tender.</span></li>
 	<li>Transfer the rice to a bowl and turn off the heat. Put the egg in the skillet and use the residual heat to cook it. Slide on top of the rice, garnish with the green onion, season with salt and pepper, and enjoy.</li>
 </ol>
 </div>

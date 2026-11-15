@@ -27,7 +27,7 @@ recipe:
     - "If the lentils seem a bit dry, stir in some more fruity olive oil."
     - "Top each crostini with a spoonful of lentils. Don't pile them so high that it will be too hard to eat. Add a smaller spoonful of apples and a little pinch of the microgreens, and serve."
 ---
-<em>Crostini with Truffled Cheese, <a href="https://www.amazon.com/dp/B08B3XFW1C?tag=herb-hugo-20">Lentils Du Puy</a> and Apple</em>
+<em>Crostini with Truffled Cheese, {{% product id="lentils-du-puy" %}}Lentils Du Puy{{% /product %}} and Apple</em>
 
 This was the first course of a <a href="http://www.facebook.com/album.php?aid=275992&amp;id=283218176855" target="_blank">little dinner party</a> I threw together for some friends a few weeks ago. It is really easy to make, and you could easily prepare the lentils the day before and then just warm them up when you are ready to serve. The apples provide a sweet, fresh counterpoint to the earthy flavors of the truffle and lentils.
 

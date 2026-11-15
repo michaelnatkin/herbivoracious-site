@@ -35,7 +35,7 @@ recipe:
 ---
 <p>This baked penne is a nice alternative to macaroni and cheese. It is jam-packed with mushrooms and spinach. Because it is made with melted cheese instead of a béchamel sauce, the flavors of the mushroom and spinach come through more clearly.</p>
 <p>I like to cut the mushrooms in quarters instead of thin slices for this dish. That allows them to brown nicely on the outside while retaining a satisfying a chew.</p>
-<p>You can use this recipe as a blueprint to make a wide variety of similar baked pastas. You can replace the <a href="https://www.amazon.com/dp/B0014CTCAW?tag=herb-hugo-20">penne rigate</a> with any other medium-sized extruded pasta; the cheese can be anything you fancy as long as it melts well, and the greens could be chard or kale.</p>
+<p>You can use this recipe as a blueprint to make a wide variety of similar baked pastas. You can replace the {{% product id="penne-rigate" %}}penne rigate{{% /product %}} with any other medium-sized extruded pasta; the cheese can be anything you fancy as long as it melts well, and the greens could be chard or kale.</p>
 
 
 <a href="/images/cookbook/baked-penne-with-mushrooms-and-fontina-2.webp"><img src="/images/cookbook/baked-penne-with-mushrooms-and-fontina-2.webp" alt="Baked Penne with Mushrooms and Fontina" /></a>
@@ -54,8 +54,8 @@ recipe:
 <li>½ white onion, thinly sliced</li>
 <li>2 pounds white or crimini mushrooms, quartered lengthwise (cut smaller if that is more than bite-sized)</li>
 <li>Kosher salt</li>
-<li>2 teaspoons <a href="https://www.amazon.com/dp/B000WS3APW?tag=herb-hugo-20">dried oregano</a></li>
-<li>½ teaspoon <a href="https://www.amazon.com/dp/B07F1T63WG?tag=herb-hugo-20">chili flakes</a></li>
+<li>2 teaspoons {{% product id="dried-oregano" %}}dried oregano{{% /product %}}</li>
+<li>½ teaspoon {{% product id="chili-flakes" %}}chili flakes{{% /product %}}</li>
 <li>½ cup sweet vermouth</li>
 <li>12 ounces fontina cheese, cut into small cubes</li>
 <li>fresh ground black pepper</li>

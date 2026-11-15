@@ -10,7 +10,7 @@ cover:
 ---
 <span style="font-size: 12px; font-family: Arial;">Inside-out Egg</span>
 
-I found these at our Farmer's Market last weekend. What a trip! The farmer said it is an heirloom breed of chicken that he's in the process of re-establishing as a breeding flock, but had just a few eggs to sell. So far I've eaten a couple <a href="https://www.amazon.com/dp/B0007M2BN0?tag=herb-hugo-20" target="_blank">just soft-boiled</a> like this, on toast. The taste is perfectly normal, except, well, inside out. Anyone have any <a href="https://www.amazon.com/dp/0743235274?tag=herb-hugo-20" target="_blank">better ideas</a> of how to really showcase this unique find?
+I found these at our Farmer's Market last weekend. What a trip! The farmer said it is an heirloom breed of chicken that he's in the process of re-establishing as a breeding flock, but had just a few eggs to sell. So far I've eaten a couple {{% product id="just-soft-boiled" target="_blank" %}}just soft-boiled{{% /product %}} like this, on toast. The taste is perfectly normal, except, well, inside out. Anyone have any {{% product id="better-ideas" target="_blank" %}}better ideas{{% /product %}} of how to really showcase this unique find?
 
 If this is your first visit to Herbivoracious, I'm glad you are here and check out my <a href="/welcome-to-herbivoracious/" target="_blank">Welcome page</a> for the $0.10 tour - I've got a lot of hearty, delicious meatless recipes that I think you'll enjoy.
 

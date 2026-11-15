@@ -24,7 +24,7 @@ recipe:
     - "Warm your serving plates or bowls. Bake the eggplant until completely tender and just starting to brown, about 30 minutes. Remove from the oven and drizzle on the remaining chermoula. Sprinkle on the crumbled feta and serve immediately."
 ---
 <p>The eggplants in this recipe are halved and then each half is cut so that there is a “pocket” to rub with <a href=”https://www.amazon.com/dp/B0CJS3BNWP?tag=herb-hugo-20”>Chermoula</a> (a sort of North African pesto, ). The chermoula bakes into the creamy flesh, seasoning it. Then you add more chermoula just before serving so you can enjoy both the fresh and cooked flavors of the herbs and spices.</p>
-<p>This isn’t a large entrée; you’ll want to serve it with generous quantities of <a href="https://www.amazon.com/dp/B01IRD2VYE?tag=herb-hugo-20">couscous</a> and chickpeas or a rice pilaf, yogurt and salad.</p>
+<p>This isn’t a large entrée; you’ll want to serve it with generous quantities of {{% product id="couscous" %}}couscous{{% /product %}} and chickpeas or a rice pilaf, yogurt and salad.</p>
 
 
 <a href="/images/cookbook/chermoula-stuffed-eggplant-2.webp"><img src="/images/cookbook/chermoula-stuffed-eggplant-2.webp" alt="Chermoula Stuffed Eggplant" /></a>
@@ -38,7 +38,7 @@ recipe:
 <li>2 medium globe eggplant, about 14 ounces each</li>
 <li>1 batch of chermoula, divided</li>
 <li>Kosher salt</li>
-<li>½ cup <a href="https://www.amazon.com/dp/B0012FPTXU?tag=herb-hugo-20">feta cheese</a>, crumbled</li>
+<li>½ cup {{% product id="feta-cheese" %}}feta cheese{{% /product %}}, crumbled</li>
 </ul>
 <ol>
 <li>Preheat the oven to 450 F. Grease a baking sheet generously with olive oil.</li>

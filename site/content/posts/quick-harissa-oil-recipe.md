@@ -37,7 +37,7 @@ recipe:
 <li>½ teaspoon ground cumin</li>
 <li>½ teaspoon caraway seeds</li>
 <li>½ teaspoon coriander seeds</li>
-<li>2 teaspoons <a href="https://www.amazon.com/Spice-Way-Pure-Sumac-Freshly/dp/B07R4LL17V?tag=herb-hugo-20">sumac powder</a></li>
+<li>2 teaspoons {{% product id="the-spice-way-pure-ground-sumac-spice-4-oz" %}}sumac powder{{% /product %}}</li>
 <li>1 clove garlic, minced</li>
 </ul>
 <ol>

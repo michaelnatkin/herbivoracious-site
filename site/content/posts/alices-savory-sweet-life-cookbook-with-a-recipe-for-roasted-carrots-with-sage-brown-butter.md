@@ -24,9 +24,9 @@ recipe:
     - "Toss the carrots in the sage brown butter and season them with salt and pepper to taste before serving."
 ---
 
-<a href="http://www.amazon.com/dp/0062064053/?tag=herb-hugo-20"><img class="alignright size-full wp-image-2006" style="border: none;" title="SSL Cover" src="/images/2012/06/SSL-Cover.webp" alt="" width="300" height="300" /></a>I first met Alice a few years back, when she was just starting her first blog, <a href="http://savorysweetlife.com/" target="_blank">Savory Sweet Life</a>. I knew right away that she wasn't going to be one of these bloggers that start out with a burst of enthusiasm, and then tail off until they are only posting every three months, mostly about their pet parakeet. It was easy to see that Alice had the energy, personality, and persistence to be successful at anything she tried.
+{{% product id="savory-sweet-life-100-simply-delicious-recipes" %}}<img class="alignright size-full wp-image-2006" style="border: none;" title="SSL Cover" src="/images/2012/06/SSL-Cover.webp" alt="" width="300" height="300" />{{% /product %}}I first met Alice a few years back, when she was just starting her first blog, <a href="http://savorysweetlife.com/" target="_blank">Savory Sweet Life</a>. I knew right away that she wasn't going to be one of these bloggers that start out with a burst of enthusiasm, and then tail off until they are only posting every three months, mostly about their pet parakeet. It was easy to see that Alice had the energy, personality, and persistence to be successful at anything she tried.
 
-Sure enough, Savory Sweet Life became a big hit; she's added a second <a href="http://everydayalice.savorysweetlife.com/" target="_blank">personal blog</a>, writes for <a href="http://www.pbs.org/parents/kitchenexplorers/" target="_blank">PBS Kids</a>, and her first cookbook, <a href="http://www.amazon.com/dp/0062064053/?tag=herb-hugo-20" target="_blank">Savory Sweet Life: 100 Simply Delicious Recipes for Every Family Occasion</a>, has just come out. She was kind enough to send me a review copy a few weeks back, and I knew from the second I laid eyes on it that she had a <strong>hit on her hands</strong>.
+Sure enough, Savory Sweet Life became a big hit; she's added a second <a href="http://everydayalice.savorysweetlife.com/" target="_blank">personal blog</a>, writes for <a href="http://www.pbs.org/parents/kitchenexplorers/" target="_blank">PBS Kids</a>, and her first cookbook, {{% product id="savory-sweet-life-100-simply-delicious-recipes" target="_blank" %}}Savory Sweet Life: 100 Simply Delicious Recipes for Every Family Occasion{{% /product %}}, has just come out. She was kind enough to send me a review copy a few weeks back, and I knew from the second I laid eyes on it that she had a <strong>hit on her hands</strong>.
 
 The reason everyone (including <a href="http://thepioneerwoman.com/" target="_blank">Ree Drummond</a>, who wrote the foreword), falls in love with Alice is that she's genuine, honest and open... and fun! Her recipes are exactly the same way. <strong>There isn't a hint of pretense to them.</strong> They are well conceived, straightforward to make, and full of flavor. Alice doesn't eschew shortcuts when they make sense, but she also won't compromise the taste of a dish to turn it into one of those 10-minute meals that aren't worth the 10 minutes.
 
@@ -36,12 +36,12 @@ For my vegetarian readers: the book is not vegetarian. Personally, <strong>I don
 
 The dish I chose to share with you, with Alice's permission of course, is her Roasted Carrots with Sage Brown Butter. My biggest problem with the dish is that I made it in the afternoon, and it was <strong>really hard not to eat all of the carrots myself</strong> instead of saving some to share with the family for dinner. The flavor is warm and comforting, and the subtle hit of cinnamon and nutmeg is lovely with the carrots. I happened to have some perfect, small, sweet, organic carrots so I left them whole, but if you are using larger ones, cut them as Alice describes below. You could also add toasted pecans for another layer of flavor.
 
-So my verdict... go order <a href="http://www.amazon.com/dp/0062064053/?tag=herb-hugo-20" target="_blank">Savory Sweet Life: 100 Simply Delicious Recipes for Every Family Occasion</a> right away!
+So my verdict... go order {{% product id="savory-sweet-life-100-simply-delicious-recipes" target="_blank" %}}Savory Sweet Life: 100 Simply Delicious Recipes for Every Family Occasion{{% /product %}} right away!
 
 <div class="recipe-card">
 <strong>Roasted Carrots with Sage Brown Butter</strong>
-<em>Reprinted with Permission from <a href="http://www.amazon.com/dp/0062064053/?tag=herb-hugo-20" target="_blank">Savory Sweet Life: 100 Simply Delicious Recipes for Every Family Occasion
-</a>Vegetarian, gluten free and kosher</em>
+<em>Reprinted with Permission from {{% product id="savory-sweet-life-100-simply-delicious-recipes" target="_blank" %}}Savory Sweet Life: 100 Simply Delicious Recipes for Every Family Occasion
+{{% /product %}}Vegetarian, gluten free and kosher</em>
 <ul>
 	<li>12 carrots, peeled, cut in half lengthwise, then cut into 2-inch pieces</li>
 	<li>2 tablespoons extra-virgin olive oil</li>

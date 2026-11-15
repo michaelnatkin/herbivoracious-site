@@ -38,7 +38,7 @@ If this is your first time making salad rolls, allow yourself a fair amount of 
 
 Two of these rolls per person is a good sized appetizer; three and you are up into light lunch territory.
 
-Oh: the kind of rice paper you want is <a href="https://www.amazon.com/dp/B0000CNU2X?tag=herb-hugo-20">like this</a>. It should say bánh tráng on the package and not be flavored with anything like sesame.
+Oh: the kind of rice paper you want is {{% product id="amazon-b0000cnu2x" %}}like this{{% /product %}}. It should say bánh tráng on the package and not be flavored with anything like sesame.
 
 
 <div class="recipe-card">
@@ -57,7 +57,7 @@ Oh: the kind of rice paper you want is <a href="https://www.amazon.com/dp/B0000C
   <li>1 stalk lemongrass, bottom 3" only, crushed and minced</li>
   <li>1 green onion, thinly sliced</li>
   <li>1/2 teaspoon salt</li>
-  <li>1/2 cup <a href="https://www.amazon.com/dp/B000SR5VD6?tag=herb-hugo-20">sweet chili sauce</a></li>
+  <li>1/2 cup {{% product id="sweet-chili-sauce" %}}sweet chili sauce{{% /product %}}</li>
 </ul>
 <h4>For the rolls</h4>
 <ul>
@@ -65,7 +65,7 @@ Oh: the kind of rice paper you want is <a href="https://www.amazon.com/dp/B0000C
   <li>24 shiso leaves</li>
   <li>1 bunch fresh mint, leaves only</li>
   <li>1 bunch cilantro sprigs (leaves and tender stems)</li>
-  <li>1/4 pound <a href="https://www.amazon.com/dp/B084YHJ2G7?tag=herb-hugo-20">rice vermicelli</a>, cooked according to package directions and cooled</li>
+  <li>1/4 pound {{% product id="rice-vermicelli" %}}rice vermicelli{{% /product %}}, cooked according to package directions and cooled</li>
   <li>1 cucumber peeled, halved, and thinly sliced lengthwise, trimmed to 4" lengths</li>
   <li>1 large carrot, peeled and julienned</li>
   <li>1 pound tofu, <a href="http://herbivoracious.com/2012/05/how-to-make-tofu-really-freaking-delicious-tofu-101.html">pan fried as in this recipe</a>, cooled, and cut into 24 pieces</li>

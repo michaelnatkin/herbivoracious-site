@@ -71,7 +71,7 @@ Serves 4 moderately as dinner with salad and bread</em>
 	<li>1 bunch kale</li>
 	<li>2/3 cup extra-virgin olive oil</li>
 	<li>2 cloves garlic</li>
-	<li>1 ounce <a href="https://www.amazon.com/dp/B0G27FYMV1?tag=herb-hugo-20">parmigiano-reggiano cheese</a></li>
+	<li>1 ounce {{% product id="parmigiano-reggiano-cheese" %}}parmigiano-reggiano cheese{{% /product %}}</li>
 	<li>1/2 teaspoon kosher salt</li>
 </ul>
 <ol>
@@ -96,7 +96,7 @@ Serves 4 moderately as dinner with salad and bread</em>
 	<li>1/2 pound beets, peeled and cut into 1/3" cubes</li>
 	<li>1 cup dry white wine</li>
 	<li>Handful of green beans, cut into 1" lengths</li>
-	<li>2 cups cooked white beans (<a href="https://www.amazon.com/dp/B08DW3MFXS?tag=herb-hugo-20">cannelini</a> or similar) - reserve 3 cups of the cooking liquid if you cooked them yourself (recommended)</li>
+	<li>2 cups cooked white beans ({{% product id="cannellini" %}}cannelini{{% /product %}} or similar) - reserve 3 cups of the cooking liquid if you cooked them yourself (recommended)</li>
 	<li>Optional: lemon juice</li>
 </ul>
 <ol>

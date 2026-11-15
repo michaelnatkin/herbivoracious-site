@@ -37,7 +37,7 @@ recipe:
 <br /><em>Vegan and gluten-free / Yields enough for 2 meals</em>
 </p>
 <ul>
-<li>6 <a href="https://www.amazon.com/dp/B00JQNCU3C?tag=herb-hugo-20">dried New Mexico chile pods</a>, stems removed</li>
+<li>6 {{% product id="barker-s-hot-red-chili-pods-from-hatch-new" %}}dried New Mexico chile pods{{% /product %}}, stems removed</li>
 <li>1 teaspoon coriander seeds</li>
 <li>1/2 teaspoon cumin powder</li>
 <li>several grinds black pepper</li>

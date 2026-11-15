@@ -10,7 +10,7 @@ cover:
 ---
 <span style="font-size: 0.8em;">Atayef - Syrian Ricotta-Filled Dessert Pancakes</span>
 
-I took one look at the picture of these <em>atayef</em> in Poopa Dweck's spectacular cookbook, <a type="amzn" href="http://www.amazon.com/dp/0060888180/?tag=poeticlicen07-20" target="_blank">Aromas of Aleppo, The Legendary Cuisine of Syrian Jews</a> and knew imediately that I had to make them. I served them at a recent Men Cook event for dessert, after a meal that also included her <a href="/2008/04/recipe-syrian-y/">red lentil soup (shurbat addes)</a> and <a href="/2008/04/recipe-syrian-s/">spiced yogurt cheese (labneh)</a>.
+I took one look at the picture of these <em>atayef</em> in Poopa Dweck's spectacular cookbook, {{% product id="aromas-of-aleppo-the-legendary-cuisine-of" target="_blank" %}}Aromas of Aleppo, The Legendary Cuisine of Syrian Jews{{% /product %}} and knew imediately that I had to make them. I served them at a recent Men Cook event for dessert, after a meal that also included her <a href="/2008/04/recipe-syrian-y/">red lentil soup (shurbat addes)</a> and <a href="/2008/04/recipe-syrian-s/">spiced yogurt cheese (labneh)</a>.
 
 If the picture of the atayef didn't get me, the description surely would have. First you make a thin pancake batter, then cook off small, crepe-thin circles, but only on one side. Then you fill the undercooked pancakes with ricotta cheese, seal them up, and deep fry them. Then you drench them in rose water-scented simple syrup, and dip the end in finely chopped pistachios. Over the top? I'd say.
 
@@ -21,7 +21,7 @@ The syrup sub-recipe will also yield more than you need but will keep well in th
 <strong>Shira (Rose Water Scented Syrup</strong>)
 <em>Vegetarian and vegan
 </em><em>Yields 2 cups (keeps well; could also use in cocktails)
-From <a type="amzn" href="http://www.amazon.com/dp/0060888180/?tag=poeticlicen07-20" target="_blank">Aromas of Aleppo, The Legendary Cuisine of Syrian Jews</a> </em>
+From {{% product id="aromas-of-aleppo-the-legendary-cuisine-of" target="_blank" %}}Aromas of Aleppo, The Legendary Cuisine of Syrian Jews{{% /product %}} </em>
 <ul>
 	<li><em>3 c. white sugar</em></li>
 	<li><em>1 c. water</em></li>
@@ -36,7 +36,7 @@ From <a type="amzn" href="http://www.amazon.com/dp/0060888180/?tag=poeticlicen07
 <em>Vegetarian
 To make vegan substitute egg replacer in the pancake and silken tofu fin the filling, or do a filling of chopped walnuts and apples)
 Yields about 40, enough for at least 12 people
-</em><em>From <a type="amzn" href="http://www.amazon.com/dp/0060888180/?tag=poeticlicen07-20" target="_blank">Aromas of Aleppo, The Legendary Cuisine of Syrian Jews</a> </em><em> </em>
+</em><em>From {{% product id="aromas-of-aleppo-the-legendary-cuisine-of" target="_blank" %}}Aromas of Aleppo, The Legendary Cuisine of Syrian Jews{{% /product %}} </em><em> </em>
 <ul>
 	<li>2 c. all-purpose flour</li>
 	<li>1 t. baking soda</li>

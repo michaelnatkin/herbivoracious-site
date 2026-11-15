@@ -36,7 +36,7 @@ recipe:
     - "Make a final adjustment to the texture of the risotto - it should be quite moist, otherwise it will firm up too much when set. If you've used up all of the broth, simmering water can be used instead."
     - "To finish, divide the watercress puree among the bowls. Spoon in the risotto and top with the vegetables. Serve piping hot."
 ---
-<em><a href="https://www.amazon.com/dp/B079BQQVY7?tag=herb-hugo-20">Saffron</a> Risotto with Watercress Puree and Spring Vegetables</em>
+<em>{{% product id="zaran-saffron-superior-saffron-threads-super" %}}Saffron{{% /product %}} Risotto with Watercress Puree and Spring Vegetables</em>
 
 Risotto is one of my favorite ways to highlight Spring ingredients. This is a version of a recipe I'm serving to a big group for <a href="http://www.wagreenschools.org/" target="_blank">Washington Green Schools</a> this week. Depending on what ends up being fresh, I'll probably do the puree with nettles instead of watercress, and top it with fava beans and hedgehog mushrooms rather than English peas and asparagus.
 

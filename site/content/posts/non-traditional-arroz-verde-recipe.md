@@ -41,11 +41,11 @@ recipe:
 <li>¼ cup light packed leaves mint or dill</li>
 <li>2 cloves garlic, coarsely chopped</li>
 <li>1/4 cup extra-virgin olive oil</li>
-<li>1 ½ teaspoons Kosher or <a href="https://www.amazon.com/dp/B00017028M?tag=herb-hugo-20">flaky sea salt</a> (only ¾ teaspoon if you substitute table salt)</li>
+<li>1 ½ teaspoons Kosher or {{% product id="maldon-salt-sea-salt-flakes-8-5-oz" %}}flaky sea salt{{% /product %}} (only ¾ teaspoon if you substitute table salt)</li>
 </ul>
 <ol>
-<li>Cook the rice in a <a href="https://www.amazon.com/dp/B007WQ9YNO?tag=herb-hugo-20">rice cooker</a> or according to package directions.</li>
-<li>In a <a href="https://www.amazon.com/dp/B089TP3K77?tag=herb-hugo-20">food processor</a>, combine the herbs, garlic, and olive oil. Process until thoroughly pureed.</li>
+<li>Cook the rice in a {{% product id="rice-cooker" %}}rice cooker{{% /product %}} or according to package directions.</li>
+<li>In a {{% product id="food-processor" %}}food processor{{% /product %}}, combine the herbs, garlic, and olive oil. Process until thoroughly pureed.</li>
 <li>Just before serving, stir the herb mixture and salt into the rice. Taste and add more salt as needed.</li>
 </ol>
 </div>
