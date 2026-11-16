@@ -1,0 +1,1263 @@
+[
+ {
+  "id": "amazon-b000jsm27m",
+  "name": "Amazon item B000JSM27M",
+  "status": "match",
+  "kind": "same",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B000JSM27M"
+   ],
+   "title": "MDH Chunky Chat Masala - 3.5oz (100g)",
+   "anchors": [],
+   "links": 1,
+   "posts": 1,
+   "example_post": "wacky-chana-chaat-spicy-chickpea-snack-recipe"
+  },
+  "primary": {
+   "merchant": "Weee!",
+   "product": "MDH Chunky Chat Masala 3 5oz 100g ",
+   "url": "https://www.weee.com/en/product/MDH-Chunky-Chat-Masala-3-5oz-100g-/3033868",
+   "epc": null,
+   "rate": 10,
+   "price": "$4.99",
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Same product: MDH Chunky Chat Masala, 100 g."
+ },
+ {
+  "id": "hot-sauce",
+  "name": "Hot Sauce",
+  "status": "match",
+  "kind": "same",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B000R4G6JS",
+    "B07FTTWDJS"
+   ],
+   "title": "Tapatio Salsa Picante Hot Sauce, 10 oz : Grocery & Gourmet Food",
+   "anchors": [],
+   "links": 3,
+   "posts": 3,
+   "example_post": "austin-style-breakfast-tacos-recipe"
+  },
+  "primary": {
+   "merchant": "Weee!",
+   "product": "Tapatio Salsa Picante Hot Sauce",
+   "url": "https://www.weee.com/en/product/Tapatio-Salsa-Picante-Hot-Sauce/47697",
+   "epc": null,
+   "rate": 10,
+   "price": "$4.29",
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Same product: Tapatio Salsa Picante hot sauce."
+ },
+ {
+  "id": "red-curry-paste",
+  "name": "Red Curry Paste",
+  "status": "match",
+  "kind": "same",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B000SRMB3O"
+   ],
+   "title": "Thai Kitchen Red Curry Paste, Gluten F",
+   "anchors": [],
+   "links": 1,
+   "posts": 1,
+   "example_post": "red-curry-fried-rice-with-seared-pineapple-recipe"
+  },
+  "primary": {
+   "merchant": "Weee!",
+   "product": "Thai Kitchen Red Curry Paste",
+   "url": "https://www.weee.com/en/product/Thai-Kitchen-Red-Curry-Paste/43514",
+   "epc": null,
+   "rate": 10,
+   "price": "$6.79",
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Same product: Thai Kitchen Red Curry Paste."
+ },
+ {
+  "id": "swad-chana-dal-split-desi-chickpeas-4-lb",
+  "name": "Swad Chana Dal (Split Desi Chickpeas), 4 lb",
+  "status": "match",
+  "kind": "same",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B005ZEMHVG"
+   ],
+   "title": "Swad Chana Dal (Split Desi Chickpeas),",
+   "anchors": [],
+   "links": 1,
+   "posts": 1,
+   "example_post": "chana-dal-in-the-style-of-puri-jagannath-temple-recipe"
+  },
+  "primary": {
+   "merchant": "Weee!",
+   "product": "Swad Chana Dal Split Desi Chickpeas 4 Pound",
+   "url": "https://www.weee.com/en/product/Swad-Chana-Dal-Split-Desi-Chickpeas-4-Pound/3004139",
+   "epc": null,
+   "rate": 10,
+   "price": "$9.99",
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Same product: Swad Chana Dal (split desi chickpeas), 4 lb."
+ },
+ {
+  "id": "swad-poha-thick-flattened-rice-2-lb",
+  "name": "Swad Poha Thick Flattened Rice, 2 lb",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B004XTDSB2"
+   ],
+   "title": "Spicy World Swad Poha THICK (Flattened Rice), 32 Ounce, 2 pound (pack of 1) : Indian Food : Grocery & Gourmet Food",
+   "anchors": [],
+   "links": 1,
+   "posts": 1,
+   "example_post": "poha-flattened-rice-with-coconut-and-cashews-recipe"
+  },
+  "primary": {
+   "merchant": "Weee!",
+   "product": "Laxmi Poha Flattened Rice Thick",
+   "url": "https://www.weee.com/en/product/Laxmi-Poha-Flattened-Rice-Thick/93537",
+   "epc": null,
+   "rate": 10,
+   "price": "$10.49",
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Same kind of thick poha (flattened rice) in the Laxmi brand instead of Swad."
+ },
+ {
+  "id": "dried-beancurd-sticks-non-gmo-soybean-curd-skin",
+  "name": "Dried Beancurd Sticks, Non-GMO Soybean Curd Skin",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B08J42X9B7"
+   ],
+   "title": "Dried Beancurd Sticks, Non-Gmo Soybean Curd Skin, Natural Asian Tofu, Dried Yuba for Vegan, Good Source Of Protein (17.6oz/500g) (17.6) : Gr",
+   "anchors": [],
+   "links": 2,
+   "posts": 2,
+   "example_post": "congee-with-crispy-yuba-recipe"
+  },
+  "primary": {
+   "merchant": "Weee!",
+   "product": "Organic Dried Beancurd Sticks",
+   "url": "https://www.weee.com/en/product/Organic-Dried-Beancurd-Sticks/3047083",
+   "epc": null,
+   "rate": 10,
+   "price": "$17.01",
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Dried beancurd (yuba) sticks, an organic brand instead of the Amazon listing."
+ },
+ {
+  "id": "order-them-from-amazon",
+  "name": "Order Them from Amazon",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B00RENFSDU"
+   ],
+   "title": "Jiva USDA Organics Urad Dal (Split Mat",
+   "anchors": [],
+   "links": 1,
+   "posts": 1,
+   "example_post": "recipe-urad-dal"
+  },
+  "primary": {
+   "merchant": "Weee!",
+   "product": "Laxmi Urad Dal  Skinned Black Lentils",
+   "url": "https://www.weee.com/en/product/Laxmi-Urad-Dal--Skinned-Black-Lentils/35444",
+   "epc": null,
+   "rate": 10,
+   "price": "$7.99",
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Skinned split urad dal in the Laxmi brand instead of Jiva organic."
+ },
+ {
+  "id": "rice-vermicelli",
+  "name": "Rice Vermicelli",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B084YHJ2G7"
+   ],
+   "title": "Rice Vermicelli Noodles (Authentic) | 2.6 lbs | Pack of 3 | Tasty For Ramen Noodles, Vietnamese Rice Noodles & Spring Rolls | Non-GMO & Glut",
+   "anchors": [],
+   "links": 1,
+   "posts": 1,
+   "example_post": "vietnamese-salad-rolls-goi-cuon-recipe"
+  },
+  "primary": {
+   "merchant": "Weee!",
+   "product": "vermicelli rice noodles 500g Gluten Free Noodles",
+   "url": "https://www.weee.com/en/product/vermicelli-rice-noodles-500g-Gluten-Free-Noodles/3111256",
+   "epc": null,
+   "rate": 10,
+   "price": "$24.99",
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "500 g bag of thin rice vermicelli noodles instead of the 3-pack."
+ },
+ {
+  "id": "chinese-pickled-mustard-greens",
+  "name": "Chinese Pickled Mustard Greens",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B00IR5HVH0"
+   ],
+   "title": "8oz Asian Taste Sour Mustard (Pickled Vegetable), Pack of 3",
+   "anchors": [],
+   "links": 1,
+   "posts": 1,
+   "example_post": "khao-soi-thai-curry-noodles-from-chiang-mai"
+  },
+  "primary": {
+   "merchant": "Weee!",
+   "product": "Buddha Brand Sour Pickled Green Mustard",
+   "url": "https://www.weee.com/en/product/Buddha-Brand-Sour-Pickled-Green-Mustard/89359",
+   "epc": null,
+   "rate": 10,
+   "price": "$2.29",
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Buddha Brand sour pickled green mustard, the same kind of Chinese pickle."
+ },
+ {
+  "id": "wonton-wrappers",
+  "name": "Wonton Wrappers",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B0F54QT5K8"
+   ],
+   "title": "Wildwood, Organic Wonton Wraps, 12 Ounce",
+   "anchors": [],
+   "links": 1,
+   "posts": 1,
+   "example_post": "winter-green-du"
+  },
+  "primary": {
+   "merchant": "Weee!",
+   "product": "Wonton Skin Wrappers  Frozen",
+   "url": "https://www.weee.com/en/product/Wonton-Skin-Wrappers--Frozen/8908",
+   "epc": null,
+   "rate": 10,
+   "price": "$1.99",
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Frozen wonton skin wrappers instead of Wildwood organic wraps."
+ },
+ {
+  "id": "skillet",
+  "name": "Skillet",
+  "status": "match",
+  "kind": "same",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B00008CM6B"
+   ],
+   "title": "Cuisinart Chef's Classic Stainless",
+   "anchors": [],
+   "links": 1,
+   "posts": 1,
+   "example_post": "braised-baby-artichoke-with-fennel-and-cherry-tomatoes-recipe"
+  },
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "cuisinart chefs classic stainless steel skillet",
+   "url": "https://www.surlatable.com/product/cuisinart-chefs-classic-stainless-steel-skillet/7108293",
+   "epc": 0.06,
+   "rate": 9,
+   "price": "$19.95",
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Same product: Cuisinart Chef's Classic stainless steel skillet."
+ },
+ {
+  "id": "shun",
+  "name": "Shun",
+  "status": "match",
+  "kind": "same",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B0000Y7KNQ"
+   ],
+   "title": "Shun Classic 8\" Chef's Knife",
+   "anchors": [],
+   "links": 1,
+   "posts": 1,
+   "example_post": "three-ways-to-increase-your-confidence-in-the-kitchen"
+  },
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "shun classic chefs knife 8",
+   "url": "https://www.surlatable.com/product/shun-classic-chefs-knife-8/268912",
+   "epc": 0.06,
+   "rate": 9,
+   "price": "$148.96",
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Same product: Shun Classic 8-inch chef's knife."
+ },
+ {
+  "id": "w-sthof-classic-8-bread-knife",
+  "name": "W\u00fcsthof Classic 8\" Bread Knife",
+  "status": "match",
+  "kind": "same",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B00005MEGZ"
+   ],
+   "title": "W\u00dcSTHOF Classic 8\" Bread Knife",
+   "anchors": [],
+   "links": 1,
+   "posts": 1,
+   "example_post": "other-knives-kitchen-tools-hand-tools"
+  },
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "wusthof r classic bread knife 8",
+   "url": "https://www.surlatable.com/product/wusthof-r-classic-bread-knife-8/836189",
+   "epc": 0.06,
+   "rate": 9,
+   "price": "$107.96",
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Same product: Wusthof Classic 8-inch bread knife."
+ },
+ {
+  "id": "w-sthof-classic-3-5-paring-knife",
+  "name": "W\u00fcsthof Classic 3.5\" Paring Knife",
+  "status": "match",
+  "kind": "same",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B085V5Q2JR"
+   ],
+   "title": "W\u00dcSTHOF Classic 3.5\" Paring Knif",
+   "anchors": [],
+   "links": 1,
+   "posts": 1,
+   "example_post": "other-knives-kitchen-tools-hand-tools"
+  },
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "wusthof classic paring knife 3 5",
+   "url": "https://www.surlatable.com/product/wusthof-classic-paring-knife-3-5/10077584",
+   "epc": 0.06,
+   "rate": 9,
+   "price": "$95",
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Same product: Wusthof Classic 3.5-inch paring knife."
+ },
+ {
+  "id": "squeeze-bottle",
+  "name": "Squeeze Bottle",
+  "status": "match",
+  "kind": "same",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B076PT3BD9"
+   ],
+   "title": "OXO Good Grips 2-Piece Chef's Squee",
+   "anchors": [],
+   "links": 1,
+   "posts": 1,
+   "example_post": "roasted-potato-and-asparagus-tacos-with-kohlrabi-slaw-recipe"
+  },
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "oxo good grips 2 piece chefs squeeze bottle set",
+   "url": "https://www.surlatable.com/product/oxo-good-grips-2-piece-chefs-squeeze-bottle-set/4698528",
+   "epc": 0.06,
+   "rate": 9,
+   "price": "$14.95",
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Same product: OXO Good Grips 2-piece chef's squeeze bottle set."
+ },
+ {
+  "id": "toaster-oven",
+  "name": "Toaster Oven",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B004JMZGM2"
+   ],
+   "title": "Cuisinart Custom Classic Toaster Ove",
+   "anchors": [],
+   "links": 1,
+   "posts": 1,
+   "example_post": "hatch-chiles-stuffed-with-cilantro-scrambled-egg-recipe"
+  },
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "cuisinart custom classic toaster oven broiler",
+   "url": "https://www.surlatable.com/product/cuisinart-custom-classic-toaster-oven-broiler/10669372",
+   "epc": 0.06,
+   "rate": 9,
+   "price": "$129.95",
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Cuisinart Custom Classic toaster oven broiler, same line as the Amazon listing."
+ },
+ {
+  "id": "simple-and-inexpensive",
+  "name": "simple and inexpensive",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B09NLWBHCG"
+   ],
+   "title": "OXO Good Grips Cherry & Olive Pitt",
+   "anchors": [],
+   "links": 1,
+   "posts": 1,
+   "example_post": "cherry-pumpkin"
+  },
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "oxo good grips cherry pitter",
+   "url": "https://www.surlatable.com/product/oxo-good-grips-cherry-pitter/7476716",
+   "epc": 0.06,
+   "rate": 9,
+   "price": "$17.95",
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "OXO Good Grips cherry pitter (Amazon item was the cherry and olive pitter)."
+ },
+ {
+  "id": "quiche-dish",
+  "name": "Quiche Dish",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B09TDJCLJ2"
+   ],
+   "title": "LOVECASA Porcelain Quiche Baking Dish,",
+   "anchors": [],
+   "links": 1,
+   "posts": 1,
+   "example_post": "baked-eggs-with-chanterelles-and-chard-recipe"
+  },
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "sur la table porcelain quiche dish",
+   "url": "https://www.surlatable.com/product/sur-la-table-porcelain-quiche-dish/2509750",
+   "epc": 0.06,
+   "rate": 9,
+   "price": "$19.95",
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Sur La Table porcelain quiche dish instead of the Lovecasa one."
+ },
+ {
+  "id": "rolling-pin",
+  "name": "Rolling Pin",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B082WF6MG2"
+   ],
+   "title": "French Rolling Pin (17 Inches) \u2013Wooden",
+   "anchors": [],
+   "links": 1,
+   "posts": 1,
+   "example_post": "rustic-peach-and-nectarine-crostata-recipe"
+  },
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "sur la table french tapered rolling pin 201 2 x 13 4",
+   "url": "https://www.surlatable.com/product/sur-la-table-french-tapered-rolling-pin-201-2-x-13-4/637520",
+   "epc": 0.06,
+   "rate": 9,
+   "price": "$23.95",
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "French tapered wooden rolling pin, like the Amazon listing."
+ },
+ {
+  "id": "knife-bag",
+  "name": "Knife Bag",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B0BRTH7Y23"
+   ],
+   "title": "ELIZO Leather Knife Roll Bag Professional Chef Knife Case, Durable Knife Sheath Holder, Cooks & Culinary Tools Carrying Storage, Portable Kn",
+   "anchors": [],
+   "links": 1,
+   "posts": 1,
+   "example_post": "so-you-want-to-stage-intern-at-a-restaurant"
+  },
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "messermeister 7 pocket vintage leather knife roll",
+   "url": "https://www.surlatable.com/product/messermeister-7-pocket-vintage-leather-knife-roll/10543130",
+   "epc": 0.06,
+   "rate": 9,
+   "price": "$149.95",
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Messermeister 7-pocket leather knife roll instead of the Elizo roll."
+ },
+ {
+  "id": "press-weight-your-tofu",
+  "name": "Press (weight) Your Tofu",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B01698J0RU"
+   ],
+   "title": "Tofu Press | Patented Self-Contained |",
+   "anchors": [],
+   "links": 1,
+   "posts": 1,
+   "example_post": "how-to-make-tofu-really-freaking-delicious-tofu-101"
+  },
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "oxo pop tofu press",
+   "url": "https://www.surlatable.com/product/oxo-pop-tofu-press/8973992",
+   "epc": 0.06,
+   "rate": 9,
+   "price": "$29.95",
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "OXO Good Grips tofu press instead of the Amazon self-contained press."
+ },
+ {
+  "id": "just-soft-boiled",
+  "name": "just soft-boiled",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B0007M2BN0"
+   ],
+   "title": "Nordic Ware Microwave Egg Boiler",
+   "anchors": [],
+   "links": 1,
+   "posts": 1,
+   "example_post": "what-to-do-with-an-insideout-egg"
+  },
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "oxo good grips microwave egg cooker",
+   "url": "https://www.surlatable.com/product/oxo-good-grips-microwave-egg-cooker/3773470",
+   "epc": 0.06,
+   "rate": 9,
+   "price": "$11.95",
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "OXO microwave egg cooker instead of the Nordic Ware egg boiler."
+ },
+ {
+  "id": "isi-cream-profi-whip-professional-cream-whipper",
+  "name": "ISi Cream Profi Whip Professional Cream Whipper",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B0001MRZWI"
+   ],
+   "title": "iSi Cream Profi Whip Professional Cream Whipp",
+   "anchors": [],
+   "links": 1,
+   "posts": 1,
+   "example_post": "you-have-mousse"
+  },
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "isi half pint creative whipped cream maker",
+   "url": "https://www.surlatable.com/product/isi-half-pint-creative-whipped-cream-maker/7831399",
+   "epc": 0.06,
+   "rate": 9,
+   "price": "$85",
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "iSi whipped cream maker; this is the half-pint creative model, smaller than the Cream Profi Whip."
+ },
+ {
+  "id": "sous-vide",
+  "name": "Sous Vide",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B07C7PW3PC"
+   ],
+   "title": "Anova Culinary Sous Vide Precision Coo",
+   "anchors": [],
+   "links": 1,
+   "posts": 1,
+   "example_post": "sichuan-spicy-cauliflower-recipe"
+  },
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "anova precision r cooker 3 0",
+   "url": "https://www.surlatable.com/product/anova-precision-r-cooker-3-0/7781776",
+   "epc": 0.06,
+   "rate": 9,
+   "price": "$168.96",
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Anova Precision Cooker 3.0, the same brand as the Amazon listing."
+ },
+ {
+  "id": "springform-pan",
+  "name": "Springform Pan",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B07L8S4PM5"
+   ],
+   "title": "HIWARE 8 Inch Non-stick Springform Pan",
+   "anchors": [],
+   "links": 1,
+   "posts": 1,
+   "example_post": "italian-plum-upside-down-cake-recipe"
+  },
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "nordic ware leakproof springform pan 9",
+   "url": "https://www.surlatable.com/product/nordic-ware-leakproof-springform-pan-9/5524327",
+   "epc": 0.06,
+   "rate": 9,
+   "price": "$23.95",
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Nordic Ware leakproof springform pan, 9-inch."
+ },
+ {
+  "id": "muffins-tin",
+  "name": "Muffins Tin",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B0026RHI9Q"
+   ],
+   "title": "GoodCook Everyday Nonstick Steel Muffin",
+   "anchors": [],
+   "links": 1,
+   "posts": 1,
+   "example_post": "onebowl-banana-muffins-great-for-baking-with-kids-recipe"
+  },
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "viking aluminized steel nonstick 12 cup muffin pan",
+   "url": "https://www.surlatable.com/product/viking-aluminized-steel-nonstick-12-cup-muffin-pan/9711656",
+   "epc": 0.06,
+   "rate": 9,
+   "price": "$32.26",
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Viking nonstick 12-cup muffin pan instead of GoodCook."
+ },
+ {
+  "id": "this-version",
+  "name": "this version",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B0006GT586"
+   ],
+   "title": "Lamson Left Hand Slotted Turner, Che",
+   "anchors": [],
+   "links": 1,
+   "posts": 1,
+   "example_post": "the-joy-of-a-proper-spatula"
+  },
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "lamson stainless steel slotted turners",
+   "url": "https://www.surlatable.com/product/lamson-stainless-steel-slotted-turners/10449866",
+   "epc": 0.06,
+   "rate": 9,
+   "price": "$41.95",
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Lamson slotted turners in several sizes, same maker as the Amazon listing."
+ },
+ {
+  "id": "this-spatula-from-lamsonsharp",
+  "name": "This Spatula, from LamsonSharp",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B00004WGUM"
+   ],
+   "title": "Lamson Fish Spatula, Slotted Metal Turner, 3 x 6 In, Right Hand | Ultra Durable composite handle, dishwasher safe; flexible stainless blade;",
+   "anchors": [],
+   "links": 1,
+   "posts": 1,
+   "example_post": "the-joy-of-a-proper-spatula"
+  },
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "lamson stainless steel slotted turners",
+   "url": "https://www.surlatable.com/product/lamson-stainless-steel-slotted-turners/10449866",
+   "epc": 0.06,
+   "rate": 9,
+   "price": "$41.95",
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Lamson slotted turners, same maker as the Amazon fish spatula."
+ },
+ {
+  "id": "silpat",
+  "name": "silpat",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B00005AXJ9"
+   ],
+   "title": "Matfer Bourgeat Exopat Baking Mat, Non",
+   "anchors": [],
+   "links": 1,
+   "posts": 1,
+   "example_post": "block-party-emp"
+  },
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "sur la table half sheet baking mat",
+   "url": "https://www.surlatable.com/product/sur-la-table-half-sheet-baking-mat/10370930",
+   "epc": 0.06,
+   "rate": 9,
+   "price": "$24.95",
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Silicone half-sheet baking mat, the same kind of nonstick mat."
+ },
+ {
+  "id": "serrated-tomato-knife",
+  "name": "Serrated Tomato Knife",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B0DXPTCFT5"
+   ],
+   "title": "Yunletwood Tomato Knife 3rd Gen 2-Pack, Serrated Stainless Steel Blade, Ergonomic Handle, Precise Cuts for Tomatoes/Fruits/Veggies (White): ",
+   "anchors": [],
+   "links": 1,
+   "posts": 1,
+   "example_post": "entry-avocado-grapefruit-mango-yuzu-cilantro"
+  },
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "sur la table tomato knife",
+   "url": "https://www.surlatable.com/product/sur-la-table-tomato-knife/9142217",
+   "epc": 0.06,
+   "rate": 9,
+   "price": "$14.95",
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Sur La Table serrated tomato knife instead of the 2-pack."
+ },
+ {
+  "id": "lentils-du-puy",
+  "name": "Lentils Du Puy",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B08B3XFW1C"
+   ],
+   "title": "Pereg Du Puy French Green Lentils (16 Oz) - Lentil Beans Dry - Non-GMO & Additive Free - Ideal for Stews, Indian Curries, Tacos & Soups - Ve",
+   "anchors": [],
+   "links": 3,
+   "posts": 3,
+   "example_post": "crostini-with-truffle-cheese-lentils-de-puy-and-apples-recipe"
+  },
+  "primary": {
+   "merchant": "ChefShop.com",
+   "product": "Green Lentils - A.O.C. Le Puy France",
+   "url": "https://www.chefshop.com/products/green-lentils-a-o-c-le-puy-france",
+   "epc": null,
+   "rate": 7,
+   "price": null,
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "French green Le Puy lentils (AOC), the same variety as Pereg's Du Puy lentils."
+ },
+ {
+  "id": "bourbon-vanilla-sorghum",
+  "name": "Bourbon-Vanilla Sorghum",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B0018GD1NI"
+   ],
+   "title": "Golden Barrel Pure Sorghum Syrup ,16 oz Jar",
+   "anchors": [],
+   "links": 1,
+   "posts": 1,
+   "example_post": "good-stuff-from-bourbon-barrel-foods"
+  },
+  "primary": {
+   "merchant": "ChefShop.com",
+   "product": "Mazelin Family Sorghum Syrup",
+   "url": "https://www.chefshop.com/products/mazelin-family-sorghum-syrup",
+   "epc": null,
+   "rate": 7,
+   "price": null,
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Mazelin Family sorghum syrup instead of Golden Barrel, the same ingredient (not vanilla-flavored)."
+ },
+ {
+  "id": "amazon-b000vnz7uy",
+  "name": "Amazon item B000VNZ7UY",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B000VNZ7UY"
+   ],
+   "title": "Saffroman Spanish Superior Grade Saffron 1 Gr (Antonio Sotos Brand) : Saffron Spices And Herbs : Grocery & Gourmet Food",
+   "anchors": [],
+   "links": 1,
+   "posts": 1,
+   "example_post": "vegetarian-pael"
+  },
+  "primary": {
+   "merchant": "Savory Spice Shop",
+   "product": "Spanish Coupe Saffron",
+   "url": "https://www.savoryspiceshop.com/products/spanish-coupe-saffron",
+   "epc": 0.33,
+   "rate": 15,
+   "price": "$16.95",
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Spanish coupe-grade saffron from Savory Spice instead of the Saffroman brand."
+ },
+ {
+  "id": "manchego",
+  "name": "Manchego",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B075JN8RCZ"
+   ],
+   "title": "Ponce De Leon Manchego D.O.P, 8 oz",
+   "anchors": [],
+   "links": 1,
+   "posts": 1,
+   "example_post": "holiday-shopping-for-gourmets-or-gourmands-chefshopcom"
+  },
+  "primary": {
+   "merchant": "Murray's Cheese",
+   "product": "Murray's Young Manchego",
+   "url": "https://www.murrayscheese.com/dp/murray-s-young-manchego",
+   "epc": 0.06,
+   "rate": 6,
+   "price": null,
+   "verified": false
+  },
+  "alternatives": [],
+  "note": "Murray's own young Manchego instead of Ponce de Leon D.O.P."
+ },
+ {
+  "id": "gorgonzola-dolce",
+  "name": "Gorgonzola Dolce",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B07881ML7Z"
+   ],
+   "title": "Igor Gorgonzola Dolce",
+   "anchors": [],
+   "links": 1,
+   "posts": 1,
+   "example_post": "caramelized-apple-and-blue-cheese-crostini"
+  },
+  "primary": {
+   "merchant": "Murray's Cheese",
+   "product": "Gorgonzola Cremificato (Gorgonzola Dolce)",
+   "url": "https://murrayscheese.com/gorgonzola-dolce-artigianale",
+   "epc": 0.06,
+   "rate": 6,
+   "price": null,
+   "verified": false
+  },
+  "alternatives": [],
+  "note": "Gorgonzola Cremificato, the same sweet creamy gorgonzola dolce style, instead of Igor."
+ },
+ {
+  "id": "creme-fraiche",
+  "name": "Creme Fraiche",
+  "status": "match",
+  "kind": "same",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B007NK0P3C"
+   ],
+   "title": "Vermont Creamery, Cr\u00e8me Fra\u00eeche, 8 oz",
+   "anchors": [],
+   "links": 1,
+   "posts": 1,
+   "example_post": "baked-eggs-with-chanterelles-and-chard-recipe"
+  },
+  "primary": {
+   "merchant": "Murray's Cheese",
+   "product": "Vermont Creamery Creme Fraiche",
+   "url": "https://www.murrayscheese.com/dp/vermont-creamery-creme-fraiche",
+   "epc": 0.06,
+   "rate": 6,
+   "price": null,
+   "verified": false
+  },
+  "alternatives": [],
+  "note": "Same brand: Vermont Creamery creme fraiche."
+ },
+ {
+  "id": "feta-cheese",
+  "name": "Feta Cheese",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B0012FPTXU"
+   ],
+   "title": "Athenos Traditional Crumbled Feta Cheese (4 o",
+   "anchors": [],
+   "links": 1,
+   "posts": 1,
+   "example_post": "chermoula-stuffed-eggplant-recipe"
+  },
+  "primary": {
+   "merchant": "Murray's Cheese",
+   "product": "Murray's Feta Cup",
+   "url": "https://www.murrayscheese.com/dp/murray-s-feta-cup",
+   "epc": 0.06,
+   "rate": 6,
+   "price": null,
+   "verified": false
+  },
+  "alternatives": [],
+  "note": "Murray's Greek feta instead of Athenos crumbled feta; buy a block and crumble it."
+ },
+ {
+  "id": "bleu-d-auvergne",
+  "name": "Bleu d'Auvergne",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B079NQVXQX"
+   ],
+   "title": "Livradois, Bleu D'Auvergne",
+   "anchors": [],
+   "links": 1,
+   "posts": 1,
+   "example_post": "gougeres-chee"
+  },
+  "primary": {
+   "merchant": "Murray's Cheese",
+   "product": "Murray's Bleu d'Auvergne",
+   "url": "https://www.murrayscheese.com/dp/murray-s-bleu-d-auvergne",
+   "epc": 0.06,
+   "rate": 6,
+   "price": null,
+   "verified": false
+  },
+  "alternatives": [],
+  "note": "Murray's Bleu d'Auvergne instead of the Livradois brand."
+ },
+ {
+  "id": "asiago-cheese",
+  "name": "Asiago Cheese",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "low",
+  "amazon": {
+   "asins": [
+    "B00OFLWIHI"
+   ],
+   "title": "Belgioioso Cheese Wedge Asiago, 5 OZ",
+   "anchors": [],
+   "links": 1,
+   "posts": 1,
+   "example_post": "lobster-mushroo"
+  },
+  "primary": {
+   "merchant": "Murray's Cheese",
+   "product": "Asiago D'Allevo",
+   "url": "https://www.murrayscheese.com/dp/asiago-d-allevo",
+   "epc": 0.06,
+   "rate": 6,
+   "price": null,
+   "verified": false
+  },
+  "alternatives": [],
+  "note": "Asiago d'Allevo (aged, for grating); the Amazon item was a BelGioioso wedge."
+ },
+ {
+  "id": "animal-vegetable-miracle",
+  "name": "Animal, Vegetable, Miracle",
+  "status": "match",
+  "kind": "same",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B000Q66GCY"
+   ],
+   "title": "Animal, Vegetable, Miracle: A Year of Food Life",
+   "anchors": [],
+   "links": 1,
+   "posts": 1,
+   "example_post": "book-review-bes"
+  },
+  "primary": {
+   "merchant": "Barnes & Noble",
+   "product": "Animal, Vegetable, Miracle: A Year of Food Life (Tenth Anniversary Edition)",
+   "url": "https://www.barnesandnoble.com/w/animal-vegetable-miracle-barbara-kingsolver/1100553470",
+   "epc": 0.01,
+   "rate": 5.15,
+   "price": null,
+   "verified": false
+  },
+  "alternatives": [],
+  "note": "The Tenth Anniversary Edition of the same book."
+ },
+ {
+  "id": "grant-achatz",
+  "name": "Grant Achatz",
+  "status": "match",
+  "kind": "same",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B004T4UZ6C"
+   ],
+   "title": "Life, on the Line Publisher: Gotham",
+   "anchors": [],
+   "links": 1,
+   "posts": 1,
+   "example_post": "so-you-want-to-stage-intern-at-a-restaurant"
+  },
+  "primary": {
+   "merchant": "Barnes & Noble",
+   "product": "Life, on the Line",
+   "url": "https://www.barnesandnoble.com/w/life-on-the-line-grant-achatz/1102120004",
+   "epc": 0.01,
+   "rate": 5.15,
+   "price": null,
+   "verified": false
+  },
+  "alternatives": [],
+  "note": "Life, on the Line by Grant Achatz and Nick Kokonas (paperback)."
+ },
+ {
+  "id": "morimoto-the-new-art-of-japanese-cooking",
+  "name": "Morimoto: the New Art of Japanese Cooking",
+  "status": "match",
+  "kind": "same",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "0756631238"
+   ],
+   "title": "Morimoto: The New Art of Japanese Cookin",
+   "anchors": [],
+   "links": 1,
+   "posts": 1,
+   "example_post": "lychee-tempura"
+  },
+  "primary": {
+   "merchant": "Barnes & Noble",
+   "product": "Morimoto: The New Art of Japanese Cooking",
+   "url": "https://www.barnesandnoble.com/p/2672078416489",
+   "epc": 0.01,
+   "rate": 5.15,
+   "price": null,
+   "verified": false
+  },
+  "alternatives": [],
+  "note": "Morimoto: The New Art of Japanese Cooking."
+ },
+ {
+  "id": "the-nasty-bits",
+  "name": "The Nasty Bits",
+  "status": "match",
+  "kind": "same",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B002UM5BHS"
+   ],
+   "title": "The Nasty Bits: Collected Varietal Cut",
+   "anchors": [],
+   "links": 1,
+   "posts": 1,
+   "example_post": "winter-food-b-1"
+  },
+  "primary": {
+   "merchant": "Barnes & Noble",
+   "product": "The Nasty Bits: Collected Varietal Cuts, Usable Trim, Scraps, and Bones",
+   "url": "https://www.barnesandnoble.com/w/the-nasty-bits-anthony-bourdain/1100623147",
+   "epc": 0.01,
+   "rate": 5.15,
+   "price": null,
+   "verified": false
+  },
+  "alternatives": [],
+  "note": "The Nasty Bits by Anthony Bourdain."
+ },
+ {
+  "id": "beecher-s-handmade-flagship-cheese-1-lb",
+  "name": "Beecher's Handmade Flagship Cheese 1 lb",
+  "status": "match",
+  "kind": "same",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B0039OINH6"
+   ],
+   "title": "Beecher's Handmade Flagship Cheese Full 1 lb Loaf",
+   "anchors": [],
+   "links": 1,
+   "posts": 1,
+   "example_post": "superfrico-grilled-cheese-sandwich-recipe"
+  },
+  "primary": {
+   "merchant": "Murray's Cheese",
+   "product": "Beecher's Handmade Cheese Flagship",
+   "url": "https://www.murrayscheese.com/dp/beecher-s-handmade-cheese-flagship",
+   "epc": 0.06,
+   "rate": 6,
+   "price": null,
+   "verified": false
+  },
+  "alternatives": [],
+  "note": "Same cheese: Beecher's Handmade Flagship."
+ },
+ {
+  "id": "silpat-2",
+  "name": "silpat",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B0001RT42C"
+   ],
+   "title": "Silpat Premium Non-Stick Silicone Baking Mat",
+   "anchors": [],
+   "links": 1,
+   "posts": 1,
+   "example_post": "block-party-emp"
+  },
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "sur la table half sheet baking mat",
+   "url": "https://www.surlatable.com/product/sur-la-table-half-sheet-baking-mat/10370930",
+   "epc": 0.06,
+   "rate": 9,
+   "price": "$24.95",
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Silicone half-sheet baking mat, the same kind of nonstick mat."
+ }
+]

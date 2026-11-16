@@ -242,12 +242,13 @@
   },
   "amazon-b000jsm27m": {
     "name": "Amazon item B000JSM27M",
-    "url": "https://www.amazon.com/dp/B000JSM27M?tag=herb-hugo-20",
+    "url": "https://www.weee.com/en/product/MDH-Chunky-Chat-Masala-3-5oz-100g-/3033868",
     "original_url": "https://www.amazon.com/dp/B000JSM27M?tag=herb-hugo-20",
     "asins": [
       "B000JSM27M"
     ],
-    "hidden": true
+    "hidden": true,
+    "merchant": "Weee!"
   },
   "amazon-b000ofredc": {
     "name": "Amazon item B000OFREDC",
@@ -448,7 +449,7 @@
     "merchant": "Weee!"
   },
   "artisan-spanish-piment-n-de-la-vera-hot-sweet-2": {
-    "name": "Artisan Spanish Pimentón de La Vera, Hot & Sweet 2-Tin Set",
+    "name": "Artisan Spanish Piment\u00f3n de La Vera, Hot & Sweet 2-Tin Set",
     "category": "mexican-latin-pantry",
     "url": "https://www.chefshop.com/products/pimenton-de-la-vera-sweet-smoked-paprika-spain",
     "original_url": "https://www.amazon.com/dp/B000O9X8VU?tag=herb-hugo-20",
@@ -2821,12 +2822,13 @@
   "hot-sauce": {
     "name": "Hot Sauce",
     "category": "condiments-sauces",
-    "url": "https://www.amazon.com/dp/B07FTTWDJS?tag=herb-hugo-20",
+    "url": "https://www.weee.com/en/product/Tapatio-Salsa-Picante-Hot-Sauce/47697",
     "original_url": "https://www.amazon.com/dp/B07FTTWDJS?tag=herb-hugo-20",
     "asins": [
       "B000R4G6JS",
       "B07FTTWDJS"
-    ]
+    ],
+    "merchant": "Weee!"
   },
   "i-like-you-hospitality-under-the-influence": {
     "name": "I Like You: Hospitality Under the Influence",
@@ -4497,11 +4499,12 @@
   "red-curry-paste": {
     "name": "Red Curry Paste",
     "category": "asian-pantry",
-    "url": "https://www.amazon.com/dp/B000SRMB3O?tag=herb-hugo-20",
+    "url": "https://www.weee.com/en/product/Thai-Kitchen-Red-Curry-Paste/43514",
     "original_url": "https://www.amazon.com/dp/B000SRMB3O?tag=herb-hugo-20",
     "asins": [
       "B000SRMB3O"
-    ]
+    ],
+    "merchant": "Weee!"
   },
   "red-rice": {
     "name": "Red Rice",
@@ -4927,12 +4930,13 @@
   },
   "shun": {
     "name": "Shun",
-    "url": "https://www.amazon.com/dp/B0000Y7KNQ?tag=herb-hugo-20",
+    "url": "https://www.surlatable.com/product/shun-classic-chefs-knife-8/268912",
     "original_url": "https://www.amazon.com/dp/B0000Y7KNQ?tag=herb-hugo-20",
     "asins": [
       "B0000Y7KNQ"
     ],
-    "hidden": true
+    "hidden": true,
+    "merchant": "Sur La Table"
   },
   "sichuan-peppercorns": {
     "name": "Sichuan Peppercorns",
@@ -4986,11 +4990,12 @@
   "skillet": {
     "name": "Skillet",
     "category": "cookware-appliances",
-    "url": "https://www.amazon.com/dp/B00008CM6B?tag=herb-hugo-20",
+    "url": "https://www.surlatable.com/product/cuisinart-chefs-classic-stainless-steel-skillet/7108293",
     "original_url": "https://www.amazon.com/dp/B00008CM6B?tag=herb-hugo-20",
     "asins": [
       "B00008CM6B"
-    ]
+    ],
+    "merchant": "Sur La Table"
   },
   "sliced-marinated-green-olives": {
     "name": "Sliced Marinated Green Olives",
@@ -5126,11 +5131,12 @@
   "squeeze-bottle": {
     "name": "Squeeze Bottle",
     "category": "kitchen-gadgets",
-    "url": "https://www.amazon.com/dp/B076PT3BD9?tag=herb-hugo-20",
+    "url": "https://www.surlatable.com/product/oxo-good-grips-2-piece-chefs-squeeze-bottle-set/4698528",
     "original_url": "https://www.amazon.com/dp/B076PT3BD9?tag=herb-hugo-20",
     "asins": [
       "B076PT3BD9"
-    ]
+    ],
+    "merchant": "Sur La Table"
   },
   "sriracha-sauce": {
     "name": "Sriracha Sauce",
@@ -5252,11 +5258,12 @@
   "swad-chana-dal-split-desi-chickpeas-4-lb": {
     "name": "Swad Chana Dal (Split Desi Chickpeas), 4 lb",
     "category": "grains-pasta-legumes",
-    "url": "https://www.amazon.com/dp/B005ZEMHVG?tag=herb-hugo-20",
+    "url": "https://www.weee.com/en/product/Swad-Chana-Dal-Split-Desi-Chickpeas-4-Pound/3004139",
     "original_url": "https://www.amazon.com/dp/B005ZEMHVG?tag=herb-hugo-20",
     "asins": [
       "B005ZEMHVG"
-    ]
+    ],
+    "merchant": "Weee!"
   },
   "swad-poha-thick-flattened-rice-2-lb": {
     "name": "Swad Poha Thick Flattened Rice, 2 lb",
@@ -6015,24 +6022,26 @@
     "hidden": true
   },
   "w-sthof-classic-3-5-paring-knife": {
-    "name": "Wüsthof Classic 3.5\" Paring Knife",
+    "name": "W\u00fcsthof Classic 3.5\" Paring Knife",
     "category": "knives-sharpening",
-    "url": "https://www.amazon.com/dp/B085V5Q2JR?tag=herb-hugo-20",
+    "url": "https://www.surlatable.com/product/wusthof-classic-paring-knife-3-5/10077584",
     "original_url": "https://www.amazon.com/dp/B085V5Q2JR?tag=herb-hugo-20",
     "asins": [
       "B085V5Q2JR"
     ],
-    "review_url": "/other-knives-kitchen-tools-hand-tools/"
+    "review_url": "/other-knives-kitchen-tools-hand-tools/",
+    "merchant": "Sur La Table"
   },
   "w-sthof-classic-8-bread-knife": {
-    "name": "Wüsthof Classic 8\" Bread Knife",
+    "name": "W\u00fcsthof Classic 8\" Bread Knife",
     "category": "knives-sharpening",
-    "url": "https://www.amazon.com/dp/B00005MEGZ?tag=herb-hugo-20",
+    "url": "https://www.surlatable.com/product/wusthof-r-classic-bread-knife-8/836189",
     "original_url": "https://www.amazon.com/dp/B00005MEGZ?tag=herb-hugo-20",
     "asins": [
       "B00005MEGZ"
     ],
-    "review_url": "/other-knives-kitchen-tools-hand-tools/"
+    "review_url": "/other-knives-kitchen-tools-hand-tools/",
+    "merchant": "Sur La Table"
   },
   "what-to-drink-with-what-you-eat": {
     "name": "What to Drink with What You Eat",
