@@ -6069,5 +6069,61 @@
    "verified": true,
    "verified_by": "browser search page"
   }
+ },
+ "ancho-guajillo-pasilla-cascabel-de-arbol": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "Weee!",
+   "product": "Tadin Pasilla Ancho Chili, Dry, 2 oz",
+   "url": "https://www.weee.com/en/product/Tadin-Pasilla-Ancho-Chili-Dry/111453",
+   "epc": null,
+   "rate": null,
+   "price": "$2.79",
+   "verified": true,
+   "verified_by": "browser search page"
+  }
+ },
+ "calphalon-12-inch-non-stick-omelet-pan": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "Sur La Table",
+   "product": "Sur La Table Classic Hard Anodized Ceramic Nonstick Skillet, 12\"",
+   "url": "https://www.surlatable.com/product/sur-la-table-classic-hard-anodized-ceramic-nonstick-skillet-12/7159098",
+   "epc": 0.06,
+   "rate": 9,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser search page"
+  }
+ },
+ "emile-henry-lasagna-pan": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "Sur La Table",
+   "product": "Emile Henry The Right Dish XL Rectangular Baker",
+   "url": "https://www.surlatable.com/product/emile-henry-the-right-dish-xl-rectangular-baker/3660024",
+   "epc": 0.06,
+   "rate": 9,
+   "price": null,
+   "verified": true,
+   "verified_by": "browser search page"
+  }
+ },
+ "dried-red-chiles": {
+  "status": "approved",
+  "choice": 0,
+  "chosen": {
+   "merchant": "Weee!",
+   "product": "Medium-hot red dried chili peppers, 100 g",
+   "url": "https://www.weee.com/en/product/Medium-hot-red-dried-chili-peppers-100-grams/3009137",
+   "epc": null,
+   "rate": null,
+   "price": "$11.10",
+   "verified": true,
+   "verified_by": "browser search page"
+  }
  }
 }

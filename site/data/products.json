@@ -360,11 +360,12 @@
   "ancho-guajillo-pasilla-cascabel-de-arbol": {
     "name": "Ancho, Guajillo, Pasilla, Cascabel, de Arbol, ...",
     "category": "mexican-latin-pantry",
-    "url": "https://www.amazon.com/dp/B07BZW6DSC?tag=herb-hugo-20",
+    "url": "https://www.weee.com/en/product/Tadin-Pasilla-Ancho-Chili-Dry/111453",
     "original_url": "https://www.amazon.com/dp/B07BZW6DSC?tag=herb-hugo-20",
     "asins": [
       "B07BZW6DSC"
-    ]
+    ],
+    "merchant": "Weee!"
   },
   "andrea-nguyen-s-book-asian-tofu": {
     "name": "Andrea Nguyen's Book, Asian Tofu",
@@ -961,11 +962,12 @@
   "calphalon-12-inch-non-stick-omelet-pan": {
     "name": "Calphalon 12-Inch Non-Stick Omelet Pan",
     "category": "cookware-appliances",
-    "url": "https://www.amazon.com/dp/B0000936JK?tag=herb-hugo-20",
+    "url": "https://www.surlatable.com/product/sur-la-table-classic-hard-anodized-ceramic-nonstick-skillet-12/7159098",
     "original_url": "https://www.amazon.com/dp/B0000936JK?tag=herb-hugo-20",
     "asins": [
       "B0000936JK"
-    ]
+    ],
+    "merchant": "Sur La Table"
   },
   "candied-fruit": {
     "name": "Candied Fruit",
@@ -1818,11 +1820,12 @@
   "dried-red-chiles": {
     "name": "Dried Red Chiles",
     "category": "spices-seasonings",
-    "url": "https://www.amazon.com/dp/B079SRQHH3?tag=herb-hugo-20",
+    "url": "https://www.weee.com/en/product/Medium-hot-red-dried-chili-peppers-100-grams/3009137",
     "original_url": "https://www.amazon.com/dp/B079SRQHH3?tag=herb-hugo-20",
     "asins": [
       "B079SRQHH3"
-    ]
+    ],
+    "merchant": "Weee!"
   },
   "dried-tarragon": {
     "name": "Dried Tarragon",
@@ -1969,11 +1972,12 @@
   "emile-henry-lasagna-pan": {
     "name": "Emile Henry Lasagna Pan",
     "category": "bakeware-tools",
-    "url": "https://www.amazon.com/dp/B00022O6YM?tag=herb-hugo-20",
+    "url": "https://www.surlatable.com/product/emile-henry-the-right-dish-xl-rectangular-baker/3660024",
     "original_url": "https://www.amazon.com/dp/B00022O6YM?tag=herb-hugo-20",
     "asins": [
       "B00022O6YM"
-    ]
+    ],
+    "merchant": "Sur La Table"
   },
   "epazote": {
     "name": "Epazote",
