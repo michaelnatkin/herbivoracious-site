@@ -634,15 +634,15 @@
   },
   "primary": {
    "merchant": "Sur La Table",
-   "product": "isi half pint creative whipped cream maker",
-   "url": "https://www.surlatable.com/product/isi-half-pint-creative-whipped-cream-maker/7831399",
+   "product": "iSi Stainless Steel Gourmet Non-Aerosol Whipper, 1 pint",
+   "url": "https://www.surlatable.com/product/isi-r-stainless-steel-gourmet-non-aerosol-whipper-pint/634113",
    "epc": 0.06,
    "rate": 9,
-   "price": "$85",
+   "price": "$225",
    "verified": true
   },
   "alternatives": [],
-  "note": "iSi whipped cream maker; this is the half-pint creative model, smaller than the Cream Profi Whip."
+  "note": "iSi gourmet whipper in the 1-pint size, the same brand as the Cream Profi Whip."
  },
  {
   "id": "sous-vide",

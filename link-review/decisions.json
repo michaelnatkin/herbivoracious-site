@@ -6250,5 +6250,19 @@
    "price": "$14.95",
    "verified": true
   }
+ },
+ "vegetable-peeler": {
+  "status": "approved",
+  "choice": 0,
+  "auto": true,
+  "chosen": {
+   "merchant": "Sur La Table",
+   "product": "OXO Good Grips Y Peeler",
+   "url": "https://www.surlatable.com/product/oxo-y-peeler/179",
+   "epc": 0.06,
+   "rate": 9,
+   "price": "$13.95",
+   "verified": true
+  }
  }
 }

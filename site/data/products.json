@@ -5969,11 +5969,12 @@
   "vegetable-peeler": {
     "name": "Vegetable Peeler",
     "category": "kitchen-gadgets",
-    "url": "https://www.amazon.com/dp/B00004OCIU?tag=herb-hugo-20",
+    "url": "https://www.surlatable.com/product/oxo-y-peeler/179",
     "original_url": "https://www.amazon.com/dp/B00004OCIU?tag=herb-hugo-20",
     "asins": [
       "B00004OCIU"
-    ]
+    ],
+    "merchant": "Sur La Table"
   },
   "vegetarian-broth-powder": {
     "name": "Vegetarian Broth Powder",

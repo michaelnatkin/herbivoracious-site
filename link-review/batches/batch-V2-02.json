@@ -1,0 +1,566 @@
+[
+ {
+  "id": "vegetable-peeler",
+  "name": "Vegetable Peeler",
+  "status": "match",
+  "kind": "same",
+  "confidence": "high",
+  "amazon": {
+   "asins": [
+    "B00004OCIU"
+   ],
+   "title": "OXO Good Grips Y-Peeler",
+   "anchors": [],
+   "links": 1,
+   "posts": 1,
+   "example_post": "recipe-white-as"
+  },
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "OXO Good Grips Y Peeler",
+   "url": "https://www.surlatable.com/product/oxo-y-peeler/179",
+   "epc": 0.06,
+   "rate": 9,
+   "price": "$13.95",
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Same product: OXO Good Grips Y-Peeler."
+ },
+ {
+  "id": "serrated-vegetable-peeler",
+  "name": "Serrated Vegetable Peeler",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B0007VO0CG"
+   ],
+   "title": "OXO Good Grips Serrated Vegetable Peel",
+   "anchors": [],
+   "links": 1,
+   "posts": 1,
+   "example_post": "spicy-mango-salad-with-togarashi-recipe"
+  },
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "Sur La Table Stainless Steel Serrated Y Peeler",
+   "url": "https://www.surlatable.com/product/sur-la-table-stainless-steel-serrated-y-peeler/8972861",
+   "epc": 0.06,
+   "rate": 9,
+   "price": "$16.95",
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Sur La Table serrated Y peeler instead of the OXO serrated peeler."
+ },
+ {
+  "id": "serrated-peelers",
+  "name": "Serrated Peelers",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "low",
+  "amazon": {
+   "asins": [
+    "B0DBVMXMLX"
+   ],
+   "title": "Zyliss Soft Skin Peeler \u2013 Ultra-Sharp",
+   "anchors": [],
+   "links": 1,
+   "posts": 1,
+   "example_post": "grilled-peaches"
+  },
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "Sur La Table Stainless Steel Serrated Swivel Peeler",
+   "url": "https://www.surlatable.com/product/sur-la-table-stainless-steel-serrated-swivel-peeler/8972887",
+   "epc": 0.06,
+   "rate": 9,
+   "price": "$16.95",
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Serrated peeler in the same style as the Zyliss soft-skin peeler."
+ },
+ {
+  "id": "moroccan-clay-pot-with-a-conical-lid",
+  "name": "Moroccan Clay Pot with a Conical Lid",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B0BF29GK5Z"
+   ],
+   "title": "Kook Moroccan Tagine, Enameled Cast Iron",
+   "anchors": [],
+   "links": 1,
+   "posts": 1,
+   "example_post": "zucchini-chickpea-tagine-recipe"
+  },
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "Sur La Table Glazed Terra Cotta Tagine",
+   "url": "https://www.surlatable.com/product/sur-la-table-glazed-terra-cotta-tagine/5937461",
+   "epc": 0.06,
+   "rate": 9,
+   "price": "$59.95",
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Glazed terra cotta tagine, a traditional clay pot with a conical lid, instead of the enameled cast iron Kook one."
+ },
+ {
+  "id": "muffin-cupcake-liners",
+  "name": "Muffin/cupcake Liners",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B0BLGZTM6P"
+   ],
+   "title": "Bake Choice 200pcs Standard Cupcake Line",
+   "anchors": [],
+   "links": 1,
+   "posts": 1,
+   "example_post": "onebowl-banana-muffins-great-for-baking-with-kids-recipe"
+  },
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "Sur La Table Rainbow Baking Cups, set of 168",
+   "url": "https://www.surlatable.com/product/sur-la-table-rainbow-baking-cups-set-of-168/8390304",
+   "epc": 0.06,
+   "rate": 9,
+   "price": "$11.95",
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Paper baking cups, the same kind as the cupcake liners on Amazon."
+ },
+ {
+  "id": "sundae-cup",
+  "name": "Sundae Cup",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B0D5DBF7LC"
+   ],
+   "title": "Glass Dessert Bowls Breakfast Cups,Des",
+   "anchors": [],
+   "links": 1,
+   "posts": 1,
+   "example_post": "caramelized-raisin-sundae-recipe"
+  },
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "Bormioli Rocco Rock Bar Sundae Glass",
+   "url": "https://www.surlatable.com/product/bormioli-rocco-rock-bar-sundae-glass/7057169",
+   "epc": 0.06,
+   "rate": 9,
+   "price": "$9.95",
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Footed sundae glass instead of the Amazon glass dessert bowls."
+ },
+ {
+  "id": "tart",
+  "name": "Tart",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "low",
+  "amazon": {
+   "asins": [
+    "B0000DIX7K"
+   ],
+   "title": "Wilton Excelle Elite Non-Stick - Non-S",
+   "anchors": [],
+   "links": 1,
+   "posts": 1,
+   "example_post": "nectarine-and-b"
+  },
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "Birkmann Round Tart Pan",
+   "url": "https://www.surlatable.com/product/birkmann-round-tart-pan/9148081",
+   "epc": 0.06,
+   "rate": 9,
+   "price": "$34.95",
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Birkmann round tart pan with a removable bottom instead of the Wilton nonstick pan."
+ },
+ {
+  "id": "beaterblade-for-5-quart-kitchenaid-bowl-lift",
+  "name": "BeaterBlade for 5-Quart KitchenAid Bowl Lift Mixers, White",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B0015TMHSI"
+   ],
+   "title": "New Metro KA-5L Original Beater Blade Works w/ Most KitchenAid 5 Qt Bowl-Lift Stand Mixers",
+   "anchors": [],
+   "links": 1,
+   "posts": 1,
+   "example_post": "stop-scraping-your-stand-mixer-bowl"
+  },
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "KitchenAid Flex Edge Beater for 5 qt Bowls",
+   "url": "https://www.surlatable.com/product/kitchenaid-r-flex-edge-beater-for-5-qt-bowls/819508",
+   "epc": 0.06,
+   "rate": 9,
+   "price": "$29.96",
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "KitchenAid Flex Edge beater, the scraping-edge beater that does the same job as a BeaterBlade, for 5 qt bowls."
+ },
+ {
+  "id": "pizza-peel",
+  "name": "Pizza Peel",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B009LPDMUA"
+   ],
+   "title": "New Star Foodservice Wooden Pizza Peel",
+   "anchors": [],
+   "links": 1,
+   "posts": 1,
+   "example_post": "grilled-pizza-fingerling-potatoes-blue-cheese-caramelized-onions-vegetarian-recipe"
+  },
+  "primary": {
+   "merchant": "Restaurant Supply",
+   "product": "Winco WPP-1424 14\" Wooden Pizza Peel",
+   "url": "https://restaurantsupply.com/winco-wpp-1424-24-wooden-pizza-peel",
+   "epc": null,
+   "rate": null,
+   "price": null,
+   "verified": false
+  },
+  "alternatives": [],
+  "note": "Winco wooden pizza peel, 14 inch, a wooden peel like the Amazon one."
+ },
+ {
+  "id": "ring-mold",
+  "name": "Ring Mold",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "low",
+  "amazon": {
+   "asins": [
+    "B00IVFJDKY",
+    "B01IO57N0W",
+    "B0861D8DTN"
+   ],
+   "title": "Lurch Stainless Steel Food Rings with Pusher and Lifter, Set of 6 | Perfect for risotto and tartlets. 6 rings, a tamper and a tray. Ring siz",
+   "anchors": [],
+   "links": 3,
+   "posts": 3,
+   "example_post": "golden-beet-tartare-recipe"
+  },
+  "primary": {
+   "merchant": "Restaurant Supply",
+   "product": "Mercer Culinary 3\" Stainless Steel Food Ring Mold",
+   "url": "https://www.restaurantsupply.com/products/mercer-culinary-m35511-12-2-5-oz-food-ring-mold-stainless-steel-3-inch",
+   "epc": null,
+   "rate": null,
+   "price": null,
+   "verified": false
+  },
+  "alternatives": [],
+  "note": "Mercer stainless steel food ring mold, 3 inch (single ring, not the 6-piece set)."
+ },
+ {
+  "id": "5-pastry-cutter",
+  "name": "5\" Pastry Cutter",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "low",
+  "amazon": {
+   "asins": [
+    "B09XVJX6F3"
+   ],
+   "title": "Large Round Cookie Cutter 5\", Biscuit Cutter, Circle Cookie Cutter for Baking, Small Cake Cutter, Dough Cutter, Coated with Soft PVC for Pro",
+   "anchors": [],
+   "links": 1,
+   "posts": 1,
+   "example_post": "block-party-emp"
+  },
+  "primary": {
+   "merchant": "Restaurant Supply",
+   "product": "Matfer 5-1/2\" Fluted Round Pastry Cutter",
+   "url": "https://www.restaurantsupply.com/products/matfer-150231-5-1-2-inch-diameter-fluted-round-pastry-cutter-stainless-steel",
+   "epc": null,
+   "rate": null,
+   "price": null,
+   "verified": false
+  },
+  "alternatives": [],
+  "note": "Matfer 5-1/2 inch fluted round pastry cutter, slightly larger than the 5 inch cutter."
+ },
+ {
+  "id": "guajillo-chiles-peppers-dried-whole-4-oz",
+  "name": "Guajillo Chiles Peppers Dried Whole, 4 oz",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B07VB5DVP1"
+   ],
+   "title": "Guajillo Chiles Peppers Dried Whole 4 oz \u2013 Natural and Premium. Great For Mexican Recipes Like Mole, Tamales, Salsa, Meats. Mild to Medium H",
+   "anchors": [],
+   "links": 3,
+   "posts": 3,
+   "example_post": "pozole-rojo-de-frijol-recipe"
+  },
+  "primary": {
+   "merchant": "ChefShop.com",
+   "product": "Villa Jerada Chile Guajillo Whole Pods, 1 lb",
+   "url": "https://www.chefshop.com/products/villa-jerada-chile-guajillo-whole-pods-1-pound",
+   "epc": null,
+   "rate": 7,
+   "price": null,
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Whole dried guajillo chile pods, a larger 1 lb bag."
+ },
+ {
+  "id": "yuzu",
+  "name": "yuzu",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B0C2GMHVJZ"
+   ],
+   "title": "YUZUCO Japanese Yuzu Super Juice for Cocktail",
+   "anchors": [],
+   "links": 1,
+   "posts": 1,
+   "example_post": "new-years-feast"
+  },
+  "primary": {
+   "merchant": "ChefShop.com",
+   "product": "Margot Shibori Yuzu Juice, 750 ml",
+   "url": "https://www.chefshop.com/products/yuzu-juice-100-pure-first-press-750-ml",
+   "epc": null,
+   "rate": 7,
+   "price": null,
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "100% pure first-press yuzu juice, 750 ml, instead of the Yuzuco bottle."
+ },
+ {
+  "id": "chanterelle-mushrooms",
+  "name": "Chanterelle Mushrooms",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "low",
+  "amazon": {
+   "asins": [
+    "B007RAM3VK",
+    "B0BK2VSP7N"
+   ],
+   "title": "Mushroom House Whole Dried Shiitake Mushrooms, Rich Umami Flavor, 16 oz | Premium whole shiitakes with bold umami flavor; rehydrate for rame",
+   "anchors": [],
+   "links": 5,
+   "posts": 5,
+   "example_post": "baked-eggs-with-chanterelles-and-chard-recipe"
+  },
+  "primary": {
+   "merchant": "ChefShop.com",
+   "product": "Takehisa Dried Shiitake Mushroom (Donko)",
+   "url": "https://www.chefshop.com/products/dried-shiitake-mushroom-donko",
+   "epc": null,
+   "rate": 7,
+   "price": null,
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Dried shiitake mushrooms (the Amazon item was dried shiitake, not chanterelles)."
+ },
+ {
+  "id": "henckels-twin-pro-s-8-inch-high-carbon",
+  "name": "Henckels Twin Pro S 8-Inch High-Carbon Stainless-Steel Bread Knife",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B00004RFLN"
+   ],
+   "title": "ZWILLING Professional S 8-inch Razor-Sharp Ge",
+   "anchors": [],
+   "links": 1,
+   "posts": 1,
+   "example_post": "knives-for-the"
+  },
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "Zwilling Pro Chef's Knife",
+   "url": "https://www.surlatable.com/product/zwilling-pro-chefs-knife/918276",
+   "epc": 0.06,
+   "rate": 9,
+   "price": "$111.96",
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Zwilling Pro chef's knife, the current version of the Henckels Professional S line."
+ },
+ {
+  "id": "henckels-forged-premio-serrated-utility-knife-5",
+  "name": "Henckels Forged Premio Serrated Utility Knife, 5-Inch",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B00375MLNE"
+   ],
+   "title": "HENCKELS Forged Premio 5-inch Serrated Utilit",
+   "anchors": [],
+   "links": 1,
+   "posts": 1,
+   "example_post": "other-knives-kitchen-tools-hand-tools"
+  },
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "Zwilling Four Star Serrated Utility Knife 5\"",
+   "url": "https://www.surlatable.com/product/zwilling-four-star-eco-serrated-utility-knife-5/3555711",
+   "epc": 0.06,
+   "rate": 9,
+   "price": "$89.95",
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Zwilling (Henckels) Four Star serrated utility knife, 5 inch."
+ },
+ {
+  "id": "beaterblade-for-kitchenaid-tilt-head-bowl-lift",
+  "name": "BeaterBlade for KitchenAid Tilt-Head & Bowl-Lift Mixers",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B001F29N50",
+    "B07MJL6FPC"
+   ],
+   "title": "Page Not Found",
+   "anchors": [],
+   "links": 2,
+   "posts": 2,
+   "example_post": "mini-offset-spatula-the-pastry-cooks-secret-weapon"
+  },
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "KitchenAid Flex Edge Beater for 5 qt Bowls",
+   "url": "https://www.surlatable.com/product/kitchenaid-r-flex-edge-beater-for-5-qt-bowls/819508",
+   "epc": 0.06,
+   "rate": 9,
+   "price": "$29.96",
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "KitchenAid Flex Edge beater (a scraping-edge beater) for 5 qt bowls instead of the BeaterBlade."
+ },
+ {
+  "id": "beaterblade-for-kitchenaid-6-quart-mixers-white",
+  "name": "BeaterBlade for KitchenAid 6-Quart Mixers, White",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "low",
+  "amazon": {
+   "asins": [
+    "B0015TMI28"
+   ],
+   "title": "New Metro Design KA-6L Plastic Beater Blade works w/ most KitchenAid 6 Qt Bowl-Lift Stand Mixers",
+   "anchors": [],
+   "links": 1,
+   "posts": 1,
+   "example_post": "stop-scraping-your-stand-mixer-bowl"
+  },
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "KitchenAid Stainless Steel Flex Edge Beater",
+   "url": "https://www.surlatable.com/product/kitchenaid-stainless-steel-flex-edge-beater/10549764",
+   "epc": 0.06,
+   "rate": 9,
+   "price": "$59.95",
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "KitchenAid stainless flex edge beater, the scraping-edge beater used in place of a BeaterBlade (check that it fits your 6 qt bowl)."
+ },
+ {
+  "id": "barker-s-hot-red-chili-pods-from-hatch-new",
+  "name": "Barker's Hot Red Chili Pods from Hatch, New Mexico, 8 oz",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "medium",
+  "amazon": {
+   "asins": [
+    "B00JQNCU3C"
+   ],
+   "title": "Barker's Hot Red Chili Pods From Hatch, NM - 8 oz : Grocery & Gourmet Food",
+   "anchors": [],
+   "links": 2,
+   "posts": 2,
+   "example_post": "red-curry-delicata-squash-and-tofu-recipe"
+  },
+  "primary": {
+   "merchant": "ChefShop.com",
+   "product": "Dried New Mexico Chili Pods",
+   "url": "https://www.chefshop.com/products/dried-new-mexico-chili-pods",
+   "epc": null,
+   "rate": 7,
+   "price": null,
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Dried New Mexico chili pods, the same kind of pod as Hatch red chiles."
+ },
+ {
+  "id": "wilton-excelle-elite-non-stick-tart-pan-11-inch",
+  "name": "Wilton Excelle Elite Non-Stick Tart Pan, 11-Inch",
+  "status": "match",
+  "kind": "equivalent",
+  "confidence": "low",
+  "amazon": {
+   "asins": [
+    "B0000DIX7Y"
+   ],
+   "title": "Wilton Excelle Elite Non-Stick Tart",
+   "anchors": [],
+   "links": 1,
+   "posts": 1,
+   "example_post": "heirloom-tomato-tart-recipe"
+  },
+  "primary": {
+   "merchant": "Sur La Table",
+   "product": "Birkmann Round Tart Pan",
+   "url": "https://www.surlatable.com/product/birkmann-round-tart-pan/9148081",
+   "epc": 0.06,
+   "rate": 9,
+   "price": "$34.95",
+   "verified": true
+  },
+  "alternatives": [],
+  "note": "Birkmann round tart pan with a removable bottom instead of the Wilton nonstick pan."
+ }
+]
