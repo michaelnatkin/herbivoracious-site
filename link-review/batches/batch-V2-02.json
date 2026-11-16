@@ -242,11 +242,11 @@
   "primary": {
    "merchant": "Restaurant Supply",
    "product": "Winco WPP-1424 14\" Wooden Pizza Peel",
-   "url": "https://restaurantsupply.com/winco-wpp-1424-24-wooden-pizza-peel",
+   "url": "https://www.restaurantsupply.com/products/winco-wpp-1424-14-inch-wooden-blade-pizza-peel-with-ergonomic-handle",
    "epc": null,
    "rate": null,
-   "price": null,
-   "verified": false
+   "price": "$13.66",
+   "verified": true
   },
   "alternatives": [],
   "note": "Winco wooden pizza peel, 14 inch, a wooden peel like the Amazon one."
@@ -275,39 +275,11 @@
    "url": "https://www.restaurantsupply.com/products/mercer-culinary-m35511-12-2-5-oz-food-ring-mold-stainless-steel-3-inch",
    "epc": null,
    "rate": null,
-   "price": null,
-   "verified": false
+   "price": "$3.75",
+   "verified": true
   },
   "alternatives": [],
   "note": "Mercer stainless steel food ring mold, 3 inch (single ring, not the 6-piece set)."
- },
- {
-  "id": "5-pastry-cutter",
-  "name": "5\" Pastry Cutter",
-  "status": "match",
-  "kind": "equivalent",
-  "confidence": "low",
-  "amazon": {
-   "asins": [
-    "B09XVJX6F3"
-   ],
-   "title": "Large Round Cookie Cutter 5\", Biscuit Cutter, Circle Cookie Cutter for Baking, Small Cake Cutter, Dough Cutter, Coated with Soft PVC for Pro",
-   "anchors": [],
-   "links": 1,
-   "posts": 1,
-   "example_post": "block-party-emp"
-  },
-  "primary": {
-   "merchant": "Restaurant Supply",
-   "product": "Matfer 5-1/2\" Fluted Round Pastry Cutter",
-   "url": "https://www.restaurantsupply.com/products/matfer-150231-5-1-2-inch-diameter-fluted-round-pastry-cutter-stainless-steel",
-   "epc": null,
-   "rate": null,
-   "price": null,
-   "verified": false
-  },
-  "alternatives": [],
-  "note": "Matfer 5-1/2 inch fluted round pastry cutter, slightly larger than the 5 inch cutter."
  },
  {
   "id": "guajillo-chiles-peppers-dried-whole-4-oz",

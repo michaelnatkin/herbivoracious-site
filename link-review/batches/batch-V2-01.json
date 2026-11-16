@@ -946,8 +946,8 @@
    "url": "https://www.murrayscheese.com/dp/murray-s-young-manchego",
    "epc": 0.06,
    "rate": 6,
-   "price": null,
-   "verified": false
+   "price": "$25.00",
+   "verified": true
   },
   "alternatives": [],
   "note": "Murray's own young Manchego instead of Ponce de Leon D.O.P."
@@ -971,11 +971,11 @@
   "primary": {
    "merchant": "Murray's Cheese",
    "product": "Gorgonzola Cremificato (Gorgonzola Dolce)",
-   "url": "https://murrayscheese.com/gorgonzola-dolce-artigianale",
+   "url": "https://www.murrayscheese.com/dp/gorgonzola-cremificato",
    "epc": 0.06,
    "rate": 6,
-   "price": null,
-   "verified": false
+   "price": "$30.00",
+   "verified": true
   },
   "alternatives": [],
   "note": "Gorgonzola Cremificato, the same sweet creamy gorgonzola dolce style, instead of Igor."
@@ -1002,8 +1002,8 @@
    "url": "https://www.murrayscheese.com/dp/vermont-creamery-creme-fraiche",
    "epc": 0.06,
    "rate": 6,
-   "price": null,
-   "verified": false
+   "price": "$7.00",
+   "verified": true
   },
   "alternatives": [],
   "note": "Same brand: Vermont Creamery creme fraiche."
@@ -1030,8 +1030,8 @@
    "url": "https://www.murrayscheese.com/dp/murray-s-feta-cup",
    "epc": 0.06,
    "rate": 6,
-   "price": null,
-   "verified": false
+   "price": "$11.00",
+   "verified": true
   },
   "alternatives": [],
   "note": "Murray's Greek feta instead of Athenos crumbled feta; buy a block and crumble it."
@@ -1058,8 +1058,8 @@
    "url": "https://www.murrayscheese.com/dp/murray-s-bleu-d-auvergne",
    "epc": 0.06,
    "rate": 6,
-   "price": null,
-   "verified": false
+   "price": "$22.00",
+   "verified": true
   },
   "alternatives": [],
   "note": "Murray's Bleu d'Auvergne instead of the Livradois brand."
@@ -1086,8 +1086,8 @@
    "url": "https://www.murrayscheese.com/dp/asiago-d-allevo",
    "epc": 0.06,
    "rate": 6,
-   "price": null,
-   "verified": false
+   "price": "$26.00",
+   "verified": true
   },
   "alternatives": [],
   "note": "Asiago d'Allevo (aged, for grating); the Amazon item was a BelGioioso wedge."
@@ -1114,8 +1114,8 @@
    "url": "https://www.barnesandnoble.com/w/animal-vegetable-miracle-barbara-kingsolver/1100553470",
    "epc": 0.01,
    "rate": 5.15,
-   "price": null,
-   "verified": false
+   "price": "$19.99",
+   "verified": true
   },
   "alternatives": [],
   "note": "The Tenth Anniversary Edition of the same book."
@@ -1142,39 +1142,11 @@
    "url": "https://www.barnesandnoble.com/w/life-on-the-line-grant-achatz/1102120004",
    "epc": 0.01,
    "rate": 5.15,
-   "price": null,
-   "verified": false
+   "price": "$21.00",
+   "verified": true
   },
   "alternatives": [],
   "note": "Life, on the Line by Grant Achatz and Nick Kokonas (paperback)."
- },
- {
-  "id": "morimoto-the-new-art-of-japanese-cooking",
-  "name": "Morimoto: the New Art of Japanese Cooking",
-  "status": "match",
-  "kind": "same",
-  "confidence": "medium",
-  "amazon": {
-   "asins": [
-    "0756631238"
-   ],
-   "title": "Morimoto: The New Art of Japanese Cookin",
-   "anchors": [],
-   "links": 1,
-   "posts": 1,
-   "example_post": "lychee-tempura"
-  },
-  "primary": {
-   "merchant": "Barnes & Noble",
-   "product": "Morimoto: The New Art of Japanese Cooking",
-   "url": "https://www.barnesandnoble.com/p/2672078416489",
-   "epc": 0.01,
-   "rate": 5.15,
-   "price": null,
-   "verified": false
-  },
-  "alternatives": [],
-  "note": "Morimoto: The New Art of Japanese Cooking."
  },
  {
   "id": "the-nasty-bits",
@@ -1198,8 +1170,8 @@
    "url": "https://www.barnesandnoble.com/w/the-nasty-bits-anthony-bourdain/1100623147",
    "epc": 0.01,
    "rate": 5.15,
-   "price": null,
-   "verified": false
+   "price": "$19.00",
+   "verified": true
   },
   "alternatives": [],
   "note": "The Nasty Bits by Anthony Bourdain."
@@ -1226,8 +1198,8 @@
    "url": "https://www.murrayscheese.com/dp/beecher-s-handmade-cheese-flagship",
    "epc": 0.06,
    "rate": 6,
-   "price": null,
-   "verified": false
+   "price": "$14.00",
+   "verified": true
   },
   "alternatives": [],
   "note": "Same cheese: Beecher's Handmade Flagship."
