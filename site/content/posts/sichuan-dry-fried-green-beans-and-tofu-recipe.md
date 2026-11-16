@@ -71,3 +71,5 @@ recipe:
 <p class="related-link">Another green bean stir-fry: <a href="/2011/09/stir-fried-winged-beans-kacang-botol-with-tomato-and-garlic-recipe/">Winged Bean (Kacang Botol) Stir-Fry</a>.</p>
 
 <p class="related-link">Green beans, dry-fried: <a href="/2013/09/perfect-pan-roasted-green-beans-recipe/">How to Cook Green Beans (Microwave, Then Roast)</a>.</p>
+
+<p class="related-link">New to cooking tofu? Start with <a href="/2012/05/how-to-make-tofu-really-freaking-delicious-tofu-101/">how to cook tofu so it is really delicious (Tofu 101)</a>.</p>

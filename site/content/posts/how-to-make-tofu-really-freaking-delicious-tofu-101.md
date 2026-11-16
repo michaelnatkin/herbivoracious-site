@@ -72,6 +72,9 @@ Get The Herbivoracious Cookbook
 
 <div class="faq"><h2>Frequently asked questions</h2>
 
+<h3>How do you cook tofu?</h3>
+<p>Buy good extra-firm tofu, cut it into slabs about 3/8" thick (or 1/2" cubes), and pat it very dry. Fry it in a very hot cast-iron skillet with a couple of tablespoons of neutral oil, without crowding the pan, until it is deeply golden brown on every side. That one method is the basis for most of the tofu dishes I make.</p>
+
 <h3>Do I need to press tofu?</h3>
 <p>Not if you start with extra-firm tofu, which already has a firm texture. What matters is getting the surface dry: lay the tofu on a clean dish towel, cover it with another, and pat well to remove as much surface moisture as you can. That is what lets it brown.</p>
 

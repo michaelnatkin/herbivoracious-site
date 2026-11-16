@@ -74,3 +74,5 @@ recipe:
 <li>To serve, place each packet on an individual plate. Tell the diners to open it carefully and enjoy the aromatic steam. Pass the lime wedges.</li>
 </ol>
 </div>
+
+<p class="related-link">New to cooking tofu? Start with <a href="/2012/05/how-to-make-tofu-really-freaking-delicious-tofu-101/">how to cook tofu so it is really delicious (Tofu 101)</a>.</p>

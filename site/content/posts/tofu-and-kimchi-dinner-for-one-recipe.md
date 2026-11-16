@@ -60,3 +60,5 @@ Serves 1</em>
 	<li>Mound the tofu into a bowl. Drizzle on a little sesame oil, and garnish heavily with the green onions and sesame seeds. Add a nice pile of kimchi and the hot sauce of your choice. I really love ssamjang because it is only moderately spicy, with a lot of flavor complexity, so you can use quite a bit of it.</li>
 </ol>
 </div>
+
+<p class="related-link">New to cooking tofu? Start with <a href="/2012/05/how-to-make-tofu-really-freaking-delicious-tofu-101/">how to cook tofu so it is really delicious (Tofu 101)</a>.</p>

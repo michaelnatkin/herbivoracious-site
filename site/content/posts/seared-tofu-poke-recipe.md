@@ -68,3 +68,5 @@ recipe:
 <li>To serve, divide the bean sprouts among 4 bowls. Drain and pat dry the seaweed and place a small mound atop the bean sprouts. Cover that with the tofu and drizzle on some of the remaining sauce. Garnish with the remaining green onion and jalapeno and a few grains of Hawaiian sea salt.</li>
 </ol>
 </div>
+
+<p class="related-link">New to cooking tofu? Start with <a href="/2012/05/how-to-make-tofu-really-freaking-delicious-tofu-101/">how to cook tofu so it is really delicious (Tofu 101)</a>.</p>

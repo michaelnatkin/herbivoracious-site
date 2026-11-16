@@ -68,3 +68,5 @@ Needless to say, this salad dressing is delightful on lettuce too!
 </div>
 </div>
 </div>
+
+<p class="related-link">New to cooking tofu? Start with <a href="/2012/05/how-to-make-tofu-really-freaking-delicious-tofu-101/">how to cook tofu so it is really delicious (Tofu 101)</a>.</p>

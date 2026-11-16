@@ -25,4 +25,6 @@ recipes:
 
 Good tofu cooking is about texture and sauce. These recipes use firm tofu, pressed and seared or fried until it has a real crust, then paired with bold sauces from Sichuan, Vietnam, Thailand and Mexico.
 
+If you are new to it, start with [how to cook tofu so it is really delicious (Tofu 101)](/2012/05/how-to-make-tofu-really-freaking-delicious-tofu-101/).
+
 Several of these use pressed tofu, which holds its shape and browns better in the pan.

@@ -68,3 +68,5 @@ Serves 4</em>
 	<li>To eat, lay down two tortillas. Top with a moderate scoop of the filling, a spoonfull of guacamole and the pineapple salsa. Pass more hot sauce for those who want it.</li>
 </ol>
 </div>
+
+<p class="related-link">New to cooking tofu? Start with <a href="/2012/05/how-to-make-tofu-really-freaking-delicious-tofu-101/">how to cook tofu so it is really delicious (Tofu 101)</a>.</p>
