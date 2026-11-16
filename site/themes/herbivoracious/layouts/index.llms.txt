@@ -1,0 +1,22 @@
+# Herbivoracious
+
+> Vegetarian cooking for the food obsessed. Tested vegetarian and vegan recipes, technique guides and kitchen notes by Michael Natkin, author of the cookbook Herbivoracious: A Flavor Revolution (a James Beard Award finalist). Over 450 recipes; each recipe page has ingredients, steps, serving size, time and dietary notes, and many have answers to common questions.
+
+## About
+- [About Michael Natkin and Herbivoracious]({{ "about/" | absURL }}): who writes this site and how recipes are developed and tested
+- [The Herbivoracious cookbook]({{ "get-the-herbivoracious-cookbook/" | absURL }}): 150 vegetarian recipes
+
+## Recipe collections
+{{ range (site.GetPage "/collections").Pages }}- [{{ .Title }}]({{ .Permalink }}){{ with .Description }}: {{ . }}{{ end }}
+{{ end }}
+## Technique guides
+- [How to cook tofu so it is really delicious (Tofu 101)]({{ "2012/05/how-to-make-tofu-really-freaking-delicious-tofu-101/" | absURL }}): pan-frying tofu with a crisp crust
+- [How to use a honing steel]({{ "sharpening-steels-kitchen-tools-hand-tools/" | absURL }}): keeping a kitchen knife's edge
+- [Water for cooking]({{ "water-for-cooking/" | absURL }}): why filtered water matters in a simple dish
+
+## Most-read recipes
+{{ range site.Data.llms_top }}- [{{ .title }}]({{ .url | absURL }}): {{ .desc }}
+{{ end }}
+## Optional
+- [Full recipe index by category]({{ "categories/" | absURL }})
+- [Sitemap]({{ "sitemap.xml" | absURL }})

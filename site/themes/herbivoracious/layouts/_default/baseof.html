@@ -56,7 +56,11 @@
         "@id": "{{ .Site.BaseURL }}#person",
         "name": "{{ .Site.Params.author }}",
         "url": "{{ .Site.BaseURL }}about/",
-        "description": "Author of Herbivoracious and the Herbivoracious Cookbook"
+        "description": "Author of Herbivoracious and the Herbivoracious Cookbook",
+        "jobTitle": {{ .Site.Params.person.jobTitle | jsonify | safeJS }},
+        "image": {{ .Site.Params.person.image | absURL | jsonify | safeJS }},
+        "sameAs": {{ .Site.Params.person.sameAs | jsonify | safeJS }},
+        "knowsAbout": {{ .Site.Params.person.knowsAbout | jsonify | safeJS }}
       }
     ]
   }

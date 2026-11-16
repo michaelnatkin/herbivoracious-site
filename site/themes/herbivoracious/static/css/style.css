@@ -2984,3 +2984,12 @@ a.as-seen-in:hover { text-decoration: none; }
 .single-content .side-note { margin: 1.6rem 0; padding: 1rem 1.3rem; background: var(--cream, #faf7f2); border: 1px solid rgba(0,0,0,.08); border-left: 4px solid #c4572f; border-radius: 6px; }
 .single-content .side-note h3 { margin: 0 0 .5rem; font-family: 'Inter', sans-serif; font-size: .8rem; letter-spacing: .08em; text-transform: uppercase; color: #2a2017; }
 .single-content .side-note p:last-child { margin-bottom: 0; }
+
+/* "At a glance": a one-sentence answer plus the key facts, above the post */
+.glance { margin: 0 0 1.8rem; padding: 1.1rem 1.3rem; background: var(--cream, #faf7f2); border: 1px solid rgba(0,0,0,.08); border-left: 4px solid #00a6c7; border-radius: 6px; }
+.glance__summary { margin: 0 0 .9rem; font-size: 1.12rem; line-height: 1.5; color: #2a2017; }
+.glance__facts { margin: 0; display: flex; flex-wrap: wrap; gap: .5rem 1.6rem; }
+.glance__facts div { display: flex; flex-direction: column; }
+.glance__facts dt { font-family: 'Inter', sans-serif; font-size: .68rem; letter-spacing: .08em; text-transform: uppercase; color: #7a6f62; }
+.glance__facts dd { margin: 0; font-size: .95rem; color: #2a2017; }
+@media print { .glance { display: none; } }

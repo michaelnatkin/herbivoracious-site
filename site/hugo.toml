@@ -26,12 +26,29 @@ theme = "herbivoracious"
     name = "rss"
     url = "/index.xml"
 
+  [params.person]
+    jobTitle = "Cookbook author and vegetarian food writer"
+    image = "images/2012/10/Michael-Farmers-Market-130-160.jpg"
+    sameAs = [
+      "https://pinterest.com/herbivoracious/",
+      "https://twitter.com/michaelnatkin",
+      "https://www.facebook.com/herbivoracious",
+      "https://vimeo.com/channels/293685",
+    ]
+    knowsAbout = ["vegetarian cooking", "vegan cooking", "plant-based cuisine", "cooking techniques", "recipe development"]
+
 [taxonomies]
   category = "categories"
   tag = "tags"
 
+[outputFormats.llms]
+  mediaType = "text/plain"
+  baseName = "llms"
+  isPlainText = true
+  notAlternative = true
+
 [outputs]
-  home = ["HTML", "RSS"]
+  home = ["HTML", "RSS", "llms"]
   section = ["HTML", "RSS"]
   taxonomy = ["HTML", "RSS"]
   term = ["HTML", "RSS"]

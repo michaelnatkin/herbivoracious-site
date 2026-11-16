@@ -1,7 +1,23 @@
+# Everyone is welcome, including search and AI assistant crawlers (so recipes can be found and cited).
 User-agent: *
 Allow: /
 
 # Block query parameter spam URLs
+Disallow: /*?k=
+
+# Named AI crawlers: explicit allow. (A named group replaces the * group, so the spam rule is repeated.)
+User-agent: OAI-SearchBot
+User-agent: ChatGPT-User
+User-agent: GPTBot
+User-agent: ClaudeBot
+User-agent: Claude-SearchBot
+User-agent: Claude-User
+User-agent: PerplexityBot
+User-agent: Perplexity-User
+User-agent: Google-Extended
+User-agent: Applebot-Extended
+User-agent: CCBot
+Allow: /
 Disallow: /*?k=
 
 Sitemap: https://herbivoracious.com/sitemap.xml

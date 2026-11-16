@@ -4,7 +4,7 @@
 {{- $recipe := dict "@context" "https://schema.org" "@type" "Recipe" -}}
 {{- $recipe = merge $recipe (dict "name" $name) -}}
 {{- $recipe = merge $recipe (dict "description" $desc) -}}
-{{- $recipe = merge $recipe (dict "author" (dict "@type" "Person" "name" .Site.Params.author "url" (absURL "about/"))) -}}
+{{- $recipe = merge $recipe (dict "author" (dict "@type" "Person" "@id" (printf "%s#person" .Site.BaseURL) "name" .Site.Params.author "url" (absURL "about/") "jobTitle" .Site.Params.person.jobTitle "sameAs" .Site.Params.person.sameAs)) -}}
 {{- $recipe = merge $recipe (dict "publisher" (dict "@type" "Organization" "name" .Site.Title "url" .Site.BaseURL)) -}}
 {{- $recipe = merge $recipe (dict "mainEntityOfPage" .Permalink) -}}
 {{- with .Lastmod }}{{ if .After $.Date }}{{ $recipe = merge $recipe (dict "dateModified" (.Format "2006-01-02")) }}{{ end }}{{ end -}}

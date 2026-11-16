@@ -56,6 +56,17 @@
         </div>
         {{ end }}
       </div>
+      {{ with .Params.summary }}
+      <section class="glance" aria-label="At a glance" data-pagefind-ignore>
+        <p class="glance__summary">{{ . }}</p>
+        {{ with $.Params.glance }}
+        <dl class="glance__facts">
+          {{ range . }}<div><dt>{{ .label }}</dt><dd>{{ .value }}</dd></div>{{ end }}
+        </dl>
+        {{ end }}
+      </section>
+      {{ end }}
+
       <div class="single-content">
         {{/* Wrap recipe title pattern: <strong>Title</strong><em>info</em> → classed spans */}}
         {{ $content = $content | replaceRE `<p>\s*<strong>([^<]+)\s*</strong>\s*<em>` `<p><span class="recipe-title">$1</span><em class="recipe-meta">` }}
