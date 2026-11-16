@@ -32,15 +32,17 @@ recipe:
 <p>There is nothing like a sundae to bring out the kid in all of us, but that is no reason it can’t have adult flavors! To make this sauce, the raisins are caramelized with butter, brown sugar, port wine and orange zest to make a rich sauce that isn’t too sweet. Fresh apple spiked with cinnamon adds a crunchy, slightly spicy counterpoint.</p>
 <p>The raisins grow hilariously plump while cooking, blowing up like little zeppelins! Don’t let that worry you. When they cool back down, they return to a normal size.</p>
 <p>For a smooth variation, you can also puree the sauce. It would also be delicious made with dried figs instead of raisins.</p>
-<p>[[box: Fortified Wines</p>
+<aside class="side-note">
+<h3>Fortified Wines</h3>
 <p>Fortified wines are wines that have had distilled spirits, often brandy, added to raise the proof, preserve the product, and create new flavors. They are delicious as aperitifs or after-dinner drinks, in cocktails, and for making sauces.</p>
-<p>In all cases, you should avoid fortified wines that are specifically designated as cooking wines. They are mass produced, with awful flavors masked by vast amounts of salt. Your best bet is to buy mid-grade bottles for cooking, saving the expensive aged stuff for savoring straight. If you have the opportunity to taste a range of any of these wines, either at a shop or bar, you’ll find that there is much to learn and appreciate!</p>
+<p>You should always avoid fortified wines that are specifically designated as cooking wines. They are mass-produced, with awful flavors masked by vast amounts of salt. Your best bet is to buy mid-grade bottles for cooking, saving the expensive aged stuff for savoring straight. If you have the opportunity to taste a range of any of these wines, either at a shop or bar, you’ll find that there is much to learn and appreciate!</p>
 <p>Here are some of the most popular fortified wines:</p>
-<p>Port comes the Douro valley of northern Portugal. There are many varieties; the most common are red and rather sweet, making mid-grade bottles especially suitable for dessert sauces.</p>
-<p>Madeira is also from Portugal, specifically the Madeira islands. It is made in a unique way, heating and oxidizing the wine for an extended period. (This method was developed after a ship carrying the wine sailed through the tropics and back!)</p>
-<p>Sherry is made in and around Jerez, Spain. It is aged in a series of barrels (the solera), in a process similar to true balsamic vinegar. As with port, there are many styles, ranging from dry, pale fino to oxidized olorosos and sweet jerez dulces.</p>
-<p>Marsala comes from the city of the same name in Sicily, and is produced with a system similar to sherry. It also comes in a range of sweetness levels, and is frequently used in desserts as well as savory sauces.</p>
+<p>Port comes from the Douro valley of northern Portugal. There are many varieties; the most common are red and rather sweet, making mid-grade bottles especially suitable for dessert sauces.</p>
+<p>Madeira is also from Portugal, specifically the Madeira islands. It is made in a unique way, by heating and oxidizing the wine for an extended period. (This method was developed after a ship carrying the wine sailed through the tropics and back!)</p>
+<p>Sherry is made in and around Jerez, Spain. It is aged in a series of barrels (the solera), in a process similar to the production of true balsamic vinegar. As with port, there are many styles, ranging from dry, pale fino to oxidized olorosos and sweet jerez dulces.</p>
+<p>Marsala comes from the Sicilian city of the same name and is produced in a way similar to sherry. It also comes in a range of sweetness levels and is frequently used in desserts as well as savory sauces.</p>
 <p>Vermouth originates in Italy and is typically either white and dry, or red and somewhat sweet. Both varieties are scented with a variety of herbs.  The name is derived from wormwood, which is best known as an ingredient in absinthe, but vermouth doesn’t actually contain wormwood. Dry vermouth is especially useful as a cooking wine, as it keeps for a long time in the refrigerator.]]</p>
+</aside>
 
 <div class="recipe-card">
 <p><strong>Caramelized-Raisin Sundae</strong>

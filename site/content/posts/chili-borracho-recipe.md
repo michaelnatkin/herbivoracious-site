@@ -41,8 +41,8 @@ recipe:
 ---
 <p>I’m not a big believer in lots of vegetables or grains in chili. For me, it is all about the beans, complemented by a savory sauce and lots of tasty garnish. My version includes dark beer, dried chiles and unsweetened cocoa powder to create those deep bass notes, reminiscent of Oaxacan mole.</p>
 <p>The pressure cooker is my favorite way to make chile. It allows me to cook the beans from scratch and include the bean cooking liquid as part of the broth. The pressure cooker requires you to have about 8 cups of liquid for 1 pound of beans (consult your manual to be sure). That would give you a soup instead of chili, so I just drain off the sauce and quickly simmer it down to the right thickness, then add it back to the beans.</p>
-<p>If you have the time, make this chili a couple of hours in advance, or even the day before. The flavors only get better when they have time to rest.</p>
-<p>If you don’t have a pressure cooker, you can still make this dish, just pre-cook the beans and follow the parenthesized instructions below.</p>
+<p>If you have the time, make this chili a couple of hours in advance, or even the day before you plan to serve it. The flavors only get better when they have time to rest.</p>
+<p>If you don’t have a pressure cooker, you can still make this dish. Just precook the beans and follow the instructions below.</p>
 
 <div class="recipe-card">
 <p><strong>Chili Borracho</strong>

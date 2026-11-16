@@ -24,7 +24,7 @@ recipe:
 ---
 
 <p>Nước chấm is the quintessential Vietnamese dipping sauce made of fish sauce seasoned with sugar, lime juice, garlic and chiles. I use a little bit of kombu and soy sauce to infuse that oceanic, umami flavor that would otherwise be missing.</p>
-<p>Serve this with the Bánh xèo, or as an alternative to of the ginger-grapefruit sauce with Bun,</p>
+<p>Serve this with Banh xeo, or as an alternative to  the ginger-grapefruit sauce in Rice Vermicelli (Bun) with Ginger-Grapefruit Sauce.</p>
 
 <div class="recipe-card">
 <p><strong>Vegetarian Nước Chấm</strong>

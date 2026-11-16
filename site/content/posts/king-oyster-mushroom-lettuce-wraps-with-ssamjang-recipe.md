@@ -34,7 +34,7 @@ recipe:
 <p>Korean markets are also good place to find king oyster mushrooms (Pleurotus eryngii, otherwise known as a king trumpet or french horn). They tend to be much less expensive there than at fancy grocers. They are big, meaty mushrooms with a mild flavor. Even folks that are skeptical about wild mushrooms will enjoy them.</p>
 <aside class="side-note">
 <h3>Kimchi</h3>
-<p>Kimchi is a Korean pickled and fermented side dish; there is an enormous variety made of cabbage and other vegetables—and even fruits. It is reputed to be very healthy due to the large number of live cultures that thrive in it.</p>
+<p>Kimchi is a Korean pickled and fermented side dish; the most common type is made with napa cabbage, but there’s an  enormous variety prepared with other vegetables—and even fruits. It is reputed to be very healthful because of the large number of live beneficial bacterial cultures that thrive in it.</p>
 <p>If you are vegetarian, you’ll want to look closely at the ingredients of kimchi; many kimchis include shrimp or other seafood, but you can find vegetarian options. Explore different brands to find one you like. They are not all the same, by any means!</p>
 <p>Besides Asian grocers, another place to look for kimchi is your local farmer’s market. With the recent uptick in interest in fermented foods, you may find very fresh local varieties with a lot more character than prepackaged brands.</p>
 </aside>

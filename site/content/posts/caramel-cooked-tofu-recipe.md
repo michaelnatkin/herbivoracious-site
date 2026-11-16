@@ -31,7 +31,7 @@ recipe:
     - "Serve immediately, garnished with the green onions."
 ---
 <p>Caramel cooking is a Vietnamese technique that is most often applied to chicken, but works equally well to produce a deeply flavored tofu that is laquered with a sweet, salty and fragrant sauce. The traditional method requires you to make the caramel sauce separately, but Chef John of the blog Food Wishes came up with this simpler technique that allows you to create the sauce right in the pan with your main ingredient.</p>
-<p>This recipe will serve 2 hungry adults with nothing but rice as an accompaniment, or more as part of a larger spread.</p>
+<p>This recipe will serve 2 hungry adults with nothing but rice as an accompaniment, or more diners as part of a larger spread.</p>
 <p>Feel free to add a small amount of a vegetable to this stir-fry. Sliced fresh bamboo shoots are excellent. For something that takes a few minutes, like broccoli, cook it separately first and then add it at the end. More tender items such as red bell peppers can be added at the same time as the white onion.</p>
 
 

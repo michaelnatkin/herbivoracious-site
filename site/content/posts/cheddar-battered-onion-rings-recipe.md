@@ -30,8 +30,8 @@ recipe:
 ---
 <p>The idea for these rings came from a daydream on the way home from work. What if I could make perfect tempura-battered onion rings, and somehow get them to taste like aged cheddar? I didn't want to create a melty mess and ruin the crunch though.</p>
 <p>I ended up broiling the cheese like you would for a frico (cheese crisp), and then grinding it into a powder to add to an otherwise standard tempura batter. The broiling is pretty cool to watch; it looks like a boiling alien planet as all of the moisture cooks off and the fat separates.</p>
-<p>The basic batter is based on Chef Morimoto's small-batch tempura, with a pinch of {{% product id="xanthan-gum" %}}xanthan gum{{% /product %}} added. That is optional but really helps with cling.</p>
-<p>Try serving these with Stout Chocolate Malt on  for an Alice-in-Wonderland spin on traditional diner food.</p>
+<p>The basic batter is based on Chef Morimoto’s (of Iron Chef fame) small-batch tempura, with a pinch of {{% product id="xanthan-gum" %}}xanthan gum{{% /product %}} (which is available in many large markets and health food stores) added. That is optional but really helps with cling.</p>
+<p>Try serving these with Stout Chocolate Malt for an Alice in Wonderland spin on traditional diner food.</p>
 
 
 <a href="/images/cookbook/cheddar-battered-onion-rings-2.webp"><img src="/images/cookbook/cheddar-battered-onion-rings-2.webp" alt="Cheddar-Battered Onion Rings" /></a>

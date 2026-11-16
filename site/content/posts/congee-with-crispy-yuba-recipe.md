@@ -32,7 +32,7 @@ recipe:
 ---
 <p>Wherever rice is a staple, from China to India and all points in between, some form of congee is a beloved dish. Congee is simply rice that is cooked in copious amounts of water until it falls apart into porridge. It is often a breakfast dish, and is also considered an excellent recuperative and restorative meal.</p>
 <p>Congee is a blank palette that can be topped by a vast range of accompaniments. It is usually best to include something crunchy, something green, something salty, and a small but substantial hit of protein. Besides my suggestions below, you might consider sliced hardboiled egg, toasted and crushed peanuts, thinly sliced green onions, kimchi (see note on ), tofu, pickled ginger.</p>
-<p>You can also experiment with using less water and shorter cooking times for a congee that is thicker and less broken down. This approach is more common in Japan, where it is known as okayu.</p>
+<p>You can also experiment with using less water and shorter cooking times for a congee that is thicker and less broken down. This approach is more common in Japan, where the porridge is known as okayu.</p>
 
 <div class="recipe-card">
 <p><strong>Congee with Crispy Yuba</strong>

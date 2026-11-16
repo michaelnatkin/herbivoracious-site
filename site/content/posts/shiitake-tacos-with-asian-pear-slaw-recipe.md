@@ -37,8 +37,8 @@ recipe:
 ---
 <p>I love to make up taco combinations using a substantial component like shiitake mushrooms, contrasted with a bright fresh slaw. Serve these up with big plates of refried beans, Mexican rice (or the Non-Traditional Arroz Verde on ), and homemade guacamole for a feast that is only a bit more work than ordinary “taco night”, but a lot more interesting.</p>
 <p>The technique of dry-roasting the jalapeno peppers and garlic for these tacos is very typical in Mexican cuisine. It is a quick way of both mellowing and concentrating the flavors. I highly recommend wearing disposable rubber gloves when seeding and chopping the jalapenos, to avoid the risk of having your hands burn later.</p>
-<p>The bok choy in this recipe is the full-grown vegetable, usually about 10-12” long, with dark green leaves, not baby bok choy.</p>
-<p>You can take this same Asian pear slaw and use it as a condiment for other dishes. Add a little {{% product id="la-tourangelle-toasted-sesame-oil-16-9-fl-oz" %}}toasted sesame oil{{% /product %}} if you are using it in an Asian meal.</p>
+<p>The bok choy in this recipe is the full-grown vegetable, usually about 10 to 12 inches long, with dark green leaves; don’t substitute baby bok choy.</p>
+<p>You can take this same Asian pear slaw and use it as a condiment for other dishes. Add a little {{% product id="la-tourangelle-toasted-sesame-oil-16-9-fl-oz" %}}toasted sesame oil{{% /product %}} if you are serving it as part of an Asian meal.</p>
 
 
 <a href="/images/cookbook/shiitake-tacos-with-asian-pear-slaw-2.webp"><img src="/images/cookbook/shiitake-tacos-with-asian-pear-slaw-2.webp" alt="Shiitake Tacos with Asian Pear Slaw" /></a>

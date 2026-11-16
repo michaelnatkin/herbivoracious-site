@@ -34,7 +34,7 @@ recipe:
     - "To serve, place each packet on an individual plate. Tell the diners to open it carefully and enjoy the aromatic steam. Pass the lime wedges."
 ---
 <p>Imagine opening a present at the table, and being greeted with a rush of aromatic steam full of lemongrass and ginger that makes you close your eyes with pleasure.  Baking your food in {{% product id="parchment" %}}parchment paper{{% /product %}} or banana leaves is just the ticket to that experience.</p>
-<p>Rather than pre-marinating the tofu, for this recipe we score it in both directions to open up lots of surface area for the seasoning to penetrate. This also creates an interesting look, somewhat similar to fish.</p>
+<p>Rather than marinating the tofu in advance, I score it in two directions to open up lots of surface area for the seasoning to penetrate quickly. This also creates an interesting look, similar to some fish preparations.</p>
 <p>One nice thing about making individual packets is that you can customize the spice level for each person if necessary. For children, leave out the jalapeno and long pepper and add their favorite vegetables.</p>
 
 

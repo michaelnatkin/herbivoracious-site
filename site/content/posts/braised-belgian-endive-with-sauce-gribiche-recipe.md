@@ -33,9 +33,9 @@ recipe:
     - "Mix in the vinegar, cornichons, capers, parsley, tarragon, and diced egg white and a generous grind of black pepper. Taste and add salt if needed."
     - "To serve, place the chilled or room-temperature endive on a plate. Give the sauce a final stir, and spoon it over the endive."
 ---
-<p>I first tasted the classic French sauce gribiche when I was interning at Seattle’s landmark Canlis restaurant. Chef Franey serves it with asparagus, which is superb. I like it equally well with quickly braised Belgian endive, or steamed artichoke hearts.</p>
+<p>I first tasted the classic French sauce gribiche when I was interning at Seattle’s landmark Canlis restaurant. Gribiche is powerfully flavored with mustard, vinegar, cornichons, capers, and a lot of fresh herbs. Chef Franey serves it with asparagus, which is superb. I like it equally well with quickly braised Belgian endive or steamed artichoke hearts. You’ll want to have good bread on hand to mop up the extras.</p>
 <p>The method for making the sauce is similar to homemade mayonnaise, but it isn’t necessary to achieve a perfect emulsion; it is just fine for the olive oil to be partially separated. Gribiche is powerfully flavored with mustard, vinegar, {{% product id="maille-pickles-cornichons-original" %}}cornichons{{% /product %}}, capers, and a lot of fresh herbs. You’ll want to have a good bread on hand to mop up the extras.</p>
-<p>This method for braising Belgian endive can be used without the sauce gribiche. In that case, try something flavorful such as fresh-squeezed orange juice in place of the water for the braising liquid.</p>
+<p>You can also serve the braised Belgian endive without the sauce gribiche. In that case, try something flavorful such as fresh-squeezed orange juice in place of the water for the braising liquid.</p>
 
 
 <a href="/images/cookbook/braised-belgian-endive-with-sauce-gribiche-2.webp"><img src="/images/cookbook/braised-belgian-endive-with-sauce-gribiche-2.webp" alt="Braised Belgian Endive with Sauce Gribiche" /></a>

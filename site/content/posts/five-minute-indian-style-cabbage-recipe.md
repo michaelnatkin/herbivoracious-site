@@ -26,7 +26,7 @@ recipe:
 ---
 
 <p>This cabbage side dish is great to have in your arsenal, because it comes together in 5 minutes flat, and makes a big and flavorful addition to an Indian spread. I break out some variation of it when I'm making a curry, rice and raita and feel the need for one more dish to round out the meal.</p>
-<p>Everything in the cabbage family (brassica) goes great with mustard, so mustard seeds are the primary flavoring. If you happen to have mustard oil, you can use that instead of the vegetable oil. Be sure and have all of chopping done and your spices measured in advance, because once the mustard seeds hit the hot oil, you have to move quickly.</p>
+<p>Everything in the cabbage family goes great with mustard, so mustard seeds are the primary flavoring. If you happen to have mustard oil, use that instead of the vegetable oil to intensify the mustard flavor. Be sure to have all of chopping done and your spices measured in advance, because once the mustard seeds hit the hot oil, you have to move quickly.</p>
 
 <div class="recipe-card">
 <p><strong>Five Minute Indian-Style Cabbage</strong>

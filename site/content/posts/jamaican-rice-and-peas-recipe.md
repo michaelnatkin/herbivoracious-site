@@ -27,9 +27,9 @@ recipe:
     - "If using the rice cooker, turn on and run a normal cycle. If using the stove, bring to a boil, cover, and reduce to a bare simmer, then cook until all of the water is absorbed."
     - "To serve, remove the whole green onions, thyme sprigs, and chile if using. Fluff the rice and turn out into a bowl. Garnish with the remaining green onion, finely sliced, and serve immediately."
 ---
-<p>Rice and Peas is a classic Jamaican dish, traditionally served on Sundays. Peas in this case actually refer to kidney beans, pigeon peas or cowpeas. The rice is richly flavored with coconut milk, garlic, crushed green onions, thyme, and, if you dare, a Scotch Bonnet or habanero pepper.</p>
-<p>Even though the pepper is left whole, it will still infuse the dish with a subtle bit of heat if you choose to use it. For a bit more spice, cut a slit in the pepper, and if you are really crazy you can cut it up – wearing rubber gloves!</p>
-<p>I prefer to make Rice and Peas in a {{% product id="rice-cooker" %}}rice cooker{{% /product %}}, but if you want to do it on the stovetop, the recipe below offers both options.</p>
+<p>Rice and peas is a classic Jamaican dish, traditionally served on Sundays. But in this case, “peas” actually refers to kidney beans, pigeon peas, or cowpeas. The rice is richly flavored with coconut milk, garlic, crushed scallions, thyme, and, if you dare, a Scotch bonnet or habañero pepper. It goes well with Dal Poori Roti.</p>
+<p>Even though the pepper is left whole, it will still infuse the dish with a subtle bit of heat if you choose to use it. For a bit more spice, cut a slit in the pepper, or, if you are really crazy, you can cut it up—wearing rubber gloves!</p>
+<p>I prefer to make rice and peas in a {{% product id="rice-cooker" %}}rice cooker{{% /product %}}, but if you want to do it on the stovetop, the recipe offers that option.</p>
 <p>If you make the beans from scratch, you can substitute 1 cup of the bean liquid for part of the water in the recipe for a “dirty rice” look with a slightly earthier flavor.</p>
 
 

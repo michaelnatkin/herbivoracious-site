@@ -27,9 +27,9 @@ recipe:
     - "Add the garlic to the butter and cook for 30 seconds. Turn off the heat. Add the frisee, champagne vinegar, and ¼ teaspoon more salt. Toss in the butter just enough to barely begin to wilt, about 30 seconds."
     - "Using tongs, remove the frisee, gently shaking off any excess butter. Divide among 4 serving plates. Divide the turnips, mushrooms and hazelnuts among the plates. Season each salad with a generous grating of fresh-ground black pepper and serve immediately."
 ---
-<p>Warm salads seem a little more filling than a typical cool salad, and a bit special too. They are nice in cool weather, especially if you aren’t serving a soup to take the chill out of the air.</p>
-<p>Be careful not to let the butter burn. We want it to lightly brown and develop a nutty aroma, while infusing with the flavors of turnip and mushroom. At the first sign of overheating, lower the heat to medium-low or even low.</p>
-<p>To turn this salad into a light meal, top it with a poached or fried egg and serve it with a slices of artisan toast. Toasted walnut or pecan halves and shavings of Parmesan cheese are also delicious additions. You can also replace the frisee with baby arugula.</p>
+<p>Warm salads seem a little more filling than typical cold salads, and a bit special, too. They are nice in cool weather, especially if you aren’t serving a soup to take the chill out of the air. Classic non-vegetarian warm salads often include bacon and its rendered fat. I came up with this version that uses brown butter and caramelized turnips to create some of that rich flavor and texture.</p>
+<p>Be careful not to let the butter burn. You want it to brown lightly and develop a nutty aroma, while becoming infused with the flavors of turnip and mushroom. At the first sign of overcooking, lower the heat to medium-low or even low.</p>
+<p>To turn this salad into a light meal, top it with a poached or fried egg and serve it with slices of toasted artisanal bread. Toasted walnut or pecan halves and shavings of Parmigiano-Reggiano are also delicious additions.</p>
 
 
 <a href="/images/cookbook/warm-frisee-salad-with-brown-butter-vinaigrette-2.webp"><img src="/images/cookbook/warm-frisee-salad-with-brown-butter-vinaigrette-2.webp" alt="Warm Frisee Salad with Brown Butter Vinaigrette" /></a>

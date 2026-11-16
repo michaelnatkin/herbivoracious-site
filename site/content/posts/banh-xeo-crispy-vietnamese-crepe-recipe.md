@@ -35,8 +35,8 @@ recipe:
 ---
 
 <p>The first time I had Bánh xèo, I was actually giddy. The combination of textures and flavors is absolutely mindblowing.</p>
-<p>This vegan crepe is crispy on the outside, soft on the inside, flavored with mushrooms and onions, and filled with a big pile of bean sprouts. You tear off a piece and wrap it with lettuce and fresh herbs, then dip it in vegetarian nước chấm, with its complex combination of savory, sweet, spicy and salty.</p>
-<p>One crepe with all of the fixings is most of a light meal, or you could cut them in half to make appetizer portions.</p>
+<p>This vegan crêpe is crispy on the outside, soft on the inside, flavored with mushrooms and onions, and filled with a big pile of bean sprouts. You tear off a piece and wrap it with lettuce and fresh herbs, then dip it in vegetarian nuoc cham, with its complex combination of savory, sweet, spicy, and salty flavors.</p>
+<p>One crêpe with all of the fixings is most of a light meal, or you could cut it in half to make appetizer portions.</p>
 <p>Don’t be discouraged if your first one turns out ugly! As with any crepe or pancake, it might take a couple of tries before you are making perfect exemplars. As long as you cook them until crispy, even the unlovely ones will be delicious. One key to success is to cut the mushrooms, tofu, and onions very small and thin so they don’t break up the surface of the crepe too much.</p>
 
 <div class="recipe-card">

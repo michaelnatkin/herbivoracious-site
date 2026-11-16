@@ -21,7 +21,7 @@ recipe:
     - "Set aside to cool and use as needed."
 ---
 <p>Homemade breadcrumbs are a completely different ballgame from the canned grocery store stuff. It is a very easy thing to grate dried-out bread in the {{% product id="food-processor" %}}food processor{{% /product %}} and then toast the crumbs with a little olive oil in a skillet. You’ll be rewarded with tasty, crunchy goodness that can top a gratin, add body to a filling, or bread a fritter.</p>
-<p>If you don’t have any stale bread, in a pinch you can make these with bread that is still soft. Just slice, toast moderately, and then allow to sit for 15 minutes or so to dry out so that it can be grated.</p>
+<p>In a pinch, if you don’t have any stale bread, you can make these with bread that is still soft. Just slice the bread, toast it, and let it sit for 15 minutes or so to dry out so that it can be grated.</p>
 <p>Breadcrumbs keep very well in the freezer. Just give them a quick re-toast in a skillet or toaster oven to revive their crunch.</p>
 <p>The recipe below is for a basic, all-purpose breadcrumb. You can add crushed garlic or hearty herbs such as rosemary or sage to the olive oil for variety.</p>
 

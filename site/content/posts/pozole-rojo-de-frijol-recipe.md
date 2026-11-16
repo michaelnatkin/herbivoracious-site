@@ -34,7 +34,7 @@ recipe:
 ---
 <p>Pozole is a soup or thin stew made all over Mexico, dating back to pre-Columbian times. Vegetarian pozole is almost a non-sequitur, because the original is heavy on the pig, but this version is delicious and filling so I don't think you will miss the meat. It makes a terrific one-pot meal on a cold day. The broth is mildly spicy and sour, which whets your appetite for the hearty beans and hominy corn.</p>
 <p>There are more variations of pozole rojo than you can count, but as long as it has hominy and some kind of red chile in it, you are in the ballpark. (There is another version, pozole verde which includes ground pumpkin seeds.)</p>
-<p>Much of the fun comes with the accompaniments, which you can put out on a big platter and let everyone choose for themselves. Popular options include: avocado slices, cilantro, lime wedges, tortilla chips, shredded cabbage or lettuce, onions and radishes</p>
+<p>There are more variations of pozole rojo than you can count, but as long as it has hominy and some kind of red chile in it, you are in the ballpark. Much of the fun comes with the accompaniments, which you can put out on a big platter, letting diners choose for themselves. Popular options include avocado slices, cilantro, lime wedges, tortilla chips, shredded cabbage or lettuce, sliced onions and sliced radishes</p>
 <p>The recipe below calls for canned hominy and beans for simplicity. Made this way, it can even be a weeknight supper. If you want a more leisurely and even better soup, you can cook them both from scratch. Hominy corn is available dried, in which case you would soak it overnight and boil it for several hours, very much like with dried beans.</p>
 
 

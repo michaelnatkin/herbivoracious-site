@@ -32,12 +32,14 @@ recipe:
     - "If the peanuts are raw, toast them until lightly browned and fragrant in a toaster oven or a dry skillet over medium-low heat."
     - "Just before serving, stir in the peanuts. Garnish with the cilantro and green onion."
 ---
-<p>There is a famous Thai dish known as Son-in-law Eggs. You’ll get the joke if you realize that eggs in Thai refer to the same part of the male anatomy as huevos in Spanish. To make Son-in-law Eggs, peeled hardboiled eggs are pan-fried or deep-fried until the outside gets wrinkled and brown, and then they are halved and served with a spicy tamarind sauce.</p>
-<p>My vegan variation uses small potatoes instead. The sauce is quite fiery, but the creamy flesh of the potatoes mitigates your pain. Be sure and warn your guests not to eat the whole dried chiles, or remove them before serving.</p>
+<p>There is a famous Thai dish known as son-in-law eggs. You’ll get the joke if you realize that “eggs” in Thai refers to the same part of the male anatomy as huevos does in Spanish. To make son-in-law eggs, peeled hard-cooked eggs are pan-fried or deep-fried until the outside gets wrinkled and brown, and then they are halved and served with a spicy tamarind sauce.</p>
+<p>My vegan variation uses small potatoes instead of eggs. The sauce is quite fiery, but the creamy flesh of the potatoes mitigates the pain. Be sure to warn your guests not to eat the whole dried chiles, or remove them before serving.</p>
 <p>These potatoes are great as a side dish in an Indian meal. Or, this might sound like crazy fusion-food talk, but my wife and I have also been known to wrap them up in a burrito with refried beans and sour cream.</p>
-<p>[[box: Tamarind</p>
-<p>Tamarind is the pulp from the pod of a tropical tree. It has a tart, fruity taste that is beloved in Southeast Asian, Indian and Mexican cuisines. It can be bought as whole pods, semi-dried pulp with seeds, or in concentrated thick-syrup form.</p>
+<aside class="side-note">
+<h3>Tamarind</h3>
+<p>Tamarind comes from the pod of a tropical tree of the same name. It has a tart, fruity taste that is beloved in Southeast Asian, Indian, and Mexican cuisines. It can be bought as whole pods, semi-dried pulp with seeds, or in concentrated thick-syrup form.</p>
 <p>If you buy the pods or pulp, they must be soaked in boiling water. You then remove the skin, seeds and strings and force the remaining pulp through a fine sieve. Honestly, this is a messy, sticky, tedious job. I generally buy the concentrate instead. The brand you will usually find is called Tamcon. Look for it at Asian or Indian groceries. ]]</p>
+</aside>
 
 
 <a href="/images/cookbook/spicy-tamarind-glazed-potatoes-2.webp"><img src="/images/cookbook/spicy-tamarind-glazed-potatoes-2.webp" alt="Spicy Tamarind-Glazed Potatoes" /></a>

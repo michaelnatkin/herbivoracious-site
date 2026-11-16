@@ -42,10 +42,10 @@ recipe:
     - "Cook uncovered over medium-low heat for about 15 minutes, until the sauce begins to thicken. Taste and adjust seasoning. Does it need more salt? More lemon juice? A bit more cayenne?"
     - "Finish for the texture you want - you can see how I like it in the picture. Then in a separate small skillet, heat the last tablespoon of oil over high heat and fry the mustard seeds until they pop, just a few seconds. This is called tempering, and it is a great way to add a final layer of flavor. Toss the contents of that skillet over the chickpeas and serve, with the cilantro for garnish."
 ---
-<p>Chana masala (spicy chickpeas) is one of those ten dishes you will find at pretty much every Indian restaurant in America. You can understand why: it is inexpensive, delicious, healthy and satisfying. The mass prepared versions are usually pretty good, but you can make a similar dish at home and enjoy fresher, more vibrant flavors.</p>
+<p>Chana masala (spicy chickpeas) is one of those 10 dishes you find at pretty much every Indian restaurant in America. It’s easy to understand why: it is inexpensive, delicious, healthy, and satisfying. The mass-prepared versions are usually pretty good, but you can make the dish at home and enjoy fresher, more vibrant flavors.</p>
 <p>If you have the ingredients on hand and use canned chickpeas, you can make this chana masala in just 30 minutes. I find that canned chickpeas are often undercooked and a little crunchy, so if I go that route, the first thing I do is put them on to simmer while I prepare everything else.</p>
 <p>The mushrooms add a little textural counterpoint without being a main focus of the dish. You can certainly omit them or use a different vegetable to suit your needs.</p>
-<p>There are a lot of spices in this recipe, so to help you stay organized and efficient, we’ll gather everything into three separate bowls before starting to cook the curry.</p>
+<p>There are a lot of spices in this recipe, so to stay organized and efficient, gather everything into three separate bowls before starting to cook the curry.</p>
 
 
 <a href="/images/cookbook/chana-mushroom-masala-2.webp"><img src="/images/cookbook/chana-mushroom-masala-2.webp" alt="Chana Mushroom Masala" /></a>

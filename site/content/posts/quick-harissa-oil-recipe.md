@@ -23,8 +23,8 @@ recipe:
 ---
 
 <p>Harissa is the classic spice paste of North Africa, used in stews, as a rub, and as a condiment at the table. Oil infused with harissa is terrific for grilling vegetables, and I also like it drizzled on soups, such as the Red Lentil and Kabocha Squash soup on . You can also use a small amount of this oil to spice up a vinaigrette for dressing salads or dipping bread.</p>
-<p>If you happen to have harissa paste, you can make harissa oil by just pureeing the paste with olive oil and straining. If not, you can make it a quick approximation using the recipe below. It will keep in the refrigerator for a few days.</p>
-<p>Sumac is a bright red powder with a mild tangy flavor. Check a Middle Eastern market or online retailer to find it.</p>
+<p>If you happen to have harissa paste, you can make harissa oil by simply pureeing the paste with olive oil and straining. If not, you can make a quick approximation using the recipe below. It will keep in the refrigerator for a few days.</p>
+<p>Sumac is an intensely maroon powder with a mild tangy flavor. Look for it at a Middle Eastern market or online retailer.</p>
 
 <div class="recipe-card">
 <p><strong>Quick Harissa Oil</strong>

@@ -19,7 +19,7 @@ recipe:
     - "When the blueberries have started to break down, dip a spoon in the sauce, allow it to cool, and see if it is thick enough, somewhere between syrup and jam. If not, check again every 5 minutes until you are satisfied. Remove from heat and transfer to a small bowl. Serve immediately for hot applications, or cool in the refrigerator. It will keep for several days."
 ---
 
-<p>I first came up with this sauce to serve with the manouri cheese blintzes on , but it is equally amazing on vanilla ice cream, cheesecake or cornmeal pancakes. The key is to find the right amount of rosemary to create an interesting balance with the fruit, without overpowering it.</p>
+<p>I first came up with this sauce to serve with Manouri Cheese Blintzes, but it is equally amazing on vanilla ice cream, cheesecake, or cornmeal pancakes. The key is using the right amount of rosemary to create an interesting balance without overpowering the fruit.</p>
 
 <div class="recipe-card">
 <p><strong>Rosemary-Blueberry Sauce</strong>

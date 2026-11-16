@@ -34,7 +34,7 @@ recipe:
     - "Two minutes before you are ready to serve, add the corn kernels and the remaining tablespoon of fresh ginger. Divide into bowls over rice, finish with several grinds of black pepper and some torn or cut leaves of parsley and bring to the table immediately."
 ---
 <p>This West African-style stew, redolent with ginger and black pepper, is great made with tiny eggplants, just a little bigger than a golf ball. You may find them at a farmer’s market in late summer, or at a store that specializes in Thai or Indian ingredients. Otherwise, use a regular globe eggplant and just cut it into bite-sized pieces.</p>
-<p>For a richer variation, you can mix ½ cup of unsweetened peanut butter or sunflower butter into the broth, or add ½ cup of shelled, roasted peanuts.</p>
+<p>For a richer variation, you can mix ½ cup of unsweetened peanut butter or sunflower butter into the broth or add ½ cup of shelled, roasted peanuts. This version especially reminds of stews I used to eat at my favorite Nigerian restaurant in Providence, Rhode Island.</p>
 <p>Serve this stew over a bowl of rice for a satisfying one-dish meal.</p>
 
 

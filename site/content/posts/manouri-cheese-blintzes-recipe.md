@@ -38,8 +38,8 @@ recipe:
     - "Serve them forth with sour cream and brown sugar or the rosemary-blueberry sauce."
 ---
 <p>These blintzes are a fair bit of work, but much of it can be done ahead, which makes them ideal when you are having friends over for brunch. You can make the pancakes, fill them and roll them, then refrigerate until you are ready to fry them in butter and serve them up.  Blintzes are very forgiving to make because they don’t need to be as thin as crepes, and rolling the pancakes up hides any little imperfections.</p>
-<p>Manouri cheese is a sheep’s milk cheese from Greece, with a sweet clean, dairy taste and texture very similar to a drained ricotta. If you can’t get your hands on it, use ricotta and reduce or eliminate the milk.</p>
-<p>You can serve these crepes with sour cream and brown sugar, or for an extra-special touch, offer the rosemary-blueberry sauce on .</p>
+<p>Manouri cheese is a sheep’s milk cheese from Greece, with a sweet, clean, dairy taste and texture very similar to drained ricotta. If you can’t get your hands on it, use ricotta and reduce or eliminate the milk in the recipe.</p>
+<p>Serve them forth with sour cream and brown sugar or Rosemary-Blueberry Sauce.</p>
 
 
 <a href="/images/cookbook/manouri-cheese-blintzes-2.webp"><img src="/images/cookbook/manouri-cheese-blintzes-2.webp" alt="Manouri Cheese Blintzes" /></a>

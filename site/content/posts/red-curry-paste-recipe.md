@@ -28,9 +28,9 @@ recipe:
     - "Add the seeds and all of the remaining ingredients to the blender. Puree for several minutes, stopping occasionally to scrape down the sides and top. If needed, add a little more water to get the paste to come together."
 ---
 
-<p>There is nothing wrong with making curries using pre-packaged pastes, but making curry paste from scratch is addictive; the volatile aroma and flavor is at a completely different level.</p>
+<p>There is nothing wrong with using pre-packaged pastes, but making curry paste from scratch is easy and addictive, and the aroma and flavor of your curries will be at a completely different level.</p>
 <p>This version of a red curry paste originated with my friend Ivy Manning, who writes wonderful cookbooks. I’ve changed it only a bit, to use ingredients I most often have on hand.</p>
-<p>The great thing is, this recipe makes more paste than you will probably use in a single meal. Freeze the excess and you will have the beginning of two or three great dishes waiting for you at a moment's notice, like the Red Curry Delicata Squash on  or the Red Curry Fried Rice on .</p>
+<p>This recipe makes more paste than you will probably use in a single meal. Freeze the excess and you will have the beginnings of two or three great dishes, such as Red Curry Delicata Squash or Red Curry Fried Rice, waiting for you at a moment’s notice.</p>
 
 <div class="recipe-card">
 <p><strong>Red Curry Paste</strong>

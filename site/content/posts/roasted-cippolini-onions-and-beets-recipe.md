@@ -26,7 +26,7 @@ recipe:
     - "Put the beets and onions in a roasting pan large enough to hold them in a single layer. Toss with the extra-virgin olive oil. Whisk together the vinegar, olive oil, salt, sugar and several grinds of fresh-ground black pepper. Pour this mixture over the vegetables and toss again."
     - "Roast, tossing occasionally until the vegetables are completely tender and caramelizing in spots, 45 minutes to 1 hour. Taste and add salt if needed. Serve hot or warm."
 ---
-<p>A slightly sweet and sour dressing (agrodolce as the Italians call it) elevates this simple side dish of roasted onions and beets. They go great with a savory tart, as a garnish on a plate of couscous, or over a sharp bitter green such as escarole.</p>
+<p>A slightly sweet-and-sour dressing (agrodolce, as the Italians call it) elevates this simple side dish of roasted onions and beets. It goes well with a savory tart, as a garnish on a plate of couscous, or over a sharp bitter green such as escarole.</p>
 <p>Cippolini are small, rather flat onions that you can find at farmers markets or Italian or gourmet grocers. Don’t confuse them with pearl onions, which are too small for this dish. You can also make this dish with golden beets, in which case use white wine vinegar instead of red so as not to ruin their color.</p>
 
 <div class="recipe-card">

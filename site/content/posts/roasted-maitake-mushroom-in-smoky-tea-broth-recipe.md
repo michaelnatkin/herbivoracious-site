@@ -30,8 +30,8 @@ recipe:
     - "When the mushrooms are ready, place one portion in each bowl. Place the bok choy dice around the maitake. Reheat the tea in the microwave and divide among the 4 bowls. Garnish each bowl with a drizzle of toasted sesame oil, a pinch of flaky sea salt, and the green onions. Serve piping hot."
 ---
 <p>Maitake mushrooms are very popular in Japan. In the US, they are known as Hen-of-the-woods (not to be confused with chicken-of-the-woods, which is completely different!). Maitakes are rather expensive and unique, so when I use them, I like to make them the focus of a dish.</p>
-<p>If you have never had {{% product id="taylors-of-harrogate-lapsang-souchong-loose" %}}lapsang souchong tea{{% /product %}}, you are in for a treat. It is intensely smoky, unlike any other tea I’ve had. That smokiness makes a perfect broth base to show off the earthiness of roasted maitakes.</p>
-<p>You could cut the maitake up into bite sized pieces, but this dish is more dramatic when the mushroom is served in larger piece, and it also keeps the mushroom from getting soggy. Give the guests a knife to cut it at the last moment.</p>
+<p>If you have never had {{% product id="taylors-of-harrogate-lapsang-souchong-loose" %}}lapsang souchong tea{{% /product %}}, you are in for a treat. It is intensely smoky, unlike any other tea I’ve had. That smokiness makes it a perfect broth base to show off the earthiness of roasted maitakes.</p>
+<p>You could cut the maitake up into bite-sized pieces, but this dish is more dramatic when the mushroom is served in larger pieces—which also keeps it from getting soggy. Give guests a knife so they can cut the maitake at the last moment.</p>
 
 
 <a href="/images/cookbook/roasted-maitake-mushroom-in-smoky-tea-broth-2.webp"><img src="/images/cookbook/roasted-maitake-mushroom-in-smoky-tea-broth-2.webp" alt="Roasted Maitake Mushroom in Smoky Tea Broth" /></a>

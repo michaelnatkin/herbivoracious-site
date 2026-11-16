@@ -26,14 +26,15 @@ recipe:
     - "To serve, make a small mound of the dressed artichoke on each plate. Try to keep it centered and as high and fluffy as possible for a nice presentation. Garnish with the orange supremes, chives, flaky sea salt and fresh ground pepper and serve immediately."
 ---
 <p>Artichokes are almost always served cooked, but they can be delicious raw as well. They taste like a slightly astringent root vegetable. A lemony vinaigrette and shards of Parmigiano-Reggiano make for a nice treatment, or try this recipe, with a mayonnaise-based dressing that yields a salad reminiscent of celery root remoulade.</p>
-<p>To prevent the artichoke from browning, prepare the dressing first so that you can toss the shaved vegetable in it immediately. It is possible to make this salad with a knife, but a mandoline will give you thinner, better slices.</p>
-<p>Blood oranges are in season in the winter months. If you can’t find them, any other orange will work as well, you’ll only be missing the visual interest of the bright red segments. To learn how to cut citrus supremes</p>
-<p>[[box:</p>
-<p>Cutting Citrus Supremes</p>
-<p>A supreme is nothing more than a citrus segment that is free of any membrane or white pith. They are beautiful to look at, and the taste is more intense than a regular segment. They aren’t difficult to make but it takes a little practice to learn the knife technique. (Please only attempt this if you feel comfortable! If you are concerned about injuring yourself, just use intact peeled segments instead.)</p>
+<p>To prevent the artichoke from browning, prepare the dressing first so that you can toss the shaved artichoke in it immediately. It is possible to make this salad with a knife, but a mandoline will give you thinner, more even slices.</p>
+<p>Blood oranges are in season in the winter months. If you can’t find them, any other orange will work as well; you’ll only be missing the visual interest of the bright red segments.</p>
+<aside class="side-note">
+<h3>Cutting Citrus Supremes</h3>
+<p>A supreme (pronounced soo-prehm) is nothing more than a citrus segment that is free of any membrane or white pith. Supremes are beautiful to look at, and the taste is more intense than a regular segment. They aren’t difficult to make, but it takes a little practice to learn the knife technique. (Please attempt this only if you feel comfortable! If you are concerned about injuring yourself, just use intact peeled segments instead.)</p>
 <p>First, slice off the top and bottom ½” of the fruit. Set the fruit on your cutting board, and use your knife to trim off the all of the skin, cutting from top to bottom following the contour. Trim off any bits of pith that remain.</p>
 <p>Hold the peeled fruit in your hand over a bowl (to catch the juices). Take your knife and slice in on both sides of a segment, as close as possible to the membrane. If the segment doesn’t fall right out, a little twist of the knife at the end of the second cut should remove it. Rotate the fruit to the next segment and repeat.</p>
-<p>When you are done, you’ll have extracted all of the segments, which are now sitting in a little puddle of juice. Squeeze the remaining peel and membrane pieces to extract the rest of the juice. ]]</p>
+<p>When you are done, you’ll have extracted all of the segments, which are now sitting in a little puddle of juice. Squeeze the peel and membrane pieces to extract the rest of the juice.</p>
+</aside>
 
 
 <a href="/images/cookbook/shaved-artichoke-salad-with-blood-oranges-2.webp"><img src="/images/cookbook/shaved-artichoke-salad-with-blood-oranges-2.webp" alt="Shaved Artichoke Salad with Blood Oranges" /></a>
