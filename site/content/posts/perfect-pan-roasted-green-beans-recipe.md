@@ -61,7 +61,7 @@ Once you've got your caramelized green beans, you can either stop right there an
 </div>
 
 <div class="faq">
-<h2>Quick answers</h2>
+<h2>Frequently asked questions</h2>
 <h3>How long do you microwave green beans?</h3>
 <p>About 2 minutes in total in the author's microwave. Microwave covered on high for 1 minute, toss, and repeat in bursts of a minute or less until the beans are a brighter green but still noticeably firm.</p>
 <h3>Why microwave green beans before roasting them?</h3>

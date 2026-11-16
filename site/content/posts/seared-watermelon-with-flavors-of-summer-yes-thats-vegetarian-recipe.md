@@ -26,7 +26,6 @@ recipe:
     - "Heat a saute pan over very high heat. Add the olive oil, and when it is smoking hot, add the watermelon. Be careful, there will be some spattering when the wet melon meets the oil, and I've also seen it flame up. Cook, pressing occasionally with a long, heavy spatula to compress, until the melon is well-seared on one side, about 3 minutes. Flip and repeat on the other side."
     - "Remove the watermelon. Pour excess oil out of the pan. Return the pan to the heat and deglaze with the watermelon juice, reducing it a bit but not to a syrup; we are looking for a jus-like consistency. Drizzle the jus on serving plates and place a piece of watermelon atop the jus."
     - "Garnish each piece with a small amount of the olive paste, a few kernels of dehydrated corn, a few of the chive flowers, rosemary flowers, and oregano tips, and a final sprinkle of Maldon (aka the world's greatest salt) . Serve warm."
-seo_title: "How to Cook Watermelon: Seared Watermelon Recipe"
 ---
 
 A few days ago I was surfing my RSS reader for a few minutes before bed, when <a href="http://blog.ideasinfood.com/ideas_in_food/2011/06/breast-of-watermelon.html" target="_blank">this post from Alex and Aki</a> hit me like a <strong>ton of bricks</strong>. I've seen compressed watermelon before, but I don't think I've ever given any thought to searing it. Genius. I had to try this immediately, and fortunately I had a cut-up watermelon already in the refrigerator.
@@ -59,7 +58,7 @@ Hands down my favorite part of the garnish was the {{% product id="freeze-dried-
 </div>
 
 <div class="faq">
-<h2>Quick answers</h2>
+<h2>Frequently asked questions</h2>
 <h3>How do you cook watermelon?</h3>
 <p>Sear it. Heat a sauté pan over very high heat with olive oil until smoking hot, add 1-inch-thick squares of seedless watermelon, and press down with a long, heavy spatula to compress them. Cook about 3 minutes per side until well seared.</p>
 <h3>Why does seared watermelon brown if it's so wet?</h3>

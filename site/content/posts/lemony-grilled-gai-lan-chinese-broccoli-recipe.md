@@ -62,7 +62,7 @@ recipe:
 </div>
 
 <div class="faq">
-<h2>Quick answers</h2>
+<h2>Frequently asked questions</h2>
 <h3>What is gai lan?</h3>
 <p>Gai lan is Chinese broccoli. It has stems about as thick as asparagus, tasty leaves that crisp on the grill, and small budding tops that look like American broccoli. It is widely available at Asian markets.</p>
 <h3>What can I use instead of gai lan?</h3>

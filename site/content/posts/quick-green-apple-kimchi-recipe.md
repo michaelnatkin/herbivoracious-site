@@ -52,7 +52,7 @@ Yields about 3 cups </em>
 </div>
 
 <div class="faq">
-<h2>Quick answers</h2>
+<h2>Frequently asked questions</h2>
 <h3>Is green apple kimchi fermented?</h3>
 <p>No. This quick "kimchi" has no fermentation at all. It is just crisp green apple tossed with gochugaru, ginger, onion, salt and a little rice vinegar.</p>
 <h3>How long does quick green apple kimchi keep?</h3>

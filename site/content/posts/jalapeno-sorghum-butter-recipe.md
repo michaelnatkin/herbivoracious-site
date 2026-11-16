@@ -26,7 +26,7 @@ recipe:
 </div>
 
 <div class="faq">
-<h2>Quick answers</h2>
+<h2>Frequently asked questions</h2>
 <h3>What is sorghum butter?</h3>
 <p>A compound butter made by kneading sorghum syrup into softened butter. This version also has finely diced jalapeño and a pinch of sea salt, and it was made to go on cornbread.</p>
 <h3>How do you make sorghum butter?</h3>

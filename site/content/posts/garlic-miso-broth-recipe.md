@@ -54,7 +54,7 @@ recipe:
 </div>
 
 <div class="faq">
-<h2>Quick answers</h2>
+<h2>Frequently asked questions</h2>
 <h3>What is garlic miso broth?</h3>
 <p>A quick, restorative broth of a whole head of garlic simmered in water, then whisked with red miso, tamari and toasted sesame oil. It is vegan and takes about 15 minutes.</p>
 <h3>Won't a whole head of garlic be too strong?</h3>

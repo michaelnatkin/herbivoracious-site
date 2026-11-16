@@ -102,7 +102,7 @@ Iceberg lettuce? <strong>I love iceberg lettuce. There, I said it.</strong> It i
 </div>
 
 <div class="faq">
-<h2>Quick answers</h2>
+<h2>Frequently asked questions</h2>
 <h3>What are Indian tacos?</h3>
 <p>Indian tacos are Navajo fry bread topped like a taco. Fry bread is much more filling than a corn tortilla, so one loaded with toppings makes a whole meal.</p>
 <h3>Where does fry bread come from?</h3>

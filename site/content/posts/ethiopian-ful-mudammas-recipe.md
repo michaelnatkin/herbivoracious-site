@@ -38,7 +38,7 @@ recipe:
 </div>
 
 <div class="faq">
-<h2>Quick answers</h2>
+<h2>Frequently asked questions</h2>
 <h3>What is Ethiopian ful?</h3>
 <p>Ethiopian ful is the national Ethiopian version of ful medames, a dish of fava beans eaten for breakfast or an early lunch. The beans are fully mashed, flavored with a little berbere, and served with crusty white rolls and garnishes like olive oil, green onions, feta, diced tomato, jalapeño and sliced hard-boiled egg.</p>
 <h3>What kind of beans do you use for ful?</h3>

@@ -83,7 +83,7 @@ Don't be afraid to stage in more than one place. <strong>Every kitchen you spend
 I hope this is helpful. If you've read this and still have questions, please leave a comment below and I'll do my best to answer. If you have staged in kitchens or work in them full time, and think I've got something wrong or left something out, same goes - please leave a comment!
 
 <div class="faq">
-<h2>Quick answers</h2>
+<h2>Frequently asked questions</h2>
 <h3>What is a stage in a restaurant?</h3>
 <p>A stage (pronounced stahzh, from French) is a temporary, unpaid kitchen internship where you work in a restaurant kitchen to learn. It is also what culinary students do on externships.</p>
 <h3>What restaurants take stages?</h3>

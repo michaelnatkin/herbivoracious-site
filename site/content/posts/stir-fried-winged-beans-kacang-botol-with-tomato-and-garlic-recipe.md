@@ -33,7 +33,7 @@ seo_title: "Kacang Botol (Winged Bean) Stir-Fry Recipe"
 </div>
 
 <div class="faq">
-<h2>Quick answers</h2>
+<h2>Frequently asked questions</h2>
 <h3>What is kacang botol in English?</h3>
 <p>Kacang botol is the winged bean. The pods are about 8 inches long with ruffled edges, somewhat crunchy like romaine, with a central seed pod a bit like a green bean.</p>
 <h3>Can you eat winged beans raw?</h3>

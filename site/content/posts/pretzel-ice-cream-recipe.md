@@ -66,7 +66,7 @@ Here's how I'm currently making it:
 </div>
 
 <div class="faq">
-<h2>Quick answers</h2>
+<h2>Frequently asked questions</h2>
 <h3>How do you make pretzel ice cream?</h3>
 <p>Infuse unsalted mini pretzels in cold milk, strain, mix with sugar and cream, and churn in an ice cream machine. It is a Philadelphia-style base with no eggs, so the pretzel flavor comes through and you can go straight from infusing to the machine.</p>
 <h3>Should I use salted or unsalted pretzels?</h3>

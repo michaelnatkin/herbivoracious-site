@@ -116,7 +116,7 @@ My version isn’t completely authentic; I skip making a second chili sauce (nam
 </div>
 
 <div class="faq">
-<h2>Quick answers</h2>
+<h2>Frequently asked questions</h2>
 <h3>What is khao soi?</h3>
 <p>Khao soi is an iconic dish from the Chiang Mai region of northern Thailand: soft egg noodles in a spicy coconut-milk broth with curry paste, topped with pickled cabbage or mustard greens, lime juice and crispy fried noodles.</p>
 <h3>How long does it take to make khao soi?</h3>
