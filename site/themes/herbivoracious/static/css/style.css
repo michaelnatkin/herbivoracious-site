@@ -721,7 +721,10 @@ a.as-seen-in:hover { text-decoration: none; }
   animation: fadeUp 0.5s var(--ease) 0.15s both;
 }
 
-.single-content p { margin-bottom: 1.3em; }
+/* Space paragraphs above as well as below. Posts migrated from WordPress sometimes leave bare text (no <p>) after a block of HTML;
+   that text can't take a margin, so the next <p> supplies the gap. Adjacent margins collapse, so ordinary paragraphs look the same. */
+.single-content p { margin-top: 1.3em; margin-bottom: 1.3em; }
+.single-content > p:first-child, .single-content li p, .single-content blockquote p:first-child { margin-top: 0; }
 
 .single-content img {
   margin: 20px 0;
