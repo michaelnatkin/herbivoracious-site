@@ -28,7 +28,7 @@ for i,s in enumerate(slugs):
     d=re.search(r'^description:\s*"(.*)"\s*$',fm,re.M).group(1).replace('\\"','"')
     if len(d)>260: d=d[:257].rsplit(' ',1)[0]+'…'
     OV={'khao-soi-thai-curry-noodles-from-chiang-mai':"Khao soi, the Thai curry noodle soup from Chiang Mai, made vegetarian with tofu in a rich coconut curry broth and topped with crispy fried noodles.",
-        'recipe-cranberr':"Cranberry (borlotti) beans cooked fool mudammas-style, the Egyptian way, as a hearty vegetarian bean dish with big flavor."}
+        'recipe-cranberr':"Cranberry (borlotti) beans cooked fool mudammas-style,, as a hearty vegetarian bean dish with big flavor."}
     desc=OV.get(s,d)+' Get the full vegetarian recipe at herbivoracious.com.'
     rows.append({"Title":r["Title"].replace('\\"','"')[:100],"Media URL":r["Media URL"],"Pinterest board":r["Pinterest board"],"Thumbnail":"","Description":desc,"Link":r["Link"],"Publish date":(start+dt.timedelta(days=i)).strftime("%Y-%m-%dT%H:%M:%S"),"Keywords":KW[s]})
 with open('batch3.csv','w',newline='') as f:
