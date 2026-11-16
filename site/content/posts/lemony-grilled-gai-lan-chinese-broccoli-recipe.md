@@ -74,3 +74,5 @@ recipe:
 <h3>Why does the gai lan need to be dry?</h3>
 <p>Dry it thoroughly before tossing it with the lemon and kochujang dressing so the dressing isn't diluted.</p>
 </div>
+
+<p class="related-link">Another way to get a caramelized char: <a href="/2013/09/perfect-pan-roasted-green-beans-recipe/">How to Cook Green Beans (Microwave, Then Roast)</a>.</p>

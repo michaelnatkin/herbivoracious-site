@@ -59,3 +59,17 @@ Once you've got your caramelized green beans, you can either stop right there an
 	<li>Transfer your beautifully caramelized green beans to a serving platter and finish with a drizzle of extra-virgin olive oil and a nice scattering of sea salt.</li>
 </ol>
 </div>
+
+<div class="faq">
+<h2>Quick answers</h2>
+<h3>How long do you microwave green beans?</h3>
+<p>About 2 minutes in total in the author's microwave. Microwave covered on high for 1 minute, toss, and repeat in bursts of a minute or less until the beans are a brighter green but still noticeably firm.</p>
+<h3>Why microwave green beans before roasting them?</h3>
+<p>Roasted green beans are hard to get right: high heat burns the outside before the inside is done, and low heat makes mush. Microwaving par-cooks the beans, and a quick sear in a very hot skillet then adds the caramelized spots. Splitting the two steps gives you control over each.</p>
+<h3>How long do you sear the beans?</h3>
+<p>About 3 minutes in a screaming-hot cast iron skillet with a couple of tablespoons of vegetable oil, tossing only occasionally, until many browned spots appear. Don't use a non-stick pan at these temperatures.</p>
+<h3>Does microwaving destroy nutrients?</h3>
+<p>The author notes that microwave radiation isn't nuclear radiation and that, used correctly, microwaving retains more nutrients than conventional cooking.</p>
+<h3>Does this work for other vegetables?</h3>
+<p>Yes. The same trick works with carrots, broccoli and small potatoes, and for stir-fries when you don't have a wok burner.</p>
+</div>

@@ -73,3 +73,5 @@ recipe:
 <li>Melt a little butter on the griddle and put in the first bread. Cook until lightly browned on the first side, about 1 ½ minutes, pushing down on the edges occasionally. You don’t want it to brown so much that it is crispy; the bread should remain soft. Turn and cook the other side, then remove to a plate, cover. Serve immediately or reheat if made in advance.</li>
 </ol>
 </div>
+
+<p class="related-link">Another filled bread: <a href="/2010/09/vegetarian-indian-tacos-recipe/">Vegetarian Indian Tacos with Navajo Fry Bread</a>.</p>

@@ -78,3 +78,5 @@ Here's how I'm currently making it:
 <h3>How much does the recipe make?</h3>
 <p>About 3 cups.</p>
 </div>
+
+<p class="related-link">More dessert: <a href="/2009/02/chocolate-eclairs/">Chocolate Eclairs</a>.</p>

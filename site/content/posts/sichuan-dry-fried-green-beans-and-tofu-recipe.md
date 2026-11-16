@@ -69,3 +69,5 @@ recipe:
 </div>
 
 <p class="related-link">Another green bean stir-fry: <a href="/2011/09/stir-fried-winged-beans-kacang-botol-with-tomato-and-garlic-recipe/">Winged Bean (Kacang Botol) Stir-Fry</a>.</p>
+
+<p class="related-link">Green beans, dry-fried: <a href="/2013/09/perfect-pan-roasted-green-beans-recipe/">How to Cook Green Beans (Microwave, Then Roast)</a>.</p>

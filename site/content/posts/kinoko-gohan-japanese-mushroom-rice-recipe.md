@@ -61,3 +61,5 @@ Although the dish is primarily about fresh mushrooms, I also use a few dried shi
 </ol>
 </div>
 </div>
+
+<p class="related-link">More Japanese comfort food: <a href="/2011/02/garlic-miso-broth-recipe/">Garlic Miso Broth</a>.</p>

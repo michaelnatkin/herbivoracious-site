@@ -1,5 +1,6 @@
 ---
 title: "Khao Soi - Thai Curry Noodles from Chiang Mai"
+seo_title: "Vegetarian Khao Soi Recipe (Thai Curry Noodles)"
 description: "Khao soi, Thai curry noodles from Chiang Mai, one of the author's favorite recipes from the Herbivoracious cookbook."
 date: 2013-04-30T06:00:36
 slug: "khao-soi-thai-curry-noodles-from-chiang-mai"
@@ -112,4 +113,16 @@ My version isn’t completely authentic; I skip making a second chili sauce (nam
 <ol>
   <li>Drain and squeeze most of the liquid out of the pickled vegetable. Boil the noodles according to the package directions; cook until they are tender but still have a bit of bite. Drain and divide among the serving bowls. Top each serving of noodles with one-quarter of the sauce and tofu, a squeeze of lime juice, a handful of the pickled vegetable, one-quarter of the crispy noodles, and a few cilantro leaves. Serve immediately, passing the thinly sliced shallots, remaining limes, and curry paste for each diner to apply.</li>
 </ol>
+</div>
+
+<div class="faq">
+<h2>Quick answers</h2>
+<h3>What is khao soi?</h3>
+<p>Khao soi is an iconic dish from the Chiang Mai region of northern Thailand: soft egg noodles in a spicy coconut-milk broth with curry paste, topped with pickled cabbage or mustard greens, lime juice and crispy fried noodles.</p>
+<h3>How long does it take to make khao soi?</h3>
+<p>About 1 hour: 20 minutes of prep and 40 minutes of cooking.</p>
+<h3>How much fried tofu do I need?</h3>
+<p>It depends on the type. Use about 1 1/2 pounds if it has a deep-fried skin and is dense inside, or about 3/4 pound if it is light and pillowy all the way through. It should be a soup with about eight bites of tofu, not just tofu glazed with sauce.</p>
+<h3>Is this khao soi authentic?</h3>
+<p>Not completely. The author skips the second chili sauce (nam prik pao) used as a garnish and simply passes more curry paste for those who want more heat.</p>
 </div>

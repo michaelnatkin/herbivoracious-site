@@ -52,3 +52,15 @@ recipe:
 <li>Ladle into serving bowls, add the tofu puffs if using, sprinkle on a few green onion slices and serve immediately.</li>
 </ol>
 </div>
+
+<div class="faq">
+<h2>Quick answers</h2>
+<h3>What is garlic miso broth?</h3>
+<p>A quick, restorative broth of a whole head of garlic simmered in water, then whisked with red miso, tamari and toasted sesame oil. It is vegan and takes about 15 minutes.</p>
+<h3>Won't a whole head of garlic be too strong?</h3>
+<p>No. Because the garlic is simmered rather than fried, its flavor mellows into a sweetness that blends easily with the miso.</p>
+<h3>Should I boil the broth after adding the miso?</h3>
+<p>No. Turn off the heat before whisking in the miso, then reheat gently without boiling after straining.</p>
+<h3>How can I make it more filling?</h3>
+<p>Add deep-fried tofu puffs (available at Asian groceries) or thinly sliced vegetables, though the author prefers the austere, fortifying broth. You can also use 2 or 3 tablespoons of miso instead of 1.</p>
+</div>

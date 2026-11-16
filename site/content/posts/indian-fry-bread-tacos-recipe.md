@@ -90,3 +90,5 @@ recipe:
 <li>Put a fry bread on each plate, and top with generous portions of beans, the squash saute cheese, onion, tomatoes, lettuce, guacamole and salsa. Serve immediately.</li>
 </ol>
 </div>
+
+<p class="related-link">Related: <a href="/2010/09/vegetarian-indian-tacos-recipe/">Vegetarian Indian Tacos with Navajo Fry Bread</a>.</p>

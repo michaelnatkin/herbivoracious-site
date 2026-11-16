@@ -100,3 +100,15 @@ Iceberg lettuce? <strong>I love iceberg lettuce. There, I said it.</strong> It i
  	<li>Put a fry bread on each plate, and top with generous portions of beans, the squash saute cheese, onion, tomatoes, lettuce, guacamole and hot sauce. Serve immediately.</li>
 </ol>
 </div>
+
+<div class="faq">
+<h2>Quick answers</h2>
+<h3>What are Indian tacos?</h3>
+<p>Indian tacos are Navajo fry bread topped like a taco. Fry bread is much more filling than a corn tortilla, so one loaded with toppings makes a whole meal.</p>
+<h3>Where does fry bread come from?</h3>
+<p>It originated in Native American internment camps set up by the US government in the 1860s, as a way to use the very limited rations provided. Today fry bread and Indian tacos are a proud part of the culture and are served at virtually every pow-wow.</p>
+<h3>How do I keep fry bread tender?</h3>
+<p>Don't knead the dough any more than is needed to bring it together, and fry it until just medium golden brown. Using 1/3 pastry flour can help if your all-purpose flour is high in gluten.</p>
+<h3>What toppings go on vegetarian Indian tacos?</h3>
+<p>Pinto beans, a spicy sauté of summer squash, poblano peppers and corn, guacamole, cheddar, onions, cherry tomatoes, iceberg lettuce and a homemade hot sauce.</p>
+</div>
