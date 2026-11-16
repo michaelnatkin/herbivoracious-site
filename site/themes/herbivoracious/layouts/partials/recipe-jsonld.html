@@ -4,7 +4,19 @@
 {{- $recipe := dict "@context" "https://schema.org" "@type" "Recipe" -}}
 {{- $recipe = merge $recipe (dict "name" $name) -}}
 {{- $recipe = merge $recipe (dict "description" $desc) -}}
-{{- $recipe = merge $recipe (dict "author" (dict "@type" "Person" "name" .Site.Params.author)) -}}
+{{- $recipe = merge $recipe (dict "author" (dict "@type" "Person" "name" .Site.Params.author "url" (absURL "about/"))) -}}
+{{- $recipe = merge $recipe (dict "publisher" (dict "@type" "Organization" "name" .Site.Title "url" .Site.BaseURL)) -}}
+{{- $recipe = merge $recipe (dict "mainEntityOfPage" .Permalink) -}}
+{{- with .Lastmod }}{{ if .After $.Date }}{{ $recipe = merge $recipe (dict "dateModified" (.Format "2006-01-02")) }}{{ end }}{{ end -}}
+{{- $kw := slice -}}{{- range .Params.categories }}{{ if not (in (slice "Recipes" "Main Courses" "Vegan or Modifiable" "Gluten-Free or Modifiable") .) }}{{ $kw = $kw | append (lower .) }}{{ end }}{{ end -}}
+{{- range .Params.tags }}{{ $kw = $kw | append (lower .) }}{{ end -}}
+{{- $kw = $kw | append "vegetarian" -}}{{- if in .Params.categories "Vegan or Modifiable" }}{{ $kw = $kw | append "vegan" }}{{ end -}}
+{{- $recipe = merge $recipe (dict "keywords" (delimit ($kw | uniq) ", ")) -}}
+{{- $tl := lower $name -}}
+{{- $cuisines := dict "kimchi" "Korean" "bibimbap" "Korean" "mandu" "Korean" "korean" "Korean" "gochujang" "Korean" "japanese" "Japanese" "sushi" "Japanese" "ramen" "Japanese" "onigiri" "Japanese" "gohan" "Japanese" "thai" "Thai" "khao soi" "Thai" "indian" "Indian" "dal" "Indian" "paneer" "Indian" "masala" "Indian" "chana" "Indian" "saag" "Indian" "chinese" "Chinese" "szechuan" "Chinese" "sichuan" "Chinese" "mapo" "Chinese" "risotto" "Italian" "gnocchi" "Italian" "bruschetta" "Italian" "ethiopian" "Ethiopian" "mexican" "Mexican" "taco" "Mexican" "enchilada" "Mexican" "tamale" "Mexican" "greek" "Greek" "tzatziki" "Greek" "ratatouille" "French" "moroccan" "Moroccan" "tagine" "Moroccan" "middle eastern" "Middle Eastern" "hummus" "Middle Eastern" "falafel" "Middle Eastern" "mujadara" "Middle Eastern" "latke" "Jewish" "vietnamese" "Vietnamese" "pho" "Vietnamese" "spanish" "Spanish" "paella" "Spanish" -}}
+{{- $hits := slice -}}{{- range $k, $v := $cuisines }}{{ if findRE (printf "\\b%s" $k) $tl }}{{ $hits = $hits | append $v }}{{ end }}{{ end -}}
+{{- $hits = $hits | uniq -}}{{- if eq (len $hits) 1 }}{{ $.Scratch.Set "cuisine" (index $hits 0) }}{{ end -}}
+{{- with .Scratch.Get "cuisine" }}{{ $recipe = merge $recipe (dict "recipeCuisine" .) }}{{ end -}}
 {{- $recipe = merge $recipe (dict "datePublished" (.Date.Format "2006-01-02")) -}}
 {{- $recipe = merge $recipe (dict "url" .Permalink) -}}
 {{- with .Params.cover }}{{ with .image }}{{ $recipe = merge $recipe (dict "image" (. | absURL)) }}{{ end }}{{ end -}}

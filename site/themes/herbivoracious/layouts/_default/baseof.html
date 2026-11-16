@@ -6,6 +6,9 @@
   <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ with .Params.seo_title }}{{ . }}{{ else }}{{ .Title }}{{ end }} | {{ .Site.Title }}{{ end }}</title>
   <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
   <meta name="author" content="{{ .Site.Params.author }}">
+  {{- if .Params.noindex }}
+  <meta name="robots" content="noindex, follow">
+  {{- end }}
   <link rel="canonical" href="{{ .Permalink }}">
   <link rel="alternate" type="application/rss+xml" href="{{ "index.xml" | absURL }}" title="{{ .Site.Title }}">
   <meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ with .Params.seo_title }}{{ . }}{{ else }}{{ .Title }}{{ end }}{{ end }}">
