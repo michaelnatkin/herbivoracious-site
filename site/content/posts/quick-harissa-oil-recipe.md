@@ -45,3 +45,19 @@ recipe:
 <li>Puree all of the ingredients with a stick blender or a mini-food processor. Strain through a fine sieve and the oil is ready to use.</li>
 </ol>
 </div>
+
+<div class="faq"><h2>Frequently asked questions</h2>
+
+<h3>What is harissa oil?</h3>
+<p>Harissa is the classic spice paste of North Africa, used in stews, as a rub and as a table condiment. Harissa oil is olive oil infused with those flavors, which is terrific for grilling vegetables.</p>
+
+<h3>How do you use harissa oil?</h3>
+<p>Drizzle it on soups such as red lentil and kabocha squash soup, use it on grilled vegetables, or use a small amount to spice up a vinaigrette or for dipping bread.</p>
+
+<h3>How do you make harissa oil?</h3>
+<p>If you have harissa paste, puree it with olive oil and strain. If not, warm olive oil with Sriracha, chile flakes, cumin, caraway, coriander, sumac and garlic over low heat for about 5 minutes without letting the spices sizzle, then puree and strain through a fine sieve.</p>
+
+<h3>How long does it keep, and what is sumac?</h3>
+<p>It keeps in the refrigerator for a few days, and the recipe makes about 5 tablespoons. Sumac is a bright red powder with a mild tangy flavor, found at Middle Eastern markets or online.</p>
+
+</div>

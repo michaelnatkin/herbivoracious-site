@@ -24,3 +24,19 @@ recipe:
 </div>
 
 <p class="related-link">More easy banchan: <a href="/2012/09/quick-green-apple-kimchi-recipe/">Quick Green Apple Kimchi</a>.</p>
+
+<div class="faq"><h2>Frequently asked questions</h2>
+
+<h3>What is banchan?</h3>
+<p>Banchan are the small side dishes served in the middle of the table at a Korean meal for everyone to share. They are usually chilled or at room temperature, and many can be made in just a few minutes.</p>
+
+<h3>Which banchan are in this post?</h3>
+<p>Bean sprouts with sesame oil, squash in sweet soy sauce (delicata squash, though sweet potato works too), and spicy stir-fried zucchini with gochujang. All three are vegan.</p>
+
+<h3>What do you serve banchan with?</h3>
+<p>Korean or Korean-inspired dishes such as mandu (Korean potstickers), a tofu and kimchi bowl, vegetarian japchae and kimchi stew.</p>
+
+<h3>How long does it take to make them?</h3>
+<p>Each one takes only minutes: the bean sprouts are blanched for 90 seconds, and the zucchini is stir-fried for about 1 minute. Chill them before serving.</p>
+
+</div>

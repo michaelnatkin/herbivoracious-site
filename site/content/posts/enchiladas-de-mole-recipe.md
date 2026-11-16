@@ -99,3 +99,19 @@ This recipe will make a lot more mole than you need for 12 enchiladas, but you m
   <li>Thin the mole a little with broth (or water), to a saucy consitency, and make sure it is piping hot. Ladle a generous amount over each plate, top with a few rings of white onion and a scattering of cotija, and serve immediately.</li>
 </ol>
 </div>
+
+<div class="faq"><h2>Frequently asked questions</h2>
+
+<h3>Is homemade mole hard to make?</h3>
+<p>Traditional mole can have up to 36 ingredients, each individually ground and toasted over days. But you can make a basic version that is about 90 percent as tasty in an hour.</p>
+
+<h3>What dried chilies do I need?</h3>
+<p>Pasilla and ancho peppers. They are found in many well-stocked groceries these days, but much less expensive at Mexican markets.</p>
+
+<h3>How do you make the enchiladas?</h3>
+<p>Using the more traditional stovetop method: fry each tortilla briefly, fill it with the hot mushroom and zucchini filling, and ladle plenty of hot mole over each plate. You can also roll them all up and heat them in the oven, but the tortillas can get soggy.</p>
+
+<h3>How long does the mole keep?</h3>
+<p>The recipe makes a lot more mole than you need for 12 enchiladas. It will keep for a few days in the refrigerator.</p>
+
+</div>

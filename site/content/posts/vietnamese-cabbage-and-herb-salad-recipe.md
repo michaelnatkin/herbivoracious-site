@@ -75,3 +75,19 @@ The way I've written this, it is meant to be an appetizer or side-dish salad; th
   <li>To serve, transfer the salad to platter. Garnish with the remaining fried shallots and peanuts.</li>
 </ol>
 </div>
+
+<div class="faq"><h2>Frequently asked questions</h2>
+
+<h3>What is a goi?</h3>
+<p>Gói is a fairly common style of Vietnamese cabbage salad. What makes the version at Ba Bar in Seattle great, and this recipe too, is copious quantities of meticulously fried, savory shallots playing against fresh herbs and crunchy cabbage.</p>
+
+<h3>How do you fry shallots without burning them?</h3>
+<p>Start with enough oil to cover the shallots at a low frying temperature, about 260 degrees F (126 degrees C), rather than the 360 degrees F you would use for a fritter. A tip from Grant Crilly at ChefSteps gave me perfectly even shallots.</p>
+
+<h3>What do you do with the shallot oil?</h3>
+<p>Reserve it. Whisk some into the dressing with lime juice or rice vinegar, sugar, soy sauce, ginger and garlic.</p>
+
+<h3>What is in the salad?</h3>
+<p>Green cabbage, mixed Vietnamese herbs, pan-fried extra-firm tofu, crispy shallots and toasted crushed peanuts.</p>
+
+</div>

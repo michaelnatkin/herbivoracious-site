@@ -70,3 +70,19 @@ recipe:
 <li>Repeat for the remaining crepes. Serve a big pile of the lettuce and herbs either on a communal plate or individually, and with individual bowls of the Vegetarian Nước chấm.</li>
 </ol>
 </div>
+
+<div class="faq"><h2>Frequently asked questions</h2>
+
+<h3>What is banh xeo?</h3>
+<p>Banh xeo is a Vietnamese crepe. This vegan version is crispy outside and soft inside, flavored with mushrooms and onions, and filled with a big pile of bean sprouts. You tear off a piece, wrap it in lettuce and fresh herbs and dip it in vegetarian nuoc cham.</p>
+
+<h3>What is the secret to a good banh xeo?</h3>
+<p>Cut the mushrooms, tofu and onions very small and thin so they do not break up the surface of the crepe too much, and cook until crispy. Do not be discouraged if your first one is ugly. Even the unlovely ones are delicious.</p>
+
+<h3>What flour do you use?</h3>
+<p>Rice flour, but not sweet rice flour, whisked with coconut milk, green onions, turmeric and salt.</p>
+
+<h3>How many does it serve?</h3>
+<p>The recipe makes 6 crepes. One crepe with all the fixings is most of a light meal, or cut them in half for appetizer portions.</p>
+
+</div>

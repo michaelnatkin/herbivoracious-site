@@ -71,3 +71,19 @@ Oh, and you should absolutely check out Danny's book, {{% product id="mission-st
 	<li>Quickly, transfer to a serving bowl (or individual bowls), garnish with the green onion, and serve. Warn guests not to eat the chili pods!</li>
 </ol>
 </div>
+
+<div class="faq"><h2>Frequently asked questions</h2>
+
+<h3>What inspired this tofu dish?</h3>
+<p>The vegetarian version of Stir Fried Pork Jowl and Radishes with Fermented Black Bean, Shiso, and Mint, which I ate at Mission Chinese Food's New York location. It is more like a bowl of lightly thickened, flavorful broth than a typical saucy stir-fry.</p>
+
+<h3>How much shiso do you use?</h3>
+<p>About 20 leaves of shiso, along with radishes, zucchini, tofu, green onions and whole small red chili pods.</p>
+
+<h3>Can you eat the chili pods?</h3>
+<p>Warn your guests not to eat the whole chili pods.</p>
+
+<h3>Is it vegan and gluten-free?</h3>
+<p>It is vegetarian and vegan, and gluten-free if you use gluten-free soy sauce. It takes about 15 minutes and serves 2 as a main course or 4 as part of a family-style meal.</p>
+
+</div>

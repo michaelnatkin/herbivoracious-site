@@ -63,3 +63,19 @@ A lot of the love in chilaquiles is in the garnish, so I've listed a whole bunch
 </div>
 &nbsp;
 </div>
+
+<div class="faq"><h2>Frequently asked questions</h2>
+
+<h3>What are chilaquiles?</h3>
+<p>Although there are many variations, the basic idea is to pan-fry corn tortillas until crispy, scramble eggs in with them, and serve the whole thing in a mess of hot salsa verde.</p>
+
+<h3>How do you keep some tortillas crunchy?</h3>
+<p>Reserve some of the crisped tortillas before adding the eggs, so there are some crunchy ones and some that have softened. Both are delicious.</p>
+
+<h3>Do I have to make the salsa verde?</h3>
+<p>Homemade tomatillo salsa is the ideal choice, but a good jarred salsa verde or green enchilada sauce works. Tomato-based salsas are also delicious, just different.</p>
+
+<h3>How many does it serve?</h3>
+<p>The recipe serves 2, with garnishes such as hot sauce, and it makes a good breakfast after a night that calls for protein, salt and a bit of grease.</p>
+
+</div>

@@ -75,3 +75,19 @@ Gee, it looks like Martha Rose Shulman and I were on <a href="http://www.nytimes
 	<li>Place the cake pan on a baking sheet and bake until golden brown and a toothpick inserted in the center comes out clean, about 35 - 40 minutes. Transfer to a cooling rack. After about 30 minutes, you can transfer the cake to a serving platter. With a regular cake pan, work a knife around the sides, then place the platter over the top of the cake pan and quickly and confidently invert it and give the bottom a rap to unmold. If you are using a springform pan, you can just unmold it, then invert and remove the bottom to reveal the plums.</li>
 </ol>
 </div>
+
+<div class="faq"><h2>Frequently asked questions</h2>
+
+<h3>Why roast the plums first?</h3>
+<p>Italian plums tend to work better cooked than most other varieties. Roasting them at 400 degrees F concentrates the flavor and fixes any textural issues before they go into the cake.</p>
+
+<h3>What is the cake base made of?</h3>
+<p>A batter of eggs, sour cream, sugar, olive oil, vanilla, a tablespoon of slivovitz or bourbon, flour, baking powder and baking soda, baked over a layer of butter and muscovado sugar.</p>
+
+<h3>What pan do I need?</h3>
+<p>An 8-inch cake pan. If you have a springform pan, use it and wrap the outside with aluminum foil to prevent leaks.</p>
+
+<h3>How many does it serve?</h3>
+<p>It makes 12 servings as a breakfast pastry, which I thought was perfect with coffee and scrambled eggs at brunch.</p>
+
+</div>

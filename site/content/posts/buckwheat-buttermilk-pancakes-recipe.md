@@ -64,3 +64,19 @@ Vegetarian; not vegan or gluten-free</em>
 </ol>
 &nbsp;
 </div>
+
+<div class="faq"><h2>Frequently asked questions</h2>
+
+<h3>How much buckwheat flour can I use in pancakes?</h3>
+<p>You can easily substitute up to 50 percent buckwheat flour in any pancake recipe. This one is half buckwheat and half all-purpose flour, and the buttermilk counteracts the flat-pancake tendency by adding a lot of leavening power.</p>
+
+<h3>Where do I find buckwheat flour?</h3>
+<p>The easiest place is a natural foods store, often in the bulk section.</p>
+
+<h3>Why shouldn't I overmix the batter?</h3>
+<p>Overmixing makes pancakes tough. It is fine if the batter has some lumps. The batter should be fairly thick so that it rises on the griddle instead of spreading.</p>
+
+<h3>Are these pancakes vegan or gluten-free?</h3>
+<p>No. They are vegetarian, made with buttermilk, eggs and butter, and the recipe serves 4 generously.</p>
+
+</div>

@@ -45,3 +45,19 @@ Crudo is the Italian answer to sashimi. Raw fish, or in our case, mushroom, is s
 	<li>Arrange the porcini slices just barely overlapping on your serving platter. Drizzle generously with the orange-infused oil - I should have used more than in the photo above. Drizzle on a smaller amount of the orange juice. Scatter the pistachios and fried capers over the porcini. Sprinkle on a good bit of the Maldon salt, place a few chervil leaves randomly, and serve.</li>
 </ol>
 </div>
+
+<div class="faq"><h2>Frequently asked questions</h2>
+
+<h3>What is mushroom crudo?</h3>
+<p>Crudo is the Italian answer to sashimi: raw fish, or in this case raw mushroom, sliced thinly and simply garnished.</p>
+
+<h3>How thin should the porcini be sliced?</h3>
+<p>Experiment on your mandoline to find a texture you like. Somewhere in the neighborhood of 1 millimeter is about right.</p>
+
+<h3>What goes on it?</h3>
+<p>Olive oil infused with clementine zest, fried capers, roasted pistachios, chervil and flaky salt.</p>
+
+<h3>Why use porcini this way?</h3>
+<p>Porcini are only available a few weeks a year and cost a small fortune, so I like to feature them in a simple, pure form that shows off their natural beauty and flavor.</p>
+
+</div>

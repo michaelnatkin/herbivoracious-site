@@ -57,3 +57,19 @@ This dish is good hot, but it is also pretty darn tasty cold, when it becomes al
   <li>Microwave florets at high power until partly tender. Drain off any water. Heat a large skillet over high heat. Add the oil, salt, Sichuan peppercorn, garlic, and ginger. Stir-fry for just a few seconds, then add the cauliflower, and stir-fry until cooked through and browned in spots, about 5 minutes. Taste and adjust seasoning and serve.</li>
 </ol>
 </div>
+
+<div class="faq"><h2>Frequently asked questions</h2>
+
+<h3>How spicy is it?</h3>
+<p>The Sichuan peppercorns give it a nice tongue-numbing sting. The amount in the recipe (about a tablespoon) is relatively low, so feel free to double it if you see fit.</p>
+
+<h3>Can you serve it cold?</h3>
+<p>Yes. It is good hot, but it is also pretty darn tasty cold, when it becomes almost like a spicy pickle.</p>
+
+<h3>How do you cook the cauliflower?</h3>
+<p>The recipe gives two ways. Cook it sous vide with the chili oil, salt, Sichuan peppercorn, garlic and ginger at 185 degrees F (85 C) until tender, or microwave the florets until partly tender and finish them in a very hot skillet.</p>
+
+<h3>What is in it?</h3>
+<p>One head of cauliflower, chili oil, kosher salt, Sichuan peppercorn, garlic and ginger.</p>
+
+</div>

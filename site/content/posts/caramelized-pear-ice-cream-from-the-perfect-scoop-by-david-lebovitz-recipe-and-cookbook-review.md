@@ -56,3 +56,16 @@ Vegetarian and gluten-free; not vegan</em>
 	<li>Chill according to your {{% product id="ice-cream-maker" %}}ice-cream maker{{% /product %}} manufacturer's instructions. <em></em></li>
 </ol>
 </div>
+
+<div class="faq"><h2>Frequently asked questions</h2>
+
+<h3>What is in pear-caramel ice cream?</h3>
+<p>Ripe pears, sugar, heavy cream, a little salt and a few drops of lemon juice. The recipe is from David Lebovitz's <em>The Perfect Scoop</em> and makes about 1 quart.</p>
+
+<h3>How do you make the caramel?</h3>
+<p>Spread the sugar in a large, heavy saucepan and cook it over medium heat, watching carefully, until it is a deep amber. Then stir in the diced pears. The caramel will seize, and that is fine.</p>
+
+<h3>Is this ice cream vegan?</h3>
+<p>No. It is vegetarian and gluten-free, but it is made with heavy cream.</p>
+
+</div>

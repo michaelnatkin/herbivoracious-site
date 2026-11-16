@@ -60,3 +60,19 @@ Special equipment: blowtorch (optional)
 	<li>Form the sushi rice into three small, flattened balls. Dab each ball with a tiny amount of wasabi. Place one tomato segment over each ball of rice and brush lightly with oil. Blowtorch for about 5 seconds each, just long enough to darken a small area. Top each piece with about 1/4 teaspoon of the tomato seed gel, a few strips of nori, a few strips of tomato skin and a few grains of the black sea salt. Serve immediately (before the tomato skin and nori begin to soften).</li>
 </ol>
 </div>
+
+<div class="faq"><h2>Frequently asked questions</h2>
+
+<h3>How do you make tomato sushi?</h3>
+<p>Peel a heirloom tomato, use the seeds and gel raw, sear the flesh briefly, and crisp the skin with Heston Blumenthal's microwave frying method. Each piece is built on a little vinegared sushi rice with wasabi and strips of toasted nori.</p>
+
+<h3>What plastic wrap can I use for the microwave frying?</h3>
+<p>Do not use a plastic wrap made from PVC. It breaks down into unpleasant chemicals when exposed to a lot of heat.</p>
+
+<h3>Do tomatoes go with nori?</h3>
+<p>Tomatoes taste incredible with nori. The umami in each seems to reinforce the other, which I find really compelling.</p>
+
+<h3>How much does it make?</h3>
+<p>The recipe is written for 3 pieces, but depending on the size of your tomato it may make quite a bit more. A blowtorch is optional.</p>
+
+</div>

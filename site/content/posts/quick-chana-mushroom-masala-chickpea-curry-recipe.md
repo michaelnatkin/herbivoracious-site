@@ -81,3 +81,19 @@ Serves 2 as a main course with basmati rice or 4 as part of a larger Indian meal
 	<li>Finish for the texture you want - you can see how I like it in the picture above. Then in a separate skillet, heat the last tablespoon of oil over a high flame and fry the mustard seeds until they pop, just a few seconds. This is called tempering, and it is a great way to add a final layer of flavor.  Toss the contents of that skillet over the chickpeas and serve, with the cilantro for garnish.</li>
 </ol>
 </div>
+
+<div class="faq"><h2>Frequently asked questions</h2>
+
+<h3>How long does it take to make chana masala?</h3>
+<p>If you have the ingredients on hand and use canned chickpeas, about 20 minutes.</p>
+
+<h3>Can I use canned chickpeas?</h3>
+<p>Yes. I find canned chickpeas are often undercooked and a little crunchy, so I drain and rinse them and put them on to simmer in water while I prepare everything else.</p>
+
+<h3>Do I have to use mushrooms?</h3>
+<p>No. The mushrooms add a little textural counterpoint without being the focus, and you can omit them or use a different vegetable.</p>
+
+<h3>What do you serve it with?</h3>
+<p>Basmati rice. It serves 2 as a main course, or 4 as part of a larger Indian meal.</p>
+
+</div>

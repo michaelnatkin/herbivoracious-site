@@ -67,3 +67,19 @@ You could cut the maitake up into bite-sized pieces, but this dish is more drama
   <li>When the mushrooms are ready, place one portion in each bowl. Place the bok choy dice around the maitake. Reheat the tea in the microwave and divide among the 4 bowls. Garnish each bowl with a drizzle of toasted sesame oil, a pinch of flaky sea salt, and the scallions. Serve piping hot.</li>
 </ol>
 </div>
+
+<div class="faq"><h2>Frequently asked questions</h2>
+
+<h3>What is maitake?</h3>
+<p>Maitakes, also known as hen-of-the-woods, are a wild mushroom with a dramatic ruffled appearance and rich flavor, well worth seeking out at farmers' markets or gourmet grocers. They are not to be confused with chicken-of-the-woods, which is completely different.</p>
+
+<h3>What is lapsang souchong tea?</h3>
+<p>An intensely smoky tea, unlike any other. That smokiness makes it a perfect broth base to show off the earthiness of roasted maitakes.</p>
+
+<h3>Why leave the maitake in large pieces?</h3>
+<p>The dish is more dramatic with the mushroom served in larger pieces, which also keeps it from getting soggy. Give guests a knife so they can cut the maitake at the last moment.</p>
+
+<h3>How do you cook the maitake?</h3>
+<p>Divide the mushroom into 4 portions, toss with vegetable oil and salt, and roast on a rimmed baking sheet in a 450 degree F convection oven (475 degrees without convection).</p>
+
+</div>

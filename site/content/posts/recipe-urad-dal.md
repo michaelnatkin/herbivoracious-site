@@ -59,3 +59,19 @@ Vegetarian, vegan (if you don't garnish with dairy), and gluten-free</em>
 	<li>Carefully drop in portions of the dal mixture and lightly press with a spatula to form patties. About 1/4 c. will do fine.  Put as many as you can in your pan without crowding them to close. Fry until golden brown on one side (maybe 4 minutes), then flip and brown the other side. Remove from the pan, drain on a paper towel, and hit it with some finishing salt. Hold hot while you fry the rest and serve them forth. Like anything fried, they are at their best minutes after leaving the oil and deteriorate rapidly, so be ready to chow!</li>
 </ol>
 </div>
+
+<div class="faq"><h2>Frequently asked questions</h2>
+
+<h3>What is vada?</h3>
+<p>Vada (also spelled bada) is a kind of Indian fritter or cake made with various types of lentils (dals). This version is made with urad dal and simply shaped into patties.</p>
+
+<h3>How do you make urad dal vada?</h3>
+<p>Soak the dal for 4 to 6 hours, blend it into a coarse paste with the spices (black pepper, asafetida, cayenne and salt), and shallow fry. The recipe makes about 12 patties, and 2 or 3 make a nice serving.</p>
+
+<h3>Where do I buy urad dal?</h3>
+<p>At any Indian market. While you are there, stock up on chana dal, toor dal, moong dal and the other pulses that are not used enough in Western cooking.</p>
+
+<h3>Is it vegan?</h3>
+<p>It is vegetarian, and vegan as long as you do not garnish with dairy.</p>
+
+</div>

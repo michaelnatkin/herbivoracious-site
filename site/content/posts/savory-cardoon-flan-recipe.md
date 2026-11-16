@@ -69,3 +69,19 @@ Makes 4 individual servings</em>
 	<li>Bake until just set; a toothpick inserted in the center should come out clean, about 25 minutes. Carefully remove the ramekins with tongs (you can take the water bath out later when it has cooled, I don't want you splashing boiling water on yourself.) Cool ramekins on a rack for about 15 minutes, then use a knife to release the custard and invert onto serving plates.</li>
 </ol>
 </div>
+
+<div class="faq"><h2>Frequently asked questions</h2>
+
+<h3>What is a cardoon?</h3>
+<p>A cardoon looks like celery and tastes like artichoke. It is in the same thistle family as the more familiar globe artichoke. You will rarely see it in stores, but look for it at farmers' markets in the fall.</p>
+
+<h3>How do you prepare cardoon?</h3>
+<p>Before you cook it, remove the strings from the stem, as you would with celery, and keep the trimmed pieces in salted lemon water.</p>
+
+<h3>How do you make a savory flan?</h3>
+<p>Simmer the cream and milk with the cardoon, garlic, Parmigiano-Reggiano, salt and nutmeg, puree the mixture, whisk it into the eggs, and bake in buttered ramekins at 350 degrees F.</p>
+
+<h3>How many does it serve?</h3>
+<p>The recipe makes 4 individual servings.</p>
+
+</div>

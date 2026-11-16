@@ -72,3 +72,19 @@ For today's version, I've chosen to serve the soup cold as an amuse bouche, with
 	<li>Whisk the soup, taste again and make any final adjustments to thickness and seasoning. To serve, place about 1 tablespoon of soup in each amuse bouche spoon. Using the photo as a guide, garnish with a drizzle of extra-virgin olive oil, 3 drops of pomegranate molasses, a sprinkle of dukkah, a few rings of the shallot, the cilantro, and a few grains of {{% product id="maldon-salt-sea-salt-flakes-8-5-oz" target="_blank" %}}Maldon (aka the world's greatest salt){{% /product %}} . Serve immediately.</li>
 </ol>
 </div>
+
+<div class="faq"><h2>Frequently asked questions</h2>
+
+<h3>What is the secret to this cold carrot soup?</h3>
+<p>A pressure cooker. Nathan Myhrvold described a method for making intense, purely flavored and somewhat caramelized vegetable soups: put the carrots in the pressure cooker with no water or anything else and cook them at high pressure.</p>
+
+<h3>How do you get it silky?</h3>
+<p>Pass the carrot puree through the finest sieve or tamis you have, twice, adding a little water as needed to adjust the thickness. Then thoroughly chill it.</p>
+
+<h3>How is it served?</h3>
+<p>About a tablespoon of soup per amuse bouche spoon, garnished with pomegranate molasses, dukkah, small rings of briefly pickled shallot, cilantro and flaky salt. The recipe makes at least 12.</p>
+
+<h3>Where does the recipe come from?</h3>
+<p>It is based on the method Dr. Myhrvold described in a talk about <em>Modernist Cuisine</em>. He did not give the exact recipe in the book, but the description was clear enough that I was able to do it on the first try at home.</p>
+
+</div>

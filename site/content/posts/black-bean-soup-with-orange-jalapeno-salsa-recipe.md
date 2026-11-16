@@ -79,3 +79,19 @@ recipe:
 <li>To serve, ladle the soup into bowls and either garnish with approximately 3 tablespoons of the salsa and some cream, or pass them separately.</li>
 </ol>
 </div>
+
+<div class="faq"><h2>Frequently asked questions</h2>
+
+<h3>Should I use canned or home-cooked black beans?</h3>
+<p>Home-cooked beans have more flavor and a better texture, but canned beans are convenient if you have not thought ahead. Rinse canned beans well. A pressure cooker lets you decide in the late afternoon and still have beans cooked for dinner.</p>
+
+<h3>How do you puree black bean soup?</h3>
+<p>Always remove the pot from the heat first. With an immersion blender, put it well below the surface and whiz a little at a time, or use a potato or bean masher in the pot. I like it about 75 percent pureed, with some texture left.</p>
+
+<h3>Is this soup spicy?</h3>
+<p>The soup itself is mild, so kids can enjoy it. The heat comes from the bright orange and jalapeno salsa served on the side, so each person can add as much as they like.</p>
+
+<h3>How many does it serve?</h3>
+<p>It serves 6. You can also pass grated cheddar cheese for those who think of it as vegetarian chile.</p>
+
+</div>

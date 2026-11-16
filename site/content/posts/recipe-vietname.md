@@ -39,3 +39,19 @@ recipe:
 </div>
 
 <p class="related-link">New to cooking tofu? Start with <a href="/2012/05/how-to-make-tofu-really-freaking-delicious-tofu-101/">how to cook tofu so it is really delicious (Tofu 101)</a>.</p>
+
+<div class="faq"><h2>Frequently asked questions</h2>
+
+<h3>What is banh mi chay?</h3>
+<p>Banh mi chay is the vegetarian version of the Vietnamese sandwich. This one is filled with pan-fried tofu, quick-pickled carrot and daikon, cucumber, onion, jalapeno, avocado, mint and cilantro, with mayo and sriracha.</p>
+
+<h3>What kind of bread do you use for banh mi?</h3>
+<p>Rolls about 10 inches long that are seriously crusty on the outside and fairly soft inside. Vietnamese rolls are, I believe, made with part rice flour, which adds to the crisp crust. If you cannot find those, the best French baguette you can find will do well.</p>
+
+<h3>Is banh mi chay vegan?</h3>
+<p>It is vegetarian, and vegan if you leave out the mayo. If you buy a banh mi at a shop, ask them not to use fish sauce if you want it vegetarian.</p>
+
+<h3>How can I give it more flavor?</h3>
+<p>My next-time ideas: flavor the mayo intensely with chili sauce or citrus, marinate the tofu, or add a few drops of chili-flavored sesame oil.</p>
+
+</div>

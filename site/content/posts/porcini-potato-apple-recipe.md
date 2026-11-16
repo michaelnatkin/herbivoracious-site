@@ -50,3 +50,19 @@ This would also be delicious with big chunks of <a href="/2008/10/lobster-mushro
  	<li>To serve, heat 4 bowls and make sure all ingredients are piping hot. Divide the broth among the bowls. Place 3 smashed potatoes in each bowl. Cut the mushrooms into 3 or 4 chunks each, leaving the head whole, and arrange over the potatoes. Drizzle with a bit of olive oil. Add a few slices of apple tucked in between the mushrooms pieces. Finish with a few leaves of parsley and a generous sprinkle of Maldon salt and serve immediately.</li>
 </ol>
 </div>
+
+<div class="faq"><h2>Frequently asked questions</h2>
+
+<h3>What are porcini, cepes and king bolete?</h3>
+<p>They are different names for the same prized mushroom. When you have beautiful fresh ones, it is not necessary or desirable to do much to them.</p>
+
+<h3>How do you cook porcini?</h3>
+<p>Cook them through thoroughly to concentrate the flavor, then brown the exterior and collect the juices to make a profoundly umami-rich broth, with a splash of sweet vermouth or red wine. You can also cook them sous vide.</p>
+
+<h3>What else is in the dish?</h3>
+<p>Crispy smashed potatoes that give way to a fluffy interior perfect for sopping up the broth, plus thin slices of honeycrisp apple for sweet crunch. It is a nice change of pace from vegetarian entrees heavy on grains or dairy.</p>
+
+<h3>Can I use other mushrooms?</h3>
+<p>It would also be delicious with big chunks of lobster mushroom.</p>
+
+</div>

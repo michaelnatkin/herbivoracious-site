@@ -61,3 +61,19 @@ Of course you don't have to use purple artichokes, though they are gorgeous. Bab
 	<li>Pour all of the contents of the pot into the serving bowl. Garnish with the remaining parsley and several grinds of pepper. Arrange the toasted bread around the outside of the bowl and serve immediately.</li>
 </ol>
 </div>
+
+<div class="faq"><h2>Frequently asked questions</h2>
+
+<h3>What are artichauts marinières?</h3>
+<p>Artichaut is the French word for artichoke. Here baby artichokes are cooked in a steaming bath of vermouth with shallot and garlic, in the style of moules marinières. The artichoke flavor infuses the broth, which you sop up with grilled bread.</p>
+
+<h3>What wine should I use?</h3>
+<p>I used dry vermouth, which adds its own herbal notes. A reader tried chardonnay and found the broth bitter, and I agree there is something unpleasant there, maybe over-reduced tannins. Use vermouth, or at least a light, unoaked white wine.</p>
+
+<h3>Can I use regular artichokes?</h3>
+<p>Yes. Baby green artichokes work just fine, and you can even use full-sized artichokes if you cut them into quarters or eighths, remove the fuzzy choke and peel the stem.</p>
+
+<h3>How do you keep the artichokes from browning?</h3>
+<p>Put the trimmed artichokes in a bowl of cold water with the juice of a lemon squeezed into it.</p>
+
+</div>

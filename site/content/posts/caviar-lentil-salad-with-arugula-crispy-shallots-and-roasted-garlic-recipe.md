@@ -69,3 +69,19 @@ To turn this salad into a light entree, you could add a dollop of <strong>Greek 
 	<li><span style="line-height: 13px;">To serve: toast the bread and spread each piece with a generous portion of the roasted garlic. Divide the (room temperature) lentils among 4 serving plates. Toss the arugula, cherry tomatoes and crispy shallots with the remaining dressing and pile atop the lentils. Put a piece of the bread on each plate, finish with a few flakes of sea salt and grinds of blacks pepper and serve immediately (before the arugula wilts).</span></li>
 </ol>
 </div>
+
+<div class="faq"><h2>Frequently asked questions</h2>
+
+<h3>What are caviar lentils?</h3>
+<p>They are very similar to what you may see marketed as beluga lentils or simply black lentils. These came from Pacific Northwest Farmers Cooperative, which supports family farms growing non-GMO grains, beans and lentils on the Palouse Prairie.</p>
+
+<h3>What is the dressing?</h3>
+<p>A simple sherry vinegar and extra-virgin olive oil dressing that highlights the lentils' sweet, earthy flavor. The same dressing goes on the arugula and crispy shallots. Toasted walnut oil, hazelnut oil or truffle oil would also be good.</p>
+
+<h3>How do you serve it?</h3>
+<p>With a slice of artisan toast spread thick with roasted garlic to hoist the lentils or mop up the dressing. To make it a light entree, add a dollop of Greek yogurt, a piece of ripe cheese or a fried egg.</p>
+
+<h3>How many does it serve?</h3>
+<p>The recipe serves 4.</p>
+
+</div>

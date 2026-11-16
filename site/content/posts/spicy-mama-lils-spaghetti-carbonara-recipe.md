@@ -61,3 +61,19 @@ The critical move in making creamy carbonara comes when you dump the pasta into 
 	<li>Divide the pasta among the serving bowls, garnish with the toasted pine nuts and parsley and serve immediately.</li>
 </ol>
 </div>
+
+<div class="faq"><h2>Frequently asked questions</h2>
+
+<h3>How do you make carbonara vegetarian?</h3>
+<p>The traditional version is made by frying pig bits with garlic and chili flakes. This one skips the pork and instead uses Mama Lil's spicy pickled peppers, including some of their oil, with garlic, toasted pine nuts and parsley.</p>
+
+<h3>How does the egg sauce work?</h3>
+<p>Toss the hot, mostly cooked pasta and the contents of the skillet into a bowl of beaten eggs, Parmigiano-Reggiano and black pepper, working quickly with tongs. The heat lightly cooks the egg into a rich, creamy sauce.</p>
+
+<h3>Why is it called carbonara?</h3>
+<p>There are several possible explanations: it may be in the style favored by charcoal makers or coal miners, or named after the charcoal burner it was cooked on.</p>
+
+<h3>How long does it take?</h3>
+<p>About 15 minutes of active time, and it serves 2 as a hearty entree.</p>
+
+</div>

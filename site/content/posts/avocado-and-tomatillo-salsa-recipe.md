@@ -62,3 +62,19 @@ Jalapenos vary widely in their heat level, so be sure and taste before committin
 </div>
 &nbsp;
 </div>
+
+<div class="faq"><h2>Frequently asked questions</h2>
+
+<h3>What is a Reed avocado?</h3>
+<p>Reed avocados are gigantic, easily twice the size of a regular Hass avocado, and smooth, buttery and sweet. The ones I used came from ChefShop.com and are grown in California by Peter and Bonnie Herman.</p>
+
+<h3>Can I use Hass avocados?</h3>
+<p>Yes. The recipe calls for half a Reed avocado or one Hass avocado.</p>
+
+<h3>How do you make avocado tomatillo salsa?</h3>
+<p>Dry-roast the tomatillos, garlic, jalapeno and shallot in a skillet with no oil, then blend them with the avocado, lime juice, cilantro, cumin and salt until smooth. Taste and adjust the seasoning.</p>
+
+<h3>What is it for?</h3>
+<p>It is my version of the avocado salsa that taquerias in San Francisco's Mission District keep on the tables, for a creamy drizzle on a taco or burrito, or for dipping chips, a little thicker and spicier.</p>
+
+</div>

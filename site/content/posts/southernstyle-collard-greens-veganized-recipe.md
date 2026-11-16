@@ -60,3 +60,19 @@ Serves at least 4 as a side dish</em>
 </div>
 
 <p class="related-link">A Southern meal to go with it: <a href="/2009/10/jalapeno-sorghum-butter-recipe/">Jalapeño-Sorghum Butter</a>.</p>
+
+<div class="faq"><h2>Frequently asked questions</h2>
+
+<h3>How long do you cook collard greens?</h3>
+<p>At least 45 minutes, until completely tender. Check occasionally to see if they need a little more water, then remove the lid at the end and cook off the liquid.</p>
+
+<h3>How do you make vegetarian collard greens taste rich without meat?</h3>
+<p>Instead of pig parts, this recipe gets umami from thinly sliced fresh shiitake mushrooms fried with onion, plus soy sauce and a little smoked paprika.</p>
+
+<h3>Is this collard greens recipe vegan?</h3>
+<p>Yes. It is a vegan version of Southern-style collards, serving at least 4 as a side dish.</p>
+
+<h3>How do you wash collard greens?</h3>
+<p>Strip the leaves from the stems, wash them thoroughly in three changes of water, and slice them into 1-inch ribbons.</p>
+
+</div>

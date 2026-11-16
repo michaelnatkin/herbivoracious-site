@@ -48,3 +48,19 @@ For a delicious and simple couscous salad recipe, make the the couscous as descr
 <a href="/images/2007/11/07/spicychickpeastew.webp" rel="lightbox"><img title="Spicy Chickpea Stew Over Couscous" src="/images/2007-small/11/07/spicychickpeastew.webp" alt="Spicy Chickpea Stew Over CouscousSpicy Chickpea Stew Over Couscous" width="455" height="302" border="0" /></a>
 <span style="font-size: 0.8em;">Spicy Chickpea Stew Over Couscous</span>
 </div>
+
+<div class="faq"><h2>Frequently asked questions</h2>
+
+<h3>How much water do you need for couscous?</h3>
+<p>This recipe uses 4 1/2 cups of boiling water for 3 cups of couscous, which is 1 1/2 cups of water per cup of couscous, plus 1 teaspoon of salt and 1 tablespoon of olive oil.</p>
+
+<h3>How do you make couscous fluffy?</h3>
+<p>Spread the couscous in as thin a layer as possible in the bottom of a large, low casserole, pour the boiling water over it, and cover tightly with plastic wrap. The weight of the grains and water in a deep pot keeps the couscous from expanding, so the flat casserole gives much fluffier results. Wait about 15 minutes until the water is absorbed, then fluff with a fork.</p>
+
+<h3>Can I make couscous salad with this?</h3>
+<p>Yes. Make the couscous as described, let it cool, then toss it with canned chickpeas, finely chopped green onions, fresh mint, olive oil and sea salt. Raisins, pine nuts, feta, olives and flat leaf parsley are nice additions.</p>
+
+<h3>Is this couscous vegan?</h3>
+<p>Yes. It is vegetarian and vegan.</p>
+
+</div>

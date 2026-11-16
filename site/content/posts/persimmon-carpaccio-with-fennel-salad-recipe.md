@@ -55,3 +55,19 @@ Once you have the right kind of persimmons, and a {{% product id="mandoline" tar
 </ol>
 </div>
 </div>
+
+<div class="faq"><h2>Frequently asked questions</h2>
+
+<h3>What kind of persimmons should I use?</h3>
+<p>Fuyu persimmons, which are short and squat, resemble an orange tomato, and are eaten while still firm. Do not use hachiya persimmons, which can only be eaten when incredibly soft and otherwise are inedibly astringent. You would have a frightful mess on your hands.</p>
+
+<h3>What do I need to make it?</h3>
+<p>A simple mandoline. Slice the persimmons about 1 millimeter thick, and thinly slice the fennel, radish and red onion for the salad on top.</p>
+
+<h3>What is the dressing?</h3>
+<p>Extra-virgin olive oil, champagne vinegar and flaky sea salt, with toasted pumpkin seeds on top.</p>
+
+<h3>How long does it take?</h3>
+<p>About 10 minutes, and it serves 4. You will impress your friends and family out of all proportion to how difficult it is.</p>
+
+</div>

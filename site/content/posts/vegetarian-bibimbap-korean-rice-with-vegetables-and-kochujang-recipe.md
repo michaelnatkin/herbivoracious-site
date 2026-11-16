@@ -80,3 +80,19 @@ By the way, I actually cooked my "poached" eggs <a href="http://blog.chefsteps.c
 	<li><span style="line-height: 13px;">To serve, put a mound of steaming hot rice in a warm bowl. Arrange servings of the mushrooms, zucchini, bean sprouts, pea shoots, fried tofu and pickled cucumbers around the perimeter of the rice. Put an egg in the middle, and garnish with the scallions. Serve immediately, piping hot, with plenty of kochujang for diners to mix in as they please.</span></li>
 </ol>
 </div>
+
+<div class="faq"><h2>Frequently asked questions</h2>
+
+<h3>What is bibimbap?</h3>
+<p>Bibimbap (pronounced bee-bim-bop) is a bowl of hot rice with a variety of cooked and raw vegetables. A raw, poached or fried egg goes on top, and kochujang, a Korean chili paste, is passed on the side. The yolk and kochujang are mixed into the rice before eating.</p>
+
+<h3>Is bibimbap vegetarian?</h3>
+<p>It is typically made with beef, but that is easy to leave off, and there usually are not seafood products in it, so it is one of the few things vegetarians can usually count on at Korean restaurants. This version uses tofu instead.</p>
+
+<h3>What is dolsot bibimbap?</h3>
+<p>Dolsot bibimbap is served in a heavy, smoking hot stone bowl. The rice on the bottom gets a little toasted and crispy. It is worth the extra dollar at a restaurant.</p>
+
+<h3>What vegetables go in it?</h3>
+<p>This recipe has quick-pickled cucumber, stir-fried mushrooms and zucchini, bean sprouts dressed with sesame oil, and tofu, over rice, with an egg and kochujang.</p>
+
+</div>

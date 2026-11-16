@@ -50,3 +50,19 @@ Does sunflower butter work in "peanut butter" cookies? Absolutely. The taste is 
 	<li>Chill the dough for at least 30 minutes. Preheat oven to 375. Line baking sheets with parchment or {{% product id="silpat-premium-non-stick-silicone-baking-mat" %}}silpats{{% /product %}}. Dish dough out into approximately 2-tablespoon balls. Flatten, then use the tines of a fork to make the traditional criss-cross pattern. Bake about 12 minutes until lightly browned. Cool on a rack for at least 10 minutes, then enjoy.</li>
 </ol>
 </div>
+
+<div class="faq"><h2>Frequently asked questions</h2>
+
+<h3>Can you use sunflower butter instead of peanut butter in cookies?</h3>
+<p>Absolutely. The taste is very close and the texture is spot on. We use it because my wife is severely allergic to peanuts and tree nuts, and sunflower butter is our favorite replacement, with a much nicer flavor than soy butter.</p>
+
+<h3>How do I make the cookies moister and chewier?</h3>
+<p>This recipe tends toward the sandy end of the spectrum. For a moister, chewier cookie, use half brown sugar and half white. Brown sugar is hygroscopic, which means it tends to retain moisture.</p>
+
+<h3>Which sunflower butter do you use?</h3>
+<p>My favorite brand is Sunbutter, specifically the organic, unsweetened variety, and they are not a sponsor.</p>
+
+<h3>How many cookies does it make?</h3>
+<p>15 big cookies. Chill the dough for at least 30 minutes and bake at 375 degrees F.</p>
+
+</div>

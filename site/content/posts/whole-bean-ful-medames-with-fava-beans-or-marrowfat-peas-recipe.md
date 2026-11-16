@@ -56,3 +56,19 @@ Serves 4-6</em>
 	<li>Spoon the beans into serving bowls and ladle some, but not too much, of the hot broth over the top. If you like, you could mash some of the beans. Drizzle lots more olive oil over the top. Garnish with a generous squeeze of lemon juice, the oregano or parsley, and several grinds of black pepper. Serve hot.</li>
 </ol>
 </div>
+
+<div class="faq"><h2>Frequently asked questions</h2>
+
+<h3>What are kapucijners?</h3>
+<p>Kapucijners are marrowfat peas, a Dutch specialty food. I found them in a Dutch shop on Whidbey Island, and their shape reminded me of ful medames. You can also use dried fava beans.</p>
+
+<h3>What is ful medames?</h3>
+<p>It is sort of the national breakfast of Egypt, though it has spread far and wide. The most common Egyptian version is at least partially mashed. This one is whole beans in their own broth with plenty of garlic, olive oil and lemon juice, like the first ful I ever had at an Armenian restaurant in East Providence, Rhode Island.</p>
+
+<h3>How do you cook the beans?</h3>
+<p>Rinse and pick through them, soak overnight, drain and cook in fresh water until tender. Then toss with garlic, cumin, salt and olive oil, and spoon into bowls with some of the hot broth. You can mash some of the beans if you like.</p>
+
+<h3>How many does it serve?</h3>
+<p>The recipe serves 4 to 6.</p>
+
+</div>

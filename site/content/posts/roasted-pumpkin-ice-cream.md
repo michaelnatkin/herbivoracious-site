@@ -60,3 +60,19 @@ Yields about 500 grams, enough for 2+ batches of ice cream
 </div>
 
 <p class="related-link">Another unusual ice cream: <a href="/2010/10/pretzel-ice-cream-recipe/">Pretzel Ice Cream</a>.</p>
+
+<div class="faq"><h2>Frequently asked questions</h2>
+
+<h3>Why no pumpkin pie spices?</h3>
+<p>It is meant for a dessert with Japanese flavors, a plated dish with grilled mochi, miso butterscotch and a black sesame crumble, so I kept the pumpkin itself a bit subtle.</p>
+
+<h3>How do you roast the pumpkin?</h3>
+<p>I use a pressure-cooker technique borrowed from the Modernist Cuisine caramelized carrot soup, cooking the pumpkin with a bit of baking soda to raise the pH and encourage Maillard reactions. You can roast plain pumpkin chunks in the oven instead (no baking soda), or use plain canned pumpkin puree as a shortcut.</p>
+
+<h3>How do you make the ice cream?</h3>
+<p>Blend the roasted pumpkin puree, whole milk, heavy cream, sugar and egg yolks, strain, and cook the base sous vide for 1 hour at 185 degrees F (85 C), or use a standard custard technique. Cool, refrigerate overnight, then churn.</p>
+
+<h3>How much does it make?</h3>
+<p>About 1 liter, or 1.1 quarts.</p>
+
+</div>

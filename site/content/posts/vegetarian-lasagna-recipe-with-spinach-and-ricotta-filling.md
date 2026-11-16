@@ -89,3 +89,19 @@ I often make this with {{% product id="no-boil-lasagna-noodles" target="_blank"
   <li>Allow to rest at least 15 minutes before serving so it has time to set up a bit.</li>
 </ol>
 </div>
+
+<div class="faq"><h2>Frequently asked questions</h2>
+
+<h3>How do you keep vegetable lasagna from getting watery?</h3>
+<p>Get all the liquid out of the vegetables. Here the cooked spinach is cooled and squeezed dry in a dish towel. Do not go too heavy on the vegetables, or the lasagna can weep or have unpleasant crunchiness.</p>
+
+<h3>Do I need to boil the noodles?</h3>
+<p>I often use no-boil noodles, which cook in the sauce as the lasagna bakes. They need more sauce to be properly moistened. With regular noodles, boil them first and simmer the tomato sauce a bit longer to thicken it, or use less of it.</p>
+
+<h3>Can I make vegetarian lasagna ahead?</h3>
+<p>Yes. One of its great advantages is that you can assemble it ahead for a crowd, and it finishes in the oven.</p>
+
+<h3>How many does it serve and how long does it take?</h3>
+<p>At least 8 servings. Prep is about 30 minutes and cooking about 1 hour, for roughly 1 1/2 hours in total, with the oven at 375 degrees.</p>
+
+</div>
