@@ -13,6 +13,6 @@ cover:
 
 I found these at our Farmer's Market last weekend. What a trip! The farmer said it is an heirloom breed of chicken that he's in the process of re-establishing as a breeding flock, but had just a few eggs to sell. So far I've eaten a couple {{% product id="just-soft-boiled" target="_blank" %}}just soft-boiled{{% /product %}} like this, on toast. The taste is perfectly normal, except, well, inside out. Anyone have any {{% product id="better-ideas" target="_blank" %}}better ideas{{% /product %}} of how to really showcase this unique find?
 
-If this is your first visit to Herbivoracious, I'm glad you are here and check out my <a href="/welcome-to-herbivoracious/" target="_blank">Welcome page</a> for the $0.10 tour - I've got a lot of hearty, delicious meatless recipes that I think you'll enjoy.
+If this is your first visit to Herbivoracious, I'm glad you are here and check out my <a href="/about/" target="_blank">About page</a> for the $0.10 tour - I've got a lot of hearty, delicious meatless recipes that I think you'll enjoy.
 
 Ok, I admit it... <a href="/2009/03/how-to-make-an-inside-out-egg-recipe/" target="_blank">here's the truth about the egg</a>! Use the share links below and see if you can fool your friends.

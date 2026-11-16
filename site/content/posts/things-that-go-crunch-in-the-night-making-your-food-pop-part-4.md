@@ -4,10 +4,7 @@ description: "Things that go crunch in the night, part 4 of Making Your Food Pop
 date: 2010-02-08T06:55:00
 slug: "things-that-go-crunch-in-the-night-making-your-food-pop-part-4"
 categories: ["Miscellany", "Theory and Rants"]
-aliases: ["/things-that-go-crunch-in-the-night-making-your-food-pop-part-4/", "/2010/02/things-that-go-crunch-in-the-night
-cover:
-  image: "]
----making-your-food-pop-part-4.html", "/2010/02/things-that-go-crunch-in-the-night-making-your-food-pop-part-4.html"]
+aliases: ["/things-that-go-crunch-in-the-night-making-your-food-pop-part-4/", "/2010/02/things-that-go-crunch-in-the-night---making-your-food-pop-part-4.html", "/2010/02/things-that-go-crunch-in-the-night-making-your-food-pop-part-4.html"]
 cover:
   image: "/images/old/6a00e008d618bb88340120a86e0271970b-500wi.webp"
   hidden: true

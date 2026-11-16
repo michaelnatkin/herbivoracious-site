@@ -4,10 +4,7 @@ description: "What's in my pantry, part 1: the 'quick reach' liquids kept on the
 date: 2008-10-24T07:24:00
 slug: "whats-in-my-pantry-part-1-liquids-by-the-stove"
 categories: ["Miscellany"]
-aliases: ["/whats-in-my-pantry-part-1-liquids-by-the-stove/", "/2008/10/whats-in-my-pantry-part-1
-cover:
-  image: "]
----liquids-by-the-stove.html", "/2008/10/whats-in-my-pantry-part-1---liquids-by-the-stove/", "/2008/10/whats-in-my-pantry-part-1---liquids-by-the-stove", "/2008/10/whats-in-my-pantry-part-1-liquids-by-the-stove.html"]
+aliases: ["/whats-in-my-pantry-part-1-liquids-by-the-stove/", "/2008/10/whats-in-my-pantry-part-1---liquids-by-the-stove.html", "/2008/10/whats-in-my-pantry-part-1---liquids-by-the-stove/", "/2008/10/whats-in-my-pantry-part-1---liquids-by-the-stove", "/2008/10/whats-in-my-pantry-part-1-liquids-by-the-stove.html"]
 cover:
   image: "/images/old/6a00e008d618bb8834010535b99772970c-500wi.webp"
   hidden: true

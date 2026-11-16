@@ -30,6 +30,7 @@ def urls_changed(a,b):
     return sorted(set(out))
 urls=urls_all() if "--all" in sys.argv else urls_changed(sys.argv[1],sys.argv[2])
 if not urls: print("nothing to submit"); sys.exit(0)
+if "--dry" in sys.argv: print(len(urls),"urls, e.g.",urls[:4]); sys.exit(0)
 for i in range(0,len(urls),9000):
     body=json.dumps({"host":HOST,"key":KEY,"keyLocation":f"{BASE}/{KEY}.txt","urlList":urls[i:i+9000]}).encode()
     req=urllib.request.Request("https://api.indexnow.org/indexnow",data=body,headers={"Content-Type":"application/json; charset=utf-8"})

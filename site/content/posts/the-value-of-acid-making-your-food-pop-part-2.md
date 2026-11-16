@@ -4,10 +4,7 @@ description: "The value of acid, part 2 of Making Your Food Pop: how sourness br
 date: 2010-01-12T06:55:00
 slug: "the-value-of-acid-making-your-food-pop-part-2"
 categories: ["Miscellany", "Theory and Rants"]
-aliases: ["/2010/01/the-value-of-acid
-cover:
-  image: "]
----making-your-food-pop-part-2.html", "/2010/01/the-value-of-acid---making-your-food-pop-part-2/", "/2010/01/the-value-of-acid---making-your-food-pop-part-2", "/2010/01/the-value-of-acid-making-your-food-pop-part-2.html"]
+aliases: ["/2010/01/the-value-of-acid---making-your-food-pop-part-2.html", "/2010/01/the-value-of-acid---making-your-food-pop-part-2/", "/2010/01/the-value-of-acid---making-your-food-pop-part-2", "/2010/01/the-value-of-acid-making-your-food-pop-part-2.html"]
 cover:
   image: "/images/old/6a00e008d618bb8834012876c9ad34970c-500wi.webp"
   hidden: true

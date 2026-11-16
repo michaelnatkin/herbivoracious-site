@@ -10,7 +10,7 @@
       {{ $caption := "" }}
       {{ if $img }}
         {{/* Match leading image (optionally in <p> and/or <a>) followed by <em>caption</em> */}}
-        {{ $withCaption := findRE `^\s*(?:<p>\s*)?(?:<a[^>]*>)?\s*<img[^>]*/?>\s*(?:</a>)?\s*<em>[^<]+</em>\s*(?:</p>)?` $content 1 }}
+        {{ $withCaption := findRE `^\s*(?:<p>\s*)?(?:<a[^>]*>)?\s*<img[^>]*/?>\s*(?:</a>)?\s*(?:<br\s*/?>\s*)*<em>[^<]+</em>\s*(?:</p>)?` $content 1 }}
         {{ if $withCaption }}
           {{ $block := index $withCaption 0 }}
           {{ $emTags := findRE `<em>[^<]+</em>` $block 1 }}
@@ -23,6 +23,17 @@
           {{ $justImg := findRE `^\s*(?:<p>\s*)?(?:<a[^>]*>)?\s*<img[^>]*/?>\s*(?:</a>)?\s*(?:</p>)?` $content 1 }}
           {{ if $justImg }}
             {{ $content = replace $content (index $justImg 0) "" 1 }}
+          {{ else }}
+            {{/* The photo was removed from the body earlier but its italic caption line was left behind: use it as the hero caption */}}
+            {{ $capOnly := findRE `^\s*(?:<p>\s*)?(?:<br\s*/?>\s*)?<em>[^<]{3,160}</em>\s*</p>` $content 1 }}
+            {{ $capThenP := findRE `^\s*(?:<p>\s*)?(?:<br\s*/?>\s*)<em>[^<]{3,160}</em>\s*<p>` $content 1 }}
+            {{ if $capOnly }}
+              {{ $caption = index (findRE `<em>[^<]+</em>` (index $capOnly 0) 1) 0 | replaceRE `</?em>` "" }}
+              {{ $content = replace $content (index $capOnly 0) "" 1 }}
+            {{ else if $capThenP }}
+              {{ $caption = index (findRE `<em>[^<]+</em>` (index $capThenP 0) 1) 0 | replaceRE `</?em>` "" }}
+              {{ $content = replace $content (index $capThenP 0) "<p>" 1 }}
+            {{ end }}
           {{ end }}
         {{ end }}
       {{ end }}
@@ -31,7 +42,7 @@
       <div class="single-cover">
         <img src="{{ strings.TrimPrefix "/" $img | relURL }}" alt="{{ .Title }}" data-pagefind-meta="image[src], image_alt[alt]">
         {{ if $caption }}
-        <figcaption class="single-cover__caption">{{ $caption }}</figcaption>
+        <figcaption class="single-cover__caption">{{ $caption | safeHTML }}</figcaption>
         {{ end }}
       </div>
       {{ end }}
