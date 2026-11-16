@@ -6318,19 +6318,6 @@
    "verified": true
   }
  },
- "5-pastry-cutter": {
-  "status": "approved",
-  "choice": 0,
-  "chosen": {
-   "merchant": "Restaurant Supply",
-   "product": "Matfer 5-1/2\" Fluted Round Pastry Cutter",
-   "url": "https://www.restaurantsupply.com/products/matfer-150231-5-1-2-inch-diameter-fluted-round-pastry-cutter-stainless-steel",
-   "epc": null,
-   "rate": null,
-   "price": null,
-   "verified": false
-  }
- },
  "asiago-cheese": {
   "status": "approved",
   "choice": 0,
@@ -6407,19 +6394,6 @@
    "rate": 9,
    "price": "$11.95",
    "verified": true
-  }
- },
- "morimoto-the-new-art-of-japanese-cooking": {
-  "status": "approved",
-  "choice": 0,
-  "chosen": {
-   "merchant": "Barnes & Noble",
-   "product": "Morimoto: The New Art of Japanese Cooking",
-   "url": "https://www.barnesandnoble.com/p/2672078416489",
-   "epc": 0.01,
-   "rate": 5.15,
-   "price": null,
-   "verified": false
   }
  },
  "chinese-pickled-mustard-greens": {
@@ -6545,11 +6519,11 @@
   "chosen": {
    "merchant": "Murray's Cheese",
    "product": "Gorgonzola Cremificato (Gorgonzola Dolce)",
-   "url": "https://murrayscheese.com/gorgonzola-dolce-artigianale",
+   "url": "https://www.murrayscheese.com/dp/gorgonzola-cremificato",
    "epc": 0.06,
    "rate": 6,
-   "price": null,
-   "verified": false
+   "price": "$30.00",
+   "verified": true
   }
  },
  "grant-achatz": {
@@ -6688,11 +6662,11 @@
   "chosen": {
    "merchant": "Restaurant Supply",
    "product": "Winco WPP-1424 14\" Wooden Pizza Peel",
-   "url": "https://restaurantsupply.com/winco-wpp-1424-24-wooden-pizza-peel",
+   "url": "https://www.restaurantsupply.com/products/winco-wpp-1424-14-inch-wooden-blade-pizza-peel-with-ergonomic-handle",
    "epc": null,
    "rate": null,
-   "price": null,
-   "verified": false
+   "price": "$13.66",
+   "verified": true
   }
  },
  "press-weight-your-tofu": {
