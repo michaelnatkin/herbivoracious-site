@@ -2877,3 +2877,11 @@ a.as-seen-in:hover { text-decoration: none; }
 .recipe-products__merchant { color: #7a6f62; font-size: .82rem; }
 .recipe-products__note { margin: .7rem 0 0; font-size: .75rem; color: #7a6f62; }
 @media print { .recipe-products { display: none; } }
+
+.pin-button { display: inline-flex; align-items: center; gap: .3rem; margin-left: .8rem; padding: .15rem .65rem; border-radius: 999px; background: #e60023; color: #fff; font-family: 'Inter', sans-serif; font-size: .72rem; font-weight: 600; text-decoration: none; vertical-align: middle; }
+.pin-button:hover { background: #ad081b; color: #fff; text-decoration: none; }
+@media print { .pin-button { display: none; } }
+
+.recipe-hubs { margin: 1.5rem 0; font-family: 'Inter', sans-serif; font-size: .85rem; color: #7a6f62; }
+.recipe-hubs a { color: #00809b; }
+@media print { .recipe-hubs { display: none; } }
