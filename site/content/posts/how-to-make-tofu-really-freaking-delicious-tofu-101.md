@@ -69,3 +69,27 @@ Was that so hard?
 How about <a href="/2012/05/korean-yakisoba-with-french-horn-mushroom-tofu-and-510-egg-recipe/" target="_blank">yakisoba</a>, <a href="/2010/06/tofu-and-kimchi-dinner-for-one-recipe/" target="_blank">tofu &amp; kimchi dinner for 1</a>, <a href="/2010/04/vegetarian-japchae-a-guest-recipe-by-alice-of-savory-sweet-life/" target="_blank">jap chae</a>, <a href="/2010/02/thai-tofu-salad-recipe/" target="_blank">Thai tofu salad (yam tofu)</a>, <a href="/2009/10/red-curry-delicata-squash-and-tofu-recipe/" target="_blank">red curry delicata squash with tofu</a> ... and in {{% product id="herbivoracious-cookbook" target="_blank" %}}my cookbook{{% /product %}} you'll find khao soi (Chiang Mai curry noodles), seared tofu poke (Hawaiian style), Sichuan dry-fried green beans with tofu and more.
 
 Get The Herbivoracious Cookbook
+
+<div class="faq"><h2>Frequently asked questions</h2>
+
+<h3>Do I need to press tofu?</h3>
+<p>Not if you start with extra-firm tofu, which already has a firm texture. What matters is getting the surface dry: lay the tofu on a clean dish towel, cover it with another, and pat well to remove as much surface moisture as you can. That is what lets it brown.</p>
+
+<h3>Is it worth marinating tofu?</h3>
+<p>In my experience, no. The marinade barely penetrates. Flavor the tofu with a sauce after it is cooked.</p>
+
+<h3>What kind of tofu should I buy?</h3>
+<p>Extra-firm tofu from the refrigerated section, packed in a water-filled box or wrapped in plastic, not the shelf-stable boxes. Choose the latest expiration date you can find. If you can get fresh tofu from a local tofu maker, it is even better.</p>
+
+<h3>How do I get tofu crispy?</h3>
+<p>Optionally soak it in hot, well-salted water for about 15 minutes and drain, then dry it thoroughly. Fry it in a very hot cast-iron skillet with about 2 tablespoons of neutral oil, in a single layer with room around each piece, until it is deeply golden brown on every side.</p>
+
+<h3>Can I use a non-stick pan?</h3>
+<p>I would not, because the pan needs to be very hot and that can damage the coating. A big cast-iron skillet holds heat well and develops a naturally non-stick surface.</p>
+
+<h3>How do I add sauce without losing the crust?</h3>
+<p>Take the tofu out of the pan, cook your vegetables and sauce, then add the tofu back at the very end so it does not go soggy.</p>
+
+<p class="related-link">More ideas: see all of my <a href="/collections/vegetarian-tofu-recipes/">vegetarian tofu recipes</a>.</p>
+
+</div>

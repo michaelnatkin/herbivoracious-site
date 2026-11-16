@@ -3,7 +3,6 @@ title: "Bean and Lentil Recipes: Soups, Stews, Salads and Mains"
 subtitle: "Beans and lentils as the main event"
 slug: "vegetarian-bean-and-lentil-recipes"
 description: "Vegetarian bean and lentil recipes from Herbivoracious: black bean soup, ful medames, mujadara, red lentil soup, chili and more. Hearty, budget-friendly and mostly vegan."
-draft: true
 cover:
   image: "/images/old/6a00e008d618bb88340134864c9ab1970c-500wi.webp"
 recipes:

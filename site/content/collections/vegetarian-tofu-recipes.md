@@ -3,7 +3,6 @@ title: "Tofu Recipes: Crispy, Saucy and Full of Flavor"
 subtitle: "Tofu dishes that go well beyond a stir-fry"
 slug: "vegetarian-tofu-recipes"
 description: "Vegetarian tofu recipes from Herbivoracious: Sichuan green beans, banh mi chay, Mission Chinese-style tofu, tacos, curry and more."
-draft: true
 cover:
   image: "/images/2013/08/Mission-Chinese-Style-Tofu-with-Radish-and-Shiso-626x415.webp"
 recipes:

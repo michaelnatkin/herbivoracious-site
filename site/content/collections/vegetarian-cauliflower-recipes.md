@@ -3,7 +3,6 @@ title: "Cauliflower Recipes: Roasted, Curried, Breaded and in Pasta"
 subtitle: "Cauliflower as a main course"
 slug: "vegetarian-cauliflower-recipes"
 description: "Vegetarian cauliflower recipes from Herbivoracious: Sichuan spicy cauliflower, Sicilian pasta, roasted cauliflower and white bean salad, gobi masala and more."
-draft: true
 cover:
   image: "/images/2013/05/Sichuan-Cauliflower-Cooked-626x415.webp"
 recipes:

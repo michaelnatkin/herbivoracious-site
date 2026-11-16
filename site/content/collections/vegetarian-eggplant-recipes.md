@@ -3,7 +3,6 @@ title: "Eggplant Recipes: Curries, Pastas, Parmesan and More"
 subtitle: "Eggplant from Thai basil stir-fry to eggplant parmigiana"
 slug: "vegetarian-eggplant-recipes"
 description: "Vegetarian eggplant recipes from Herbivoracious: Thai basil eggplant, coconut curry, sabich, eggplant parmigiana, chermoula-stuffed eggplant and more."
-draft: true
 cover:
   image: "/images/2012/06/Thai-Basil-Eggplant-626x415.webp"
 recipes:

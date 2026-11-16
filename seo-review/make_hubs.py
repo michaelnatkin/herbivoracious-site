@@ -54,7 +54,7 @@ for slug,title,sub,desc,intro,rs in H:
     for r in rs:
         m=re.search(r'cover:\s*\n\s*image:\s*"([^"]+)"',open(f'site/content/posts/{r}.md').read())
         if m: cover=m.group(1); break
-    fm=f'---\ntitle: "{title}"\nsubtitle: "{sub}"\nslug: "{slug}"\ndescription: "{desc}"\ndraft: true\n'
+    fm=f'---\ntitle: "{title}"\nsubtitle: "{sub}"\nslug: "{slug}"\ndescription: "{desc}"\n'
     if cover: fm+=f'cover:\n  image: "{cover}"\n'
     fm+='recipes:\n'+''.join(f'  - "{r}"\n' for r in rs)+'---\n\n'+intro+'\n'
     open(f'site/content/collections/{slug}.md','w').write(fm); print(slug,len(rs))

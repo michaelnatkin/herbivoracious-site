@@ -3,7 +3,6 @@ title: "Chickpea Recipes: Curries, Stews, Fritters and Salads"
 subtitle: "One humble bean, many different dinners"
 slug: "vegetarian-chickpea-recipes"
 description: "Vegetarian chickpea recipes from Herbivoracious: kala chana, chana masala, Turkish chickpea and potato stew, tagines, chickpea cakes and more."
-draft: true
 cover:
   image: "/images/2012/01/Kala-Chana-624x415.webp"
 recipes:

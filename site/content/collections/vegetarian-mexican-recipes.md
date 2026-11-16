@@ -3,7 +3,6 @@ title: "Vegetarian Mexican Recipes"
 subtitle: "Tacos, enchiladas, salsas and beans, no meat required"
 slug: "vegetarian-mexican-recipes"
 description: "Vegetarian Mexican recipes from Herbivoracious: crispy quesadillas, chilaquiles verdes, enchiladas, tamales, salsas, frijoles charros and more."
-draft: true
 cover:
   image: "/images/2008-small/07/29/quesadillacrispy.webp"
 recipes:

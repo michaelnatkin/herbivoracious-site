@@ -3,7 +3,6 @@ title: "Vegetarian Korean Recipes: Kimchi, Bibimbap, Mandu and More"
 subtitle: "Korean flavors, no meat or fish"
 slug: "vegetarian-korean-recipes"
 description: "Vegetarian Korean recipes from Herbivoracious: kimchi fried rice, bibimbap, mandu, banchan, kimchi jigae, bibim naengmyeon and homemade kimchi."
-draft: true
 cover:
   image: "/images/old/6a00e008d618bb88340148c707abaa970c-500wi.webp"
 recipes:

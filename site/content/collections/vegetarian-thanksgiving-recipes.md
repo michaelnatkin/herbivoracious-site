@@ -3,7 +3,6 @@ title: "Vegetarian Thanksgiving Recipes: Sides and Showstoppers"
 subtitle: "Dishes for a holiday table that does not need a turkey"
 slug: "vegetarian-thanksgiving-recipes"
 description: "Vegetarian Thanksgiving recipes from Herbivoracious: vegetarian gravy, brown butter cornbread, roasted green beans, gratin, stuffed squash, bread pudding and more."
-draft: true
 cover:
   image: "/images/old/6a00e008d618bb88340147e02f33ed970b-500wi.webp"
 recipes:

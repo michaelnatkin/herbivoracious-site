@@ -3,7 +3,6 @@ title: "Mushroom Recipes: Shiitake, Maitake, Chanterelle and More"
 subtitle: "From everyday shiitakes to seasonal wild mushrooms"
 slug: "vegetarian-mushroom-recipes"
 description: "Vegetarian mushroom recipes from Herbivoracious: kinoko gohan, maitake, king oyster, chanterelles, shiitake, porcini and more."
-draft: true
 cover:
   image: "/images/2012/03/Kinoko-Gohan-Japanese-Mushroom-Rice-626x415.webp"
 recipes:

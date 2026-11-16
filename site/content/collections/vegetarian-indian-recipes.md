@@ -3,7 +3,6 @@ title: "Vegetarian Indian Recipes: Dals, Curries and Sides"
 subtitle: "Lentils, chickpeas, potatoes and greens, built up with whole spices"
 slug: "vegetarian-indian-recipes"
 description: "Vegetarian Indian recipes from Herbivoracious: dal, chana masala, saag, gobi masala, potato sides and more. Many are vegan, and most come together in under an hour."
-draft: true
 cover:
   image: "/images/2012/01/Kala-Chana-624x415.webp"
 recipes:
