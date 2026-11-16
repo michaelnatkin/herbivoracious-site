@@ -10,6 +10,7 @@ cover:
   hidden: true
 recipe:
   name: "Chirashi Sushi"
+  yield: "4"
   ingredients:
     - "For the sushi rice:"
     - "2 cups Japanese rice"
@@ -46,8 +47,12 @@ recipe:
 
 <a href="/images/cookbook/chirashi-sushi-3.webp"><img src="/images/cookbook/chirashi-sushi-3.webp" alt="Chirashi Sushi" /></a>
 
+<p>Chirashi (“scattered”) sushi is presented in a bowl instead of rolled up in nori sheets, so it is a lot simpler to make. Don’t be intimidated by the list of toppings below. This is a fairly elaborate version, but you can absolutely simplify it. You could make this with nothing but avocado and fried tofu, and it would still be delicious.</p>
+<p>My strategy is to get the rice cooking and then simply make as many toppings as I have time for. Feel free to substitute others that fit into the Japanese palette. Pickled daikon, sweet omelet (tamago), a few tempura green beans, or asparagus would all be very welcome.</p>
+
 <div class="recipe-card">
 <p><strong>Chirashi Sushi</strong>
+<br /><em>Vegan / gluten-free / Serves 4 / 45 minutes</em>
 </p>
 <ul>
 <li>For the sushi rice:</li>

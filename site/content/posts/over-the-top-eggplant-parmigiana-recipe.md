@@ -10,6 +10,7 @@ cover:
   hidden: true
 recipe:
   name: "Over the Top Eggplant Parmigiana"
+  yield: "6"
   ingredients:
     - "3 large or 5 smaller globe eggplant, about 4 pounds total"
     - "Kosher salt"
@@ -38,8 +39,14 @@ recipe:
 
 <a href="/images/cookbook/over-the-top-eggplant-parmigiana-3.webp"><img src="/images/cookbook/over-the-top-eggplant-parmigiana-3.webp" alt="Over the Top Eggplant Parmigiana" /></a>
 
+<p>For this no-holds-barred eggplant parmigiana, the eggplant is breaded with panko and pan-fried, layered with fresh mozzarella and homemade tomato sauce, finished in the oven, and then topped with a dice of fresh heirloom tomatoes. It makes a satisfying entrée, and you need only add a green salad to make a celebratory dinner.</p>
+<p>I don’t salt and drain eggplant for most uses, but it is worthwhile in this recipe. Extracting some of the liquid makes the eggplant fry up firm yet fork-tender. You don’t want any mush factor in your parmigiana.</p>
+<p>Here’s a great tip for breading. Use one hand to put the eggplant in the flour, egg, and bread crumbs. Use the other hand to toss the eggplant in the bread crumbs and into the skillet. By keeping one hand for the wet stuff and the other for the dry, you avoid getting your hands breaded along with the eggplant!</p>
+<p>The finest canned tomatoes for Italian dishes come from the area of San Marzano; look for that name on the can.</p>
+
 <div class="recipe-card">
 <p><strong>Over the Top Eggplant Parmigiana</strong>
+<br /><em>Serves 6 / 1 1/2 hours total (40 minutes active)</em>
 </p>
 <ul>
 <li>3 large or 5 smaller globe eggplant, about 4 pounds total</li>

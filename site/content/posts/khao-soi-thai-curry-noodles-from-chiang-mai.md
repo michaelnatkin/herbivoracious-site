@@ -29,7 +29,7 @@ recipe:
     - "Kosher salt"
     - "1 cup water"
     - "1 cup Chinese pickled mustard greens"
-    - "*OR* 1 cup Sichuan pickled vegetable (see page 000)"
+    - "*OR* 1 cup Sichuan pickled vegetable"
     - "*OR* 1 cup sliced napa cabbage (1/8 inch thick) tossed with 1/4 cup white vinegar and 1/2 teaspoon kosher salt"
     - "1 pound fresh flat (about 1/8 inch wide) or spaghetti-shaped Asian egg noodles, minus a handful fried up for garnish"
     - "4 Key limes, halved, or 2 regular limes, quartered"
@@ -85,7 +85,7 @@ My version isn’t completely authentic; I skip making a second chili sauce (nam
 <h4>FOR THE PICKLED VEGETABLE</h4>
 <ul>
   <li>1 cup {{% product id="chinese-pickled-mustard-greens" %}}Chinese pickled mustard greens{{% /product %}}</li>
-  <li>*OR* 1 cup Sichuan pickled vegetable (see page 000)</li>
+  <li>*OR* 1 cup Sichuan pickled vegetable</li>
   <li>*OR* 1 cup sliced napa cabbage (1/8 inch thick) tossed with 1/4 cup white vinegar and 1/2 teaspoon kosher salt</li>
 </ul>
 <h4>TO COMPLETE THE DISH</h4>

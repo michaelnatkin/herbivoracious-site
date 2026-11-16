@@ -37,6 +37,10 @@ recipe:
 ---
 <a href="/images/cookbook/butternut-squash-soup-with-maple-pumpkin-seeds-2.webp"><img src="/images/cookbook/butternut-squash-soup-with-maple-pumpkin-seeds-2.webp" alt="Butternut Squash Soup with Maple Pumpkin Seeds" /></a>
 
+<p>Butternut squash is a classic flavor of fall. I emphasize the autumnal connection by pairing it with pumpkin seeds glazed with maple syrup and a drizzle of pomegranate molasses. A bit of orange zest adds the final bright note that brings it all together.</p>
+<p>For maximum flavor, I like to brown the squash. If you want to retain a brighter color, brown it less and simmer it more. The glazed pumpkin seeds are also terrific in salads or anywhere you want a little crunch. The same method works fine for other nuts, especially walnuts.</p>
+<p>Pureed soups are all about achieving a velvety smooth texture. When you blend this soup, allow the blender to run for at least 2 minutes, and then pass the results through a very fine sieve or chinois.</p>
+
 <div class="recipe-card">
 <p><strong>Butternut Squash Soup with Maple Pumpkin Seeds</strong>
 <br /><em>Vegan and gluten-free / Serves 4-6 / 45 minutes</em>

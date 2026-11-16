@@ -47,6 +47,15 @@ recipe:
 
 <a href="/images/cookbook/rice-vermicelli-bn-with-ginger-grapefruit-sauce-4.webp"><img src="/images/cookbook/rice-vermicelli-bn-with-ginger-grapefruit-sauce-4.webp" alt="Rice Vermicelli (Bún) with Ginger-Grapefruit Sauce" /></a>
 
+<p>When well made, bun (pronounced, roughly, “boon”) is just about one of the greatest foods ever invented. Thin Vietnamese rice noodles are topped with a variety of cooked and fresh ingredients, lots of herbs, and a sweet-and-savory sauce to make a light, healthy, and superbly delicious meal-in-a-bowl. It is salad and entrée in one amazing package.</p>
+<p>You can make a terrific bún at home. You have the luxury of gathering great fresh ingredients, and you can make a sauce that is vegetarian by design (unlike those at your local Vietnamese joint), with big bright flavors, including fresh grapefruit juice.</p>
+<p>The key to bún is all in the mise en place. You have quite a few ingredients that need preparation. Nothing complicated—it just takes a little bit of time to get them all together, and you want to be organized for final assembly. And remember to grate the zest from one of the limes before you juice them.My choices for ingredients and sauce can just be a starting point; you can add or subtract anything you like. As long as it fits within Vietnamese flavor profiles it will still be a great dish. Other things I love to include Thai basil, lemongrass (sauteed with the tofu), roasted peanuts, and papaya.</p>
+<aside class="side-note">
+<h3>A Kitchen Tool to Make Your Life Easier</h3>
+<p>A mandoline is one of the best things you can buy to streamline your cooking prep and improve the look of your dishes. You can buy high-end ones that run upwards of $100, but most chefs use the simpler $20 model from Benriner, a Japanese brand. It makes quick work of creating uniform slices ranging in thickness from paper thin up to about 1/4 inch, and you can attach additional blades to cut juliennes of various widths.</p>
+</aside>
+<p>For the sauce</p>
+
 <div class="recipe-card">
 <p><strong>Rice Vermicelli (Bún) with Ginger-Grapefruit Sauce</strong>
 <br /><em>Vegan and gluten-free / Serves 4 /  45 minutes</em>

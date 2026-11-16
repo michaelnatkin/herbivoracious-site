@@ -11,6 +11,7 @@ cover:
   hidden: true
 recipe:
   name: "Garlic Miso Broth"
+  yield: "4 small or 2 large servings"
   ingredients:
     - "1 head garlic (about 10 cloves), peeled and thinly sliced"
     - "1 tablespoon red miso"

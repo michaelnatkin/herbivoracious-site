@@ -7,6 +7,7 @@ categories: ["Recipes", "Side Dishes"]
 aliases: ["/sauteed-corn-with-lemongrass-recipe/", "/2012/03/sauteed-corn-with-lemongrass-recipe.html"]
 recipe:
   name: "Sauteed Corn with Lemongrass"
+  yield: "4 to 6"
   ingredients:
     - "3 tablespoons vegetable oil"
     - "1/2 red onion, finely diced"
@@ -32,8 +33,16 @@ recipe:
 ---
 
 
+<p>Corn has a great affinity for the Southeast Asian flavors of lemongrass, lime, ginger, and chiles. Sautéeing it over high heat with all of these aromatics makes a bright, flavorful side dish. Try it with the Quinoa Cakes for a perfect late-summer dinner.</p>
+<p>This is one recipe where frozen corn won’t do. If you try to use it still frozen, it will lower the heat too much, and if you defrost first, the kernels will be soggy.</p>
+<aside class="side-note">
+<h3>Preparing Lemongrass</h3>
+<p>Remove all but the bottom 3 inches, keeping only the nearly white portion. Trim ¼ inch off the bottom end.  Remove the tough outer layers so you have only fairly tender stalk. Put the remaining piece on your cutting board and address it lovingly but firmly with the bottom of a saucepan or the side of a cleaver. Whack several times, until it is rather flattened. Now mince the squashed bits and it is ready to use in any recipe.</p>
+</aside>
+
 <div class="recipe-card">
 <p><strong>Sauteed Corn with Lemongrass</strong>
+<br /><em>Vegan / gluten-free / Serves 4 to 6 / 20 minutes</em>
 </p>
 <ul>
 <li>3 tablespoons vegetable oil</li>

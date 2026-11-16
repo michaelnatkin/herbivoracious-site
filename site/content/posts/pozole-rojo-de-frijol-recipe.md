@@ -10,6 +10,7 @@ cover:
   hidden: true
 recipe:
   name: "Pozole Rojo de Frijol"
+  yield: "4 as a one-pot meal or 8 as a first course"
   ingredients:
     - "1 or 2 (or more, if you like a lot of heat) dried chiles de Arbol, ancho, or guajillo chiles"
     - "2 tablespoons oil"
@@ -43,6 +44,7 @@ recipe:
 
 <div class="recipe-card">
 <p><strong>Pozole Rojo de Frijol</strong>
+<br /><em>Vegan option / gluten-free / Serves 4 as a one-pot meal or 8 as a first course / 40 minutes</em>
 </p>
 <ul>
 <li>1 or 2 (or more, if you like a lot of heat) dried chiles de Arbol, ancho, or {{% product id="guajillo-chiles-peppers-dried-whole-4-oz" %}}guajillo chiles{{% /product %}}</li>

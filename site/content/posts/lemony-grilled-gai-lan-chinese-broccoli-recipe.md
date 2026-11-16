@@ -11,6 +11,7 @@ cover:
   hidden: true
 recipe:
   name: "Lemony Grilled Gai Lan (Chinese Broccoli)"
+  yield: "4"
   ingredients:
     - "The Korean-French cuisine of chefs Seif Cherchi and Rachel Yang have made a huge impact on Seattle food culture. At Joule, they knocked my socks off with a dish of Chinese broccoli tossed with chermoula and grilled. My variation uses kochujang (a Korean chile paste), which blends beautifully with the flavor of fresh lemons."
     - "If you aren’t able to grill, you can also use a grill pan or your broiler to cook these greens. If possible, use the optional smoked salt to bring some of those smoky flavors in."
@@ -36,6 +37,7 @@ recipe:
 
 <div class="recipe-card">
 <p><strong>Lemony Grilled Gai Lan (Chinese Broccoli)</strong>
+<br /><em>Vegan  / gluten-free / Serves 4 / 20 minutes</em>
 </p>
 <ul>
 <li>The Korean-French cuisine of chefs Seif Cherchi and Rachel Yang have made a huge impact on Seattle food culture. At Joule, they knocked my socks off with a dish of Chinese broccoli tossed with chermoula and grilled. My variation uses {{% product id="cj-haechandle-gochujang-korean-red-pepper-paste" %}}kochujang{{% /product %}} (a Korean chile paste), which blends beautifully with the flavor of fresh lemons.</li>

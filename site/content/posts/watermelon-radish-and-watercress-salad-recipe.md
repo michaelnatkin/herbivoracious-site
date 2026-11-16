@@ -10,6 +10,7 @@ cover:
   hidden: true
 recipe:
   name: "Watermelon Radish and Watercress Salad"
+  yield: "4"
   ingredients:
     - "1 large watermelon radish, very thinly sliced"
     - "extra virgin olive oil"
@@ -27,8 +28,13 @@ recipe:
 ---
 <a href="/images/cookbook/watermelon-radish-and-watercress-salad-2.webp"><img src="/images/cookbook/watermelon-radish-and-watercress-salad-2.webp" alt="Watermelon Radish and Watercress Salad" /></a>
 
+<p>This delicious salad is driven purely by its beautiful ingredients; all you have to do is take a little care to arrange them nicely.</p>
+<p>Watermelon radishes are green on the outside, but when sliced you see that they are intensely red in the middle, looking much like tiny watermelons. If you have a mandoline, use it here: It is excellent for slicing them thinly and evenly.</p>
+<p>Hydroponic watercress with the root ball intact has become available year-round at specialty markets. Look for bright, fresh leaves with no signs of wilt. The tart, peppery cress makes a great foil for the sweet figs and pomegranate arils.</p>
+
 <div class="recipe-card">
 <p><strong>Watermelon Radish and Watercress Salad</strong>
+<br /><em>Gluten-free / Serves 4 / 10 minutes</em>
 </p>
 <ul>
 <li>1 large watermelon radish, very thinly sliced</li>

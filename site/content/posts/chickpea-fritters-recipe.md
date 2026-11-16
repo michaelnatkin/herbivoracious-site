@@ -10,6 +10,7 @@ cover:
   hidden: true
 recipe:
   name: "Chickpea Fritters"
+  yield: "16 fritters"
   ingredients:
     - "3 cups cooked chickpeas (or two 15 oz. cans, drained and rinsed)"
     - "1/2 cup green onions (white and light green parts only), very thinly sliced"
@@ -30,8 +31,11 @@ recipe:
 ---
 <a href="/images/cookbook/chickpea-fritters-2.webp"><img src="/images/cookbook/chickpea-fritters-2.webp" alt="Chickpea Fritters" /></a>
 
+<p>These little chickpea cakes are versatile; you can serve them as an appetizer, a side dish, or as the protein-packed star of the show. They are somewhat like a pan-fried falafel, but without a deep-fried crust, so we amp up the internal flavoring. Try them with the <a href="/2010/07/tomato-jam-with-rosemary-and-saffron-recipe/">Tomato Jam with Rosemary and Saffron</a> for a big flavor combination.</p>
+
 <div class="recipe-card">
 <p><strong>Chickpea Fritters</strong>
+<br /><em>Makes 16 fritters / 30 minutes</em>
 </p>
 <ul>
 <li>3 cups cooked chickpeas (or two 15 oz. cans, drained and rinsed)</li>

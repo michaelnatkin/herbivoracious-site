@@ -10,6 +10,7 @@ cover:
   hidden: true
 recipe:
   name: "Real Homefries"
+  yield: "2 as most of a meal or 4 as a side"
   ingredients:
     - "¼ cup vegetable oil"
     - "1/2 white onion, 3/8” dice"
@@ -25,8 +26,12 @@ recipe:
 ---
 <a href="/images/cookbook/real-homefries-2.webp"><img src="/images/cookbook/real-homefries-2.webp" alt="Real Homefries" /></a>
 
+<p>Homemade home fries (is that redundant?) are infinitely better than those you find in most restaurants, because at home you can get them really browned and serve them while they are still crispy. In restaurants, the potatoes are usually cut too large and cooked in a big pile on a flat-top griddle, where they mostly steam. Bah.</p>
+<p>I like to make a whole meal out of these potatoes, serving them up with a couple of sunny-side-up eggs and, if it is late summer, thick slices of tomatoes from the garden. The yolk mixed with the potatoes and the tomato juices is sublime.</p>
+
 <div class="recipe-card">
 <p><strong>Real Homefries</strong>
+<br /><em>Vegan / gluten-free / Serves 2 as most of a meal or 4 as a side / 20 minutes</em>
 </p>
 <ul>
 <li>¼ cup vegetable oil</li>

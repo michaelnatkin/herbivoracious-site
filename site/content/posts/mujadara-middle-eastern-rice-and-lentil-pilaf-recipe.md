@@ -10,6 +10,7 @@ cover:
   hidden: true
 recipe:
   name: "Mujadara – Middle Eastern Rice and Lentil Pilaf"
+  yield: "6"
   ingredients:
     - "3 pounds white onions, sliced moderately thin"
     - "1/4 cup vegetable oil"
@@ -36,6 +37,7 @@ recipe:
 
 <div class="recipe-card">
 <p><strong>Mujadara – Middle Eastern Rice and Lentil Pilaf</strong>
+<br /><em>Vegan / gluten-free / Serves 6 / 1 hour</em>
 </p>
 <ul>
 <li>3 pounds white onions, sliced moderately thin</li>

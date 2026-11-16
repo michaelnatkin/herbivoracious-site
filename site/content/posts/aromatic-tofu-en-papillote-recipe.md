@@ -10,6 +10,7 @@ cover:
   hidden: true
 recipe:
   name: "Aromatic Tofu En Papillote"
+  yield: "4"
   ingredients:
     - "20 ounces firm or extra-firm tofu"
     - "4 pieces of parchment paper or banana leaf, large enough to wrap the tofu and form an envelope"
@@ -49,6 +50,7 @@ recipe:
 
 <div class="recipe-card">
 <p><strong>Aromatic Tofu En Papillote</strong>
+<br /><em>Vegan / gluten-free / Serves 4 / 40 minutes</em>
 </p>
 <ul>
 <li>20 ounces firm or extra-firm tofu</li>

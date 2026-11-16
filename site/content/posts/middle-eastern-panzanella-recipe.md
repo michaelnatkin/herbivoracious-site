@@ -10,6 +10,7 @@ cover:
   hidden: true
 recipe:
   name: "Middle Eastern Panzanella"
+  yield: "1 as an entrée or 4 as a small side dish"
   ingredients:
     - "1 pita bread, toasted until well browned"
     - "2 ripe medium-sized tomatoes"
@@ -38,6 +39,7 @@ recipe:
 
 <div class="recipe-card">
 <p><strong>Middle Eastern Panzanella</strong>
+<br /><em>Vegan / Serves 1 as an entrée or 4 as a small side dish / 15 minutes</em>
 </p>
 <ul>
 <li>1 pita bread, toasted until well browned</li>

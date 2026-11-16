@@ -10,6 +10,7 @@ cover:
   hidden: true
 recipe:
   name: "Caramelized Pear and Ginger Scones"
+  yield: "12"
   ingredients:
     - "For the pears:"
     - "2 tablespoons unsalted butter"
@@ -42,8 +43,12 @@ recipe:
 
 <a href="/images/cookbook/caramelized-pear-and-ginger-scones-4.webp"><img src="/images/cookbook/caramelized-pear-and-ginger-scones-4.webp" alt="Caramelized Pear and Ginger Scones" /></a>
 
+<p>These scones are light and moist, with just enough pear and ginger flavor to be interesting but not overpowering. Make them for brunch and I guarantee your friends and family will be happy. My kids beg me to make them whenever we have company for brunch.</p>
+<p>These would be just ridiculously good as the base for strawberry shortcake.</p>
+
 <div class="recipe-card">
 <p><strong>Caramelized Pear and Ginger Scones</strong>
+<br /><em>Makes 12 / 55 minutes (30 minutes active)</em>
 </p>
 <ul>
 <li>For the pears:</li>

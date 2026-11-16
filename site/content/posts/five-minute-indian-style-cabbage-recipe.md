@@ -7,6 +7,7 @@ categories: ["Recipes", "Side Dishes"]
 aliases: ["/five-minute-indian-style-cabbage-recipe/", "/2012/01/five-minute-indian-style-cabbage-recipe.html"]
 recipe:
   name: "Five Minute Indian-Style Cabbage"
+  yield: "4"
   ingredients:
     - "1 tablespoon vegetable oil or ghee (clarified butter), or mustard oil, or more to taste"
     - "1 tablespoon black mustard seeds"
@@ -29,6 +30,7 @@ recipe:
 
 <div class="recipe-card">
 <p><strong>Five Minute Indian-Style Cabbage</strong>
+<br /><em>Vegan option / gluten-free / Serves 4 / 5 minutes</em>
 </p>
 <ul>
 <li>1 tablespoon vegetable oil or ghee (clarified butter), or mustard oil, or more to taste</li>

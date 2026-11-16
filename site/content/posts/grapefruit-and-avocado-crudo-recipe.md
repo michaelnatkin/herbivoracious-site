@@ -10,6 +10,7 @@ cover:
   hidden: true
 recipe:
   name: "Grapefruit and Avocado Crudo"
+  yield: "4"
   ingredients:
     - "2 red grapefruit, sliced as described above"
     - "1 ripe avocado, thinly sliced"
@@ -35,6 +36,7 @@ recipe:
 
 <div class="recipe-card">
 <p><strong>Grapefruit and Avocado Crudo</strong>
+<br /><em>Vegan / gluten-free / Serves 4 / 15 minutes</em>
 </p>
 <ul>
 <li>2 red grapefruit, sliced as described above</li>

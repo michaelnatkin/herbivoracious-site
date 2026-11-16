@@ -7,6 +7,7 @@ categories: ["Recipes", "Side Dishes"]
 aliases: ["/red-wine-braised-cabbage-recipe/", "/2012/02/red-wine-braised-cabbage-recipe.html"]
 recipe:
   name: "Red-Wine Braised Cabbage"
+  yield: "4"
   ingredients:
     - "2 tablespoons extra-virgin olive oil (butter is good too if you don’t need vegan)"
     - "1 white onion, thinly sliced"
@@ -23,8 +24,13 @@ recipe:
 ---
 
 
+<p>I lived in Milwaukee for several years, and my downstairs neighbor was an elderly German woman who cooked cabbage for hours, until the sulfurous smells penetrated every corner of the apartment building. In spite of that trauma, I love well-prepared braised cabbage. The key is to cook it enough to be meltingly tender, but not so much that it starts to break down.</p>
+<p>For a variation, use green cabbage instead of red, and replace the red wine with a dry white wine or a dark ale, adding a tablespoon of prepared Dijon mustard in either case.</p>
+<p>The exact sizes of onion, leek, and cabbage aren’t critical in this dish. Just use what you have and I promise it will braise down into a luscious pile of tender vegetables. Serve with <a href="/2011/12/crispy-polenta-cakes-with-white-beans-and-morels-recipe/">Crispy Polenta Cakes with White Beans and Morels</a> for a real treat.</p>
+
 <div class="recipe-card">
 <p><strong>Red-Wine Braised Cabbage</strong>
+<br /><em>Vegan / gluten-free / Serves 4 / 40 minutes (10 minutes active)</em>
 </p>
 <ul>
 <li>2 tablespoons extra-virgin olive oil (butter is good too if you don’t need vegan)</li>

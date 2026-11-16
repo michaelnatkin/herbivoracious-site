@@ -10,6 +10,7 @@ cover:
   hidden: true
 recipe:
   name: "Celery Soup with Fregola Sarda or Israeli Couscous"
+  yield: "4 modest servings"
   ingredients:
     - "½ cup fregola sarda or Israeli couscous"
     - "2 tablespoons extra-virgin olive oil"
@@ -29,6 +30,10 @@ recipe:
     - "Divide the soup among the 4 bowls. Top with a sprinkle of grated cheese, the raw celery, the celery leaves, and a grind of black pepper. Serve immediately."
 ---
 <a href="/images/cookbook/celery-soup-with-fregola-sarda-or-israeli-couscous-2.webp"><img src="/images/cookbook/celery-soup-with-fregola-sarda-or-israeli-couscous-2.webp" alt="Celery Soup with Fregola Sarda or Israeli Couscous" /></a>
+
+<p>Gentle and comforting, this soup is like something your grandmother might have made. It looks right served in those shallow soup plates of hers that you don’t use often enough. Serve it with <a href="/2010/01/brussels-sprout-gratin-with-heretical-technique-recipe/">Brussels Sprout Gratin</a> for a perfect comfort-food dinner.</p>
+<p>The broth starts with just water, so that you can really taste the celery. The garnish includes both thinly sliced raw celery and celery leaves to emphasize the flavor and add just a hint of crunch.</p>
+<p>Fregola sarda is a small, round, toasted pasta from Sardinia with a delightful nutty flavor. If you can’t find it, you can substitute Israeli couscous, but pan-toast it first—I explain how below. (Don’t confuse the tiny-grained Moroccan couscous, which just doesn’t work in this soup, with the larger Israeli couscous .) Another option is pearled barley, but it will require more cooking time.</p>
 
 <div class="recipe-card">
 <p><strong>Celery Soup with {{% product id="rustichella-d-abruzzo-fregola-sarda" %}}Fregola Sarda{{% /product %}} or Israeli Couscous</strong>

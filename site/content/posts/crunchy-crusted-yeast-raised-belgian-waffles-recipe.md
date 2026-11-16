@@ -31,6 +31,12 @@ recipe:
 
 <a href="/images/cookbook/crunchy-crusted-yeast-raised-belgian-waffles-3.webp"><img src="/images/cookbook/crunchy-crusted-yeast-raised-belgian-waffles-3.webp" alt="Crunchy Crusted Yeast-Raised Belgian Waffles" /></a>
 
+<p>10 minutes the night before, then however long it takes you to cook waffles in the morning</p>
+<p>I believe that there are no bad homemade waffles, only good ones and great ones. A great waffle should have an ultra-crispy crust with a tender interior and some complexity of flavor, without being too sweet.</p>
+<p>This recipe is closely based on Marion Cunningham’s formula. The main change I’ve made is to use some rice flour in the batter. Because it is a pure starch, rice flour creates the most incredibly crunchy surfaces. (Try it for dredging in place of wheat flour in any recipe where you are going to pan-fry, and you’ll see what I mean.) I also add malt powder for a little mysterious background flavor. You can find Carnation malt powder at many groceries.</p>
+<p>Yeast delivers a great taste, and has the advantage that you make the batter the night before and just let it hang out in the refrigerator. The next morning, you don’t have to do anything more ambitious than turn on your waffle iron and ladle in the batter. You’ll need a Belgian-style waffle iron, this recipe won’t work as well in machines that make thin waffles.</p>
+<p>You might want to make a double batch. Cool extra waffles in a single layer and then freeze them, well wrapped. If you reheat them in a toaster oven directly from the freezer, the original crust comes right back.</p>
+
 <div class="recipe-card">
 <p><strong>Crunchy Crusted Yeast-Raised Belgian Waffles</strong>
 <br /><em>Serves 4 / 10 minutes the night before, then however long it takes you to cook waffles</em>

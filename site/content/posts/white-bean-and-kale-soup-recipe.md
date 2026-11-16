@@ -35,6 +35,9 @@ recipe:
 
 <a href="/images/cookbook/white-bean-and-kale-soup-3.webp"><img src="/images/cookbook/white-bean-and-kale-soup-3.webp" alt="White Bean and Kale Soup" /></a>
 
+<p>The bean cooking liquid is an integral part of the broth for this warming soup. I give you three options for building more umami on that base: a Parmesan rind (which I save in the freezer when it becomes too hard to grate), dried porcini mushrooms, or vegetarian broth powder. Feel free to use two of these choices if you like!</p>
+<p>If you have a pressure cooker, you can make this entire soup in it, including cooking the beans. If not, you can do it just as well on the stovetop; you just need to plan further ahead so you can soak and cook the beans.</p>
+
 <div class="recipe-card">
 <p><strong>White Bean and Kale Soup</strong>
 <br /><em>Vegan option and gluten-free / Yields 10 cups, serves 6 / 20 minutes active (1 ½ hours total using pressure cooker)</em>

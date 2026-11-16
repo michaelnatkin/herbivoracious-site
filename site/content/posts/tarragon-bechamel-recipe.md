@@ -7,6 +7,7 @@ categories: ["Recipes", "Sauces and Condiments"]
 aliases: ["/tarragon-bechamel-recipe/", "/2012/06/tarragon-bechamel-recipe.html"]
 recipe:
   name: "Tarragon Bechamel"
+  yield: "2 cups"
   ingredients:
     - "4 tablespoons unsalted butter"
     - "3 tablespoons all-purpose flour"
@@ -21,8 +22,13 @@ recipe:
 ---
 
 
+<p>Bechamel is a fundamental sauce of milk thickened with flour. It can be elaborated with herbs, as I do here, as a sauce to be used in the <a href="/2011/10/stuffed-baked-polenta-recipe/">Stuffed &amp; Baked Polenta</a>. It can also be enriched with cheese for mac &amp; cheese or used as the base of a creamy soup. It provides richness without the excessive fat of a cream-based sauce.</p>
+<p>This recipe will work just fine with 2 percent milk, but I can’t recommend skim milk.</p>
+<p>Tarragon is a powerful herb; a tablespoon of it is sufficient to flavor 2 cups of sauce. If you substitute other herbs, you will generally want to use a larger quantity.</p>
+
 <div class="recipe-card">
 <p><strong>Tarragon Bechamel</strong>
+<br /><em>Makes 2 cups / 15 minutes</em>
 </p>
 <ul>
 <li>4 tablespoons unsalted butter</li>

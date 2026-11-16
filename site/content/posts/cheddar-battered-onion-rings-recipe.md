@@ -10,6 +10,7 @@ cover:
   hidden: true
 recipe:
   name: "Cheddar-Battered Onion Rings"
+  yield: "4"
   ingredients:
     - "2 cups grated extra sharp cheddar cheese"
     - "1 egg yolk"
@@ -37,6 +38,7 @@ recipe:
 
 <div class="recipe-card">
 <p><strong>Cheddar-Battered Onion Rings</strong>
+<br /><em>Serves 4 / 30 minutes</em>
 </p>
 <ul>
 <li>2 cups grated extra sharp cheddar cheese</li>

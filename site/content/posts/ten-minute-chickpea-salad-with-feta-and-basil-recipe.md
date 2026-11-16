@@ -10,6 +10,7 @@ cover:
   hidden: true
 recipe:
   name: "Ten-Minute Chickpea Salad with Feta and Basil"
+  yield: "3 as an entrée, 8 as a side dish, or 12 for a potluck"
   ingredients:
     - "2 small (15 ounce) cans cooked chickpeas"
     - "1/2 red onion, finely diced"
