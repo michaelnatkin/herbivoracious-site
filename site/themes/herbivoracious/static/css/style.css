@@ -2888,3 +2888,15 @@ a.as-seen-in:hover { text-decoration: none; }
 .recipe-hubs { margin: 1.5rem 0; font-family: 'Inter', sans-serif; font-size: .85rem; color: #7a6f62; }
 .recipe-hubs a { color: #00809b; }
 @media print { .recipe-hubs { display: none; } }
+
+/* WordPress image alignment. Posts migrated from WordPress mark small images alignleft / alignright (and align="left|right")
+   expecting the text to wrap around them. */
+.single-content img.alignleft, .single-content img[align="left"] { float: left; margin: 6px 24px 14px 0; }
+.single-content img.alignright, .single-content img[align="right"] { float: right; margin: 6px 0 14px 24px; }
+.single-content img.aligncenter { display: block; margin-left: auto; margin-right: auto; }
+.single-content::after { content: ""; display: table; clear: both; }
+@media (max-width: 520px) {
+  .single-content img.alignleft, .single-content img.alignright, .single-content img[align="left"], .single-content img[align="right"] {
+    float: none; display: block; margin: 14px auto;
+  }
+}
