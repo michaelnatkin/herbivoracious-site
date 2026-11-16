@@ -2816,14 +2816,13 @@
   "status": "approved",
   "choice": 0,
   "chosen": {
-   "merchant": "Savory Spice Shop",
-   "product": "Rose Water",
-   "url": "https://www.savoryspiceshop.com/extracts/rose-water",
-   "epc": 0.33,
-   "rate": 15,
-   "price": "$4.50",
-   "verified": false,
-   "broken": true
+   "merchant": "Weee!",
+   "product": "Ziyad Rose Water, 300 ml",
+   "url": "https://www.weee.com/en/product/Ziyad-Rose-Water-300-ml-each/2067405",
+   "epc": null,
+   "rate": 10,
+   "price": "$5.27",
+   "verified": true
   }
  },
  "starfrit-salad-spinner": {
