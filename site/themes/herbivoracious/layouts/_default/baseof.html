@@ -74,7 +74,15 @@
       <div class="site-logo">
         <a href="{{ "" | relURL }}"><img src="{{ "images/logo.png" | relURL }}" alt="herbivoracious" class="logo-img"></a>
       </div>
-      <nav class="site-nav">
+      <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav" aria-label="Menu">
+        <svg class="nav-toggle__icon nav-toggle__icon--open" viewBox="0 0 28 28" width="28" height="28" aria-hidden="true"><path d="M3 8h22M3 14h22M3 20h22" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></svg>
+        <svg class="nav-toggle__icon nav-toggle__icon--close" viewBox="0 0 28 28" width="28" height="28" aria-hidden="true"><path d="M6 6l16 16M22 6L6 22" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></svg>
+      </button>
+      <form class="nav-search" action="{{ "search/" | relURL }}" method="get" role="search">
+        <svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M15.5 15.5L21 21" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>
+        <input type="search" name="q" placeholder="Search" aria-label="Search recipes" autocomplete="off">
+      </form>
+      <nav class="site-nav" id="site-nav">
         <a href="{{ "categories/recipes/" | relURL }}">recipes</a>
         <a href="{{ "collections/" | relURL }}">collections</a>
         <a href="{{ "get-the-herbivoracious-cookbook/" | relURL }}">cookbook</a>
@@ -85,6 +93,17 @@
       </nav>
     </div>
   </header>
+  <script>
+  (function(){
+    var b=document.querySelector('.nav-toggle'), n=document.getElementById('site-nav');
+    if(!b||!n) return;
+    b.addEventListener('click',function(){
+      var open=n.classList.toggle('is-open');
+      b.setAttribute('aria-expanded',open?'true':'false');
+      b.classList.toggle('is-open',open);
+    });
+  })();
+  </script>
 
   {{ block "main" . }}{{ end }}
 

@@ -95,6 +95,8 @@ img { max-width: 100%; height: auto; }
   width: auto;
 }
 
+.nav-toggle, .nav-search { display: none; }
+
 .site-nav {
   display: flex;
   gap: 36px;
@@ -1781,19 +1783,75 @@ a.as-seen-in:hover { text-decoration: none; }
     padding: 32px 24px;
   }
 
+  /* Phone header (Food52-style): logo + hamburger on one row, full-width search below, links in a dropdown. Scrolls away with the page. */
+  .site-header { padding: 14px 0 12px; position: static; }
   .header-inner {
-    flex-direction: column;
-    gap: 14px;
+    flex-wrap: wrap;
+    gap: 0;
     padding: 0 24px;
   }
 
-  .logo-img { height: 36px; }
+  .logo-img { height: 32px; }
+
+  .nav-toggle {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background: none;
+    border: 0;
+    padding: 4px 0 4px 12px;
+    margin-right: -3px;
+    color: var(--text);
+    cursor: pointer;
+  }
+  .nav-toggle__icon--close { display: none; }
+  .nav-toggle.is-open .nav-toggle__icon--open { display: none; }
+  .nav-toggle.is-open .nav-toggle__icon--close { display: block; }
+
+  .nav-search {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    width: 100%;
+    margin-top: 14px;
+    padding: 0 18px;
+    height: 44px;
+    border-radius: 999px;
+    background: #f4f3f1;
+    color: var(--text-secondary);
+  }
+  .nav-search svg { flex: none; }
+  .nav-search input {
+    flex: 1;
+    min-width: 0;
+    height: 100%;
+    border: 0;
+    background: transparent;
+    font-family: var(--font-ui);
+    font-size: 16px;
+    color: var(--text);
+    outline: none;
+    -webkit-appearance: none;
+    appearance: none;
+  }
+  .nav-search input::placeholder { color: #9a958d; }
 
   .site-nav {
-    gap: 20px;
-    flex-wrap: wrap;
-    justify-content: center;
+    display: none;
+    flex-direction: column;
+    align-items: stretch;
+    gap: 0;
+    width: 100%;
+    margin-top: 12px;
+    border-top: 1px solid var(--border-light);
   }
+  .site-nav.is-open { display: flex; }
+  .site-nav a {
+    padding: 13px 2px;
+    border-bottom: 1px solid var(--border-light);
+    font-size: 14px;
+  }
+  .site-nav a::after { display: none; }
 
   .post-card-body { grid-template-columns: 1fr; }
 
@@ -2909,4 +2967,15 @@ a.as-seen-in:hover { text-decoration: none; }
   .single-content img.alignleft, .single-content img.alignright, .single-content img[align="left"], .single-content img[align="right"] {
     width: auto !important; max-width: 100%;
   }
+}
+
+/* Posts migrated from WordPress float images with inline styles. On narrow phones a 250-330px float leaves only a sliver of text beside it, so stack them. */
+@media (max-width: 600px) {
+  .single-content [style*="float"] {
+    float: none !important;
+    display: block;
+    margin: 14px auto !important;
+    max-width: 100%;
+  }
+  .single-content [style*="float"] img { display: block; margin: 0 auto !important; max-width: 100%; }
 }
