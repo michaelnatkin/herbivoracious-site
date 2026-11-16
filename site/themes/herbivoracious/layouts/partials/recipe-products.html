@@ -1,0 +1,25 @@
+{{- /* "In this recipe" band: ingredients and tools linked in a recipe post, from the product catalog. Shown only for recipe posts with 2+ non-book products. */ -}}
+{{- if .Params.recipe -}}
+{{- $items := slice -}}
+{{- $seen := slice -}}
+{{- range findRE `\{\{[<%] product id="([^"]+)"` .RawContent -}}
+  {{- $id := replaceRE `^.*id="([^"]+)"$` "$1" . -}}
+  {{- if not (in $seen $id) -}}
+    {{- $seen = $seen | append $id -}}
+    {{- $p := index site.Data.products $id -}}
+    {{- if and $p (ne $p.category "books") -}}
+      {{- $items = $items | append (dict "name" (index (split $p.name " (") 0) "url" $p.url "merchant" $p.merchant) -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- if ge (len $items) 2 }}
+<aside class="recipe-products" data-pagefind-ignore>
+  <h2 class="recipe-products__title">Tools &amp; ingredients for this recipe</h2>
+  <ul class="recipe-products__list">
+    {{- range first 8 $items }}
+    <li><a href="{{ .url }}" target="_blank" rel="noopener nofollow sponsored">{{ .name }}</a>{{ with .merchant }}<span class="recipe-products__merchant"> at {{ . }}</span>{{ end }}</li>
+    {{- end }}
+  </ul>
+</aside>
+{{- end -}}
+{{- end -}}
