@@ -11,6 +11,7 @@ cover:
 recipe:
   name: "Asparagus with Nori Butter"
   yield: "4 as a side dish Vegetarian and gluten-free"
+  total_time: "PT30M"
   ingredients:
     - "6 tablespoons unsalted butter"
     - "1 sheet of nori seaweed"

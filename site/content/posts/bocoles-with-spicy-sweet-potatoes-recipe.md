@@ -11,6 +11,7 @@ cover:
 recipe:
   name: "Bocoles with Spicy Sweet Potatoes"
   yield: "6"
+  total_time: "PT40M"
   ingredients:
     - "For the sweet potato filling:"
     - "2 tablespoons oil"

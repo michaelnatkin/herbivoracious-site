@@ -12,6 +12,7 @@ cover:
 recipe:
   name: "Roasted Maitake Mushroom in Smoky Tea Broth"
   yield: "4"
+  total_time: "PT30M"
   ingredients:
     - "1 pound fresh maitake mushroom"
     - "½ cup small-diced bok choy stem"

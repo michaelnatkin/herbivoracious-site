@@ -11,6 +11,7 @@ cover:
 recipe:
   name: "Pozole Rojo de Frijol"
   yield: "4 as a one-pot meal or 8 as a first course"
+  total_time: "PT40M"
   ingredients:
     - "1 or 2 (or more, if you like a lot of heat) dried chiles de Arbol, ancho, or guajillo chiles"
     - "2 tablespoons oil"

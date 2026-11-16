@@ -11,6 +11,7 @@ cover:
 recipe:
   name: "Aromatic Tofu En Papillote"
   yield: "4"
+  total_time: "PT40M"
   ingredients:
     - "20 ounces firm or extra-firm tofu"
     - "4 pieces of parchment paper or banana leaf, large enough to wrap the tofu and form an envelope"

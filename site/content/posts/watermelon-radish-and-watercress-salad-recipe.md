@@ -11,6 +11,7 @@ cover:
 recipe:
   name: "Watermelon Radish and Watercress Salad"
   yield: "4"
+  total_time: "PT10M"
   ingredients:
     - "1 large watermelon radish, very thinly sliced"
     - "extra virgin olive oil"

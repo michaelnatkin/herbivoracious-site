@@ -11,6 +11,7 @@ cover:
 recipe:
   name: "Tofu Dengaku"
   yield: "12 pieces"
+  total_time: "PT15M"
   ingredients:
     - "2 tablespoons red miso"
     - "1 tablespoon mirin"

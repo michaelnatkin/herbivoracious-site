@@ -11,6 +11,7 @@ cover:
 recipe:
   name: "Soba Noodles in Shiitake Shoyu Broth with Spring Vegetables"
   yield: "4"
+  total_time: "PT45M"
   ingredients:
     - "2 cups dried shiitake mushrooms"
     - "1 piece of Kombu seaweed (about 6\" - 8\" long)"

@@ -11,6 +11,7 @@ cover:
 recipe:
   name: "Jamaican Rice and Peas"
   yield: "4"
+  total_time: "PT40M"
   ingredients:
     - "2 cups basmati rice (or 3 measures with the cup that comes with most rice makers)"
     - "1 14 oz. can coconut milk"

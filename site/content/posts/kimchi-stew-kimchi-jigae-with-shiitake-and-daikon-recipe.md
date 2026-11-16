@@ -12,6 +12,7 @@ cover:
 recipe:
   name: "Kimchi Stew (Kimchi Jigae) with Shiitake and Daikon"
   yield: "4"
+  total_time: "PT35M"
   ingredients:
     - "1 medium daikon root"
     - "2 tablespoons toasted sesame oil for stew plus a drizzle for garnish"

@@ -11,6 +11,7 @@ cover:
 recipe:
   name: "Five-Minute Indian-style Cabbage"
   yield: "4 as a side dish Vegetarian, vegan, and gluten-free"
+  total_time: "PT5M"
   ingredients:
     - "1/2 head green cabbage, cored and sliced into 1/4\" wide ribbons"
     - "1 tablespoon vegetable oil or ghee (clarified butter), or mustard oil, or more to taste"

@@ -11,6 +11,7 @@ cover:
 recipe:
   name: "Spicy Corn and Potato Stew"
   yield: "4"
+  total_time: "PT30M"
   ingredients:
     - "4 cups corn kernels, shaved from cobs and reserve cobs"
     - "3 tablespoons vegetable oil, divided"

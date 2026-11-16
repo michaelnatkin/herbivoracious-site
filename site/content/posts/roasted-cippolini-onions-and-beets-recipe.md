@@ -11,6 +11,7 @@ cover:
 recipe:
   name: "Roasted Cippolini Onions and Beets"
   yield: "4"
+  total_time: "PT1H5M"
   ingredients:
     - "2 pounds cippolini onions"
     - "1 pound beets"

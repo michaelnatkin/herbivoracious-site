@@ -8,6 +8,7 @@ aliases: ["/vegetarian-nuc-chm-recipe/", "/2012/06/vegetarian-nuc-chm-recipe.htm
 recipe:
   name: "Vegetarian Nước Chấm"
   yield: "1 cup"
+  total_time: "PT10M"
   ingredients:
     - "¾ cup water"
     - "2 tablespoons sugar"

@@ -11,6 +11,7 @@ cover:
 recipe:
   name: "Potato and Green Bean Salad with Arugula Pesto"
   yield: "4"
+  total_time: "PT1H"
   ingredients:
     - "For the vegetables:"
     - "1 pound small, waxy potatoes"

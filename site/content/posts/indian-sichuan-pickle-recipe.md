@@ -12,6 +12,7 @@ cover:
 recipe:
   name: "Indian-Sichuan Pickle"
   yield: "1 cup"
+  total_time: "PT5M"
   ingredients:
     - "1 tablespoon mustard oil or vegetable oil"
     - "1 tablespoon black mustard seeds"

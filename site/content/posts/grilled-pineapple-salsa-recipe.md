@@ -11,6 +11,7 @@ cover:
 recipe:
   name: "Grilled Pineapple Salsa"
   yield: "about 1.5 cups"
+  total_time: "PT15M"
   ingredients:
     - "1/2 fresh pineapple, sliced into 3/8\" thick planks (see above)"
     - "canola oil for grilling"

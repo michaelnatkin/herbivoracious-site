@@ -11,6 +11,7 @@ cover:
 recipe:
   name: "Apio (Lemony Celery Root)"
   yield: "4"
+  total_time: "PT45M"
   ingredients:
     - "1 large celery root, peeled, sliced into half-moons generous ¼” thick"
     - "1 carrot, peeled and cut into ¼” circles"

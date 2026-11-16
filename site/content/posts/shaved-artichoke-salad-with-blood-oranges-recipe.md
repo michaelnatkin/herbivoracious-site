@@ -11,6 +11,7 @@ cover:
 recipe:
   name: "Shaved Artichoke Salad with Blood Oranges"
   yield: "4"
+  total_time: "PT15M"
   ingredients:
     - "2 blood oranges"
     - "¼ cup mayonnaise or vegan mayonnaise"

@@ -11,6 +11,7 @@ cover:
 recipe:
   name: "Onion Chutney"
   yield: "1 ½ cups"
+  total_time: "PT30M"
   ingredients:
     - "½ white onion or sweet onion, very finely diced (1 ½ cups diced)"
     - "1 tablespoon vegetable oil"

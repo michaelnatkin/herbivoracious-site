@@ -11,6 +11,7 @@ cover:
 recipe:
   name: "Caramel-Cooked Tofu"
   yield: "2-4"
+  total_time: "PT20M"
   ingredients:
     - "¼ cup rice wine or dry sherry"
     - "2 teaspoons rice vinegar"

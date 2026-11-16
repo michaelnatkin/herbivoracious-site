@@ -11,6 +11,7 @@ cover:
 recipe:
   name: "Spaghetti Aglio e Olio"
   yield: "3-4"
+  total_time: "PT20M"
   ingredients:
     - "1 pound dried spaghetti"
     - "4 tablespoons extra-virgin olive oil"

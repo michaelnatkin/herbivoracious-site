@@ -11,6 +11,7 @@ cover:
 recipe:
   name: "Best Cornbread Recipe Ever"
   yield: "one 8x8\" pan, enough for 4 for dinner if you aren't too greedy Can also be used to make 10 muffins, reduce baking time A double batch bakes up beautifully in my beloved 12\" cast iron skillet Vegetarian; not vegan nor gluten-free"
+  total_time: "PT45M"
   ingredients:
     - "1/2 cup unsalted butter (1 stick)"
     - "1 tablespoon non-fat milk powder (optional)"

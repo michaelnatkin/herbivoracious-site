@@ -11,6 +11,7 @@ cover:
 recipe:
   name: "Warm Frisee Salad with Brown Butter Vinaigrette"
   yield: "4"
+  total_time: "PT15M"
   ingredients:
     - "4 tablespoons unsalted butter"
     - "2 turnips, about 3” diameter, peeled and sliced into ¼” thick half-moons (about 20 half-moons total)"

@@ -11,6 +11,7 @@ cover:
 recipe:
   name: "Buckwheat Buttermilk Pancakes"
   yield: "about 12 medium pancakes"
+  total_time: "PT20M"
   ingredients:
     - "Dry ingredients:"
     - "3/4 cup buckwheat flour"

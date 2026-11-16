@@ -11,6 +11,7 @@ cover:
 recipe:
   name: "Stuffed & Baked Polenta"
   yield: "8"
+  total_time: "PT1H15M"
   ingredients:
     - "3 tablespoons olive oil, divided"
     - "1 medium white onion, diced"

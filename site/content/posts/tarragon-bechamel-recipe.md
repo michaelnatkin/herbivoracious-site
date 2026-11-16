@@ -8,6 +8,7 @@ aliases: ["/tarragon-bechamel-recipe/", "/2012/06/tarragon-bechamel-recipe.html"
 recipe:
   name: "Tarragon Bechamel"
   yield: "2 cups"
+  total_time: "PT15M"
   ingredients:
     - "4 tablespoons unsalted butter"
     - "3 tablespoons all-purpose flour"

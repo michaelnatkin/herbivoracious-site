@@ -8,6 +8,7 @@ aliases: ["/quick-harissa-oil-recipe/", "/2012/08/quick-harissa-oil-recipe.html"
 recipe:
   name: "Quick Harissa Oil"
   yield: "about 5 tablespoons"
+  total_time: "PT15M"
   ingredients:
     - "½ cup extra-virgin olive oil"
     - "2 teaspoons Sriracha or other chile paste"

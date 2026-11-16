@@ -8,6 +8,7 @@ aliases: ["/red-wine-braised-cabbage-recipe/", "/2012/02/red-wine-braised-cabbag
 recipe:
   name: "Red-Wine Braised Cabbage"
   yield: "4"
+  total_time: "PT40M"
   ingredients:
     - "2 tablespoons extra-virgin olive oil (butter is good too if you don’t need vegan)"
     - "1 white onion, thinly sliced"

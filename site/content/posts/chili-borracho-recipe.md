@@ -12,6 +12,7 @@ cover:
 recipe:
   name: "Chili Borracho"
   yield: "3 as a one pot meal or 4 with cornbread and guacamole"
+  total_time: "PT1H"
   ingredients:
     - "¼ cup olive oil"
     - "1 onion, small dice"

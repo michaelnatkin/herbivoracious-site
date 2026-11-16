@@ -11,6 +11,7 @@ cover:
 recipe:
   name: "Caramelized Pear and Ginger Scones"
   yield: "12"
+  total_time: "PT55M"
   ingredients:
     - "For the pears:"
     - "2 tablespoons unsalted butter"

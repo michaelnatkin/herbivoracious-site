@@ -11,6 +11,7 @@ cover:
 recipe:
   name: "Middle Eastern Panzanella"
   yield: "1 as an entrée or 4 as a small side dish"
+  total_time: "PT15M"
   ingredients:
     - "1 pita bread, toasted until well browned"
     - "2 ripe medium-sized tomatoes"

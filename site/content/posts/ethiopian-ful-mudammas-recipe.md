@@ -12,6 +12,7 @@ cover:
 recipe:
   name: "Ethiopian Ful Medames"
   yield: "420 minutes if you have pre-cooked beans"
+  total_time: "PT20M"
   ingredients:
     - "4-6 big crusty rolls"
     - "1/4 cup olive oil + more for garnish"

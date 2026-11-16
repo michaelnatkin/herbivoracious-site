@@ -10,6 +10,7 @@ cover:
   hidden: true
 recipe:
   name: "Roasted Maitake Mushrooms In Smoky Tea Broth – Recipe"
+  total_time: "PT30M"
   ingredients:
     - "1/2 cup finely diced bok choy stems"
     - "1 tablespoon water"

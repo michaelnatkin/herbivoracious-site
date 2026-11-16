@@ -11,6 +11,7 @@ cover:
 recipe:
   name: "Real Homefries"
   yield: "2 as most of a meal or 4 as a side"
+  total_time: "PT20M"
   ingredients:
     - "¼ cup vegetable oil"
     - "1/2 white onion, 3/8” dice"

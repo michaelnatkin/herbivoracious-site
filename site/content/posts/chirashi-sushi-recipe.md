@@ -11,6 +11,7 @@ cover:
 recipe:
   name: "Chirashi Sushi"
   yield: "4"
+  total_time: "PT45M"
   ingredients:
     - "For the sushi rice:"
     - "2 cups Japanese rice"

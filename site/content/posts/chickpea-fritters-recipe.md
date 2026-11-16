@@ -11,6 +11,7 @@ cover:
 recipe:
   name: "Chickpea Fritters"
   yield: "16 fritters"
+  total_time: "PT30M"
   ingredients:
     - "3 cups cooked chickpeas (or two 15 oz. cans, drained and rinsed)"
     - "1/2 cup green onions (white and light green parts only), very thinly sliced"

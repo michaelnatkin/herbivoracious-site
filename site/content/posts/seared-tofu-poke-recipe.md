@@ -11,6 +11,7 @@ cover:
 recipe:
   name: "Seared Tofu Poke"
   yield: "4"
+  total_time: "PT20M"
   ingredients:
     - "1 cup ogo, limukohu, hijiki or mixed seaweed (see above)"
     - "2 tablespoons vegetable oil"

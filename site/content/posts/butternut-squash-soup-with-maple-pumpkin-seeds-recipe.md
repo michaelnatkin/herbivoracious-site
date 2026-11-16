@@ -12,6 +12,7 @@ cover:
 recipe:
   name: "Butternut Squash Soup with Maple Pumpkin Seeds"
   yield: "4-6"
+  total_time: "PT45M"
   ingredients:
     - "¼ cup extra-virgin olive oil"
     - "1 small onion, finely diced"

@@ -11,6 +11,7 @@ cover:
 recipe:
   name: "Grapefruit and Avocado Crudo"
   yield: "4"
+  total_time: "PT15M"
   ingredients:
     - "2 red grapefruit, sliced as described above"
     - "1 ripe avocado, thinly sliced"

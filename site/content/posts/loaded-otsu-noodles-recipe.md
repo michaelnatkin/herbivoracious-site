@@ -11,6 +11,7 @@ cover:
 recipe:
   name: "Loaded Otsu Noodles"
   yield: "4"
+  total_time: "PT30M"
   ingredients:
     - "For the sauce:"
     - "1/4 cup toasted sesame paste (tahini)"

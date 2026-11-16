@@ -8,6 +8,7 @@ aliases: ["/five-minute-indian-style-cabbage-recipe/", "/2012/01/five-minute-ind
 recipe:
   name: "Five Minute Indian-Style Cabbage"
   yield: "4"
+  total_time: "PT5M"
   ingredients:
     - "1 tablespoon vegetable oil or ghee (clarified butter), or mustard oil, or more to taste"
     - "1 tablespoon black mustard seeds"

@@ -12,6 +12,7 @@ cover:
 recipe:
   name: "Garlic Miso Broth"
   yield: "4 small or 2 large servings"
+  total_time: "PT15M"
   ingredients:
     - "1 head garlic (about 10 cloves), peeled and thinly sliced"
     - "1 tablespoon red miso"

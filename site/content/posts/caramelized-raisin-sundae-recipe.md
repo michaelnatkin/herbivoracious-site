@@ -11,6 +11,7 @@ cover:
 recipe:
   name: "Caramelized-Raisin Sundae"
   yield: "4"
+  total_time: "PT25M"
   ingredients:
     - "3 tablespoons butter + 1 more at end"
     - "1 cup raisins (Thompsons work well)"

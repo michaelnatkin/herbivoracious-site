@@ -11,6 +11,7 @@ cover:
 recipe:
   name: "Brussels Sprout and Apple Hash - Recipe"
   yield: "3 to 4 20 minutes"
+  total_time: "PT20M"
   ingredients:
     - "3 tablespoons unsalted butter"
     - "Half a medium white onion, finely diced"

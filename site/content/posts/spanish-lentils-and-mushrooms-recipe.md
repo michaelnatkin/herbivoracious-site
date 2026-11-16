@@ -11,6 +11,7 @@ cover:
 recipe:
   name: "Spanish Lentils and Mushrooms"
   yield: "4-6"
+  total_time: "PT40M"
   ingredients:
     - "1 small white onion, finely diced"
     - "3 cloves garlic, finely diced"

@@ -11,6 +11,7 @@ cover:
 recipe:
   name: "Banana Raita"
   yield: "1 ½ cups"
+  total_time: "PT5M"
   ingredients:
     - "1 ripe banana, peeled and finely diced"
     - "juice of ½ lemon"

@@ -11,6 +11,7 @@ cover:
 recipe:
   name: "Spicy Tamarind-Glazed Potatoes"
   yield: "4"
+  total_time: "PT30M"
   ingredients:
     - "2 pounds very small (2-3 bite) potatoes"
     - "Kosher salt"

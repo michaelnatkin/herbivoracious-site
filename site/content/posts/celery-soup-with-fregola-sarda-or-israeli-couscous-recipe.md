@@ -11,6 +11,7 @@ cover:
 recipe:
   name: "Celery Soup with Fregola Sarda or Israeli Couscous"
   yield: "4 modest servings"
+  total_time: "PT20M"
   ingredients:
     - "½ cup fregola sarda or Israeli couscous"
     - "2 tablespoons extra-virgin olive oil"

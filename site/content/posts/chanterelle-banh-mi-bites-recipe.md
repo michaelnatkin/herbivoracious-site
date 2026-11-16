@@ -11,6 +11,7 @@ cover:
 recipe:
   name: "Chanterelle Bánh Mi Bites"
   yield: "12 small crostini"
+  total_time: "PT30M"
   ingredients:
     - "For the pickled vegetables:"
     - "½ cup rice vinegar"

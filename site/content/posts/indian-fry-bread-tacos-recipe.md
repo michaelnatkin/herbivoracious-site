@@ -11,6 +11,7 @@ cover:
 recipe:
   name: "Indian Fry Bread Tacos"
   yield: "4"
+  total_time: "PT1H"
   ingredients:
     - "For the fry bread:"
     - "3 cups flour"

@@ -11,6 +11,7 @@ cover:
 recipe:
   name: "Fresh Fettuccine with Broccoli Raab and Light Tomato Sauce"
   yield: "3-4"
+  total_time: "PT30M"
   ingredients:
     - "1 bunch of broccoli raab (enough that you can't quite get your hand around it)"
     - "4 tablespoons unsalted butter"

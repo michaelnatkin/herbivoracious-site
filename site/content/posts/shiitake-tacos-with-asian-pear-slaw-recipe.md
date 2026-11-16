@@ -11,6 +11,7 @@ cover:
 recipe:
   name: "Shiitake Tacos with Asian Pear Slaw"
   yield: "8 tacos"
+  total_time: "PT30M"
   ingredients:
     - "For the tacos:"
     - "4 jalapeno peppers"

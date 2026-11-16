@@ -11,6 +11,7 @@ cover:
 recipe:
   name: "Buckwheat Buttermilk Pancakes"
   yield: "4 generously Vegetarian; not vegan or gluten-free"
+  total_time: "PT20M"
   ingredients:
     - "1 1/2 cups (180 grams) buckwheat flour"
     - "1 1/2 cups (180 grams) unbleached white all-purpose flour"

@@ -11,6 +11,7 @@ cover:
 recipe:
   name: "Chermoula Stuffed Eggplant"
   yield: "4"
+  total_time: "PT50M"
   ingredients:
     - "extra virgin olive oil"
     - "2 medium globe eggplant, about 14 ounces each"

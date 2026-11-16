@@ -11,6 +11,7 @@ cover:
 recipe:
   name: "Non-Traditional Arroz Verde"
   yield: "4"
+  total_time: "PT40M"
   ingredients:
     - "1 1/2 cups medium grain white rice (or basmati rice)"
     - "1 cup lightly packed leaves and tender stems flat leaf parsley"

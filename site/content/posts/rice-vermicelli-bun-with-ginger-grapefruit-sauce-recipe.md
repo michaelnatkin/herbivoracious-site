@@ -11,6 +11,7 @@ cover:
 recipe:
   name: "Rice Vermicelli (Bún) with Ginger-Grapefruit Sauce"
   yield: "4"
+  total_time: "PT45M"
   ingredients:
     - "8 ounces Vietnamese rice vermicelli noodles"
     - "1 cup shallot rings, sliced about 1/8\" thick"

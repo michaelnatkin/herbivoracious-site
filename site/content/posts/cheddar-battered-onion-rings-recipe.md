@@ -11,6 +11,7 @@ cover:
 recipe:
   name: "Cheddar-Battered Onion Rings"
   yield: "4"
+  total_time: "PT30M"
   ingredients:
     - "2 cups grated extra sharp cheddar cheese"
     - "1 egg yolk"

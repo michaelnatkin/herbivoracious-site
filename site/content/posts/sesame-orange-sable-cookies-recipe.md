@@ -11,6 +11,7 @@ cover:
 recipe:
   name: "Sesame-Orange Sable Cookies"
   yield: "about 48 small cookies"
+  total_time: "PT3H35M"
   ingredients:
     - "12 tablespoons (1 ½ sticks) room temperature butter"
     - "1 cup granulated sugar"

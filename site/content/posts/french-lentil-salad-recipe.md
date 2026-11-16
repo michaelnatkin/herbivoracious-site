@@ -10,6 +10,7 @@ cover:
   hidden: true
 recipe:
   name: ""
+  total_time: "PT45M"
   ingredients:
     - "1 1/2 cups French green lentils (lentils de Puy AOC are the best)"
     - "1 cup tiny potatoes or cubed larger potatoes"

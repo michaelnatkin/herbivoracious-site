@@ -11,6 +11,7 @@ cover:
 recipe:
   name: "Portabello-Summer Squash Lasagna"
   yield: "8"
+  total_time: "PT1H30M"
   ingredients:
     - "4 medium crookneck or other summer squash, or zucchini, sliced lengthwise, 1/8\" thick"
     - "4 large portabello mushroom caps, sliced 1/8\" thick on the bias"
