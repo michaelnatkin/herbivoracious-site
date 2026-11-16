@@ -2900,3 +2900,13 @@ a.as-seen-in:hover { text-decoration: none; }
     float: none; display: block; margin: 14px auto;
   }
 }
+
+/* Long unbroken strings (URLs in comments or posts) must wrap instead of widening the page on phones. */
+.single-content, .comments-section, .comment-body, .collection-intro { overflow-wrap: anywhere; }
+
+/* The mobile rule above forces every content image to 100% width. Aligned thumbnails should keep their natural size instead. */
+@media (max-width: 900px) {
+  .single-content img.alignleft, .single-content img.alignright, .single-content img[align="left"], .single-content img[align="right"] {
+    width: auto !important; max-width: 100%;
+  }
+}
