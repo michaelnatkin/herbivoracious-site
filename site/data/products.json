@@ -448,7 +448,7 @@
     "merchant": "Weee!"
   },
   "artisan-spanish-piment-n-de-la-vera-hot-sweet-2": {
-    "name": "Artisan Spanish Piment\u00f3n de La Vera, Hot & Sweet 2-Tin Set",
+    "name": "Artisan Spanish Pimentón de La Vera, Hot & Sweet 2-Tin Set",
     "category": "mexican-latin-pantry",
     "url": "https://www.chefshop.com/products/pimenton-de-la-vera-sweet-smoked-paprika-spain",
     "original_url": "https://www.amazon.com/dp/B000O9X8VU?tag=herb-hugo-20",
@@ -4683,14 +4683,15 @@
     "merchant": "Nuts.com"
   },
   "sadaf-natural-rose-water": {
-    "name": "Sadaf Natural Rose Water",
+    "name": "Ziyad Rose Water",
     "category": "oils-vinegars",
-    "url": "https://www.amazon.com/dp/B007RHW480?tag=herb-hugo-20",
+    "url": "https://www.weee.com/en/product/Ziyad-Rose-Water-300-ml-each/2067405",
     "original_url": "https://www.amazon.com/dp/B007RHW480?tag=herb-hugo-20",
     "asins": [
       "B007RHW480",
       "B00V8TRZG4"
-    ]
+    ],
+    "merchant": "Weee!"
   },
   "saffron": {
     "name": "Saffron",
@@ -6014,7 +6015,7 @@
     "hidden": true
   },
   "w-sthof-classic-3-5-paring-knife": {
-    "name": "W\u00fcsthof Classic 3.5\" Paring Knife",
+    "name": "Wüsthof Classic 3.5\" Paring Knife",
     "category": "knives-sharpening",
     "url": "https://www.amazon.com/dp/B085V5Q2JR?tag=herb-hugo-20",
     "original_url": "https://www.amazon.com/dp/B085V5Q2JR?tag=herb-hugo-20",
@@ -6024,7 +6025,7 @@
     "review_url": "/other-knives-kitchen-tools-hand-tools/"
   },
   "w-sthof-classic-8-bread-knife": {
-    "name": "W\u00fcsthof Classic 8\" Bread Knife",
+    "name": "Wüsthof Classic 8\" Bread Knife",
     "category": "knives-sharpening",
     "url": "https://www.amazon.com/dp/B00005MEGZ?tag=herb-hugo-20",
     "original_url": "https://www.amazon.com/dp/B00005MEGZ?tag=herb-hugo-20",
