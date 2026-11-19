@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Congee with Crispy Yuba - Recipe"
 date: 2012-11-02T07:00:00
 slug: "congee-with-crispy-yuba-recipe"

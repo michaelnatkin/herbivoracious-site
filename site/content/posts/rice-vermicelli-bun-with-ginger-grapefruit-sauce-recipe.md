@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Rice Vermicelli (Bún) with Ginger-Grapefruit Sauce - Recipe"
 date: 2011-07-27T08:15:00
 slug: "rice-vermicelli-bun-with-ginger-grapefruit-sauce-recipe"

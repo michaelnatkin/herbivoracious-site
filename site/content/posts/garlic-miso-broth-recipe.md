@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Garlic Miso Broth - Recipe"
 date: 2011-02-17T06:00:00
 slug: "garlic-miso-broth-recipe"

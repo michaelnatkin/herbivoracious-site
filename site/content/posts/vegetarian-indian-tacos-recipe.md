@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Vegetarian Indian Tacos - Recipe"
 date: 2010-09-07T07:02:00
 slug: "vegetarian-indian-tacos-recipe"

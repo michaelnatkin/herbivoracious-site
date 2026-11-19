@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Cold Carrot Soup - Recipe"
 date: 2011-03-21T07:05:00
 slug: "cold-carrot-soup-myhrvold-recipe"

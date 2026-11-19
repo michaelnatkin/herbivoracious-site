@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Kimchi Stew (Kimchi Jigae) with Shiitake and Daikon - Recipe"
 date: 2012-09-29T08:00:00
 slug: "kimchi-stew-kimchi-jigae-with-shiitake-and-daikon-recipe"

@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-16
 title: "What's In My Pantry Part 1 - \"Quick Reach\" Liquids"
 description: "What's in my pantry, part 1: the 'quick reach' liquids kept on the counter for sautéing, deglazing and quick sauces."
 date: 2008-10-24T07:24:00

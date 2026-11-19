@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Tomato Sushi - Yes, That's Vegetarian - Recipe"
 date: 2011-08-08T07:01:00
 slug: "tomato-sushi-yes-thats-vegetarian-recipe"

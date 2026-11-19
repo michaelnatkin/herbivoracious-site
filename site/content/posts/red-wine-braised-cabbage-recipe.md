@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Red-Wine Braised Cabbage - Recipe"
 date: 2012-02-15T07:45:00
 slug: "red-wine-braised-cabbage-recipe"

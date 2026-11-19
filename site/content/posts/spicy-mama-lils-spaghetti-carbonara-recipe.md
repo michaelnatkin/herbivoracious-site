@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Spicy Mama Lil's Spaghetti alla Carbonara - Recipe"
 description: "Spicy vegetarian spaghetti alla carbonara in video: watch the crucial step of tossing the hot pasta with the eggs."
 date: 2011-11-28T07:05:02

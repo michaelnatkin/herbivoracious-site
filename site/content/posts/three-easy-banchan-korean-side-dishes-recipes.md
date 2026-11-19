@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Three Easy Banchan (Korean Side Dishes) - Recipes"
 date: 2011-06-06T07:07:00
 slug: "three-easy-banchan-korean-side-dishes-recipes"

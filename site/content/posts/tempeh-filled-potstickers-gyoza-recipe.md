@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Tempeh-Filled Potstickers (Gyoza) - Recipe"
 date: 2011-04-15T07:30:00
 slug: "tempeh-filled-potstickers-gyoza-recipe"

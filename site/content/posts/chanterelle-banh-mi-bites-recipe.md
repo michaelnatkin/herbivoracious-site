@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Chanterelle Bánh Mi Bites - Recipe"
 date: 2011-05-06T06:45:00
 slug: "chanterelle-banh-mi-bites-recipe"

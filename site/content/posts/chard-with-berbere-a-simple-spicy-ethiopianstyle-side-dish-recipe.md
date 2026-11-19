@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Chard with Berbere - A Simple & Spicy Ethiopian-Style Side Dish - Recipe"
 description: "Chard with berbere, a simple and spicy Ethiopian-style side dish that uses the complex spice mix."
 date: 2010-02-15T07:13:24

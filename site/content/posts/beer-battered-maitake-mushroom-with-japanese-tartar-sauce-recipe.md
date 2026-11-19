@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Beer Battered Maitake Mushroom With Japanese Tartar Sauce - Recipe"
 description: "Beer-battered maitake mushrooms with Japanese tartar sauce, a tempura-style take on hen of the woods."
 date: 2008-11-20T08:23:00

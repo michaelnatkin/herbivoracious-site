@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Mexican Breakfast Torta - Recipe"
 date: 2012-10-27T07:00:00
 slug: "mexican-breakfast-torta-recipe"

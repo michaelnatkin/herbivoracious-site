@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Triple-Smoky Mac and Cheese - Recipe"
 date: 2011-12-07T07:00:00
 slug: "triple-smoky-mac-and-cheese-recipe"

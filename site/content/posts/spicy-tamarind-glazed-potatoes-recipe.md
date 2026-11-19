@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Spicy Tamarind-Glazed Potatoes - Recipe"
 date: 2012-10-26T07:45:00
 slug: "spicy-tamarind-glazed-potatoes-recipe"

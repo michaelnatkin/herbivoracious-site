@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Grilled Treviso Radicchio - Recipe"
 date: 2011-03-29T07:00:00
 slug: "grilled-treviso-radicchio-recipe"

@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Turkish Chickpea and Potato Stew with Baharat - Recipe"
 date: 2011-06-27T07:05:00
 slug: "chickpea-and-potato-stew-with-baharat-recipe"

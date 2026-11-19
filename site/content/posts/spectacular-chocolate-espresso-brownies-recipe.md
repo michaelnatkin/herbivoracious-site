@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Spectacular Chocolate-Espresso Brownies - Recipe"
 date: 2012-05-28T08:15:00
 slug: "spectacular-chocolate-espresso-brownies-recipe"

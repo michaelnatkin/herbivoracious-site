@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-16
 title: "Things That Go Crunch In The Night - Making Your Food Pop, Part 4"
 description: "Things that go crunch in the night, part 4 of Making Your Food Pop: why adding crunch makes a dish miraculous."
 date: 2010-02-08T06:55:00

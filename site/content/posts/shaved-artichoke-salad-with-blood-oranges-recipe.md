@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Shaved Artichoke Salad with Blood Oranges - Recipe"
 date: 2012-09-05T08:45:00
 slug: "shaved-artichoke-salad-with-blood-oranges-recipe"

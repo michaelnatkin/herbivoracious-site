@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Cheddar-Battered Onion Rings - Recipe"
 date: 2011-06-24T08:30:00
 slug: "cheddar-battered-onion-rings-recipe"

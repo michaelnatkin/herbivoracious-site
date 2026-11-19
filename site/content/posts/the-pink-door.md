@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Restaurant Review: The Pink Door - Italian - Seattle, WA"
 date: 2008-06-24T06:24:00
 slug: "the-pink-door"

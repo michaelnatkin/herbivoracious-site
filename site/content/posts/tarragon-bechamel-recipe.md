@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Tarragon Bechamel - Recipe"
 date: 2012-06-19T06:15:00
 slug: "tarragon-bechamel-recipe"

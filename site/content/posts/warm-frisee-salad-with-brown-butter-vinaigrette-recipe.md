@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Warm Frisee Salad with Brown Butter Vinaigrette - Recipe"
 date: 2012-09-22T07:15:00
 slug: "warm-frisee-salad-with-brown-butter-vinaigrette-recipe"

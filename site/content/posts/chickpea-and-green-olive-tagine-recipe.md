@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Chickpea and Green Olive Tagine - Recipe"
 date: 2012-01-13T06:00:00
 slug: "chickpea-and-green-olive-tagine-recipe"

@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Bocoles with Spicy Sweet Potatoes - Recipe"
 date: 2011-10-30T07:00:00
 slug: "bocoles-with-spicy-sweet-potatoes-recipe"

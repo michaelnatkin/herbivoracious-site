@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Sesame-Orange Sable Cookies - Recipe"
 date: 2012-11-17T07:45:00
 slug: "sesame-orange-sable-cookies-recipe"

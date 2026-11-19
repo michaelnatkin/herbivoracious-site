@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "\"Caviar\" Lentil Salad with Arugula, Crispy Shallots and Roasted Garlic - Recipe"
 description: "'Caviar' lentil salad with arugula, crispy shallots and roasted garlic, made with lentils from the Pacific Northwest Farmers Cooperative."
 date: 2012-09-06T06:00:36

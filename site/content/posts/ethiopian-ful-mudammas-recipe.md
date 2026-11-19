@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Ethiopian Ful Medames - Fava Beans with Berbere and Tasty Garnishes - Recipe"
 description: "Ethiopian ful: fava beans simmered with berbere and finished with tasty garnishes. An inexpensive, hearty vegetarian dish for breakfast or dinner."
 seo_title: "Ethiopian Ful (Ful Medames) Recipe with Berbere"

@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Spaghetti Aglio e Olio - Recipe"
 date: 2011-12-01T08:30:00
 slug: "spaghetti-aglio-e-olio-recipe"

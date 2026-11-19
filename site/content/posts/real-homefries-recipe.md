@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Real Homefries - Recipe"
 date: 2012-04-19T07:30:00
 slug: "real-homefries-recipe"

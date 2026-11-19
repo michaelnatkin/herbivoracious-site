@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Crispy Polenta Cakes with White Beans and Morels - Recipe"
 date: 2011-12-22T07:15:00
 slug: "crispy-polenta-cakes-with-white-beans-and-morels-recipe"

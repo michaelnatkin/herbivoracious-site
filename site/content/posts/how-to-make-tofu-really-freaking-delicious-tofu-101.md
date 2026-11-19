@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "How to Make Tofu Really Freaking Delicious - Tofu 101"
 date: 2012-05-29T06:00:21
 slug: "how-to-make-tofu-really-freaking-delicious-tofu-101"

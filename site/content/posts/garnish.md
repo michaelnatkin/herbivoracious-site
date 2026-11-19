@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Garnish - The Most Misunderstood Word in Cooking"
 date: 2011-05-02T09:33:32
 slug: "garnish"

@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Grapefruit and Avocado Crudo - Recipe"
 date: 2011-04-12T08:45:00
 slug: "grapefruit-and-avocado-crudo-recipe"

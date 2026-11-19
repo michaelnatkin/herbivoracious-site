@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Onion Chutney - Recipe"
 date: 2012-07-16T07:45:00
 slug: "onion-chutney-recipe"

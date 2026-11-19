@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Seared Watermelon with Flavors of Summer - Yes, That's Vegetarian - Recipe"
 seo_title: "How to Cook Watermelon: Seared Watermelon Recipe"
 date: 2011-06-08T22:32:32

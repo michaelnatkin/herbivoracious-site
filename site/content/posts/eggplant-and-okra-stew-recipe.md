@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Eggplant and Okra Stew - Recipe"
 date: 2011-10-18T06:15:00
 slug: "eggplant-and-okra-stew-recipe"

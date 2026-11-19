@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Khao Soi - Thai Curry Noodles from Chiang Mai"
 seo_title: "Vegetarian Khao Soi Recipe (Thai Curry Noodles)"
 description: "Khao soi, Thai curry noodles from Chiang Mai, one of the author's favorite recipes from the Herbivoracious cookbook."

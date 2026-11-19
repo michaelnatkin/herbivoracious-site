@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Vegetarian Minestrone - Recipe"
 description: "Vegetarian minestrone, a rainy-day soup far better than the canned version, best with garlicky croutons and a glass of wine."
 date: 2009-10-22T06:44:00

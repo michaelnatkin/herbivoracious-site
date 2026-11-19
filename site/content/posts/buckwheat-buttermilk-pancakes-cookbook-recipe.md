@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Buckwheat Buttermilk Pancakes - Cookbook Recipe"
 date: 2012-04-05T06:30:00
 slug: "buckwheat-buttermilk-pancakes-cookbook-recipe"

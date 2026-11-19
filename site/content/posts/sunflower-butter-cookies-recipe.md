@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Sunflower Butter Cookies - Recipe"
 description: "Sunflower butter cookies, a nut-free take on peanut butter cookies, made for a family with severe peanut and tree nut allergies."
 date: 2012-12-24T11:20:49

@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Celery Soup with Fregola Sarda or Israeli Couscous - Recipe"
 date: 2012-08-25T06:15:00
 slug: "celery-soup-with-fregola-sarda-or-israeli-couscous-recipe"

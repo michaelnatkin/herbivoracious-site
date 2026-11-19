@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Quick Chana Masala with Mushrooms - Chickpea Curry - Recipe"
 description: "Quick chana masala with mushrooms, a spicy chickpea curry, one of the dishes found at nearly every Indian restaurant in America."
 date: 2009-09-14T06:57:00

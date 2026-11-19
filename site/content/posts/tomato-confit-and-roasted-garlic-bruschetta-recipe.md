@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Tomato Confit and Roasted Garlic Bruschetta - Recipe"
 date: 2011-05-24T08:30:00
 slug: "tomato-confit-and-roasted-garlic-bruschetta-recipe"

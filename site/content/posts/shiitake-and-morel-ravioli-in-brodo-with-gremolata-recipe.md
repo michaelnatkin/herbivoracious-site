@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Shiitake and Morel Ravioli in Brodo with Gremolata - Recipe"
 date: 2010-09-15T07:00:00
 slug: "shiitake-and-morel-ravioli-in-brodo-with-gremolata-recipe"

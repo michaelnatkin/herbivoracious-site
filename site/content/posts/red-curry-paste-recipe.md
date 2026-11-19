@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Red Curry Paste - Recipe"
 date: 2012-08-05T07:45:00
 slug: "red-curry-paste-recipe"

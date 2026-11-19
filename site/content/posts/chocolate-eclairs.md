@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Chocolate Eclairs - Recipe"
 seo_title: "Chocolate Eclairs Recipe with Easy Ganache Glaze"
 description: "Chocolate eclairs, a Valentine's Day dessert recipe with homemade choux pastry and chocolate glaze."

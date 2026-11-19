@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Middle Eastern Panzanella - Recipe"
 date: 2011-03-07T06:45:00
 slug: "middle-eastern-panzanella-recipe"

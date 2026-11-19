@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Cucumber and Mango Salad with Sweet Chili Dressing - Recipe"
 date: 2011-02-07T07:18:00
 slug: "cucumber-and-mango-salad-with-sweet-chili-dressing-recipe"

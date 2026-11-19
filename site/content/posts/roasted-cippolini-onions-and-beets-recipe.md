@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Roasted Cippolini Onions and Beets - Recipe"
 date: 2012-02-03T06:30:00
 slug: "roasted-cippolini-onions-and-beets-recipe"

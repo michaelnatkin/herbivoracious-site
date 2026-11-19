@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Hongos en Escabeche - Mushrooms Sauteed with Sherry Vinegar - Recipe"
 date: 2011-07-25T07:47:00
 slug: "hongos-en-escabeche-mushrooms-sauteed-with-vinegar-recipe"

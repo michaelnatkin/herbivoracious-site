@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Recipe: Vegetarian Urad Dal Patties (Vada) with Black Pepper"
 description: "Vegetarian urad dal patties (vada) with black pepper, an Indian lentil fritter you can make with urad dal from an Indian market."
 date: 2008-03-24T22:38:21

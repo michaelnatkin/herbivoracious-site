@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Stir-Fried Winged Beans (Kacang Botol) with Tomato and Garlic - Recipe"
 date: 2011-09-06T07:01:00
 slug: "stir-fried-winged-beans-kacang-botol-with-tomato-and-garlic-recipe"

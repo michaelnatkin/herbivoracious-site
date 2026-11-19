@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Mesir Wat - Ethiopian Red Lentils - Recipe"
 description: "Mesir wat, Ethiopian red lentils: a spicy vegetarian stew served with injera."
 date: 2010-02-11T06:55:00

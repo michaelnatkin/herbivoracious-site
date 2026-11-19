@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Persimmon Carpaccio with Fennel Salad - Recipe"
 description: "Persimmon carpaccio with fennel salad, made with firm fuyu persimmons in season."
 date: 2011-12-19T07:07:56

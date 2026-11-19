@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Sichuan Dry-Fried Green Beans and Tofu - Recipe"
 date: 2011-09-29T08:30:00
 slug: "sichuan-dry-fried-green-beans-and-tofu-recipe"

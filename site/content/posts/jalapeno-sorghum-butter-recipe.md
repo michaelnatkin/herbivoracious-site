@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Jalapeno-Sorghum Butter - Recipe"
 seo_title: "Sorghum Butter Recipe (Jalapeño) for Cornbread"
 description: "What is sorghum butter? Butter whipped with sorghum syrup and jalapeno, made for brown butter cornbread."

@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Bánh xèo (Crispy Vietnamese Crepe) - Recipe"
 date: 2011-09-19T08:45:00
 slug: "banh-xeo-crispy-vietnamese-crepe-recipe"

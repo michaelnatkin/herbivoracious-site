@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Apricot and Sweet Onion Mostarda - Recipe"
 description: "Apricot and sweet onion mostarda, an Italian condiment of fruit with a complex sweet and sharp flavor."
 date: 2009-10-05T06:45:00

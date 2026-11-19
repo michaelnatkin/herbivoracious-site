@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Jamaican Rice and Peas - Recipe"
 date: 2012-02-05T08:00:00
 slug: "jamaican-rice-and-peas-recipe"

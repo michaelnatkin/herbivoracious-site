@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Lemony Grilled Gai Lan (Chinese Broccoli) - Recipe"
 seo_title: "Grilled Gai Lan (Chinese Broccoli) with Lemon"
 date: 2012-02-28T08:45:00

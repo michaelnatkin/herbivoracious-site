@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Ten-Minute Chickpea Salad with Feta and Basil - Recipe"
 date: 2011-03-23T07:15:00
 slug: "ten-minute-chickpea-salad-with-feta-and-basil-recipe"

@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Vietnamese Cabbage, Tofu and Herb Salad - Gói Bắp Cải Dậu Phụ - Recipe"
 description: "Vietnamese cabbage, tofu and herb salad, inspired by a dish at Seattle's Ba Bar. Bright, fresh and vegetarian."
 date: 2013-02-25T07:00:27

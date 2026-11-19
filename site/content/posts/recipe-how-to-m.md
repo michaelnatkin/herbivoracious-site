@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "How to Make Fluffy Couscous - Easy Couscous Recipe"
 date: 2007-11-06T20:03:00
 slug: "recipe-how-to-m"

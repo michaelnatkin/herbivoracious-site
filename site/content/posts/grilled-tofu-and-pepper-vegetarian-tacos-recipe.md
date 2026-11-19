@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Grilled Tofu and Pepper Vegetarian Tacos - Recipe"
 date: 2010-05-03T07:05:00
 slug: "grilled-tofu-and-pepper-vegetarian-tacos-recipe"

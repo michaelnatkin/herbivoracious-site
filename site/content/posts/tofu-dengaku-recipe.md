@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Tofu Dengaku - Recipe"
 date: 2011-06-04T06:15:00
 slug: "tofu-dengaku-recipe"

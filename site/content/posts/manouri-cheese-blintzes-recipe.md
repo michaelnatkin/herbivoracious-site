@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Manouri Cheese Blintzes - Recipe"
 date: 2012-03-15T08:45:00
 slug: "manouri-cheese-blintzes-recipe"

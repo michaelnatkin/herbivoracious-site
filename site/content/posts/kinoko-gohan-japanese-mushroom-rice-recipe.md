@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Kinoko Gohan (Japanese Mushroom Rice) - Recipe"
 description: "Kinoko gohan is classic, soothing Japanese mushroom rice, a fall comfort food that works year round with cultivated mushrooms."
 seo_title: "Japanese Mushroom Rice (Kinoko Gohan) Recipe"

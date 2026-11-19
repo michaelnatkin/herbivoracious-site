@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Chickpea Fritters - Recipe"
 date: 2011-06-22T07:30:00
 slug: "chickpea-fritters-recipe"

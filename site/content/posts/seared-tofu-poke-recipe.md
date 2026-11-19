@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Seared Tofu Poke - Recipe"
 date: 2011-04-28T08:30:00
 slug: "seared-tofu-poke-recipe"

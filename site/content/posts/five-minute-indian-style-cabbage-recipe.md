@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Five Minute Indian-Style Cabbage - Recipe"
 date: 2012-01-24T07:15:00
 slug: "five-minute-indian-style-cabbage-recipe"

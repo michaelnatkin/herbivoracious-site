@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-19
 title: "One-Bowl Banana Muffins - Great For Baking With Kids - Recipe"
 description: "One-bowl banana muffins that are great for baking with kids, unusually delicious and easy."
 date: 2010-03-15T06:55:00

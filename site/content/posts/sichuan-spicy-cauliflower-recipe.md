@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Sichuan Spicy Cauliflower - Recipe"
 description: "Sichuan spicy cauliflower, a vegetarian recipe with bold Sichuan flavors."
 date: 2013-03-18T06:40:27

@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Chili Borracho - Recipe"
 date: 2011-11-25T08:45:00
 slug: "chili-borracho-recipe"

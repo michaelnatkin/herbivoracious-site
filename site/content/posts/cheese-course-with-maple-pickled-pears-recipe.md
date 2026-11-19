@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Cheese Course with Maple Pickled Pears - Recipe"
 date: 2012-11-24T06:30:00
 slug: "cheese-course-with-maple-pickled-pears-recipe"

@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Braised Belgian Endive with Sauce Gribiche - Recipe"
 date: 2011-06-05T07:30:00
 slug: "braised-belgian-endive-with-sauce-gribiche-recipe"

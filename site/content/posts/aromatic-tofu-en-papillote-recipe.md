@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Aromatic Tofu En Papillote - Recipe"
 date: 2011-12-26T07:00:00
 slug: "aromatic-tofu-en-papillote-recipe"

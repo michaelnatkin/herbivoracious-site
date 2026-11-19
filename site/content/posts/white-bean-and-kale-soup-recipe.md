@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "White Bean and Kale Soup - Recipe"
 date: 2011-02-04T06:00:00
 slug: "white-bean-and-kale-soup-recipe"

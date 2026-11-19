@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Roasted Maitake Mushrooms In Smoky Tea Broth&nbsp;-&nbsp;Recipe"
 description: "Roasted maitake (hen-of-the-woods) mushrooms in a smoky tea broth, a favorite soup from the Herbivoracious cookbook."
 date: 2013-04-15T05:57:49

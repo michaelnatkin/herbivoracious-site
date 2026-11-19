@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Indian-Sichuan Pickle - Recipe"
 date: 2012-06-24T08:45:00
 slug: "indian-sichuan-pickle-recipe"

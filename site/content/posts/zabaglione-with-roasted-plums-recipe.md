@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Zabaglione with Roasted Plums - Recipe"
 date: 2012-04-28T06:15:00
 slug: "zabaglione-with-roasted-plums-recipe"

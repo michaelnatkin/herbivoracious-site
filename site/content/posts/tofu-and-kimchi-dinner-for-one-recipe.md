@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Tofu and Kimchi Dinner for One - Recipe"
 date: 2010-06-28T07:01:00
 slug: "tofu-and-kimchi-dinner-for-one-recipe"

@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-16
 title: "The Value of Acid - Making Your Food Pop, Part 2"
 description: "The value of acid, part 2 of Making Your Food Pop: how sourness brightens food, with mandarin orange supremes."
 date: 2010-01-12T06:55:00

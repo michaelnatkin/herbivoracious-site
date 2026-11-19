@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Seckel Pears with Cinnamon Pastry Crumbs - Recipe"
 date: 2012-05-02T08:45:00
 slug: "seckel-pears-with-cinnamon-pastry-crumbs-recipe"

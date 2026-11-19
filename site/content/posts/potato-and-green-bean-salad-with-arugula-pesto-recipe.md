@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Potato and Green Bean Salad with Arugula Pesto - Recipe"
 date: 2012-09-10T07:15:00
 slug: "potato-and-green-bean-salad-with-arugula-pesto-recipe"

@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Chermoula - The Most Delicious Sauce You've Never Tasted - Recipe"
 description: "Chermoula, the North African herb sauce, recipe and uses: great on a vegetable tagine with couscous and as a marinade."
 date: 2010-03-18T07:00:00

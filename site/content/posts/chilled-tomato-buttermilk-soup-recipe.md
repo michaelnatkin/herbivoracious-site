@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Chilled Tomato Buttermilk Soup - Recipe"
 date: 2011-02-13T06:45:00
 slug: "chilled-tomato-buttermilk-soup-recipe"

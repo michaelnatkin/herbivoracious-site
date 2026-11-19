@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Indian Fry Bread Tacos - Recipe"
 date: 2011-11-18T06:45:00
 slug: "indian-fry-bread-tacos-recipe"

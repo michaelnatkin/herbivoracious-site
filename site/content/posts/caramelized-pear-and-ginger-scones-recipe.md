@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Caramelized Pear and Ginger Scones - Recipe"
 date: 2012-04-09T08:15:00
 slug: "caramelized-pear-and-ginger-scones-recipe"

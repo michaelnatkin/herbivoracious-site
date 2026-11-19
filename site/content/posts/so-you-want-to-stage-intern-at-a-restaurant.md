@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "So You Want to Stage (Intern) at a Restaurant"
 date: 2012-03-22T09:59:57
 slug: "so-you-want-to-stage-intern-at-a-restaurant"

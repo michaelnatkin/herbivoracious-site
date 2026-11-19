@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Soba Noodle Soup in Shiitake Shoyu Broth with Asparagus, Leeks and Tofu - Recipe"
 description: "Soba noodle soup in a shiitake shoyu broth with asparagus, leeks and tofu, a vegetarian noodle soup with deep umami from dried shiitakes and kombu."
 date: 2009-04-15T21:08:57

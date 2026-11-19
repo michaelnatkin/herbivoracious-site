@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-19
 title: "The Secret to Perfectly Roasted Green Beans - Recipe"
 date: 2013-09-03T05:45:10
 slug: "perfect-pan-roasted-green-beans-recipe"

@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Southern-Style Collard Greens, Veganized - Recipe"
 description: "Southern-style collard greens made vegan, with a story about the traditional 'boil them three times' approach."
 date: 2009-10-15T06:54:00

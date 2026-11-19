@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Roasted Maitake Mushroom in Smoky Tea Broth - Recipe"
 date: 2011-03-05T07:30:00
 slug: "roasted-maitake-mushroom-in-smoky-tea-broth-recipe"

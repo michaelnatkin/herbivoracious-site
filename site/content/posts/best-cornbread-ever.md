@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Brown Butter Cornbread - Recipe"
 date: 2009-04-06T06:36:00
 slug: "best-cornbread-ever"

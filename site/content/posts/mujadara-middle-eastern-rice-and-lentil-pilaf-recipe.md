@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Mujadara – Middle Eastern Rice and Lentil Pilaf - Recipe"
 date: 2011-07-22T07:45:00
 slug: "mujadara-middle-eastern-rice-and-lentil-pilaf-recipe"

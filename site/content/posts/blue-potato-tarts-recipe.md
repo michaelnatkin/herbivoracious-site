@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Blue Potato Tarts - Recipe"
 date: 2011-05-29T06:00:00
 slug: "blue-potato-tarts-recipe"

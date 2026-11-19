@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Black Bean Soup With Orange-Jalapeno Salsa - Recipe"
 date: 2011-01-20T06:15:00
 slug: "black-bean-soup-with-orange-jalapeno-salsa-recipe"

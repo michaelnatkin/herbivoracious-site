@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Rosemary-Blueberry Sauce - Recipe"
 date: 2012-06-04T06:00:00
 slug: "rosemary-blueberry-sauce-recipe"

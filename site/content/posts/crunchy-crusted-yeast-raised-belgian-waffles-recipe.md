@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Crunchy Crusted Yeast-Raised Belgian Waffles - Recipe"
 date: 2012-04-11T08:45:00
 slug: "crunchy-crusted-yeast-raised-belgian-waffles-recipe"

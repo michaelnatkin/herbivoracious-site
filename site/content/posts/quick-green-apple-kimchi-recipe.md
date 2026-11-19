@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Quick Green Apple \"Kimchi\" - Recipe"
 date: 2012-09-12T06:00:48
 slug: "quick-green-apple-kimchi-recipe"

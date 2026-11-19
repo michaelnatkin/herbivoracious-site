@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Pear-Caramel Ice Cream from The Perfect Scoop (by David Lebovitz) - Recipe and Cookbook Review"
 description: "Pear-caramel ice cream from David Lebovitz's The Perfect Scoop, with a review of the cookbook."
 date: 2009-01-12T06:53:00

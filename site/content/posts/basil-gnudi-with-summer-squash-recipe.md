@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Basil Gnudi with Summer Squash - Recipe"
 date: 2011-08-11T06:15:00
 slug: "basil-gnudi-with-summer-squash-recipe"

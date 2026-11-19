@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-19
 title: "Vegetarian Lasagna Recipe with Spinach and Ricotta Filling for a Crowd, using No-Boil Noodles"
 date: 2008-12-29T06:10:00
 slug: "vegetarian-lasagna-recipe-with-spinach-and-ricotta-filling"

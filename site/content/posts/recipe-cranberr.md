@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Recipe: Cranberry Bean \"Fool Mudammas\" (aka Borlotti Beans)"
 description: "Cranberry bean (borlotti) 'fool mudammas', a dish of cranberry beans whose flavor resembles dried fava beans."
 date: 2008-05-08T09:28:57

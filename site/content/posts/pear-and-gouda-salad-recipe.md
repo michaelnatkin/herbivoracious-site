@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Pear and Gouda Salad - Recipe"
 date: 2012-08-27T08:00:00
 slug: "pear-and-gouda-salad-recipe"

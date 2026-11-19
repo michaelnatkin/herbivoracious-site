@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Apio (Lemony Celery Root) - Recipe"
 date: 2012-02-20T06:00:00
 slug: "apio-lemony-celery-root-recipe"

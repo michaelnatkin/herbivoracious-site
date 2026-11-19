@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Island Style Sweet and Spicy Cabbage - Recipe"
 date: 2010-08-30T07:15:00
 slug: "island-style-sweet-and-spicy-cabbage-recipe"

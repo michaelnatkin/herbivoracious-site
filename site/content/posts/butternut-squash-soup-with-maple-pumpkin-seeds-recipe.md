@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Butternut Squash Soup with Maple Pumpkin Seeds - Recipe"
 date: 2011-03-05T06:45:00
 slug: "butternut-squash-soup-with-maple-pumpkin-seeds-recipe"

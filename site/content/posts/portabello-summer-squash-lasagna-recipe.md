@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Portabello-Summer Squash Lasagna - Recipe"
 date: 2011-09-06T08:45:00
 slug: "portabello-summer-squash-lasagna-recipe"

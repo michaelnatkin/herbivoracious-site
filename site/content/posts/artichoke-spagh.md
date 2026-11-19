@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Recipe: Spaghetti with Fresh Artichokes ala Pink Door (Spaghetti con Carciofi \"Porta Rosa\")"
 description: "Spaghetti with fresh artichokes, a recreation of the dish at The Pink Door in Seattle (spaghetti con carciofi)."
 date: 2008-06-28T05:52:00

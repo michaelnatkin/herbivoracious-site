@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Basic Pastry Dough - Recipe"
 date: 2012-07-19T08:45:00
 slug: "basic-pastry-dough-recipe"

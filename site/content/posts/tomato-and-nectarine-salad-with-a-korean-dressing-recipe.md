@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Tomato and Nectarine Salad with a Korean Dressing - Recipe"
 description: "Tomato and nectarine salad with a Korean dressing, a simple, surprising salad worth making only with ripe heirloom tomatoes and nectarines."
 date: 2012-08-27T06:25:11

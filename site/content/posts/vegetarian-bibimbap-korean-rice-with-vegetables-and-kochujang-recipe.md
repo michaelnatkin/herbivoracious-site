@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Vegetarian Bibimbap - Korean Rice with Vegetables And Kochujang - Recipe"
 description: "Vegetarian bibimbap, the Korean rice bowl with seasoned vegetables, egg and gochujang sauce. A favorite Korean dish made meat-free."
 date: 2012-12-31T07:00:46

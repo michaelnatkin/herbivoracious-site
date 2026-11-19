@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Shiitake Tacos with Asian Pear Slaw - Recipe"
 date: 2012-01-04T06:30:00
 slug: "shiitake-tacos-with-asian-pear-slaw-recipe"

@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Grape, Honey, Yogurt - Recipe"
 description: "Grape, honey, yogurt: a simple plate with grapes, honey and yogurt."
 date: 2009-03-30T06:35:00

@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Stuffed & Baked Polenta - Recipe"
 date: 2011-10-23T06:15:00
 slug: "stuffed-baked-polenta-recipe"

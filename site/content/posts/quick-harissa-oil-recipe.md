@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Quick Harissa Oil - Recipe"
 date: 2012-08-13T07:00:00
 slug: "quick-harissa-oil-recipe"

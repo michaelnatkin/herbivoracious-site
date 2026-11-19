@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Pozole Rojo de Frijol - Recipe"
 date: 2011-01-25T06:00:00
 slug: "pozole-rojo-de-frijol-recipe"

@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Bunuelos (Sephardic Doughnuts) - Recipe"
 date: 2012-05-27T08:00:00
 slug: "bunuelos-sephardic-doughnuts-recipe"

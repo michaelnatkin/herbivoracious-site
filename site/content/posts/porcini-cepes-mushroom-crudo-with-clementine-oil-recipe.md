@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Porcini (Cèpes) Mushroom Crudo With Clementine Oil - Recipe"
 description: "Porcini (cèpes) mushroom crudo with clementine oil, a simple, pure way to show off rare fresh porcini."
 date: 2012-12-03T07:00:46

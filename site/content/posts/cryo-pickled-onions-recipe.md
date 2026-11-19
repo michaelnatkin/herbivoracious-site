@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Cryo-Pickled Onions - Recipe"
 date: 2012-12-03T06:00:00
 slug: "cryo-pickled-onions-recipe"

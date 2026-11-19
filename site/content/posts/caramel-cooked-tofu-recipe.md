@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Caramel-Cooked Tofu - Recipe"
 date: 2011-11-25T06:45:00
 slug: "caramel-cooked-tofu-recipe"

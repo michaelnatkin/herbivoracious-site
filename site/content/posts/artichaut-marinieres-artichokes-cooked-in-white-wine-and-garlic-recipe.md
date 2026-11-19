@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Artichaut Marinières - Artichokes Cooked in White Wine and Garlic - Recipe"
 date: 2011-05-23T07:05:00
 slug: "artichaut-marinieres-artichokes-cooked-in-white-wine-and-garlic-recipe"

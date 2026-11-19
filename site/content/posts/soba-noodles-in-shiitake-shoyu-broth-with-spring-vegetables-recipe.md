@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Soba Noodles in Shiitake Shoyu Broth with Spring Vegetables - Recipe"
 date: 2011-08-02T08:15:00
 slug: "soba-noodles-in-shiitake-shoyu-broth-with-spring-vegetables-recipe"

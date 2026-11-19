@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Thai Tofu Salad (Yam Taohu) - Recipe"
 description: "Thai tofu salad (yam taohu), a refreshing salad with herbs, citrus and chili, traditionally eaten with sticky rice."
 date: 2010-02-25T10:00:00

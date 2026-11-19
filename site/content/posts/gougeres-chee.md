@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Recipe: Gougères - Cheesy Puffs of Goodness with Blue Cheese and Rosemary"
 description: "Gougères, cheesy choux puffs with blue cheese and rosemary that rise from steam alone."
 date: 2008-06-15T07:49:00

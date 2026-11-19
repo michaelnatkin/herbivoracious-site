@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-15
 title: "Spanish Lentil and Mushroom Stew - Recipe"
 date: 2011-10-18T07:45:00
 slug: "spanish-lentil-and-mushroom-stew-recipe"
