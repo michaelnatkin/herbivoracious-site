@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-19
 title: "Romesco Sauce - Spanish Red Pepper and Hazelnut (or Almond) Sauce - Recipe"
 date: 2013-01-28T07:00:56
 slug: "romesco-sauce-spanish-red-pepper-and-hazelnut-or-almond-sauce-recipe"
@@ -9,6 +10,8 @@ cover:
   hidden: true
 recipe:
   name: "Romesco Sauce – Spanish Red Pepper and Hazelnut (or Almond) Sauce – Vegetarian, Vegan, and Gluten free"
+  yield: "1 cup"
+  total_time: "PT55M"
   ingredients:
     - "1 head garlic + a bit of extra-virgin olive oil"
     - "1 red bell pepper"
@@ -25,6 +28,16 @@ recipe:
     - "Put hazelnuts in a blender and process at medium speed until powdered. Squeeze garlic cloves out of skin and add to blender. Add bell pepper, tomatoes, salt, vinegar and smoked paprika and process to a paste. With blender running on low speed, drizzle in the the hazelnut oil. Taste and adjust seasoning."
 description: "Romesco, the Spanish red pepper sauce, made with hazelnuts or almonds. A vegetarian recipe you can spoon over vegetables or serve as a dip."
 seo_title: "Hazelnut Romesco Sauce (Spanish Red Pepper Sauce)"
+summary: "Romesco is a Spanish sauce of roasted red pepper, canned tomatoes, roasted garlic and toasted hazelnuts or almonds, blended with smoked paprika, sherry vinegar and oil; this version makes 1 cup in 55 minutes."
+glance:
+  - label: "Makes"
+    value: "1 cup"
+  - label: "Time"
+    value: "Prep 15 min, cook 40 min, total 55 min"
+  - label: "Nuts"
+    value: "hazelnuts (or almonds)"
+  - label: "Diet"
+    value: "Vegetarian, vegan and gluten-free"
 ---
 Romesco is a wonderful Spanish sauce made from roasted red peppers, tomatoes, roasted garlic and toasted nuts. It can be used as a party dip or spread, served as part of a tapas-style meal, stirred into mayonaise, slathered onto a sandwich...
 
@@ -61,4 +74,26 @@ I was in the mood to roast the peppers with a blowtorch. It is fast, and you get
   <li>Toast hazelnuts in a skillet over medium heat until lightly browned and fragrant.</li>
   <li>Put hazelnuts in a blender and process at medium speed until powdered. Squeeze garlic cloves out of skin and add to blender. Add bell pepper, tomatoes, salt, vinegar and smoked paprika and process to a paste. With blender running on low speed, drizzle in the the hazelnut oil. Taste and adjust seasoning.</li>
 </ol>
+</div>
+
+<div class="faq"><h2>Frequently asked questions</h2>
+
+<h3>What is romesco sauce made of?</h3>
+<p>Roasted red peppers, tomatoes, roasted garlic and toasted nuts. This version uses roasted red bell pepper, canned San Marzano tomatoes, hazelnuts, salt, sherry vinegar, smoked paprika and hazelnut oil or extra-virgin olive oil.</p>
+
+<h3>Does romesco need bread?</h3>
+<p>It is typically thickened with bread, but this version leaves it out for a thinner consistency. For a thicker romesco, toast or pan-fry one slice of rustic bread and blend it with the other ingredients.</p>
+
+<h3>Should I use hazelnuts or almonds?</h3>
+<p>Either works; almonds or hazelnuts are most commonly used. This recipe uses all hazelnuts, with roasted hazelnut oil for extra flavor. Without hazelnut oil, extra-virgin olive oil is still great.</p>
+
+<h3>How do you roast the peppers for romesco?</h3>
+<p>A blowtorch is fast and blisters the skin evenly while leaving the flesh fresher. You can also use the broiler or, very carefully, a stove burner. Rest the pepper in a covered bowl for 5 minutes, then rub off the skin.</p>
+
+<h3>What do you use romesco for?</h3>
+<p>As a party dip or spread, as part of a tapas-style meal, stirred into mayonnaise, or slathered on a sandwich.</p>
+
+<h3>Is romesco vegan?</h3>
+<p>Yes. As written it is vegetarian, vegan and gluten-free.</p>
+
 </div>

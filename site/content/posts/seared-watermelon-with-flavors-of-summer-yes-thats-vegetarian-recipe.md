@@ -1,5 +1,5 @@
 ---
-lastmod: 2026-11-15
+lastmod: 2026-11-19
 title: "Seared Watermelon with Flavors of Summer - Yes, That's Vegetarian - Recipe"
 seo_title: "How to Cook Watermelon: Seared Watermelon Recipe"
 date: 2011-06-08T22:32:32
@@ -27,6 +27,16 @@ recipe:
     - "Heat a saute pan over very high heat. Add the olive oil, and when it is smoking hot, add the watermelon. Be careful, there will be some spattering when the wet melon meets the oil, and I've also seen it flame up. Cook, pressing occasionally with a long, heavy spatula to compress, until the melon is well-seared on one side, about 3 minutes. Flip and repeat on the other side."
     - "Remove the watermelon. Pour excess oil out of the pan. Return the pan to the heat and deglaze with the watermelon juice, reducing it a bit but not to a syrup; we are looking for a jus-like consistency. Drizzle the jus on serving plates and place a piece of watermelon atop the jus."
     - "Garnish each piece with a small amount of the olive paste, a few kernels of dehydrated corn, a few of the chive flowers, rosemary flowers, and oregano tips, and a final sprinkle of Maldon (aka the world's greatest salt) . Serve warm."
+summary: "Seared watermelon: press 1-inch squares of seedless watermelon in a smoking-hot pan with olive oil for about 3 minutes per side, then serve on a jus made from watermelon juice."
+glance:
+  - label: "Serves"
+    value: "4"
+  - label: "Sear"
+    value: "about 3 minutes per side"
+  - label: "Cut"
+    value: "2 1/2 x 2 1/2 x 1 inch squares of seedless watermelon"
+  - label: "Diet"
+    value: "Vegetarian, vegan and gluten-free"
 ---
 
 A few days ago I was surfing my RSS reader for a few minutes before bed, when <a href="http://blog.ideasinfood.com/ideas_in_food/2011/06/breast-of-watermelon.html" target="_blank">this post from Alex and Aki</a> hit me like a <strong>ton of bricks</strong>. I've seen compressed watermelon before, but I don't think I've ever given any thought to searing it. Genius. I had to try this immediately, and fortunately I had a cut-up watermelon already in the refrigerator.

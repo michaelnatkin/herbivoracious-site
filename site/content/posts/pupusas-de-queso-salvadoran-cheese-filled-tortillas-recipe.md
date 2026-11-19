@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-19
 title: "Pupusas De Queso - Salvadoran Cheese-Filled Tortillas - Recipe"
 date: 2010-03-22T07:05:00
 slug: "pupusas-de-queso-salvadoran-cheese-filled-tortillas-recipe"
@@ -25,6 +26,18 @@ recipe:
     - "Taste and adjust the seasoning. Allow to stand for at least an hour. Toss again just before serving."
 description: "How to make pupusas de queso, El Salvador's national dish: corn masa stuffed with cheese, flattened and cooked on a griddle. A vegetarian recipe."
 seo_title: "Pupusas de Queso: Salvadoran Cheese-Filled Tortillas"
+summary: "Cheese pupusas are thick masa harina discs stuffed with melting cheese and cooked about 3 minutes per side on a griddle or cast-iron skillet, served with curtido, a vinegary cabbage slaw."
+glance:
+  - label: "Serves"
+    value: "4-6 (makes about 14)"
+  - label: "Cook"
+    value: "about 3 minutes per side"
+  - label: "Dough rest"
+    value: "at least 10 minutes"
+  - label: "Serve with"
+    value: "curtido (vinegary cabbage slaw)"
+  - label: "Diet"
+    value: "Vegetarian and gluten-free; not vegan unless you use vegan cheese"
 ---
 
 Pupusas are El Salvador's best known national delicacy. The concept is simple, just corn masa with a savory filling and flattened into a thick disc, then baked on a lightly-greased griddle or in a {{% product id="lodge-12-inch-cast-iron-pre-seasoned-skillet" %}}cast-iron skillet{{% /product %}}. Essentially like a quesadilla, though there is something different about the taste when the filling is cooked at the same time as the dough instead of in a second pass. They are also quite similar to the arepas of South America.
@@ -71,4 +84,26 @@ Makes: a lot</em>
 	<li>Drain well, then combine all other ingredients.</li>
 	<li>Taste and adjust the seasoning. Allow to stand for at least an hour. Toss again just before serving.</li>
 </ol>
+</div>
+
+<div class="faq"><h2>Frequently asked questions</h2>
+
+<h3>What cheese do you use for pupusas?</h3>
+<p>A soft, fresh quesillo is the most traditional. If you can't find it, any mild, meltable cheese works well, and fresh goat cheese (chevre) is also delicious, though not traditional.</p>
+
+<h3>Do I need a tortilla press to make pupusas?</h3>
+<p>No. Pupusas can be shaped entirely by hand, or with a tortilla press for a more uniform thickness and a neater look.</p>
+
+<h3>How should pupusa dough feel?</h3>
+<p>Moist and firm, like Play-Doh. You should be able to form it without cracking. Add more water a little at a time as needed, then let it rest, covered, at least 10 minutes.</p>
+
+<h3>How do you cook pupusas?</h3>
+<p>Fill a ball of dough about 1 3/4 inches across with about 1 1/2 tablespoons of cheese, seal it, and flatten it to about 5 inches. Cook on a lightly greased griddle or cast-iron skillet over medium heat for about 3 minutes per side until golden brown. You can hold them in a 200 degree oven while you finish the batch.</p>
+
+<h3>What is curtido?</h3>
+<p>Curtido is the classic accompaniment to pupusas: a simple, vinegary cabbage slaw that cuts through the richness of the filling. Let it stand at least an hour before serving.</p>
+
+<h3>What are other vegetarian fillings for pupusas?</h3>
+<p>Refried beans (if they don't contain lard) and loroco, a flower bud that can be hard to find in America.</p>
+
 </div>

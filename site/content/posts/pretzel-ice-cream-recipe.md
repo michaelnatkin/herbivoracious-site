@@ -1,5 +1,5 @@
 ---
-lastmod: 2026-11-15
+lastmod: 2026-11-19
 title: "Pretzel Ice Cream - Yeah, You Heard Me, It Tastes Like Pretzels - Recipe"
 description: "Homemade pretzel ice cream with a custard base infused with toasted pretzel flavor, plus crunchy pretzel pieces. A salty-sweet scoop worth the effort."
 seo_title: "Pretzel Ice Cream Recipe (Homemade, Salty-Sweet)"
@@ -25,6 +25,16 @@ recipe:
     - "In a large container with a lid, combine the sugared milk, remaining cup of milk, cream, and pretzels. Refrigerate for at least two hours, shaking occasionally. Taste and confirm that the cream has absorbed enough pretzel flavor; if not, infuse longer."
     - "In a colander, strain the cream mixture, pressing down on the pretzels to extract as much liquid as possible. Then pass the cream again through a fine sieve to remove little bits of pretzel."
     - "Process according to your ice cream maker's instructions. When it is done but not frozen hard, fold in flaky sea salt to taste."
+summary: "Pretzel ice cream: infuse 8 ounces of unsalted mini pretzels in cold milk and cream for at least two hours, strain, and churn an egg-free, Philadelphia-style base that makes about 3 cups."
+glance:
+  - label: "Makes"
+    value: "about 3 cups"
+  - label: "Infuse"
+    value: "at least 2 hours, refrigerated"
+  - label: "Base"
+    value: "egg-free, Philadelphia-style"
+  - label: "Finish"
+    value: "flaky sea salt folded in after churning"
 ---
 
 My wife ordered vanilla ice cream with pretzel pieces mixed in, and caramel sauce on top, and was enraptured. It made perfect sense; we all know salt and caramel go great together. The pretzels provide the salt along with a beautiful crunch and that warm, toasted flavor.
