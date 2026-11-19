@@ -34,6 +34,22 @@ recipe:
     - "Bake , covering with tin foil part of the time if needed to avoid overbrowning. It is done when internal temp is say 170 F. (check a few spots) or when you can easily pierce the noodles with a fork, and the sauce is bubbling around the sides."
     - "If the cheese isn’t crispy and brown enough, finish judiciously with the broiler."
     - "Allow to rest at least 15 minutes before serving so it has time to set up a bit."
+summary: "A vegetarian lasagna made with spinach and ricotta instead of béchamel, baked until firm enough to slice, and easy to prepare ahead for a crowd."
+glance:
+  - label: "Serves"
+    value: "at least 8"
+  - label: "Prep"
+    value: "30 minutes"
+  - label: "Cook"
+    value: "1 hour"
+  - label: "Total"
+    value: "1 hour 30 minutes"
+  - label: "Oven"
+    value: "375 degrees F"
+  - label: "Noodles"
+    value: "no-boil (or regular, boiled first)"
+  - label: "Diet"
+    value: "Vegetarian; not vegan or gluten-free"
 ---
 Vegetarian Lasagna Recipe with Spinach and Ricotta Filling
 

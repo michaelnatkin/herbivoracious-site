@@ -24,6 +24,18 @@ recipe:
     - "Transfer your beautifully caramelized green beans to a serving platter and finish with a drizzle of extra-virgin olive oil and a nice scattering of sea salt."
 description: "The trick to green beans with real caramelized spots: microwave them first, then roast or pan-sear. Includes how long to microwave green beans."
 seo_title: "How to Cook Green Beans: Microwave, Then Roast"
+summary: "Microwave green beans for about 2 minutes to par-cook them, then sear them in a very hot cast-iron skillet for about 3 minutes until they have caramelized brown spots."
+glance:
+  - label: "Serves"
+    value: "4 as a side dish"
+  - label: "Time"
+    value: "15 minutes"
+  - label: "Microwave"
+    value: "about 2 minutes, 1 minute at a time"
+  - label: "Sear"
+    value: "about 3 minutes"
+  - label: "Diet"
+    value: "Vegetarian, vegan, gluten-free and kosher"
 ---
 <br><em>Perfect Roasted Green Beans</em>
 
