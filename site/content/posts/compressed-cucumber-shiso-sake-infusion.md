@@ -1,5 +1,5 @@
 ---
-lastmod: 2026-11-15
+lastmod: 2026-11-20
 title: "Compressed Cantaloupe and Cucumber Salad with Shiso Infused Sake - Two Modern Techniques You Can Easily Use in a Home Kitchen - Recipe"
 description: "How to make compressed cucumber and cantaloupe, and shiso-infused sake, two modern techniques you can do in a home kitchen."
 seo_title: "Compressed Cucumber (and Cantaloupe) with Shiso Sake"
@@ -12,7 +12,7 @@ cover:
   hidden: true
 recipe:
   name: "Compressed Cantaloupe & Cucumber Salad with Shiso Infused Sake"
-  yield: "4 15 minutes (but you have to have frozen and defrosted the cuke & melon in advance)"
+  yield: "4"
   ingredients:
     - "14 shiso leaves, divided"
     - "1 cup sake"
@@ -27,6 +27,16 @@ recipe:
     - "Set glasses and plates aside to chill. Lightly crush and tear up ten of the shiso leaves until fragrant. Put them and the sake into your cream whipper. Charge with one NO2 (whipped cream) cartridge. Shake for 30 seconds. Let stand for 1 minute. Discharge the NO2 (into a sink, in case a little liquid comes out). Remove the lid and strain the sake. Chill in the coldest part of the freezer for ten minutes while you make the rest of the dish."
     - "Trim the cucumber and cantaloupe into 3\" long slabs. Work them in your hands or even with a rolling pin to extract most of the liquid. You should seem them grow somewhat translucent. Slice into 1/8\" wide \"noodles\". You'll need about 1 1/2 cups total for four servings. Toss the noodles with the sesame oil and sesame seeds."
     - "To serve, divide the \"noodles\" among four plates, forming a small mount. Top with a 1/4 teaspoon umeboshi plum paste. Sprinkle with a pinch of black sea salt and garnish with a few kaiware sprout tops. Pour 4 servings of the cold sake, place the glass on one whole shiso leaf, and serve immediately."
+summary: "A compressed cantaloupe and cucumber salad: frozen and defrosted melon and cucumber slabs are wrung out into translucent \"noodles\" with sesame and umeboshi, served with sake infused with shiso in a cream whipper in about 2 minutes."
+glance:
+  - label: "Serves"
+    value: "4"
+  - label: "Time"
+    value: "15 minutes, after freezing and defrosting the cucumber and melon in advance"
+  - label: "Technique"
+    value: "Dave Arnold's cream-whipper infusion, charged with one NO2 cartridge"
+  - label: "Diet"
+    value: "Vegetarian, vegan and gluten-free"
 ---
 
 Dave Arnold from the French Culinary Institute recently <a href="http://www.cookingissues.com/2010/08/11/infusion-profusion-game-changing-fast-%E2%80%98n-cheap-technique/" target="_self">invented a technique for infusing</a> just about anything (herbs, vegetables, chocolate, ...) into booze, water or oil, using nothing fancier than a {{% product id="cream-whipper" target="_blank" %}}cream whipper{{% /product %}}. It is a genius idea because it takes two minutes, requires no special culinary talent, and produces beautifully clear, fresh, brightly flavored results.
@@ -67,3 +77,22 @@ I'm planning on doing an occasional post introducing these types of modern techn
 </div>
 
 <p class="related-link">Another modern technique for melon: <a href="/2011/06/seared-watermelon-with-flavors-of-summer-yes-thats-vegetarian-recipe/">Seared Watermelon</a>.</p>
+
+<div class="faq"><h2>Frequently asked questions</h2>
+
+<h3>How do you infuse sake with shiso?</h3>
+<p>Lightly crush ten shiso leaves, put them with 1 cup of sake in a cream whipper, charge with one NO2 cartridge, shake 30 seconds and let stand 1 minute. Discharge the gas, strain, and chill the sake in the freezer for ten minutes.</p>
+
+<h3>How does the cream whipper infusion work?</h3>
+<p>The NO2 forces its way into the plant cells, then rushes out when released, carrying flavor components into the liquid. It takes two minutes and needs no special culinary talent.</p>
+
+<h3>How do you compress cucumber and melon at home?</h3>
+<p>Restaurants use a vacuum chamber. At home, freeze the fruit overnight and then thaw it: the melon becomes flexible enough to bend and wring water out of without breaking. Cucumbers, which are closely related, work too.</p>
+
+<h3>What does shiso taste like?</h3>
+<p>Shiso, also called perilla or beefsteak leaf, tastes somewhat like mint or basil with a distinctly tart edge. In Japan it is classically paired with pickled umeboshi plums.</p>
+
+<h3>Is it vegan?</h3>
+<p>Yes. It is vegetarian, vegan and gluten-free, and serves 4.</p>
+
+</div>

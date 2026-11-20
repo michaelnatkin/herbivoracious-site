@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-20
 title: "Basic Baked Custard Recipe - An Easy, Comforting Dessert with Many Options"
 description: "A simple baked custard in ramekins, with the method that keeps it silky instead of grainy. Easy to flavor many ways."
 seo_title: "Easy Baked Custard Recipe (Silky, Never Grainy)"
@@ -11,7 +12,7 @@ cover:
   hidden: true
 recipe:
   name: "Basic Baked Custard Recipe"
-  yield: "8 servings Special equipment: 8 oven-proof ramekins"
+  yield: "8 servings"
   ingredients:
     - "8 eggs"
     - "4 cups whole milk"
@@ -26,6 +27,16 @@ recipe:
     - "Strain the custard through a coarse strainer and then your finest strainer to catch any bits of egg."
     - "Ladle the custard into the ramekins and put the baking dish in the oven. Pull the rack part way out and pour the boiling water around the ramekins until it comes about halfway up their sides."
     - "Bake until just barely set, about 20 minutes. A toothpick should come out nearly clean, but there should still be a visible jiggle if you move the pan. Err on the side of undercooking them. Remove the ramekins carefully to a cooling rack. I usually do this using tongs, but you have to be careful not to drop one back in the pan of hot water and splash yourself!"
+summary: "Baked custard from just eggs, whole milk, sugar, vanilla and salt: strain it twice, bake in ramekins in a hot water bath at 350°F for about 20 minutes, and pull it while it still jiggles."
+glance:
+  - label: "Makes"
+    value: "8 servings (8 oven-proof ramekins)"
+  - label: "Bake"
+    value: "350°F for about 20 minutes, until just barely set"
+  - label: "Method"
+    value: "strained base, hot water bath"
+  - label: "Diet"
+    value: "Gluten-free"
 ---
 
 A simple custard, baked in ramekins, is one of those recipes that <strong>every cook should have in their arsenal</strong>. It isn't at all hard to make, but there are a few ways you can go wrong that leave you with grainy bowls of scrambled eggs instead of the silky-smooth result you are looking for. Follow the method below and you'll feel like a custard master in no time.
@@ -70,4 +81,26 @@ Finally, there is the matter of mix-ins and toppings. I'm in the less-is-more ca
 	<li>Bake until just barely set, about 20 minutes. A toothpick should come out nearly clean, but there should still be a visible jiggle if you move the pan. Err on the side of undercooking them. Remove the ramekins carefully to a cooling rack. I usually do this using tongs, but you have to be careful not to drop one back in the pan of hot water and splash yourself!</li>
 </ol>
 </div>
+</div>
+
+<div class="faq"><h2>Frequently asked questions</h2>
+
+<h3>How do you keep baked custard smooth?</h3>
+<p>Thoroughly strain the base before baking, bake in a hot water bath to moderate the temperature, and don't overbake. Those three steps prevent grainy, scrambled-egg custard.</p>
+
+<h3>How do you strain custard?</h3>
+<p>Nest a coarse strainer over a fine one and pour once, rather than pouring back and forth between them.</p>
+
+<h3>How do I know when baked custard is done?</h3>
+<p>After about 20 minutes it should be just barely set. A toothpick should come out nearly clean, with a visible jiggle when you move the pan. Err on the side of undercooking.</p>
+
+<h3>How do I make a richer custard?</h3>
+<p>Replace up to two-thirds of the milk with heavy cream, or use 10 egg yolks instead of 8 whole eggs for an eggier, richer taste.</p>
+
+<h3>How can I flavor baked custard?</h3>
+<p>Vanilla extract is in the recipe, but you can use a scraped vanilla bean with the pod infused in the milk, or espresso, fresh ginger, rosewater, lemongrass, bay leaf, citrus zest or herbs. Non-liquid flavorings should steep off the heat until strong enough.</p>
+
+<h3>Can I make creme brulee from this?</h3>
+<p>Make the rich version, scatter sugar on top and hit it with a blowtorch.</p>
+
 </div>

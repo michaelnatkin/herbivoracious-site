@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-20
 title: "Kala Chana (Black Chickpea Curry) - A Guest Post from Amee of Rabbit Food Rocks"
 description: "Kala chana, a black chickpea curry, from a guest post by Amee of Rabbit Food Rocks. A hearty Indian vegetarian main."
 seo_title: "Kala Chana (Black Chickpea) Curry Recipe"
@@ -11,7 +12,7 @@ cover:
   hidden: true
 recipe:
   name: "Kala Chana (Black Chickpea Curry)"
-  yield: "2-3 Vegetarian, vegan, and gluten-free"
+  yield: "2-3"
   ingredients:
     - "1 cup dry black chickpeas"
     - "1 teaspoon baking soda"
@@ -41,6 +42,18 @@ recipe:
     - "Add tomatoes to the pan, stir well, and then add coriander, cumin, turmeric, chili powder."
     - "Cook for 5 minutes, mixing well. Add garam masala and beans. Cover and simmer on low for 20 mins, stirring occasionally."
     - "Turn off heat, garnish with cilantro, and serve over rice, or with flatbread, parathas, or naan."
+summary: "Kala chana is a guest recipe from Amee of Rabbit Food Rocks: black chickpeas soaked overnight, pressure-cooked, then simmered 20 minutes in a spiced onion and tomato masala."
+glance:
+  - label: "Serves"
+    value: "2-3"
+  - label: "Soak"
+    value: "beans overnight with baking soda"
+  - label: "Cook"
+    value: "pressure cook 12 minutes (3 whistles), or about 1 hour 15 minutes in a pot; then simmer 20 minutes"
+  - label: "Serve with"
+    value: "rice, flatbread, parathas or naan"
+  - label: "Diet"
+    value: "Vegetarian, vegan and gluten-free"
 ---
 <em>Kala Chana (Black Chickpea Curry)</em>
 
@@ -94,4 +107,26 @@ Vegetarian, vegan, and gluten-free</em>
 	<li>Cook for 5 minutes, mixing well. Add garam masala and beans. Cover and simmer on low for 20 mins, stirring occasionally.</li>
 	<li>Turn off heat, garnish with cilantro, and serve over rice, or with flatbread, parathas, or naan.</li>
 </ol>
+</div>
+
+<div class="faq"><h2>Frequently asked questions</h2>
+
+<h3>What is kala chana?</h3>
+<p>Black chickpea curry, a hearty, warming, aromatic homestyle Indian bean dish, much like a vegetarian bean-based chili.</p>
+
+<h3>Do black chickpeas need to be soaked?</h3>
+<p>Yes. They have a tough skin and are very dense, so soaking overnight is a must. This recipe soaks them with baking soda.</p>
+
+<h3>Can I make kala chana without a pressure cooker?</h3>
+<p>Yes. After soaking, rinse and replace the water and cook on medium heat for an hour and 15 minutes, keeping the water at least 1 inch above the beans.</p>
+
+<h3>Can I use regular chickpeas?</h3>
+<p>Yes, regular dried chickpeas work if you can't find kala chana.</p>
+
+<h3>What do you serve with kala chana?</h3>
+<p>Rice, or flatbread, parathas or naan. It is often accompanied by kadhi, a yogurt-based soup.</p>
+
+<h3>What can I use instead of ginger-garlic paste?</h3>
+<p>One inch of grated ginger plus 5 cloves of crushed, finely diced garlic.</p>
+
 </div>

@@ -1,5 +1,5 @@
 ---
-lastmod: 2026-11-15
+lastmod: 2026-11-20
 title: "Quick Green Apple \"Kimchi\" - Recipe"
 date: 2012-09-12T06:00:48
 slug: "quick-green-apple-kimchi-recipe"
@@ -24,6 +24,16 @@ recipe:
     - "Reserve in refrigerator until ready to use. Use within a couple of hours or it can become too soggy."
 description: "A quick green apple \"kimchi\" with the crunch and spice of the classic, made much faster. An easy vegetarian side dish."
 seo_title: "Quick Apple Kimchi Recipe (Green Apple Kimchi)"
+summary: "Quick green apple \"kimchi\" is unfermented: julienned apple tossed by hand with onion, ginger, salt, gochugaru and rice vinegar, kept in the refrigerator and eaten within a couple of hours."
+glance:
+  - label: "Makes"
+    value: "about 3 cups"
+  - label: "Spice"
+    value: "1 to 2 tablespoons gochugaru"
+  - label: "Keep"
+    value: "refrigerated; use within a couple of hours or it gets soggy"
+  - label: "Diet"
+    value: "Vegetarian, vegan, gluten-free and kosher"
 ---
 
 As I mentioned in the <a href="/2012/08/tomato-and-nectarine-salad-with-a-korean-dressing-recipe/" target="_blank">Tomato and Nectarine Salad</a>, I've fallen in love with {{% product id="gochugaru-a-korean-chili-powder" target="_blank" %}}gochugaru (Korean chili powder{{% /product %}}). It is spicy, but not so spicy that you can't use enough of it to also appreciate its fruity, tart notes. I like using it to make quick "kimchi". I'm putting the "kimchi" in quotes because there is no fermentation at all. I'm <strong>not</strong> putting it in quotes because this is apple, not cabbage - Koreans make kimchi from all sorts of things besides those familiar leaves.

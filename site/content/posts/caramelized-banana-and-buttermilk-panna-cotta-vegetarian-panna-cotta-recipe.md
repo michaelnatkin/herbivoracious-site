@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-20
 title: "Caramelized Banana and Buttermilk Panna Cotta - Vegetarian Panna Cotta Recipe"
 description: "Traditional panna cotta uses gelatin, so it isn't vegetarian. This caramelized banana and buttermilk version is set with agar instead."
 seo_title: "Is Panna Cotta Vegetarian? Banana Panna Cotta Recipe"
@@ -11,13 +12,25 @@ cover:
   hidden: true
 recipe:
   name: "Caramelized Banana and Buttermilk Panna Cotta"
-  yield: "6-8 servings For the bourbon brown sugar syrup"
+  yield: "6-8 servings"
   ingredients:
     - "3/4 cup water"
     - "3/4 cup dark brown sugar"
     - "6 tablespoons good quality bourbon (Maker's or better)"
   instructions:
     - "Bring all ingredients to a simmer in a small saucepan. Simmer 5 minutes. Strain and reserve in refrigerator."
+summary: "A vegetarian panna cotta set with just 2 grams of agar: roasted caramelized bananas, buttermilk and cream are blended, strained, heated to a simmer, and chilled at least two hours, then served with a bourbon brown sugar syrup."
+glance:
+  - label: "Makes"
+    value: "6-8 servings"
+  - label: "Set"
+    value: "refrigerate at least 2 hours"
+  - label: "Setting agent"
+    value: "2 grams agar powder (about 0.2% by weight)"
+  - label: "Syrup"
+    value: "bourbon brown sugar, simmered 5 minutes"
+  - label: "Diet"
+    value: "Vegetarian and gluten-free; vegan version with coconut milk is untested"
 ---
 
 Panna cotta is a classic Italian dessert, traditionally made from cream and milk set with gelatin, which isn't vegetarian. The gelatin is what makes it different from flan (set with eggs) or pudding (set with starch and sometimes eggs). The best panna cotta is ultra-creamy and just barely set - it should have a <strong>distinct wiggle</strong> to it. So the challenge in making a vegetarian panna cotta is to replace the gelatin with something that doesn't make a brittle, crumbly, or over-firm gel.
@@ -75,4 +88,26 @@ Makes 6-8 servings</em>
 </div>
 <div></div>
 </div>
+</div>
+
+<div class="faq"><h2>Frequently asked questions</h2>
+
+<h3>How do you make panna cotta without gelatin?</h3>
+<p>Use agar-agar. Because agar makes brittle gels at high concentrations, this recipe starts with an already thick base of buttermilk, cream and caramelized banana puree, so only 0.2% agar by weight is needed for a creamy, wiggly result.</p>
+
+<h3>How do you keep agar from clumping?</h3>
+<p>Disperse it before it hydrates: whisk it with sugar, sprinkle it into the vortex of liquid in a running blender, and only then heat it. Heating before dispersing gives a clumpy mess.</p>
+
+<h3>Which agar brand should I use?</h3>
+<p>The author likes Telephone brand, sold in little packets at Asian groceries: completely flavorless and reliably strong. Other brands or agar flakes may need experimenting to find the equivalent amount.</p>
+
+<h3>How do I unmold vegetarian panna cotta?</h3>
+<p>Use metal or silicone molds, dip the base in hot water for a few seconds, dry it and invert onto a plate. Serving in the ramekins is the safest option.</p>
+
+<h3>Can I make it vegan?</h3>
+<p>The author suggests trying coconut milk and cream in place of the dairy, perhaps with a mango sauce, but hasn't tried it.</p>
+
+<h3>How long does panna cotta need to chill?</h3>
+<p>At least two hours in the refrigerator, covered with foil.</p>
+
 </div>

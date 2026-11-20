@@ -1,5 +1,5 @@
 ---
-lastmod: 2026-11-15
+lastmod: 2026-11-20
 title: "Pear-Caramel Ice Cream from The Perfect Scoop (by David Lebovitz) - Recipe and Cookbook Review"
 description: "Pear-caramel ice cream from David Lebovitz's The Perfect Scoop, with a review of the cookbook."
 date: 2009-01-12T06:53:00
@@ -11,7 +11,7 @@ cover:
   hidden: true
 recipe:
   name: "Pear-Caramel Ice Cream"
-  yield: "about 1 quart Vegetarian and gluten-free; not vegan"
+  yield: "about 1 quart"
   ingredients:
     - "3 medium-sized ripe pears, peeled and cored"
     - "3/4 c. + 2 tablespoons sugar"
@@ -25,6 +25,16 @@ recipe:
     - "Remove from the heat and stir in 1/2 cup of the cream, then mix in the rest of the cream, salt, and lemon juice."
     - "Cool to room temp, puree until smooth, press through a strainer."
     - "Chill according to your ice-cream maker manufacturer's instructions."
+summary: "Pear-caramel ice cream, summarized from David Lebovitz's The Perfect Scoop: diced pears cooked in deep-amber caramel for ten minutes, mixed with cream, pureed, strained and churned; makes about 1 quart."
+glance:
+  - label: "Makes"
+    value: "about 1 quart"
+  - label: "Pears"
+    value: "3 medium, ripe, diced 1/4 inch"
+  - label: "Caramel"
+    value: "sugar cooked to a deep amber, then pears cooked 10 minutes"
+  - label: "Diet"
+    value: "Vegetarian and gluten-free; not vegan"
 ---
 <span style="font-size: 12px; font-family: Arial;">Pear-caramel ice cream from <em>The Perfect Scoop</em></span>
 

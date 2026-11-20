@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-20
 title: "Tomato and Beet Salad - Recipe"
 description: "An easy summer salad of fresh tomatoes and beets with feta and mint. Vegetarian and gluten-free."
 seo_title: "Beet and Tomato Salad with Feta and Mint"
@@ -23,8 +24,40 @@ recipe:
   instructions:
     - "Toss the tomatoes and beets with the olive oil, a couple big pinches of salt, and a few grinds of black pepper. Taste and add salt and more oil as needed."
     - "Put the vegetables in a wide, low serving bowl. Top with the feta and mint and serve immediately."
+summary: "Tomato and beet salad: equal volumes of ripe tomato wedges and boiled, cooled beets tossed with fruity olive oil and flaky salt, then topped with crumbled feta and fresh mint."
+glance:
+  - label: "Makes"
+    value: "about 6 cups"
+  - label: "Ratio"
+    value: "3 cups tomato wedges to 3 cups boiled beet wedges"
+  - label: "Make ahead"
+    value: "boil and cool the beets a day or two before"
+  - label: "Diet"
+    value: "Vegetarian and gluten-free; vegan if you omit or substitute the feta"
 ---
 
 <p><a href="/images/old/6a00e008d618bb8834013485da0f0c970c-800wi.webp" rel="lightbox" style="display: inline;"><img alt="Tomato and Beet Salad with Feta and Mint" class="asset  asset-image at-xid-6a00e008d618bb8834013485da0f0c970c" src="/images/old/6a00e008d618bb8834013485da0f0c970c-500wi.webp" title="Tomato and Beet Salad with Feta and Mint" /><br /></a><em>Tomato and Beet Salad with Feta and Mint</em></p> <p>This is one of those dishes that is good out of all proportion to the difficulty of making it, which is virtually nil. It is totally dependent on using great tomatoes and olive oil, and home-cooked beets (don&#39;t even think about using canned). The only thing you need is enough foresight to boil the beets and have them cool in time for dinner, which you can easily do a day or two before.</p> <p>I&#39;ve given a rough recipe below, but really you can just make this by eye. You want roughly the same volume of beets and tomatoes, cut into nice bite sized wedges. Toss them with a generous amount of delicious oil and {{% product id="maldon-salt-sea-salt-flakes-8-5-oz" %}}flaky sea salt{{% /product %}}, top with some crumbled feta and fresh mint and you are good to go.</p> <p>When you boil beets, leave the peel on and the root and a little bit of stem intact. This will reduce the amount of &quot;bleeding&quot; into the pot. Test them for doneness by poking with a knife or {{% product id="cake-tester-2" %}}cake tester{{% /product %}}. When they are tender, let them cool completely and then slip their jackets right off. I like to make a bunch and then use them for several days. Roasted beets would be fine in this salad as well.</p> <p>You could also experiment with other herbs such as thyme, oregano, tarragon or chives instead of the mint.</p> <div class="recipe-card">
 <p><strong>Tomato and Beet Salad</strong><br /><em>Vegetarian and gluten-free; vegan if you omit the feta (or substitute for it)</em><br /><em>Makes about 6 cups</em></p> <ul> <li>3 cups bite sized wedges of perfect ripe tomatoes (at room temp)</li> <li>3 cups bite sized wedges of boiled, peeled and cooled beets (at room temp)</li> <li>6 tablespoons best-quality, fruity extra-virgin olive oil</li> <li>sea salt</li> <li>black pepper</li> <li>1/2 cup feta cheese, crumbled</li> <li>handful of fresh mint leaves, chiffonade</li> </ul> <ol> <li>Toss the tomatoes and beets with the olive oil, a couple big pinches of salt, and a few grinds of black pepper. Taste and add salt and more oil as needed.</li> <li>Put the vegetables in a wide, low serving bowl. Top with the feta and mint and serve immediately.</li> </ol> <p>&#0160;</p> <p>&#0160;</p>
+</div>
+
+<div class="faq"><h2>Frequently asked questions</h2>
+
+<h3>How do you boil beets for a salad?</h3>
+<p>Leave the peel on and keep the root and a little bit of stem intact, which reduces bleeding into the pot. Test for doneness by poking with a knife or cake tester. When tender, let them cool completely and slip the jackets right off.</p>
+
+<h3>Can I make tomato and beet salad ahead?</h3>
+<p>You can boil the beets a day or two before. The author makes a bunch and uses them for several days. Toss with the tomatoes and serve immediately.</p>
+
+<h3>Can I use canned beets?</h3>
+<p>No. The salad depends on great tomatoes, great olive oil and home-cooked beets, and the author says not to use canned.</p>
+
+<h3>Can I roast the beets instead?</h3>
+<p>Yes, roasted beets would be fine in this salad.</p>
+
+<h3>What herbs can I use instead of mint?</h3>
+<p>Experiment with thyme, oregano, tarragon or chives.</p>
+
+<h3>Is tomato and beet salad vegan?</h3>
+<p>It is vegetarian and gluten-free as written, and vegan if you omit the feta or substitute for it.</p>
+
 </div>

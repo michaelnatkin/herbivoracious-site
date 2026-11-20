@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-20
 title: "Bibim Naengmyeon - Jjolmyeon - Cold and Spicy Korean Noodles - Recipe"
 date: 2012-05-23T06:00:49
 slug: "bibim-naegnmyeon-joll-noodles-cold-and-spicy-korean-noodles-recipe"
@@ -9,7 +10,7 @@ cover:
   hidden: true
 recipe:
   name: "Jjolmyon or Bibim Naengmyeon"
-  yield: "4 For the sauce"
+  yield: "4"
   ingredients:
     - "1/4 cup kochujang (Korean chili / soybean paste)"
     - "1/2 cup mirin"
@@ -21,6 +22,18 @@ recipe:
     - "In a small bowl, whisk together half of the kochujang and all of the mirin, rice vinegar, salt, and ginger. Whisk in enough ice cold water to reach a thin sauce consistency. Taste and adjust seasoning, adding the rest of the kochujang depending on your heat preference. Refrigerate, or if you want to serve soon, place in the freezer."
 description: "A recipe for bibim naengmyeon and jjolmyeon, Korean cold noodles in a spicy, tangy sauce. A vegetarian take on a summer favorite."
 seo_title: "Bibim Naengmyeon: Cold, Spicy Korean Noodles"
+summary: "Jjolmyeon (bibim naengmyeon) is chewy sweet potato starch noodles served ice cold in a thin, spicy kochujang sauce with chilled vegetable toppings such as asparagus, carrot and cucumber."
+glance:
+  - label: "Serves"
+    value: "4"
+  - label: "Noodles"
+    value: "12 ounces sweet potato starch noodles (jjolmyeon, or naengmyeon)"
+  - label: "Boil"
+    value: "per package, or 10 minutes"
+  - label: "Serve"
+    value: "ice cold, in chilled bowls"
+  - label: "Diet"
+    value: "Vegetarian, vegan and gluten-free"
 ---
 Cold. <strong>Not cool</strong>. Cold, cold, cold. <strong>Ice cold</strong>. That's what makes these noodles great.
 
@@ -79,4 +92,26 @@ Did I mention, serve it cold?
 </ol>
 </div>
 </div>
+</div>
+
+<div class="faq"><h2>Frequently asked questions</h2>
+
+<h3>What is jjolmyeon?</h3>
+<p>Bibim naengmyeon, correctly called jjolmyeon, is a dish of very chewy sweet potato starch noodles in a spicy, thin, ice cold sauce with ice cold, thinly sliced vegetables. Jjol noodles started as a factory mistake: noodles made too thick and chewy that became a hit.</p>
+
+<h3>Why must the noodles be ice cold?</h3>
+<p>Cold is what makes the dish great. The bowls are chilled, the sauce is cold, and the noodles and vegetables go through an ice bath, which also gives them a snappy texture. Served room temperature, it won't be the same.</p>
+
+<h3>What noodles can I use?</h3>
+<p>Korean sweet potato starch noodles: jjolmyeon first, naengmyeon as a very good second choice. The same kind of noodle is used in japchae.</p>
+
+<h3>What toppings go on jjolmyeon?</h3>
+<p>Traditionally cucumber and carrot, sometimes half a hard-boiled egg. This version adds blanched asparagus tips, shaved asparagus stems, radish sprouts and lotus root. Shredded lettuce, bean sprouts or pickled daikon would also work.</p>
+
+<h3>How do you make the sauce?</h3>
+<p>Whisk kochujang, mirin, rice vinegar, salt and grated ginger, then whisk in up to 1/2 cup ice cold water to a thin consistency. Add the rest of the kochujang to taste, and refrigerate or freeze until serving.</p>
+
+<h3>Is jjolmyeon vegan?</h3>
+<p>Yes as written: vegetarian, vegan and gluten-free.</p>
+
 </div>
