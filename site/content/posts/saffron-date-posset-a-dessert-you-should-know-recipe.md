@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-21
 title: "Saffron-Date Posset - A Dessert You Should Know - Recipe"
 description: "Saffron-date posset: a classic English dessert of cream set with acid instead of starch or egg, so it tastes only of cream and its flavorings."
 date: 2013-02-04T07:00:47
@@ -10,6 +11,8 @@ cover:
   hidden: true
 recipe:
   name: "Saffron-Date Posset – A Dessert You Should Know – Recipe"
+  yield: "8 servings"
+  total_time: "PT1H"
   ingredients:
     - "1000 grams heavy cream (about 4 cups)"
     - "150 grams date sugar (about 3/4 cup)"
@@ -28,6 +31,16 @@ recipe:
     - "Remove from the heat and add the citric acid to the cream. Puree with an immersion blender to break up any lumps of date sugar. Strain through a fine mesh sieve. Divide equally among 8 ramekins. Cover with plastic wrap and refrigerate until chilled and set, at least 2 hours."
     - "In your smallest pot, combine the 100 grams of plain sugar and 100 grams of water and bring to a simmer. Add the julienned preserved lemon peel and allow to simmer for a few minutes. Strain and then spread on parchment paper to cool."
     - "To serve, drizzle some pistachio oil on the posset. Drizzle with honey if using. Top with 5 pistachios, several pieces of date, a few slivers of candied preserved lemon, a few lemon thyme leaves and a few grains of salt."
+summary: "Saffron-date posset sets cream with citric acid instead of eggs or starch: cream, date sugar and saffron are heated to 85°C, mixed with 7 grams of citric acid and chilled at least 2 hours, then garnished Persian-style."
+glance:
+  - label: "Serves"
+    value: "8"
+  - label: "Time"
+    value: "Prep 15 min, cook 45 min, total 1 hr, plus at least 2 hours chilling"
+  - label: "Base"
+    value: "cream, sugar (15% of the cream weight), citric acid (0.7%), heated to 85°C"
+  - label: "Cook"
+    value: "sous vide at 85°C for 45 minutes, or on the stovetop"
 ---
 
 One of the many great things about working at <a href="http://chefsteps.com" target="_blank">ChefSteps</a> is that at any given moment, {{% product id="saffron" target="_blank" %}}amazingly delicious things{{% /product %}} are subject to appear on top of the staff-food fridge, which means "come 'n get it." A few weeks ago, Grant or Ben or Nick, I'm not sure, put up posset.
@@ -71,4 +84,26 @@ Oh, and speaking of fun things about ChefSteps - as much as I love doing food ph
   <li>In your smallest pot, combine the 100 grams of plain sugar and 100 grams of water and bring to a simmer. Add the julienned preserved lemon peel and allow to simmer for a few minutes. Strain and then spread on parchment paper to cool.</li>
   <li>To serve, drizzle some pistachio oil on the posset. Drizzle with honey if using. Top with 5 pistachios, several pieces of date, a few slivers of candied preserved lemon, a few lemon thyme leaves and a few grains of salt.</li>
 </ol>
+</div>
+
+<div class="faq"><h2>Frequently asked questions</h2>
+
+<h3>What is posset?</h3>
+<p>A classic English dessert of cream set into a pudding with acid instead of starch or egg. It tastes only of cream, whatever you flavor it with, and the tartness of the citric acid.</p>
+
+<h3>What is the base ratio for posset?</h3>
+<p>Bring cream, sugar (15% of the cream weight) and any flavorings up to 85°C, stir in citric acid (0.7% of the cream weight), pour into ramekins and chill for two hours.</p>
+
+<h3>Why use citric acid instead of wine or ale?</h3>
+<p>Posset was traditionally set with wine or ale, but citric acid is much easier and more predictable.</p>
+
+<h3>Do I need sous vide to make posset?</h3>
+<p>No. This version infuses the saffron sous vide at 85°C for 45 minutes, but on the stovetop you infuse on low heat for 10 minutes, then raise the heat to medium and cook to 85°C.</p>
+
+<h3>What flavors work in posset?</h3>
+<p>Any flavor that can handle a little sour bite: honey, vanilla, jasmine, or here date sugar and saffron with fresh dates, candied preserved lemon peel, pistachios, pistachio oil and lemon thyme.</p>
+
+<h3>How long does posset take to set?</h3>
+<p>At least 2 hours, covered with plastic wrap in the refrigerator.</p>
+
 </div>

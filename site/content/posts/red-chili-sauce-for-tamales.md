@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-21
 title: "Red Chili Sauce for Tamales, and a Great Tamale Book - Recipe"
 description: "A red chili sauce for tamales, plus a great tamale book. Make the sauce ahead and use it for fillings or dipping."
 seo_title: "Red Chili Sauce for Tamales Recipe"
@@ -11,6 +12,7 @@ cover:
   hidden: true
 recipe:
   name: "Red Chili Sauce for Tamales"
+  yield: "enough for at least 20-30 tamales"
   ingredients:
     - "4 ancho chilis"
     - "2 morita chilis (or 1 chipotle in adobo)"
@@ -26,6 +28,16 @@ recipe:
     - "Wearing rubber gloves, tear open the chilis and dispose of their seeds and stems. Rip the chilis into smallish pieces. Put them in a blender jar and pour 4 cups boiling water over them. Let stand for 15 minutes."
     - "Place a medium skillet over medium high heat. Add the onion and garlic and cook, tossing a couple of times, until softened and slightly browned. Remove from heat, cool slightly peel the garlic, and add to the blender jar."
     - "Add the vegetable base, the tomatoes, the oregano, the cocoa powder and salt. Cover the blender and process on high speed for 1 minute. The result should be a thick sauce. If it is too thick, add a bit more water. Taste and adjust seasoning, then use to make tamales."
+summary: "A piquant red chili sauce for tamales: ancho, morita and aji amarillo chiles soaked 15 minutes in boiling water, blended with browned onion, garlic, fire-roasted tomatoes, oregano and cocoa; enough for at least 20-30 tamales."
+glance:
+  - label: "Makes"
+    value: "enough for at least 20-30 tamales"
+  - label: "Chiles"
+    value: "4 ancho, 2 morita (or 1 chipotle in adobo), 1 dried aji amarillo"
+  - label: "Soak"
+    value: "15 minutes in 4 cups boiling water"
+  - label: "Diet"
+    value: "Vegetarian and vegan"
 ---
 
 I love tamales.
@@ -63,4 +75,23 @@ I'm not going to try and replicate all of this info in a blog post, so l'll just
 	<li>Place a medium skillet over medium high heat. Add the onion and garlic and cook, tossing a couple of times, until softened and slightly browned. Remove from heat, cool slightly peel the garlic, and add to the blender jar.</li>
 	<li>Add the vegetable base, the tomatoes, the oregano, the cocoa powder and salt. Cover the blender and process on high speed for 1 minute. The result should be a thick sauce. If it is too thick, add a bit more water. Taste and adjust seasoning, then use to make tamales.</li>
 </ol>
+</div>
+
+<div class="faq"><h2>Frequently asked questions</h2>
+
+<h3>What chiles go in red chili sauce for tamales?</h3>
+<p>Four ancho, two morita (or one chipotle in adobo) and one dried aji amarillo, with the seeds and stems removed.</p>
+
+<h3>How do you make the sauce?</h3>
+<p>Soak the torn chiles in 4 cups of boiling water for 15 minutes in a blender jar. Brown the onion and unpeeled garlic in a skillet, peel the garlic, then add everything to the blender with the vegetable base, fire-roasted tomatoes, oregano, cocoa powder and salt and blend on high for 1 minute.</p>
+
+<h3>How thick should the sauce be?</h3>
+<p>A thick sauce. If it is too thick, add a bit more water, then taste and adjust the seasoning.</p>
+
+<h3>What tamale fillings go with it?</h3>
+<p>The author likes a large dose of it moistening tamales filled with cubes of tofu and zucchini, or with black beans.</p>
+
+<h3>Can I reheat leftover tamales?</h3>
+<p>Yes. They reheat beautifully in the microwave, and leftovers make a good breakfast.</p>
+
 </div>

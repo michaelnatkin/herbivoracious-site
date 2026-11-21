@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-21
 title: "Quickie Amba (Pickled Mango Condiment) - Recipe"
 description: "What is amba? A tangy pickled mango condiment used on sabich, the Iraqi-Jewish eggplant sandwich. This is the quick version."
 seo_title: "Quick Amba (Pickled Mango Sauce) Recipe"
@@ -11,13 +12,23 @@ cover:
   hidden: true
 recipe:
   name: "Quickie Amba (Pickled Mango"
-  yield: "enough to serve at a meal for 6, easily"
+  yield: "serves 6 as a condiment"
   ingredients:
     - "1/2 mango, finely diced (slightly underripe is better, but not rock hard)"
     - "1/4 preserved lemon, pips removed, minced (check ingredients if you need gluten free)"
     - "1 teaspoon harissa (check ingredients if you need gluten free)"
   instructions:
     - "Toss together all ingredients. Taste and add more lemon or harissa if you think it needs it. Add salt if needed. Serve at room temperature; keeps in refrigerator for a few days."
+summary: "Quickie amba is a fast stand-in for Iraqi pickled mango condiment: diced slightly underripe mango tossed with minced preserved lemon and harissa, served at room temperature and kept refrigerated for a few days."
+glance:
+  - label: "Serves"
+    value: "6 as a condiment at a meal"
+  - label: "Ingredients"
+    value: "1/2 mango, 1/4 preserved lemon, 1 teaspoon harissa"
+  - label: "Keeps"
+    value: "a few days in the refrigerator"
+  - label: "Diet"
+    value: "Vegetarian, vegan, gluten-free and kosher (check the preserved lemon and harissa labels for gluten)"
 ---
 
 <img class="alignnone size-large wp-image-2810" title="Quickie Amba Pickled Mango Condiment" src="/images/2012/09/Quickie-Amba-Pickled-Mango-Condiment-626x415.webp" alt="Quickie Amba Pickled Mango Condiment" width="626" height="415" />
@@ -44,4 +55,23 @@ In fact, this is well worth making for any Middle Eastern meal. I used it the ot
 </div>
 <div></div>
 &nbsp;
+</div>
+
+<div class="faq"><h2>Frequently asked questions</h2>
+
+<h3>What is amba?</h3>
+<p>A pickled mango condiment, served on sabich, an Iraqi-Jewish eggplant sandwich with fried eggplant, Israeli salad, hummus, tahina, hardboiled egg and cucumber pickle. It isn't easy to find in America.</p>
+
+<h3>What kind of mango for quickie amba?</h3>
+<p>Slightly underripe is better, but not rock hard. Dice it finely.</p>
+
+<h3>What do I serve quickie amba with?</h3>
+<p>Sabich, or any Middle Eastern meal: a rice and chickpea pilaf, chickpea cakes or a tagine.</p>
+
+<h3>How long does quickie amba keep?</h3>
+<p>A few days in the refrigerator. Serve it at room temperature.</p>
+
+<h3>Is it gluten-free?</h3>
+<p>It is vegetarian, vegan, gluten-free and kosher, but check the ingredients of the preserved lemon and harissa if you need it gluten-free.</p>
+
 </div>

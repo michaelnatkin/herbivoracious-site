@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-21
 title: "Lemon-Mustard Vinaigrette - The Simplest and Best Salad Dressing - Recipe"
 date: 2009-05-21T05:59:00
 slug: "lemon-mustard-vinaigrette-the-simplest-and-best-salad-dressing-recipe"
@@ -10,6 +11,7 @@ cover:
   hidden: true
 recipe:
   name: "Lemon-Mustard Vinaigrette – The Simplest and Best Salad Dressing – Recipe"
+  total_time: "PT5M"
   ingredients:
     - "2 tablespoons freshly squeezed lemon juice"
     - "1/2 teaspoon prepared Dijon mustard (e.g. Grey Poupon)"
@@ -20,6 +22,16 @@ recipe:
     - "Option 2: Combine the lemon juice, mustard and salt in a bowl. Drizzle in the olive oil while whisking continuosly."
     - "Taste and adjust the salt, and add more lemon juice or olive oil to achieve a pleasing balance of acidity."
 seo_title: "Lemon Mustard Vinaigrette (Simple Salad Dressing)"
+summary: "Lemon-mustard vinaigrette is 2 tablespoons lemon juice, 1/2 teaspoon Dijon, 1/4 teaspoon sea salt and 4 tablespoons olive oil shaken in a jar for 30 seconds, a 2:1 oil-to-acid ratio that makes 6 tablespoons."
+glance:
+  - label: "Makes"
+    value: "6 tablespoons, enough for a great big bowl of greens"
+  - label: "Time"
+    value: "5 minutes prep; about 30 seconds to shake"
+  - label: "Ratio"
+    value: "about 2 parts oil to 1 part lemon juice"
+  - label: "Diet"
+    value: "Vegetarian, vegan and gluten-free"
 ---
 
 I've never understood why people buy salad dressing, when an infinitely more delicious, fresher, healthier homemade vinaigrette is only 30 seconds away.
@@ -69,4 +81,26 @@ If you enjoy this recipe, I've got 149 more in {{% product id="herbivoracious-co
   <li>Option 2: Combine the lemon juice, mustard and salt in a bowl. Drizzle in the olive oil while whisking continuosly.</li>
   <li>Taste and adjust the salt, and add more lemon juice or olive oil to achieve a pleasing balance of acidity.</li>
 </ol>
+</div>
+
+<div class="faq"><h2>Frequently asked questions</h2>
+
+<h3>What is the ratio for vinaigrette?</h3>
+<p>The traditional ratio is 3 parts oil to 1 part vinegar. With lemon juice the author prefers about 2:1, as in this recipe, but you should taste and adjust to your preferences and the salad.</p>
+
+<h3>How do you make vinaigrette without a blender or whisk?</h3>
+<p>The mustard is an emulsifier that keeps the oil suspended, so you can combine everything in a jar with a tight-fitting lid and shake vigorously for 30 seconds, with no need to drizzle in the oil while whisking.</p>
+
+<h3>Why add so much mustard to vinaigrette?</h3>
+<p>It tastes good, and it acts as an emulsifier, keeping the oil suspended in the acid.</p>
+
+<h3>How much salt does salad dressing need?</h3>
+<p>A lot. The salad is only lightly dressed, so if the straight dressing doesn't taste pretty strong, the salad will be underseasoned.</p>
+
+<h3>What can I add to this vinaigrette?</h3>
+<p>Finely minced fresh or dried herbs, garlic, shallots, citrus zest or spices. Meyer lemons give an even better flavor than standard Eurekas.</p>
+
+<h3>Why does dressing slide off my salad?</h3>
+<p>Wet leaves. Dry the greens thoroughly (the author likes a crank-style salad spinner) and dress them at the very last moment; delicate greens wilt within a few minutes of meeting the vinaigrette.</p>
+
 </div>
