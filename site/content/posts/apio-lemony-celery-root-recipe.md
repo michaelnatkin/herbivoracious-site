@@ -1,5 +1,5 @@
 ---
-lastmod: 2026-11-15
+lastmod: 2026-11-22
 title: "Apio (Lemony Celery Root) - Recipe"
 date: 2012-02-20T06:00:00
 slug: "apio-lemony-celery-root-recipe"
@@ -23,6 +23,18 @@ recipe:
   instructions:
     - "Combine all ingredients in a medium saucepan. Add enough water to just barely cover the vegetables. Bring to a boil, reduce heat to a simmer, cover and continue to cook for 30 minutes."
     - "Remove the lid and continue cooking until the celery root is completely tender. Remove the vegetables with a slotted spoon directly to serving bowl. Raise the heat to a boil and cook the liquid until it reduces by approximately half. It won’t be thick like a sauce, but it will have a slight body to it. Taste and adjust seasoning. Pour over the vegetables. Serve warm or chilled."
+summary: "Apio is a Sephardic lemony celery root side dish: celery root and carrot simmered in lemon juice, olive oil, sugar and salt for about 30 minutes covered, then until tender, with the liquid reduced by half; served warm or chilled."
+glance:
+  - label: "Serves"
+    value: "4"
+  - label: "Time"
+    value: "45 minutes (10 minutes active)"
+  - label: "Lemon"
+    value: "juice of 2 lemons"
+  - label: "Serve"
+    value: "warm or chilled, with good bread to mop up the liquid"
+  - label: "Diet"
+    value: "Vegan and gluten-free"
 ---
 <a href="/images/cookbook/apio-lemony-celery-root-2.webp"><img src="/images/cookbook/apio-lemony-celery-root-2.webp" alt="Apio (Lemony Celery Root)" /></a>
 
@@ -46,4 +58,23 @@ recipe:
 <li>Combine all ingredients in a medium saucepan. Add enough water to just barely cover the vegetables. Bring to a boil, reduce heat to a simmer, cover and continue to cook for 30 minutes.</li>
 <li>Remove the lid and continue cooking until the celery root is completely tender. Remove the vegetables with a slotted spoon directly to serving bowl. Raise the heat to a boil and cook the liquid until it reduces by approximately half. It won’t be thick like a sauce, but it will have a slight body to it. Taste and adjust seasoning. Pour over the vegetables. Serve warm or chilled.</li>
 </ol>
+</div>
+
+<div class="faq"><h2>Frequently asked questions</h2>
+
+<h3>What is apio?</h3>
+<p>Apio is celery root (celeriac) in Ladino, the Judeo-Spanish language of the author's wife's Sephardic relatives, who like lemony foods. Here it is simmered in lemony water until tender and the liquid reduces to a thin sauce.</p>
+
+<h3>How do you cook apio?</h3>
+<p>Combine the sliced celery root, carrot, olive oil, juice of 2 lemons, sugar and salt in a saucepan with just enough water to barely cover. Boil, then simmer covered for 30 minutes, uncover and cook until the celery root is completely tender. Move the vegetables to a bowl and boil the liquid until it reduces by about half.</p>
+
+<h3>Should apio be served hot or cold?</h3>
+<p>Warm or chilled. The author likes it best cold, with good artisanal bread to mop up every drop.</p>
+
+<h3>How thick is the sauce?</h3>
+<p>It won't be thick like a sauce, but it will have a slight body to it.</p>
+
+<h3>What does apio go with?</h3>
+<p>It is a simple side dish that goes well with entrees based on cheese or pastry, because the bright lemony flavor cuts through any heaviness.</p>
+
 </div>

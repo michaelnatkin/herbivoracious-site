@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-22
 title: "Thai Basil Eggplant - Recipe"
 description: "Thai basil eggplant, a quick vegetarian stir-fry. Includes how Thai basil differs from holy basil and Italian basil."
 seo_title: "Thai Basil Eggplant Recipe (Vegetarian)"
@@ -26,6 +27,16 @@ recipe:
   instructions:
     - "Put the oil in a wok or skillet over maximum heat. Add the ginger, garlic and lemongrass and give a quick stir. Immediately add the eggplant and 1/2 teaspoon of kosher salt. Stir-fry for a minute or so. Add 1/4 cup of water and cover. Cook, checking and stirring every 30 seconds or so, until the eggplant is just about completely tender. You may need to use a little more water."
     - "Remove the lid and add the mushrooms, onion, chili and Thai basil. Stir fry for about 1 minute until the mushrooms are somewhat tender. Taste and adjust seasoning - it probably needs a bit more salt. Served immediately, garnished with the reserved basil leaves."
+summary: "Thai basil eggplant: Asian eggplant cubes stir-fried with ginger, garlic and smashed lemongrass, steamed briefly with a little water, then finished with mushrooms, onion, chili and a big bunch of Thai basil."
+glance:
+  - label: "Serves"
+    value: "2 as a main course, 4 as part of a larger spread"
+  - label: "Eggplant"
+    value: "1 pound Asian eggplant in 1-inch cubes"
+  - label: "Cook"
+    value: "stir-fry about 1 minute, steam, then about 1 minute with the basil"
+  - label: "Diet"
+    value: "Vegetarian, vegan, gluten-free and kosher"
 ---
 
 The Thai basil situation can be <strong>a bit confusing</strong>. The herb known specifically as Thai basil, which is what I've used in this dish, has purplish stems and green leaves. There is another, significantly different herb called holy basil that is also much loved in Thailand, and it has purple leaves and is incredibly aromatic. Both of these basils are quite different from Italian basil, which I wouldn't use it in this recipe. The thing that is great about Thai basil is that it can stand up to a good amount of cooking, so it can be used almost as a vegetable, not just a garnish (although I do also reserve a few leaves for garnish.)
@@ -58,4 +69,26 @@ Serves 2 as a main course, 4 as part of a larger spread
 	<li>Put the oil in a wok or skillet over maximum heat. Add the ginger, garlic and lemongrass and give a quick stir. Immediately add the eggplant and 1/2 teaspoon of kosher salt. Stir-fry for a minute or so. Add 1/4 cup of water and cover. Cook, checking and stirring every 30 seconds or so, until the eggplant is just about completely tender. You may need to use a little more water.</li>
 	<li>Remove the lid and add the mushrooms, onion, chili and Thai basil. Stir fry for about 1 minute until the mushrooms are somewhat tender. Taste and adjust seasoning - it probably needs a bit more salt. Served immediately, garnished with the reserved basil leaves.</li>
 </ol>
+</div>
+
+<div class="faq"><h2>Frequently asked questions</h2>
+
+<h3>What is Thai basil?</h3>
+<p>The herb called Thai basil has purplish stems and green leaves. Holy basil is a different, much-loved Thai herb with purple leaves and an incredible aroma. Both are quite different from Italian basil, which the author wouldn't use here.</p>
+
+<h3>Why use Thai basil in a cooked dish?</h3>
+<p>It stands up to a good amount of cooking, so it can be used almost as a vegetable, not just a garnish, though a few leaves are reserved to garnish.</p>
+
+<h3>What eggplant works best?</h3>
+<p>Asian eggplant, like the long Japanese ones about 1 1/2 inches in diameter. The texture isn't quite right with an Italian-type eggplant.</p>
+
+<h3>Do I need a wok?</h3>
+<p>A wok works fine without a jet-powered burner because you aren't trying to brown the eggplant, but a large skillet also works.</p>
+
+<h3>How do you prepare lemongrass?</h3>
+<p>Trim all but the last 4 inches or so of the stem end and trim the hard button off. Remove the outermost layer or two, smash the piece with something heavy, like a can of beans, until tenderized, then mince.</p>
+
+<h3>Is it a main course or a side dish?</h3>
+<p>It serves 2 as a main course or 4 as part of a larger spread. The author wouldn't have it alone with jasmine rice, but it can stand next to a dish like red curry delicata squash and tofu.</p>
+
 </div>

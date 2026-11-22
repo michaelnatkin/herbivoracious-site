@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-22
 title: "Homemade Caraway Rye Crackers - Recipe"
 description: "Crisp homemade rye crackers with caraway seeds, easy to make and great with cheese or spreads."
 seo_title: "Homemade Rye Crackers Recipe (Caraway)"
@@ -25,6 +26,16 @@ recipe:
     - "Wrap the dough in plastic wrap and set aside at room temperature for about 30 minutes. Meanwhile, preheat the oven to 400 F, using convection if available."
     - "Divide the dough into 3 parts and wrap 2 of them back up in plastic. Place the first piece of dough between the smooth side of two silpats. You could also use parchment paper cut to the size of your baking sheet. Roll out until very thin. It should cover about 80% of the surface area of the silpat. Remove the top silpat and transfer the bottom one to a sheet pan. Brush generously with additional olive oil and sprinkle on Maldon (aka the world's greatest salt) sea salt to taste, breaking the crystals up between your fingers as you sprinkle."
     - "Bake until deep golden brown, about 8-10 minutes. Cool on a rack and then break up into random-sized crackers."
+summary: "Homemade caraway rye crackers: a dough of rye and all-purpose flour rolled very thin between silpats, brushed with olive oil and Maldon salt, and baked at 400°F for 8-10 minutes until deep golden brown; makes about 36."
+glance:
+  - label: "Makes"
+    value: "about 36 big crackers"
+  - label: "Dough rest"
+    value: "about 30 minutes"
+  - label: "Bake"
+    value: "400°F for 8-10 minutes, until deep golden brown"
+  - label: "Keys"
+    value: "very thin, generous olive oil and salt, baked quite brown"
 ---
 
 I've been obsessed with the flavor of rye lately. It had been on my mind and I ended up improvising a loaf of rye bread with a salt crust that came out amazing and I'm <strong>kicking myself</strong> because I didn't write anything down, so now I can neither reproduce it nor share it with you, at least until I have another try at it. Anyhow, I think rye has an amazing flavor that deserves to be more widely used. I've got in mind to try rye crepes, and maybe a <strong>rye crumble</strong> for an apple crisp. Those are experiments for another day, but for today let me show you how to make simple and flavorful rye crackers.
@@ -54,4 +65,23 @@ It took me 3 batches to get these coming out the way I saw them in my mind's eye
 	<li>Bake until deep golden brown, about 8-10 minutes. Cool on a rack and then break up into random-sized crackers.</li>
 </ol>
 </div>
+</div>
+
+<div class="faq"><h2>Frequently asked questions</h2>
+
+<h3>What are the keys to good homemade crackers?</h3>
+<p>Roll them really, really thin; brush with a generous amount of olive oil and sprinkle on a generous amount of salt; and bake them until quite deeply brown. These details separate a brutish, underflavored cracker from one with a bright snap and a pop of rye, caraway and salt.</p>
+
+<h3>How thin should I roll the dough?</h3>
+<p>Roll each third of the dough between two silpats, or parchment cut to the size of the baking sheet, until it covers about 80% of the silpat's surface.</p>
+
+<h3>How long do you bake rye crackers?</h3>
+<p>At 400°F, using convection if available, until deep golden brown, about 8-10 minutes. Cool on a rack and break into random-sized crackers.</p>
+
+<h3>Can I make the dough by hand?</h3>
+<p>Yes. The recipe uses a stand mixer with the paddle and then the dough hook for about 8 minutes, but you can mix and knead by hand.</p>
+
+<h3>Why make crackers at home?</h3>
+<p>They taste fresher and better than most of what you can buy, and save a lot of money compared with the best grocery store crackers.</p>
+
 </div>

@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-22
 title: "Mandu - Korean-Style Potstickers with Ssamjang / Kochujang Sauce - Recipe"
 description: "Vegetarian Korean-style potstickers (mandu) with an unusual dipping sauce made with ssamjang and kochujang."
 seo_title: "Korean Potstickers (Mandu) with Ssamjang Sauce"
@@ -11,7 +12,7 @@ cover:
   hidden: true
 recipe:
   name: "Mandu - Korean-Style Potstickers with Ssamjang / Kochujang Sauce"
-  yield: "about 40 dumplings (which in my family serves 4-5, but we are greedy) Vegetarian For the sauce :"
+  yield: "about 40 dumplings (serves 4-5)"
   ingredients:
     - "1/4 cup kochujang"
     - "1/3 cup ssamjang"
@@ -34,6 +35,16 @@ recipe:
     - "To form the dumplings, take a wrapper and put about 2 teaspoons of filling in the center. Moisten the edge, fold, and seal firmly. Optionally, you can pinch to form pleats. Or use the dumpling press I mentioned above. Do not overfill, it will make it impossible to get a tight seal."
     - "To fry the dumplings, heat a large skillet over a medium high flame. Add 2 tablepoons of oil, then put in about 1/3 of the dumplings, pleats pointing up. Press down a little to create a flat spot. Be sure the dumplings aren't touching. Fry for about 60-90 seconds until golden brown on the bottom. Carefully add in about 3 tablespoons of water, lower the heat, and put on the lid. Cook about 3 minutes. Remove the lid, cook off any excess water, and then remove the dumplings with a spatula. Repeat with the remaining dumplings."
     - "Serve immediately with the dipping sauce on the side."
+summary: "Mandu, Korean-style potstickers filled with tofu, tempeh, blanched bean sprouts, green onion and egg, pan-fried and steamed in the pan, served with a kochujang, ssamjang and black vinegar dipping sauce; makes about 40."
+glance:
+  - label: "Makes"
+    value: "about 40 dumplings (serves 4-5 in the author's family)"
+  - label: "Fry"
+    value: "60-90 seconds until golden, then steam with about 3 tablespoons of water for about 3 minutes"
+  - label: "Filling"
+    value: "tofu, tempeh, bean sprouts, green onion, egg"
+  - label: "Diet"
+    value: "Vegetarian (contains egg)"
 ---
 
 I never grow tired of potstickers, but I thought it might be time to branch out from <a href="/2010/03/vegetarian-potstickers-gyoza-recipe/" target="_blank">my standard recipe</a>. My friend Hsiao-Ching had told me about about a sauce from the {{% product id="momofuku-by-david-chang" target="_blank" %}}Momofuku cookbook{{% /product %}} involving {{% product id="cj-haechandle-gochujang-korean-red-pepper-paste" %}}kochujang{{% /product %}}, {{% product id="o-food-ssamjang-korean-seasoned-soybean-paste" %}}ssamjang{{% /product %}} (two standard Korean kitchen staples), oil, and sherry vinegar. So that put me onto the idea of Korean-style potstickers, and sure enough, there are many kinds.
@@ -84,4 +95,26 @@ Vegetarian
 &nbsp;
 
 &nbsp;
+</div>
+
+<div class="faq"><h2>Frequently asked questions</h2>
+
+<h3>What is mandu?</h3>
+<p>The generic name for Korean dumplings, sometimes spelled mandoo. Panfried ones are gunmandu, and vegetarian dumplings are somandu.</p>
+
+<h3>What is in the vegetarian mandu filling?</h3>
+<p>Blanched mung bean sprouts, crumbled and squeezed tofu, pan-fried crumbled tempeh, green onions, garlic, tamari and sesame oil, bound with beaten egg. The egg binds the filling into a slightly fluffy but firm bite.</p>
+
+<h3>How do I get a tight seal on potstickers?</h3>
+<p>Don't overfill: about 2 teaspoons of filling per wrapper, moisten the edge, fold and seal firmly. The author found a simple dumpling press made pleating and sealing easy, even for his child.</p>
+
+<h3>How do you pan-fry mandu?</h3>
+<p>Fry in a large skillet over medium-high heat with 2 tablespoons of oil, pleats up and not touching, for about 60-90 seconds until golden on the bottom. Add about 3 tablespoons of water, lower the heat, cover and cook about 3 minutes, then uncover and cook off any excess water.</p>
+
+<h3>What is the dipping sauce?</h3>
+<p>Whisk 1/4 cup kochujang, 1/3 cup ssamjang and 1/3 cup black vinegar, adding water to reach a dipping consistency. Black vinegar replaces the sherry vinegar in the Momofuku-inspired sauce and has a slight five-spice flavor.</p>
+
+<h3>Where do I find kochujang and ssamjang?</h3>
+<p>At a Korean grocery or a well-stocked general Asian grocery.</p>
+
 </div>

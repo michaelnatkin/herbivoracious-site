@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-22
 title: "The Secret to Crispy, Delicious Quesadillas - Recipe"
 description: "The trick for crispy corn tortilla quesadillas: brush both sides with oil. Recipe with pecorino and onion and garlic jam."
 date: 2008-07-29T11:05:54
@@ -10,7 +11,7 @@ cover:
   hidden: true
 recipe:
   name: "Crispy Quesadilla with Pecorino and Garlic & Onion Jam"
-  yield: "1 quesadilla - multiply as needed Vegetarian & gluten-free; not vegan Preparation time: under 10 minutes"
+  yield: "1 quesadilla (multiply as needed)"
   ingredients:
     - "2 taco-sized soft corn tortillas"
     - "1/4 cup grated green peppercorn pecorino cheese"
@@ -29,6 +30,16 @@ recipe:
     - "Cook for several minutes on each side, until it is developing beautiful crispy brown spots. The one in the picture above could actually have gone a few more minutes."
     - "Meanwhile, beat the goat cheese with a bit of water until smooth like thick yogurt. Bruise the minced cilantro with your fingertips to release the flavor and stir it in to the goat cheese with a bit of salt to taste."
     - "When the quesadilla is done on both side, remove it to a cutting board and carefully cut it into quarters with decisive presses of a sharp knive. Place on plate, sprinkle with a bit of salt, dust the plate with the smoked paprika, add a dollop of the goat cheese sauce and munch intently."
+summary: "A crispy corn-tortilla quesadilla: brush both sides with a little oil and cook on medium heat several minutes per side; this version is filled with green peppercorn pecorino, red onion and garlic and onion jam, with a goat cheese and cilantro sauce."
+glance:
+  - label: "Makes"
+    value: "1 quesadilla (multiply as needed)"
+  - label: "Time"
+    value: "under 10 minutes prep"
+  - label: "Trick"
+    value: "brush both sides with oil and cook several minutes per side"
+  - label: "Diet"
+    value: "Vegetarian and gluten-free; not vegan"
 ---
 <span style="font-size: 0.8em;">Crispy Quesadilla with Pecorino and Onion &amp; Garlic Jam</span>
 
@@ -71,4 +82,26 @@ Preparation time: under 10 minutes
 	<li>When the quesadilla is done on both side, remove it to a cutting board and carefully cut it into quarters with decisive presses of a sharp knive. Place on plate, sprinkle with a bit of salt, dust the plate with the {{% product id="smoked-paprika" %}}smoked paprika{{% /product %}}, add a dollop of the goat cheese sauce and munch intently.</li>
 </ol>
 &nbsp;
+</div>
+
+<div class="faq"><h2>Frequently asked questions</h2>
+
+<h3>How do you make a quesadilla crispy?</h3>
+<p>Brush both sides with a bit of oil before putting it on a pan or griddle over medium-high heat, then let it cook plenty of time on each side. It doesn't need a lot of oil, and the tortilla ends up crispy and chewy like a fresh tortilla chip.</p>
+
+<h3>Does the crispy method work with flour tortillas?</h3>
+<p>The trick is for corn tortillas, which the author prefers for flavor and texture. Flour quesadillas are fine too but the author calls that a different article.</p>
+
+<h3>What happens if you cook a quesadilla dry?</h3>
+<p>The shell just heats up and dries out a bit, which is ok, but it ends up floppy rather than crispy.</p>
+
+<h3>What fillings work?</h3>
+<p>Anything: mild Monterey jack for a child, taleggio and grilled figs for a foodie. This one uses green peppercorn pecorino, red onion and Stonewall Kitchen roasted garlic and onion jam.</p>
+
+<h3>How do I make the goat cheese sauce?</h3>
+<p>Beat 2 tablespoons of goat cheese with a bit of water until smooth like thick yogurt, then stir in minced cilantro (bruised with your fingertips) and a bit of salt.</p>
+
+<h3>Is a quesadilla vegan?</h3>
+<p>As written it is vegetarian and gluten-free, but not vegan.</p>
+
 </div>

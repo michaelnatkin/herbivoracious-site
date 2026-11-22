@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-22
 title: "Vegetarian Frijoles Charros - Mexican Cowboy Beans with Smoked Onion - Recipe"
 description: "Vegetarian frijoles charros, Mexican cowboy beans, flavored with smoked onions instead of meat. Vegan-friendly."
 seo_title: "Vegetarian Cowboy Beans (Frijoles Charros) Recipe"
@@ -27,6 +28,16 @@ recipe:
     - "Place a large skillet over medium-high heat. When it is hot, press the pasilla oaxaca chiles down onto it with a spatula, just for a few seconds on each side. Wearing disposable gloves, remove the stems and seeds from the peppers and crush them into very small pieces."
     - "Add the oil to the same skillet, over medium-high heat. When the oil is shimmering, add the crushed chiles, smoked onion, garlic and salt and cook, stirring occasionally until the onion is softened, about 3 minutes. Add the tomato paste and cook until it darkens, about 2 minutes."
     - "Add the crushed tomato, the beans, and 1 cup of the bean liquid. Bring to a simmer and reduce heat to maintain. Cook for about 15 minutes, then taste and adjust seasoning. Add more of the bean liquid to find the desired brothy consistency. Serve hot."
+summary: "Vegetarian frijoles charros: whole pinto beans in a smoky tomato broth, with the smoke coming from a quickly smoked diced onion instead of bacon; the finished beans simmer about 15 minutes."
+glance:
+  - label: "Serves"
+    value: "4"
+  - label: "Beans"
+    value: "4 cups home-cooked pinto beans plus 2 cups of their cooking liquid"
+  - label: "Simmer"
+    value: "about 15 minutes"
+  - label: "Diet"
+    value: "Vegetarian, vegan and gluten-free"
 ---
 
 <em>Frijoles charros </em>are a classic way of serving beans in Mexico. Unlike refried beans, the pinto beans are served whole, in a <strong>broth redolent of smoke and tomato</strong>. Traditionally, that smoke flavor comes from bacon.
@@ -61,4 +72,23 @@ Try these beans as an alternative to refried beans with any Mexican meal. They w
 	<li>Add the oil to the same skillet, over medium-high heat. When the oil is shimmering, add the crushed chiles, smoked onion, garlic and salt and cook, stirring occasionally until the onion is softened, about 3 minutes. Add the tomato paste and cook until it darkens, about 2 minutes.</li>
 	<li>Add the crushed tomato, the beans, and 1 cup of the bean liquid. Bring to a simmer and reduce heat to maintain. Cook for about 15 minutes, then taste and adjust seasoning. Add more of the bean liquid to find the desired brothy consistency. Serve hot.</li>
 </ol>
+</div>
+
+<div class="faq"><h2>Frequently asked questions</h2>
+
+<h3>What are frijoles charros?</h3>
+<p>A classic Mexican way of serving beans. Unlike refried beans, the pinto beans are served whole, in a broth redolent of smoke and tomato. Traditionally the smoke comes from bacon.</p>
+
+<h3>How does the vegetarian version get its smoky flavor?</h3>
+<p>By quickly smoking a diced onion over wood chips, which gives bright, volatile smoky notes that chipotle or chile moro can lack. The author's note says he no longer recommends jury-rigged stovetop smoking because of high levels of carcinogens in a low-oxygen sealed environment, and points to his Smoked Tofu Buns recipe for a safer alternative.</p>
+
+<h3>Should I soak wood chips before smoking?</h3>
+<p>No. The author learned from Modernist Cuisine that the best flavors come out in smoke between about 400 and 750°F, and soaked chips stay cooler and give more acrid, off flavors.</p>
+
+<h3>Can I use canned beans?</h3>
+<p>In a pinch, yes: thoroughly rinsed canned beans, with a good, clear vegetable broth in place of the bean cooking liquid. Home-cooked beans give a better texture and a flavorful liquid for the broth.</p>
+
+<h3>What do you serve with frijoles charros?</h3>
+<p>Use them as an alternative to refried beans with any Mexican meal, such as arroz verde, arroz a la Mexicana, grilled pepper and tofu tacos, enchiladas or tamales.</p>
+
 </div>

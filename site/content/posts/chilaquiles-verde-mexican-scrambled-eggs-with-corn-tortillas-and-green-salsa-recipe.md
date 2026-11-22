@@ -1,5 +1,5 @@
 ---
-lastmod: 2026-11-15
+lastmod: 2026-11-22
 title: "Chilaquiles Verdes - Mexican Scrambled Eggs with Corn Tortillas and Green Salsa - Recipe"
 description: "Chilaquiles verdes: Mexican scrambled eggs with corn tortillas and green salsa, a breakfast for mornings after a big night."
 date: 2012-05-31T06:00:47
@@ -27,6 +27,16 @@ recipe:
     - "Reduce the heat to low. In a small bowl, whisk together the eggs, 2 tablespoons of water, cumin, 1/4 teaspoon of salt, and several grinds of black pepper."
     - "Pour the eggs over the tortillas that are still in the pan, and cook, stirring frequently, until the eggs are as set as you like them. Remove from the heat."
     - "Put about 1/4 cup of the heated salsa in each bowl. Spoon in half of the egg and tortilla mixture. Pour the remaining salsa over the eggs. Sprinkle on a bit more salt. Add the reserved fried tortillas on top, and finish with some or all of the suggested garnishes (or offer them at the table.)"
+summary: "Chilaquiles verdes: pan-fry torn corn tortillas until crisp, scramble eggs in with them, and serve in hot salsa verde, saving a few crunchy wedges for the top."
+glance:
+  - label: "Serves"
+    value: "2"
+  - label: "Salsa"
+    value: "1 cup salsa verde or green enchilada sauce"
+  - label: "Tortillas"
+    value: "3 corn tortillas, torn into 6 wedges each and fried until well browned"
+  - label: "Diet"
+    value: "Gluten-free"
 ---
 
 First: You didn't forget to enter the contest for a full set of Calphalon pots and pans, did you? You have until 12:01 AM PDT on Monday the 4th.

@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-22
 title: "Five-Minute Indian-style Cabbage - A Tasty and Easy Side Dish"
 description: "Five-minute Indian-style cabbage, an easy side dish that rounds out a curry, rice and raita dinner."
 date: 2008-10-03T12:45:13
@@ -10,7 +11,7 @@ cover:
   hidden: true
 recipe:
   name: "Five-Minute Indian-style Cabbage"
-  yield: "4 as a side dish Vegetarian, vegan, and gluten-free"
+  yield: "4 as a side dish"
   total_time: "PT5M"
   ingredients:
     - "1/2 head green cabbage, cored and sliced into 1/4\" wide ribbons"
@@ -27,6 +28,16 @@ recipe:
     - "As soon as they start to pop, add the rest of the spices and any optional ingredients and stir-fry for 10 more seconds. Move quickly here so you infuse the flavor in the oil but don't burn them."
     - "Add the cabbage and salt, and stir-fry until crisp-tender or tender, your preference. Taste and adjust seasoning."
     - "Garnish with cilantro and/or lemon juice."
+summary: "Five-minute Indian-style cabbage: black mustard seeds popped in hot oil, a few quick spices, then sliced green cabbage stir-fried until crisp-tender; it comes together in 5 minutes."
+glance:
+  - label: "Serves"
+    value: "4 as a side dish"
+  - label: "Time"
+    value: "5 minutes"
+  - label: "Spice base"
+    value: "1 tablespoon black mustard seeds, cumin, turmeric, cayenne"
+  - label: "Diet"
+    value: "Vegetarian, vegan and gluten-free"
 ---
 <span style="font-size: 0.8em;">Indian-style cabbage you can make in 5 minutes</span>
 
@@ -55,4 +66,23 @@ Vegetarian, vegan, and gluten-free</em>
 	<li>Add the cabbage and salt, and stir-fry until crisp-tender or tender, your preference. Taste and adjust seasoning.</li>
 	<li>Garnish with cilantro and/or lemon juice.</li>
 </ol>
+</div>
+
+<div class="faq"><h2>Frequently asked questions</h2>
+
+<h3>What flavors go with cabbage in Indian cooking?</h3>
+<p>Everything in the cabbage (brassica) family goes great with mustard, so mustard seeds are the primary flavoring here.</p>
+
+<h3>Can I use mustard oil?</h3>
+<p>Yes. If you have mustard oil, use it instead of the vegetable oil and reduce the mustard seeds by half.</p>
+
+<h3>How do you temper the mustard seeds?</h3>
+<p>Heat the oil over medium-high heat, wait 10 seconds, add the mustard seeds, and as soon as they pop add the rest of the spices and stir-fry 10 more seconds. Move quickly so the oil is infused but the spices don't burn, with everything chopped and measured in advance.</p>
+
+<h3>What optional additions work?</h3>
+<p>Garlic, ginger, unsweetened shredded coconut, fresh chilis or dried chili flakes and garam masala, with cilantro and lemon juice to garnish.</p>
+
+<h3>What do I serve it with?</h3>
+<p>The author makes it when serving a curry, rice and raita and wanting one more dish to round out an Indian meal.</p>
+
 </div>

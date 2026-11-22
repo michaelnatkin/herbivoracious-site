@@ -1,5 +1,5 @@
 ---
-lastmod: 2026-11-15
+lastmod: 2026-11-22
 title: "Spicy Mama Lil's Spaghetti alla Carbonara - Recipe"
 description: "Spicy vegetarian spaghetti alla carbonara in video: watch the crucial step of tossing the hot pasta with the eggs."
 date: 2011-11-28T07:05:02
@@ -11,7 +11,7 @@ cover:
   hidden: true
 recipe:
   name: "Spicy Mama Lil's Spaghetti alla Carbonara"
-  yield: "2 as a hearty entree 15 minutes active time Vegetarian"
+  yield: "2 as a hearty entree"
   ingredients:
     - "2/3 pound spaghetti"
     - "1/2 cup Mama Lil's peppers (including the oil from the jar)"
@@ -27,6 +27,18 @@ recipe:
     - "In a large bowl, whisk together the eggs, cheese, several generous grinds of black pepper, and a pinch of Kosher salt (you don't need much because the peppers and cheese are already salty). When the pasta is al dente (or even just slightly shy of al dente), drain it, add to the skillet and raise the heat to medium high. Using tongs, toss the pasta with the peppers for about 1 minute."
     - "Pour the entire contents of the skillet into the egg mixture, and working quickly and aggressively with your tongs to prevent the eggs from scrambling, toss the pasta for about 1 minute. Taste and adjust seasoning."
     - "Divide the pasta among the serving bowls, garnish with the toasted pine nuts and parsley and serve immediately."
+summary: "A vegetarian spaghetti alla carbonara: garlic and spicy pickled Mama Lil's peppers in a skillet, tossed with pasta and then aggressively with eggs, Parmigiano and black pepper, topped with toasted pine nuts and parsley."
+glance:
+  - label: "Serves"
+    value: "2 as a hearty entree"
+  - label: "Active time"
+    value: "15 minutes"
+  - label: "Pasta"
+    value: "2/3 pound spaghetti"
+  - label: "Heat"
+    value: "1/2 cup Mama Lil's peppers, with their oil"
+  - label: "Diet"
+    value: "Vegetarian"
 ---
 
 Spaghetti alla carbonara is one of those great Italian dishes that comes with <strong>multiple-choice apocryphal explanations</strong> for the name. Possibly it is in the style favored by a group of charcoal makers, or coal miners, or maybe it was named after the charcoal burner it was cooked on. In any case, the traditional version is made by frying some pig bits with garlic and chili flakes, tossing your mostly cooked pasta through that pan, and then into a bowl with beaten eggs, cheese and black pepper. The hot pasta lightly cooks the egg, turning it into a rich and creamy sauce.
