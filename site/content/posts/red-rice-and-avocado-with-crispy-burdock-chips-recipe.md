@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-24
 title: "Red Rice and Avocado with Crispy Burdock Chips - Recipe"
 description: "How to make crispy burdock root (gobo) chips, served here on red rice with avocado."
 seo_title: "Crispy Burdock (Gobo) Chips Recipe"
@@ -11,7 +12,7 @@ cover:
   hidden: true
 recipe:
   name: "Red Rice and Avocado with Crispy Burdock Chips"
-  yield: "4 Vegetarian and vegan For the dressing"
+  yield: "4"
   ingredients:
     - "1/4 cup white miso"
     - "2 tablespoons lime juice (or yuzu juice, if you happen to have it)"
@@ -28,6 +29,16 @@ recipe:
     - "Whisk together all ingredients. Whisk in water as needed to reach a salad dressing consistency. Add more yuzu kosho or chili paste to your preferred heat level."
     - "Lay the burdock root out in a single layer on a plate. Microwave on high for 30 seconds at a time until shriveled and crispy, but not burned. It may help to reduce the power for the last couple of cycles. Allow to cool for a minute, then pull up the crisps and set aside. (If you have any trouble getting the chips to release with this method, just grease the plate with a drop of oil or pan spray first.)"
     - "To assemble the dish, place a 3 1/2\" ring mold (or biscuit cutter) on a plate. Put 1/2 cup of the rice in the mold and press down to form an even, solid layer. Dress with some of the miso dressing. Layer in one quarter of the avocado and more dressing. Add a thin layer of bell pepper and a bit more dressing. Top with a few leaves of the lettuce and 5 of the burdock chips. Sprinkle with a teaspoon of the gomashio. Carefully remove the ring mold and repeat with the remaining plates."
+summary: "Layered red rice, avocado, shaved red pepper and baby lettuces in a ring mold, topped with crispy burdock chips made in the microwave, gomashio and a sesame, miso and yuzu dressing."
+glance:
+  - label: "Serves"
+    value: "4"
+  - label: "Burdock chips"
+    value: "microwave 30 seconds at a time until shriveled and crispy"
+  - label: "Dressing"
+    value: "white miso, lime or yuzu juice, toasted sesame oil, ginger, yuzu kosho"
+  - label: "Diet"
+    value: "Vegetarian and vegan"
 ---
 
 <img class="alignnone size-large wp-image-2872" title="Red Rice and Avocado Terrine" src="/images/2012/10/Red-Rice-and-Avocado-Terrine-626x415.webp" alt="Red Rice and Avocado Terrine" width="626" height="415" />
@@ -70,4 +81,23 @@ If you don't have a {{% product id="ring-mold" %}}ring mold{{% /product %}} (or 
 	<li>Lay the burdock root out in a single layer on a plate. Microwave on high for 30 seconds at a time until shriveled and crispy, but not burned. It may help to reduce the power for the last couple of cycles. Allow to cool for a minute, then pull up the crisps and set aside.  (If you have any trouble getting the chips to release with this method, just grease the plate with a drop of oil or pan spray first.)</li>
 	<li>To assemble the dish, place a 3 1/2" ring mold (or biscuit cutter) on a plate. Put 1/2 cup of the rice in the mold and press down to form an even, solid layer. Dress with some of the miso dressing. Layer in one quarter of the avocado and more dressing. Add a thin layer of bell pepper and a bit more dressing. Top with a few leaves of the lettuce and 5 of the burdock chips. Sprinkle with a teaspoon of the gomashio. Carefully remove the ring mold and repeat with the remaining plates.</li>
 </ol>
+</div>
+
+<div class="faq"><h2>Frequently asked questions</h2>
+
+<h3>What is burdock root?</h3>
+<p>A popular vegetable in Japanese and Korean cuisine, known in Japanese as gobo. It is crispy and sweet, somewhat like jicama but a little more earthy, maybe like water chestnut. Find it at Asian grocers and well-stocked natural foods stores.</p>
+
+<h3>How do you make burdock chips in the microwave?</h3>
+<p>Shave thin pieces on a mandoline, lay them in a single layer on a plate and microwave on high 30 seconds at a time until shriveled and crispy but not burned, reducing the power for the last couple of cycles. Cool a minute, then pull up the crisps. If they stick, grease the plate with a drop of oil or pan spray.</p>
+
+<h3>Why does the microwave work as a dehydrator?</h3>
+<p>Microwaves excite the water molecules in food, so with thin slices you can evaporate the water right out. The same move works on vegetables from carrot to horseradish.</p>
+
+<h3>Do I need a ring mold?</h3>
+<p>No. If you don't have a 3 1/2 inch ring mold or biscuit cutter, layer the ingredients in a bowl; it will be just as good.</p>
+
+<h3>What else can I use the miso dressing on?</h3>
+<p>It is delicious on cucumbers or as a general-purpose salad dressing. If you don't have yuzu kosho, use a sriracha-style paste plus zest from 1 lime.</p>
+
 </div>

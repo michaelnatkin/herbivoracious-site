@@ -1,5 +1,5 @@
 ---
-lastmod: 2026-11-15
+lastmod: 2026-11-24
 title: "Beer Battered Maitake Mushroom With Japanese Tartar Sauce - Recipe"
 description: "Beer-battered maitake mushrooms with Japanese tartar sauce, a tempura-style take on hen of the woods."
 date: 2008-11-20T08:23:00
@@ -11,7 +11,7 @@ cover:
   hidden: true
 recipe:
   name: "Beer Battered Maitake Mushroom With Japanese Tartar Sauce"
-  yield: "4Vegetarian; not vegan or gluten-free For the tartar sauce:"
+  yield: "4"
   ingredients:
     - "1/2 cup high-quality mayonnaise"
     - "3 green onions, finely diced (white parts and some of the green)"
@@ -34,6 +34,16 @@ recipe:
     - "Dip each piece of mushroom and lime in the batter, allow excess to run off, and fry until golden brown, turning occasionally. Carefully remove from the fryer and allow to drain briefly on a paper towel. When removing the mushrooms, tilt in all directions to allow any excess oil to leave the crevasses."
     - "You'll have batter leftover and a fryer full of hot oil, so now is the time to raid the fridge and fry some other stuff that sounds good. You don't do this very often, so why miss your chance."
     - "To serve, arrange on individual plates as pictured above, or all on one platter with the sauce in a bowl."
+summary: "Beer-battered maitake mushrooms (hen of the woods), deep-fried at 370°F in a thin beer and flour batter and served with a Japanese-flavored tartar sauce of mayonnaise, green onion, dill pickle, umeboshi vinegar and wasabi."
+glance:
+  - label: "Serves"
+    value: "4"
+  - label: "Fry"
+    value: "oil at 370°F, at least 3 inches deep"
+  - label: "Batter"
+    value: "one 12-ounce hoppy beer plus 1 cup all-purpose flour"
+  - label: "Diet"
+    value: "Vegetarian; not vegan or gluten-free"
 ---
 
 <p><a href="/images/old/6a00e008d618bb8834010535f98fba970c-800wi.webp" rel="lightbox" style="display: inline;"><img  alt="Maitake mushrooms in a beer-batter with Japanese style tartar sauce" class="at-xid-6a00e008d618bb8834010535f98fba970c " src="/images/old/6a00e008d618bb8834010535f98fba970c-500wi.webp" ></a><br><span style="font-size: 11px; font-family: Arial;">Batter-fried maitake mushrooms with a cross-cultural tartar sauce</span></p><p><strong>Maitake</strong> mushrooms are very common and much-loved in Japan. In the US they are often known as <strong>Hen of the Woods</strong> mushrooms (not to be confused with <strong>Chicken of the Woods</strong>, which is completely different - or <strong>Chicken of the Sea</strong>, for that matter). They are an easy wild mushroom to enjoy; the flavor is pretty much similar to a button mushroom, just more intense.</p><p>My favorite restaurant preparation of maitake has always been tempura. Thinking about how I could put a little different spin on that got me pondering about fish n' chips, so I went for a beer batter instead of traditional tempura, and made a tartar-style sauce with Japanese flavors to complement it. So I guess what we have here is a <strong>cross cultural vegetarian fishless fry</strong>. Fleur de sel with black sesame seeds, a slice of fried lime (or yuzu if you can get it), and a slice of fresh grapefruit round out the plate.</p><p>By the way, the Wikipedia page about <a href="http://en.wikipedia.org/wiki/Fish_and_chips">fish and chips</a> is hilarious! For example, did you know all the names for the little tasty bits of batter that come out of the fryer with no filling? How about: <em>scratchins</em>, <em>scrumps</em>, <em>scraps</em>, <strong><em>scrobblings</em></strong>, <em>gribblings</em>, <em>bits</em>, <em>fishbits</em>, <em>crimps</em>, <em>fishcrimps</em>, <em>or crispy bits</em>. Mmm, pass the scrobblings! And the <strong>Tinactin</strong>!</p><p>I know, I know, most folks just won't deep-fry at home. I don't blame you, because it is kind of messy and may waste some oil, and even be a little unhealthy :), but it doesn't have to be that big of a deal either. This dish is certainly worth making as an appetizer for a dinner party. Or better yet, a cocktail party. Fried stuff goes great with an adult beverage.&nbsp;</p><div class="recipe-card">

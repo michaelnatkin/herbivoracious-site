@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-24
 title: "Zucchini and Chickpea Tagine - Recipe"
 description: "Zucchini and chickpea tagine recipe, plus what a tagine is: the Moroccan clay pot and the slow-braised dishes cooked in it."
 date: 2012-08-20T06:00:37
@@ -30,6 +31,18 @@ recipe:
     - "Place the carrots in a small, loosely-covered microwave-safe bowl and microwave on high until beginning to soften, about 90 seconds."
     - "Place the oil in your largest skillet or a Dutch oven over medium-high heat. Saute the zucchini until it is tender. Add the carrots and all of the remaining ingredients (chickpeas, salt, cinnamon, cumin, mint, ras el hanout, Aleppo pepper, tomato paste, preserved lemon, and lemon juice). Add 1/2 cup water and mix thoroughly. Bring to a simmer, reduce heat to low, cover, and cook for 10 minutes."
     - "Taste and adjust seasoning. It will probably need more salt, and you may want to amp up the spices, depending on your taste. Serve hot, garnishing with parsley if you desire."
+summary: "Zucchini and chickpea tagine, made in a skillet or Dutch oven with tagine-style flavors: sauteed zucchini, microwaved carrots and chickpeas simmered 10 minutes with cumin, cinnamon, dried mint, ras el hanout, Aleppo pepper, tomato paste and preserved lemon."
+glance:
+  - label: "Serves"
+    value: "4"
+  - label: "Simmer"
+    value: "10 minutes, covered"
+  - label: "Chickpeas"
+    value: "3 cups cooked (or two 15-ounce cans)"
+  - label: "Serve with"
+    value: "couscous and Greek yogurt"
+  - label: "Diet"
+    value: "Vegetarian, vegan and gluten-free"
 ---
 
 The name of this recipe is misleading. A tagine is the {{% product id="moroccan-clay-pot-with-a-conical-lid" target="_blank" %}}Moroccan clay pot with a conical lid{{% /product %}}, typically used for slow-braised stews, as well as the dishes cooked in those beautiful vessels. However, there is nothing in this particular dish that really needs a long braise, so it is quite feasible to make it in a skillet or Dutch-oven. I still call it a tagine because the flavorings are very typical of that genre.
@@ -65,4 +78,23 @@ Serves 4
 </ol>
 <h4><span style="line-height: 13px;">Relevant Sites</span></h4>
 Need to get the word out about your business? Try <a href="http://www.uprinting.com/business-cards.html?utm_source=herbivoracious.com&amp;utm_medium=referral&amp;utm_campaign=hega_bcga_0912" target="_blank">high quality business cards at UPrinting</a>.
+</div>
+
+<div class="faq"><h2>Frequently asked questions</h2>
+
+<h3>Why is this called a tagine if it isn't made in one?</h3>
+<p>A tagine is the Moroccan clay pot with a conical lid used for slow-braised stews. Nothing here needs a long braise, so a skillet or Dutch oven works, but the flavorings are very typical of the genre.</p>
+
+<h3>What can I substitute for ras el hanout, Aleppo pepper or preserved lemon?</h3>
+<p>You can substitute or omit them. If you omit the ras el hanout, add more of the other spices; cayenne or chili flakes can stand in for Aleppo pepper.</p>
+
+<h3>Can I use canned chickpeas?</h3>
+<p>Yes: two 15-ounce cans, drained and rinsed, ones that are tender and not snappy. Home-cooked are preferred.</p>
+
+<h3>What do you serve with it?</h3>
+<p>Fluffy couscous and thick Greek yogurt, unless you are gluten free or vegan respectively.</p>
+
+<h3>Can I change the vegetables?</h3>
+<p>Yes. You can adapt the basic method with different vegetables and/or beans for a wide variety of easy, homey but very flavorful stews.</p>
+
 </div>

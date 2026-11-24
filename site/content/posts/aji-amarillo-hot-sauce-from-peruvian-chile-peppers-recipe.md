@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-24
 title: "Aji Amarillo Hot Sauce (from Peruvian Chile Peppers) - Recipe"
 description: "A fruity, spicy hot sauce made from Peruvian aji amarillo chile peppers."
 seo_title: "Aji Amarillo Hot Sauce Recipe"
@@ -11,7 +12,7 @@ cover:
   hidden: true
 recipe:
   name: "(can be made with other dried chiles)"
-  yield: "about 1"
+  yield: "about 1/4 cup"
   ingredients:
     - "4 dried Aji Amarillo or other peppers of your choice (use more if they are small, the Aji Amarillos were about 5 inches long and 1 inch wide)"
     - "1/4 cup boiling water"
@@ -24,6 +25,16 @@ recipe:
     - "Tear the peppers into small pieces and put them in the jar of a mini food processor. Cover with the boiling water and stir. Allow to sit for 10 minutes or more."
     - "Add the remaining ingredients and puree thoroughly. If it won't puree, add more hot water, a tablespoon or so at a time. You'll have to stop frequently to scrape down the sides."
     - "Taste (carefully!) and adjust the seasonings to your preference."
+summary: "Aji amarillo hot sauce: toast 4 dried aji amarillo peppers about 20 seconds per side, remove stems, seeds and ribs, soak in boiling water 10 minutes or more, then puree with lemon juice, garlic and salt; yields about 1/4 cup."
+glance:
+  - label: "Makes"
+    value: "about 1/4 cup"
+  - label: "Toast"
+    value: "about 20 seconds on each side in a dry skillet"
+  - label: "Soak"
+    value: "10 minutes or more in 1/4 cup boiling water"
+  - label: "Diet"
+    value: "Vegetarian, vegan and gluten-free"
 ---
 <em>{{% product id="dried-aji-amarillo-pepper-2-oz" %}}Aji Amarillo{{% /product %}} hot sauce</em>
 
@@ -55,4 +66,26 @@ Yields about 1/4 cup</em>
 	<li>Add the remaining ingredients and puree thoroughly. If it won't puree, add more hot water, a tablespoon or so at a time. You'll have to stop frequently to scrape down the sides.</li>
 	<li>Taste (carefully!) and adjust the seasonings to your preference.</li>
 </ol>
+</div>
+
+<div class="faq"><h2>Frequently asked questions</h2>
+
+<h3>What is aji amarillo?</h3>
+<p>One of the most important ingredients in Peruvian cuisine. The fresh pepper is used to make huancaina, a cheese sauce served on dishes like papa a la huancaina, cold potatoes with eggs. Dried, it tastes more like sundried tomato than the raisins of many peppers, and the heat level is quite high.</p>
+
+<h3>How do you make a hot sauce from dried chiles?</h3>
+<p>Briefly toast the peppers on a dry, hot skillet or griddle, remove the seeds, stems and ribs, soak the flesh in a bit of boiling water, then add salt and an acid such as citrus juice or vinegar plus any garlic, herbs or spices, and puree.</p>
+
+<h3>Why shouldn't I burn the peppers?</h3>
+<p>If you burn them they become bitter. Toast about 20 seconds per side, just until fragrant.</p>
+
+<h3>Can I use other dried chiles?</h3>
+<p>Yes, the recipe can be made with other dried chiles. Use more if they are small; these aji amarillos were about 5 inches long and 1 inch wide.</p>
+
+<h3>How do I handle hot chiles safely?</h3>
+<p>Wear disposable gloves. If you get a hot spot on your hands, rubbing alcohol is pretty effective at removing the oils.</p>
+
+<h3>How do I use the sauce?</h3>
+<p>Anywhere you would use a bottled hot sauce like Tabasco or Tapatio: a dab enlivens a taco or a plate of scrambled eggs.</p>
+
 </div>

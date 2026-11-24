@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-24
 title: "Vegan \"Bacon\" From King Oyster Mushrooms - Recipe"
 description: "Crispy, salty, smoky vegan bacon made from thin-sliced king oyster mushrooms."
 seo_title: "Vegan Bacon from King Oyster Mushrooms"
@@ -22,6 +23,16 @@ recipe:
     - "Slightly grind the salt to a finer texture. You can do this with your fingers or a mortar and pestle. In a small bowl, whisk together the Maldon salt, sugar, paprika and black pepper. Unless you are doing a lot of mushrooms, this will be more rub than you need, but you can save it."
     - "Slice the king oyster mushrooms lengthwise on a mandoline to about 2mm thickness. Rub both sides of each slice of the mushrooms with the dry rub mix (you probably won't need all of it) and set aside for at least 15 minutes. Wipe off excess rub."
     - "Line a plate with paper towels. Heat a large skillet, preferably cast-iron over medium-high heat. Add a thin layer of vegetable oil. When it shimmers, add strips of mushroom in a single, sparse layer (working in batches as needed) and cook until golden brown (about 1 minute), then flip and brown the other side. Transfer to the paper towels. It will crisp up as it cools (just 20 seconds or so)."
+summary: "Vegan \"bacon\" from king oyster mushrooms: slice lengthwise about 2mm thick on a mandoline, rub with salt, sugar, smoked paprika and pepper for at least 15 minutes, wipe, and pan-fry about 1 minute per side until golden."
+glance:
+  - label: "Yield"
+    value: "depends on the size and quantity of mushrooms"
+  - label: "Rub"
+    value: "1 tablespoon Maldon, 2 tablespoons sugar, 2 tablespoons smoked paprika, 1/4 teaspoon pepper"
+  - label: "Cook"
+    value: "about 1 minute per side, then 20 seconds or so to crisp as it cools"
+  - label: "Diet"
+    value: "Vegetarian, vegan, gluten-free and kosher"
 ---
 
 Let me say for the record: I have no desire to eat bacon. <strong>I prefer for pigs to keep their own bellies and backsides.</strong> However, I'm not at all opposed to having good ways of adding crispy, salty, savory, smoky goodness to my meals.
@@ -55,4 +66,26 @@ Oh, and one random other note: if you would like to get your Herbivoracious fix 
 	<li>Slice the king oyster mushrooms lengthwise on a mandoline to about 2mm thickness. Rub both sides of each slice of the mushrooms with the dry rub mix (you probably won't need all of it) and set aside for at least 15 minutes. Wipe off excess rub.</li>
 	<li>Line a plate with paper towels. Heat a large skillet, preferably {{% product id="lodge-12-inch-cast-iron-pre-seasoned-skillet" %}}cast-iron{{% /product %}} over medium-high heat. Add a thin layer of vegetable oil. When it shimmers, add strips of mushroom in a single, sparse layer (working in batches as needed) and cook until golden brown (about 1 minute), then flip and brown the other side. Transfer to the paper towels. It will crisp up as it cools (just 20 seconds or so).</li>
 </ol>
+</div>
+
+<div class="faq"><h2>Frequently asked questions</h2>
+
+<h3>How do you make mushroom bacon?</h3>
+<p>Slice king oyster mushrooms lengthwise to about 2mm, rub both sides with a dry rub of salt, sugar, smoked paprika and pepper, let sit at least 15 minutes, wipe off the excess and pan-fry in a thin layer of oil until golden, about 1 minute a side.</p>
+
+<h3>What do I slice the mushrooms with?</h3>
+<p>A mandoline is highly recommended; unless you have Morimoto-level knife skills, it is hard to cut them to a consistent thickness by hand.</p>
+
+<h3>How do I keep mushroom bacon crispy?</h3>
+<p>It crisps up as it cools, in about 20 seconds, on paper towels. It loses crispness when exposed to moisture for long, so add it at the last possible moment before serving.</p>
+
+<h3>What if it tastes bitter?</h3>
+<p>Halve the smoked paprika and increase the sugar.</p>
+
+<h3>How can I change the rub?</h3>
+<p>Add brown sugar, chilis, coriander, coffee, cumin, garlic or tomato powder.</p>
+
+<h3>What can I use it in?</h3>
+<p>Anything you would use bacon for: sandwiches, pasta, fried polenta.</p>
+
 </div>

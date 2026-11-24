@@ -1,5 +1,5 @@
 ---
-lastmod: 2026-11-15
+lastmod: 2026-11-24
 title: "Vegetarian Bibimbap - Korean Rice with Vegetables And Kochujang - Recipe"
 description: "Vegetarian bibimbap, the Korean rice bowl with seasoned vegetables, egg and gochujang sauce. A favorite Korean dish made meat-free."
 date: 2012-12-31T07:00:46
@@ -11,7 +11,7 @@ cover:
   hidden: true
 recipe:
   name: "Vegetarian Bibimbap (Korean Mixed Rice)"
-  yield: "4 Kosher"
+  yield: "4"
   ingredients:
     - "1 tablespoon rice wine vinegar"
     - "1 teaspoon grated fresh ginger"
@@ -38,6 +38,18 @@ recipe:
     - "Add the mung bean sprouts, sesame oil, and a pinch of salt and stir fry until just wilting, about 1 minute. Remove and reserve, leaving the pan going."
     - "Cook the tofu as described in How To Make Tofu Really Freaking Delicious, then slice the slabs into batons."
     - "To serve, put a mound of steaming hot rice in a warm bowl. Arrange servings of the mushrooms, zucchini, bean sprouts, pea shoots, fried tofu and pickled cucumbers around the perimeter of the rice. Put an egg in the middle, and garnish with the scallions. Serve immediately, piping hot, with plenty of kochujang for diners to mix in as they please."
+summary: "Vegetarian bibimbap is a bowl of hot rice topped with cooked and raw vegetables, pan-fried tofu and a poached, soft-boiled or fried egg, with kochujang passed on the side and stirred in with the yolk."
+glance:
+  - label: "Serves"
+    value: "4"
+  - label: "Toppings"
+    value: "quick-pickled cucumber, mushrooms, zucchini, bean sprouts, tofu, scallions"
+  - label: "Egg"
+    value: "poached, soft boiled or fried"
+  - label: "Serve with"
+    value: "kochujang on the side"
+  - label: "Diet"
+    value: "Vegetarian; kosher"
 ---
 
 Considering that I've posted a fair number of <a href="/" target="_blank">Korean recipes</a> over the years, it seems odd that I've never written down <strong>my favorite Korean dish of all</strong>: <em>bibimbap</em>. Pronounced "bee-bim-bop", bibimbap is simply a bowl of hot rice with a variety of cooked and raw vegetables. A raw, poached, or fried egg is served on top and {{% product id="cj-haechandle-gochujang-korean-red-pepper-paste" %}}kochujang{{% /product %}} (Korean miso / chili paste) is passed on the side, and the egg yolk together with the kochujang is mixed into the rice before eating.

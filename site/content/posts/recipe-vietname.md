@@ -1,5 +1,5 @@
 ---
-lastmod: 2026-11-15
+lastmod: 2026-11-24
 title: "Recipe: Vietnamese Sandwiches with Tofu (Banh Mi Chay)"
 description: "Vegetarian banh mi chay recipe: Vietnamese sandwiches made with tofu."
 date: 2008-04-28T21:39:34
@@ -33,6 +33,16 @@ recipe:
     - "Pan fry the tofu in a small amount of oil until nicely browned on both sides. Drain, pat dry with a paper towel, and season with salt and pepper."
     - "Cut the baguette part way through. Dress it with mayo. For my taste, rather heavily."
     - "Fill each sandwich with all of the ingredients, and offer additional sriracha sauce on the side."
+summary: "Vietnamese tofu sandwiches (banh mi chay): pan-fried tofu slabs with quick-pickled carrot and daikon, cucumber, onion, jalapeno, avocado, mint and cilantro, in crusty baguette rolls dressed with sriracha mayo."
+glance:
+  - label: "Serves"
+    value: "4"
+  - label: "Pickle"
+    value: "carrot and daikon in water, white vinegar and sugar"
+  - label: "Rolls"
+    value: "about 10 inches long, very crusty outside and fairly soft inside"
+  - label: "Diet"
+    value: "Vegetarian; vegan if you omit the mayo"
 ---
 
 <p><a rel="lightbox" href="/images/2008/04/26/vietnamesetofusandwich.webp"><img width="455" height="302" border="0" src="/images/2008-small/04/26/vietnamesetofusandwich.webp" title="Vietnamese Sandwiches with Tofu (Banh Mi Chay)" alt="Vietnamese Sandwiches with Tofu (Banh Mi Chay)" /></a><br /><span style="font-size: 0.8em;">Vietnamese Sandwiches with Tofu (Banh Mi Chay)</span><br /></p>  <p>I <a href="/2008/04/recipe-sabich-/">must be a sandwich</a>, 'cuz I'm on a roll. Ba dum dum. Yeah. Anyhow, <a href="/2007/07/vietnamese-sand/">when I last wrote about Vietnamese sandwiches&nbsp; (banh mi)</a>, it was to tell you where to find them in Seattle. Until last night I'd never made them at home.<br /> </p>  <p>Considering that they retail for under $2, there isn't much reason to make them yourself unless you don't have access to them or you want to vary the ingredients, which was my motivation. I thought I would use the outstanding tofu from <a href="http://www.yelp.com/biz/thanh-son-tofu-seattle">Thanh Son Tofu</a> on 12th Ave, and add avocado and mint leaves. I picked up the rolls from <a href="http://www.nwsource.com/ae/scr/edb_vd.cfm?c=r&amp;ven=4612&amp;s=nws">Seattle Deli</a>. (Which is also a fine place to have a sandwich, but you have to ask them not use fish sauce if you want a vegetarian one.)<br /> </p>  <p>My Banh Mi turned out decent, but I think it could use more of a bump in flavor next time. Some ideas would be to flavor the mayo intensely with a chili sauce and/or citrus, marinate the tofu, or add some drops of {{% product id="chili-flavored-sesame-oil" %}}chili-flavored sesame oil{{% /product %}}.</p>  <p>For the baguette rolls, you want ones that are about 10&quot; long, seriously crusty on the outside, and fairly soft in the crumb. I believe the Vietnamese ones are made with part rice flour, which would add to the crispy crust, but if you can't find those, the best French baguette you can find will do well.</p>  <div class="recipe-card">
