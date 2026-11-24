@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-24
 title: "Savory Chickpea Cakes - Recipe"
 description: "Savory pan-fried chickpea cakes flavored with garlic and sesame seeds."
 seo_title: "Chickpea Cakes Recipe (Pan-Fried, Vegetarian)"
@@ -11,7 +12,7 @@ cover:
   hidden: true
 recipe:
   name: "Chickpea Cakes"
-  yield: "about 16 small cakesVegetarian (vegan if you use an egg-replacer)"
+  yield: "about 16 small cakes"
   ingredients:
     - "3 cups cooked chickpeas (two 15 oz. cans, drained and rinsed)"
     - "1/2 cup green onions, minced"
@@ -29,7 +30,36 @@ recipe:
   instructions:
     - "Combine all ingredients in a food processor and buzz until you have a fairly uniform mixture, but before it is completely pureed. We want some texture left. You should be able to form it into a ball that holds its shape. It should be neither crumbly nor a batter. Add liquid or breadcrumbs as necessary to find the right moisture level. If you don't mind tasting raw egg, taste a bit and adjust the seasoning as needed."
     - "Heat a few tablespoons of oil in a large skillet, preferably cast-iron, over a medium-high flame. Take a golf-ball sized piece of dough, press it in your hands into a flattened 3-inch patty and place in the skillet. Repeat with as many as will fit comfortably. Fry on one side until golden brown, about 3 minutes, then flip and brown the other side. Remove to paper towels and finish with a little bit of sea salt."
+summary: "Chickpea cakes (fritters) of pulsed chickpeas, green onion, garlic, rosemary, lemon, egg, flour, breadcrumbs and sesame seeds, pressed into 3-inch patties and shallow-fried about 3 minutes per side; makes about 16 small cakes."
+glance:
+  - label: "Makes"
+    value: "about 16 small cakes"
+  - label: "Chickpeas"
+    value: "3 cups cooked (two 15-ounce cans)"
+  - label: "Fry"
+    value: "about 3 minutes on the first side, then brown the other"
+  - label: "Diet"
+    value: "Vegetarian; vegan with an egg-replacer"
 ---
  <br /><em>Chickpea cakes (fritters) with tomato jam</em> <p>These little chickpea cakes are versatile; you can serve them as an appetizer, a side dish on an entree plate, or as the protein-packed star of the show. They are somewhat like a pan-fried falafel, but without the benefit of a deep-fried crust, so we amp up the internal flavoring. Try them with this <a href="/2010/07/tomato-jam-with-rosemary-and-saffron-recipe/" target="_blank">tomato jam</a> for a big flavor combination.</p> <p>The basic recipe is vegetarian. You could use an egg-replacer if you'd like it to be vegan, and gluten-free breadcrumbs and alternative flour if you want it to be gluten-free.</p> <p>I also think it would be good with the ratio of breadcrumbs to flour reversed, for a lighter consistency, but I haven't tried it.</p> <div class="recipe-card">
 <p><strong>Chickpea Cakes</strong><br /><em>Makes about 16 small cakes<br />Vegetarian (vegan if you use an egg-replacer)<br /></em></p> <ul> <li>3 cups cooked chickpeas (two 15 oz. cans, drained and rinsed)</li> <li>1/2 cup green onions, minced</li> <li>5 cloves garlic, minced</li> <li>1/4 t. minced rosemary leaves</li> <li>3/4 t. salt</li> <li>zest of 1 lemon</li> <li>juice of 1/2 lemon</li> <li>1 egg, lightly beaten</li> <li>1/2 cup all-purpose flour</li> <li>1/4 cup homemade breadcrumbs&nbsp;</li> <li>1/4 cup {{% product id="toasted-sesame-seeds" %}}toasted sesame seeds{{% /product %}}</li> <li>oil for shallow frying</li> <li>sea salt (ideally {{% product id="maldon-salt-sea-salt-flakes-8-5-oz" target="_blank" %}}Maldon (aka the world's greatest salt){{% /product %}} or fleur de sel) for finishing</li> </ul> <ol> <li>Combine all ingredients in a {{% product id="food-processor" %}}food processor{{% /product %}} and buzz until you have a fairly uniform mixture, but before it is completely pureed. We want some texture left. You should be able to form it into a ball that holds its shape. It should be neither crumbly nor a batter. Add liquid or breadcrumbs as necessary to find the right moisture level. If you don't mind tasting raw egg, taste a bit and adjust the seasoning as needed.</li> <li>Heat a few tablespoons of oil in a large skillet, preferably {{% product id="lodge-12-inch-cast-iron-pre-seasoned-skillet" %}}cast-iron{{% /product %}}, over a medium-high flame. Take a golf-ball sized piece of dough, press it in your hands into a flattened 3-inch patty and place in the skillet. Repeat with as many as will fit comfortably. Fry on one side until golden brown, about 3 minutes, then flip and brown the other side. Remove to paper towels and finish with a little bit of sea salt.</li> </ol>
+</div>
+
+<div class="faq"><h2>Frequently asked questions</h2>
+
+<h3>How are chickpea cakes different from falafel?</h3>
+<p>They are somewhat like a pan-fried falafel, but without the benefit of a deep-fried crust, so the internal flavoring is amped up.</p>
+
+<h3>How should the chickpea mixture feel?</h3>
+<p>Buzz it in the food processor until fairly uniform but before it is completely pureed, so some texture remains. You should be able to form it into a ball that holds its shape, neither crumbly nor a batter. Add liquid or breadcrumbs as needed.</p>
+
+<h3>How do I fry chickpea cakes?</h3>
+<p>Heat a few tablespoons of oil in a large skillet, preferably cast-iron, over medium-high heat. Press golf-ball-sized pieces into flattened 3-inch patties, fry until golden brown, about 3 minutes, then flip and brown the other side. Drain on paper towels and finish with sea salt.</p>
+
+<h3>Can I make chickpea cakes vegan or gluten-free?</h3>
+<p>Use an egg-replacer for vegan, and gluten-free breadcrumbs and an alternative flour for gluten-free.</p>
+
+<h3>How do I serve them?</h3>
+<p>As an appetizer, a side dish on an entree plate, or as the protein-packed star, with tomato jam.</p>
+
 </div>

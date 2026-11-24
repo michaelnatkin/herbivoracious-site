@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-24
 title: "Chanterelle Tostadas - Recipe"
 description: "How to cook chanterelles on crisp tostadas, a simple recipe for wild mushroom season."
 seo_title: "Chanterelle Recipes: Chanterelle Tostadas"
@@ -11,7 +12,7 @@ cover:
   hidden: true
 recipe:
   name: "Chanterelle Tostadas"
-  yield: "4 small tostadas, which would be a light main course - double this if you aren't serving much else; multiply by 1.5 if using larger tostada shells Vegetarian, vegan, gluten free and kosher"
+  yield: "4 small tostadas"
   ingredients:
     - "Vegetable oil"
     - "40 small or 20 larger chanterelle mushrooms, cleaned (and cut into bite size if needed)"
@@ -30,6 +31,16 @@ recipe:
     - "Spread the tostada shells with the refried beans."
     - "Arrange the sauteed mushrooms, tomatoes and radishes on top of the beans."
     - "Garnish with the jalapeno, sweet onion, cilantro, and finishing salt. Serve hot."
+summary: "Chanterelle tostadas: chanterelles sauteed about 5 minutes with salt and cumin, piled on refried bean-spread tostada shells with tomato, radish, jalapeno, sweet onion and cilantro, without an intense salsa."
+glance:
+  - label: "Makes"
+    value: "4 small tostadas, a light main course"
+  - label: "Saute"
+    value: "chanterelles about 5 minutes"
+  - label: "Mushrooms"
+    value: "40 small or 20 larger chanterelles"
+  - label: "Diet"
+    value: "Vegetarian, vegan, gluten-free and kosher"
 ---
 
 These tostadas had a very simple inspiration: wildly inexpensive chanterelles. Although they grow prolifically in the Pacific Northwest, I've never learned how to hunt them, so I'm typically stuck paying retail when I want my fix - unless, I'm hanging around with my friend <a href="http://fat-of-the-land.blogspot.com/" target="_blank" rel="noopener">Lang</a>, whose new book {{% product id="the-mushroom-hunters" target="_blank" %}}The Mushroom Hunters{{% /product %}} just came out. And retail price can easily be $20 or even $30 per pound. So I kind of freaked out when I saw them for under $10/pound at a few local markets, and snatched up several pounds. Not only were they cheap, but they are beautifully plump and dry, not the soggy or woody leftovers you sometimes see.
@@ -62,4 +73,23 @@ And in case you get carried away like I do, here are a few more of my favorite c
  	<li>Arrange the sauteed mushrooms, tomatoes and radishes on top of the beans.</li>
  	<li>Garnish with the jalapeno, sweet onion, cilantro, and finishing salt. Serve hot.</li>
 </ol>
+</div>
+
+<div class="faq"><h2>Frequently asked questions</h2>
+
+<h3>Why no intense salsa on chanterelle tostadas?</h3>
+<p>The challenge is to use chanterelles so their unique flavor and texture isn't overwhelmed by big flavors, so these have just a scattering of tomatoes, onions, radish and jalapeno.</p>
+
+<h3>How do you cook chanterelles for tostadas?</h3>
+<p>Heat a tablespoon of vegetable oil in a heavy skillet over medium-high heat, add the cleaned mushrooms with a pinch of salt and a pinch of cumin, and cook, stirring occasionally, until tender and aromatic, about 5 minutes.</p>
+
+<h3>Can I make my own tostada shells?</h3>
+<p>Yes, pan-fry corn tortillas in a shallow layer of oil. The recipe uses four six-inch shells; multiply by 1.5 if using larger shells.</p>
+
+<h3>Are chanterelles only for European dishes?</h3>
+<p>No. Chanterelles and other wild mushrooms are used throughout the world, from Mexico to the Himalayas, though those uses rarely travel to the US with the cuisines.</p>
+
+<h3>How many does this serve?</h3>
+<p>Four small tostadas make a light main course; double the recipe if you aren't serving much else.</p>
+
 </div>

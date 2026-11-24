@@ -1,5 +1,5 @@
 ---
-lastmod: 2026-11-15
+lastmod: 2026-11-24
 title: "Quick Chana Masala with Mushrooms - Chickpea Curry - Recipe"
 description: "Quick chana masala with mushrooms, a spicy chickpea curry, one of the dishes found at nearly every Indian restaurant in America."
 date: 2009-09-14T06:57:00
@@ -39,6 +39,18 @@ recipe:
     - "Add the mushrooms and the drained chickpeas, the hot pepper, turmeric, cinnamon, cloves and cayenne pepper, lemon juice, a teaspoon of salt, and a cup or so of water, so it is kind of soupy."
     - "Cook uncovered over a medium-low flame for about 15 minutes, until the sauce begins to thicken. Taste and adjust seasoning. Does it need more salt? More lemon juice? A bit more cayenne?"
     - "Finish for the texture you want - you can see how I like it in the picture above. Then in a separate skillet, heat the last tablespoon of oil over a high flame and fry the mustard seeds until they pop, just a few seconds. This is called tempering, and it is a great way to add a final layer of flavor. Toss the contents of that skillet over the chickpeas and serve, with the cilantro for garnish."
+summary: "Quick chana masala with mushrooms: tempered whole spices, onion and tomato browned about 5 minutes, then chickpeas, mushrooms and spices simmered about 15 minutes; it takes 20 minutes with canned chickpeas."
+glance:
+  - label: "Serves"
+    value: "2 as a main course with basmati rice or 4 as part of a larger Indian meal"
+  - label: "Time"
+    value: "about 20 minutes with canned chickpeas"
+  - label: "Simmer"
+    value: "about 15 minutes, uncovered"
+  - label: "Finish"
+    value: "tempered mustard seeds in oil tossed over the top"
+  - label: "Diet"
+    value: "Vegetarian and gluten-free; vegan if you use vegetable oil"
 ---
 
 Chana Masala (spicy chickpeas) is one of those ten dishes you will find at pretty much every Indian restaurant in America. You can understand why: it is inexpensive to prepare, delicious, healthy and satisfying. The mass prepared versions are usually pretty good, but you can make a similar dish at home and enjoy fresher, more vibrant flavors.

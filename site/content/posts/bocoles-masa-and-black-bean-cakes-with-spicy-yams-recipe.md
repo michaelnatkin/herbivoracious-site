@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-24
 title: "Bocoles (Masa and Black Bean Cakes) with Spicy Yams - Recipe"
 description: "Bocoles are fried masa cakes stuffed with black beans, here topped with spicy yams."
 seo_title: "Bocoles Recipe: Masa and Black Bean Cakes"
@@ -11,7 +12,7 @@ cover:
   hidden: true
 recipe:
   name: "Bocoles (Masa and Black Bean Cakes) with Spicy Yams"
-  yield: "6 as an entree or 12 as an appetizerVegetarian, vegan if you omit the crema, and gluten-free For the yam filling:"
+  yield: "6 as an entree or 12 as an appetizer"
   ingredients:
     - "2 tablespoons oil"
     - "1 white onion, diced"
@@ -33,7 +34,39 @@ recipe:
     - "The easiest way to cut the yams is to make strips using a mandoline and then use a knife to cut the strips into very small cubes. Heat the oil in a large skillet over a medium flame. Saute the onion and garlic for 1 minute. Add the yams, jalapeno and cumin and 1/2 teaspoon of salt. Cook, stirring occasionally until the yams are fully tender. Taste and adjust seasoning - they will likely need more salt. Feel free to make the filling spicier if that suits you."
     - "Thoroughly mix the masa, refried beans, baking powder and 1 teaspoon salt. Taste and add more salt if needed. Heat 1/8\" of oil in a large skillet over a medium flame. Make golf-ball sized balls of the dough and pat them between your hands into a pancake about 1/4\" thick or so. Fry for about 3 or 4 minutes until brown on the outside and cooked but still soft on the inside. Diana Kennedy says 7 minutes per side but I found it didn't it take that long; try a tester and see what you like best."
     - "Serve as soon as possible, on a bed of shredded lettuce, topped with a generous amount of the yam filling, and garnished with crema. Pass the salad or salsa and optional mole on the side."
+summary: "Bocoles are pan-fried masa and mashed black bean cakes, here topped with a spicy yam filling and crema for an unusual vegetarian entree adapted from Diana Kennedy's My Mexico; fry about 3 or 4 minutes."
+glance:
+  - label: "Serves"
+    value: "6 as an entree or 12 as an appetizer"
+  - label: "Fry"
+    value: "golf-ball-sized balls patted to 1/4 inch, 3 or 4 minutes in 1/8 inch of oil"
+  - label: "Filling"
+    value: "yams, onion, garlic and jalapeno with cumin"
+  - label: "Diet"
+    value: "Vegetarian and gluten-free; vegan if you omit the crema"
 ---
   <p>Bocoloes are little pan-fried cake of masa and mashed black beans, typically served as an <em>antojito</em> (appetizer). I learned about them from Diana Kennedy&#39;s magnificient {{% product id="my-mexico" target="_blank" %}}My Mexico{{% /product %}} and thought that I could replace the pork filling with yams, increase the portion, and make an unusual and delicious vegetarian entree. </p>  <p>The cakes came out great; they fry up with a crispy exterior and somewhat creamy inside. If you have had an Indian dosa, which is made from a lentil batter, the crust is kind of like that. (Curious about all the dosa varieties on a South Indian menu? I built <a href="https://dosadecoder.com" target="_blank" rel="noopener">The Dosa Decoder</a> to break down how those names work.) Both of my kids loved them too, which was a nice bonus. The older one now calls them &quot;yummy cakes&quot; and is lobbying for a repeat performance.</p>  <p>I served the bocoles with this refreshing <a href="/2009/11/jicama-orange-and-radish-salad-recipe/" target="_blank">jicama, radish and orange salad</a>, and a spoonful of homemade pipian, a type of mole made with {{% product id="pepitas-green-hulled-pumpkin-seeds" %}}pumpkin seeds (pepitas){{% /product %}}.</p>  <p>Fresh masa is a delight to work with, much nicer than dough made from dry masa harina. Your best bet for finding it is to locate a place that makes fresh corn tortillas (a <em>tortilleria</em>). That should be easy in parts of the country that have large Mexican populations. In Seattle I&#39;ve had luck at La Bendicion on Beacon Hill, if I ask a day in advance, or I hear you can get it at the The Mexican Grocery in Pike Place. If you don&#39;t have fresh masa, just buy {{% product id="masa-harina" %}}masa harina{{% /product %}} flour and mix it according to the package directions for tortillas.</p>  <p>I also bought pre-made Ducal-brand refried black beans. If you don&#39;t have that, simply fry some onion and garlic with canned black beans and then thoroughly puree them with enough liquid to make a smooth paste.</p>  <div class="recipe-card">
 <p><strong>Bocoles (Masa and Black Bean Cakes) with Spicy Yams</strong><br /><em>Serves 6 as an entree or 12 as an appetizer<br />Vegetarian, vegan if you omit the crema, and gluten-free</em></p>  <p><em>For the yam filling:</em></p>  <ul> <li>2 tablespoons oil</li> <li>1 white onion, diced</li> <li>4 cloves garlic, minced</li> <li>2 medium yams, peeled and finely diced (see below)</li> <li>2 or more jalapeno peppers, minced</li> <li>1 teaspoon cumin powder</li> <li>salt</li> </ul> <p><em>For the bocoles:</em></p>  <ul> <li>2 pounds (about 4 cups) masa or prepared masa harina, no wetter than necessary</li> <li>2 cups refried black beans (Ducal brand is good or make your own)</li> <li>2 teaspoons baking powder</li> <li>salt</li> <li>oil for pan frying</li> </ul> <p><em>For serving:</em></p>  <ul> <li>shredded romaine lettuce hearts</li> <li>crema or sour cream</li> <li>salsa or jicama salad</li> <li>optional: mole or pipian sauce</li> </ul> <ol> <li>The easiest way to cut the yams is to make strips using a {{% product id="mandoline" target="_blank" %}}mandoline{{% /product %}} and then use a knife to cut the strips into very small cubes. Heat the oil in a large skillet over a medium flame. Saute the onion and garlic for 1 minute. Add the yams, jalapeno and cumin and 1/2 teaspoon of salt. Cook, stirring occasionally until the yams are fully tender. Taste and adjust seasoning - they will likely need more salt. Feel free to make the filling spicier if that suits you.</li> <li>Thoroughly mix the masa, refried beans, baking powder and 1 teaspoon salt. Taste and add more salt if needed. Heat 1/8&quot; of oil in a large skillet over a medium flame. Make golf-ball sized balls of the dough and pat them between your hands into a pancake about 1/4&quot; thick or so. Fry for about 3 or 4 minutes until brown on the outside and cooked but still soft on the inside. Diana Kennedy says 7 minutes per side but I found it didn&#39;t it take that long; try a tester and see what you like best.</li> <li>Serve as soon as possible, on a bed of shredded lettuce, topped with a generous amount of the yam filling, and garnished with crema. Pass the salad or salsa and optional mole on the side.</li> </ol>
+</div>
+
+<div class="faq"><h2>Frequently asked questions</h2>
+
+<h3>What are bocoles?</h3>
+<p>Little pan-fried cakes of masa and mashed black beans, typically served as an antojito (appetizer). They fry up with a crispy exterior and a somewhat creamy inside.</p>
+
+<h3>Where can I find fresh masa?</h3>
+<p>Look for a tortilleria, a place that makes fresh corn tortillas. If you don't have fresh masa, buy masa harina and mix it per the package directions for tortillas.</p>
+
+<h3>What if I can't find prepared refried black beans?</h3>
+<p>Fry some onion and garlic with canned black beans and puree thoroughly with enough liquid to make a smooth paste.</p>
+
+<h3>How long do bocoles take to fry?</h3>
+<p>About 3 or 4 minutes in 1/8 inch of oil over medium heat, until brown outside and cooked but still soft inside. Diana Kennedy says 7 minutes per side, but the author found it took less; try a tester.</p>
+
+<h3>How do you cut the yams for the filling?</h3>
+<p>Make strips with a mandoline, then cut the strips into very small cubes.</p>
+
+<h3>What do you serve with bocoles?</h3>
+<p>A bed of shredded romaine hearts, the yam filling and crema, plus salsa or a jicama, radish and orange salad, and optionally mole or pipian.</p>
+
 </div>

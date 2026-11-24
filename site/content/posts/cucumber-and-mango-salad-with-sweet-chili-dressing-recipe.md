@@ -1,5 +1,5 @@
 ---
-lastmod: 2026-11-15
+lastmod: 2026-11-24
 title: "Cucumber and Mango Salad with Sweet Chili Dressing - Recipe"
 date: 2011-02-07T07:18:00
 slug: "cucumber-and-mango-salad-with-sweet-chili-dressing-recipe"
@@ -12,6 +12,7 @@ cover:
 recipe:
   name: "Cucumber and Mango Salad with Sweet Chili Sauce"
   yield: "4"
+  total_time: "PT10M"
   ingredients:
     - "6 tablespoons sweet chili sauce"
     - "1 tablespoon rice vinegar"
@@ -25,6 +26,16 @@ recipe:
     - "Whisk together the sweet chili sauce, rice vinegar and Kosher salt."
     - "Toss the dressing with the mango, cucumber, mint, and cilantro."
     - "Serve on cold platter, garnished with the sesame seeds."
+summary: "Cucumber and mango salad dressed with Thai sweet chili sauce, rice vinegar and salt, tossed with mint and cilantro and garnished with toasted sesame seeds; it takes 10 minutes and serves 4."
+glance:
+  - label: "Serves"
+    value: "4"
+  - label: "Time"
+    value: "10 minutes"
+  - label: "Dressing"
+    value: "6 tablespoons sweet chili sauce, 1 tablespoon rice vinegar, 1/2 teaspoon salt"
+  - label: "Diet"
+    value: "Vegetarian, vegan and gluten-free (check the chili sauce)"
 ---
 
 <p><a href="/images/old/6a00e008d618bb88340147e1f01b0c970b-800wi.webp" rel="lightbox" style="display: inline;"><img alt="Cucumber Mango Salad" class="asset  asset-image at-xid-6a00e008d618bb88340147e1f01b0c970b" src="/images/old/6a00e008d618bb88340147e1f01b0c970b-500wi.webp" title="Cucumber Mango Salad" /></a><br /><em>Cucumber and Mango Salad with Sweet Chili Dressing</em></p> <p>We always have {{% product id="sweet-chili-sauce" target="_blank" %}}Thai sweet chili sauce{{% /product %}}&#0160;around the house. It is more sweet and tangy than spicy, but with just enough kick to add some interest. Sure, you could make it yourself, but the beauty is in having it in your refrigerator for those moments when you need to turn some basic ingredients into dinner in minutes. It can be glazed on tofu, used as a table condiment, or, like in this recipe, made into a quick salad dressing.</p> <p>This salad is great when you need something to cut the richness of a coconut-milk curry, or the saltiness of a stir fry. It comes together in just a few minutes if you have developed some <a href="/2011/01/three-ways-to-increase-your-confidence-in-the-kitchen/" target="_blank">knife skills</a>. VeganYumYum has a nice post on a <a href="http://veganyumyum.com/2007/02/how-to-slice-a-mango/" target="_blank">quick way to cut a mango</a> into cubes.</p> <p>A more authentic Thai version of this would undoubtedly feature fish sauce. You can roughly approximate that umami hit with a teaspoon of soy sauce or shiitake mushroom broth if you are so inclined.&#0160;</p> <p>Other ideas: toasted and roughly crushed peanuts, papaya, pineapple, thinly sliced shallots, fresh ginger, shiso, sesame oil.</p> <div class="recipe-card">

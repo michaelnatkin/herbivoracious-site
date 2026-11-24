@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-24
 title: "How To Make Crispy, Delicious Latkes (Jewish Potato Pancakes, Traditional for Hanukkah) - Recipe"
 description: "How to make crispy potato latkes for Hanukkah with just potato, onion, egg and salt. Tips for getting them shatteringly crisp."
 date: 2008-12-25T21:30:22
@@ -10,6 +11,7 @@ cover:
   hidden: true
 recipe:
   name: "Crispy, Delicious Latkes for Hanukkah"
+  yield: "1 pound of potato per person as a main course"
   ingredients:
     - "450 grams (1 pound Russet potato), peeled and held in water until ready to grate"
     - "115 grams (1/4 pound onion), preferably white but yellow is ok, peeled"
@@ -29,6 +31,18 @@ recipe:
     - "Be sure and taste one of the first ones to make sure it is cooked through. If not, reduce the heat a bit or make the next batch thinner."
     - "Try not to eat all of them yourself."
     - "Serve with applesauce, sour cream and more salt on the side."
+summary: "Crispy Hanukkah latkes from just Russet potato, onion, egg and salt: salt the grated potato and onion for 15 minutes, wring out as much water as possible, and fry flattened 1/3-inch cakes in about 1/8 inch of oil until deep brown."
+glance:
+  - label: "Plan on"
+    value: "about 1 pound (450 grams) of potato per person as a main course"
+  - label: "Ratio"
+    value: "450 grams potato to 115 grams onion, 1 egg, about 5 grams kosher salt"
+  - label: "Rest"
+    value: "salt and let sit 15 minutes, then wring dry"
+  - label: "Fry"
+    value: "in about 1/8 inch of oil over medium-high heat"
+  - label: "Diet"
+    value: "Vegetarian and gluten-free"
 ---
 <span style="font-size: 12px; font-family: Arial;">Now that's a crispy latke!</span>
 
@@ -75,4 +89,29 @@ Multiply as needed to use 450 grams / 1 pound potato per person as a main course
 	<li>Try not to eat all of them yourself.</li>
 	<li>Serve with applesauce, sour cream and more salt on the side.</li>
 </ol>
+</div>
+
+<div class="faq"><h2>Frequently asked questions</h2>
+
+<h3>What is the key to crispy latkes?</h3>
+<p>Extracting as much water from the potatoes as possible. Pre-salt them for 15 minutes, then wring them in cheesecloth or a clean towel, or squeeze them in a heavy-duty potato ricer. Otherwise they will spit water in the pan and come out mushy.</p>
+
+<h3>How do I keep grated potatoes from turning black?</h3>
+<p>Grate them not long before frying. If you must grate early, press plastic wrap tightly on the surface and refrigerate. You can also crush a plain unflavored 500 mg vitamin C tablet for every 4 pounds of potato and toss it in with the salt.</p>
+
+<h3>How much oil and what temperature?</h3>
+<p>About 1/8 inch of oil over medium-high heat. A bit of potato thrown in should sizzle immediately, but the oil shouldn't smoke. Don't be stingy: the latkes absorb the same amount anyway, but with less oil they won't be properly crispy.</p>
+
+<h3>How big should latkes be?</h3>
+<p>Use about 1/4 to 1/3 cup of potato and flatten to about 1/3 inch right away, so the inside cooks before the outside burns. Flip when the first side is a dark, deep brown.</p>
+
+<h3>Can I keep latkes crispy for a crowd?</h3>
+<p>Latkes are best fresh from the pan. Fry as many at a time as possible, keep them on a baking sheet and re-crisp at 400 degrees, or serve standing up straight from the pan to the plate.</p>
+
+<h3>How much potato per person?</h3>
+<p>About 1 pound (450 grams) per person as a main course for the author's family, or half that as an appetizer.</p>
+
+<h3>How should I adjust for kosher salt brands?</h3>
+<p>The author uses Diamond Crystal. If using another brand by volume, reduce all amounts by around 40%; measuring by weight is best.</p>
+
 </div>

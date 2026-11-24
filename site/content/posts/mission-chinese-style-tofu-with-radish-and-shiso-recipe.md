@@ -1,5 +1,5 @@
 ---
-lastmod: 2026-11-15
+lastmod: 2026-11-24
 title: "Mission Chinese Food-Style Tofu with Radish and Shiso - Recipe"
 description: "Mission Chinese Food-style tofu with radish and shiso, inspired by chef Danny Bowien's restaurant."
 date: 2013-08-05T06:00:17
@@ -11,7 +11,8 @@ cover:
   hidden: true
 recipe:
   name: "Mission Chinese Food-Style Tofu with Radish and Shiso"
-  yield: "2 as a main course or 4 as part of a larger family-style meal Vegetarian, vegan, and gluten-free if you use gluten-free soy sauce 15 minutes"
+  yield: "2 as a main course or 4 as part of a larger family-style meal"
+  total_time: "PT15M"
   ingredients:
     - "2 tablespoons sugar"
     - "1 tablespoon cornstarch"
@@ -31,6 +32,16 @@ recipe:
     - "Heat a wok or large cast iron skillet over maximum heat. When it is smoking hot, add the oil and immediately add the radishes and zucchini. Stir-fry until they begin to color and become tender. Add the tofu and chili pods and stir-fry for about a minute, until the tofu picks up a little color."
     - "Whisk the sauce one more time, reduce the heat of the pan to medium, and add the sauce all at once. It will sputter and boil so be careful. When it reaches a boil, you will see it start to thicken just a bit and turn glossy. Add the green onion and shiso and stir through."
     - "Quickly, transfer to a serving bowl (or individual bowls), garnish with the green onion, and serve. Warn guests not to eat the chili pods!"
+summary: "An off-the-cuff, brothy tofu dish inspired by Mission Chinese Food's vegetarian stir-fried radishes with shiso: red radishes and a big handful of shiso cooked briefly, with zucchini; about 15 minutes."
+glance:
+  - label: "Serves"
+    value: "2 as a main course or 4 as part of a larger family-style meal"
+  - label: "Time"
+    value: "15 minutes"
+  - label: "Shiso"
+    value: "a big handful, cooked briefly so it works almost as a vegetable"
+  - label: "Diet"
+    value: "Vegetarian and vegan; gluten-free with gluten-free soy sauce"
 ---
 
 When my wife and I were in New York for the James Beard awards a few months ago, we were wandering around the Lower East Side, and I was hungry (as usual). We turned a corner, and I spotted Mission Chinese Food's New York outpost and I knew my life was about to get a lot better. I'd eaten at Danny Bowien's San Francisco location a year ago and had been depressed because I was by myself and could only try a couple of dishes, so stumbling into a chance to eat his food again was a happy moment indeed.
