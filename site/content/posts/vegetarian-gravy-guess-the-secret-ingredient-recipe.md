@@ -1,5 +1,5 @@
 ---
-lastmod: 2026-11-15
+lastmod: 2026-11-25
 title: "Vegetarian Gravy (Guess the Secret Ingredient!) - Recipe"
 date: 2010-12-20T07:05:00
 slug: "vegetarian-gravy-guess-the-secret-ingredient-recipe"
@@ -28,6 +28,16 @@ recipe:
     - "In the same pan, melt the remaining 10 tablespoons of butter over medium heat. Whisk in the flour. Reduce heat to medium-low. Keep whisking more or less constantly until the flour is medium brown (or darker if you feel comfortable with that)."
     - "Working carefully to avoid dangerous spatters, whisk the mushroom broth back in. You will see it begin to thicken immediately and then thin out as all of the liquid gets into the pan. Bring it back to a simmer and then check the consistency. If it is a little too thick, add a bit more vegetable broth or water. If it is too thin, whisk in a slurry made of equal parts cornstarch and water, 1 tablespoon at a time, always maintaining a simmer."
     - "Taste and adjust salt, and add more Marmite if needed. Strain and serve immediately, or refrigerate for up to 2 days and reheat when ready to use."
+summary: "Vegetarian gravy with two secret ingredients, Marmite and dried porcini: mushrooms simmered in clear vegetable broth, strained and whisked into a butter and flour roux; makes 6 cups and keeps up to 2 days refrigerated."
+glance:
+  - label: "Makes"
+    value: "6 cups"
+  - label: "Secret ingredients"
+    value: "2 tablespoons Marmite and 1/2 ounce dried porcini"
+  - label: "Broth"
+    value: "simmer mushrooms and porcini 15 minutes"
+  - label: "Keeps"
+    value: "up to 2 days refrigerated"
 ---
 
 <p><a href="/images/old/6a00e008d618bb88340147e02f33ed970b-800wi.webp" rel="lightbox" style="display: inline;"><img alt="Vegetarian Gravy" class="asset  asset-image at-xid-6a00e008d618bb88340147e02f33ed970b" src="/images/old/6a00e008d618bb88340147e02f33ed970b-500wi.webp" title="Vegetarian Gravy" /><br /></a><em>Vegetarian Gravy</em></p> <p>I don&#39;t go in for a lot of American-style comfort food, but who can resist a big plate of mashed potatoes and gravy? (Or biscuits and gravy, for that matter.) I always make this for Thanksgiving, but maybe for some of you folks this will be just in time for Christmas dinner.</p> <p>I suppose the title of this post is misleading. There are actually two secret ingredients in my gravy: Marmite, and dried porcini mushrooms.&#0160;</p> <p><a href="http://amzn.to/hqH01j" target="_blank">Marmite</a>, and its cousin, <a href="http://amzn.to/hhl0Dd" target="_blank">Vegemite</a>&#0160;are beloved as toast spreads in the UK, South Africa, New Zealand and&#0160;Australia. I&#39;m sure to get flames from all of those countries for even mentioning them in the same sentence. They are both intensely flavored yeast extracts that pack a serious punch of umami.</p> <p>I&#39;d rather pull all my nosehairs out with a pair of chopsticks then eat Marmite on toast. But as a bass note in gravy, it is ideal. I first learned this trick when I was a cook at Green Gulch Farm in Marin County way back in the 1980s, and I&#39;ve kept it in my back pocket ever since.</p>  <p>The {{% product id="dried-porcini-mushrooms" %}}dried porcini{{% /product %}} are a little bit expensive. They add another layer of mushroomy funk that I find irresistible. You could also use dried shiitakes in a pinch, or double the fresh mushrooms.</p> <p>For the vegetable broth, you need to use a clear style, like the excellent {{% product id="vegetarian-broth-powder" %}}Seitenbacher broth powder{{% /product %}}. Do not use the thick, soup-style stuff that some companies confusingly label as broth.</p> <p>If you don&#39;t mind an extra pan to clean, you can get this done faster by making the roux at the same time as the broth.&#0160;</p> <p>For biscuits and gravy, cook the roux just for a minute or so without browning, replace 4 of the cups of vegetable broth with milk, and reduce the Marmite by half. Add 1/2 teaspoon fresh-ground black pepper.</p> <div class="recipe-card">

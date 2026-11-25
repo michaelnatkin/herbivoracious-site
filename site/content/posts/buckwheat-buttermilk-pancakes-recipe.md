@@ -1,5 +1,5 @@
 ---
-lastmod: 2026-11-15
+lastmod: 2026-11-25
 title: "Buckwheat-Buttermilk Pancakes - Recipe"
 description: "Buckwheat-buttermilk pancakes with a warm, toasty, nutty flavor that you can really taste."
 date: 2009-01-08T06:50:00
@@ -11,7 +11,7 @@ cover:
   hidden: true
 recipe:
   name: "Buckwheat Buttermilk Pancakes"
-  yield: "4 generously Vegetarian; not vegan or gluten-free"
+  yield: "4 generously"
   total_time: "PT20M"
   ingredients:
     - "1 1/2 cups (180 grams) buckwheat flour"
@@ -29,6 +29,16 @@ recipe:
     - "Stir the wet ingredients into the dry. Be sure not to overmix, or your pancakes will come out tough. It is ok if they have some lumps. If it is too thick, add a bit more buttermilk or milk, but keep it on the thick side. If it is too thin, add a bit more of either flour."
     - "Cook in the usual way. In case you are from Mars: heat a griddle over a medium high flame. Rub it with a bit of oil on a paper towel. Ladle out pancake batter to about 5\" circles. Allow to cook until bubbles form on top and peek underneath reveals a nice dark brown. Flip and cook until the other side is done."
     - "Serve forth with plenty of soft butter and real maple syrup."
+summary: "Buckwheat buttermilk pancakes: equal weights of buckwheat and all-purpose flour with buttermilk, melted butter and eggs, a thick batter that is not overmixed and cooked on a medium-high griddle in about 20 minutes."
+glance:
+  - label: "Serves"
+    value: "4 generously"
+  - label: "Time"
+    value: "20 minutes"
+  - label: "Flours"
+    value: "180 grams buckwheat flour plus 180 grams unbleached all-purpose"
+  - label: "Diet"
+    value: "Vegetarian; not vegan or gluten-free"
 ---
 <span style="font-size: 11px; font-family: Arial;">Buckwheat pancakes</span>
 

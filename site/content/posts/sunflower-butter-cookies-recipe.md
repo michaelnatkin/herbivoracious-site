@@ -1,5 +1,5 @@
 ---
-lastmod: 2026-11-15
+lastmod: 2026-11-25
 title: "Sunflower Butter Cookies - Recipe"
 description: "Sunflower butter cookies, a nut-free take on peanut butter cookies, made for a family with severe peanut and tree nut allergies."
 date: 2012-12-24T11:20:49
@@ -24,6 +24,16 @@ recipe:
     - "In a stand mixer with the paddle attachment, cream the butter and sugar at medium speed until fluffy, about 5 minutes. Lower the speed and add the egg, then gradually add the sunflower butter."
     - "Whisk together the flour, salt (rubbing a little to break up large crystals), and baking powder. Add slowly to the running mixer. Mix until well combined, about 1 more minute."
     - "Chill the dough for at least 30 minutes. Preheat oven to 375. Line baking sheets with parchment or silpats. Dish dough out into approximately 2-tablespoon balls. Flatten, then use the tines of a fork to make the traditional criss-cross pattern. Bake about 12 minutes until lightly browned. Cool on a rack for at least 10 minutes, then enjoy."
+summary: "Sunflower butter cookies, a \"peanut butter\" cookie for the peanut-allergic: butter, sugar, egg, unsweetened sunflower butter, flour, salt and baking powder, chilled 30 minutes and baked at 375°F for about 12 minutes; makes 15 big cookies."
+glance:
+  - label: "Makes"
+    value: "15 big cookies"
+  - label: "Chill"
+    value: "at least 30 minutes"
+  - label: "Bake"
+    value: "375°F for about 12 minutes, until lightly browned"
+  - label: "Diet"
+    value: "Vegetarian and kosher"
 ---
 
 My wife, Sarina, is severely allergic to both peanuts and every kind of tree nut. Like, <a href="/2009/02/understanding-deadly-food-allergies-this-post-could-save-a-life/" target="_blank">epipen and straight to the hospital allergic</a>. This meant that she has never tasted a peanut butter cookie, and neither have my kids. It seemed to me that this was a grave injustice that needed to be rectified.

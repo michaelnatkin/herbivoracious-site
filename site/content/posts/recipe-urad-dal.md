@@ -1,5 +1,5 @@
 ---
-lastmod: 2026-11-15
+lastmod: 2026-11-25
 title: "Recipe: Vegetarian Urad Dal Patties (Vada) with Black Pepper"
 description: "Vegetarian urad dal patties (vada) with black pepper, an Indian lentil fritter you can make with urad dal from an Indian market."
 date: 2008-03-24T22:38:21
@@ -11,7 +11,7 @@ cover:
   hidden: true
 recipe:
   name: "Urad Dal Patties (Vada) with Black Pepper"
-  yield: "about 12 patties; 2 or 3 make a nice serving Vegetarian, vegan (if you don't garnish with dairy), and gluten-free"
+  yield: "about 12 patties (2 or 3 per serving)"
   ingredients:
     - "3/4 c. urad dal (without skins), available at any Indian grocery"
     - "2 tsp. coarse freshly ground black pepper"
@@ -27,6 +27,16 @@ recipe:
     - "Mix in the pepper, asafetida, cayenne and kosher salt. Taste and adjust seasoning."
     - "Heat a frying pan with enough oil or ghee to fill about 1/2\" deep to a temperature of about 340 F."
     - "Carefully drop in portions of the dal mixture and lightly press with a spatula to form patties. About 1/4 c. will do fine. Put as many as you can in your pan without crowding them to close. Fry until golden brown on one side (maybe 4 minutes), then flip and brown the other side. Remove from the pan, drain on a paper towel, and hit it with some finishing salt. Hold hot while you fry the rest and serve them forth. Like anything fried, they are at their best minutes after leaving the oil and deteriorate rapidly, so be ready to chow!"
+summary: "Urad dal patties (vada) with black pepper: dal soaked 4-6 hours, blended to a part-smooth, part-coarse paste with pepper, asafetida and cayenne, then shallow-fried at about 340°F, about 4 minutes per side; makes about 12."
+glance:
+  - label: "Makes"
+    value: "about 12 patties; 2 or 3 make a nice serving"
+  - label: "Soak"
+    value: "dal for 4-6 hours"
+  - label: "Fry"
+    value: "about 340°F, about 4 minutes on the first side, then brown the other"
+  - label: "Diet"
+    value: "Vegetarian and gluten-free; vegan if you don't garnish with dairy"
 ---
 <span style="font-size: 0.8em;">Urad Dal Patties (Vada) with Black Pepper</span>
 

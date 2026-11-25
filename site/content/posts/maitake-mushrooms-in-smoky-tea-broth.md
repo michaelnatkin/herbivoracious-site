@@ -1,5 +1,5 @@
 ---
-lastmod: 2026-11-15
+lastmod: 2026-11-25
 title: "Roasted Maitake Mushrooms In Smoky Tea Broth&nbsp;-&nbsp;Recipe"
 description: "Roasted maitake (hen-of-the-woods) mushrooms in a smoky tea broth, a favorite soup from the Herbivoracious cookbook."
 date: 2013-04-15T05:57:49
@@ -30,6 +30,16 @@ recipe:
     - "Divide the mushroom into 4 portions (leaving the pieces as large as possible) and place on a rimmed baking sheet. Toss with the vegetable oil, coating the mushroom as evenly as possible, and sprinkle with 1/2 teaspoon kosher salt. Roast until fragrant, starting to brown, and becoming tender, about 20 minutes."
     - "While the mushroom is roasting, place the lapsang souchong tea in a small, heatproof bowl and cover with the boiling water; allow to steep 5 minutes. Strain. Add the tamari. Taste and season with a bit of salt if needed. The broth should be smoky and mildly salty, with a distinct note of soy."
     - "When the mushrooms are ready, place one portion in each bowl. Place the bok choy dice around the maitake. Reheat the tea in the microwave and divide among the 4 bowls. Garnish each bowl with a drizzle of toasted sesame oil, a pinch of flaky sea salt, and the scallions. Serve piping hot."
+summary: "Roasted maitake mushrooms in a smoky lapsang souchong tea broth, a recipe from the Herbivoracious cookbook: large pieces of maitake roasted about 20 minutes at 450°F convection, served in four shallow bowls with bok choy and tamari-seasoned tea."
+glance:
+  - label: "Serves"
+    value: "4 (four shallow soup bowls)"
+  - label: "Time"
+    value: "Prep 10 min, cook 20 min"
+  - label: "Roast"
+    value: "450°F convection (475°F without), about 20 minutes"
+  - label: "Broth"
+    value: "2 teaspoons lapsang souchong steeped 5 minutes in 2 cups boiling water, plus tamari"
 ---
 
 <em>I've been traveling this week, so I thought I'd take the opportunity to share one of my favorite recipes from {{% product id="herbivoracious-cookbook" target="_blank" %}}the Herbivoracious cookbook{{% /product %}}. I saw some beautiful maitake mushrooms at Pike Place Market recently, so this should be a good time of year to seek them out and try this soup.</em>

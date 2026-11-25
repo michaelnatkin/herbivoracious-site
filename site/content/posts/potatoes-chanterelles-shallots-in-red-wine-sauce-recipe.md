@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-25
 title: "Potatoes, Chanterelles, Shallots in Red Wine Sauce - Recipe"
 description: "Fingerling potatoes, chanterelles and shallots in a red wine sauce, a vegetarian dish for wild mushroom season."
 date: 2009-09-28T06:51:00
@@ -10,7 +11,7 @@ cover:
   hidden: true
 recipe:
   name: "Potatoes, Chanterelles, Shallots in Red Wine Sauce"
-  yield: "2 as a major side or up to 4 as a few bites; or me for my whole dinner"
+  yield: "2 as a major side or up to 4 as a few bites"
   ingredients:
     - "4 tablespoons butter, divided"
     - "2 cups small (or cut) fingerling potatoes"
@@ -29,8 +30,37 @@ recipe:
     - "When the potatoes are cooked, remove the top and raise the heat to cook off any remaining liquid."
     - "Remove all of the vegetables to a platter, and then deglaze the pan with the wine. Raise the heat to medium high. Scrape all of the browned bits (the fond) off of the bottom of the pan into the sauce. Break up the remaining butter and whisk it vigorously into the sauce, which should have a nice sheen. This whole step should take just a couple of minutes, reducing and thickening the sauce slightly."
     - "Spoon the sauce over the vegetables (either on a platter or individual plates), garnish with parsley and a grind of black pepper and serve."
+summary: "Fingerling potatoes, chanterelles and shallots cooked about 8 minutes in butter, simmered tender with a little water, then finished with a red wine pan sauce mounted with butter; serves 2 as a major side."
+glance:
+  - label: "Serves"
+    value: "2 as a major side or up to 4 as a few bites"
+  - label: "Cook"
+    value: "about 8 minutes browning, then simmer until the potatoes are tender"
+  - label: "Sauce"
+    value: "3/4 cup red wine, deglazed and whisked with butter"
+  - label: "Diet"
+    value: "Vegetarian and gluten-free"
 ---
 
 <p><a href="/images/old/6a00e008d618bb88340120a5d3bf75970c-800wi.webp" rel="lightbox" style="display: block;"><img  alt="Potatoes_Chanterelles_Shallots_Red_Wine" class="at-xid-6a00e008d618bb88340120a5d3bf75970c " src="/images/old/6a00e008d618bb88340120a5d3bf75970c-500wi.webp" style="margin: 0px;" /></a><em>Potatoes, Chanterelles, Shallots in Red Wine Sauce</em></p>  <p>I'd been ruminating on how I was going to use these heirloom Rose Finn fingerling potatoes from our garden. My first thought was to glaze them in butter with shallots and preserved lemon. Then the whole plan changed when I was walking past our co-op and spotted a huge bin of beautiful local chanterelles. </p>  <p>Sometimes all of the chanterelles I can find are either half dried up, or else soggy and on the verge of rotting. Not these - they were plump and firm and fully arresting. My coworkers were a bit amused when I veered off from our afternoon coffee run directly into the store and returned to work with a big bag of mushrooms.</p>  <p>So: out with the preserved lemon, and in with a red wine pan sauce. I should cook like this more often. Ridiculously simple, earthy, rich, and delicious. A very French feel. I particularly liked having the potatoes in the dish, because after I ate all of the mushrooms and sweet shallots, I mashed the spuds into the sauce and mopped it all up.</p>  <div class="recipe-card">
 <p><strong>Potatoes, Chanterelles, Shallots in Red Wine Sauce</strong><br><em>Vegetarian and gluten-free<br>Serves 2 as a major side or up to 4 as a few bites; or me for my whole dinner</em></p>  <ul> <li>4 tablespoons butter, divided</li> <li>2 cups small (or cut) fingerling potatoes</li> <li>1 cup or more chanterelle mushrooms, thoroughly wiped clean</li> <li>4 medium or 2 very large shallots, cut into large bite-size chunks</li> <li>1/2 teaspoon minced fresh rosemary</li> <li>1/2 teaspoon kosher salt</li> <li>3/4 cup red wine</li> <li>minced fresh flat-leaf parsley</li> <li>black pepper</li> </ul> <ol> <li>In a medium skillet with a lid, melt 2 tablespoons of the butter over medium heat.</li> <li>Add the potatoes, mushrooms, shallots, rosemary and salt and toss to coat. Cook for about 8 minutes, trying to get a little browning going but without burning anything.</li> <li>Add 1/2 cup water, put on the lid, and reduce the heat to a simmer.</li> <li>Cook until the potatoes are tender, adding more water as needed to keep it from burning.</li> <li>When the potatoes are cooked, remove the top and raise the heat to cook off any remaining liquid.</li> <li>Remove all of the vegetables to a platter, and then deglaze the pan with the wine. Raise the heat to medium high. Scrape all of the browned bits (the fond) off of the bottom of the pan into the sauce. Break up the remaining butter and whisk it vigorously into the sauce, which should have a nice sheen. This whole step should take just a couple of minutes, reducing and thickening the sauce slightly.</li> <li>Spoon the sauce over the vegetables (either on a platter or individual plates), garnish with parsley and a grind of black pepper and serve.</li> </ol>
+</div>
+
+<div class="faq"><h2>Frequently asked questions</h2>
+
+<h3>What potatoes and mushrooms work here?</h3>
+<p>The author used heirloom Rose Finn fingerling potatoes (small or cut fingerlings) and plump, firm chanterelles, thoroughly wiped clean. He chose them because the chanterelles at the co-op were plump and firm and not dried up or soggy.</p>
+
+<h3>How do you make the red wine pan sauce?</h3>
+<p>Remove the cooked vegetables, deglaze the pan with 3/4 cup of red wine over medium-high heat scraping up the browned bits (the fond), then vigorously whisk in the remaining butter so the sauce has a nice sheen. It takes just a couple of minutes.</p>
+
+<h3>How do you cook the potatoes?</h3>
+<p>Brown them with the chanterelles, shallots, rosemary and salt in 2 tablespoons of butter for about 8 minutes, add 1/2 cup water, cover and simmer until tender, adding water as needed, then remove the lid and cook off any remaining liquid.</p>
+
+<h3>What does it taste like?</h3>
+<p>Ridiculously simple, earthy, rich and delicious, with a very French feel. The author likes to mash the potatoes into the leftover sauce and mop it all up.</p>
+
+<h3>Is the dish gluten-free?</h3>
+<p>Yes, it is vegetarian and gluten-free as written.</p>
+
 </div>

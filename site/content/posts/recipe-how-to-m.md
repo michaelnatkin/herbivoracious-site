@@ -1,5 +1,5 @@
 ---
-lastmod: 2026-11-15
+lastmod: 2026-11-25
 title: "How to Make Fluffy Couscous - Easy Couscous Recipe"
 date: 2007-11-06T20:03:00
 slug: "recipe-how-to-m"
@@ -11,12 +11,22 @@ cover:
   hidden: true
 recipe:
   name: "Fluffy Couscous"
-  yield: "6 Vegetarian and Vegan Prep time: 5 minutes Cook time: 15 minutes"
+  yield: "6"
   ingredients:
     - "3 cups couscous"
     - "4 1/2 cups boiling water"
     - "1 teaspoon salt"
     - "1 tablespoon olive oil"
+summary: "Fluffy couscous made by pouring boiling water over couscous spread in a thin layer in a low, flat casserole, covering tightly with plastic wrap for about 15 minutes, then fluffing with a fork, a method from Joyce Goldstein's Saffron Shores."
+glance:
+  - label: "Serves"
+    value: "6"
+  - label: "Time"
+    value: "Prep 5 minutes, cook 15 minutes"
+  - label: "Ratio"
+    value: "3 cups couscous to 4 1/2 cups boiling water"
+  - label: "Diet"
+    value: "Vegetarian and vegan"
 ---
 <span style="font-size: 0.8em;">Fluffy Couscous - just steam it in a casserole instead of a pot</span>
 

@@ -1,5 +1,5 @@
 ---
-lastmod: 2026-11-15
+lastmod: 2026-11-25
 title: "Vietnamese Cabbage, Tofu and Herb Salad - Gói Bắp Cải Dậu Phụ - Recipe"
 description: "Vietnamese cabbage, tofu and herb salad, inspired by a dish at Seattle's Ba Bar. Bright, fresh and vegetarian."
 date: 2013-02-25T07:00:27
@@ -31,6 +31,16 @@ recipe:
     - "In a small bowl, stir together the lime juice, sugar, 1/4 teaspoon salt, soy sauce, ginger, and garlic. Whisk in 1/4 cup of the reserved shallot oil. Don't worry about getting it emulsified."
     - "Put the cabbage in a mixing bowl. Add half of the shallots, the tofu, and all of the herbs, tearing them and lightly bruising the leaves to release flavor. Add the dressing a little at a time, tossing as you go, until the cabbage is well dressed but not drenched. Taste and adjust seasoning - it may need more salt."
     - "To serve, transfer the salad to platter. Garnish with the remaining fried shallots and peanuts."
+summary: "Vietnamese cabbage and herb salad (goi) inspired by Ba Bar in Seattle: shredded cabbage, mixed Vietnamese herbs, pan-fried tofu and peanuts with a lime, soy, ginger and shallot-oil dressing, topped with shallots fried slowly at about 260°F."
+glance:
+  - label: "Serves"
+    value: "as an appetizer or side-dish salad"
+  - label: "Shallots"
+    value: "fried at about 260°F / 126°C for around 45 minutes, until deeply golden"
+  - label: "Herbs"
+    value: "rau ram, mint, cilantro or shiso"
+  - label: "Dressing"
+    value: "includes 1/4 cup of the reserved shallot oil"
 ---
 Have you ever had the experience of eating a dish once and finding it burning into your brain? As if there was a reserved area, a certain <em>tabula rasa</em> of neurons just waiting to be inscribed with this new combination of flavors? That's how I felt when I first tried this salad at Eric Banh's <a href="http://babarseattle.com/" target="_blank">Ba Bar</a>, one of our favorite Seattle restaurants. This general style of cabbage salad (gói) is fairly common, but what makes the Ba Bar version great is copious quantities of <strong>meticulously fried, ridiculously savory shallots</strong> playing against the fresh herbs and crunchy cabbage.
 

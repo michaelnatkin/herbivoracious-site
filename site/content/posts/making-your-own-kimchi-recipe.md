@@ -1,5 +1,5 @@
 ---
-lastmod: 2026-11-15
+lastmod: 2026-11-25
 title: "Make Your Own Kimchi - Recipe"
 description: "Make your own kimchi: a recipe for fermenting vegetables at home, from someone who resisted fermenting for decades."
 date: 2013-05-30T05:45:05
@@ -32,6 +32,16 @@ recipe:
     - "Whisk together the rice flour and 130 grams of water in a small saucepan and bring to a simmer, stirring frequently. As soon as it thickens, remove from heat, cool, then stir into the spice mixture. Add the green onion and carrots and toss to coat. I find this easiest to do wearing rubber gloves."
     - "Thoroughly drain the cabbage, removing as much excess brine as possible. Again using rubber gloves, toss the cabbage with the spice mixture, thoroughly coating it."
     - "Place the cabbage in a very clean container, packing it down tightly. Cover, but allow a little airflow. (Nick rigged up an airlock on a cambro, pretty fancy!). Don't put on a tight lid or it will get blown off by CO2. Store in a cool, dark place. Taste and toss daily. Depending on temperature, it will start to develop a pleasing acidity. When it is ripe to your taste (which could be anywhere from 3 days up to a couple of weeks), transfer to clean jars and refrigerate to maximize its life."
+summary: "Seafood-free napa cabbage kimchi made from 700 grams of cabbage brined about an hour, tossed with a garlic, ginger, soy, onion, gochugaru and rice-flour paste, then fermented at cool room temperature for 3 days to a couple of weeks."
+glance:
+  - label: "Cabbage"
+    value: "700 grams (1 medium head) napa cabbage"
+  - label: "Time"
+    value: "Prep 1 hr, cook 1 hr, total 2 hrs, plus fermenting"
+  - label: "Ferment"
+    value: "3 days up to a couple of weeks, tasting and tossing daily"
+  - label: "Umami"
+    value: "a small amount of soy sauce only; no fish sauce or other seafood"
 ---
 
 I've resisted making my own fermented foods for, well, decades at this point. I'm not sure exactly why - maybe a little fear that they might not be safe, or that the smell would be overpowering, or just a lack of patience to wait for them to mature. But lately I've fallen more and more in love with fermented vegetables in particular, and I finally took the plunge with this kimchi. One of my coworkers at <a href="http://chefsteps.com">ChefSteps</a>, development chef Nick Gavin, was psyched to work on it too, so we made a rather enormous 10-liter batch last week and it is happily fermenting away in the back of our office space. Yes, I'm tasting it every day.
@@ -77,3 +87,28 @@ Once you've got some kimchi (homemade or bought), here are some of my favorite d
 </div>
 
 <p class="related-link">If you want the real fermented thing: <a href="/2012/09/quick-green-apple-kimchi-recipe/">Quick Green Apple Kimchi</a>.</p>
+
+<div class="faq"><h2>Frequently asked questions</h2>
+
+<h3>Is homemade kimchi hard or scary to make?</h3>
+<p>The author says making kimchi really is very easy, not at all scary, and delicious. The recipe came from watching videos and reading recipes online and combining the best ideas, ratios and methods, so he encourages experimenting; The Art of Fermentation by Sandor Katz is the book he recommends on safety, equipment and styles.</p>
+
+<h3>Is this kimchi vegetarian?</h3>
+<p>Yes. Most store kimchi contains seafood like anchovy sauce, fish sauce or dried shrimp for umami. This recipe omits them and uses only a small amount of soy sauce (gluten-free soy sauce if you want gluten-free kimchi).</p>
+
+<h3>How long does kimchi take to ferment?</h3>
+<p>Store it covered in a cool, dark place, tasting and tossing daily. It starts to develop a pleasing acidity and is ripe to your taste anywhere from 3 days up to a couple of weeks, then transfer to clean jars and refrigerate.</p>
+
+<h3>Should the container be sealed tight?</h3>
+<p>No. Cover it but allow a little airflow, because a tight lid can be blown off by CO2. The author's coworker rigged an airlock on a cambro.</p>
+
+<h3>How do you brine the cabbage?</h3>
+<p>Whisk 1 liter of water with 150 grams of kosher salt (Diamond Crystal) in a very clean container, submerge the cabbage, cover and weight it for about 1 hour until tender and well-seasoned, then drain thoroughly.</p>
+
+<h3>Can I add MSG or yeast extract for more umami?</h3>
+<p>The author's tests mixing MSG or yeast extracts into partly fermented kimchi tasted quite good. If you experiment, try about 0.5% of the total weight (0.1% for pure MSG). Kombu and dried shiitake also have free glutamates.</p>
+
+<h3>What do I serve kimchi with?</h3>
+<p>Kimchi fried rice, tofu and kimchi dinner for one, bibim naengmyeon, or the kimchi jigae in the cookbook.</p>
+
+</div>

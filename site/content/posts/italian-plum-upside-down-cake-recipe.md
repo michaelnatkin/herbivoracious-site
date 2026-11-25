@@ -1,5 +1,5 @@
 ---
-lastmod: 2026-11-15
+lastmod: 2026-11-25
 title: "Italian Plum Upside Down Cake - Recipe"
 description: "Italian plum upside down cake, a late-summer dessert that shows off warm, ripe Italian plums."
 date: 2013-09-10T20:10:05
@@ -35,6 +35,18 @@ recipe:
     - "Stir the wet ingredients into the dry. Try to get them well mixed, but don't overwork, as it will cause your cake to be tough."
     - "Pour the butter and brown sugar mixture into the prepared cake pan and spread around as evenly as possible. Arrange the plums, cut side down, into concentric circles around the bottom of the pan. You can use more than I show in the picture. Distribute the batter over the plums. It is a fairly thick batter, so you'll need to gently spread it around with a spatula without disturbing the arrangement of the plums."
     - "Place the cake pan on a baking sheet and bake until golden brown and a toothpick inserted in the center comes out clean, about 35 - 40 minutes. Transfer to a cooling rack. After about 30 minutes, you can transfer the cake to a serving platter. With a regular cake pan, work a knife around the sides, then place the platter over the top of the cake pan and quickly and confidently invert it and give the bottom a rap to unmold. If you are using a springform pan, you can just unmold it, then invert and remove the bottom to reveal the plums."
+summary: "Italian plum upside-down cake: halved plums set in a muscovado sugar and butter caramel, covered with a sour cream, olive oil and bourbon batter adapted from Clotilde's yogurt cake, and baked 35-40 minutes; serves 12 as a breakfast pastry."
+glance:
+  - label: "Serves"
+    value: "12 as a breakfast pastry"
+  - label: "Plums"
+    value: "12 Italian plums, halved and pitted"
+  - label: "Bake"
+    value: "about 35-40 minutes, until a toothpick comes out clean"
+  - label: "Cool"
+    value: "about 30 minutes before unmolding"
+  - label: "Diet"
+    value: "Vegetarian and kosher"
 ---
 
 I'm a an absolute sucker for Italian plums, to the point of being a bit heartbroken that my incredibly generous neighbors' tree seems not to have fruited this year. Picking them warm off her tree is a highlight of late summer around here. So I was happy as could be when, on vacation, I found a pile of them at a farmer's market near Lake Chelan, and for just $1 per pound. I bought a big bag, and then was promptly disappointed when the flavor and texture wasn't up to snuff.
