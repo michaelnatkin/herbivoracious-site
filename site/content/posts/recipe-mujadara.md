@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-26
 title: "Recipe: Mujadara (Rice, Lentils and Caramelized Onion Pilaf)"
 date: 2007-10-07T22:37:59
 slug: "recipe-mujadara"
@@ -10,6 +11,7 @@ cover:
   hidden: true
 recipe:
   name: "Recipe: Mujadara (Rice, Lentils and Caramelized Onion Pilaf)"
+  yield: "4 as a one-dish meal"
   ingredients:
     - "3 pounds white onions, sliced moderately thin"
     - "2 tablespoons butter"
@@ -26,6 +28,18 @@ recipe:
     - "Meanwhile, cook the rice and the lentils separately according to your usual method. The lentils need to be watched carefully. You don’t want them still crunchy , but you definitely want to retain their shape. We aren’t making lentil soup here. Some folks cook the rice and lentils together but I don’t think that gives you enough control over the texture."
     - "When everything is cooked, fold the rice, lentils, spices, half of the onions, and more salt and pepper together in a large bowl. Taste and adjust seasonings."
     - "To serve, form a large mound, top with the remaining caramelized onions and chopped parsley, a grind of pepper and a few grains of sea salt. Pass a bowl of thick Greek yogurt to mix in as desired. It is really good at room temperature, and just gets better after a day in the refrigerator."
+summary: "Mujadara is a rice, lentil and caramelized onion pilaf spiked with cumin and cinnamon: 3 pounds of onions cooked about 65 minutes, folded with separately cooked brown or green lentils and rice and served with Greek yogurt; serves 4."
+glance:
+  - label: "Serves"
+    value: "4 as a one-dish meal"
+  - label: "Time"
+    value: "Prep 20 min, cook 1 hr, total 1 hr 20 min"
+  - label: "Onions"
+    value: "3 pounds, cooked about 45 minutes on medium-low, then 20+ minutes on medium-high"
+  - label: "Lentils"
+    value: "1 1/2 cups brown or green (not red or French)"
+  - label: "Diet"
+    value: "Vegetarian and gluten-free; vegan with oil instead of butter"
 ---
 <span style="font-size: 0.8em;">Mujadara (Rice, Lentils and Caramelized Onion Pilaf)</span>
 
@@ -86,4 +100,26 @@ Cook time: <span class="cookTime">1 hour</span> </em>
   <li>When everything is cooked, fold the rice, lentils, spices, half of the onions, and more salt and pepper together in a large bowl. Taste and adjust seasonings.</li>
   <li>To serve, form a large mound, top with the remaining caramelized onions and chopped parsley, a grind of pepper and a few grains of sea salt. Pass a bowl of thick Greek yogurt to mix in as desired. It is really good at room temperature, and just gets better after a day in the refrigerator.</li>
 </ol>
+</div>
+
+<div class="faq"><h2>Frequently asked questions</h2>
+
+<h3>What is mujadara?</h3>
+<p>A mixture of rice and perfectly cooked lentils, spiked with a big dose of caramelized onions and a bit of cumin and cinnamon. It is a delicious, inexpensive, simple dish, spelled several ways such as mujadarah or megadarra.</p>
+
+<h3>What lentils should I use?</h3>
+<p>Brown or green lentils, not red lentils or French lentils. Cook them separately and watch carefully: they should not be crunchy, but must keep their shape. This isn't lentil soup.</p>
+
+<h3>Why cook the rice and lentils separately?</h3>
+<p>Some people cook them together, but the author doesn't think that gives enough control over the texture.</p>
+
+<h3>How long do the onions take?</h3>
+<p>A good bit of time: about 45 minutes on medium-low until very soft, then 20 minutes or more on medium-high until deeply browned and sweet, then deglaze with wine, vermouth or water. Consider doubling the onions and freezing the extra.</p>
+
+<h3>What do you serve with mujadara?</h3>
+<p>It is a hearty one-dish meal with thick Greek yogurt and maybe a cucumber salad, or part of a larger Middle Eastern feast. It is really good at room temperature and gets better after a day in the refrigerator.</p>
+
+<h3>Is mujadara vegan?</h3>
+<p>It is vegetarian and gluten-free, and vegan if you use oil or margarine instead of butter and skip the yogurt.</p>
+
 </div>

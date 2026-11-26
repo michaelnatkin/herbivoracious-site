@@ -1,5 +1,5 @@
 ---
-lastmod: 2026-11-15
+lastmod: 2026-11-26
 title: "Southern-Style Collard Greens, Veganized - Recipe"
 description: "Southern-style collard greens made vegan, with a story about the traditional 'boil them three times' approach."
 date: 2009-10-15T06:54:00
@@ -26,6 +26,16 @@ recipe:
     - "Heat a dutch oven or soup pot over a medium flame. Add the oil, shiitake, and onions and cook, stirring occasionally for 5 minutes until they have some color. Add the collard greens, smoked paprika, chili flakes, soy sauce and 1/2 cup water, reduce the heat to low, and cover. You may have to add the collards a bit at a time if the lid won't fit on."
     - "Cook for, oh, at least 45 minutes, until completely tender, checking occasionally to see if they need a little more water."
     - "When the greens are fully cooked, remove the lid and cook off the water. Taste and adjust the seasonings; they will probably want more salt or soy sauce, and maybe more of the smoked paprika."
+summary: "Southern-style collard greens without the pig: sliced shiitake and onion fried for 5 minutes, then collards, smoked paprika, chili flakes and a little soy sauce cooked covered on low for at least 45 minutes until completely tender."
+glance:
+  - label: "Serves"
+    value: "at least 4 as a side dish"
+  - label: "Cook"
+    value: "5 minutes to brown the shiitake and onion, then at least 45 minutes covered"
+  - label: "Umami"
+    value: "fresh shiitake, soy sauce and smoked paprika"
+  - label: "Diet"
+    value: "Vegetarian, vegan and gluten-free (use gluten-free soy sauce if needed)"
 ---
 
 So my brother and sister-in-law were browsing their farmer's market in Greensboro, North Carolina a few years ago when they spotted a pile of unfamiliar leafy greens. They asked the farmer how to prepare them, and her answer was simple: "well, you just <strong>boil them three</strong> times. Just like you would with any other <strong>salad</strong>."

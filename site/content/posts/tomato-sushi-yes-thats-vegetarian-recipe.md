@@ -1,5 +1,5 @@
 ---
-lastmod: 2026-11-15
+lastmod: 2026-11-26
 title: "Tomato Sushi - Yes, That's Vegetarian - Recipe"
 date: 2011-08-08T07:01:00
 slug: "tomato-sushi-yes-thats-vegetarian-recipe"
@@ -11,7 +11,7 @@ cover:
   hidden: true
 recipe:
   name: "Tomato Sushi"
-  yield: "3 pieces Special equipment: blowtorch (optional)"
+  yield: "3 pieces"
   ingredients:
     - "1 heirloom tomato"
     - "1/3 cup cooked and vinegared sushi rice"
@@ -25,6 +25,16 @@ recipe:
     - "Cover a dinner plate with microwave-safe plastic wrap, tight as a drum. Brush the plastic wrap with vegetable oil. Lay the tomato skin on the plastic wrap, flat, and brush with a bit more oil. Microwave at 50% power until crispy, about 5 minutes. Remove and allow to cool. Cut into 1 inch by 1/16\" strips."
     - "Cut the tomato into segments about 1 1/4\" wide. Scoop out and reserve the seed pockets (just seeds and gel, no white parts). Lay each tomato segment on your board, outside down, and carefully cut parallel to the board, leaving just a 1/8\" thick piece of flesh. Trim the ends."
     - "Form the sushi rice into three small, flattened balls. Dab each ball with a tiny amount of wasabi. Place one tomato segment over each ball of rice and brush lightly with oil. Blowtorch for about 5 seconds each, just long enough to darken a small area. Top each piece with about 1/4 teaspoon of the tomato seed gel, a few strips of nori, a few strips of tomato skin and a few grains of the black sea salt. Serve immediately (before the tomato skin and nori begin to soften)."
+summary: "Tomato sushi: a peeled heirloom tomato segment sliced thin and draped over vinegared sushi rice with wasabi, lightly torched, topped with crisp microwave-fried tomato skin strips and nori; makes 3 pieces."
+glance:
+  - label: "Makes"
+    value: "3 pieces"
+  - label: "Skin"
+    value: "microwave-fried at 50% power for about 5 minutes"
+  - label: "Equipment"
+    value: "a blowtorch (optional)"
+  - label: "Diet"
+    value: "Vegetarian, vegan and gluten-free"
 ---
 
 Depending on where you live, great tomatoes are probably coming online right about now. Once you have <strong>gorged yourself</strong> on an indecent quantity dressed with nothing but olive oil and salt, and the requisite insalata caprese, maybe you'll be ready to think about manipulating them just a bit more.

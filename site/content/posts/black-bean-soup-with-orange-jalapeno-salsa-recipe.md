@@ -1,5 +1,5 @@
 ---
-lastmod: 2026-11-15
+lastmod: 2026-11-26
 title: "Black Bean Soup With Orange-Jalapeno Salsa - Recipe"
 date: 2011-01-20T06:15:00
 slug: "black-bean-soup-with-orange-jalapeno-salsa-recipe"
@@ -38,6 +38,18 @@ recipe:
     - "Return to the heat. Add more water as needed to produce a thick soup, but thinner than a stew consistency. Taste and adjust seasoning. It will almost certainly need salt unless you used pre-salted canned beans. You may also find you want more cumin or smoked paprika. Allow to simmer for at least 10-15 minutes for the flavors to develop and marry."
     - "Meanwhile, make the salsa. Do this as close to serving time as possible, or at least reserve the cilantro separately, as it dies quickly. Cut the oranges into supremes ( Mix with the red onion, jalapeno, cilantro, and ¼ teaspoon Kosher salt. Taste and adjust seasoning."
     - "To serve, ladle the soup into bowls and either garnish with approximately 3 tablespoons of the salsa and some cream, or pass them separately."
+summary: "A mild black bean soup lightly pureed (about 75%) with sauteed onion, bell pepper, garlic, oregano, cumin and smoked paprika, served with a bright orange and jalapeno salsa; 30 minutes if the beans are already cooked."
+glance:
+  - label: "Serves"
+    value: "6"
+  - label: "Time"
+    value: "30 minutes if the beans are already cooked"
+  - label: "Beans"
+    value: "6 cups cooked black beans"
+  - label: "Salsa"
+    value: "mandarin oranges, red onion, jalapeno and cilantro"
+  - label: "Diet"
+    value: "Gluten-free; vegan option"
 ---
 <p>I developed this black bean soup so that it will satisfy those who prefer mild dishes (including kids) as well as those of us who prefer a bolder spice. The soup is very straightforward, and on the side, we have a bright and intense orange and jalapeño salsa. You can also pass grated cheddar cheese for those who would prefer to think of it as vegetarian chile.</p>
 <p>I find that home-cooked beans are far better than canned. They just seem to have more flavor and a better texture. On the other hand, canned beans sure are convenient if you haven’t thought ahead to soak and boil a batch. Just be sure to rinse them well. Alternatively, get a pressure cooker and you can decide to make beans in the late afternoon and have them beautifully cooked for dinner that night.</p>

@@ -1,5 +1,5 @@
 ---
-lastmod: 2026-11-15
+lastmod: 2026-11-26
 title: "Vietnamese Vermicelli (Bun) with Ginger-Grapefruit Sauce - Recipe"
 description: "Vietnamese vermicelli (bún) with ginger-grapefruit sauce: thin rice noodles with cooked and fresh toppings, herbs and a sweet-savory sauce."
 date: 2009-10-19T06:50:00
@@ -42,6 +42,18 @@ recipe:
     - "Add the remaining oil and fry the tofu, working in batches as needed to get the squares brown on both sides. Drizzle with the sweet soy sauce (kecap manis) and continue frying for another 30 seconds so it can caramelize."
     - "Combine the carrot, daikon, rice wine vinegar and sesame seeds and set aside to pickle a bit."
     - "To assemble, divide the lettuce among 4 large bowls. Top each with a big handful of the rice noodles. Then top with an attractive arrangement of the remaining ingredients: tofu, grapefruit supremes, mango carrot/daikon salad, chile pepper, cucumber and finally the shallot rings, green onion, and cilantro and lime zest. You can either pour on the sauce yourself or divide into individual bowls for your guests to add as they see fit. Offer Sriracha-type hot sauce on the side."
+summary: "Vietnamese vermicelli bun, a vegetarian meal-in-a-bowl of rice noodles, sweet soy tofu, grapefruit segments, pickled carrot and daikon, herbs and fried shallots, with a sauce made from grapefruit juice instead of fish sauce."
+glance:
+  - label: "Serves"
+    value: "4"
+  - label: "Time"
+    value: "45 minutes"
+  - label: "Noodles"
+    value: "8 ounces Vietnamese rice vermicelli"
+  - label: "Sauce"
+    value: "grapefruit juice, lime, sugar, soy sauce and ginger (no fish sauce)"
+  - label: "Diet"
+    value: "Vegetarian, vegan and gluten-free"
 ---
 
 <p><a href="/images/old/6a00e008d618bb88340120a5df3783970b-800wi.webp" rel="lightbox" style="display: inline;"><img alt="Bun_Grapefruit" class="asset asset-image at-xid-6a00e008d618bb88340120a5df3783970b " src="/images/old/6a00e008d618bb88340120a5df3783970b-500wi.webp" /></a> <em><br />Vietnamese Vermicelli (Bun) with Ginger-Grapefruit Sauce</em></p>  <p>Bun (pronounced, roughly, boon), when well made, is just about one of the greatest foods ever invented. Super-thin Vietnamese rice noodles are topped with a variety of cooked and fresh ingredients, lots of herbs, and a sweet and savory sauce to make a light, healthy and superbly delicious meal-in-a-bowl. Salad and entree in one package.<br /><br />I&#39;ll drop everything and run to the nearest Vietnamese restaurant whenever I need a bun fix. A vegetarian version with tofu instead of meat is always available for the asking, even if it isn&#39;t on the menu. The only problem is the sauce (nuoc cham), which contains fish sauce. Sometimes the kitchen will make a vegetarian version of that as well, but if not you&#39;ll have to make do with whatever condiments are on the table. <br /><br /><a href="/images/old/6a00e008d618bb88340120a635cb0d970c-800wi.webp" rel="lightbox" style="float: right;"><img alt="BunMise" class="asset asset-image at-xid-6a00e008d618bb88340120a635cb0d970c " src="/images/old/6a00e008d618bb88340120a635cb0d970c-200wi.webp" style="margin: 0px 0px 5px 5px; width: 200px;" /></a>Better yet, you can make a terrific bun at home. You have the luxury of gathering great fresh ingredients which may well be better than you find at the corner joint, and you can make a sauce that is vegetarian by design, with big bright flavors. The version I&#39;m offering you today uses grapefruit. The segments go in the bowl, and the juice is used for the sauce. (If you&#39;ve never cut citrus into supremes - segments without any pith - Ming Tsai has a <a href="http://www.youtube.com/watch?v=xa-_O4vJqRw" target="_blank">good video</a> to show you how.)<br /><br />The key to bun is all in the mise en place. You have quite a few ingredients that need preparation. Nothing complicated, it just takes a little bit of time to get them all together, and you want to be organized for final assembly. <br /><br />My choices for ingredients and sauce can just be a starting point; you can add or subtract anything you like; as long as it fits within the Vietnamese flavor profiles it will still be a great dish. Other things I love to include: Thai basil, lemongrass (sauteed with the tofu), roasted peanuts, papaya.</p><div class="recipe-card">

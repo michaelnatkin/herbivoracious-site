@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-26
 title: "Persian Baked Zucchini - Recipe"
 date: 2011-07-06T07:05:00
 slug: "persian-baked-zucchini-recipe"
@@ -24,8 +25,37 @@ recipe:
     - "Preheat oven to 400 F."
     - "In a baking dish big enough to hold the zucchini in a single layer, toss together the zucchini, salt, olive oil, mint, dill, cayenne and several grinds of black pepper."
     - "Cover with aluminum foil and bake until tender, about 25 minutes. Remove the foil, sprinkle on the breadcumbs and bake or carefully broil until the breadcrumbs are browned, about 5 more minutes. Serve hot or warm, garnishing with the feta cheese, and drizzling on a little more olive oil at the last moment."
+summary: "Persian baked zucchini: 2 pounds of zucchini tossed with olive oil, dried mint, dried dill and cayenne, covered and baked at 400°F for about 25 minutes, then topped with breadcrumbs and browned about 5 more minutes; finished with feta."
+glance:
+  - label: "Bake"
+    value: "400°F: about 25 minutes covered, then about 5 minutes with breadcrumbs"
+  - label: "Zucchini"
+    value: "8 medium (2 pounds), halved lengthwise and cut in 1-inch segments"
+  - label: "Herbs"
+    value: "2 teaspoons dried mint and 1/2 teaspoon dried dill"
+  - label: "Diet"
+    value: "Vegetarian; vegan without the feta; gluten-free without the breadcrumbs"
 ---
 
 <p><a href="/images/old/6a00e008d618bb883401538eb94219970b-800wi.webp" rel="lightbox" style="display: inline;"><img alt="Persian Baked Zucchini" class="asset  asset-image at-xid-6a00e008d618bb883401538eb94219970b" src="/images/old/6a00e008d618bb883401538eb94219970b-500wi.webp" title="Persian Baked Zucchini" /></a><br /><em>Persian Baked Zucchini</em></p> <p>Zucchini season is just about to hit in earnest. This recipe is a nice way to turn them into a delicious side dish with minimal effort. It mostly handles its own business in the oven, so you can focus on the rest of dinner.</p> <p>We normally think of {{% product id="sadaf-dried-mint-leaves-2-oz" %}}dried mint{{% /product %}} only for making mint tea, but in Persian cuisine it is frequently used in savory foods, where it adds a pleasing hint of bitterness and only a hint of actual mintiness. Don&#39;t think of it as a replacement for fresh mint, think of it as a completely different product.</p> <p>This dish goes great with <a href="/2011/06/chickpea-and-potato-stew-with-baharat-recipe.html" target="_blank">Chickpea and Potato Stew</a>&#0160;and <a href="/2010/05/persian-crispy-rice-recipe/" target="_blank">Persian rice pilaf</a> (chelo with tahdig), or this <a href="/2008/04/recipe-syrian-y/" target="_blank">Syrian red lentil soup</a>.</p> <div class="recipe-card">
 <div><strong>Persian Baked Zucchini</strong><br /><em>Vegetarian, vegan (option) and gluten-free (option)</em></div> <ul> <li>8 medium zucchini (2 pounds), cut in half lengthwise then in 1-inch segments</li> <li>1 1/2 teaspoons Kosher salt</li> <li>2 tablespoons extra-virgin olive oil plus additional for garnish</li> <li>2 teaspoons dried mint</li> <li>1/2 teaspoon dried dill</li> <li>Pinch cayenne pepper</li> <li>Fresh ground black pepper</li> <li>2 tablespoons homemade breadcrumbs (omit for gluten-free)</li> <li>1/2 cup feta cheese, crumbled (omit for vegan)</li> </ul> <ol> <li>Preheat oven to 400 F.</li> <li>In a baking dish big enough to hold the zucchini in a single layer, toss together the zucchini, salt, olive oil, mint, dill, cayenne and several grinds of black pepper.</li> <li>Cover with aluminum foil and bake until tender, about 25 minutes. Remove the foil, sprinkle on the breadcumbs and bake or carefully broil until the breadcrumbs are browned, about 5 more minutes. Serve hot or warm, garnishing with the feta cheese, and drizzling on a little more olive oil at the last moment.</li> </ol>
+</div>
+
+<div class="faq"><h2>Frequently asked questions</h2>
+
+<h3>Why use dried mint in Persian cooking?</h3>
+<p>We normally think of dried mint only for tea, but in Persian cuisine it is frequently used in savory foods, where it adds a pleasing hint of bitterness and only a hint of actual mintiness. It is a completely different product from fresh mint, not a replacement.</p>
+
+<h3>How do you bake the zucchini?</h3>
+<p>Toss everything in a baking dish that holds the zucchini in a single layer, cover with foil and bake at 400°F until tender, about 25 minutes. Remove the foil, sprinkle on breadcrumbs and bake or carefully broil until browned, about 5 more minutes.</p>
+
+<h3>Can I make it vegan or gluten-free?</h3>
+<p>Omit the feta for vegan, and omit the breadcrumbs for gluten-free.</p>
+
+<h3>What do I serve with Persian baked zucchini?</h3>
+<p>It goes great with chickpea and potato stew, Persian rice pilaf (chelo with tahdig), or Syrian red lentil soup.</p>
+
+<h3>How do I serve it?</h3>
+<p>Hot or warm, garnished with crumbled feta and a little more olive oil drizzled on at the last moment.</p>
+
 </div>

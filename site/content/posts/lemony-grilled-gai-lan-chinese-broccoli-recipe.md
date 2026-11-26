@@ -1,5 +1,5 @@
 ---
-lastmod: 2026-11-15
+lastmod: 2026-11-26
 title: "Lemony Grilled Gai Lan (Chinese Broccoli) - Recipe"
 seo_title: "Grilled Gai Lan (Chinese Broccoli) with Lemon"
 date: 2012-02-28T08:45:00
@@ -33,6 +33,18 @@ recipe:
     - "In a bowl large enough to eventually use for dressing the gai lan, whisk together the lemon juice and kochujang, then whisk in the olive oil, sesame oil, salt, sugar, black pepper, garlic, and shallot. Taste and adjust seasoning. It should be intensely flavored."
     - "Add the gai lan and thinly sliced lemon and toss to generously coat."
     - "Place the gai lan and lemons perpendicular to the grate of the grill, or on a rimmed sheet pan if using the broiler. Cook, turning just once or twice, until starting to brown in spots, about 12 minutes. You should be able to pierce the stems without too much resistance from a knife, but they will be distinctly crisp-tender, not fully tender. Season with a bit more salt and pepper and serve immediately."
+summary: "Lemony grilled gai lan: Chinese broccoli tossed with a kochujang, lemon juice, olive and sesame oil dressing and thin lemon slices, then grilled, grill-panned or broiled about 12 minutes until crisp-tender; serves 4 in 20 minutes."
+glance:
+  - label: "Serves"
+    value: "4"
+  - label: "Time"
+    value: "20 minutes"
+  - label: "Cook"
+    value: "about 12 minutes on a grill, grill pan or broiler, turning once or twice"
+  - label: "Substitute"
+    value: "broccolini for gai lan"
+  - label: "Diet"
+    value: "Vegan and gluten-free"
 ---
 <a href="/images/cookbook/lemony-grilled-gai-lan-chinese-broccoli-2.webp"><img src="/images/cookbook/lemony-grilled-gai-lan-chinese-broccoli-2.webp" alt="Lemony Grilled Gai Lan (Chinese Broccoli)" /></a>
 

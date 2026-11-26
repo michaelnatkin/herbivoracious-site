@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-26
 title: "Poha (Flattened Rice) with Coconut and Cashews - Recipe"
 description: "Poha, or flattened rice, with coconut and cashews. A quick-cooking Indian dish that comes together fast."
 date: 2012-03-14T06:04:34
@@ -31,6 +32,16 @@ recipe:
     - "Put the poha in a bowl and cover with water. Let sit until fairly tender but not falling apart, about 3 minutes. Drain in a sieve, pressing lightly to remove excess water. Reserve."
     - "Put the oil in a large skillet, either well-seasoned cast iron or non-stick, over medium-high heat. When the oil is shimmering, add the onion and ginger and fry until the onion begins to soften, about 3 minutes. Add the salt and mustard seeds. When the mustard seeds begin to change color, about 30 seconds, add the garam masala and turmeric. Stir in the drained poha and the coconut. Cook, stirring occasionally and gently for about 3 minutes. Squeeze in the lime juice. Taste and adjust seasoning."
     - "Serve hot, garnished with cilantro, and offering lime pickle on the side."
+summary: "Poha (flattened rice) with toasted coconut and cashews: thick poha soaked about 3 minutes and drained, then cooked about 3 minutes with sauteed onion, ginger, mustard seed, garam masala and turmeric, finished with lime and served with lime pickle."
+glance:
+  - label: "Serves"
+    value: "2 as a main dish or 4 as a side dish or part of a thali"
+  - label: "Soak"
+    value: "poha about 3 minutes, then drain"
+  - label: "Cook"
+    value: "about 3 minutes with the spices"
+  - label: "Diet"
+    value: "Vegetarian, vegan, gluten-free and kosher"
 ---
 <br><em>Poha (Flattened Rice) with Coconut and Cashews</em>
 
@@ -72,4 +83,23 @@ Oh, and before I forget, here's an easy opportunity for everyone to help with a 
 	<li>Serve hot, garnished with cilantro, and offering lime pickle on the side.</li>
 </ol>
 </div>
+</div>
+
+<div class="faq"><h2>Frequently asked questions</h2>
+
+<h3>What is poha?</h3>
+<p>Rice that has been flattened, popular in India and used in a whole range of dishes, often on thalis. It cooks very quickly, has a light, fluffy texture and is quite neutral in flavor, so it takes to many treatments.</p>
+
+<h3>Where do I find poha?</h3>
+<p>Not at a regular supermarket or Whole Foods. Look at an Indian grocer, or order it online. There are usually at least two thicknesses, and the author prefers thick poha, which is the most forgiving.</p>
+
+<h3>How do I keep poha from turning to mush?</h3>
+<p>Don't oversoak or overcook the flakes. Soak in water until fairly tender but not falling apart, about 3 minutes, then drain in a sieve before they fall apart, pressing lightly.</p>
+
+<h3>Do I have to use coconut?</h3>
+<p>No. If you don't care for coconut, leave it out and you'll still have a delicious dish.</p>
+
+<h3>What do I serve with poha?</h3>
+<p>Lime pickle on the side, plus cilantro. It also works as a side dish or part of a thali.</p>
+
 </div>

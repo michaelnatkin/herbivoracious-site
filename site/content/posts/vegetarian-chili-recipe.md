@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-26
 title: "Best Vegetarian Chili Recipe - Delicious, Easy, Healthy and (Optionally) Vegan"
 description: "Best vegetarian chili recipe: easy, healthy, make-ahead and optionally vegan, a meal in a bowl."
 date: 2009-04-01T20:58:24
@@ -10,7 +11,7 @@ cover:
   hidden: true
 recipe:
   name: "Vegetarian Chili From Scratch"
-  yield: "around 10 cups, easily serving 5 (and doubles or triples beautifully) Vegetarian, gluten-free, and vegan (if you modify the garnishes) Prep time: 20 minutes Cook time: 2 hours"
+  yield: "around 10 cups, easily serving 5"
   ingredients:
     - "1 1/2cups dry pinto beans"
     - "1 cup dry black beans"
@@ -40,6 +41,18 @@ recipe:
     - "Add the chili sauce, vegetables and lemon juice to the beans. Bring back to a simmer and let cook for 10 minutes or so, allowing the flavors to begin to marry."
     - "Now taste. If it needs more heat or a smoke, add the rest of the adobo sauce. If it needs a lot more heat, you can puree the chipotle peppers and add them. Add salt as needed. You shouldn't be tasting a lemon flavor, but there should be a subtle hint of acidity that wakes up the sauce. If the whole thing is too thick, you can dilute it with some of the reserved bean-cooking liquid."
     - "Serve your vegetarian chili forth with the garnishes listed above."
+summary: "Weekend vegetarian chili from scratch: pinto, black and kidney beans soaked overnight and simmered, blended with a tomato-chili sauce of whole dried chiles and chipotle in adobo and a soffritto of carrot, onion and celery; makes about 10 cups."
+glance:
+  - label: "Makes"
+    value: "around 10 cups, easily serving 5 (doubles or triples beautifully)"
+  - label: "Time"
+    value: "Prep 20 minutes, cook 2 hours, plus soaking the beans overnight"
+  - label: "Beans"
+    value: "1 1/2 cups pinto, 1 cup black, 1/2 cup kidney"
+  - label: "Make ahead"
+    value: "gets better over a couple of days and freezes well"
+  - label: "Diet"
+    value: "Vegetarian and gluten-free; vegan if you modify the garnishes"
 ---
 <span style="font-size: 12px;"><em>Vegetarian chili with all the fixins'</em></span>
 
@@ -93,4 +106,26 @@ For garnish:
 	<li>Now taste. If it needs more heat or a smoke, add the rest of the adobo sauce. If it needs a lot more heat, you can puree the chipotle peppers and add them. Add salt as needed. You shouldn't be tasting a lemon flavor, but there should be a subtle hint of acidity that wakes up the sauce. If the whole thing is too thick, you can dilute it with some of the reserved bean-cooking liquid.</li>
 	<li>Serve your vegetarian chili forth with the garnishes listed above.</li>
 </ol>
+</div>
+
+<div class="faq"><h2>Frequently asked questions</h2>
+
+<h3>How do you control the heat in vegetarian chili?</h3>
+<p>The sauce is flavored mainly with whole dried chiles, so control the spice by how many you use and how hot they are. Build a moderately spicy base, then add canned chipotle in adobo to taste near the end, and offer hot sauces on the side.</p>
+
+<h3>Can I leave out the chipotle if I don't like heat?</h3>
+<p>Don't omit it completely: it provides a lot of fruity flavor and thickens the sauce. Just use milder chiles such as ancho.</p>
+
+<h3>Do I need to soak the beans?</h3>
+<p>The author soaks them overnight, because overnight-soaked beans come out more tender and delicious, much better than canned. A quick soak starting with hot water for a couple of hours also works, but isn't the same.</p>
+
+<h3>Can I use fresh chiles?</h3>
+<p>No. Fresh chiles are for completely different types of dishes; use whole dried chiles such as ancho, guajillo, pasilla, cascabel or de arbol.</p>
+
+<h3>Can I make chili ahead or freeze it?</h3>
+<p>Yes. It gets better over the course of a couple of days and freezes well. You can make it on the weekend and eat it all week.</p>
+
+<h3>What goes on top?</h3>
+<p>Sliced green onion or minced white onion, cilantro, grated cheddar or queso anejo or cotija, sour cream or queso fresco, and lime wedges.</p>
+
 </div>
