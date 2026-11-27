@@ -1,5 +1,5 @@
 ---
-lastmod: 2026-11-15
+lastmod: 2026-11-27
 title: "\"Caviar\" Lentil Salad with Arugula, Crispy Shallots and Roasted Garlic - Recipe"
 description: "'Caviar' lentil salad with arugula, crispy shallots and roasted garlic, made with lentils from the Pacific Northwest Farmers Cooperative."
 date: 2012-09-06T06:00:36
@@ -32,6 +32,18 @@ recipe:
     - "Put the cup of vegetable oil in your smallest saucepan over medium-high heat. You might need more oil if your pot is wider - it needs to be enough to more or less cover the shallots. When the oil is shimmering, add a piece of shallot and if it sizzles, add the rest. Reduce heat to medium. Cook, stirring frequently. After a few minutes, the shallots will begin to turn golden. At this point, watch them carefully, and when they are dark brown but not burned, remove from the heat. Strain, reserving the flavored oil for use in future salad dressings or stir-fries. Leave the shallots in your sieve to cool and crisp up."
     - "Whisk together 6 tablespoons of the olive oil with 2 tablespoons of sherry vinegar and 1/4 teaspoon salt. Mix two-thirds of the dressing into the lentils. Taste and adjust seasoning; they will probably need more salt."
     - "To serve: toast the bread and spread each piece with a generous portion of the roasted garlic. Divide the (room temperature) lentils among 4 serving plates. Toss the arugula, cherry tomatoes and crispy shallots with the remaining dressing and pile atop the lentils. Put a piece of the bread on each plate, finish with a few flakes of sea salt and grinds of blacks pepper and serve immediately (before the arugula wilts)."
+summary: "\"Caviar\" (beluga) black lentil salad with a sherry vinegar dressing, arugula, crispy fried shallots, cherry tomatoes and toast spread with roasted garlic; lentils simmer about 25 minutes and garlic roasts about 30 minutes at 350°F."
+glance:
+  - label: "Serves"
+    value: "4"
+  - label: "Lentils"
+    value: "1 1/4 cups black (beluga or \"caviar\") lentils, about 25 minutes"
+  - label: "Garlic"
+    value: "2 heads roasted at 350°F, about 30 minutes"
+  - label: "Dressing"
+    value: "sherry vinegar and extra-virgin olive oil"
+  - label: "Diet"
+    value: "Vegetarian, vegan and kosher"
 ---
 
 Kim Davidson from <a href="http://www.davidsoncommodities.com/pnw-coop-specialty-foods">Pacific Northwest Farmers Cooperative</a> is doing amazing work supporting real family farms that are growing non-GMO grains, beans and lentils on the <strong>Palouse Prarie</strong>. So when he offered to send me a sample of their new crop of "caviar" lentils, grown by PNW Co-op Farmer Ambassador, <a href="http://www.davidsoncommodities.com/meet-our-pnw-co-op-farmer-ambassador" target="_blank">Jim Hermann</a>, it wasn't hard to say yes.

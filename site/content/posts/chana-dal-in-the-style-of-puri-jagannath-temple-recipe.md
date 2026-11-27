@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-27
 title: "Chana Dal in the Style of Puri Jagannath Temple - Recipe"
 description: "Chana dal in the style of Puri Jagannath Temple: a satisfying Indian lentil and rice dish."
 date: 2009-02-23T06:36:00
@@ -11,7 +12,7 @@ cover:
   hidden: true
 recipe:
   name: "Puri Jagganath Temple Chana Dal, Herbivoracious Style"
-  yield: "4 as a main course with rice, or 8 as a side dishVegetarian and gluten free; vegan if you use oil instead of butter"
+  yield: "4 as a main course with rice, or 8 as a side dish"
   ingredients:
     - "1.5 cups of chana dal"
     - "1/2 cup red lentils"
@@ -35,8 +36,40 @@ recipe:
     - "Carefully pick through the dals looking for any stray pebbles and such. Rinse them thoroughly. Bring to a boil with 4 cups of water, the turmeric, salt, and sugar. Reduce heat to a simmer and cook, stirring occasionally until the chana dal is almost tender. Don't let them scorch, and do add more water as needed."
     - "Meanwhile, in a small food processor, combine the coconut, cinnamon, cardamom, cloves, black pepper, 1 teaspoon of cumin seeds, and coriander seeds with 1/2 cup of very hot water. Puree until it is a rough paste and the coconut has started to soften. Add more water if needed. Add this mixture to the dal and cook for 20 more minutes."
     - "Just before serving, heat the butter over a medium-high flame in a small skillet and toss in the remaining cumin seeds along with the mustard, fennel, and fenugreek. Fry for about a minute, until the mustard seeds begin to pop. Don't burn the seeds. Stir them into the dal, taste for any final season adjustments needed, garnish with cilantro, and serve."
+summary: "Chana dal in the style of the Puri Jagannath Temple: split chickpeas and red lentils simmered until almost tender, cooked 20 more minutes with a pureed coconut and sweet spice paste, then finished with a butter-fried tempering of cumin, mustard, fennel and fenugreek."
+glance:
+  - label: "Serves"
+    value: "4 as a main course with rice, or 8 as a side dish"
+  - label: "Cook"
+    value: "simmer until almost tender, then 20 more minutes with the spice paste"
+  - label: "Tempering"
+    value: "fry mustard, cumin, fennel and fenugreek about 1 minute"
+  - label: "Diet"
+    value: "Vegetarian and gluten-free; vegan if you use oil instead of butter"
 ---
 
 <p><a href="/images/old/6a00e008d618bb8834011168697438970c-800wi.webp" rel="lightbox" style="display: inline;"><img alt="Chana_Dal" class="at-xid-6a00e008d618bb8834011168697438970c " src="/images/old/6a00e008d618bb8834011168697438970c-500wi.webp"  /></a><br /><span style="font-size: 12px; font-family: Arial;">{{% product id="swad-chana-dal-split-desi-chickpeas-4-lb" %}}Chana Dal{{% /product %}} in the Style of Puri Jagannath Temple</span></p><p>Every time I eat some form of beans and rice, I ask myself why I don&#39;t do that at least 3-4 times a week. Not because of the health factor (though it is great for you), or because it is famously inexpensive. Just because I find it so satisfying. It has that ability to make me feel like all is right with the world.</p><p>Dal, of course, is simply the Indian word for the whole range of dried beans and lentils, as well as the name for a soup or thick stew made from them. Some form of dal is on the menu at pretty much any Indian meal, whether humble or royal. The famous Bukhara restaurant in the Maurya Sheraton in Delhi serves a black-gram dal rich with an astonishing amount of ghee (clarified butter). The typical dish is much leaner!</p><p>There are many varieties of dal, but lately I&#39;ve grown fond of chana dal, which comes from small, split brown chickpeas with their seed coats removed. They cook much more quickly than normal chickpeas, but can retain a bit of integrity and texture instead of falling completely apart. You can find them at any Indian grocery, or (at greatly inflated but still cheap enough prices) at Whole Foods.</p><p>I was looking for a new chana dal recipe and came across <a href="http://members.tripod.com/oriyakitchen/dal.htm" target="_blank">this one</a> from the <a href="http://www.jagannathtemplepuri.com/" target="_blank">Puri Jagannath Temple</a> via the Oriya Kitchen website. I adapted it slightly to suit what I had in the house. I happened to only have 1.5 cups of chana, so I made up the difference with red lentils. I figured the red lentils would completely dissolve and create some sauce to surround the chana dal, and that worked out just fine. I also used dried coconut instead of fresh, and powdered cinnamon instead of whole sticks.</p><p>I found it interesting that this recipe calls for more of the &quot;sweeter&quot; spices (cinnamon, cloves, coriander) to be added early, and the more pungent ones (mustard, fennel, cumin, fenugreek) in the last minute tempering. &quot;Tempering&quot; (in this case) means to fry the spices in a bit of oil or ghee and add them to a dish at the last minute so as to be able to fully appreciate their volatile compounds. It is a valuable technique that you will find used in many Indian recipes.</p><p>At any rate, here is my version of the Puri Jagganath Temple dal, adapted to my kitchen. Apologies in advance if anyone feels I haven&#39;t done proper service to the original recipe, but I thought it was delicious. Serve it forth with a bowl of basmati rice and some plain yogurt or raita, and you&#39;ve got a great one-pot meal. Or use it as a side dish in a more elaborate feast. You can adjust the texture to a thinner soup or a thicker stew-like consistency, just by cooking a little longer or adding more water.</p><div class="recipe-card">
 <p><strong>Puri Jagganath Temple Chana Dal, Herbivoracious Style</strong><br /><em>Serves 4 as a main course with rice, or 8 as a side dish<br />Vegetarian and gluten free; vegan if you use oil instead of butter</em><font color="#000000"></font><font size="-1"><br /></font></p><ul> <li><font color="#000000"></font><font size="-1">1.5 cups of chana dal</font></li> <li><font color="#000000"></font><font size="-1">1/2 cup red lentils</font></li> <li><font color="#000000"></font><font size="-1">1 </font>teaspoon<font color="#000000"></font><font size="-1"> turmeric</font></li> <li><font color="#000000"></font><font size="-1">2 teaspoons salt</font></li> <li><font color="#000000"></font><font size="-1">pinch of sugar<br /><br /></font></li> <li><font color="#000000"></font><font size="-1">1/4 cup dried unsweeted coconut</font></li> <li><font color="#000000"></font><font size="-1">2 teaspoons cinnamon<br /></font></li> <li>seeds from 4 cardamom pods or 1 teaspoon cardamom powder</li> <li><font color="#000000"></font><font size="-1">4 whole cloves or 1/4 teaspoon clove powder<br /></font></li> <li><font color="#000000"></font><font size="-1">1 </font>teaspoon<font color="#000000"></font><font size="-1"> freshly ground black pepper<br /></font></li> <li><font color="#000000"></font><font size="-1">1 </font>teaspoon<font color="#000000"></font><font size="-1"> cumin seeds</font></li> <li><font color="#000000"></font><font size="-1">1 </font>teaspoon<font color="#000000"></font><font size="-1"> coriander seeds<br /><br /></font></li> <li><font color="#000000"></font><font size="-1">1 tablespoon ghee, butter, or vegetable oil<br /></font></li> <li><font color="#000000"></font><font size="-1">1 teaspoon cumin seeds</font></li> <li><font color="#000000"></font><font size="-1">1 teaspoon black mustard seeds</font></li> <li><font color="#000000"></font><font size="-1">1 teaspoon fennel seeds</font></li> <li><font size="-1">1 teaspoon fenugreek seeds<br /><br /></font></li> <li><font size="-1">optional: cilantro for garnish<br /></font></li> </ul> <ol> <li>Carefully pick through the dals looking for any stray pebbles and such. Rinse them thoroughly. Bring to a boil with 4 cups of water, the turmeric, salt, and sugar. Reduce heat to a simmer and cook, stirring occasionally until the chana dal is almost tender. Don&#39;t let them scorch, and do add more water as needed.</li> <li>Meanwhile, in a small food processor, combine the coconut, cinnamon, cardamom, cloves, black pepper, 1 teaspoon of cumin seeds, and coriander seeds with 1/2 cup of very hot water. Puree until it is a rough paste and the coconut has started to soften. Add more water if needed. Add this mixture to the dal and cook for 20 more minutes.</li> <li>Just before serving, heat the butter over a medium-high flame in a small skillet and toss in the remaining cumin seeds along with the mustard, fennel, and fenugreek. Fry for about a minute, until the mustard seeds begin to pop. Don&#39;t burn the seeds. Stir them into the dal, taste for any final season adjustments needed, garnish with cilantro, and serve.</li> </ol>
+</div>
+
+<div class="faq"><h2>Frequently asked questions</h2>
+
+<h3>What is chana dal?</h3>
+<p>The split, small brown chickpeas with their seed coats removed. They cook much more quickly than normal chickpeas but keep a bit of integrity and texture instead of falling apart. Find them at any Indian grocery or at Whole Foods.</p>
+
+<h3>What does dal mean?</h3>
+<p>Dal is the Indian word for the whole range of dried beans and lentils, and also the name of a soup or thick stew made from them.</p>
+
+<h3>What is tempering?</h3>
+<p>Frying spices in a bit of oil or ghee and adding them to a dish at the last minute so you can fully appreciate their volatile compounds. Here the sweeter spices (cinnamon, cloves, coriander) go in early and the pungent ones (mustard, fennel, cumin, fenugreek) go in at the last minute.</p>
+
+<h3>Can I mix in red lentils?</h3>
+<p>The author only had 1.5 cups of chana dal and made up the difference with red lentils, which dissolve and create a sauce around the chana dal.</p>
+
+<h3>How do I adjust the texture?</h3>
+<p>Cook it a little longer for a thicker, stew-like consistency, or add more water for a thinner soup.</p>
+
+<h3>What do you serve with chana dal?</h3>
+<p>Basmati rice and plain yogurt or raita for a one-pot meal, or use it as a side dish in a more elaborate feast.</p>
+
 </div>

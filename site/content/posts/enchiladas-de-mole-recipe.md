@@ -1,5 +1,5 @@
 ---
-lastmod: 2026-11-15
+lastmod: 2026-11-27
 title: "Enchiladas de Mole with Mushrooms and Zucchini - Recipe"
 description: "Enchiladas de mole with mushrooms and zucchini, a vegetarian take on the rich chile, chocolate and spice sauce."
 date: 2013-03-11T06:24:31
@@ -11,6 +11,8 @@ cover:
   hidden: true
 recipe:
   name: "Enchiladas de Mole with Zucchini and Mushrooms – Recipe"
+  yield: "4 servings plus leftover mole"
+  total_time: "PT1H"
   ingredients:
     - "2 tablespoons vegetable oil"
     - "1/2 white onion, diced"
@@ -39,6 +41,18 @@ recipe:
     - "In a large skillet, heat a couple tablespoons of oil over a medium high flame. Add the mushrooms and a big pinch of salt, and saute until tender, about 5 minutes. Reserve the mushrooms and repeat the process with the zucchini. Fold them together. Taste and adjust seasoning."
     - "To make the enchiladas, have your plates hot, your mole hot, and your filling hot. Heat about 1/4\" of oil in a small skillet over a medium-low flame. Add one tortilla to the oil to soften it, turning once with tongs. This should take about 20 seconds - you don't want to get it crisp. It will seem oily, but will turn out awesome. Place the tortilla on a plate and spread about 1 tablespoon of sauce on it. Spoon in a couple tablespoons of filling and roll it up. Repeat this process, putting 3 enchiladas on each plate."
     - "Thin the mole a little with broth (or water), to a saucy consitency, and make sure it is piping hot. Ladle a generous amount over each plate, top with a few rings of white onion and a scattering of cotija, and serve immediately."
+summary: "Enchiladas de mole with zucchini and mushrooms: a basic mole of toasted pasilla and ancho chiles, sesame seeds, cocoa nibs and spices simmered about 20 minutes and pureed, about 90% as tasty as a long-day mole in an hour; serves 4 with leftover mole."
+glance:
+  - label: "Serves"
+    value: "4, with leftover mole"
+  - label: "Time"
+    value: "Prep 30 min, cook 27 min, total 1 hr"
+  - label: "Mole"
+    value: "simmer about 20 minutes, then puree; keeps a few days in the refrigerator and freezes well"
+  - label: "Filling"
+    value: "diced mushrooms and zucchini in 12 corn tortillas"
+  - label: "Diet"
+    value: "Vegetarian; vegan if you omit the cheese"
 ---
 
 Mole (or, rather, moles, since there are many varieties) is <strong>shrouded in legend</strong>. The dried-chili based sauces, rich with chocolate, spices, herbs and nuts or seeds can contain up to 36 ingredients, each of which has to be individually ground and toasted over a period of days. Each family has its own secret recipe.

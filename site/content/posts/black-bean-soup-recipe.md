@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-27
 title: "Black Bean Soup Recipe - With Mild and Intense Variations"
 description: "Black bean soup recipe with mild and intense variations, a vegetarian take on the classic."
 date: 2009-12-17T06:55:00
@@ -36,7 +37,36 @@ recipe:
     - "Return to the heat, and taste and adjust for texture and seasoning. It will almost certainly need salt unless you used pre-salted canned beans. You may also find you want more cumin or smoked paprika. Allow to simmer for at least 10-15 minutes for the flavors to develop and marry."
     - "Meanwile, make the salsa. Do this as close to serving time as possible, or at least reserve the cilantro separately, as it dies quickly. Cut the oranges into supremes and combine with the red onion, jalapeno, cilantro, and a healthy pinch of salt. Taste and adjust seasoning."
     - "To serve, ladle the soup into bowls and either garnish with the salsa and some cream, or pass them separately."
+summary: "Black bean soup with optional orange-jalapeno salsa: beans simmered with bay, sauteed onion, bell pepper, garlic, oregano, cumin and smoked paprika, lightly pureed to about 75% and simmered at least 10-15 minutes; serves 6."
+glance:
+  - label: "Serves"
+    value: "6"
+  - label: "Beans"
+    value: "6 cups cooked black beans (reserve the cooking liquid)"
+  - label: "Simmer"
+    value: "at least 10-15 minutes after pureeing"
+  - label: "Diet"
+    value: "Vegetarian and gluten-free; vegan if you omit the sour cream"
 ---
   <p>Years ago I used to make a (supposedly Cuban) black bean soup that included a fair amount of orange juice. I have no idea how authentic that is; I think the recipe came from the Moosewood cookbook so it may well have been <strong>hippified</strong>. As far as I can remember, it tasted pretty good.</p>  <p>I was struck by the urge to make that soup again, but I knew that flavor profile wasn&#39;t going to work for the rest of my family. So I decided to make a straight-ahead bean soup with mild but complementary flavors that everyone would like, and then offer a very flavorful <strong>orange and jalapeno salsa</strong> for those who wanted it. You could also offer grated cheddar for those who would prefer to think of it as <a href="/2009/04/vegetarian-chili-recipe/" target="_blank">vegetarian chili</a>.</p>  <p>For me, I liked the contrast with the orange salsa. The soup was perfectly comforting for a <strong>cold, rainy Seattle night</strong>, and the salsa was a little reminder of warmer days ahead.</p>  <p>I find that home-cooked beans are far better than canned. They just seem to have more flavor and a better texture. Canned beans <strong>sure are convenient</strong> though, if you haven&#39;t thought ahead to soak and boil a batch. You can certainly do this with canned, just be sure and rinse them well. Or get a {{% product id="pressure-cooker" %}}pressure cooker{{% /product %}} and you can decide to make beans in the late afternoon and still have them beautifully cooked for dinner that night.</p>  <p>There are several ways to puree the soup. Always remove it from the heat first. If you have an {{% product id="immersion-blender" %}}immersion blender (aka stick blender){{% /product %}},&#0160; put it in the pot well below the surface and whiz a little bit at a time. Or use a potato/bean masher in the pot. </p><p>Or use a regular blender.&#0160; But you have to be very careful when using a blender with hot liquids. Never fill it more than half full. Always leave the vent open and use a doubled up dish towel to cover it. And always start on low speed. If you don&#39;t feel comfortable with this, please use the potato masher! I&#39;m not saying this just to cover my own butt - I&#39;ve seen some <strong>pretty scary (and very messy)</strong> incidents in professional kitchens when people didn&#39;t take these precautions. (Of course, always follow the manufacturer&#39;s safety recommendations when using any of these tools).</p>  <div class="recipe-card">
 <p><strong>Black Bean Soup with Optional Orange-Jalapeno Salsa</strong><br /><em>Vegetarian, vegan if you omit the sour cream, and gluten-free<br />Serves 6</em></p>  <ul> <li>6 cups cooked black beans (reserve cooking liquid if homemade)</li> <li>2 bay leaves</li> <li>3 tablespoons olive oil</li> <li>1 white onion, diced</li> <li>1 yellow bell pepper, diced</li> <li>4 cloves garlic, minced</li> <li>1 tablespoon dried oregano</li> <li>1 teaspoon dried cumin</li> <li>1 teaspoon or more {{% product id="smoked-paprika" %}}smoked paprika{{% /product %}} (optional, adds a bit of smokiness without much heat)</li> <li>6 mandarin oranges (or fewer, larger oranges)</li> <li>1/4 cup red onion, finely diced</li> <li>1 (or more) jalapeno pepper, thinly sliced</li> <li>1 handful cilantro leaves</li> <li>salt to taste</li> <li>Mexican crema or sour cream</li> </ul> <ol> <li>Heat the beans and bay leaves in a soup-sized pot, with not quite enough liquid to cover. If you boiled them at home and have the reserved cooking liquid, use that. If not, just use water and optionally add a little {{% product id="vegetarian-broth-powder" %}}vegetable broth powder{{% /product %}}. Bring to a simmer.</li> <li>In a skillet, heat the olive oil over medium high heat. Add the onion, bell pepper, and garlic and a big pinch of salt, and saute for 5 minutes until starting to brown. Add the oregano, cumin and {{% product id="smoked-paprika" %}}smoked paprika{{% /product %}} and cook for 1 more minute. Remove from heat.</li> <li>Pluck the bay leaves out of the beans. Stir the onion mixture into the simmering beans.</li> <li>Turn off the heat, and lightly puree the beans. See the discussion above for safe ways to do this. I like it about 75% pureed, with some significant texture left. </li> <li>Return to the heat, and taste and adjust for texture and seasoning. It will almost certainly need salt unless you used pre-salted canned beans. You may also find you want more cumin or {{% product id="smoked-paprika" %}}smoked paprika{{% /product %}}. Allow to simmer for at least 10-15 minutes for the flavors to develop and marry. </li> <li>Meanwile, make the salsa. Do this as close to serving time as possible, or at least reserve the cilantro separately, as it dies quickly. Cut the oranges into <a href="http://www.youtube.com/watch?v=xa-_O4vJqRw" rel="nofollow" target="_blank">supremes</a> and combine with the red onion, jalapeno, cilantro, and a healthy pinch of salt. Taste and adjust seasoning.</li> <li>To serve, ladle the soup into bowls and either garnish with the salsa and some cream, or pass them separately.</li> </ol>
+</div>
+
+<div class="faq"><h2>Frequently asked questions</h2>
+
+<h3>Are home-cooked beans better than canned?</h3>
+<p>The author finds them far better, with more flavor and better texture. Canned beans are convenient: rinse them well. A pressure cooker lets you decide in the late afternoon and still have beans for dinner.</p>
+
+<h3>How do you puree the soup safely?</h3>
+<p>Remove it from the heat first. Use an immersion blender well below the surface, whizzing a little at a time, or a potato/bean masher. With a regular blender, never fill it more than half, leave the vent open under a doubled dish towel and start on low speed.</p>
+
+<h3>How smooth should it be?</h3>
+<p>About 75% pureed, with some significant texture left.</p>
+
+<h3>What is the orange-jalapeno salsa?</h3>
+<p>An optional topping of mandarin oranges, finely diced red onion, jalapeno and cilantro for those who want a bold contrast. You can also offer grated cheddar for those who prefer to think of it as vegetarian chili.</p>
+
+<h3>Is this black bean soup vegan?</h3>
+<p>It is vegetarian, gluten-free and vegan if you omit the sour cream or crema.</p>
+
 </div>

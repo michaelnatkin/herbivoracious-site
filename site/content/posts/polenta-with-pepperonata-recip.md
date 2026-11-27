@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-11-27
 title: "Polenta with Peperonata - Recipe"
 description: "Polenta with peperonata: slow-roasted bell peppers stewed with sofrito and onions into a meltingly rich sauce."
 date: 2012-03-21T07:05:49
@@ -27,6 +28,16 @@ recipe:
     - "Meanwhile, while the peppers are roasting, make the sofrito. Puree the white onion and garlic in a blender. Put the olive oil in a large, non-reactive (i.e. not cast iron) skillet over medium heat. Don't use a non-stick pan. Fry the pureed onion, scraping the bottom of the pan frequently, until the water cooks off and the onion is well browned; lower the heat if needed to avoid any burning. Add the salt and tomato paste and cook, scraping frequently for about 10 more minutes, until the sofrito is fairly uniform and a dark rusty brown and turn off the heat."
     - "Add the onion, vinegar, peppers and reserved liquid from the peppers. Set the heat to medium low, and scrape the pan to loosen all those delicious brown bits into the sauce. Cook until the red onions are fully softened, about 15 minutes. You can add a small amount of water if needed."
     - "Just before serving stir in the black pepper and parsley. Taste and adjust seasoning. Serve over polenta, finishing with a bit more extra-virgin olive oil."
+summary: "Peperonata to serve over polenta: 8 bell peppers roasted about 40 minutes at 400°F, peeled and stewed with a \"cheater sofrito\" of pureed onion, garlic and tomato paste, red onion and sherry vinegar for about 15 minutes."
+glance:
+  - label: "Serves"
+    value: "4"
+  - label: "Peppers"
+    value: "8 bell peppers, roasted about 40 minutes at 400°F"
+  - label: "Sofrito"
+    value: "pureed onion and garlic browned, then tomato paste cooked about 10 minutes"
+  - label: "Diet"
+    value: "Vegetarian, gluten-free, kosher and optionally vegan"
 ---
 
 Peperonata is one of the most <strong>luscious</strong> things you can make from humble ingredients. First you slowly roast bell peppers, then stew them with sofrito and onions until you've got a meltingly rich sauce that goes anywhere from antipasto to panini, and it is phenomenal over polenta.
@@ -61,4 +72,26 @@ Serves 4
 	<li>Just before serving stir in the black pepper and parsley. Taste and adjust seasoning. Serve over polenta, finishing with a bit more extra-virgin olive oil.</li>
 </ol>
 </div>
+</div>
+
+<div class="faq"><h2>Frequently asked questions</h2>
+
+<h3>What is sofrito?</h3>
+<p>A long-cooked sauce of onions, garlic and tomatoes in Spain. The same basic method is used in many countries with variations; in Cuba it would have green bell peppers, and elsewhere in the Caribbean annatto and pork.</p>
+
+<h3>What is cheater sofrito?</h3>
+<p>This recipe's version uses tomato paste instead of whole tomatoes, which gives a huge head start on removing the liquid and getting browned flavors. You can double or quadruple the sofrito and freeze leftovers.</p>
+
+<h3>How do you roast the peppers?</h3>
+<p>Cut the tops and bottoms off, halve vertically, remove seeds and ribs, place cut-side down on a rimmed baking sheet at 400°F until well blistered, about 40 minutes. Cool in a covered bowl, peel, and tear into strips, saving all the liquid.</p>
+
+<h3>What pan should I use?</h3>
+<p>A large non-reactive skillet: not cast iron, and not non-stick.</p>
+
+<h3>How should I make the polenta?</h3>
+<p>The author likes the basic pressure cooker method from Hip Pressure Cooking, finished with plenty of grated Parmesan, milk and butter. A more traditional stovetop method also works.</p>
+
+<h3>Is peperonata vegan?</h3>
+<p>It is vegetarian, gluten-free, kosher and optionally vegan, depending on how you serve it.</p>
+
 </div>

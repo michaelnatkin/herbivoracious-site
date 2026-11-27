@@ -1,5 +1,5 @@
 ---
-lastmod: 2026-11-15
+lastmod: 2026-11-27
 title: "Eggplant and Okra Stew - Recipe"
 date: 2011-10-18T06:15:00
 slug: "eggplant-and-okra-stew-recipe"
@@ -34,6 +34,18 @@ recipe:
     - "In a 4 quart or larger pot, heat the vegetable oil over a medium-high flame. Saute the onion for 2 minutes, until becoming translucent. Add 1 teaspoon of Kosher salt, the garlic, 1 tablespoon of the freshly grated ginger, the coriander, cumin and chile flakes. Cook and stir for 1 more minute."
     - "Add the summer squash, okra, and the tomatoes with their juice. Break up the tomatoes. Bring to a simmer and then reduce heat to maintain. Cook for 15 minutes, until the vegetables are tender. Add the eggplant when it is ready. Taste and adjust salt and spices."
     - "Two minutes before you are ready to serve, add the corn kernels and the remaining tablespoon of fresh ginger. Divide into bowls over rice, finish with several grinds of black pepper and some torn or cut leaves of parsley and bring to the table immediately."
+summary: "West African-style eggplant and okra stew with ginger and black pepper: golf-ball-sized eggplants roasted about 30 minutes at 400°F, then added to okra, summer squash and tomatoes simmered 15 minutes, with corn and fresh ginger stirred in at the end."
+glance:
+  - label: "Serves"
+    value: "3-4"
+  - label: "Time"
+    value: "40 minutes"
+  - label: "Eggplant"
+    value: "8 very small (about 1 1/2 pounds total), roasted at 400°F about 30 minutes"
+  - label: "Serve over"
+    value: "rice"
+  - label: "Diet"
+    value: "Vegan and gluten-free"
 ---
 <p>This West African-style stew, redolent with ginger and black pepper, is great made with tiny eggplants, just a little bigger than a golf ball. You may find them at a farmer’s market in late summer, or at a store that specializes in Thai or Indian ingredients. Otherwise, use a regular globe eggplant and just cut it into bite-sized pieces.</p>
 <p>For a richer variation, you can mix ½ cup of unsweetened peanut butter or sunflower butter into the broth or add ½ cup of shelled, roasted peanuts. This version especially reminds of stews I used to eat at my favorite Nigerian restaurant in Providence, Rhode Island.</p>
@@ -69,4 +81,23 @@ recipe:
 <li>Add the summer squash, okra, and the tomatoes with their juice. Break up the tomatoes. Bring to a simmer and then reduce heat to maintain. Cook for 15 minutes, until the vegetables are tender. Add the eggplant when it is ready. Taste and adjust salt and spices.</li>
 <li>Two minutes before you are ready to serve, add the corn kernels and the remaining tablespoon of fresh ginger. Divide into bowls over rice, finish with several grinds of black pepper and some torn or cut leaves of parsley and bring to the table immediately.</li>
 </ol>
+</div>
+
+<div class="faq"><h2>Frequently asked questions</h2>
+
+<h3>What eggplant do you use for this stew?</h3>
+<p>Tiny eggplants just a bit bigger than a golf ball, which you may find at a farmer's market in late summer or a store that specializes in Thai or Indian ingredients. Otherwise use a regular globe eggplant cut into bite-sized pieces.</p>
+
+<h3>How do you cook the eggplant?</h3>
+<p>Prick each with a fork and roast on a sheet pan at 400 degrees until completely tender, about 30 minutes. Cut non-golf-ball eggplant into bite-sized pieces first.</p>
+
+<h3>How do I make the stew richer?</h3>
+<p>Mix 1/2 cup of unsweetened peanut butter or sunflower butter into the broth, or add 1/2 cup of shelled, roasted peanuts.</p>
+
+<h3>When do I add the corn and ginger?</h3>
+<p>Two minutes before serving, add the corn kernels and the remaining tablespoon of fresh ginger.</p>
+
+<h3>What do you serve with it?</h3>
+<p>Serve it over a bowl of rice for a satisfying one-dish meal.</p>
+
 </div>
